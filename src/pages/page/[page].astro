@@ -1,25 +1,37 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
-import FormattedDate from '../components/FormattedDate.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection } from 'astro:content';
 
-// Get all blog posts and sort by date descending (newest first)
-const allPosts = await getCollection('blog');
-const sortedPosts = allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+export async function getStaticPaths() {
+	const allPosts = await getCollection('blog');
+	const sortedPosts = allPosts.sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
-// Pagination configuration
-const POSTS_PER_PAGE = 15;
-const currentPage = 1; // This is always page 1 for index.astro
-const totalPosts = sortedPosts.length;
-const totalPages = Math.ceil(totalPosts / POSTS_PER_PAGE);
+	const POSTS_PER_PAGE = 15;
+	const totalPages = Math.ceil(sortedPosts.length / POSTS_PER_PAGE);
 
-// Get posts for current page
-const startIndex = (currentPage - 1) * POSTS_PER_PAGE;
-const endIndex = startIndex + POSTS_PER_PAGE;
-const paginatedPosts = sortedPosts.slice(startIndex, endIndex);
+	// Generate paths for pages 2 onwards (page 1 is at /)
+	const paths = [];
+	for (let i = 2; i <= totalPages; i++) {
+		const startIndex = (i - 1) * POSTS_PER_PAGE;
+		const endIndex = startIndex + POSTS_PER_PAGE;
+		paths.push({
+			params: { page: i.toString() },
+			props: {
+				posts: sortedPosts.slice(startIndex, endIndex),
+				currentPage: i,
+				totalPages,
+			},
+		});
+	}
+
+	return paths;
+}
+
+const { posts, currentPage, totalPages } = Astro.props;
 
 // Pagination URLs
 const prevUrl = currentPage > 1 ? (currentPage === 2 ? '/' : `/page/${currentPage - 1}`) : null;
@@ -29,7 +41,7 @@ const nextUrl = currentPage < totalPages ? `/page/${currentPage + 1}` : null;
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<BaseHead title={`${SITE_TITLE} - Page ${currentPage}`} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
 		<Header />
@@ -39,7 +51,7 @@ const nextUrl = currentPage < totalPages ? `/page/${currentPage + 1}` : null;
 				<p class="subtitle">Maritime and nautical stories from around the world</p>
 
 				<div class="post-list">
-					{paginatedPosts.map((post) => (
+					{posts.map((post) => (
 						<article class="post-preview">
 							<a href={`/${post.data.slug}/`} class="post-link">
 								{post.data.featuredImage && (

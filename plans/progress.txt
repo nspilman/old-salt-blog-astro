@@ -304,3 +304,48 @@ Each time Ralph completes a task, it will append notes here.
   - Sort posts by date descending (newest first)
   - Add prev/next pagination controls
 
+### Session 9 - 2026-02-01
+
+**Task Completed:** Task 9 - Create paginated blog index page
+
+**What was done:**
+- Replaced src/pages/index.astro with a complete paginated blog listing
+- Created src/pages/page/[page].astro for pagination pages 2+
+- Implemented pagination with 15 posts per page (within 10-20 requirement)
+- Features implemented:
+  - Homepage (page 1) shows first 15 posts
+  - All posts sorted by date descending (newest first)
+  - Each post preview shows:
+    - Featured image thumbnail (250px height, responsive)
+    - Post title (links to /{slug}/)
+    - Formatted date using FormattedDate component
+    - Excerpt text
+    - Category tags as styled pills
+  - Pagination controls with Previous/Next links
+  - Page indicator showing "Page X of Y"
+  - URLs: / for page 1, /page/2, /page/3, etc. for subsequent pages
+  - Proper pagination URL logic (page 2 links back to / not /page/1)
+- Styling:
+  - Clean card-based layout with hover effects
+  - Responsive design (mobile and desktop)
+  - Featured images with object-fit: cover
+  - Category tags styled as colored pills
+  - Mobile-friendly pagination (stacks vertically on mobile)
+  - 900px max width for readability
+- All acceptance criteria met:
+  - Homepage shows paginated post list ✓
+  - Posts sorted by date descending (newest first) ✓
+  - Each post shows title, date, excerpt, featured image ✓
+  - Pagination works with prev/next navigation ✓
+  - 15 posts per page (within 10-20 requirement) ✓
+- TypeScript type-checking passes
+- Tests pass (no tests defined yet)
+
+**Next recommended task:**
+- Task 10: Create category and tag archive pages
+  - Need to create /category/[slug].astro for category archives
+  - Need to create /tag/[slug].astro for tag archives
+  - List all posts in that category/tag
+  - Similar layout to main blog index but filtered
+  - Will enable the category/tag links we added to post pages and index to work
+
