@@ -27,3 +27,36 @@ Each time Ralph completes a task, it will append notes here.
   - Will need to handle pagination, rate limiting, and build lookup maps
   - Should be straightforward with the types already defined
 
+---
+
+### Session 2 - 2026-02-01
+
+**Task Completed:** Task 2 - Implement WordPress REST API fetchers
+
+**What was done:**
+- Created scripts/migrate/api.ts with full WordPress REST API fetching functionality
+- Implemented all required fetch functions:
+  - fetchPosts: Fetches all blog posts with pagination support
+  - fetchCategories: Fetches all categories with pagination
+  - fetchTags: Fetches all tags with pagination
+  - fetchMedia: Fetches all media items with pagination
+  - fetchUsers: Fetches all user information with pagination
+  - fetchPages: Fetches all pages with pagination
+- All fetch functions properly handle pagination using X-WP-TotalPages header
+- Implemented rate limiting with configurable delay between requests
+- Created buildLookupMaps function that creates Map<number, Entity> for easy ID lookups
+- Created fetchAllData orchestrator that:
+  - Fetches all data in parallel using Promise.all for efficiency
+  - Builds lookup maps from the fetched data
+  - Returns {posts, pages, lookups} structure
+- Added comprehensive console logging for progress tracking
+- Fixed TypeScript errors (variable shadowing with 'media', config property naming)
+- All acceptance criteria met, type-check passes
+
+**Next recommended task:**
+- Task 3: Implement HTML to Markdown converter (converter.ts)
+  - This depends on the types and will be used with the API data we can now fetch
+  - Need to use Turndown library for HTML to Markdown conversion
+  - Special handling needed for: images (keep WordPress URLs), YouTube/Vimeo iframes, <!--more--> tags
+  - Must generate proper YAML frontmatter for posts and pages
+

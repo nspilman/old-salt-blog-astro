@@ -51,7 +51,7 @@
         "fetchAllData orchestrates fetching everything and returns {posts, pages, lookups}",
         "Configurable delay between API requests for rate limiting"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 3,
