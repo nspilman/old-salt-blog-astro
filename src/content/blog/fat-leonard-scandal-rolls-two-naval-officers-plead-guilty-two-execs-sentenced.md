@@ -1,8 +1,8 @@
 ---
-title: "“Fat Leonard” Scandal Rolls On — Two Naval Officers Plead Guilty, Two Execs Sentenced"
+title: "\"Fat Leonard\" Scandal Rolls On — Two Naval Officers Plead Guilty, Two Execs Sentenced"
 date: 2017-08-23T09:00:08
-slug: fat-leonard-scandal-rolls-two-naval-officers-plead-guilty-two-execs-sentenced
-excerpt: "The “Fat Leonard” Navy bribery and corruption scandal just keeps rolling on. In September of 2013, Navy investigators arrested a 350 pound Malaysian businessman, Leonard Glenn Francis, who was CEO of Glenn Defense Marine Asia (GDMA), a contractor that provided port … Continue reading &rarr;"
+slug: "fat-leonard-scandal-rolls-two-naval-officers-plead-guilty-two-execs-sentenced"
+excerpt: "The \"Fat Leonard\" Navy bribery and corruption scandal just keeps rolling on. In September of 2013, Navy investigators arrested a 350 pound Malaysian businessman, Leonard Glenn Francis, who was CEO of Glenn Defense Marine Asia (GDMA), a contractor that provided port … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Fat Leonard"
   - "navy"
 author: "Rick Spilman"
-description: "The “Fat Leonard” Navy bribery and corruption scandal just keeps rolling on. In September of 2013, Navy investigators arrested a 350 pound Malaysian businessman, Leonard Glenn Francis, who was CEO of Glenn Defense Marine Asia (GDMA), a contractor that provided port … Continue reading &rarr;"
+description: "The \"Fat Leonard\" Navy bribery and corruption scandal just keeps rolling on. In September of 2013, Navy investigators arrested a 350 pound Malaysian businessman, Leonard Glenn Francis, who was CEO of Glenn Defense Marine Asia (GDMA), a contractor that provided port … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/fatleonard1.jpg)

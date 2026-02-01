@@ -1,7 +1,7 @@
 ---
 title: "Whale Ship Charles W. Morgan on the Move — Shifts to New London to Load Ballast"
 date: 2014-05-18T15:56:38
-slug: whale-ship-charles-w-morgan-on-the-move-shifts-to-new-london-to-load-ballast
+slug: "whale-ship-charles-w-morgan-on-the-move-shifts-to-new-london-to-load-ballast"
 excerpt: "The whaleship Charles W. Morgan left the dock at Mystic, CT for the first time since her arrival in 1941.  On Saturday, she was towed down the Mystic River into Long Island Sound and up the Thames River to City Pier in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

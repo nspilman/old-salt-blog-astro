@@ -1,7 +1,7 @@
 ---
 title: "Update: Navy Purchasing Scandal — Fat Leonard Cops A Plea"
 date: 2015-01-16T20:01:49
-slug: update-navy-purchasing-scandal-fat-leonard-cops-a-plea
+slug: "update-navy-purchasing-scandal-fat-leonard-cops-a-plea"
 excerpt: "In October 2013, we posted that a US Navy purchasing scandal sounded like a bad novel.  Bribes, prostitutes, and Lady Gaga tickets were allegedly handed out to US Navy officers by a Malaysian businessman in exchange for classified information and … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "USS Dwight D. Eisenhower — Three French Cops and a Unexpected Baby"
 date: 2017-01-05T09:38:44
-slug: three-french-cops-and-a-unexpected-baby
+slug: "three-french-cops-and-a-unexpected-baby"
 excerpt: "The aircraft carrier USS Dwight D. Eisenhower is big. Like other Nimitz class carriers, it is over 1000′ long on the waterline, wit a beam of 244′ and is powered by nuclear steam plant which develops a quarter of a … Continue reading &rarr;"
 categories:
   - "Current"

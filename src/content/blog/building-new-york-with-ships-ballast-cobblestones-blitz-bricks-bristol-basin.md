@@ -1,7 +1,7 @@
 ---
 title: "Building New York With Ships’ Ballast — Cobblestones, Blitz Bricks & Bristol Basin"
 date: 2014-02-13T19:26:50
-slug: building-new-york-with-ships-ballast-cobblestones-blitz-bricks-bristol-basin
+slug: "building-new-york-with-ships-ballast-cobblestones-blitz-bricks-bristol-basin"
 excerpt: "In the almost 6,000 miles of streets, roads and highways in the five boroughs of New York City, only about 15 miles are still paved with cobblestones. As noted by the New York Times: Starting in the 17th century, cobblestones … Continue reading &rarr;"
 categories:
   - "City of Ships"

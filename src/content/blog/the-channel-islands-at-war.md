@@ -1,7 +1,7 @@
 ---
 title: "The Channel Islands at War"
 date: 2010-06-23T09:06:31
-slug: the-channel-islands-at-war
+slug: "the-channel-islands-at-war"
 excerpt: "For those in the UK, the Yesterday Channel is beginning a new documentary series, The Channel Islands at War,  next week  on Monday 28th, Tuesday 29th and Wednesday 30th of June. The Channel Islands at War … Continue reading &rarr;"
 categories:
   - "Current"

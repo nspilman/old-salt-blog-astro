@@ -1,7 +1,7 @@
 ---
 title: "A Video for a Saturday Morning – Picton Castle Sailing Out the Anchor at Palmerston Island"
 date: 2013-04-20T07:32:47
-slug: a-video-for-a-saturday-morning-picton-castle-sailing-out-the-anchor-at-palmerston-island
+slug: "a-video-for-a-saturday-morning-picton-castle-sailing-out-the-anchor-at-palmerston-island"
 excerpt: "Remind me again why jobs, homes and careers are so important. After watching this video it is awfully easy to question one’s priorities. Here is the Barque Picton Castle sailing out the anchor at Palmerston Island in the Cook Islands in the South Pacific. Click here to … Continue reading &rarr;"
 categories:
   - "Current"

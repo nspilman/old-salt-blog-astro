@@ -1,8 +1,8 @@
 ---
 title: "Navy Charges Sailor With Arson in Fire That Destroyed USS Bonhomme Richard"
 date: 2021-07-30T08:26:32
-slug: navy-charges-sailor-with-arson-in-fire-that-destroyed-uss-bonhomme-richard
-excerpt: "Last August we posted “Did an Arsonist Torch the USS Bonhomme Richard?” The Navy has concluded that the answer is yes, as it has charged a seaman apprentice with deliberately starting a fire last year that destroyed the amphibious assault … Continue reading &rarr;"
+slug: "navy-charges-sailor-with-arson-in-fire-that-destroyed-uss-bonhomme-richard"
+excerpt: "Last August we posted \"Did an Arsonist Torch the USS Bonhomme Richard?\" The Navy has concluded that the answer is yes, as it has charged a seaman apprentice with deliberately starting a fire last year that destroyed the amphibious assault … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "court martial"
   - "fire"
 author: "Rick Spilman"
-description: "Last August we posted “Did an Arsonist Torch the USS Bonhomme Richard?” The Navy has concluded that the answer is yes, as it has charged a seaman apprentice with deliberately starting a fire last year that destroyed the amphibious assault … Continue reading &rarr;"
+description: "Last August we posted \"Did an Arsonist Torch the USS Bonhomme Richard?\" The Navy has concluded that the answer is yes, as it has charged a seaman apprentice with deliberately starting a fire last year that destroyed the amphibious assault … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/firebhr.jpg)Last August we posted “[Did an Arsonist Torch the USS Bonhomme Richard?](http://www.oldsaltblog.com/2020/08/did-an-arsonist-torch-the-uss-bonhomme-richard/)” The Navy has concluded that the answer is yes, as it has charged a seaman apprentice with deliberately starting a fire last year that destroyed the amphibious assault USS *Bonhomme Richard*, one of the worst blazes to engulf an American warship outside of combat.

@@ -1,8 +1,8 @@
 ---
 title: "The Summer of the Shark, Jersey Shore 1916"
 date: 2022-07-26T17:44:10
-slug: the-summer-of-the-shark-jersey-shore-1916
-excerpt: "Yesterday was the start of the Discovery Channel’s ever-popular Shark Week. Along the coast of Long Island, NY and the New Jersey Shore, we are well into what could be called “Shark Month” with multiple shark sightings.  Since the unofficial … Continue reading &rarr;"
+slug: "the-summer-of-the-shark-jersey-shore-1916"
+excerpt: "Yesterday was the start of the Discovery Channel’s ever-popular Shark Week. Along the coast of Long Island, NY and the New Jersey Shore, we are well into what could be called \"Shark Month\" with multiple shark sightings.  Since the unofficial … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Shark Week"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/07/sharknj.jpg"
 author: "Rick Spilman"
-description: "Yesterday was the start of the Discovery Channel’s ever-popular Shark Week. Along the coast of Long Island, NY and the New Jersey Shore, we are well into what could be called “Shark Month” with multiple shark sightings.  Since the unofficial … Continue reading &rarr;"
+description: "Yesterday was the start of the Discovery Channel’s ever-popular Shark Week. Along the coast of Long Island, NY and the New Jersey Shore, we are well into what could be called \"Shark Month\" with multiple shark sightings.  Since the unofficial … Continue reading &rarr;"
 ---
 
 ![sharknj](http://www.oldsaltblog.com/wp-content/uploads/2016/07/sharknj.jpg)

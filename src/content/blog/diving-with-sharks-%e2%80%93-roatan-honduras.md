@@ -1,7 +1,7 @@
 ---
 title: "Diving with Sharks – Roatan, Honduras"
 date: 2010-04-13T12:01:58
-slug: diving-with-sharks-%e2%80%93-roatan-honduras
+slug: "diving-with-sharks-%e2%80%93-roatan-honduras"
 excerpt: "My family and I got away to Roatan in the Bay Islands of Honduras for a week of  diving.  Here is a short clip of diving with Caribbean reef sharks. There were only three sharks, but that was enough to hold … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

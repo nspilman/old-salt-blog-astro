@@ -1,7 +1,7 @@
 ---
 title: "Marine Amphibious Assault Vehicle Sinks — 1 Dead, 8 Missing"
 date: 2020-08-01T16:00:43
-slug: marine-amphibious-assault-vehicle-sinks-1-dead-8-missing
+slug: "marine-amphibious-assault-vehicle-sinks-1-dead-8-missing"
 excerpt: "One Marine died and two were critically injured on Thursday off the coast of California when an amphibious assault vehicle (AAV) from the 15th Marine Expeditionary Unit took on water and sank rapidly. Seven Marines and one Navy sailor are … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

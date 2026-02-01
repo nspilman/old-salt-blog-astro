@@ -1,7 +1,7 @@
 ---
 title: "Update: Oli & Sylph VI, First Cat Across the Finish Line in 78th Sydney to Hobart Race"
 date: 2024-01-05T20:30:52
-slug: update-oli-sylph-vi-first-cat-across-the-finish-line-in-78th-sydney-to-hobart-race
+slug: "update-oli-sylph-vi-first-cat-across-the-finish-line-in-78th-sydney-to-hobart-race"
 excerpt: "We recently posted about Oli the cat, sailing with Captain Bob Williams and co-skipper  Chris Warren, on Sylph VI,  in the two-handed division of the 78th Rolex Sydney to Hobart Yacht Race.  Oli and his crew finished the race, begun on … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

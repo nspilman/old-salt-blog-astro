@@ -1,7 +1,7 @@
 ---
 title: "Wrecks of Dozens of Explosive-Laden Nazi Ships Exposed By Drought in Serbian Danube"
 date: 2022-08-21T17:07:19
-slug: wrecks-of-dozens-of-explosive-laden-nazi-ships-exposed-by-drought-in-serbian-danube
+slug: "wrecks-of-dozens-of-explosive-laden-nazi-ships-exposed-by-drought-in-serbian-danube"
 excerpt: "One of the worst droughts in European history has exposed a graveyard of sunken German warships filled with explosives and ammunition in the Serbian section of the Danube River. More than 20 hulks have emerged near the port town of … Continue reading &rarr;"
 categories:
   - "Current"

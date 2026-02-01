@@ -1,7 +1,7 @@
 ---
 title: "US Coast Guard: El Faro Believed to Have Sunk"
 date: 2015-10-05T10:43:37
-slug: el-faro-a-roro-not-a-container-ship-believed-to-have-sunk
+slug: "el-faro-a-roro-not-a-container-ship-believed-to-have-sunk"
 excerpt: "In a statement this morning, the US Coast Guard says that they believe that El Faro,  which disappeared last Thursday while blacked out in the path of Category 4 Hurricane Joaquin, has sunk. Coast Guard Capt. Mark Fedor said that they are now focusing on … Continue reading &rarr;"
 categories:
   - "Current"

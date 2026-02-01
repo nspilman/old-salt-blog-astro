@@ -1,7 +1,7 @@
 ---
 title: "In the Belly of the Beast – A look inside the SS United States"
 date: 2011-02-02T09:57:12
-slug: inside-the-belly-of-the-beast-a-look-inside-the-uss-united-states
+slug: "inside-the-belly-of-the-beast-a-look-inside-the-uss-united-states"
 excerpt: "Now that the SS United States Conservancy has acquired the S.S. United States, the next question is – what they are going to do with her?   Her interior was gutted in 1994 to remove considerable quantities of asbestos.   … Continue reading &rarr;"
 categories:
   - "Current"

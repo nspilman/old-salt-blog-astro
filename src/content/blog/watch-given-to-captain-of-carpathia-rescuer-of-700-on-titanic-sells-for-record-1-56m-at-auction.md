@@ -1,7 +1,7 @@
 ---
 title: "Watch Given to Captain of Carpathia, Rescuer of 700 on Titanic, Sells for Record £1.56M at Auction"
 date: 2024-11-18T21:45:59
-slug: watch-given-to-captain-of-carpathia-rescuer-of-700-on-titanic-sells-for-record-1-56m-at-auction
+slug: "watch-given-to-captain-of-carpathia-rescuer-of-700-on-titanic-sells-for-record-1-56m-at-auction"
 excerpt: "An interesting story from the Guardian. When the RMS Titanic struck an iceberg and sank on 15 April 1912, approximately 1,500 died. The RMS Carpathia, under the command of Captain Arthur Rostron, rescued 706 passengers and crew from the Titanic‘s lifeboats. A … Continue reading &rarr;"
 categories:
   - "Current"

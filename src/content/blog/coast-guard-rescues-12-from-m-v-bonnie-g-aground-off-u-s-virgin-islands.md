@@ -1,7 +1,7 @@
 ---
 title: "Coast Guard Rescues 12 From M/V Bonnie G, Aground off U.S. Virgin Islands"
 date: 2023-10-05T10:30:13
-slug: coast-guard-rescues-12-from-m-v-bonnie-g-aground-off-u-s-virgin-islands
+slug: "coast-guard-rescues-12-from-m-v-bonnie-g-aground-off-u-s-virgin-islands"
 excerpt: "Yesterday the USCG issued a press release: A Coast Guard boat crew rescued 12 people, Wednesday morning, after they were forced to abandon the M/V Bonnie G that was taking on water and ran aground just south of the airport … Continue reading &rarr;"
 categories:
   - "Current"

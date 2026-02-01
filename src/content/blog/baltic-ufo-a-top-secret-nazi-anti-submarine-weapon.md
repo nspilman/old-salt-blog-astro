@@ -1,7 +1,7 @@
 ---
-title: "Baltic “UFO” a Top-Secret Nazi Anti-Submarine Weapon?"
+title: "Baltic \"UFO\" a Top-Secret Nazi Anti-Submarine Weapon?"
 date: 2012-07-13T19:46:06
-slug: baltic-ufo-a-top-secret-nazi-anti-submarine-weapon
+slug: "baltic-ufo-a-top-secret-nazi-anti-submarine-weapon"
 excerpt: "This story just keeps getting stranger.  A year ago last June, the Swedish treasure hunters, Ocean X Team, saw something that they did not understand while doing sonar sweeps of the bottom of the Baltic Sea.   There appeared to be a 200′ diameter … Continue reading &rarr;"
 categories:
   - "Current"
@@ -9,7 +9,7 @@ categories:
 tags:
   - "Anders Autellus"
   - "Anti-Submarine Weapon"
-  - "Baltic "UFO""
+  - "Baltic \"UFO\""
   - "Nazi"
   - "Ocean X Team"
   - "Swedish treasure hunters"

@@ -1,7 +1,7 @@
 ---
 title: "Found: $500k Emerald Ring from the Nuestra Señora de Atocha"
 date: 2011-06-27T11:16:03
-slug: found-500k-emerald-ring-from-the-nuestra-senora-de-atocha
+slug: "found-500k-emerald-ring-from-the-nuestra-senora-de-atocha"
 excerpt: "Last week, divers from Mel Fisher’s Treasures found an emerald ring, valued at $500 thousand dollars, believed to be from the wreck of the 1662 wreck of the Spanish treasure ship, Nuestra Señora de Atocha, which sank in 1662. If anyone thinks of … Continue reading &rarr;"
 categories:
   - "Current"

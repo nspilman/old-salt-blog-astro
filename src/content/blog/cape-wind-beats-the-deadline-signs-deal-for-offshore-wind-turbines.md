@@ -1,7 +1,7 @@
 ---
 title: "Cape Wind Beats the Deadline —  Signs Deal for Offshore Wind Turbines"
 date: 2013-12-31T16:49:40
-slug: cape-wind-beats-the-deadline-signs-deal-for-offshore-wind-turbines
+slug: "cape-wind-beats-the-deadline-signs-deal-for-offshore-wind-turbines"
 excerpt: "In the list of the world’s 25 largest operating offshore wind farms, 11 are based off the United Kingdom. Denmark has five; China three; Belgium and the Netherlands each have two, while Germany and Sweden each have one.  Don’t look for … Continue reading &rarr;"
 categories:
   - "Current"

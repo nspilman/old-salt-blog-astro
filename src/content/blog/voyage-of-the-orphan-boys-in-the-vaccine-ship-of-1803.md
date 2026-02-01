@@ -1,7 +1,7 @@
 ---
 title: "Voyage of the Orphan Boys in the Vaccine Ship of 1803"
 date: 2020-12-13T16:29:44
-slug: voyage-of-the-orphan-boys-in-the-vaccine-ship-of-1803
+slug: "voyage-of-the-orphan-boys-in-the-vaccine-ship-of-1803"
 excerpt: "Today, the first doses of the Pfizer-BioNTech Covid-19 vaccine have begun to be distributed in the United States. It seems like a good time to look back at the voyage of the orphan boys in the vaccine ship that sailed … Continue reading &rarr;"
 categories:
   - "History"

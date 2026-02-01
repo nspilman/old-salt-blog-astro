@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ship Insignia Rescues 68 Migrants Adrift off the Spanish Canary Islands"
 date: 2024-06-22T16:28:18
-slug: cruise-ship-insignia-rescues-68-migrants-adrift-off-the-spanish-canary-islands
+slug: "cruise-ship-insignia-rescues-68-migrants-adrift-off-the-spanish-canary-islands"
 excerpt: "The cruise ship Insignia rescued 68 migrants adrift off the Spanish Canary Islands on Wednesday, Spain’s maritime rescue agency said in a statement on X.  The bulk carrier Philipp Oldendorff spotted the migrant boat adrift roughly 440 nautical miles, or … Continue reading &rarr;"
 categories:
   - "Current"

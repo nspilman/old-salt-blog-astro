@@ -1,7 +1,7 @@
 ---
 title: "Shell’s Arctic Troubles Continues — Icebreaker Fennica Sent South for Repairs"
 date: 2015-07-15T08:40:57
-slug: shells-arctic-troubles-continues-icebreaker-fennica-sent-south-for-repairs
+slug: "shells-arctic-troubles-continues-icebreaker-fennica-sent-south-for-repairs"
 excerpt: "In 2012, Shell’s attempt to drill in the Chukchi Sea in the Alaska’s Arctic proved to be an expensive and dangerous farce, featuring groundings, equipment failures, explosions and citations for safety violations. Returning two years later with an flotilla of 29 ships, Shell’s … Continue reading &rarr;"
 categories:
   - "Current"

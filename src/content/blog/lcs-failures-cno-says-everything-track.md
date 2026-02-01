@@ -1,7 +1,7 @@
 ---
-title: "More LCS Failures but CNO Says “Everything on Track”"
+title: "More LCS Failures but CNO Says \"Everything on Track\""
 date: 2016-09-23T12:42:25
-slug: lcs-failures-cno-says-everything-track
+slug: "lcs-failures-cno-says-everything-track"
 excerpt: "Recently, the USS Montgomery, an Independence Class Littoral Combat Ship (LCS), established a new record. The ship broke down, suffering two unrelated engine failures only three days after being commissioned.  The previous record had been set by the USS Milwaukee, a … Continue reading &rarr;"
 categories:
   - "Current"

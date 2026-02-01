@@ -1,7 +1,7 @@
 ---
 title: "Collapse of Malta’s Azure Window"
 date: 2017-03-11T09:02:02
-slug: collapse-of-maltas-azure-window
+slug: "collapse-of-maltas-azure-window"
 excerpt: "The Azure Window is no more. The iconic limestone arch on the island of Gozo in Malta was destroyed in a winter storm on March 8th. The 92′ high arch, a product of the erosion and collapse of two sea caves, … Continue reading &rarr;"
 categories:
   - "Current"

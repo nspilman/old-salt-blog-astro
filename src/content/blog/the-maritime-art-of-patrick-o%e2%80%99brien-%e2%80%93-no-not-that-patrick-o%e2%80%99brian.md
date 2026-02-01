@@ -1,7 +1,7 @@
 ---
 title: "The Maritime Art of Patrick O’Brien – No, not that Patrick O’Brian"
 date: 2010-03-14T08:41:00
-slug: the-maritime-art-of-patrick-o%e2%80%99brien-%e2%80%93-no-not-that-patrick-o%e2%80%99brian
+slug: "the-maritime-art-of-patrick-o%e2%80%99brien-%e2%80%93-no-not-that-patrick-o%e2%80%99brian"
 excerpt: "The U.S. Naval Academy Museum will be hosting a large exhibition of paintings by Patrick O’Brien through April 30th.  No, not that Patrick O’Brian, Patrick O’Brien the  Baltimore based maritime artist.   The Annapolis Marine Art Gallery will be hosting … Continue reading &rarr;"
 categories:
   - "Galleries"

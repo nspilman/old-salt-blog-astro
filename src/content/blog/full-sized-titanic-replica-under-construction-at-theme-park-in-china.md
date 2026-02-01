@@ -1,8 +1,8 @@
 ---
 title: "Full Sized Titanic Replica Under Construction at Theme Park in China"
 date: 2021-08-12T17:08:20
-slug: full-sized-titanic-replica-under-construction-at-theme-park-in-china
-excerpt: "Five years ago we posted about the beginning of the construction of “A Close to Unsinkable Titanic in China’s Sichuan Province.” Construction began on November 30th, 2016 in Suining, Sichuan province, China, 745 miles from the sea. The full-sized replica … Continue reading &rarr;"
+slug: "full-sized-titanic-replica-under-construction-at-theme-park-in-china"
+excerpt: "Five years ago we posted about the beginning of the construction of \"A Close to Unsinkable Titanic in China’s Sichuan Province.\" Construction began on November 30th, 2016 in Suining, Sichuan province, China, 745 miles from the sea. The full-sized replica … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Titanic"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/chinese-titanic.jpg"
 author: "Rick Spilman"
-description: "Five years ago we posted about the beginning of the construction of “A Close to Unsinkable Titanic in China’s Sichuan Province.” Construction began on November 30th, 2016 in Suining, Sichuan province, China, 745 miles from the sea. The full-sized replica … Continue reading &rarr;"
+description: "Five years ago we posted about the beginning of the construction of \"A Close to Unsinkable Titanic in China’s Sichuan Province.\" Construction began on November 30th, 2016 in Suining, Sichuan province, China, 745 miles from the sea. The full-sized replica … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/chinese-titanic.jpg)Five years ago we posted about the beginning of the construction of “[A Close to Unsinkable Titanic in China’s Sichuan Province.](http://www.oldsaltblog.com/2016/12/close-unsinkable-titanic-chinas-sichuan-province/)” Construction began on November 30th, 2016 in Suining, Sichuan province, China, 745 miles from the sea. The full-sized replica will be a fixed attraction, rather than a ship, as a part of Star Energy Investment Group’s plans for a tourist resort called [Romandisea](https://www.facebook.com/RomandiseaTitanic/), along the Qijiang River in Sichuan’s Daying County.

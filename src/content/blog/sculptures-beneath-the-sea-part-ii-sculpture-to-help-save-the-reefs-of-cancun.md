@@ -1,7 +1,7 @@
 ---
 title: "Sculptures Beneath the Sea : Part II – Sculpture to Help Save the Reefs of Cancun"
 date: 2012-09-09T14:12:18
-slug: sculptures-beneath-the-sea-part-ii-sculpture-to-help-save-the-reefs-of-cancun
+slug: "sculptures-beneath-the-sea-part-ii-sculpture-to-help-save-the-reefs-of-cancun"
 excerpt: "Snorkelers and divers swimming south of Isla Mujeres and off Punta Nizuc off Cancun will now find themselves in a monumental underwater sculpture garden of life-sized human statues rising up from the sandy bottom in crystal tropical clear waters.  The 450 … Continue reading &rarr;"
 categories:
   - "Current"

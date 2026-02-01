@@ -1,7 +1,7 @@
 ---
 title: "Fair-well to the Otto Hahn"
 date: 2010-02-19T08:13:07
-slug: fair-well-to-the-otto-hahn
+slug: "fair-well-to-the-otto-hahn"
 excerpt: "Nuclear power as a propulsion system for merchant ships was the future that never arrived.  The Otto Hahn was the second of only four nuclear powered commercial cargo ships ever built.   The first was the NS Savannah, which operated between 1962 … Continue reading &rarr;"
 categories:
   - "Current"

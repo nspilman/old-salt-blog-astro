@@ -1,7 +1,7 @@
 ---
 title: "Groups from Mare Island and Port Royal Still Trying to Save USS Olympia"
 date: 2013-07-10T19:24:56
-slug: groups-from-mare-island-and-port-royal-still-trying-to-save-uss-olympia
+slug: "groups-from-mare-island-and-port-royal-still-trying-to-save-uss-olympia"
 excerpt: "Two groups on opposite coasts of the United States are frantically working to save the 1895 built, SS Olympia, Admiral Dewey’s flagship in the Battle of Manila Bay and the last, just barely, surviving war ship from the Spanish-American War. The Mare … Continue reading &rarr;"
 categories:
   - "Current"

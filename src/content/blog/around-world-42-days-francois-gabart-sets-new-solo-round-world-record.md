@@ -1,7 +1,7 @@
 ---
 title: "Around the World in 42 Days — Francois Gabart Sets New Solo Round the World Record"
 date: 2017-12-18T19:00:15
-slug: around-world-42-days-francois-gabart-sets-new-solo-round-world-record
+slug: "around-world-42-days-francois-gabart-sets-new-solo-round-world-record"
 excerpt: "Congratulations to Francois Gabart who just set a new record for sailing around the world single-handed. The 34-year old Gabart sailed his 30 meter (98 foot) long MACIF maxi-trimaran around the globe alone in a remarkable 42 days, 16 hours, 40 minutes … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Scientists Decoding Sperm Whale Language, Appears Closer to Human Communication Than Realized"
 date: 2024-06-20T19:45:47
-slug: scientists-decoding-sperm-whale-language-appears-closer-to-human-communication-than-realized
-excerpt: "Recently, researchers have used machine learning to decode a “sperm whale phonetic alphabet,” revealing sophisticated structures in sperm whale communication akin to human phonetics and communication systems in other animal species.  For centuries, sailors have heard the sounds made by … Continue reading &rarr;"
+slug: "scientists-decoding-sperm-whale-language-appears-closer-to-human-communication-than-realized"
+excerpt: "Recently, researchers have used machine learning to decode a \"sperm whale phonetic alphabet,\" revealing sophisticated structures in sperm whale communication akin to human phonetics and communication systems in other animal species.  For centuries, sailors have heard the sounds made by … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "sperm whale phonetic alphabet"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/spermwhalesaplpha.jpg"
 author: "Rick Spilman"
-description: "Recently, researchers have used machine learning to decode a “sperm whale phonetic alphabet,” revealing sophisticated structures in sperm whale communication akin to human phonetics and communication systems in other animal species.  For centuries, sailors have heard the sounds made by … Continue reading &rarr;"
+description: "Recently, researchers have used machine learning to decode a \"sperm whale phonetic alphabet,\" revealing sophisticated structures in sperm whale communication akin to human phonetics and communication systems in other animal species.  For centuries, sailors have heard the sounds made by … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/spermwhalesaplpha.jpg)

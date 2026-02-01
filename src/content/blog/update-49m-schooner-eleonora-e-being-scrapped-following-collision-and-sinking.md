@@ -1,7 +1,7 @@
 ---
 title: "Update: 49m Schooner Eleonora E Being Scrapped Following Collision and Sinking"
 date: 2023-03-02T15:52:29
-slug: update-49m-schooner-eleonora-e-being-scrapped-following-collision-and-sinking
+slug: "update-49m-schooner-eleonora-e-being-scrapped-following-collision-and-sinking"
 excerpt: "Sad news. The Eleonora E is being scrapped. Last June, we posted that the classic 49m schooner was struck by a 60m long search and rescue vessel in Port Tárraco, Tarragona, Spain, and subsequently sank. The search and rescue vessel … Continue reading &rarr;"
 categories:
   - "Current"

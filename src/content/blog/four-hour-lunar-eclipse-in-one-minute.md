@@ -1,7 +1,7 @@
 ---
 title: "Four Hour Lunar Eclipse in One Minute"
 date: 2015-04-04T16:44:18
-slug: four-hour-lunar-eclipse-in-one-minute
+slug: "four-hour-lunar-eclipse-in-one-minute"
 excerpt: "In case you missed the lunar eclipse early this morning, visible from 2AM to 6:30AM Pacific time, here is the four hour eclipse in one minute,courtesy of the Los Angeles’ Griffith Observatory. Thanks to Phil Leon for passing it along. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

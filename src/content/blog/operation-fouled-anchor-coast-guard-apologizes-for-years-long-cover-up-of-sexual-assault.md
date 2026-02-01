@@ -1,7 +1,7 @@
 ---
 title: "Operation Fouled Anchor — Coast Guard Apologizes for Years-Long Cover Up of Sexual Assault"
 date: 2023-07-02T09:21:41
-slug: operation-fouled-anchor-coast-guard-apologizes-for-years-long-cover-up-of-sexual-assault
+slug: "operation-fouled-anchor-coast-guard-apologizes-for-years-long-cover-up-of-sexual-assault"
 excerpt: "CNN reports that a secret investigation into alleged sexual abuse at the US Coast Guard Academy uncovered a dark history of rapes, assaults, and other serious misconduct being ignored and, at times, covered up by high-ranking officials. The findings of … Continue reading &rarr;"
 categories:
   - "Current"

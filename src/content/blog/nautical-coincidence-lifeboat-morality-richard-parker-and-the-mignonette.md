@@ -1,8 +1,8 @@
 ---
 title: "Nautical Coincidence & Lifeboat Morality – Richard Parker and the Mignonette"
 date: 2012-07-19T08:58:29
-slug: nautical-coincidence-lifeboat-morality-richard-parker-and-the-mignonette
-excerpt: "We recently posted in response to a video, “The Strangest Coincidence Ever Recorded?.”  It recounted how three men named Hugh Williams were each the only survivors of shipwrecks in the treacherousness Menai Straits off North Wales. More remarkably, two of the Hugh Williams escaped from shipwrecks on … Continue reading &rarr;"
+slug: "nautical-coincidence-lifeboat-morality-richard-parker-and-the-mignonette"
+excerpt: "We recently posted in response to a video, \"The Strangest Coincidence Ever Recorded?.\"  It recounted how three men named Hugh Williams were each the only survivors of shipwrecks in the treacherousness Menai Straits off North Wales. More remarkably, two of the Hugh Williams escaped from shipwrecks on … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -14,7 +14,7 @@ tags:
   - "The Narrative of Arthur Gordon Pym of Nantucket"
   - "Yann Martel"
 author: "Rick Spilman"
-description: "We recently posted in response to a video, “The Strangest Coincidence Ever Recorded?.”  It recounted how three men named Hugh Williams were each the only survivors of shipwrecks in the treacherousness Menai Straits off North Wales. More remarkably, two of the Hugh Williams escaped from shipwrecks on … Continue reading &rarr;"
+description: "We recently posted in response to a video, \"The Strangest Coincidence Ever Recorded?.\"  It recounted how three men named Hugh Williams were each the only survivors of shipwrecks in the treacherousness Menai Straits off North Wales. More remarkably, two of the Hugh Williams escaped from shipwrecks on … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/mignonette_lifeboat.jpg)

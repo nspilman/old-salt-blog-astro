@@ -1,8 +1,8 @@
 ---
-title: "Santo Cristo de Burgos — Legendary “Beeswax” Shipwreck Found On Oregon Coast"
+title: "Santo Cristo de Burgos — Legendary \"Beeswax\" Shipwreck Found On Oregon Coast"
 date: 2022-06-18T10:29:45
-slug: santo-cristo-de-burgos-legendary-beeswax-shipwreck-found-on-oregon-coast
-excerpt: "In 2010, we posted about the mystery of the “beeswax ship,” the wreck of a Spanish galleon that left shards of Chinese pottery and blocks of beeswax in the sand of an Oregon beach. Now, National Geographic reports that timbers … Continue reading &rarr;"
+slug: "santo-cristo-de-burgos-legendary-beeswax-shipwreck-found-on-oregon-coast"
+excerpt: "In 2010, we posted about the mystery of the \"beeswax ship,\" the wreck of a Spanish galleon that left shards of Chinese pottery and blocks of beeswax in the sand of an Oregon beach. Now, National Geographic reports that timbers … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -16,7 +16,7 @@ tags:
   - "Spanish galleon"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/galleon.jpg"
 author: "Rick Spilman"
-description: "In 2010, we posted about the mystery of the “beeswax ship,” the wreck of a Spanish galleon that left shards of Chinese pottery and blocks of beeswax in the sand of an Oregon beach. Now, National Geographic reports that timbers … Continue reading &rarr;"
+description: "In 2010, we posted about the mystery of the \"beeswax ship,\" the wreck of a Spanish galleon that left shards of Chinese pottery and blocks of beeswax in the sand of an Oregon beach. Now, National Geographic reports that timbers … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/galleon.jpg)In 2010, we posted about the [mystery of the “beeswax ship,”](https://www.oldsaltblog.com/2010/05/the-mystery-of-the-beeswax-ship/) the wreck of a Spanish galleon that left shards of Chinese pottery and blocks of beeswax in the sand of an Oregon beach. Now, [National Geographic](https://www.nationalgeographic.com/history/article/legendary-spanish-galleon-shipwreck-discovered-on-oregon-coast?cmpid=int_org=ngp::int_mc=website::int_src=ngp::int_cmp=amp::int_add=amp_readtherest) reports that timbers from the ship believed to be the 17th-century galleon [*Santo Cristo de Burgos*](https://www.oregonencyclopedia.org/articles/manila-galleon-wreck-on-the-oregon-coast/#.Yq2rS3bMJPZ) have been discovered in sea caves on the Oregon coast this week. The ship, sailing from the Philippines to Mexico in 1693 was lost when it veered off course and vanished. Its cargo included costly [Chinese silk, porcelain, and blocks of beeswax](https://en.wikipedia.org/wiki/Beeswax_wreck) for making candles.

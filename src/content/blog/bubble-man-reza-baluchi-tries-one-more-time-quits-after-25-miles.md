@@ -1,7 +1,7 @@
 ---
-title: "“Bubble Man” Reza Baluchi Tries One More Time, Quits After 25 Miles"
+title: "\"Bubble Man\" Reza Baluchi Tries One More Time, Quits After 25 Miles"
 date: 2021-07-29T10:25:31
-slug: bubble-man-reza-baluchi-tries-one-more-time-quits-after-25-miles
+slug: "bubble-man-reza-baluchi-tries-one-more-time-quits-after-25-miles"
 excerpt: "For almost a decade, Reza Baluchi has been trying to run across oceans in his hydro pod, a homemade bubble contraption with a metal frame that looks and is intended to function as a human hamster wheel. As reported by … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

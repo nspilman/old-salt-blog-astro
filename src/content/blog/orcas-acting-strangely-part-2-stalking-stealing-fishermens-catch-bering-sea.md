@@ -1,7 +1,7 @@
 ---
 title: "Orcas Acting Strangely, Part 2 — Stalking and Stealing Fishermen’s Catch in the Bering Sea"
 date: 2017-07-19T09:31:39
-slug: orcas-acting-strangely-part-2-stalking-stealing-fishermens-catch-bering-sea
+slug: "orcas-acting-strangely-part-2-stalking-stealing-fishermens-catch-bering-sea"
 excerpt: "Since at least the 1960s there have been reports of orcas, also known as killer whales, stealing fish, particularly halibut, caught by fishing boats operating in the Bering Sea. Recently, the problem seems to be getting much worse. The Alaska Dispatch … Continue reading &rarr;"
 categories:
   - "Current"

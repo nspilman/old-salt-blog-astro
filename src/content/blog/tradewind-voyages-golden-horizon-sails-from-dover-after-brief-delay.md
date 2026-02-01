@@ -1,7 +1,7 @@
 ---
 title: "Tradewind Voyages Golden Horizon Sails From Dover After Brief Delay"
 date: 2021-07-20T09:31:35
-slug: tradewind-voyages-golden-horizon-sails-from-dover-after-brief-delay
+slug: "tradewind-voyages-golden-horizon-sails-from-dover-after-brief-delay"
 excerpt: "Tradewind Voyages Golden Horizon has recently embarked on her maiden voyage, after a brief delay. As she set sail on a four-day voyage from Dover, UK, the ship was forced to turn around due to a financial dispute between the … Continue reading &rarr;"
 categories:
   - "Current"

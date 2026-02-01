@@ -1,7 +1,7 @@
 ---
 title: "Cocaine Worth $1 Million Swept Ashore in Florida Keys by Hurricane Debby"
 date: 2024-08-07T17:43:06
-slug: cocaine-worth-1-million-swept-ashore-in-florida-keys-by-hurricane-debby
+slug: "cocaine-worth-1-million-swept-ashore-in-florida-keys-by-hurricane-debby"
 excerpt: "Hurricane Debby brought high winds and storm surge as it traveled up and ultimately came ashore on the Gulf Coast of Florida. It also washed packages of cocaine worth more than $1 million ashore in Islamorada in the Florida Keys, … Continue reading &rarr;"
 categories:
   - "Current"

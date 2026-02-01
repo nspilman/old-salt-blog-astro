@@ -1,7 +1,7 @@
 ---
 title: "Black History Month: Gladys West — Pioneer of GPS Technology"
 date: 2021-02-25T10:12:47
-slug: black-history-month-gladys-west-pioneer-of-gps-technology
+slug: "black-history-month-gladys-west-pioneer-of-gps-technology"
 excerpt: "From maps to apps to chartplotters, we all rely on GPS these days, sometimes whether we realize it or not.  Ethan Siegel recently wrote in Forbes: Unbeknownst to most people, however, the science underlying this technology was primarily developed by … Continue reading &rarr;"
 categories:
   - "Current"

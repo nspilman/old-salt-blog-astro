@@ -1,7 +1,7 @@
 ---
 title: "Tug & Barge — a New York Harbor Love Story"
 date: 2018-04-27T17:32:05
-slug: tug-barge-a-new-york-harbor-love-story
+slug: "tug-barge-a-new-york-harbor-love-story"
 excerpt: "Here is a short and beautiful video to end the week. The video by Paul Demonte features two historic vessels in New York harbor — the 1907 built tug Pegasus and the Hudson River railroad barge, Lehigh Valley No. 79, … Continue reading &rarr;"
 categories:
   - "Current"

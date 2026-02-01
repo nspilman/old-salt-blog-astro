@@ -1,7 +1,7 @@
 ---
 title: "Navy Wants to Retire First Four, Still Almost New, Littoral Combat Ships"
 date: 2020-02-12T19:08:46
-slug: navy-wants-to-retire-first-four-still-almost-new-littoral-combat-ships
+slug: "navy-wants-to-retire-first-four-still-almost-new-littoral-combat-ships"
 excerpt: "In its recent budget proposal, the Navy announced its intention to retire the first four Littoral Combat Ships (LCS)  — the USS Freedom, USS Independence,  USS Fort Worth, and USS Coronado — which range in age from twelve to only … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

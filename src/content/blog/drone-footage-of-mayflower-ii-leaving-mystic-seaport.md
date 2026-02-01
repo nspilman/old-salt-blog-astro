@@ -1,7 +1,7 @@
 ---
 title: "Drone Footage of Mayflower II Leaving Mystic Seaport"
 date: 2020-07-22T15:25:32
-slug: drone-footage-of-mayflower-ii-leaving-mystic-seaport
+slug: "drone-footage-of-mayflower-ii-leaving-mystic-seaport"
 excerpt: "On Monday we posted about the Mayflower II leaving Mystic Seaport for sea trials in New London. Here is wonderful drone footage shot by Ryan Smith of the ship’s departure. Mayflower II departs Mystic Seaport! … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

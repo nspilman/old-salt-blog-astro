@@ -1,7 +1,7 @@
 ---
 title: "Happy New Year – New York & Key West Style: Crystal Ball, Conch Shell, Pirate Wench & Drag Queen"
 date: 2010-12-31T16:15:25
-slug: happy-new-year-new-york-key-west-style-crystal-ball-conch-shell-pirate-wench-drag-queen
+slug: "happy-new-year-new-york-key-west-style-crystal-ball-conch-shell-pirate-wench-drag-queen"
 excerpt: "In New York City tonight, just on the other side of the Hudson River from where I am now typing, roughly one million people gather  in Times Square to watch a crystal ball being dropped on exactly midnight to celebrate the … Continue reading &rarr;"
 categories:
   - "Current"

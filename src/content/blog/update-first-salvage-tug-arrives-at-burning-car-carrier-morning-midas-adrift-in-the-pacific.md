@@ -1,7 +1,7 @@
 ---
 title: "Update: First Salvage Tug Arrives at Burning Car Carrier Morning Midas Adrift in the Pacific"
 date: 2025-06-11T21:29:46
-slug: update-first-salvage-tug-arrives-at-burning-car-carrier-morning-midas-adrift-in-the-pacific
+slug: "update-first-salvage-tug-arrives-at-burning-car-carrier-morning-midas-adrift-in-the-pacific"
 excerpt: "The car carrier Morning Midas, adrift off the coast of Alaska, is still burning, with the first salvage tug arriving at the scene on Monday, as reported by Splash. The tug Gretchen Dunlap arrived Monday afternoon with salvage personnel and has … Continue reading &rarr;"
 categories:
   - "Current"

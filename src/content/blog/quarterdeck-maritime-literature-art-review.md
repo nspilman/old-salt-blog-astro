@@ -1,7 +1,7 @@
 ---
 title: "Quarterdeck, Maritime Literature & Art Review"
 date: 2020-01-09T17:21:51
-slug: quarterdeck-maritime-literature-art-review
+slug: "quarterdeck-maritime-literature-art-review"
 excerpt: "The Winter 2020 edition of Quarterdeck, hosted by McBooks, is out. If you like nautical fiction, the quarterly e-journal edited by George Jepson is a treasure. The Winter 2020 edition features an interview with Alaric Bond and a review of … Continue reading &rarr;"
 categories:
   - "Current"

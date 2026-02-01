@@ -1,7 +1,7 @@
 ---
 title: "King’s Point Summerwind Wins Chesapeake Bay Great Schooner Race"
 date: 2010-10-18T09:59:27
-slug: kings-point-summerwind-wins-chesapeake-bay-great-schooner-race
+slug: "kings-point-summerwind-wins-chesapeake-bay-great-schooner-race"
 excerpt: "The  Summerwind, a 1929 Alden schooner, donated to the US Merchant Marine Academy at Kings Point just last year by Mr. and Mrs. J. Don Williamson,  won the Class AA division of the Great Chesapeake Bay Schooner Race on corrected time.  The other … Continue reading &rarr;"
 categories:
   - "Current"

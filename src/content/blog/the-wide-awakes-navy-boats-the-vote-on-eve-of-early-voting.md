@@ -1,7 +1,7 @@
 ---
-title: "The Wide Awakes Navy “Boats the Vote” on Eve of Early Voting"
+title: "The Wide Awakes Navy \"Boats the Vote\" on Eve of Early Voting"
 date: 2020-10-24T14:26:48
-slug: the-wide-awakes-navy-boats-the-vote-on-eve-of-early-voting
+slug: "the-wide-awakes-navy-boats-the-vote-on-eve-of-early-voting"
 excerpt: "On the eve of the first day of early voting in New York, an exquisite mix of music and the sound of merriment rose from the murky waters of the Gowanus Canal as the Wide Awakes Navy and the Gowanus … Continue reading &rarr;"
 categories:
   - "City of Ships"

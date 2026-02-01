@@ -1,8 +1,8 @@
 ---
 title: "The Mercy — Colin Firth as the Ill-Fated Donald Crowhurst"
 date: 2017-11-15T18:22:08
-slug: mercy-colin-firth-ill-fated-donald-crowhurst
-excerpt: "“The Mercy” is a soon to be released film about Donald Crowhurst‘s attempt to win the Sunday Times Golden Globe Race, the first single-handed, non-stop, around-the-world race in 1969. The film stars Colin Firth as Crowhurst and Rachel Weisz as his wife, Clare.  Crowhurst was … Continue reading &rarr;"
+slug: "mercy-colin-firth-ill-fated-donald-crowhurst"
+excerpt: "\"The Mercy\" is a soon to be released film about Donald Crowhurst‘s attempt to win the Sunday Times Golden Globe Race, the first single-handed, non-stop, around-the-world race in 1969. The film stars Colin Firth as Crowhurst and Rachel Weisz as his wife, Clare.  Crowhurst was … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "The Mercy"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/11/the-mercy.jpg"
 author: "Rick Spilman"
-description: "“The Mercy” is a soon to be released film about Donald Crowhurst‘s attempt to win the Sunday Times Golden Globe Race, the first single-handed, non-stop, around-the-world race in 1969. The film stars Colin Firth as Crowhurst and Rachel Weisz as his wife, Clare.  Crowhurst was … Continue reading &rarr;"
+description: "\"The Mercy\" is a soon to be released film about Donald Crowhurst‘s attempt to win the Sunday Times Golden Globe Race, the first single-handed, non-stop, around-the-world race in 1969. The film stars Colin Firth as Crowhurst and Rachel Weisz as his wife, Clare.  Crowhurst was … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/11/the-mercy.jpg)“[The Mercy](https://en.wikipedia.org/wiki/The_Mercy)” is a soon to be released film about [Donald Crowhurst](https://en.wikipedia.org/wiki/Donald_Crowhurst)‘s attempt to win the [Sunday Times Golden Globe Race](https://en.wikipedia.org/wiki/Sunday_Times_Golden_Globe_Race), the first single-handed, non-stop, around-the-world race in 1969. The film stars Colin Firth as Crowhurst and Rachel Weisz as his wife, Clare. 

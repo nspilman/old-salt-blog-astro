@@ -1,7 +1,7 @@
 ---
 title: "HMCS Canada/Queen Of Nassau – Mystery Wreck to become National Historic Site"
 date: 2010-04-17T16:03:58
-slug: hmcs-canadaqueen-of-nassau-mystery-wreck-to-become-national-historic-site
+slug: "hmcs-canadaqueen-of-nassau-mystery-wreck-to-become-national-historic-site"
 excerpt: "In 2001, divers located the wreck of a ship off the Florida Keys in 220 feet of water.  She had the distinctive ram bow of an early 20th century war ship but lacked guns or other weaponry.   She has … Continue reading &rarr;"
 categories:
   - "Current"

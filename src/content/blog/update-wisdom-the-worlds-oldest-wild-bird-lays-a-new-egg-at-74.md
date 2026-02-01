@@ -1,7 +1,7 @@
 ---
 title: "Update: Wisdom, the World’s Oldest Wild Bird, Lays a New Egg at 74"
 date: 2024-12-05T18:50:39
-slug: update-wisdom-the-worlds-oldest-wild-bird-lays-a-new-egg-at-74
+slug: "update-wisdom-the-worlds-oldest-wild-bird-lays-a-new-egg-at-74"
 excerpt: "In March 2021, we posted about a Laysan albatross nicknamed Wisdom who, at the age of 70, had hatched a new chick. Wisdom is the oldest confirmed wild bird and the oldest banded bird in the world, having been first identified and banded on … Continue reading &rarr;"
 categories:
   - "Current"

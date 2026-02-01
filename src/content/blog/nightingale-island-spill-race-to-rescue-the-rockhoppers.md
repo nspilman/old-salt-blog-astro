@@ -1,7 +1,7 @@
 ---
 title: "Nightingale Island Spill – Race to  Rescue the Rockhoppers"
 date: 2011-04-03T09:37:39
-slug: nightingale-island-spill-race-to-rescue-the-rockhoppers
+slug: "nightingale-island-spill-race-to-rescue-the-rockhoppers"
 excerpt: "Fewer than 300 people live on the Tristan da Cuhna island chain, the most remote inhabited archipelago in the world, 2,816 kilometres from the nearest land.  An estimated 200,000  penguins, however, including roughly half of the world’s endangered Northern Rockhopper penguin, call the … Continue reading &rarr;"
 categories:
   - "Current"

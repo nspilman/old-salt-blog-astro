@@ -1,7 +1,7 @@
 ---
 title: "Update: Ben Lecomte Still Swimming Across the Pacific — Over 1,200 Miles So Far"
 date: 2018-11-16T09:43:37
-slug: update-ben-lecomte-still-swimming-across-the-pacific-over-1200-miles-so-far
+slug: "update-ben-lecomte-still-swimming-across-the-pacific-over-1200-miles-so-far"
 excerpt: "We recently posted about Ross Edgley, who became the first person to swim around Great Britain. He is not, however, the only long-distance swimmer to have been on an epic voyage. Last June, we posted about Ben Lecomte who began … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Older Sailors and the Sea — Robin Knox-Johnston, Stanley Paris & Jeanne Socrates"
 date: 2014-11-23T08:40:44
-slug: older-sailors-and-the-sea-robin-knox-johnston-stanley-paris-jeanne-socrates
+slug: "older-sailors-and-the-sea-robin-knox-johnston-stanley-paris-jeanne-socrates"
 excerpt: "An update on previous posts involving sailors of a certain age.  Sir Robin Knox Johnston, 75, sailing Grey Power, placed third in the highly competitive Class 40 fleet in the Route Du Rhum race between St. Malo in Brittany to Guadeloupe.  In … Continue reading &rarr;"
 categories:
   - "Current"

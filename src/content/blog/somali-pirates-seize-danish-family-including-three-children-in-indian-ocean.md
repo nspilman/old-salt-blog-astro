@@ -1,7 +1,7 @@
 ---
 title: "Somali pirates seize Danish family including three children in Indian Ocean"
 date: 2011-02-28T16:09:02
-slug: somali-pirates-seize-danish-family-including-three-children-in-indian-ocean
+slug: "somali-pirates-seize-danish-family-including-three-children-in-indian-ocean"
 excerpt: "Danish authorities are reporting that  Somali pirates have hijacked a Danish sailboat with four adults and three children aboard. Danish family’s sailboat hijacked in Indian Ocean The Danish Foreign Ministry said the ship sent a distress signal on Thursday. On board was a … Continue reading &rarr;"
 categories:
   - "Current"

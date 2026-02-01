@@ -1,7 +1,7 @@
 ---
 title: "Ruby Princess Outbreak — Confused Test Results Allowed the Virus to Disembark"
 date: 2020-08-02T12:29:09
-slug: ruby-princess-outbreak-confused-test-results-allowed-the-virus-to-disembark
+slug: "ruby-princess-outbreak-confused-test-results-allowed-the-virus-to-disembark"
 excerpt: "On March 19, 2020, the Princess Cruise Line ship Ruby Princess arrived in Sydney, New South Wales, Australia, and disembarked 2,700 passengers. These passengers included those who had been isolated in their cabins with fever. Roughly 2,000 of the passengers … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

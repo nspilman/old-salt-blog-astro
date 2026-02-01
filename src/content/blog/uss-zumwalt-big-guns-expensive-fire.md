@@ -1,7 +1,7 @@
 ---
 title: "USS Zumwalt — Big Guns but Too Expensive to Fire"
 date: 2016-11-09T16:24:59
-slug: uss-zumwalt-big-guns-expensive-fire
+slug: "uss-zumwalt-big-guns-expensive-fire"
 excerpt: "The destroyer USS Zumwalt was commissioned about three weeks ago. It is the latest and greatest, most high tech destroyer in the fleet. At a cost of around $4 billion dollars, it is also the most expensive destroyer ever built. … Continue reading &rarr;"
 categories:
   - "Current"

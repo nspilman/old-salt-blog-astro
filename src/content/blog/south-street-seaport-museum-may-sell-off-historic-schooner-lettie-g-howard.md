@@ -1,7 +1,7 @@
 ---
 title: "South Street Seaport Museum May Sell Off Historic Schooner Lettie G Howard"
 date: 2010-12-29T08:00:15
-slug: south-street-seaport-museum-may-sell-off-historic-schooner-lettie-g-howard
+slug: "south-street-seaport-museum-may-sell-off-historic-schooner-lettie-g-howard"
 excerpt: "The South Street Seaport Museum in New York City is reported to be attempting to sell off the historic schooner, Lettie G. Howard.   The Lettie G. Howard is a wooden Fredonia schooner built in 1893 in Essex, Massachusetts, USA.   In past … Continue reading &rarr;"
 categories:
   - "Current"

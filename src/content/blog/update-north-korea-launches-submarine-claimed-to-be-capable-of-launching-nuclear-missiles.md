@@ -1,8 +1,8 @@
 ---
 title: "Update: North Korea Launches Submarine Claimed to be Capable of Launching Nuclear Missiles"
 date: 2023-09-08T17:34:35
-slug: update-north-korea-launches-submarine-claimed-to-be-capable-of-launching-nuclear-missiles
-excerpt: "North Korea has unveiled a new “tactical nuclear attack submarine,” based on a remodeled Soviet-era vessel, equipped with multiple launching tubes capable of launching nuclear missiles. Submarine No. 841 – named Hero Kim Kun Ok – will be one of … Continue reading &rarr;"
+slug: "update-north-korea-launches-submarine-claimed-to-be-capable-of-launching-nuclear-missiles"
+excerpt: "North Korea has unveiled a new \"tactical nuclear attack submarine,\" based on a remodeled Soviet-era vessel, equipped with multiple launching tubes capable of launching nuclear missiles. Submarine No. 841 – named Hero Kim Kun Ok – will be one of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Submarine No. 841"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/09/NKmisslesub.png"
 author: "Rick Spilman"
-description: "North Korea has unveiled a new “tactical nuclear attack submarine,” based on a remodeled Soviet-era vessel, equipped with multiple launching tubes capable of launching nuclear missiles. Submarine No. 841 – named Hero Kim Kun Ok – will be one of … Continue reading &rarr;"
+description: "North Korea has unveiled a new \"tactical nuclear attack submarine,\" based on a remodeled Soviet-era vessel, equipped with multiple launching tubes capable of launching nuclear missiles. Submarine No. 841 – named Hero Kim Kun Ok – will be one of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/09/NKmisslesub.png)North Korea has unveiled a [new “tactical nuclear attack submarine,”](https://www.nytimes.com/2023/09/08/world/asia/north-korea-submarine-nuclear.html) based on a remodeled Soviet-era vessel, equipped with multiple launching tubes capable of launching nuclear missiles. Submarine No. 841 – named *Hero Kim Kun Ok* – will be one of the main “underwater offensive means of the naval f[orce” of North Korea, leader Kim Jong Un said at the](https://www.reuters.com/world/asia-pacific/north-korea-launches-new-tactical-nuclear-attack-submarine-kcna-2023-09-07/) launch ceremony on Wednesday.

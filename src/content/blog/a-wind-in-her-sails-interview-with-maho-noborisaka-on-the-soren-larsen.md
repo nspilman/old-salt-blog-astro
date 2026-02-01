@@ -1,7 +1,7 @@
 ---
 title: "A Wind In Her Sails – Interview with Maho Noborisaka on the Soren Larsen"
 date: 2011-04-16T10:31:25
-slug: a-wind-in-her-sails-interview-with-maho-noborisaka-on-the-soren-larsen
+slug: "a-wind-in-her-sails-interview-with-maho-noborisaka-on-the-soren-larsen"
 excerpt: "On a cold and rainy April day here on the banks of the Hudson River, it is nice to consider sunnier climes.   An interview with the Maho Noborisaka, Second Mate on the Tall Ship Soren Larsen. A Wind In Her … Continue reading &rarr;"
 categories:
   - "Current"

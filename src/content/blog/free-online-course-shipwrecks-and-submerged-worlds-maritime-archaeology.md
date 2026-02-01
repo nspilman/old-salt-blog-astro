@@ -1,7 +1,7 @@
 ---
 title: "Free Online Course — Shipwrecks and Submerged Worlds: Maritime Archaeology"
 date: 2017-02-01T19:04:19
-slug: free-online-course-shipwrecks-and-submerged-worlds-maritime-archaeology
+slug: "free-online-course-shipwrecks-and-submerged-worlds-maritime-archaeology"
 excerpt: "For anyone with an interest in shipwrecks, here is a very interesting free online course that marine archaeologist John Broadwater pointed out on Facebook.  It has just started but there is still time to sign up.  ABOUT THE COURSE People have … Continue reading &rarr;"
 categories:
   - "Current"

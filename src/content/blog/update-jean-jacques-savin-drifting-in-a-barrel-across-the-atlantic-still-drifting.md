@@ -1,7 +1,7 @@
 ---
 title: "Update: Jean-Jacques Savin, Drifting in a Barrel Across the Atlantic, Still Drifting"
 date: 2019-04-22T09:14:35
-slug: update-jean-jacques-savin-drifting-in-a-barrel-across-the-atlantic-still-drifting
+slug: "update-jean-jacques-savin-drifting-in-a-barrel-across-the-atlantic-still-drifting"
 excerpt: "At the end of last December, we posted about the 72-year-old French adventurer Jean-Jacques Savin who set off to attempt to drift across the Atlantic in a large wooden barrel. He departed from El Hierro, one of the Canary Islands, … Continue reading &rarr;"
 categories:
   - "Current"

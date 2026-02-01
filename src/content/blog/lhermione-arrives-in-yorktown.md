@@ -1,7 +1,7 @@
 ---
 title: "l’Hermione Arrives in  Yorktown"
 date: 2015-06-06T07:30:39
-slug: lhermione-arrives-in-yorktown
+slug: "lhermione-arrives-in-yorktown"
 excerpt: "In 1780, the French frigate, l’Hermione carried the Marquis de Lafayette to America with the news of French support for the American revolution. Now a replica l’Hermione has arrived in Yorktown, VA, the first of twelve ports that the frigate will … Continue reading &rarr;"
 categories:
   - "Current"

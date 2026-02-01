@@ -1,7 +1,7 @@
 ---
 title: "‘Asgard II’ may have collided with a container before sinking"
 date: 2010-04-21T19:45:49
-slug: asgard-ii-may-have-collided-with-a-container-before-sinking
+slug: "asgard-ii-may-have-collided-with-a-container-before-sinking"
 excerpt: "Experts estimate that anywhere from 2,000 to 10,000 shipping containers fall off ships each year. The problem is that they do not all necessarily sink.   Some remain afloat, just on the surface, almost invisible to an observer from a … Continue reading &rarr;"
 categories:
   - "Current"

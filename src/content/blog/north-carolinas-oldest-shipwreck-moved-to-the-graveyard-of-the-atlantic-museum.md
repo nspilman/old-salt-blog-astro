@@ -1,7 +1,7 @@
 ---
 title: "North Carolina’s Oldest Shipwreck Moved to the Graveyard of the Atlantic Museum"
 date: 2010-07-23T08:54:54
-slug: north-carolinas-oldest-shipwreck-moved-to-the-graveyard-of-the-atlantic-museum
+slug: "north-carolinas-oldest-shipwreck-moved-to-the-graveyard-of-the-atlantic-museum"
 excerpt: "As a follow-up to a post from early June,  the remains of what is believed to be the wreck of a merchant ship from the mid-1600s are being moved to the Graveyard of the Atlantic Museum for preservation.  The wreck was uncovered … Continue reading &rarr;"
 categories:
   - "Current"

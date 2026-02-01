@@ -1,7 +1,7 @@
 ---
 title: "TBT — Panoramic and Audio Tour of USS Pampanito"
 date: 2020-06-04T15:08:07
-slug: tbt-panoramic-and-audio-tour-of-uss-pampanito
+slug: "tbt-panoramic-and-audio-tour-of-uss-pampanito"
 excerpt: "On May 24th, a fire in a warehouse on Pier 45 on San Francisco’s Fisherman’s Wharf came very close to the engulfing the World War II Liberty ship SS Jeremiah O’Brien and the USS Pampanito, a Balao class fleet submarine museum … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Repost: Swimming with Sea Lions in the Galapagos"
 date: 2022-04-22T10:20:27
-slug: repost-swimming-with-sea-lions-in-the-galapagos
+slug: "repost-swimming-with-sea-lions-in-the-galapagos"
 excerpt: "My wife and I took an incredible trip to the Galapagos in 2017. An updated repost.  We spent a week on Ecoventura‘s 83’ MY Eric and visited six of the more eastern islands of the archipelago. We saw many of … Continue reading &rarr;"
 categories:
   - "Current"

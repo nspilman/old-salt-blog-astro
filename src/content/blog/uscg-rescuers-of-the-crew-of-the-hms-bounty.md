@@ -1,7 +1,7 @@
 ---
 title: "USCG Rescuers of the Crew of the HMS Bounty"
 date: 2012-11-04T15:26:06
-slug: uscg-rescuers-of-the-crew-of-the-hms-bounty
+slug: "uscg-rescuers-of-the-crew-of-the-hms-bounty"
 excerpt: "There are no real super-heroes, but as far am I am concerned the closest human beings that come to that designation are the search and rescue teams of the United States Coast Guard.  From the rescue swimmers, who dive into … Continue reading &rarr;"
 categories:
   - "Current"

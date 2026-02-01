@@ -1,7 +1,7 @@
 ---
 title: "Battle of Surigao Strait by Anthony P. Tully – a Review"
 date: 2010-05-30T07:45:25
-slug: battle-of-surigao-strait-by-anthony-p-tully-a-review
+slug: "battle-of-surigao-strait-by-anthony-p-tully-a-review"
 excerpt: "A new look at the last battleship battle of  World War II and perhaps of all time.  A review by Steven Toby, republished with permission from the MarHst list. In this new book, Battle of Surigao Strait,  author Anthony P. Tully mines … Continue reading &rarr;"
 categories:
   - "Newbooks"

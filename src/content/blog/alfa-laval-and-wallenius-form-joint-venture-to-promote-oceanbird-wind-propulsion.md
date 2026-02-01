@@ -1,7 +1,7 @@
 ---
 title: "Alfa Laval and Wallenius Form Joint Venture to Promote Oceanbird Wind Propulsion"
 date: 2021-08-05T10:39:38
-slug: alfa-laval-and-wallenius-form-joint-venture-to-promote-oceanbird-wind-propulsion
+slug: "alfa-laval-and-wallenius-form-joint-venture-to-promote-oceanbird-wind-propulsion"
 excerpt: "In September, we posted about a Swedish consortium that included Wallenius Marine has designed Oceanbird, a five-masted sailing car carrier, that, if built, will be the largest sailing cargo ship that the world has ever seen.  Last month, Alfa Laval and Wallenius … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "On Carrier Roosevelt, Five Sailors Test Positive for Virus a Second Time"
 date: 2020-05-16T11:11:32
-slug: on-carrier-roosevelt-five-sailors-test-positive-for-virus-a-second-time
+slug: "on-carrier-roosevelt-five-sailors-test-positive-for-virus-a-second-time"
 excerpt: "Five sailors on the aircraft carrier USS Theodore Roosevelt appear to have contracted the coronavirus for a second time and have been taken off the ship. The carrier is currently tied up in Guam after an outbreak of the virus infected … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

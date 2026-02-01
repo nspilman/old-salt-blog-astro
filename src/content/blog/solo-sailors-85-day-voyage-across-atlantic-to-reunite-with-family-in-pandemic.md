@@ -1,7 +1,7 @@
 ---
 title: "Solo Sailor’s 85 Day Voyage Across Atlantic to Reunite with Family in Pandemic"
 date: 2020-06-29T18:07:27
-slug: solo-sailors-85-day-voyage-across-atlantic-to-reunite-with-family-in-pandemic
+slug: "solo-sailors-85-day-voyage-across-atlantic-to-reunite-with-family-in-pandemic"
 excerpt: "At the end of May, we posted about the unplanned 10,000-mile voyage of the bark Europa, made necessary when the pandemic shut down transportation options for its crew. Argentine sailor, Juan Manuel Ballestero, 47, faced a similar challenge and found … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

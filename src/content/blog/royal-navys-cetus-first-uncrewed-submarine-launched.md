@@ -1,7 +1,7 @@
 ---
 title: "Royal Navy’s Cetus, First Uncrewed Submarine, Launched"
 date: 2025-03-16T21:45:27
-slug: royal-navys-cetus-first-uncrewed-submarine-launched
+slug: "royal-navys-cetus-first-uncrewed-submarine-launched"
 excerpt: "British unmanned systems manufacturer MSubs has launched Cetus, the UK Royal Navy’s first Extra Large Underwater Autonomous Vehicle (XLUAV) technology demonstrator.  At 12 m in length, 2.2 m in diameter, and weighing up to 25 tonnes with a full test … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Remembering the Rohilla Rescue, October 30, 1914"
 date: 2014-11-01T08:01:11
-slug: remembering-the-rohilla-rescue-october-30-1914
+slug: "remembering-the-rohilla-rescue-october-30-1914"
 excerpt: "Just over 100 years ago, the World War I hospital ship, SS Rohilla, ran aground in a gale less than a mile off the North Yorkshire coast, near Whitby, with the loss of 85 crew and passengers.  SS Rohilla had left Scotland on 30 October … Continue reading &rarr;"
 categories:
   - "History"

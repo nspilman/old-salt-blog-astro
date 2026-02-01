@@ -1,7 +1,7 @@
 ---
 title: "Help Urban Boatbuilders Win $62,000!"
 date: 2015-03-27T14:28:32
-slug: help-urban-boatbuilders-win-62000
+slug: "help-urban-boatbuilders-win-62000"
 excerpt: "In August we posted about Rocking the Boat, an after-school program in the Hunts Point section of the Bronx, a borough of New York City, which has been teaching neighborhood kids to build wooden boats for the last 15 years. Urban Boatbuilders … Continue reading &rarr;"
 categories:
   - "Current"

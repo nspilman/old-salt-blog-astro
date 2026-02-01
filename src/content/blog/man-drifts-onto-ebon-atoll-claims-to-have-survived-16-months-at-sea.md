@@ -1,7 +1,7 @@
 ---
 title: "Man Drifts onto Ebon Atoll — Claims to Have Survived 16 Months at Sea"
 date: 2014-02-01T08:05:24
-slug: man-drifts-onto-ebon-atoll-claims-to-have-survived-16-months-at-sea
+slug: "man-drifts-onto-ebon-atoll-claims-to-have-survived-16-months-at-sea"
 excerpt: "A man recently drifted ashore in a 24′ fiberglass boat on Ebon Atoll in the Marshall Islands in the northern Pacific.  He speaks only Spanish and says his name is Jose Ivan.  He claims to have set off from Mexico heading … Continue reading &rarr;"
 categories:
   - "Current"

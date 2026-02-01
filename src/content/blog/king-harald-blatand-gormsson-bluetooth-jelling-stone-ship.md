@@ -1,18 +1,18 @@
 ---
-title: "King Harald “Blåtand” Gormsson, Bluetooth & the Jelling Stone Ship"
+title: "King Harald \"Blåtand\" Gormsson, Bluetooth & the Jelling Stone Ship"
 date: 2017-02-18T15:55:12
-slug: king-harald-blatand-gormsson-bluetooth-jelling-stone-ship
-excerpt: "Remember King Harald “Blåtand” Gormsson? No? The king of Denmark and later Norway in the late 10th century. The name still doesn’t ring a bell?  His rune mark is embedded in your phone and possibly your earbuds and speakers. His … Continue reading &rarr;"
+slug: "king-harald-blatand-gormsson-bluetooth-jelling-stone-ship"
+excerpt: "Remember King Harald \"Blåtand\" Gormsson? No? The king of Denmark and later Norway in the late 10th century. The name still doesn’t ring a bell?  His rune mark is embedded in your phone and possibly your earbuds and speakers. His … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
 tags:
   - "Bluetooth"
-  - "Harald "Blåtand" Gormsson"
+  - "Harald \"Blåtand\" Gormsson"
   - "Jelling Stone Ship"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/bluetooth.jpg"
 author: "Rick Spilman"
-description: "Remember King Harald “Blåtand” Gormsson? No? The king of Denmark and later Norway in the late 10th century. The name still doesn’t ring a bell?  His rune mark is embedded in your phone and possibly your earbuds and speakers. His … Continue reading &rarr;"
+description: "Remember King Harald \"Blåtand\" Gormsson? No? The king of Denmark and later Norway in the late 10th century. The name still doesn’t ring a bell?  His rune mark is embedded in your phone and possibly your earbuds and speakers. His … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/bluetooth.jpg)Remember [King Harald “Blåtand” Gormsson](https://en.wikipedia.org/wiki/Harald_Bluetooth)? No? The king of Denmark and later Norway in the late 10th century. The name still doesn’t ring a bell?  His rune mark is embedded in your phone and possibly your earbuds and speakers. His nickname, “Blåtand,” means “Bluetooth” in English.  

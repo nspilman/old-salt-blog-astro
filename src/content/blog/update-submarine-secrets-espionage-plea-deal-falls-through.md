@@ -1,7 +1,7 @@
 ---
 title: "Update: Submarine Secrets Espionage Plea Deal Falls Through"
 date: 2022-08-18T16:47:14
-slug: update-submarine-secrets-espionage-plea-deal-falls-through
+slug: "update-submarine-secrets-espionage-plea-deal-falls-through"
 excerpt: "The Washington Post reports that a federal judge rejected plea bargains for a Navy engineer and his wife who allegedly tried to sell military secrets, saying the prison terms called for by the deals were too lenient for a couple … Continue reading &rarr;"
 categories:
   - "Current"

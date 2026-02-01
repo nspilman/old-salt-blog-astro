@@ -1,7 +1,7 @@
 ---
 title: "Tres Hombres Under Sail"
 date: 2012-07-23T08:26:13
-slug: tres-hombres-under-sail
+slug: "tres-hombres-under-sail"
 excerpt: "This seems like a suitable video for a Monday morning.  Tres Hombres is a Dutch 32 meter cargo-carrying brigantine, meant to serve as an ambassador to a new fleet of sustainable hybrid sailing vessels. The video below is beautifully shot … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,13 +1,13 @@
 ---
 title: "South Street Seaport Museum to Get $10.4 Million Federal Funding for Superstorm Sandy Repairs"
 date: 2015-08-14T09:10:38
-slug: south-street-seaport-museum-to-get-10-4-million-federal-funding-for-superstorm-sandy-repairs
+slug: "south-street-seaport-museum-to-get-10-4-million-federal-funding-for-superstorm-sandy-repairs"
 excerpt: "Great news!  Congressman Jerrold Nadler (NY-10) and the South Street Seaport Museum announced that the Department of Homeland Security’s Federal Emergency Management Agency (FEMA) is awarding the museum $10.4 million from FEMA’s Public Assistance Program as part of federal efforts to … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - ""superstorm" Sandy"
+  - "\"superstorm\" Sandy"
   - "South Street Seaport Museum"
 author: "Rick Spilman"
 description: "Great news!  Congressman Jerrold Nadler (NY-10) and the South Street Seaport Museum announced that the Department of Homeland Security’s Federal Emergency Management Agency (FEMA) is awarding the museum $10.4 million from FEMA’s Public Assistance Program as part of federal efforts to … Continue reading &rarr;"

@@ -1,7 +1,7 @@
 ---
 title: "Engine Room Fire Strands Carnival Triumph in the Gulf of Mexico, Will be Towed to Mexico"
 date: 2013-02-11T09:53:52
-slug: engine-room-fire-strands-carnival-triumph-in-the-gulf-of-mexico-will-be-towed-to-mexico
+slug: "engine-room-fire-strands-carnival-triumph-in-the-gulf-of-mexico-will-be-towed-to-mexico"
 excerpt: "An engine room fire has knocked out the propulsion and the primary electrical system on the cruise ship Carnival Triumph in the Gulf of Mexico off the Yucatan Peninsula.  Emergency generators are providing limited power to the passenger areas.  The ship … Continue reading &rarr;"
 categories:
   - "Current"

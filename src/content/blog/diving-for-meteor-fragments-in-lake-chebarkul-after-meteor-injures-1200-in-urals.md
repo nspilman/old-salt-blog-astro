@@ -1,7 +1,7 @@
 ---
 title: "Diving for Meteor Fragments In Lake Chebarkul After Meteor Injures 1,200 in Urals"
 date: 2013-02-16T11:11:39
-slug: diving-for-meteor-fragments-in-lake-chebarkul-after-meteor-injures-1200-in-urals
+slug: "diving-for-meteor-fragments-in-lake-chebarkul-after-meteor-injures-1200-in-urals"
 excerpt: "A large round hole in the ice of Lake Chebarkul, 80 kilometers west of the Russian city of Chelyabinsk in the Urals, may have been made by a fragment of the meteor which exploded in a massive fireball above the region … Continue reading &rarr;"
 categories:
   - "Current"

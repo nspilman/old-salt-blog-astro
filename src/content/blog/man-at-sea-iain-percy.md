@@ -1,7 +1,7 @@
 ---
 title: "Man at Sea — Iain Percy"
 date: 2019-04-20T09:11:19
-slug: man-at-sea-iain-percy
+slug: "man-at-sea-iain-percy"
 excerpt: "Man at Sea is one of Alfred Dunhill’s ‘Portraits of Achievement‘. It is five years old, but new to me.  Man at Sea is an ode to the sea and one man’s life long passion for sailing on it, following … Continue reading &rarr;"
 categories:
   - "Current"

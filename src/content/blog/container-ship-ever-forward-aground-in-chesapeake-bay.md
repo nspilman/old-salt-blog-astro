@@ -1,7 +1,7 @@
 ---
 title: "Container Ship Ever Forward Aground in Chesapeake Bay"
 date: 2022-03-15T15:43:27
-slug: container-ship-ever-forward-aground-in-chesapeake-bay
+slug: "container-ship-ever-forward-aground-in-chesapeake-bay"
 excerpt: "Almost one year ago, the container ship Ever Given ran aground, blocking the Suez Canal for six days. Now, another ship operated by the same shipping company, Evergreen Marine Corporation, has run hard aground. The Ever Forward, a 1,095-foot, 12,000 … Continue reading &rarr;"
 categories:
   - "Current"

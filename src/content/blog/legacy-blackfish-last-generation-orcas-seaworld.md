@@ -1,7 +1,7 @@
 ---
-title: "Legacy of “Blackfish” — The Last Generation of Orcas at SeaWorld"
+title: "Legacy of \"Blackfish\" — The Last Generation of Orcas at SeaWorld"
 date: 2016-10-24T17:55:46
-slug: legacy-blackfish-last-generation-orcas-seaworld
+slug: "legacy-blackfish-last-generation-orcas-seaworld"
 excerpt: "In just three years since the release of the documentary, Blackfish, the world of captive orcs in the United States has undergone dramatic change. The 2013 documentary focused specifically on the death of an orca trainer, Dawn Brancheau, who was killed by … Continue reading &rarr;"
 categories:
   - "Current"

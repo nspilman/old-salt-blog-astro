@@ -1,7 +1,7 @@
 ---
 title: "Coast Guard Rescues Couple From Capsized Sailboat, 65 Miles East of New Jersey"
 date: 2019-06-01T09:00:31
-slug: coast-guard-rescues-couple-from-capsized-sailboat-65-miles-east-of-new-jersey
+slug: "coast-guard-rescues-couple-from-capsized-sailboat-65-miles-east-of-new-jersey"
 excerpt: "Coast Guard crews rescued a man and woman from a capsized sailboat in rough seas about 65 miles east of Atlantic City, NJ, late Wednesday night. Heidi Snyder and Peter Bailey, who have been sailing around the world for two … Continue reading &rarr;"
 categories:
   - "Current"

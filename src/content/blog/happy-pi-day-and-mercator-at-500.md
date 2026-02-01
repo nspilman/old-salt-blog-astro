@@ -1,7 +1,7 @@
 ---
 title: "Happy Pi Day and Mercator at 500"
 date: 2012-03-14T11:02:19
-slug: happy-pi-day-and-mercator-at-500
+slug: "happy-pi-day-and-mercator-at-500"
 excerpt: "Today 3/14 is Pi day, a celebration of the irrational number that defines circles and spheres. Why celebrate Pi? Why not.  Circles and spheres have their own magic, from soap bubbles to the globe, as does Pi, a number that never … Continue reading &rarr;"
 categories:
   - "Current"

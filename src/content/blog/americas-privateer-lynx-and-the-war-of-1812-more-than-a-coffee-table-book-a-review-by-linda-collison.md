@@ -1,7 +1,7 @@
 ---
 title: "America’s Privateer, Lynx and the War of 1812 — More than a Coffee Table Book, a Review by Linda Collison"
 date: 2012-04-04T12:25:56
-slug: americas-privateer-lynx-and-the-war-of-1812-more-than-a-coffee-table-book-a-review-by-linda-collison
+slug: "americas-privateer-lynx-and-the-war-of-1812-more-than-a-coffee-table-book-a-review-by-linda-collison"
 excerpt: "We recently posted about an upcoming event at Mystic Seaport Museum honoring the bicentenial of the War of 1812 which features the privateer schooner Lynx.   We also posted about an on-line documentary, the Privateer Lynx.  While we are focussing on on the … Continue reading &rarr;"
 categories:
   - "Current"

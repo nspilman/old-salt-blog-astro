@@ -1,19 +1,19 @@
 ---
 title: "Rum Running Documentary on CBC’s Land & Sea"
 date: 2012-02-17T09:05:57
-slug: rum-running-documentary-on-cbcs-land-sea
-excerpt: "We have previously posted about the CBC’s “Land and Sea,”  a program which for thirty years has been focussed on stories from people who live off the land and the sea on the Canadian Atlantic. In December, they featured a wonderful documentary on Nova … Continue reading &rarr;"
+slug: "rum-running-documentary-on-cbcs-land-sea"
+excerpt: "We have previously posted about the CBC’s \"Land and Sea,\"  a program which for thirty years has been focussed on stories from people who live off the land and the sea on the Canadian Atlantic. In December, they featured a wonderful documentary on Nova … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - ""Land and Sea""
+  - "\"Land and Sea\""
   - "CBC"
   - "Rum Running"
   - "Tell Tale Productions"
 author: "Rick Spilman"
-description: "We have previously posted about the CBC’s “Land and Sea,”  a program which for thirty years has been focussed on stories from people who live off the land and the sea on the Canadian Atlantic. In December, they featured a wonderful documentary on Nova … Continue reading &rarr;"
+description: "We have previously posted about the CBC’s \"Land and Sea,\"  a program which for thirty years has been focussed on stories from people who live off the land and the sea on the Canadian Atlantic. In December, they featured a wonderful documentary on Nova … Continue reading &rarr;"
 ---
 
 We have [previously posted](http://www.oldsaltblog.com/2011/12/08/land-and-sea-nova-scotia-schooners-on-line-now/) about the CBC’s “[Land and Sea](http://www.cbc.ca/landandsea/),”  a program which for thirty years has been focussed on stories from people who live off the land and the sea on the Canadian Atlantic. In December, they featured a wonderful documentary on [Nova Scotia Schooners](http://www.oldsaltblog.com/2011/12/04/land-and-sea-nova-scotia-schooners/).  This Sunday, February 19th, Land & Sea will broadcast [Rum Running](https://www.facebook.com/events/270476169690052/), a documentary by [Tell Tale Productions](http://www.telltale.tv/home.html), which looks fascinating.

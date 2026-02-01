@@ -1,7 +1,7 @@
 ---
 title: "Talking with Dolphins by Computer Translator?"
 date: 2011-05-17T21:51:19
-slug: talking-with-dolphins-by-computer-translator
+slug: "talking-with-dolphins-by-computer-translator"
 excerpt: "Roughly a year ago I went skin diving with dolphins in Honduras.   We were told that the dolphins liked to play catch with eel grass.  I dove to the bottom, pulled up a handful of eel grass and held … Continue reading &rarr;"
 categories:
   - "Current"

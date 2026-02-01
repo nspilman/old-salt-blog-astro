@@ -1,7 +1,7 @@
 ---
 title: "Frigate Hermione is Under Sail!"
 date: 2014-09-15T17:32:52
-slug: frigate-hermione-is-under-sail
+slug: "frigate-hermione-is-under-sail"
 excerpt: "After close to two decades of construction, the frigate Hermione  is finally under sail. In 1997, a group of historical and tall ship enthusiasts formed the Association Hermione-La Fayette and set about building a replica of the French frigate, Hermione, which carried Gilbert … Continue reading &rarr;"
 categories:
   - "Current"

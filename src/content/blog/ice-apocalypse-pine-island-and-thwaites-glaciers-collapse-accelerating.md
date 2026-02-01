@@ -1,8 +1,8 @@
 ---
 title: "Ice Apocalypse — Pine Island and Thwaites Glaciers Collapse Accelerating"
 date: 2020-09-15T10:10:57
-slug: ice-apocalypse-pine-island-and-thwaites-glaciers-collapse-accelerating
-excerpt: "Last February we posted “The Doomsday Glacier — the Thwaites Glacier Melting From Below,” about the flow of warmer water that is melting the massive West Antarctic glacier from below. Thwaites is referred to as the “Doomsday Glacier” because it’s … Continue reading &rarr;"
+slug: "ice-apocalypse-pine-island-and-thwaites-glaciers-collapse-accelerating"
+excerpt: "Last February we posted \"The Doomsday Glacier — the Thwaites Glacier Melting From Below,\" about the flow of warmer water that is melting the massive West Antarctic glacier from below. Thwaites is referred to as the \"Doomsday Glacier\" because it’s … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "West Antarctic ice sheet"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/doomsdayglacier.jpg"
 author: "Rick Spilman"
-description: "Last February we posted “The Doomsday Glacier — the Thwaites Glacier Melting From Below,” about the flow of warmer water that is melting the massive West Antarctic glacier from below. Thwaites is referred to as the “Doomsday Glacier” because it’s … Continue reading &rarr;"
+description: "Last February we posted \"The Doomsday Glacier — the Thwaites Glacier Melting From Below,\" about the flow of warmer water that is melting the massive West Antarctic glacier from below. Thwaites is referred to as the \"Doomsday Glacier\" because it’s … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/doomsdayglacier.jpg)Last February we posted “[The Doomsday Glacier — the Thwaites Glacier Melting From Below,](http://www.oldsaltblog.com/2020/02/the-doomsday-glacier-the-thwaites-glacier-melting-from-below/)” about the flow of warmer water that is melting the massive West Antarctic glacier from below. Thwaites is referred to as the “[Doomsday Glacier](https://www.rollingstone.com/politics/politics-features/the-doomsday-glacier-113792/)” because it’s collapse could eventually lead to the collapse of the entire West Antarctic ice sheet, which contains enough ice to raise the sea level by about [10 feet](https://science.sciencemag.org/content/324/5929/901). Currently, sea levels are rising about 3.5 millimeters a year, and Thwaites alone contributes about 4% or 5% of the total.

@@ -1,8 +1,8 @@
 ---
 title: "As Deadline Nears, Fears that Falls of Clyde May be Sold"
 date: 2019-01-22T19:14:08
-slug: as-deadline-nears-fears-that-falls-of-clyde-may-be-sold
-excerpt: "The Hawaii State Department of Transportation Harbors division has given the caretaker group, Friends of the Falls of Clyde, until February 6th to move the 1878 built, four-masted iron windjammer out of Honolulu harbor. The Harbor Divisions concerns are that “the condition of … Continue reading &rarr;"
+slug: "as-deadline-nears-fears-that-falls-of-clyde-may-be-sold"
+excerpt: "The Hawaii State Department of Transportation Harbors division has given the caretaker group, Friends of the Falls of Clyde, until February 6th to move the 1878 built, four-masted iron windjammer out of Honolulu harbor. The Harbor Divisions concerns are that \"the condition of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Honolulu"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/Falls_of_Clyde200.jpg"
 author: "Rick Spilman"
-description: "The Hawaii State Department of Transportation Harbors division has given the caretaker group, Friends of the Falls of Clyde, until February 6th to move the 1878 built, four-masted iron windjammer out of Honolulu harbor. The Harbor Divisions concerns are that “the condition of … Continue reading &rarr;"
+description: "The Hawaii State Department of Transportation Harbors division has given the caretaker group, Friends of the Falls of Clyde, until February 6th to move the 1878 built, four-masted iron windjammer out of Honolulu harbor. The Harbor Divisions concerns are that \"the condition of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/Falls_of_Clyde200.jpg)The Hawaii State Department of Transportation Harbors division has given the caretaker group, Friends of the Falls of Clyde, until [February 6th to move the 1878 built, four-masted iron windjammer](http://www.hawaiinewsnow.com/2019/01/19/year-old-ship-honolulu-harbor-could-be-auctioned-off-after-restoration-plan-falls-through/) out of Honolulu harbor. The Harbor Divisions concerns are that “*the condition of the [Falls of Clyde](https://en.wikipedia.org/wiki/Falls_of_Clyde_\(ship\)) poses an unacceptable risk to navigation in Honolulu Harbor and a safety and security risk to harbor users.*”

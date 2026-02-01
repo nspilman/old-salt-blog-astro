@@ -1,7 +1,7 @@
 ---
 title: "Salt in their Veins — a Short Documentary About the Bajo of Southeast Sulawesi, Indonesia"
 date: 2025-05-10T16:47:50
-slug: salt-in-their-veins-a-short-documentary-about-the-bajo-of-southeast-sulawesi-indonesia
+slug: "salt-in-their-veins-a-short-documentary-about-the-bajo-of-southeast-sulawesi-indonesia"
 excerpt: "Salt in their Veins is a breathtaking and thought-provoking short documentary by German photographer & filmmaker Rita Hencke. The documentary explores the lives of the Bajo people of Southeast Sulawesi, Indonesia, descendants of sea nomads with a deep connection to … Continue reading &rarr;"
 categories:
   - "Current"

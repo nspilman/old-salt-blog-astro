@@ -1,7 +1,7 @@
 ---
 title: "US Navy Bribery Scandal Probe Expanding  – Navy Captain, NCIS Agent & Contractor Charged, Second Captain Relieved of Command"
 date: 2013-10-03T09:49:44
-slug: us-navy-bribery-scandal-probe-expanding-one-captain-ncis-agent-contracor-charged-second-captain-relieved-command
+slug: "us-navy-bribery-scandal-probe-expanding-one-captain-ncis-agent-contracor-charged-second-captain-relieved-command"
 excerpt: "Last month, the former captain of the destroyer USS Mustin, a Navy special agent and a Singapore-based defense contractor were charged in an alleged bribery scheme to swap classified ship information for luxury travel and prostitutes. Cmdr. Michael Vannak Khem … Continue reading &rarr;"
 categories:
   - "Current"

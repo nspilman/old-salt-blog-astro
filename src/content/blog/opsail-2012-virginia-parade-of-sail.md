@@ -1,8 +1,8 @@
 ---
 title: "OpSail 2012 Virginia – Parade of Sail"
 date: 2012-06-07T16:17:53
-slug: opsail-2012-virginia-parade-of-sail
-excerpt: "Tomorrow, a truly impressive fleet of tall and naval ships will be proceeding in a “Sea and Air Parade of Sail.”    The parade will pass through the mouth of the Chesapeake Bay at Cape Henry, through Thimble Shoals Channel … Continue reading &rarr;"
+slug: "opsail-2012-virginia-parade-of-sail"
+excerpt: "Tomorrow, a truly impressive fleet of tall and naval ships will be proceeding in a \"Sea and Air Parade of Sail.\"    The parade will pass through the mouth of the Chesapeake Bay at Cape Henry, through Thimble Shoals Channel … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Chesapeake Bay"
   - "OpSail 2012 Virginia"
 author: "Rick Spilman"
-description: "Tomorrow, a truly impressive fleet of tall and naval ships will be proceeding in a “Sea and Air Parade of Sail.”    The parade will pass through the mouth of the Chesapeake Bay at Cape Henry, through Thimble Shoals Channel … Continue reading &rarr;"
+description: "Tomorrow, a truly impressive fleet of tall and naval ships will be proceeding in a \"Sea and Air Parade of Sail.\"    The parade will pass through the mouth of the Chesapeake Bay at Cape Henry, through Thimble Shoals Channel … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/virginiaopsail-2.jpg)

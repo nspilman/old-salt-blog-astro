@@ -1,7 +1,7 @@
 ---
 title: "Update: John B. Caddell, Tanker Carried Ashore by Sandy on Staten Island, Hauled Back in the Water"
 date: 2012-12-12T20:17:27
-slug: update-john-b-caddell-tanker-carried-ashore-by-sandy-on-staten-island-hauled-back-in-the-water
+slug: "update-john-b-caddell-tanker-carried-ashore-by-sandy-on-staten-island-hauled-back-in-the-water"
 excerpt: "The John B. Caddell, 700 gross ton water tanker, that washed up on Front Street, in Staten Island, NY during Hurricane Sandy a month and a half ago, is back in the water.  In a team effort lead by the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Foiling Maxi-Trimarans Race Head to Head for Jules Verne Trophy"
 date: 2020-11-27T16:38:31
-slug: foiling-maxi-trimarans-race-head-to-head-for-jules-verne-trophy
+slug: "foiling-maxi-trimarans-race-head-to-head-for-jules-verne-trophy"
 excerpt: "Early Wednesday, two 100′ long foiling maxi-trimarans, Sodebo and Maxi Edmond de Rothschild/Gitana 17 set out to race around the globe to attempt to win the Jules Verne Trophy. Sailing within hours of each other, Sodebo crossed the starting line, which … Continue reading &rarr;"
 categories:
   - "Current"

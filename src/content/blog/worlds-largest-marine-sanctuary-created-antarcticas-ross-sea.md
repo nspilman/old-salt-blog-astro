@@ -1,7 +1,7 @@
 ---
 title: "World’s Largest Marine Sanctuary Created in Antarctica’s Ross Sea"
 date: 2016-10-28T11:13:49
-slug: worlds-largest-marine-sanctuary-created-antarcticas-ross-sea
+slug: "worlds-largest-marine-sanctuary-created-antarcticas-ross-sea"
 excerpt: "In the end of August, we posted about the Obama administration‘s four-fold expansion of the Papahānaumokuākea Marine National Monument,a marine sanctuary northwest of the main Hawaiian Islands. Now, twenty-four countries and the European Union have reached an agreement to establish … Continue reading &rarr;"
 categories:
   - "Current"

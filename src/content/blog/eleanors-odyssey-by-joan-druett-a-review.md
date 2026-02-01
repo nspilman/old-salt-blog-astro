@@ -1,7 +1,7 @@
 ---
 title: "Eleanor’s Odyssey by Joan Druett — a Review"
 date: 2015-02-12T23:27:58
-slug: eleanors-odyssey-by-joan-druett-a-review
+slug: "eleanors-odyssey-by-joan-druett-a-review"
 excerpt: "In 1799, Eleanor Reid was only 21 and newly married to Captain Hugh Reid, commander of the Honorable East India Company extra ship Friendship. It was her husband’s first command and he was under orders to carry a cargo of Irish convicts, the … Continue reading &rarr;"
 categories:
   - "History"

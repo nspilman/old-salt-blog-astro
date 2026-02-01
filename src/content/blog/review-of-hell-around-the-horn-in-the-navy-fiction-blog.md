@@ -1,7 +1,7 @@
 ---
 title: "Review of ‘Hell Around the Horn’ in the Navy Fiction Blog"
 date: 2013-01-26T10:44:04
-slug: review-of-hell-around-the-horn-in-the-navy-fiction-blog
+slug: "review-of-hell-around-the-horn-in-the-navy-fiction-blog"
 excerpt: "A wonderful review of ‘Hell Around the Horn‘ in the Navy Fiction blog. I thoroughly enjoyed this novel by Rick Spilman – actually his debut novel! Spilman knows ships and the sea. He has worked as a naval architect and … Continue reading &rarr;"
 categories:
   - "Reviews"

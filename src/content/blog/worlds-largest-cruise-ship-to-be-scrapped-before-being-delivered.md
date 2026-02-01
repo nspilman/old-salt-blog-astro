@@ -1,7 +1,7 @@
 ---
 title: "World’s Largest Cruise Ship to be Scrapped Before Being Delivered"
 date: 2022-06-20T21:17:18
-slug: worlds-largest-cruise-ship-to-be-scrapped-before-being-delivered
+slug: "worlds-largest-cruise-ship-to-be-scrapped-before-being-delivered"
 excerpt: "A cruise ship that would have ranked as one of the world’s largest is going straight from the shipyard building ways to the scrappers.  Cruise and resort business operator, Genting HK, contracted with its own shipyard in 2016 to build … Continue reading &rarr;"
 categories:
   - "Current"

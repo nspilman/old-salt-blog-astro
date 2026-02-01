@@ -1,7 +1,7 @@
 ---
 title: "Gray Whale Swims Over Half Way Around the World"
 date: 2021-07-17T10:35:37
-slug: gray-whale-swims-over-half-way-around-the-world
+slug: "gray-whale-swims-over-half-way-around-the-world"
 excerpt: "In 2013, a male gray whale was spotted in Walvis Bay off Namibia, which was odd, as no gray whale had ever been seen in the Southern Hemisphere. Where did he come from? It took several years of research to … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "The French Navy Ship Insere and the Statue of Liberty"
 date: 2015-06-17T12:05:39
-slug: the-french-navy-ship-insere-and-the-statue-of-liberty
-excerpt: "Today’s “Google Doodle,” the changing graphic that appears at the top of the Google search page, is a whimsical memorial to the arrival of the Statue of Liberty in New York. “Google is celebrating America’s most famous gift from France … Continue reading &rarr;"
+slug: "the-french-navy-ship-insere-and-the-statue-of-liberty"
+excerpt: "Today’s \"Google Doodle,\" the changing graphic that appears at the top of the Google search page, is a whimsical memorial to the arrival of the Statue of Liberty in New York. \"Google is celebrating America’s most famous gift from France … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"

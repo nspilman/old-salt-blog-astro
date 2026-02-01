@@ -1,7 +1,7 @@
 ---
 title: "Saving the Gloucester Gillnetter Phyllis A."
 date: 2014-04-18T08:51:37
-slug: saving-the-gloucester-gillnetter-phyllis-a
+slug: "saving-the-gloucester-gillnetter-phyllis-a"
 excerpt: "The gillnetter Phyllis A., built in 1925, is the oldest fishing vessel in Gloucester, Massachusetts, which calls itself, America’s oldest seaport.  The Phyllis A. Marine Association, Inc.is raising money to promote the history of gillnetting in Gloucester, Massachusetts, through the … Continue reading &rarr;"
 categories:
   - "Current"

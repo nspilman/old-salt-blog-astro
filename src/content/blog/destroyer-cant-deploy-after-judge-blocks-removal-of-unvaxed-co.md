@@ -1,7 +1,7 @@
 ---
 title: "Destroyer Can’t Deploy After Judge Blocks Removal of Unvaxed CO"
 date: 2022-03-11T14:24:27
-slug: destroyer-cant-deploy-after-judge-blocks-removal-of-unvaxed-co
+slug: "destroyer-cant-deploy-after-judge-blocks-removal-of-unvaxed-co"
 excerpt: "Military.com reports that a federal judge in Florida has ruled that the US Navy cannot do anything to remove a commander of a destroyer, despite testimony that he has flouted the service’s rules for COVID-19 mitigation while seeking a religious … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

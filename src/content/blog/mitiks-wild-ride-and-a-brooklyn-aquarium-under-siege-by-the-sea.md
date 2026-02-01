@@ -1,13 +1,13 @@
 ---
 title: "Mitik’s Wild Ride and a Brooklyn Aquarium Under Siege by the Sea"
 date: 2012-11-08T11:14:43
-slug: mitiks-wild-ride-and-a-brooklyn-aquarium-under-siege-by-the-sea
+slug: "mitiks-wild-ride-and-a-brooklyn-aquarium-under-siege-by-the-sea"
 excerpt: "Mitik is the name given to a 234-pound 15-week-old orphaned walrus rescued from the open ocean off Alaska in early October. The walrus calf was transported aboard a FedEx cargo jet, accompanied by a veterinarian and a handler, and delivered to … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - ""superstorm" Sandy"
+  - "\"superstorm\" Sandy"
   - "15-week-old orphaned walrus"
   - "Coney Island Boardwalk"
   - "Mitik"

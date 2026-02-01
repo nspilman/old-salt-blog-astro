@@ -1,7 +1,7 @@
 ---
 title: "Lloyd’s List Intelligence Plots of Costa Concordia’s Previous Close Call"
 date: 2012-01-18T16:20:06
-slug: lloyds-list-intelligence-plots-of-costa-concordias-previous-close-call
+slug: "lloyds-list-intelligence-plots-of-costa-concordias-previous-close-call"
 excerpt: "Lloyd’s List Intelligence has published its AIS plots of the course of the Costa Concordia on January 13th, when she ran aground and sank, and her course on August 14th when she came within 230 meters of the shore of the island … Continue reading &rarr;"
 categories:
   - "Current"

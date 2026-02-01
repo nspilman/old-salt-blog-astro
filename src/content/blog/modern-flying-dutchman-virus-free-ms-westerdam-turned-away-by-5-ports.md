@@ -1,7 +1,7 @@
 ---
 title: "Modern Flying Dutchman? Virus-Free MS Westerdam Turned Away by 5 Ports"
 date: 2020-02-11T18:14:20
-slug: modern-flying-dutchman-virus-free-ms-westerdam-turned-away-by-5-ports
+slug: "modern-flying-dutchman-virus-free-ms-westerdam-turned-away-by-5-ports"
 excerpt: "The legend of the Flying Dutchman tells of a ship that can never make port and is doomed to sail the oceans forever. The roughly 2,200 passengers and crew of Holland America’s MS Westerdam must feel a bit like the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

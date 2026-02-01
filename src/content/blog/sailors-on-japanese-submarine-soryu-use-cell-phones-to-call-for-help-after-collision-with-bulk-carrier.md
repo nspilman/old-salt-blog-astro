@@ -1,7 +1,7 @@
 ---
 title: "Sailors on Japanese Submarine Soryu Use Cell Phones to Call For Help After Collision With Bulk Carrier"
 date: 2021-02-10T12:50:56
-slug: sailors-on-japanese-submarine-soryu-use-cell-phones-to-call-for-help-after-collision-with-bulk-carrier
+slug: "sailors-on-japanese-submarine-soryu-use-cell-phones-to-call-for-help-after-collision-with-bulk-carrier"
 excerpt: "Sailors on the Japanese submarine Soryu had to use their cell phones to call for help after the sub surfaced beneath a Chinese bulk carrier and damaged its radio mast, disabling its communications. Three of the submarine’s crew sustained minor … Continue reading &rarr;"
 categories:
   - "Current"

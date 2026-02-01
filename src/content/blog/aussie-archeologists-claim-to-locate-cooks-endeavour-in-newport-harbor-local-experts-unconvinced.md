@@ -1,7 +1,7 @@
 ---
 title: "Aussie Archeologists Claim To Locate Cook’s Endeavour in Newport Harbor, Local Experts Unconvinced"
 date: 2022-04-28T19:10:09
-slug: aussie-archeologists-claim-to-locate-cooks-endeavour-in-newport-harbor-local-experts-unconvinced
+slug: "aussie-archeologists-claim-to-locate-cooks-endeavour-in-newport-harbor-local-experts-unconvinced"
 excerpt: "The question is not so much whether the wreck of Captain Cook’s ship Endeavour rests at the bottom of the harbor in Newport, RI, but rather which of several wrecks it may be.  The Endeavour, renamed Lord Sandwich and outfitted … Continue reading &rarr;"
 categories:
   - "Current"

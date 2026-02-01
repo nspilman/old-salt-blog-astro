@@ -1,7 +1,7 @@
 ---
-title: "ICS: “GOVERNMENTS MUST DO MORE ON PIRACY”"
+title: "ICS: \"GOVERNMENTS MUST DO MORE ON PIRACY\""
 date: 2010-01-20T08:29:09
-slug: ics-%e2%80%9cgovernments-must-do-more-on-piracy%e2%80%9d
+slug: "ics-%e2%80%9cgovernments-must-do-more-on-piracy%e2%80%9d"
 excerpt: "The International Chamber of Shipping (ICS) issued a statement which we think is right on target. The current policy of disrupting but not consistently apprehending pirates has been a failure. The unacceptable situation prevailing now, with seafarers lives being threatened … Continue reading &rarr;"
 categories:
   - "Current"

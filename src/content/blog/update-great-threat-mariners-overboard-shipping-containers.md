@@ -1,8 +1,8 @@
 ---
 title: "Update: How Great a Threat to Mariners are Overboard Shipping Containers?"
 date: 2018-03-04T16:08:20
-slug: update-great-threat-mariners-overboard-shipping-containers
-excerpt: "As if the waters off North Carolina’s Outer Banks aren’t dangerous enough, this morning the US Coast Guard released an announcement that “70 stray cargo containers pose a threat to mariners off North Carolina.” The Maersk Shanghai lost approximately 70 to 73 cargo containers due … Continue reading &rarr;"
+slug: "update-great-threat-mariners-overboard-shipping-containers"
+excerpt: "As if the waters off North Carolina’s Outer Banks aren’t dangerous enough, this morning the US Coast Guard released an announcement that \"70 stray cargo containers pose a threat to mariners off North Carolina.\" The Maersk Shanghai lost approximately 70 to 73 cargo containers due … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "World Shipping Council"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/03/maerskshanghai.jpg"
 author: "Rick Spilman"
-description: "As if the waters off North Carolina’s Outer Banks aren’t dangerous enough, this morning the US Coast Guard released an announcement that “70 stray cargo containers pose a threat to mariners off North Carolina.” The Maersk Shanghai lost approximately 70 to 73 cargo containers due … Continue reading &rarr;"
+description: "As if the waters off North Carolina’s Outer Banks aren’t dangerous enough, this morning the US Coast Guard released an announcement that \"70 stray cargo containers pose a threat to mariners off North Carolina.\" The Maersk Shanghai lost approximately 70 to 73 cargo containers due … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/maerskshanghai.jpg)As if the waters off North Carolina’s Outer Banks aren’t dangerous enough, this morning the [US Coast Guard released an announcement](https://content.govdelivery.com/accounts/USDHSCG/bulletins/1df7483) that “*70 stray cargo containers pose a threat to mariners off North Carolina*.”

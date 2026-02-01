@@ -1,8 +1,8 @@
 ---
 title: "Quarterdeck Interview of Rick Spilman by George Jepson"
 date: 2015-05-05T18:08:09
-slug: quarterdeck-interview-of-rick-spilman-by-george-jepson
-excerpt: "I am very pleased to have been interviewed by George Jepson in the May/June issue of the McBooks Press‘ newsletter “Quarterdeck.”  If you haven’t run across “Quarterdeck” you should take a look. (A subscription is free.) This issue includes my … Continue reading &rarr;"
+slug: "quarterdeck-interview-of-rick-spilman-by-george-jepson"
+excerpt: "I am very pleased to have been interviewed by George Jepson in the May/June issue of the McBooks Press‘ newsletter \"Quarterdeck.\"  If you haven’t run across \"Quarterdeck\" you should take a look. (A subscription is free.) This issue includes my … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Newbooks"

@@ -1,7 +1,7 @@
 ---
 title: "Trump Regime Targets Filipino Cruise Ship Crews in Mass Deportations Without Due Process"
 date: 2025-09-20T21:23:19
-slug: trump-regime-targets-filipino-cruise-ship-crews-in-mass-deportations-without-due-process
+slug: "trump-regime-targets-filipino-cruise-ship-crews-in-mass-deportations-without-due-process"
 excerpt: "More than 100 Filipino crew members have been forcibly detained and deported by the US Customs and Border Protection (CBP). The crew members held valid visas, which were revoked by the CBP without due process. Foreign crew members hold visas … Continue reading &rarr;"
 categories:
   - "Current"

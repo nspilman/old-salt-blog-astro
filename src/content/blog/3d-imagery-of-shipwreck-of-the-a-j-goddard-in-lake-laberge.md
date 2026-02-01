@@ -1,7 +1,7 @@
 ---
 title: "3D Imagery of the A.J. Goddard in Lake Laberge"
 date: 2010-11-09T09:37:02
-slug: 3d-imagery-of-shipwreck-of-the-a-j-goddard-in-lake-laberge
+slug: "3d-imagery-of-shipwreck-of-the-a-j-goddard-in-lake-laberge"
 excerpt: "Klondike shipwreck brought to life with 3D scans A Gold Rush-era shipwreck at the bottom of a Yukon lake is coming to life with the help of cutting-edge digital 3D scan images. The images were produced in June by researchers … Continue reading &rarr;"
 categories:
   - "Current"

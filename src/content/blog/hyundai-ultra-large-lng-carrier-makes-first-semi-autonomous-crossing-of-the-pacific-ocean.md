@@ -1,7 +1,7 @@
 ---
 title: "Hyundai Ultra-Large LNG Carrier Makes First Semi-Autonomous Crossing of the Pacific Ocean"
 date: 2022-06-27T17:25:03
-slug: hyundai-ultra-large-lng-carrier-makes-first-semi-autonomous-crossing-of-the-pacific-ocean
+slug: "hyundai-ultra-large-lng-carrier-makes-first-semi-autonomous-crossing-of-the-pacific-ocean"
 excerpt: "Earlier this month, the 180,000 cubic meter ultra-large LNG carrier Prism Courage completed a voyage from the Gulf of Mexico to South Korea using a semi-autonomous navigation system developed by HD Hyundai subsidiary Avikus. Delivered to South Korea’s SK Shipping … Continue reading &rarr;"
 categories:
   - "Current"

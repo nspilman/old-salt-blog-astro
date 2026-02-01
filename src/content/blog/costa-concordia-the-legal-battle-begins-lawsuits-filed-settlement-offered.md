@@ -1,7 +1,7 @@
 ---
 title: "Costa Concordia – The Legal Battle Begins, Lawsuits Filed, Settlement Offered"
 date: 2012-01-27T15:02:32
-slug: costa-concordia-the-legal-battle-begins-lawsuits-filed-settlement-offered
+slug: "costa-concordia-the-legal-battle-begins-lawsuits-filed-settlement-offered"
 excerpt: "Micky Arison, the chairman, chief executive and part owner of Carnival Corp. has been keeping a very low profile since the grounding and sinking of the Costa Concordia two weeks ago.  He has stayed in Miami and let Pier Luigi … Continue reading &rarr;"
 categories:
   - "Current"

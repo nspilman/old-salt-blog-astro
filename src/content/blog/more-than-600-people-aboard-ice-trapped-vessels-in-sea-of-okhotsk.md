@@ -1,7 +1,7 @@
 ---
 title: "More than 600 people aboard ice-trapped vessels in Sea of Okhotsk"
 date: 2010-12-31T14:41:22
-slug: more-than-600-people-aboard-ice-trapped-vessels-in-sea-of-okhotsk
+slug: "more-than-600-people-aboard-ice-trapped-vessels-in-sea-of-okhotsk"
 excerpt: "Several news agencies are reporting that more than 600 crewmembers are aboard ten vessels trapped in the ice in the Sea of Okhotsk. More than 600 people aboard ice-trapped vessels in Sea of Okhotsk … Continue reading &rarr;"
 categories:
   - "Current"

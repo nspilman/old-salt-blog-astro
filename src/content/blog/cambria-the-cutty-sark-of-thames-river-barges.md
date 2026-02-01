@@ -1,7 +1,7 @@
 ---
 title: "Cambria, the Cutty Sark of Thames River Barges"
 date: 2012-09-21T16:28:08
-slug: cambria-the-cutty-sark-of-thames-river-barges
+slug: "cambria-the-cutty-sark-of-thames-river-barges"
 excerpt: "The first word one associates with speed under sail is probably not barge.  Nevertheless, Thames River barges are no slackers when the wind is blowing.  Recently, the folks at Cambria Trust posted a photo of a GPS screen on restored … Continue reading &rarr;"
 categories:
   - "Current"

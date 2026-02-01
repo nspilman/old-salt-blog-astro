@@ -1,7 +1,7 @@
 ---
 title: "Another City of Adelaide at Risk"
 date: 2010-04-06T09:11:25
-slug: another-city-of-adelaide-at-risk
+slug: "another-city-of-adelaide-at-risk"
 excerpt: "We have posted extensively about the oldest just barely surviving composite clipper ship, the City of Adelaide, which is in danger of being broken up in May. We have also noted the arguments over the HMAS Adelaide, which may or may … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "A Terrible Year for the North Atlantic Right Whale"
 date: 2018-02-27T09:48:49
-slug: terrible-year-north-atlantic-right-whale
+slug: "terrible-year-north-atlantic-right-whale"
 excerpt: "2017 was a disastrous year for the North Atlantic right whale and 2018 looks no better. In fact, it could be worse. Last year 17 North Atlantic right whales, died which is more than died in the past five years … Continue reading &rarr;"
 categories:
   - "Current"

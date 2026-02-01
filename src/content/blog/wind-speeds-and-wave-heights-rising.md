@@ -1,7 +1,7 @@
 ---
 title: "Wind Speeds and Wave Heights Rising"
 date: 2011-03-31T18:28:07
-slug: wind-speeds-and-wave-heights-rising
+slug: "wind-speeds-and-wave-heights-rising"
 excerpt: "Does the wind seem to blowing harder and the waves growing ever higher? Perhaps they are after all. A new study finds that wind speeds and wave heights have been rising significantly over the last two decades. Study finds oceanic … Continue reading &rarr;"
 categories:
   - "Current"

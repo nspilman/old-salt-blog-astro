@@ -1,7 +1,7 @@
 ---
 title: "A Meandering Maiden Voyage for the World’s Largest Bulk Carrier, Vale Brasil"
 date: 2011-06-23T16:43:43
-slug: a-meandering-maiden-voyage-for-the-worlds-largest-bulk-carrier-vale-brasil
+slug: "a-meandering-maiden-voyage-for-the-worlds-largest-bulk-carrier-vale-brasil"
 excerpt: "The Vale Brasil is the world’s largest dry bulk carrier with a deadweight of over 400,000 tons.  The Singapore flag ship is currently on her maiden voyage with a cargo of 391,000 tons of iron ore.   This is enough iron ore … Continue reading &rarr;"
 categories:
   - "Current"

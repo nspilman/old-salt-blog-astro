@@ -1,7 +1,7 @@
 ---
 title: "New Memorial to NY Tug Crew Abducted by UFO in 1977"
 date: 2018-10-28T14:52:22
-slug: new-memorial-to-ny-tug-crew-abducted-by-ufo-in-1977
+slug: "new-memorial-to-ny-tug-crew-abducted-by-ufo-in-1977"
 excerpt: "A new bronze statue, pedestal, and plaque have been erected at New York’s Battery Park, memorializing the six crew of the harbor tug Maria 120 who mysteriously vanished during the New York City blackout of 1977. Some believe that the … Continue reading &rarr;"
 categories:
   - "Current"

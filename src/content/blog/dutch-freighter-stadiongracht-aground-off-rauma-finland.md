@@ -1,8 +1,8 @@
 ---
 title: "Dutch freighter Stadiongracht aground off Rauma, Finland"
 date: 2010-12-30T09:26:53
-slug: dutch-freighter-stadiongracht-aground-off-rauma-finland
-excerpt: "A lousy time of the year to run aground off Finland. Then again, there aren’t too many good times of the year to run aground.  Thanks to Dick Bal for passing the news along. Dutch freighter “Stadiongracht” aground off Rauma … Continue reading &rarr;"
+slug: "dutch-freighter-stadiongracht-aground-off-rauma-finland"
+excerpt: "A lousy time of the year to run aground off Finland. Then again, there aren’t too many good times of the year to run aground.  Thanks to Dick Bal for passing the news along. Dutch freighter \"Stadiongracht\" aground off Rauma … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Rauma"
   - "Stadiongracht"
 author: "Rick Spilman"
-description: "A lousy time of the year to run aground off Finland. Then again, there aren’t too many good times of the year to run aground.  Thanks to Dick Bal for passing the news along. Dutch freighter “Stadiongracht” aground off Rauma … Continue reading &rarr;"
+description: "A lousy time of the year to run aground off Finland. Then again, there aren’t too many good times of the year to run aground.  Thanks to Dick Bal for passing the news along. Dutch freighter \"Stadiongracht\" aground off Rauma … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/u1_1181724.jpg)

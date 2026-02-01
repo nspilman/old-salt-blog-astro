@@ -1,7 +1,7 @@
 ---
 title: "The Biggest  Little Shipbuilder in the Netherlands"
 date: 2011-07-21T09:54:10
-slug: the-biggest-little-shipbuilder-in-the-netherlands
+slug: "the-biggest-little-shipbuilder-in-the-netherlands"
 excerpt: "AllOnScale in Rotterdam builds around 1,000 ships a year.  The ships are all rather small, however, ranging from around 20 cm to several meters. AllOnScale is a leading ship model maker specializing in the production of small series in scales … Continue reading &rarr;"
 categories:
   - "Current"

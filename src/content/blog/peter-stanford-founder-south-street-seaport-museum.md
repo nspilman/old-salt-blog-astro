@@ -1,7 +1,7 @@
 ---
 title: "Peter Stanford, South Street Seaport Museum Founder, Dies at 89"
 date: 2016-03-25T10:45:36
-slug: peter-stanford-founder-south-street-seaport-museum
+slug: "peter-stanford-founder-south-street-seaport-museum"
 excerpt: "Peter Stanford, an icon of maritime historical preservation in the United States, died yesterday at the age of 89. In 1967, Peter and his wife Norma founded the South Street Seaport Museum on New York City’s East River waterfront. Peter Stanford … Continue reading &rarr;"
 categories:
   - "Current"

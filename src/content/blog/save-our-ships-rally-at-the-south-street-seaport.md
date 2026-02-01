@@ -1,7 +1,7 @@
 ---
 title: "Save our Ships Rally at the South Street Seaport"
 date: 2011-05-23T17:41:02
-slug: save-our-ships-rally-at-the-south-street-seaport
+slug: "save-our-ships-rally-at-the-south-street-seaport"
 excerpt: "I was out of town so I could not attend the Save our Ships Rally at the South Street Seaport yesterday.  Fortunately foo those of us who couldn’t make it,  there are some great photos at Will van Dorp’s Tugster blog, the Save … Continue reading &rarr;"
 categories:
   - "Current"

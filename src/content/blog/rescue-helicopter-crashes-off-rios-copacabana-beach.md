@@ -1,7 +1,7 @@
 ---
 title: "Rescue Helicopter Crashes off Rio’s Copacabana Beach"
 date: 2013-01-01T12:30:55
-slug: rescue-helicopter-crashes-off-rios-copacabana-beach
+slug: "rescue-helicopter-crashes-off-rios-copacabana-beach"
 excerpt: "From time to time, it is worth being reminded just how difficult it is to pilot a helicopter over wind and waves.  Despite signs warning of dangerous conditions, a swimmer got into trouble in the ocean off Rio de Janeiro ‘s … Continue reading &rarr;"
 categories:
   - "Current"

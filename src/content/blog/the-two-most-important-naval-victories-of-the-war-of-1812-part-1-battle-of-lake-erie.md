@@ -1,7 +1,7 @@
 ---
 title: "The Two Most Important Naval Victories of the War of 1812 – Part 1: Battle of Lake Erie"
 date: 2012-09-10T11:30:01
-slug: the-two-most-important-naval-victories-of-the-war-of-1812-part-1-battle-of-lake-erie
+slug: "the-two-most-important-naval-victories-of-the-war-of-1812-part-1-battle-of-lake-erie"
 excerpt: "The best known naval battles of the War of 1812 were single ship duels between US Navy frigates and ships of the Royal Navy.  Nevertheless, the two most important American naval victories of the War of 1812 were fought in fresh water, hundreds of  miles from the ocean. … Continue reading &rarr;"
 categories:
   - "History"

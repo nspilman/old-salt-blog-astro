@@ -1,7 +1,7 @@
 ---
 title: "The Texas City Disaster – the Explosions of the SS Grandcamp & the SS High Flyer"
 date: 2013-04-19T09:54:02
-slug: the-texas-city-disaster-the-explosions-of-the-ss-grandcamp-the-ss-high-flyer
+slug: "the-texas-city-disaster-the-explosions-of-the-ss-grandcamp-the-ss-high-flyer"
 excerpt: "On Wednesday night, a huge explosion ripped through West, Texas; a small central Texas town, south of Dallas. The fertilizer factory caught fire and exploded, leveling homes and buildings for a five blocks area, killing from 5 – 40 people and injuring … Continue reading &rarr;"
 categories:
   - "Current"

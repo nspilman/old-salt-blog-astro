@@ -1,7 +1,7 @@
 ---
 title: "Help PortSide & Tanker Mary Whalen Create Jobs for Inner City Kids this Summer"
 date: 2011-05-28T08:01:34
-slug: help-portside-tanker-mary-whalen-create-jobs-for-inner-city-kids-this-summer
+slug: "help-portside-tanker-mary-whalen-create-jobs-for-inner-city-kids-this-summer"
 excerpt: "We recently posted about the tanker Mary Whalen being deemed eligible to be listed on the National Register of Historic Places.   PortSide New York and the Mary Whalen are also participating in New York City’s Summer Youth Employment Program, which provides meaningful summer work for … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

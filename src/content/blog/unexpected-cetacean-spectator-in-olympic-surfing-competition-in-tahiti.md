@@ -1,7 +1,7 @@
 ---
 title: "Unexpected Cetacean Spectator in Olympic Surfing Competition in Tahiti"
 date: 2024-08-06T18:03:23
-slug: unexpected-cetacean-spectator-in-olympic-surfing-competition-in-tahiti
+slug: "unexpected-cetacean-spectator-in-olympic-surfing-competition-in-tahiti"
 excerpt: "Most of the 2024 Summer Olympic Games have been held in Paris. The surfing competition, however, took place some 9,800 miles from Paris in the French Polynesian island of Tahiti.  NPR reports that while Brazil’s Tatiana Weston-Webb and Costa Rica’s … Continue reading &rarr;"
 categories:
   - "Current"

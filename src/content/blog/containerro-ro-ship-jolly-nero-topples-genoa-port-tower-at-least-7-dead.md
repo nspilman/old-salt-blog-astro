@@ -1,7 +1,7 @@
 ---
 title: "Container/Ro-Ro Ship Jolly Nero Topples Genoa Port Tower, At Least 7 Dead"
 date: 2013-05-08T10:22:29
-slug: containerro-ro-ship-jolly-nero-topples-genoa-port-tower-at-least-7-dead
+slug: "containerro-ro-ship-jolly-nero-topples-genoa-port-tower-at-least-7-dead"
 excerpt: "The container/ro-ro ship Jolly Nero  slammed into the port control tower in Genoa, Italy on Tuesday night around 11PM, destroying the 165 ft-tall cement tower and killing at least seven.  Four people were reported to be injured  and at least two are still missing.  … Continue reading &rarr;"
 categories:
   - "Current"

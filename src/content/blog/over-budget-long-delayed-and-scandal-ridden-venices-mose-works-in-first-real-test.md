@@ -1,7 +1,7 @@
 ---
 title: "Over-Budget, Long Delayed and Scandal Ridden, Venice’s MOSE Works in First Real Test"
 date: 2020-10-17T08:03:44
-slug: over-budget-long-delayed-and-scandal-ridden-venices-mose-works-in-first-real-test
+slug: "over-budget-long-delayed-and-scandal-ridden-venices-mose-works-in-first-real-test"
 excerpt: "Venice, Italy is sinking at about 1mm per year. The sea level in the Northern Adriatic is rising. At peak tidal conditions, referred to as acqua alta, almost half of Venice’s streets have been known to flood.  None of this … Continue reading &rarr;"
 categories:
   - "Current"

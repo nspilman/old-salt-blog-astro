@@ -1,7 +1,7 @@
 ---
 title: "Update: Brig Astrid Bound for the Scrap Yard"
 date: 2013-09-23T12:03:24
-slug: update-brig-astrid-bound-scrap-yard
+slug: "update-brig-astrid-bound-scrap-yard"
 excerpt: "On July 24th, the Dutch sail-training brig Astrid sank after running aground on rocks on the Irish coast on the western mouth of Oysterhaven, near Cork.   On September 13th, the ship was lifted off the rocks using a 937-tonne floating … Continue reading &rarr;"
 categories:
   - "Current"

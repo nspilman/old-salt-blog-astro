@@ -1,8 +1,8 @@
 ---
 title: "Monterey Bay Megapod – Humpbacks, Dolphins, & Sea Lions, Oh My!"
 date: 2013-09-07T08:47:15
-slug: monterey-bay-megapod-humpbacks-dolphins-sea-lions-oh-my
-excerpt: "An amazing video by Monterey Bay Whale Watch of a “megapod” of humpback whales, sea lions, and dolphins, taken off the coast of California on September 4th. Humpback Whale MEGAPOD! From Monterey Bay Whale Watch:  This video was taken on a … Continue reading &rarr;"
+slug: "monterey-bay-megapod-humpbacks-dolphins-sea-lions-oh-my"
+excerpt: "An amazing video by Monterey Bay Whale Watch of a \"megapod\" of humpback whales, sea lions, and dolphins, taken off the coast of California on September 4th. Humpback Whale MEGAPOD! From Monterey Bay Whale Watch:  This video was taken on a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Pacific White-sided Dolphins"
   - "Risso's dolphins"
 author: "Rick Spilman"
-description: "An amazing video by Monterey Bay Whale Watch of a “megapod” of humpback whales, sea lions, and dolphins, taken off the coast of California on September 4th. Humpback Whale MEGAPOD! From Monterey Bay Whale Watch:  This video was taken on a … Continue reading &rarr;"
+description: "An amazing video by Monterey Bay Whale Watch of a \"megapod\" of humpback whales, sea lions, and dolphins, taken off the coast of California on September 4th. Humpback Whale MEGAPOD! From Monterey Bay Whale Watch:  This video was taken on a … Continue reading &rarr;"
 ---
 
 An amazing video by [Monterey Bay Whale Watch](https://www.facebook.com/pages/Monterey-Bay-Whale-Watch/170012223096521?ref=stream) of a “megapod” of humpback whales, sea lions, and dolphins, taken off the coast of California on September 4th.

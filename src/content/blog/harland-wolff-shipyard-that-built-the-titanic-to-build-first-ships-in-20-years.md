@@ -1,7 +1,7 @@
 ---
 title: "Harland & Wolff, Shipyard That Built the Titanic, to Build First Ships in 20 Years"
 date: 2023-02-15T18:35:16
-slug: harland-wolff-shipyard-that-built-the-titanic-to-build-first-ships-in-20-years
+slug: "harland-wolff-shipyard-that-built-the-titanic-to-build-first-ships-in-20-years"
 excerpt: "Harland & Wolff, the Belfast-based shipyard, has recently signed a  £ 1.6 billion contract to build three support ships for the Royal Navy in partnership with Spanish state-owned Navantia. The shipyard built more than 1,600 ships, including the RMS Titanic. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Mystic Seaport Wooden Boat Show, June 25 – 27"
 date: 2010-06-23T20:33:40
-slug: mystic-seaport-wooden-boat-show-june-25-27
+slug: "mystic-seaport-wooden-boat-show-june-25-27"
 excerpt: "A wonderful boat show in a enchanting setting, the Mystic Seaport Wooden Boat Show starts this Friday. I am seriously annoyed that it looks like I will be be missing it again this year.    The show is hosted in partnership with Wooden Boat … Continue reading &rarr;"
 categories:
   - "Current"

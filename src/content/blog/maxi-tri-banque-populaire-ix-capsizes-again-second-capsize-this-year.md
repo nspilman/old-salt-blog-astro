@@ -1,7 +1,7 @@
 ---
 title: "Maxi-Tri Banque Populaire IX Capsizes Again, Second Capsize This Year"
 date: 2018-11-08T09:44:57
-slug: maxi-tri-banque-populaire-ix-capsizes-again-second-capsize-this-year
+slug: "maxi-tri-banque-populaire-ix-capsizes-again-second-capsize-this-year"
 excerpt: "French sailor Armel Le Cléac’h capsized in the Atlantic, 340 miles northeast of the Azores, while sailing the maxi-tri Banque Populaire IX in the Route du Rhum — Destination Guadeloupe single-handed race. The boat appears to have capsized after the structural failure of … Continue reading &rarr;"
 categories:
   - "Current"

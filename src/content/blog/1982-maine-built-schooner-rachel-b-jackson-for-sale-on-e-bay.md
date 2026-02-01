@@ -1,8 +1,8 @@
 ---
 title: "1982 Maine Built Schooner Rachel B. Jackson for Sale on E-Bay"
 date: 2010-06-07T08:31:02
-slug: 1982-maine-built-schooner-rachel-b-jackson-for-sale-on-e-bay
-excerpt: "The schooner Rachel B. Jackson was on sale on E-Bay this morning.   The minimum bid was $175,000 with a “Buy it Now” price of $225,000.    The bidding ended at around 8:00 this morning EST without any bids having been … Continue reading &rarr;"
+slug: "1982-maine-built-schooner-rachel-b-jackson-for-sale-on-e-bay"
+excerpt: "The schooner Rachel B. Jackson was on sale on E-Bay this morning.   The minimum bid was $175,000 with a \"Buy it Now\" price of $225,000.    The bidding ended at around 8:00 this morning EST without any bids having been … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "schooner"
   - "Victory Chimes"
 author: "Rick Spilman"
-description: "The schooner Rachel B. Jackson was on sale on E-Bay this morning.   The minimum bid was $175,000 with a “Buy it Now” price of $225,000.    The bidding ended at around 8:00 this morning EST without any bids having been … Continue reading &rarr;"
+description: "The schooner Rachel B. Jackson was on sale on E-Bay this morning.   The minimum bid was $175,000 with a \"Buy it Now\" price of $225,000.    The bidding ended at around 8:00 this morning EST without any bids having been … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/rachel.jpg)The [schooner *Rachel B. Jackson* was on sale on E-Bay](http://cgi.ebay.com/ebaymotors/ws/eBayISAPI.dll?ViewItem&item=190401407610#ht_500wt_1182) this morning.   The minimum bid was $175,000 with a “Buy it Now” price of $225,000.    The bidding ended at around 8:00 this morning EST without any bids having been made.   The schooner is described on her [website](http://www.downeastsail.com/index.htm):

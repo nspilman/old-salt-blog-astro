@@ -1,7 +1,7 @@
 ---
 title: "More Supply Chains Woes — Strikes at West Coast Ports"
 date: 2023-06-05T12:15:08
-slug: more-supply-chains-woes-strikes-at-west-coast-ports
+slug: "more-supply-chains-woes-strikes-at-west-coast-ports"
 excerpt: "Following over a year of negotiations, labor negotiations at US West Coast ports have stalled, resulting in a wave of strikes. As reported by Splash247.com, the Pacific Maritime Association (PMA), which represents more than 22,000 dock workers at West Coast … Continue reading &rarr;"
 categories:
   - "Current"

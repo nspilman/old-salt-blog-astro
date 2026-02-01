@@ -1,7 +1,7 @@
 ---
 title: "Lifting Maud from the Mud — Amundsen’s Ship Floats Again"
 date: 2016-08-10T16:05:09
-slug: lifting-maud-mud-amundsens-ship-floats
+slug: "lifting-maud-mud-amundsens-ship-floats"
 excerpt: "A team of Norwegians have spent the last six summers in Cambridge Bay off the Nunavut territory of northern Canada attempting to raise Arctic explorer Roald Amundsen‘s research ship Maud from where it has been sitting in ice and mud … Continue reading &rarr;"
 categories:
   - "Current"

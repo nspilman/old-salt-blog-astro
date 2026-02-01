@@ -1,7 +1,7 @@
 ---
 title: "Update: Russian Superyacht, Nearly Sunk by Ukrainian Engineer, Seized by Spain Along With Two Others"
 date: 2022-03-16T16:21:45
-slug: update-russian-superyacht-nearly-sunk-by-ukrainian-engineer-seized-by-spain-along-with-two-others
+slug: "update-russian-superyacht-nearly-sunk-by-ukrainian-engineer-seized-by-spain-along-with-two-others"
 excerpt: "Spain has recently seized three Russian superyachts believed to be subject to EU sanctions, including the 48-meter-long $7 million Lady Anastasia, which was partially sunk when sabotaged by its Ukrainian chief engineer. Taras Ostapchuk, 55, the engineer was said to … Continue reading &rarr;"
 categories:
   - "Current"

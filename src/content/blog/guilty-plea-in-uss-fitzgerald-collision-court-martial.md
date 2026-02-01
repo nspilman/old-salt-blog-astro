@@ -1,7 +1,7 @@
 ---
 title: "Guilty Plea in USS Fitzgerald Collision Court-Martial"
 date: 2018-05-09T09:40:18
-slug: guilty-plea-in-uss-fitzgerald-collision-court-martial
+slug: "guilty-plea-in-uss-fitzgerald-collision-court-martial"
 excerpt: "The US Navy courts-martial of the officers of the USS Fitzgerald have begun. The Arleigh Burke-class destroyer collided with the Philippine-flagged container ship, ACX Crystal near Yokosuka, Japan on June 17, 2017, killing 9 US sailors. A Navy investigation concluded that the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

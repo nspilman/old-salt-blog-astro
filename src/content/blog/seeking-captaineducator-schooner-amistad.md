@@ -1,7 +1,7 @@
 ---
 title: "Seeking Captain/Educator for Schooner Amistad"
 date: 2017-01-08T20:33:44
-slug: seeking-captaineducator-schooner-amistad
+slug: "seeking-captaineducator-schooner-amistad"
 excerpt: "Almost exactly a year ago, we posted, The Return of the Schooner Amistad, about the efforts of the non-profit, Discovering Amistad, to return the schooner to operation.  Discovering Amistad has recently announced that it is searching for a Captain/Educator for the  replica … Continue reading &rarr;"
 categories:
   - "Current"

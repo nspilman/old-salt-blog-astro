@@ -1,7 +1,7 @@
 ---
 title: "What to See at the Bottom of the Sea – the Barren, Desolate Lunar Plain of the Challenger Deep"
 date: 2012-03-27T11:13:24
-slug: what-to-see-at-the-bottom-of-the-sea-the-barren-desolate-lunar-plain-of-the-challenger-deep
+slug: "what-to-see-at-the-bottom-of-the-sea-the-barren-desolate-lunar-plain-of-the-challenger-deep"
 excerpt: "On January 23, 1960, Jacques Piccard  and USN Lieutenant Don Walsh spent twenty minutes at the bottom at Challenger Deep in the  bathyscaphe Trieste.  Unfortunately, their landing on the sea bed stirred up a cloud of silt which reduced visibility to zero, and they … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Why is the Ocean Salty? Is the Old Answer Wrong?"
 date: 2015-06-20T10:31:50
-slug: why-is-the-ocean-salty-is-the-old-answer-wrong
-excerpt: "I remember when I was quite young, I asked the question, “Why is the ocean salty?” We had just visited my grandparents in Florida and I had discovered first hand just how salty the seawater in the Gulf of Mexico could … Continue reading &rarr;"
+slug: "why-is-the-ocean-salty-is-the-old-answer-wrong"
+excerpt: "I remember when I was quite young, I asked the question, \"Why is the ocean salty?\" We had just visited my grandparents in Florida and I had discovered first hand just how salty the seawater in the Gulf of Mexico could … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

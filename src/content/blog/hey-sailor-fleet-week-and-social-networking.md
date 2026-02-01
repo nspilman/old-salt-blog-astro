@@ -1,7 +1,7 @@
 ---
 title: "Hey Sailor – Fleet Week and Social Networking"
 date: 2011-05-29T08:04:24
-slug: hey-sailor-fleet-week-and-social-networking
+slug: "hey-sailor-fleet-week-and-social-networking"
 excerpt: "The times are changing. No news there. Rather than welcoming the sailors and marines on the docks, some New Yorkers are reaching out to sailors during Fleet Week using social networking.  Some sailors and marines are connecting with New Yorkers the same way.  Craigslist seems … Continue reading &rarr;"
 categories:
   - "Current"

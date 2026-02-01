@@ -1,7 +1,7 @@
 ---
 title: "New From Old Salt Press — Angel’s Share: A Story from the World of The Astreya Trilogy"
 date: 2020-09-29T12:17:51
-slug: new-from-old-salt-press-angels-share-a-story-from-the-world-of-the-astreya-trilogy
+slug: "new-from-old-salt-press-angels-share-a-story-from-the-world-of-the-astreya-trilogy"
 excerpt: "The second of two wonderful books recently released by Old Salt Press. Today we are spotlighting Angel’s Share: A Story from the World of The Astreya Trilogy by Seymour Hamilton. About the book: Angel, a very old man who once … Continue reading &rarr;"
 categories:
   - "Newbooks"

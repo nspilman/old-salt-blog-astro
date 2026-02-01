@@ -1,7 +1,7 @@
 ---
 title: "Descendants of the Clotilda, the Last Slave Ship, Commemorate Discovery of the Wreck"
 date: 2022-02-10T18:40:38
-slug: descendants-of-the-clotilda-the-last-slave-ship-commemorate-discovery-of-the-wreck
+slug: "descendants-of-the-clotilda-the-last-slave-ship-commemorate-discovery-of-the-wreck"
 excerpt: "For several years, we have followed the search for and the ultimate discovery of the schooner Clotilda, believed to be the last ship to carry enslaved Africans to the United States. Now, descendants of the survivors are commemorating the discovery … Continue reading &rarr;"
 categories:
   - "Current"

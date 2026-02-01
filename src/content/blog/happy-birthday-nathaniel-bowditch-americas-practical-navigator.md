@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday Nathaniel Bowditch, America’s Practical Navigator"
 date: 2011-03-26T20:04:53
-slug: happy-birthday-nathaniel-bowditch-americas-practical-navigator
+slug: "happy-birthday-nathaniel-bowditch-americas-practical-navigator"
 excerpt: "Every US naval ship and most American merchant ships carry aboard a copy of the American Practical Navigator, which most refer to simply as Bowditch, after Nathaniel Bowditch, the author of the first edition in 1802.   On March 26,  1773,  Nathaniel Bowditch, the fifth of seven children, … Continue reading &rarr;"
 categories:
   - "History"

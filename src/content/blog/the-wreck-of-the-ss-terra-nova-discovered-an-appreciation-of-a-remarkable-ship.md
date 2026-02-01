@@ -1,7 +1,7 @@
 ---
 title: "The Wreck of the SS Terra Nova Discovered – An Appreciation of a Remarkable Ship"
 date: 2012-08-21T16:22:06
-slug: the-wreck-of-the-ss-terra-nova-discovered-an-appreciation-of-a-remarkable-ship
+slug: "the-wreck-of-the-ss-terra-nova-discovered-an-appreciation-of-a-remarkable-ship"
 excerpt: "Last week it was announced that the wreck of SS Terra Nova, the ship that had carried Robert Scott on his ill-fated quest to be the first to reach the South Pole, had been located off Greenland. In July, the … Continue reading &rarr;"
 categories:
   - "Current"

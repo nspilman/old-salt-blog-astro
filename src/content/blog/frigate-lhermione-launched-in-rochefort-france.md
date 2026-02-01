@@ -1,7 +1,7 @@
 ---
 title: "Update: Frigate L’Hermione Launched in Rochefort, France"
 date: 2012-07-07T07:50:47
-slug: frigate-lhermione-launched-in-rochefort-france
+slug: "frigate-lhermione-launched-in-rochefort-france"
 excerpt: "After fifteen years of work, the replica of the frigate L’Hermione was launched yesterday into the Charente River in Rochefort, France.  The original  frigate L’Hermione, on March 21, 1780, carried the the 23 year old Gilbert du Motier, better known as the Marquis de Lafayette, to America … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

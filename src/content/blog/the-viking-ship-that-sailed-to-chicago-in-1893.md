@@ -1,7 +1,7 @@
 ---
 title: "The Viking Longship that Sailed to Chicago in 1893"
 date: 2016-07-31T18:03:41
-slug: the-viking-ship-that-sailed-to-chicago-in-1893
+slug: "the-viking-ship-that-sailed-to-chicago-in-1893"
 excerpt: "The replica Viking longship Draken Harald Hårfagre successfully crossed the Atlantic and made it to the the Pepsi Tall Ships Chicago 2016 festival, which took place this weekend, despite challenges associated with paying Great lakes pilotage fees.  Building a replica … Continue reading &rarr;"
 categories:
   - "History"

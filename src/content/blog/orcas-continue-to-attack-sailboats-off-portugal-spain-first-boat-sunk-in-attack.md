@@ -1,7 +1,7 @@
 ---
 title: "Orcas Continue to Attack Sailboats Off Portugal & Spain — First Boat Sunk in Attack"
 date: 2022-08-09T17:11:14
-slug: orcas-continue-to-attack-sailboats-off-portugal-spain-first-boat-sunk-in-attack
+slug: "orcas-continue-to-attack-sailboats-off-portugal-spain-first-boat-sunk-in-attack"
 excerpt: "In 2020 and 2021, orca whales started attacking sailboats and fishing boats cruising off the Iberian peninsula and in the Mediterranian near the Strait of Gibraltar. Pods of juvenile orcas rammed sailboats and often grabbed their rudders or keels. More … Continue reading &rarr;"
 categories:
   - "Current"

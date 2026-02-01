@@ -1,7 +1,7 @@
 ---
 title: "The Long Strange Voyage of Kemp’s Ridley Sea Turtle, Johnny Vasco da Gama"
 date: 2011-12-27T11:37:58
-slug: the-long-strange-voyage-of-kemps-ridley-sea-turtle-johnny-vasco-da-gama
+slug: "the-long-strange-voyage-of-kemps-ridley-sea-turtle-johnny-vasco-da-gama"
 excerpt: "In 2008, a young Kemp’s ridley sea turtle washed up, stranded, in the Netherlands.  Kemp’s ridleys are the smallest and rarest of all sea turtles and are a critically endangered species.  The Kemp’s ridley turtles typically live in the warm waters of the Gulf … Continue reading &rarr;"
 categories:
   - "Current"

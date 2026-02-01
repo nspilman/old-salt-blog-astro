@@ -1,7 +1,7 @@
 ---
 title: "Wind Farm vs the Blowhard – Donald Trumped in Scotland"
 date: 2013-03-29T09:00:45
-slug: donald-trumped
+slug: "donald-trumped"
 excerpt: "The Scottish government ignored the bluff, bluster and threats made by the bilious, billionaire blowhard, Donald Trump, and approved the installation of eleven wind turbines in an experimental offshore wind farm off the coast of Aberdeen. Trump is strongly of the view that the wind … Continue reading &rarr;"
 categories:
   - "Current"

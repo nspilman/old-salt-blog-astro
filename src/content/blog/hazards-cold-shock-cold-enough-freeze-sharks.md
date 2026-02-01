@@ -1,7 +1,7 @@
 ---
 title: "The Hazards of Cold Shock — When It is Cold Enough to Freeze Sharks"
 date: 2017-12-29T18:14:27
-slug: hazards-cold-shock-cold-enough-freeze-sharks
+slug: "hazards-cold-shock-cold-enough-freeze-sharks"
 excerpt: "It is brutally cold on the Northeast coast of the US right now. Temperatures are hovering around the 20s F (in negative digits measured when in Celcius) from Virgina to the Canadian border. It is so cold there are reports of sharks freezing. … Continue reading &rarr;"
 categories:
   - "Current"

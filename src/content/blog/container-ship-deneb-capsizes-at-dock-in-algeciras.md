@@ -1,7 +1,7 @@
 ---
 title: "Container Ship Deneb Capsizes at Dock in Algeciras"
 date: 2011-06-14T08:15:42
-slug: container-ship-deneb-capsizes-at-dock-in-algeciras
+slug: "container-ship-deneb-capsizes-at-dock-in-algeciras"
 excerpt: "Another capsize in the news. Last Saturday, the container feeder ship Deneb capsized at the Maersk terminal in Algeciras, Spain.   Cargo handling had been shut down  due to stability concerns. A few hours later the ship rapidly listed to 50 … Continue reading &rarr;"
 categories:
   - "Current"

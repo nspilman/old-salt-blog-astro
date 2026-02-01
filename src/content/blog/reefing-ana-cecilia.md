@@ -1,7 +1,7 @@
 ---
 title: "Reefing the Ana Cecilia"
 date: 2016-07-21T10:35:18
-slug: reefing-ana-cecilia
+slug: "reefing-ana-cecilia"
 excerpt: "Last week, we posted about the upcoming scuttling of the Luck Lady, ex-Newtown Creek, later this month as an artificial reef off Pompano Beach, FL. Recently, about fifty miles to the north of Pompano, the cargo ship Ana Cecilia was sunk about 1.25 … Continue reading &rarr;"
 categories:
   - "Current"

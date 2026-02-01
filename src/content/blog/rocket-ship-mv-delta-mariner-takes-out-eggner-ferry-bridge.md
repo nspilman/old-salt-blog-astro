@@ -1,7 +1,7 @@
 ---
-title: "“Rocket Ship,” MV Delta Mariner Takes Out Eggner Ferry Bridge"
+title: "\"Rocket Ship,\" MV Delta Mariner Takes Out Eggner Ferry Bridge"
 date: 2012-01-27T17:25:48
-slug: rocket-ship-mv-delta-mariner-takes-out-eggner-ferry-bridge
+slug: "rocket-ship-mv-delta-mariner-takes-out-eggner-ferry-bridge"
 excerpt: "Last night around 8PM, the supply ship, MV Delta Mariner, operated by Foss Maritime, struck the Eggner Ferry Bridge on the Tennessee River in Kentucky, taking out a 300′ span.  The MV Delta Mariner is a 312-foot long and 8,000 horsepower supply ship,  designed … Continue reading &rarr;"
 categories:
   - "Current"

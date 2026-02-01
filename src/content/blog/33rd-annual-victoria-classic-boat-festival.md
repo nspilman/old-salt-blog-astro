@@ -1,7 +1,7 @@
 ---
 title: "33rd Annual Victoria Classic Boat Festival"
 date: 2010-09-03T07:51:36
-slug: 33rd-annual-victoria-classic-boat-festival
+slug: "33rd-annual-victoria-classic-boat-festival"
 excerpt: "The inner harbor of beautiful Victoria, Canada on Vancouver Island will be  filled with between 75 to 100 classic boats beginning today and running through the Sunday at the 33rd Annual Victoria Classic Boat Festival. Harbour plays host to classic boat fest … Continue reading &rarr;"
 categories:
   - "Current"

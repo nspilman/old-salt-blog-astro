@@ -1,8 +1,8 @@
 ---
 title: "Update: Yara Birkeland, Crewless Electric Container Ship, First Voyage by Year’s End"
 date: 2021-08-26T16:46:31
-slug: update-yara-birkeland-crewless-electric-container-ship-first-voyage-by-years-end
-excerpt: "In 2017, we posted “ Yara Birkeland, Autonomous Container Ship — Is This Really a Good Idea?” The question remains unanswered, but we may have a better idea when the 103 TEU, all-electric, crewless feeder ship is delivered and completes its … Continue reading &rarr;"
+slug: "update-yara-birkeland-crewless-electric-container-ship-first-voyage-by-years-end"
+excerpt: "In 2017, we posted \" Yara Birkeland, Autonomous Container Ship — Is This Really a Good Idea?\" The question remains unanswered, but we may have a better idea when the 103 TEU, all-electric, crewless feeder ship is delivered and completes its … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Yara Birkeland"
   - "Yara International"
 author: "Rick Spilman"
-description: "In 2017, we posted “ Yara Birkeland, Autonomous Container Ship — Is This Really a Good Idea?” The question remains unanswered, but we may have a better idea when the 103 TEU, all-electric, crewless feeder ship is delivered and completes its … Continue reading &rarr;"
+description: "In 2017, we posted \" Yara Birkeland, Autonomous Container Ship — Is This Really a Good Idea?\" The question remains unanswered, but we may have a better idea when the 103 TEU, all-electric, crewless feeder ship is delivered and completes its … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/Yara-Birkeland.jpg)In 2017, we posted “ [Yara Birkeland, Autonomous Container Ship — Is This Really a Good Idea?](http://www.oldsaltblog.com/2017/10/mv-yara-birkeland-autonomous-container-ship-really-good-idea/)” The question remains unanswered, but we may have a better idea when the 103 TEU, all-electric, crewless feeder ship is delivered and completes its maiden voyage toward the end of 2021. The ship will be powered by 7 MWh battery bank and should be capable of top speed of 13 knots. 

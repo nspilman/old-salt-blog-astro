@@ -1,7 +1,7 @@
 ---
 title: "Arctic Icebreaking – the USCGC Healy and the NS 50 Let Pobedy"
 date: 2010-07-04T10:01:31
-slug: arctic-icebreaking-the-uscgc-healy-and-the-ns-50-let-pobedy
+slug: "arctic-icebreaking-the-uscgc-healy-and-the-ns-50-let-pobedy"
 excerpt: "NASA has recently published an analysis of the arctic operations of the icebreaker USCGC Healy. The Healy has been serving as a research vessel in Arctic water with more than 4,200 square feet of scientific laboratory space, numerous electronic sensor systems, … Continue reading &rarr;"
 categories:
   - "Current"

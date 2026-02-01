@@ -1,7 +1,7 @@
 ---
 title: "Sharktopus – Just When You Thought it Was Safe to Watch the Telly"
 date: 2010-07-19T09:22:37
-slug: sharktopus-just-when-you-thought-it-was-safe-to-watch-the-telly
+slug: "sharktopus-just-when-you-thought-it-was-safe-to-watch-the-telly"
 excerpt: "On this the thirtieth anniversary of the movie Jaws,  the SyFy Channel has teamed up with the legendary B-Movie Director, Roger Corman, to produce Sharktopus, a thriller about a Navy-engineered half-shark-half-octopus killing machine which, surprise, surprise gets out of control and starts … Continue reading &rarr;"
 categories:
   - "Current"

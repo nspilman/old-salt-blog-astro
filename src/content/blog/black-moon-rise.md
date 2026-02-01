@@ -1,7 +1,7 @@
 ---
 title: "Black Moon on the Rise"
 date: 2016-09-30T08:15:12
-slug: black-moon-rise
+slug: "black-moon-rise"
 excerpt: "We have posted before about the blue moon, which is the name given to the second full moon appearing in any given month. Tonight, September 30th in the Western hemisphere, there will occur the darker version of the blue moon — … Continue reading &rarr;"
 categories:
   - "Current"

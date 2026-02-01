@@ -1,7 +1,7 @@
 ---
 title: "Engineer from Dutch Wylde Swan Lost in Attempt to Assist Sinking Wyvern"
 date: 2013-07-12T07:50:36
-slug: crew-member-from-dutch-wylde-swan-believed-lost-in-attempt-to-assist-sinking-wyvern
+slug: "crew-member-from-dutch-wylde-swan-believed-lost-in-attempt-to-assist-sinking-wyvern"
 excerpt: "In a tragic twist, the engineer from the Dutch topsail schooner Wylde Swan is presumed to have drowned while attempting to assist the sinking Norwegian ketch Wyvern. When the Wyvern began taking on water while sailing in the Baltic in the … Continue reading &rarr;"
 categories:
   - "Current"

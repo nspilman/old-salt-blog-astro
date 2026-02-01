@@ -1,7 +1,7 @@
 ---
 title: "HMS Investigator, Abandoned in 1853, Found in Arctic"
 date: 2010-07-28T13:49:27
-slug: hms-investigator-abandoned-in-1854-found-in-arctic
+slug: "hms-investigator-abandoned-in-1854-found-in-arctic"
 excerpt: "Earlier this month we posted about a new expedition by Parks Canada to search for Franklin’s ships, the Terrorand the Erebus.  Parks Canada also intended to search for theHMS Investigator, a ship which was caught in the ice and sank when sent … Continue reading &rarr;"
 categories:
   - "Current"

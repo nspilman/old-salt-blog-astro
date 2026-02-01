@@ -1,7 +1,7 @@
 ---
 title: "New UK Aircraft Carrier Never to Carry Planes and to Sail to Lay-up?"
 date: 2010-10-19T15:06:51
-slug: new-uk-aircraft-carrier-never-to-carry-planes-and-to-sail-to-lay-up
+slug: "new-uk-aircraft-carrier-never-to-carry-planes-and-to-sail-to-lay-up"
 excerpt: "This morning we posted about the possibility of the immediate lay-up of the UK’s flagship, the aircraft carrier Ark Royal. We now read that one of the two new £3 billion aircraft carriers will never carry aircraft and may sail  into lay-up or be put … Continue reading &rarr;"
 categories:
   - "Current"

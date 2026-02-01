@@ -1,7 +1,7 @@
 ---
 title: "Scrapping the Navy Oiler USS Savannah"
 date: 2012-02-13T09:13:29
-slug: scrapping-the-navy-oiler-uss-savannah
+slug: "scrapping-the-navy-oiler-uss-savannah"
 excerpt: "Many years ago, I was in Kaohsiung, Taiwan on a container ship having major steel work done in the  CSBS drydock.  In those days, there was a scrap yard within sight of the drydock and for  the week or so that … Continue reading &rarr;"
 categories:
   - "Current"

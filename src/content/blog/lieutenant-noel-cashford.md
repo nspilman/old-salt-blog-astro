@@ -1,7 +1,7 @@
 ---
 title: "Lieutenant Noel Cashford"
 date: 2011-02-03T17:07:41
-slug: lieutenant-noel-cashford
+slug: "lieutenant-noel-cashford"
 excerpt: "Lieutenant Noel Cashford Lieutenant Noel Cashford, who has died aged 88, was among the last of the wartime RNVR bomb and mine disposal officers (BDOs), and helped develop the principles which govern mine clearance today. Read the rest of the … Continue reading &rarr;"
 categories:
   - "Current"

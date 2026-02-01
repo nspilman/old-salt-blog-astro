@@ -1,7 +1,7 @@
 ---
 title: "Replacement Ferry for Princess Ashika and Another Ferry Tragedy in Indonesia"
 date: 2010-10-24T18:30:18
-slug: replacement-ferry-for-princess-ashika-and-another-ferry-tragedy-in-indonesia
+slug: "replacement-ferry-for-princess-ashika-and-another-ferry-tragedy-in-indonesia"
 excerpt: "Last week, the  MV Olovaha arrived in Nuku’alofa.  The MV Olovaha is a new interisland ferry built for Tonga to replace the Princess Ashika which sank last July with a loss of 74 passengers and crew.   The ferry was … Continue reading &rarr;"
 categories:
   - "Current"

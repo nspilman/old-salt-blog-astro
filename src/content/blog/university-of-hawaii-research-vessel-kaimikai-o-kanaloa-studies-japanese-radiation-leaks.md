@@ -1,7 +1,7 @@
 ---
 title: "University of Hawaii Research Vessel, Ka’imikai-o-Kanaloa, Studies Japanese Radiation Leaks"
 date: 2011-06-19T12:50:59
-slug: university-of-hawaii-research-vessel-kaimikai-o-kanaloa-studies-japanese-radiation-leaks
+slug: "university-of-hawaii-research-vessel-kaimikai-o-kanaloa-studies-japanese-radiation-leaks"
 excerpt: "The University of Hawaii research vessel, Ka’imikai-o-Kanaloa, set sail earlier this month to studying the impact of radiation releases in the waters off Japan’s crippled Fukushima Daiichi nuclear plant. Scientists on UH research ship study impact of radiation releases … Continue reading &rarr;"
 categories:
   - "Current"

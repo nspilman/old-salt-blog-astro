@@ -1,7 +1,7 @@
 ---
 title: "Beginning the New Year – A Sinking, Pirate Hijacking, Round the World Race and Smoke-Free Subs"
 date: 2011-01-03T13:28:02
-slug: beginning-the-new-year-sinking-pirate-hijacking-round-the-world-race-starts-and-smoke-free-subs
+slug: "beginning-the-new-year-sinking-pirate-hijacking-round-the-world-race-starts-and-smoke-free-subs"
 excerpt: "Today is the first day back to work for many after a bit of time off for the holidays. And how has the New Year begun?   More or less the same as the last year which just ended.  On … Continue reading &rarr;"
 categories:
   - "Current"

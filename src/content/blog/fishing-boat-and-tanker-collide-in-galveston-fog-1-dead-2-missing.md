@@ -1,7 +1,7 @@
 ---
 title: "Fishing Boat and Tanker Collide in Galveston Fog — 1 Dead, 2 Missing"
 date: 2020-01-16T22:00:59
-slug: fishing-boat-and-tanker-collide-in-galveston-fog-1-dead-2-missing
+slug: "fishing-boat-and-tanker-collide-in-galveston-fog-1-dead-2-missing"
 excerpt: "On Tuesday around 3:35 PM the Coast Guard in Galveston, TX was notified that a fishing boat, the 82′ long Pappy’s Pride, had collided with the 600-foot chemical tanker Bow Fortune. The fishing boat had capsized and four crew were … Continue reading &rarr;"
 categories:
   - "Current"

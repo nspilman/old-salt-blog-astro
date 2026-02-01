@@ -1,7 +1,7 @@
 ---
 title: "Fish & Ships Seafood Festival at Mystic Seaport this Weekend"
 date: 2010-09-03T07:54:53
-slug: fish-ships-seafood-festival-at-mystic-seaport-this-weekend
+slug: "fish-ships-seafood-festival-at-mystic-seaport-this-weekend"
 excerpt: "Assuming that Hurricane Earl doesn’t interfere, the 3rd annual Fish & Ships Labor Day Weekend Seafood Festival will be held at Mystic Seaport in Connecticut this Saturday through Monday. Fish & Ships Seafood Festival back at Mystic Seaport … Continue reading &rarr;"
 categories:
   - "Current"

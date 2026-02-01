@@ -1,7 +1,7 @@
 ---
 title: "Pacific Northwest Waterways Association Pushes Back Against DOGE Cuts of Corps of Engineers’ Critical Employees"
 date: 2025-02-25T22:25:03
-slug: pacific-northwest-waterways-association-pushes-back-against-doge-cuts-of-corps-of-engineers-critical-employees
+slug: "pacific-northwest-waterways-association-pushes-back-against-doge-cuts-of-corps-of-engineers-critical-employees"
 excerpt: "In a surreal moment, Elon Musk, who heads the ‘Department of Government Efficiency’ (DOGE), pranced around on stage at the Conservative Political Action Conference last week in oversized sunglasses, a black gothic MAGA hat, a thick gold chain around his … Continue reading &rarr;"
 categories:
   - "Current"

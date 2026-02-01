@@ -1,12 +1,12 @@
 ---
 title: "Getting It Up!   The Fascinating World of Marine Salvage — Working Harbor Committee, May 6th"
 date: 2014-04-29T11:15:10
-slug: getting-it-up%e2%80%a8-the-fascinating-world-of-marine-salvage-may-6th
-excerpt: "This year, the Working Harbor Committee’s annual spring program is “Getting It Up!  The Fascinating World of Marine Salvage” on Tuesday, May 6th at the Community Church of New York, 40 E. 35th Street, New York, NY 10016.  If you are anywhere near New … Continue reading &rarr;"
+slug: "getting-it-up%e2%80%a8-the-fascinating-world-of-marine-salvage-may-6th"
+excerpt: "This year, the Working Harbor Committee’s annual spring program is \"Getting It Up!  The Fascinating World of Marine Salvage\" on Tuesday, May 6th at the Community Church of New York, 40 E. 35th Street, New York, NY 10016.  If you are anywhere near New … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "This year, the Working Harbor Committee’s annual spring program is “Getting It Up!  The Fascinating World of Marine Salvage” on Tuesday, May 6th at the Community Church of New York, 40 E. 35th Street, New York, NY 10016.  If you are anywhere near New … Continue reading &rarr;"
+description: "This year, the Working Harbor Committee’s annual spring program is \"Getting It Up!  The Fascinating World of Marine Salvage\" on Tuesday, May 6th at the Community Church of New York, 40 E. 35th Street, New York, NY 10016.  If you are anywhere near New … Continue reading &rarr;"
 ---
 
 ![gettingitup](http://www.oldsaltblog.com/wp-content/uploads/2014/04/gettingitup.jpg)This year, the [Working Harbor Committe](http://www.nycharities.org/events/EventLevels.aspx?ETID=7019)e’s annual spring program is “***Getting It Up!  The Fascinating World of Marine Salvage***” on Tuesday, May 6th at the Community Church of New York, 40 E. 35th Street, New York, NY 10016.  If you are anywhere near New York harbor, be sure to stop by. The Working Harbor Committee’s spring programs are always great.  The [tickets are $25 and are available on-line here](http://www.nycharities.org/events/EventLevels.aspx?ETID=7019) or by phone at 212 757 1600. From the Working Harbor Committee press release:

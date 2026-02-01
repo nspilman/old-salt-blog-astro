@@ -1,7 +1,7 @@
 ---
 title: "Minsento’s Deep Green Underwater Kite"
 date: 2010-11-22T14:53:12
-slug: minsentos-deep-green-underwater-kite
+slug: "minsentos-deep-green-underwater-kite"
 excerpt: "Minesto, a spin-off of the Swedish-based Saab Group, has a new approach to harnessing tidal energy – underwater kites.   They have recently raised an excessive of €2 million in new capital to test the company’s underwater kite generator design, … Continue reading &rarr;"
 categories:
   - "Current"

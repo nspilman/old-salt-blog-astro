@@ -1,7 +1,7 @@
 ---
 title: "Student Teams Compete to Design Safe Affordable Ferry Design"
 date: 2013-06-10T11:10:54
-slug: student-teams-compete-in-safe-affordable-ferry-design-competition
+slug: "student-teams-compete-in-safe-affordable-ferry-design-competition"
 excerpt: "The news stories are depressingly familiar.  A ferry, often in a developing nation, sinks along the coast or in a river and the lives of hundred are lost.  In regions where ferries are the most necessary, they are often the … Continue reading &rarr;"
 categories:
   - "Current"

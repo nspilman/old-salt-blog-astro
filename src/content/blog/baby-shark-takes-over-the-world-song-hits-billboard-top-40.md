@@ -1,8 +1,8 @@
 ---
 title: "Baby Shark Takes over the World — Song Hits Billboard Top 40!"
 date: 2019-01-13T17:19:33
-slug: baby-shark-takes-over-the-world-song-hits-billboard-top-40
-excerpt: "And now for something completely different. Baby Shark has taken over the world! At least, the song, “Baby Shark” sure seems to be everywhere. The Youtube video of the song as performed by the Korean group Pinkfong has been viewed … Continue reading &rarr;"
+slug: "baby-shark-takes-over-the-world-song-hits-billboard-top-40"
+excerpt: "And now for something completely different. Baby Shark has taken over the world! At least, the song, \"Baby Shark\" sure seems to be everywhere. The Youtube video of the song as performed by the Korean group Pinkfong has been viewed … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Youtube"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/babyshark.jpg"
 author: "Rick Spilman"
-description: "And now for something completely different. Baby Shark has taken over the world! At least, the song, “Baby Shark” sure seems to be everywhere. The Youtube video of the song as performed by the Korean group Pinkfong has been viewed … Continue reading &rarr;"
+description: "And now for something completely different. Baby Shark has taken over the world! At least, the song, \"Baby Shark\" sure seems to be everywhere. The Youtube video of the song as performed by the Korean group Pinkfong has been viewed … Continue reading &rarr;"
 ---
 
 And now for something completely different. Baby Shark has taken over the world! At least, the song, “Baby Shark” sure seems to be everywhere. The Youtube video of the song as performed by the Korean group Pinkfong has been viewed 2.2 billion times. That is billion, not million. Given that there are roughly 7 billion people on the planet, that is substantial. The song also ranked at 25 in Youtube’s all-time viewed videos. It also reached 32 on Billboard’s Hot 100 chart, the only time in recent memory that a kids’ song broke into the top 40. Here is the [Pinkfong dance version](https://youtu.be/XqZsoesa55w). (Warning, the song can become a dangerous earworm. Listen with care.)

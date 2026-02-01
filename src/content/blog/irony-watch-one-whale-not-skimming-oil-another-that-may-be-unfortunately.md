@@ -1,8 +1,8 @@
 ---
 title: "Irony Watch: One Whale Not Skimming Oil & Another That May Be, Unfortunately"
 date: 2010-07-09T09:10:34
-slug: irony-watch-one-whale-not-skimming-oil-another-that-may-be-unfortunately
-excerpt: "A sad irony that doesn’t actually involve whales.   The converted Ore/Bulk/Oil ship named “A Whale“ has not yet proven effective in skimming oil from the water, though modifications and testing continue. ‘A Whale’ oil skimmer testing extended a week Unfortunately, whale … Continue reading &rarr;"
+slug: "irony-watch-one-whale-not-skimming-oil-another-that-may-be-unfortunately"
+excerpt: "A sad irony that doesn’t actually involve whales.   The converted Ore/Bulk/Oil ship named \"A Whale\" has not yet proven effective in skimming oil from the water, though modifications and testing continue. ‘A Whale’ oil skimmer testing extended a week Unfortunately, whale … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "skimmer"
   - "whale shark"
 author: "Rick Spilman"
-description: "A sad irony that doesn’t actually involve whales.   The converted Ore/Bulk/Oil ship named “A Whale“ has not yet proven effective in skimming oil from the water, though modifications and testing continue. ‘A Whale’ oil skimmer testing extended a week Unfortunately, whale … Continue reading &rarr;"
+description: "A sad irony that doesn’t actually involve whales.   The converted Ore/Bulk/Oil ship named \"A Whale\" has not yet proven effective in skimming oil from the water, though modifications and testing continue. ‘A Whale’ oil skimmer testing extended a week Unfortunately, whale … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/whaleshark.jpg)A sad irony that doesn’t actually involve whales.   The converted Ore/Bulk/Oil ship named [“](http://www.oldsaltblog.com/2010/07/03/a-whale-to-begin-testing-in-the-gulf-this-weekend-will-it-work/)*[A Whale](http://www.oldsaltblog.com/2010/07/03/a-whale-to-begin-testing-in-the-gulf-this-weekend-will-it-work/)*[“](http://www.oldsaltblog.com/2010/07/03/a-whale-to-begin-testing-in-the-gulf-this-weekend-will-it-work/) has not yet proven effective in skimming oil from the water, though modifications and testing continue.

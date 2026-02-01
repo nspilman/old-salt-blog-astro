@@ -1,7 +1,7 @@
 ---
 title: "Bronze Age shipwreck found off Devon coast"
 date: 2010-02-15T08:44:04
-slug: bronze-age-shipwreck-found-off-devon-coast
+slug: "bronze-age-shipwreck-found-off-devon-coast"
 excerpt: "Bronze Age shipwreck found off Devon coast One of the world’s oldest shipwrecks has been discovered off the coast of Devon after lying on the seabed for almost 3,000 years.  The trading vessel was carrying an extremely valuable cargo of … Continue reading &rarr;"
 categories:
   - "Current"

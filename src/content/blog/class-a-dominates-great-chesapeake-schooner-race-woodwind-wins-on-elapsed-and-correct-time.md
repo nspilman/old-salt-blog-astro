@@ -1,7 +1,7 @@
 ---
 title: "Class A Dominates Great Chesapeake Schooner Race – Woodwind Wins on Elapsed and Corrected Time"
 date: 2012-10-17T16:21:38
-slug: class-a-dominates-great-chesapeake-schooner-race-woodwind-wins-on-elapsed-and-correct-time
+slug: "class-a-dominates-great-chesapeake-schooner-race-woodwind-wins-on-elapsed-and-correct-time"
 excerpt: "In our previous post about the Great Chesapeake Schooner Race we focused on the Class AA schooners, the big boats over 50′. Big boats sail faster, right? Not necessarily.  (Thanks to Paul Caroll for pointing out our oversight.) This year, the Class … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

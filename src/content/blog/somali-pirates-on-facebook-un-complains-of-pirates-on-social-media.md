@@ -1,7 +1,7 @@
 ---
 title: "Somali Pirates on Facebook? UN Complains of Pirates on Social Media"
 date: 2013-07-21T09:24:46
-slug: somali-pirates-on-facebook-un-complains-of-pirates-on-social-media
+slug: "somali-pirates-on-facebook-un-complains-of-pirates-on-social-media"
 excerpt: "Are Somali pirates and their affiliates using Facebook to organize and support ship hijackings?  Experts at the United Nations say that this is the case and complain that Facebook has been ignoring their requests for information on Facebook accounts belonging to … Continue reading &rarr;"
 categories:
   - "Current"

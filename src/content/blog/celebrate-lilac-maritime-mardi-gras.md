@@ -1,7 +1,7 @@
 ---
 title: "Celebrate Lilac at Maritime Mardi Gras"
 date: 2016-01-29T11:12:05
-slug: celebrate-lilac-maritime-mardi-gras
+slug: "celebrate-lilac-maritime-mardi-gras"
 excerpt: "If you are in the New York area come help celebrate Lilac, America’s only steam-powered lighthouse tender at a Maritime Mardi Gras fundraiser on Fat Tuesday, February 9th from 6 – 8 PM on 79 Walker Street on the 6th … Continue reading &rarr;"
 categories:
   - "Current"

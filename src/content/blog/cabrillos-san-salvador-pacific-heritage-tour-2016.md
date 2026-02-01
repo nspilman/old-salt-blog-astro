@@ -1,7 +1,7 @@
 ---
 title: "Cabrillo’s San Salvador & the Pacific Heritage Tour 2016"
 date: 2016-09-14T10:04:21
-slug: cabrillos-san-salvador-pacific-heritage-tour-2016
+slug: "cabrillos-san-salvador-pacific-heritage-tour-2016"
 excerpt: "On September 28, 1542, Juan Rodriguez Cabrillo sailed into what is now called San Diego Bay on his flagship, San Salvador.  San Salvador was the first recorded European vessel to sail along California, and survey its coastline. Now, 472 years later, … Continue reading &rarr;"
 categories:
   - "Current"

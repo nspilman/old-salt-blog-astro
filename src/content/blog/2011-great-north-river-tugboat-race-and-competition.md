@@ -1,7 +1,7 @@
 ---
 title: "2011 Great North River Tugboat Race and Competition"
 date: 2011-08-10T11:16:33
-slug: 2011-great-north-river-tugboat-race-and-competition
+slug: "2011-great-north-river-tugboat-race-and-competition"
 excerpt: "The next Great North River Tugboat Race and Competition is coming up on Labor Day weekend, on September 4th on the Hudson River in New York harbor. If my count is correct, this will be the 19th annual tug boat race.  One of the … Continue reading &rarr;"
 categories:
   - "Current"

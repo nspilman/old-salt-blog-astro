@@ -1,7 +1,7 @@
 ---
 title: "Sail Portsmouth 2011  May 27 – 30, 2011"
 date: 2011-05-26T17:47:06
-slug: sail-portsmouth-2011-may-27-30-2011
+slug: "sail-portsmouth-2011-may-27-30-2011"
 excerpt: "Over the Memorial Day weekend, the Piscataqua Maritime Commission is sponsoring Sail Portsmouth 2011,  featuring the Gazela Primeiro. The Gazela, a three-masted, square rigged barkentine  built in 1883, is said to be the world’s oldest active wood hulled sailing vessel.  Joining the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

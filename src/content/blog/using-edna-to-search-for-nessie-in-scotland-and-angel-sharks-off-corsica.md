@@ -1,7 +1,7 @@
 ---
 title: "Using eDNA to Search for Nessie in Scotland and Angel Sharks Off Corsica"
 date: 2023-10-02T17:46:27
-slug: using-edna-to-search-for-nessie-in-scotland-and-angel-sharks-off-corsica
+slug: "using-edna-to-search-for-nessie-in-scotland-and-angel-sharks-off-corsica"
 excerpt: "Until fairly recently, scientists attempting to establish the existence, health, or migration of marine life had to use nets, cameras, or other means to identify and count the number of animals involved. Now researchers have a new and powerful tool, … Continue reading &rarr;"
 categories:
   - "Current"

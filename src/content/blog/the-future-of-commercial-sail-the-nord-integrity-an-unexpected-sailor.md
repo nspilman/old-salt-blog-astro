@@ -1,8 +1,8 @@
 ---
 title: "The Future of Commercial Sail & the Nord Integrity – an Unexpected Sailor"
 date: 2013-04-11T21:54:05
-slug: the-future-of-commercial-sail-the-nord-integrity-an-unexpected-sailor
-excerpt: "I would like to thank all those who came out last night to the Working Harbor Committee’s presentation of “Sailing Ships at Work – Past, Present and Future.”   It was a fun evening and gratifying that the presentation was so well received.  In … Continue reading &rarr;"
+slug: "the-future-of-commercial-sail-the-nord-integrity-an-unexpected-sailor"
+excerpt: "I would like to thank all those who came out last night to the Working Harbor Committee’s presentation of \"Sailing Ships at Work – Past, Present and Future.\"   It was a fun evening and gratifying that the presentation was so well received.  In … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Sailing Ships at Work - Past"
   - "Working Harbor Committee"
 author: "Rick Spilman"
-description: "I would like to thank all those who came out last night to the Working Harbor Committee’s presentation of “Sailing Ships at Work – Past, Present and Future.”   It was a fun evening and gratifying that the presentation was so well received.  In … Continue reading &rarr;"
+description: "I would like to thank all those who came out last night to the Working Harbor Committee’s presentation of \"Sailing Ships at Work – Past, Present and Future.\"   It was a fun evening and gratifying that the presentation was so well received.  In … Continue reading &rarr;"
 ---
 
 ![Nord-Integrity-737511](http://www.oldsaltblog.com/wp-content/uploads/2013/04/Nord-Integrity-737511.jpg)I would like to thank all those who came out last night to the Working Harbor Committee’s presentation of “[*Sailing Ships at Work – Past, Present and Future.*](http://workingharbor.wordpress.com/2013/03/27/working-harbor-committee-presents-sailing-ships-at-work-past-present-and-future/)”   It was a fun evening and gratifying that the presentation was so well received.  In my part of the presentation, I rashly suggested that there is at least the possibility that we could see a return of large cargo-carrying auxiliary sailing ships. Just as a hundred years of cheap energy killed off commercial sail, the economics of continued high fuel costs could support a return to modern sail, for certain types of ships, on specific trade routes.

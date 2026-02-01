@@ -1,7 +1,7 @@
 ---
 title: "THE REAL COAST GUARD || Life on an 87’ Patrol Boat"
 date: 2021-08-20T17:17:47
-slug: the-real-coast-guard-life-on-an-87-patrol-boat
+slug: "the-real-coast-guard-life-on-an-87-patrol-boat"
 excerpt: "Here is a wonderful short video by Erin Edwards, a First Class Cadet at the US Coast Guard Academy. She gives us a quick tour of an 87′ patrol boat. THE REAL COAST GUARD || Life on an 87’ Patrol … Continue reading &rarr;"
 categories:
   - "Current"

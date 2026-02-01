@@ -1,7 +1,7 @@
 ---
 title: "Japanese Singlehander Kenichi Horie, Setting Sail to Cross the Pacific at 83"
 date: 2022-03-26T15:58:16
-slug: japanese-singlehander-kenichi-horie-setting-sail-to-cross-the-pacific-at-83
+slug: "japanese-singlehander-kenichi-horie-setting-sail-to-cross-the-pacific-at-83"
 excerpt: "Sixty years after his first singlehanded Pacific crossing from Japan to San Francisco, Kenichi Horie is ready to go again. If all goes well, famed Japanese singlehander Kenichi Horie, 83, will set sail today from San Francisco bound for Japan. … Continue reading &rarr;"
 categories:
   - "Current"

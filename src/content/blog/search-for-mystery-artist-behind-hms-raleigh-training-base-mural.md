@@ -1,7 +1,7 @@
 ---
 title: "Search For Mystery Artist Behind HMS Raleigh Training Base Mural"
 date: 2024-06-15T20:58:57
-slug: search-for-mystery-artist-behind-hms-raleigh-training-base-mural
+slug: "search-for-mystery-artist-behind-hms-raleigh-training-base-mural"
 excerpt: "A striking painting of the Falklands War has prompted a search to find the artist behind it. Recently, Jon Rickman-Dawson, facilities manager for HMS Raleigh, a training establishment for new recruits to the Royal Navy, discovered an unusual mural hidden … Continue reading &rarr;"
 categories:
   - "Current"

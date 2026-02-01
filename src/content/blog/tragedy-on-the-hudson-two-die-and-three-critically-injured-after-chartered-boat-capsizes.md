@@ -1,7 +1,7 @@
 ---
 title: "Tragedy on the Hudson — Two Die and Three Critically Injured After Chartered Boat Capsizes"
 date: 2022-07-13T17:26:21
-slug: tragedy-on-the-hudson-two-die-and-three-critically-injured-after-chartered-boat-capsizes
+slug: "tragedy-on-the-hudson-two-die-and-three-critically-injured-after-chartered-boat-capsizes"
 excerpt: "Yesterday just before 3 PM, a chartered powerboat with 12 passengers aboard, capsized in the Hudson River near Pier 86 in Midtown Manhattan.  The accident fatally trapped a 7-year-old boy and 50-year-old woman underneath the overturned boat. Three others were … Continue reading &rarr;"
 categories:
   - "City of Ships"

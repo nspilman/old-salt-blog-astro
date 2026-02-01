@@ -1,7 +1,7 @@
 ---
 title: "The Strange Voyage of Nakuru, the Giraffe"
 date: 2013-04-19T10:35:53
-slug: the-strange-voyage-of-nakuru-the-giraffe
+slug: "the-strange-voyage-of-nakuru-the-giraffe"
 excerpt: "It is the classic story of young lovers separated by the briny deep, of a young heroine on a storm tossed voyage with unexpected adventure. Oh, yes, and the young heroine is a giraffe. The Aukland Zoo has been trying to setup Nakuru, a fifteen month old Rothschild giraffe, … Continue reading &rarr;"
 categories:
   - "Current"

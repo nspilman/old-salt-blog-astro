@@ -1,7 +1,7 @@
 ---
 title: "2020 Virtual Great Chesapeake Bay Schooner Race"
 date: 2020-10-16T10:43:10
-slug: 2020-virtual-great-chesapeake-bay-schooner-race
+slug: "2020-virtual-great-chesapeake-bay-schooner-race"
 excerpt: "We are a bit late posting about the 2020 Virtual Great Chesapeake Bay Schooner Race, but there is still time to join in.  In any normal year, the Great Chesapeake Bay Schooner Race attracts dozens of schooners on the Bay, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

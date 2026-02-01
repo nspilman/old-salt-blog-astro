@@ -1,8 +1,8 @@
 ---
 title: "The Oyster – Environmental Hero in New York and a Criminal in New Jersey"
 date: 2012-09-03T15:05:12
-slug: the-oyster-environmental-hero-in-new-york-and-a-criminal-in-new-jersey
-excerpt: "Recently a number of newspapers have run an Associated Press article  titled, “New York’s new environmental ‘hero’ – the oyster.”  The article describes how researchers are reseeding oysters in New York harbor   Each oyster can filter about 50 gallons of water a … Continue reading &rarr;"
+slug: "the-oyster-environmental-hero-in-new-york-and-a-criminal-in-new-jersey"
+excerpt: "Recently a number of newspapers have run an Associated Press article  titled, \"New York’s new environmental ‘hero’ – the oyster.\"  The article describes how researchers are reseeding oysters in New York harbor   Each oyster can filter about 50 gallons of water a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "new york harbor"
   - "oysters"
 author: "Rick Spilman"
-description: "Recently a number of newspapers have run an Associated Press article  titled, “New York’s new environmental ‘hero’ – the oyster.”  The article describes how researchers are reseeding oysters in New York harbor   Each oyster can filter about 50 gallons of water a … Continue reading &rarr;"
+description: "Recently a number of newspapers have run an Associated Press article  titled, \"New York’s new environmental ‘hero’ – the oyster.\"  The article describes how researchers are reseeding oysters in New York harbor   Each oyster can filter about 50 gallons of water a … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/oyster.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Wreck of USRC/USCGC McCulloch Found — Sank 100 Years Ago Today"
 date: 2017-06-13T11:47:24
-slug: wreck-of-usrcuscgc-mcculloch-found-sank-100-years-ago-today
+slug: "wreck-of-usrcuscgc-mcculloch-found-sank-100-years-ago-today"
 excerpt: "Researchers are holding a news conference today to announce the discovery of the wreck of the USRC/USCGC McCulloch, a cutter of the United States Revenue Cutter Service and later the US Coast Guard.  Delivered in 1897,  just before the start of the … Continue reading &rarr;"
 categories:
   - "Current"

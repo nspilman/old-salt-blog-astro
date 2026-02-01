@@ -1,7 +1,7 @@
 ---
 title: "Tall Ships Tracking Map"
 date: 2010-07-16T17:44:39
-slug: tall-ships-tracking-map
+slug: "tall-ships-tracking-map"
 excerpt: "Tom Russell over at the Tall Ship & Traditional Sail Professionals Linked-In group pointed out the Tall Ships Tracking Map posted on-line by Sailwx.info.   Sailwx.info is a wonderful site for keeping track of of all sort of ships, including … Continue reading &rarr;"
 categories:
   - "Current"

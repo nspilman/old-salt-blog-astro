@@ -1,7 +1,7 @@
 ---
 title: "Will Coronavirus Cripple the Cruise Industry? State Department Warns Americans Off Cruises"
 date: 2020-03-09T17:41:45
-slug: will-coronavirus-cripple-the-cruise-industry-state-department-warns-americans-off-cruises
+slug: "will-coronavirus-cripple-the-cruise-industry-state-department-warns-americans-off-cruises"
 excerpt: "Will the coronavirus cripple the cruise industry? With 278 ships in service and 19 scheduled to be delivered in 2020, the Cruise Lines International Association (CLIA) values the industry’s global economic output at $150 billion worldwide. The past several weeks … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

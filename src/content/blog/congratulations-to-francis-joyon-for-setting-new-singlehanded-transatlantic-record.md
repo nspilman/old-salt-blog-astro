@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Francis Joyon for Setting New Singlehanded Transatlantic Record"
 date: 2013-06-16T10:19:32
-slug: congratulations-to-francis-joyon-for-setting-new-singlehanded-transatlantic-record
+slug: "congratulations-to-francis-joyon-for-setting-new-singlehanded-transatlantic-record"
 excerpt: "Congratulations to Francis Joyon, who set a new west to east singlehanded transaltantic sailing record. He sailed from New York’s Ambrose Light of and crossed the line linking Lizard Point, Cornwall to Ushant in a remarkable 5 days 2:56 minutes … Continue reading &rarr;"
 categories:
   - "Current"

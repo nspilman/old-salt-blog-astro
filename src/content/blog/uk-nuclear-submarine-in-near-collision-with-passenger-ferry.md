@@ -1,7 +1,7 @@
 ---
 title: "UK Nuclear Submarine in Near Collision with Passenger Ferry"
 date: 2020-07-21T11:51:41
-slug: uk-nuclear-submarine-in-near-collision-with-passenger-ferry
+slug: "uk-nuclear-submarine-in-near-collision-with-passenger-ferry"
 excerpt: "In November 2018, a Royal Navy nuclear submarine came within 50-100m of a collision with the Stena Superfast VII ferry near the entrance to Belfast harbor, according to an inquiry by the UK’s Marine Accident Investigation Branch. The Guardian reports: … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

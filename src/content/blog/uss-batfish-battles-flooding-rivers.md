@@ -1,7 +1,7 @@
 ---
 title: "USS Batfish Battles Flooding Rivers"
 date: 2019-05-29T20:00:03
-slug: uss-batfish-battles-flooding-rivers
+slug: "uss-batfish-battles-flooding-rivers"
 excerpt: "USS Batfish is a Balao-class submarine, known primarily for the remarkable feat of sinking three Imperial Japanese Navy submarines in a 76-hour period, in February 1945. Since 1973, USS Batfish has served as an unlikely museum ship hauled up on shire … Continue reading &rarr;"
 categories:
   - "Current"

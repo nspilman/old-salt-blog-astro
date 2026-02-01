@@ -1,8 +1,8 @@
 ---
 title: "Of Painting Forth Bridge, Paddles and Creeks, Sand and Tides"
 date: 2011-09-22T12:32:34
-slug: of-painting-forth-bridge-paddles-and-creeks-sand-and-tides
-excerpt: "I recently learned a new figure of speech – “like painting the Forth Bridge,” which refers to a job which is never completed. Or at least it used to mean that. The Forth Bridge is a cantilever railway bridge over … Continue reading &rarr;"
+slug: "of-painting-forth-bridge-paddles-and-creeks-sand-and-tides"
+excerpt: "I recently learned a new figure of speech – \"like painting the Forth Bridge,\" which refers to a job which is never completed. Or at least it used to mean that. The Forth Bridge is a cantilever railway bridge over … Continue reading &rarr;"
 categories:
   - "Current"
   - "Language"
@@ -12,7 +12,7 @@ tags:
   - "Shoveling sand against the tide"
   - "up shit creek without a paddle"
 author: "Rick Spilman"
-description: "I recently learned a new figure of speech – “like painting the Forth Bridge,” which refers to a job which is never completed. Or at least it used to mean that. The Forth Bridge is a cantilever railway bridge over … Continue reading &rarr;"
+description: "I recently learned a new figure of speech – \"like painting the Forth Bridge,\" which refers to a job which is never completed. Or at least it used to mean that. The Forth Bridge is a cantilever railway bridge over … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/250px-Forth_bridge_evening_.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "The Haunted Point Lookout Lighthouse"
 date: 2011-10-31T14:30:16
-slug: the-haunted-point-lookout-lighthouse
+slug: "the-haunted-point-lookout-lighthouse"
 excerpt: "In honor of Halloween, it seems appropriate to post about the Point Lookout Lighthouse of St. Mary’s County, Md., at the junction of the Potomac River and the Chesapeake Bay, which is said to be the most haunted lighthouse in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

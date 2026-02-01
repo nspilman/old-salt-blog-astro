@@ -1,7 +1,7 @@
 ---
 title: "Update #1: Sunken Submarine, a Headless Torso & Murdered Journalist"
 date: 2017-08-22T11:37:00
-slug: update-sunken-submarine-missing-journalist-headless-torso
+slug: "update-sunken-submarine-missing-journalist-headless-torso"
 excerpt: "Updated: Danish police have announced that DNA from a headless torso found washed up on an island near Copenhagen matches that of missing Swedish journalist Kim Wall. We recently posted about the strange saga of the UC3 Nautilus. The private submarine, … Continue reading &rarr;"
 categories:
   - "Current"

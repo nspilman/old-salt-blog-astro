@@ -1,7 +1,7 @@
 ---
 title: "Portside New York – Big BlueBQ July 3rd"
 date: 2010-06-26T15:09:16
-slug: portside-new-york-big-bluebq-july-3rd
+slug: "portside-new-york-big-bluebq-july-3rd"
 excerpt: "Portside New York is a maritime hub and cultural space whose centerpiece is the historic coastal tanker Mary Whalen.   Portside is based this summer on pier 11 in the Atlantic Basin, Red Hook, Brooklyn. On Saturday, July 3rd, Portside is hosting  the Big … Continue reading &rarr;"
 categories:
   - "Current"

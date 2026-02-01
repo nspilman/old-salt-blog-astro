@@ -1,7 +1,7 @@
 ---
 title: "Dock Dogs and Diving Horses"
 date: 2011-10-07T15:11:24
-slug: dock-dogs-and-diving-horses
+slug: "dock-dogs-and-diving-horses"
 excerpt: "Some new competitive sports are better than others. I am not sure how I feel about dock dogs competitions. Still it has to be an improvement over diving horses which were wildly popular in the US in the 1880s. Remarkably there is … Continue reading &rarr;"
 categories:
   - "Current"

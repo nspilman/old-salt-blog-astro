@@ -1,7 +1,7 @@
 ---
 title: "Wisdom, World’s Oldest Breeding Bird at 70, Hatches a New Chick"
 date: 2021-03-14T16:16:44
-slug: wisdom-worlds-oldest-breeding-bird-at-70-hatches-a-new-chick
+slug: "wisdom-worlds-oldest-breeding-bird-at-70-hatches-a-new-chick"
 excerpt: "A Laysan albatross named Wisdom, first identified and banded on Midway Atoll in 1956, has hatched a chick at the age of at least 70. Wisdom, who returns each fall to Midway Atoll National Wildlife Refuge, outlived most of her mates, … Continue reading &rarr;"
 categories:
   - "Current"

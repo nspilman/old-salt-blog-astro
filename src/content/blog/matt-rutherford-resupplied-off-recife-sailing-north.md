@@ -1,7 +1,7 @@
 ---
 title: "Matt Rutherford – Resupplied off Recife, Sailing North"
 date: 2012-03-07T16:39:54
-slug: matt-rutherford-resupplied-off-recife-sailing-north
+slug: "matt-rutherford-resupplied-off-recife-sailing-north"
 excerpt: "We recently posted about Matt Rutherford needing to be resupplied to continue his attempt to sail single-handed entirely around the Americas in the St. Brendan, a 27′ Albin Vega.  Last week, Matt rendezvoused with a small boat, two miles off the coast of … Continue reading &rarr;"
 categories:
   - "Current"

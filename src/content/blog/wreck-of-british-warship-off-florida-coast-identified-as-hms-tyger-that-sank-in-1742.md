@@ -1,7 +1,7 @@
 ---
 title: "Wreck of British Warship Off Florida Coast Identified as HMS Tyger That Sank in 1742"
 date: 2024-03-18T16:45:47
-slug: wreck-of-british-warship-off-florida-coast-identified-as-hms-tyger-that-sank-in-1742
+slug: "wreck-of-british-warship-off-florida-coast-identified-as-hms-tyger-that-sank-in-1742"
 excerpt: "Last week, the National Park Service announced that its archeologists have identified the remains of HMS Tyger, an 18th-century British warship, within the boundaries of Dry Tortugas National Park, off the south coast of Florida. Built in 1647, the fourth-rate, … Continue reading &rarr;"
 categories:
   - "Current"

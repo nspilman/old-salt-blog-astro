@@ -1,7 +1,7 @@
 ---
 title: "Crabber Mary B II Capsizes Crossing Yaquina Bay bar — Three Fishermen Lost"
 date: 2019-01-10T17:58:31
-slug: crabber-mary-b-ii-capsizes-crossing-yaquina-bay-bar-three-fishermen-lost
+slug: "crabber-mary-b-ii-capsizes-crossing-yaquina-bay-bar-three-fishermen-lost"
 excerpt: "The Dungeness crab season opened late in the Northwest, starting last Friday, January 4th. The weather was terrible, with high winds and waves. Conditions were especially challenging on river bars, where the river’s current opposing the ocean waves can raise monstrous breakers.  … Continue reading &rarr;"
 categories:
   - "Current"

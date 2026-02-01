@@ -1,7 +1,7 @@
 ---
 title: "Megalodon: The Monster Shark Lives – Will Discovery Channel Fiction as Fact Come Back to Bite Them?"
 date: 2013-08-06T09:46:09
-slug: megalodon-the-monster-shark-lives-will-discovery-channel-fiction-as-fact-come-back-to-bite-them
+slug: "megalodon-the-monster-shark-lives-will-discovery-channel-fiction-as-fact-come-back-to-bite-them"
 excerpt: "In June, we posted about two fake documentaries about mermaids, aired by the Animal Planet, which is owned by the Discovery Channel.  Despite being presented as fact, the mermaid documentaries were entirely fictional.  There was a brief disclaimer in the … Continue reading &rarr;"
 categories:
   - "Current"

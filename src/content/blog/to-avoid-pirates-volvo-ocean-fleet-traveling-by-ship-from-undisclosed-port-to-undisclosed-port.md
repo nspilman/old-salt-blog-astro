@@ -1,7 +1,7 @@
 ---
 title: "To Avoid Pirates, Volvo Ocean Fleet Traveling by Ship from Undisclosed Port"
 date: 2011-12-31T15:05:12
-slug: to-avoid-pirates-volvo-ocean-fleet-traveling-by-ship-from-undisclosed-port-to-undisclosed-port
+slug: "to-avoid-pirates-volvo-ocean-fleet-traveling-by-ship-from-undisclosed-port-to-undisclosed-port"
 excerpt: "On the first leg of the Volvo Ocean Race, half the fleet traveled to Cape Town on the deck of cargo ships following rigging or hull failures. Now in the second leg of the race, the entire fleet was loaded … Continue reading &rarr;"
 categories:
   - "Current"

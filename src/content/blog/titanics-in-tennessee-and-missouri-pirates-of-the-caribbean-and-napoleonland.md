@@ -1,7 +1,7 @@
 ---
 title: "Titanics In Tennessee & Missouri, Pirates of the Caribbean, Napoleonland & the Commercialization of History"
 date: 2012-04-15T14:40:34
-slug: titanics-in-tennessee-and-missouri-pirates-of-the-caribbean-and-napoleonland
+slug: "titanics-in-tennessee-and-missouri-pirates-of-the-caribbean-and-napoleonland"
 excerpt: "Today, on the anniversary of the sinking of the Titanic with the loss of 1,514 lives, it would be appropriate for a learned historian at an august university to sit down to ponder the commercialization of history and to consider how our consumer culture … Continue reading &rarr;"
 categories:
   - "History"

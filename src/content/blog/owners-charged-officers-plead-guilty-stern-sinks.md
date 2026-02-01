@@ -1,7 +1,7 @@
 ---
 title: "Update: MV Rena – Owners Charged, Officers Plead Guilty, Stern Sinks"
 date: 2012-04-07T07:43:22
-slug: owners-charged-officers-plead-guilty-stern-sinks
+slug: "owners-charged-officers-plead-guilty-stern-sinks"
 excerpt: "In early October,  the container ship MV Rena ran hard aground on the Astrolabe Reef off Tauranga, New Zealand, resulting in an oil spill which the New Zealand Environment minister Nick Smith has referred to as the country’s most serious maritime environmental … Continue reading &rarr;"
 categories:
   - "Current"

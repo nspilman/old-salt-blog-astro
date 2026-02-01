@@ -1,7 +1,7 @@
 ---
 title: "Hundreds Feared Drowned as Overloaded Ferry Capsizes in Lake Victoria"
 date: 2018-09-21T15:45:18
-slug: hundreds-feared-drowned-in-overloaded-ferry-capsize-in-lake-victoria
+slug: "hundreds-feared-drowned-in-overloaded-ferry-capsize-in-lake-victoria"
 excerpt: "MV Nyerere, a ferry traveling from Bugolora to Ukara island in Lake Victoria, Tanzania capsized on Thursday. While the ferry had a rated capacity of 100 passengers, reports indicate that as many as 400 people may have been aboard when the … Continue reading &rarr;"
 categories:
   - "Current"

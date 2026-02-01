@@ -1,7 +1,7 @@
 ---
 title: "Mystic Seaport in the Solitude of Winter"
 date: 2021-02-08T15:05:35
-slug: mystic-seaport-in-the-solitude-of-winter
+slug: "mystic-seaport-in-the-solitude-of-winter"
 excerpt: "In June, we posted drone footage of Mystic Seaport as it was gradually reopening after being shut down by the pandemic. The grass was summer green, the river was shimmering deep blue, and the masts and spars of historic ships … Continue reading &rarr;"
 categories:
   - "Current"

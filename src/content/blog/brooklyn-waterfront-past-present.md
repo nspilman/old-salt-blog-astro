@@ -1,7 +1,7 @@
 ---
 title: "Brooklyn Waterfront Past & Present"
 date: 2016-05-22T20:24:36
-slug: brooklyn-waterfront-past-present
+slug: "brooklyn-waterfront-past-present"
 excerpt: "When I first came to New York in the last quarter of the last century, I went to work for Moore-McCormack Lines, which had a terminal in Brooklyn on the Gowanus Canal. For better or worse, the Brooklyn waterfront has … Continue reading &rarr;"
 categories:
   - "City of Ships"

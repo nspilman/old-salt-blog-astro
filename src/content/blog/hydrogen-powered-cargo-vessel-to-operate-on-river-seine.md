@@ -1,7 +1,7 @@
 ---
 title: "Hydrogen-Powered Cargo Vessel to Operate on River Seine"
 date: 2021-04-11T11:35:29
-slug: hydrogen-powered-cargo-vessel-to-operate-on-river-seine
+slug: "hydrogen-powered-cargo-vessel-to-operate-on-river-seine"
 excerpt: "We recently posted about plans to build an emission-free bulk carrier powered by compressed hydrogen and rotors sails to be in service by 20204. The European Flagships Project has announced plans to begin operations of a hydrogen-powered cargo vessel on … Continue reading &rarr;"
 categories:
   - "Current"

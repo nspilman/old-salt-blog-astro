@@ -1,8 +1,8 @@
 ---
 title: "Project Natick — Microsoft Tests an Underwater Data-Center"
 date: 2018-06-08T08:53:21
-slug: project-natick-microsoft-tests-an-underwater-data-center
-excerpt: "Although we speak of the internet as being in “the cloud,” an estimated 95 percent of internet communication is carried on cables on the bottom of the sea. Now Microsoft is exploring moving computer data centers beneath the sea, as well. Microsoft has … Continue reading &rarr;"
+slug: "project-natick-microsoft-tests-an-underwater-data-center"
+excerpt: "Although we speak of the internet as being in \"the cloud,\" an estimated 95 percent of internet communication is carried on cables on the bottom of the sea. Now Microsoft is exploring moving computer data centers beneath the sea, as well. Microsoft has … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "microsoft"
   - "Project Natick"
 author: "Rick Spilman"
-description: "Although we speak of the internet as being in “the cloud,” an estimated 95 percent of internet communication is carried on cables on the bottom of the sea. Now Microsoft is exploring moving computer data centers beneath the sea, as well. Microsoft has … Continue reading &rarr;"
+description: "Although we speak of the internet as being in \"the cloud,\" an estimated 95 percent of internet communication is carried on cables on the bottom of the sea. Now Microsoft is exploring moving computer data centers beneath the sea, as well. Microsoft has … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/projectnatick.jpg)Although we speak of the internet as being in “the cloud,” an [estimated 95 percent of internet communication](http://www.oldsaltblog.com/2016/03/forget-the-cloud-the-internet-is-beneath-the-sea/) is carried on cables on the bottom of the sea. Now Microsoft is exploring moving computer data centers beneath the sea, as well. Microsoft has recently dropped a 40-foot long data-center pod about 100 ft below the surface onto the seafloor off the coast from the European Marine Energy Centre in Orkney, north of Scotland. The pod is phase 2 of [Project Natick](https://natick.research.microsoft.com/). Microsoft previously dropped a slightly smaller 30-foot Natick pod off the coast of California in 2016 

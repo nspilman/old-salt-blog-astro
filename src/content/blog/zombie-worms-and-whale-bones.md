@@ -1,7 +1,7 @@
 ---
 title: "Zombie Worms and Whale Bones"
 date: 2020-10-10T10:00:39
-slug: zombie-worms-and-whale-bones
+slug: "zombie-worms-and-whale-bones"
 excerpt: "Bones left on land can survive for a very long time. The fossil bones of dinosaurs on display in museums around the world are testaments to their durability. Underwater, however, the situation can be very different. Weird and oddly wonderful … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

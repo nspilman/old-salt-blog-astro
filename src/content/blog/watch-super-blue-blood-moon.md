@@ -1,7 +1,7 @@
 ---
 title: "Watch Out for the Super Blue Blood Moon!"
 date: 2018-01-29T19:04:22
-slug: watch-super-blue-blood-moon
+slug: "watch-super-blue-blood-moon"
 excerpt: "On Wednesday, much of the world will be able to watch a blue moon, a supermoon and a blood moon, all at once. A blue moon is a term for a second full moon in a given month. There was … Continue reading &rarr;"
 categories:
   - "Current"

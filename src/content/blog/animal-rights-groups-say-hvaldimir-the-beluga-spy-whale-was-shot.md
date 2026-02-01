@@ -1,13 +1,13 @@
 ---
-title: "Animal Rights Groups Say Hvaldimir, the Beluga “Spy” Whale, Was Shot"
+title: "Animal Rights Groups Say Hvaldimir, the Beluga \"Spy\" Whale, Was Shot"
 date: 2024-09-04T19:13:59
-slug: animal-rights-groups-say-hvaldimir-the-beluga-spy-whale-was-shot
+slug: "animal-rights-groups-say-hvaldimir-the-beluga-spy-whale-was-shot"
 excerpt: "Animal rights groups on Wednesday said gunfire killed a beluga whale nicknamed Hvaldimir, which became famous in Norway after its unusual harness sparked suspicions the creature was trained by Russia as a spy. The organizations NOAH and One Whale said they … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - "beluga “spy” whale"
+  - "beluga \"spy\" whale"
   - "gunfire"
   - "Hvaldimir"
   - "Noah"

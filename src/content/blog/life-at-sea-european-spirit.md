@@ -1,7 +1,7 @@
 ---
 title: "Life at Sea | European Spirit"
 date: 2015-03-31T09:25:24
-slug: life-at-sea-european-spirit
+slug: "life-at-sea-european-spirit"
 excerpt: "A short video providing a glimpse of life aboard TeeKay’s Aframax tanker European Spirit. Life at Sea | European Spirit … Continue reading &rarr;"
 categories:
   - "Current"

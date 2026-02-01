@@ -1,7 +1,7 @@
 ---
 title: "Happy 4th of July  – A Toast to Madeira, the Wine of the Declaration of Independence and the Liberty Riots"
 date: 2017-07-04T07:51:16
-slug: happy-4th-july-toast-madeira-wine-declaration-independence-liberty-riots
+slug: "happy-4th-july-toast-madeira-wine-declaration-independence-liberty-riots"
 excerpt: "A post from five years ago, which is still fitting for the day. Happy 4th of July!  Those of us in the United States celebrate the anniversary of the adoption of the Declaration of Independence on July 4th 1776. Immediately after declaring independence from Great Britain, the representatives in … Continue reading &rarr;"
 categories:
   - "History"

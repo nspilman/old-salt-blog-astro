@@ -1,7 +1,7 @@
 ---
 title: "Sailors Missing, One Dead in Full Crew Farallones Race off San Fransciso"
 date: 2012-04-15T07:24:10
-slug: sailors-missing-one-dead-in-full-crew-farallones-race-off-san-fransciso
+slug: "sailors-missing-one-dead-in-full-crew-farallones-race-off-san-fransciso"
 excerpt: "Update: Sad news. As of Sunday Evening, the Coast Guard suspended the search for the four crew missing after the 38′ yacht Slow Speed Chase ran aground in Farallones Race off San Francisco on Saturday. Three or four sailors are … Continue reading &rarr;"
 categories:
   - "Current"

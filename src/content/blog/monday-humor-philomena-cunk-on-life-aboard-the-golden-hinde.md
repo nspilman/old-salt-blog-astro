@@ -1,7 +1,7 @@
 ---
 title: "Monday Humor — Philomena Cunk on Life Aboard the Golden Hind"
 date: 2018-04-09T16:42:49
-slug: monday-humor-philomena-cunk-on-life-aboard-the-golden-hinde
+slug: "monday-humor-philomena-cunk-on-life-aboard-the-golden-hinde"
 excerpt: "Yesterday we posted about an out-of-control bulk carrier which, after losing its steering gear, destroyed a mansion on the banks of the Bosphorus. By my count, roughly half of the media reports described the ship as a tanker, because apparently, many … Continue reading &rarr;"
 categories:
   - "Current"

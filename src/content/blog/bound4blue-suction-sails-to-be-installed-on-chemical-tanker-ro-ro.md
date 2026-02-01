@@ -1,7 +1,7 @@
 ---
 title: "Bound4Blue Suction Sails to be Installed on Chemical Tanker & Ro/Ro"
 date: 2023-10-06T16:45:21
-slug: bound4blue-suction-sails-to-be-installed-on-chemical-tanker-ro-ro
+slug: "bound4blue-suction-sails-to-be-installed-on-chemical-tanker-ro-ro"
 excerpt: "Recently, it was announced that Bound4Blue’s eSAIL® suction sails will be installed on an Odfjell chemical tanker and a ro/ro for Louis Dreyfus Armateurs. The technology goes by various names. When developed for Jacques-Ives Cousteau’s research vessel, Alcyone, it was … Continue reading &rarr;"
 categories:
   - "Current"

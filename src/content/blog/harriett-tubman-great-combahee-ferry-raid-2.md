@@ -1,7 +1,7 @@
 ---
 title: "Harriett Tubman and the Great Combahee Ferry Raid"
 date: 2016-04-28T07:33:07
-slug: harriett-tubman-great-combahee-ferry-raid-2
+slug: "harriett-tubman-great-combahee-ferry-raid-2"
 excerpt: "This is an updated repost from 2014. Now that it has been announced that Harriet Tubman will replace Andrew Jackon on the US $20 bill, it seems worthwhile to recall the Great Combahee Ferry Raid, which Harriet Tubman helped plan, scouted and … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "The Mystery of José Salvador Alvarenga & His 13 Months Adrift at Sea"
 date: 2014-02-04T09:50:15
-slug: the-mystery-of-jose-salvador-alvarenga-his-13-months-adrift-at-sea
+slug: "the-mystery-of-jose-salvador-alvarenga-his-13-months-adrift-at-sea"
 excerpt: "On Saturday, we posted about a man who drifted ashore in a 22-24′ fiberglass boat on Ebon Atoll in the Marshall Islands, claiming that he had spent the last 13 months lost at sea. He claims that his boat was … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

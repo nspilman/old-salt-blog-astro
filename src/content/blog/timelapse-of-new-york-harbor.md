@@ -1,7 +1,7 @@
 ---
 title: "Timelapse of New York Harbor"
 date: 2011-06-22T11:14:31
-slug: timelapse-of-new-york-harbor
+slug: "timelapse-of-new-york-harbor"
 excerpt: "I love sitting and just watching the harbor; watching the boats go by and the turn of the tide.   But who has the time these days?  For those too busy and/or  not geographically convenient, here is  about four hours of New York … Continue reading &rarr;"
 categories:
   - "Current"

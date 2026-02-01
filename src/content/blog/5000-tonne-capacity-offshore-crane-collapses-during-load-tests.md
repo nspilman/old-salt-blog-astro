@@ -1,7 +1,7 @@
 ---
 title: "5,000 Tonne Capacity Offshore Crane Collapses During Load Tests"
 date: 2020-05-06T09:36:46
-slug: 5000-tonne-capacity-offshore-crane-collapses-during-load-tests
+slug: "5000-tonne-capacity-offshore-crane-collapses-during-load-tests"
 excerpt: "How is your day going? We hope that it is going better than the folks who were load testing a new 90 meter high Liebherr TLC crane on the offshore installation support vessel Orion 1. The crane had a 160-meter … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

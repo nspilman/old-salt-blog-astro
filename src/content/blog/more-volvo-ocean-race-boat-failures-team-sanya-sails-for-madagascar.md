@@ -1,7 +1,7 @@
 ---
 title: "More Volvo Ocean Race Boat Failures – Team Sanya Sails for Madagascar"
 date: 2011-12-20T11:06:06
-slug: more-volvo-ocean-race-boat-failures-team-sanya-sails-for-madagascar
+slug: "more-volvo-ocean-race-boat-failures-team-sanya-sails-for-madagascar"
 excerpt: "The Volvo Ocean Race is a big money around the world race, with corporate or state sponsored teams, racing with professional crews on Open 70 sailboats. With that much money, expertise and hardware, what could go wrong? Quite a lot … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

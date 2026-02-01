@@ -1,7 +1,7 @@
 ---
 title: "SSV Oliver Hazard Perry Earns Certificate of Inspection —  Summer Sails Set"
 date: 2016-07-27T14:17:14
-slug: ssv-oliver-hazard-perry-earns-certificate-inspection-summer-sails-set
+slug: "ssv-oliver-hazard-perry-earns-certificate-inspection-summer-sails-set"
 excerpt: "Congratulations to the officers, crew and the shore staff of the SSV Oliver Hazard Perry. The 200′ long tall ship recently completed the necessary drills and inspections required by the US Coast Guard in order for the ship to qualify as a … Continue reading &rarr;"
 categories:
   - "Current"

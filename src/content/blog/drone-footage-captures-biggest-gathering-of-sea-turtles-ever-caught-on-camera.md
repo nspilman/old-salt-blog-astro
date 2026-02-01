@@ -1,7 +1,7 @@
 ---
 title: "Drone Footage Captures Biggest Gathering of Sea Turtles Ever Caught on Camera"
 date: 2020-06-13T17:01:17
-slug: drone-footage-captures-biggest-gathering-of-sea-turtles-ever-caught-on-camera
+slug: "drone-footage-captures-biggest-gathering-of-sea-turtles-ever-caught-on-camera"
 excerpt: "Raine Island, Australia, on the edge of the Great Barrier Reef, is one of the world’s largest nesting sites for green sea turtles. Researchers have found that drone cameras are the best way to count the young sea turtles.  Using … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

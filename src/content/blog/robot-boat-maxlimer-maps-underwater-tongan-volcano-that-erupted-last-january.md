@@ -1,7 +1,7 @@
 ---
 title: "Robot Boat Maxlimer Maps Underwater Tongan Volcano That Erupted Last January"
 date: 2022-08-24T10:22:40
-slug: robot-boat-maxlimer-maps-underwater-tongan-volcano-that-erupted-last-january
+slug: "robot-boat-maxlimer-maps-underwater-tongan-volcano-that-erupted-last-january"
 excerpt: "Last January, a major underwater eruption of the Hunga-Tonga Hunga-Haʻapai (HTHH) volcano caused a tsunami that hit the Pacific country of Tonga. Now, the BBC reports that a robot vessel, the 12m-long Uncrewed Surface Vessel (USV) Maxlimer, has returned from … Continue reading &rarr;"
 categories:
   - "Current"

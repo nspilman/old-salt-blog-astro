@@ -1,7 +1,7 @@
 ---
 title: "Houthis Release Video of Sea Drones Striking Tanker Chios Lion in the Red Sea"
 date: 2024-07-17T19:48:25
-slug: houthis-release-video-of-sea-drones-striking-tanker-chios-lion-in-the-red-sea
+slug: "houthis-release-video-of-sea-drones-striking-tanker-chios-lion-in-the-red-sea"
 excerpt: "Yemeni Houthi rebels have released a video of an attack they claim to have been carried out by a sea drone on an oil tanker in the Red Sea. The footage shows a small vessel approaching, then colliding with the … Continue reading &rarr;"
 categories:
   - "Current"

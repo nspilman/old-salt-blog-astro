@@ -1,7 +1,7 @@
 ---
 title: "Sinking of the Yongala  – March 23rd, 1911"
 date: 2011-03-23T08:26:27
-slug: sinking-of-the-yongala-march-23rd-1911
+slug: "sinking-of-the-yongala-march-23rd-1911"
 excerpt: "Today is the 100th anniversary of the tragic sinking of the passenger ship SS Yongala in a cyclone off Australia with the loss of 122 lives. Yongala Centenary Expedition CAIRNS tourism pioneer Charles Woodward is today heading for the shipwreck … Continue reading &rarr;"
 categories:
   - "Current"

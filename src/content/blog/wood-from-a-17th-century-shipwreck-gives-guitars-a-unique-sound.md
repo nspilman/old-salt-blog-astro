@@ -1,8 +1,8 @@
 ---
 title: "Wood From a 17th Century Shipwreck Gives Guitars a Unique Sound"
 date: 2021-04-28T08:33:15
-slug: wood-from-a-17th-century-shipwreck-gives-guitars-a-unique-sound
-excerpt: "We recently posted about two “heritage desks” built for the Vice President of the United States and the Secretary of the Navy from timbers and fittings from the USS Constitution and several other historic ships. The CBC recently had an … Continue reading &rarr;"
+slug: "wood-from-a-17th-century-shipwreck-gives-guitars-a-unique-sound"
+excerpt: "We recently posted about two \"heritage desks\" built for the Vice President of the United States and the Secretary of the Navy from timbers and fittings from the USS Constitution and several other historic ships. The CBC recently had an … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Shipwreck Instruments"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/shipwreckguitar.jpg"
 author: "Rick Spilman"
-description: "We recently posted about two “heritage desks” built for the Vice President of the United States and the Secretary of the Navy from timbers and fittings from the USS Constitution and several other historic ships. The CBC recently had an … Continue reading &rarr;"
+description: "We recently posted about two \"heritage desks\" built for the Vice President of the United States and the Secretary of the Navy from timbers and fittings from the USS Constitution and several other historic ships. The CBC recently had an … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/shipwreckguitar.jpg)We recently [posted about two “heritage desks”](http://www.oldsaltblog.com/2021/04/heritage-desks-from-uss-constitution-for-veep-secnav/) built for the Vice President of the United States and the Secretary of the Navy from timbers and fittings from the USS *Constitution* and several other historic ships. The [CBC recently had an account of guitars made from shipwrecked timber:](https://www.cbc.ca/news/canada/newfoundland-labrador/love-of-music-shipwreck-guitars-1.5978246)

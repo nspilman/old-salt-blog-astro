@@ -1,14 +1,14 @@
 ---
 title: "Smoke on the Water – A Post from Carnival Cruise Director’s Blog"
 date: 2010-11-13T08:54:34
-slug: smoke-on-the-water-a-post-from-carnival-cruise-directors-blog
-excerpt: "It started as a tweet ( a post on Twitter) from Carnival Cruise Lines: “﻿﻿You can view Sr Cruise Director, John Heald’s new blog post about his experience onboard Carnival Splendor here.”   OK, that sounded interesting, I suppose.   … Continue reading &rarr;"
+slug: "smoke-on-the-water-a-post-from-carnival-cruise-directors-blog"
+excerpt: "It started as a tweet ( a post on Twitter) from Carnival Cruise Lines: \"﻿﻿You can view Sr Cruise Director, John Heald’s new blog post about his experience onboard Carnival Splendor here.\"   OK, that sounded interesting, I suppose.   … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 author: "Rick Spilman"
-description: "It started as a tweet ( a post on Twitter) from Carnival Cruise Lines: “﻿﻿You can view Sr Cruise Director, John Heald’s new blog post about his experience onboard Carnival Splendor here.”   OK, that sounded interesting, I suppose.   … Continue reading &rarr;"
+description: "It started as a tweet ( a post on Twitter) from Carnival Cruise Lines: \"﻿﻿You can view Sr Cruise Director, John Heald’s new blog post about his experience onboard Carnival Splendor here.\"   OK, that sounded interesting, I suppose.   … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/cruisedirector.jpg)

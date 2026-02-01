@@ -1,7 +1,7 @@
 ---
 title: "11,000 Year Old Glass Sponge a Living Ocean Climate Archive"
 date: 2021-04-09T14:12:40
-slug: 11000-year-old-glass-sponge-a-living-ocean-climate-archive
+slug: "11000-year-old-glass-sponge-a-living-ocean-climate-archive"
 excerpt: "In the deep ocean, the Monorhaphis chuni, a type of glass sponge, can grow to be 10 feet long. A single silicon spine, or spicule, anchors itself to the seafloor, around which the softer sponge body is supported. The spine … Continue reading &rarr;"
 categories:
   - "Current"

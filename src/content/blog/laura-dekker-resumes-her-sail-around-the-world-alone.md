@@ -1,7 +1,7 @@
 ---
 title: "Laura Dekker Resumes her Sail Around the World Alone"
 date: 2010-11-15T15:45:20
-slug: laura-dekker-resumes-her-sail-around-the-world-alone
+slug: "laura-dekker-resumes-her-sail-around-the-world-alone"
 excerpt: "After waiting out the hurricane season in the Canary Islands  15-year-old Dutch sailor Laura Dekker has resumed her attempt to sail around the world alone on her 38′ ketch Guppy.   Ms. Dekker had been at the center of a … Continue reading &rarr;"
 categories:
   - "Current"

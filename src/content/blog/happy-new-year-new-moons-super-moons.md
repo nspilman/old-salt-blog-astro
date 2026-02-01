@@ -1,7 +1,7 @@
 ---
 title: "Happy New Year — New Moons & Super Moons!"
 date: 2014-01-01T10:19:36
-slug: happy-new-year-new-moons-super-moons
+slug: "happy-new-year-new-moons-super-moons"
 excerpt: "Happy New Year! The New Year 2014 begins with both a new moon and a supermoon. The month also ends with a both a new moon and and a supermoon on the 30th. A supermoon is the term applied when … Continue reading &rarr;"
 categories:
   - "Current"

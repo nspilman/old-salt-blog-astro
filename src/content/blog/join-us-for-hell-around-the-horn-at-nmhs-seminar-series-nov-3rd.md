@@ -1,7 +1,7 @@
 ---
-title: "Join Us For “Hell Around the Horn” at NMHS Seminar Series, Nov 3rd"
+title: "Join Us For \"Hell Around the Horn\" at NMHS Seminar Series, Nov 3rd"
 date: 2018-10-29T18:21:44
-slug: join-us-for-hell-around-the-horn-at-nmhs-seminar-series-nov-3rd
+slug: "join-us-for-hell-around-the-horn-at-nmhs-seminar-series-nov-3rd"
 excerpt: "If you are in the neighborhood, consider joining us when I give a presentation about my novel, Hell Around the Horn, at the National Maritime Historical Society Seminar Series this Saturday at the Hendrick Hudson Free Library, 185 Kings Ferry Road, Montrose, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Watch out for the Super Supermoon!"
 date: 2013-06-22T09:12:04
-slug: watch-out-for-the-super-supermoon
+slug: "watch-out-for-the-super-supermoon"
 excerpt: "This evening, watch out for the supermoon; well actually, a super supermoon, which on the East Coast of the United States should be rising in the East around sunset.  As reported by USA today: A supermoon occurs when the moon … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Proposed Budget Slashes Billions from Coast Guard to Fund Border Wall"
 date: 2017-03-08T10:29:59
-slug: proposed-budget-slashes-billions-coast-guard-fund-border-wall
+slug: "proposed-budget-slashes-billions-coast-guard-fund-border-wall"
 excerpt: "The current administration is considering major cuts to the Coast Guard budget in order to fund it’s plans to build a multi-billion-dollar border wall and to crack down on illegal immigration. In the draft budget proposal, the already over-stretched Coast Guard will … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Moby Dick – The Masterpiece that Ruined Herman Melville’s Career Honored By Google Doodle"
 date: 2012-10-18T13:05:09
-slug: moby-dick-the-masterpiece-that-ruined-herman-melvilles-career-honored-by-google-doodle
+slug: "moby-dick-the-masterpiece-that-ruined-herman-melvilles-career-honored-by-google-doodle"
 excerpt: "Today the Google Doodle honors Herman Melville‘s masterpiece, Moby Dick, on this the 161st anniversary of its publication.  Ironically, the book that has garnered Melville immortality also effectively ruined his career.   Known as a writer of semi-autobiographical stories, neither the critics … Continue reading &rarr;"
 categories:
   - "Current"

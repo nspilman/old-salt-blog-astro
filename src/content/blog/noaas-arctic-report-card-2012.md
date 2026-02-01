@@ -1,7 +1,7 @@
 ---
 title: "NOAA’s Arctic Report Card 2012"
 date: 2012-12-09T14:30:40
-slug: noaas-arctic-report-card-2012
+slug: "noaas-arctic-report-card-2012"
 excerpt: "The National Oceanographic and Atmospheric Administration’s Arctic Report Card for 2012. Arctic Report Card … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Twenty Five Years Ago Today, Exxon Valdez Grounded in Prince Edward Sound"
 date: 2014-03-24T15:20:33
-slug: twenty-five-years-ago-today-exxon-valdez-grounded-in-prince-edward-sound
+slug: "twenty-five-years-ago-today-exxon-valdez-grounded-in-prince-edward-sound"
 excerpt: "On March 24, 1989, the 210,000 dwt crude oil tanker Exxon Valdez sailed from Valdez Marine Terminal and entered Alaska’s Prince William Sound. At 12:04 am, the single hulled ship ran aground on Bligh Reef, resulting in the largest oil spill in … Continue reading &rarr;"
 categories:
   - "History"

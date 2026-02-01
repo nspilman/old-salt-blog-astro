@@ -1,7 +1,7 @@
 ---
 title: "Vaquita Porpoises on the Brink of Extinction"
 date: 2021-11-24T13:56:35
-slug: vaquita-porpoises-on-the-brink-of-extinction
+slug: "vaquita-porpoises-on-the-brink-of-extinction"
 excerpt: "In 2017, we posted about an attempt to use Navy-trained dolphins in a last-ditch effort to capture and save the few surviving vaquita. The vaquita is a small porpoise found only in the Gulf of California that is in imminent … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
-title: "Update : Bayesian Tragedy — Manslaughter Investigation, “Unsinkable,” & Many Question Unanswered"
+title: "Update : Bayesian Tragedy — Manslaughter Investigation, \"Unsinkable,\" & Many Question Unanswered"
 date: 2024-08-24T21:33:01
-slug: update-bayesian-tragedy-manslaughter-investigation-unsinkable-many-question-unanswered
+slug: "update-bayesian-tragedy-manslaughter-investigation-unsinkable-many-question-unanswered"
 excerpt: "Five days ago, the 56-meter-long sailing yacht Bayesian sank at anchor off Sicily in extreme weather. Fifteen people on board were rescued and seven died, including British tech tycoon Mike Lynch and his 18-year-old daughter, Hannah. This morning Italian prosecutors said … Continue reading &rarr;"
 categories:
   - "Current"

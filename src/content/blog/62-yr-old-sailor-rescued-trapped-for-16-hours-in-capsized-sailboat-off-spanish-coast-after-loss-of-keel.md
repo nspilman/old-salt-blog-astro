@@ -1,7 +1,7 @@
 ---
 title: "62 Yr Old Sailor Rescued, Trapped for 16 Hours in Capsized Sailboat Off Spanish Coast, After Loss of Keel"
 date: 2022-08-06T10:26:29
-slug: 62-yr-old-sailor-rescued-trapped-for-16-hours-in-capsized-sailboat-off-spanish-coast-after-loss-of-keel
+slug: "62-yr-old-sailor-rescued-trapped-for-16-hours-in-capsized-sailboat-off-spanish-coast-after-loss-of-keel"
 excerpt: "It has happened again. While sailing in a qualifying race for the upcoming transatlantic solo sailing contest Route du Rhum, 62-year-old French sailor Laurent Camprubi found himself trapped inside his sailboat after it capsized. The keel on his boat, the … Continue reading &rarr;"
 categories:
   - "Current"

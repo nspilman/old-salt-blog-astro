@@ -1,7 +1,7 @@
 ---
 title: "Mystic Seaport : The Sabino Will Sail Again"
 date: 2016-01-27T11:33:48
-slug: mystic-seaport-the-sabino-will-sail-again
+slug: "mystic-seaport-the-sabino-will-sail-again"
 excerpt: "Yesterday, we posted about the boiler problems on the historic steamer Sabino at the Mystic Seaport Museum in Mystic CT. During a major restoration of the steamer, built in 1908, it was determined that the boiler will need to be … Continue reading &rarr;"
 categories:
   - "Current"

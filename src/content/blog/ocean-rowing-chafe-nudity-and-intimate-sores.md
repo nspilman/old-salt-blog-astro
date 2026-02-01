@@ -1,7 +1,7 @@
 ---
 title: "Ocean Rowing – Chafe, Nudity and Intimate Sores"
 date: 2011-02-10T09:48:43
-slug: ocean-rowing-chafe-nudity-and-intimate-sores
+slug: "ocean-rowing-chafe-nudity-and-intimate-sores"
 excerpt: "Ocean rowing has got to be one of the most physically demanding of all sports.  In addition to the physical labor of fighting the wind and seas, salt water sores and chafing are reported to be a big problem.   … Continue reading &rarr;"
 categories:
   - "Current"

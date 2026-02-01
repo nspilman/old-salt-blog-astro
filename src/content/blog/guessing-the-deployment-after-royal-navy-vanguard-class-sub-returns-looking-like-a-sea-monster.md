@@ -1,7 +1,7 @@
 ---
-title: "Guessing the Deployment After Royal Navy Vanguard Class Sub Returns Looking Like a “Sea Monster”"
+title: "Guessing the Deployment After Royal Navy Vanguard Class Sub Returns Looking Like a \"Sea Monster\""
 date: 2023-09-14T17:54:33
-slug: guessing-the-deployment-after-royal-navy-vanguard-class-sub-returns-looking-like-a-sea-monster
+slug: "guessing-the-deployment-after-royal-navy-vanguard-class-sub-returns-looking-like-a-sea-monster"
 excerpt: "The War Zone column from the Drive.com blog recently featured photographs of a Royal Navy Vanguard class submarine returning to HM Naval Base Clyde, which is also known as Faslane, on the west coast of Scotland, after a 197-day nuclear … Continue reading &rarr;"
 categories:
   - "Current"

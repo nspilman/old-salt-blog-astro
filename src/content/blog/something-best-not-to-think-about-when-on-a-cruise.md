@@ -1,7 +1,7 @@
 ---
 title: "Something Best Not to Think About When on a Cruise"
 date: 2010-06-15T11:45:19
-slug: something-best-not-to-think-about-when-on-a-cruise
+slug: "something-best-not-to-think-about-when-on-a-cruise"
 excerpt: "When on a cruise vacation, I can imagine nothing less relaxing than worrying that the cruise line vacation planner might have given your home address to thieves, who were breaking into your house as you waited in line for the midnight buffet on the cruise ship. Bethsaida Sandoval, … Continue reading &rarr;"
 categories:
   - "Current"

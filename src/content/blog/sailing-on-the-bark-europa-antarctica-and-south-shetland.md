@@ -1,7 +1,7 @@
 ---
 title: "Sailing on the Bark Europa – Antarctica and South Shetland"
 date: 2013-04-03T09:18:24
-slug: sailing-on-the-bark-europa-antarctica-and-south-shetland
+slug: "sailing-on-the-bark-europa-antarctica-and-south-shetland"
 excerpt: "The first of three wonderful videos shot by William Collinson sailing on the Bark Europa between the end of December 2012 and the early part of January 2013. Europa   … Continue reading &rarr;"
 categories:
   - "Current"

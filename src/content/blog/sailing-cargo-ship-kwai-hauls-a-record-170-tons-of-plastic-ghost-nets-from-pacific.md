@@ -1,8 +1,8 @@
 ---
 title: "Sailing Cargo Ship Kwai Hauls a Record 170 Tons of Plastic & Ghost Nets From Pacific"
 date: 2020-08-13T18:40:05
-slug: sailing-cargo-ship-kwai-hauls-a-record-170-tons-of-plastic-ghost-nets-from-pacific
-excerpt: "In June of last year, we posted about the sailing cargo ship Kwai that had collected more than 40 tons of plastic waste and “ghost nets” from the Pacific Garbage Patch. Ghost nets are abandoned fishing gear that continues to … Continue reading &rarr;"
+slug: "sailing-cargo-ship-kwai-hauls-a-record-170-tons-of-plastic-ghost-nets-from-pacific"
+excerpt: "In June of last year, we posted about the sailing cargo ship Kwai that had collected more than 40 tons of plastic waste and \"ghost nets\" from the Pacific Garbage Patch. Ghost nets are abandoned fishing gear that continues to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "Pacific Garbage Patch"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/kwai.jpg"
 author: "Rick Spilman"
-description: "In June of last year, we posted about the sailing cargo ship Kwai that had collected more than 40 tons of plastic waste and “ghost nets” from the Pacific Garbage Patch. Ghost nets are abandoned fishing gear that continues to … Continue reading &rarr;"
+description: "In June of last year, we posted about the sailing cargo ship Kwai that had collected more than 40 tons of plastic waste and \"ghost nets\" from the Pacific Garbage Patch. Ghost nets are abandoned fishing gear that continues to … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/kwai.jpg)In June of last year, we posted about the [sailing cargo ship *Kwai*](http://svkwai.com/) that had collected more than 40 tons of plastic waste and “ghost nets” from the Pacific Garbage Patch. Ghost nets are abandoned fishing gear that continues to drift, catching and killing thousands of marine animals. 

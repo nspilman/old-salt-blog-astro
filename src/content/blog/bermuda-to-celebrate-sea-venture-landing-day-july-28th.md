@@ -1,7 +1,7 @@
 ---
 title: "Bermuda to Celebrate Sea Venture Landing Day July 28th"
 date: 2021-07-23T10:17:32
-slug: bermuda-to-celebrate-sea-venture-landing-day-july-28th
+slug: "bermuda-to-celebrate-sea-venture-landing-day-july-28th"
 excerpt: "The Sea Venture was the flagship of the Third Supply mission to the Jamestown Colony that was wrecked in Bermuda in 1609. A 300-ton ship commissioned by the London Company, she was one of the first single timbered merchantmen built … Continue reading &rarr;"
 categories:
   - "Current"

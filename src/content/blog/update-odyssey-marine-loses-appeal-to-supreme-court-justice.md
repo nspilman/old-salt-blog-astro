@@ -1,7 +1,7 @@
 ---
 title: "Update: Odyssey Marine Loses Appeal to Supreme Court Justice"
 date: 2012-02-11T15:56:24
-slug: update-odyssey-marine-loses-appeal-to-supreme-court-justice
+slug: "update-odyssey-marine-loses-appeal-to-supreme-court-justice"
 excerpt: "Earlier this week, we posted that a circuit court had upheld previous rulings against Odyssey Marine Exploration, requiring the company to return to Spain $500m (£308m) worth of gold and silver coins it had recovered from the wreck of the Nuestra Señora de las … Continue reading &rarr;"
 categories:
   - "Current"

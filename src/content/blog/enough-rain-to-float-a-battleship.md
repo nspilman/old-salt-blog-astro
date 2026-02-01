@@ -1,8 +1,8 @@
 ---
 title: "Enough Rain to Float a Battleship"
 date: 2015-10-17T18:33:00
-slug: enough-rain-to-float-a-battleship
-excerpt: "The recent rain in the Carolinas has been close to unprecedented.  Meteorologists have referred to it as the “1,000-year rainfall.”  Another way to describe it is that it was “enough rain to float a battleship.” In this case, however, that … Continue reading &rarr;"
+slug: "enough-rain-to-float-a-battleship"
+excerpt: "The recent rain in the Carolinas has been close to unprecedented.  Meteorologists have referred to it as the \"1,000-year rainfall.\"  Another way to describe it is that it was \"enough rain to float a battleship.\" In this case, however, that … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "USS North Carolina"
   - "Wilmington"
 author: "Rick Spilman"
-description: "The recent rain in the Carolinas has been close to unprecedented.  Meteorologists have referred to it as the “1,000-year rainfall.”  Another way to describe it is that it was “enough rain to float a battleship.” In this case, however, that … Continue reading &rarr;"
+description: "The recent rain in the Carolinas has been close to unprecedented.  Meteorologists have referred to it as the \"1,000-year rainfall.\"  Another way to describe it is that it was \"enough rain to float a battleship.\" In this case, however, that … Continue reading &rarr;"
 ---
 
 ![Photo: Doc Searls ](http://www.oldsaltblog.com/wp-content/uploads/2015/10/ussnc1.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "At Least 114 Dead After Ferry MV-Shariatpur-1 Capsizes in Bangladesh"
 date: 2012-03-14T10:11:31
-slug: at-least-114-dead-after-ferry-mv-shariatpur-1-capsizes-in-bangladesh
+slug: "at-least-114-dead-after-ferry-mv-shariatpur-1-capsizes-in-bangladesh"
 excerpt: "Yesterday, the MV-Shariatpur-1, a ferry crossing the the Meghna River, just south of the capital, Dhaka, in Bangladesh, collided with a cargo vessel in early morning darkness. The ferry capsized and sank, killing at least 114 of the more than 200 passengers believed to be aboard. … Continue reading &rarr;"
 categories:
   - "Current"

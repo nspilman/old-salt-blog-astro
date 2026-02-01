@@ -1,7 +1,7 @@
 ---
 title: "When Did the Wine Dark Sea Turn Blue?"
 date: 2024-04-03T10:28:03
-slug: when-did-the-wine-dark-sea-turn-blue-2
+slug: "when-did-the-wine-dark-sea-turn-blue-2"
 excerpt: "For the next fortnight, I will be a passenger on a sailing ship crossing the briny blue of the Atlantic.  This seems like a good time to make an updated repost on the color blue. Homer referred to the famously … Continue reading &rarr;"
 categories:
   - "History"

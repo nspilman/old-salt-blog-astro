@@ -1,7 +1,7 @@
 ---
 title: "Jimmy Buffett’s New Surfari 50 — Love it or Hate it?"
 date: 2018-11-30T21:42:22
-slug: jimmy-buffetts-new-surfari-50-love-it-or-hate-it
+slug: "jimmy-buffetts-new-surfari-50-love-it-or-hate-it"
 excerpt: "As we creep toward winter and the weather gets cold and nasty, it feels like a good time to think of boats in warmer waters. One such boat is likely to be Jimmy Buffett’s new Drifter, a Surfari design by Ted … Continue reading &rarr;"
 categories:
   - "Current"

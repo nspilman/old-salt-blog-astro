@@ -1,7 +1,7 @@
 ---
 title: "US & UK Navies Suffer Sailor Shortage, Cutting Crews on Carriers & Laying Up Frigates"
 date: 2024-01-07T16:13:02
-slug: us-uk-navies-suffer-sailor-shortage-cutting-crews-on-carriers-laying-up-frigates
+slug: "us-uk-navies-suffer-sailor-shortage-cutting-crews-on-carriers-laying-up-frigates"
 excerpt: "This year, the US and Royal navies have fallen short of meeting their recruiting goals, leaving both navies with more ships’ billets than they have personnel to fill them. In 2023, the US Navy missed its goal of recruiting 37,700 … Continue reading &rarr;"
 categories:
   - "Current"

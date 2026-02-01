@@ -1,7 +1,7 @@
 ---
 title: "Belize Refuses Entry to Carnival Magic As Ebola Hysteria Continues"
 date: 2014-10-17T08:11:52
-slug: belize-refuses-entry-to-carnival-magic-as-ebola-hysteria-continues
+slug: "belize-refuses-entry-to-carnival-magic-as-ebola-hysteria-continues"
 excerpt: "Ebola hysteria continues to spiral out of control. A nurse, who may have handled lab specimens from an Ebola patient at Texas Presbyterian Hospital in Dallas, is now being quarantined in her stateroom on the cruise ship, Carnival Magic.  The … Continue reading &rarr;"
 categories:
   - "Current"

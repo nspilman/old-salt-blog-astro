@@ -1,7 +1,7 @@
 ---
 title: "Clinton Pearson, Pioneer in Fiberglass Boat Building, Dies at 91"
 date: 2020-04-17T12:25:05
-slug: clinton-pearson-pioneer-in-fiberglass-boat-building-dies-at-91
+slug: "clinton-pearson-pioneer-in-fiberglass-boat-building-dies-at-91"
 excerpt: "Clinton J. Pearson, a pioneer in building fiberglass yachts, passed away on April 4, 2020, at the age of 91. With his cousin, Everett Pearson, Clinton began building fiberglass dinghies in their garage in Seekonk, MA in 1955. The venture … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

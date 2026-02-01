@@ -1,7 +1,7 @@
 ---
 title: "Socially Distanced Office in New York’s East River"
 date: 2020-11-01T11:14:50
-slug: socially-distanced-office-in-new-yorks-east-river
+slug: "socially-distanced-office-in-new-yorks-east-river"
 excerpt: "Boaters were recently surprised to find a man working in a fully outfitted office on a raft anchored in New York’s East River. The office was the brainchild of Improv Everywhere, a New York City-based comedy collective that stages unexpected … Continue reading &rarr;"
 categories:
   - "Current"

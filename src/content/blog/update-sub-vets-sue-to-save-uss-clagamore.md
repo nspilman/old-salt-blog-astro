@@ -1,7 +1,7 @@
 ---
 title: "Update: Sub Vets Sue to Save USS Clamagore"
 date: 2019-04-21T07:43:34
-slug: update-sub-vets-sue-to-save-uss-clagamore
+slug: "update-sub-vets-sue-to-save-uss-clagamore"
 excerpt: "Recently, we posted about the planned sinking of the USS Clamagore as an artificial reef. The 1945 built Balao-class submarine has been an exhibit at the  Patriots Point Naval & Maritime Museum in Charleston, SC since 1981, but the museum says … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Astrodene’s Historical Naval Fiction Log Book – A New Newsletter"
 date: 2010-05-04T19:24:22
-slug: astrodenes-historical-naval-fiction-log-book-a-new-newsletter
+slug: "astrodenes-historical-naval-fiction-log-book-a-new-newsletter"
 excerpt: "Fans of naval fiction either know or should know of Astrodene’s Historical Naval Fiction web site and forum.   A wonderful resource, lots of great information on books both old and new, as well as very nice folks in the forum. … Continue reading &rarr;"
 categories:
   - "Critiques"

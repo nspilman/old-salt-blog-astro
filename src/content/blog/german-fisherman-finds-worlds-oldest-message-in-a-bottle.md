@@ -1,7 +1,7 @@
 ---
 title: "German Fisherman Finds ‘World’s Oldest Message In A Bottle’"
 date: 2014-04-11T09:04:43
-slug: german-fisherman-finds-worlds-oldest-message-in-a-bottle
+slug: "german-fisherman-finds-worlds-oldest-message-in-a-bottle"
 excerpt: "A wonderful story. Thanks to Irwin Bryan for passing it along. German Fisherman Finds ‘World’s Oldest Message In A Bottle’ … Continue reading &rarr;"
 categories:
   - "Current"

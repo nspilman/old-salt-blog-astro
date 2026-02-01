@@ -1,7 +1,7 @@
 ---
 title: "Sagres in San Diego and San Diego in Pascagoula"
 date: 2010-06-14T11:27:41
-slug: sagres-in-san-diego-and-san-diego-in-pascagoula
+slug: "sagres-in-san-diego-and-san-diego-in-pascagoula"
 excerpt: "Last week, one of my favorite tall ships, the Portuguese Sail Training Ship Sagres visited San Diego, California. This weekend, on the Gulf Coast in Pascagoula, Mississippi, the US Navy christened the USS San Diego, a San Antonio-class amphibious transport dock ship.    Not to be too critical … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
-title: "Remembering Frank Woerner, “Folk Father” & Shanty Singer"
+title: "Remembering Frank Woerner, \"Folk Father\" & Shanty Singer"
 date: 2023-03-04T09:55:50
-slug: remembering-frank-woerner-folk-father-shanty-singer
-excerpt: "I was stunned and saddened to read that shanty singer and folklorist Frank Woerner has died. I haven’t seen an obituary yet, but I came across a Facebook post by Alison Kelley who wrote, “It is with great shock and … Continue reading &rarr;"
+slug: "remembering-frank-woerner-folk-father-shanty-singer"
+excerpt: "I was stunned and saddened to read that shanty singer and folklorist Frank Woerner has died. I haven’t seen an obituary yet, but I came across a Facebook post by Alison Kelley who wrote, \"It is with great shock and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "X-Seamen's Institute"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/frankw.jpg"
 author: "Rick Spilman"
-description: "I was stunned and saddened to read that shanty singer and folklorist Frank Woerner has died. I haven’t seen an obituary yet, but I came across a Facebook post by Alison Kelley who wrote, “It is with great shock and … Continue reading &rarr;"
+description: "I was stunned and saddened to read that shanty singer and folklorist Frank Woerner has died. I haven’t seen an obituary yet, but I came across a Facebook post by Alison Kelley who wrote, \"It is with great shock and … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/03/frankw.jpg)I was stunned and saddened to read that shanty singer and folklorist [Frank Woerner](https://www.facebook.com/frank.woerner.3) has died. I haven’t seen an obituary yet, but I came across a Facebook post by Alison Kelley who wrote, “It is with great shock and sorrow that my dear friend and folk father Frank Woerner has passed away suddenly.”

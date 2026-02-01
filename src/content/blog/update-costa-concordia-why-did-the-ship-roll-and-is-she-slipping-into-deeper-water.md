@@ -1,7 +1,7 @@
 ---
 title: "Update: Costa Concordia – Why Did the Ship Roll and is She Slipping into Deeper Water?"
 date: 2012-01-16T11:47:51
-slug: update-costa-concordia-why-did-the-ship-roll-and-is-she-slipping-into-deeper-water
+slug: "update-costa-concordia-why-did-the-ship-roll-and-is-she-slipping-into-deeper-water"
 excerpt: "One of the more alarming aspects of the sinking of the Costa Concordia was the dramatic roll that the ship took after the grounding.  She is now sitting with a list of roughly 80 degrees with almost half of the ship … Continue reading &rarr;"
 categories:
   - "Current"

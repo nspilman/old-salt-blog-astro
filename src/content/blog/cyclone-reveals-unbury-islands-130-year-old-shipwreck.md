@@ -1,7 +1,7 @@
 ---
 title: "Cyclone Reveals Unbury Island’s 130-Year-Old Shipwreck"
 date: 2011-04-25T18:01:29
-slug: cyclone-reveals-unbury-islands-130-year-old-shipwreck
+slug: "cyclone-reveals-unbury-islands-130-year-old-shipwreck"
 excerpt: "As the sands of Fire Island are swallowing Le Papillon, Cyclone Yasi has uncovered a mysterious shipwreck on an island off  the Queensland coast. Cyclone Winds Unbury Island’s 130-Year-Old Shipwreck The huge cyclone’s intense winds blew away sand on one … Continue reading &rarr;"
 categories:
   - "Current"

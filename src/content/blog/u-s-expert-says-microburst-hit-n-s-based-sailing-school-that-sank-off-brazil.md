@@ -1,7 +1,7 @@
 ---
 title: "U.S. expert says microburst hit N.S.-based sailing school that sank off Brazil"
 date: 2010-04-03T09:29:00
-slug: u-s-expert-says-microburst-hit-n-s-based-sailing-school-that-sank-off-brazil
+slug: "u-s-expert-says-microburst-hit-n-s-based-sailing-school-that-sank-off-brazil"
 excerpt: "We have previously posted about the sinking of the school ship Concordia in February off the coast of Brazil.  Now, after examining satellite data and weather reports, a U. S. meteorologist, Ken Pryor of the National Oceanic and Atmospheric Administration, has concluded that the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

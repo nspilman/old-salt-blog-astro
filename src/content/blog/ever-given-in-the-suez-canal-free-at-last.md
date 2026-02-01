@@ -1,7 +1,7 @@
 ---
 title: "Ever Given in the Suez Canal  — Free At Last!"
 date: 2021-03-29T10:10:20
-slug: ever-given-in-the-suez-canal-free-at-last
+slug: "ever-given-in-the-suez-canal-free-at-last"
 excerpt: "The combination of a peak high tide, excavation by dredgers, and the combined pull of more than a dozen tugs has finally freed the ultra-large container ship Ever Given.  The 400-meter long container ship carrying 18,000 containers ran aground last … Continue reading &rarr;"
 categories:
   - "Current"

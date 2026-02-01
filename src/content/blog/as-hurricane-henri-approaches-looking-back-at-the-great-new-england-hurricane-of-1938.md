@@ -1,7 +1,7 @@
 ---
 title: "As Hurricane Henri Approaches, Looking Back at the Great New England Hurricane of 1938"
 date: 2021-08-21T17:41:57
-slug: as-hurricane-henri-approaches-looking-back-at-the-great-new-england-hurricane-of-1938
+slug: "as-hurricane-henri-approaches-looking-back-at-the-great-new-england-hurricane-of-1938"
 excerpt: "Hurricane Henri is expected to make landfall on the eastern portion of Long Island or in southern New England on Sunday afternoon. It will be the first hurricane to strike New England in 30 years. My wife and I cut … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "USNS Comfort Arrives in NYC & New Hospitals on the Harbor"
 date: 2020-03-30T11:58:41
-slug: usns-comfort-arrives-in-nyc-new-hospitals-on-the-harbor
+slug: "usns-comfort-arrives-in-nyc-new-hospitals-on-the-harbor"
 excerpt: "When particularly interesting ships arrive in New York harbor, I like to go down the waterfront, as time permits, to see them in. This morning was chilly and overcast and in the spirit of social distancing, I watched the arrival … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

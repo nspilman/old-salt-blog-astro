@@ -1,7 +1,7 @@
 ---
 title: "Sailing Yacht A  — One of the Biggest & Definitely the Ugliest"
 date: 2016-10-18T19:46:28
-slug: sailing-yacht-one-biggest-definitely-ugliest
+slug: "sailing-yacht-one-biggest-definitely-ugliest"
 excerpt: "Russian billionaire Andrey Melnichenko’s new sail-assisted motor-yacht, named simply, Sailing Yacht A, is undergoing sea trials. The $450 million yacht has a number of superlatives attached to it. At 12,700 tonnes, it is the largest sailing yacht in the world … Continue reading &rarr;"
 categories:
   - "Current"

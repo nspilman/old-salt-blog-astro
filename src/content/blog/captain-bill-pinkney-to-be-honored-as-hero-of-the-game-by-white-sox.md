@@ -1,8 +1,8 @@
 ---
-title: "Captain Bill Pinkney To Be Honored as “Hero of the Game” by White Sox"
+title: "Captain Bill Pinkney To Be Honored as \"Hero of the Game\" by White Sox"
 date: 2022-06-07T16:27:08
-slug: captain-bill-pinkney-to-be-honored-as-hero-of-the-game-by-white-sox
-excerpt: "In July of last year, we posted about Captain Bill Pinkney‘s induction into the National Sailing Hall of Fame with a Lifetime Achievement Award as an “Enthusiastic Trend Setter.” Captain Pinkney was the first African American to solo-circumnavigate the world via Cape … Continue reading &rarr;"
+slug: "captain-bill-pinkney-to-be-honored-as-hero-of-the-game-by-white-sox"
+excerpt: "In July of last year, we posted about Captain Bill Pinkney‘s induction into the National Sailing Hall of Fame with a Lifetime Achievement Award as an \"Enthusiastic Trend Setter.\" Captain Pinkney was the first African American to solo-circumnavigate the world via Cape … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -18,7 +18,7 @@ tags:
   - "White Sox"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/pinkney.jpg"
 author: "Rick Spilman"
-description: "In July of last year, we posted about Captain Bill Pinkney‘s induction into the National Sailing Hall of Fame with a Lifetime Achievement Award as an “Enthusiastic Trend Setter.” Captain Pinkney was the first African American to solo-circumnavigate the world via Cape … Continue reading &rarr;"
+description: "In July of last year, we posted about Captain Bill Pinkney‘s induction into the National Sailing Hall of Fame with a Lifetime Achievement Award as an \"Enthusiastic Trend Setter.\" Captain Pinkney was the first African American to solo-circumnavigate the world via Cape … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/pinkney.jpg)In July of last year, [we posted](https://www.oldsaltblog.com/2021/07/captain-bill-pinkney-inducted-into-national-sailing-hall-of-fame/) about [Captain Bill Pinkney](https://en.wikipedia.org/wiki/Bill_Pinkney_\(sailor\)#Awards_and_honors)‘s induction into the [National Sailing Hall of Fame](https://nshof.org/inductees/pinkney-william/) with a Lifetime Achievement Award as an “Enthusiastic Trend Setter.” Captain Pinkney was the first African American to solo-circumnavigate the world via Cape Horn. Born on September 15, 1935, in Chicago, he attended public schools in Chicago and joined the U.S. Navy after graduating from high school in 1954.

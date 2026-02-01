@@ -1,8 +1,8 @@
 ---
 title: "Historic Ferryboat Binghamton to be Broken Up"
 date: 2016-11-28T16:08:49
-slug: historic-ferryboat-binghamton-broken
-excerpt: "When the New York Times features your obituary on the front page, it probably means that you are dead. Sadly, that is the case of with historic ferryboat Binghamton. Yesterday, the New York Times featured an article “Final Departure for … Continue reading &rarr;"
+slug: "historic-ferryboat-binghamton-broken"
+excerpt: "When the New York Times features your obituary on the front page, it probably means that you are dead. Sadly, that is the case of with historic ferryboat Binghamton. Yesterday, the New York Times featured an article \"Final Departure for … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Ferryboat Binghamton"
   - "hudson river"
 author: "Rick Spilman"
-description: "When the New York Times features your obituary on the front page, it probably means that you are dead. Sadly, that is the case of with historic ferryboat Binghamton. Yesterday, the New York Times featured an article “Final Departure for … Continue reading &rarr;"
+description: "When the New York Times features your obituary on the front page, it probably means that you are dead. Sadly, that is the case of with historic ferryboat Binghamton. Yesterday, the New York Times featured an article \"Final Departure for … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2016/04/binghamton-starboardsidecrop.jpg)When the New York Times features your obituary on the front page, it probably means that you are dead. Sadly, that is the case of with historic ferryboat [*Binghamton*](https://en.wikipedia.org/wiki/Binghamton_\(ferryboat\)). Yesterday, the New York Times featured an article “[Final Departure for 111-Year-Old Hudson Ferryboat](http://www.nytimes.com/2016/11/27/nyregion/binghamton-hudson-river-ferryboat.html?_r=0)” which describes how the flooded and collapsing ferry will be broken up and removed from its berth on the Hudson River in Edgewater, NJ starting next month. The demolition and removal is expected to cost about $500,000 and to take three months. 

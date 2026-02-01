@@ -1,7 +1,7 @@
 ---
 title: "Flettner Fleet Doubles in Size — M/V Estraden Adds A Rotor"
 date: 2015-01-14T19:20:05
-slug: flettner-fleet-doubles-in-size-mv-estraden-adds-a-rotor
+slug: "flettner-fleet-doubles-in-size-mv-estraden-adds-a-rotor"
 excerpt: "We have followed the E-Ship 1 for the last four years. The ship is a Ro/Lo cargo ship owned by the world’s third-largest wind turbine manufacturer, Germany’s Enercon GmbH and is distinctive because it is fitted with four Flettner rotors. The … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Viking Ship Draken Harald Hårfagre — East Coast Tour 2018"
 date: 2018-03-16T10:55:38
-slug: viking-ship-draken-harald-ha%cc%8arfagre-east-coast-tour-2018
+slug: "viking-ship-draken-harald-ha%cc%8arfagre-east-coast-tour-2018"
 excerpt: "The Draken Harald Hårfagre, the largest Viking longship built in modern times, will be touring the East Coast of the United States this summer.  From the Draken website: Beginning in June through October, plans for East Coast Tour 2018 currently consist … Continue reading &rarr;"
 categories:
   - "Current"

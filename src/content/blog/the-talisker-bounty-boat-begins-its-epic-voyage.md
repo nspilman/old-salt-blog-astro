@@ -1,7 +1,7 @@
 ---
 title: "The Talisker Bounty Boat Begins its Epic Voyage"
 date: 2010-04-29T14:20:26
-slug: the-talisker-bounty-boat-begins-its-epic-voyage
+slug: "the-talisker-bounty-boat-begins-its-epic-voyage"
 excerpt: "Two hundred and twenty one years ago yesterday, the crew of HMS Bounty staged a mutiny that remains famous to this day.   Four sailors are attempting to recreate Captain Bligh’s epic 3,700 nautical mile voyage in a 23 foot long open boat … Continue reading &rarr;"
 categories:
   - "Current"

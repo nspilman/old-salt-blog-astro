@@ -1,7 +1,7 @@
 ---
 title: "Grays Harbor Historical Seaport: Learn. Sail. Discover."
 date: 2018-10-21T08:47:24
-slug: grays-harbor-historical-seaport-learn-sail-discover
+slug: "grays-harbor-historical-seaport-learn-sail-discover"
 excerpt: "Here is the very nicely done 2018 promotional video for Grays Harbor Historical Seaport, produced by Leftcoast Media House.  Grays Harbor, Washington is homeport to the West Coast’s tall ships, Lady Washington and Hawaiian Chieftain. Grays Harbor Historical Seaport: Learn. Sail. Discover. from … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
-title: "Celebrating Trafalgar Day and the Anniversary of the Launching of “Old Ironsides”"
+title: "Celebrating Trafalgar Day and the Anniversary of the Launching of \"Old Ironsides\""
 date: 2024-10-21T18:25:37
-slug: celebrating-trafalgar-day-and-the-anniversary-of-the-launching-of-old-ironsides-3
+slug: "celebrating-trafalgar-day-and-the-anniversary-of-the-launching-of-old-ironsides-3"
 excerpt: "Two hundred and nineteen years ago today, in 1805, the Royal Navy, commanded by Vice-Admiral Horatio Nelson, defeated the combined French and Spanish fleets in the Atlantic off Cape Trafalgar.  The decisive victory ended French plans to use the combined … Continue reading &rarr;"
 categories:
   - "History"

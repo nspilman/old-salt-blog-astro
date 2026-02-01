@@ -1,7 +1,7 @@
 ---
 title: "Team New Zealand First Syndicate to Win the America’s Cup Three Times in a Row"
 date: 2024-10-19T12:16:46
-slug: team-new-zealand-first-syndicate-to-win-the-americas-cup-three-times-in-a-row
+slug: "team-new-zealand-first-syndicate-to-win-the-americas-cup-three-times-in-a-row"
 excerpt: "Emirates Team New Zealand clinched match point in the 37th America’s Cup on Saturday, beating INEOS Britannia 7-2 in the best-of-13 finals held just off Barcelona’s beachfront as reported by the AP. The team led by Grant Dalton won its third consecutive … Continue reading &rarr;"
 categories:
   - "Current"

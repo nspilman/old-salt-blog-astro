@@ -1,8 +1,8 @@
 ---
 title: "Shanty Sings All Over – Mystic, New York, San Francisco, Port Townsend & Washington DC"
 date: 2012-01-05T14:46:38
-slug: shanty-sings-all-over-an-incomplete-roundup
-excerpt: "This Saturday night, January7th, the Mystic Seaport will be hosting a “Chantey Blast and Pub Sing” from 1-5 PM in the Frohsinn Hall (aka the German Club), 54 Greenmanville Avenue, in Mystic CT as a fundraiser for the 33rd Annual Mystic Seaport Sea … Continue reading &rarr;"
+slug: "shanty-sings-all-over-an-incomplete-roundup"
+excerpt: "This Saturday night, January7th, the Mystic Seaport will be hosting a \"Chantey Blast and Pub Sing\" from 1-5 PM in the Frohsinn Hall (aka the German Club), 54 Greenmanville Avenue, in Mystic CT as a fundraiser for the 33rd Annual Mystic Seaport Sea … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "mystic seaport"
   - "William Main Doerflinger Memorial Sea Shanty Sessions at the Noble Maritime Collection at Snug Harbor"
 author: "Rick Spilman"
-description: "This Saturday night, January7th, the Mystic Seaport will be hosting a “Chantey Blast and Pub Sing” from 1-5 PM in the Frohsinn Hall (aka the German Club), 54 Greenmanville Avenue, in Mystic CT as a fundraiser for the 33rd Annual Mystic Seaport Sea … Continue reading &rarr;"
+description: "This Saturday night, January7th, the Mystic Seaport will be hosting a \"Chantey Blast and Pub Sing\" from 1-5 PM in the Frohsinn Hall (aka the German Club), 54 Greenmanville Avenue, in Mystic CT as a fundraiser for the 33rd Annual Mystic Seaport Sea … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/seashanty1.jpg)

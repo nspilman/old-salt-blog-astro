@@ -1,7 +1,7 @@
 ---
 title: "Ghost Fleet Washes Ashore on Japan’s Coast — 11 Boats, 25 Bodies"
 date: 2015-11-28T11:20:09
-slug: ghost-fleet-washes-ashore-on-japanese-coast-11-boats
+slug: "ghost-fleet-washes-ashore-on-japanese-coast-11-boats"
 excerpt: "In the last two months, eleven wooden fishing vessels have drifted ashore from the Sea of Japan on the Japanese coast. On board were 25 badly decomposed bodies. The vessels contained nets and fishing gear and are believed to have come from … Continue reading &rarr;"
 categories:
   - "Current"

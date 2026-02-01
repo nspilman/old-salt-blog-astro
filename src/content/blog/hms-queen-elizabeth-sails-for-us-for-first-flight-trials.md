@@ -1,7 +1,7 @@
 ---
 title: "HMS Queen Elizabeth Sails for US For First Flight Trials"
 date: 2018-08-19T15:31:50
-slug: hms-queen-elizabeth-sails-for-us-for-first-flight-trials
+slug: "hms-queen-elizabeth-sails-for-us-for-first-flight-trials"
 excerpt: "The HMS Queen Elizabeth set sail yesterday from Portsmouth Naval Base bound for the United States. The 65,000-tonne carrier, the largest warship ever built for the Royal Navy, will embark two US F-35B test aircraft to begin the first flight trials. The BBC reports … Continue reading &rarr;"
 categories:
   - "Current"

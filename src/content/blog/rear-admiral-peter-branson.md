@@ -1,7 +1,7 @@
 ---
 title: "Rear-Admiral Peter Branson"
 date: 2011-02-10T17:22:23
-slug: rear-admiral-peter-branson
+slug: "rear-admiral-peter-branson"
 excerpt: "Rear Admiral Peter Branson, who died recently at age 86, had an illustrious career in the Royal Navy.   His career almost ended before it began.  Branson was twice torpedoed while he was still under training, on one occasion surviving five days adrift in … Continue reading &rarr;"
 categories:
   - "Current"

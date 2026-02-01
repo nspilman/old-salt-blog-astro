@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Matt Rutherford – Ocean Cruising Club Jester Medal Winner"
 date: 2013-02-11T14:48:30
-slug: congratulations-to-matt-rutherford-ocean-cruising-club-jester-medal-winner
+slug: "congratulations-to-matt-rutherford-ocean-cruising-club-jester-medal-winner"
 excerpt: "Congratulations to Matt Rutherford who was recently awarded the Ocean Cruising Club’s Jester Medal, for an outstanding contribution to the art of single-handed sailing. In April of last year, Matt completed a record breaking 309 day, more than 27,000 mile, … Continue reading &rarr;"
 categories:
   - "Current"

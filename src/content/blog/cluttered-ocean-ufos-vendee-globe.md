@@ -1,7 +1,7 @@
 ---
 title: "The Cluttered Ocean — UFOs and the Vendee Globe"
 date: 2016-12-20T20:20:04
-slug: cluttered-ocean-ufos-vendee-globe
+slug: "cluttered-ocean-ufos-vendee-globe"
 excerpt: "The seas are growing increasingly cluttered.  In addition to all the other hazards of the sea, floating objects are a serious threat to sailors.  So far, of the  original 29 competitors in the Vendee Globe singlehanded around the world race, … Continue reading &rarr;"
 categories:
   - "Current"

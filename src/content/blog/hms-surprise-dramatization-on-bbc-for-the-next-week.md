@@ -1,7 +1,7 @@
 ---
 title: "HMS Surprise Dramatization on BBC for the Next Week"
 date: 2010-08-20T09:34:46
-slug: hms-surprise-dramatization-on-bbc-for-the-next-week
+slug: "hms-surprise-dramatization-on-bbc-for-the-next-week"
 excerpt: "BBC is featuring a dramatization of Patrick O’Brian’s novel HMS Surprise. Very well done.  Each episode is 45 minutes long and will remain on line for a week. HMS Surprise – Episode 1 HMS Surprise – Episode 2 HMS Surprise … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

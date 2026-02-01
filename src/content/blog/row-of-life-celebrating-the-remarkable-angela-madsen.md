@@ -1,7 +1,7 @@
 ---
 title: "Row of Life — Celebrating the Remarkable Angela Madsen"
 date: 2020-07-07T13:55:23
-slug: row-of-life-celebrating-the-remarkable-angela-madsen
+slug: "row-of-life-celebrating-the-remarkable-angela-madsen"
 excerpt: "On April 24, Angela Madsen set off from Marina del Rey, California bound for Hawaii in the 20′ ocean rowing boat, Row of Life. A three-time Paralympian and a Marine veteran, her goal was to be the first paraplegic and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

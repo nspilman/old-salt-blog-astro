@@ -1,7 +1,7 @@
 ---
 title: "Captain & Chief Engineer of Tanker Aegean Angel Killed in Heavy Weather in the Atlantic"
 date: 2010-12-30T21:42:50
-slug: captain-chief-engineer-of-tanker-aegean-angel-killed-in-heavy-weather-in-the-atlantic
+slug: "captain-chief-engineer-of-tanker-aegean-angel-killed-in-heavy-weather-in-the-atlantic"
 excerpt: "The 160,000 dwt  tanker Aegean Angel was en route from Tallinn, Estonia, to Houston, Texas when it encountered heavy weather northeast of Bermuda on Thursday.  A large wave is reported to have struck the ship, killing the captain and the … Continue reading &rarr;"
 categories:
   - "Current"

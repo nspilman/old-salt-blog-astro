@@ -1,7 +1,7 @@
 ---
 title: "The Gundalow Piscataqua Splashes into the Piscataqua River"
 date: 2011-12-11T12:00:23
-slug: the-gundalow-piscataqua-splashes-into-the-piscataqua-river
+slug: "the-gundalow-piscataqua-splashes-into-the-piscataqua-river"
 excerpt: "For over 200 years, gundalows – sail and oar powered cargo barges – moved on the winds and tides of the rivers and estuaries along the New England coast.  Yesterday, the brand new gundalow, Piscataqua, splashed into the the Piscataqua River … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Cunard Takes Manhattan – The Three Queens Rendezvous in the Harbor"
 date: 2011-01-14T21:22:15
-slug: cunard-takes-manhattan-the-three-queens-rendezvous-in-the-harbor
+slug: "cunard-takes-manhattan-the-three-queens-rendezvous-in-the-harbor"
 excerpt: "Last night was clear and bitterly cold in New York harbor.  Wind chill from the northwesterly breeze made the temperature feel like it was in the single digits.  A new layer of snow from a storm two days before added … Continue reading &rarr;"
 categories:
   - "Current"

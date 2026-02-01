@@ -1,7 +1,7 @@
 ---
-title: "On Holocaust Remembrance Day — MS St. Louis and the “Voyage of the Damned”"
+title: "On Holocaust Remembrance Day — MS St. Louis and the \"Voyage of the Damned\""
 date: 2024-01-27T17:38:18
-slug: on-holocaust-remembrance-day-ms-st-louis-and-the-voyage-of-the-damned-2
+slug: "on-holocaust-remembrance-day-ms-st-louis-and-the-voyage-of-the-damned-2"
 excerpt: "On Holocaust Remembrance Day, an updated repost, remembering the tragic voyage of the German passenger liner St. Louis in 1939. The ship carried 908 Jewish refugees fleeing from Nazi Germany. The ship and its passengers departed from Hamburg but were … Continue reading &rarr;"
 categories:
   - "History"

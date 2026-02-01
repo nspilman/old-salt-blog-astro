@@ -1,7 +1,7 @@
 ---
 title: "On Lincoln’s Birthday — Lincoln’s Improved Camel Patent"
 date: 2024-02-12T21:12:44
-slug: on-lincolns-birthday-lincolns-improved-camel-patent
+slug: "on-lincolns-birthday-lincolns-improved-camel-patent"
 excerpt: "Today is the anniversary of Abraham Lincoln’s birthday on February 20th, 1809.  He is know for rising from poverty, working as a rail splitter, and as a self-taught country lawyer before being elected as a congressman and ultimately as president. … Continue reading &rarr;"
 categories:
   - "History"

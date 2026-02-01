@@ -1,7 +1,7 @@
 ---
 title: "Time Lapse: A Frozen Tall Ship in 60 Seconds"
 date: 2013-02-18T12:55:39
-slug: time-lapse-a-frozen-tall-ship-in-60-seconds
+slug: "time-lapse-a-frozen-tall-ship-in-60-seconds"
 excerpt: "Here is a time-lapse video of the assembly of an ice sculpture of a tall-ship being at Pickering Wharf in Salem, MA last Saturday as part of the 11th annual Salem So Sweet Chocolate and Ice Sculpture Festival. Sadly, the … Continue reading &rarr;"
 categories:
   - "Current"

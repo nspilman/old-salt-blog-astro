@@ -1,7 +1,7 @@
 ---
 title: "‘Good Luck’ Coin Found Under HMS Victory’s Mast"
 date: 2021-10-22T09:59:29
-slug: good-luck-coin-found-under-hms-victorys-mast
+slug: "good-luck-coin-found-under-hms-victorys-mast"
 excerpt: "Happy Trafalgar Day, one day late. A story for Trafalgar Day, plus one. When one of the masts of Nelson’s flagship HMS Victory was removed for restoration work, a conservator found a Victorian-era coin that had been placed beneath the … Continue reading &rarr;"
 categories:
   - "Current"

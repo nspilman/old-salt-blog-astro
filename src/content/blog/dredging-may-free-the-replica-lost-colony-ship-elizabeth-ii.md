@@ -1,8 +1,8 @@
 ---
-title: "Dredging May Free the Replica “Lost Colony” Ship Elizabeth II"
+title: "Dredging May Free the Replica \"Lost Colony\" Ship Elizabeth II"
 date: 2020-11-30T16:31:17
-slug: dredging-may-free-the-replica-lost-colony-ship-elizabeth-ii
-excerpt: "For the last four years, the “Lost Colony” replica 16th-century ship Elizabeth II has been stuck in Manteo, NC. The ship, with a draft of 8 feet, has not been able to leave the harbor because the channel has not … Continue reading &rarr;"
+slug: "dredging-may-free-the-replica-lost-colony-ship-elizabeth-ii"
+excerpt: "For the last four years, the \"Lost Colony\" replica 16th-century ship Elizabeth II has been stuck in Manteo, NC. The ship, with a draft of 8 feet, has not been able to leave the harbor because the channel has not … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Roanoke Island"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/elizabethII.jpg"
 author: "Rick Spilman"
-description: "For the last four years, the “Lost Colony” replica 16th-century ship Elizabeth II has been stuck in Manteo, NC. The ship, with a draft of 8 feet, has not been able to leave the harbor because the channel has not … Continue reading &rarr;"
+description: "For the last four years, the \"Lost Colony\" replica 16th-century ship Elizabeth II has been stuck in Manteo, NC. The ship, with a draft of 8 feet, has not been able to leave the harbor because the channel has not … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/elizabethII.jpg)For the last four years, the “Lost Colony” replica 16th-century ship [*Elizabeth II*](https://www.roanokeisland.com/plan-your-visit/site-attractions/elizabeth-ii) has been stuck in Manteo, NC. The ship, with a draft of 8 feet, has not been able to leave the harbor because the channel has not been in 14 years and has silted in places to depths of less than 5 feet.  It now looks like recently approved dredging will allow *Elizabeth II* to set sail again.  

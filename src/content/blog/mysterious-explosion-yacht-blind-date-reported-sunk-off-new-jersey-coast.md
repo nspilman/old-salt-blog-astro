@@ -1,7 +1,7 @@
 ---
 title: "Mysterious Explosion – Yacht Blind Date Reported Sunk off New Jersey Coast, Possible Hoax"
 date: 2012-06-11T19:18:46
-slug: mysterious-explosion-yacht-blind-date-reported-sunk-off-new-jersey-coast
+slug: "mysterious-explosion-yacht-blind-date-reported-sunk-off-new-jersey-coast"
 excerpt: "A very odd news report from this afternoon. At around 4:20 PM, a yacht identified as the Blind Date is reported to have exploded with 21 people aboard in the Atlantic, about 17.5 miles off Sandy Hook, New Jersey, according to NBC New York.  The people aboard are said to have … Continue reading &rarr;"
 categories:
   - "Current"

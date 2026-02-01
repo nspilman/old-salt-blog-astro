@@ -1,7 +1,7 @@
 ---
 title: "Update: McMurdo Radiation Leaks –  Peabody Award & Navy Confirms Veteran’s Exposure"
 date: 2012-04-05T15:51:03
-slug: update-mcmurdo-radiation-leaks-peabody-award-navy-confirms-veterans-expose
+slug: "update-mcmurdo-radiation-leaks-peabody-award-navy-confirms-veterans-expose"
 excerpt: "In March of 2011, we posted about reporting done by Ron Regan at NewsChannel5 in Cleveland, Ohio, concerning radiation leaks at a nuclear power plant at McMurdo Station in Antarctica. There is concern that these radiation leaks are related  to … Continue reading &rarr;"
 categories:
   - "Current"

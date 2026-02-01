@@ -1,7 +1,7 @@
 ---
 title: "Rare Goblin Shark Caught (and Released) Off Florida"
 date: 2014-05-10T09:57:39
-slug: rare-goblin-shark-caught-and-released-off-florida
+slug: "rare-goblin-shark-caught-and-released-off-florida"
 excerpt: "A rare goblin shark was caught and subsequently released by shrimp fishermen off Key West last week was only the second ever found in the region.  The goblin shark is described as ‘a rare, poorly understood species of deep-sea shark. … Continue reading &rarr;"
 categories:
   - "Current"

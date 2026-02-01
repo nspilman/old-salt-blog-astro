@@ -1,7 +1,7 @@
 ---
 title: "USS Ling  — New Hope for WWII Sub Stuck in the Mud in the Hackensack River"
 date: 2019-12-05T17:53:46
-slug: uss-ling-new-hope-for-wwii-sub-stuck-in-the-mud-in-the-hackensack-river
+slug: "uss-ling-new-hope-for-wwii-sub-stuck-in-the-mud-in-the-hackensack-river"
 excerpt: "Maritime enthusiasts are attempting to raise money to save the USS Ling, a War War II vintage Balao-class submarine, from a likely date with the scrap yard. They hope to move the submarine from where it is currently stuck in … Continue reading &rarr;"
 categories:
   - "Current"

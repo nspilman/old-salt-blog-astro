@@ -1,7 +1,7 @@
 ---
 title: "Celebrating Lighthouse Tender Lilac’s 88th Birthday in Audio and Visual Arts"
 date: 2021-05-29T13:33:58
-slug: celebrating-lighthouse-tender-lilacs-88th-birthday-in-audio-and-visual-arts
+slug: "celebrating-lighthouse-tender-lilacs-88th-birthday-in-audio-and-visual-arts"
 excerpt: "The historic lighthouse tender USCGC Lilac recently turned 88.  Lilac is America’s only surviving steam-powered lighthouse tender and is listed on the National Register of Historic Places. To celebrate her birthday, two temporary art installations featuring historic photography and dramatic audio … Continue reading &rarr;"
 categories:
   - "Current"

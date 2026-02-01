@@ -1,7 +1,7 @@
 ---
 title: "Countdown to the VELUX 5 Oceans Race"
 date: 2010-10-08T09:25:48
-slug: countdown-to-the-velux-5-oceans-race
+slug: "countdown-to-the-velux-5-oceans-race"
 excerpt: "The Velux 5 Oceans Single Handed Round the World Race will be starting in just over a week on October 17th.   The competitors will race from La Rochelle, France to Cape Town, South Africa; then on to Wellington, New Zealand; to … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "HMS Warrior — Saving the Last Wreck From Jutland"
 date: 2016-10-03T17:44:08
-slug: hms-warrior-saving-last-wreck-jutland
+slug: "hms-warrior-saving-last-wreck-jutland"
 excerpt: "On August 24, 2016, an Anglo-Danish team found the wreck of armored cruiser HMS Warrior in the northern North Sea in 83 meters of water where it sank in 1916 following the Battle of Jutland in 1916. HMS Warrior is … Continue reading &rarr;"
 categories:
   - "Current"

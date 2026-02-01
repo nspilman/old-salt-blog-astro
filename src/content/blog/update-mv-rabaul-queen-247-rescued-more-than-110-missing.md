@@ -1,7 +1,7 @@
 ---
 title: "Update: MV Rabaul Queen – 246 Rescued, More than 110 Missing"
 date: 2012-02-03T11:52:47
-slug: update-mv-rabaul-queen-247-rescued-more-than-110-missing
+slug: "update-mv-rabaul-queen-247-rescued-more-than-110-missing"
 excerpt: "As of Thursday evening, 246 survivors had been pulled from the sea, following the sinking of the passenger ferry MV Rabaul Queen off the coast of Papua New Guinea early Thursday.  Only one survivor was reported to be found on Friday.  According … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Man Who Fell to Shore – What Reid Stowe Found Waiting for Him When He Returned From 1,151 Days on the Open Sea"
 date: 2010-09-22T10:56:36
-slug: the-man-who-fell-to-shore-what-reid-stowe-found-waiting-for-him-when-he-returned-from-1151-days-on-the-open-sea
+slug: "the-man-who-fell-to-shore-what-reid-stowe-found-waiting-for-him-when-he-returned-from-1151-days-on-the-open-sea"
 excerpt: "We have posted about Reid Stowe’s remarkable non-stop voyage of over 1100 days at sea.   Now that Reid has been home for several months, Adam Sternbergh writing in the New Yorker magazine has written a portrait of Reid’s voyage … Continue reading &rarr;"
 categories:
   - "Current"

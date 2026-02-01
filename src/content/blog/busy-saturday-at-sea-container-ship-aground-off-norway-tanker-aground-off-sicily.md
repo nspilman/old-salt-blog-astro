@@ -1,7 +1,7 @@
 ---
 title: "Busy Saturday at Sea – Container Ship Aground Off Norway  & Tanker Aground off Sicily"
 date: 2012-03-10T14:22:24
-slug: busy-saturday-at-sea-container-ship-aground-off-norway-tanker-aground-off-sicily
+slug: "busy-saturday-at-sea-container-ship-aground-off-norway-tanker-aground-off-sicily"
 excerpt: "There are no weekends off at sea and this has been a busy Saturday. Off Sicily, the 18,000 DWT Italian tanker Gelso M ran aground in a storm, with reports of engine room flooding. The crew of 19 was evacuated by helicopter without injury. … Continue reading &rarr;"
 categories:
   - "Current"

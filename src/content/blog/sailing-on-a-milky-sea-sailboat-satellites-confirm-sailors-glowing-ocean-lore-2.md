@@ -1,8 +1,8 @@
 ---
 title: "Sailing on a Milky Sea — Sailboat & Satellites Confirm Sailors’ Glowing Ocean Lore"
 date: 2024-04-23T10:19:34
-slug: sailing-on-a-milky-sea-sailboat-satellites-confirm-sailors-glowing-ocean-lore-2
-excerpt: "An updated repost. For thousands of years, sailors have told of nighttime seas that mysteriously glowed a milky white or luminescent blue, stretching out to the horizon. Referred to as a “milky sea,” the tales date back at least to … Continue reading &rarr;"
+slug: "sailing-on-a-milky-sea-sailboat-satellites-confirm-sailors-glowing-ocean-lore-2"
+excerpt: "An updated repost. For thousands of years, sailors have told of nighttime seas that mysteriously glowed a milky white or luminescent blue, stretching out to the horizon. Referred to as a \"milky sea,\" the tales date back at least to … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "satellites"
   - "SY Ganesha"
 author: "Rick Spilman"
-description: "An updated repost. For thousands of years, sailors have told of nighttime seas that mysteriously glowed a milky white or luminescent blue, stretching out to the horizon. Referred to as a “milky sea,” the tales date back at least to … Continue reading &rarr;"
+description: "An updated repost. For thousands of years, sailors have told of nighttime seas that mysteriously glowed a milky white or luminescent blue, stretching out to the horizon. Referred to as a \"milky sea,\" the tales date back at least to … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/ganeshamilkysea.jpg)

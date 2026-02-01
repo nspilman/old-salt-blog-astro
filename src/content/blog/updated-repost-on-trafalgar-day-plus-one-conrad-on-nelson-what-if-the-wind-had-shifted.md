@@ -1,7 +1,7 @@
 ---
 title: "Updated Repost on Trafalgar Day Plus One : Conrad on Nelson — What if the Wind Had Shifted?"
 date: 2023-10-22T09:05:11
-slug: updated-repost-on-trafalgar-day-plus-one-conrad-on-nelson-what-if-the-wind-had-shifted
+slug: "updated-repost-on-trafalgar-day-plus-one-conrad-on-nelson-what-if-the-wind-had-shifted"
 excerpt: "I am currently traveling, so I managed to miss Trafalgar Day. Here is an updated repost in honor of Nelson’s great victory over the combined French and Spanish fleets a day ago on October 21, in 1805. There is a … Continue reading &rarr;"
 categories:
   - "History"

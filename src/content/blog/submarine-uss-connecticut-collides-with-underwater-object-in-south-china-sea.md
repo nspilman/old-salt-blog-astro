@@ -1,7 +1,7 @@
 ---
 title: "Submarine USS Connecticut Collides With Underwater Object in South China Sea"
 date: 2021-10-08T17:27:21
-slug: submarine-uss-connecticut-collides-with-underwater-object-in-south-china-sea
+slug: "submarine-uss-connecticut-collides-with-underwater-object-in-south-china-sea"
 excerpt: "Yesterday, the US Navy Pacific Fleet announced that the Seawolf-class fast-attack submarine USS Connecticut struck an object in international waters while submerged on the afternoon of Oct. 2. While the announcement did not identify where the collision took place, reports … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "LCS USS Coronado Stops for Passing Whales"
 date: 2014-03-15T08:54:40
-slug: lcs-uss-coronado-stops-for-passing-whales
+slug: "lcs-uss-coronado-stops-for-passing-whales"
 excerpt: "Last Sunday was the second of two weekends of the Dana Point Festival of Whales, which celebrates the annual migration of gray whales which passes the coastal California community. Captain Todd Mansur of Dana Wharf  Whale Watching was following two gray whales, … Continue reading &rarr;"
 categories:
   - "Current"

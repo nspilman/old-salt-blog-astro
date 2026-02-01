@@ -1,8 +1,8 @@
 ---
 title: "LILAC: Flower of the Delaware — A Coast Guard Day Presentation, August 6th"
 date: 2016-08-01T18:09:57
-slug: lilac-flower-delaware-coast-guard-day-presentation-august-6th
-excerpt: "The Lilac Preservation Project is hosting “LILAC: Flower of the Delaware, A Coast Guard Day Presentation” on Thursday, August 4th, at 6:00 PM on the historic lighthouse tender Lilac at Pier 25, the foot of West Street and N. Moore … Continue reading &rarr;"
+slug: "lilac-flower-delaware-coast-guard-day-presentation-august-6th"
+excerpt: "The Lilac Preservation Project is hosting \"LILAC: Flower of the Delaware, A Coast Guard Day Presentation\" on Thursday, August 4th, at 6:00 PM on the historic lighthouse tender Lilac at Pier 25, the foot of West Street and N. Moore … Continue reading &rarr;"
 categories:
   - "City of Ships"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "lighthouse tender"
   - "Lilac"
 author: "Rick Spilman"
-description: "The Lilac Preservation Project is hosting “LILAC: Flower of the Delaware, A Coast Guard Day Presentation” on Thursday, August 4th, at 6:00 PM on the historic lighthouse tender Lilac at Pier 25, the foot of West Street and N. Moore … Continue reading &rarr;"
+description: "The Lilac Preservation Project is hosting \"LILAC: Flower of the Delaware, A Coast Guard Day Presentation\" on Thursday, August 4th, at 6:00 PM on the historic lighthouse tender Lilac at Pier 25, the foot of West Street and N. Moore … Continue reading &rarr;"
 ---
 
 ![lilaccgday](http://www.oldsaltblog.com/wp-content/uploads/2016/08/lilaccgday.jpg)The [Lilac Preservation Project](http://lilacpreservationproject.org/) is hosting “LILAC: Flower of the Delaware, A Coast Guard Day Presentation” on Thursday, August 4th, at 6:00 PM on the historic lighthouse tender *Lilac* at Pier 25, the foot of West Street and N. Moore Street, on the Hudson River in Manhattan.

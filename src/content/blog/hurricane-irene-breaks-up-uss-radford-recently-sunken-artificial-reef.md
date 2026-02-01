@@ -1,7 +1,7 @@
 ---
 title: "Hurricane Irene Breaks Up USS Arthur W Radford – Recently Sunken Artificial Reef"
 date: 2011-10-08T09:38:30
-slug: hurricane-irene-breaks-up-uss-radford-recently-sunken-artificial-reef
+slug: "hurricane-irene-breaks-up-uss-radford-recently-sunken-artificial-reef"
 excerpt: "Just last August, the USS Arthur W. Radford, a Fletcher-class destroyer which served in the Gulf War, was sunk as an artificial reef in the Atlantic Ocean off Cape May, NJ. The 563-foot destroyer was the longest vessel ever sunk … Continue reading &rarr;"
 categories:
   - "Current"

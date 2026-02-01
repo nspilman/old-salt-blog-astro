@@ -1,8 +1,8 @@
 ---
 title: "The Ballad of Preserved Fish"
 date: 2015-06-28T09:59:55
-slug: the-ballad-of-preserved-fish
-excerpt: "Puritans were notorious for weird names.  Some first names are strangely long, such as “If-Christ-had-not-died-for-thee-thou-hadst-been-damned” or “Fight-the-good-fight-of-faith”.  Some names were short but just disturbingly odd. Fly-fornication, for example.  In 1766, Preserved Fish was born in Portsmouth, Rhode Island. His first name, Preserved, … Continue reading &rarr;"
+slug: "the-ballad-of-preserved-fish"
+excerpt: "Puritans were notorious for weird names.  Some first names are strangely long, such as \"If-Christ-had-not-died-for-thee-thou-hadst-been-damned\" or \"Fight-the-good-fight-of-faith\".  Some names were short but just disturbingly odd. Fly-fornication, for example.  In 1766, Preserved Fish was born in Portsmouth, Rhode Island. His first name, Preserved, … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"

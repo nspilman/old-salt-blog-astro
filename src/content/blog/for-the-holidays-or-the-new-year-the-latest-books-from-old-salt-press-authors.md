@@ -1,7 +1,7 @@
 ---
 title: "For the Holidays or the New Year, the Latest  Books from Old Salt Press Authors"
 date: 2021-12-21T17:45:44
-slug: for-the-holidays-or-the-new-year-the-latest-books-from-old-salt-press-authors
+slug: "for-the-holidays-or-the-new-year-the-latest-books-from-old-salt-press-authors"
 excerpt: "Whether as a holiday gift or just great reading for the New Year, check out the latest nautical fiction from Old Salt Press authors Alaric Bond, Joan Druett, Antione Vanner, and Seymour Hamilton. The Seeds of War,  (The Fighting Sail … Continue reading &rarr;"
 categories:
   - "Newbooks"

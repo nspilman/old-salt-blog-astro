@@ -1,7 +1,7 @@
 ---
 title: "Whaler Charles W. Morgan Sails with Whales off Stellwagen Bank"
 date: 2014-07-12T08:18:58
-slug: whaler-charles-w-morgan-sails-with-the-whales-off-stellwagen-bank
+slug: "whaler-charles-w-morgan-sails-with-the-whales-off-stellwagen-bank"
 excerpt: "What a wonderful juxtaposition. The whaling ship Charles W. Morgan, built in 1841, and recently rebuilt by the Mystic Seaport Museum, sailing with humpback whales as they migrate across Stellwagen Bank off Massachusetts. No harpoons were in evidence and the whales did … Continue reading &rarr;"
 categories:
   - "Current"

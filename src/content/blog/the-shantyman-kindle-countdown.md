@@ -1,7 +1,7 @@
 ---
 title: "The Shantyman — Kindle Countdown, Starting at 99 Cents!"
 date: 2015-12-24T12:28:09
-slug: the-shantyman-kindle-countdown
+slug: "the-shantyman-kindle-countdown"
 excerpt: "To celebrate The Shantyman being chosen as one of the Best Indie Books of 2105 by Kirkus Reviews, we are having an impromptu promotion. Here is how it works — today and tomorrow, The Shantyman will be available in Kindle … Continue reading &rarr;"
 categories:
   - "Current"

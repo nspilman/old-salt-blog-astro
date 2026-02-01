@@ -1,7 +1,7 @@
 ---
 title: "Team Vestas Wind Returning to the Volvo Ocean Race"
 date: 2015-01-03T10:35:13
-slug: team-vestas-wind-returning-to-the-volvo-ocean-race
+slug: "team-vestas-wind-returning-to-the-volvo-ocean-race"
 excerpt: "While they have no chance of winning, Team Vestas Wind will be returning to the Volvo Ocean Race. The team, sailing a Volvo Ocean 65, suffered a major grounding on the Cargados Carajos archipelago 430 km to the northeast of Mauritius in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

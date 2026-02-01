@@ -1,7 +1,7 @@
 ---
 title: "Vibro Vulnificus — Flesh-Eating  Bacteria Far More Dangerous Than Sharks"
 date: 2014-07-31T08:04:36
-slug: vibro-vulnificus-flesh-eating-bacteria-more-dangerous-than-sharks
+slug: "vibro-vulnificus-flesh-eating-bacteria-more-dangerous-than-sharks"
 excerpt: "Is it safe to go into the water? Officials with the Florida Department of Health are warning that vibro vulnificus, a flesh eating bacteria, poses a threat to those who eat uncooked seafood or go into the state ocean water with cuts or … Continue reading &rarr;"
 categories:
   - "Current"

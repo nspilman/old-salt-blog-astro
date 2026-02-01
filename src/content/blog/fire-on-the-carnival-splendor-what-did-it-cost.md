@@ -1,7 +1,7 @@
 ---
 title: "Fire on the Carnival Splendor  – What did it cost?"
 date: 2010-11-21T21:58:19
-slug: fire-on-the-carnival-splendor-what-did-it-cost
+slug: "fire-on-the-carnival-splendor-what-did-it-cost"
 excerpt: "What did the fire on the Carnival Splendor cost Carnival Corporation?  No one really knows exactly, but Carnival announced that they estimate a cost of 7 cents per share.   Based on the number of outstanding shares from their 2009 … Continue reading &rarr;"
 categories:
   - "Current"

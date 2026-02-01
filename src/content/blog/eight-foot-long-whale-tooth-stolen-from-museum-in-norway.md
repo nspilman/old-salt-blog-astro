@@ -1,7 +1,7 @@
 ---
 title: "Eight Foot Long Whale Tooth Stolen From Museum in Norway"
 date: 2011-09-02T07:43:20
-slug: eight-foot-long-whale-tooth-stolen-from-museum-in-norway
+slug: "eight-foot-long-whale-tooth-stolen-from-museum-in-norway"
 excerpt: "The thief is described as a man, 40 to 50 years old, dressed in black leather, wearing a dark coat, carrying an 8 foot long whale tooth. The man was also reportedly walking a white dog.  He allegedly stole the tooth … Continue reading &rarr;"
 categories:
   - "Current"

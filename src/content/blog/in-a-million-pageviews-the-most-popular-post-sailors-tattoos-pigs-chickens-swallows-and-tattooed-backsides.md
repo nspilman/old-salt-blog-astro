@@ -1,7 +1,7 @@
 ---
 title: "In a Million Pageviews, the Most Popular Post: Sailor’s Tattoos – Pigs, Chickens, Swallows, and Tattooed Backsides"
 date: 2012-12-21T13:21:04
-slug: in-a-million-pageviews-the-most-popular-post-sailors-tattoos-pigs-chickens-swallows-and-tattooed-backsides
+slug: "in-a-million-pageviews-the-most-popular-post-sailors-tattoos-pigs-chickens-swallows-and-tattooed-backsides"
 excerpt: "While celebrating passing one million pages views on the blog, it seems worthwhile to take a look back at the single most popular post.  It was Sailor’s Tattoos – Pigs, Chickens, Swallows, and Tattooed Backsides, from December 1, 2008, which has … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

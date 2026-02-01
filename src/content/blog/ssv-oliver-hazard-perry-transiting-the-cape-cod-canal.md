@@ -1,7 +1,7 @@
 ---
 title: "SSV Oliver Hazard Perry Transiting the Cape Cod Canal"
 date: 2019-08-25T14:21:36
-slug: ssv-oliver-hazard-perry-transiting-the-cape-cod-canal
+slug: "ssv-oliver-hazard-perry-transiting-the-cape-cod-canal"
 excerpt: "Here is some glorious drone footage of the Sailing School Vessel (SSV) Oliver Hazard Perry transiting the Cape Cod Canal. At 207 feet long, the SSV Oliver Hazard Perry is the largest civilian Sailing School Vessel in the United States … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

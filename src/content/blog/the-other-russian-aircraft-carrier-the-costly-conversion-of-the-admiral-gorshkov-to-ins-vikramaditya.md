@@ -1,7 +1,7 @@
 ---
 title: "The Other Russian Aircraft Carrier – the Costly Conversion of the Admiral Gorshkov to INS Vikramaditya"
 date: 2011-08-13T18:09:25
-slug: the-other-russian-aircraft-carrier-the-costly-conversion-of-the-admiral-gorshkov-to-ins-vikramaditya
+slug: "the-other-russian-aircraft-carrier-the-costly-conversion-of-the-admiral-gorshkov-to-ins-vikramaditya"
 excerpt: "We recently posted about the Chinese conversion of the Russian aircraft carrier Varyag. China is not the only  country looking to surplus Russian aircraft carriers to expand their naval power.  India purchased the surplus carrier, Admiral Gorshkov, from the Russians … Continue reading &rarr;"
 categories:
   - "Current"

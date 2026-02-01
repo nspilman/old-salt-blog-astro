@@ -1,7 +1,7 @@
 ---
 title: "Dutch Fishing Vessel Rescues British Kayaker Clinging to Buoy in Dover Strait"
 date: 2022-10-28T13:21:03
-slug: dutch-fishing-vessel-rescues-british-kayaker-clinging-to-buoy-in-dover-strait
+slug: "dutch-fishing-vessel-rescues-british-kayaker-clinging-to-buoy-in-dover-strait"
 excerpt: "The BBC reports that a Dutch fishing vessel has rescued a British kayaker found clinging to a buoy in the Channel after his kayak capsized. He is reported to have been holding onto the buoy for several days. The captain, … Continue reading &rarr;"
 categories:
   - "Current"

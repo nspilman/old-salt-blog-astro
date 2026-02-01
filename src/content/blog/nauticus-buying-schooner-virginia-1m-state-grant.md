@@ -1,7 +1,7 @@
 ---
 title: "Nauticus Buying Schooner Virginia with $1M State Grant"
 date: 2016-04-11T16:39:44
-slug: nauticus-buying-schooner-virginia-1m-state-grant
+slug: "nauticus-buying-schooner-virginia-1m-state-grant"
 excerpt: "In the Summer of 2014, the schooner Virginia ended her season early. The Virginia Maritime Heritage Foundation which operated the schooner announced that she would be put up for sale.  Now, Nauticus, a maritime-themed science center and museum located on the downtown waterfront in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

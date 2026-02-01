@@ -1,8 +1,8 @@
 ---
 title: "Are Humans the Descendents of the Aquatic Ape ? The Argument Continues on Both Sides of the Atlantic"
 date: 2013-04-29T09:33:53
-slug: are-humans-the-descendents-of-the-aquatic-ape-the-argument-continues-on-both-sides-of-the-atlantic
-excerpt: "There were two scientific conferences scheduled recently, both of which would address or were, to one degree or another, inspired by the “aquatic ape hypothesis” of evolution.  One conference will feature speakers supporting the hypothesis, while the second will hold it up for satire … Continue reading &rarr;"
+slug: "are-humans-the-descendents-of-the-aquatic-ape-the-argument-continues-on-both-sides-of-the-atlantic"
+excerpt: "There were two scientific conferences scheduled recently, both of which would address or were, to one degree or another, inspired by the \"aquatic ape hypothesis\" of evolution.  One conference will feature speakers supporting the hypothesis, while the second will hold it up for satire … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "BAH! (Festival of Bad Ad Hoc Hypotheses)"
   - "Sir David Attenborough"
 author: "Rick Spilman"
-description: "There were two scientific conferences scheduled recently, both of which would address or were, to one degree or another, inspired by the “aquatic ape hypothesis” of evolution.  One conference will feature speakers supporting the hypothesis, while the second will hold it up for satire … Continue reading &rarr;"
+description: "There were two scientific conferences scheduled recently, both of which would address or were, to one degree or another, inspired by the \"aquatic ape hypothesis\" of evolution.  One conference will feature speakers supporting the hypothesis, while the second will hold it up for satire … Continue reading &rarr;"
 ---
 
 ![Baby_diving](http://www.oldsaltblog.com/wp-content/uploads/2013/04/Baby_diving.jpg)There were two scientific conferences scheduled recently, both of which would address or were, to one degree or another, inspired by the “[aquatic ape hypothesis](http://en.wikipedia.org/wiki/Aquatic_ape)” of evolution.  One conference will feature speakers supporting the hypothesis, while the second will hold it up for satire and ridicule.  Who says science isn’t a contact sport?

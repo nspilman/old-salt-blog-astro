@@ -1,7 +1,7 @@
 ---
 title: "More Than 200 Sailors Moved Off Carrier USS George Washington Following Multiple Suicides"
 date: 2022-05-03T17:46:52
-slug: more-than-200-sailors-moved-off-carrier-uss-george-washington-following-multiple-suicides
+slug: "more-than-200-sailors-moved-off-carrier-uss-george-washington-following-multiple-suicides"
 excerpt: "CNN reports that more than 200 sailors have moved off the USS George Washington aircraft carrier after multiple deaths by suicide among the crew, including three in less than one week in April, according to the Navy. The sailors are moving to … Continue reading &rarr;"
 categories:
   - "Current"

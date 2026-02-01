@@ -1,8 +1,8 @@
 ---
 title: "The Holy Ground – Songs, Sailors, and Women of Easy Virtue"
 date: 2008-10-20T18:16:06
-slug: the-holy-ground-songs-sailors-and-women-of-easy-virtue
-excerpt: "I am every fond of the Irish sea song “Holy Ground”.  The song is about a sailor bound for sea, leaving his lady love and hoping to return. “And still I live in hope to see the Holy Ground once more..” … Continue reading &rarr;"
+slug: "the-holy-ground-songs-sailors-and-women-of-easy-virtue"
+excerpt: "I am every fond of the Irish sea song \"Holy Ground\".  The song is about a sailor bound for sea, leaving his lady love and hoping to return. \"And still I live in hope to see the Holy Ground once more..\" … Continue reading &rarr;"
 categories:
   - "Language"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "red light district"
   - "sea songs"
 author: "Rick Spilman"
-description: "I am every fond of the Irish sea song “Holy Ground”.  The song is about a sailor bound for sea, leaving his lady love and hoping to return. “And still I live in hope to see the Holy Ground once more..” … Continue reading &rarr;"
+description: "I am every fond of the Irish sea song \"Holy Ground\".  The song is about a sailor bound for sea, leaving his lady love and hoping to return. \"And still I live in hope to see the Holy Ground once more..\" … Continue reading &rarr;"
 ---
 
 I am every fond of the Irish sea song [“Holy Ground”](http://unitedireland.tripod.com/id277.html).  The song is about a sailor bound for sea, leaving his lady love and hoping to return. “*And still I live in hope to see the Holy Ground once more*..” It is also known as the “Cobh shanty”, and indeed the “Holy Ground” is a neighborhood in the Irish port of Cobh.

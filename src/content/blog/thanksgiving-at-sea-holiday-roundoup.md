@@ -1,7 +1,7 @@
 ---
 title: "Thanksgiving at Sea – Holiday Roundoup"
 date: 2010-11-25T09:35:26
-slug: thanksgiving-at-sea-holiday-roundoup
+slug: "thanksgiving-at-sea-holiday-roundoup"
 excerpt: "Today is celebrated as a day of Thanksgiving in the United States.  At the Old Salt Blog we would like to express our sincere thanks and gratitude to all our readers and contributors, who make putting together the blog such … Continue reading &rarr;"
 categories:
   - "Current"

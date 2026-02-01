@@ -1,7 +1,7 @@
 ---
 title: "Liberty Ship S.S. John Brown Steaming to New York"
 date: 2016-09-08T13:42:27
-slug: liberty-ship-s-s-john-brown-steaming-new-york
+slug: "liberty-ship-s-s-john-brown-steaming-new-york"
 excerpt: "S.S. John Brown, one of only two operational Liberty ships, is steaming toward New York harbor and is expected to arrive the morning of Saturday, September 10th. The historic ship will be berthed at Pier 36, 299 South Street, on … Continue reading &rarr;"
 categories:
   - "Current"

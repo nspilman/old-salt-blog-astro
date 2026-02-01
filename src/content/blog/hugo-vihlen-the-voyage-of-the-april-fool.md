@@ -1,8 +1,8 @@
 ---
 title: "Hugo Vihlen & the Voyage of the April Fool"
 date: 2015-04-01T10:27:16
-slug: hugo-vihlen-the-voyage-of-the-april-fool
-excerpt: "On April 1, often referred to as April Fool’s Day, it seems fitting to recount the voyage of Hugo Vihlen in his micro-yacht April Fool. In 1966, Hugo Vihlen sailed from Casablanca to Florida, aboard his 5’11” sailboat. In 84 … Continue reading &rarr;"
+slug: "hugo-vihlen-the-voyage-of-the-april-fool"
+excerpt: "On April 1, often referred to as April Fool’s Day, it seems fitting to recount the voyage of Hugo Vihlen in his micro-yacht April Fool. In 1966, Hugo Vihlen sailed from Casablanca to Florida, aboard his 5’11\" sailboat. In 84 … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Barque Picton Castle’s Epic Voyage to the South Pacific 2020 – 2021"
 date: 2019-12-11T13:28:27
-slug: barque-picton-castles-epic-voyage-to-the-south-pacific-2020-2021
+slug: "barque-picton-castles-epic-voyage-to-the-south-pacific-2020-2021"
 excerpt: "In May of 2020, the barque Picton Castle will embark on another epic voyage, this time to the South Pacific. Trainees may sign aboard for the year-long voyage or for any of the four legs of the trip. The Picton … Continue reading &rarr;"
 categories:
   - "Current"

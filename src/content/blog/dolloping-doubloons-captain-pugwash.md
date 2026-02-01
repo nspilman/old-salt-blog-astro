@@ -1,7 +1,7 @@
 ---
 title: "Dolloping Doubloons, Captain Pugwash !"
 date: 2017-04-08T09:19:27
-slug: dolloping-doubloons-captain-pugwash
+slug: "dolloping-doubloons-captain-pugwash"
 excerpt: "Real pirates tended to have very short careers. Edward Teach, better known as Blackbeard, was pretty typical, being active for only about two years from 1716 to 1718, before losing his head. Cartoon pirates, however, do generally much better. Captain … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

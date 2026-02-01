@@ -1,7 +1,7 @@
 ---
 title: "First Sailor from USS Theodore Roosevelt Dies From Coronavirus"
 date: 2020-04-14T13:24:51
-slug: first-sailor-from-uss-theodore-roosevelt-dies-from-coronavirus
+slug: "first-sailor-from-uss-theodore-roosevelt-dies-from-coronavirus"
 excerpt: "The coronavirus was spreading out of control on the aircraft carrier USS Theodore Roosevelt, docked in Guam. Captain Brett Crozier pleaded with his superiors to evacuate most of the sailors from the ship to try to stem the infection. On … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

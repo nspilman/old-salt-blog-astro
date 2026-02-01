@@ -1,8 +1,8 @@
 ---
 title: "Scientists Find Vast Habitat in Pacific Garbage Patch"
 date: 2021-12-06T17:55:12
-slug: scientists-find-vast-habitat-in-pacific-garbage-patch
-excerpt: "The BBC is reporting that scientists have discovered marine animals living on plastic debris in an area of the open ocean dubbed “the Great Pacific Garbage Patch”. Many of the creatures are coastal species, living miles from their usual habitats, … Continue reading &rarr;"
+slug: "scientists-find-vast-habitat-in-pacific-garbage-patch"
+excerpt: "The BBC is reporting that scientists have discovered marine animals living on plastic debris in an area of the open ocean dubbed \"the Great Pacific Garbage Patch\". Many of the creatures are coastal species, living miles from their usual habitats, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "University of Hawaii at Manoa"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/pgarbagepatch.jpg"
 author: "Rick Spilman"
-description: "The BBC is reporting that scientists have discovered marine animals living on plastic debris in an area of the open ocean dubbed “the Great Pacific Garbage Patch”. Many of the creatures are coastal species, living miles from their usual habitats, … Continue reading &rarr;"
+description: "The BBC is reporting that scientists have discovered marine animals living on plastic debris in an area of the open ocean dubbed \"the Great Pacific Garbage Patch\". Many of the creatures are coastal species, living miles from their usual habitats, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/pgarbagepatch.jpg)

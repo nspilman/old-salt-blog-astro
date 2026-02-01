@@ -1,7 +1,7 @@
 ---
 title: "Maclean Brothers Set Record for Non-Stop and Unsupported Row Across the Pacific Ocean"
 date: 2025-08-30T15:33:39
-slug: maclean-brothers-set-record-for-non-stop-and-unsupported-row-across-the-pacific-ocean
+slug: "maclean-brothers-set-record-for-non-stop-and-unsupported-row-across-the-pacific-ocean"
 excerpt: "Jamie, Ewan, and Lachlan Maclean have set a new record for rowing non-stop and unsupported across the Pacific Ocean.  The three brothers from Edinburgh set off in April 2025 on their 9,000-mile journey, from Lima, Peru, to Cairns, Australia, completing … Continue reading &rarr;"
 categories:
   - "Current"

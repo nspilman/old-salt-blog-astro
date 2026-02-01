@@ -1,7 +1,7 @@
 ---
 title: "Today in History – The Second Burial of John Paul Jones"
 date: 2012-04-24T16:16:43
-slug: today-in-history-the-second-burial-of-john-paul-jones
+slug: "today-in-history-the-second-burial-of-john-paul-jones"
 excerpt: "On April 24, 1906, John Paul Jones was buried for the second time.  His first burial, on July 20, 1792, in a graveyard outside the walls of Paris, was attended by a servant and few loyal friends and soldiers. Paul Jones’ longtime friend Gouverneur Morris, American … Continue reading &rarr;"
 categories:
   - "History"

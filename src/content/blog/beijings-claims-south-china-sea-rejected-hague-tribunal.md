@@ -1,7 +1,7 @@
 ---
 title: "Beijing’s Claims to South China Sea Rejected By Hague Tribunal"
 date: 2016-07-13T09:27:27
-slug: beijings-claims-south-china-sea-rejected-hague-tribunal
+slug: "beijings-claims-south-china-sea-rejected-hague-tribunal"
 excerpt: "For those concerned by China’s aggressive expansion into the South China Sea, there is some very good news and some not so good news. The very good news is that an international tribunal in The Hague has overwhelmingly rejected Chinese claims … Continue reading &rarr;"
 categories:
   - "Current"

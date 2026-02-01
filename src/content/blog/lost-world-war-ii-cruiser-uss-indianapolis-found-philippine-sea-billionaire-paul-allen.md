@@ -1,7 +1,7 @@
 ---
 title: "Lost World War II Cruiser USS Indianapolis Found in Philippine Sea by Billionaire Paul Allen"
 date: 2017-08-20T09:06:07
-slug: lost-world-war-ii-cruiser-uss-indianapolis-found-philippine-sea-billionaire-paul-allen
+slug: "lost-world-war-ii-cruiser-uss-indianapolis-found-philippine-sea-billionaire-paul-allen"
 excerpt: "Paul Allen, billionaire co-founder of Microsoft, announced that wreckage from the USS Indianapolis was discovered on Aug. 18 by the expedition crew of Paul G. Allen’s Research Vessel (R/V) Petrel. The Indianapolis was found 5,500 meters below the surface, resting on the floor of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Yacht Tabasco 2 Disabled off Nova Scotia – 1 Dead, 2 Injured & 3 Missing"
 date: 2012-03-27T17:06:26
-slug: yacht-disabled-off-nova-scotia-1-dead-3-missing
+slug: "yacht-disabled-off-nova-scotia-1-dead-3-missing"
 excerpt: "UPDATE:  The Canadian government is now treating the casualty as an attempt at human smuggling.  Toews links N.S. yacht accident to ‘human smuggling’ There are reports of a tragic and strange sailboat accident off Canada’s Nova Scotia coast.  Nine men, reported to … Continue reading &rarr;"
 categories:
   - "Current"

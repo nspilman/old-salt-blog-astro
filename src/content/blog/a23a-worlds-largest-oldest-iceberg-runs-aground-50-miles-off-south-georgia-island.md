@@ -1,7 +1,7 @@
 ---
 title: "A23a, World’s Largest & Oldest Iceberg, Runs Aground 50 Miles Off South Georgia Island"
 date: 2025-03-04T19:50:53
-slug: a23a-worlds-largest-oldest-iceberg-runs-aground-50-miles-off-south-georgia-island
+slug: "a23a-worlds-largest-oldest-iceberg-runs-aground-50-miles-off-south-georgia-island"
 excerpt: "The world’s largest and oldest iceberg, designated A23a, has run aground in shallow water approximately 50 miles off the remote British island of South Georgia, in the South Atlantic. The island is home to millions of penguins and seals. The … Continue reading &rarr;"
 categories:
   - "Current"

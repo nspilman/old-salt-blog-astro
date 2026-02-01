@@ -1,7 +1,7 @@
 ---
 title: "Rare Dumbo Octopus Videoed by ROV in Deep Waters of North Pacific"
 date: 2023-09-28T16:15:44
-slug: rare-dumbo-octopus-videoed-by-rov-in-deep-waters-of-north-pacific
+slug: "rare-dumbo-octopus-videoed-by-rov-in-deep-waters-of-north-pacific"
 excerpt: "The ROV Hercules, operated by the E/V Nautilus, a research vessel owned by the nonprofit Ocean Exploration Trust, has captured video of a rare dumbo octopus at a depth of over 1,600 meters deep.  The research vessel was exploring the … Continue reading &rarr;"
 categories:
   - "Current"

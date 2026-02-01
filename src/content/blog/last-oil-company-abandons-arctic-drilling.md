@@ -1,7 +1,7 @@
 ---
 title: "Last Oil Company Abandons Arctic Drilling"
 date: 2016-06-17T11:48:31
-slug: last-oil-company-abandons-arctic-drilling
+slug: "last-oil-company-abandons-arctic-drilling"
 excerpt: "Last week, Repsol, the last of a group oil companies which had invested billions of dollars in Arctic drilling rights in Alaska’s Chukchi Sea, abandoned its leases and sailed away. The Spanish drilling company gave up 55 leases and plans … Continue reading &rarr;"
 categories:
   - "Current"

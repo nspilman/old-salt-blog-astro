@@ -1,7 +1,7 @@
 ---
 title: "Captain Alan Villiers’ Photographs of the Last of the Tall Ships"
 date: 2012-03-19T16:32:11
-slug: captain-alan-villiers-photographs-of-the-last-of-the-tall-ships
+slug: "captain-alan-villiers-photographs-of-the-last-of-the-tall-ships"
 excerpt: "Alan Villiers was the great chronicler of the last days of sail. In 1918, at the age of 15, he left home in Melborne, Australia to go to sea. His first love would always be the full rigged sailing ships … Continue reading &rarr;"
 categories:
   - "Galleries"

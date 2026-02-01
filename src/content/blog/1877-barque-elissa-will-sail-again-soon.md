@@ -1,7 +1,7 @@
 ---
 title: "1877 Barque ELISSA Will Sail Again Soon"
 date: 2012-09-17T15:45:13
-slug: 1877-barque-elissa-will-sail-again-soon
+slug: "1877-barque-elissa-will-sail-again-soon"
 excerpt: "Thanks to Kurt Voss for this post on the repairs to the Tall Ship ELISSA.  Over thirty years ago Kurt became one of the original stateside volunteers for the 1877, 150-foot sailing vessel ELISSA. He has been a member of the ship’s … Continue reading &rarr;"
 categories:
   - "Current"

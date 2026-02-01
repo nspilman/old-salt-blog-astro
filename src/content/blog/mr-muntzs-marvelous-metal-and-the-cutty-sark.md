@@ -1,8 +1,8 @@
 ---
 title: "Mr. Muntz’s Marvelous Metal and the Cutty Sark"
 date: 2012-04-23T20:22:04
-slug: mr-muntzs-marvelous-metal-and-the-cutty-sark
-excerpt: "Earlier today we posted about an article by Andrew Gilligan, the Telegraph‘s London Editor, in which he referred to the Cutty Sark restoration as “a clucking, Grade A, Bernard Matthews-class turkey.” For a more positive perspective on the restoration one could turn to the … Continue reading &rarr;"
+slug: "mr-muntzs-marvelous-metal-and-the-cutty-sark"
+excerpt: "Earlier today we posted about an article by Andrew Gilligan, the Telegraph‘s London Editor, in which he referred to the Cutty Sark restoration as \"a clucking, Grade A, Bernard Matthews-class turkey.\" For a more positive perspective on the restoration one could turn to the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Cutty Sark"
   - "Muntz metal"
 author: "Rick Spilman"
-description: "Earlier today we posted about an article by Andrew Gilligan, the Telegraph‘s London Editor, in which he referred to the Cutty Sark restoration as “a clucking, Grade A, Bernard Matthews-class turkey.” For a more positive perspective on the restoration one could turn to the … Continue reading &rarr;"
+description: "Earlier today we posted about an article by Andrew Gilligan, the Telegraph‘s London Editor, in which he referred to the Cutty Sark restoration as \"a clucking, Grade A, Bernard Matthews-class turkey.\" For a more positive perspective on the restoration one could turn to the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/csmuntzmetal.jpg)Earlier today we posted about an article by Andrew Gilligan, the [Telegraph](http://www.telegraph.co.uk/)‘s London Editor, in which he referred to the *Cutty Sark* restoration as “[a clucking, Grade A, Bernard Matthews-class turkey](http://blogs.telegraph.co.uk/news/andrewgilligan/100152428/cutty-sark-restoration-a-clucking-grade-a-bernard-matthews-class-turkey/).”

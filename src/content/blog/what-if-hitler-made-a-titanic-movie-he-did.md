@@ -1,8 +1,8 @@
 ---
 title: "What if Hitler Made a Titanic Movie? (He Did)"
 date: 2011-01-29T08:34:25
-slug: what-if-hitler-made-a-titanic-movie-he-did
-excerpt: "A wonderful post from John Edwards’  Ocean Liners blog.   Captain John asks the question, “what if Hitler made a Titanic movie? ”   He then answers it, “he did.”   A heavily fictionalized and equally anti-British version of the … Continue reading &rarr;"
+slug: "what-if-hitler-made-a-titanic-movie-he-did"
+excerpt: "A wonderful post from John Edwards’  Ocean Liners blog.   Captain John asks the question, \"what if Hitler made a Titanic movie? \"   He then answers it, \"he did.\"   A heavily fictionalized and equally anti-British version of the … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Nazi"
   - "Titanic"
 author: "Rick Spilman"
-description: "A wonderful post from John Edwards’  Ocean Liners blog.   Captain John asks the question, “what if Hitler made a Titanic movie? ”   He then answers it, “he did.”   A heavily fictionalized and equally anti-British version of the … Continue reading &rarr;"
+description: "A wonderful post from John Edwards’  Ocean Liners blog.   Captain John asks the question, \"what if Hitler made a Titanic movie? \"   He then answers it, \"he did.\"   A heavily fictionalized and equally anti-British version of the … Continue reading &rarr;"
 ---
 
 A wonderful post from John Edwards’  [Ocean Liners blog](http://oceanlinersblog.org/?p=1808).   Captain John asks the question, “what if Hitler made a Titanic movie? ”   He then answers it, “he did.”   A heavily fictionalized and equally anti-British version of the Titanic tragedy was made in Germany in 1942 and released in Paris in 1943.

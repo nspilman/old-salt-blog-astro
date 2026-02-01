@@ -1,7 +1,7 @@
 ---
 title: "Ever Given — Was Suez-Max Simply Suez Too Much?"
 date: 2021-03-26T12:44:07
-slug: ever-given-was-suez-max-simply-suez-too-much
+slug: "ever-given-was-suez-max-simply-suez-too-much"
 excerpt: "The Ever Given, the 20,000 TEU container that has been blocking all traffic on the Suez Canal since Tuesday, is one of the largest container ships in the world and one of the largest ships allowed to transit the Canal. … Continue reading &rarr;"
 categories:
   - "Current"

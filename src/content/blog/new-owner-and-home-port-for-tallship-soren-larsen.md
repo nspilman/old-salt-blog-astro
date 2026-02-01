@@ -1,7 +1,7 @@
 ---
 title: "New Owner and Home Port for Tallship Soren Larsen"
 date: 2011-08-08T17:08:40
-slug: new-owner-and-home-port-for-tallship-soren-larsen
+slug: "new-owner-and-home-port-for-tallship-soren-larsen"
 excerpt: "Last December we posted that the Tallship Soren Larsen was for sale.  She has now apparently been acquired by new owners who will move the ship to Sydney, Australia but will otherwise maintain her Pacific sailing schedules.  We wish the new owners and operators the best of luck … Continue reading &rarr;"
 categories:
   - "Current"

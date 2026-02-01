@@ -1,7 +1,7 @@
 ---
 title: "Nippon Foundation’s MEGURI 2040 Project Demonstrates Autonomous Car Ferry"
 date: 2022-01-26T18:11:29
-slug: nippon-foundations-meguri-2040-project-demonstrates-autonomous-car-ferry
+slug: "nippon-foundations-meguri-2040-project-demonstrates-autonomous-car-ferry"
 excerpt: "The Nippon Foundation in partnership with Mitsubishi Shipbuilding Co., Ltd., and Shin Nihonkai Ferry Co., Ltd., successfully completed a demonstration test of the world’s first fully autonomous ship navigation systems on a large car ferry, conducted on the Iyonada Sea … Continue reading &rarr;"
 categories:
   - "Current"

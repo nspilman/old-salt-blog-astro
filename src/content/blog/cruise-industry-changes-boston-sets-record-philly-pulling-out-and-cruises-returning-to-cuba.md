@@ -1,7 +1,7 @@
 ---
 title: "Cruise Industry Changes – Boston Sets Record, Philly Pulling Out, and Cruises Returning to Cuba"
 date: 2011-01-07T19:05:40
-slug: cruise-industry-changes-boston-sets-record-philly-pulling-out-and-cruises-returning-to-cuba
+slug: "cruise-industry-changes-boston-sets-record-philly-pulling-out-and-cruises-returning-to-cuba"
 excerpt: "The cruise industry continues to change.  While Boston reported a record number of cruise passengers traveling through its cruise terminal in 2010, the city of Philadelphia is planning on turning its cruise terminal into an an Urban Outfitters retail store, having only two cruise ships scheduled to call … Continue reading &rarr;"
 categories:
   - "Current"

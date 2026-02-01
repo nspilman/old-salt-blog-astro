@@ -1,7 +1,7 @@
 ---
 title: "One Dead & Five Rescued from Yacht ‘Uncontrollabe Urge’ in Race Accident off Southern California Coast"
 date: 2013-03-09T23:05:59
-slug: one-dead-five-rescued-from-yacht-uncontrollabe-urge-in-race-accident-off-southern-california-coast
+slug: "one-dead-five-rescued-from-yacht-uncontrollabe-urge-in-race-accident-off-southern-california-coast"
 excerpt: "In a race from Long Beach to San Diego, one sailor died and five were rescued after the sailboat Uncontrollable Urge lost steering.  The Associated Press is reporting that the crew sent a mayday call during a race but then declining help from the … Continue reading &rarr;"
 categories:
   - "Current"

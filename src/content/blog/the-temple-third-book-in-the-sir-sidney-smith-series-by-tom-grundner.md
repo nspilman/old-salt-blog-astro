@@ -1,7 +1,7 @@
 ---
 title: "The Temple (Third Book in the Sir Sidney Smith Series) by Tom Grundner"
 date: 2009-10-12T11:43:02
-slug: the-temple-third-book-in-the-sir-sidney-smith-series-by-tom-grundner
+slug: "the-temple-third-book-in-the-sir-sidney-smith-series-by-tom-grundner"
 excerpt: "There have been hundreds of novels written about dashing Royal Navy ships’ captains who bear a striking resemblance to Lord Cochrane. The resemblance and family history are most obvious in Jack Aubrey and Horatio Hornblower, but a dozen or so … Continue reading &rarr;"
 categories:
   - "Reviews"

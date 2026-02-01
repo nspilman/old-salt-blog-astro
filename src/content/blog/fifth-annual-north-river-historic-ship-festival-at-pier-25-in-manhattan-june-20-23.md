@@ -1,7 +1,7 @@
 ---
 title: "Fifth Annual North River Historic Ship Festival at Pier 25 in Manhattan June 20 – 23"
 date: 2013-06-19T16:58:47
-slug: fifth-annual-north-river-historic-ship-festival-at-pier-25-in-manhattan-june-20-23
+slug: "fifth-annual-north-river-historic-ship-festival-at-pier-25-in-manhattan-june-20-23"
 excerpt: "If you are in the New York area, check out the North River Historic Ship Festival that starts with a kickoff gala tomorrow night and runs through Sunday. The festivities include: A gala reception honoring A.J. Pietrantone, the former executive director … Continue reading &rarr;"
 categories:
   - "Current"

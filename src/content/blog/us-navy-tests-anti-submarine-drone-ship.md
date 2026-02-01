@@ -1,7 +1,7 @@
 ---
 title: "US Tests Sea Hunter, Anti-Submarine Drone Ship Technology"
 date: 2016-04-04T15:50:42
-slug: us-navy-tests-anti-submarine-drone-ship
+slug: "us-navy-tests-anti-submarine-drone-ship"
 excerpt: "The US military is testing the technology for Sea Hunter, the first ASW Continuous Trail Unmanned Vessel (ACTUV), a 132 feet long autonomous drone ship designed to track enemy submarines. The ship is designed to be unmanned and operate autonomously … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

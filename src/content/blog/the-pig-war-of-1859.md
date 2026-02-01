@@ -1,7 +1,7 @@
 ---
 title: "The Pig War of 1859"
 date: 2020-11-16T15:35:42
-slug: the-pig-war-of-1859
+slug: "the-pig-war-of-1859"
 excerpt: "If you are fond of obscure and slightly absurd history, the Pig War of 1859 is the war for you. It involved a territorial dispute between the United States and Great Britain over the San Juan Islands of the Pacific … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,8 +1,8 @@
 ---
 title: "Sailing Tankers — From the Falls of Clyde to the Maersk Pelican"
 date: 2019-02-05T18:54:45
-slug: sailing-tankers-from-the-falls-of-clyde-to-the-maersk-pelican
-excerpt: "According to a saying often attributed to Mark Twain, “History may not repeat itself. But it often rhymes.” This came to mind recently when posting about the sad state of the windjammer Falls of Clyde, which recently nearly sank at the … Continue reading &rarr;"
+slug: "sailing-tankers-from-the-falls-of-clyde-to-the-maersk-pelican"
+excerpt: "According to a saying often attributed to Mark Twain, \"History may not repeat itself. But it often rhymes.\" This came to mind recently when posting about the sad state of the windjammer Falls of Clyde, which recently nearly sank at the … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -16,7 +16,7 @@ tags:
   - "Windjammer"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/mpelicanrotors.jpg"
 author: "Rick Spilman"
-description: "According to a saying often attributed to Mark Twain, “History may not repeat itself. But it often rhymes.” This came to mind recently when posting about the sad state of the windjammer Falls of Clyde, which recently nearly sank at the … Continue reading &rarr;"
+description: "According to a saying often attributed to Mark Twain, \"History may not repeat itself. But it often rhymes.\" This came to mind recently when posting about the sad state of the windjammer Falls of Clyde, which recently nearly sank at the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/Falls_of_Clyde200.jpg)According to a saying [often attributed to Mark Twain](https://quoteinvestigator.com/2014/01/12/history-rhymes/), “History may not repeat itself. But it often rhymes.” This came to mind recently when [posting about the sad state of the windjammer *Falls of Clyde*](http://www.oldsaltblog.com/2019/02/historic-tall-ship-falls-of-clyde-almost-sinks-at-dock/), which recently nearly sank at the dock in Hawaii.  In addition being the last surviving iron-hulled, four-masted full-rigged ship, the Falls of Clyde is also the only remaining sail-driven oil tanker. 

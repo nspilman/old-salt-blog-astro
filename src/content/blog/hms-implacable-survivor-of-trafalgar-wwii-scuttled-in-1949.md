@@ -1,7 +1,7 @@
 ---
 title: "HMS Implacable, Survivor of Trafalgar & WWII – Scuttled in 1949"
 date: 2013-03-13T22:41:04
-slug: hms-implacable-survivor-of-trafalgar-wwii-scuttled-in-1949
+slug: "hms-implacable-survivor-of-trafalgar-wwii-scuttled-in-1949"
 excerpt: "Here is a video of the scuttling of HMS Implacable in 1949.  She was originally the French Navy’s Téméraire-class ship of the line Duguay-Trouin, launched in 1800.  The Duguay-Trouin fought in and survived the Battle of Trafalgar, only to be captured by the British in … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Staten Island Ferry Crash this Morning – 37 injured"
 date: 2010-05-08T13:16:47
-slug: staten-island-ferry-crash-this-morning-37-injured
+slug: "staten-island-ferry-crash-this-morning-37-injured"
 excerpt: "37 Injured in Staten Island Ferry Crash Dozens of people were hurt when a Staten Island Ferry crashed into a dock at the St. George terminal on Staten Island about 9:30 a.m. Saturday, the authorities said.  The ferry was the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "First Black Liberty Ship Captain, Hugh Mulzac, Says No To Jim Crow"
 date: 2021-02-28T15:20:33
-slug: first-black-liberty-ship-captain-hugh-mulzac-says-no-to-jim-crow
+slug: "first-black-liberty-ship-captain-hugh-mulzac-says-no-to-jim-crow"
 excerpt: "Hugh Mulzak served as the first Black Liberty ship captain in World War II. When offered the command, he refused to sail with a segregated crew. Born in 1886 on Union Island in Saint Vincent Grenadines, he went to sea … Continue reading &rarr;"
 categories:
   - "History"

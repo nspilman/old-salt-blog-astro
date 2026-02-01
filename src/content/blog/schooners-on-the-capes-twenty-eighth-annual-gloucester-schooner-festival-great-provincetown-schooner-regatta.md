@@ -1,7 +1,7 @@
 ---
 title: "Schooners on the Capes – Twenty-Eighth Annual Gloucester Schooner Festival & Great Provincetown Schooner Regatta"
 date: 2012-09-01T11:10:01
-slug: schooners-on-the-capes-twenty-eighth-annual-gloucester-schooner-festival-great-provincetown-schooner-regatta
+slug: "schooners-on-the-capes-twenty-eighth-annual-gloucester-schooner-festival-great-provincetown-schooner-regatta"
 excerpt: "Two great schooner festivals and regattas are now underway on Massachusetts’ Cape Ann and Cape Cod. On Cape Ann, the Twenty-Eighth Annual Gloucester Schooner Festival began yesterday with the arrival of the schooner fleet. Today there will be dockside events … Continue reading &rarr;"
 categories:
   - "Current"

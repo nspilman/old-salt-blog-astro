@@ -1,8 +1,8 @@
 ---
 title: "MSC Orders Two Cruise Ships With Green Multi-Fuel Options"
 date: 2023-09-26T18:02:32
-slug: msc-orders-two-cruise-ships-with-green-multi-fuel-options
-excerpt: "The headline on Cruise&Ferry.net reads “MSC confirms orders for hydrogen-powered ships for Explora Journeys.” The headline is somewhat misleading as the new ships on order from Fincantieri for MSC’s luxury cruise brand Explora Journeys, will not be hydrogen-powered, per se, … Continue reading &rarr;"
+slug: "msc-orders-two-cruise-ships-with-green-multi-fuel-options"
+excerpt: "The headline on Cruise&Ferry.net reads \"MSC confirms orders for hydrogen-powered ships for Explora Journeys.\" The headline is somewhat misleading as the new ships on order from Fincantieri for MSC’s luxury cruise brand Explora Journeys, will not be hydrogen-powered, per se, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -20,7 +20,7 @@ tags:
   - "synthetic gas"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/09/MSCExplora.jpg"
 author: "Rick Spilman"
-description: "The headline on Cruise&Ferry.net reads “MSC confirms orders for hydrogen-powered ships for Explora Journeys.” The headline is somewhat misleading as the new ships on order from Fincantieri for MSC’s luxury cruise brand Explora Journeys, will not be hydrogen-powered, per se, … Continue reading &rarr;"
+description: "The headline on Cruise&Ferry.net reads \"MSC confirms orders for hydrogen-powered ships for Explora Journeys.\" The headline is somewhat misleading as the new ships on order from Fincantieri for MSC’s luxury cruise brand Explora Journeys, will not be hydrogen-powered, per se, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/09/MSCExplora.jpg)The headline on Cruise&Ferry.net reads “[MSC confirms orders for hydrogen-powered ships for Explora Journeys.](https://www.cruiseandferry.net/articles/MSC-confirm-orders-for-hydrogen-powered-ships-for-Explora-Journeys)” The headline is somewhat misleading as the new ships on order from Fincantieri for MSC’s luxury cruise brand [Explora Journeys](https://explorajourneys.com/us/en?gclid=CjwKCAjwgsqoBhBNEiwAwe5w0zlTOtxS4isyMX6PEsA9xdCq9t81GMGuzXtPMEHkxE9BslXfkWR8ARoC1f4QAvD_BwE), will not be hydrogen-powered, per se, but will apparently be configured with the capability to burn a range of green or at least greener fuels. 

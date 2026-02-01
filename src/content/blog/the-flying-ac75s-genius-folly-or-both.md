@@ -1,7 +1,7 @@
 ---
 title: "The Flying AC75s — Genius, Folly or Both?"
 date: 2019-07-14T09:06:03
-slug: the-flying-ac75s-genius-folly-or-both
+slug: "the-flying-ac75s-genius-folly-or-both"
 excerpt: "The new design for the AC75s is an engineering marvel. Nevertheless, I am having an argument with myself whether they are works of genius or folly. More specifically whether carbon fiber and foils will have any practical application to real-world … Continue reading &rarr;"
 categories:
   - "Current"

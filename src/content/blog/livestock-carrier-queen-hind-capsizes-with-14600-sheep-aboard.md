@@ -1,7 +1,7 @@
 ---
 title: "Livestock Carrier Queen Hind Capsizes with 14,600 Sheep Aboard"
 date: 2019-11-26T14:56:01
-slug: livestock-carrier-queen-hind-capsizes-with-14600-sheep-aboard
+slug: "livestock-carrier-queen-hind-capsizes-with-14600-sheep-aboard"
 excerpt: "The livestock carrier, Queen Hind, carrying 14,600 sheep, capsized on Sunday after leaving the Black Sea port of Midia, near the south-eastern Romanian city of Constanta. The crew escaped safely. It is unclear how many of the sheep aboard were … Continue reading &rarr;"
 categories:
   - "Current"

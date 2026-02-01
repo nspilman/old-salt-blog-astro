@@ -1,7 +1,7 @@
 ---
 title: "Magnificent Panoramas from Tallinn Maritime Days"
 date: 2017-12-02T18:33:42
-slug: magnificent-panoramas-tallinn-maritime-days
+slug: "magnificent-panoramas-tallinn-maritime-days"
 excerpt: "We are several months late in posting about Tallinn Maritime Days from last July. The port of Tallinn, on the Gulf of Finland, is the capital and largest city of Estonia and hosted 50 sailing ships in this summer’s Tallships … Continue reading &rarr;"
 categories:
   - "Current"

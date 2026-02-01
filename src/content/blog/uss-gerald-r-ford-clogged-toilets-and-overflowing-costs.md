@@ -1,7 +1,7 @@
 ---
 title: "USS Gerald R. Ford, Clogged Toilets and Overflowing Costs"
 date: 2020-03-25T14:11:03
-slug: uss-gerald-r-ford-clogged-toilets-and-overflowing-costs
+slug: "uss-gerald-r-ford-clogged-toilets-and-overflowing-costs"
 excerpt: "The US Navy’s newest aircraft carrier, USS Gerald R. Ford, is the largest aircraft carrier ever built and, at over $13 billion, is also the most expensive. Nevertheless, because of problems with mission-critical systems, the ship has been referred to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

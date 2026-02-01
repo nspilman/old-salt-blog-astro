@@ -1,7 +1,7 @@
 ---
 title: "Update: UN Plans to Salvage Oil from FSO Safer Off Yemen"
 date: 2023-03-13T11:08:53
-slug: update-un-plans-to-salvage-oil-from-fso-safer-off-yemen
+slug: "update-un-plans-to-salvage-oil-from-fso-safer-off-yemen"
 excerpt: "CNN reports that the United Nations has released a plan to offload 1 million barrels of oil off FSO Safer, a floating oil storage and offloading vessel, that has been moored off the coast of Yemen for more than 30 years. … Continue reading &rarr;"
 categories:
   - "Current"

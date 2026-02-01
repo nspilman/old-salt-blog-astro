@@ -1,7 +1,7 @@
 ---
 title: "Thousands of Tons of Dead Fish Wash up on Japan’s Northern Coast"
 date: 2023-12-09T18:03:29
-slug: thousands-of-tons-of-dead-fish-wash-up-on-japans-northern-coast
+slug: "thousands-of-tons-of-dead-fish-wash-up-on-japans-northern-coast"
 excerpt: "The Associated Press reports that thousands of tons of dead fish were found on the northern coast of Japan and no one seems to know why.  The sardines and mackerels were found on an over half-mile stretch of beach in … Continue reading &rarr;"
 categories:
   - "Current"

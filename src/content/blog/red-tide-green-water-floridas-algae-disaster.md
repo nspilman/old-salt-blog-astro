@@ -1,7 +1,7 @@
 ---
 title: "Red Tide & Green Water — Florida’s Algae Disaster"
 date: 2018-08-08T08:53:52
-slug: red-tide-green-water-floridas-algae-disaster
+slug: "red-tide-green-water-floridas-algae-disaster"
 excerpt: "Florida is being clobbered by a double algae disaster, a virtual algae apocalypse. Red tide, caused by karenia brevis algae is decimating sea life in the Gulf’s salt waters, while blue-green algae, or cyanobacteria, is poisoning South Florida’s inland fresh … Continue reading &rarr;"
 categories:
   - "Current"

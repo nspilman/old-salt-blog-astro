@@ -1,7 +1,7 @@
 ---
 title: "Dwarf Planet Ceres — More Freshwater Than On the Surface of the Earth"
 date: 2014-10-23T16:12:19
-slug: dwarf-plant-ceres-more-freshwater-than-on-the-surface-of-the-earth
+slug: "dwarf-plant-ceres-more-freshwater-than-on-the-surface-of-the-earth"
 excerpt: "In September, we posted about a recent study that concluded that up to half the water on our planet is older than the sun.  Scientists now speculate that the existence of water may be far more common in the universe … Continue reading &rarr;"
 categories:
   - "Current"

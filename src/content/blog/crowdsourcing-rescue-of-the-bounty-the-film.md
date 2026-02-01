@@ -1,8 +1,8 @@
 ---
-title: "Crowdsourcing “Rescue of the Bounty -The Film”"
+title: "Crowdsourcing \"Rescue of the Bounty -The Film\""
 date: 2014-09-20T15:20:20
-slug: crowdsourcing-rescue-of-the-bounty-the-film
-excerpt: "Award winning film maker David Wittkower has teamed with writer Michael Tougias to create a documentary, “Rescue of the Bounty,” looking at the loss of the Bounty in 2012.  Tougias is the best selling author of the book by the same name.  Wittkower … Continue reading &rarr;"
+slug: "crowdsourcing-rescue-of-the-bounty-the-film"
+excerpt: "Award winning film maker David Wittkower has teamed with writer Michael Tougias to create a documentary, \"Rescue of the Bounty,\" looking at the loss of the Bounty in 2012.  Tougias is the best selling author of the book by the same name.  Wittkower … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"

@@ -1,7 +1,7 @@
 ---
 title: "Solar Power ‘Sets Sail’ In Shanghai"
 date: 2010-06-09T08:29:03
-slug: solar-power-sets-sail-in-shanghai
+slug: "solar-power-sets-sail-in-shanghai"
 excerpt: "Last week at the Shanghai World Expo, the SunTech Guosheng solarsailor, an innovative 31.5 meter solar-powered passenger vessel sailed on its maiden voyage on the Huangpu River.  The vessels is owned by Suntech Power Holdings, the world’s largest producer of … Continue reading &rarr;"
 categories:
   - "Current"

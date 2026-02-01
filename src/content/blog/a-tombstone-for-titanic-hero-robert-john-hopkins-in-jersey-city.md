@@ -1,7 +1,7 @@
 ---
 title: "A Tombstone for Titanic Hero Robert John Hopkins in Jersey City"
 date: 2016-05-17T07:20:37
-slug: a-tombstone-for-titanic-hero-robert-john-hopkins-in-jersey-city
+slug: "a-tombstone-for-titanic-hero-robert-john-hopkins-in-jersey-city"
 excerpt: "Robert John Hopkins was one of the lesser-known heroes on the Titanic. He died in 1943 at the age of 77 and was buried in an unmarked grave in the Holy Name Cemetery, in Jersey City, NJ.  Last Saturday, his descendants gathered … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Chinese Navy Seizes a USNS Bowditch Drone Glider"
 date: 2016-12-16T18:16:56
-slug: chinese-navy-seizes-usns-bowditch-drone-glider
+slug: "chinese-navy-seizes-usns-bowditch-drone-glider"
 excerpt: "In one of the stranger escalations of tensions between the US and the Chinese, a Chinese naval vessel seized one of USNS Bowditch drone gliders. USNS Bowditch is an oceanographic survey vessel which operates with a mix of civilian and military crew members. The … Continue reading &rarr;"
 categories:
   - "Current"

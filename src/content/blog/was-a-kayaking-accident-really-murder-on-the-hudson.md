@@ -1,7 +1,7 @@
 ---
-title: "Was a Kayaking “Accident” Really Murder on the Hudson?"
+title: "Was a Kayaking \"Accident\" Really Murder on the Hudson?"
 date: 2015-05-01T15:43:51
-slug: was-a-kayaking-accident-really-murder-on-the-hudson
+slug: "was-a-kayaking-accident-really-murder-on-the-hudson"
 excerpt: "At first, it sounded like a tragic story with a very predictable moral.  A 46 year old male kayaker capsized, while not wearing a lifejacket, and was believed to have drowned. His 36 year old female paddling partner, who was wearing … Continue reading &rarr;"
 categories:
   - "Current"

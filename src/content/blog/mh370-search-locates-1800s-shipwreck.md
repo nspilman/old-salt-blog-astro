@@ -1,7 +1,7 @@
 ---
 title: "MH370 Search Locates 1800s Shipwreck"
 date: 2016-01-14T15:00:05
-slug: mh370-search-locates-1800s-shipwreck
+slug: "mh370-search-locates-1800s-shipwreck"
 excerpt: "More than 80,000 square kilometers (30,000 square miles) of the seafloor in the Indian Ocean west of Australia have been searched, looking for where Malaysia Airlines Flight MH370 is believed to have crashed with 239 people aboard in March 2014. So far, … Continue reading &rarr;"
 categories:
   - "Current"

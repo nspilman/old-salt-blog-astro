@@ -1,7 +1,7 @@
 ---
 title: "Russian Submarine Orel Fire on 26th Anniversary of the Komsomolets Fire"
 date: 2015-04-07T18:32:37
-slug: russian-submarine-orel-fire-on-26th-anniversary-of-the-komsomolets-fire
+slug: "russian-submarine-orel-fire-on-26th-anniversary-of-the-komsomolets-fire"
 excerpt: "A fire broke out today on the 23 year old Russian Oscar class K-266 Orel nuclear submarine in a drydock in the Zvezdochka shipyard in Severodvinsk on the White Sea. Reportedly, a welding torch set insulation on fire. The shipyard has … Continue reading &rarr;"
 categories:
   - "History"

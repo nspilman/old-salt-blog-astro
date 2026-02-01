@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Weekend Roundup — 27th Annual North River Tugboat Race"
 date: 2019-08-30T09:38:23
-slug: labor-day-weekend-roundup-27th-annual-north-river-tugboat-race
+slug: "labor-day-weekend-roundup-27th-annual-north-river-tugboat-race"
 excerpt: "The 27th Annual Great North River Tugboat Race, sponsored by the Working Harbor Committee, will be held on the Hudson River near Pier 84  starting at 11 a.m. on September 1st.  Watch from shore or get onboard the Spectator Boat … Continue reading &rarr;"
 categories:
   - "Current"

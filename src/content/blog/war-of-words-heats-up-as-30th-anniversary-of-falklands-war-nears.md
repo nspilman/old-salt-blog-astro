@@ -1,7 +1,7 @@
 ---
 title: "No Shortage of Heated Words as 30th Anniversary of Falklands War Nears, Eggs and Vegetables Run Short"
 date: 2012-02-12T11:25:39
-slug: war-of-words-heats-up-as-30th-anniversary-of-falklands-war-nears
+slug: "war-of-words-heats-up-as-30th-anniversary-of-falklands-war-nears"
 excerpt: "The Falklands War, or the Guerra de las Malvinas, depending on which side you choose, began on April 2, 1982.  As the thirtieth anniversary of the war approaches, a war of worlds between the ex-combatants, the UK and Argentina, has escalated.  Eggs and … Continue reading &rarr;"
 categories:
   - "Current"

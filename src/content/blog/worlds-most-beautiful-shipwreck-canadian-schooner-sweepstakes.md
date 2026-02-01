@@ -1,7 +1,7 @@
 ---
 title: "World’s Most Beautiful Shipwreck – Canadian Schooner Sweepstakes"
 date: 2013-04-10T09:00:17
-slug: worlds-most-beautiful-shipwreck-canadian-schooner-sweepstakes
+slug: "worlds-most-beautiful-shipwreck-canadian-schooner-sweepstakes"
 excerpt: "In Big Tub Harbour, just off Canada’s Georgian Bay, near the entrance to Lake Huron, lies the wreck of the schooner Sweepstakes, which sank in 1885. She is 119′ long with a 23′ beam and a 10′ depth of hold. Just twenty feet below the surface, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

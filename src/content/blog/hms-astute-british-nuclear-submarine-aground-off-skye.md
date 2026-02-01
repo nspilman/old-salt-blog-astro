@@ -1,8 +1,8 @@
 ---
 title: "HMS Astute: British Nuclear Submarine Aground off Skye"
 date: 2010-10-22T09:49:59
-slug: hms-astute-british-nuclear-submarine-aground-off-skye
-excerpt: "Embarrassing and rather bad timing.  Billed as the “world’s most advanced nuclear submarine,” the recently christened HMS Astute ran aground this morning off the Isle of Skye. Nuclear submarine runs aground HMS Astute: world’s most advanced nuclear submarine runs aground … Continue reading &rarr;"
+slug: "hms-astute-british-nuclear-submarine-aground-off-skye"
+excerpt: "Embarrassing and rather bad timing.  Billed as the \"world’s most advanced nuclear submarine,\" the recently christened HMS Astute ran aground this morning off the Isle of Skye. Nuclear submarine runs aground HMS Astute: world’s most advanced nuclear submarine runs aground … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Isle of Skye"
   - "Royal Navy"
 author: "Rick Spilman"
-description: "Embarrassing and rather bad timing.  Billed as the “world’s most advanced nuclear submarine,” the recently christened HMS Astute ran aground this morning off the Isle of Skye. Nuclear submarine runs aground HMS Astute: world’s most advanced nuclear submarine runs aground … Continue reading &rarr;"
+description: "Embarrassing and rather bad timing.  Billed as the \"world’s most advanced nuclear submarine,\" the recently christened HMS Astute ran aground this morning off the Isle of Skye. Nuclear submarine runs aground HMS Astute: world’s most advanced nuclear submarine runs aground … Continue reading &rarr;"
 ---
 
 Embarrassing and rather bad timing.  Billed as the “world’s most advanced nuclear submarine,” the recently christened *[HMS Astute](http://en.wikipedia.org/wiki/HMS_Astute_\(S119\))* ran aground this morning off the Isle of Skye.

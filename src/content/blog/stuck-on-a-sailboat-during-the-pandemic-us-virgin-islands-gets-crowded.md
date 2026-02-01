@@ -1,7 +1,7 @@
 ---
 title: "Stuck on a Sailboat During the Pandemic — US Virgin Islands Gets Crowded"
 date: 2020-05-02T12:00:16
-slug: stuck-on-a-sailboat-during-the-pandemic-us-virgin-islands-gets-crowded
+slug: "stuck-on-a-sailboat-during-the-pandemic-us-virgin-islands-gets-crowded"
 excerpt: "Unless you happened to be very wealthy, hiding out on a boat may not be the best strategy during a pandemic. While billionaires may be able to jet off to their yachts in the Grenadines, the merely comfortable may find … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

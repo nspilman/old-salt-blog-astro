@@ -1,7 +1,7 @@
 ---
 title: "The Two Brothers and the Two Captains – Who was Unlucky?"
 date: 2011-02-11T18:13:50
-slug: the-two-brothers-and-the-two-captains-who-was-unlucky
+slug: "the-two-brothers-and-the-two-captains-who-was-unlucky"
 excerpt: "The wreck of the whale ship Two Brothers, which sank 188 years ago on French Frigate Shoals, 600 miles northwest of Honolulu,  was recently located by divers.   The captain of the whale ship was George Pollard Jr., whose previous ship, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Electrolux’s ‘Vac from the Sea’ Turns Ocean Plastic into Vacuum Cleaners"
 date: 2010-09-29T07:46:37
-slug: electroluxs-%e2%80%98vac-from-the-sea%e2%80%99-turns-ocean-plastic-into-vacuum-cleaners
+slug: "electroluxs-%e2%80%98vac-from-the-sea%e2%80%99-turns-ocean-plastic-into-vacuum-cleaners"
 excerpt: "Yesterday we posted that scientists are not sure where all the plastic floating in the vast Atlantic and Pacific garbage patches is going.  Sadly, the answer is probably not that a big vacuum cleaner is vacuuming the stuff up to recycle it. Nevertheless, here is a great story about Electrolux, which … Continue reading &rarr;"
 categories:
   - "Current"

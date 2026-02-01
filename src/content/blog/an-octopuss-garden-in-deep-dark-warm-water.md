@@ -1,7 +1,7 @@
 ---
 title: "An Octopus’s Garden in Deep, Dark, & Warm Water"
 date: 2023-08-30T17:04:48
-slug: an-octopuss-garden-in-deep-dark-warm-water
+slug: "an-octopuss-garden-in-deep-dark-warm-water"
 excerpt: "Richard Starkey, better known as Ringo Star, wrote the song, Octopus’s Garden, for the Beatles 1969 album Abbey Road. The first verse goes: I’d like to be/Under the sea/In an octopus’ garden/In the shade… In a recent study, researchers describe finding … Continue reading &rarr;"
 categories:
   - "Current"

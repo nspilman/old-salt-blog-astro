@@ -1,7 +1,7 @@
 ---
 title: "Footprints in the Sand on Columbus Day — When Did Humans First Arrive in the Americas?"
 date: 2023-10-09T20:09:33
-slug: footprints-in-the-sand-on-columbus-day-when-did-humans-first-arrive-in-the-americas
+slug: "footprints-in-the-sand-on-columbus-day-when-did-humans-first-arrive-in-the-americas"
 excerpt: "Like millions of other children, I was taught that Christopher Columbus discovered America in 1492.  Then when I was seven years old, the site of the Norse settlement at L’Anse aux Meadows, Newfoundland was discovered and I learned that Columbus … Continue reading &rarr;"
 categories:
   - "Current"

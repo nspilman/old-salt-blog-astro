@@ -1,7 +1,7 @@
 ---
 title: "Clipper Round the World Fleet Arrives in New York Harbor, Unofficially"
 date: 2012-05-30T08:36:10
-slug: clipper-round-the-world-fleet-arrives-in-new-york-harbor-unofficially
+slug: "clipper-round-the-world-fleet-arrives-in-new-york-harbor-unofficially"
 excerpt: "The ten boat fleet of the Clipper Round the World Race will officially and formally arrive in New York harbor on Sunday, June 3rd to coincide with the Queen’s Diamond Jubilee.  As Sir Robin Knox-Johnston sails the Suhaili, the 32ft yacht on which he became … Continue reading &rarr;"
 categories:
   - "Current"

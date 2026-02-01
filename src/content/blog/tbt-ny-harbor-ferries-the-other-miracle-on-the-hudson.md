@@ -1,8 +1,8 @@
 ---
-title: "TBT – NY Harbor Ferries & the Other “Miracle on the Hudson”"
+title: "TBT – NY Harbor Ferries & the Other \"Miracle on the Hudson\""
 date: 2019-01-17T18:31:49
-slug: tbt-ny-harbor-ferries-the-other-miracle-on-the-hudson
-excerpt: "For Throwback Thursday, an updated repost of an event from ten years ago — the other “Miracle on the Hudson.”  Ten years ago this week, US Airways Flight 1549  made an emergency water landing in the Hudson River. If the plane’s … Continue reading &rarr;"
+slug: "tbt-ny-harbor-ferries-the-other-miracle-on-the-hudson"
+excerpt: "For Throwback Thursday, an updated repost of an event from ten years ago — the other \"Miracle on the Hudson.\"  Ten years ago this week, US Airways Flight 1549  made an emergency water landing in the Hudson River. If the plane’s … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "US Airways Flight 1549"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/mothudson200-1.jpg"
 author: "Rick Spilman"
-description: "For Throwback Thursday, an updated repost of an event from ten years ago — the other “Miracle on the Hudson.”  Ten years ago this week, US Airways Flight 1549  made an emergency water landing in the Hudson River. If the plane’s … Continue reading &rarr;"
+description: "For Throwback Thursday, an updated repost of an event from ten years ago — the other \"Miracle on the Hudson.\"  Ten years ago this week, US Airways Flight 1549  made an emergency water landing in the Hudson River. If the plane’s … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/mothudson200-1.jpg)For Throwback Thursday, an updated repost of an event from ten years ago — the other “Miracle on the Hudson.” 

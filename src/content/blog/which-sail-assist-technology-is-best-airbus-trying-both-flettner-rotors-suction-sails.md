@@ -1,7 +1,7 @@
 ---
 title: "Which Sail Assist Technology is Best — Airbus Trying Both Flettner Rotors & Suction Sails"
 date: 2023-10-31T09:31:50
-slug: which-sail-assist-technology-is-best-airbus-trying-both-flettner-rotors-suction-sails
+slug: "which-sail-assist-technology-is-best-airbus-trying-both-flettner-rotors-suction-sails"
 excerpt: "Of the various wind assist technologies available for commercial shipping, which is the most cost-efficient? It is likely, too soon to tell. AIrbus is reported to be trying two different approaches — retrofitting one existing ship with suction sails and … Continue reading &rarr;"
 categories:
   - "Current"

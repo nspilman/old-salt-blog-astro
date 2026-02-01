@@ -1,7 +1,7 @@
 ---
 title: "Update: Superyacht Scheherazade Impounded By Italian Authorities, Ties to Putin Suspected"
 date: 2022-05-11T16:54:54
-slug: update-superyacht-scheherazade-impounded-by-italian-authorities-ties-to-putin-suspected
+slug: "update-superyacht-scheherazade-impounded-by-italian-authorities-ties-to-putin-suspected"
 excerpt: "In early March we posted The Mystery of the Superyacht Scheherazade — Who is the Owner?. The 495′ long superyacht, valued at $700 million, was drydocked undergoing repairs in Marina di Carrara, a small Italian town on the Tuscan coast. … Continue reading &rarr;"
 categories:
   - "Current"

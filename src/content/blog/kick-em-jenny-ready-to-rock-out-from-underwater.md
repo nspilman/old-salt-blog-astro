@@ -1,7 +1,7 @@
 ---
 title: "Kick ’em Jenny – Ready to Rock Out From Underwater"
 date: 2015-07-25T08:28:46
-slug: kick-em-jenny-ready-to-rock-out-from-underwater
+slug: "kick-em-jenny-ready-to-rock-out-from-underwater"
 excerpt: "Back in 2011, we posted a short quiz: Is Kick’em Jenny a Dutch rockabilly singer, a Dutch Celtic Symfo-Folk band or an active submarine volcano on the floor of the Caribbean Sea? The answer is yes to all three. I am not sure … Continue reading &rarr;"
 categories:
   - "Current"

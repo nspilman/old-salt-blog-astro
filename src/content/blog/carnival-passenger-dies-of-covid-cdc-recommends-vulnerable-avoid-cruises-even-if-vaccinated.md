@@ -1,7 +1,7 @@
 ---
 title: "Carnival Passenger Dies of Covid, CDC Recommends Vulnerable Avoid Cruises Even if Vaccinated"
 date: 2021-08-24T16:34:17
-slug: carnival-passenger-dies-of-covid-cdc-recommends-vulnerable-avoid-cruises-even-if-vaccinated
+slug: "carnival-passenger-dies-of-covid-cdc-recommends-vulnerable-avoid-cruises-even-if-vaccinated"
 excerpt: "On a recent voyage from Galveston, TX, one passenger and 26 crew members tested positive for Covid-19 on the Carnival Vista. The passenger, Marilyn Tackett, a 77-year-old retiree from Oklahoma, subsequently died. The outbreak represented the highest number of cases … Continue reading &rarr;"
 categories:
   - "Current"

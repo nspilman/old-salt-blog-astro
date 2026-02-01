@@ -1,8 +1,8 @@
 ---
 title: "Albatrosses Tracking Illegal Fishing"
 date: 2020-01-29T17:45:37
-slug: albatrosses-tracking-illegal-fishing
-excerpt: "Four years ago, we posted about an attempt to use “big data” to crack down on illegal fishing. Google partnered with SkyTruth and Oceana to produce a new tool, Global Fishing Watch, to track global fishing activity. The problem is that to avoid … Continue reading &rarr;"
+slug: "albatrosses-tracking-illegal-fishing"
+excerpt: "Four years ago, we posted about an attempt to use \"big data\" to crack down on illegal fishing. Google partnered with SkyTruth and Oceana to produce a new tool, Global Fishing Watch, to track global fishing activity. The problem is that to avoid … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "fishing boats"
   - "illegal fishing GPS trackers"
 author: "Rick Spilman"
-description: "Four years ago, we posted about an attempt to use “big data” to crack down on illegal fishing. Google partnered with SkyTruth and Oceana to produce a new tool, Global Fishing Watch, to track global fishing activity. The problem is that to avoid … Continue reading &rarr;"
+description: "Four years ago, we posted about an attempt to use \"big data\" to crack down on illegal fishing. Google partnered with SkyTruth and Oceana to produce a new tool, Global Fishing Watch, to track global fishing activity. The problem is that to avoid … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/albatross.jpg)Four years ago, we [posted about an attempt to use “big data”](http://www.oldsaltblog.com/2015/11/can-big-data-stop-overfishing-will-googles-global-fishing-watch-succeed/) to crack down on illegal fishing. Google partnered with [SkyTruth](http://skytruth.org/) and [Oceana](http://oceana.org/) to produce a new tool, [Global Fishing Watch](http://globalfishingwatch.org/), to track global fishing activity. The problem is that to avoid detection, boats fishing illegally often turn off their AIS (Automatic Identification System) to avoid detection. The Google project uses satellite data to provide detailed vessel tracking and aims to harness the power of citizen engagement to tackle overfishing.

@@ -1,7 +1,7 @@
 ---
 title: "Michigan’s Great Lakes offer ‘the best shipwreck diving in the world’"
 date: 2011-08-07T09:32:20
-slug: michigans-great-lakes-offer-the-best-shipwreck-diving-in-the-world
+slug: "michigans-great-lakes-offer-the-best-shipwreck-diving-in-the-world"
 excerpt: "When, many, many years ago, I moved from Florida to Michigan to go to school,  I stopped scuba diving entirely.  I had learned to dive in the warm and clear waters of the Florida keys. Why would I want to dive … Continue reading &rarr;"
 categories:
   - "Current"

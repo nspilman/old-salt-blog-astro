@@ -1,7 +1,7 @@
 ---
 title: "Captain Lindsey’s Daughter Dido Elizabeth Belle, Lord Mansfield and British Slavery"
 date: 2018-02-25T18:23:29
-slug: captain-lindseys-daughter-dido-elizabeth-belle-lord-mansfield-british-slavery
+slug: "captain-lindseys-daughter-dido-elizabeth-belle-lord-mansfield-british-slavery"
 excerpt: "Around 1779, a portrait of two young women was commissioned by William Murray, 1st Earl of Mansfield. The women were Elizabeth Murray and her cousin Dido Elizabeth Belle. For its day, the painting was controversial, even shocking. Dido Elizabeth Belle was a dark-skinned mixed-race … Continue reading &rarr;"
 categories:
   - "History"

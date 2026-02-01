@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the bloody history of the ship made famous by Turner, the Fighting Temeraire"
 date: 2010-01-23T08:53:49
-slug: unlocking-the-bloody-history-of-the-ship-made-famous-by-turner-the-fighting-temeraire
+slug: "unlocking-the-bloody-history-of-the-ship-made-famous-by-turner-the-fighting-temeraire"
 excerpt: "Sam Willis has written what appears to be a fascinating book – Fighting Temeraire. J.M.W. Turner’s painting, The Fighting Temeraire Tugged to her Last Berth to be Broken Up,  hangs in the National Gallery in Trafalgar Square and was recently … Continue reading &rarr;"
 categories:
   - "History"

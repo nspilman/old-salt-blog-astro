@@ -1,7 +1,7 @@
 ---
 title: "Thomas Slade, Naval Architect & Mast Shipwright"
 date: 2021-02-23T17:49:24
-slug: thomas-slade-naval-architect-mast-shipwright
+slug: "thomas-slade-naval-architect-mast-shipwright"
 excerpt: "Thomas Slade, a pioneering naval architect and shipwright, died in 1771, 250 years ago today. While he is most famous for the design and construction of Admiral Horatio Nelson’s Victory, his larger contribution to the Royal Navy and even in … Continue reading &rarr;"
 categories:
   - "History"

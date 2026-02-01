@@ -1,7 +1,7 @@
 ---
 title: "Searching for #TheKetchupBoatGuy — Heinz Wants to Buy Him a New Boat"
 date: 2023-02-25T16:47:17
-slug: searching-for-theketchupboatguy-heinz-wants-to-buy-him-a-new-boat
+slug: "searching-for-theketchupboatguy-heinz-wants-to-buy-him-a-new-boat"
 excerpt: "Elvis Francois, 47, was repairing his boat on the Dutch side of the island of Saint Martin in December when his boat was carried offshore and he subsequently spent 24 days at sea. He survived off a bottle of ketchup, garlic … Continue reading &rarr;"
 categories:
   - "Current"

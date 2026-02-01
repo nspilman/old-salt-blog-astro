@@ -1,7 +1,7 @@
 ---
-title: "Scientist’s Models Predict “Water Worlds”"
+title: "Scientist’s Models Predict \"Water Worlds\""
 date: 2019-05-04T09:59:24
-slug: scientists-models-predict-water-worlds
+slug: "scientists-models-predict-water-worlds"
 excerpt: "While the surface of the Earth is more than 70% covered by ocean, worlds covered by even greater expanses of water may be more common than previously thought.  We have previously posted about evidence of water on other bodies in … Continue reading &rarr;"
 categories:
   - "Current"

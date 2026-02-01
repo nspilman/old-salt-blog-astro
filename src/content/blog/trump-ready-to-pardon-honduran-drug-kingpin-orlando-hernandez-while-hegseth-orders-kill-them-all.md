@@ -1,7 +1,7 @@
 ---
 title: "Trump Ready to Pardon Honduran Drug Kingpin While Threatening a War With  Venezuela"
 date: 2025-11-30T19:19:44
-slug: trump-ready-to-pardon-honduran-drug-kingpin-orlando-hernandez-while-hegseth-orders-kill-them-all
+slug: "trump-ready-to-pardon-honduran-drug-kingpin-orlando-hernandez-while-hegseth-orders-kill-them-all"
 excerpt: "President Trump is threatening to start a war with Venezuela, allegedly to counter drug trafficking to the United States. At the same time, the would-be king has announced his intention to pardon the notorious drug kingpin and former president of … Continue reading &rarr;"
 categories:
   - "Current"

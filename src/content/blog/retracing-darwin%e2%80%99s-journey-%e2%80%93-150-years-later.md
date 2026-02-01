@@ -1,7 +1,7 @@
 ---
 title: "Retracing Darwin’s Journey – 150 Years Later"
 date: 2009-09-10T08:45:43
-slug: retracing-darwin%e2%80%99s-journey-%e2%80%93-150-years-later
+slug: "retracing-darwin%e2%80%99s-journey-%e2%80%93-150-years-later"
 excerpt: "Charles Darwin’s great-great- granddaughter, Sarah Darwin, is sailing on the Stad Amsterdam with a group of historians and naturalists, as well as a film crew for Dutch VPRO Television and Hollywood actor John Malkovich.   They will be retracing the voyage of … Continue reading &rarr;"
 categories:
   - "Current"

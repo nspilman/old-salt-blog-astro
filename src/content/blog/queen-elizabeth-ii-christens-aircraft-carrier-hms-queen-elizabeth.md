@@ -1,7 +1,7 @@
 ---
 title: "Queen Elizabeth II Christens Aircraft Carrier HMS Queen Elizabeth"
 date: 2014-07-04T08:55:32
-slug: queen-elizabeth-ii-christens-aircraft-carrier-hms-queen-elizabeth
+slug: "queen-elizabeth-ii-christens-aircraft-carrier-hms-queen-elizabeth"
 excerpt: "Today, Great Britain’s Queen Elizabeth II christened the Royal Navy’s new aircraft carrier, HMS Queen Elizabeth. As the ceremony was held in Rosyth, Scotland, the queen christened the ship with a bottle of whiskey from the Bowmore Distillery, rather than the … Continue reading &rarr;"
 categories:
   - "Current"

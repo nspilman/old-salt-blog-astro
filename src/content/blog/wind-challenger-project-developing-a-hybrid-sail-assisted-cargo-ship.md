@@ -1,7 +1,7 @@
 ---
 title: "Update: Wind Challenger Project — Developing a Hybrid Sail Assisted Cargo Ship"
 date: 2019-05-15T16:32:38
-slug: wind-challenger-project-developing-a-hybrid-sail-assisted-cargo-ship
+slug: "wind-challenger-project-developing-a-hybrid-sail-assisted-cargo-ship"
 excerpt: "We have been following the development of the Wind Challenger Project since it first was unveiled in 2012. Initially developed by the University of Toyko and now with the support of Mitsui O.S.K. Lines and Oshima-shipbuilding, the concept is for … Continue reading &rarr;"
 categories:
   - "Current"

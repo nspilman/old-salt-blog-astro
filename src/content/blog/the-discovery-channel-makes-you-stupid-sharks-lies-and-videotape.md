@@ -1,7 +1,7 @@
 ---
 title: "The Discovery Channel Makes You Stupid – Sharks, Lies, and Videotape"
 date: 2013-08-09T12:55:23
-slug: the-discovery-channel-makes-you-stupid-sharks-lies-and-videotape
+slug: "the-discovery-channel-makes-you-stupid-sharks-lies-and-videotape"
 excerpt: "It is now official. Watching the Discovery Channel makes you stupid, or at the very least, can leave you less informed than when you started watching.  A poll shows that more than 70% of those who watched the Discovery Channel’s fake … Continue reading &rarr;"
 categories:
   - "Current"

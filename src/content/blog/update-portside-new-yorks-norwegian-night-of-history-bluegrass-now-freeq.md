@@ -1,7 +1,7 @@
 ---
 title: "Update: PortSide New York’s Norwegian Night of History & Bluegrass Now Free"
 date: 2015-09-23T15:56:32
-slug: update-portside-new-yorks-norwegian-night-of-history-bluegrass-now-freeq
+slug: "update-portside-new-yorks-norwegian-night-of-history-bluegrass-now-freeq"
 excerpt: "We recently posted about PortSide NewYork’s Norwegian Water Stories & a Night of Bluegrass, an event being held tomorrow, Thursday, September 24, 2015 from 7:00 PM to 11:00 PM at Atelier Roquette, 63 Commerce Street, Red Hook, Brooklyn, NY 11231.  The event … Continue reading &rarr;"
 categories:
   - "Current"

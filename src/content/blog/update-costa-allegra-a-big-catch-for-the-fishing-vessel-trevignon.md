@@ -1,7 +1,7 @@
 ---
 title: "Update – Costa Allegra: A Big Catch for the Fishing Vessel Trevignon"
 date: 2012-02-29T08:24:14
-slug: update-costa-allegra-a-big-catch-for-the-fishing-vessel-trevignon
+slug: "update-costa-allegra-a-big-catch-for-the-fishing-vessel-trevignon"
 excerpt: "The 275′ French tuna purse seiner Trevignon has made a much bigger catch than normal – the 28,430 gross tonne cruise ship Costa Allegra.   The Trevignon is slowly towing the cruise ship to Mahé, in the Seychelles, and is expected to arrive early … Continue reading &rarr;"
 categories:
   - "Current"

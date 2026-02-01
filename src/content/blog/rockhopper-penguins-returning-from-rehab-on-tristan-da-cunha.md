@@ -1,7 +1,7 @@
 ---
 title: "Rockhopper Penguins Returning From Rehab on Tristan da Cunha"
 date: 2011-04-29T07:24:44
-slug: rockhopper-penguins-returning-from-rehab-on-tristan-da-cunha
+slug: "rockhopper-penguins-returning-from-rehab-on-tristan-da-cunha"
 excerpt: "The Greek-owned 75,000 tonne bulk carrier, MV Oliva, ran aground  on March 16th on Nightingale Island, a 4 square kilometer island in the Tristan da Cuhna archipelago in the South Atlantic.   The resulting oil spill  threatened nearly half of the world population … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

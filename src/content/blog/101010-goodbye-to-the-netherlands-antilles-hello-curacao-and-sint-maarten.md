@@ -1,7 +1,7 @@
 ---
 title: "10/10/10 : Goodbye to the Netherlands Antilles, Hello Curaçao and Sint Maarten"
 date: 2010-10-10T08:34:17
-slug: 101010-goodbye-to-the-netherlands-antilles-hello-curacao-and-sint-maarten
+slug: "101010-goodbye-to-the-netherlands-antilles-hello-curacao-and-sint-maarten"
 excerpt: "Today, 10/10/10 is proving popular as a day to be be married.   It is also apparently a good day for a divorce, or at east a reorganization. The Netherlands Antilles is being dissolved today.  The islands of Curaçao and Sint Maarten are becoming … Continue reading &rarr;"
 categories:
   - "Current"

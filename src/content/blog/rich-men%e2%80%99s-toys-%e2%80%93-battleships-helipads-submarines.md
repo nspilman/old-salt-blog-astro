@@ -1,7 +1,7 @@
 ---
 title: "Rich Men’s Toys – Battleships, Helipads & Submarines"
 date: 2009-10-04T07:26:46
-slug: rich-men%e2%80%99s-toys-%e2%80%93-battleships-helipads-submarines
+slug: "rich-men%e2%80%99s-toys-%e2%80%93-battleships-helipads-submarines"
 excerpt: "The mega-yachts of the Russian billionaires grow ever larger,  more elaborate, and, of course, ever more expensive. Roman Abramovich’s new yacht Eclipse will be the world’s largest yacht, at 557 feet (170 meters), eclipsing, so to speak, the 525-foot luxury yacht owned by … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Captain of MV Vantage Wave Died at Sea. Six Months Later, His Body Was Still in the Freezer"
 date: 2021-12-05T16:35:40
-slug: captain-of-mv-vantage-wave-died-at-sea-six-months-later-his-body-was-still-in-the-freezer
+slug: "captain-of-mv-vantage-wave-died-at-sea-six-months-later-his-body-was-still-in-the-freezer"
 excerpt: "On April 19, 2021, Captain Dan Sandu, 68, from Romania, master of the general cargo ship MV Vantage Wave, died at sea, apparently from cardiac arrest. The ship was on route from Paradip India to Guangzhou, China, with cargo of … Continue reading &rarr;"
 categories:
   - "Current"

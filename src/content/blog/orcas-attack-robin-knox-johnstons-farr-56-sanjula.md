@@ -1,7 +1,7 @@
 ---
 title: "Orcas Attack Robin Knox-Johnston’s Farr 56 Sanjula"
 date: 2022-11-29T17:51:17
-slug: orcas-attack-robin-knox-johnstons-farr-56-sanjula
+slug: "orcas-attack-robin-knox-johnstons-farr-56-sanjula"
 excerpt: "More news of orcas attacking sailboats in the Atlantic off the Iberian peninsula, in this case involving a sailing icon. Scuttlebutt Sailing News reports that a pod of orcas attacked Sir Robin Knox-Johnson while sailing his Farr 56 Sanjula, damaging … Continue reading &rarr;"
 categories:
   - "Current"

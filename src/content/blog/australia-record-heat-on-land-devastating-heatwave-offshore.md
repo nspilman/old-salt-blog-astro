@@ -1,7 +1,7 @@
 ---
 title: "Australia — Record Heat on Land, Devastating Heatwave Offshore"
 date: 2019-12-29T17:03:06
-slug: australia-record-heat-on-land-devastating-heatwave-offshore
+slug: "australia-record-heat-on-land-devastating-heatwave-offshore"
 excerpt: "The temperatures in Australia have been hotter than ever recorded in history. Wildfires are raging, filling the air of several cities, including Sydney, with acrid smoke.  Drought is choking a significant portion of the country. As bad as things are … Continue reading &rarr;"
 categories:
   - "Current"

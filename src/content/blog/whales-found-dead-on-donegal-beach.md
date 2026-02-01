@@ -1,7 +1,7 @@
 ---
 title: "Whales found dead on Donegal beach"
 date: 2010-11-08T08:00:00
-slug: whales-found-dead-on-donegal-beach
+slug: "whales-found-dead-on-donegal-beach"
 excerpt: "Sad news from over the weekend.   A post-mortem on the 35 dead pilot whales was cancelled Sunday due to bad weather. Whales found dead on Donegal beach … Continue reading &rarr;"
 categories:
   - "Current"

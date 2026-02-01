@@ -1,7 +1,7 @@
 ---
 title: "Whaleship Charles W. Morgan Returns Home to New Bedford"
 date: 2014-06-26T13:28:42
-slug: whaleship-charles-w-morgan-returns-home-to-new-bedford
+slug: "whaleship-charles-w-morgan-returns-home-to-new-bedford"
 excerpt: "In January 1841, the Hillman Brothers shipyard on the Acushnet River in New Bedford, MA delivered a new whaleship, the Charles W. Morgan.   Yesterday, the Charles W. Morgan, the only surviving wooden whaling ship, sailed back into New Bedford, where she was built more than 170 … Continue reading &rarr;"
 categories:
   - "Current"

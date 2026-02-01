@@ -1,7 +1,7 @@
 ---
 title: "Search Underway for Submersible Missing on Titanic Wreck Dive"
 date: 2023-06-19T17:56:13
-slug: search-underway-for-submersible-missing-on-titanic-wreck-dive
+slug: "search-underway-for-submersible-missing-on-titanic-wreck-dive"
 excerpt: "The US Coast Guard is searching for a submersible carrying five people on a dive on the wreck of the Titanic in the North Atlantic off Newfoundland. The submersible Titan, which began its dive towards the Titanic wreck site on … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Kayakers Get Between Lunge Feeding Humpback Whale & Lunch"
 date: 2020-11-06T14:52:44
-slug: kayakers-get-between-lunge-feeding-humpback-whale-lunch
+slug: "kayakers-get-between-lunge-feeding-humpback-whale-lunch"
 excerpt: "Recently, two kayakers off California inadvertently got between a lunge feeding humpback whale and its lunch. Videos of the encounter show the whale surfacing between the yellow kayak, almost appearing to swallow the kayakers and their boat. Fortunately, neither the … Continue reading &rarr;"
 categories:
   - "Current"

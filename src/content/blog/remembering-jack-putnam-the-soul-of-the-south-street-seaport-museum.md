@@ -1,7 +1,7 @@
 ---
 title: "Remembering Jack Putnam — South Street’s Seaport Melville and So Much More"
 date: 2018-09-27T09:11:17
-slug: remembering-jack-putnam-the-soul-of-the-south-street-seaport-museum
+slug: "remembering-jack-putnam-the-soul-of-the-south-street-seaport-museum"
 excerpt: "John Putnam, who preferred to be called Jack, died earlier this month at the age of 82. Jack was the historian at the South Street Seaport Museum in New York and so much more. Jack joined the museum in 1982 … Continue reading &rarr;"
 categories:
   - "Current"

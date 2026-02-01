@@ -1,7 +1,7 @@
 ---
 title: "Record Year for Ship Scrapping & ex-Exxon Valdez Heading for Scrap Yard"
 date: 2012-03-21T16:06:04
-slug: record-year-for-ship-scrapping-the-ex-exxon-valdez-heading-for-scrap-yard
+slug: "record-year-for-ship-scrapping-the-ex-exxon-valdez-heading-for-scrap-yard"
 excerpt: "The twenty eight year old bulk carrier Oriental Nicety was recently sold for scrap for $16 million.  The ship was originally a tanker and has four owners and as many names. She is best known as the Exxon Valdez, the single hull … Continue reading &rarr;"
 categories:
   - "Current"

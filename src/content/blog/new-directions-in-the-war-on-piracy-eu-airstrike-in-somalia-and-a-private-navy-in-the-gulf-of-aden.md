@@ -1,7 +1,7 @@
 ---
 title: "New Directions in the War on Piracy – EU Airstrike in Somalia and a Private Navy in the Gulf of Aden"
 date: 2012-05-16T16:35:58
-slug: new-directions-in-the-war-on-piracy-eu-airstrike-in-somalia-and-a-private-navy-in-the-gulf-of-aden
+slug: "new-directions-in-the-war-on-piracy-eu-airstrike-in-somalia-and-a-private-navy-in-the-gulf-of-aden"
 excerpt: "In March, the European Union Naval Force was authorized to attack Somali pirates in coastal waters and ashore. On Tuesday, EU naval forces and attack helicopters launched their first onshore raid on a suspected pirate supply center in Handulle village, about 18 kilometers (11 … Continue reading &rarr;"
 categories:
   - "Current"

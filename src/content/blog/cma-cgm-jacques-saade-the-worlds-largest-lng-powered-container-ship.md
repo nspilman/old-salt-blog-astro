@@ -1,7 +1,7 @@
 ---
 title: "CMA CGM Jacques Saadé, the World’s Largest LNG-Powered Container Ship"
 date: 2019-10-14T14:04:49
-slug: cma-cgm-jacques-saade-the-worlds-largest-lng-powered-container-ship
+slug: "cma-cgm-jacques-saade-the-worlds-largest-lng-powered-container-ship"
 excerpt: "Last month, China’s Shanghai Jiangnan-Changxing Shipyard launched the CMA CGM Jacques Saadé, the first in a new fleet of nine French-flagged, 23,000-TEU, LNG-powered containerships that will join the group’s fleet in 2020 on the French Asia Line. Not only will … Continue reading &rarr;"
 categories:
   - "Current"

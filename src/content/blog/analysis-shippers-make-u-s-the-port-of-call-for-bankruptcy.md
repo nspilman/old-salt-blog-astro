@@ -1,7 +1,7 @@
 ---
 title: "Analysis: Shippers Make U.S. the Port of Call for Bankruptcy"
 date: 2012-04-07T07:19:38
-slug: analysis-shippers-make-u-s-the-port-of-call-for-bankruptcy
+slug: "analysis-shippers-make-u-s-the-port-of-call-for-bankruptcy"
 excerpt: "In the mid to late 19th century, American clipper ships set the standard for the world and challenged the maritime supremacy of Great Britain.  After World War II, the US merchant marine fleet was the world’s largest, representing about 43 percent of the world’s shipping trade. … Continue reading &rarr;"
 categories:
   - "Current"

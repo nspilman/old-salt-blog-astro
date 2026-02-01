@@ -1,8 +1,8 @@
 ---
 title: "Deja Vu — Covid Outbreaks on Cruise Ships Docking in Australia, Mask & Vaccination Mandates Return"
 date: 2022-11-20T18:56:52
-slug: deja-vu-covid-outbreaks-on-cruise-ships-docking-in-australia-mask-mandates-return
-excerpt: "In the words of Yogi Berra, “It’s like deja vu all over again.” Masks and vaccination mandates are returning to the cruise industry, at least for many cruise ships calling in Australia.  In March of 2020 at the beginning of … Continue reading &rarr;"
+slug: "deja-vu-covid-outbreaks-on-cruise-ships-docking-in-australia-mask-mandates-return"
+excerpt: "In the words of Yogi Berra, \"It’s like deja vu all over again.\" Masks and vaccination mandates are returning to the cruise industry, at least for many cruise ships calling in Australia.  In March of 2020 at the beginning of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "mask mandates"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/grandprincess2.jpg"
 author: "Rick Spilman"
-description: "In the words of Yogi Berra, “It’s like deja vu all over again.” Masks and vaccination mandates are returning to the cruise industry, at least for many cruise ships calling in Australia.  In March of 2020 at the beginning of … Continue reading &rarr;"
+description: "In the words of Yogi Berra, \"It’s like deja vu all over again.\" Masks and vaccination mandates are returning to the cruise industry, at least for many cruise ships calling in Australia.  In March of 2020 at the beginning of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/grand3.jpg)In the [words of Yogi Berra](https://www.brainyquote.com/quotes/yogi_berra_135233), “It’s like deja vu all over again.” Masks and vaccination mandates are returning to the cruise industry, at least for many cruise ships calling in Australia. 

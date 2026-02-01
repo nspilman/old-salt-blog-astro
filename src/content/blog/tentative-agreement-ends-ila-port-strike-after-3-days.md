@@ -1,7 +1,7 @@
 ---
 title: "Tentative Agreement Ends ILA Port Strike After 3 Days"
 date: 2024-10-03T20:52:07
-slug: tentative-agreement-ends-ila-port-strike-after-3-days
+slug: "tentative-agreement-ends-ila-port-strike-after-3-days"
 excerpt: "The longshoremen’s strike appears to have ended with a tentative agreement on wages. This afternoon, the ILA and the USMX released a joint statement: The International Longshoremen’s Association and the United States Maritime Alliance, Ltd. have reached a tentative agreement … Continue reading &rarr;"
 categories:
   - "Current"

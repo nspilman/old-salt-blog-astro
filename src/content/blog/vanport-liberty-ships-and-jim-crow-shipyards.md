@@ -1,7 +1,7 @@
 ---
 title: "Vanport, Liberty Ships, and Jim Crow Shipyards"
 date: 2020-09-30T11:46:54
-slug: vanport-liberty-ships-and-jim-crow-shipyards
+slug: "vanport-liberty-ships-and-jim-crow-shipyards"
 excerpt: "In recent protests in Portland, the white nationalist group Proud Boys assembled on the edge of town in Delta Park, while, close by, Black Lives Matters counter-protestors gathered, on the other side of the highway, in a section of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

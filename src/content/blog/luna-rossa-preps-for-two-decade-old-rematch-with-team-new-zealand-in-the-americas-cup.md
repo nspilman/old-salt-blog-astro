@@ -1,7 +1,7 @@
 ---
 title: "Luna Rossa Preps for Two Decades Old Rematch with Team New Zealand in the America’s Cup"
 date: 2021-02-22T19:41:33
-slug: luna-rossa-preps-for-two-decade-old-rematch-with-team-new-zealand-in-the-americas-cup
+slug: "luna-rossa-preps-for-two-decade-old-rematch-with-team-new-zealand-in-the-americas-cup"
 excerpt: "This weekend, the Italian team Luna Rossa Prada Pirelli decisively won the Prada Cup Final, eliminating INEOS Team UK by 7 races to 1. Luna Rossa is now preparing for the final America’s Cup races against Emirates Team New Zealand … Continue reading &rarr;"
 categories:
   - "Current"

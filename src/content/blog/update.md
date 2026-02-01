@@ -1,7 +1,7 @@
 ---
 title: "Update: German Sailor on Drifting Yacht Dead for Only a Week"
 date: 2016-03-03T17:43:47
-slug: update
+slug: "update"
 excerpt: "Day before yesterday, we posted about the body of Manfred Fritz Bajorat, 59, a German sailor, who had been found adrift on his yacht off the Philippines. The body was a dusty grey in color and the sailor was widely … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

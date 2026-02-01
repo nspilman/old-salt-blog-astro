@@ -1,7 +1,7 @@
 ---
 title: "Hydroptère – Fastest on the Water Sets Sights Offshore"
 date: 2010-03-20T09:15:29
-slug: hydroptere-%e2%80%93-fastest-on-the-water-sets-sights-offshore
+slug: "hydroptere-%e2%80%93-fastest-on-the-water-sets-sights-offshore"
 excerpt: "l’Hydroptère, a hydrofoil trimaran, is the fastest sailing vessel on the water.   Last November, it sailed at an average speed of  50.17 knots over one nautical mile. l’Hydroptère also holds the speed record of 51.36 knots over 500 meters. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

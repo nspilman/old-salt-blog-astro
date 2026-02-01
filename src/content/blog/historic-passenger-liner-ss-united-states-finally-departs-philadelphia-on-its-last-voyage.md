@@ -1,7 +1,7 @@
 ---
 title: "Historic Passenger Liner SS United States Finally Departs Philadelphia on Its Last Voyage"
 date: 2025-02-19T20:43:15
-slug: historic-passenger-liner-ss-united-states-finally-departs-philadelphia-on-its-last-voyage
+slug: "historic-passenger-liner-ss-united-states-finally-departs-philadelphia-on-its-last-voyage"
 excerpt: "[tribulant_slideshow gallery_id=8]    SS United States, the largest and fastest transatlantic passenger liner ever built in America, was towed this morning from the dock in Philadelphia where it has been moored for nearly three decades, on the first leg of … Continue reading &rarr;"
 categories:
   - "Current"

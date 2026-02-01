@@ -1,7 +1,7 @@
 ---
 title: "Four Groups Vie for the USS Olympia"
 date: 2011-05-27T07:36:07
-slug: four-groups-vie-for-uss-olympia-custody
+slug: "four-groups-vie-for-uss-olympia-custody"
 excerpt: "Back in February of last year, the Independence Seaport Museum announced that it could no longer afford to care for USS Olympia, the flagship of Commodore George Dewey at the Battle of Manila Bay during the Spanish-American War in 1898.  There was … Continue reading &rarr;"
 categories:
   - "Current"

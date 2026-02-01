@@ -1,7 +1,7 @@
 ---
 title: "On 100th Anniversary of Shackleton’s Death, Two Memorial Expeditions in His Honor"
 date: 2022-01-06T17:48:36
-slug: on-100th-anniversary-of-shackletons-death-two-memorial-expeditions-in-his-honor
+slug: "on-100th-anniversary-of-shackletons-death-two-memorial-expeditions-in-his-honor"
 excerpt: "Sir Ernest Shackleton died 100 years ago yesterday, on January 5, 1922, of a heart attack on South Georgia on an expedition to map the still uncharted coastal regions of Antarctica. He was only 47 when he died. Now, two … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
-title: "A Bit of Perspective: Slocum Glider, a Small Research Drone, not a “Naval Vessel”"
+title: "A Bit of Perspective: Slocum Glider, a Small Research Drone, not a \"Naval Vessel\""
 date: 2016-12-17T15:39:08
-slug: bit-perspective-slocum-glider-small-research-drone-not-naval-vessel
+slug: "bit-perspective-slocum-glider-small-research-drone-not-naval-vessel"
 excerpt: "As we posted yesterday, a Chinese naval vessel seized one of USNS Bowditch’s drone gliders.  Today there are news reports that the Chinese are giving it back.  Unfortunately, in the interim, several news outlets either misinterpreted what transpired, or, at the very least, led with headlines … Continue reading &rarr;"
 categories:
   - "Current"

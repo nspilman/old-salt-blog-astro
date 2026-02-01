@@ -1,7 +1,7 @@
 ---
 title: "High-Seas Repo Man Max Hardberger Interviewed In Time Magazine"
 date: 2010-07-04T12:22:49
-slug: high-seas-repo-man-max-hardberger-interviewed-in-time-magazine
+slug: "high-seas-repo-man-max-hardberger-interviewed-in-time-magazine"
 excerpt: "We recently reviewed Max Hardberger’s new book, Seized,  A Sea Captains Adventures – Battling Scoundrels and Pirates while Recovering Stolen Ships in the World’s Most Troubled Waters.  This week , he was interviewed in Time Magazine: High Seas Repo- Man Max … Continue reading &rarr;"
 categories:
   - "Current"

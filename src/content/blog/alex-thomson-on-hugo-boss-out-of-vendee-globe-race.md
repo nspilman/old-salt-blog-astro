@@ -1,7 +1,7 @@
 ---
 title: "Alex Thomson on Hugo Boss Out of Vendee Globe Race"
 date: 2020-11-29T10:14:35
-slug: alex-thomson-on-hugo-boss-out-of-vendee-globe-race
+slug: "alex-thomson-on-hugo-boss-out-of-vendee-globe-race"
 excerpt: "After leading the fleet in the early days of the race, Alex Thomson, sailing on the IMCO 60 Hugo Boss, has withdrawn from the Vendee Globe single-handed around the world race.  Thomson has diverted to Cape Town, South Africa after … Continue reading &rarr;"
 categories:
   - "Current"

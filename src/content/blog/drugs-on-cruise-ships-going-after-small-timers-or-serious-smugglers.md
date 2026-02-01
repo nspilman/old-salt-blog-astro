@@ -1,14 +1,14 @@
 ---
 title: "Drugs on Cruise Ships?  Going after Small Timers or Serious Smugglers ?"
 date: 2011-01-11T20:50:36
-slug: drugs-on-cruise-ships-going-after-small-timers-or-serious-smugglers
-excerpt: "Two news stories recently on drugs aboard cruise ships suggest two very different types of drug problems.   U.S. Customs and Border Protection raided the MSC Poesia, on Jan. 4, prior to the ship departing on a “Jam Cruise” a floating music festival  featuring … Continue reading &rarr;"
+slug: "drugs-on-cruise-ships-going-after-small-timers-or-serious-smugglers"
+excerpt: "Two news stories recently on drugs aboard cruise ships suggest two very different types of drug problems.   U.S. Customs and Border Protection raided the MSC Poesia, on Jan. 4, prior to the ship departing on a \"Jam Cruise\" a floating music festival  featuring … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 author: "Rick Spilman"
-description: "Two news stories recently on drugs aboard cruise ships suggest two very different types of drug problems.   U.S. Customs and Border Protection raided the MSC Poesia, on Jan. 4, prior to the ship departing on a “Jam Cruise” a floating music festival  featuring … Continue reading &rarr;"
+description: "Two news stories recently on drugs aboard cruise ships suggest two very different types of drug problems.   U.S. Customs and Border Protection raided the MSC Poesia, on Jan. 4, prior to the ship departing on a \"Jam Cruise\" a floating music festival  featuring … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/enchantment.jpg)

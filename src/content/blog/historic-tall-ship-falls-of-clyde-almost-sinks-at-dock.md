@@ -1,7 +1,7 @@
 ---
 title: "Historic Tall Ship Falls of Clyde Almost Sinks at Dock"
 date: 2019-02-01T09:07:34
-slug: historic-tall-ship-falls-of-clyde-almost-sinks-at-dock
+slug: "historic-tall-ship-falls-of-clyde-almost-sinks-at-dock"
 excerpt: "More bad news for the Falls of Clyde. The 1878 built windjammer, the last surviving iron-hulled, four-masted full-rigged ship, recently came close to sinking at the dock in Honolulu, Hawaii. On Thursday, the ship began taking on water by the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Has Amelia Earhart’s Long-Lost Plane Been Found in the Pacific?"
 date: 2024-02-09T20:14:00
-slug: has-amelia-earharts-long-lost-plane-been-found-in-the-pacific
+slug: "has-amelia-earharts-long-lost-plane-been-found-in-the-pacific"
 excerpt: "In 1937, Amelia Earhart and her navigator Fred Noonan set off on a quest to circumnavigate the globe. Having completed most of their journey, Earhart’s plane disappeared over the central Pacific Ocean near Howland Island. In the intervening 87 years, … Continue reading &rarr;"
 categories:
   - "Current"

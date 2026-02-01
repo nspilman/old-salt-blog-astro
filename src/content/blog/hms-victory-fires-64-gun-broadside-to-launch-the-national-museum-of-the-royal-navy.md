@@ -1,7 +1,7 @@
 ---
 title: "HMS Victory Fires 64 Gun Broadside to Launch the National Museum of the Royal Navy"
 date: 2009-09-22T14:34:35
-slug: hms-victory-fires-64-gun-broadside-to-launch-the-national-museum-of-the-royal-navy
+slug: "hms-victory-fires-64-gun-broadside-to-launch-the-national-museum-of-the-royal-navy"
 excerpt: "Last Friday the HMS Victory fired a 64 gun rolling broadside to to help launch the National Museum of the Royal Navy.   (While the broadside was impressively load and smoky, the amount of gunpowder used for the symbolic broadside was reported to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

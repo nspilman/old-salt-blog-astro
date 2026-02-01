@@ -1,7 +1,7 @@
 ---
 title: "Tens of Thousands of Crew Still Stranded As Cruise Lines Plan Reopening"
 date: 2020-05-11T13:52:17
-slug: tens-of-thousands-fo-crew-still-stranded-as-cruise-lines-plan-reopening
+slug: "tens-of-thousands-fo-crew-still-stranded-as-cruise-lines-plan-reopening"
 excerpt: "The major cruise lines have announced plans to restart at least some of their cruise operations in upcoming months, while tens of thousands of crew are still stranded aboard cruise ships. Carnival, the world’s largest cruise line, has announced cruises … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

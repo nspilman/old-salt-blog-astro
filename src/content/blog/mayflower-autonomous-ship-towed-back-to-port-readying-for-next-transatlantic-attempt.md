@@ -1,7 +1,7 @@
 ---
 title: "Mayflower Autonomous Ship Towed Back to Port, Readying For Next Transatlantic Attempt"
 date: 2021-06-26T10:37:00
-slug: mayflower-autonomous-ship-towed-back-to-port-readying-for-next-transatlantic-attempt
+slug: "mayflower-autonomous-ship-towed-back-to-port-readying-for-next-transatlantic-attempt"
 excerpt: "In September 2020, we posted about the unveiling of an autonomous craft named Mayflower, after the Pilgrim’s ship of 1620. The post title posed the question, Autonomous Mayflower, Technological Breakthrough or Hazard to Navigation? Now that the 49-foot long trimaran … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,15 +1,15 @@
 ---
 title: "The Bloop and the Sea Serpent"
 date: 2009-09-22T07:58:22
-slug: the-bloop-and-the-sea-serpent
-excerpt: "Last month we posted about The Great Gloucester Sea Serpent of 1817.    Eric, a blog reader, commented, no doubt tongue in cheek, “So that is what the bloop was.”  His comment got me thinking about the ironies of observations, technology and … Continue reading &rarr;"
+slug: "the-bloop-and-the-sea-serpent"
+excerpt: "Last month we posted about The Great Gloucester Sea Serpent of 1817.    Eric, a blog reader, commented, no doubt tongue in cheek, \"So that is what the bloop was.\"  His comment got me thinking about the ironies of observations, technology and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
   - "bloop"
   - "U.S. National Oceanic and Atmospheric Administration"
 author: "Rick Spilman"
-description: "Last month we posted about The Great Gloucester Sea Serpent of 1817.    Eric, a blog reader, commented, no doubt tongue in cheek, “So that is what the bloop was.”  His comment got me thinking about the ironies of observations, technology and … Continue reading &rarr;"
+description: "Last month we posted about The Great Gloucester Sea Serpent of 1817.    Eric, a blog reader, commented, no doubt tongue in cheek, \"So that is what the bloop was.\"  His comment got me thinking about the ironies of observations, technology and … Continue reading &rarr;"
 ---
 
 ![monster](http://www.oldsaltblog.com/wp-content/uploads/2009/09/monster.jpg)Last month we posted about [The Great Gloucester Sea Serpent of 1817](http://www.oldsaltblog.com/2009/08/19/the-great-gloucester-sea-serpent-of-1817/).    Eric, a blog reader, commented, no doubt tongue in cheek, “So that is what the bloop was.”  His comment got me thinking about the ironies of observations, technology and the unknown.

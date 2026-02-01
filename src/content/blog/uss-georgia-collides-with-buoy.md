@@ -1,7 +1,7 @@
 ---
 title: "Almost Home, USS Georgia Collides With Buoy"
 date: 2015-12-18T21:15:52
-slug: uss-georgia-collides-with-buoy
+slug: "uss-georgia-collides-with-buoy"
 excerpt: "The nuclear submarine USS Georgia is now in drydock at the Naval Submarine Base Kings Bay.  The Georgia was returning after a long international deployment when it ran into buoy No. 23, located at the entrance to the channel leading to the boat’s … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Kick ’em Jenny Kicking Up Again"
 date: 2018-03-15T10:10:13
-slug: kick-em-jenny-kicking-up-again
+slug: "kick-em-jenny-kicking-up-again"
 excerpt: "My favorite underwater volcano is getting frisky again. Kick’em Jenny, is located off the northern coast of Grenada, in the Lesser Antilles. It rises almost a mile from the ocean floor and is roughly 600 feet below the surface. Recently, the government of … Continue reading &rarr;"
 categories:
   - "Current"

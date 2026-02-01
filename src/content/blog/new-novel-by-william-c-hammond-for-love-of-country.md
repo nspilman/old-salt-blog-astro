@@ -1,7 +1,7 @@
 ---
 title: "New Novel by William C. Hammond – For Love of Country"
 date: 2010-11-08T08:47:06
-slug: new-novel-by-william-c-hammond-for-love-of-country
+slug: "new-novel-by-william-c-hammond-for-love-of-country"
 excerpt: "William Hammond’s new novel, For Love of Country, was released in October.  Set in the early 1780s in the years following the American Revolution, the novel follows the adventures of the seafaring Cutler family of Hingham, Massachusetts, and the supporting … Continue reading &rarr;"
 categories:
   - "Newbooks"

@@ -1,8 +1,8 @@
 ---
 title: "Report: Poor Training Caused SV Concordia Sinking"
 date: 2011-09-29T14:12:47
-slug: report-poor-training-caused-sv-concordia-sinking
-excerpt: "In February 2010, the sail training ship Concordia sank off the coast of Brazil.  At the time, the captain said that the ship was hit by a “microburst,” also known as a white squall, a violet storm which struck the … Continue reading &rarr;"
+slug: "report-poor-training-caused-sv-concordia-sinking"
+excerpt: "In February 2010, the sail training ship Concordia sank off the coast of Brazil.  At the time, the captain said that the ship was hit by a \"microburst,\" also known as a white squall, a violet storm which struck the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "training"
   - "Transportation Safety Board of Canada"
 author: "Rick Spilman"
-description: "In February 2010, the sail training ship Concordia sank off the coast of Brazil.  At the time, the captain said that the ship was hit by a “microburst,” also known as a white squall, a violet storm which struck the … Continue reading &rarr;"
+description: "In February 2010, the sail training ship Concordia sank off the coast of Brazil.  At the time, the captain said that the ship was hit by a \"microburst,\" also known as a white squall, a violet storm which struck the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/Concordia3-1.jpg)In February 2010, the [sail training ship Concordia sank off the coast of Brazil](http://www.oldsaltblog.com/2010/02/19/%E2%80%9Cclass-afloat%E2%80%9D-school-ship-concordia-sinks-off-brazil/).  At the time, the captain said that the ship was hit by a [“microburst,” also known as a white squall](http://www.oldsaltblog.com/2010/02/21/update-captain-reports-that-microburst-sank-sv-concordia/), a violet storm which struck the ship so rapidily that there was no time to react.  A report issued today by the Transportation Safety Board of Canada, however, blamed human error caused by poor training for the capsize and sinking of the ship.

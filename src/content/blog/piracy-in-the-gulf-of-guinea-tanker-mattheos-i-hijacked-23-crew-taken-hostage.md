@@ -1,7 +1,7 @@
 ---
 title: "Piracy in the Gulf of Guinea – Tanker Mattheos I Hijacked, 23 Crew Taken Hostage"
 date: 2011-09-17T10:48:44
-slug: piracy-in-the-gulf-of-guinea-tanker-mattheos-i-hijacked-23-crew-taken-hostage
+slug: "piracy-in-the-gulf-of-guinea-tanker-mattheos-i-hijacked-23-crew-taken-hostage"
 excerpt: "Earlier this week the 45,000 DWT tanker, Mattheos I, with a crew of 23, was hijacked off Benin in the Gulf of Guinea.  According to the IMB Piracy Center, this year there have been 19 pirate attacks on ships in the Gulf of Guinea … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

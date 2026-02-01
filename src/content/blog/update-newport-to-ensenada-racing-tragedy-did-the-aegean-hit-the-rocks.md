@@ -1,7 +1,7 @@
 ---
 title: "Update: Newport-to-Ensenada Racing Tragedy – Did the Aegean Hit the Rocks?"
 date: 2012-05-02T07:58:10
-slug: update-newport-to-ensenada-racing-tragedy-did-the-aegean-hit-the-rocks
+slug: "update-newport-to-ensenada-racing-tragedy-did-the-aegean-hit-the-rocks"
 excerpt: "Initial speculation included an explosion and then a collision with a larger vessel.  Now an online GPS tracking system, SPOT, shows the yacht running onto the rocks on a far end of North Coronado Island at 1:36 a.m. Saturday.  The Coronado Islands are about … Continue reading &rarr;"
 categories:
   - "Current"

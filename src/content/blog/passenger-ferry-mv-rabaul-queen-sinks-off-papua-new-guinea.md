@@ -1,7 +1,7 @@
 ---
 title: "Passenger Ferry, MV Rabaul Queen, Sinks Off Papua New Guinea"
 date: 2012-02-02T09:56:30
-slug: passenger-ferry-mv-rabaul-queen-sinks-off-papua-new-guinea
+slug: "passenger-ferry-mv-rabaul-queen-sinks-off-papua-new-guinea"
 excerpt: "Between 5 and 6 AM Thursday morning, the passenger ferry, MV Rabaul Queen, capsized about 10 miles off Finschhafen on the northern coast of Papua New Guinea.  The ferry had a capacity for 300 people, but as many as 350 people are believed to have … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

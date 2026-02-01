@@ -1,18 +1,18 @@
 ---
-title: "Harold ‘Dynamite’ Payson – Boatbuilder, Writer, Father of “Instant Boats”"
+title: "Harold ‘Dynamite’ Payson – Boatbuilder, Writer, Father of \"Instant Boats\""
 date: 2011-03-26T13:46:53
-slug: harold-dynamite-payson-boatbuilder-writer-father-of-instant-boats
-excerpt: "Harold ‘Dynamite’ Payson died suddenly of an an aneurysm at his home in Maine on March 23rd. He was 82. His message was simple.  As expressed in his books and on his webpage,” Harold H. Payson … known to associates, friends, and his … Continue reading &rarr;"
+slug: "harold-dynamite-payson-boatbuilder-writer-father-of-instant-boats"
+excerpt: "Harold ‘Dynamite’ Payson died suddenly of an an aneurysm at his home in Maine on March 23rd. He was 82. His message was simple.  As expressed in his books and on his webpage,\" Harold H. Payson … known to associates, friends, and his … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - "Father of "Instant Boats""
+  - "Father of \"Instant Boats\""
   - "Harold 'Dynamite' Payson - Boatbuilder"
   - "Phil Bolger"
   - "writer"
 author: "Rick Spilman"
-description: "Harold ‘Dynamite’ Payson died suddenly of an an aneurysm at his home in Maine on March 23rd. He was 82. His message was simple.  As expressed in his books and on his webpage,” Harold H. Payson … known to associates, friends, and his … Continue reading &rarr;"
+description: "Harold ‘Dynamite’ Payson died suddenly of an an aneurysm at his home in Maine on March 23rd. He was 82. His message was simple.  As expressed in his books and on his webpage,\" Harold H. Payson … known to associates, friends, and his … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/855153.jpg)Harold ‘Dynamite’ Payson died suddenly of an an aneurysm at his home in Maine on March 23rd. He was 82.

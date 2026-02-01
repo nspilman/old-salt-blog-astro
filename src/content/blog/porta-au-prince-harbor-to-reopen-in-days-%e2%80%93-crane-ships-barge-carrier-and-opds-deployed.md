@@ -1,7 +1,7 @@
 ---
 title: "Porta-au-Prince Harbor to Reopen in Days – Crane Ships, Barge Carrier and OPDS Deployed"
 date: 2010-01-19T09:49:15
-slug: porta-au-prince-harbor-to-reopen-in-days-%e2%80%93-crane-ships-barge-carrier-and-opds-deployed
+slug: "porta-au-prince-harbor-to-reopen-in-days-%e2%80%93-crane-ships-barge-carrier-and-opds-deployed"
 excerpt: "The US military hopes to have the port of Port-au-Prince open for shipments of emergency relief supplies in two or three days. Damaged Haiti port to open in 2-3 days: U.S. commander In related news, the Maritime Administration has ordered … Continue reading &rarr;"
 categories:
   - "Current"

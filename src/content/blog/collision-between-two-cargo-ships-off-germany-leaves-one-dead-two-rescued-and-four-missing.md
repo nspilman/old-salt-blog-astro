@@ -1,7 +1,7 @@
 ---
 title: "Collision Between Two Cargo Ships Off Germany Leaves One Dead, Two Rescued and Four Missing"
 date: 2023-10-24T09:55:33
-slug: collision-between-two-cargo-ships-off-germany-leaves-one-dead-two-rescued-and-four-missing
+slug: "collision-between-two-cargo-ships-off-germany-leaves-one-dead-two-rescued-and-four-missing"
 excerpt: "Around 5 am about 14 miles southwest of the island of Heligoland, Germany, the British bulk carrier Verity sank after colliding with the Bahamian-flagged bulk carrier Polesie. Of the Verity‘s crew of seven, two were rescued, one has died and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

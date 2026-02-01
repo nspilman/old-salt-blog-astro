@@ -1,7 +1,7 @@
 ---
 title: "Beery McTallShipFace? Nah — Beer Naming Contest Supporting Sunderland Tall Ships Festival"
 date: 2017-10-03T17:39:21
-slug: beery-mctallshipface-nah-beer-naming-contest-supporting-sunderland-tall-ships-festival
+slug: "beery-mctallshipface-nah-beer-naming-contest-supporting-sunderland-tall-ships-festival"
 excerpt: "Next year, the UK port of Sunderland will be hosting 80 tall ships at the start of the Tall Ships Races 2018. To support the festivities, Maxim Brewery will be brewing a special nautical themed porter. But what to call … Continue reading &rarr;"
 categories:
   - "Current"

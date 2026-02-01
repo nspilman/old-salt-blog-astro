@@ -1,7 +1,7 @@
 ---
 title: "Black History Month — William Tillman and the Privateer Jefferson Davis"
 date: 2017-02-16T09:45:34
-slug: black-history-month-william-tillman-privateer-jefferson-davis
+slug: "black-history-month-william-tillman-privateer-jefferson-davis"
 excerpt: "A post in honor of Black History Month. On Throwback Thursday, a slightly revised post from July, 2011.  William Tillman was the first black hero of the American Civil War. He was not a soldier but rather a 27-year-old  cook-steward … Continue reading &rarr;"
 categories:
   - "History"

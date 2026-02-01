@@ -1,7 +1,7 @@
 ---
 title: "Statia, the First Salute, the Fourth Anglo-Dutch War & Admiral Rodney"
 date: 2013-11-16T12:35:35
-slug: statia-the-first-salute-the-fourth-anglo-dutch-war-admiral-rodney
+slug: "statia-the-first-salute-the-fourth-anglo-dutch-war-admiral-rodney"
 excerpt: "On this day in 1776, Governor Johannes de Graaff of St. Eustatius returned the salute fired by the American brig Andrew Doria, which is considered to be the first international acknowledgment of the independence of the new republic of the United … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Coming Home to USCG Cutter Lilac — A Voice Tube, the Wheel and the Builder’s Plate"
 date: 2015-05-25T10:27:28
-slug: coming-home-to-uscg-cutter-lilac-a-voice-tube-the-wheel-and-the-builders-plate
+slug: "coming-home-to-uscg-cutter-lilac-a-voice-tube-the-wheel-and-the-builders-plate"
 excerpt: "Sometimes restoring a historic ship involves starting at the keel and working up, or the deck and working down.  And sometimes it involves rediscovering the ship one piece at a time.  That was the case this year when three missing … Continue reading &rarr;"
 categories:
   - "Current"

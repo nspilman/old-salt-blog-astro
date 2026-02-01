@@ -1,7 +1,7 @@
 ---
 title: "Repairing Sextants in the Age of GPS"
 date: 2017-05-22T09:15:26
-slug: repairing-sextants-age-gps
+slug: "repairing-sextants-age-gps"
 excerpt: "I first arrived in New York harbor forty years ago, as a freshly minted naval architect working for Moore McCormack. In those days, the Brooklyn docks were crowded with US flag shipping companies, many with their headquarters or sales offices in … Continue reading &rarr;"
 categories:
   - "Current"

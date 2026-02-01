@@ -1,7 +1,7 @@
 ---
 title: "Fire on Iranian Tanker Sanchi Risks Major Oil Spill"
 date: 2018-01-08T13:32:02
-slug: fire-iranian-tanker-sanchi-risks-major-oil-spill
+slug: "fire-iranian-tanker-sanchi-risks-major-oil-spill"
 excerpt: "Response teams are struggling to bring a fire aboard the Iranian Suezmax tanker Sanchi under control following a collision on Saturday night with the Chinese bulk carrier CF Crystal.  The body of one crew member from the tanker has been … Continue reading &rarr;"
 categories:
   - "Current"

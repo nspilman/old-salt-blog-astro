@@ -1,7 +1,7 @@
 ---
 title: "Slavery at sea ? Abuse of Sailors on New Zealand Chartered Fishing Vessles"
 date: 2011-04-06T08:49:13
-slug: slavery-at-sea-abuse-of-sailors-on-new-zealand-chartered-fishing-vessles
+slug: "slavery-at-sea-abuse-of-sailors-on-new-zealand-chartered-fishing-vessles"
 excerpt: "A disturbing report from New Zealand on abusive conditions for  seamen  aboard  chartered  fishing vessels in New Zealand waters. Slavery at sea exposed Alerted to terrible conditions on foreign fishing vessels after nearly 30 people lost their lives, Michael Field began asking questions. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "World’s Largest Iceberg, A23a, Eroding & Melting Rapidly as it Drifts into Warmer Water"
 date: 2024-01-22T18:14:45
-slug: worlds-largest-iceberg-a23a-eroding-melting-rapidly-as-it-drifts-into-warmer-water
+slug: "worlds-largest-iceberg-a23a-eroding-melting-rapidly-as-it-drifts-into-warmer-water"
 excerpt: "In 1986, a massive iceberg, more than three times larger than New York City, calved off West Antarctica’s Filchner-Ronne Ice Shelf and immediately grounded on the floor of the Weddell Sea, where it remained stuck for almost four decades. In … Continue reading &rarr;"
 categories:
   - "Current"

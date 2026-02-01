@@ -1,7 +1,7 @@
 ---
 title: "Giant Squid, Cocaine & the Footballer"
 date: 2017-03-28T09:49:45
-slug: giant-squid-cocaine-footballer
+slug: "giant-squid-cocaine-footballer"
 excerpt: "Last week, Peruvian customs officials, in the port of Callo, found more than a tonne of cocaine in three shipping containers packed with filets of giant squid about to be loaded on board a ship bound for Belgium. The cocaine … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

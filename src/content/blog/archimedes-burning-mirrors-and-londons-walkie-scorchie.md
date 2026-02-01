@@ -1,12 +1,12 @@
 ---
-title: "Archimedes “Burning Mirrors” and London’s “Walkie Scorchie”"
+title: "Archimedes \"Burning Mirrors\" and London’s \"Walkie Scorchie\""
 date: 2014-01-11T09:02:51
-slug: archimedes-burning-mirrors-and-londons-walkie-scorchie
-excerpt: "One of the great stories from ancient history is of Archimedes setting fire to Roman ships during the Siege of Syracuse, 214–212 BC, by using “burning mirrors”, mirrors that focused the rays of the sun and generated enough heat to set the … Continue reading &rarr;"
+slug: "archimedes-burning-mirrors-and-londons-walkie-scorchie"
+excerpt: "One of the great stories from ancient history is of Archimedes setting fire to Roman ships during the Siege of Syracuse, 214–212 BC, by using \"burning mirrors\", mirrors that focused the rays of the sun and generated enough heat to set the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "One of the great stories from ancient history is of Archimedes setting fire to Roman ships during the Siege of Syracuse, 214–212 BC, by using “burning mirrors”, mirrors that focused the rays of the sun and generated enough heat to set the … Continue reading &rarr;"
+description: "One of the great stories from ancient history is of Archimedes setting fire to Roman ships during the Siege of Syracuse, 214–212 BC, by using \"burning mirrors\", mirrors that focused the rays of the sun and generated enough heat to set the … Continue reading &rarr;"
 ---
 
 ![burningmirror](http://www.oldsaltblog.com/wp-content/uploads/2014/01/burningmirror.jpg)One of the great stories from ancient history is of [Archimedes](http://en.wikipedia.org/wiki/Archimedes) setting fire to Roman ships during the [Siege of Syracuse](http://en.wikipedia.org/wiki/Siege_of_Syracuse_\(214%E2%80%93212_BC\)), 214–212 BC, by using “burning mirrors”, mirrors that focused the rays of the sun and generated enough heat to set the attacking ships on fire.  There is considerable debate to this day whether the “burning mirrors” were possible or simply historical folklore. Archimedes “burning mirrors” came to my mind recently when reading about an office tower under construction in London which has been accidentally melting cars, frying eggs and starting fires in a manner that sounds remarkably like Archimedes “burning mirror” death ray.

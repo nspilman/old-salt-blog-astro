@@ -1,8 +1,8 @@
 ---
 title: "Dr. Wubbo Ockels on the Sinking of his Sailyacht Ecolution"
 date: 2010-12-07T11:04:36
-slug: dr-wubbo-ockels-on-the-sinking-of-his-sailyacht-ecolution
-excerpt: "Dr. Wubbo Ockles describing what he refers to as a “professional attack on the ship and maybe to me… as an attack on sustainability.” Dr. Wubbo Ockels on the Sinking of his Sailyacht Ecolution … Continue reading &rarr;"
+slug: "dr-wubbo-ockels-on-the-sinking-of-his-sailyacht-ecolution"
+excerpt: "Dr. Wubbo Ockles describing what he refers to as a \"professional attack on the ship and maybe to me… as an attack on sustainability.\" Dr. Wubbo Ockels on the Sinking of his Sailyacht Ecolution … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Ecolution"
   - "Wubbo Ockles"
 author: "Rick Spilman"
-description: "Dr. Wubbo Ockles describing what he refers to as a “professional attack on the ship and maybe to me… as an attack on sustainability.” Dr. Wubbo Ockels on the Sinking of his Sailyacht Ecolution … Continue reading &rarr;"
+description: "Dr. Wubbo Ockles describing what he refers to as a \"professional attack on the ship and maybe to me… as an attack on sustainability.\" Dr. Wubbo Ockels on the Sinking of his Sailyacht Ecolution … Continue reading &rarr;"
 ---
 
 Dr. Wubbo Ockles describing what he refers to as a “professional attack on the ship and maybe to me… as an attack on sustainability.”

@@ -1,7 +1,7 @@
 ---
 title: "Retired Passenger Liner SS United States Threatened by Eviction From Philadelphia Pier"
 date: 2023-06-13T14:53:45
-slug: retired-passenger-liner-ss-united-states-threatened-by-eviction-from-philadelphia-pier
+slug: "retired-passenger-liner-ss-united-states-threatened-by-eviction-from-philadelphia-pier"
 excerpt: "The SS United States, the largest and fastest transatlantic passenger liner ever built in America, has spent the last 27 years moored at Philadephia’s Pier 82 on the Delaware River. The venerable ship is now threatened with eviction.  Yahoo reports … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

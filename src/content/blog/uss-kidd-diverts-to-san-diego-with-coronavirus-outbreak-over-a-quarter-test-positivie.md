@@ -1,7 +1,7 @@
 ---
 title: "USS Kidd Diverts to San Diego with Coronavirus Outbreak, Over A Quarter Test Positive"
 date: 2020-04-29T14:20:17
-slug: uss-kidd-diverts-to-san-diego-with-coronavirus-outbreak-over-a-quarter-test-positivie
+slug: "uss-kidd-diverts-to-san-diego-with-coronavirus-outbreak-over-a-quarter-test-positivie"
 excerpt: "USS Kidd, an Arleigh Burke-class destroyer, was diverted to San Diego following a shipboard outbreak of the coronavirus. The ship had been deployed off South America on an anti-drug-trafficking mission when the outbreak occurred. So far, 64 of the crew … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

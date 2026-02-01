@@ -1,7 +1,7 @@
 ---
 title: "500 Seafarers held hostage by pirates at Christmas"
 date: 2010-12-24T08:58:05
-slug: 500-seafarers-held-hostage-by-pirates-at-christmas
+slug: "500-seafarers-held-hostage-by-pirates-at-christmas"
 excerpt: "The real victims of piracy are invariably the seafarers who are held for ransom often under grim conditions for long periods of time.  From a statement relased by the Round Table of international shipping associations – and the International Transport … Continue reading &rarr;"
 categories:
   - "Current"

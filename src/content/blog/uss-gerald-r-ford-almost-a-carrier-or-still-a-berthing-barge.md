@@ -1,7 +1,7 @@
 ---
 title: "USS Gerald R. Ford — Almost a Carrier or Still a Berthing Barge?"
 date: 2020-06-16T16:30:33
-slug: uss-gerald-r-ford-almost-a-carrier-or-still-a-berthing-barge
+slug: "uss-gerald-r-ford-almost-a-carrier-or-still-a-berthing-barge"
 excerpt: "The $13 billion dollar aircraft carrier USS Gerald R. Ford  is the most expensive warship the world has ever seen. Commissioned in 2017, the ship is still not ready for deployment.  Is the Ford almost ready for combat service or … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

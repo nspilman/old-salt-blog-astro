@@ -1,7 +1,7 @@
 ---
 title: "Piracy, Packet Ships and the Erie Canal — Why New York is the Center of US Publishing"
 date: 2015-05-28T15:26:26
-slug: piracy-packet-ships-and-the-erie-canal-why-new-york-is-the-center-of-us-publishing
+slug: "piracy-packet-ships-and-the-erie-canal-why-new-york-is-the-center-of-us-publishing"
 excerpt: "This week, Book Expo America and Book-Con, collectively among of the largest book publishing events in the world, are being held in New York City, on the Hudson River in the Javit’s Center. (My novel, The Shantyman, is one of seemingly countless books … Continue reading &rarr;"
 categories:
   - "City of Ships"

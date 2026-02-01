@@ -1,7 +1,7 @@
 ---
 title: "A New Home in Red Hook, Brooklyn for the SS United States?"
 date: 2015-10-30T09:04:44
-slug: a-new-home-in-red-hook-brooklyn-for-the-ss-united-states
+slug: "a-new-home-in-red-hook-brooklyn-for-the-ss-united-states"
 excerpt: "In early October, the headline in the Philadephia Inquirer was Is the S.S. United States headed toward the scrap yard?. After years of attempting to save the iconic cruise ship, the SS United States Conservancy announced that the SS United States, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "USCG Barque Eagle Bound for Baltimore Overhaul?"
 date: 2013-03-20T16:05:41
-slug: uscg-barque-eagle-bound-for-baltimore-overhaul
+slug: "uscg-barque-eagle-bound-for-baltimore-overhaul"
 excerpt: "Interesting news about the US Coast Guard training ship, the barque Eagle. As reported by The Day, The Coast Guard barque Eagle may go to Baltimore for extensive repairs so future officers can keep training on the ship for years … Continue reading &rarr;"
 categories:
   - "Current"

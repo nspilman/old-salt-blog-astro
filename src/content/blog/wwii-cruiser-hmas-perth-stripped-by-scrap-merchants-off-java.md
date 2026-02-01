@@ -1,7 +1,7 @@
 ---
 title: "WWII Cruiser HMAS Perth Stripped by Scrap Merchants off Java"
 date: 2013-12-18T17:59:22
-slug: wwii-cruiser-hmas-perth-stripped-by-scrap-merchants-off-java
+slug: "wwii-cruiser-hmas-perth-stripped-by-scrap-merchants-off-java"
 excerpt: "Recently there has been disturbing news that the wreck of HMAS Perth is being stripped by scrap merchants in the sea off Java. In February 1942, the Leander class cruiser HMAS Perth was sunk by Japanese torpedoes in the Battle … Continue reading &rarr;"
 categories:
   - "Current"

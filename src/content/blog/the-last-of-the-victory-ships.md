@@ -1,7 +1,7 @@
 ---
 title: "The Last of the Victory Ships"
 date: 2010-04-18T21:06:35
-slug: the-last-of-the-victory-ships
+slug: "the-last-of-the-victory-ships"
 excerpt: "The last four Victory ships owned by the government are on their way toward the scrapyard.    The Maritime Blog recently post somegreat photos of the Pan American Victory, as she transited the Panama Canal not too long ago. She … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Scuttling of the MSC Chitra"
 date: 2011-04-27T16:09:34
-slug: the-scuttling-of-the-msc-chitra
+slug: "the-scuttling-of-the-msc-chitra"
 excerpt: "Last August, we posted about the collision of the containership MSC Chitra and the bulk carrier Khalijia 3 which resulting in the sinking of the Chitra with a significant oil spill, a loss of cargo containers and the blockage of the port of Mumbai for five … Continue reading &rarr;"
 categories:
   - "Current"

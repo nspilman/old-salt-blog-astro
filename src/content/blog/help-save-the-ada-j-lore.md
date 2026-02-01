@@ -1,7 +1,7 @@
 ---
 title: "Help Save the Ada C. Lore"
 date: 2015-11-21T15:31:41
-slug: help-save-the-ada-j-lore
+slug: "help-save-the-ada-j-lore"
 excerpt: "Last year we posted about a very bad night for the schooner, Ada C. Lore. In the early morning hours of December 4, 2014, the Eastport, Maine breakwater pier where she was berthed suddenly collapsed onto the Ada C. Lore, doing … Continue reading &rarr;"
 categories:
   - "Current"

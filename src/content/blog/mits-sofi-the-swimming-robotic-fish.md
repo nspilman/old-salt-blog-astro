@@ -1,8 +1,8 @@
 ---
 title: "MIT’s SoFi — the Swimming Robotic Fish"
 date: 2018-10-08T09:23:07
-slug: mits-sofi-the-swimming-robotic-fish
-excerpt: "Researchers at MIT’s  Computer Science and Artificial Intelligence Laboratory (CSAIL) have developed a swimming robotic fish with a soft silicone skin, which they have dubbed SoFi, for “soft fish.” SoFi is controlled by a modified video game controllers sending ultrasonic signals to … Continue reading &rarr;"
+slug: "mits-sofi-the-swimming-robotic-fish"
+excerpt: "Researchers at MIT’s  Computer Science and Artificial Intelligence Laboratory (CSAIL) have developed a swimming robotic fish with a soft silicone skin, which they have dubbed SoFi, for \"soft fish.\" SoFi is controlled by a modified video game controllers sending ultrasonic signals to … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "SoFi"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/sofi.jpg"
 author: "Rick Spilman"
-description: "Researchers at MIT’s  Computer Science and Artificial Intelligence Laboratory (CSAIL) have developed a swimming robotic fish with a soft silicone skin, which they have dubbed SoFi, for “soft fish.” SoFi is controlled by a modified video game controllers sending ultrasonic signals to … Continue reading &rarr;"
+description: "Researchers at MIT’s  Computer Science and Artificial Intelligence Laboratory (CSAIL) have developed a swimming robotic fish with a soft silicone skin, which they have dubbed SoFi, for \"soft fish.\" SoFi is controlled by a modified video game controllers sending ultrasonic signals to … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/sofi.jpg)Researchers at MIT’s  [Computer Science and Artificial Intelligence Laboratory (CSAIL)](https://www.csail.mit.edu/) have developed a [swimming robotic fish](http://robotics.sciencemag.org/content/3/16/eaar3449.full?ijkey=ThPQIrxtGmySQ&keytype=ref&siteid=robotics) with a soft silicone skin, which they have dubbed SoFi, for “soft fish.” SoFi is controlled by a modified video game controllers sending ultrasonic signals to the robotic fish, swishing its tail as it swims alongside real fish.

@@ -1,7 +1,7 @@
 ---
 title: "USS Michael Murphy Christened, Dedicated to Fallen SEAL"
 date: 2011-05-07T21:42:49
-slug: uss-michael-murphy-christened-dedicated-to-fallen-seal
+slug: "uss-michael-murphy-christened-dedicated-to-fallen-seal"
 excerpt: "Navy SEAL Lt. Michael Murphy would have been 35 years old today, had he not died in combat behind enemy lines in Afghanistan in 2005.  Lt. Murphy was posthumously awarded the Medal of Honor, the United States military’s highest decoration, for … Continue reading &rarr;"
 categories:
   - "Current"

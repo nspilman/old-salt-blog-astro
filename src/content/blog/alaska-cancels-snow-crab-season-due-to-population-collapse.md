@@ -1,7 +1,7 @@
 ---
 title: "Alaska Cancels Snow Crab Season Due to Population Collapse"
 date: 2022-10-27T15:53:20
-slug: alaska-cancels-snow-crab-season-due-to-population-collapse
+slug: "alaska-cancels-snow-crab-season-due-to-population-collapse"
 excerpt: "For the first time, the Alaska Department of Fish and Game has canceled the upcoming winter snow crab season in the Bering Sea following the disappearance of 90 percent of snow crabs last season. The state is also continuing a … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Red Rock IV in 57 Knots of Wind in the Bristol Channel"
 date: 2016-08-27T12:14:33
-slug: red-rock-iv-57-knots-wind-bristol-channel
+slug: "red-rock-iv-57-knots-wind-bristol-channel"
 excerpt: "A video for a Saturday. Sailing on Red Rock IV  in 57 knots of wind in the Bristol Channel on June 28, 2016. Red Rock IV is a 43 footer designed by German Frers and built by Marland Marine for … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

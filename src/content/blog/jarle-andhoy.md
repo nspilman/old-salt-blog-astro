@@ -1,8 +1,8 @@
 ---
 title: "Jarle Andhoy – Berserker on Another Illegal Trip to Antarctica"
 date: 2012-01-28T11:48:42
-slug: jarle-andhoy
-excerpt: "Jarle Andhøy calls himself as a “Wild Viking.”  He has been the subject of the Norwegian television series Berserk mot Nordpolen (“Berserk to the North Pole”), Berserk til Valhall (“Berserk to Valhalla”) and Berserk gjennom Nordvestpassasjen (“Berserk through the Northwest Passage”) which aired on NRK … Continue reading &rarr;"
+slug: "jarle-andhoy"
+excerpt: "Jarle Andhøy calls himself as a \"Wild Viking.\"  He has been the subject of the Norwegian television series Berserk mot Nordpolen (\"Berserk to the North Pole\"), Berserk til Valhall (\"Berserk to Valhalla\") and Berserk gjennom Nordvestpassasjen (\"Berserk through the Northwest Passage\") which aired on NRK … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Jarle Andhøy"
   - "Nilaya"
 author: "Rick Spilman"
-description: "Jarle Andhøy calls himself as a “Wild Viking.”  He has been the subject of the Norwegian television series Berserk mot Nordpolen (“Berserk to the North Pole”), Berserk til Valhall (“Berserk to Valhalla”) and Berserk gjennom Nordvestpassasjen (“Berserk through the Northwest Passage”) which aired on NRK … Continue reading &rarr;"
+description: "Jarle Andhøy calls himself as a \"Wild Viking.\"  He has been the subject of the Norwegian television series Berserk mot Nordpolen (\"Berserk to the North Pole\"), Berserk til Valhall (\"Berserk to Valhalla\") and Berserk gjennom Nordvestpassasjen (\"Berserk through the Northwest Passage\") which aired on NRK … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/nzealand-antarctica-norway-.jpg)

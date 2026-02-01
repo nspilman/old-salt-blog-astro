@@ -1,7 +1,7 @@
 ---
 title: "150 Years Ago Today — The Last Great Tea Race Ends in a Tie"
 date: 2016-09-06T16:50:50
-slug: 150-years-ago-today-last-great-tea-race-ends-tie
+slug: "150-years-ago-today-last-great-tea-race-ends-tie"
 excerpt: "In 1866, five clipper ships set out together from Foochow, China bound for England in what would be the last  Great Tea Race. On September 6th, one hundred and fifty years ago today, after sailing more than 15,000 nautical miles, … Continue reading &rarr;"
 categories:
   - "History"

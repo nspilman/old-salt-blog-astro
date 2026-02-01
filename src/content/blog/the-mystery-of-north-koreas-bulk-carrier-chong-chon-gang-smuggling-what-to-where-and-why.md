@@ -1,7 +1,7 @@
 ---
 title: "The Mystery of North Korea’s Chong Chon Gang – Smuggling What, to Where, and Why?"
 date: 2013-07-17T09:17:41
-slug: the-mystery-of-north-koreas-bulk-carrier-chong-chon-gang-smuggling-what-to-where-and-why
+slug: "the-mystery-of-north-koreas-bulk-carrier-chong-chon-gang-smuggling-what-to-where-and-why"
 excerpt: "The story is dramatic. The North Korean 14,000 dwt bulk carrier Chong Chon Gang was stopped by the Panama Canal Authority. A container, believed to carry undeclared military weapons was found hidden in a cargo of bagged sugar. The Korean … Continue reading &rarr;"
 categories:
   - "Current"

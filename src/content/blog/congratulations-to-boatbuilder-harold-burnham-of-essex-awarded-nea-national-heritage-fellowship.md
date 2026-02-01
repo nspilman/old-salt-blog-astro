@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Boatbuilder Harold Burnham of Essex – Awarded NEA National Heritage Fellowship"
 date: 2012-06-22T09:19:00
-slug: congratulations-to-boatbuilder-harold-burnham-of-essex-awarded-nea-national-heritage-fellowship
+slug: "congratulations-to-boatbuilder-harold-burnham-of-essex-awarded-nea-national-heritage-fellowship"
 excerpt: "Wooden boat building is part science, part engineering and part pure artistry.  On Tuesday, the National Endowment for the Arts honored Harold Burnham of Essex, MA as a 2012 recipient of a National Heritage Fellowship.  Harold Burnham is an eleventh generation boatbuilder, … Continue reading &rarr;"
 categories:
   - "Current"

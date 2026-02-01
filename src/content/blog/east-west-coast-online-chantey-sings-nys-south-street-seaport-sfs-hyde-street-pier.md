@@ -1,7 +1,7 @@
 ---
 title: "East & West Coast Online Chantey Sings — NY’s South Street Seaport & SF’s Hyde Street Pier"
 date: 2020-09-04T12:47:33
-slug: east-west-coast-online-chantey-sings-nys-south-street-seaport-sfs-hyde-street-pier
+slug: "east-west-coast-online-chantey-sings-nys-south-street-seaport-sfs-hyde-street-pier"
 excerpt: "We have posted previously about New York’s South Street Seaport Museum’s monthly virtual Sea Chanteys and Maritime Music events that take place on the first Sunday of every month. The next Virtual Chantey Sing is this Sunday from 2-4. Click … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

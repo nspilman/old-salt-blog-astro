@@ -1,7 +1,7 @@
 ---
 title: "The William Main Doerflinger Memorial Sea Shanty Sessions at the Noble Maritime Collection at Snug Harbor"
 date: 2011-05-12T08:55:44
-slug: the-william-main-doerflinger-memorial-sea-shanty-sessions-at-the-noble-maritime-collection-at-snug-harbor
+slug: "the-william-main-doerflinger-memorial-sea-shanty-sessions-at-the-noble-maritime-collection-at-snug-harbor"
 excerpt: "This Sunday, May 15, from 2 to 5 PM, the first monthly  William Main Doerflinger Memorial Sea Shanty Session will be held at the Noble Maritime Collection at the Snug Harbor Cultural Center at 1000 Richmond Terrace, building D, in … Continue reading &rarr;"
 categories:
   - "Current"

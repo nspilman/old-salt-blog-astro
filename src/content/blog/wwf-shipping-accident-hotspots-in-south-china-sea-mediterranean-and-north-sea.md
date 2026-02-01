@@ -1,8 +1,8 @@
 ---
 title: "WWF – Shipping Accident Hotspots in South China Sea, Mediterranean and North Sea"
 date: 2013-06-08T13:02:50
-slug: wwf-shipping-accident-hotspots-in-south-china-sea-mediterranean-and-north-sea
-excerpt: "Happy World Oceans Day!  The World Wildlife Federation has released a study to coincide with World Oceans Day, documenting dangerous “hotspots” around the globe for accidents involving ships.  Sadly many of these “hotspots” also coincide with some of the most ecologically … Continue reading &rarr;"
+slug: "wwf-shipping-accident-hotspots-in-south-china-sea-mediterranean-and-north-sea"
+excerpt: "Happy World Oceans Day!  The World Wildlife Federation has released a study to coincide with World Oceans Day, documenting dangerous \"hotspots\" around the globe for accidents involving ships.  Sadly many of these \"hotspots\" also coincide with some of the most ecologically … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "shipping accidents"
   - "WWF"
 author: "Rick Spilman"
-description: "Happy World Oceans Day!  The World Wildlife Federation has released a study to coincide with World Oceans Day, documenting dangerous “hotspots” around the globe for accidents involving ships.  Sadly many of these “hotspots” also coincide with some of the most ecologically … Continue reading &rarr;"
+description: "Happy World Oceans Day!  The World Wildlife Federation has released a study to coincide with World Oceans Day, documenting dangerous \"hotspots\" around the globe for accidents involving ships.  Sadly many of these \"hotspots\" also coincide with some of the most ecologically … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2013/04/PhilippinesChinaReefBoat.jpg)

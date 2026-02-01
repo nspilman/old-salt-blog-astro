@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ship Spirit of Discovery in the Bay of Biscay — Passengers Feared for Theirs Lives, 100 Injured"
 date: 2023-11-09T18:43:25
-slug: cruise-ship-spirit-of-discovery-in-the-bay-of-biscay-passengers-feared-for-theirs-lives-100-injured
+slug: "cruise-ship-spirit-of-discovery-in-the-bay-of-biscay-passengers-feared-for-theirs-lives-100-injured"
 excerpt: "A disturbing account of the Saga Cruises’ ship Spirit of Discovery that was caught in severe weather in the Bay of Biscay in which 100 passengers were injured. Five are reported to have been seriously injured. BBC reports that the … Continue reading &rarr;"
 categories:
   - "Current"

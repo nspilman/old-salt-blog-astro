@@ -1,7 +1,7 @@
 ---
 title: "New Mary Rose Museum Opens to the Public in Portsmouth Historic Dockyard"
 date: 2013-05-30T16:17:49
-slug: new-mary-rose-museum-opens-to-the-public-in-portsmouth-historic-dockyard
+slug: "new-mary-rose-museum-opens-to-the-public-in-portsmouth-historic-dockyard"
 excerpt: "The carrack Mary Rose was King Henry VIII’s flagship. After thirty three years of service, it sank in the Solent on July 19, 1545. Out of 500 sailors, 35 survived. The wreck was located in 1971 and the ship was … Continue reading &rarr;"
 categories:
   - "Current"

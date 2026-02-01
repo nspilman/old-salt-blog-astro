@@ -1,7 +1,7 @@
 ---
 title: "New Shanty Sing at the Brooklyn Lyceum"
 date: 2013-01-22T20:55:40
-slug: new-shanty-sing-at-the-brooklyn-lyceum
+slug: "new-shanty-sing-at-the-brooklyn-lyceum"
 excerpt: "This Friday, January 25th, from 8 to 10PM, a waterfront tradition will be returning to Brooklyn. The first of planned monthly shanty sings will be held at the Brooklyn Lyceum.  All lovers of the music of the sea are welcome.  This Friday’s session is … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

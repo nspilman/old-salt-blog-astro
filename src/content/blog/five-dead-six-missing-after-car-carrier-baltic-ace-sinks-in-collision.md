@@ -1,7 +1,7 @@
 ---
 title: "Five Dead, Six Missing After Car Carrier Baltic Ace Sinks in Collision"
 date: 2012-12-06T09:16:27
-slug: five-dead-six-missing-after-car-carrier-baltic-ace-sinks-in-collision
+slug: "five-dead-six-missing-after-car-carrier-baltic-ace-sinks-in-collision"
 excerpt: "Following the sinking last night of the car carrier Baltic Ace, the bodies of five sailors have been recovered.  Six of the crew are missing and presumed dead in the icy waters of the North Sea. The 485-foot long Bahamain-flagged   car … Continue reading &rarr;"
 categories:
   - "Current"

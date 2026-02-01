@@ -1,8 +1,8 @@
 ---
 title: "Capturing Cape Hatteras – A Night Under The Stars Of The Outer Banks"
 date: 2020-05-03T10:32:04
-slug: capturing-cape-hatteras-a-night-under-the-stars-of-the-outer-banks
-excerpt: "A calming post for a spring Sunday. Here is another wonderful time-lapse by Wes Snyder. From the Youtube description:  “Capturing Cape Hatteras” is a time-lapse of the Milky Way, crescent moon, and sunrise on March 20th, 2020. Amidst all the … Continue reading &rarr;"
+slug: "capturing-cape-hatteras-a-night-under-the-stars-of-the-outer-banks"
+excerpt: "A calming post for a spring Sunday. Here is another wonderful time-lapse by Wes Snyder. From the Youtube description:  \"Capturing Cape Hatteras\" is a time-lapse of the Milky Way, crescent moon, and sunrise on March 20th, 2020. Amidst all the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Wes Snyder"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/hatterastimel2.jpg"
 author: "Rick Spilman"
-description: "A calming post for a spring Sunday. Here is another wonderful time-lapse by Wes Snyder. From the Youtube description:  “Capturing Cape Hatteras” is a time-lapse of the Milky Way, crescent moon, and sunrise on March 20th, 2020. Amidst all the … Continue reading &rarr;"
+description: "A calming post for a spring Sunday. Here is another wonderful time-lapse by Wes Snyder. From the Youtube description:  \"Capturing Cape Hatteras\" is a time-lapse of the Milky Way, crescent moon, and sunrise on March 20th, 2020. Amidst all the … Continue reading &rarr;"
 ---
 
 A calming post for a spring Sunday. Here is another wonderful time-lapse by [Wes Snyder](https://wessnyderphotography.zenfolio.com/). From the [Youtube description](https://youtu.be/kuS62289TuY): 

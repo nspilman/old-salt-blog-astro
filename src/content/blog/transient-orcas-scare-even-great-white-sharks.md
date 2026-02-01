@@ -1,7 +1,7 @@
 ---
 title: "Transient Orcas Scare Even Great White Sharks"
 date: 2019-04-24T09:39:44
-slug: transient-orcas-scare-even-great-white-sharks
+slug: "transient-orcas-scare-even-great-white-sharks"
 excerpt: "A study published in Nature’s Scientific Reports documents that as ferocious as great white sharks can be, even the great whites are afraid of transient orcas. When the orcas swim by the Southeast Farallon Islands, off San Francisco, the great … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

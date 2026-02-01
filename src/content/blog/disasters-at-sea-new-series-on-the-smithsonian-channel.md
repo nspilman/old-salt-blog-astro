@@ -1,8 +1,8 @@
 ---
 title: "Disasters at Sea — New Series on the Smithsonian Channel"
 date: 2019-01-08T18:53:53
-slug: disasters-at-sea-new-series-on-the-smithsonian-channel
-excerpt: "I am very excited by a new series, “Disasters at Sea” that will be premiering on the Smithsonian Channel this Sunday, January 13th. The series is produced by Exploration Production Inc. in association with Smithsonian Networks and Discovery Channel (Canada). The … Continue reading &rarr;"
+slug: "disasters-at-sea-new-series-on-the-smithsonian-channel"
+excerpt: "I am very excited by a new series, \"Disasters at Sea\" that will be premiering on the Smithsonian Channel this Sunday, January 13th. The series is produced by Exploration Production Inc. in association with Smithsonian Networks and Discovery Channel (Canada). The … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Smithsonian Channel"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/dasbanner.jpg"
 author: "Rick Spilman"
-description: "I am very excited by a new series, “Disasters at Sea” that will be premiering on the Smithsonian Channel this Sunday, January 13th. The series is produced by Exploration Production Inc. in association with Smithsonian Networks and Discovery Channel (Canada). The … Continue reading &rarr;"
+description: "I am very excited by a new series, \"Disasters at Sea\" that will be premiering on the Smithsonian Channel this Sunday, January 13th. The series is produced by Exploration Production Inc. in association with Smithsonian Networks and Discovery Channel (Canada). The … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/dasbanner.jpg)I am very excited by a new series, “[Disasters at Sea](https://www.smithsonianchannel.com/shows/disasters-at-sea/1005669)” that will be premiering on the Smithsonian Channel this Sunday, January 13th. The series is produced by Exploration Production Inc. in association with Smithsonian Networks and Discovery Channel (Canada). The series will be airing in Canada in early February. 

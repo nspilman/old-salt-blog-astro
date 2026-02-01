@@ -1,7 +1,7 @@
 ---
 title: "New Zealand Community Rallies to Save 30 Stranded Pilot Whales"
 date: 2024-11-26T18:23:29
-slug: new-zealand-community-rallies-to-save-30-stranded-pilot-whales
+slug: "new-zealand-community-rallies-to-save-30-stranded-pilot-whales"
 excerpt: "Good news for change. On Sunday, a pod of more than 30 pilot whales became stranded on Ruakākā Beach near Whangārei in northern New Zealand. Hundreds of residents joined forces with conservationists to save the pod. The rescue effort was … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Ernest Borgnine – from Gunners-Mate to Marty to McHale’s Navy and Sponge Bob Square Pants"
 date: 2012-07-09T13:29:32
-slug: ernest-borgnine-from-gunners-mate-to-mchales-navy-to-sponge-bob-square-pants
+slug: "ernest-borgnine-from-gunners-mate-to-mchales-navy-to-sponge-bob-square-pants"
 excerpt: "Ernest Borgnine has died at the age of 95.  He joined the Navy in 1935, straight out of high school and served through World War II, leaving the service with the rank of gunner’s mate 1st class.  He became an actor, appearing in over … Continue reading &rarr;"
 categories:
   - "Current"

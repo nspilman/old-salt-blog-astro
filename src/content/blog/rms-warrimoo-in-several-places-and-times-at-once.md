@@ -1,7 +1,7 @@
 ---
 title: "RMS Warrimoo — In Several Places and Times at Once"
 date: 2018-12-31T16:50:09
-slug: rms-warrimoo-in-several-places-and-times-at-once
+slug: "rms-warrimoo-in-several-places-and-times-at-once"
 excerpt: "Here is a wonderful sea story which appears to be more or less true. RMS Warrimoo was an Australian/New Zealand passenger ship, launched in 1892. The ship is best remembered for crossing the intersection of the international dateline and the equator at precisely the turn of … Continue reading &rarr;"
 categories:
   - "History"

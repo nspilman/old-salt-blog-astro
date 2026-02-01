@@ -1,7 +1,7 @@
 ---
 title: "Setting Sail into a Violent Storm — Really RCL? A Question of Credibility"
 date: 2016-02-17T18:38:36
-slug: setting-sail-into-a-violent-storm-really-rcl
+slug: "setting-sail-into-a-violent-storm-really-rcl"
 excerpt: "A few days after the Anthem of the Seas was forced to return to port after being caught in 120 knot winds off Cape Hatteras, Bill Baumgartner, Royal Caribbean’s senior vice president of Global Marine Operations, told The Jersey Journal … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

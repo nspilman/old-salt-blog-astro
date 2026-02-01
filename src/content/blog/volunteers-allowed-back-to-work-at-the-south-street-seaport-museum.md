@@ -1,7 +1,7 @@
 ---
 title: "Volunteers Allowed Back to Work at the South Street Seaport Museum"
 date: 2011-12-08T09:58:38
-slug: volunteers-allowed-back-to-work-at-the-south-street-seaport-museum
+slug: "volunteers-allowed-back-to-work-at-the-south-street-seaport-museum"
 excerpt: "Several years ago I took a sail on the AJ Meerwald in New York harbor. While on the sail I saw the schooner Pioneer, owned and operated by the South Street Seaport Museum, also sailing in the harbor. Despite having … Continue reading &rarr;"
 categories:
   - "Current"

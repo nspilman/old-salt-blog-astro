@@ -1,7 +1,7 @@
 ---
 title: "Ship Aground Off Llanddulas, Near Colwyn Bay, Wales – Seven Crew Rescued"
 date: 2012-04-04T07:36:30
-slug: ship-aground-off-llanddulas-near-colwyn-bay-wales-seven-crew-rescued
+slug: "ship-aground-off-llanddulas-near-colwyn-bay-wales-seven-crew-rescued"
 excerpt: "On Tuesday evening, the 82m general cargo ship, Carrier, was blown ashore in high winds and seas near a quarry jetty at Llanddulas, near Colwyn Bay, Wales. Two lifeboats and an RAF helicopter successfully rescued seven Polish crew members from … Continue reading &rarr;"
 categories:
   - "Current"

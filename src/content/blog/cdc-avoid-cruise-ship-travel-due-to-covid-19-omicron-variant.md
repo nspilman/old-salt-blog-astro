@@ -1,7 +1,7 @@
 ---
 title: "CDC : Avoid Cruise Ship Travel Due to COVID-19 Omicron Variant"
 date: 2022-01-03T18:53:43
-slug: cdc-avoid-cruise-ship-travel-due-to-covid-19-omicron-variant
+slug: "cdc-avoid-cruise-ship-travel-due-to-covid-19-omicron-variant"
 excerpt: "Late last week, the Center for Disease Control and Prevention (CDC) raised its COVID-19 travel health notice level for cruise ships to its highest warning level and said people should avoid traveling on cruise ships regardless of their vaccination status, … Continue reading &rarr;"
 categories:
   - "Current"

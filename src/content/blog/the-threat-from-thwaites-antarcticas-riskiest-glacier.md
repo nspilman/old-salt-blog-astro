@@ -1,7 +1,7 @@
 ---
 title: "The Threat from Thwaites, Antarctica’s Riskiest Glacier"
 date: 2021-12-14T16:56:48
-slug: the-threat-from-thwaites-antarcticas-riskiest-glacier
+slug: "the-threat-from-thwaites-antarcticas-riskiest-glacier"
 excerpt: "At a meeting of the American Geophysical Union yesterday, scientists from The International Thwaites Glacier Collaboration (ITGC) discussed the rapid retreat of Thwaites glacier and the implications that will have on our planet in the coming years. Thwaites, often referred … Continue reading &rarr;"
 categories:
   - "Current"

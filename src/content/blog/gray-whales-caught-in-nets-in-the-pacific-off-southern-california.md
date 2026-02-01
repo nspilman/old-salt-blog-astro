@@ -1,7 +1,7 @@
 ---
 title: "Two Gray Whales Caught in Nets in One Week off Southern California"
 date: 2012-04-02T08:08:53
-slug: gray-whales-caught-in-nets-in-the-pacific-off-southern-california
+slug: "gray-whales-caught-in-nets-in-the-pacific-off-southern-california"
 excerpt: "According to the Whale and Dolphin Conservation Society, fishing nets are the biggest killer of whales and dolphins across the globe. Last week alone, two gray whales migrating off the coast of California were caught in fishing nets. A week … Continue reading &rarr;"
 categories:
   - "Current"

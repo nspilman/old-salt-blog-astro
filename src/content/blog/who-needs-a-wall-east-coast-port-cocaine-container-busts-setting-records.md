@@ -1,7 +1,7 @@
 ---
 title: "Who Needs a Wall? East Coast Port Cocaine Container Busts Setting Records"
 date: 2019-06-27T17:26:24
-slug: who-needs-a-wall-east-coast-port-cocaine-container-busts-setting-records
+slug: "who-needs-a-wall-east-coast-port-cocaine-container-busts-setting-records"
 excerpt: "Anyone who thinks that a Southern border wall will stop cocaine trafficking into this country has not been paying at attention to the news. Cocaine seizures from container ships have been setting records in ports along the East Coast for … Continue reading &rarr;"
 categories:
   - "Current"

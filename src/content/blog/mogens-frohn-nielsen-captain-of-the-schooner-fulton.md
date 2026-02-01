@@ -1,7 +1,7 @@
 ---
 title: "Mogens Frohn Nielsen, Captain of the Schooner Fulton"
 date: 2010-10-04T09:50:42
-slug: mogens-frohn-nielsen-captain-of-the-schooner-fulton
+slug: "mogens-frohn-nielsen-captain-of-the-schooner-fulton"
 excerpt: "Sad news from Shipgaz: Fulton captain has passed away Legendary captain Mogens Frohn Nielsen has passed away at the age of 75.  Mogens Frohn Nielsen pioneered the use of sailing ships as floating schools for youngsters with problems. He started … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "On Chinese New Year — A Virtual Prayer to Mazu, Goddess of the Sea"
 date: 2021-02-12T01:08:24
-slug: on-chinese-new-year-a-virtual-prayer-to-mazu-goddess-of-the-sea
+slug: "on-chinese-new-year-a-virtual-prayer-to-mazu-goddess-of-the-sea"
 excerpt: "Today is Chinese New Year when we bid goodbye to the Year of the Rat and say hello to the Year of the Ox. While not directly related to the New Year, it also seems a good time to say … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

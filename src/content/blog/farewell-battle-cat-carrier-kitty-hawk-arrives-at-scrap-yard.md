@@ -1,7 +1,7 @@
 ---
-title: "Farewell “Battle Cat” : Carrier Kitty Hawk Arrives at Scrap Yard"
+title: "Farewell \"Battle Cat\" : Carrier Kitty Hawk Arrives at Scrap Yard"
 date: 2022-06-12T10:43:15
-slug: farewell-battle-cat-carrier-kitty-hawk-arrives-at-scrap-yard
+slug: "farewell-battle-cat-carrier-kitty-hawk-arrives-at-scrap-yard"
 excerpt: "The carrier USS Kitty Hawk has arrived at a scrapping yard in Brownsville, Texas after an epic 16,000-mile journey from Washington state. The carrier, too large to fit through the Panama Canal at over 280 feet wide, was towed around … Continue reading &rarr;"
 categories:
   - "Current"

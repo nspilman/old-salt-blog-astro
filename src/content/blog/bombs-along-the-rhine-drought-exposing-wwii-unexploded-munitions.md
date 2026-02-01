@@ -1,7 +1,7 @@
 ---
 title: "Bombs Along the Rhine – Drought Exposing WWII Unexploded Munitions"
 date: 2011-11-26T16:34:23
-slug: bombs-along-the-rhine-drought-exposing-wwii-unexploded-munitions
+slug: "bombs-along-the-rhine-drought-exposing-wwii-unexploded-munitions"
 excerpt: "A near record drought has lowered the water levels on the Rhine River, Europe’s most important inland maritime waterway, by five feet below average, stopping many ships and barges from trading.  In several locations, river levels have fallen to one hundred year lows.  To … Continue reading &rarr;"
 categories:
   - "Current"

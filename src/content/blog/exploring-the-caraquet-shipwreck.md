@@ -1,8 +1,8 @@
 ---
-title: "Exploring The “Caraquet” Shipwreck"
+title: "Exploring The \"Caraquet\" Shipwreck"
 date: 2013-07-06T06:53:55
-slug: exploring-the-caraquet-shipwreck
-excerpt: "A new video released by the Bermuda Department of Conservation Services explores the wreckage of the British mail steamship “Caraquet” which came to grief on the island’s reefs 90 years ago. Caraquet 1864 – Bermuda Shipwrecks from Conservation Services on … Continue reading &rarr;"
+slug: "exploring-the-caraquet-shipwreck"
+excerpt: "A new video released by the Bermuda Department of Conservation Services explores the wreckage of the British mail steamship \"Caraquet\" which came to grief on the island’s reefs 90 years ago. Caraquet 1864 – Bermuda Shipwrecks from Conservation Services on … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "British mail steamship"
   - "Caraquet"
 author: "Rick Spilman"
-description: "A new video released by the Bermuda Department of Conservation Services explores the wreckage of the British mail steamship “Caraquet” which came to grief on the island’s reefs 90 years ago. Caraquet 1864 – Bermuda Shipwrecks from Conservation Services on … Continue reading &rarr;"
+description: "A new video released by the Bermuda Department of Conservation Services explores the wreckage of the British mail steamship \"Caraquet\" which came to grief on the island’s reefs 90 years ago. Caraquet 1864 – Bermuda Shipwrecks from Conservation Services on … Continue reading &rarr;"
 ---
 
 A new video released by the Bermuda Department of Conservation Services explores the wreckage of the British mail steamship “Caraquet” which came to grief on the island’s reefs 90 years ago.

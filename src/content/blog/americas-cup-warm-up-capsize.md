@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup Warm-up Capsize"
 date: 2011-06-14T07:02:16
-slug: americas-cup-warm-up-capsize
+slug: "americas-cup-warm-up-capsize"
 excerpt: "A few weeks ago, New Zealand sailing legend Russell Coutts predicted an exciting America’s Cup series, sailed in high-tech catamarans.   The racing may be more exciting than Coutts originally intended. Yesterday the AC45 catamaran  being sailed by Coutts pitchpoled (capsized … Continue reading &rarr;"
 categories:
   - "Current"

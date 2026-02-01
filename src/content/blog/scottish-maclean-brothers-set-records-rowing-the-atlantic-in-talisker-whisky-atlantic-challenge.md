@@ -1,7 +1,7 @@
 ---
 title: "Scottish MacLean Brothers Set Three Records Rowing the Atlantic in Talisker Whisky Atlantic Challenge"
 date: 2020-01-18T14:06:31
-slug: scottish-maclean-brothers-set-records-rowing-the-atlantic-in-talisker-whisky-atlantic-challenge
+slug: "scottish-maclean-brothers-set-records-rowing-the-atlantic-in-talisker-whisky-atlantic-challenge"
 excerpt: "Congratulations to Ewan, Jamie, and Lachlan MacLean, three brothers from Edinburgh, Scotland who rowed across the Atlantic in just 35 days. They departed from La Gomera, in the Canary Islands on 12 December and completed the 3,000-mile row to Antigua … Continue reading &rarr;"
 categories:
   - "Current"

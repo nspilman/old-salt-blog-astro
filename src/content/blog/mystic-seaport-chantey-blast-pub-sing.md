@@ -1,7 +1,7 @@
 ---
 title: "Mystic Seaport Chantey Blast and Pub Sing"
 date: 2017-01-10T14:50:48
-slug: mystic-seaport-chantey-blast-pub-sing
+slug: "mystic-seaport-chantey-blast-pub-sing"
 excerpt: "Next Saturday, January 14th, the Mystic Seaport Museum, in Mystic, CT, is  hosting its annual Chantey Blast and Pub Sing from 1-5 PM at Frohsinn Hall, 54 Greenmanville Ave., directly across the street from the museum. Everyone is invited to join in … Continue reading &rarr;"
 categories:
   - "Current"

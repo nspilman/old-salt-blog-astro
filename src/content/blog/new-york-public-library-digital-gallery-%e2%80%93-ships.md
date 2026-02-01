@@ -1,7 +1,7 @@
 ---
 title: "New York Public Library Digital Gallery – Ships"
 date: 2010-04-11T15:08:13
-slug: new-york-public-library-digital-gallery-%e2%80%93-ships
+slug: "new-york-public-library-digital-gallery-%e2%80%93-ships"
 excerpt: "If you are like me, relatively busy yet easily distracted and very fond of paintings, drawings and old photos of ships, you should probably skip this post.  The New York Public Library Digital galley has a wonderful collection of  drawings, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

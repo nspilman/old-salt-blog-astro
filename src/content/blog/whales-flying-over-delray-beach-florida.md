@@ -1,8 +1,8 @@
 ---
 title: "Whales Flying Over Delray Beach, Florida"
 date: 2021-06-13T10:08:00
-slug: whales-flying-over-delray-beach-florida
-excerpt: "This seems like a good video for a summer Sunday — two 60-foot long whale kites flying over Delray Beach, Florida, flown by Randy “the Kite Man” Lowe. Video by Larry Richardson. When Whales Fly — Giant Kites Soar Over … Continue reading &rarr;"
+slug: "whales-flying-over-delray-beach-florida"
+excerpt: "This seems like a good video for a summer Sunday — two 60-foot long whale kites flying over Delray Beach, Florida, flown by Randy \"the Kite Man\" Lowe. Video by Larry Richardson. When Whales Fly — Giant Kites Soar Over … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

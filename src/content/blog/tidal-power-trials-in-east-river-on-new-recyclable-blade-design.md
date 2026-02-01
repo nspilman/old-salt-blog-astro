@@ -1,7 +1,7 @@
 ---
 title: "Tidal Power — Trials in East River on New Recyclable Blade Design"
 date: 2021-08-30T17:42:02
-slug: tidal-power-trials-in-east-river-on-new-recyclable-blade-design
+slug: "tidal-power-trials-in-east-river-on-new-recyclable-blade-design"
 excerpt: "One of the concerns with wind and tidal energy installations is that the turbine blades are built from materials that are not easily recyclable. As the blades wear out with use, they could create a significant disposal problem. For the … Continue reading &rarr;"
 categories:
   - "Current"

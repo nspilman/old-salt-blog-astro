@@ -1,7 +1,7 @@
 ---
 title: "In Show of Force, Russian Warships Arrive In Havana, Cuba"
 date: 2024-06-13T19:34:16
-slug: in-show-of-force-russian-warships-arrive-in-havana-cuba
+slug: "in-show-of-force-russian-warships-arrive-in-havana-cuba"
 excerpt: "On Wednesday four Russian naval vessels; a nuclear-powered submarine, a frigate, an oil tanker, and a rescue tug; arrived in Cuba for military drills. The vessels’ visit has been seen as a show of force amid Moscow’s tensions with the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Diaries tell forgotten story of Nelson’s nurse"
 date: 2010-08-31T08:22:58
-slug: diaries-tell-forgotten-story-of-nelsons-nurse
+slug: "diaries-tell-forgotten-story-of-nelsons-nurse"
 excerpt: "An intriguing article from the Independent.  Elizabeth Wynne was Lord Nelson’s nurse following the loss of his arm.  She left 40 volumes of diaries and was a witness to several key events of the 18th century.   She married one of … Continue reading &rarr;"
 categories:
   - "History"

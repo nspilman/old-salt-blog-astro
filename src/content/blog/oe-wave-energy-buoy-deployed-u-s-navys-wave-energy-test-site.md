@@ -1,7 +1,7 @@
 ---
 title: "OE Wave Energy Buoy to be Deployed at U.S. Navy’s Wave Energy Test Site in Hawaii"
 date: 2018-02-12T18:43:33
-slug: oe-wave-energy-buoy-deployed-u-s-navys-wave-energy-test-site
+slug: "oe-wave-energy-buoy-deployed-u-s-navys-wave-energy-test-site"
 excerpt: "In fabricating ships’ hulls and building seawalls and docks, the goal is to resist the power of the waves. Recently, however, engineers have been working on techniques to harness rather than resist the immense power of ocean waves. In the … Continue reading &rarr;"
 categories:
   - "Current"

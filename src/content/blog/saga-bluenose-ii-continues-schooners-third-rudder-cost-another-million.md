@@ -1,8 +1,8 @@
 ---
 title: "Saga of the Bluenose II Continues — Schooner’s New Rudder to Cost Another Million"
 date: 2016-03-05T17:18:42
-slug: saga-bluenose-ii-continues-schooners-third-rudder-cost-another-million
-excerpt: "For the last few years, we have followed the sad saga of the “rebuilding” of the schooner Bluenose II.  The latest development involves the replacement of the existing steel rudder and steering system at an estimated additional cost of $1 … Continue reading &rarr;"
+slug: "saga-bluenose-ii-continues-schooners-third-rudder-cost-another-million"
+excerpt: "For the last few years, we have followed the sad saga of the \"rebuilding\" of the schooner Bluenose II.  The latest development involves the replacement of the existing steel rudder and steering system at an estimated additional cost of $1 … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "rudder"
   - "schooner"
 author: "Rick Spilman"
-description: "For the last few years, we have followed the sad saga of the “rebuilding” of the schooner Bluenose II.  The latest development involves the replacement of the existing steel rudder and steering system at an estimated additional cost of $1 … Continue reading &rarr;"
+description: "For the last few years, we have followed the sad saga of the \"rebuilding\" of the schooner Bluenose II.  The latest development involves the replacement of the existing steel rudder and steering system at an estimated additional cost of $1 … Continue reading &rarr;"
 ---
 
 ![bluenoseiicbc](http://www.oldsaltblog.com/wp-content/uploads/2016/03/bluenoseiicbc.jpg)For the last few years, [we have followed the sad saga](http://www.oldsaltblog.com/?s=Bluenose+II) of the “rebuilding” of the schooner *[Bluenose II](https://en.wikipedia.org/wiki/Bluenose_II)*.  The latest development involves the [replacement of the existing steel rudder and steering system](http://www.cbc.ca/news/canada/nova-scotia/province-replacing-bluenose-rudder-1.3474011) at an estimated additional cost of $1 million Canadian.  The project, which began in 2009, is many years behind schedule and significantly over budget. The original cost has grown from $14 million to a projected $25 million.

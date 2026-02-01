@@ -1,7 +1,7 @@
 ---
 title: "Icebreaker Snow Dragon on Horizon with Penguins!"
 date: 2013-12-27T12:38:07
-slug: icebreaker-snow-dragon-on-horizon-with-penguins
+slug: "icebreaker-snow-dragon-on-horizon-with-penguins"
 excerpt: "A few hours ago, Professor Chris Turney, on the  MV Akademik Shokalskiy currently trapped in pack ice off Antarctica, south of Tasmania, tweeted:  Great news. Icebreaker Snow Dragon on horizon with penguins! Everyone very happy!    We suspect that the penguins are … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

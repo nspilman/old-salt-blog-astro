@@ -1,7 +1,7 @@
 ---
 title: "Sultana Downrigging Weekend —  Tall Ship and Wooden Boat Festival"
 date: 2014-10-29T17:19:17
-slug: sultana-downrigging-weekend-tall-ship-and-wooden-boat-festival
+slug: "sultana-downrigging-weekend-tall-ship-and-wooden-boat-festival"
 excerpt: "Downrigging is one of those necessary chores on a sailing vessel at the end of a season before the winter sets in. The good folks at the Sultana Education Foundation have turned the necessary and often bittersweet chore of downrigging the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

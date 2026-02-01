@@ -1,7 +1,7 @@
 ---
 title: "Coast Guard Cracks Down on Major Oil Spill Which You Probably Never Heard Of"
 date: 2018-11-21T16:19:25
-slug: coast-guard-cracks-down-on-major-oil-spill-which-you-probably-never-heard-of
+slug: "coast-guard-cracks-down-on-major-oil-spill-which-you-probably-never-heard-of"
 excerpt: "Fourteen years ago, Hurricane Ivan destroyed an oil-production platform owned by Taylor Energy in the Gulf of Mexico. The wells associated with the platform have been leaking ever since and may soon become the largest recorded offshore spill.  Federal officials … Continue reading &rarr;"
 categories:
   - "Current"

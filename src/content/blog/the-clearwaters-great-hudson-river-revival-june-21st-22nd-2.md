@@ -1,7 +1,7 @@
 ---
 title: "The Clearwater’s Great Hudson River Revival, June 21st & 22nd"
 date: 2014-06-16T08:16:09
-slug: the-clearwaters-great-hudson-river-revival-june-21st-22nd-2
+slug: "the-clearwaters-great-hudson-river-revival-june-21st-22nd-2"
 excerpt: "The days around the summer solstice will be a busy time on the Hudson River.  We recently posted about the North River Historic Ship Festival on the Hudson River Park’s Pier 25 in Lower Manhattan from Friday, June 20 to Tuesday June 24. Roughly 50 … Continue reading &rarr;"
 categories:
   - "Current"

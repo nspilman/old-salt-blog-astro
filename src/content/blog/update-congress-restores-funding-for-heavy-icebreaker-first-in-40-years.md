@@ -1,7 +1,7 @@
 ---
 title: "Update: Congress Restores Funding for Heavy Icebreaker — First in 40 Years"
 date: 2019-02-26T14:25:57
-slug: update-congress-restores-funding-for-heavy-icebreaker-first-in-40-years
+slug: "update-congress-restores-funding-for-heavy-icebreaker-first-in-40-years"
 excerpt: "Great news! Congress has restored $675 million in funding for new Coast Guard icebreakers that Homeland Security had diverted last year to build a border wall with Mexico. The funding is not coming a moment too soon. The US has … Continue reading &rarr;"
 categories:
   - "Current"

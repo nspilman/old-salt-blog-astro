@@ -1,8 +1,8 @@
 ---
 title: "Brad Van Liew Wins Third Leg of Velux 5 Oceans"
 date: 2011-03-02T13:38:05
-slug: brad-van-liew-wins-third-leg-of-velux-5-oceans
-excerpt: "Brad Van Liew arrived in Punta del Este, Uruguay yesterday, winning the third leg of the Velux Five Oceans Singlehanded Around the World Race.   The remaining three racers, Zbigniew “Gutek” Gutkowski, Derek Hatfield and Chris Stanmore-Major are all within only 50 nautical miles of … Continue reading &rarr;"
+slug: "brad-van-liew-wins-third-leg-of-velux-5-oceans"
+excerpt: "Brad Van Liew arrived in Punta del Este, Uruguay yesterday, winning the third leg of the Velux Five Oceans Singlehanded Around the World Race.   The remaining three racers, Zbigniew \"Gutek\" Gutkowski, Derek Hatfield and Chris Stanmore-Major are all within only 50 nautical miles of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,9 +13,9 @@ tags:
   - "Punta del Este"
   - "Uruguay"
   - "Velux Five Oceans"
-  - "Zbigniew “Gutek” Gutkowski"
+  - "Zbigniew \"Gutek\" Gutkowski"
 author: "Rick Spilman"
-description: "Brad Van Liew arrived in Punta del Este, Uruguay yesterday, winning the third leg of the Velux Five Oceans Singlehanded Around the World Race.   The remaining three racers, Zbigniew “Gutek” Gutkowski, Derek Hatfield and Chris Stanmore-Major are all within only 50 nautical miles of … Continue reading &rarr;"
+description: "Brad Van Liew arrived in Punta del Este, Uruguay yesterday, winning the third leg of the Velux Five Oceans Singlehanded Around the World Race.   The remaining three racers, Zbigniew \"Gutek\" Gutkowski, Derek Hatfield and Chris Stanmore-Major are all within only 50 nautical miles of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/vanliew_int1.jpg)Brad Van Liew arrived in Punta del Este, Uruguay yesterday, winning the third leg of the [Velux Five Oceans](http://www.velux5oceans.com/) Singlehanded Around the World Race.   The remaining three racers, Zbigniew “Gutek” Gutkowski, Derek Hatfield and Chris Stanmore-Major are all within only 50 nautical miles of each other and are expected to arrive in port on  Thursday.

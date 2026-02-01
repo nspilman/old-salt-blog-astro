@@ -1,14 +1,14 @@
 ---
 title: "Maersk Triple E Class Ships – the VLCCS of Container shipping?"
 date: 2011-02-26T10:21:24
-slug: maersk-triple-e-class-ships-the-vlccs-of-container-shipping
+slug: "maersk-triple-e-class-ships-the-vlccs-of-container-shipping"
 excerpt: "In the late 60s, the first VLCCs (Very Large Crude Carrier) were initially referred to as Malaccamax tankers, as they were the largest tankers that could navigate through the Straits of Malacca.  Maersk Line has recently ordered ten Malaccamax container … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - ""Triple E" Class"
+  - "\"Triple E\" Class"
   - "container ships"
   - "Maersk Line"
   - "Malaccamax"

@@ -1,7 +1,7 @@
 ---
 title: "Lobster on the Line — Trade War Threatens Maine Lobstermen"
 date: 2019-11-13T09:35:02
-slug: lobster-on-the-line-trade-war-threatens-maine-lobstermen
+slug: "lobster-on-the-line-trade-war-threatens-maine-lobstermen"
 excerpt: "After several near boom years, the Maine lobster fishery is being slammed by the current trade war between the United States and China. From June 2018 to June 2019, after the duties were in place, live lobster exports to China … Continue reading &rarr;"
 categories:
   - "Current"

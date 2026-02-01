@@ -1,7 +1,7 @@
 ---
-title: "Replica Frigate “Grand Turk” for Sale"
+title: "Replica Frigate \"Grand Turk\" for Sale"
 date: 2008-11-14T13:28:32
-slug: replica-frigate-grand-turk-for-sale
+slug: "replica-frigate-grand-turk-for-sale"
 excerpt: "There seems to be a significant number of tall ships for sale these days. Not sure whether that is good or bad news. One especially notable example is the Grand Turk, now offered for sale for £2,800,000.  Thanks to Alaric for … Continue reading &rarr;"
 categories:
   - "Current"

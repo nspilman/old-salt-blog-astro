@@ -1,7 +1,7 @@
 ---
 title: "Pandemic Update: Most of Maine’s Windjammers Not Sailing in 2020"
 date: 2020-07-17T13:52:10
-slug: pandemic-update-most-of-maines-windjammers-not-sailing-in-2020
+slug: "pandemic-update-most-of-maines-windjammers-not-sailing-in-2020"
 excerpt: "At the end of June, we posted that the Maine windjammer passenger fleet faced an uncertain season due to the pandemic.  Shortly thereafter, the State of Maine, working with the Maine Windjammer Association and others, agreed on a set of rules … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

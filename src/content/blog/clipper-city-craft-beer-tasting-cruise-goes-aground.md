@@ -1,8 +1,8 @@
 ---
 title: "Clipper City Craft Beer Tasting Cruise Goes Aground"
 date: 2014-09-21T12:01:28
-slug: clipper-city-craft-beer-tasting-cruise-goes-aground
-excerpt: "The topsail schooner Clipper City set sail from Manhattan yesterday on a “Craft Beer Tasting Cruise,” which ran somewhat longer than expected. The steel ship grounded in New York harbor, south of the Statue of Liberty. Apparently many of the … Continue reading &rarr;"
+slug: "clipper-city-craft-beer-tasting-cruise-goes-aground"
+excerpt: "The topsail schooner Clipper City set sail from Manhattan yesterday on a \"Craft Beer Tasting Cruise,\" which ran somewhat longer than expected. The steel ship grounded in New York harbor, south of the Statue of Liberty. Apparently many of the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Update: Billboard Barge Booted From New York Harbor"
 date: 2019-10-10T10:13:40
-slug: update-billboard-barge-booted-from-new-york-harbor
+slug: "update-billboard-barge-booted-from-new-york-harbor"
 excerpt: "Roughly a year ago, a tug pulling a barge carrying a double-sided 60 foot long LED screen blasting animated, high-definition digital ads for everything from beer to movies, appeared on the Hudson and East Rivers, threatening to turn the riverscape … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Banksy’s Rescue Boat Calls for Help"
 date: 2020-08-29T11:32:14
-slug: banksys-rescue-boat-calls-for-help
-excerpt: "The two items in the news appeared within hours of each other. The first, dated August 28, 17:09, was headlined, “Street artist Banksy funds pink boat to rescue migrants in the Mediterranean.” The second dated August 29, 5:45 AM was … Continue reading &rarr;"
+slug: "banksys-rescue-boat-calls-for-help"
+excerpt: "The two items in the news appeared within hours of each other. The first, dated August 28, 17:09, was headlined, \"Street artist Banksy funds pink boat to rescue migrants in the Mediterranean.\" The second dated August 29, 5:45 AM was … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -14,7 +14,7 @@ tags:
   - "Rescue Boat"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/banksyboat.jpg"
 author: "Rick Spilman"
-description: "The two items in the news appeared within hours of each other. The first, dated August 28, 17:09, was headlined, “Street artist Banksy funds pink boat to rescue migrants in the Mediterranean.” The second dated August 29, 5:45 AM was … Continue reading &rarr;"
+description: "The two items in the news appeared within hours of each other. The first, dated August 28, 17:09, was headlined, \"Street artist Banksy funds pink boat to rescue migrants in the Mediterranean.\" The second dated August 29, 5:45 AM was … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/banksyboat.jpg)The two items in the news appeared within hours of each other. The first, dated August 28, 17:09, was headlined, “[Street artist Banksy funds pink boat to rescue migrants in the Mediterranean](https://www.euronews.com/2020/08/28/street-artist-banksy-funds-pink-boat-to-rescue-migrants-in-the-mediterranean).” The second dated August 29, 5:45 AM was titled, “[Banksy’s migrant rescue boat says overloaded, stranded at sea.](https://www.reuters.com/article/us-europe-migrants-banksy-alarm-idUSKBN25P0EP?utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=facebook)”

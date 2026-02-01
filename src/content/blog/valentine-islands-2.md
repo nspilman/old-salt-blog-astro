@@ -1,7 +1,7 @@
 ---
 title: "Valentine Islands"
 date: 2018-02-14T11:27:58
-slug: valentine-islands-2
+slug: "valentine-islands-2"
 excerpt: "For Valentine’s Day, here is a repost from a few years ago of a series of Valentine Islands, not all of which are tropical. Are they islands of love on the storm-tossed seas of life?  Sadly, they probably are not, … Continue reading &rarr;"
 categories:
   - "Current"

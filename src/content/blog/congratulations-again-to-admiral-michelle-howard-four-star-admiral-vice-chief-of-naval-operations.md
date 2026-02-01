@@ -1,7 +1,7 @@
 ---
 title: "Congratulations, Again, to Admiral Michelle Howard, Four Star Admiral & Vice Chief of Naval Operations"
 date: 2014-07-02T12:09:37
-slug: congratulations-again-to-admiral-michelle-howard-four-star-admiral-vice-chief-of-naval-operations
+slug: "congratulations-again-to-admiral-michelle-howard-four-star-admiral-vice-chief-of-naval-operations"
 excerpt: "Last December, we congratulated Admiral Michelle Howard on her nomination to serve as Vice Chief for Naval Operations. The nomination was confirmed and yesterday she was promoted to the number two position in the US Navy. She will be the first woman … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

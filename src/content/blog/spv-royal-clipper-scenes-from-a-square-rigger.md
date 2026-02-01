@@ -1,7 +1,7 @@
 ---
 title: "SPV Royal Clipper — Scenes From a Square Rigger"
 date: 2024-04-30T17:15:30
-slug: spv-royal-clipper-scenes-from-a-square-rigger
+slug: "spv-royal-clipper-scenes-from-a-square-rigger"
 excerpt: "I have been away for the better part of a month on a transatlantic voyage on the Royal Clipper, one of only two five-masted full-rigged sailing ships ever built. Inspired by the windjammer Pruessen of 1902, the Royal Clipper sets … Continue reading &rarr;"
 categories:
   - "Current"

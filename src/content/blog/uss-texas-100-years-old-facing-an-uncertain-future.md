@@ -1,7 +1,7 @@
 ---
 title: "USS Texas at 100 Years Old — A Proud History & an Uncertain Future"
 date: 2014-03-16T12:45:46
-slug: uss-texas-100-years-old-facing-an-uncertain-future
+slug: "uss-texas-100-years-old-facing-an-uncertain-future"
 excerpt: "I remember visiting the battleship USS Texas in the San Jacinto River in Texas as schoolboy from Dallas while on a family vacation, almost fifty years ago.  Her 14″ guns were impressive and I still recall climbing around her anti-aircraft guns … Continue reading &rarr;"
 categories:
   - "Current"

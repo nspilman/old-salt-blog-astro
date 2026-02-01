@@ -1,7 +1,7 @@
 ---
-title: "The Costa Concordia’s “Black Box” – A Look at Voyage Data Recorders"
+title: "The Costa Concordia’s \"Black Box\" – A Look at Voyage Data Recorders"
 date: 2012-03-25T17:33:50
-slug: the-costa-concordias-black-box-a-look-at-voyage-data-recorders
+slug: "the-costa-concordias-black-box-a-look-at-voyage-data-recorders"
 excerpt: "What really happened on the Costa Concordia in the final hours leading up to and following her grounding and sinking off Giglio on January 13, 2012?  The first step in definitively answering that question began in early March when an Italian judge … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Kick ’em Jenny – Rocking Out Underwater"
 date: 2011-10-09T12:43:18
-slug: kick-em-jenny-rocking-out-underwater
+slug: "kick-em-jenny-rocking-out-underwater"
 excerpt: "A quick quiz.  Is Kick ’em Jenny a rockbilly singer, a Dutch Celtic Symfo-Folk band or an active submarine volcano on the floor of the Caribbean Sea?  The answer appears to be yes to all three. Kick ’em Jenny is a … Continue reading &rarr;"
 categories:
   - "Current"

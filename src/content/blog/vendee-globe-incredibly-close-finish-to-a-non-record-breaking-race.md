@@ -1,7 +1,7 @@
 ---
 title: "Vendee Globe: Incredibly Close Finish to a Non-Record-Breaking Race"
 date: 2021-01-28T13:33:54
-slug: vendee-globe-incredibly-close-finish-to-a-non-record-breaking-race
+slug: "vendee-globe-incredibly-close-finish-to-a-non-record-breaking-race"
 excerpt: "The Vendee Globe 2020-2021 has been a remarkable race by many standards. It was incredibly close, more competitors are likely to complete the race than in previous years, and the race times didn’t set any new records. For most of … Continue reading &rarr;"
 categories:
   - "Current"

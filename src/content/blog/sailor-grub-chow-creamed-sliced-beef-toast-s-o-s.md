@@ -1,7 +1,7 @@
 ---
 title: "Sailor Grub — CHOW: Creamed Sliced Beef on Toast (S.O.S.)"
 date: 2016-04-21T09:04:47
-slug: sailor-grub-chow-creamed-sliced-beef-toast-s-o-s
+slug: "sailor-grub-chow-creamed-sliced-beef-toast-s-o-s"
 excerpt: "Yesterday, we posted about a project to recreate sailor’s grub from the 17th century. Food for sailors has improved dramatically in the last three hundred years. Or has it?  The Naval Historical Foundation has a new blog titled CHOW which … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

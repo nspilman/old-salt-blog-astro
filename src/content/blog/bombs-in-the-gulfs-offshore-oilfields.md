@@ -1,7 +1,7 @@
 ---
 title: "Bombs in the Gulf’s Offshore Oilfields"
 date: 2012-10-04T08:21:43
-slug: bombs-in-the-gulfs-offshore-oilfields
+slug: "bombs-in-the-gulfs-offshore-oilfields"
 excerpt: "We have previously posted about unexploded bombs from World War II being exposed by drought along the Rhine and Mosel Rivers in Germany, about similar bombs being found in the port of Marseille and about World War II phosphorus munitions burning two … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

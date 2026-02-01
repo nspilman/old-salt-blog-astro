@@ -1,7 +1,7 @@
 ---
 title: "Mermaid Parade 2010 – Coney Island"
 date: 2010-06-21T13:13:23
-slug: mermaid-parade-2010-coney-island
+slug: "mermaid-parade-2010-coney-island"
 excerpt: "Happy Solstice to All.  One way that at least some New Yorkers mark the beginning of the summer is to observe or participate in the Mermaid Parade, an event celebrating  the sea and the season, in the Coney Island section … Continue reading &rarr;"
 categories:
   - "Current"

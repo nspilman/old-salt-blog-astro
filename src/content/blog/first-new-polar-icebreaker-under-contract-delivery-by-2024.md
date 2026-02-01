@@ -1,7 +1,7 @@
 ---
 title: "First New Polar Icebreaker Under Contract, Delivery by 2024"
 date: 2019-06-17T16:15:39
-slug: first-new-polar-icebreaker-under-contract-delivery-by-2024
+slug: "first-new-polar-icebreaker-under-contract-delivery-by-2024"
 excerpt: "The good news is that after years of not-so-benign neglect the US Coast Guard is finally getting an appropriation to build three new heavy polar icebreakers, followed by the construction of three new medium polar icebreakers. The Coast Guard currently … Continue reading &rarr;"
 categories:
   - "Current"

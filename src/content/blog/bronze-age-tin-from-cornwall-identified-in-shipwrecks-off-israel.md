@@ -1,7 +1,7 @@
 ---
 title: "Bronze Age Tin from Cornwall  Identified in Shipwrecks Off Israel"
 date: 2019-10-02T14:18:59
-slug: bronze-age-tin-from-cornwall-identified-in-shipwrecks-off-israel
+slug: "bronze-age-tin-from-cornwall-identified-in-shipwrecks-off-israel"
 excerpt: "One open question about the Bronze Age in the Middle East was where the tin was sourced. Bronze is an alloy of primarily copper and tin. Recently, scientists identified the surprising source of tin ingots found in three shipwrecks off … Continue reading &rarr;"
 categories:
   - "History"

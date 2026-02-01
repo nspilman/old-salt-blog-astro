@@ -1,7 +1,7 @@
 ---
 title: "Inventor of MarinaTex, Biodegradable Plastic from Fish Waste, Wins Dyson Award"
 date: 2019-11-24T17:30:20
-slug: inventor-of-marinatex-biodegradable-plastic-from-fish-waste-wins-dyson-award
+slug: "inventor-of-marinatex-biodegradable-plastic-from-fish-waste-wins-dyson-award"
 excerpt: "Lucy Hughes, a 24-year-old recent engineering graduate of the University of Sussex has won this year’s James Dyson Award for developing a biodegradable plastic from fish waste — the fish scales, skins, and guts discarded from fish processing plants. The material, MarinaTex, … Continue reading &rarr;"
 categories:
   - "Current"

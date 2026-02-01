@@ -1,7 +1,7 @@
 ---
 title: "Carnival Triumph Adrift After Breaking Moorings in High Winds, One Man Missing"
 date: 2013-04-04T02:34:46
-slug: carnival-triumph-adrift-after-breaking-moorings-in-high-winds-one-man-missing
+slug: "carnival-triumph-adrift-after-breaking-moorings-in-high-winds-one-man-missing"
 excerpt: "Winds gusting to near hurricane strength broke the moorings on the already damaged cruise ship Carnival Triumph at her berth at BAE Shipyard in the Port of Mobile, Alabama at 1:45 p.m. CT on Wednesday. The cruise ship, which had recently been … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Navy Tests New Laser Weapon at Sea"
 date: 2011-04-12T17:32:43
-slug: navy-tests-new-laser-weapon
+slug: "navy-tests-new-laser-weapon"
 excerpt: "The US Navy keeps trying to find new and different ways to blow things up.   Last December it demonstrated an electromagnetic railgun potentially capable of hitting a target 100 miles away.  Recently, it has used a a solid-state laser, aboard the USS … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "RCCL Grandeur of the Seas, Newly Refurbished, Catches Fire in the Bahamas, No Serious Injuries"
 date: 2013-05-28T19:48:47
-slug: rccl-grandeur-of-the-seas-newly-refurbished-catches-fire-in-the-bahamas-no-serious-injuries
+slug: "rccl-grandeur-of-the-seas-newly-refurbished-catches-fire-in-the-bahamas-no-serious-injuries"
 excerpt: "At around 2:50 AM Monday night a fire broke out on the Royal Caribbean cruise ship, Grandeur of the Seas, which had been bound for Coco Cay, Bahamas. The ship was rerouted to Freeport, Bahamas where the 2,224 passengers and 796 … Continue reading &rarr;"
 categories:
   - "Current"

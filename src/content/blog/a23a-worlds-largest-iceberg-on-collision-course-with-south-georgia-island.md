@@ -1,7 +1,7 @@
 ---
 title: "A23a, World’s Largest Iceberg, on Collision Course With South Georgia Island"
 date: 2025-01-25T19:12:33
-slug: a23a-worlds-largest-iceberg-on-collision-course-with-south-georgia-island
+slug: "a23a-worlds-largest-iceberg-on-collision-course-with-south-georgia-island"
 excerpt: "The world’s largest iceberg, designated A23a, is drifting northwards from Antarctica towards South Georgia, a British territory and wildlife haven, where it could ground and break into pieces. If that happens, it poses a grave threat to King Emperor penguins’ … Continue reading &rarr;"
 categories:
   - "Current"

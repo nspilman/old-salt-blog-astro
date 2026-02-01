@@ -1,7 +1,7 @@
 ---
 title: "Kalmar Nyckel Being Readied for 13th Sailing Season"
 date: 2010-04-05T10:36:14
-slug: kalmar-nyckel-being-readied-for-13th-sailing-season
+slug: "kalmar-nyckel-being-readied-for-13th-sailing-season"
 excerpt: "Kalmar Nyckel crew readies for spring sailing You can’t cobble up in a book all of what Captain Lauren Morgens and the 20-plus crew members who will be traveling abroad the Kalmar Nyckel for several months have learned from being … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

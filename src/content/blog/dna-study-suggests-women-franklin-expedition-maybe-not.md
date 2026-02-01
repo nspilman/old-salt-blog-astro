@@ -1,7 +1,7 @@
 ---
 title: "DNA Study Suggests Women Were on Franklin Expedition, Or Maybe Not"
 date: 2017-05-05T07:50:07
-slug: dna-study-suggests-women-franklin-expedition-maybe-not
+slug: "dna-study-suggests-women-franklin-expedition-maybe-not"
 excerpt: "Researchers have published the results of their analysis of DNA from 24 individuals who died on the ill-fated Franklin Northwest Passage Expedition.  Surprisingly, four of the 24 individuals appear to be European women, based on DNA markers. Were there women … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

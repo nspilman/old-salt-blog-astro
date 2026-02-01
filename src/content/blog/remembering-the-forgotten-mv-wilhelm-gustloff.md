@@ -1,7 +1,7 @@
 ---
 title: "Remembering the Forgotten MV Wilhelm Gustloff"
 date: 2015-01-30T13:25:42
-slug: remembering-the-forgotten-mv-wilhelm-gustloff
+slug: "remembering-the-forgotten-mv-wilhelm-gustloff"
 excerpt: "Seventy years ago today, on January 30, 1945, the German passenger liner MV Wilhelm Gustloff sank in the Baltic after being struck by three torpedoes from a Soviet submarine. An estimated 9,400 died in the sinking, making it the largest loss of … Continue reading &rarr;"
 categories:
   - "History"

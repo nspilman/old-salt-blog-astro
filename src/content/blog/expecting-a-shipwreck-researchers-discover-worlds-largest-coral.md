@@ -1,7 +1,7 @@
 ---
 title: "Expecting a Shipwreck, Researchers Discover World’s Largest Coral"
 date: 2024-11-14T21:37:04
-slug: expecting-a-shipwreck-researchers-discover-worlds-largest-coral
+slug: "expecting-a-shipwreck-researchers-discover-worlds-largest-coral"
 excerpt: "On the chart, it was marked as a shipwreck in the Pacific Ocean near the Solomon Islands, but when scientists and filmmakers from the National Geographic Society’s Pristine Seas took a closer look, they were shocked to find the world’s … Continue reading &rarr;"
 categories:
   - "Current"

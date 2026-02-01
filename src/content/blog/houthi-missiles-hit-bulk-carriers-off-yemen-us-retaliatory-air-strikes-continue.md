@@ -1,7 +1,7 @@
 ---
 title: "Houthi Missiles Hit Bulk Carriers Off Yemen; US Retaliatory Air Strikes Continue"
 date: 2024-01-16T17:46:19
-slug: houthi-missiles-hit-bulk-carriers-off-yemen-us-retaliatory-air-strikes-continue
+slug: "houthi-missiles-hit-bulk-carriers-off-yemen-us-retaliatory-air-strikes-continue"
 excerpt: "Houthi anti-ship missiles struck two more commercial ships in the Red Sea off Yemen in the last two days. There were no reports of injuries on either ship. On Tuesday, the Greek-owned 57,000 DWT bulk carrier MT Zografia with 24 … Continue reading &rarr;"
 categories:
   - "Current"

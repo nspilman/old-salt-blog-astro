@@ -1,7 +1,7 @@
 ---
 title: "On Lake Michigan — the Glorious Ice Shards of Spring"
 date: 2019-03-31T16:26:23
-slug: on-lake-michigan-the-glorious-ice-shards-of-spring
+slug: "on-lake-michigan-the-glorious-ice-shards-of-spring"
 excerpt: "One of the more paradoxical signs of spring along parts of Lake Michigan are the wild and wonderfully weird  ice shards which pile up in fantastic geometric patterns along the shoreline. As the lake begins to thaw, water underneath the … Continue reading &rarr;"
 categories:
   - "Current"

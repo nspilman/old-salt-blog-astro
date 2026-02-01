@@ -1,7 +1,7 @@
 ---
 title: "Chinese Aquarium Whale Shark Turns Out to Be a Robot"
 date: 2024-10-22T21:45:08
-slug: chinese-aquarium-whale-shark-turns-out-to-be-a-robot
+slug: "chinese-aquarium-whale-shark-turns-out-to-be-a-robot"
 excerpt: "After being closed for five years for renovations, the Xiaomeisha Sea World aquarium in Shenzhen, China reopened its doors on October 1. During its week-long trial run, the 60,000 sqm sea park attracted around 100,000 visitors who each paid around … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

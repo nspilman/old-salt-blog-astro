@@ -1,7 +1,7 @@
 ---
 title: "Photos Recovered from Digital Camera Dropped Overboard on Queen Mary"
 date: 2010-02-15T10:56:03
-slug: photos-recovered-from-digital-camera-dropped-overboard-on-queen-mary
+slug: "photos-recovered-from-digital-camera-dropped-overboard-on-queen-mary"
 excerpt: "Strange but true.  Digital memory cards are indeed an amazing technology. Couple’s precious holiday snaps recovered intact from the bottom of the Atlantic… 16 months after digital camera was dropped overboard from QM2 When Dennis and Barbara Gregory accidentally dropped … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

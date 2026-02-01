@@ -1,7 +1,7 @@
 ---
-title: "Shiplore Screening of “Trapped In Typhoon Alley” —  the Mystery of the Loss of the MV Derbyshire"
+title: "Shiplore Screening of \"Trapped In Typhoon Alley\" —  the Mystery of the Loss of the MV Derbyshire"
 date: 2019-03-16T17:57:15
-slug: shiplore-screening-of-trapped-in-typhoon-alley-the-mystery-of-loss-of-the-mv-derbyshire
+slug: "shiplore-screening-of-trapped-in-typhoon-alley-the-mystery-of-loss-of-the-mv-derbyshire"
 excerpt: "The disappearance of the Capesize bulk carrier MV Derbyshire in Typhoon Orchid shocked the shipping industry.  How a new, large and well-built ship with a trained crew could have simply vanished became a mystery that would take more than 20 years … Continue reading &rarr;"
 categories:
   - "Current"

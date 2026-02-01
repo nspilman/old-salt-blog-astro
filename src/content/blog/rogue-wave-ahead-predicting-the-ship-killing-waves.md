@@ -1,7 +1,7 @@
 ---
 title: "Warning: Rogue Wave Ahead — Predicting the Ship Killing Waves"
 date: 2016-03-04T09:05:38
-slug: rogue-wave-ahead-predicting-the-ship-killing-waves
+slug: "rogue-wave-ahead-predicting-the-ship-killing-waves"
 excerpt: "Originally posted on gCaptain by Rick Spilman, on March 3, 2016. Reposted with permission. Rogue waves are real sea monsters. Rising many times higher than surrounding waves, they have the power to sink ships and to cripple offshore platforms. Recently, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Saildrone Captures Video from Inside Category 4 Hurricane Sam"
 date: 2021-10-01T10:30:44
-slug: saildrone-captures-video-from-inside-category-4-hurricane-sam
+slug: "saildrone-captures-video-from-inside-category-4-hurricane-sam"
 excerpt: "Saildrone Inc. and the National Oceanic and Atmospheric Administration (NOAA) have released the first video footage gathered by an uncrewed surface vehicle (USV) from inside a major hurricane barreling across the Atlantic Ocean. From the Saidrone announcement: The Saildrone Explorer … Continue reading &rarr;"
 categories:
   - "Current"

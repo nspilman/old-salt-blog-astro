@@ -1,7 +1,7 @@
 ---
-title: "World War II Lard “Good Enough to Have a Fry Up With” Washes Ashore in Scotland"
+title: "World War II Lard \"Good Enough to Have a Fry Up With\" Washes Ashore in Scotland"
 date: 2013-01-21T09:18:10
-slug: world-war-ii-lard-good-enough-to-have-a-fry-up-with-washes-ashore-in-scotland
+slug: "world-war-ii-lard-good-enough-to-have-a-fry-up-with-washes-ashore-in-scotland"
 excerpt: "Recent winter storms have washed ashore four large, barrel-shaped pieces of lard onto the beach at St.Cyrus nature reserve in Scotland.  They are believed to be from the wreck of a merchant vessel that was bombed in WW II.  Therese Alampo, St … Continue reading &rarr;"
 categories:
   - "History"

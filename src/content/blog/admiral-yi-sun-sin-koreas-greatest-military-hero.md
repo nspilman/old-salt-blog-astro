@@ -1,7 +1,7 @@
 ---
 title: "Admiral Yi Sun-sin, Korea’s Greatest Military Hero"
 date: 2023-12-16T22:14:45
-slug: admiral-yi-sun-sin-koreas-greatest-military-hero
+slug: "admiral-yi-sun-sin-koreas-greatest-military-hero"
 excerpt: "Admiral Yi Sun-sin died 425 years ago today, in his final victory against the Japanese on behalf of the Joseon dynasty. He died of a gunshot wound at the Battle of Noryang on December 16, 1598, the closing battle of … Continue reading &rarr;"
 categories:
   - "History"

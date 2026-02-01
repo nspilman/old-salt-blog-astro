@@ -1,7 +1,7 @@
 ---
 title: "SS Robin, Oldest Steam Coaster, Soon to Have New Home"
 date: 2010-06-12T07:02:35
-slug: ss-robin-oldest-steam-coaster-soon-to-have-new-home
+slug: "ss-robin-oldest-steam-coaster-soon-to-have-new-home"
 excerpt: "The SS Robin, built in 1890, is the last remaining steam coaster in the world. She will soon be moved to a custom built pontoon barge which will support the old ship and serves as space for a floating museum. … Continue reading &rarr;"
 categories:
   - "Current"

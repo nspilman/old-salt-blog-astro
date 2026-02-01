@@ -1,7 +1,7 @@
 ---
 title: "The Vermont Sail Freight Project Building Sailing Barge to Carry Produce to NYC"
 date: 2013-04-05T08:06:18
-slug: the-vermont-sail-freight-project-seeking-to-build-sailboat-to-carry-produce-to-nyc
+slug: "the-vermont-sail-freight-project-seeking-to-build-sailboat-to-carry-produce-to-nyc"
 excerpt: "Next Wednesday, April 10th, from 6-9 the Working Harbor Committee is presenting Sailing Ships at Work – Past, Present and Future. If you are in the New York area be sure to stop by. (Click on the banner to the … Continue reading &rarr;"
 categories:
   - "Current"

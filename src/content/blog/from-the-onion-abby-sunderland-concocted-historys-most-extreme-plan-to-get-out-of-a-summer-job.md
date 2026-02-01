@@ -1,8 +1,8 @@
 ---
 title: "From the Onion : Abby Sunderland – Concocted History’s Most Extreme Plan To Get Out Of A Summer Job"
 date: 2010-12-14T15:42:41
-slug: from-the-onion-abby-sunderland-concocted-historys-most-extreme-plan-to-get-out-of-a-summer-job
-excerpt: "The Onion is a satire magazine.  In their “The People Who Mattered – 2010” they included their own take on 16 year old sailor Abby Sunderland’s attempted circumnavigation.  Moderately amusing.  To read our non-satirical posts about Abby click here. Abby Sunderland … Continue reading &rarr;"
+slug: "from-the-onion-abby-sunderland-concocted-historys-most-extreme-plan-to-get-out-of-a-summer-job"
+excerpt: "The Onion is a satire magazine.  In their \"The People Who Mattered – 2010\" they included their own take on 16 year old sailor Abby Sunderland’s attempted circumnavigation.  Moderately amusing.  To read our non-satirical posts about Abby click here. Abby Sunderland … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "satire"
   - "The Onion"
 author: "Rick Spilman"
-description: "The Onion is a satire magazine.  In their “The People Who Mattered – 2010” they included their own take on 16 year old sailor Abby Sunderland’s attempted circumnavigation.  Moderately amusing.  To read our non-satirical posts about Abby click here. Abby Sunderland … Continue reading &rarr;"
+description: "The Onion is a satire magazine.  In their \"The People Who Mattered – 2010\" they included their own take on 16 year old sailor Abby Sunderland’s attempted circumnavigation.  Moderately amusing.  To read our non-satirical posts about Abby click here. Abby Sunderland … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/abbey_large2.jpg)[The Onion](http://www.theonion.com/) is a satire magazine.  In their “[The People Who Mattered – 2010](http://www.theonion.com/channels/our-annual-year-2010/)” they included their own take on 16 year old sailor Abby Sunderland’s attempted circumnavigation.  Moderately amusing.  To read our non-satirical [posts about Abby click here](http://www.oldsaltblog.com/index.php?s=Abby+Sunderland+).

@@ -1,8 +1,8 @@
 ---
 title: "Bitten by Blackfish, SeaWorld Responds with Falsehoods"
 date: 2015-07-17T09:33:18
-slug: bitten-by-blackfish-seaworld-responds-with-falsehoods
-excerpt: "Seaworld continues to be bitten by the “Blackfish effect.”  In October of 2013, CNN aired “Blackfish,” a scathing documentary which looked at the almost 40 year history of orcas in captivity, leading up to the killing of SeaWorld trainer Dawn … Continue reading &rarr;"
+slug: "bitten-by-blackfish-seaworld-responds-with-falsehoods"
+excerpt: "Seaworld continues to be bitten by the \"Blackfish effect.\"  In October of 2013, CNN aired \"Blackfish,\" a scathing documentary which looked at the almost 40 year history of orcas in captivity, leading up to the killing of SeaWorld trainer Dawn … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

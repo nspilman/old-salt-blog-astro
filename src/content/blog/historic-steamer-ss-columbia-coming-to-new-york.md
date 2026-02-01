@@ -1,7 +1,7 @@
 ---
 title: "Historic Steamer SS Columbia Coming to New York!"
 date: 2014-09-21T11:32:47
-slug: historic-steamer-ss-columbia-coming-to-new-york
+slug: "historic-steamer-ss-columbia-coming-to-new-york"
 excerpt: "The passenger steamer SS Columbia is heading toward New York!  The goal is to restore the historic steamer, built in 1902, and to put her in service on the  Hudson River.  SS Columbia is the oldest surviving passenger steamship in … Continue reading &rarr;"
 categories:
   - "Current"

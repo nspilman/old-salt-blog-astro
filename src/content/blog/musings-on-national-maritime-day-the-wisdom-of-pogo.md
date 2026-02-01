@@ -1,7 +1,7 @@
 ---
 title: "Musings on National Maritime Day – the Wisdom of Pogo"
 date: 2013-05-22T12:24:26
-slug: musings-on-national-maritime-day-the-wisdom-of-pogo
+slug: "musings-on-national-maritime-day-the-wisdom-of-pogo"
 excerpt: "Today, in the United States, is National Maritime Day. There is a presidential proclamation and everything.  The day, May 22nd, was chosen because that was the date that the American steamship Savannah set sail from Savannah, Georgia in 1818 on the first … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

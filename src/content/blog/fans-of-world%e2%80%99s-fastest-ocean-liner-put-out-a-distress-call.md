@@ -1,8 +1,8 @@
 ---
 title: "Fans of World’s Fastest Ocean Liner Put Out a Distress Call"
 date: 2009-09-30T11:25:38
-slug: fans-of-world%e2%80%99s-fastest-ocean-liner-put-out-a-distress-call
-excerpt: "The Wall Street Journal today has an article about the SS United States Conservancy, a group of individuals who fervently wish to save the SS United States. I have the somewhat heretical view that the “Big U,” as she is called, is … Continue reading &rarr;"
+slug: "fans-of-world%e2%80%99s-fastest-ocean-liner-put-out-a-distress-call"
+excerpt: "The Wall Street Journal today has an article about the SS United States Conservancy, a group of individuals who fervently wish to save the SS United States. I have the somewhat heretical view that the \"Big U,\" as she is called, is … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "SS United States"
   - "SS United States Conservancy"
 author: "Rick Spilman"
-description: "The Wall Street Journal today has an article about the SS United States Conservancy, a group of individuals who fervently wish to save the SS United States. I have the somewhat heretical view that the “Big U,” as she is called, is … Continue reading &rarr;"
+description: "The Wall Street Journal today has an article about the SS United States Conservancy, a group of individuals who fervently wish to save the SS United States. I have the somewhat heretical view that the \"Big U,\" as she is called, is … Continue reading &rarr;"
 ---
 
 ![sunited](http://www.oldsaltblog.com/wp-content/uploads/2009/04/sunited.jpg)The [Wall Street Journal](http://online.wsj.com/article/SB125417162355547323.html) today has an article about the [SS United States Conservancy](http://ssunitedstatesconservancy.org/SSUS/blog/), a group of individuals who fervently wish to save the *[SS United States](http://en.wikipedia.org/wiki/SS_United_States)*.

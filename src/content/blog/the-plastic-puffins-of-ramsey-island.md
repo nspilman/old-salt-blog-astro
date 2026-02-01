@@ -1,7 +1,7 @@
 ---
 title: "The Plastic Puffins of Ramsey Island"
 date: 2011-04-13T13:18:01
-slug: the-plastic-puffins-of-ramsey-island
+slug: "the-plastic-puffins-of-ramsey-island"
 excerpt: "I can imagine a couple of bird watchers who become excited when they sight puffins on Pembrokeshire’s Ramsey Island.   There haven’t been puffins on the island since the 1890s when they were killed off by rats.  The rats are gone now, but … Continue reading &rarr;"
 categories:
   - "Current"

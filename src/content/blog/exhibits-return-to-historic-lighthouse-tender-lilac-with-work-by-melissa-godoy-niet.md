@@ -1,7 +1,7 @@
 ---
 title: "Exhibits Return to Historic Lighthouse Tender Lilac With Work By Melissa Godoy Niet"
 date: 2021-08-18T15:43:31
-slug: exhibits-return-to-historic-lighthouse-tender-lilac-with-work-by-melissa-godoy-niet
+slug: "exhibits-return-to-historic-lighthouse-tender-lilac-with-work-by-melissa-godoy-niet"
 excerpt: "In addition to being a museum ship as America’s only steam-powered lighthouse tender, the ex-USCG Cutter Lilac serves as a community arts and education space. Unfortunately in the past year, the pandemic temporarily shut these programs down.  Now the exhibitions … Continue reading &rarr;"
 categories:
   - "Current"

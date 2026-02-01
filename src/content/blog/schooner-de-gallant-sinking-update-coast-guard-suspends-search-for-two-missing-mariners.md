@@ -1,7 +1,7 @@
 ---
 title: "Schooner De Gallant Sinking Update: Coast Guard Suspends Search for Two Missing Mariners"
 date: 2024-05-24T12:37:57
-slug: schooner-de-gallant-sinking-update-coast-guard-suspends-search-for-two-missing-mariners
+slug: "schooner-de-gallant-sinking-update-coast-guard-suspends-search-for-two-missing-mariners"
 excerpt: "We recently posted about the sinking of the cargo schooner De Gallant early Tuesday morning, 22 nautical miles north of the Bahamas island of Great Inagua, with eight sailors on board. Six of the crew were rescued from life rafts … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
-title: "French “Superyacht” Yogi Sinks in the Aegean Sea, Eight Rescued"
+title: "French \"Superyacht\" Yogi Sinks in the Aegean Sea, Eight Rescued"
 date: 2012-02-18T09:36:54
-slug: french-superyacht-yogi-sinks-in-the-aegean-sea-eight-rescued
+slug: "french-superyacht-yogi-sinks-in-the-aegean-sea-eight-rescued"
 excerpt: "Looking slightly like a miniature Costa Concordia, the  60.2 meter (197′) French yacht Yogi rolled and sank after reporting a ‘mechanical failure’ in high seas and Force 8 winds on Friday.  The yacht sank between the islands of Skyros and Psara, 19 nautical miles … Continue reading &rarr;"
 categories:
   - "Current"
@@ -9,7 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Aegean Sea"
-  - "French "Superyacht""
+  - "French \"Superyacht\""
   - "Greek Coast Guard"
   - "Psara"
   - "Skyros"

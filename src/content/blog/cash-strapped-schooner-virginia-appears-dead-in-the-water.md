@@ -1,7 +1,7 @@
 ---
 title: "Cash-strapped Schooner Virginia appears dead in the water"
 date: 2010-10-17T14:41:59
-slug: cash-strapped-schooner-virginia-appears-dead-in-the-water
+slug: "cash-strapped-schooner-virginia-appears-dead-in-the-water"
 excerpt: "In 2007 the schooner Virginia won the great Chesapeake Bay Schooner race, establishing a record time which remains unbeaten.   This year, sadly, while the other schooners raced, she remained tied to a dock in  Norfolk, Virginia. Cash-strapped Schooner Virginia appears dead in the water … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Long Goodbye to the Historic Sailing Ship Falls of Clyde"
 date: 2025-07-23T18:04:11
-slug: the-long-goodbye-to-the-historic-sailing-ship-falls-of-clyde
+slug: "the-long-goodbye-to-the-historic-sailing-ship-falls-of-clyde"
 excerpt: "It has been a long time coming, but it appears that the historic sailing ship Falls of Clyde will finally be removed from Honolulu Harbor to be sunk about 12 miles south of the harbor. The ship has been threatened … Continue reading &rarr;"
 categories:
   - "Current"

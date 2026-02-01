@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup to be sailed in San Francisco in 2013"
 date: 2011-01-01T12:33:15
-slug: americas-cup-to-be-sailed-in-san-francisco-in-2013
+slug: "americas-cup-to-be-sailed-in-san-francisco-in-2013"
 excerpt: "The 34th America’s Cup races will be sailed in San Francisco bay in 2013.   San Francisco  beat out Newport and an unnamed Italian port city.  This will be the first time that America’s Cup races will be hosted by the city by the … Continue reading &rarr;"
 categories:
   - "Current"

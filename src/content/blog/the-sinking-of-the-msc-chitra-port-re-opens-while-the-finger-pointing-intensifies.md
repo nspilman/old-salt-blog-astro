@@ -1,7 +1,7 @@
 ---
 title: "The Sinking of the MSC Chitra: Port Re-opens while the Finger-pointing Intensifies"
 date: 2010-08-12T12:04:38
-slug: the-sinking-of-the-msc-chitra-port-re-opens-while-the-finger-pointing-intensifies
+slug: "the-sinking-of-the-msc-chitra-port-re-opens-while-the-finger-pointing-intensifies"
 excerpt: "The containership MSC Chitra and the bulk carrier Khalijia 3 collided near Mumbai, India on Saturday, resulting in the sinking of the  MSC Chitra, a significant oil spill and the loss of at least 200 containers in the ship channel which … Continue reading &rarr;"
 categories:
   - "Current"

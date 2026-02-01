@@ -1,7 +1,7 @@
 ---
 title: "North Korea’s Dangerous & Decrepit Submarine Fleet"
 date: 2016-07-14T09:08:32
-slug: north-koreas-dangerous-decrepit-submarine-fleet
+slug: "north-koreas-dangerous-decrepit-submarine-fleet"
 excerpt: "Last Saturday, a North Korean submarine fired a ballistic missile while submerged off the country’s eastern coast.  The missile was successfully ejected from the submarine but the missile was believed to have failed in its initial flight stage. This was the … Continue reading &rarr;"
 categories:
   - "Current"

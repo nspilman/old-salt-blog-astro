@@ -1,7 +1,7 @@
 ---
 title: "Billboards for Submarines?"
 date: 2009-09-24T09:52:40
-slug: billboards-for-submarines
+slug: "billboards-for-submarines"
 excerpt: "We previously posted about the Royal Navy installing Windows on submarines. We were relieved to learn that the  reference was to an a computer operating system and not panes of glass.    Then again, it appears that the late Ivar Haglund, owner … Continue reading &rarr;"
 categories:
   - "Current"

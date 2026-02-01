@@ -1,7 +1,7 @@
 ---
 title: "Ocean Plastic Innovation Challenge — Save the Ocean! Win Valuable Prizes! (Really)"
 date: 2019-02-24T13:54:54
-slug: ocean-plastic-innovation-challenge-save-the-ocean-win-valuable-prizes-really
+slug: "ocean-plastic-innovation-challenge-save-the-ocean-win-valuable-prizes-really"
 excerpt: "Each year more than 9 million tons of plastic makes its way into the oceans of the world. Plastic debris in ocean garbage patches is growing exponentially. By one estimate, there will be more plastic than fish in the ocean … Continue reading &rarr;"
 categories:
   - "Current"

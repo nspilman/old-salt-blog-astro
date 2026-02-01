@@ -1,7 +1,7 @@
 ---
-title: "Will Whistleblower Rewards & Huge Fines End Cruise Line “Culture of Crime?”"
+title: "Will Whistleblower Rewards & Huge Fines End Cruise Line \"Culture of Crime?\""
 date: 2017-05-08T19:11:21
-slug: will-whistleblower-rewards-huge-fines-end-cruise-line-culture-crime
+slug: "will-whistleblower-rewards-huge-fines-end-cruise-line-culture-crime"
 excerpt: "For one Scottish ship’s engineer doing the right thing paid off. In 2013, Christopher Keays risked his entire career when he turned whistleblower shortly after taking a job as a junior engineer on board the cruise ship, Caribbean Princess. At the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

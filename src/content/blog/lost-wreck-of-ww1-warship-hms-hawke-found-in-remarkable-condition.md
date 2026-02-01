@@ -1,7 +1,7 @@
 ---
 title: "Lost Wreck of WW1 Warship HMS Hawke Found in ‘Remarkable’ Condition"
 date: 2024-08-16T18:11:43
-slug: lost-wreck-of-ww1-warship-hms-hawke-found-in-remarkable-condition
+slug: "lost-wreck-of-ww1-warship-hms-hawke-found-in-remarkable-condition"
 excerpt: "The BBC reports that the wreck discovered off the Aberdeenshire coast is believed to be the lost Royal Navy warship HMS Hawke sunk by a torpedo during World War One. The wreck of the Edgar-class protected cruiser was discovered by a … Continue reading &rarr;"
 categories:
   - "History"

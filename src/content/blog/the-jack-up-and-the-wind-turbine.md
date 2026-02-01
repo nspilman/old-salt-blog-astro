@@ -1,7 +1,7 @@
 ---
 title: "The Jack-Up and the Wind Turbine"
 date: 2011-07-20T09:33:58
-slug: the-jack-up-and-the-wind-turbine
+slug: "the-jack-up-and-the-wind-turbine"
 excerpt: "Some times all it takes is a photo to demonstrate how much things have changed and what has stayed the same. I recall as a boy watching jack-up rigs being put into operation off the coast of Texas in the Gulf of … Continue reading &rarr;"
 categories:
   - "Current"

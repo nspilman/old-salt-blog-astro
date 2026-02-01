@@ -1,7 +1,7 @@
 ---
 title: "Updates: Murderer on HMS Astute Sentenced, Kidnapped Briton in Somalia & MSC Luciana Refloated"
 date: 2011-09-21T16:14:42
-slug: updates-murderer-on-hms-allure-sentenced-kidnapped-briton-in-somalia-msc-luciana-refloated
+slug: "updates-murderer-on-hms-allure-sentenced-kidnapped-briton-in-somalia-msc-luciana-refloated"
 excerpt: "Updates on three previous posts:  On Monday, Able Seaman Ryan Donovan was sentenced to life imprisonment after pleading guilty to murdering a senior officer on board the HMS Astute last April.   Submariner’s grudge turned proud day into tragedy British tourist Judith Tebbutt, … Continue reading &rarr;"
 categories:
   - "Current"

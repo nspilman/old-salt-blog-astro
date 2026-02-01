@@ -1,7 +1,7 @@
 ---
 title: "Returning After Sandy – Destruction, Sadness and Recovery"
 date: 2012-11-02T10:48:29
-slug: returning-after-sandy-destruction-sadness-and-recovery
+slug: "returning-after-sandy-destruction-sadness-and-recovery"
 excerpt: "Last Monday night, the lights went out for over 8 million people in the Northeast and Central United States as Superstorm Sandy sent high winds and a record storm surge ashore. It was the worst storm to hit New York … Continue reading &rarr;"
 categories:
   - "Current"

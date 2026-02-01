@@ -1,7 +1,7 @@
 ---
 title: "Sailing Around the Globe, Part 1 — Picton Castle"
 date: 2017-05-16T09:55:57
-slug: sailing-around-globe-part-1-picton-castle
+slug: "sailing-around-globe-part-1-picton-castle"
 excerpt: "Let’s say that you want to circumnavigate the world by sail and yet you don’t necessarily have enough experience or even, for that matter, a boat. All the same, you really want to make a-once-in-a-lifetime voyage where you are more than just a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

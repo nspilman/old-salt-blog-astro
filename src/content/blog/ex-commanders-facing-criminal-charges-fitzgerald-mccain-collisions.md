@@ -1,7 +1,7 @@
 ---
 title: "Ex-Commanders Facing Criminal Charges for Fitzgerald and McCain Collisions"
 date: 2018-01-17T10:50:45
-slug: ex-commanders-facing-criminal-charges-fitzgerald-mccain-collisions
+slug: "ex-commanders-facing-criminal-charges-fitzgerald-mccain-collisions"
 excerpt: "The Navy has announced that five officers involved in two deadly ship collisions are facing a variety of criminal charges including negligent homicide. The officers facing charges include Cmdr. Bryce Benson, former captain of the USS Fitzgerald, and Cmdr. Alfredo J. Sanchez, former captain … Continue reading &rarr;"
 categories:
   - "Current"

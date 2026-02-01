@@ -1,7 +1,7 @@
 ---
 title: "Albatross, Amazing Flyers, Not So Great at Landing"
 date: 2021-03-15T15:22:26
-slug: albatross-amazing-flyers-not-so-great-at-landing
+slug: "albatross-amazing-flyers-not-so-great-at-landing"
 excerpt: "Yesterday we posted about Wisdom, an albatross who is at least 70 years old, who recently hatched another chick, making it the oldest breeding bird in recorded history. In a comment on the post, Irwin Bryan pointed out a video … Continue reading &rarr;"
 categories:
   - "Current"

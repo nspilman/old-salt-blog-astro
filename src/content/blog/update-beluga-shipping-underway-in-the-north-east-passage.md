@@ -1,12 +1,12 @@
 ---
 title: "Update: Beluga Shipping Underway in the North East Passage"
 date: 2009-09-12T08:02:54
-slug: update-beluga-shipping-underway-in-the-north-east-passage
-excerpt: "We have been following the progress of Beluga Shipping in their attempt to make a commercial transit of the “Northern Sea Route” which is also referred to as the “North East Passage.”  See our “Beluga Group attempts the Northern Sea Route” … Continue reading &rarr;"
+slug: "update-beluga-shipping-underway-in-the-north-east-passage"
+excerpt: "We have been following the progress of Beluga Shipping in their attempt to make a commercial transit of the \"Northern Sea Route\" which is also referred to as the \"North East Passage.\"  See our \"Beluga Group attempts the Northern Sea Route\" … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "We have been following the progress of Beluga Shipping in their attempt to make a commercial transit of the “Northern Sea Route” which is also referred to as the “North East Passage.”  See our “Beluga Group attempts the Northern Sea Route” … Continue reading &rarr;"
+description: "We have been following the progress of Beluga Shipping in their attempt to make a commercial transit of the \"Northern Sea Route\" which is also referred to as the \"North East Passage.\"  See our \"Beluga Group attempts the Northern Sea Route\" … Continue reading &rarr;"
 ---
 
 [![passage_600a](http://www.oldsaltblog.com/wp-content/uploads/2009/09/passage_600a.jpg)](http://www.nytimes.com/2009/09/11/science/earth/11passage.html?_r=1&scp=1&sq=beluga&st=cse)We have been following the progress of [Beluga Shipping](http://www.beluga-group.com/en/) in their attempt to make a commercial transit of the “Northern Sea Route” which is also referred to as the “North East Passage.”  See our “[Beluga Group attempts the Northern Sea Route](http://www.oldsaltblog.com/2009/08/01/beluga-group-attempts-the-northern-sea-route/)” and “[Arctic Waters are Getting Busier](http://www.oldsaltblog.com/2009/08/08/arctic-waters-are-getting-busier/)“.

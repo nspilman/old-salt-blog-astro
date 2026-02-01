@@ -1,7 +1,7 @@
 ---
 title: "Post Irene Wrap-up: How the Ships & Boats Coped with the Storm"
 date: 2011-08-28T20:36:43
-slug: post-irene-wrap-up
+slug: "post-irene-wrap-up"
 excerpt: "Hurricane Irene has swept past, not as bad as she could have been, but bad enough, nevertheless.  Downgraded to a tropical storm by 9AM this morning, she still caused significant flooding on the East coast, hitting  Philadelphia  particularly hard. The city, situated between the Delaware … Continue reading &rarr;"
 categories:
   - "Current"

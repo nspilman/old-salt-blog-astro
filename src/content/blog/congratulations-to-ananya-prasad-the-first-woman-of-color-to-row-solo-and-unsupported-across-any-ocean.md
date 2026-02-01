@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Ananya Prasad, the First Woman of Color to Row Solo and Unsupported Across any Ocean "
 date: 2025-02-04T21:41:26
-slug: congratulations-to-ananya-prasad-the-first-woman-of-color-to-row-solo-and-unsupported-across-any-ocean
+slug: "congratulations-to-ananya-prasad-the-first-woman-of-color-to-row-solo-and-unsupported-across-any-ocean"
 excerpt: "Congratulations to Ananya Prasad for completing the 2024-2025 World’s Toughest Row – Atlantic Challenge, a 3,000 mile race across the Atlantic Ocean from San Sebastian in La Gomera, Canary Islands to Nelson’s Dockyard, Antigua after 52 days at sea. The … Continue reading &rarr;"
 categories:
   - "Current"

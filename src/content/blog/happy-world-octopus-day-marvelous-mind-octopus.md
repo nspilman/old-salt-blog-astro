@@ -1,7 +1,7 @@
 ---
 title: "Happy World Octopus Day ! The Marvelous Mind of an Octopus"
 date: 2013-10-08T10:32:28
-slug: happy-world-octopus-day-marvelous-mind-octopus
+slug: "happy-world-octopus-day-marvelous-mind-octopus"
 excerpt: "According to the folks at the National Aquarium, today is the tenth annual celebration of World Octopus Day.  Strange that I didn’t have it marked on my calendar.  In honor of this auspicious eight-legged holiday we are reposting a a … Continue reading &rarr;"
 categories:
   - "Current"

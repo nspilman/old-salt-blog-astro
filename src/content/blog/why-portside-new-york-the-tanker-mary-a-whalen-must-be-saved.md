@@ -1,7 +1,7 @@
 ---
 title: "Why PortSide New York & the Tanker Mary A. Whalen Must be Saved"
 date: 2012-03-06T09:15:17
-slug: why-portside-new-york-the-tanker-mary-a-whalen-must-be-saved
+slug: "why-portside-new-york-the-tanker-mary-a-whalen-must-be-saved"
 excerpt: "Portside New York, based on the historic tanker Mary A. Whalen, has been putting on fantastic educational, cultural and and community programs and events on the Brooklyn waterfront front for the the last six years, without ever having a permanent berth.  Now PortSide is … Continue reading &rarr;"
 categories:
   - "Current"

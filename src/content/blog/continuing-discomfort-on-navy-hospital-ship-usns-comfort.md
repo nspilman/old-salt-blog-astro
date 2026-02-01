@@ -1,7 +1,7 @@
 ---
 title: "Continuing Discomfort on Navy Hospital Ship USNS Comfort"
 date: 2015-07-13T15:19:25
-slug: continuing-discomfort-on-navy-hospital-ship-usns-comfort
+slug: "continuing-discomfort-on-navy-hospital-ship-usns-comfort"
 excerpt: "We posted last April that the hospital ship USNS Comfort has deployed on Continuing Promise 2015, a five month mission to eleven nations in Central and South America and the Caribbean. Not all has gone well. On July 9, as reported by the Navy Times, … Continue reading &rarr;"
 categories:
   - "Current"

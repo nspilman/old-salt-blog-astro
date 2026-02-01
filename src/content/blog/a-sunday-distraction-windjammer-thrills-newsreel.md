@@ -1,7 +1,7 @@
 ---
 title: "A Sunday Distraction — Windjammer Thrills Newsreel"
 date: 2020-03-22T16:08:40
-slug: a-sunday-distraction-windjammer-thrills-newsreel
+slug: "a-sunday-distraction-windjammer-thrills-newsreel"
 excerpt: "As a brief respite from the current madness, here is a mixed-up montage of sailing footage from the Castle Films newsreel named Windjammer Thrills. The newsreel starts with the square-rigged training ship Christian Radich, moves on to fishing schooner races … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

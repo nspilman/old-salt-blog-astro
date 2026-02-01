@@ -1,7 +1,7 @@
 ---
 title: "Dismantling the Ground Zero Ship"
 date: 2010-07-27T10:03:54
-slug: dismantling-the-ground-zero-ship
+slug: "dismantling-the-ground-zero-ship"
 excerpt: "A follow-up to our previous post – 18th Century Ship Found Buried at New York’s World Trade Center Site.  Workers are now beginning to dismantle what is left of the ship, plank by plank, for preservation.    Last week,  Atlantic Wire  posted an interesting … Continue reading &rarr;"
 categories:
   - "Current"

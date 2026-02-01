@@ -1,7 +1,7 @@
 ---
 title: "Trouble on the Delaware – Three Historic Ships at Risk"
 date: 2010-08-19T14:35:39
-slug: trouble-on-the-delaware-three-historic-ships-at-risk
+slug: "trouble-on-the-delaware-three-historic-ships-at-risk"
 excerpt: "The day after Philadelphia’s tall ship, the newly repaired, Gazela, arrived in New York harbor, an article in this morning’s New York Times focussed on the three historic ships in trouble on the Delaware River, in or near Philadelphia – the Olympia, the battleship … Continue reading &rarr;"
 categories:
   - "Current"

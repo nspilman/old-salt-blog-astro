@@ -1,7 +1,7 @@
 ---
 title: "Nautical Writers on Writing and the Age of Sail – Linda Collison Interviews Margaret Muir"
 date: 2011-07-26T09:42:28
-slug: nautical-writers-on-writing-and-the-age-of-sail-linda-collison-interviews-margaret-muir
+slug: "nautical-writers-on-writing-and-the-age-of-sail-linda-collison-interviews-margaret-muir"
 excerpt: "I am a big fan of both Margaret Muir and Linda Collison.  Both are marvelous writers – skilled story tellers whose writing about the Age of Sail has both an immediacy and an understated authenticity that draws the reader into … Continue reading &rarr;"
 categories:
   - "Current"

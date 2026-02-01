@@ -1,7 +1,7 @@
 ---
 title: "On the Hip — Working Harbor Committee Virtual Gala on October 20th"
 date: 2020-10-07T11:54:37
-slug: on-the-hip-working-harbor-committee-virtual-gala-on-october-20th
+slug: "on-the-hip-working-harbor-committee-virtual-gala-on-october-20th"
 excerpt: "Like so many other organizations, the Working Harbor Committee has had to rethink its annual gala, which raises funds for the organization and honors leaders in the Working Waterfront. This year the gala will be virtual on Tuesday, October 20, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "East Coast Lobster Fisheries – the Best of Times and the Worst of Times"
 date: 2011-08-29T10:15:55
-slug: east-coast-lobster-fisheries-the-best-of-times-and-the-worst-of-times
+slug: "east-coast-lobster-fisheries-the-best-of-times-and-the-worst-of-times"
 excerpt: "These are strange days in the lobster fisheries. Depending on where you are on the US East Coast, lobster fishing either is in trouble or is booming.  Even where thing are going well, there are serious concerns about the future. Earlier this year, the Atlantic … Continue reading &rarr;"
 categories:
   - "Current"

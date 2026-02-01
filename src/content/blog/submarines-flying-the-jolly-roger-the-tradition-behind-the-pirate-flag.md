@@ -1,7 +1,7 @@
 ---
 title: "Submarines Flying the Jolly Roger, the Tradition Behind the Pirate Flag"
 date: 2019-04-03T15:09:53
-slug: submarines-flying-the-jolly-roger-the-tradition-behind-the-pirate-flag
+slug: "submarines-flying-the-jolly-roger-the-tradition-behind-the-pirate-flag"
 excerpt: "The National Museum of the Royal Navy at the Portsmouth Historic Dockyard has a new exhibition — Jolly Roger: A Symbol of Terror and Pride. The website describes the exhibition as telling the story of the skull and crossbones flag, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Alexander Graham Bell and the Hydrodome #4"
 date: 2018-06-27T08:36:43
-slug: alexander-graham-bell-and-the-hydrodome-4
+slug: "alexander-graham-bell-and-the-hydrodome-4"
 excerpt: "Most of us think of Alexander Graham Bell as the inventor of the telephone, as indeed he was. He was also an early pioneer in hydrofoil boats. His hydrofoil, Hydrodome #4, better known as the HD-4, set a world marine speed record … Continue reading &rarr;"
 categories:
   - "History"

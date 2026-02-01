@@ -1,7 +1,7 @@
 ---
 title: "Update: SS Badger — MARAD Approves $600,000 Study to Convert Coal-Burning Steamship to Zero-Emissions"
 date: 2023-09-21T16:37:37
-slug: update-ss-badger-marad-approves-600000-study-to-convert-coal-burning-steamship-to-zero-emissions
+slug: "update-ss-badger-marad-approves-600000-study-to-convert-coal-burning-steamship-to-zero-emissions"
 excerpt: "The U.S. Department of Transportation’s Maritime Administration (MARAD) has awarded nearly $12 million in grants to eight marine highway projects across the nation under the United States Marine Highway Program (USMHP).  One of these grants, $600,000 awarded to Lake Michigan … Continue reading &rarr;"
 categories:
   - "Current"

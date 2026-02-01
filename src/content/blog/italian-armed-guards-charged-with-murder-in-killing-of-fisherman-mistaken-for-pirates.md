@@ -1,7 +1,7 @@
 ---
 title: "Italian Armed Guards Charged with Murder in Killing of Fisherman Mistaken for Pirates"
 date: 2012-02-16T19:42:44
-slug: italian-armed-guards-charged-with-murder-in-killing-of-fisherman-mistaken-for-pirates
+slug: "italian-armed-guards-charged-with-murder-in-killing-of-fisherman-mistaken-for-pirates"
 excerpt: "Armed guards, reported to be Italian naval personnel, on the tanker, Enrica Lexie, fired on and killed two Tamil Nadu fishermen off Kochi on Wednesday, believing the fishermen to be pirates.  Indian authorities said the Italian guards fired without warning in violation … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "On World Parkinson’s Day —  Patrick Morrissey  & Team HPP Row Across the Pacific To Beat Parkinson’s"
 date: 2025-04-11T20:48:10
-slug: on-world-parkinsons-day-patrick-morrissey-team-hpp-row-across-the-pacific-to-beat-parkinsons
+slug: "on-world-parkinsons-day-patrick-morrissey-team-hpp-row-across-the-pacific-to-beat-parkinsons"
 excerpt: "Today, April 11th, is World Parkinson’s Day. Parkinson’s disease is a progressive and debilitating neurological disorder affecting millions of people worldwide. It is the fastest growing and the second most prevalent neurological condition, affecting an estimated 11.8 million people worldwide. … Continue reading &rarr;"
 categories:
   - "Current"

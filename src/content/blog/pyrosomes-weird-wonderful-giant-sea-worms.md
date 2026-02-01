@@ -1,7 +1,7 @@
 ---
 title: "Pyrosomes — Weird & Wonderful Giant Sea Worms"
 date: 2019-02-23T19:34:40
-slug: pyrosomes-weird-wonderful-giant-sea-worms
+slug: "pyrosomes-weird-wonderful-giant-sea-worms"
 excerpt: "Here is a wonderful video of a 26′ long pyrosome, a translucent worm-like creature, videoed off the coast of New Zealand. Pyrosomes, which can grow up to 30′ long are, of course, are not actually worms. They are not even … Continue reading &rarr;"
 categories:
   - "Current"

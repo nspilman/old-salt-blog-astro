@@ -1,8 +1,8 @@
 ---
 title: "2014 Race to Mackinac"
 date: 2014-08-23T07:24:42
-slug: 2014-race-to-mackinac
-excerpt: "A beautiful short video. “The 2014 Chicago to Mackinac Yacht Race aboard Chief was 289 non-stop nautical miles. For 106 years the race has been many things. It’s an annual ritual, a reunion, a test of skill, of boat handling and … Continue reading &rarr;"
+slug: "2014-race-to-mackinac"
+excerpt: "A beautiful short video. \"The 2014 Chicago to Mackinac Yacht Race aboard Chief was 289 non-stop nautical miles. For 106 years the race has been many things. It’s an annual ritual, a reunion, a test of skill, of boat handling and … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

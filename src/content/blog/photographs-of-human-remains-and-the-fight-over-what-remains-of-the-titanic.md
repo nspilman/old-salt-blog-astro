@@ -1,7 +1,7 @@
 ---
 title: "Photographs of Human Remains and the Fight Over What Remains of the Titanic"
 date: 2012-04-17T08:34:08
-slug: photographs-of-human-remains-and-the-fight-over-what-remains-of-the-titanic
+slug: "photographs-of-human-remains-and-the-fight-over-what-remains-of-the-titanic"
 excerpt: "Very few of the bodies of the 1514 passengers and crews who died on the Titanic were ever recovered.  Recently released photographs, which raise the question of whether or not here are human remains at the wreck site, have become central to a … Continue reading &rarr;"
 categories:
   - "Current"

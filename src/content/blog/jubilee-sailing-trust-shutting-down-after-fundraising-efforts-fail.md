@@ -1,7 +1,7 @@
 ---
 title: "Jubilee Sailing Trust Shutting Down After Fundraising Efforts Fail"
 date: 2023-12-19T18:01:50
-slug: jubilee-sailing-trust-shutting-down-after-fundraising-efforts-fail
+slug: "jubilee-sailing-trust-shutting-down-after-fundraising-efforts-fail"
 excerpt: "After years of financial struggle, the Jubilee Sailing Trust has announced the closure of the company that owns and operates the tall ship SV Tenacious. The charity Jubilee Sailing Trust (JST) was founded in 1978 and has taken over 55,000 … Continue reading &rarr;"
 categories:
   - "Current"

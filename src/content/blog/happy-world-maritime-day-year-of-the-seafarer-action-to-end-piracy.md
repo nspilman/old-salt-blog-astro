@@ -1,7 +1,7 @@
 ---
 title: "On World Maritime Day: Year of the Seafarer – Demands for Action to End Piracy"
 date: 2010-09-23T09:54:19
-slug: happy-world-maritime-day-year-of-the-seafarer-action-to-end-piracy
+slug: "happy-world-maritime-day-year-of-the-seafarer-action-to-end-piracy"
 excerpt: "Every year the International Maritime Organization (IMO) observes World Maritime Day during the last week of September. The IMO headquarters is celebrating today, Thursday, September 24th, though in Buenos Aires, Argentina and Vancouver, Canada, they will be celebrating the event on … Continue reading &rarr;"
 categories:
   - "Current"

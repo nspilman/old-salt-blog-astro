@@ -1,7 +1,7 @@
 ---
 title: "Happy 100th Birthday to the Barque Passat !"
 date: 2011-05-12T09:37:32
-slug: happy-100th-birthday-to-the-barque-passat
+slug: "happy-100th-birthday-to-the-barque-passat"
 excerpt: "Today through Sunday, there will be a 100th birthday party in Travemünde, Germany, for one of the last of the true windjammers, the four masted barque Passat.  One of the F. Laeisz Flying P-Liners, she was in launched 1911 at the Blohm & … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

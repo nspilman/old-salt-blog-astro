@@ -1,7 +1,7 @@
 ---
 title: "USCG Cutter Mohawk to become Reef off Sanibel Isalnd, FL"
 date: 2011-11-25T10:32:44
-slug: uscg-cutter-mohawk-to-become-reef-off-sanibel-isalnd-fl
+slug: "uscg-cutter-mohawk-to-become-reef-off-sanibel-isalnd-fl"
 excerpt: "The World War II era US Coast Guard Cutter Mohawk is scheduled to be  scuttled in 2012, 16 miles off the coast of Sanibel Island, FL in the Gulf of Mexico to serve as an artificial reef. Veteran’s Memorial Reef planned off … Continue reading &rarr;"
 categories:
   - "Current"

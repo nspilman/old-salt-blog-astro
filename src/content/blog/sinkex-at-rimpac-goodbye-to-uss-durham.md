@@ -1,7 +1,7 @@
 ---
 title: "SINKEX at RIMPAC, Goodbye to USS Durham"
 date: 2020-09-01T11:54:05
-slug: sinkex-at-rimpac-goodbye-to-uss-durham
+slug: "sinkex-at-rimpac-goodbye-to-uss-durham"
 excerpt: "SINKEX sounds to me like a drain cleaner and RIMPAC could be something for a spare tire. In fact, RIMPAC is an acronym for Rim of the Pacific Exercise, the world’s largest international maritime warfare exercise, held in biennially on … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

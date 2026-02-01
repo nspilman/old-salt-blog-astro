@@ -1,7 +1,7 @@
 ---
 title: "Remembering the Schooner Wander Bird — Rounding Cape Horn 1936"
 date: 2019-06-11T17:37:11
-slug: remembering-the-schooner-wander-bird-rounding-cape-horn-1936
+slug: "remembering-the-schooner-wander-bird-rounding-cape-horn-1936"
 excerpt: "Yesterday we posted about the sinking of the restored pilot schooner Elbe No.5, ex-Wander Bird, following a collision with a container ship near Stade, Germany on the Elbe River. The schooner, launched in 1883, had just completed a $1.7 million … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Happy Autumnal Equinox !!! Put on Warm Socks and Watch out for Falling Satellites"
 date: 2011-09-23T11:11:29
-slug: happy-autumnal-equinox-put-on-warm-socks-and-watch-out-for-falling-satellites
+slug: "happy-autumnal-equinox-put-on-warm-socks-and-watch-out-for-falling-satellites"
 excerpt: "Happy autumnal equinox. The first day of Fall.  I know of no good sailor’s tradition for the autumnal equinox. It seems to be too busy a time to stop for such foolishness.  Everyone is trying to get the last trips … Continue reading &rarr;"
 categories:
   - "Current"

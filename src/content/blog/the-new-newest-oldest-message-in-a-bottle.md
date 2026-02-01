@@ -1,7 +1,7 @@
 ---
 title: "The New Newest Oldest Message in a Bottle Found in Australia"
 date: 2018-03-09T11:32:57
-slug: the-new-newest-oldest-message-in-a-bottle
+slug: "the-new-newest-oldest-message-in-a-bottle"
 excerpt: "There is a new newest oldest message in a bottle. In 2014, we posted about a German fisherman who found a 101-year-old message in a bottle, making it the oldest message ever found in a bottle at that time. Then … Continue reading &rarr;"
 categories:
   - "History"

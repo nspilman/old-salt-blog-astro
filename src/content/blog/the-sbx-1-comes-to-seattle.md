@@ -1,7 +1,7 @@
 ---
 title: "The SBX-1 Comes to Seattle"
 date: 2011-05-15T12:30:25
-slug: the-sbx-1-comes-to-seattle
+slug: "the-sbx-1-comes-to-seattle"
 excerpt: "The SBX-1 , the Sea Based X-Band Radar 1, looks like something out of science fiction.    It recently arrived at Vigor Shipyard on Seattle’s Harbor Island for three months of maintenance and upgrading. The SBX-1  is a huge white dome … Continue reading &rarr;"
 categories:
   - "Current"

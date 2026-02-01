@@ -1,7 +1,7 @@
 ---
 title: "7th Annual Boothbay Boat Builders Festival"
 date: 2009-08-02T13:47:25
-slug: 7th-annual-boothbay-boat-builders-festival
+slug: "7th-annual-boothbay-boat-builders-festival"
 excerpt: "We hope everyone has a  great time at today’s 7th Annual Boothbay Boat Builders Festival.   All should keep a a weather eye out as there are rumors of an attack by the Pirates of the Dark Rose, followed by a … Continue reading &rarr;"
 categories:
   - "Current"

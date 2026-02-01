@@ -1,7 +1,7 @@
 ---
 title: "Wreck of Steamer Planter Found On South Carolina Coast — Commanded by Robert Smalls"
 date: 2014-05-17T07:15:23
-slug: wreck-of-steamer-planter-found-on-south-carolina-coast-commanded-by-robert-smalls
+slug: "wreck-of-steamer-planter-found-on-south-carolina-coast-commanded-by-robert-smalls"
 excerpt: "Two years ago, we posted about the the 150th anniversary of the seizure of the Confederate armed transport, CSS Planter, by Robert Smalls, a 23 year old mulatto slave, and eight fellow slaves. Smalls, who had served as the pilot of the … Continue reading &rarr;"
 categories:
   - "Current"

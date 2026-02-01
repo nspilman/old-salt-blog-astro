@@ -1,7 +1,7 @@
 ---
 title: "600 Year Old Waka, a Voyaging Canoe, Links New Zealand to Polynesia"
 date: 2014-10-04T17:06:08
-slug: 600-year-old-waka-a-voyaging-canoe-links-new-zealand-to-polynesia
+slug: "600-year-old-waka-a-voyaging-canoe-links-new-zealand-to-polynesia"
 excerpt: "A waka, a 600 year voyaging canoe, was recently found on the New Zealand’s South Island’s West Coast.  The results of a study by University of Auckland researchers appeared recently in the US Proceedings of the National Academy of Sciences.   The waka, … Continue reading &rarr;"
 categories:
   - "Current"

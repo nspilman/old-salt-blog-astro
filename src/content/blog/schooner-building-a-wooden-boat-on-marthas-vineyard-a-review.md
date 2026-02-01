@@ -1,7 +1,7 @@
 ---
 title: "Schooner, Building a Wooden Boat on Martha’s Vineyard – A Review"
 date: 2010-07-13T12:03:18
-slug: schooner-building-a-wooden-boat-on-marthas-vineyard-a-review
+slug: "schooner-building-a-wooden-boat-on-marthas-vineyard-a-review"
 excerpt: "In late May,  we posted about the publication of a beautiful new book by Alison Shaw and Tom Dunlop, Schooner – Building a Wooden Boat on Martha’s Vineyard.   We recently had the opportunity to read the book.  Our review: Schooner – … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

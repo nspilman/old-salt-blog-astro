@@ -1,7 +1,7 @@
 ---
 title: "Will Midwest Flooding Create Gulf Dead Zone?"
 date: 2011-06-04T17:35:45
-slug: will-midwest-flooding-create-gulf-dead-zone
+slug: "will-midwest-flooding-create-gulf-dead-zone"
 excerpt: "Dead zones are areas where there is too little oxygen in the water to support fish and other aquatic life.  They are usually caused by fertilizers and/or other organic materials causing algae blooms which deplete the oxygen in the water. Dead zones in the … Continue reading &rarr;"
 categories:
   - "Current"

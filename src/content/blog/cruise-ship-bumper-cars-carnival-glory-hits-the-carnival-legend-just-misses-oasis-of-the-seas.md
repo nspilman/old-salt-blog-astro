@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ship Bumper Cars — Carnival Glory Hits the Carnival Legend, Just Misses Oasis of the Seas"
 date: 2019-12-20T16:41:30
-slug: cruise-ship-bumper-cars-carnival-glory-hits-the-carnival-legend-just-misses-oasis-of-the-seas
+slug: "cruise-ship-bumper-cars-carnival-glory-hits-the-carnival-legend-just-misses-oasis-of-the-seas"
 excerpt: "This morning while maneuvering to come into the dock at Cozumel, Mexico, the cruise ship Carnival Glory, collided with the docked cruise ship, Carnival Legend, and narrowly averted hitting the Royal Caribbean Lines Oasis of the Seas, which was also … Continue reading &rarr;"
 categories:
   - "Current"

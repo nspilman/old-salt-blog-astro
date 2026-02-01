@@ -1,8 +1,8 @@
 ---
 title: "Iceland to End Whaling by 2024 Citing Falling Demand & Continued Controversy"
 date: 2022-02-07T16:51:14
-slug: iceland-to-end-whaling-by-2024-citing-falling-demand-continued-controversy
-excerpt: "The government of Iceland has announced an end to commercial whaling by 2024. “There are few justifications to authorize whale hunting beyond 2024,” when current quotas expire, Minister of Fisheries and Agriculture Svandís Svavarsdóttir said in an op-ed in Friday’s … Continue reading &rarr;"
+slug: "iceland-to-end-whaling-by-2024-citing-falling-demand-continued-controversy"
+excerpt: "The government of Iceland has announced an end to commercial whaling by 2024. \"There are few justifications to authorize whale hunting beyond 2024,\" when current quotas expire, Minister of Fisheries and Agriculture Svandís Svavarsdóttir said in an op-ed in Friday’s … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Minke Whales"
   - "whale watching"
 author: "Rick Spilman"
-description: "The government of Iceland has announced an end to commercial whaling by 2024. “There are few justifications to authorize whale hunting beyond 2024,” when current quotas expire, Minister of Fisheries and Agriculture Svandís Svavarsdóttir said in an op-ed in Friday’s … Continue reading &rarr;"
+description: "The government of Iceland has announced an end to commercial whaling by 2024. \"There are few justifications to authorize whale hunting beyond 2024,\" when current quotas expire, Minister of Fisheries and Agriculture Svandís Svavarsdóttir said in an op-ed in Friday’s … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/02/whalingfleet.jpg)The government of [Iceland has announced an end to commercial whaling](https://www.cnn.com/2022/02/05/europe/iceland-whaling-to-end-2024-intl/index.html) by 2024.

@@ -1,7 +1,7 @@
 ---
 title: "Winnie Breegle, WWII WAVE and Code Talker Speaks of Her Service"
 date: 2012-03-20T19:48:34
-slug: winnie-breegle-wwii-wave-and-code-talker-speaks-of-her-service
+slug: "winnie-breegle-wwii-wave-and-code-talker-speaks-of-her-service"
 excerpt: "Earlier this month, 90 year old Winnie Breegle spoke at the 2012 Women’s History Month celebration at the Naval Surface Warfare Center in Panama City, FL. She had quite a story to tell.  Not only was she a WAVE (Woman Accepted for Volunteer Emergency … Continue reading &rarr;"
 categories:
   - "Current"

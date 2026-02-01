@@ -1,7 +1,7 @@
 ---
 title: "The Hyper-Sub — Speedboat & Submarine"
 date: 2017-04-28T08:59:48
-slug: hyper-sub-speed-boat-submarine
+slug: "hyper-sub-speed-boat-submarine"
 excerpt: "The most common response to the Hyper-Sub is that it looks like something from a James Bond movie. The decidedly strange hybrid craft is a high-speed long-range speedboat which can also turn into a submarine. The craft has a capacity for … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

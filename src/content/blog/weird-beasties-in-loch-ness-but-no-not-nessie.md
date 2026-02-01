@@ -1,7 +1,7 @@
 ---
 title: "Weird Beasties in Loch Ness, But No, Not Nessie"
 date: 2022-09-27T14:55:06
-slug: weird-beasties-in-loch-ness-but-no-not-nessie
+slug: "weird-beasties-in-loch-ness-but-no-not-nessie"
 excerpt: "On a recent trip to Scotland, we visited the beautiful Loch Ness. While we were there, we heard of a sighting of a weird beastie in the loch. But no, not Nessie, the famous monster, or even a loch kelpie. … Continue reading &rarr;"
 categories:
   - "Current"

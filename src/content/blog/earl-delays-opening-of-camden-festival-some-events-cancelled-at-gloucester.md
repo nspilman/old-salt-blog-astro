@@ -1,7 +1,7 @@
 ---
 title: "Earl Delays Opening of Camden Festival; Some Events Cancelled at Gloucester"
 date: 2010-09-03T11:05:04
-slug: earl-delays-opening-of-camden-festival-some-events-cancelled-at-gloucester
+slug: "earl-delays-opening-of-camden-festival-some-events-cancelled-at-gloucester"
 excerpt: "Hurricane Earl appears not to be likely to make landfall on the US East Coast but the expected winds and seas have rearranged some schedules. The Camden Windjammer Festival originally scheduled to start today has been postponed to 4PM on Saturday.   The Gloucester Schooner Festival has cancelled several outdoor activities but otherwise is on … Continue reading &rarr;"
 categories:
   - "Current"

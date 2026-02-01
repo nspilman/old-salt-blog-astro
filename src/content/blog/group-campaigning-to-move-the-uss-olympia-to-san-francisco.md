@@ -1,7 +1,7 @@
 ---
 title: "Group Campaigning to Move the USS Olympia to San Francisco"
 date: 2011-01-20T14:38:42
-slug: group-campaigning-to-move-the-uss-olympia-to-san-francisco
+slug: "group-campaigning-to-move-the-uss-olympia-to-san-francisco"
 excerpt: "A group of former workers at the Mare Island Naval Shipyard in the San Francisco Bay Area has launched a campaign to bring the USS Olympia to San Pablo Bay.  The Olympia, Commodore George Dewey’s flagship at the Battle of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

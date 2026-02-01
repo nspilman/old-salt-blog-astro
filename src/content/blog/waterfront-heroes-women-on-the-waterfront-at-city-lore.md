@@ -1,7 +1,7 @@
 ---
 title: "Waterfront Heroes: Women on the Waterfront at City Lore"
 date: 2019-04-28T09:15:39
-slug: waterfront-heroes-women-on-the-waterfront-at-city-lore
+slug: "waterfront-heroes-women-on-the-waterfront-at-city-lore"
 excerpt: "Next Wednesday, May 1, from 7:00 PM – 9:00 PM, the City Lore gallery in Manhattan is hosting Waterfront Heroes: Women on the Waterfront which will feature a panel discussion moderated by maritime journalist Betsy Haggerty. The panelists will include Fulton … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Berserker Jarle Andhøy in Trouble Again"
 date: 2012-03-16T22:19:36
-slug: berserker-jarle-andhoy-in-trouble-once-again
-excerpt: "Norwegian Jarle Andhøy, 34, who calls himself a “Wild Viking,” is in trouble again. Andhøy and two others are sailing the 54-foot yacht, Nilaya, off Antarctica. They have reported that the yacht has a broken boom and that they are heading for an unspecified  Argentine … Continue reading &rarr;"
+slug: "berserker-jarle-andhoy-in-trouble-once-again"
+excerpt: "Norwegian Jarle Andhøy, 34, who calls himself a \"Wild Viking,\" is in trouble again. Andhøy and two others are sailing the 54-foot yacht, Nilaya, off Antarctica. They have reported that the yacht has a broken boom and that they are heading for an unspecified  Argentine … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Nilaya"
   - "Samuel Massie"
 author: "Rick Spilman"
-description: "Norwegian Jarle Andhøy, 34, who calls himself a “Wild Viking,” is in trouble again. Andhøy and two others are sailing the 54-foot yacht, Nilaya, off Antarctica. They have reported that the yacht has a broken boom and that they are heading for an unspecified  Argentine … Continue reading &rarr;"
+description: "Norwegian Jarle Andhøy, 34, who calls himself a \"Wild Viking,\" is in trouble again. Andhøy and two others are sailing the 54-foot yacht, Nilaya, off Antarctica. They have reported that the yacht has a broken boom and that they are heading for an unspecified  Argentine … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/314x407.jpg)

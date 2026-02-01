@@ -1,7 +1,7 @@
 ---
 title: "Remember the Maine! 120 Years Ago Today"
 date: 2018-02-15T17:07:42
-slug: remember-maine-120-years-ago-today
+slug: "remember-maine-120-years-ago-today"
 excerpt: "One hundred and twenty years ago today, on February 15, 1898, a mysterious explosion ripped through the hull of the American battleship USS Maine, at anchor in Havana harbor in Cuba. The ship sank killing 266 of the 350 men aboard. The loss … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

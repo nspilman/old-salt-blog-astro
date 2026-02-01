@@ -1,7 +1,7 @@
 ---
 title: "Lt. Cmdr. Amber Cowan — First Woman XO on US Navy Submarine"
 date: 2022-12-05T17:30:17
-slug: lt-cmdr-amber-cowan-first-woman-xo-on-us-navy-submarine
+slug: "lt-cmdr-amber-cowan-first-woman-xo-on-us-navy-submarine"
 excerpt: "A decade after women were allowed to serve in the US Navy’s Silent Service, Lt. Cmdr. Amber Cowan has become the first woman to serve as executive officer on a submarine. Lt. Cmdr. Cowan, who joined the Navy in 2010, … Continue reading &rarr;"
 categories:
   - "Current"

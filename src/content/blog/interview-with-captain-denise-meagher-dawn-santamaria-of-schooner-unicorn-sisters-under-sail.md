@@ -1,7 +1,7 @@
 ---
 title: "Interview with Captain Denise Meagher & Dawn Santamaria of Schooner Unicorn & Sisters Under Sail"
 date: 2012-07-22T08:54:21
-slug: interview-with-captain-denise-meagher-dawn-santamaria-of-schooner-unicorn-sisters-under-sail
+slug: "interview-with-captain-denise-meagher-dawn-santamaria-of-schooner-unicorn-sisters-under-sail"
 excerpt: "A very interesting interview with Captain Denise Meagher and Dawn Santamaria of the schooner Unicorn and the Sisters under Sail Program at this weekend’s Halifax Tall Ships Festival. Interview: All-female crew on tall ship … Continue reading &rarr;"
 categories:
   - "Current"

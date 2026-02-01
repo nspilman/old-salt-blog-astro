@@ -1,7 +1,7 @@
 ---
 title: "Wreck of Legendary Cutter USS Bear Identified Off Cape Sable"
 date: 2021-10-15T17:36:17
-slug: wreck-of-legendary-cutter-uss-bear-identified-off-cape-sable
+slug: "wreck-of-legendary-cutter-uss-bear-identified-off-cape-sable"
 excerpt: "The wreck of the legendary cutter USS Bear was recently identified off Cape Sable. The wreck was located in 2019 but it was only in August of this year that a team of experts looking at the evidence came to … Continue reading &rarr;"
 categories:
   - "Current"

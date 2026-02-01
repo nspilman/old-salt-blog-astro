@@ -1,7 +1,7 @@
 ---
 title: "Matt Rutherford Sailing Singlehanded Around the Americas – In Need of Resupply"
 date: 2012-02-25T09:01:01
-slug: matt-rutherford-sailing-singlehanded-around-the-americas-in-need-of-resupply
+slug: "matt-rutherford-sailing-singlehanded-around-the-americas-in-need-of-resupply"
 excerpt: "Matt Rutherford set out from Annapolis, Maryland last June 11th with an audacious goal. He intended to sail single-handed entirely around the Americas in a 27′ Albin Vega.  He planned to sail a counterclockwise loop up the East Coast, cross the … Continue reading &rarr;"
 categories:
   - "Current"

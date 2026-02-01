@@ -1,8 +1,8 @@
 ---
-title: "“Super Moon” Blamed for Five Groundings"
+title: "\"Super Moon\" Blamed for Five Groundings"
 date: 2011-03-22T20:08:17
-slug: super-moon-blamed-for-five-groundings
-excerpt: "We posted a few days ago about Saturday’s “Super Full Moon” the first time in almost twenty years that full moon coincided with perigee, the passing of the moon’s orbit closest to the earth.   Now the “Super Moon” is being … Continue reading &rarr;"
+slug: "super-moon-blamed-for-five-groundings"
+excerpt: "We posted a few days ago about Saturday’s \"Super Full Moon\" the first time in almost twenty years that full moon coincided with perigee, the passing of the moon’s orbit closest to the earth.   Now the \"Super Moon\" is being … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "five ships aground"
   - "Super Moon"
 author: "Rick Spilman"
-description: "We posted a few days ago about Saturday’s “Super Full Moon” the first time in almost twenty years that full moon coincided with perigee, the passing of the moon’s orbit closest to the earth.   Now the “Super Moon” is being … Continue reading &rarr;"
+description: "We posted a few days ago about Saturday’s \"Super Full Moon\" the first time in almost twenty years that full moon coincided with perigee, the passing of the moon’s orbit closest to the earth.   Now the \"Super Moon\" is being … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/moon1.jpg)

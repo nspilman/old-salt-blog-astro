@@ -1,7 +1,7 @@
 ---
 title: "Pride of Baltimore II Visiting New York’s North Cove"
 date: 2012-08-24T07:16:34
-slug: pride-of-baltimore-ii-visiting-new-yorks-north-cove
+slug: "pride-of-baltimore-ii-visiting-new-yorks-north-cove"
 excerpt: "The Pride of Baltimore II is visiting New York, calling in Manhattan’s North Cove on the Hudson River.  She should be arriving around mid-day today and will be staying through Sunday.  Daysails and dockside tours will be available.  (See the schedule after the … Continue reading &rarr;"
 categories:
   - "Current"

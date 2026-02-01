@@ -1,7 +1,7 @@
 ---
 title: "Royal Navy Pays Tribute to Last Surviving World War 2 Bomb Disposal Diver"
 date: 2021-09-06T10:27:50
-slug: royal-navy-pays-tribute-to-last-surviving-world-war-2-bomb-disposal-diver
+slug: "royal-navy-pays-tribute-to-last-surviving-world-war-2-bomb-disposal-diver"
 excerpt: "From the Royal Navy News: The last surviving World War 2 bomb disposal diver was honoured during a visit to the Diving Museum in Gosport. John Payne, now 96, was on the first ‘P’ Party 1571 group – a select team … Continue reading &rarr;"
 categories:
   - "Current"

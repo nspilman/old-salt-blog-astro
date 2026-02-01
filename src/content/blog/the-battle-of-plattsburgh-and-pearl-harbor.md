@@ -1,7 +1,7 @@
 ---
 title: "The Battle of Plattsburgh and Pearl Harbor"
 date: 2012-12-07T13:01:10
-slug: the-battle-of-plattsburgh-and-pearl-harbor
+slug: "the-battle-of-plattsburgh-and-pearl-harbor"
 excerpt: "It seems to me that history is all about connections. Lawrence Gooley, writing in the Adirondack Almanack, notes how many ships present at the attack on Pearl Harbor on December 7, 1941, were named in remembrance of those who fought … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Cannibalism on Land and Sea"
 date: 2013-05-07T08:49:31
-slug: cannibalism-on-land-and-sea
+slug: "cannibalism-on-land-and-sea"
 excerpt: "Last week, the news broke that evidence of cannibalism had been found at the Jamestown colony in Virginia. Cut and sawing marks have been found on the skull and leg bones of a young woman, suggesting that her flesh was stripped and … Continue reading &rarr;"
 categories:
   - "History"

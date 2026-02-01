@@ -1,7 +1,7 @@
 ---
 title: "Ship From Franklin Expedition & Possibly the Battle of Baltimore Found"
 date: 2014-09-09T12:34:53
-slug: ship-from-franklin-expedition-possibly-the-battle-of-baltimore-found
+slug: "ship-from-franklin-expedition-possibly-the-battle-of-baltimore-found"
 excerpt: "The wreckage of one of two missing ships from Franklin’s lost expedition of 1845 is believed to have been found. It is not known yet if the wreck is of HMS Terror or HMS Erebus. The Franklin expedition was an attempt … Continue reading &rarr;"
 categories:
   - "Current"

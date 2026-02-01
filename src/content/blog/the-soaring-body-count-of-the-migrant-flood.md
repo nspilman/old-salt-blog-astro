@@ -1,7 +1,7 @@
 ---
 title: "The Soaring Body-Count of the Migrant Flood"
 date: 2015-08-29T08:59:55
-slug: the-soaring-body-count-of-the-migrant-flood
+slug: "the-soaring-body-count-of-the-migrant-flood"
 excerpt: "Wars in Afghanistan, Iraq and Syria have been forcing upwards of 3,000 migrants a day from their homes. These desperate refugees often seek new lives in Western Europe, traveling by both land and sea. The most dangerous route is across the Mediterranean from … Continue reading &rarr;"
 categories:
   - "Current"

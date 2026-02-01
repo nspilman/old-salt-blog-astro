@@ -1,7 +1,7 @@
 ---
 title: "Abby Sunderland Feared Lost at Sea"
 date: 2010-06-10T14:23:35
-slug: abby-sunderland-feared-lost-at-sea
+slug: "abby-sunderland-feared-lost-at-sea"
 excerpt: "The story is still developing, but there are serious concerns for the 16 year old solo sailor. Abby Sunderland Feared Lost at Sea Abby Sunderland, 16, who is attempting to become the youngest sailor ever to circumnavigate the globe, was feared lost … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Hōkūleʻa — the Big Canoe in the Big Apple"
 date: 2016-06-02T07:25:17
-slug: hokule%ca%bba-big-canoe-big-apple
+slug: "hokule%ca%bba-big-canoe-big-apple"
 excerpt: "Continuing her epic voyage around the globe, the Polynesian voyaging canoe Hōkūleʻa will officially make her arrival in New York harbor on Sunday, June 5th. She will dock at North Cove Marina in Manhattan on the Hudson River at 9:00 a.m., followed by … Continue reading &rarr;"
 categories:
   - "Current"

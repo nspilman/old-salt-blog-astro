@@ -1,7 +1,7 @@
 ---
 title: "Tamu Massif, Earth’s Largest Volcano, Beneath the Pacific Ocean"
 date: 2013-09-08T09:43:55
-slug: tamu-massif-earths-largest-volcano-beneath-the-pacific-ocean
+slug: "tamu-massif-earths-largest-volcano-beneath-the-pacific-ocean"
 excerpt: "Scientists have identified the largest volcano on earth, beneath the Pacific Ocean roughly half way between Japan and the Hawaiian Islands.  The giant shield volcano has been named Tamu Massif and it is roughly, 100,000 square miles or approximately the … Continue reading &rarr;"
 categories:
   - "Current"

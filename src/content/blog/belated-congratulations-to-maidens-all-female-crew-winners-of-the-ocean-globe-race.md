@@ -1,7 +1,7 @@
 ---
 title: "Belated Congratulations to Maiden’s All-Female Crew, Winners of the Ocean Globe Race"
 date: 2024-05-08T17:45:44
-slug: belated-congratulations-to-maidens-all-female-crew-winners-of-the-ocean-globe-race
+slug: "belated-congratulations-to-maidens-all-female-crew-winners-of-the-ocean-globe-race"
 excerpt: "Still catching-up on interesting nautical news that transpired while I away. We would be remiss to not offer our belated congratulations to Skipper Heather Thomas and the crew of the yacht Maiden, who beat 14 other teams to win the … Continue reading &rarr;"
 categories:
   - "Current"

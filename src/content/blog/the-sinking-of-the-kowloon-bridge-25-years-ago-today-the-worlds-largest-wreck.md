@@ -1,7 +1,7 @@
 ---
 title: "The Sinking of the Kowloon Bridge, 25 Years Ago Today – the World’s Largest Wreck"
 date: 2011-12-03T09:43:09
-slug: the-sinking-of-the-kowloon-bridge-25-years-ago-today-the-worlds-largest-wreck
+slug: "the-sinking-of-the-kowloon-bridge-25-years-ago-today-the-worlds-largest-wreck"
 excerpt: "Twenty five years ago today, the ore-bulk-oil carrier MV Kowloon Bridge sank off the coast of West Cork with a cargo of 165,000 tons of iron ore and 2,000 tons of bunker oil, becoming the world’s largest shipwreck by tonnage. The Kowloon … Continue reading &rarr;"
 categories:
   - "History"

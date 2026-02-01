@@ -1,7 +1,7 @@
 ---
 title: "Back to Back Hurricanes Poised to Hit the Gulf of Mexico"
 date: 2020-08-23T09:33:11
-slug: back-to-back-hurricanes-poised-to-hit-the-gulf-of-mexico
+slug: "back-to-back-hurricanes-poised-to-hit-the-gulf-of-mexico"
 excerpt: "2020 has been quite a year so far. A global pandemic, economic collapse, a derecho in the Midwest, and out of control wildfires in California. What next? Now, for the first time in recorded history, we may see two hurricanes … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

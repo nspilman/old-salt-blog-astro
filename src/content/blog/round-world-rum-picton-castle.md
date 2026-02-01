@@ -1,7 +1,7 @@
 ---
 title: "‘Round the World Rum on the Picton Castle"
 date: 2018-02-18T10:40:47
-slug: round-world-rum-picton-castle
+slug: "round-world-rum-picton-castle"
 excerpt: "When the barque Picton Castle embarks on its seventh circumnavigation this April, it will have a special cargo of four barrels of rum from Lunenburg’s Ironworks Distillery stored in the hold. If all goes well when the ship returns to Lunenburg in … Continue reading &rarr;"
 categories:
   - "Current"

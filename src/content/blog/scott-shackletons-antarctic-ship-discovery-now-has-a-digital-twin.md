@@ -1,7 +1,7 @@
 ---
-title: "Scott & Shackleton’s Antarctic Ship Discovery Now Has a “Digital Twin”"
+title: "Scott & Shackleton’s Antarctic Ship Discovery Now Has a \"Digital Twin\""
 date: 2024-07-22T21:19:58
-slug: scott-shackletons-antarctic-ship-discovery-now-has-a-digital-twin
+slug: "scott-shackletons-antarctic-ship-discovery-now-has-a-digital-twin"
 excerpt: "RRS Discovery is a barque-rigged auxiliary steamship built for Antarctic research. She was the last traditional wooden three-masted ship to be built in the United Kingdom. Her first mission was the British National Antarctic Expedition, carrying Robert Falcon Scott and … Continue reading &rarr;"
 categories:
   - "Current"

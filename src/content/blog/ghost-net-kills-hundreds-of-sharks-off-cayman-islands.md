@@ -1,8 +1,8 @@
 ---
 title: "Ghost Net Kills Hundreds of Sharks Off Cayman Islands"
 date: 2019-12-26T16:19:14
-slug: ghost-net-kills-hundreds-of-sharks-off-cayman-islands
-excerpt: "Yahoo recently reported that a group of divers happened upon a gruesome sight in the Cayman Islands — hundreds of decomposing sharks and other sea creatures tangled up in a floating “ghost net.” Dominick Martin-Mayes, a 27-year-old fisherman and diving … Continue reading &rarr;"
+slug: "ghost-net-kills-hundreds-of-sharks-off-cayman-islands"
+excerpt: "Yahoo recently reported that a group of divers happened upon a gruesome sight in the Cayman Islands — hundreds of decomposing sharks and other sea creatures tangled up in a floating \"ghost net.\" Dominick Martin-Mayes, a 27-year-old fisherman and diving … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Sharks"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/03/ghostsnets.jpg"
 author: "Rick Spilman"
-description: "Yahoo recently reported that a group of divers happened upon a gruesome sight in the Cayman Islands — hundreds of decomposing sharks and other sea creatures tangled up in a floating “ghost net.” Dominick Martin-Mayes, a 27-year-old fisherman and diving … Continue reading &rarr;"
+description: "Yahoo recently reported that a group of divers happened upon a gruesome sight in the Cayman Islands — hundreds of decomposing sharks and other sea creatures tangled up in a floating \"ghost net.\" Dominick Martin-Mayes, a 27-year-old fisherman and diving … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/ghostsnets.jpg)

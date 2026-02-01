@@ -1,7 +1,7 @@
 ---
 title: "Nordlys — the Oldest/Newest Sailing Cargo Vessel in the World"
 date: 2015-09-18T18:09:03
-slug: nordlys-the-oldestnewest-sailing-cargo-vessel-in-the-world
+slug: "nordlys-the-oldestnewest-sailing-cargo-vessel-in-the-world"
 excerpt: "The coastal cargo ketch Nordlys is making ready to sail. She is either the newest sailing cargo venture or the oldest sailing cargo ship depending on how you look at it. Built in 1873 in the Isle of Wight, this 141 … Continue reading &rarr;"
 categories:
   - "Current"

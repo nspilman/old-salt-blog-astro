@@ -1,7 +1,7 @@
 ---
 title: "More than 200 Missing as Asylum Seeker’s Ship Sinks Off Indonesia"
 date: 2011-12-18T19:07:48
-slug: more-than-200-missing-as-asylum-seekers-ship-sinks-off-indonesia
+slug: "more-than-200-missing-as-asylum-seekers-ship-sinks-off-indonesia"
 excerpt: "On December 15th last year a boat loaded with asylum seekers wrecked on Australia’s Christmas Island, killing 48 or more than half of the passengers aboard.   On Saturday, a boat bound for Christmas Island sank off Indonesia roughly 50 miles off … Continue reading &rarr;"
 categories:
   - "Current"

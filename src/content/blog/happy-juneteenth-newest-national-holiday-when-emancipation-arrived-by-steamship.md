@@ -1,7 +1,7 @@
 ---
 title: "Happy Juneteenth, Newest National Holiday — When Emancipation Arrived by Steamship"
 date: 2021-06-19T10:03:21
-slug: happy-juneteenth-newest-national-holiday-when-emancipation-arrived-by-steamship
+slug: "happy-juneteenth-newest-national-holiday-when-emancipation-arrived-by-steamship"
 excerpt: "Happy Juneteenth, the oldest nationally celebrated commemoration of the ending of slavery in the United States. Juneteenth National Independence Day is also the newest Federal holiday. The legislation, passed by both the House and Senate, was recently signed into law … Continue reading &rarr;"
 categories:
   - "Current"

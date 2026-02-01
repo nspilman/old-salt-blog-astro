@@ -1,7 +1,7 @@
 ---
 title: "US Coast Guard Can’t Crew All Its Ships Due to Recruiting Shortage"
 date: 2024-08-12T18:20:50
-slug: us-coast-guard-cant-crew-all-its-ships-due-to-recruiting-shortage
+slug: "us-coast-guard-cant-crew-all-its-ships-due-to-recruiting-shortage"
 excerpt: "Last week, US Coast Guard Vice Commandant Adm. Kevin Lunday spoke at the Brookings Institution and addressed the service’s enlisted force’s ongoing 10 percent manning shortage.  Entering the fiscal year, the Coast Guard was about 3,000 members short of end strength … Continue reading &rarr;"
 categories:
   - "Current"

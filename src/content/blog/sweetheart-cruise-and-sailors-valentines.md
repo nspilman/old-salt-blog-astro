@@ -1,7 +1,7 @@
 ---
 title: "Sweetheart Cruise and Sailor’s Valentines"
 date: 2011-01-29T11:51:05
-slug: sweetheart-cruise-and-sailors-valentines
+slug: "sweetheart-cruise-and-sailors-valentines"
 excerpt: "Museums on two coasts have special Valentine’s Days events planned for sailors.  The Penobscot Marine Museum in Searsport, Maine is offering a sailor’s valentine workshop for adults on Saturday, Feb. 12, just in time for Valentine’s Day.    In San … Continue reading &rarr;"
 categories:
   - "Current"

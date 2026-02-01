@@ -1,7 +1,7 @@
 ---
 title: "Icebreaker Snow Dragon Now Stuck in Ice, Six Miles from MV Akademik Shokalskiy"
 date: 2013-12-28T09:10:11
-slug: icebreaker-snow-dragon-now-stuck-in-ice-six-miles-from-mv-akademik-shokalskiy
+slug: "icebreaker-snow-dragon-now-stuck-in-ice-six-miles-from-mv-akademik-shokalskiy"
 excerpt: "The Chinese icebreaker Xue Long, or Snow Dragon, has gotten to within around 6-7 miles of the expedition cruise ship,  MV Akademik Shokalskiy, before it too was stopped by thick ice off the coast of Antarctica, south of Tasmania. Three icebreakers … Continue reading &rarr;"
 categories:
   - "Current"

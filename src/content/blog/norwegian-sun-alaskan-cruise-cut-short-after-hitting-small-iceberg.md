@@ -1,7 +1,7 @@
 ---
 title: "Norwegian Sun Alaskan Cruise Cut Short After Hitting Small Iceberg"
 date: 2022-06-29T11:11:59
-slug: norwegian-sun-alaskan-cruise-cut-short-after-hitting-small-iceberg
+slug: "norwegian-sun-alaskan-cruise-cut-short-after-hitting-small-iceberg"
 excerpt: "Norwegian Cruise Line reports that the cruise ship Norwegian Sun hit a small iceberg on Saturday while underway in foggy conditions near Hubbard Glacier in Alaska. The company characterized the berg as a growler, a type of very small iceberg that … Continue reading &rarr;"
 categories:
   - "Current"

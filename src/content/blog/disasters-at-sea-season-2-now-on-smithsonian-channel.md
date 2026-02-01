@@ -1,7 +1,7 @@
 ---
 title: "Disasters at Sea — Season 2, Now On Smithsonian Channel"
 date: 2020-01-14T18:43:49
-slug: disasters-at-sea-season-2-now-on-smithsonian-channel
+slug: "disasters-at-sea-season-2-now-on-smithsonian-channel"
 excerpt: "There are so few well-done documentary series involving ships and the sea that it seems worth pointing out that the excellent Disasters at Sea has been picked up for a second season. The series is produced by Exploration Production Inc. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "On Halloween – Skeletal Super-yacht Designs"
 date: 2013-10-31T08:26:23
-slug: on-halloween-skeletal-super-yacht-designs
+slug: "on-halloween-skeletal-super-yacht-designs"
 excerpt: "Award-winning architect Dame Zaha Hadid has designed a family of super-yachts with a skeletal superstructure for the German shipbuilders Blohm+Voss.  These are the first super-yachts designed by Hadid who is known for a wide range of project including the Roca London Gallery, … Continue reading &rarr;"
 categories:
   - "Current"

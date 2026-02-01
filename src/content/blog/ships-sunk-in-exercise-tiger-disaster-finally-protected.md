@@ -1,7 +1,7 @@
 ---
-title: "Ships Sunk in “Exercise Tiger” Disaster Finally Protected"
+title: "Ships Sunk in \"Exercise Tiger\" Disaster Finally Protected"
 date: 2020-05-04T17:45:52
-slug: ships-sunk-in-exercise-tiger-disaster-finally-protected
+slug: "ships-sunk-in-exercise-tiger-disaster-finally-protected"
 excerpt: "Two Landing Ship Tanks (LSTs), sunk in a disastrous rehearsal of the D-Day landing, have been granted protected status by the government of Great Britain. At least 749 US sailors and soldiers died when the ships were attacked by German … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

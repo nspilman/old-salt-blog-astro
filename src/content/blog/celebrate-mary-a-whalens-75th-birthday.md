@@ -1,7 +1,7 @@
 ---
 title: "Celebrate MARY A WHALEN’s 75th Birthday!"
 date: 2013-05-17T13:44:32
-slug: celebrate-mary-a-whalens-75th-birthday
+slug: "celebrate-mary-a-whalens-75th-birthday"
 excerpt: "PortSide NewYork is hosting an open-house (open-ship?) on the historic tanker MARY A WHALEN this Tuesday, May 21, at Pier 11, Atlantic Basin, Red Hook, Brooklyn, from 1-7pm, with cake and remarks from 5-7pm.  May 21 is  also the 75th anniversary of the launch of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

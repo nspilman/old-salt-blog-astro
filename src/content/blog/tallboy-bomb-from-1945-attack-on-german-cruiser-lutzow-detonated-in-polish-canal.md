@@ -1,7 +1,7 @@
 ---
 title: "Tallboy Bomb from 1945 Attack on German Cruiser Lützow Detonated in Polish Canal"
 date: 2020-10-15T09:10:49
-slug: tallboy-bomb-from-1945-attack-on-german-cruiser-lutzow-detonated-in-polish-canal
+slug: "tallboy-bomb-from-1945-attack-on-german-cruiser-lutzow-detonated-in-polish-canal"
 excerpt: "The biggest World War II bomb ever found in Poland exploded underwater on Tuesday as navy divers tried to defuse it with a remote control device. No one was injured in the explosion. During World War II, the British developed … Continue reading &rarr;"
 categories:
   - "Current"

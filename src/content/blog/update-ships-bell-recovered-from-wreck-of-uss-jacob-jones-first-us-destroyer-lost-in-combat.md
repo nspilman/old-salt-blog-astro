@@ -1,7 +1,7 @@
 ---
 title: "Update: Ship’s Bell Recovered from Wreck of USS Jacob Jones, First US Destroyer Lost in Combat"
 date: 2024-02-13T21:23:19
-slug: update-ships-bell-recovered-from-wreck-of-uss-jacob-jones-first-us-destroyer-lost-in-combat
+slug: "update-ships-bell-recovered-from-wreck-of-uss-jacob-jones-first-us-destroyer-lost-in-combat"
 excerpt: "In August 2022, we posted that British divers had located the wreck of the USS Jacob Jones in over 100 meters of water, 40 miles off the Isles of Scilly. The ship, a Tucker Class destroyer, was sunk during World … Continue reading &rarr;"
 categories:
   - "Current"

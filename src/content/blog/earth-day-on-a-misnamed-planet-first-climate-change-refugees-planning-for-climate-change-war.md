@@ -1,15 +1,15 @@
 ---
 title: "Earth Day on a Misnamed Planet– First Climate Change Refugees & Planning for Climate Change War"
 date: 2014-04-22T08:50:49
-slug: earth-day-on-a-misnamed-planet-first-climate-change-refugees-planning-for-climate-change-war
-excerpt: "Happy Earth Day! Then again, I have always thought that we lived on a misnamed planet. The word “earth” is a synonym for dirt while 71% of the planet is covered by water.  Perhaps we should be saying Happy Ocean Day! … Continue reading &rarr;"
+slug: "earth-day-on-a-misnamed-planet-first-climate-change-refugees-planning-for-climate-change-war"
+excerpt: "Happy Earth Day! Then again, I have always thought that we lived on a misnamed planet. The word \"earth\" is a synonym for dirt while 71% of the planet is covered by water.  Perhaps we should be saying Happy Ocean Day! … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
   - "Earth Day"
 author: "Rick Spilman"
-description: "Happy Earth Day! Then again, I have always thought that we lived on a misnamed planet. The word “earth” is a synonym for dirt while 71% of the planet is covered by water.  Perhaps we should be saying Happy Ocean Day! … Continue reading &rarr;"
+description: "Happy Earth Day! Then again, I have always thought that we lived on a misnamed planet. The word \"earth\" is a synonym for dirt while 71% of the planet is covered by water.  Perhaps we should be saying Happy Ocean Day! … Continue reading &rarr;"
 ---
 
 ![wg2cover](http://www.oldsaltblog.com/wp-content/uploads/2014/04/wg2cover.jpg)Happy Earth Day! Then again, I have always thought that we lived on a misnamed planet. The word “earth” is a synonym for dirt while 71% of the planet is covered by water.  Perhaps we should be saying Happy Ocean Day!

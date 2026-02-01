@@ -1,7 +1,7 @@
 ---
 title: "Save Our Seafarers – 2,000 Somali Pirates are Hijacking the World Economy"
 date: 2011-03-02T08:30:20
-slug: save-our-seafarers-2000-somali-pirates-are-hijacking-the-world-economy
+slug: "save-our-seafarers-2000-somali-pirates-are-hijacking-the-world-economy"
 excerpt: "In view of the failure of current efforts to combat piracy,  BIMCO, the International Chamber of Shipping (ICS), the International Shipping Federation (ISF), Intercargo, INTERTANKO and the International Transport Workers’ Federation (ITF) have launched a campaign to Save Our Seafarers … Continue reading &rarr;"
 categories:
   - "Current"

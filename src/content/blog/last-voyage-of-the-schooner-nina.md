@@ -1,7 +1,7 @@
 ---
 title: "Last Voyage of the Schooner Nina"
 date: 2013-06-29T11:42:50
-slug: last-voyage-of-the-schooner-nina
+slug: "last-voyage-of-the-schooner-nina"
 excerpt: "The schooner Nina, a 70′ Burgess designed yacht built in 1928, was last heard from on June 4, when it was battling a storm off New Zealand. The yacht had sailed from Opua in the Bay of Islands bound for … Continue reading &rarr;"
 categories:
   - "Current"

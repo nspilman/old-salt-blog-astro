@@ -1,7 +1,7 @@
 ---
 title: "Murder Arrest on Cruise Ship MSC Virtuosa"
 date: 2025-05-07T23:00:02
-slug: murder-arrest-on-cruise-ship-msc-virtuosa
+slug: "murder-arrest-on-cruise-ship-msc-virtuosa"
 excerpt: "The Independent reports that a 57-year-old man has been arrested on suspicion of murder after an altercation on a cruise ship in which another man, 60, died. Police rushed to the Southampton Docks on Monday morning to arrest the Exeter resident, after the cruise ship … Continue reading &rarr;"
 categories:
   - "Current"

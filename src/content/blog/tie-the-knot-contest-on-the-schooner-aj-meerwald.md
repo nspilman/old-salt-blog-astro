@@ -1,7 +1,7 @@
 ---
 title: "Tie the Knot Contest on the Schooner AJ Meerwald"
 date: 2010-05-14T16:47:17
-slug: tie-the-knot-contest-on-the-schooner-aj-meerwald
+slug: "tie-the-knot-contest-on-the-schooner-aj-meerwald"
 excerpt: "No, this is not a knot tying contest exactly. No bowlines, or Matthew Walker knots need be produced. This is a contest sponsored by NJWedding.com to win a chance to get married for free aboard New Jersey’s official Tall Ship, … Continue reading &rarr;"
 categories:
   - "Current"

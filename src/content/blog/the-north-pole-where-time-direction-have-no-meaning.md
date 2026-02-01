@@ -1,7 +1,7 @@
 ---
 title: "The North Pole — Where Time & Direction Have No Meaning"
 date: 2020-12-31T14:44:26
-slug: the-north-pole-where-time-direction-have-no-meaning
+slug: "the-north-pole-where-time-direction-have-no-meaning"
 excerpt: "A few years ago, we posted about the RMS Warrimoo, which is remembered, as the story goes, for crossing the intersection of the international dateline and the equator at precisely the turn of the century from 1899 to 1900. In … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

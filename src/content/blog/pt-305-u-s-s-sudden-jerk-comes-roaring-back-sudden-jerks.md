@@ -1,7 +1,7 @@
 ---
 title: "PT-305, U.S.S. Sudden Jerk, Comes Roaring Back, Sudden Jerks and All"
 date: 2017-03-18T11:15:31
-slug: pt-305-u-s-s-sudden-jerk-comes-roaring-back-sudden-jerks
+slug: "pt-305-u-s-s-sudden-jerk-comes-roaring-back-sudden-jerks"
 excerpt: "The National WWII Museum has fully restored PT-305 and is putting her back in service on Louisiana’s Lake Pontchartrain. PT-305, nicknamed U.S.S. Sudden Jerk, is the only surviving fully-operational patrol torpedo boat to have seen combat in World War II. … Continue reading &rarr;"
 categories:
   - "Current"

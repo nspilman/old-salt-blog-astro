@@ -1,7 +1,7 @@
 ---
 title: "Harvey Gamage in Cuban Waters"
 date: 2016-10-15T15:06:57
-slug: harvey-gamage-cuban-waters
+slug: "harvey-gamage-cuban-waters"
 excerpt: "The last time we posted about the schooner Harvey Gamage, was in 2014, when she and several other vessels were due to be sold at auction following the failure of the Ocean Classroom Foundation. She was subsequently purchased by Phineas Sprague and refit … Continue reading &rarr;"
 categories:
   - "Current"

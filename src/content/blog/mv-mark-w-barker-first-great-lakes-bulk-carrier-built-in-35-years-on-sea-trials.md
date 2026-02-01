@@ -1,7 +1,7 @@
 ---
 title: "MV Mark W. Barker, First Great Lakes Bulk Carrier Built in 35 Years, on Sea Trials"
 date: 2022-07-10T17:00:07
-slug: mv-mark-w-barker-first-great-lakes-bulk-carrier-built-in-35-years-on-sea-trials
+slug: "mv-mark-w-barker-first-great-lakes-bulk-carrier-built-in-35-years-on-sea-trials"
 excerpt: "Two years ago, we posted about the keel laying of the Interlake Steamship Company‘s bulk carrier MV Mark W. Barker at Fincantieri Bay Shipbuilding in Sturgeon Bay, WI. The ship is now completing sea trials and is expected to enter … Continue reading &rarr;"
 categories:
   - "Current"

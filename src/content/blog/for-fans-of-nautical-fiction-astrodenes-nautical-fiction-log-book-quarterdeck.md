@@ -1,7 +1,7 @@
 ---
 title: "For Fans of Nautical Fiction  –  Astrodene’s Nautical Fiction Log Book & Quarterdeck"
 date: 2013-03-05T18:03:22
-slug: for-fans-of-nautical-fiction-astrodenes-nautical-fiction-log-book-quarterdeck
+slug: "for-fans-of-nautical-fiction-astrodenes-nautical-fiction-log-book-quarterdeck"
 excerpt: "There are two wonderful newsletters for keeping up with what is going on in the world of nautical fiction – Astrodene’s Nautical Fiction Log Book, sponsored by David Haye’s Historic Naval Fiction website and Quarterdeck sponsored by McBooks Press.   The March edition of … Continue reading &rarr;"
 categories:
   - "Current"

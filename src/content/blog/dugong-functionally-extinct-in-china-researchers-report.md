@@ -1,7 +1,7 @@
 ---
-title: "Dugong “Functionally Extinct” in China, Researchers Report"
+title: "Dugong \"Functionally Extinct\" in China, Researchers Report"
 date: 2022-08-26T10:10:36
-slug: dugong-functionally-extinct-in-china-researchers-report
+slug: "dugong-functionally-extinct-in-china-researchers-report"
 excerpt: "Researchers writing in the journal Royal Society Open Science have concluded that the dugong, a mammal related to the manatee – said to have inspired ancient tales of mermaids and sirens – is now extinct in China.  Only three people … Continue reading &rarr;"
 categories:
   - "Current"

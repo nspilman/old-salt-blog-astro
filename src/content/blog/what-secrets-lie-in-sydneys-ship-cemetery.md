@@ -1,8 +1,8 @@
 ---
 title: "What secrets lie in Sydney’s ship cemetery?"
 date: 2010-11-17T09:00:56
-slug: what-secrets-lie-in-sydneys-ship-cemetery
-excerpt: "Earlier in the month we posted about New York harbor’s “graveyard of ships”.  Yesterday the Daily Telegraph featured an interesting article about Sydney’s ship cemetery – an abandoned wrecking yard in Homebush Bay where several wooden barges and at least five ships … Continue reading &rarr;"
+slug: "what-secrets-lie-in-sydneys-ship-cemetery"
+excerpt: "Earlier in the month we posted about New York harbor’s \"graveyard of ships\".  Yesterday the Daily Telegraph featured an interesting article about Sydney’s ship cemetery – an abandoned wrecking yard in Homebush Bay where several wooden barges and at least five ships … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "SS Heroic"
   - "Sydney's ship cemetery"
 author: "Rick Spilman"
-description: "Earlier in the month we posted about New York harbor’s “graveyard of ships”.  Yesterday the Daily Telegraph featured an interesting article about Sydney’s ship cemetery – an abandoned wrecking yard in Homebush Bay where several wooden barges and at least five ships … Continue reading &rarr;"
+description: "Earlier in the month we posted about New York harbor’s \"graveyard of ships\".  Yesterday the Daily Telegraph featured an interesting article about Sydney’s ship cemetery – an abandoned wrecking yard in Homebush Bay where several wooden barges and at least five ships … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/sydney-shipyard.jpg)

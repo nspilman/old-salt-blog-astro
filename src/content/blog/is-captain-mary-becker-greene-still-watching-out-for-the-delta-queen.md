@@ -1,8 +1,8 @@
 ---
 title: "Is Captain Mary Becker Greene Still Watching Out for the Delta Queen?"
 date: 2015-03-19T16:46:35
-slug: is-captain-mary-becker-greene-still-watching-out-for-the-delta-queen
-excerpt: "Some say that Captain Mary Becker Greene is still watching out for the riverboat Delta Queen. Captain “Ma” Greene served for almost sixty years as master and pilot of some of the finest steamboats on the inland rivers. She died in … Continue reading &rarr;"
+slug: "is-captain-mary-becker-greene-still-watching-out-for-the-delta-queen"
+excerpt: "Some say that Captain Mary Becker Greene is still watching out for the riverboat Delta Queen. Captain \"Ma\" Greene served for almost sixty years as master and pilot of some of the finest steamboats on the inland rivers. She died in … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"

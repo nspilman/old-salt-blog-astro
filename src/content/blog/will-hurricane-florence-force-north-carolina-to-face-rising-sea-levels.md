@@ -1,7 +1,7 @@
 ---
 title: "Will Hurricane Florence Force North Carolina to Face Rising Sea Levels?"
 date: 2018-09-14T09:34:21
-slug: will-hurricane-florence-force-north-carolina-to-face-rising-sea-levels
+slug: "will-hurricane-florence-force-north-carolina-to-face-rising-sea-levels"
 excerpt: "In 2010, a North Carolina state commission report predicted that sea levels on the state’s coast could rise as much as 39 inches by the year 2100, flooding billions of dollars’ worth of real estate and crippling much of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

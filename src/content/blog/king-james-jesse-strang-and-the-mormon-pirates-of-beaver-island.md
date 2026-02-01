@@ -1,8 +1,8 @@
 ---
 title: "King James Jesse Strang and the Mormon Pirates of Beaver Island"
 date: 2013-06-28T07:20:16
-slug: king-james-jesse-strang-and-the-mormon-pirates-of-beaver-island
-excerpt: "We recently posted about the Michigan State Senate passing a resolution which officially recognized “International Talk Like a Pirate Day”. (It appears that they nothing better to do, in a state with a gaping budget deficit, collapsing cities and failing schools. … Continue reading &rarr;"
+slug: "king-james-jesse-strang-and-the-mormon-pirates-of-beaver-island"
+excerpt: "We recently posted about the Michigan State Senate passing a resolution which officially recognized \"International Talk Like a Pirate Day\". (It appears that they nothing better to do, in a state with a gaping budget deficit, collapsing cities and failing schools. … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Mormon"
   - "pirates"
 author: "Rick Spilman"
-description: "We recently posted about the Michigan State Senate passing a resolution which officially recognized “International Talk Like a Pirate Day”. (It appears that they nothing better to do, in a state with a gaping budget deficit, collapsing cities and failing schools. … Continue reading &rarr;"
+description: "We recently posted about the Michigan State Senate passing a resolution which officially recognized \"International Talk Like a Pirate Day\". (It appears that they nothing better to do, in a state with a gaping budget deficit, collapsing cities and failing schools. … Continue reading &rarr;"
 ---
 
 ![James Jesse Strang](http://www.oldsaltblog.com/wp-content/uploads/2013/06/220px-James_Strang_daguerreotype_1856.jpg)

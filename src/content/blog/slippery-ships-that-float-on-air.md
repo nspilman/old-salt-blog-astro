@@ -1,7 +1,7 @@
 ---
 title: "Slippery Ships That Float on Air?"
 date: 2010-10-19T08:27:25
-slug: slippery-ships-that-float-on-air
+slug: "slippery-ships-that-float-on-air"
 excerpt: "Two years ago, an article appeared in Scientific American, Slippery Ships That Float on Air, describing the various attempts to reduce frictional resistance on ship’s hulls by injecting air bubbles or introducing pockets of air beneath the hull.  At the time, the … Continue reading &rarr;"
 categories:
   - "Current"

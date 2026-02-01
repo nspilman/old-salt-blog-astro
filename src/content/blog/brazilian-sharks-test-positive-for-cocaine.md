@@ -1,7 +1,7 @@
 ---
 title: "Brazilian Sharks Test Positive For Cocaine"
 date: 2024-07-23T20:50:35
-slug: brazilian-sharks-test-positive-for-cocaine
+slug: "brazilian-sharks-test-positive-for-cocaine"
 excerpt: "Have you heard of cocaine bear? Well, meet cocaine sharks. Sharks living off the coast of Brazil have tested positive for cocaine, according to new research, the first time that the drug has been detected in free-ranging sharks. Scientists tested 13 … Continue reading &rarr;"
 categories:
   - "Current"

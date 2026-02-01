@@ -1,7 +1,7 @@
 ---
 title: "Major Roy Bates – First Prince of Sealand"
 date: 2012-10-21T08:21:21
-slug: major-roy-bates-first-prince-of-sealand
+slug: "major-roy-bates-first-prince-of-sealand"
 excerpt: "Patrick Roy Bates, better-known as Prince Roy of Sealand – the title he awarded himself  – died earlier this month at the age of 91 in Leigh-on-Sea,Essex, UK.   In 1967, Major Roy Bates, a veteran of WWII, occupied a derelict … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

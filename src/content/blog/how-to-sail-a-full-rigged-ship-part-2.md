@@ -1,8 +1,8 @@
 ---
 title: "How to Sail a Full Rigged Ship, Part 2"
 date: 2012-11-11T07:55:04
-slug: how-to-sail-a-full-rigged-ship-part-2
-excerpt: "Would you like to know how to tack a square-rigger?  Part 2 of “How to Sail a Full Rigged Ship,” courtesy of the full-rigged ship Sørlandet.  Part 2 looks at tacking. How to sail a Full-Rigged-Ship – The Sørlandet Part 2   … Continue reading &rarr;"
+slug: "how-to-sail-a-full-rigged-ship-part-2"
+excerpt: "Would you like to know how to tack a square-rigger?  Part 2 of \"How to Sail a Full Rigged Ship,\" courtesy of the full-rigged ship Sørlandet.  Part 2 looks at tacking. How to sail a Full-Rigged-Ship – The Sørlandet Part 2   … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Ships"
@@ -12,7 +12,7 @@ tags:
   - "square rigger"
   - "tacking"
 author: "Rick Spilman"
-description: "Would you like to know how to tack a square-rigger?  Part 2 of “How to Sail a Full Rigged Ship,” courtesy of the full-rigged ship Sørlandet.  Part 2 looks at tacking. How to sail a Full-Rigged-Ship – The Sørlandet Part 2   … Continue reading &rarr;"
+description: "Would you like to know how to tack a square-rigger?  Part 2 of \"How to Sail a Full Rigged Ship,\" courtesy of the full-rigged ship Sørlandet.  Part 2 looks at tacking. How to sail a Full-Rigged-Ship – The Sørlandet Part 2   … Continue reading &rarr;"
 ---
 
 Would you like to know how to tack a square-rigger?  Part 2 of “How to Sail a Full Rigged Ship,” courtesy of the [full-rigged ship Sørlandet](http://fullriggeren-sorlandet.no/en).  Part 2 looks at tacking.

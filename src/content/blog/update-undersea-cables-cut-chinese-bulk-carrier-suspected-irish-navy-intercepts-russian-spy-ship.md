@@ -1,7 +1,7 @@
 ---
 title: "Update: Undersea Cables Cut — Chinese Bulk Carrier Suspected, Irish Navy Intercepts Russian Spy Ship"
 date: 2024-11-20T21:29:27
-slug: update-undersea-cables-cut-chinese-bulk-carrier-suspected-irish-navy-intercepts-russian-spy-ship
+slug: "update-undersea-cables-cut-chinese-bulk-carrier-suspected-irish-navy-intercepts-russian-spy-ship"
 excerpt: "We posted yesterday about a telecommunications cable in the Baltic Sea between Finland and Germany that was severed Monday morning, and a 218km internet link between Lithuania and Sweden’s Gotland Island that stopped working on Sunday. Chinese Bulk Carrier Detained … Continue reading &rarr;"
 categories:
   - "Current"

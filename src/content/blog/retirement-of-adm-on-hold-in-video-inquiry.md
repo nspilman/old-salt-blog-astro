@@ -1,7 +1,7 @@
 ---
 title: "Retirement of Admiral on Hold in Video Inquiry"
 date: 2011-01-13T16:59:42
-slug: retirement-of-adm-on-hold-in-video-inquiry
+slug: "retirement-of-adm-on-hold-in-video-inquiry"
 excerpt: "An interesting followup to a previous post: Retirement of adm. on hold in video inquiry In an indication of just how seriously the Navy is taking the investigation into the racy shipboard videos aired four years ago aboard the carrier … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Coast Guard Officer Accused of Plotting Domestic Terrorism"
 date: 2019-02-21T12:02:47
-slug: coast-guard-officer-accused-of-plotting-domestic-terrorism
-excerpt: "Disturbing news. An active-duty US Coast Guard lieutenant has been accused of plotting attacks “to murder innocent civilians on a scale rarely seen in this country” according to court documents filed in U.S. District Court in Maryland on Tuesday.   Christopher Paul Hasson, … Continue reading &rarr;"
+slug: "coast-guard-officer-accused-of-plotting-domestic-terrorism"
+excerpt: "Disturbing news. An active-duty US Coast Guard lieutenant has been accused of plotting attacks \"to murder innocent civilians on a scale rarely seen in this country\" according to court documents filed in U.S. District Court in Maryland on Tuesday.   Christopher Paul Hasson, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "white nationalist"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/weaponscache-1.jpg"
 author: "Rick Spilman"
-description: "Disturbing news. An active-duty US Coast Guard lieutenant has been accused of plotting attacks “to murder innocent civilians on a scale rarely seen in this country” according to court documents filed in U.S. District Court in Maryland on Tuesday.   Christopher Paul Hasson, … Continue reading &rarr;"
+description: "Disturbing news. An active-duty US Coast Guard lieutenant has been accused of plotting attacks \"to murder innocent civilians on a scale rarely seen in this country\" according to court documents filed in U.S. District Court in Maryland on Tuesday.   Christopher Paul Hasson, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/weaponscache-200x150.jpg)Disturbing news. An active-duty US Coast Guard lieutenant has been accused of plotting attacks “to murder innocent civilians on a scale rarely seen in this country” [according to court documents](https://drive.google.com/file/d/1wl1WR4NJ95llQmNo7bmfVg6pvrq-cgzX/view) filed in U.S. District Court in Maryland on Tuesday.  

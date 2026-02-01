@@ -1,7 +1,7 @@
 ---
 title: "90′ Yacht Sinks at Launch"
 date: 2014-05-22T15:20:31
-slug: 90-yacht-sinks-at-launch
+slug: "90-yacht-sinks-at-launch"
 excerpt: "How is your day going? It has to be better than the unfortunate folks at Northern Marine in Anacortes, Washington, who had a 90′ expedition motor yacht roll over and sink when it was launched last Sunday. Rescuers and first responders had … Continue reading &rarr;"
 categories:
   - "Current"

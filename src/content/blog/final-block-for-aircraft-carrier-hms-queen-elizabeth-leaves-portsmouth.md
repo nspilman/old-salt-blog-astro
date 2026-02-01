@@ -1,7 +1,7 @@
 ---
 title: "Final Block for Aircraft Carrier HMS Queen Elizabeth Leaves Portsmouth"
 date: 2013-02-07T10:57:19
-slug: final-block-for-aircraft-carrier-hms-queen-elizabeth-leaves-portsmouth
+slug: "final-block-for-aircraft-carrier-hms-queen-elizabeth-leaves-portsmouth"
 excerpt: "Remember when ships were built from the keel up and launched by sliding down the building ways into the water with a satisfying splash?  OK, maybe I am showing my age. These days ships are built like LEGOs, massive LEGOs, … Continue reading &rarr;"
 categories:
   - "Current"

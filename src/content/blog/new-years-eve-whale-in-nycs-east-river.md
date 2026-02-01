@@ -1,7 +1,7 @@
 ---
 title: "New Year’s Eve Whale In NYC’s East River"
 date: 2017-01-02T09:29:48
-slug: new-years-eve-whale-in-nycs-east-river
+slug: "new-years-eve-whale-in-nycs-east-river"
 excerpt: "#Harbor spotted another whale in the E. River this morning right next to Gracie Mansion. Even the wildlife want to ring in #NYE2017 in #NYC pic.twitter.com/oQNbnGBirm — NYPD Special Ops (@NYPDSpecialops) December 31, 2016 A whale was seen swimming in New York’s … Continue reading &rarr;"
 categories:
   - "Current"

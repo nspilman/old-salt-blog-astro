@@ -1,7 +1,7 @@
 ---
 title: "A Rebuilt Hōkūle‘a for the Next Generation of Pacific Voyagers"
 date: 2012-03-13T12:49:00
-slug: a-rebuilt-hokulea-for-the-next-generation-of-pacific-voyagers
+slug: "a-rebuilt-hokulea-for-the-next-generation-of-pacific-voyagers"
 excerpt: "After 18 months in dry dock and 15,500 volunteer hours of labor, a wholly rebuilt Hōkūle‘a, a Hawaiian voyaging canoe, was launched last week at Sand Island, Oahu, 37 years to the day after she was first launched.  Following sea trials and outfitting, she … Continue reading &rarr;"
 categories:
   - "Current"

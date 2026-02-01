@@ -1,7 +1,7 @@
 ---
 title: "Fairtransport and the Brigantine Tres Hombres"
 date: 2010-10-11T07:59:33
-slug: fairtransport-and-the-brigantine-tres-hombres
+slug: "fairtransport-and-the-brigantine-tres-hombres"
 excerpt: "We posted recently about the efforts by B9 Shipping and the Greenheart Project to develop competitive modern sailing cargo ships.   In the Netherlands Fairtransport Shipbrokers is operating the Brigantine Tres Hombres in freight service between Europe, the Atlantic islands, the Caribbean … Continue reading &rarr;"
 categories:
   - "Current"

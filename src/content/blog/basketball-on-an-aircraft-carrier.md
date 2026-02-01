@@ -1,7 +1,7 @@
 ---
 title: "Basketball on an Aircraft Carrier?"
 date: 2011-05-13T16:40:56
-slug: basketball-on-an-aircraft-carrier
+slug: "basketball-on-an-aircraft-carrier"
 excerpt: "How can you tell when you have too many aircraft carriers? Possibly, when you start using this expensive hardware for sporting venues. On Nov. 11, 2011, the Veteran’s Day Carrier Classic basketball game between North Carolina and Michigan State will … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Destroyer USS Fitzgerald Nearly Sank Following Collision  — Seven Sailors Died Below Deck"
 date: 2017-06-19T10:33:01
-slug: destroyer-uss-fitzgerald-nearly-sank-following-collision-seven-sailors-died-deck
-excerpt: "We now know that the USS Fitzgerald came perilously close to sinking  following its collision with the Philippine-flagged container ship ACX Crystal, early Saturday morning off the Japaneses coast near Tokyo.   “Heroic efforts prevented the flooding from catastrophically spreading, which could have … Continue reading &rarr;"
+slug: "destroyer-uss-fitzgerald-nearly-sank-following-collision-seven-sailors-died-deck"
+excerpt: "We now know that the USS Fitzgerald came perilously close to sinking  following its collision with the Philippine-flagged container ship ACX Crystal, early Saturday morning off the Japaneses coast near Tokyo.   \"Heroic efforts prevented the flooding from catastrophically spreading, which could have … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "USS Fitzgerald"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/06/fitzgerald2.jpg"
 author: "Rick Spilman"
-description: "We now know that the USS Fitzgerald came perilously close to sinking  following its collision with the Philippine-flagged container ship ACX Crystal, early Saturday morning off the Japaneses coast near Tokyo.   “Heroic efforts prevented the flooding from catastrophically spreading, which could have … Continue reading &rarr;"
+description: "We now know that the USS Fitzgerald came perilously close to sinking  following its collision with the Philippine-flagged container ship ACX Crystal, early Saturday morning off the Japaneses coast near Tokyo.   \"Heroic efforts prevented the flooding from catastrophically spreading, which could have … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/fitzgerald2.jpg)We now know that the [USS *Fitzgerald*](https://en.wikipedia.org/wiki/USS_Fitzgerald) came perilously close to sinking  [following its collision](http://www.oldsaltblog.com/2017/06/destroyer-uss-fitzgerald-collides-container-ship-seven-missing/) with the Philippine-flagged container ship [*ACX Crystal,*](https://www.marinetraffic.com/en/ais/details/ships/shipid:722169/mmsi:548789000/imo:9360611/vessel:ACX_CRYSTAL) early Saturday morning off the Japaneses coast near Tokyo.    

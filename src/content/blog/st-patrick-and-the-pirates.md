@@ -1,7 +1,7 @@
 ---
 title: "St. Patrick and the Pirates"
 date: 2020-03-17T12:03:37
-slug: st-patrick-and-the-pirates
+slug: "st-patrick-and-the-pirates"
 excerpt: "The story goes that somewhere around the year 400 AD, a lad of 16, named Maewyn Succat, was kidnapped by pirates from his home in what is now Wales and was taken as a slave to Ireland.  He was enslaved … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Update: Coast Guard Report — Kayaks & NYC Ferry Collision, Enough Blame to Go Around"
 date: 2017-03-23T15:45:07
-slug: update-coast-guard-report-kayaks-nyc-ferry-collision-enough-blame-to-go-around
+slug: "update-coast-guard-report-kayaks-nyc-ferry-collision-enough-blame-to-go-around"
 excerpt: "On August 30, 2016, just before 6PM, a commuter ferry collided with a group of nine kayakers, shortly after departing from the NY Waterway terminal at 39th Street on the Hudson River in Manhattan. Four of the kayakers were injured included the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
-title: "“Gasparilla Pirate Fest,” Panther John Gomez, & the Fictious Pirate Jose Gaspar"
+title: "\"Gasparilla Pirate Fest,\" Panther John Gomez, & the Fictious Pirate Jose Gaspar"
 date: 2023-01-30T21:11:05
-slug: gasparilla-pirate-fest-panther-john-gomez-the-fictious-pirate-jose-gaspar
-excerpt: "Last Saturday, a ragtag pirate band calling itself Ye Mystic Krewe of Gasparilla invaded the port of Tampa, FL, kicking off the Gasparilla Pirate Fest, notionally in honor of Jose Gaspar, a brigand reputed to be the “Last Buccaneer.” The festival … Continue reading &rarr;"
+slug: "gasparilla-pirate-fest-panther-john-gomez-the-fictious-pirate-jose-gaspar"
+excerpt: "Last Saturday, a ragtag pirate band calling itself Ye Mystic Krewe of Gasparilla invaded the port of Tampa, FL, kicking off the Gasparilla Pirate Fest, notionally in honor of Jose Gaspar, a brigand reputed to be the \"Last Buccaneer.\" The festival … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -17,7 +17,7 @@ tags:
   - "Ye Mystic Krewe of Gasparilla"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/01/josegasprilla.jpg"
 author: "Rick Spilman"
-description: "Last Saturday, a ragtag pirate band calling itself Ye Mystic Krewe of Gasparilla invaded the port of Tampa, FL, kicking off the Gasparilla Pirate Fest, notionally in honor of Jose Gaspar, a brigand reputed to be the “Last Buccaneer.” The festival … Continue reading &rarr;"
+description: "Last Saturday, a ragtag pirate band calling itself Ye Mystic Krewe of Gasparilla invaded the port of Tampa, FL, kicking off the Gasparilla Pirate Fest, notionally in honor of Jose Gaspar, a brigand reputed to be the \"Last Buccaneer.\" The festival … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/01/josegasprilla.jpg)Last Saturday, a ragtag pirate band calling itself [Ye Mystic Krewe of Gasparilla](https://ymkg.com/) invaded the port of Tampa, FL, kicking off the [Gasparilla Pirate Fest](http://en.wikipedia.org/wiki/Ye_Mystic_Krewe_of_Gasparilla), notionally in honor of [Jose Gaspar](http://en.wikipedia.org/wiki/Jos%C3%A9_Gaspar), a brigand reputed to be the “Last Buccaneer.” The festival is described as “a swashbuckling good time” involving silly costumes, parade floats, and heavy drinking. The festival has been going on in Tampa almost yearly since 1904.

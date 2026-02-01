@@ -1,7 +1,7 @@
 ---
 title: "Update: Turanor PlanetSolar, Largest Solar Powered Yacht, Survives Storm, Arrives in Hong Kong"
 date: 2011-08-18T14:39:03
-slug: update-turanor-planetsolar-largest-solar-powered-yacht-survives-storm-arrives-in-hong-kong
+slug: "update-turanor-planetsolar-largest-solar-powered-yacht-survives-storm-arrives-in-hong-kong"
 excerpt: "In June we posted that the 31-meter Turanor PlanetSolar,  a catamaran yacht fitted with 536 square meters of photovoltaic panels, had successfully sailed halfway around the world, from Monaco to Brisbane, Australia, powered solely by the sun.  The yacht recently arrived in … Continue reading &rarr;"
 categories:
   - "Current"

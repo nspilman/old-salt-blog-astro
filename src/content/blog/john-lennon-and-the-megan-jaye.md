@@ -1,7 +1,7 @@
 ---
 title: "John Lennon and the Voyage of the Megan Jaye"
 date: 2015-12-09T09:05:27
-slug: john-lennon-and-the-megan-jaye
+slug: "john-lennon-and-the-megan-jaye"
 excerpt: "I recently came across a sea story, that, like the best sea stories, has been retold enough times so that the details tend to wander from one version to the other. This much appears to be true. Thirty-five years ago, … Continue reading &rarr;"
 categories:
   - "Current"

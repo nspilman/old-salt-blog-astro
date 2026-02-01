@@ -1,7 +1,7 @@
 ---
 title: "Great Lakes Ice Nearing Record"
 date: 2014-02-16T13:38:36
-slug: great-lakes-ice-nearing-record
+slug: "great-lakes-ice-nearing-record"
 excerpt: "The Great Lakes between the United States and Canada were formed by the passage of ice at end of the last glacial period around 10,000 years ago. They are now being covered by near record ice once again (although, not … Continue reading &rarr;"
 categories:
   - "Current"

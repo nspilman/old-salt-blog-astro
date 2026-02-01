@@ -1,7 +1,7 @@
 ---
 title: "Greenport Tall Ships Challenge 2012 – Memorial Day Weekend"
 date: 2012-05-24T08:49:54
-slug: greenport-tall-ships-challenge-2012-memorial-day-weekend
+slug: "greenport-tall-ships-challenge-2012-memorial-day-weekend"
 excerpt: "New York harbor is not the only port on the North-Eastern coast of the United States with a wealth of tall ships over Memorial Day Weekend.  Greenport, New York  is hosting the Greenport Tallships Challenge 2012.   Greenport, on the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Ex-USCG Cutter Lilac on $9.99 With Dave Evans"
 date: 2016-02-27T13:20:43
-slug: cutter-lilac-on-9-99-with-dave-evans
+slug: "cutter-lilac-on-9-99-with-dave-evans"
 excerpt: "$9.99 with Dave Evans is a weekly program which explores fun things to do and see in New York City for under ten bucks. Recently, he stopped by the ex-USCG Cutter Lilac at Pier 25 in Manhattan on the Hudson … Continue reading &rarr;"
 categories:
   - "Current"

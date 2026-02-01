@@ -1,7 +1,7 @@
 ---
 title: "Thanksgiving, Whaling Ships, Sarah Josepha Hale, Mary’s Lamb & a Liberty Ship"
 date: 2014-11-27T09:00:42
-slug: thanksgiving-whaling-ships-sarah-josepha-hale-marys-lamb-a-liberty-ship
+slug: "thanksgiving-whaling-ships-sarah-josepha-hale-marys-lamb-a-liberty-ship"
 excerpt: "Happy Thanksgiving!  Thanksgiving is one of the central creation myths of the founding of the United States. The story is based on an account of a one time feast of thanksgiving in the Plymouth colony of Massachusetts in 1621 during … Continue reading &rarr;"
 categories:
   - "History"

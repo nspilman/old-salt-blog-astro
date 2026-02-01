@@ -1,8 +1,8 @@
 ---
 title: "Historic Schooner Ernestina-Morrissey Returns to New Bedford"
 date: 2022-12-01T20:32:09
-slug: historic-schooner-ernestina-morrissey-returns-to-new-bedford
-excerpt: "After seven years of reconstruction and restoration in Boothbay Harbor, ME, the historic schooner Ernestina-Morrissey returned to her home port in New Bedford, MA earlier this week.  “It’s been a long time since we’ve seen the Ernestina-Morrissey sailing into New … Continue reading &rarr;"
+slug: "historic-schooner-ernestina-morrissey-returns-to-new-bedford"
+excerpt: "After seven years of reconstruction and restoration in Boothbay Harbor, ME, the historic schooner Ernestina-Morrissey returned to her home port in New Bedford, MA earlier this week.  \"It’s been a long time since we’ve seen the Ernestina-Morrissey sailing into New … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -18,7 +18,7 @@ tags:
   - "new bedford"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/erestinamorrisey.jpg"
 author: "Rick Spilman"
-description: "After seven years of reconstruction and restoration in Boothbay Harbor, ME, the historic schooner Ernestina-Morrissey returned to her home port in New Bedford, MA earlier this week.  “It’s been a long time since we’ve seen the Ernestina-Morrissey sailing into New … Continue reading &rarr;"
+description: "After seven years of reconstruction and restoration in Boothbay Harbor, ME, the historic schooner Ernestina-Morrissey returned to her home port in New Bedford, MA earlier this week.  \"It’s been a long time since we’ve seen the Ernestina-Morrissey sailing into New … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/erestinamorrisey.jpg)

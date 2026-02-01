@@ -1,7 +1,7 @@
 ---
-title: "The Shipwreck Behind Crane’s “The Open Boat”"
+title: "The Shipwreck Behind Crane’s \"The Open Boat\""
 date: 2011-03-30T12:55:02
-slug: the-shipwreck-behind-cranes-the-open-boat
+slug: "the-shipwreck-behind-cranes-the-open-boat"
 excerpt: "None of them knew the color of the sky. Their eyes glanced level, and were fastened upon the waves that swept toward them. These waves were of the hue of slate, save for the tops, which were of foaming white, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

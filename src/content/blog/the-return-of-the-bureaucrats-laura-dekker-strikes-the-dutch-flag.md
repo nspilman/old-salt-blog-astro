@@ -1,7 +1,7 @@
 ---
 title: "The Return of the Bureaucrats – Laura Dekker Strikes the Dutch Flag"
 date: 2012-01-11T09:29:32
-slug: the-return-of-the-bureaucrats-laura-dekker-strikes-the-dutch-flag
+slug: "the-return-of-the-bureaucrats-laura-dekker-strikes-the-dutch-flag"
 excerpt: "Laura Dekker’s sailboat, Guppy, now flies a New Zealand flag from her stern.  Laura has struck the Dutch colors as the bureaucrats who tried and initially succeeded in stopping her solo voyage have returned to pester her and her family once more. They … Continue reading &rarr;"
 categories:
   - "Current"

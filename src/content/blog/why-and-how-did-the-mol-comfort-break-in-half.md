@@ -1,7 +1,7 @@
 ---
 title: "Why and How Did the MOL Comfort Break in Half? Structural Flaw or Improper Loading?"
 date: 2013-06-19T09:41:41
-slug: why-and-how-did-the-mol-comfort-break-in-half
+slug: "why-and-how-did-the-mol-comfort-break-in-half"
 excerpt: "Why and how did the MOL Comfort break in half? The obvious answer is that no one knows, yet. We will learn more following an investigation, which is many months in the future.  In the mean time, what are the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Strange and Tragic Delivery of the Russian Submarine Nerpa"
 date: 2011-10-05T08:37:54
-slug: the-strange-and-tragic-delivery-of-the-russian-submarine-nerpa
+slug: "the-strange-and-tragic-delivery-of-the-russian-submarine-nerpa"
 excerpt: "Next month, the Russian nuclear submarine, Nerpa, will be delivered to the Indian Navy, which has leased the submarine for a reported $900 million from the Russians for ten years with an option to buy.  The delivery of the new nuclear sub … Continue reading &rarr;"
 categories:
   - "Current"

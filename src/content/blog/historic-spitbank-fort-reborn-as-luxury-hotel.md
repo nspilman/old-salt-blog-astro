@@ -1,7 +1,7 @@
 ---
 title: "Historic Spitbank Fort Reborn as Luxury Hotel"
 date: 2013-07-28T22:26:51
-slug: historic-spitbank-fort-reborn-as-luxury-hotel
+slug: "historic-spitbank-fort-reborn-as-luxury-hotel"
 excerpt: "The Spitbank Fort is a sea fort constructed in 1878 in the Solent near Portsmouth, England.  Now the 162 feet in diameter sea-granite fortification which once hosted 12-inch breechloading guns, reopened last year a luxury spa hotel and retreat. Spitbank Fort … Continue reading &rarr;"
 categories:
   - "Current"

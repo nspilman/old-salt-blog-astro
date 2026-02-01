@@ -1,7 +1,7 @@
 ---
 title: "The Whaleship Charles W. Morgan Under Sail for the First Time in Almost a Century"
 date: 2014-06-08T14:06:44
-slug: the-whaleship-charles-w-morgan-under-sail-for-the-first-time-in-almost-a-century
+slug: "the-whaleship-charles-w-morgan-under-sail-for-the-first-time-in-almost-a-century"
 excerpt: "Yesterday, the Charles W. Morgan set sail for the first time in almost a century.  The whaling ship built in 1841 has been extensively rebuilt at Mystic Seaport Museum and successfully completed its first day of sea trials in Long Island … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Secrets of the Pliosaurs Revealed by CT scanner"
 date: 2010-12-23T14:16:53
-slug: secrets-of-the-pliosaurs-revealed-by-ct-scanne
+slug: "secrets-of-the-pliosaurs-revealed-by-ct-scanne"
 excerpt: "An intriguing article about how scientists are using CT scans to build a 3D picture of the ferocious predator which terrorized the oceans 150m years ago.  Thanks to Alaric Bond for passing it along. Colossal pliosaur fossil secrets revealed by CT … Continue reading &rarr;"
 categories:
   - "Current"

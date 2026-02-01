@@ -1,7 +1,7 @@
 ---
 title: "New Orca Attacks — Yachts Sunk Off Gibraltar & Damaged Off Coast of Brittany"
 date: 2024-07-29T21:40:54
-slug: new-orca-attacks-yachts-sunk-off-gibraltar-damaged-off-coast-of-brittany
+slug: "new-orca-attacks-yachts-sunk-off-gibraltar-damaged-off-coast-of-brittany"
 excerpt: "The mystifying attacks on sailboats by a pod of Iberian orcas continue. The crew of the British yacht Bonhomme William had to be rescued after an orca sank their vessel in the Strait of Gibraltar, according to Spanish authorities. It … Continue reading &rarr;"
 categories:
   - "Current"

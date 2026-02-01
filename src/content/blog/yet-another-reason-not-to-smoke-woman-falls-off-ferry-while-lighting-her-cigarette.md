@@ -1,7 +1,7 @@
 ---
 title: "Yet Another Reason Not to Smoke – Woman Falls Off Ferry While Lighting her Cigarette"
 date: 2011-09-07T13:16:35
-slug: yet-another-reason-not-to-smoke-woman-falls-off-ferry-while-lighting-her-cigarette
+slug: "yet-another-reason-not-to-smoke-woman-falls-off-ferry-while-lighting-her-cigarette"
 excerpt: "A 23 year old woman reportedly fell overboard into the North Sea just after 8.30pm on Monday night from the Princess Seaways DFDS ferry bound from from Newcastle to Ijmuiden. The woman was reportedly lighting a cigarette at the rail … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Remembering the Battle of Midway, 77 Years Ago This Week"
 date: 2019-06-07T09:15:30
-slug: remembering-the-battle-of-midway-77-years-ago-this-week
+slug: "remembering-the-battle-of-midway-77-years-ago-this-week"
 excerpt: "The Battle of Midway, fought from June 3 — 7, 1942, seventy-seven years ago this week, was a major American victory in the Pacific theater in World War II. Only six months after Japan’s attack on Pearl Harbor, Midway was … Continue reading &rarr;"
 categories:
   - "History"

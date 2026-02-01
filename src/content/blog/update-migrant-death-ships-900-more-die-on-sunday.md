@@ -1,7 +1,7 @@
 ---
 title: "Update: Migrant Death Ships — 900 More Die on Sunday"
 date: 2015-04-20T17:05:10
-slug: update-migrant-death-ships-900-more-die-on-sunday
+slug: "update-migrant-death-ships-900-more-die-on-sunday"
 excerpt: "The migrant crisis in the Mediterranean continues to grow more grave. Last week, we posted about the drowning of 400 migrants in an overloaded ship which capsized not long after leaving port in Libya bound for Italy.  On Sunday, a larger ship … Continue reading &rarr;"
 categories:
   - "Current"

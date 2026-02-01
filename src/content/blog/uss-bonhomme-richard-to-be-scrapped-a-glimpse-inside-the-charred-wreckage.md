@@ -1,7 +1,7 @@
 ---
 title: "USS Bonhomme Richard to Be Scrapped, a Glimpse Inside the Charred Wreckage"
 date: 2020-12-02T17:04:57
-slug: uss-bonhomme-richard-to-be-scrapped-a-glimpse-inside-the-charred-wreckage
+slug: "uss-bonhomme-richard-to-be-scrapped-a-glimpse-inside-the-charred-wreckage"
 excerpt: "The US Navy has decided to scrap the amphibious assault ship Bonhomme Richard, which burned for more than four days this summer in San Diego. The cost and time required to rebuild the gutted ship would be simply too great to … Continue reading &rarr;"
 categories:
   - "Current"

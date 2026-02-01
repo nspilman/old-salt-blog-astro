@@ -1,7 +1,7 @@
 ---
 title: "Carnival Triumph – Another Blacked-out Drifting Cruise Ship – Why Again?"
 date: 2013-02-13T14:48:17
-slug: carnival-triumph-another-blacked-out-drifting-cruise-ship-why-again-a-common-design-flaw-in-modern-cruise-ships
+slug: "carnival-triumph-another-blacked-out-drifting-cruise-ship-why-again-a-common-design-flaw-in-modern-cruise-ships"
 excerpt: "There is a fire in one of two engine rooms on a cruise ship.  The fire is extinguished but the damage has been done. The cruise ship blacks out – losing power and most electricity. The ship is adrift in the ocean.  There is so hot … Continue reading &rarr;"
 categories:
   - "Current"

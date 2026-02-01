@@ -1,7 +1,7 @@
 ---
 title: "World Oceans Day on Historic Lighthouse Tender Lilac June 8"
 date: 2016-06-03T07:25:08
-slug: world-oceans-day-historic-lighthouse-tender-june-8
+slug: "world-oceans-day-historic-lighthouse-tender-june-8"
 excerpt: "The historic lighthouse tender Lilac is hosting a literary salon to celebrate World Oceans Day. From their press release: One Grand Books has organized a literary evening on board the museum ship Lilac to mark World Oceans Day, a global … Continue reading &rarr;"
 categories:
   - "Current"

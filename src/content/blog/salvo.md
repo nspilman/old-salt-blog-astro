@@ -1,7 +1,7 @@
 ---
 title: "Salvo!"
 date: 2010-09-17T10:35:51
-slug: salvo
+slug: "salvo"
 excerpt: "I am not a big gamer but Salvo! does look like fun. It is also on sale for the rest of the month. There is even a free demo. Salvo! on Sale in September Salvo! is a turn based wargame … Continue reading &rarr;"
 categories:
   - "Current"

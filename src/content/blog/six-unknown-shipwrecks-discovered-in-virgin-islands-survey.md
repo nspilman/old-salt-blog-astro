@@ -1,7 +1,7 @@
 ---
 title: "Six Unknown Shipwrecks Discovered in Virgin Islands Survey"
 date: 2011-05-20T08:23:12
-slug: six-unknown-shipwrecks-discovered-in-virgin-islands-survey
+slug: "six-unknown-shipwrecks-discovered-in-virgin-islands-survey"
 excerpt: "A recent NOAA survey of the Caribbean off the southern coasts of the U.S. Virgin Islands of St. John and St. Thomas and off eastern Puerto Rico discovered six previously unknown shipwrecks. 6 Uncharted Shipwrecks Discovered in Caribbean … Continue reading &rarr;"
 categories:
   - "Current"

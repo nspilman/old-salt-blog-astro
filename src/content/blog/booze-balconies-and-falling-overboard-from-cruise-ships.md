@@ -1,7 +1,7 @@
 ---
 title: "Booze, Balconies and Falling Overboard from Cruise Ships"
 date: 2014-03-29T10:48:14
-slug: booze-balconies-and-falling-overboard-from-cruise-ships
+slug: "booze-balconies-and-falling-overboard-from-cruise-ships"
 excerpt: "Sarah Kirby went on a five night Caribbean cruise on the Carnival Destiny to celebrate her 30th birthday in October of 2012.  Partying with friends, she became very intoxicated.  Just after midnight, she went back to her stateroom and stepped out … Continue reading &rarr;"
 categories:
   - "Current"

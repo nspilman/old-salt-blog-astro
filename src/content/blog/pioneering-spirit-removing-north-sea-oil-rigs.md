@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Spirit — Removing North Sea Oil Rigs"
 date: 2017-05-09T09:35:23
-slug: pioneering-spirit-removing-north-sea-oil-rigs
+slug: "pioneering-spirit-removing-north-sea-oil-rigs"
 excerpt: "The oil fields beneath the North Sea are running out of oil. As there is less oil to pump, costs rise per tonne of oil delivered from the now aging offshore platforms. A decline in oil prices only makes the economics … Continue reading &rarr;"
 categories:
   - "Current"

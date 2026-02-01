@@ -1,7 +1,7 @@
 ---
 title: "Hurricane Michael Unearths Ships Lost in Hurricane 119 Years Ago"
 date: 2018-10-22T21:57:34
-slug: hurricane-michael-unearths-ships-lost-in-hurricane-119-years-ago
+slug: "hurricane-michael-unearths-ships-lost-in-hurricane-119-years-ago"
 excerpt: "In 1899, a hurricane carried 15 ships ashore on Dog Island, a barrier island on the northwestern Florida Gulf coast. Recently, Hurricane Micheal unearthed several of the lost ships. The exposed wooden ships now rest in plain view near the west … Continue reading &rarr;"
 categories:
   - "Current"

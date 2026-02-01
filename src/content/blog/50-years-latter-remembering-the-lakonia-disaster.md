@@ -1,8 +1,8 @@
 ---
 title: "50 Years Later, Remembering the Lakonia Disaster"
 date: 2013-12-22T08:11:23
-slug: 50-years-latter-remembering-the-lakonia-disaster
-excerpt: "The brochure for for the cruise liner Lakonia promised “A MARVELOUS CHRISTMAS CRUISE TO SUNNY MADEIRA AND THE CANARY ISLANDS…HAVE YOUR HOLIDAY WITH ALL RISK ELIMINATED. ENJOY A HOLIDAY YOU WILL REMEMBER FOR THE REST OF YOUR LIFE.” Now fifty years later, … Continue reading &rarr;"
+slug: "50-years-latter-remembering-the-lakonia-disaster"
+excerpt: "The brochure for for the cruise liner Lakonia promised \"A MARVELOUS CHRISTMAS CRUISE TO SUNNY MADEIRA AND THE CANARY ISLANDS…HAVE YOUR HOLIDAY WITH ALL RISK ELIMINATED. ENJOY A HOLIDAY YOU WILL REMEMBER FOR THE REST OF YOUR LIFE.\" Now fifty years later, … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "Lakonia"
   - "Madeira"
 author: "Rick Spilman"
-description: "The brochure for for the cruise liner Lakonia promised “A MARVELOUS CHRISTMAS CRUISE TO SUNNY MADEIRA AND THE CANARY ISLANDS…HAVE YOUR HOLIDAY WITH ALL RISK ELIMINATED. ENJOY A HOLIDAY YOU WILL REMEMBER FOR THE REST OF YOUR LIFE.” Now fifty years later, … Continue reading &rarr;"
+description: "The brochure for for the cruise liner Lakonia promised \"A MARVELOUS CHRISTMAS CRUISE TO SUNNY MADEIRA AND THE CANARY ISLANDS…HAVE YOUR HOLIDAY WITH ALL RISK ELIMINATED. ENJOY A HOLIDAY YOU WILL REMEMBER FOR THE REST OF YOUR LIFE.\" Now fifty years later, … Continue reading &rarr;"
 ---
 
 ![lakoniaBurning1](http://www.oldsaltblog.com/wp-content/uploads/2013/12/lakoniaBurning1.jpg)The brochure for for the cruise liner [*Lakonia*](http://en.wikipedia.org/wiki/TSMS_Lakonia) promised “*A MARVELOUS CHRISTMAS CRUISE TO SUNNY MADEIRA AND THE CANARY ISLANDS…HAVE YOUR HOLIDAY WITH ALL RISK ELIMINATED. ENJOY A HOLIDAY YOU WILL REMEMBER FOR THE REST OF YOUR LIFE.*”

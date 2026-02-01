@@ -1,7 +1,7 @@
 ---
 title: "Cradle for Clipper Ship City of Adelaide to Set Sail For Scotland"
 date: 2011-10-27T13:44:52
-slug: cradle-for-clipper-ship-city-of-adelaide-set-sail-for-scotland
+slug: "cradle-for-clipper-ship-city-of-adelaide-set-sail-for-scotland"
 excerpt: "The City of Adelaide, built in 1864, is the oldest composite clipper ship in the world and is currently sitting on a slipway in Scotland waiting to be brought home to its namesake city.  The plan is for a steel cradle to … Continue reading &rarr;"
 categories:
   - "Current"

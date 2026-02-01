@@ -1,7 +1,7 @@
 ---
 title: "El Faro Update: Bridge Located, Search for Voyage Data Recorder Continues"
 date: 2015-11-13T18:11:11
-slug: el-faro-update-bridge-located-search-for-voyage-data-recorder-continues
+slug: "el-faro-update-bridge-located-search-for-voyage-data-recorder-continues"
 excerpt: "The National Transportation Safety Board announced Thursday that U.S. Navy salvage tug Apache has located the bridge deck of El Faro roughly a mile from the main wreckage of the ro/ro cargo ship.  33 crew died when the 790-foot long ship sank in Hurricane … Continue reading &rarr;"
 categories:
   - "Current"

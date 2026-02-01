@@ -1,7 +1,7 @@
 ---
 title: "SeaWorld tragedy — a reminder of why orcas should swim free?"
 date: 2010-02-25T14:57:51
-slug: seaworld-tragedy-%e2%80%94-a-reminder-of-why-orcas-should-swim-free
+slug: "seaworld-tragedy-%e2%80%94-a-reminder-of-why-orcas-should-swim-free"
 excerpt: "SeaWorld tragedy — a reminder of why orcas should swim free? For wildlife conservationists, the tragic death of SeaWorld trainer Dawn Brancheau is a sobering reminder of why creatures as large and majestic as killer whales simply should not live in … Continue reading &rarr;"
 categories:
   - "Current"

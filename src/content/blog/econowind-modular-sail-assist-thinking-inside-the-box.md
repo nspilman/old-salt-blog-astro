@@ -1,7 +1,7 @@
 ---
 title: "Econowind Modular Sail Assist — Thinking Inside the Box"
 date: 2019-10-07T15:35:17
-slug: econowind-modular-sail-assist-thinking-inside-the-box
+slug: "econowind-modular-sail-assist-thinking-inside-the-box"
 excerpt: "Econology is a word that has been floating around the internet recently. A combination of economy and ecology, it refers to technology that is good for the ecology, while at the same time making economic sense. The Dutch firm eConowind … Continue reading &rarr;"
 categories:
   - "Current"

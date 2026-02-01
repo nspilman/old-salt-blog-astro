@@ -1,8 +1,8 @@
 ---
 title: "Most Powerful Tidal Turbine Goes On-Line Off Scotland"
 date: 2021-08-25T16:45:43
-slug: most-powerful-tidal-turbine-goes-on-line-off-scotland
-excerpt: "These days, most of the turbines producing clean energy are powered by the wind. Last month, a turbine powered by the tides, described as “the world’s most powerful” began grid-connected power generation at the European Marine Energy Centre in Orkney, … Continue reading &rarr;"
+slug: "most-powerful-tidal-turbine-goes-on-line-off-scotland"
+excerpt: "These days, most of the turbines producing clean energy are powered by the wind. Last month, a turbine powered by the tides, described as \"the world’s most powerful\" began grid-connected power generation at the European Marine Energy Centre in Orkney, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Tidal Turbine"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/08/O2tideturbine.jpg"
 author: "Rick Spilman"
-description: "These days, most of the turbines producing clean energy are powered by the wind. Last month, a turbine powered by the tides, described as “the world’s most powerful” began grid-connected power generation at the European Marine Energy Centre in Orkney, … Continue reading &rarr;"
+description: "These days, most of the turbines producing clean energy are powered by the wind. Last month, a turbine powered by the tides, described as \"the world’s most powerful\" began grid-connected power generation at the European Marine Energy Centre in Orkney, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/08/O2tideturbine.jpg)These days, most of the turbines producing clean energy are powered by the wind. Last month, a turbine powered by the tides, described as “the world’s most powerful” began grid-connected power generation at the European Marine Energy Centre in Orkney, an archipelago located north of mainland Scotland.

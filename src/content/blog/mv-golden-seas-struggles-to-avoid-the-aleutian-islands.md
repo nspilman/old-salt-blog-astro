@@ -1,7 +1,7 @@
 ---
 title: "MV Golden Seas Struggles To Avoid the Aleutian Islands"
 date: 2010-12-04T11:13:40
-slug: mv-golden-seas-struggles-to-avoid-the-aleutian-islands
+slug: "mv-golden-seas-struggles-to-avoid-the-aleutian-islands"
 excerpt: "The 74, 475 DWT  MV Golden Seas carrying a cargo of rapeseed oil suffered a turbocharger failure on its main engine late Thursday night,  reducing main engine power sufficiently so that the ship could not make headway against the 29 foot seas and … Continue reading &rarr;"
 categories:
   - "Current"

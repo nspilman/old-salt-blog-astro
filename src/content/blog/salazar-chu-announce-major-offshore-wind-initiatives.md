@@ -1,7 +1,7 @@
 ---
 title: "Salazar, Chu Announce Major Offshore Wind Initiatives"
 date: 2011-02-07T23:06:01
-slug: salazar-chu-announce-major-offshore-wind-initiatives
+slug: "salazar-chu-announce-major-offshore-wind-initiatives"
 excerpt: "The United States is far behind the countries of Western Europe and China in the development of offshore wind power.  Today, Secretary of the Interior Ken Salazar and Secretary of Energy Steven Chu announced a few steps toward catching up. … Continue reading &rarr;"
 categories:
   - "Current"

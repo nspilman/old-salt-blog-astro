@@ -1,7 +1,7 @@
 ---
 title: "Wreck of German WWI Cruiser Scharnhorst Discovered Off Falklands"
 date: 2019-12-06T16:21:57
-slug: wreck-of-german-wwi-cruiser-scharnhorst-discovered-off-falklands
+slug: "wreck-of-german-wwi-cruiser-scharnhorst-discovered-off-falklands"
 excerpt: "The wreck of the World War One German armored cruiser, SMS Scharnhorst, has been located off the Falkland Islands. Scharnhorst, the flagship of German Vice-Admiral Maximilian Graf von Spee’s East Asia Squadron, was sunk by the Royal Navy 105 years … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Richard Bailey – Official Captain of SSV Oliver Hazard Perry"
 date: 2012-10-11T18:15:06
-slug: richard-bailey-becomes-official-captain-of-ssv-oliver-hazard-perry
+slug: "richard-bailey-becomes-official-captain-of-ssv-oliver-hazard-perry"
 excerpt: "Congratulations to Richard Bailey who has been appointed captain of the SSV Oliver Hazard Perry, which, when commissioned next summer, will be among the largest and most sophisticated school ships built in America in recent decades.  The Oliver Hazard Perry Rhode Island organization … Continue reading &rarr;"
 categories:
   - "Current"

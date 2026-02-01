@@ -1,7 +1,7 @@
 ---
 title: "The Lenox Project – Building a Restoration Warship"
 date: 2012-01-04T17:47:09
-slug: the-lenox-project-building-a-restoration-warship
+slug: "the-lenox-project-building-a-restoration-warship"
 excerpt: "A very interesting, if ambitious, new project.  While we often focus on the Georgian Navy, the Royal Navy during the Restoration is fascinating it own right.  The Lenox Project hopes to build a replica of the Lenox, a 17th century warship in the restored dockyard at … Continue reading &rarr;"
 categories:
   - "Current"

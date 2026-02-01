@@ -1,8 +1,8 @@
 ---
 title: "El Galeon Andalusia — Fascinating if Occasionally Anachronistic"
 date: 2015-07-07T19:57:11
-slug: el-galeon-andalusia-fascinating-if-occasionally-anachronistic
-excerpt: "Today I went aboard El Galeon Andalusia, at South Street Seaport. The ship is billed as “a 170 foot, 495 ton, authentic wooden replica of a galleon that was part of Spain’s West Indies fleet.” It is a intriguing ship that has … Continue reading &rarr;"
+slug: "el-galeon-andalusia-fascinating-if-occasionally-anachronistic"
+excerpt: "Today I went aboard El Galeon Andalusia, at South Street Seaport. The ship is billed as \"a 170 foot, 495 ton, authentic wooden replica of a galleon that was part of Spain’s West Indies fleet.\" It is a intriguing ship that has … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"

@@ -1,8 +1,8 @@
 ---
 title: "As the Scandal Rolls on, What Has Become of Fat Leonard?"
 date: 2018-12-19T09:40:44
-slug: as-the-scandal-rolls-on-what-has-become-of-fat-leonard
-excerpt: "Five years ago, Leonard Glenn Francis, aka “Fat Leonard”, was arrested by the US Navy as the center of a major procurement scandal and what has been described as the worst national-security breach of its kind to hit the Navy since the … Continue reading &rarr;"
+slug: "as-the-scandal-rolls-on-what-has-become-of-fat-leonard"
+excerpt: "Five years ago, Leonard Glenn Francis, aka \"Fat Leonard\", was arrested by the US Navy as the center of a major procurement scandal and what has been described as the worst national-security breach of its kind to hit the Navy since the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "US Navy"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/fatleonard1.jpg"
 author: "Rick Spilman"
-description: "Five years ago, Leonard Glenn Francis, aka “Fat Leonard”, was arrested by the US Navy as the center of a major procurement scandal and what has been described as the worst national-security breach of its kind to hit the Navy since the … Continue reading &rarr;"
+description: "Five years ago, Leonard Glenn Francis, aka \"Fat Leonard\", was arrested by the US Navy as the center of a major procurement scandal and what has been described as the worst national-security breach of its kind to hit the Navy since the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/fatleonard1.jpg)Five years ago, [Leonard Glenn Francis, aka “Fat Leonard”](https://en.wikipedia.org/wiki/Fat_Leonard_scandal), was arrested by the US Navy as the center of a major procurement scandal and what has been described as the worst national-security breach of its kind to hit the Navy since the end of the Cold War. The 54-year-old, 350-pound Malaysian national, ran Glenn Defense Marine Asia (GDMA) and two decades had been bribing US Navy officials with cash, lavish gifts, entertainment and prostitutes in exchange for information on ship port calls, bidding information, and for officials looking the other way at GDMA overbilling. 

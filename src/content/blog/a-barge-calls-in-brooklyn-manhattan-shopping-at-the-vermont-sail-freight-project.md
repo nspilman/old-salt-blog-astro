@@ -1,7 +1,7 @@
 ---
 title: "A Barge Calls in Brooklyn (& Manhattan) – Shopping at the Vermont Sail Freight Project"
 date: 2013-10-28T18:17:41
-slug: a-barge-calls-in-brooklyn-manhattan-shopping-at-the-vermont-sail-freight-project
+slug: "a-barge-calls-in-brooklyn-manhattan-shopping-at-the-vermont-sail-freight-project"
 excerpt: "The Vermont Sail Freight Project sailing barge Ceres called in New York harbor this weekend with a cargo of non-perishable produce from a total of thirty farms from Vermont and the state of New York.  The had sailed the barge down Lake … Continue reading &rarr;"
 categories:
   - "Current"

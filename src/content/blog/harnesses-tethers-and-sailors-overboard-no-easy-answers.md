@@ -1,7 +1,7 @@
 ---
 title: "Harnesses, Tethers and Sailors Overboard — No Easy Answers"
 date: 2016-04-06T13:31:54
-slug: harnesses-tethers-and-sailors-overboard-no-easy-answers
+slug: "harnesses-tethers-and-sailors-overboard-no-easy-answers"
 excerpt: "On April 1, Sarah Young was swept from the cockpit of the yacht IchorCoal sailing in the middle of the Pacific Ocean in the Clipper Round the Word Race. By the time the crew reached her, she had died. She … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

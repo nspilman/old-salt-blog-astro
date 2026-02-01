@@ -1,7 +1,7 @@
 ---
 title: "Hōkūleʻa Arrives in Brasil on Round the World Voyage"
 date: 2016-02-02T19:49:22
-slug: hokule%ca%bba-arrives-in-brasil-on-round-the-world-voyage
+slug: "hokule%ca%bba-arrives-in-brasil-on-round-the-world-voyage"
 excerpt: "Hōkūleʻa, the Polynesian Voyaging Society double hull sailing canoe has arrived in Brasil, after a voyage across the Atlantic, continuing on its round the world voyage. Over the last 40 years, Hōkūleʻa has sailed over 150,000 across the Pacific.  In its … Continue reading &rarr;"
 categories:
   - "Current"

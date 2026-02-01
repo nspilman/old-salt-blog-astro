@@ -1,7 +1,7 @@
 ---
 title: "Sloop Providence Sails Again"
 date: 2011-04-18T07:49:08
-slug: sloop-providence-sails-again
+slug: "sloop-providence-sails-again"
 excerpt: "Great news. The Sloop Providence, replica of the American Revolutionary sloop of the same name is sailing again after being laid up for 3 1/2 years.   She was purchased last year from the City of Providence by boat builder … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Hunger Stones Emerge as Extreme Drought Drops Water Levels of Rhine & Other European Rivers"
 date: 2022-08-17T16:57:17
-slug: hunger-stones-emerge-as-extreme-drought-drops-water-levels-of-rhine-other-european-rivers
+slug: "hunger-stones-emerge-as-extreme-drought-drops-water-levels-of-rhine-other-european-rivers"
 excerpt: "Extreme drought has dramatically lowered water levers in major European rivers, including the Rhine, Elbe, Loire, Danube, and Po. On the Rhine, river depths have dropped close to levels seen in the record drought of 2018. The shallow water resulting … Continue reading &rarr;"
 categories:
   - "Current"

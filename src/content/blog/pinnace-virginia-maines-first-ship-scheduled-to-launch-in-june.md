@@ -1,7 +1,7 @@
 ---
 title: "Pinnace Virginia, Maine’s First Ship, Scheduled to Launch in June"
 date: 2020-01-25T10:15:55
-slug: pinnace-virginia-maines-first-ship-scheduled-to-launch-in-june
+slug: "pinnace-virginia-maines-first-ship-scheduled-to-launch-in-june"
 excerpt: "Around 1607, colonists in the Popham Colony built the pinnace Virginia, the first English-built ship in what is now Maine and possibly in all of the English-colonized areas of North America. Now over 400 years later, a recreation of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

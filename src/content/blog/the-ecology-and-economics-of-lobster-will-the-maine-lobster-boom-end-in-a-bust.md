@@ -1,7 +1,7 @@
 ---
 title: "The Ecology and Economics of Lobster – Will The Maine Lobster Boom End in a Bust?"
 date: 2013-08-22T09:49:37
-slug: the-ecology-and-economics-of-lobster-will-the-maine-lobster-boom-end-in-a-bust
+slug: "the-ecology-and-economics-of-lobster-will-the-maine-lobster-boom-end-in-a-bust"
 excerpt: "Maine has been experiencing a lobster boom. After catching an average of 20 million pounds of lobster per year for decades, Maine’s 5,500 lobster-men landed a record 125 million pounds of lobsters last year.  Will this boom, however, end in a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

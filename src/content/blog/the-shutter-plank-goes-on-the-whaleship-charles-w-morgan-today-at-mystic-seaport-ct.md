@@ -1,7 +1,7 @@
 ---
-title: "The “Shutter Plank” Goes on the Whaleship Charles W. Morgan Today at Mystic Seaport, CT"
+title: "The \"Shutter Plank\" Goes on the Whaleship Charles W. Morgan Today at Mystic Seaport, CT"
 date: 2013-05-10T08:47:35
-slug: the-shutter-plank-goes-on-the-whaleship-charles-w-morgan-today-at-mystic-seaport-ct
+slug: "the-shutter-plank-goes-on-the-whaleship-charles-w-morgan-today-at-mystic-seaport-ct"
 excerpt: "Correction:  The original post listed the wrong date for the anticipated launching of the  Charles W. Morgan. The correct date is  July 21, 2013. Congratulations to the Mystic Seaport Museum and all those working on the whaleship Charles W. Morgan.  This afternoon at around 2PM, … Continue reading &rarr;"
 categories:
   - "Current"

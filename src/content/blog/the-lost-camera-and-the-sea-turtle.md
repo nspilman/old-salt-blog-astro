@@ -1,7 +1,7 @@
 ---
 title: "The Lost Camera and the Sea Turtle"
 date: 2010-06-04T10:42:30
-slug: the-lost-camera-and-the-sea-turtle
+slug: "the-lost-camera-and-the-sea-turtle"
 excerpt: "I am not making this up. In the middle of May, a gentleman, whose internet nickname is Aquahound, found a camera in an underwater housing that had washed ashore in Key West.   There were still photos and video on the memory card dating back to November of … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Steel Cut for National Security Multi-Mission Vessel (NSMV) at Philly Shipyard"
 date: 2020-12-15T17:33:48
-slug: steel-cut-for-national-security-multi-mission-vessel-nsmv-at-philly-shipyard
+slug: "steel-cut-for-national-security-multi-mission-vessel-nsmv-at-philly-shipyard"
 excerpt: "Today, steel was cut for the first National Security Multi-Mission Vessel (NSMV) at Philly Shipyard, Inc. The NSMV is designed to be a state-of-the-art training vessel for America’s state maritime academies. The ship will also be available to support humanitarian … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

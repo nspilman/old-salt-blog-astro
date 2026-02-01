@@ -1,7 +1,7 @@
 ---
 title: "For the Love of Sea Music –  Mystic Seaport’s 33rd Annual Sea Music Festival"
 date: 2012-05-28T07:55:39
-slug: for-the-love-of-sea-music-mystic-seaports-33rd-annual-sea-music-festival
+slug: "for-the-love-of-sea-music-mystic-seaports-33rd-annual-sea-music-festival"
 excerpt: "Mystic Seaport has put together a wonderful short video where lovers of sea music speak of just it means to them, just in time for the Seaport’s upcoming 33rd Annual Sea Music Festival from June 7-10, 2012 in Mystic, Connecticut.  The three … Continue reading &rarr;"
 categories:
   - "Current"

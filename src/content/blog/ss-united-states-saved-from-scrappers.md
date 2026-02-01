@@ -1,7 +1,7 @@
 ---
 title: "SS United States Saved From Scrappers"
 date: 2010-07-01T13:14:10
-slug: ss-united-states-saved-from-scrappers
+slug: "ss-united-states-saved-from-scrappers"
 excerpt: "The Wall Street Journal is reporting that an agreement has been reached between Norwegian Cruise Line and the SS United States Conservancy, a preservationist group, to save the SS United States from the scrap yard.    The Conservancy is reported to have agreed to pay NCL … Continue reading &rarr;"
 categories:
   - "Current"
@@ -9,7 +9,7 @@ categories:
   - "Ships"
 tags:
   - "fastest passenger liner"
-  - "H.F. "Gerry" Lenfest"
+  - "H.F. \"Gerry\" Lenfest"
   - "Norwegian Cruise Line"
   - "Philadelphia philanthropist"
   - "S United States"

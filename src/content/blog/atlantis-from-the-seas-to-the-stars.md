@@ -1,7 +1,7 @@
 ---
 title: "Atlantis – from the Seas to the Stars"
 date: 2010-06-01T07:29:34
-slug: atlantis-from-the-seas-to-the-stars
+slug: "atlantis-from-the-seas-to-the-stars"
 excerpt: "A trivia question – what was the Space Shuttle Atlantis named after? A.  The Greek legend of the sunken continent. B.  The TV show – Stargate Atlantis. C.  Woods Hole’s first research vessel. I will admit that I surprised to learn that it was C.  The … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "A Furious Sky, the Five-Hundred-Year History of America’s Hurricanes — A Review"
 date: 2020-08-10T20:32:17
-slug: a-furious-sky-the-five-hundred-year-history-of-americas-hurricanes-a-review
+slug: "a-furious-sky-the-five-hundred-year-history-of-americas-hurricanes-a-review"
 excerpt: "Having grown up on the Gulf Coast of Florida, I can say without hesitation that a hurricane is the most magnificent and absolutely the most terrifying of all events in nature. Recently NOAA announced that their Atlantic forecast is for … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Update: US Navy Deploys Laser Weapon on USS Ponce in the Persian Gulf"
 date: 2014-11-24T10:34:48
-slug: update-us-navy-deploys-laser-weapon-on-uss-ponce-in-the-persian-gulf
+slug: "update-us-navy-deploys-laser-weapon-on-uss-ponce-in-the-persian-gulf"
 excerpt: "Last February, we posted that the US Navy planned to deploy its first laser weapon on one of its oldest ships. The new laser weapon has now been deployed on the 43 year old USS Ponce, an Austin-class amphibious transport dock, for field … Continue reading &rarr;"
 categories:
   - "Current"

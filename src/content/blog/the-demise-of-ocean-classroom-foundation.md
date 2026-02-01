@@ -1,7 +1,7 @@
 ---
 title: "The Demise of Ocean Classroom Foundation"
 date: 2014-07-27T16:48:23
-slug: the-demise-of-ocean-classroom-foundation
+slug: "the-demise-of-ocean-classroom-foundation"
 excerpt: "Ocean Classroom Foundation, a non-profit organization based in Maine, has run educational programs for students aboard schooners for almost 20 years.  Sadly, it will be closing down at the end of the summer; it’s three schooners will be put up for sale … Continue reading &rarr;"
 categories:
   - "Current"

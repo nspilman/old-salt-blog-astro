@@ -1,7 +1,7 @@
 ---
 title: "One Million Pageview Giveaway – Free Copies of Hell Around the Horn"
 date: 2012-12-18T11:13:58
-slug: one-million-pageview-hell-around-the-horn-giveaway
+slug: "one-million-pageview-hell-around-the-horn-giveaway"
 author: "Rick Spilman"
 description: "To celebrate passing one million pageviews on the Old Salt Blog, we will be giving away copies of my novel, Hell Around the Horn.  Kindle readers will be able to download the novel for free from Amazon on Thursday, December … Continue reading &rarr;"
 ---

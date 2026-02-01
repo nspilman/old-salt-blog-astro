@@ -1,7 +1,7 @@
 ---
 title: "Groundbreaking for David Warther Carvings – A Master Ship Carver In Amish Ohio"
 date: 2012-05-01T18:43:56
-slug: groundbreaking-for-david-warther-carvings-a-master-ship-carver-in-amish-ohio
+slug: "groundbreaking-for-david-warther-carvings-a-master-ship-carver-in-amish-ohio"
 excerpt: "Between Sugarcreek and Walnut Creek, Ohio, in the heart of Amish country,Ohio, there was a ground-breaking today for a new museum which will showcase ship models carved by David Warther II, a fifth generation carver.  David Warther Carvings will showcase … Continue reading &rarr;"
 categories:
   - "Current"

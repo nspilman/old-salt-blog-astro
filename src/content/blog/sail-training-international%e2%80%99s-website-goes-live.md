@@ -1,7 +1,7 @@
 ---
 title: "Sail Training International’s Website Goes Live"
 date: 2010-04-02T10:22:50
-slug: sail-training-international%e2%80%99s-website-goes-live
+slug: "sail-training-international%e2%80%99s-website-goes-live"
 excerpt: "The new Sail Training International website has gone live and it is quite impressive. Lots of great information, news and photos. Definitely worth a look.   Sail Training International is a not-for-profit organisation with worldwide membership and activities whose purpose is the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

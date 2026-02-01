@@ -1,7 +1,7 @@
 ---
 title: "Our Soggy Solar System II — Pluto, Ganymede, Enceladus, Europa & Mars,"
 date: 2016-12-26T12:56:38
-slug: soggy-solar-system-ii-pluto-ganymede-enceladus-europa-mars
+slug: "soggy-solar-system-ii-pluto-ganymede-enceladus-europa-mars"
 excerpt: "Recently, we posted about two possible water worlds orbiting around Kepler-62. While just slightly drier than these potential distant water worlds, so far, our planet is the only one we know of with a stable ocean. This is not to … Continue reading &rarr;"
 categories:
   - "Current"

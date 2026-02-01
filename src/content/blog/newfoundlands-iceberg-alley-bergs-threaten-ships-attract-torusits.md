@@ -1,8 +1,8 @@
 ---
 title: "In Newfoundland’s Iceberg Alley, Bergs Threaten Ships & Attract Torusits"
 date: 2017-04-26T09:55:32
-slug: newfoundlands-iceberg-alley-bergs-threaten-ships-attract-torusits
-excerpt: "Hundreds of icebergs have drifted into major shipping lanes off Newfoundland, forcing ships to go far out of their way to steer clear of the massive ice mountains. “It’s the only place in the world where icebergs intersect in a … Continue reading &rarr;"
+slug: "newfoundlands-iceberg-alley-bergs-threaten-ships-attract-torusits"
+excerpt: "Hundreds of icebergs have drifted into major shipping lanes off Newfoundland, forcing ships to go far out of their way to steer clear of the massive ice mountains. \"It’s the only place in the world where icebergs intersect in a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "International Ice Patrol"
   - "Newfoundland"
 author: "Rick Spilman"
-description: "Hundreds of icebergs have drifted into major shipping lanes off Newfoundland, forcing ships to go far out of their way to steer clear of the massive ice mountains. “It’s the only place in the world where icebergs intersect in a … Continue reading &rarr;"
+description: "Hundreds of icebergs have drifted into major shipping lanes off Newfoundland, forcing ships to go far out of their way to steer clear of the massive ice mountains. \"It’s the only place in the world where icebergs intersect in a … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/04/icebergnewfoundland.jpg)Hundreds of icebergs have drifted into major shipping lanes off Newfoundland, forcing ships to go far out of their way to steer clear of the massive ice mountains.

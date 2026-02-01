@@ -1,7 +1,7 @@
 ---
 title: "The Wanderer — the Slave Ship Flying a Yacht Club Burgee"
 date: 2014-09-27T11:51:49
-slug: the-wanderer-the-slave-ship-flying-a-yacht-club-burgee
+slug: "the-wanderer-the-slave-ship-flying-a-yacht-club-burgee"
 excerpt: "The schooner yacht Wanderer was built in 1857 for Colonel John D. Johnson, a New Orleans sugar baron. At just over 100 feet long, she was luxurious, sleek and extremely fast, reportedly capable of sailing at 20 knots.  The Wanderer is … Continue reading &rarr;"
 categories:
   - "City of Ships"

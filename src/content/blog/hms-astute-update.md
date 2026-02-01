@@ -1,8 +1,8 @@
 ---
 title: "HMS Astute Update"
 date: 2010-10-23T17:58:22
-slug: hms-astute-update
-excerpt: "It had all the elements of bad farce.  The HMS Astute is Britain’s newest, stealthiest and no doubt most expensive submarine.  As described by the BBC, “Aside from attack capabilities, it is able to sit in waters off the coast … Continue reading &rarr;"
+slug: "hms-astute-update"
+excerpt: "It had all the elements of bad farce.  The HMS Astute is Britain’s newest, stealthiest and no doubt most expensive submarine.  As described by the BBC, \"Aside from attack capabilities, it is able to sit in waters off the coast … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "HMS Astute"
   - "Isle of Skye"
 author: "Rick Spilman"
-description: "It had all the elements of bad farce.  The HMS Astute is Britain’s newest, stealthiest and no doubt most expensive submarine.  As described by the BBC, “Aside from attack capabilities, it is able to sit in waters off the coast … Continue reading &rarr;"
+description: "It had all the elements of bad farce.  The HMS Astute is Britain’s newest, stealthiest and no doubt most expensive submarine.  As described by the BBC, \"Aside from attack capabilities, it is able to sit in waters off the coast … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/submarine_closeA-1.jpg)

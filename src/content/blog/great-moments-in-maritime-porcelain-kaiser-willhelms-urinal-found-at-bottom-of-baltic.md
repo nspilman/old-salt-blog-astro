@@ -1,7 +1,7 @@
 ---
 title: "Great Moments in Maritime Porcelain – Kaiser Willhelm’s Urinal Found at Bottom of Baltic"
 date: 2011-12-13T12:29:57
-slug: great-moments-in-maritime-porcelain-kaiser-willhelms-urinal-found-at-bottom-of-baltic
+slug: "great-moments-in-maritime-porcelain-kaiser-willhelms-urinal-found-at-bottom-of-baltic"
 excerpt: "German maritime archaeologists believe that they have to have found a urinal used by Kaiser Wilhelm II in the wreck of the light-cruiser, Udine, lying on the bottom of the Baltic Sea. The Udine was sunk by the British in … Continue reading &rarr;"
 categories:
   - "Current"

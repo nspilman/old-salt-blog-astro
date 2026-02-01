@@ -1,7 +1,7 @@
 ---
 title: "Russian Landing Ship Caesar Kunikov Sunk Off Crimea Sunk by Ukrainian Drone ‘Wolfpack’"
 date: 2024-02-15T19:27:03
-slug: russian-landing-ship-caesar-kunikov-sunk-off-crimea-sunk-by-ukrainian-drone-wolfpack
+slug: "russian-landing-ship-caesar-kunikov-sunk-off-crimea-sunk-by-ukrainian-drone-wolfpack"
 excerpt: "Newsweek reports that Ukraine’s latest strike on Russia’s naval forces in the Black Sea was inspired by World War II submarine tactics, according to one Ukrainian military expert, as the Kremlin counts the cost of yet surprise maritime attack. Ivan … Continue reading &rarr;"
 categories:
   - "Current"

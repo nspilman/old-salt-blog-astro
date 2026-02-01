@@ -1,7 +1,7 @@
 ---
 title: "Update: Space Shuttle Enterprise Moved to a Bigger Barge"
 date: 2012-06-05T22:43:20
-slug: update-space-shuttle-enterprise-moved-to-a-bigger-barge
+slug: "update-space-shuttle-enterprise-moved-to-a-bigger-barge"
 excerpt: "After damaging a wingtip that extended beyond the side of the barge when the Space Shuttle Enterprise was moved from Kennedy Airport on Sunday, today the shuttle was moved to a larger barge for its last and shorter leg of … Continue reading &rarr;"
 categories:
   - "Current"

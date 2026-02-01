@@ -1,7 +1,7 @@
 ---
 title: "Admiral Nelson Gets a New Hat"
 date: 2012-08-03T12:43:26
-slug: admiral-nelson-gets-a-new-hat
+slug: "admiral-nelson-gets-a-new-hat"
 excerpt: "The statue of Admiral Nelson on the top of a Nelson’s Column in Trafalgar Square is now sporting a fancy new hat featuring a Union Jack and an Olympic torch.  Nelson would have likely approved. He was known as a rather flashy … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

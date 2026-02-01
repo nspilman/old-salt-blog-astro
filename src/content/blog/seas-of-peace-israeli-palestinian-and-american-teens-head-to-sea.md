@@ -1,7 +1,7 @@
 ---
 title: "Seas of Peace – Israeli, Palestinian and American Teens Head to Sea"
 date: 2012-06-01T12:07:32
-slug: seas-of-peace-israeli-palestinian-and-american-teens-head-to-sea
+slug: "seas-of-peace-israeli-palestinian-and-american-teens-head-to-sea"
 excerpt: "Seas of Peace is a remarkable sail training and leadership program that brings together Middle Eastern and American youth for a summer of sailing and conflict resolution training.  This year, in their second summer of operation, they hope to bring together 18 young sailors on … Continue reading &rarr;"
 categories:
   - "Current"

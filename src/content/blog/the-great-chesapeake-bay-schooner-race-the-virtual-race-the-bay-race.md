@@ -1,8 +1,8 @@
 ---
 title: "The Great Chesapeake Bay Schooner Race — the Virtual Race & the Bay Race"
 date: 2022-08-23T17:23:50
-slug: the-great-chesapeake-bay-schooner-race-the-virtual-race-the-bay-race
-excerpt: "For more than 30 years, participants in the Great Chesapeake Bay Schooner Race have been “racing to save the bay.” The race is intended to promote public awareness of the Chesapeake Bay’s maritime heritage and to encourage the preservation and … Continue reading &rarr;"
+slug: "the-great-chesapeake-bay-schooner-race-the-virtual-race-the-bay-race"
+excerpt: "For more than 30 years, participants in the Great Chesapeake Bay Schooner Race have been \"racing to save the bay.\" The race is intended to promote public awareness of the Chesapeake Bay’s maritime heritage and to encourage the preservation and … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Virtual Great Chesapeake Bay Schooner Race"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/GCBSR2.jpg"
 author: "Rick Spilman"
-description: "For more than 30 years, participants in the Great Chesapeake Bay Schooner Race have been “racing to save the bay.” The race is intended to promote public awareness of the Chesapeake Bay’s maritime heritage and to encourage the preservation and … Continue reading &rarr;"
+description: "For more than 30 years, participants in the Great Chesapeake Bay Schooner Race have been \"racing to save the bay.\" The race is intended to promote public awareness of the Chesapeake Bay’s maritime heritage and to encourage the preservation and … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/GCBSR2.jpg)

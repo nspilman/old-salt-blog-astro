@@ -1,7 +1,7 @@
 ---
 title: "Circumnavigator Update – Jessica, Abby, and Dilip"
 date: 2010-03-01T07:06:13
-slug: circumnavigator-update-%e2%80%93-jessica-abby-and-dilip
+slug: "circumnavigator-update-%e2%80%93-jessica-abby-and-dilip"
 excerpt: "Here is an update on the circumnavigation attempts under way by Jessica Watson, Abby Sunderland and Commander Dilip Donde.   The last name may not be as familiar as those of the blonde teenagers.  The 42 year old  Indian Navy Commander … Continue reading &rarr;"
 categories:
   - "Current"

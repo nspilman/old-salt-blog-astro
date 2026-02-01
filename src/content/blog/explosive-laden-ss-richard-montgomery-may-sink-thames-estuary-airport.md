@@ -1,7 +1,7 @@
 ---
 title: "Explosive-Laden Liberty Ship SS Richard Montgomery May Sink Thames Estuary Airport"
 date: 2012-06-09T07:35:33
-slug: explosive-laden-ss-richard-montgomery-may-sink-thames-estuary-airport
+slug: "explosive-laden-ss-richard-montgomery-may-sink-thames-estuary-airport"
 excerpt: "The Liberty ship SS Richard Montgomery, with a cargo of high explosives, was wrecked off the Nore in the Thames Estuary in 1944.  Shortly after the wreck, an attempt was made to remove her cargo but the ship broke apart with … Continue reading &rarr;"
 categories:
   - "Current"

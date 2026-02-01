@@ -1,7 +1,7 @@
 ---
 title: "Mass Stranding: 230 Pilot Whales Stranded on Tasmanian Beach"
 date: 2022-09-21T14:51:43
-slug: mass-stranding-230-pilot-whales-stranded-on-tasmanian-beach
+slug: "mass-stranding-230-pilot-whales-stranded-on-tasmanian-beach"
 excerpt: "More than 200 whales have been found stranded on a remote beach at the entrance to Macquarie Harbour on the west coast of Tasmania, Australia. Half of the pod, thought to be pilot whales, are believed to be still alive. … Continue reading &rarr;"
 categories:
   - "Current"

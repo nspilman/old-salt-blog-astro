@@ -1,7 +1,7 @@
 ---
 title: "Laura Dekker to Sail Tommorrow – First Portugal and then the World"
 date: 2010-08-03T08:13:19
-slug: laura-dekker-to-sail-tommorrow-first-portugal-and-then-the-world
+slug: "laura-dekker-to-sail-tommorrow-first-portugal-and-then-the-world"
 excerpt: "Just over a week after a Dutch court gave 14 year old Laura Dekker permission to attempt to sail around the world alone, the teenager is setting sail.   She will be sailing first from the Netherlands to Portugal with … Continue reading &rarr;"
 categories:
   - "Current"

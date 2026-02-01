@@ -1,7 +1,7 @@
 ---
 title: "Hemp and Pitch to the Rescue on HMS Victory"
 date: 2012-09-30T03:53:16
-slug: hemp-and-pitch-to-the-rescue-on-hms-victory
+slug: "hemp-and-pitch-to-the-rescue-on-hms-victory"
 excerpt: "An interesting article on the day after Nelson’s birthday – after using synthetic mastic, a modern caulking material commonly used in yachts,  for the last fifteen year without success, the folks restoring Nelson’s HMS Victory have returned to using hemp oakum … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup 36, Day 1 — Team New Zealand & Luna Rossa Tie 1-1"
 date: 2021-03-10T15:23:39
-slug: americas-cup-36-day-1-team-new-zealand-luna-rossa-tie-1-1
+slug: "americas-cup-36-day-1-team-new-zealand-luna-rossa-tie-1-1"
 excerpt: "On the first day of the final races in Aukland, NZ, of the 36th sailing of the America’s Cup, the defender Emirates Team New Zealand and the challenger Luna Rossa Prada Pirelli, each won one race, ending the day in … Continue reading &rarr;"
 categories:
   - "Current"

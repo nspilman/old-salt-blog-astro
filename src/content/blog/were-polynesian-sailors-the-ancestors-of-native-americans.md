@@ -1,7 +1,7 @@
 ---
 title: "Were Polynesian Sailors the Ancestors of  Native Americans?"
 date: 2020-09-25T16:52:55
-slug: were-polynesian-sailors-the-ancestors-of-native-americans
+slug: "were-polynesian-sailors-the-ancestors-of-native-americans"
 excerpt: "Genetic analysis of modern descendants shows that sailors from the Pacific Islands arrived in the Americas long before Europeans arrived. The question is how long? A recent study suggests Polynesians and Native Americans made contact some 800 years ago, well … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

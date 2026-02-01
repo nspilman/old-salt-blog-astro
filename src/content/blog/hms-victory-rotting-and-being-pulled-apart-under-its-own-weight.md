@@ -1,7 +1,7 @@
 ---
 title: "HMS Victory rotting and being pulled apart under its own weight"
 date: 2011-01-10T11:07:17
-slug: hms-victory-rotting-and-being-pulled-apart-under-its-own-weight
+slug: "hms-victory-rotting-and-being-pulled-apart-under-its-own-weight"
 excerpt: "A disturbing report published yesterday in the Telegraph. HMS Victory rotting and being pulled apart under its own weight HMS Victory is riddled with rot and being pulled apart by its own weight, maintenance reports of the historic ship have … Continue reading &rarr;"
 categories:
   - "Current"

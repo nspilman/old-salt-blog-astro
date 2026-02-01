@@ -1,8 +1,8 @@
 ---
 title: "Re-Discovering the Lost Egyptian Port of Heracleion After 1,200 Years Under the Sea"
 date: 2013-04-30T19:32:25
-slug: re-discovering-the-lost-egyptian-port-of-heracleion-after-1200-years-under-sea
-excerpt: "In 2001, a joint French-English expedition was searching the bottom of Egypt’s Aboukir Bay for the wrecks of French warships sunk in the “Battle of the Nile” in 1798.  Instead they re-discovered a lost city.  Known as Thonis to the Egyptians and Heracleion to … Continue reading &rarr;"
+slug: "re-discovering-the-lost-egyptian-port-of-heracleion-after-1200-years-under-sea"
+excerpt: "In 2001, a joint French-English expedition was searching the bottom of Egypt’s Aboukir Bay for the wrecks of French warships sunk in the \"Battle of the Nile\" in 1798.  Instead they re-discovered a lost city.  Known as Thonis to the Egyptians and Heracleion to … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "Heracleion"
   - "Thonis"
 author: "Rick Spilman"
-description: "In 2001, a joint French-English expedition was searching the bottom of Egypt’s Aboukir Bay for the wrecks of French warships sunk in the “Battle of the Nile” in 1798.  Instead they re-discovered a lost city.  Known as Thonis to the Egyptians and Heracleion to … Continue reading &rarr;"
+description: "In 2001, a joint French-English expedition was searching the bottom of Egypt’s Aboukir Bay for the wrecks of French warships sunk in the \"Battle of the Nile\" in 1798.  Instead they re-discovered a lost city.  Known as Thonis to the Egyptians and Heracleion to … Continue reading &rarr;"
 ---
 
 ![hercleion1](http://www.oldsaltblog.com/wp-content/uploads/2013/04/hercleion1.jpg)

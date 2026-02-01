@@ -1,13 +1,13 @@
 ---
-title: "Coming Soon: Antoine Vanner’s  “Britannia’s X” – Guess the “X” Competition"
+title: "Coming Soon: Antoine Vanner’s  \"Britannia’s X\" – Guess the \"X\" Competition"
 date: 2014-10-16T10:46:55
-slug: coming-soon-antoine-vanners-britannias-x-guess-the-x-competition
-excerpt: "In December, Antione Vanner’s “Britannia’s X,” the third of his Dawlish chronicles will be published by Old Salt Press.  No, the book’s title will not be “Britannia’s X.” From Antoine’s Dawlish Chronicles blog: The title, for now, is “Britannia’s X” – with … Continue reading &rarr;"
+slug: "coming-soon-antoine-vanners-britannias-x-guess-the-x-competition"
+excerpt: "In December, Antione Vanner’s \"Britannia’s X,\" the third of his Dawlish chronicles will be published by Old Salt Press.  No, the book’s title will not be \"Britannia’s X.\" From Antoine’s Dawlish Chronicles blog: The title, for now, is \"Britannia’s X\" – with … Continue reading &rarr;"
 categories:
   - "Newbooks"
   - "Seastories"
 tags:
-  - "“Britannia’s X”"
+  - "\"Britannia’s X\""
   - "Antoine Vanner"
   - "Britannia’s Reach"
   - "Britannia’s Wolf"

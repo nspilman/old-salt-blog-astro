@@ -1,7 +1,7 @@
 ---
 title: "Damian Browne, First to Row From NYC to Galway, 112 Days at Sea With a Dramatic Finish"
 date: 2022-10-07T17:25:44
-slug: damian-browne-first-to-row-from-nyc-to-galway-112-days-at-sea-with-dramatic-finish
+slug: "damian-browne-first-to-row-from-nyc-to-galway-112-days-at-sea-with-dramatic-finish"
 excerpt: "Former-professional rugby player Damian Browne became the first person ever to row from New York to Galway.  Browne began the 112-day voyage, titled Project Empower, from Chelsea Piers in Manhattan on Tuesday, June 14 at 3.10am. After spending 2,686 hours … Continue reading &rarr;"
 categories:
   - "Current"

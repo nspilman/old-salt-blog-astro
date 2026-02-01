@@ -1,7 +1,7 @@
 ---
 title: "Lāhainā, Maui, ex-Royal Capital & Whaling Port Destroyed in Hawaiian Wildfire, at Least  36 Killed"
 date: 2023-08-10T17:32:31
-slug: lahaina-maui-ex-royal-capital-whaling-port-destroyed-in-hawaiian-wildfire-at-least-36-killed
+slug: "lahaina-maui-ex-royal-capital-whaling-port-destroyed-in-hawaiian-wildfire-at-least-36-killed"
 excerpt: "Lāhainā, a town on the island of Maui in Hawaii, was the capital of the Hawaiian Kingdom in the early nineteenth century, Lāhainā was also a historic whaling port during the whaling boom of the mid-1800s.  In recent years, Lāhainā … Continue reading &rarr;"
 categories:
   - "Current"

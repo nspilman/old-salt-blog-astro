@@ -1,7 +1,7 @@
 ---
 title: "USS Forrestal arrives in Phila. to await fate"
 date: 2010-06-21T13:22:35
-slug: uss-forrestal-arrives-in-phila-to-await-fate
+slug: "uss-forrestal-arrives-in-phila-to-await-fate"
 excerpt: "USS Forrestal arrives in Phila. to await fate The aircraft carrier Forrestal arrived in Philadelphia Friday morning to await its fate. The ship, decommissioned in 1993 in Philadelphia after 38 years in service, had been moored next to the Saratoga … Continue reading &rarr;"
 categories:
   - "Current"

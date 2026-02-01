@@ -1,7 +1,7 @@
 ---
 title: "The Battle Of Fort McHenry & the Star Spangled Banner"
 date: 2014-09-13T10:13:46
-slug: the-battle-of-fort-mchenry-the-star-spangled-banner
+slug: "the-battle-of-fort-mchenry-the-star-spangled-banner"
 excerpt: "At around 6AM, 200 years ago today, the British Royal Navy began a fearsome bombardment of Fort McHenry at the mouth of Baltimore harbor. The British had attempted to take Baltimore by both land and sea. The British army attack … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "City of Water Day Festival, July 12th in New York Harbor"
 date: 2014-07-10T14:21:03
-slug: city-of-water-day-festival-june-12th-in-new-york-harbor
+slug: "city-of-water-day-festival-june-12th-in-new-york-harbor"
 excerpt: "The Metropolitan Waterfront Alliance is hosting its seventh annual City of Water Day festival this Saturday, July 12th, at multiple locations in New York Harbor.  Festivities will run from 10 a.m. to 4 p.m.  This year Hoboken is joining in the fun, hosting … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Ruth Montgomery Collection at the Penobscot Marine Museum"
 date: 2012-02-23T10:10:51
-slug: the-ruth-montgomery-collection-at-the-penobscot-marine-museum
+slug: "the-ruth-montgomery-collection-at-the-penobscot-marine-museum"
 excerpt: "The Penobscot Marine Museum in Searsport, Maine documents the rich and deep maritime history of the region and the town that was famous for its ship captains. The museum has a wonderful set of on-line, searchable, photography collections documenting the area’s ships, … Continue reading &rarr;"
 categories:
   - "Current"

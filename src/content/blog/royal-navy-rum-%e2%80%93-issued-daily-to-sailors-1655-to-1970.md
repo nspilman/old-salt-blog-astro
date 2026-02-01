@@ -1,7 +1,7 @@
 ---
 title: "Royal Navy Rum – issued daily to sailors 1655 to 1970"
 date: 2010-02-10T06:55:41
-slug: royal-navy-rum-%e2%80%93-issued-daily-to-sailors-1655-to-1970
+slug: "royal-navy-rum-%e2%80%93-issued-daily-to-sailors-1655-to-1970"
 excerpt: "Thanks to David Hayes for passing this along.  There is something slightly frightening about sailors on a nuclear submarine receiving daily rum rations. Royal Navy Rum – issued daily to sailors 1655 to 1970 Alcohol and the Royal Navy often seem … Continue reading &rarr;"
 categories:
   - "History"

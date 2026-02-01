@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship Elissa in Space and a Possible Rodent Problem"
 date: 2011-04-06T15:12:48
-slug: tall-ship-elissa-in-space-and-possible-rodent-problem
+slug: "tall-ship-elissa-in-space-and-possible-rodent-problem"
 excerpt: "The Tall Ship Elissa was built was built in Aberdeen, Scotland in 1877 by Alexander Hall and Co. She has been fully restored and is currently sailing out of Galveston, Texas. She recently successfully completed drydocking and inspection.  A small piece of … Continue reading &rarr;"
 categories:
   - "Current"

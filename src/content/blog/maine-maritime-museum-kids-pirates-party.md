@@ -1,7 +1,7 @@
 ---
 title: "Maine Maritime Museum Kids Pirates Party"
 date: 2010-10-29T08:09:03
-slug: maine-maritime-museum-kids-pirates-party
+slug: "maine-maritime-museum-kids-pirates-party"
 excerpt: "Maine Maritime Museum in Bath is having its 15th Annual Pirates Party this Saturday, October 30, 2010 from 5:00 PM – 8:00 PM.  They have filmed a rather remarkable commercial promoting the party, starring Tomm Tomlinson, a.k.a. Crudbeard, Barbara Tomlinson, better known … Continue reading &rarr;"
 categories:
   - "Current"

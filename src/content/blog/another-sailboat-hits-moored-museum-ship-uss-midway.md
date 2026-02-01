@@ -1,7 +1,7 @@
 ---
 title: "Another Sailboat Hits Moored Museum Ship, USS Midway"
 date: 2018-08-30T16:28:37
-slug: another-sailboat-hits-moored-museum-ship-uss-midway
+slug: "another-sailboat-hits-moored-museum-ship-uss-midway"
 excerpt: "The aircraft carrier USS Midway is about a 1,000′ long, 130′ wide and around 55′ high. It has been a stationary museum ship since 2004. Put plainly, Midway is really, really big and doesn’t move. It should be a fairly easy object to avoid, and yet … Continue reading &rarr;"
 categories:
   - "Current"

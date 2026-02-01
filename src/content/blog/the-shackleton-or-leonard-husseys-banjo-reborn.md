@@ -1,7 +1,7 @@
 ---
 title: "The Shackleton or Leonard Hussey’s Banjo Reborn"
 date: 2013-08-18T08:23:55
-slug: the-shackleton-or-leonard-husseys-banjo-reborn
+slug: "the-shackleton-or-leonard-husseys-banjo-reborn"
 excerpt: "When the 1914 Imperial Trans-Antarctic Expedition‘s three-masted barquentine,  Endurance, was crushed in the Antarctic ice,  expedition leader, Sir Ernest Shackleton, allowed each man to take off only two pounds of possessions, including their boots. The only exception Shackleton made was Leonard Hussey’s banjo, which weighed … Continue reading &rarr;"
 categories:
   - "Current"

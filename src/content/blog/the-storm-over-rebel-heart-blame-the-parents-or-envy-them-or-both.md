@@ -1,7 +1,7 @@
 ---
 title: "The Storm over ‘Rebel Heart’ — Blame the Parents, Envy Them? or Both?"
 date: 2014-04-09T08:33:32
-slug: the-storm-over-rebel-heart-blame-the-parents-or-envy-them-or-both
+slug: "the-storm-over-rebel-heart-blame-the-parents-or-envy-them-or-both"
 excerpt: "I will admit to having distinctly mixed feelings related to the rescue of the Kaufman family on their yacht ‘Rebel Heart.‘ I am obviously pleased that Lyra received medical attention. I am saddened that the boat that was their home … Continue reading &rarr;"
 categories:
   - "Current"

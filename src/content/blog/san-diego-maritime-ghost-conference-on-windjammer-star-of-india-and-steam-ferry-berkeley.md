@@ -1,7 +1,7 @@
 ---
 title: "San Diego Maritime Ghost Conference on Windjammer Star of India and Steam Ferry Berkeley"
 date: 2012-09-14T09:57:18
-slug: san-diego-maritime-ghost-conference-on-windjammer-star-of-india-and-steam-ferry-berkeley
+slug: "san-diego-maritime-ghost-conference-on-windjammer-star-of-india-and-steam-ferry-berkeley"
 excerpt: "Tomorrow, September 15, a Maritime Ghost Conference will be held on the Steam Ferry Berkeley at the Maritime Museum of San Diego. The conference is sponsored by the San Diego Ghost and Paranormal Group and is also a fundraiser for the Maritime Museum. In … Continue reading &rarr;"
 categories:
   - "Current"

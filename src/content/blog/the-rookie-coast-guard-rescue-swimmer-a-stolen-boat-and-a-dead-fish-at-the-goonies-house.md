@@ -1,7 +1,7 @@
 ---
 title: "The Rookie Coast Guard Rescue Swimmer, a Stolen Boat, and a Dead Fish at the Goonies House"
 date: 2023-02-07T20:30:26
-slug: the-rookie-coast-guard-rescue-swimmer-a-stolen-boat-and-a-dead-fish-at-the-goonies-house
+slug: "the-rookie-coast-guard-rescue-swimmer-a-stolen-boat-and-a-dead-fish-at-the-goonies-house"
 excerpt: "Here is a strange story of a heroic rescue by the US Coast Guard, a stolen boat, and a dead fish left on the front porch of a house in Astoria, Oregon, where the cult classic adventure/comedy movie, The Goonies … Continue reading &rarr;"
 categories:
   - "Current"

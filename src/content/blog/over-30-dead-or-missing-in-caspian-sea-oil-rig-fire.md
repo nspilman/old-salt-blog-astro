@@ -1,7 +1,7 @@
 ---
 title: "Over 30 Dead or Missing in Caspian Sea Drilling Rig Fire"
 date: 2015-12-06T12:15:52
-slug: over-30-dead-or-missing-in-caspian-sea-oil-rig-fire
+slug: "over-30-dead-or-missing-in-caspian-sea-oil-rig-fire"
 excerpt: "The state oil company SOCAR reports that over 30 are dead or missing after an Azeri drilling rig in the Caspian Sea caught fire yesterday. The fire started after a storm damaged a natural gas pipeline, causing the platform’s partial … Continue reading &rarr;"
 categories:
   - "Current"

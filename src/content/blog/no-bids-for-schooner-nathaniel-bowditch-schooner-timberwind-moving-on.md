@@ -1,7 +1,7 @@
 ---
 title: "No Bids for Schooner Nathaniel Bowditch; Schooner Timberwind Leaving Rockport"
 date: 2014-02-17T08:05:22
-slug: no-bids-for-schooner-nathaniel-bowditch-schooner-timberwind-moving-on
+slug: "no-bids-for-schooner-nathaniel-bowditch-schooner-timberwind-moving-on"
 excerpt: "Sadly, just before Christmas, the schooner Nathaniel Bowditch, owned by Owen and Cathie Dorr, was seized at its Rockland Harbor berth in Lermond Cove by U.S. Marshals and towed to Camden Harbor, Maine.  The Nathaniel Bowditch is one of the … Continue reading &rarr;"
 categories:
   - "Current"

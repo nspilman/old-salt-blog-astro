@@ -1,7 +1,7 @@
 ---
 title: "34th Annual Wooden Boat Festival, Townsend WA"
 date: 2010-09-09T08:52:48
-slug: 34th-annual-wooden-boat-festival-townsend-wa
+slug: "34th-annual-wooden-boat-festival-townsend-wa"
 excerpt: "This sounds like a fantastic festival for anyone near Townsend, Washington.  The 34th Annual Wooden Boat Festival, which starts tomorrow and runs through the weekend, features almost 300 wooden vessels on display ranging from small wherries to the 133′ classic schooner Adventuress. Ahoy for Wooden Boat Festival: Tents … Continue reading &rarr;"
 categories:
   - "Current"

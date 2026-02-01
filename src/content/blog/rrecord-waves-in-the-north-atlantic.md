@@ -1,7 +1,7 @@
 ---
 title: "Record Waves in the North Atlantic"
 date: 2016-12-15T11:21:38
-slug: rrecord-waves-in-the-north-atlantic
+slug: "rrecord-waves-in-the-north-atlantic"
 excerpt: "In the last day or two, there have been numerous press reports of a 19 meter (62.3 ft) wave, recorded by an automated buoy in the North Atlantic between Iceland and the UK off the Outer Hebrides. This is a … Continue reading &rarr;"
 categories:
   - "Current"

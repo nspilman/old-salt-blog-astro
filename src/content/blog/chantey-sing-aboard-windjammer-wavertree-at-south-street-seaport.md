@@ -1,7 +1,7 @@
 ---
 title: "Chantey Sing Aboard Windjammer Wavertree at South Street Seaport"
 date: 2019-07-05T09:18:09
-slug: chantey-sing-aboard-windjammer-wavertree-at-south-street-seaport
+slug: "chantey-sing-aboard-windjammer-wavertree-at-south-street-seaport"
 excerpt: "If you are around New York harbor on Sunday, there is a wonderful opportunity to hear and join in singing sea chanteys as they were meant to be sung, onboard a windjammer. The chantey sing will aboard the restored 1885 … Continue reading &rarr;"
 categories:
   - "Current"

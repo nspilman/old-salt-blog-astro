@@ -1,7 +1,7 @@
 ---
 title: "Captain Virginia A. Wagner and Her Continuing Legacy"
 date: 2015-02-05T18:12:38
-slug: captain-virginia-a-wagner-and-her-continuing-legacy
+slug: "captain-virginia-a-wagner-and-her-continuing-legacy"
 excerpt: "Terribly sad news.  Captain Virginia A. Wagner passed away on Friday January 30, 2015 in Newport, Rhode Island, following a courageous battle with mesothelioma cancer.  From Scuttlebutt Sailing News: Virginia was amongst an elite sorority of professional female captains and … Continue reading &rarr;"
 categories:
   - "Current"

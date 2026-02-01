@@ -1,7 +1,7 @@
 ---
 title: "True Colours by Alaric Bond, a Review"
 date: 2010-05-18T11:50:31
-slug: true-colours-by-alaric-bond-a-review
+slug: "true-colours-by-alaric-bond-a-review"
 excerpt: "Alaric Bond is a frequent contributor to the Old Salt blog.  He is also a wonderful writer.   His latest novel True Colours has recently been published.  I liked it  – a lot.  A review: Alaric Bond’s new novel, True Colours, the … Continue reading &rarr;"
 categories:
   - "Newbooks"

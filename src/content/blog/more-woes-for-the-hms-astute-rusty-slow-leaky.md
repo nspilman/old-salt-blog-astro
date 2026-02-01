@@ -1,7 +1,7 @@
 ---
 title: "More Woes for the HMS Astute: Rusty, Slow & Leaky"
 date: 2012-11-21T08:25:10
-slug: more-woes-for-the-hms-astute-rusty-slow-leaky
+slug: "more-woes-for-the-hms-astute-rusty-slow-leaky"
 excerpt: "HMS Astute, the first of seven new submarines, was delivered two years late, was well over budget and thus far is not yet in service, despite being delivered in 2009.  Her career has been marked by elements of both comedy and tragedy.  In … Continue reading &rarr;"
 categories:
   - "Current"

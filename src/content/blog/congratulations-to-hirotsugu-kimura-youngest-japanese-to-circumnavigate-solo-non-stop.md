@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Hirotsugu Kimura, Youngest Japanese to Circumnavigate Solo Non-Stop"
 date: 2024-06-14T17:06:08
-slug: congratulations-to-hirotsugu-kimura-youngest-japanese-to-circumnavigate-solo-non-stop
+slug: "congratulations-to-hirotsugu-kimura-youngest-japanese-to-circumnavigate-solo-non-stop"
 excerpt: "Japan Today reports that 24 year old, Hirotsugu Kimura, has become the youngest Japanese to complete a solo voyage around the world on a sailboat without making any port calls or receiving supplies; breaking a thirty-year-old record. Kimura, a former Maritime … Continue reading &rarr;"
 categories:
   - "Current"

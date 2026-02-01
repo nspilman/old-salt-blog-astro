@@ -1,7 +1,7 @@
 ---
 title: "Odyssey’s Shipwreck! Pirates & Treasure at the Maryland Science Center"
 date: 2010-10-03T08:59:16
-slug: odysseys-shipwreck-pirates-treasure-at-the-maryland-science-center
+slug: "odysseys-shipwreck-pirates-treasure-at-the-maryland-science-center"
 excerpt: "A new exhibition opened at the at the Maryland Science Center, Odyssey’s Shipwreck! Pirates & Treasure, that will run through January 30, 2011. Exploring pirates and shipwrecks at the Maryland Science Center … Continue reading &rarr;"
 categories:
   - "Current"

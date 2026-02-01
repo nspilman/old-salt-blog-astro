@@ -1,7 +1,7 @@
 ---
 title: "Maine Windjammer 2022 Great Schooner Race in Penobscot Bay"
 date: 2022-07-11T13:48:15
-slug: maine-windjammer-2022-great-schooner-race-in-penobscot-bay
+slug: "maine-windjammer-2022-great-schooner-race-in-penobscot-bay"
 excerpt: "Eleven schooners, many National Historic Landmarks, ranging in size from 57 to 135 feet, raced in the Maine Windjammer Association‘s 2022 Great Schooner Race in Penobscot Bay last week. As reported by the Courier-Gazette:  The vessels sailed past the Rockland … Continue reading &rarr;"
 categories:
   - "Current"

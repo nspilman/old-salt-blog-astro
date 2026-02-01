@@ -1,7 +1,7 @@
 ---
 title: "New York’s Graveyard of Ships on TV and Radio"
 date: 2010-11-02T09:05:35
-slug: new-yorks-graveyard-of-ships-on-tv-and-radio
+slug: "new-yorks-graveyard-of-ships-on-tv-and-radio"
 excerpt: "The Witte boneyard, often referred to as New York’s graveyard of ships, usually sits unnoticed on the shore of Staten Island on the Arthur Kill in a far corner of New York harbor.   In the last week, however, it has … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Master Storyteller of the Sea, Douglas Reeman, a.k.a Alexander Kent, 1924 — 2017"
 date: 2017-01-24T11:00:46
-slug: master-storyteller-sea-douglas-reeman-k-alexander-kent-1924-2017
+slug: "master-storyteller-sea-douglas-reeman-k-alexander-kent-1924-2017"
 excerpt: "We understand that writer Douglas Reeman has died at this home in Cobham, Surrey, at the age of 92. Reeman, perhaps best know for the novels written under the pen-name Alexander Kent, wrote close to 60 books and has left an indelible … Continue reading &rarr;"
 categories:
   - "Current"

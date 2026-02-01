@@ -1,7 +1,7 @@
 ---
 title: "Update: Jeff Bezos’ Yacht Towed Out of Shipyard Under Cover of Darkness"
 date: 2022-08-05T16:13:41
-slug: update-jeff-bezos-yacht-towed-out-of-shipyard-under-cover-of-darkness
+slug: "update-jeff-bezos-yacht-towed-out-of-shipyard-under-cover-of-darkness"
 excerpt: "After months of controversy, the 417-foot-long, three-masted sailing yacht built for billionaire Jeff Bezos slipped out of the shipyard in Rotterdam under the cover of darkness.  At 3AM on Tuesday, the Oceanco shipyard towed the yacht to the Greenport shipyard. … Continue reading &rarr;"
 categories:
   - "Current"

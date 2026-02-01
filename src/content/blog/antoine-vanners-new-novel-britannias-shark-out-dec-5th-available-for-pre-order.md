@@ -1,7 +1,7 @@
 ---
 title: "Antoine Vanner’s New Novel, Britannia’s Shark Out Dec. 5th, Available for Pre-Order"
 date: 2014-11-28T19:03:56
-slug: antoine-vanners-new-novel-britannias-shark-out-dec-5th-available-for-pre-order
+slug: "antoine-vanners-new-novel-britannias-shark-out-dec-5th-available-for-pre-order"
 excerpt: "Last month we posted about the third book in Antoine Vanner’s Dawlish chronicles, published by Old Salt Press. The new novel titled Britannia’s Shark is due out on December 5th, and is available for pre-order in the US and the UK. … Continue reading &rarr;"
 categories:
   - "Newbooks"

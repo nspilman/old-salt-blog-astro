@@ -1,7 +1,7 @@
 ---
 title: "Red Hook WaterStories — 1860: Slave Ship Erie Sold in Atlantic Basin"
 date: 2017-12-05T16:02:25
-slug: red-hook-waterstories-1860-slave-ship-erie-sold-atlantic-basin
+slug: "red-hook-waterstories-1860-slave-ship-erie-sold-atlantic-basin"
 excerpt: "Red Hook WaterStories delves into the rich and varied past and present of the waterfront of the Red Hook section of Brooklyn.  If you haven’t discovered the site, a project of PortSide New York, be sure to check it out.  Here … Continue reading &rarr;"
 categories:
   - "History"

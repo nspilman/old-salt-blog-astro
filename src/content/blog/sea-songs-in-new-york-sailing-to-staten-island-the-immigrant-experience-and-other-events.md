@@ -1,8 +1,8 @@
 ---
 title: "Sea Songs in New York – Sailing to Staten Island: The Immigrant Experience, and Other Events"
 date: 2012-10-11T09:18:59
-slug: sea-songs-in-new-york-sailing-to-staten-island-the-immigrant-experience-and-other-events
-excerpt: "This will be a great couple of weeks around New York harbor for lovers of the music of the sea.  “Sailing to Staten Island: The Immigrant Experience” is a free concert Saturday night at the Noble Maritime Collection at Snug … Continue reading &rarr;"
+slug: "sea-songs-in-new-york-sailing-to-staten-island-the-immigrant-experience-and-other-events"
+excerpt: "This will be a great couple of weeks around New York harbor for lovers of the music of the sea.  \"Sailing to Staten Island: The Immigrant Experience\" is a free concert Saturday night at the Noble Maritime Collection at Snug … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -21,7 +21,7 @@ tags:
   - "Snug Harbor"
   - "Staten Island"
 author: "Rick Spilman"
-description: "This will be a great couple of weeks around New York harbor for lovers of the music of the sea.  “Sailing to Staten Island: The Immigrant Experience” is a free concert Saturday night at the Noble Maritime Collection at Snug … Continue reading &rarr;"
+description: "This will be a great couple of weeks around New York harbor for lovers of the music of the sea.  \"Sailing to Staten Island: The Immigrant Experience\" is a free concert Saturday night at the Noble Maritime Collection at Snug … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/10/sailingSI1.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Shooting War Heats Up in Red Sea as US Helicopters Sink 3 Houthi Boats"
 date: 2023-12-31T18:30:08
-slug: shooting-war-heats-up-in-red-sea-as-us-helicopters-sink-3-houthi-boats
+slug: "shooting-war-heats-up-in-red-sea-as-us-helicopters-sink-3-houthi-boats"
 excerpt: "On Sunday morning, Dec. 31, at 6:30am (local time) the container ship Maersk Hangzhou issued a second distress call in less than 24 hours reporting being under attack by four Iranian-backed Houthi small boats. The boats, originating from Houthi-controlled areas … Continue reading &rarr;"
 categories:
   - "Current"

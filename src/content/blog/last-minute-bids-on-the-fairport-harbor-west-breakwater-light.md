@@ -1,7 +1,7 @@
 ---
 title: "Last Minute Bids on the Fairport Harbor West Breakwater Light"
 date: 2010-09-24T18:29:51
-slug: last-minute-bids-on-the-fairport-harbor-west-breakwater-light
+slug: "last-minute-bids-on-the-fairport-harbor-west-breakwater-light"
 excerpt: "In September 2009, the United States General Services Administration put the Fairport Harbor West Breakwater Light, on Lake Erie, up for public auction via an online auction. The minimum bid is $10,000 with incremental bids of $5,000 required.  The bidding was … Continue reading &rarr;"
 categories:
   - "Current"

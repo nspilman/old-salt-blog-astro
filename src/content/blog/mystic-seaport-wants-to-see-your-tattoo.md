@@ -1,8 +1,8 @@
 ---
 title: "Mystic Seaport Wants to See Your Tattoo"
 date: 2011-07-12T08:49:53
-slug: mystic-seaport-wants-to-see-your-tattoo
-excerpt: "Mystic Seaport is hosting a Tattoos & Tallships Weekend on Saturday, July 16th and Sunday, July 17th.   If you have a tattoo and a story to tell about it, be sure to stop by the “Tattoo Tales” booth, where you can … Continue reading &rarr;"
+slug: "mystic-seaport-wants-to-see-your-tattoo"
+excerpt: "Mystic Seaport is hosting a Tattoos & Tallships Weekend on Saturday, July 16th and Sunday, July 17th.   If you have a tattoo and a story to tell about it, be sure to stop by the \"Tattoo Tales\" booth, where you can … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Tattoo Tales"
   - "Tattoos &amp; Tallships Weekend"
 author: "Rick Spilman"
-description: "Mystic Seaport is hosting a Tattoos & Tallships Weekend on Saturday, July 16th and Sunday, July 17th.   If you have a tattoo and a story to tell about it, be sure to stop by the “Tattoo Tales” booth, where you can … Continue reading &rarr;"
+description: "Mystic Seaport is hosting a Tattoos & Tallships Weekend on Saturday, July 16th and Sunday, July 17th.   If you have a tattoo and a story to tell about it, be sure to stop by the \"Tattoo Tales\" booth, where you can … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/series_02.jpg)Mystic Seaport](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewPage&page_id=1) is hosting a [Tattoos & Tallships Weekend](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewPage&page_id=217C0824-1E4F-379B-6077DF4285FE20F7) on Saturday, July 16th and Sunday, July 17th.   If you have a tattoo and a story to tell about it, be sure to stop by the “Tattoo Tales” booth, where you can show your tattoos and share your stories about them.  Mystic Seaport staff will record each story on video and select the best to share on YouTube, Flickr, and Facebook.

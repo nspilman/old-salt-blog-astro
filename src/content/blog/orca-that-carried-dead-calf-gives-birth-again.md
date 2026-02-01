@@ -1,7 +1,7 @@
 ---
 title: "Orca That Carried Dead Calf Gives Birth Again"
 date: 2020-09-13T16:21:38
-slug: orca-that-carried-dead-calf-gives-birth-again
+slug: "orca-that-carried-dead-calf-gives-birth-again"
 excerpt: "In the summer of 2018, a female orca whale became of a symbol of the perilous state of the Southern Resident orca pods of the Pacific Northwest. The whale, designated J35 by researchers, had given birth to a calf that … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

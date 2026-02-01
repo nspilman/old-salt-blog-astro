@@ -1,7 +1,7 @@
 ---
 title: "John H. Harland Dies at 95, Author of Seamanship in the Age of Sail"
 date: 2018-05-15T17:22:04
-slug: john-h-harland-dies-at-95-author-of-seamanship-in-the-age-of-sail
+slug: "john-h-harland-dies-at-95-author-of-seamanship-in-the-age-of-sail"
 excerpt: "We were saddened to learn that John Harland has died. He passed away peacefully on May 11th, a few days after his ninety-fifth birthday. After a career in medicine, Dr. Harland became known as a researcher and author on maritime history. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Jessica Watson sets sail again – to cheers and jeers"
 date: 2009-09-30T02:38:19
-slug: jessica-watson-sets-sail-again-%e2%80%93-to-cheers-and-jeers
+slug: "jessica-watson-sets-sail-again-%e2%80%93-to-cheers-and-jeers"
 excerpt: "After sailing into a bulk carrier earlier this month on her first day at sea after apparently dozing off, sixteen year old Jessica Watson has set sail once again on her attempt to circumnavigate the globe singlehanded.   While she has received … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Fire on Florida Casino Shuttle Boat Kills at Least 1 and Injures 15 in Gulf of Mexico"
 date: 2018-01-15T19:23:52
-slug: fire-florida-casino-shuttle-boat-kills-least-1-injures-15-gulf-mexico
+slug: "fire-florida-casino-shuttle-boat-kills-least-1-injures-15-gulf-mexico"
 excerpt: "A fire broke out on the casino shuttle boat, Island Lady, around 4PM on Sunday, in the Gulf near Port Richey, Fl. The 34 passengers and 14 crew aboard were forced into the 59-degree water. At least one passenger, a … Continue reading &rarr;"
 categories:
   - "Current"

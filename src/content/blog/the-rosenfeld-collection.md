@@ -1,7 +1,7 @@
 ---
 title: "The Rosenfeld Collection"
 date: 2011-11-30T09:23:15
-slug: the-rosenfeld-collection
+slug: "the-rosenfeld-collection"
 excerpt: "In 1984, the Mystic Seaport Museum acquired the Rosenfeld Collection, one of the largest archives of maritime photographs in the United States.   A video about the remarkable collection which grew out of the Morris Rosenfeld & Sons photography studio. Rosenfeld … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

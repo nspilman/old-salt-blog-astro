@@ -1,7 +1,7 @@
 ---
 title: "Tragedy on the Hudson – Speed Boat Hits Construction Barge, Bride-to-be Dead, Fiance Injured, Best Man Missing"
 date: 2013-07-27T22:41:25
-slug: tragedy-on-the-hudson-speed-boat-hits-construction-barge-bride-to-be-dead-fiance-injured-best-man-missing
+slug: "tragedy-on-the-hudson-speed-boat-hits-construction-barge-bride-to-be-dead-fiance-injured-best-man-missing"
 excerpt: "A woman scheduled to be married in two weeks was killed on on Friday night around 10PM, when the 21′ long Stingray speedboat she was aboard hit a construction barge anchored off the Tappan Zee bridge in the Hudson River, … Continue reading &rarr;"
 categories:
   - "Current"

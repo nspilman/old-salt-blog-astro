@@ -1,7 +1,7 @@
 ---
 title: "Jean-Jacques Savin Completes Trans-Atlantic Crossing, Drifting in a Barrel"
 date: 2019-05-09T09:51:43
-slug: jean-jacques-savin-completes-trans-atlantic-crossing-drifting-in-a-barrel
+slug: "jean-jacques-savin-completes-trans-atlantic-crossing-drifting-in-a-barrel"
 excerpt: "After a voyage of 147 days covering more than 2,000 nautical miles, French adventurer Jean-Jacques Savin, 72, has successfully drifted across the Atlantic Ocean on the wind and currents in his 10′ by 9′ orange barrel-shaped  craft. He departed from … Continue reading &rarr;"
 categories:
   - "Current"

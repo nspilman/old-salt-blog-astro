@@ -1,7 +1,7 @@
 ---
 title: "The Legendary or Infamous MV Astoria, ex-Stockholm, Sold for Scrap"
 date: 2025-06-27T16:52:26
-slug: the-legendary-or-infamous-mv-astoria-ex-stockholm-sold-for-scrap
+slug: "the-legendary-or-infamous-mv-astoria-ex-stockholm-sold-for-scrap"
 excerpt: "The 77-year-old cruise ship MV Astoria has been sold for scrap. The Belgian recycling firm Galloo was the only bidder, acquiring the ship for €200,000. In her over seven decades of service, she sailed for multiple owners, under many names, … Continue reading &rarr;"
 categories:
   - "Current"

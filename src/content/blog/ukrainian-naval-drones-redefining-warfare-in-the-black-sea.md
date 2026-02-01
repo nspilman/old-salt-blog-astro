@@ -1,7 +1,7 @@
 ---
 title: "Ukrainian Naval Drones Redefining Warfare in the Black Sea"
 date: 2023-08-16T18:13:45
-slug: ukrainian-naval-drones-redefining-warfare-in-the-black-sea
+slug: "ukrainian-naval-drones-redefining-warfare-in-the-black-sea"
 excerpt: "When Russia annexed Crimea in 2014, at least 100 Ukrainian Navy vessels, representing 75% of the Ukrainian naval fleet, were captured by Russian forces. In the Russian invasion of 2022, much of the remaining fleet was destroyed or scuttled to … Continue reading &rarr;"
 categories:
   - "Current"

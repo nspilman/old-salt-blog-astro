@@ -1,7 +1,7 @@
 ---
 title: "Mariner Energy Oil Platform Explodes in the Gulf of Mexico"
 date: 2010-09-02T19:18:15
-slug: mariner-energy-oil-platform-explodes-in-the-gulf-of-mexico
+slug: "mariner-energy-oil-platform-explodes-in-the-gulf-of-mexico"
 excerpt: "An oil platform operated by Mariner Energy exploded today near Vermilion Bay in the Gulf of Mexico off the coast of Louisiana. One worker was reported injured. No one was killed and no significant oil spill resulted.   Mariner Energy has been involved at least 13 … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Fishermen, the Swimmer and the Great White Shark off Manhattan Beach"
 date: 2014-07-07T10:24:31
-slug: the-fishermen-the-swimmer-and-the-great-white-shark-off-manhattan-beach
+slug: "the-fishermen-the-swimmer-and-the-great-white-shark-off-manhattan-beach"
 excerpt: "This weekend, Steven Robles, 40, was swimming off Manhattan Beach in Southern California on Saturday morning when he was attacked by a juvenile 7′ long great white shark. He suffered a single bite wound on the right side of his … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Alessandro Tosetti Sailing ULDB 65′ Aspra in Global Solo Challenge Attacked by Orcas in Strait of Gibraltar."
 date: 2025-04-24T20:12:46
-slug: alessandro-tosetti-sailing-uldb-65-aspra-in-global-solo-challenge-attacked-by-orcas-in-strait-of-gibraltar
-excerpt: "Last Saturday, Italian sailor Alessandro Tosetti was returning from sailing Aspra, a ULDB 65′, in the Global Solo Challenge, when his boat was attacked by orcas in the Strait of Gibraltar.  Tosetti describes the attack in his race blog. “I … Continue reading &rarr;"
+slug: "alessandro-tosetti-sailing-uldb-65-aspra-in-global-solo-challenge-attacked-by-orcas-in-strait-of-gibraltar"
+excerpt: "Last Saturday, Italian sailor Alessandro Tosetti was returning from sailing Aspra, a ULDB 65′, in the Global Solo Challenge, when his boat was attacked by orcas in the Strait of Gibraltar.  Tosetti describes the attack in his race blog. \"I … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "ULDB 65'"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/orcaapra.jpg"
 author: "Rick Spilman"
-description: " Last Saturday, Italian sailor Alessandro Tosetti was returning from sailing Aspra, a ULDB 65′, in the Global Solo Challenge, when his boat was attacked by orcas in the Strait of Gibraltar.  Tosetti describes the attack in his race blog. “I … Continue reading &rarr;"
+description: " Last Saturday, Italian sailor Alessandro Tosetti was returning from sailing Aspra, a ULDB 65′, in the Global Solo Challenge, when his boat was attacked by orcas in the Strait of Gibraltar.  Tosetti describes the attack in his race blog. \"I … Continue reading &rarr;"
 ---
 
 ![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/orcaapra.jpg) Last Saturday, Italian sailor [Alessandro Tosetti](https://globalsolochallenge.com/tosetti-uldb-65-en/) was returning from sailing *Aspra*, a ULDB 65′, in the [Global Solo Challenge](https://globalsolochallenge.com/), when his boat was attacked by orcas in the [Strait of Gibraltar](https://my.yb.tl/aspra?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExRE1kUkNTYkMzQnR4dGpOQQEehIsftYCx2ECBlls4MFD8NcZAS9YQUYZaBt8KSQ2wUywZHLIFEdttm2qlZt0_aem_sMrYNFQp3CTKF8KyezX2cQ).  Tosetti describes the attack in his [race blog](https://globalsolochallenge.com/orca-attack-in-the-strait-of-gibraltar/).

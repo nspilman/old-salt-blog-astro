@@ -1,7 +1,7 @@
 ---
 title: "France captures 35 ‘pirates’ in three days off the Somali coast"
 date: 2010-03-10T07:05:02
-slug: france-captures-35-%e2%80%98pirates%e2%80%99-in-three-days-off-the-somali-coast
+slug: "france-captures-35-%e2%80%98pirates%e2%80%99-in-three-days-off-the-somali-coast"
 excerpt: "France captures 35 ‘pirates’ in three days off the Somali coast The French Navy has captured 35 suspected pirates in three days of operations off the coast of Somalia — the biggest haul in the two years since EU naval … Continue reading &rarr;"
 categories:
   - "Current"

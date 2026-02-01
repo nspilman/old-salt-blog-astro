@@ -1,7 +1,7 @@
 ---
 title: "Royal Navy Training Under Sail Again on TS Tenacious"
 date: 2021-03-19T14:14:44
-slug: royal-navy-training-under-sail-again-on-ts-tenacious
+slug: "royal-navy-training-under-sail-again-on-ts-tenacious"
 excerpt: "The Royal Navy has announced that for the first time in decades, its sailors are learning the art of seafaring on a traditional tall ship. Over four months junior sailors are crewing TS Tenacious – giving them a unique insight … Continue reading &rarr;"
 categories:
   - "Current"

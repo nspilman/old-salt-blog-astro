@@ -1,7 +1,7 @@
 ---
 title: "Oceans Beyond Earth — Does Life Swim in the Icy Seas of Enceladus?"
 date: 2017-04-14T13:54:58
-slug: oceans-beyond-earth-life-swim-icy-seas-enceladus
+slug: "oceans-beyond-earth-life-swim-icy-seas-enceladus"
 excerpt: "NASA scientists this week, made an exciting announcement. They have discovered the necessary chemical mix to potentially support life in the sea beneath a polar ice cap of Saturn’s moon, Enceladus.  What they have observed on Enceladus is similar to the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Boothbay’s 39th Fisherman’s Festival 2012!"
 date: 2012-04-25T11:21:45
-slug: boothbays-39th-fishermans-festival-2012
+slug: "boothbays-39th-fishermans-festival-2012"
 excerpt: "Boothbay is one of my favorite places on  the Maine coast. Sadly, I will not be anywhere near by this Friday, Saturday and Sunday, so I will miss the 39th Fisherman’s Festival.   From the Shrimp Princess Pageant on Friday to … Continue reading &rarr;"
 categories:
   - "Current"

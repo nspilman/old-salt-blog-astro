@@ -1,7 +1,7 @@
 ---
 title: "Les Voiles de Saint-Tropez – Bidding Summer Adieu"
 date: 2009-09-30T02:28:01
-slug: les-voiles-de-saint-tropez-%e2%80%93-bidding-summer-adieu
+slug: "les-voiles-de-saint-tropez-%e2%80%93-bidding-summer-adieu"
 excerpt: "Saint-Tropez Races Bid Summer Adieu According to legend, a bet in 1981 between two yachtsmen at a fashionable Saint-Tropez restaurant led to a race between Pride, an American-owned Swan 44 sailboat and Ikra, a French-owned International 12-meter rival. On Sunday, … Continue reading &rarr;"
 categories:
   - "Current"

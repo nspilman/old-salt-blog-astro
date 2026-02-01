@@ -1,8 +1,8 @@
 ---
 title: "No Longer Three Men in a Boat – Part 1: The Pirate Stock Exchange"
 date: 2011-07-02T08:14:41
-slug: no-longer-three-men-in-a-boat-part-1-the-pirate-stock-exchange
-excerpt: "While an international flotilla of naval vessels continues to play “catch and release” with pirates off the Horn of Africa, the Indian Ocean and the Arabian Sea, the pirates themselves have become far more sophisticated.   Where a few years ago, the typical … Continue reading &rarr;"
+slug: "no-longer-three-men-in-a-boat-part-1-the-pirate-stock-exchange"
+excerpt: "While an international flotilla of naval vessels continues to play \"catch and release\" with pirates off the Horn of Africa, the Indian Ocean and the Arabian Sea, the pirates themselves have become far more sophisticated.   Where a few years ago, the typical … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "pirate stock exchange"
   - "Somali pirates"
 author: "Rick Spilman"
-description: "While an international flotilla of naval vessels continues to play “catch and release” with pirates off the Horn of Africa, the Indian Ocean and the Arabian Sea, the pirates themselves have become far more sophisticated.   Where a few years ago, the typical … Continue reading &rarr;"
+description: "While an international flotilla of naval vessels continues to play \"catch and release\" with pirates off the Horn of Africa, the Indian Ocean and the Arabian Sea, the pirates themselves have become far more sophisticated.   Where a few years ago, the typical … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/somali_pirates.jpg)While an international flotilla of naval vessels continues to play “catch and release” with pirates off the Horn of Africa, the Indian Ocean and the Arabian Sea, the pirates themselves have become far more sophisticated.   Where a few years ago, the typical pirate venture appeared to be three men in an open skiff with small arms, today the pirates are well funded, operate from wide ranging mother ships and and use high tech tracking to locate their prey.

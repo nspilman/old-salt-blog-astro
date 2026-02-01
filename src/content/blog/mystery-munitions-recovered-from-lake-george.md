@@ -1,7 +1,7 @@
 ---
 title: "Mystery Munitions Recovered from Lake George"
 date: 2014-09-06T10:13:41
-slug: mystery-munitions-recovered-from-lake-george
+slug: "mystery-munitions-recovered-from-lake-george"
 excerpt: "A team of US Navy divers recovered five crates of live munitions from the bottom of Lake George, NY, in about 60′ of water. The munitions were found by recreational divers over the Labor Day weekend. The Navy divers are reported … Continue reading &rarr;"
 categories:
   - "Current"

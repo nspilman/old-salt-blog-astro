@@ -1,7 +1,7 @@
 ---
 title: "Louis Jordan — Drifting Sailor Update : Media Misreports Story, Now Reports that Skeptics Doubt Sailor"
 date: 2015-04-06T13:00:43
-slug: drifting-sailor-update-louis-jordan-media-misreports-story-now-reports-that-skeptics-doubt-sailor
+slug: "drifting-sailor-update-louis-jordan-media-misreports-story-now-reports-that-skeptics-doubt-sailor"
 excerpt: "This would be funny, if it weren’t sad.  Last week the German container ship, Houston Express, picked up Louis Jordan, who had been drifting off Cape Hatteras for a reported 66 days in his dis-masted Alberg 35 sailboat, Angel.  The … Continue reading &rarr;"
 categories:
   - "Current"

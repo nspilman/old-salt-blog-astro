@@ -1,7 +1,7 @@
 ---
 title: "9th Vendee Globe Ends: Ari Huusela Crosses the Finish Line"
 date: 2021-03-06T17:32:26
-slug: 9th-vendee-globe-ends-ari-huusela-crosses-the-finish-line
+slug: "9th-vendee-globe-ends-ari-huusela-crosses-the-finish-line"
 excerpt: "The 9th sailing of the Vendee Globe Race is over. After 116 days at sea, Ari Huusela sailing Stark has crossed the finish line at Les Sables d’Olonne. While he was the last sailor to complete the race at 25th … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

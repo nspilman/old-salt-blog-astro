@@ -1,7 +1,7 @@
 ---
-title: "USS Nimitz, USS Roosevelt & the Giant “Tic Tacs” — Navy Videos of “Unexplained Aerial Phenomena”"
+title: "USS Nimitz, USS Roosevelt & the Giant \"Tic Tacs\" — Navy Videos of \"Unexplained Aerial Phenomena\""
 date: 2019-11-10T08:08:20
-slug: uss-nimitz-uss-roosevelt-the-giant-tic-tacs-navy-videos-of-unexplained-aerial-phenomena
+slug: "uss-nimitz-uss-roosevelt-the-giant-tic-tacs-navy-videos-of-unexplained-aerial-phenomena"
 excerpt: "The videos have been flying across the internet for several years. They are purported to be F-18 gun-camera footage taken in 2004 from planes flying off the carrier USS Nimitz and in footage from 2015 from planes off the USS … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Crisis at the Jubilee Sailing Trust, Emergency Appeal Hopes to Prevent Shutdown"
 date: 2019-07-01T12:15:50
-slug: crisis-at-the-jubilee-sailing-trust-emergency-appeal-hopes-to-prevent-shutdown
+slug: "crisis-at-the-jubilee-sailing-trust-emergency-appeal-hopes-to-prevent-shutdown"
 excerpt: "The emergency appeal from the Jubilee Sailing Trust dated June 28th, could not be more dire.  Our objective is to urgently raise £1m (one million pounds) of unrestricted funds by Friday July 5th 2019 … If we are unable to reach this target, then it … Continue reading &rarr;"
 categories:
   - "Current"

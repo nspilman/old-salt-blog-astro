@@ -1,7 +1,7 @@
 ---
 title: "Update: MV Rena  – Increasing Oil Spill and Container Loss"
 date: 2011-10-11T18:28:24
-slug: update-mv-rena-increasing-oil-spill-and-container-loss
+slug: "update-mv-rena-increasing-oil-spill-and-container-loss"
 excerpt: "Bad weather is adding to an already bad situation as salvage and clean up crews struggle to staunch the flow of oil from the container ship, MV Rena, which has been grounded on Astrolabe Reef in New Zealand’s Bay of Plenty near Tauranga for … Continue reading &rarr;"
 categories:
   - "Current"

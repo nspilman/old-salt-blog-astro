@@ -1,7 +1,7 @@
 ---
 title: "True Facts About The Mantis Shrimp"
 date: 2018-06-16T13:36:00
-slug: true-facts-about-the-mantis-shrimp
+slug: "true-facts-about-the-mantis-shrimp"
 excerpt: "A quirky video for a Saturday. The mantis shrimp is an intriguing, colorful and frankly, rather frightening creature. Fortunately, most types grow no more than about 4″ long, although the zebra mantis shrimp found from East Africa to the Galápagos … Continue reading &rarr;"
 categories:
   - "Current"

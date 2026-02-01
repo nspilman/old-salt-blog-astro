@@ -1,7 +1,7 @@
 ---
 title: "First Permit to Restart Deep Water Drilling"
 date: 2011-03-01T17:40:58
-slug: first-permit-to-restart-deep-water-drilling
+slug: "first-permit-to-restart-deep-water-drilling"
 excerpt: "Yesterday we reviewed John Konrad’s new book, Fire on the Horizon:  The Untold Story of the Gulf Oil Disaster, which went on sale in bookstores today.   Coincidentally,  yesterday the Interior Department approved the first new deep water drilling permit in the Gulf … Continue reading &rarr;"
 categories:
   - "Current"

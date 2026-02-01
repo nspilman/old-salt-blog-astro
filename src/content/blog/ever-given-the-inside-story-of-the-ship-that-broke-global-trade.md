@@ -1,7 +1,7 @@
 ---
 title: "Ever Given : The Inside Story of the Ship That Broke Global Trade"
 date: 2022-03-23T08:30:48
-slug: ever-given-the-inside-story-of-the-ship-that-broke-global-trade
+slug: "ever-given-the-inside-story-of-the-ship-that-broke-global-trade"
 excerpt: "One year ago today, the ultra-large container ship Ever Given ran aground, blocking the Suez Canal for six days. The grounding resulted in a traffic jam of roughly 400 ships and cost an estimated $10 billion per day in lost … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Fin Whales Found Dead Beneath HMAS Sydney at US Naval Base"
 date: 2021-05-12T10:55:31
-slug: fin-whales-found-dead-beneath-hmas-sydney-at-us-naval-base
+slug: "fin-whales-found-dead-beneath-hmas-sydney-at-us-naval-base"
 excerpt: "As if anyone needed a reminder of how vulnerable whales are to ship strikes, when HMAS Sydney pulled into Naval Base San Diego over the weekend, it brought with it a grim cargo. The carcasses of two fin whales were … Continue reading &rarr;"
 categories:
   - "Current"

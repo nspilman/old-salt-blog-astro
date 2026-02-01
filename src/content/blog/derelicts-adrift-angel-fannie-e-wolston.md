@@ -1,8 +1,8 @@
 ---
 title: "Derelicts Adrift — Angel  & Fannie E Wolston"
 date: 2015-04-08T12:10:00
-slug: derelicts-adrift-angel-fannie-e-wolston
-excerpt: "One of the more interesting questions about Louis Jordan’s ordeal is “why didn’t he drift farther north on the Gulf Stream?” Jordan was dismasted in his Alberg 35 sailboat, named Angel, somewhere off the North Carolina coast in January and … Continue reading &rarr;"
+slug: "derelicts-adrift-angel-fannie-e-wolston"
+excerpt: "One of the more interesting questions about Louis Jordan’s ordeal is \"why didn’t he drift farther north on the Gulf Stream?\" Jordan was dismasted in his Alberg 35 sailboat, named Angel, somewhere off the North Carolina coast in January and … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"

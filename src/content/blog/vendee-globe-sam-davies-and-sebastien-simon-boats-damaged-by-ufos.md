@@ -1,8 +1,8 @@
 ---
 title: "Vendee Globe: Sam Davies’ and Sébastien Simon’s Boats Damaged by UFOs"
 date: 2020-12-03T17:46:25
-slug: vendee-globe-sam-davies-and-sebastien-simon-boats-damaged-by-ufos
-excerpt: "Unidentified Floating Objects (UFOs) continue to take their toll on the Vendee Globe Race fleet.  Yesterday, Sam Davies, sailing Initiatives Coeur, and Sébastien Simon, sailing Arkea Paprec, each hit UFOs which seriously damaged their boats.  Davies reports: “I was sailing … Continue reading &rarr;"
+slug: "vendee-globe-sam-davies-and-sebastien-simon-boats-damaged-by-ufos"
+excerpt: "Unidentified Floating Objects (UFOs) continue to take their toll on the Vendee Globe Race fleet.  Yesterday, Sam Davies, sailing Initiatives Coeur, and Sébastien Simon, sailing Arkea Paprec, each hit UFOs which seriously damaged their boats.  Davies reports: \"I was sailing … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "unidentified floating objects"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/daviesomoca60.jpg"
 author: "Rick Spilman"
-description: "Unidentified Floating Objects (UFOs) continue to take their toll on the Vendee Globe Race fleet.  Yesterday, Sam Davies, sailing Initiatives Coeur, and Sébastien Simon, sailing Arkea Paprec, each hit UFOs which seriously damaged their boats.  Davies reports: “I was sailing … Continue reading &rarr;"
+description: "Unidentified Floating Objects (UFOs) continue to take their toll on the Vendee Globe Race fleet.  Yesterday, Sam Davies, sailing Initiatives Coeur, and Sébastien Simon, sailing Arkea Paprec, each hit UFOs which seriously damaged their boats.  Davies reports: \"I was sailing … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/daviesomoca60.jpg)Unidentified Floating Objects (UFOs) continue to take their toll on the Vendee Globe Race fleet.  Yesterday, [Sam Davies](https://www.vendeeglobe.org/en/skippers/97/sam-davies), sailing *Initiatives Coeur*, and [Sébastien Simon](https://www.vendeeglobe.org/en/skippers/90/sebastien-simon), sailing *Arkea Paprec,* each hit UFOs which seriously damaged their boats. 

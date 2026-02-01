@@ -1,7 +1,7 @@
 ---
 title: "US Navy May Have Located Missing Argentine Submarine"
 date: 2017-11-22T08:32:29
-slug: us-navy-may-located-missing-argentine-submarine
+slug: "us-navy-may-located-missing-argentine-submarine"
 excerpt: "A US Navy plane may have located the position of the Argentine Navy submarine ARA San Juan which has been missing since last Wednesday. Sensors aboard the plane detected a ‘heat stain’ at 230 ft below the surface, roughly 185 miles … Continue reading &rarr;"
 categories:
   - "Current"

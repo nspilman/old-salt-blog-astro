@@ -1,8 +1,8 @@
 ---
-title: "Jean-Jacques Savin’s “Last Challenge at Sea” Ends in Tragedy"
+title: "Jean-Jacques Savin’s \"Last Challenge at Sea\" Ends in Tragedy"
 date: 2022-01-23T14:50:46
-slug: jean-jacques-savins-last-challenge-at-sea-ends-in-tragedy
-excerpt: "Jean-Jacques Savin, a 75-year-old French adventurer, described his attempt to row across the Atlantic Ocean solo from Portugal to the Caribbean, as his “last challenge at sea.” Sadly, that challenge ended in tragedy. Savin was found dead inside his boat … Continue reading &rarr;"
+slug: "jean-jacques-savins-last-challenge-at-sea-ends-in-tragedy"
+excerpt: "Jean-Jacques Savin, a 75-year-old French adventurer, described his attempt to row across the Atlantic Ocean solo from Portugal to the Caribbean, as his \"last challenge at sea.\" Sadly, that challenge ended in tragedy. Savin was found dead inside his boat … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Savin"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/savin.jpg"
 author: "Rick Spilman"
-description: "Jean-Jacques Savin, a 75-year-old French adventurer, described his attempt to row across the Atlantic Ocean solo from Portugal to the Caribbean, as his “last challenge at sea.” Sadly, that challenge ended in tragedy. Savin was found dead inside his boat … Continue reading &rarr;"
+description: "Jean-Jacques Savin, a 75-year-old French adventurer, described his attempt to row across the Atlantic Ocean solo from Portugal to the Caribbean, as his \"last challenge at sea.\" Sadly, that challenge ended in tragedy. Savin was found dead inside his boat … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/savin.jpg)[Jean-Jacques Savin](https://www.facebook.com/Jean-Jacques-Savin-Travers%C3%A9e-de-lAtlantique-%C3%A0-la-rame-2083462608591833), a 75-year-old French adventurer, described his attempt to row across the Atlantic Ocean solo from Portugal to the Caribbean, as his “last challenge at sea.” Sadly, that challenge ended in tragedy. Savin was found dead inside his boat Saturday after he had sent out distress signals in the days before, his [team said in a statement](https://www.facebook.com/permalink.php?story_fbid=3162879780650105&id=2083462608591833). 

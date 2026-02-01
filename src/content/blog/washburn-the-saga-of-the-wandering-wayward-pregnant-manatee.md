@@ -1,7 +1,7 @@
 ---
 title: "Washburn, the Saga of the Wandering, Wayward & Pregnant Manatee"
 date: 2016-10-20T09:32:01
-slug: washburn-the-saga-of-the-wandering-wayward-pregnant-manatee
+slug: "washburn-the-saga-of-the-wandering-wayward-pregnant-manatee"
 excerpt: "What an 800 pound West Indian manatee was doing hanging around Washburn Island, near Falmouth, MA at the end of September is unclear, and the manatee wasn’t talking. The waters near Cape Cod in Autumn are not a good place for … Continue reading &rarr;"
 categories:
   - "Current"

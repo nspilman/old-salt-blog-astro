@@ -1,7 +1,7 @@
 ---
 title: "Keel Laying for Interlake’s Mark W. Barker, First US Flag Laker in 35 Years"
 date: 2020-07-02T13:18:55
-slug: keel-laying-for-interlakes-mark-w-barker-first-us-flag-laker-in-35-years
+slug: "keel-laying-for-interlakes-mark-w-barker-first-us-flag-laker-in-35-years"
 excerpt: "On June 23, the keel was laid for the Interlake Steamship‘s new Great Lakes bulk carrier at Fincantieri Bay Shipbuilding in Sturgeon Bay, WI.  The 639 ft-long, 28,000-tonne Lake-Class self-unloading bulker is the first US flag self-propelled bulk carrier to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

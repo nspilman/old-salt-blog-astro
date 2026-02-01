@@ -1,7 +1,7 @@
 ---
 title: "The Great Chesapeake Bay Schooner Race 2011"
 date: 2011-10-17T18:23:45
-slug: the-great-chesapeake-bay-schooner-race-2011
+slug: "the-great-chesapeake-bay-schooner-race-2011"
 excerpt: "Last Friday, 39 schooners set off from Baltimore, Maryland sailing 127 miles down the Chesapeake to Portsmouth, Virginia in the 22nd Annual Great Chesapeake Bay Schooner Race.  This year the first schooner to cross Thimble Shoal with an elapsed time … Continue reading &rarr;"
 categories:
   - "Current"

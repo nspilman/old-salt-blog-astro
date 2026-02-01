@@ -1,8 +1,8 @@
 ---
 title: "Composite Clipper City of Adelaide Soon on her Way to Australia, or Not"
 date: 2013-08-25T07:31:10
-slug: composite-clipper-city-of-adelaide-soon-on-her-way-to-australia-or-not-battle-over-old-ship-continues
-excerpt: "The two headlines in the BBC are from the same day and posted only an hour apart. The first reads “World’s oldest clipper ship transported to Australia.” The second – “City of Adelaide clipper ship export ban sought.”   Both … Continue reading &rarr;"
+slug: "composite-clipper-city-of-adelaide-soon-on-her-way-to-australia-or-not-battle-over-old-ship-continues"
+excerpt: "The two headlines in the BBC are from the same day and posted only an hour apart. The first reads \"World’s oldest clipper ship transported to Australia.\" The second – \"City of Adelaide clipper ship export ban sought.\"   Both … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -16,7 +16,7 @@ tags:
   - "Scottish Maritime Museum"
   - "Sunderland City of Adelaide Recovery Fund"
 author: "Rick Spilman"
-description: "The two headlines in the BBC are from the same day and posted only an hour apart. The first reads “World’s oldest clipper ship transported to Australia.” The second – “City of Adelaide clipper ship export ban sought.”   Both … Continue reading &rarr;"
+description: "The two headlines in the BBC are from the same day and posted only an hour apart. The first reads \"World’s oldest clipper ship transported to Australia.\" The second – \"City of Adelaide clipper ship export ban sought.\"   Both … Continue reading &rarr;"
 ---
 
 ![cityadelaidewebpic](http://www.oldsaltblog.com/wp-content/uploads/2010/12/cityadelaidewebpic.jpg)The two headlines in the BBC are from the same day and posted only an hour apart. The first reads “[World’s oldest clipper ship transported to Australia.](http://www.bbc.co.uk/news/uk-scotland-glasgow-west-23802192)” The second – “[City of Adelaide clipper ship export ban sought.](http://www.bbc.co.uk/news/uk-england-tyne-23807329)”   Both articles are about the clipper ship, *[City of Adelaide](http://en.wikipedia.org/wiki/City_of_Adelaide_\(1864\)),* the world’s oldest surviving composite clipper ship and the only surviving sailing ship built to give regular passenger and cargo service between Europe and Australia.  She is five years older than the composite clipper*, [Cutty Sark](http://en.wikipedia.org/wiki/Cutty_Sark).*   

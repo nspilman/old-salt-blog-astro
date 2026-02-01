@@ -1,7 +1,7 @@
 ---
 title: "Piano on a Sandbar: Mystery Solved"
 date: 2011-01-27T18:31:36
-slug: piano-on-a-sandbar-mystery-solved
+slug: "piano-on-a-sandbar-mystery-solved"
 excerpt: "A grand piano appeared recently on a sand bar in Biscayne Bay.  It has been the subject of considerable discussion. Mysterious grand piano found on Biscayne Bay sandbar Here’s a mystery that gives a whole new meaning to the phrase … Continue reading &rarr;"
 categories:
   - "Current"

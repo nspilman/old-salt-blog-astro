@@ -1,8 +1,8 @@
 ---
 title: "Update #2 : Drifting Yacht & Dead German Sailor First Sighted by Clipper Round the World Racers"
 date: 2016-03-09T09:18:13
-slug: update-2-drifting-yacht-dead-german-sailor-first-sighted-clipper-round-world-racers
-excerpt: "A week ago, we posted about the corpse of a German sailor aboard the yacht SAYO, a Jeanneau Sun Magic 44, which was found adrift off the Philippines on around the end of February.  The body was described as “mummified,” … Continue reading &rarr;"
+slug: "update-2-drifting-yacht-dead-german-sailor-first-sighted-clipper-round-world-racers"
+excerpt: "A week ago, we posted about the corpse of a German sailor aboard the yacht SAYO, a Jeanneau Sun Magic 44, which was found adrift off the Philippines on around the end of February.  The body was described as \"mummified,\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Manfred Fritz Bajorat"
   - "SAYO"
 author: "Rick Spilman"
-description: "A week ago, we posted about the corpse of a German sailor aboard the yacht SAYO, a Jeanneau Sun Magic 44, which was found adrift off the Philippines on around the end of February.  The body was described as “mummified,” … Continue reading &rarr;"
+description: "A week ago, we posted about the corpse of a German sailor aboard the yacht SAYO, a Jeanneau Sun Magic 44, which was found adrift off the Philippines on around the end of February.  The body was described as \"mummified,\" … Continue reading &rarr;"
 ---
 
 ![sayo2](http://www.oldsaltblog.com/wp-content/uploads/2016/03/sayo2.jpg)A week ago, we [posted about the corpse of a German sailor](http://www.oldsaltblog.com/2016/03/mummified-corpse-of-german-sailor-found-on-drifting-yacht/) aboard the yacht *SAYO*, a [Jeanneau Sun Magic 44](http://sailboatdata.com/viewrecord.asp?class_id=2414), which was found adrift off the Philippines on around the end of February.  The body was described as “mummified,” leading to speculation as to how long the sailor, identified as Manfred Fritz Bajorat, 59, had been dead.   A few days later, [an autopsy performed in the Philippines](http://www.oldsaltblog.com/2016/03/update/) concluded that Bajorat had died of a heart attack and had only been dead about seven days. Now, based on a report from the [Clipper Round the World Race](http://clipperroundtheworld.com/), the autopsy is in error. One of the race’s boats, *LMAX Exchange*, spotted the yacht dismasted and adrift on January 31st, about 650 NM east of Philippines and 470 NM west of Guam. A crew member swam out and boarded the boat and found the body of the lone sailor in an advanced stage of decay. A video of the discovery is below after the page break.

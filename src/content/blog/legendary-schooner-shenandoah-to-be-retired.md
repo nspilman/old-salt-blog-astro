@@ -1,7 +1,7 @@
 ---
 title: "Legendary Schooner Shenandoah to be Retired"
 date: 2025-07-27T18:46:23
-slug: legendary-schooner-shenandoah-to-be-retired
+slug: "legendary-schooner-shenandoah-to-be-retired"
 excerpt: "Sad news reported by the Vineyard Gazette. After 63 years sailing the waters around Martha’s Vineyard, the legendary schooner Shenandoah will sail her last season next summer. Martha’s Vineyard Ocean Academy, the educational nonprofit that currently owns and operates Shenandoah, … Continue reading &rarr;"
 categories:
   - "Current"

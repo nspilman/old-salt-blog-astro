@@ -1,7 +1,7 @@
 ---
 title: "Cat and Dolphins Playing Together"
 date: 2011-11-12T08:00:50
-slug: cat-and-dolphins-playing-together
+slug: "cat-and-dolphins-playing-together"
 excerpt: "I am not one for cute pet videos.  And I am not a huge fan of cats. Nevertheless, for this video I have to make an exception.  The video was shot in at the Theater of the Sea, a marine animal park in … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Navy Orders Four Orca XLUUV Drone Submarines From Boeing"
 date: 2019-04-15T17:25:57
-slug: navy-orders-four-orca-xluuv-drone-submarines-from-boeing
+slug: "navy-orders-four-orca-xluuv-drone-submarines-from-boeing"
 excerpt: "The US Navy has recently ordered four Orca Extra-Large Unmanned Underwater Vehicles (XLUUVs) from Boeing, in a contract worth $43 million. The Orca XLUUVs are very large diesel-electric drone submarines intended to gather intelligence, place or clear naval mines, attack … Continue reading &rarr;"
 categories:
   - "Current"

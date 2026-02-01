@@ -1,7 +1,7 @@
 ---
 title: "The Strange Saga of UC3 Nautilus — Sub Sinks, Inventor Held for Murder — Updated"
 date: 2017-08-12T10:50:06
-slug: strange-saga-uc3-nautilus-sub-sinks-inventor-held-murder
+slug: "strange-saga-uc3-nautilus-sub-sinks-inventor-held-murder"
 excerpt: "In a bizarre and developing story, the Danish inventor Peter Madsen has been held on suspicion of murder following the disappearance of a Swedish journalist and the sinking of the privately owned submarine UC3 Nautilus on Thursday off Denmark.  Madsen denies the … Continue reading &rarr;"
 categories:
   - "Current"

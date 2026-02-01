@@ -1,7 +1,7 @@
 ---
 title: "IMO Arctic Heavy Fuel Ban Goes into Effect, With Major Loopholes Until 2029"
 date: 2024-07-01T16:07:12
-slug: imo-arctic-heavy-fuel-ban-goes-into-effect-with-major-loopholes-until-2029
+slug: "imo-arctic-heavy-fuel-ban-goes-into-effect-with-major-loopholes-until-2029"
 excerpt: "As of July 1, a ban on heavy fuel oil (HFO) for ships has come into effect in Arctic waters.  The UN International Maritime Organization (IMO) ban on HFO, however, includes significant loopholes that will allow the vast majority of … Continue reading &rarr;"
 categories:
   - "Current"

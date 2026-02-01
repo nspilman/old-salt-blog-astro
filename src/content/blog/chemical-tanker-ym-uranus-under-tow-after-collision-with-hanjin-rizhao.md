@@ -1,7 +1,7 @@
 ---
 title: "Chemical Tanker YM Uranus under Tow after Collision with Hanjin Rizhao"
 date: 2010-10-08T12:51:49
-slug: chemical-tanker-ym-uranus-under-tow-after-collision-with-hanjin-rizhao
+slug: "chemical-tanker-ym-uranus-under-tow-after-collision-with-hanjin-rizhao"
 excerpt: "Yesterday the 7,000 DWT chemical tanker YM Uranus carrying pyrogas gasoline was in a collision with the 197,000 DWT bulker Hanjin Rizhao off the coast of Brittany.  Contrary to early reports that the chemical tanker was sinking, she remained afloat, despite … Continue reading &rarr;"
 categories:
   - "Current"

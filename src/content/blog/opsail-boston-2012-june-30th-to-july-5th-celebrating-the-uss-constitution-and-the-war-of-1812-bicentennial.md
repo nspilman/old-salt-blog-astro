@@ -1,8 +1,8 @@
 ---
 title: "OpSail Boston 2012 – June 30th to July 5th : Celebrating the USS Constitution and the War of 1812 Bicentennial"
 date: 2012-06-26T09:23:42
-slug: opsail-boston-2012-june-30th-to-july-5th-celebrating-the-uss-constitution-and-the-war-of-1812-bicentennial
-excerpt: "Beginning this Saturday, Boston Harbor will once again be filled with tall masts and square sails.  OpSail Boston 2012 is celebrating the USS Constitution and the bicentennial of the War of 1812.  The USS Constitution, nicknamed “Old Ironsides” after British round shot bounced off her oak planks, … Continue reading &rarr;"
+slug: "opsail-boston-2012-june-30th-to-july-5th-celebrating-the-uss-constitution-and-the-war-of-1812-bicentennial"
+excerpt: "Beginning this Saturday, Boston Harbor will once again be filled with tall masts and square sails.  OpSail Boston 2012 is celebrating the USS Constitution and the bicentennial of the War of 1812.  The USS Constitution, nicknamed \"Old Ironsides\" after British round shot bounced off her oak planks, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "USS Constitution"
   - "War of 1812 Bicentennial"
 author: "Rick Spilman"
-description: "Beginning this Saturday, Boston Harbor will once again be filled with tall masts and square sails.  OpSail Boston 2012 is celebrating the USS Constitution and the bicentennial of the War of 1812.  The USS Constitution, nicknamed “Old Ironsides” after British round shot bounced off her oak planks, … Continue reading &rarr;"
+description: "Beginning this Saturday, Boston Harbor will once again be filled with tall masts and square sails.  OpSail Boston 2012 is celebrating the USS Constitution and the bicentennial of the War of 1812.  The USS Constitution, nicknamed \"Old Ironsides\" after British round shot bounced off her oak planks, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/opasailboston.jpg)Beginning this Saturday, Boston Harbor will once again be filled with tall masts and square sails.  [OpSail Boston 2012](http://www.opsailboston.com/about.html) is celebrating the [*USS Constitution*](http://www.history.navy.mil/ussconstitution/) and the bicentennial of the War of 1812.  The *USS Constitution*, nicknamed “Old Ironsides” after British round shot bounced off her oak planks, is the world’s oldest commissioned naval vessel afloat.  Named by President George Washington, she captured numerous merchant ships and defeated five British warships during the War of 1812.  

@@ -1,7 +1,7 @@
 ---
 title: "Update: Bosporus Strait Reopened After Bulker Alexis Refloated"
 date: 2024-05-07T20:57:51
-slug: bosporus-strait-closed-as-bulker-alexis-runs-aground-after-engine-failure
+slug: "bosporus-strait-closed-as-bulker-alexis-runs-aground-after-engine-failure"
 excerpt: "Update: One of the world’s busiest shipping channels was closed to traffic in both directions after Alexis, an 81,623 dwt bulk carrier, ran aground on May 8, in the Bosporus Strait, connecting the Black Sea to the Mediterranean. Four tugs, … Continue reading &rarr;"
 categories:
   - "Current"

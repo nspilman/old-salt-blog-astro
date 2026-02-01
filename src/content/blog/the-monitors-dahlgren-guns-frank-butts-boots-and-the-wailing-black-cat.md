@@ -1,8 +1,8 @@
 ---
 title: "The Monitor’s Dahlgren Guns, Frank Butts’ Boots and the Wailing Black Cat"
 date: 2020-03-04T15:24:21
-slug: the-monitors-dahlgren-guns-frank-butts-boots-and-the-wailing-black-cat
-excerpt: "On New Year’s Eve, 1862, USS Monitor was under tow off Cape Hatteras, North Carolina in a winter storm. The ship was taking on water and in grave danger of sinking. Francis “Frank” Butts, of Providence, R.I., the Monitor‘s helmsman, … Continue reading &rarr;"
+slug: "the-monitors-dahlgren-guns-frank-butts-boots-and-the-wailing-black-cat"
+excerpt: "On New Year’s Eve, 1862, USS Monitor was under tow off Cape Hatteras, North Carolina in a winter storm. The ship was taking on water and in grave danger of sinking. Francis \"Frank\" Butts, of Providence, R.I., the Monitor‘s helmsman, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -14,7 +14,7 @@ tags:
   - "USS Monitor"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/monitorstorm.jpg"
 author: "Rick Spilman"
-description: "On New Year’s Eve, 1862, USS Monitor was under tow off Cape Hatteras, North Carolina in a winter storm. The ship was taking on water and in grave danger of sinking. Francis “Frank” Butts, of Providence, R.I., the Monitor‘s helmsman, … Continue reading &rarr;"
+description: "On New Year’s Eve, 1862, USS Monitor was under tow off Cape Hatteras, North Carolina in a winter storm. The ship was taking on water and in grave danger of sinking. Francis \"Frank\" Butts, of Providence, R.I., the Monitor‘s helmsman, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/monitorstorm.jpg)On New Year’s Eve, 1862, [USS *Monitor*](https://en.wikipedia.org/wiki/USS_Monitor) was under tow off Cape Hatteras, North Carolina in a winter storm. The ship was taking on water and in grave danger of sinking. Francis “Frank” Butts, of Providence, R.I., the *Monitor*‘s helmsman, was bailing water from the ship’s turret which housed two 11″ smoothbore Dahlgren guns.

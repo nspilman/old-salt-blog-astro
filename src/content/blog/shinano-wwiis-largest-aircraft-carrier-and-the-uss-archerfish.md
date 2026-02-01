@@ -1,7 +1,7 @@
 ---
 title: "Shinano — WWII’s Largest Aircraft Carrier and the USS Archerfish"
 date: 2015-03-16T18:12:28
-slug: shinano-wwiis-largest-aircraft-carrier-and-the-uss-archerfish
+slug: "shinano-wwiis-largest-aircraft-carrier-and-the-uss-archerfish"
 excerpt: "We recently posted about the discovery of the wreck of the Japanese battleship Musashi, in the Sibuyan Sea off the Phillipines. The Musashi was the second of the Yamato class of battleships, which were considered by many to be the largest … Continue reading &rarr;"
 categories:
   - "History"

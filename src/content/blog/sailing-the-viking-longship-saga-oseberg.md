@@ -1,7 +1,7 @@
 ---
 title: "Sailing the Viking Longship Saga Oseberg"
 date: 2013-11-14T10:54:54
-slug: sailing-the-viking-longship-saga-oseberg
+slug: "sailing-the-viking-longship-saga-oseberg"
 excerpt: "I recently came across a video of the Viking longship replica Saga Oseberg tacking across the wind.  Before seeing the video I would have thought that the only way to tack a longship, to bring the wind from one side … Continue reading &rarr;"
 categories:
   - "Current"

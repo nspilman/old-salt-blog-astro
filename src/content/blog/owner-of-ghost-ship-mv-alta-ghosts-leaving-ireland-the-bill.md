@@ -1,8 +1,8 @@
 ---
-title: "Owner of “Ghost Ship” MV Alta Ghosts, Leaving Ireland the Bill"
+title: "Owner of \"Ghost Ship\" MV Alta Ghosts, Leaving Ireland the Bill"
 date: 2020-05-07T11:52:54
-slug: owner-of-ghost-ship-mv-alta-ghosts-leaving-ireland-the-bill
-excerpt: "In February, we posted “The Long Strange Voyage of the “Ghost Ship” MV Alta,” about a derelict ship that, after 17 months abandoned and adrift, washed up unexpectedly on the Irish coast near the village of Ballycotton in County Cork. … Continue reading &rarr;"
+slug: "owner-of-ghost-ship-mv-alta-ghosts-leaving-ireland-the-bill"
+excerpt: "In February, we posted \"The Long Strange Voyage of the \"Ghost Ship\" MV Alta,\" about a derelict ship that, after 17 months abandoned and adrift, washed up unexpectedly on the Irish coast near the village of Ballycotton in County Cork. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "Ireland"
   - "MV Alta"
 author: "Rick Spilman"
-description: "In February, we posted “The Long Strange Voyage of the “Ghost Ship” MV Alta,” about a derelict ship that, after 17 months abandoned and adrift, washed up unexpectedly on the Irish coast near the village of Ballycotton in County Cork. … Continue reading &rarr;"
+description: "In February, we posted \"The Long Strange Voyage of the \"Ghost Ship\" MV Alta,\" about a derelict ship that, after 17 months abandoned and adrift, washed up unexpectedly on the Irish coast near the village of Ballycotton in County Cork. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/mvaltarocks.jpg)In February, we posted “[The Long Strange Voyage of the “Ghost Ship” MV Alta](http://www.oldsaltblog.com/2020/02/the-long-strange-voyage-of-the-ghost-ship-mv-alta/),” about a derelict ship that, after 17 months abandoned and adrift, washed up unexpectedly on the Irish coast near the village of Ballycotton in County Cork. Now three months later, the [*Alta*](https://www.vesselfinder.com/vessels/ALTA-IMO-7432305-MMSI-0) remains where she was dashed onto the rocks by the hurricane-force winds of [Storm Dennis](https://www.washingtonpost.com/weather/2020/02/16/storm-dennis-severe-flooding-bomb-cyclone/). No one is entirely sure what to do about her.

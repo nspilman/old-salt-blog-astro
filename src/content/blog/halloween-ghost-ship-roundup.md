@@ -1,8 +1,8 @@
 ---
 title: "Halloween Ghost Ship Roundup"
 date: 2010-10-29T09:33:04
-slug: halloween-ghost-ship-roundup
-excerpt: "On this eve of the eve of All Hallows Eve, it seems worthwhile to list a few of the “ghost” ships open to the public on Halloween. Hornet Ship of Spirits – This evening , on the historic aircraft carrier USS Hornet in  Alameda … Continue reading &rarr;"
+slug: "halloween-ghost-ship-roundup"
+excerpt: "On this eve of the eve of All Hallows Eve, it seems worthwhile to list a few of the \"ghost\" ships open to the public on Halloween. Hornet Ship of Spirits – This evening , on the historic aircraft carrier USS Hornet in  Alameda … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "ghost ships"
   - "halloween"
 author: "Rick Spilman"
-description: "On this eve of the eve of All Hallows Eve, it seems worthwhile to list a few of the “ghost” ships open to the public on Halloween. Hornet Ship of Spirits – This evening , on the historic aircraft carrier USS Hornet in  Alameda … Continue reading &rarr;"
+description: "On this eve of the eve of All Hallows Eve, it seems worthwhile to list a few of the \"ghost\" ships open to the public on Halloween. Hornet Ship of Spirits – This evening , on the historic aircraft carrier USS Hornet in  Alameda … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/HauntedShip.jpg)

@@ -1,7 +1,7 @@
 ---
-title: "Navy Takes Down Private Webcams in San Diego That  Livestreamed “Warship Chicken”"
+title: "Navy Takes Down Private Webcams in San Diego That  Livestreamed \"Warship Chicken\""
 date: 2023-05-10T19:02:03
-slug: navy-takes-down-private-webcams-in-san-diego-that-livestreamed-warship-chicken
+slug: "navy-takes-down-private-webcams-in-san-diego-that-livestreamed-warship-chicken"
 excerpt: "In late November of last year, the guided-missile destroyer, USS Momsen, and the dock-landing ship, USS Harpers Ferry, were moving in opposite directions in San Diego Bay when they came close to colliding. The two ships came within 35 yards … Continue reading &rarr;"
 categories:
   - "Current"

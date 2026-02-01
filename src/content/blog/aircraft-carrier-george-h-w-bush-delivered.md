@@ -1,7 +1,7 @@
 ---
 title: "Aircraft Carrier George H.W. Bush Delivered"
 date: 2010-01-31T09:04:25
-slug: aircraft-carrier-george-h-w-bush-delivered
+slug: "aircraft-carrier-george-h-w-bush-delivered"
 excerpt: "After being under construction for almost a decade, the aircraft carrier George H. W. Bush was accepted by the US Navy following final seatrials last Friday. Northrop Grumman delivers Bush aircraft carrier to Navy … Continue reading &rarr;"
 categories:
   - "Current"

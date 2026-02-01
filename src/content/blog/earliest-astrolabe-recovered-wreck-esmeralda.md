@@ -1,7 +1,7 @@
 ---
 title: "Earliest Astrolabe Recovered from Wreck of the Esmeralda"
 date: 2017-10-25T09:09:37
-slug: earliest-astrolabe-recovered-wreck-esmeralda
+slug: "earliest-astrolabe-recovered-wreck-esmeralda"
 excerpt: "A year ago last March, marine archeologists determined that the wreck of a ship found off the coast of Oman was the Esmerelda, one of the ships in a fleet led by Portuguese explorer Vasco da Gama in 1502. The wreck … Continue reading &rarr;"
 categories:
   - "Current"

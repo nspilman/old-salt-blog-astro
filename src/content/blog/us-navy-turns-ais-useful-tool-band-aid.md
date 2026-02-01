@@ -1,7 +1,7 @@
 ---
 title: "US Navy Turns on AIS — Useful Tool, Band-aid, or Both?"
 date: 2017-09-22T09:15:33
-slug: us-navy-turns-ais-useful-tool-band-aid
+slug: "us-navy-turns-ais-useful-tool-band-aid"
 excerpt: "Following the recent collisions between US Navy destroyers and merchant ships, various internet sites posted the AIS tracks of the collisions. Well, they posted half the AIS tracks anyway.  The merchant ships used AIS while the Navy did not. While … Continue reading &rarr;"
 categories:
   - "Current"

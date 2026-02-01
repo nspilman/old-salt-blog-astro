@@ -1,7 +1,7 @@
 ---
 title: "What A Well Equipped Bosun Carries on the SSV Oliver Hazard Perry"
 date: 2015-10-02T13:25:19
-slug: what-a-well-equipped-bosun-carries-on-the-ssv-oliver-hazard-perry
+slug: "what-a-well-equipped-bosun-carries-on-the-ssv-oliver-hazard-perry"
 excerpt: "The bosun’s gear on the SSV Oliver Hazard Perry. A nice rig. My only concern would be managing the lanyards. Easy to catch on things while climbing about. From the Oliver Hazard Perry blog: Being a full time sailor aboard any Tall … Continue reading &rarr;"
 categories:
   - "Current"

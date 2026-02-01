@@ -1,8 +1,8 @@
 ---
 title: "Admiral Mickey Mouse & SEAL Team 6"
 date: 2011-05-16T14:43:49
-slug: admiral-mickey-mouse-seal-team-6
-excerpt: "Mickey Mouse now apparently owns SEAL Team 6, or at least the name.  Disney has filed  three trademark applications to to claim the rights to the phrase “SEAL Team 6.”   SEAL Team 6 is believed to be the Navy commando squad that … Continue reading &rarr;"
+slug: "admiral-mickey-mouse-seal-team-6"
+excerpt: "Mickey Mouse now apparently owns SEAL Team 6, or at least the name.  Disney has filed  three trademark applications to to claim the rights to the phrase \"SEAL Team 6.\"   SEAL Team 6 is believed to be the Navy commando squad that … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "trademark"
   - "Walt Disney Company"
 author: "Rick Spilman"
-description: "Mickey Mouse now apparently owns SEAL Team 6, or at least the name.  Disney has filed  three trademark applications to to claim the rights to the phrase “SEAL Team 6.”   SEAL Team 6 is believed to be the Navy commando squad that … Continue reading &rarr;"
+description: "Mickey Mouse now apparently owns SEAL Team 6, or at least the name.  Disney has filed  three trademark applications to to claim the rights to the phrase \"SEAL Team 6.\"   SEAL Team 6 is believed to be the Navy commando squad that … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/mickey.jpg)Mickey Mouse now apparently owns SEAL Team 6, or at least the name.  Disney has filed  three trademark applications to to claim the rights to the phrase “SEAL Team 6.”   [SEAL Team 6 is believed to be the Navy commando squad that killed Osama Bin Laden](http://www.oldsaltblog.com/2011/05/02/navy-seals-kill-bin-laden/) in the recent raid on his compound.   How can Disney copyright the term “[SEAL Team 6](http://www.businessinsider.com/the-team-that-killed-bin-laden-seal-team-6-2011-5)?”   “*Officially, the team’s name is classified and not available to the public, technically there is no team 6.*”

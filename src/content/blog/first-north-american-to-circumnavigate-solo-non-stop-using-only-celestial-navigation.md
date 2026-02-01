@@ -1,7 +1,7 @@
 ---
 title: "First North American to Circumnavigate Solo, Non-stop, Using Only Celestial Navigation"
 date: 2020-07-24T13:05:40
-slug: first-north-american-to-circumnavigate-solo-non-stop-using-only-celestial-navigation
+slug: "first-north-american-to-circumnavigate-solo-non-stop-using-only-celestial-navigation"
 excerpt: "Canadian Bert terHart recently completed a 267-day solo, non-stop circumnavigation of the world via the five capes on his 43′ sailboat using only traditional celestial navigation. He is the first North American to circle the globe solo and non-stop using … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

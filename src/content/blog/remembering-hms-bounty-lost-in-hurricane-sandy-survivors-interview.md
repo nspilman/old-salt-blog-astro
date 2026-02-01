@@ -1,7 +1,7 @@
 ---
-title: "Remembering “HMS” Bounty Lost in Hurricane Sandy — Survivors’ Interview"
+title: "Remembering \"HMS\" Bounty Lost in Hurricane Sandy — Survivors’ Interview"
 date: 2022-10-29T10:25:53
-slug: remembering-hms-bounty-lost-in-hurricane-sandy-survivors-interview
+slug: "remembering-hms-bounty-lost-in-hurricane-sandy-survivors-interview"
 excerpt: "Ten years ago today, the replica of HMS Bounty sank in Hurricane Sandy off the coast of North Carolina. Despite horrific conditions, the US Coast Guard was able to rescue 14 of the 16 aboard the ship when she sank. … Continue reading &rarr;"
 categories:
   - "Current"

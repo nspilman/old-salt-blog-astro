@@ -1,7 +1,7 @@
 ---
 title: "Moby Dick on a Barge and the Card Game"
 date: 2013-05-03T16:11:18
-slug: moby-dick-on-a-barge-and-the-card-game
+slug: "moby-dick-on-a-barge-and-the-card-game"
 excerpt: "For those near New York harbor, the Brave New World Repertory Theatre is presenting MOBY DICK–REHEARSED by Orson Welles, co-directed by John Morgan and Alexander Harrington at Red Hook’s Waterfront Museum & Showboat Barge on May 3-5 & 10-12 at 7:30. … Continue reading &rarr;"
 categories:
   - "Current"

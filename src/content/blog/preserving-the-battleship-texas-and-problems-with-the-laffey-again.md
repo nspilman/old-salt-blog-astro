@@ -1,7 +1,7 @@
 ---
 title: "Preserving the Battleship Texas and Problems with the Laffey again"
 date: 2010-11-30T13:42:23
-slug: preserving-the-battleship-texas-and-problems-with-the-laffey-again
+slug: "preserving-the-battleship-texas-and-problems-with-the-laffey-again"
 excerpt: "Last June we posted about the near sinking of the battleship Texas.  Now a final effort to save the 96 year old ship is underway.   A cofferdam will be built around the ship to create a dry berth for the battleship. … Continue reading &rarr;"
 categories:
   - "Current"

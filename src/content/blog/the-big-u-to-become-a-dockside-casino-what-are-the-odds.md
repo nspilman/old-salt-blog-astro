@@ -1,7 +1,7 @@
 ---
 title: "The Big U to become a dockside casino? What are the odds?"
 date: 2010-11-23T09:27:00
-slug: the-big-u-to-become-a-dockside-casino-what-are-the-odds
+slug: "the-big-u-to-become-a-dockside-casino-what-are-the-odds"
 excerpt: "They are two projects in trouble.  One is a group of ship enthusiasts trying to save the rusting hulk of an historic passenger liner and the other, an Indian tribe trying to save a long-delayed casino project. Yesterday, the SS … Continue reading &rarr;"
 categories:
   - "Current"

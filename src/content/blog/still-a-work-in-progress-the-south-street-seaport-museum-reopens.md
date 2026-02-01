@@ -1,7 +1,7 @@
 ---
 title: "Still a Work in Progress, the South Street Seaport Museum Reopens"
 date: 2012-01-26T12:51:58
-slug: still-a-work-in-progress-the-south-street-seaport-museum-reopens
+slug: "still-a-work-in-progress-the-south-street-seaport-museum-reopens"
 excerpt: "Last February, the chronically mismanaged Seaport Museum of New York (the ex-South Street Seaport Museum) laid off its staff and shut its doors. (See our post  The Rise and Fall of the South Street Seaport Museum.)  Today, under new management, with new funding … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Kon-Tiki 2 Crew Rescued, Hōkūleʻa Sails On"
 date: 2016-03-18T14:41:11
-slug: kon-tiki-2-crew-rescued
+slug: "kon-tiki-2-crew-rescued"
 excerpt: "Last November, we posted about two balsa rafts which had set out from Lima, Peru, intending to sail to Easter Island and back, on the Kon-Tiki 2 expedition. Yesterday, the Chilean Navy rescued 14 crew members from the two rafts … Continue reading &rarr;"
 categories:
   - "Current"

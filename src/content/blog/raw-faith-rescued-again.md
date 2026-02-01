@@ -1,7 +1,7 @@
 ---
 title: "Update: Raw Faith Sinks – Crew Rescued"
 date: 2010-12-07T23:06:23
-slug: raw-faith-rescued-again
+slug: "raw-faith-rescued-again"
 excerpt: "Update: The three masted schooner Raw Faith is reported to now have sunk after the crew of two was rescued by the Coast Guard. __________ Two men were rescued by the Coast Guard from Raw Faith, a home-built 118′ three … Continue reading &rarr;"
 categories:
   - "Current"

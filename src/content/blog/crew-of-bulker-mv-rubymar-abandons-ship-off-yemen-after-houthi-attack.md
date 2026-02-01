@@ -1,7 +1,7 @@
 ---
 title: "Crew of Bulker MV Rubymar Abandons Ship off Yemen After Houthi Attack"
 date: 2024-02-19T18:35:24
-slug: crew-of-bulker-mv-rubymar-abandons-ship-off-yemen-after-houthi-attack
+slug: "crew-of-bulker-mv-rubymar-abandons-ship-off-yemen-after-houthi-attack"
 excerpt: "On Sunday evening, anti-ship ballistic missiles, launched by Houthi rebels from Yemen, struck the MV Rubymar, a  32,211 DWT, Belize-flagged, UK-owned, and Lebanese-operated bulk carrier in the Gulf of Aden near the Bab al-Mandab Strait. The attack caused sufficient damage … Continue reading &rarr;"
 categories:
   - "Current"

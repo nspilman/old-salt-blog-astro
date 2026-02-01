@@ -1,7 +1,7 @@
 ---
 title: "Progress on the SSV Oliver Hazard Perry"
 date: 2011-06-28T09:17:14
-slug: progress-on-the-ssv-oliver-hazard-perry
+slug: "progress-on-the-ssv-oliver-hazard-perry"
 excerpt: "What is harder than clawing to windward off a lee shore?  I suspect that trying to raise funds, almost from scratch, to fund a new tall ship during a major recession can make a lee shore and a foul wind … Continue reading &rarr;"
 categories:
   - "Current"

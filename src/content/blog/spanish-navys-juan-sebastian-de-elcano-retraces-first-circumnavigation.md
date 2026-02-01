@@ -1,7 +1,7 @@
 ---
 title: "Spanish Navy’s Juan Sebastián de Elcano Retraces First Circumnavigation"
 date: 2021-03-02T13:46:26
-slug: spanish-navys-juan-sebastian-de-elcano-retraces-first-circumnavigation
+slug: "spanish-navys-juan-sebastian-de-elcano-retraces-first-circumnavigation"
 excerpt: "Last Friday, the Spanish Navy training ship Juan Sebastian De Elcano arrived in Guam on its journey to retrace the first circumnavigation of the globe 500 years ago. As reported by Stars and Stripes, the four-masted ship — named for … Continue reading &rarr;"
 categories:
   - "Current"

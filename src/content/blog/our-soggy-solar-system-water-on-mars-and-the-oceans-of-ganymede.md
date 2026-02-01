@@ -1,7 +1,7 @@
 ---
 title: "Our Soggy Solar System — Water on Mars and the Oceans of Ganymede"
 date: 2015-09-29T09:16:19
-slug: our-soggy-solar-system-water-on-mars-and-the-oceans-of-ganymede
+slug: "our-soggy-solar-system-water-on-mars-and-the-oceans-of-ganymede"
 excerpt: "We, residents of a blue marble of which 71% is covered by water, have long assumed that the rest of our solar system was relatively dry. It may be time to change that opinion. Yesterday, NASA  announced strong evidence of … Continue reading &rarr;"
 categories:
   - "Current"

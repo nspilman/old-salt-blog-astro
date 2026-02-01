@@ -1,7 +1,7 @@
 ---
 title: "The Nautilus at 60 — Nuclear Power Tested in an Idaho Desert"
 date: 2014-10-09T08:22:47
-slug: the-nautilus-at-60-nuclear-power-tested-in-an-idaho-desert
+slug: "the-nautilus-at-60-nuclear-power-tested-in-an-idaho-desert"
 excerpt: "Just over 60 yeas ago, on September 30, 1954, USS Nautilus, the world’s first nuclear powered submarine was commissioned in New London, Connecticut. Following commissioning she continued trials and testing, until she put to sea for the first time  on January … Continue reading &rarr;"
 categories:
   - "History"

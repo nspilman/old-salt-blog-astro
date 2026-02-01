@@ -1,7 +1,7 @@
 ---
 title: "RIP David Crosby — Iconic Singer-Songwriter, Guitarist & Sailor"
 date: 2023-01-20T18:54:55
-slug: rip-david-crosby-iconic-singer-songwriter-guitarist-sailor
+slug: "rip-david-crosby-iconic-singer-songwriter-guitarist-sailor"
 excerpt: "On January 19, 2023, David Crosby died at the age of 81, following a long illness. He was a founding member of both the Byrds and Crosby, Stills & Nash. Crosby was inducted into the Rock and Roll Hall of Fame twice: … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

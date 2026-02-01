@@ -1,7 +1,7 @@
 ---
 title: "Russia Reported to be Sinking Ferries to Protect Kerch Bridge From Ukrainian Sea-Drone Attacks"
 date: 2023-08-26T17:39:54
-slug: russia-reported-to-be-sinking-ferries-to-protect-kerch-bridge-from-ukrainian-sea-drone-attacks
+slug: "russia-reported-to-be-sinking-ferries-to-protect-kerch-bridge-from-ukrainian-sea-drone-attacks"
 excerpt: "We recently posted Ukrainian Naval Drones Redefining Warfare in the Black Sea, discussing naval drones developed by the Ukrainians with formidable ranges and increasing lethality. These sea drones are explosive uncrewed surface vessels (USVs) that have been used to attack … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "What Happens When You Crack An Egg Underwater?"
 date: 2014-10-26T15:29:15
-slug: what-happens-when-you-crack-an-egg-underwater
+slug: "what-happens-when-you-crack-an-egg-underwater"
 excerpt: "And now for something completely different — what happens when you crack an egg underwater?  I will admit this hasn’t been a question that has been keeping me awake at nights, but it is interesting, nevertheless. Here is what happens … Continue reading &rarr;"
 categories:
   - "Current"

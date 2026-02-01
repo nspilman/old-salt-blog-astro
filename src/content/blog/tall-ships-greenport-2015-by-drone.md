@@ -1,8 +1,8 @@
 ---
 title: "Breathtaking Drone Video of Tall Ships Greenport 2015"
 date: 2015-07-10T15:29:27
-slug: tall-ships-greenport-2015-by-drone
-excerpt: "A beautifully shot drone video of Tall Ships Greenport 2015 from July 6th, featuring the French frigate l‘Hermione;  Delaware’s Tall Ship”, Kalmar Nyckel; the Portuguese Navy’s Sagres III;  the privateer Lynx;  and New Jersey’s Tall Ship, A.J. Meerwald.  Thanks to Irwin Bryan for passing … Continue reading &rarr;"
+slug: "tall-ships-greenport-2015-by-drone"
+excerpt: "A beautifully shot drone video of Tall Ships Greenport 2015 from July 6th, featuring the French frigate l‘Hermione;  Delaware’s Tall Ship\", Kalmar Nyckel; the Portuguese Navy’s Sagres III;  the privateer Lynx;  and New Jersey’s Tall Ship, A.J. Meerwald.  Thanks to Irwin Bryan for passing … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Statement on Museum of City of New York’s Oversight of South Street Seaport Museum"
 date: 2013-06-25T10:46:56
-slug: statement-on-museum-of-city-of-new-yorks-oversight-of-south-street-seaport-museum
+slug: "statement-on-museum-of-city-of-new-yorks-oversight-of-south-street-seaport-museum"
 excerpt: "Many of us are still realing from the news that the Museum of the City of New York is withdrawing from managing the South Street Seaport Museum as of July 5, 2013.  The future of New York’s premier maritime museum is … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "American Magic, AKA  the Mule, Foiling Across Narraganset Bay"
 date: 2018-11-14T09:28:07
-slug: american-magic-aka-the-mule-foiling-across-narraganset-bay
+slug: "american-magic-aka-the-mule-foiling-across-narraganset-bay"
 excerpt: "Last November, we posted about a concept design for an America’s Cup racer, a 75′ foiling monohull, without a keel. The concept AC75 was presented as a 3D animation. About a year later, the New York Yacht Club’s half sized … Continue reading &rarr;"
 categories:
   - "Current"

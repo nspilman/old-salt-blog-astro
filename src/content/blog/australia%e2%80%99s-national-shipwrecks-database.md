@@ -1,7 +1,7 @@
 ---
 title: "Australia’s National Shipwrecks Database"
 date: 2009-09-10T10:03:22
-slug: australia%e2%80%99s-national-shipwrecks-database
+slug: "australia%e2%80%99s-national-shipwrecks-database"
 excerpt: "We recently posted about how Cathryn R. Newton, dean emerita from Syracuse University’s College of Arts and Sciences, has developed a searchable database that details 2,038 shipwrecks dating from 1526.  Thanks to Dick Kooyman for pointing out Australia’s National Shipwrecks database, … Continue reading &rarr;"
 categories:
   - "Current"

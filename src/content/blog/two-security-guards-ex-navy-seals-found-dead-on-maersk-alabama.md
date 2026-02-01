@@ -1,7 +1,7 @@
 ---
 title: "Two Security Guards, ex-Navy SEALs, Found Dead on Maersk Alabama"
 date: 2014-02-19T16:44:37
-slug: two-security-guards-ex-navy-seals-found-dead-on-maersk-alabama
+slug: "two-security-guards-ex-navy-seals-found-dead-on-maersk-alabama"
 excerpt: "It is being reported that two American security guards, both former Navy SEALs, have been found dead on the Maersk Alabama while in Port Victoria, in the Seychelles. The men have been identified as Jeffrey Reynolds and Mark Kennedy, both … Continue reading &rarr;"
 categories:
   - "Current"

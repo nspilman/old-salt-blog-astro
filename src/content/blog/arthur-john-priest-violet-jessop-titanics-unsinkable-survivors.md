@@ -1,7 +1,7 @@
 ---
 title: "Arthur John Priest & Violet Jessop, Titanic’s Unsinkable Survivors"
 date: 2012-04-08T09:38:14
-slug: arthur-john-priest-violet-jessop-titanics-unsinkable-survivors
+slug: "arthur-john-priest-violet-jessop-titanics-unsinkable-survivors"
 excerpt: "Arthur John Priest was a stoker, or fireman, on the RMS Titanic. His job was to shovel coal into the ship’s boilers.  He survived the Titanic’s sinking of 1912. He also was aboard the RMS Olympic, the sistership to the Titanic, when she collided with HMS … Continue reading &rarr;"
 categories:
   - "History"

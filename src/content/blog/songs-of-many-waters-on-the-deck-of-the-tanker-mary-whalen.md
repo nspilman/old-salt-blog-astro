@@ -1,7 +1,7 @@
 ---
 title: "Songs of Many Waters on the Deck of the Tanker Mary Whalen"
 date: 2010-08-05T08:32:29
-slug: songs-of-many-waters-on-the-deck-of-the-tanker-mary-whalen
+slug: "songs-of-many-waters-on-the-deck-of-the-tanker-mary-whalen"
 excerpt: "Sounds like a great evening for those in the New York area.  Thanks to Al Cuenin for the heads up. From oceans to puddles, songs of the seas, lakes, canals, and the ships and sailors who sail them. A singalong evening aboard … Continue reading &rarr;"
 categories:
   - "Current"

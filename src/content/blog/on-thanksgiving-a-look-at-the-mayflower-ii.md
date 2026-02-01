@@ -1,7 +1,7 @@
 ---
 title: "On Thanksgiving – A Look at the Mayflower II"
 date: 2012-11-22T10:23:58
-slug: on-thanksgiving-a-look-at-the-mayflower-ii
+slug: "on-thanksgiving-a-look-at-the-mayflower-ii"
 excerpt: "In the United States, today is celebrated as Thanksgiving, commermorating a 1621 feast of thanks-giving at the Plymouth colony in present-day Massachusetts. The year before in November of 1620 the ship Mayflower had carried a group of just over 100 English and Dutch Separatists, known as Pilgrims, across the … Continue reading &rarr;"
 categories:
   - "Current"

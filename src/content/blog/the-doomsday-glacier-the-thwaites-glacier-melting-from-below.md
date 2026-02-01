@@ -1,7 +1,7 @@
 ---
 title: "The Doomsday Glacier — the Thwaites Glacier Melting From Below"
 date: 2020-02-03T18:54:23
-slug: the-doomsday-glacier-the-thwaites-glacier-melting-from-below
+slug: "the-doomsday-glacier-the-thwaites-glacier-melting-from-below"
 excerpt: "As has so often been the case, predictions of the impact of climate change have been proven to be inaccurate. The problem is not that they have been too alarmist, but that they haven’t been alarmist enough. For the past … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

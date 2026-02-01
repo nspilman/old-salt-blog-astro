@@ -1,7 +1,7 @@
 ---
 title: "Ship Fires Shuts Houston Ship Channel — Another Day on the Congested Waterway"
 date: 2015-12-14T18:33:25
-slug: ship-fires-shuts-houston-ship-channel-another-day-on-the-congested-waterway
+slug: "ship-fires-shuts-houston-ship-channel-another-day-on-the-congested-waterway"
 excerpt: "The tanker Navigator Europa, moored outside the Targa LPG export terminal, caught fire today, shutting down a section of the Houston Ship Channel. The tanker is reported to be carrying ethylene, a chemical used in making plastic.  The cause of the fire … Continue reading &rarr;"
 categories:
   - "Current"

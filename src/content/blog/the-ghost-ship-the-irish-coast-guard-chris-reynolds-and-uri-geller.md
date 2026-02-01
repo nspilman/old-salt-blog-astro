@@ -1,7 +1,7 @@
 ---
 title: "The Ghost Ship, the Irish Coast Guard, Chris Reynolds and Uri Geller"
 date: 2014-01-24T12:29:01
-slug: the-ghost-ship-the-irish-coast-guard-chris-reynolds-and-uri-geller
+slug: "the-ghost-ship-the-irish-coast-guard-chris-reynolds-and-uri-geller"
 excerpt: "I may owe Chris Reynolds an apology.  In a reply to a comment about our post, Lyubov Orlova, Ghost Ship Crewed by Cannibal Rats Drifting Toward the UK — Phony Hysteria on a Slow News Day?, I suggested that Reynolds, Director, … Continue reading &rarr;"
 categories:
   - "Current"

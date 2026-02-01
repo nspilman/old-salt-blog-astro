@@ -1,7 +1,7 @@
 ---
 title: "Celebrate National Maritime Day 2011 Aboard the N.S. SAVANNAH"
 date: 2011-05-21T10:10:06
-slug: celebrate-national-maritime-day-2011-aboard-the-n-s-savannah
+slug: "celebrate-national-maritime-day-2011-aboard-the-n-s-savannah"
 excerpt: "In the US,  National Maritime Day is May 22nd. The day was chosen to commemorate the departure from Savannah, Georgia  of the American steamship, SS Savannah, first steamship to cross the Atlantic Ocean,  on May 24, 1819.   To celebrate National Maritime Day, the Baltimore Port … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "How to Sail a Full-Rigged Ship, Part 1"
 date: 2012-11-10T09:05:07
-slug: how-to-sail-a-full-rigged-ship-part-1
+slug: "how-to-sail-a-full-rigged-ship-part-1"
 excerpt: "So you want to learn to sail a square-rigger? Here is one of the best visual explanations of the basics that I have come across, courtesy of the full-rigged ship Sørlandet.  Part 1 looks at the sails & rigging. How to sail a … Continue reading &rarr;"
 categories:
   - "Current"

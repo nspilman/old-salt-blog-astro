@@ -1,7 +1,7 @@
 ---
 title: "Captain Kidd in the News – New Exhibit at Docklands Museum and Shipwreck ‘Living Museum of the Sea’"
 date: 2011-05-03T09:26:18
-slug: pirates-the-captain-kidd-story-new-exhibit-at-the-museum-of-london-docklands
+slug: "pirates-the-captain-kidd-story-new-exhibit-at-the-museum-of-london-docklands"
 excerpt: "The notorious pirate Captain William Kidd was executed three hundred and ten years ago this month, yet is far from forgotten.  A new exhibit is opening on May 20th at the Museum of London Dockyards – Pirates:  The Captain Kidd Story. … Continue reading &rarr;"
 categories:
   - "Current"

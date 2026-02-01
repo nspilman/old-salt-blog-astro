@@ -1,8 +1,8 @@
 ---
 title: "Choice of Broadsides – Kindle Text Game, a Review"
 date: 2011-01-30T09:17:35
-slug: choice-of-broadsides-kindle-text-game-a-review
-excerpt: "Before video games and personal computers, there were gamebooks.  They were novels where at critical scenes you as the reader were given a series a choices.   “A troll comes out of the cave carrying a large club. You will … Continue reading &rarr;"
+slug: "choice-of-broadsides-kindle-text-game-a-review"
+excerpt: "Before video games and personal computers, there were gamebooks.  They were novels where at critical scenes you as the reader were given a series a choices.   \"A troll comes out of the cave carrying a large club. You will … Continue reading &rarr;"
 categories:
   - "Games"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Georgian Naval fiction"
   - "Kindle"
 author: "Rick Spilman"
-description: "Before video games and personal computers, there were gamebooks.  They were novels where at critical scenes you as the reader were given a series a choices.   “A troll comes out of the cave carrying a large club. You will … Continue reading &rarr;"
+description: "Before video games and personal computers, there were gamebooks.  They were novels where at critical scenes you as the reader were given a series a choices.   \"A troll comes out of the cave carrying a large club. You will … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/broadside.jpg)Before video games and personal computers, there were [gamebooks](http://en.wikipedia.org/wiki/Gamebook).  They were novels where at critical scenes you as the reader were given a series a choices.   “A troll comes out of the cave carrying a large club. You will (a) run away, (b) say hello or (c) barter for gold. ” Depending on which choice you made you would be told to go to page 34 or whatever where your choice would be played out until you reached another branch and another set of choices.

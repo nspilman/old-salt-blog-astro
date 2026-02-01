@@ -1,7 +1,7 @@
 ---
 title: "Festival Sails into San Diego Bay Today"
 date: 2010-09-02T09:50:22
-slug: festival-sails-into-san-diego-bay-today
+slug: "festival-sails-into-san-diego-bay-today"
 excerpt: "The 2010 Port of San Diego Festival of Sail kicks off today with a parade of tall ships on San Diego Bay at 11 a.m.   The festival runs runs through September 6th  and features more than 20 tall ships … Continue reading &rarr;"
 categories:
   - "Current"

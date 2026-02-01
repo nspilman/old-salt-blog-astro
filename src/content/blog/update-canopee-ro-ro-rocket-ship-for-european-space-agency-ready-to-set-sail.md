@@ -1,7 +1,7 @@
 ---
-title: "Update: Canopée, Ro-Ro “Rocket Ship,” for European Space Agency Ready to Set Sail"
+title: "Update: Canopée, Ro-Ro \"Rocket Ship,\" for European Space Agency Ready to Set Sail"
 date: 2023-08-29T14:48:52
-slug: update-canopee-ro-ro-rocket-ship-for-european-space-agency-ready-to-set-sail
+slug: "update-canopee-ro-ro-rocket-ship-for-european-space-agency-ready-to-set-sail"
 excerpt: "In 2021, we posted about the start of construction of a sail-assisted cargo ship, built to carry Ariane 6 rockets for the European Space Agency (ESA).  Now, the ro-ro cargo ship, Canopée, has completed sea trials and is ready to … Continue reading &rarr;"
 categories:
   - "Current"

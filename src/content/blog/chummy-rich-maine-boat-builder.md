@@ -1,7 +1,7 @@
 ---
 title: "Chummy Rich – Maine Boat Builder"
 date: 2017-04-29T09:20:08
-slug: chummy-rich-maine-boat-builder
+slug: "chummy-rich-maine-boat-builder"
 excerpt: "Here is a fascinating video showing the construction of a traditional cruiser built by a master boat builder and his crew. Chummy Rich is a fifth generation boat builder from Bernard, Maine. Like his forebears going back to the 1800’s, he … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ships Silver Cloud and Norwegian Getaway at the Rio Olympics"
 date: 2016-08-06T16:21:42
-slug: cruise-ships-silver-cloud-norwegian-getaway-rio-olympics
+slug: "cruise-ships-silver-cloud-norwegian-getaway-rio-olympics"
 excerpt: "The accommodations in the Olympic Village in Rio de Janeiro, where most of the Summer Olympics athletes are staying during the games, have received mixed reviews. Australian athletes refused to move into the buildings because of significant plumbing and electrical … Continue reading &rarr;"
 categories:
   - "Current"

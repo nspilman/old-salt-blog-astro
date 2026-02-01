@@ -1,7 +1,7 @@
 ---
 title: "A Whale of a Surprise, or Exactly How Close Should You Get When Whale Watching?"
 date: 2011-11-07T11:31:50
-slug: a-whale-of-a-surprise-or-exactly-how-close-should-you-get-when-whale-watching
+slug: "a-whale-of-a-surprise-or-exactly-how-close-should-you-get-when-whale-watching"
 excerpt: "Here is a wonderful video shot on Halloween a quarter-mile offshore from Seabright Beach in Santa Cruz, CA. A bikini clad surfer paddles over to a group of kayakers who are out watching the large number of humpbacks who are … Continue reading &rarr;"
 categories:
   - "Current"

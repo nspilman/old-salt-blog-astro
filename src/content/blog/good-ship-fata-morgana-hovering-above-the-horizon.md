@@ -1,7 +1,7 @@
 ---
 title: "Good Ship Fata Morgana Hovering Above the Horizon"
 date: 2021-03-07T13:48:05
-slug: good-ship-fata-morgana-hovering-above-the-horizon
+slug: "good-ship-fata-morgana-hovering-above-the-horizon"
 excerpt: "David Morris was taking a walk along the coast near Falmouth, Cornwall, in the UK, when he saw what looked to be a large tanker hovering in the air above the horizon. He documented what he witnessed with several photographs.  … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

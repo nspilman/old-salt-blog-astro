@@ -1,7 +1,7 @@
 ---
 title: "Barque Sedov, the World’s Largest Sailing Ship, on her 90th Birthday"
 date: 2011-05-06T07:20:23
-slug: barque-sedov-the-world%e2%80%99s-largest-sailing-ship-on-her-90th-birthday
+slug: "barque-sedov-the-world%e2%80%99s-largest-sailing-ship-on-her-90th-birthday"
 excerpt: "The Russian barque Sedov, the world’s largest sailing ship, is celebrating her 90th birthday in 2011. Barque Sedov under sail again … Continue reading &rarr;"
 categories:
   - "Current"

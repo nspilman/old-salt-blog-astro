@@ -1,7 +1,7 @@
 ---
 title: "The Bounty Bound for Galveston?"
 date: 2012-09-29T03:15:20
-slug: the-bounty-bound-for-galveston
+slug: "the-bounty-bound-for-galveston"
 excerpt: "The replica of the HMS Bounty built for the 1962 movie, Mutiny on the Bounty, starring Marlon Brando make the port of Galveston, its winter home.  The deal apparently has not been finalized but the Galveston Daily News reports that negotiations … Continue reading &rarr;"
 categories:
   - "Current"

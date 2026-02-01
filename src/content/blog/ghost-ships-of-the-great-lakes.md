@@ -1,8 +1,8 @@
 ---
 title: "Ghost Ships of the Great Lakes"
 date: 2011-05-10T17:04:33
-slug: ghost-ships-of-the-great-lakes
-excerpt: "For those in the US, the National Geographic Channel is featuring a a program “Ghost Ships of the Great Lakes” this evening at 10PM.  Looks interesting. Ghost Ships of the Great Lakes … Continue reading &rarr;"
+slug: "ghost-ships-of-the-great-lakes"
+excerpt: "For those in the US, the National Geographic Channel is featuring a a program \"Ghost Ships of the Great Lakes\" this evening at 10PM.  Looks interesting. Ghost Ships of the Great Lakes … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Great Lakes"
   - "National Geographic"
 author: "Rick Spilman"
-description: "For those in the US, the National Geographic Channel is featuring a a program “Ghost Ships of the Great Lakes” this evening at 10PM.  Looks interesting. Ghost Ships of the Great Lakes … Continue reading &rarr;"
+description: "For those in the US, the National Geographic Channel is featuring a a program \"Ghost Ships of the Great Lakes\" this evening at 10PM.  Looks interesting. Ghost Ships of the Great Lakes … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/Ghost-Ships3.jpg)For those in the US, the National Geographic Channel is featuring a a program “Ghost Ships of the Great Lakes” this evening at 10PM.  Looks interesting.

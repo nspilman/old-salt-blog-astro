@@ -1,7 +1,7 @@
 ---
 title: "A Redcoat Storms Aboard Old Ironsides!"
 date: 2010-12-06T12:10:03
-slug: a-redcoat-storms-aboard-old-ironsides
+slug: "a-redcoat-storms-aboard-old-ironsides"
 excerpt: "The Boston Globe has documented the boarding of the USS Constitution by a Redcoat!  During her long years of active duty, the USS Constitution, known as Old Ironsides, was never successfully boarded by enemy marines.  Yet, here we see the … Continue reading &rarr;"
 categories:
   - "Current"

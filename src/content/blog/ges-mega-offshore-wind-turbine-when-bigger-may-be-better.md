@@ -1,7 +1,7 @@
 ---
 title: "GE’s Mega Offshore Wind Turbine, When Bigger May Be Better"
 date: 2021-01-10T20:18:39
-slug: ges-mega-offshore-wind-turbine-when-bigger-may-be-better
+slug: "ges-mega-offshore-wind-turbine-when-bigger-may-be-better"
 excerpt: "Sometimes size matters. We have recently seen ever-larger container ships delivered from Asian shipyards. This year, the HMM Algeciras claimed the title of the world’s largest container ship with a carrying capacity of 24,000 TEUs. It is one of twelve … Continue reading &rarr;"
 categories:
   - "Current"

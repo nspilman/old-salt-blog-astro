@@ -1,8 +1,8 @@
 ---
 title: "Captain Henry Every – The Pirate Who Got Away"
 date: 2025-05-12T17:37:53
-slug: captain-henry-every-the-pirate-who-got-away-2
-excerpt: "During the “Golden Age of Piracy,” the most successful pirates amassed huge fortunes over short periods and then died bloody deaths in combat, on the gallows, or in shipwrecks.  The one notable exception was Captain Henry Every. While his career … Continue reading &rarr;"
+slug: "captain-henry-every-the-pirate-who-got-away-2"
+excerpt: "During the \"Golden Age of Piracy,\" the most successful pirates amassed huge fortunes over short periods and then died bloody deaths in combat, on the gallows, or in shipwrecks.  The one notable exception was Captain Henry Every. While his career … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Mughal treasure fleet"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/henryevery.jpg"
 author: "Rick Spilman"
-description: "During the “Golden Age of Piracy,” the most successful pirates amassed huge fortunes over short periods and then died bloody deaths in combat, on the gallows, or in shipwrecks.  The one notable exception was Captain Henry Every. While his career … Continue reading &rarr;"
+description: "During the \"Golden Age of Piracy,\" the most successful pirates amassed huge fortunes over short periods and then died bloody deaths in combat, on the gallows, or in shipwrecks.  The one notable exception was Captain Henry Every. While his career … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/henryevery.jpg)During the “[Golden Age of Piracy](https://en.wikipedia.org/wiki/Golden_Age_of_Piracy),” the most successful pirates amassed huge fortunes over short periods and then died bloody deaths in combat, on the gallows, or in shipwrecks.  The one notable exception was [Captain Henry Every](https://www.history.com/news/henry-everys-bloody-pirate-raid-320-years-ago). While his career as a pirate lasted only two years and was vastly successful, unlike other well know pirates, Every got away.

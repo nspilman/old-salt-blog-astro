@@ -1,7 +1,7 @@
 ---
 title: "Newport Ship: Medieval Vessel Described as ‘World’s Largest 3D Puzzle’"
 date: 2023-01-22T18:48:04
-slug: newport-ship-medieval-vessel-described-as-worlds-largest-3d-puzzle
+slug: "newport-ship-medieval-vessel-described-as-worlds-largest-3d-puzzle"
 excerpt: "In June 2002 in the city of Newport, South East Wales, a mid-fifteenth-century sailing vessel was discovered during the construction of the Riverfront Theatre in the banks of the River Usk. Now, after two decades of documenting the remains of … Continue reading &rarr;"
 categories:
   - "Current"

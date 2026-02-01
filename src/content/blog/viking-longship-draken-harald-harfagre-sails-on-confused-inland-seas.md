@@ -1,7 +1,7 @@
 ---
 title: "Viking Longship Draken Harald Hårfagre Sails on Confused Inland Seas"
 date: 2016-07-26T15:34:58
-slug: viking-longship-draken-harald-harfagre-sails-on-confused-inland-seas
+slug: "viking-longship-draken-harald-harfagre-sails-on-confused-inland-seas"
 excerpt: "The Pepsi Tall Ships Chicago 2016 festival begins tomorrow, July 27th, and runs for five days through the 31st, at Chicago’s Navy Pier on Lake Michigan. One of the participating ships was expected to be the replica Viking longship Draken Harald Hårfagre. Earlier … Continue reading &rarr;"
 categories:
   - "Current"

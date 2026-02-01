@@ -1,7 +1,7 @@
 ---
 title: "Little Leon, 16′ Small-Tall Ship"
 date: 2012-08-26T11:43:23
-slug: little-leon-16-small-tall-ship
+slug: "little-leon-16-small-tall-ship"
 excerpt: "When I first saw the photo, I thought that the Little Leon was sailed by giants. The ship looked properly to scale, while the crew seemed disproportionately large.  It turns out that Little Leon is a 16′ long brigantine modeled … Continue reading &rarr;"
 categories:
   - "Current"

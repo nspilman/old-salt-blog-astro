@@ -1,7 +1,7 @@
 ---
 title: "Containership MSC Flaminia in Flames in the North Atlantic"
 date: 2012-07-15T09:14:55
-slug: containership-msc-flamina-in-flames-in-the-north-atlantic
+slug: "containership-msc-flamina-in-flames-in-the-north-atlantic"
 excerpt: "The container ship, MSC Flaminia, is in flames, drifting in the North Atlantic, roughly half way between Britain and Canada, approximately 1,000 miles west of Cornwall.   One man is reported either be missing or to have died from burns. At least … Continue reading &rarr;"
 categories:
   - "Current"

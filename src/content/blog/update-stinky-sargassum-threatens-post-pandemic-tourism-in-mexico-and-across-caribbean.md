@@ -1,7 +1,7 @@
 ---
 title: "Update: Stinky Sargassum Threatens Post Pandemic Tourism in Mexico and Across Caribbean"
 date: 2022-07-06T13:48:12
-slug: update-stinky-sargassum-threatens-post-pandemic-tourism-in-mexico-and-across-caribbean
+slug: "update-stinky-sargassum-threatens-post-pandemic-tourism-in-mexico-and-across-caribbean"
 excerpt: "In 2019, we posted about an 8,850-kilometer Atlantic sargassum belt from the Gulf of Mexico to West Africa. The floating mat of the brown buoyant seaweed had a devastating impact on beaches across the east coast of Mexico, the Caribbean, … Continue reading &rarr;"
 categories:
   - "Current"

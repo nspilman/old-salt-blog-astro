@@ -1,7 +1,7 @@
 ---
 title: "Melville’s White Jacket and the question of justice"
 date: 2008-12-09T15:20:59
-slug: melvilles-white-jacket-and-the-question-of-justice
+slug: "melvilles-white-jacket-and-the-question-of-justice"
 excerpt: "In a comment on a prior post, Fiddler’s Green, Redwing mentioned White Jacket, or The World in a Man-of-War, by Herman Melville. I had never read the novel. I am now doing so and enjoying it very much. (It can … Continue reading &rarr;"
 categories:
   - "Critiques"

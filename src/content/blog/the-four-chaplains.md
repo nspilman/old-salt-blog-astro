@@ -1,7 +1,7 @@
 ---
 title: "Remembering SS Dorchester & the Four Chaplains"
 date: 2016-02-03T10:50:22
-slug: the-four-chaplains
+slug: "the-four-chaplains"
 excerpt: "On February 3, 1943, the troopship SS Dorchester was in a convoy bound for Greenland when it was torpedoed and sunk by a German U-boat. Of the 904 soldiers and crew aboard, 672 died. Among the dead were four US … Continue reading &rarr;"
 categories:
   - "History"

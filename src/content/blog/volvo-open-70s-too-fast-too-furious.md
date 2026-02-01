@@ -1,7 +1,7 @@
 ---
 title: "Volvo Open 70s – Too Fast & Too Furious?"
 date: 2011-11-23T07:50:54
-slug: volvo-open-70s-too-fast-too-furious
+slug: "volvo-open-70s-too-fast-too-furious"
 excerpt: "The Volvo Ocean 70 is the latest and greatest ocean racer.  With their carbon fiber hulls, towering rigs and canting keels, they sail faster than the wind and as a class are the fastest monohulls ever built. Based on the … Continue reading &rarr;"
 categories:
   - "Current"

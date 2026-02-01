@@ -1,7 +1,7 @@
 ---
 title: "Waterford Tugboat Roundup Canceled"
 date: 2011-09-06T10:57:12
-slug: waterford-tugboat-roundup-canceled
+slug: "waterford-tugboat-roundup-canceled"
 excerpt: "Ironically, the further inland from where Hurricane Irene made landfall in Brooklyn, the more damage and disruption the storm caused.  While the 19th Annual Great North River Tug Boat Race and Competition  went off without a hitch, the annual Waterford Tugboat Roundup scheduled … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "A Bad Week for Bulk Carriers – Black Rose Sinks, Seli 1 Aground"
 date: 2009-09-12T15:16:39
-slug: a-bad-week-for-bulk-carriers-%e2%80%93-black-rose-sinks-seli-1-aground
+slug: "a-bad-week-for-bulk-carriers-%e2%80%93-black-rose-sinks-seli-1-aground"
 excerpt: "Last week was a bad week for bulk carriers.   The MV Black Rose, a bulk carrier with a crew of  27 which had loaded 23,847 tons of iron ore,  sank near the port of Paradip on the east coast of … Continue reading &rarr;"
 categories:
   - "Current"

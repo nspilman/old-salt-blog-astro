@@ -1,7 +1,7 @@
 ---
 title: "One Year After the Tsunami – No.18 Kyotoku-maru, Remains As Tsunami Monument or Scar"
 date: 2012-03-11T12:51:12
-slug: one-year-after-the-tsunami-no-18-kyotoku-maru-remains-as-tsunami-monument-or-scar
+slug: "one-year-after-the-tsunami-no-18-kyotoku-maru-remains-as-tsunami-monument-or-scar"
 excerpt: "One year ago today, the largest earthquake in Japan’s history, measuring 8.9 on the Richter scale, struck 70 miles offshore, triggering a 23-foot (7-meter) tsunami that washed far inland smashing towns, airports and highways across the north-eastern Japanese coast. Over 16,000 people are known … Continue reading &rarr;"
 categories:
   - "Current"

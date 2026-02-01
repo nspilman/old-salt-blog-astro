@@ -1,7 +1,7 @@
 ---
 title: "Coast Guard Winds Up Hearings on the Sinking of HMS Bounty"
 date: 2013-02-22T12:15:03
-slug: coast-guard-winds-up-hearings-on-the-sinking-of-hms-bounty
+slug: "coast-guard-winds-up-hearings-on-the-sinking-of-hms-bounty"
 excerpt: "The US Coast Guard has wrapped up eight days of hearings on the sinking of the replica of the HMS Bounty on October 29th of last year.  Two died in the sinking, crew member Claudine Christian and Captain Robin Waldridge … Continue reading &rarr;"
 categories:
   - "Current"

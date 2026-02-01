@@ -1,8 +1,8 @@
 ---
 title: "Ukraine Crowdfunding Fleet of Naval Drones to Counter Russian Black Sea Fleet"
 date: 2022-11-12T17:25:13
-slug: ukraine-crowdfunding-fleet-of-naval-drones-to-counter-russian-black-sea-fleet
-excerpt: "At the end of October, Russia announced that Ukraine had launched the “most massive attack by drones and remotely piloted surface vehicles on the waters of the Bay of Sevastopol in the history of the conflict.” Unconfirmed sources claim that … Continue reading &rarr;"
+slug: "ukraine-crowdfunding-fleet-of-naval-drones-to-counter-russian-black-sea-fleet"
+excerpt: "At the end of October, Russia announced that Ukraine had launched the \"most massive attack by drones and remotely piloted surface vehicles on the waters of the Bay of Sevastopol in the history of the conflict.\" Unconfirmed sources claim that … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -18,7 +18,7 @@ tags:
   - "USV"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/11/navaldrone.jpg"
 author: "Rick Spilman"
-description: "At the end of October, Russia announced that Ukraine had launched the “most massive attack by drones and remotely piloted surface vehicles on the waters of the Bay of Sevastopol in the history of the conflict.” Unconfirmed sources claim that … Continue reading &rarr;"
+description: "At the end of October, Russia announced that Ukraine had launched the \"most massive attack by drones and remotely piloted surface vehicles on the waters of the Bay of Sevastopol in the history of the conflict.\" Unconfirmed sources claim that … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/11/navaldrone.jpg)

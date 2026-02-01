@@ -1,7 +1,7 @@
 ---
 title: "Happy National Coffee Day  – Coffee, Edward Lloyd, Ships and Shipping"
 date: 2010-09-29T15:43:33
-slug: happy-national-coffee-day-coffee-edward-lloyd-ships-and-shipping
+slug: "happy-national-coffee-day-coffee-edward-lloyd-ships-and-shipping"
 excerpt: "Happy National Coffee Day! I don’t know who decided that today was National Coffee Day, nor even why we should necessarily be celebrating it.   However, as a confirmed and happily contented coffee addict, perhaps this is a good time … Continue reading &rarr;"
 categories:
   - "History"

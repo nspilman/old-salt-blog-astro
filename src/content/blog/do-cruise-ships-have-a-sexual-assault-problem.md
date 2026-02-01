@@ -1,7 +1,7 @@
 ---
 title: "Do Cruise Ships Have A Sexual Assault Problem?"
 date: 2019-07-26T15:53:59
-slug: do-cruise-ships-have-a-sexual-assault-problem
+slug: "do-cruise-ships-have-a-sexual-assault-problem"
 excerpt: "A 15-year-old girl was allegedly plied with liquor aboard a Royal Caribbean ship by a group of men, before being taken to a cabin and gang-raped. She was on a seven-day cruise with her two sisters and grandparents beginning the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "A Less Than Excellent Docking by the Cruise/Ferry Excellent in Barcelona"
 date: 2018-11-01T13:39:31
-slug: a-less-than-excellent-docking-by-the-cruise-ferry-excellent-in-barcelona
+slug: "a-less-than-excellent-docking-by-the-cruise-ferry-excellent-in-barcelona"
 excerpt: "When the cruise/ferry Excellent docked in Barcelona, her arrival was less than, shall we say, excellent. Yesterday, at around 8AM, local time, the 663′ long ship was caught in high winds. While waiting for additional tugs, the ship was blown … Continue reading &rarr;"
 categories:
   - "Current"

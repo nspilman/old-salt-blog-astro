@@ -1,8 +1,8 @@
 ---
 title: "From a Sea of Troubles, Navy Charts New Course Ahead"
 date: 2021-05-24T16:01:11
-slug: from-a-sea-of-troubles-navy-seeks-new-course-ahead
-excerpt: "In January of this year, while speaking before the annual Surface Navy Association symposium, US Chief of Naval Operations Adm. Mike Gilday was blunt. He said, “I don’t mean to be dramatic, but I feel like if the Navy loses its … Continue reading &rarr;"
+slug: "from-a-sea-of-troubles-navy-seeks-new-course-ahead"
+excerpt: "In January of this year, while speaking before the annual Surface Navy Association symposium, US Chief of Naval Operations Adm. Mike Gilday was blunt. He said, \"I don’t mean to be dramatic, but I feel like if the Navy loses its … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -17,7 +17,7 @@ tags:
   - "USS Zumwalt"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/cnolcs.jpg"
 author: "Rick Spilman"
-description: "In January of this year, while speaking before the annual Surface Navy Association symposium, US Chief of Naval Operations Adm. Mike Gilday was blunt. He said, “I don’t mean to be dramatic, but I feel like if the Navy loses its … Continue reading &rarr;"
+description: "In January of this year, while speaking before the annual Surface Navy Association symposium, US Chief of Naval Operations Adm. Mike Gilday was blunt. He said, \"I don’t mean to be dramatic, but I feel like if the Navy loses its … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/cnolcs.jpg)

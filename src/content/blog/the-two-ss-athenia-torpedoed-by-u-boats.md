@@ -1,7 +1,7 @@
 ---
 title: "The Two SS Athenia, Torpedoed by U-Boats"
 date: 2014-09-23T08:27:43
-slug: the-two-ss-athenia-torpedoed-by-u-boats
+slug: "the-two-ss-athenia-torpedoed-by-u-boats"
 excerpt: "Seventy five years ago this month, the Donaldson Line passenger liner SS Athenia became the first British ship to be sunk by a German U-boat in World War II.  The 13,465 gross ton liner sailed from Glasgow bound Montreal.  On September 3, 1939, only … Continue reading &rarr;"
 categories:
   - "History"

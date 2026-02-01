@@ -1,7 +1,7 @@
 ---
 title: "US Cruise Industry Shutting Down For at Least 30 Days"
 date: 2020-03-14T09:53:15
-slug: us-cruise-industry-shutting-down-for-at-least-30-days
+slug: "us-cruise-industry-shutting-down-for-at-least-30-days"
 excerpt: "The press release from the Cruise Lines International Association (CLIA) was clear — the cruise industry is now shut down. No more cruising from the United States. CLIA is the world’s largest cruise industry trade association, representing more than 50 … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

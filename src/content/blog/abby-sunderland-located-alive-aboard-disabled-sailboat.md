@@ -1,7 +1,7 @@
 ---
 title: "Abby Sunderland Located Alive Aboard Disabled Sailboat"
 date: 2010-06-11T07:03:42
-slug: abby-sunderland-located-alive-aboard-disabled-sailboat
+slug: "abby-sunderland-located-alive-aboard-disabled-sailboat"
 excerpt: "Abby Sunderland has been contacted by rescuers who report that she is alive and uninjured aboard her sailboat Wild Eyes in the Indian Ocean.    The sail boat is afloat but has been variously reported as having been dis-masted and to have lost its keel.   … Continue reading &rarr;"
 categories:
   - "Current"

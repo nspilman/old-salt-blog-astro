@@ -1,7 +1,7 @@
 ---
 title: "Portsmouth Historic Dockyard marks 88 years of HMS Victory"
 date: 2010-01-17T07:13:11
-slug: portsmouth-historic-dockyard-marks-88-years-of-hms-victory
+slug: "portsmouth-historic-dockyard-marks-88-years-of-hms-victory"
 excerpt: "HMS Victory in recent snowy weather Portsmouth Historic Dockyard marks 88 years of HMS Victory From broadside battles off the Mediterranean coast to Vice Admiral Lord Nelson’s triumph in the Battle of Trafalgar and campaigns in the Baltic, the guardians … Continue reading &rarr;"
 categories:
   - "Current"

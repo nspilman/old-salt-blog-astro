@@ -1,7 +1,7 @@
 ---
 title: "Update: Captain Error and Poor Bridge Design Caused Seastreak Wall Street Ferry Collision"
 date: 2014-04-10T09:09:49
-slug: update-captain-error-and-poor-bridge-design-caused-seastreak-wall-street-ferry-collision
+slug: "update-captain-error-and-poor-bridge-design-caused-seastreak-wall-street-ferry-collision"
 excerpt: "On January 9, 2013, we posted about the Seastreak Wall Street catamaran ferry, which slammed into a loading barge at Pier 11 in New York City’s East River in Lower Manhattan at 12 knots, injuring 80 of the 331 passengers and crew.  The … Continue reading &rarr;"
 categories:
   - "Current"

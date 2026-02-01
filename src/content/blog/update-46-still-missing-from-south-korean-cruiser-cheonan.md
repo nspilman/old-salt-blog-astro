@@ -1,7 +1,7 @@
 ---
 title: "Update: 46 Still Missing from South Korean Cruiser Cheonan"
 date: 2010-03-29T08:10:40
-slug: update-46-still-missing-from-south-korean-cruiser-cheonan
+slug: "update-46-still-missing-from-south-korean-cruiser-cheonan"
 excerpt: "Forty six crew members are reported missing from the South Korean Cruiser Cheonan which sank late Friday.    South Korean officials are all but ruling out direct North Korean involvement in the sinking.   Fifty eight of the crew were rescued. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

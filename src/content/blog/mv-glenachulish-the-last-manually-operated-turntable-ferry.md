@@ -1,8 +1,8 @@
 ---
 title: "MV Glenachulish, the Last Manually-Operated Turntable Ferry"
 date: 2023-05-03T17:35:55
-slug: mv-glenachulish-the-last-manually-operated-turntable-ferry
-excerpt: "I am sorry to say that we missed seeing this intriguing ferry, MV Glenachulish, when we visited Skye last September. (We went “over the sea to Skye” on the more conventional ferry from Mallaig to Armadale.) I had never heard … Continue reading &rarr;"
+slug: "mv-glenachulish-the-last-manually-operated-turntable-ferry"
+excerpt: "I am sorry to say that we missed seeing this intriguing ferry, MV Glenachulish, when we visited Skye last September. (We went \"over the sea to Skye\" on the more conventional ferry from Mallaig to Armadale.) I had never heard … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "turntable ferry"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/05/turntableferry.jpg"
 author: "Rick Spilman"
-description: "I am sorry to say that we missed seeing this intriguing ferry, MV Glenachulish, when we visited Skye last September. (We went “over the sea to Skye” on the more conventional ferry from Mallaig to Armadale.) I had never heard … Continue reading &rarr;"
+description: "I am sorry to say that we missed seeing this intriguing ferry, MV Glenachulish, when we visited Skye last September. (We went \"over the sea to Skye\" on the more conventional ferry from Mallaig to Armadale.) I had never heard … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/05/turntableferry.jpg)I am sorry to say that we missed seeing this intriguing ferry, [MV *Glenachulish*](https://en.wikipedia.org/wiki/MV_Glenachulish), when we visited Skye last September. (We went “over the sea to Skye” on the more conventional ferry from Mallaig to Armadale.) I had never heard of a turntable ferry before Dick Kooyman was kind enough to pass this short video from the [BBC](https://www.bbc.com/news/av/uk-scotland-65429882?xtor=ES-208-[60625_News_NLB_GET_WEEK18_02_May_2023]-20230502-[newsuk_scotland_ferry]) of the world’s last manually-operated turntable ferry. 

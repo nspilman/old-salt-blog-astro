@@ -1,7 +1,7 @@
 ---
 title: "USS Iowa Bound for Berth 87 in the Port of Los Angeles"
 date: 2011-09-08T16:08:08
-slug: uss-iowa-bound-for-berth-87-in-the-port-of-los-angeles
+slug: "uss-iowa-bound-for-berth-87-in-the-port-of-los-angeles"
 excerpt: "The USS Iowa will soon have a new home. The Port of Los Angeles has won the bidding to support the battleship, beating out Vallejo which had also been actively bidding for the ship. Los Angeles Wins USS Iowa Bid … Continue reading &rarr;"
 categories:
   - "Current"

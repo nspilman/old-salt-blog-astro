@@ -1,7 +1,7 @@
 ---
 title: "Dame Ellen MacArthur — Circling the Globe and the Circular Economy"
 date: 2015-08-18T17:32:18
-slug: dame-ellen-macarthur-circling-the-globe-and-the-circular-economy
+slug: "dame-ellen-macarthur-circling-the-globe-and-the-circular-economy"
 excerpt: "In 2005, Ellen MacArthur broke the world record for the fastest solo circumnavigation of the globe, sailing 27,354 nautical miles in 71 days, 14 hours, 18 minutes 33 seconds at an average speed of of 15.9 knots. Recently she gave a TED talk about the … Continue reading &rarr;"
 categories:
   - "Current"

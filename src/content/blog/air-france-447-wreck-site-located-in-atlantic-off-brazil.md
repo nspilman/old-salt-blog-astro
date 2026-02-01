@@ -1,7 +1,7 @@
 ---
 title: "Air France 447 Wreck Site Located in Atlantic off Brazil"
 date: 2011-04-05T07:52:37
-slug: air-france-447-wreck-site-located-in-atlantic-off-brazil
+slug: "air-france-447-wreck-site-located-in-atlantic-off-brazil"
 excerpt: "After over two years and three failed searches, an international team, including specialists from the Woods Hole Oceanographic Institution, in partnership  with French authorities, have located the primary wreckage of Air France Flight 447 which disappeared over the Atlantic Ocean on May … Continue reading &rarr;"
 categories:
   - "Current"

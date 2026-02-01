@@ -1,7 +1,7 @@
 ---
 title: "Post-Irma Caribbean Catastrophe — Navies, Cruise Ships and Private Boats Aid Victims"
 date: 2017-09-12T09:53:12
-slug: post-irma-caribbean-catastrophe-navies-cruise-ships-private-boats-aid-victims
+slug: "post-irma-caribbean-catastrophe-navies-cruise-ships-private-boats-aid-victims"
 excerpt: "Hurricane Irma absolutely devastated many islands in the Caribbean. Now, in the aftermath of the catastrophic storm, aid is being sent by a small armada of ships and boats from governments, corporations and private citizens. The need for help is … Continue reading &rarr;"
 categories:
   - "Current"

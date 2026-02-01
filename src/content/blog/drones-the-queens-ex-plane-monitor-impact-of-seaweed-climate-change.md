@@ -1,7 +1,7 @@
 ---
 title: "Drones & the Queen’s Ex-Plane Monitor Impact of Seaweed & Climate Change"
 date: 2013-02-24T09:24:32
-slug: drones-the-queens-ex-plane-monitor-impact-of-seaweed-climate-change
+slug: "drones-the-queens-ex-plane-monitor-impact-of-seaweed-climate-change"
 excerpt: "Scientists at the University of Birmingham are using drones on loan from NASA and a plane that once belonged to the Queen of England, now outfitted with electronics to study seaweed and climate change.  They are studying how climate change is impacting natural … Continue reading &rarr;"
 categories:
   - "Current"

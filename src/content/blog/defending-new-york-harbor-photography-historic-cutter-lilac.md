@@ -1,7 +1,7 @@
 ---
 title: "Defending New York Harbor — Photography on Historic Cutter Lilac"
 date: 2016-06-16T14:04:12
-slug: defending-new-york-harbor-photography-historic-cutter-lilac
+slug: "defending-new-york-harbor-photography-historic-cutter-lilac"
 excerpt: "Defending New York Harbor: The City’s Waterfront Forts is an exhibit of photographs by Richard W. Golden which documents the fortifications that protectively ring New York Harbor. It is on view at the historic Cutter Lilac through July 31st during regular … Continue reading &rarr;"
 categories:
   - "Current"

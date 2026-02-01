@@ -1,7 +1,7 @@
 ---
 title: "Archaeologists Discover Roman Port in Wales"
 date: 2011-10-22T08:02:06
-slug: archaeologists-discover-roman-port-in-wales
+slug: "archaeologists-discover-roman-port-in-wales"
 excerpt: "I was surprised to read that archaeologists had recently discovered only the second Roman port in Britain.  Prior to the discovery in excavations near the Roman fortress of Caerleon, just north of Newport, south Wales, the only other Roman port known to have … Continue reading &rarr;"
 categories:
   - "Current"

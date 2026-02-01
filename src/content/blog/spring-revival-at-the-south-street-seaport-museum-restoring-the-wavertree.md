@@ -1,7 +1,7 @@
 ---
 title: "Spring Revival at the South Street Seaport Museum on the Street of Ships"
 date: 2014-04-27T16:43:44
-slug: spring-revival-at-the-south-street-seaport-museum-restoring-the-wavertree
+slug: "spring-revival-at-the-south-street-seaport-museum-restoring-the-wavertree"
 excerpt: "This Saturday, the South Street Seaport Museum celebrated its Spring Revival with the grand re-opening of Pier 16 and the Street of Ships. The ceremony began with the ringing of the bell on the historic lightship Ambrose built in 1907. The … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: MOL Comfort – Towing Begins of Bow, Six Sister Ships Inspected"
 date: 2013-06-26T15:33:14
-slug: update-mol-comfort-towing-begins-of-bow-six-sister-ships-inspected
+slug: "update-mol-comfort-towing-begins-of-bow-six-sister-ships-inspected"
 excerpt: "M/V Capricorn, a tug owned by Sri Lanka Shipping, is reported to have the forward section of the MOL Comfort under tow. The 8,100-teu container ship broke in two last week while under way from Singapore to Jeddah. The forward … Continue reading &rarr;"
 categories:
   - "Current"

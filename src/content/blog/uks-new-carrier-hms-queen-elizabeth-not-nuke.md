@@ -1,7 +1,7 @@
 ---
 title: "Why the UK’s New Carrier HMS Queen Elizabeth is Not a Nuke"
 date: 2017-09-15T09:18:41
-slug: uks-new-carrier-hms-queen-elizabeth-not-nuke
+slug: "uks-new-carrier-hms-queen-elizabeth-not-nuke"
 excerpt: "The UK’s latest and greatest new aircraft carrier, HMS Queen Elizabeth is driven not by nuclear power but by fossil fuels. Why is that? The Save the Royal Navy blog has an interesting analysis. Here are a few of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Wreckage of USS Johnston, Hero of the Battle of Samar, Located at 20,400 Feet Deep"
 date: 2019-11-02T20:00:33
-slug: wreckage-of-uss-johnston-hero-of-the-battle-of-samar-located-at-20400-feet-deep
+slug: "wreckage-of-uss-johnston-hero-of-the-battle-of-samar-located-at-20400-feet-deep"
 excerpt: "The RV Petrel continues its amazing streak of underwater discoveries. Now, it has located the wreckage of what is believed to be the USS Johnston at a depth of 20,400 ft in the Philippine Sea. The wreck is believed to … Continue reading &rarr;"
 categories:
   - "Current"

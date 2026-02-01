@@ -1,7 +1,7 @@
 ---
 title: "Canoes vs Colliers — Pacific Climate Warriors Blockade Newcastle"
 date: 2014-10-19T09:23:12
-slug: canoes-vs-colliers-pacific-climate-warriors-blockade-newcastle
+slug: "canoes-vs-colliers-pacific-climate-warriors-blockade-newcastle"
 excerpt: "Last Friday, at Newcastle, the world’s largest coal handling facility, it was a contest of canoes against the colliers. Calling themselves Pacific Climate Warriors, a group of protesters from a dozen Pacific island nations took to traditional outrigger canoes, kayaks … Continue reading &rarr;"
 categories:
   - "Current"

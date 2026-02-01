@@ -1,7 +1,7 @@
 ---
 title: "Captains Contentious: The Dysfunctional Sons of the Brine – A Review"
 date: 2009-07-10T10:53:17
-slug: captains-contentious-the-dysfunctional-sons-of-the-brine-a-review
+slug: "captains-contentious-the-dysfunctional-sons-of-the-brine-a-review"
 excerpt: "Louis Arthur Norton’s book Captains Contentious – The Dysfunctional Sons of the Brine is an entertaining reminder that history is finally about individuals, dedicated to the causes in which they believe, as well as serving their own needs and obsessions. … Continue reading &rarr;"
 categories:
   - "Newbooks"

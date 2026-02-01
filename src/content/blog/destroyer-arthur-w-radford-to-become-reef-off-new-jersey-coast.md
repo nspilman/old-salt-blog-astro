@@ -1,7 +1,7 @@
 ---
 title: "Destroyer Arthur W. Radford to become reef off New Jersey coast"
 date: 2010-09-30T07:27:48
-slug: destroyer-arthur-w-radford-to-become-reef-off-new-jersey-coast
+slug: "destroyer-arthur-w-radford-to-become-reef-off-new-jersey-coast"
 excerpt: "Perhaps not a case of swords into plowshares, but at least a destroyer into an artificial reef.  In November, the 535 foot decommissioned Navy destroyer, USS Arthur W. Radford, will sink beneath the waters off Cape May Point to become the longest vessel ever turned … Continue reading &rarr;"
 categories:
   - "Current"

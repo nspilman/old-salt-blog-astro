@@ -1,7 +1,7 @@
 ---
 title: "Video of RPG Attack on Cosco Asia in Suez Canal"
 date: 2013-09-06T08:13:51
-slug: video-of-rpg-attack-on-cosco-asia-in-suez-canal
+slug: "video-of-rpg-attack-on-cosco-asia-in-suez-canal"
 excerpt: "Earlier this week we posted about a reported attack on the container ship Cosco Asia while transiting the Suez Canal. A video has appeared on the internet which claims to show the attack. As reported by Reuters: … Continue reading &rarr;"
 categories:
   - "Current"

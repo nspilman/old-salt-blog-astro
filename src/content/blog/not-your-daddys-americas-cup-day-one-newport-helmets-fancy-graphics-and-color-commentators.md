@@ -1,7 +1,7 @@
 ---
 title: "Not Your Daddy’s Americas Cup: Day One Newport  – Helmets, Fancy Graphics and Color Commentators"
 date: 2012-06-29T18:20:47
-slug: not-your-daddys-americas-cup-day-one-newport-helmets-fancy-graphics-and-color-commentators
+slug: "not-your-daddys-americas-cup-day-one-newport-helmets-fancy-graphics-and-color-commentators"
 excerpt: "We posted yesterday about Sailing for Couch Potatoes, or how to watch the America’s Cup Races without leaving your couch.  NBC, for example,  is broadcasting the America’s Cup World Series Finale on Sunday. The New York Times this morning featured an article describing briefly how the Cup Races … Continue reading &rarr;"
 categories:
   - "Current"

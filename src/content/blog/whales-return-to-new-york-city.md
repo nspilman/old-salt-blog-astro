@@ -1,7 +1,7 @@
 ---
 title: "Whales Return to New York City"
 date: 2011-01-31T07:53:17
-slug: whales-return-to-new-york-city
+slug: "whales-return-to-new-york-city"
 excerpt: "The New York Daily News reported good news this morning: Whales return to New York City: Massive mammals appearing again in seas near city; draws sightseers … Continue reading &rarr;"
 categories:
   - "Current"

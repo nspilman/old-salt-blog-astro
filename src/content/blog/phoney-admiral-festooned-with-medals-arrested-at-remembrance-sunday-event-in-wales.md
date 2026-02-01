@@ -1,8 +1,8 @@
 ---
 title: "Phoney Admiral, Festooned with Medals, Arrested at Remembrance Sunday Event in Wales"
 date: 2025-11-15T19:51:23
-slug: phoney-admiral-festooned-with-medals-arrested-at-remembrance-sunday-event-in-wales
-excerpt: "While it is often said that the British Royal Navy has more admirals than warships, the claim is a misleading simplification. It all depends on how one defines “admirals” and “warships.” In recent years, the Royal Navy has employed around … Continue reading &rarr;"
+slug: "phoney-admiral-festooned-with-medals-arrested-at-remembrance-sunday-event-in-wales"
+excerpt: "While it is often said that the British Royal Navy has more admirals than warships, the claim is a misleading simplification. It all depends on how one defines \"admirals\" and \"warships.\" In recent years, the Royal Navy has employed around … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Remembrance Sunday"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/11/fakeadmiral.jpg"
 author: "Rick Spilman"
-description: "While it is often said that the British Royal Navy has more admirals than warships, the claim is a misleading simplification. It all depends on how one defines “admirals” and “warships.” In recent years, the Royal Navy has employed around … Continue reading &rarr;"
+description: "While it is often said that the British Royal Navy has more admirals than warships, the claim is a misleading simplification. It all depends on how one defines \"admirals\" and \"warships.\" In recent years, the Royal Navy has employed around … Continue reading &rarr;"
 ---
 
 ![](https://www.oldsaltblog.com/wp-content/uploads/2025/11/fakeadmiral.jpg)While it is often said that the British Royal Navy has more admirals than warships, the claim is a misleading simplification. It all depends on how one defines “admirals” and “warships.”

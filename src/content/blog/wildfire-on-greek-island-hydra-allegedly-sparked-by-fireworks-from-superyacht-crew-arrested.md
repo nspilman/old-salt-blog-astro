@@ -1,7 +1,7 @@
 ---
 title: "Wildfire on Greek Island Hydra Allegedly Sparked by Fireworks From Superyacht; Crew Arrested"
 date: 2024-06-24T19:09:35
-slug: wildfire-on-greek-island-hydra-allegedly-sparked-by-fireworks-from-superyacht-crew-arrested
+slug: "wildfire-on-greek-island-hydra-allegedly-sparked-by-fireworks-from-superyacht-crew-arrested"
 excerpt: "The BBC reports that 13 crew members of the superyacht, Persephoni,  have been arrested following a wildfire on the Greek island of Hydra, that authorities allege was sparked by fireworks launched from the yacht. Friday’s blaze burnt through 300 acres … Continue reading &rarr;"
 categories:
   - "Current"

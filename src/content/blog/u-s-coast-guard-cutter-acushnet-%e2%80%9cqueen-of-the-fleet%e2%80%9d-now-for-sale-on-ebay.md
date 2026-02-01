@@ -1,7 +1,7 @@
 ---
-title: "U. S. Coast Guard Cutter Acushnet, “Queen of the Fleet,” Now for Sale on EBay"
+title: "U. S. Coast Guard Cutter Acushnet, \"Queen of the Fleet,\" Now for Sale on EBay"
 date: 2011-10-02T09:58:53
-slug: u-s-coast-guard-cutter-acushnet-%e2%80%9cqueen-of-the-fleet%e2%80%9d-now-for-sale-on-ebay
+slug: "u-s-coast-guard-cutter-acushnet-%e2%80%9cqueen-of-the-fleet%e2%80%9d-now-for-sale-on-ebay"
 excerpt: "Last March we posted that the U. S. Coast Guard Cutter Acushnet,  the oldest commissioned Coast Guard cutter, was being sold in an online auction.   The ship was reportedly sold to an unidentified buyer.  The ship has now been put up for auction on … Continue reading &rarr;"
 categories:
   - "Current"

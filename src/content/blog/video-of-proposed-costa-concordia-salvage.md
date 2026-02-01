@@ -1,7 +1,7 @@
 ---
 title: "Video of Proposed Costa Concordia Salvage"
 date: 2012-05-21T08:47:19
-slug: video-of-proposed-costa-concordia-salvage
+slug: "video-of-proposed-costa-concordia-salvage"
 excerpt: "Last Friday we posted about a presentation made by the Titan-Micoperi consortium detailing their plans to salvage the Costa Concordia from the where she sank on January 13th off the island of Giglio, Italy.  The plan is to build an underwater platform onto which the ship … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Sea Fog Shuts Down Port of Tampa — Cruise Ship Delayed, Voyage Cancelled"
 date: 2015-02-25T15:09:39
-slug: sea-fog-shuts-down-port-of-tampa-cruise-ship-delayed-voyage-cancelled
+slug: "sea-fog-shuts-down-port-of-tampa-cruise-ship-delayed-voyage-cancelled"
 excerpt: "The Port of Tampa was recently closed by the US Coast Guard due to heavy sea fog.  A dozen ships, including the Royal Caribbean cruise ship, Brilliance of the Seas, were delayed offshore for almost two days. Another ten ships were unable … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

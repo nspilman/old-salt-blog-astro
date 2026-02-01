@@ -1,7 +1,7 @@
 ---
 title: "The Unsinkable HMAS Adelaide: Costs Sink Scuttling?"
 date: 2010-12-09T08:38:40
-slug: the-unsinkable-hmas-adelaide-costs-sink-scuttling
+slug: "the-unsinkable-hmas-adelaide-costs-sink-scuttling"
 excerpt: "As difficult as it is to keep ships afloat, sometimes they can be devilishly hard to sink as well.   At least that has been the experience of a group trying to scuttle the decommissioned HMAS Adelaide as an artificial reef and recreational diving site off the central … Continue reading &rarr;"
 categories:
   - "Current"

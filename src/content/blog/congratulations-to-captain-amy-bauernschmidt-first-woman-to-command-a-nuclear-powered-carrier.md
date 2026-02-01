@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Capt. Amy Bauernschmidt, First Woman to Command a Nuclear-Powered Carrier"
 date: 2021-08-27T13:50:09
-slug: congratulations-to-captain-amy-bauernschmidt-first-woman-to-command-a-nuclear-powered-carrier
+slug: "congratulations-to-captain-amy-bauernschmidt-first-woman-to-command-a-nuclear-powered-carrier"
 excerpt: "Capt. Amy Bauernschmidt is now the commanding officer of the aircraft carrier USS Abraham Lincoln — becoming the first woman to lead a nuclear carrier in U.S. Navy history. Bauernschmidt, who previously served as the carrier’s executive officer from 2016-2019, relieved … Continue reading &rarr;"
 categories:
   - "Current"

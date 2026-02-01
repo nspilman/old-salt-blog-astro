@@ -1,8 +1,8 @@
 ---
 title: "Wild Brawl on Carnival Legend Interrupts 10-Day South Pacific Cruise"
 date: 2018-02-17T15:15:20
-slug: wild-brawl-carnival-legend-interrupts-10-day-south-pacific-cruise
-excerpt: "Joseph Conrad once wrote about a conversation with an old sailor who had just signed off a ship. The sailor said something to the effect that “the ship was alright. The problem was the people on it.” The comment seems to … Continue reading &rarr;"
+slug: "wild-brawl-carnival-legend-interrupts-10-day-south-pacific-cruise"
+excerpt: "Joseph Conrad once wrote about a conversation with an old sailor who had just signed off a ship. The sailor said something to the effect that \"the ship was alright. The problem was the people on it.\" The comment seems to … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Carnival Legend"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/02/Carnival-Legend.jpg"
 author: "Rick Spilman"
-description: "Joseph Conrad once wrote about a conversation with an old sailor who had just signed off a ship. The sailor said something to the effect that “the ship was alright. The problem was the people on it.” The comment seems to … Continue reading &rarr;"
+description: "Joseph Conrad once wrote about a conversation with an old sailor who had just signed off a ship. The sailor said something to the effect that \"the ship was alright. The problem was the people on it.\" The comment seems to … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/Carnival-Legend.jpg)Joseph Conrad once wrote about a conversation with an old sailor who had just signed off a ship. The sailor said something to the effect that “the ship was alright. The problem was the people on it.” The comment seems to apply to a recent 10-day South Pacific cruise on the [*Carnival Legend*](https://www.cruisecritic.com/reviews/review.cfm?ShipID=253).  

@@ -1,7 +1,7 @@
 ---
 title: "Pirates Strike Ashore ? British Tourist David Tebbutt Killed and Wife Judith Kidnapped from Kenyan Resort"
 date: 2011-09-12T16:43:21
-slug: pirates-strike-ashore-british-tourist-david-tebbutt-killed-and-wife-judith-kidnapped-from-kenyan-resort
+slug: "pirates-strike-ashore-british-tourist-david-tebbutt-killed-and-wife-judith-kidnapped-from-kenyan-resort"
 excerpt: "British tourists, David and Judith Tebbutt,  arrived at Kiwayu Safari Village, an exclusive Kenyan resort, at 4PM, Saturday.  Between midnight and 4AM, a gang of armed men arrived by speedboat and stormed their beachfront villa.  David Tebbutt, 58, was killed and his wife … Continue reading &rarr;"
 categories:
   - "Current"

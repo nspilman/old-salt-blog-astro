@@ -1,7 +1,7 @@
 ---
-title: "First AC 75 to Capsize — “a Little Whoopsie” on Emirates Team NZ Te Aihe"
+title: "First AC 75 to Capsize — \"a Little Whoopsie\" on Emirates Team NZ Te Aihe"
 date: 2019-12-19T16:24:52
-slug: first-ac-75-to-capsize-a-little-whoopsie-on-emirates-team-nz-te-aihe
+slug: "first-ac-75-to-capsize-a-little-whoopsie-on-emirates-team-nz-te-aihe"
 excerpt: "The new America’s Cup AC75 monohulls flying across the water on foils look like other-worldly beasts to a traditionalist’s eye. How does one sail those things? Very carefully, apparently. The other day, Emirates Team New Zealand was testing their boat, … Continue reading &rarr;"
 categories:
   - "Current"

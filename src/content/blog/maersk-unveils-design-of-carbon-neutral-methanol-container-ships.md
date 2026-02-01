@@ -1,7 +1,7 @@
 ---
 title: "Maersk Unveils Design of Carbon Neutral Methanol Container Ships"
 date: 2021-12-10T15:33:12
-slug: maersk-unveils-design-of-carbon-neutral-methanol-container-ships
+slug: "maersk-unveils-design-of-carbon-neutral-methanol-container-ships"
 excerpt: "Earlier this year we posted Maersk Bets on Methanol — Orders One Feeder and Eight Large Dual Fuel Containerships. The feeder vessel is expected to be delivered in 2023, with the first of the eight 16,000 TEU ships, built by … Continue reading &rarr;"
 categories:
   - "Current"

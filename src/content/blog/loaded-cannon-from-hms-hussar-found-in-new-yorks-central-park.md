@@ -1,7 +1,7 @@
 ---
 title: "Loaded Cannon from HMS Hussar Found In New York’s Central Park"
 date: 2013-01-15T13:48:30
-slug: loaded-cannon-from-hms-hussar-found-in-new-yorks-central-park
+slug: "loaded-cannon-from-hms-hussar-found-in-new-yorks-central-park"
 excerpt: "Workers from New York’s Central Park Conservancy were removing rust from a cannon originally from the British 28 gun frigate HMS Hussar, which sank in New York’s East River in 1780.  After removing a concrete plug from the mouth of the cannon, … Continue reading &rarr;"
 categories:
   - "Current"

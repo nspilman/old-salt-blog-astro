@@ -1,7 +1,7 @@
 ---
 title: "Salvage ship USS Grasp & Hospital ship Comfort on the way to Port-au-Prince"
 date: 2010-01-16T16:58:16
-slug: salvage-ship-uss-grasp-hospital-ship-comfort-on-the-way-to-port-au-prince
+slug: "salvage-ship-uss-grasp-hospital-ship-comfort-on-the-way-to-port-au-prince"
 excerpt: "The US Navy is sending the rescue and salvage ship, USS Grasp, to Port-au-Prince, Haiti with divers and underwater construction personnel to assess the damage to piers and other port facilities. The USNS Comfort, a hospital ship with a capacity … Continue reading &rarr;"
 categories:
   - "Current"

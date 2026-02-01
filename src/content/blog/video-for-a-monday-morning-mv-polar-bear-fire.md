@@ -1,7 +1,7 @@
 ---
 title: "Video for a Monday Morning:  M/V Polar Bear Fire"
 date: 2014-06-23T08:26:03
-slug: video-for-a-monday-morning-mv-polar-bear-fire
+slug: "video-for-a-monday-morning-mv-polar-bear-fire"
 excerpt: "If you are having a lousy Monday, here is a reminder that things could always be worse. Below is a video of $24 million yacht, 102′ long, M/V Polar Bear, which caught fire last Thursday in Chula Vista, near San Diego, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

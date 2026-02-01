@@ -1,7 +1,7 @@
 ---
 title: "An American Dunkirk –  Looking Back on 9/11 Twelve Years Later"
 date: 2013-09-11T09:49:57
-slug: american-dunkirk-looking-back-911-twelve-years-later
+slug: "american-dunkirk-looking-back-911-twelve-years-later"
 excerpt: "Of all the things worth remembering on 9/11, one incredible event is often overlooked.  After the attack, all the bridges, tunnels and rail lines in and out of New York City were shut down. Somewhere between 300,000 and one million people … Continue reading &rarr;"
 categories:
   - "Current"

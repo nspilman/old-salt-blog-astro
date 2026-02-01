@@ -1,7 +1,7 @@
 ---
 title: "Endangered Whale Sharks Threatened by Ship Strikes"
 date: 2022-05-13T17:38:19
-slug: endangered-whale-sharks-threatened-by-ship-strikes
+slug: "endangered-whale-sharks-threatened-by-ship-strikes"
 excerpt: "Ship strikes — collisions between ships and large marine life — are a serious threat to whales and other large marine creatures.  According to the non-profit Friend of the Sea, ship strikes kill more than 20,000 whales every year. Now, … Continue reading &rarr;"
 categories:
   - "Current"

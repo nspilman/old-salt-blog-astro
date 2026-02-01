@@ -1,7 +1,7 @@
 ---
 title: "Update: Mayflower II Moves From Mystic to New London For Sea Trials"
 date: 2020-07-20T16:59:06
-slug: update-mayflower-ii-moves-from-mystic-to-new-london-for-sea-trial
+slug: "update-mayflower-ii-moves-from-mystic-to-new-london-for-sea-trial"
 excerpt: "Today, Mayflower II, a replica of the ship that carried the Pilgrims to Plymouth, MA, was towed to New London, CT for two weeks of sea trials and final outfitting before returning to its homeport in Plymouth. In September of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

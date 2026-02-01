@@ -1,7 +1,7 @@
 ---
 title: "Red Hook Maritime Art & Artifacts for Sale at PortSide NY Fundraiser, Thursday 8/23/12"
 date: 2012-08-19T17:10:04
-slug: red-hook-maritime-artifacts-for-sale-at-portside-fundraiser-thursday-82312
+slug: "red-hook-maritime-artifacts-for-sale-at-portside-fundraiser-thursday-82312"
 excerpt: "If you are anywhere near New York harbor this Thursday, Redhook is the place to be. PortSide NY is vacating its pop-up office/gallery and is selling a fascinating range of art and artifacts. Paintings, photographs and illustrations by contemporary artists … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

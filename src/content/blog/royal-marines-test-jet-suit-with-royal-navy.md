@@ -1,7 +1,7 @@
 ---
 title: "Royal Marines Test Jet Suit With Royal Navy"
 date: 2021-05-06T17:51:29
-slug: royal-marines-test-jet-suit-with-royal-navy
+slug: "royal-marines-test-jet-suit-with-royal-navy"
 excerpt: "The British Royal Navy and Royal Marines recently tested a jet suit developed by the company Gravity Industries. Gravity says its suit can fly up to 80 mph and climb to 12,000 feet in the air. The absolutely amazing footage … Continue reading &rarr;"
 categories:
   - "Current"

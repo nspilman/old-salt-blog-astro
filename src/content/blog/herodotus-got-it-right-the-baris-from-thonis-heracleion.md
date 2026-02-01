@@ -1,7 +1,7 @@
 ---
 title: "Herodotus Got It Right — the Baris from Thonis-Heracleion"
 date: 2019-03-18T15:36:37
-slug: herodotus-got-it-right-the-baris-from-thonis-heracleion
+slug: "herodotus-got-it-right-the-baris-from-thonis-heracleion"
 excerpt: "Six years ago, we posted about the sunken lost city of Thonis-Heracleion in Abu Qir Bay near the Canopic Mouth of the Nile. The city sank into the Mediterranean around 1,2000 years ago and was only rediscovered in 1999. The … Continue reading &rarr;"
 categories:
   - "History"

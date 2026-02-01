@@ -1,8 +1,8 @@
 ---
-title: "Putin and the “Discovery” of his Ancient Jars"
+title: "Putin and the \"Discovery\" of his Ancient Jars"
 date: 2011-10-06T09:56:49
-slug: putin-and-the-discovery-of-his-ancient-jars
-excerpt: "Nothing really surprising about this story but I do find it amusing.  In August, it was reported that Vladimir Putin,  the Prime Minister of Russia and novice scuba diver, just happened to “discover” two jars dating back to the sixth century BCE … Continue reading &rarr;"
+slug: "putin-and-the-discovery-of-his-ancient-jars"
+excerpt: "Nothing really surprising about this story but I do find it amusing.  In August, it was reported that Vladimir Putin,  the Prime Minister of Russia and novice scuba diver, just happened to \"discover\" two jars dating back to the sixth century BCE … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "6th century B.C. Greek jugs"
   - "Vladimir Putin"
 author: "Rick Spilman"
-description: "Nothing really surprising about this story but I do find it amusing.  In August, it was reported that Vladimir Putin,  the Prime Minister of Russia and novice scuba diver, just happened to “discover” two jars dating back to the sixth century BCE … Continue reading &rarr;"
+description: "Nothing really surprising about this story but I do find it amusing.  In August, it was reported that Vladimir Putin,  the Prime Minister of Russia and novice scuba diver, just happened to \"discover\" two jars dating back to the sixth century BCE … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/Putin1.jpg)

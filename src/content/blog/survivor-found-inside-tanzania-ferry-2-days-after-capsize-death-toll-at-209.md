@@ -1,7 +1,7 @@
 ---
 title: "Survivor Found Inside Tanzania Ferry 2 Days After Capsize, Death Toll at 209"
 date: 2018-09-23T11:29:53
-slug: survivor-found-inside-tanzania-ferry-2-days-after-capsize-death-toll-at-209
+slug: "survivor-found-inside-tanzania-ferry-2-days-after-capsize-death-toll-at-209"
 excerpt: "The severely overloaded ferry, MV Nyerere, capsized in Lake Victoria in Tanzania on Thursday. The current death toll stands at 209 people. Two days after the capsize, divers rescued an engineer from an apparent air pocket inside the overturned ferry. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Costa Concordia Update: Search for Missing in Flooded Ship Ends, Salvage Could Take a Year, Cost Could Reach a Billion"
 date: 2012-01-31T15:59:16
-slug: costa-concordia-update-search-for-missing-in-flooded-ship-ends-salvage-could-take-a-year-cost-could-reach-a-billion
+slug: "costa-concordia-update-search-for-missing-in-flooded-ship-ends-salvage-could-take-a-year-cost-could-reach-a-billion"
 excerpt: "The search for the missing in the submerged portions of the Costa Concordia has ended due to concerns for the safety of the rescue workers.  The estimated toll from the sinking stands at 33 dead or missing.  The bodies of … Continue reading &rarr;"
 categories:
   - "Current"

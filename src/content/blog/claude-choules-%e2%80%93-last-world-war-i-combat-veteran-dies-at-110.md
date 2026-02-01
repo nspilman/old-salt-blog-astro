@@ -1,7 +1,7 @@
 ---
 title: "Claude Choules – Last World War I Combat Veteran Dies at 110"
 date: 2011-05-05T08:10:05
-slug: claude-choules-%e2%80%93-last-world-war-i-combat-veteran-dies-at-110
+slug: "claude-choules-%e2%80%93-last-world-war-i-combat-veteran-dies-at-110"
 excerpt: "In March we posted about the birthday of Claude Choules, the last combat veteran of World War I.   He has now died  in Perth, Australia at age 110. Last WWI combat veteran Claude Choules dies aged 110 The world’s last … Continue reading &rarr;"
 categories:
   - "Current"

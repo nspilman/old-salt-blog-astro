@@ -1,7 +1,7 @@
 ---
 title: "Blackwell’s Homecoming by V.E. Ulett — a Review"
 date: 2015-02-05T17:18:35
-slug: blackwells-homecoming-by-v-e-ulett-a-review
+slug: "blackwells-homecoming-by-v-e-ulett-a-review"
 excerpt: "In V.E. Ulett’s new novel, Blackwell’s Homecoming, Captain James Blackwell, his wife Mercedes and their family have returned to Great Britain, after an extended sojourn in the Pacific. Yet, is Britain still their home?  The family is quickly caught up in … Continue reading &rarr;"
 categories:
   - "Critiques"

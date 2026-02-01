@@ -1,7 +1,7 @@
 ---
 title: "Charleston Harbor Fest – Mix of Old and New"
 date: 2011-05-11T17:28:46
-slug: charleston-harbor-fest-mix-of-old-and-new-may-12-15
+slug: "charleston-harbor-fest-mix-of-old-and-new-may-12-15"
 excerpt: "The Charleston Harbor Fest which begins tomorrow and runs through Sunday features a mix of old and new on the water.  The four competing ECO 60 sailboats in the Velux 5 Oceans Around the World Race will be on display as will the three traditional vessels, the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Dramatic Route du Rhum Start — Dismastings, Collisions, & Lightning Strikes"
 date: 2014-11-05T19:53:05
-slug: dramatic-route-du-rhum-start-dismastings-collisions-lightning-strikes
+slug: "dramatic-route-du-rhum-start-dismastings-collisions-lightning-strikes"
 excerpt: "An estimated quarter of a million people lined the docks and the shore at St. Malo in Brittany to watch the start of the Route du Rhum Race, the 4,500 mile trans-Atlantic singlehanded race to Guadeloupe, which is sailed every … Continue reading &rarr;"
 categories:
   - "Current"

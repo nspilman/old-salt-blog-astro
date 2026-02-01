@@ -1,7 +1,7 @@
 ---
 title: "Study Shows Bottom Trawling Releases As Much Carbon As Air Travel"
 date: 2022-01-30T17:34:45
-slug: study-shows-bottom-trawling-releases-as-much-carbon-as-air-travel
+slug: "study-shows-bottom-trawling-releases-as-much-carbon-as-air-travel"
 excerpt: "A ground-breaking study suggests that bottom trawling, a fishing practice in which heavy nets are dragged along the seabed, may be releasing more than a billion metric tons of carbon every year, which is comparable to carbon dioxide produced by … Continue reading &rarr;"
 categories:
   - "Current"

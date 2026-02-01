@@ -1,7 +1,7 @@
 ---
 title: "Car Carrier Baltic Ace Sinks After Collision with Container Ship Corvus J in Shipping Lanes Off Rotterdam"
 date: 2012-12-05T17:18:18
-slug: car-carrier-baltic-ace-sunk-after-collision-with-container-ship-corvus-j-in-shipping-lanes-off-rotterdam
+slug: "car-carrier-baltic-ace-sunk-after-collision-with-container-ship-corvus-j-in-shipping-lanes-off-rotterdam"
 excerpt: "The car carrier, Baltic Ace, is reported to have collided with the container ship, Corvus J, this evening in crowded shipping lanes around 60 miles off the coast of Rotterdam.  The Baltic Ace is believed to have sunk. Her crew of 24 took to … Continue reading &rarr;"
 categories:
   - "Current"

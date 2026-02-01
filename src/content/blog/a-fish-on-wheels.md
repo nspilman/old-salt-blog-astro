@@ -1,7 +1,7 @@
 ---
 title: "A Fish on Wheels"
 date: 2014-02-27T16:36:57
-slug: a-fish-on-wheels
+slug: "a-fish-on-wheels"
 excerpt: "I am not sure why I find this to be so amusing.   Here is a fish controlling a small robotic car by swimming around in a small tank. Thanks to Alaric Bond for passing along the story. As described … Continue reading &rarr;"
 categories:
   - "Current"

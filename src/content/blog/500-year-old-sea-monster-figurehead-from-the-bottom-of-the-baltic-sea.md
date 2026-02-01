@@ -1,7 +1,7 @@
 ---
 title: "500 Year Old Sea Monster Figurehead from the Bottom of the Baltic Sea"
 date: 2015-08-15T07:57:30
-slug: 500-year-old-sea-monster-figurehead-from-the-bottom-of-the-baltic-sea
+slug: "500-year-old-sea-monster-figurehead-from-the-bottom-of-the-baltic-sea"
 excerpt: "Divers exploring the wreck of the Gribshunden have recovered a figurehead of a sea monster with ‘lion ears and crocodile-like mouth’ which has lay on the bottom of the Baltic Sea for roughly 500 years off the coast of Ronneby in southern Sweden. … Continue reading &rarr;"
 categories:
   - "Current"

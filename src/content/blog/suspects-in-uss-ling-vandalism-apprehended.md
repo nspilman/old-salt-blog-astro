@@ -1,7 +1,7 @@
 ---
 title: "Suspects in USS Ling Vandalism Apprehended"
 date: 2018-09-22T09:58:11
-slug: suspects-in-uss-ling-vandalism-apprehended
+slug: "suspects-in-uss-ling-vandalism-apprehended"
 excerpt: "A month after the WWI era submarine USS Ling was vandalized and flooded, two suspects have been apprehended related to at least some of the vandalism. The complaints filed against them by the Hackensack Police may, however, raise more questions … Continue reading &rarr;"
 categories:
   - "Current"

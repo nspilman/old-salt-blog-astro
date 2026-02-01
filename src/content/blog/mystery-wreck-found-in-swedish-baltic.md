@@ -1,8 +1,8 @@
 ---
 title: "Mystery wreck found in Swedish Baltic"
 date: 2011-07-15T20:51:04
-slug: mystery-wreck-found-in-swedish-baltic
-excerpt: "Recently a very interesting shipwreck was discovered in the waters between the islands of Gotland and Öland off the east coast of Sweden.  The article seems to claim that it is the “world’s intact oldest wreck” though most apparently think … Continue reading &rarr;"
+slug: "mystery-wreck-found-in-swedish-baltic"
+excerpt: "Recently a very interesting shipwreck was discovered in the waters between the islands of Gotland and Öland off the east coast of Sweden.  The article seems to claim that it is the \"world’s intact oldest wreck\" though most apparently think … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Ships"
@@ -12,7 +12,7 @@ tags:
   - "ship wreck"
   - "Sweden"
 author: "Rick Spilman"
-description: "Recently a very interesting shipwreck was discovered in the waters between the islands of Gotland and Öland off the east coast of Sweden.  The article seems to claim that it is the “world’s intact oldest wreck” though most apparently think … Continue reading &rarr;"
+description: "Recently a very interesting shipwreck was discovered in the waters between the islands of Gotland and Öland off the east coast of Sweden.  The article seems to claim that it is the \"world’s intact oldest wreck\" though most apparently think … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/34952.jpg)

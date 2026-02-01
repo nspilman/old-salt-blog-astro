@@ -1,7 +1,7 @@
 ---
 title: "Carnival Triumph Update: Coast Guard Says Fuel Line Leak Started Disabling Fire"
 date: 2013-02-19T15:30:49
-slug: carnival-triumph-update-coast-guard-says-fuel-line-leak-started-disabling-fire
+slug: "carnival-triumph-update-coast-guard-says-fuel-line-leak-started-disabling-fire"
 excerpt: "In an announcement that raises as many questions as it answers, U.S. Coast Guard marine casualty investigation team leader, Lt. Cmdr. Teresa Hatfield, said in a conference call with reporters that the fuel oil return line in the No. 6 … Continue reading &rarr;"
 categories:
   - "Current"

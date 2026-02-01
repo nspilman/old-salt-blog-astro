@@ -1,7 +1,7 @@
 ---
 title: "Death on the Historic Ketch Amicitia Caused by Bad Mast Repair?"
 date: 2016-10-06T08:06:32
-slug: death-historic-ketch-amicitia-bad-mast-repair-cause
+slug: "death-historic-ketch-amicitia-bad-mast-repair-cause"
 excerpt: "Germany’s Federal Bureau of Maritime Casualty Investigation has released a preliminary report suggesting that a mast repair on the ketch Amicita may have been the cause of a fatal accident in which three male passengers were struck and killed by … Continue reading &rarr;"
 categories:
   - "Current"

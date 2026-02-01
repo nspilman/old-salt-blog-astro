@@ -1,7 +1,7 @@
 ---
 title: "Update: Sinking of the Cemfjord — Should the Ship Have Been Allowed to Sail?"
 date: 2015-01-06T11:06:24
-slug: update-sinking-of-the-cemfjord-should-the-ship-have-been-allowed-to-sail
+slug: "update-sinking-of-the-cemfjord-should-the-ship-have-been-allowed-to-sail"
 excerpt: "As we posted on Sunday, the passengers on the NorthLink ferry Hrossey, crossing Pentland Firth, off Scotland, saw a grim sight out the ferry windows — the bow of the cement carrier Cemfjord floating vertically in the water. The ship was loaded … Continue reading &rarr;"
 categories:
   - "Current"

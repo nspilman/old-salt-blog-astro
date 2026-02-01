@@ -1,8 +1,8 @@
 ---
-title: "“Ghost Fleets” — US & China Prepare Drones For Sea"
+title: "\"Ghost Fleets\" — US & China Prepare Drones For Sea"
 date: 2020-01-23T17:50:37
-slug: ghost-fleets-us-china-prepare-drones-for-sea
-excerpt: "Both the US Navy and the Chinese Navy are working to develop “ghost fleets” of drone ships. The US Navy has been working on developing unmanned vessels since at least 2016. Four years ago, we posted about Sea Hunter, the … Continue reading &rarr;"
+slug: "ghost-fleets-us-china-prepare-drones-for-sea"
+excerpt: "Both the US Navy and the Chinese Navy are working to develop \"ghost fleets\" of drone ships. The US Navy has been working on developing unmanned vessels since at least 2016. Four years ago, we posted about Sea Hunter, the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "US Navy"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/jari.jpg"
 author: "Rick Spilman"
-description: "Both the US Navy and the Chinese Navy are working to develop “ghost fleets” of drone ships. The US Navy has been working on developing unmanned vessels since at least 2016. Four years ago, we posted about Sea Hunter, the … Continue reading &rarr;"
+description: "Both the US Navy and the Chinese Navy are working to develop \"ghost fleets\" of drone ships. The US Navy has been working on developing unmanned vessels since at least 2016. Four years ago, we posted about Sea Hunter, the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/jari.jpg)

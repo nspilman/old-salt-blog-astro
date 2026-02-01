@@ -1,7 +1,7 @@
 ---
 title: "American Cruise Lines Cancels Cruise After 3 Test Positive for COVID-19"
 date: 2021-07-13T14:20:25
-slug: american-cruise-lines-cancels-cruise-after-3-test-positive-for-covid-19
+slug: "american-cruise-lines-cancels-cruise-after-3-test-positive-for-covid-19"
 excerpt: "US Today reports that American Cruise Lines has canceled the next Alaska cruise on its American Constellation after three people tested positive for COVID-19. The ship took off for a 10-night cruise from Juneau, Alaska on July 4, but the trip … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Not Just the Rum that Kills You — Lead Poisoning in Sailors and Soldiers in the 18th Century West Indies"
 date: 2017-05-19T09:39:50
-slug: not-just-rum-kills-lead-poisoning-sailors-soldiers-18th-century-west-indies
+slug: "not-just-rum-kills-lead-poisoning-sailors-soldiers-18th-century-west-indies"
 excerpt: "For Royal Navy sailors and British soldiers in the West Indies during the 18th century, rum was a refuge for the discomforts of the duties of the day. The rum also may have been killing them. It wasn’t the alcohol, but … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

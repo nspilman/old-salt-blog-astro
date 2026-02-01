@@ -1,7 +1,7 @@
 ---
 title: "Experts race the clock to preserve N.C. Corolla shipwreck"
 date: 2011-01-31T08:14:28
-slug: experts-race-the-clock-to-preserve-n-c-corolla-shipwreck
+slug: "experts-race-the-clock-to-preserve-n-c-corolla-shipwreck"
 excerpt: "Last July, we posted about North Carolina’s oldest shipwreck which was moved to the Graveyard of the Atlantic Museum for preservation.    Now the curators at the museum are trying to learn,as quickly as possible, how to preserve the crumbling … Continue reading &rarr;"
 categories:
   - "Current"

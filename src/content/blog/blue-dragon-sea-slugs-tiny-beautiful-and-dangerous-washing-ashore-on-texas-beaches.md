@@ -1,8 +1,8 @@
 ---
 title: "Blue Dragon Sea Slugs — Tiny, Beautiful and Dangerous — Washing Ashore on Texas Beaches"
 date: 2024-04-17T10:57:58
-slug: blue-dragon-sea-slugs-tiny-beautiful-and-dangerous-washing-ashore-on-texas-beaches
-excerpt: "Tiny, beautiful, and dangerous blue dragon sea slugs are washing ashore on Texas beaches. The words “blue dragon” and “sea slug” do not seem to go together. The image of a dragon, of any color, and a slug just do … Continue reading &rarr;"
+slug: "blue-dragon-sea-slugs-tiny-beautiful-and-dangerous-washing-ashore-on-texas-beaches"
+excerpt: "Tiny, beautiful, and dangerous blue dragon sea slugs are washing ashore on Texas beaches. The words \"blue dragon\" and \"sea slug\" do not seem to go together. The image of a dragon, of any color, and a slug just do … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "texas"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/bluedragon2.jpg"
 author: "Rick Spilman"
-description: "Tiny, beautiful, and dangerous blue dragon sea slugs are washing ashore on Texas beaches. The words “blue dragon” and “sea slug” do not seem to go together. The image of a dragon, of any color, and a slug just do … Continue reading &rarr;"
+description: "Tiny, beautiful, and dangerous blue dragon sea slugs are washing ashore on Texas beaches. The words \"blue dragon\" and \"sea slug\" do not seem to go together. The image of a dragon, of any color, and a slug just do … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/bluedragon2.jpg)Tiny, beautiful, and dangerous blue dragon sea slugs are washing ashore on Texas beaches.

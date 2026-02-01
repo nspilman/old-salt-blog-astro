@@ -1,8 +1,8 @@
 ---
 title: "Executives of $29M Hawaii Tourist Sub Scam Sentenced to Prison"
 date: 2025-08-12T17:19:27
-slug: executives-of-29m-hawaii-tourist-sub-scam-sentenced-to-prison
-excerpt: "Semisub One was billed as “one of the world’s most luxurious high-tech watercraft.” It was promised to be the first of a fleet of sleek, semi-submersible vessels with air-conditioned cabins and panoramic underwater views.   Semisub’s CEO, Curtiss Jackson, and its … Continue reading &rarr;"
+slug: "executives-of-29m-hawaii-tourist-sub-scam-sentenced-to-prison"
+excerpt: "Semisub One was billed as \"one of the world’s most luxurious high-tech watercraft.\" It was promised to be the first of a fleet of sleek, semi-submersible vessels with air-conditioned cabins and panoramic underwater views.   Semisub’s CEO, Curtiss Jackson, and its … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Semisub"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/08/semisub1.jpg"
 author: "Rick Spilman"
-description: "Semisub One was billed as “one of the world’s most luxurious high-tech watercraft.” It was promised to be the first of a fleet of sleek, semi-submersible vessels with air-conditioned cabins and panoramic underwater views.   Semisub’s CEO, Curtiss Jackson, and its … Continue reading &rarr;"
+description: "Semisub One was billed as \"one of the world’s most luxurious high-tech watercraft.\" It was promised to be the first of a fleet of sleek, semi-submersible vessels with air-conditioned cabins and panoramic underwater views.   Semisub’s CEO, Curtiss Jackson, and its … Continue reading &rarr;"
 ---
 
 ![](https://www.oldsaltblog.com/wp-content/uploads/2025/08/semisub1.jpg)[Semisub One was billed as “one of the world’s most luxurious high-tech watercraft.](https://www.tripadvisor.com/Attraction_Review-g60982-d16832528-Reviews-Semisub_Inc-Honolulu_Oahu_Hawaii.html)” It was promised to be the first of a fleet of sleek, semi-submersible vessels with air-conditioned cabins and panoramic underwater views. 

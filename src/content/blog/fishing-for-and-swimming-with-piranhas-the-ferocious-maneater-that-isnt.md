@@ -1,7 +1,7 @@
 ---
 title: "Fishing for and Swimming with Piranhas, the Ferocious Maneater That Isn’t"
 date: 2015-11-02T17:04:44
-slug: fishing-for-and-swimming-with-piranhas-the-ferocious-maneater-that-isnt
+slug: "fishing-for-and-swimming-with-piranhas-the-ferocious-maneater-that-isnt"
 excerpt: "My wife and I recently took a trip on the riverboat MV Amatista from the jungle city of Iquitos upriver on the Amazon to the confluence of the Marañón and Ucayali rivers. Before we left, several friends warned us not … Continue reading &rarr;"
 categories:
   - "Current"

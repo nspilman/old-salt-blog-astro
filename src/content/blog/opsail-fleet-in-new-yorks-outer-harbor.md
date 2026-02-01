@@ -1,7 +1,7 @@
 ---
 title: "OpSail Fleet in New York’s Outer Harbor"
 date: 2012-05-23T07:39:27
-slug: opsail-fleet-in-new-yorks-outer-harbor
+slug: "opsail-fleet-in-new-yorks-outer-harbor"
 excerpt: "Last night I went out to see some of the participating OpSail tall ships in New York’s Outer Harbor.  The trip was organized by the Working Harbor Committee with commentary provided by Richard Taylor and Captain Richard Dorfman.  Click on the … Continue reading &rarr;"
 categories:
   - "Galleries"

@@ -1,7 +1,7 @@
 ---
 title: "Cheap Fokkers"
 date: 2010-03-26T09:58:54
-slug: cheap-fokkers
+slug: "cheap-fokkers"
 excerpt: "OK, I admit it. I am posting this because I like the title of the article. Cheap Fokkers Peru has bought, real cheap, two Dutch maritime reconnaissance aircraft (Fokker 60s). These are slightly longer and heavier versions of the twin … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

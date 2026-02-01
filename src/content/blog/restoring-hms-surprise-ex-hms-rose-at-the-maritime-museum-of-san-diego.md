@@ -1,7 +1,7 @@
 ---
 title: "Restoring HMS Surprise, Ex HMS Rose, at the Maritime Museum of San Diego"
 date: 2019-12-12T19:48:33
-slug: restoring-hms-surprise-ex-hms-rose-at-the-maritime-museum-of-san-diego
+slug: "restoring-hms-surprise-ex-hms-rose-at-the-maritime-museum-of-san-diego"
 excerpt: "Many years ago, I had the good fortune to sail with a volunteer crew of Patrick O’Brian aficionados from New York to Bermuda on the replica frigate HMS Rose. Despite being rather short on wind, it was a memorable voyage. … Continue reading &rarr;"
 categories:
   - "Current"

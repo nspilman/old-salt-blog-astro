@@ -1,7 +1,7 @@
 ---
 title: "Seven Still Sailing in Vendee Globe"
 date: 2017-02-19T16:52:00
-slug: seven-still-sailing-vendee-globe
+slug: "seven-still-sailing-vendee-globe"
 excerpt: "One month ago, French sailor, Armel Le Cléac’h, 39, crossed the finish line at Les Sables d’Olonne, France to win the 8th Vendée Globe. Since then another 10 boats have followed Le Cléac’h across the line. It is a testimony to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

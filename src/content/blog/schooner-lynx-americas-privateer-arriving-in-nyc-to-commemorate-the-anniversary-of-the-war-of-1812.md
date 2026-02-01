@@ -1,8 +1,8 @@
 ---
-title: "Schooner Lynx, “America’s Privateer” Arriving in NYC to Commemorate the Anniversary of the War of 1812"
+title: "Schooner Lynx, \"America’s Privateer\" Arriving in NYC to Commemorate the Anniversary of the War of 1812"
 date: 2012-10-20T12:52:21
-slug: schooner-lynx-americas-privateer-arriving-in-nyc-to-commemorate-the-anniversary-of-the-war-of-1812
-excerpt: "To commemorate the 200th Anniversary of the War of 1812, the schooner Lynx, “America’s Privateer,” will be visiting New York harbor from October 25th through October 31st.  The 122-foot top-sail schooner will sail into North Cove Marina on the Hudson … Continue reading &rarr;"
+slug: "schooner-lynx-americas-privateer-arriving-in-nyc-to-commemorate-the-anniversary-of-the-war-of-1812"
+excerpt: "To commemorate the 200th Anniversary of the War of 1812, the schooner Lynx, \"America’s Privateer,\" will be visiting New York harbor from October 25th through October 31st.  The 122-foot top-sail schooner will sail into North Cove Marina on the Hudson … Continue reading &rarr;"
 categories:
   - "Current"
   - "Ships"
@@ -15,7 +15,7 @@ tags:
   - "top-sail schooner"
   - "War of 1812"
 author: "Rick Spilman"
-description: "To commemorate the 200th Anniversary of the War of 1812, the schooner Lynx, “America’s Privateer,” will be visiting New York harbor from October 25th through October 31st.  The 122-foot top-sail schooner will sail into North Cove Marina on the Hudson … Continue reading &rarr;"
+description: "To commemorate the 200th Anniversary of the War of 1812, the schooner Lynx, \"America’s Privateer,\" will be visiting New York harbor from October 25th through October 31st.  The 122-foot top-sail schooner will sail into North Cove Marina on the Hudson … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/Lynx.jpg)To commemorate the 200th Anniversary of the War of 1812, the [schooner Lynx, “America’s Privateer,”](http://www.privateerlynx.com/) will be visiting New York harbor from October 25th through October 31st.  The 122-foot top-sail schooner will sail into North Cove Marina on the Hudson River in Downtown Manhattan on Thursday, October 25th at 8 am. The schooner will be open for public tours and sails.   [For schedules and tickets click here](http://www.privateerlynx.com/calendar.html). All proceeds help benefit the educational programs taught aboard *Lynx*.

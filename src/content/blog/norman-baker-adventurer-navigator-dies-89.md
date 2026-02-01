@@ -1,7 +1,7 @@
 ---
 title: "Norman Baker — Adventurer & Navigator Dies in Plane Crash at 89"
 date: 2017-12-04T18:55:42
-slug: norman-baker-adventurer-navigator-dies-89
+slug: "norman-baker-adventurer-navigator-dies-89"
 excerpt: "As a teenager growing up in Brooklyn, Norman Baker dreamed of adventure.  And he didn’t just dream. At the age of 13, he won a contest where the first prize was flying lessons. He became an avid pilot and at the age … Continue reading &rarr;"
 categories:
   - "Current"

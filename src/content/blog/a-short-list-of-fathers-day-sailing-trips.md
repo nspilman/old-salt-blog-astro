@@ -1,8 +1,8 @@
 ---
 title: "Father’s Day Sailing Trips"
 date: 2013-06-14T16:19:04
-slug: a-short-list-of-fathers-day-sailing-trips
-excerpt: "Father’s Day is celebrated in the United States on Sunday, June 16th.  Here are a few selected Father’s Day sails which most salty dads are likely to enjoy: New York Harbor – Schooner Shearwater, Father’s Day weekend – “Fathers will be … Continue reading &rarr;"
+slug: "a-short-list-of-fathers-day-sailing-trips"
+excerpt: "Father’s Day is celebrated in the United States on Sunday, June 16th.  Here are a few selected Father’s Day sails which most salty dads are likely to enjoy: New York Harbor – Schooner Shearwater, Father’s Day weekend – \"Fathers will be … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ categories:
 tags:
   - "Father's Day Sailing Trips"
 author: "Rick Spilman"
-description: "Father’s Day is celebrated in the United States on Sunday, June 16th.  Here are a few selected Father’s Day sails which most salty dads are likely to enjoy: New York Harbor – Schooner Shearwater, Father’s Day weekend – “Fathers will be … Continue reading &rarr;"
+description: "Father’s Day is celebrated in the United States on Sunday, June 16th.  Here are a few selected Father’s Day sails which most salty dads are likely to enjoy: New York Harbor – Schooner Shearwater, Father’s Day weekend – \"Fathers will be … Continue reading &rarr;"
 ---
 
 ![Schooner Shearwater](http://www.oldsaltblog.com/wp-content/uploads/2013/06/shearwater2.jpg)

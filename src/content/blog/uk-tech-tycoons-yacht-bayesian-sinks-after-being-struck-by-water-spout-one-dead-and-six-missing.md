@@ -1,7 +1,7 @@
 ---
 title: "UK Tech Tycoon’s Yacht Bayesian Sinks After Being Struck by Water Spout, One Dead and Six Missing"
 date: 2024-08-19T20:30:27
-slug: uk-tech-tycoons-yacht-bayesian-sinks-after-being-struck-by-water-spout-one-dead-and-six-missing
+slug: "uk-tech-tycoons-yacht-bayesian-sinks-after-being-struck-by-water-spout-one-dead-and-six-missing"
 excerpt: "The 56-meter sailing yacht Bayesian sank early Monday morning in severe weather while at anchor off the coast of Sicily. The yacht is believed to have been struck by a waterspout. There were 22 passengers and crew aboard when the … Continue reading &rarr;"
 categories:
   - "Current"

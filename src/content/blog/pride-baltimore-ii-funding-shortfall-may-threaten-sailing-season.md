@@ -1,7 +1,7 @@
 ---
 title: "Pride of Baltimore II Funding Shortfall May Threaten Sailing Season"
 date: 2018-02-07T16:38:09
-slug: pride-baltimore-ii-funding-shortfall-may-threaten-sailing-season
+slug: "pride-baltimore-ii-funding-shortfall-may-threaten-sailing-season"
 excerpt: "In 2016, we posted about a public-private partnership between the State of Maryland and the replica Baltimore clipper, Pride of Baltimore II. It appears likely that the partnership may not be renewed, leaving a $500,000 shortfall in funding which may … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Trucker’s Hitch — What Does the Knot Say?"
 date: 2015-04-25T11:38:14
-slug: truckers-hitch-what-does-the-knot-say
-excerpt: "You may recall the Norwegian comedy team Ylvis from their viral hit, “What Does the Fox Say?,” which was viewed more than a half billion times on Youtube. One of their more recent music videos, released in September, is on … Continue reading &rarr;"
+slug: "truckers-hitch-what-does-the-knot-say"
+excerpt: "You may recall the Norwegian comedy team Ylvis from their viral hit, \"What Does the Fox Say?,\" which was viewed more than a half billion times on Youtube. One of their more recent music videos, released in September, is on … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

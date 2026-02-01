@@ -1,7 +1,7 @@
 ---
 title: "MV Dong Fang Zhi Xing Capsizes in Yangtze — 458 Aboard, Over 430 Missing"
 date: 2015-06-02T09:03:37
-slug: mv-dong-fang-zhi-xing-capsizes-in-yangtze-458-aboard-over-430-missing
+slug: "mv-dong-fang-zhi-xing-capsizes-in-yangtze-458-aboard-over-430-missing"
 excerpt: "Last night, around 9:28 p.m, the river cruise vessel, MV Dong Fang Zhi Xing, capsized in a storm on the Yangtze River while carrying 458 passengers and crew, including 406 elderly Chinese tourists, 47 crew members and five tour guides.  The … Continue reading &rarr;"
 categories:
   - "Current"

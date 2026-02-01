@@ -1,7 +1,7 @@
 ---
 title: "Norwegians to raise toxic German submarine U-864"
 date: 2010-04-06T13:35:11
-slug: norwegians-to-raise-toxic-german-submarine-u-864
+slug: "norwegians-to-raise-toxic-german-submarine-u-864"
 excerpt: "Norwegians to raise submarine The Norwegian Government has announced that the wreck of the WW2 German submarine U-864, which contains 65 tons of mercury, is to be raised, and that the contaminated seabed be covered with clean sand.  The submarine, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

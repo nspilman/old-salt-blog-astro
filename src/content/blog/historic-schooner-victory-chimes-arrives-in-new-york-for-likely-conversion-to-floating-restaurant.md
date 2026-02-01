@@ -1,7 +1,7 @@
 ---
 title: "Historic Schooner Victory Chimes Arrives in New York For Likely Conversion to Floating Restaurant"
 date: 2023-10-16T16:53:42
-slug: historic-schooner-victory-chimes-arrives-in-new-york-for-likely-conversion-to-floating-restaurant
+slug: "historic-schooner-victory-chimes-arrives-in-new-york-for-likely-conversion-to-floating-restaurant"
 excerpt: "Last Wednesday, the 123-year-old Victory Chimes was towed past the Rockland Harbor breakwater, in all likelihood, ending her long and storied carrier as a commercial sailing vessel. This Saturday, she arrived at Pier 25 in Manhattan on the Hudson River, … Continue reading &rarr;"
 categories:
   - "Current"

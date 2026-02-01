@@ -1,7 +1,7 @@
 ---
 title: "Eighty Years Ago, Mulberry Harbors Battle the Storm on the Beaches of Normandy"
 date: 2024-06-21T13:43:29
-slug: eighty-years-ago-mulberry-harbors-battle-the-storm-on-the-beaches-of-normandy
+slug: "eighty-years-ago-mulberry-harbors-battle-the-storm-on-the-beaches-of-normandy"
 excerpt: "Eighty years ago this week, during the early days of the Allied invasion of Europe, the sea would prove to be as formidable an enemy as the Germans. A storm, the worst in 80 years, came close to wiping out … Continue reading &rarr;"
 categories:
   - "History"

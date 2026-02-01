@@ -1,7 +1,7 @@
 ---
 title: "Did an Arsonist Torch the USS Bonhomme Richard?"
 date: 2020-08-27T09:41:07
-slug: did-an-arsonist-torch-the-uss-bonhomme-richard
+slug: "did-an-arsonist-torch-the-uss-bonhomme-richard"
 excerpt: "A fire broke out on the amphibious assault ship USS Bonhomme Richard on July 12 while the ship was dockside at the Naval Base San Diego. Now, the Navy is investigating whether arson was the cause of the fire. A … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

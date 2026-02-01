@@ -1,7 +1,7 @@
 ---
 title: "Remembering and Possibly Rediscovering Cook’s HMS Endeavour"
 date: 2012-06-10T07:59:40
-slug: remembering-and-possibly-rediscovering-cooks-hms-endeavour
+slug: "remembering-and-possibly-rediscovering-cooks-hms-endeavour"
 excerpt: "The recent transit of Venus, the passing of the shadow of the planet Venus across the face of the sun, brought to mind the voyage of Captain Cook in HMS Endeavour in 1768-1771.  Now, archaeologists in Rhode Island believe they may have … Continue reading &rarr;"
 categories:
   - "Current"

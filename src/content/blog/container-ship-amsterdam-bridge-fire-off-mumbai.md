@@ -1,7 +1,7 @@
 ---
 title: "Container Ship Amsterdam Bridge Catches Fire Off Mumbai"
 date: 2012-09-09T16:38:29
-slug: container-ship-amsterdam-bridge-fire-off-mumbai
+slug: "container-ship-amsterdam-bridge-fire-off-mumbai"
 excerpt: "The 4,380 TEU container ship  Amsterdam Bridge caught fire on a voyage between Mumbai to Colombo. The ship returned to Mumbai and is now at an outer anchorage.  Recent reports suggests that the fire is contained if not necessarily completely extinguished. VesselTracker.com is reporting that Coast Guard officials suspect that … Continue reading &rarr;"
 categories:
   - "Current"

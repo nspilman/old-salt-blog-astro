@@ -1,8 +1,8 @@
 ---
 title: "Thomas Boyle, the Chasseur and the Blockade of Britain"
 date: 2011-06-29T18:15:22
-slug: thomas-boyle-the-chasseur-and-the-blockade-of-britain
-excerpt: "Today in 1775 in Marblehead, Massachusetts, Thomas Boyle was born.  Going to sea at age 10, he would become one of the most successful and most famous privateering captains in the War of 1812.  After several successful cruises as captain of the sharp-built “Baltimore clipper” Comet, Boyle … Continue reading &rarr;"
+slug: "thomas-boyle-the-chasseur-and-the-blockade-of-britain"
+excerpt: "Today in 1775 in Marblehead, Massachusetts, Thomas Boyle was born.  Going to sea at age 10, he would become one of the most successful and most famous privateering captains in the War of 1812.  After several successful cruises as captain of the sharp-built \"Baltimore clipper\" Comet, Boyle … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Thomas Boyle"
   - "War of 1812"
 author: "Rick Spilman"
-description: "Today in 1775 in Marblehead, Massachusetts, Thomas Boyle was born.  Going to sea at age 10, he would become one of the most successful and most famous privateering captains in the War of 1812.  After several successful cruises as captain of the sharp-built “Baltimore clipper” Comet, Boyle … Continue reading &rarr;"
+description: "Today in 1775 in Marblehead, Massachusetts, Thomas Boyle was born.  Going to sea at age 10, he would become one of the most successful and most famous privateering captains in the War of 1812.  After several successful cruises as captain of the sharp-built \"Baltimore clipper\" Comet, Boyle … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/boyle.jpg)

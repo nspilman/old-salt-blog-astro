@@ -1,7 +1,7 @@
 ---
 title: "Royal Mail Ship St Helena – Delivery Service for a Remote Island"
 date: 2010-01-27T14:38:26
-slug: royal-mail-ship-st-helena-%e2%80%93-delivery-service-for-a-remote-island
+slug: "royal-mail-ship-st-helena-%e2%80%93-delivery-service-for-a-remote-island"
 excerpt: "Delivery service for the remote island of St Helena The tiny British colony of St Helena in the South Atlantic – the world’s most remote inhabited island – is being hit by Whitehall’s spending cuts.   An airport considered by many … Continue reading &rarr;"
 categories:
   - "Current"

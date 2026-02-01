@@ -1,7 +1,7 @@
 ---
 title: "Update: Gunboat’s New G4 Flying Cruiser!"
 date: 2015-04-14T12:14:23
-slug: update-gunboats-new-g4-flying-cruiser
+slug: "update-gunboats-new-g4-flying-cruiser"
 excerpt: "In December we posted about a new 40′ carbon-fiber racing/cruising catamaran from Gunboat, the G4, that with the optional J foils could fly like an America’s Cup racer. Here now is a video of the G4 being put through the … Continue reading &rarr;"
 categories:
   - "Current"

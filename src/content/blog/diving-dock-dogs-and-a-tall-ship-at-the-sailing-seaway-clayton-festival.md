@@ -1,7 +1,7 @@
 ---
 title: "Diving Dock Dogs and a Tall Ship at the Sailing Seaway Clayton Festival"
 date: 2012-06-12T09:46:20
-slug: diving-dock-dogs-and-a-tall-ship-at-the-sailing-seaway-clayton-festival
+slug: "diving-dock-dogs-and-a-tall-ship-at-the-sailing-seaway-clayton-festival"
 excerpt: "There have been lots of festivals this season with tall ships, but how many can boast dock diving dogs?  Last October, we posted about the new and growing sport of dock dogs, where dogs competing on how far they can jump into the water. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Rotor Sail Testing Begins on Product Tanker Maersk Pelican"
 date: 2018-09-07T16:16:36
-slug: rotor-sails-testing-begins-on-product-tanker-maersk-pelican
+slug: "rotor-sails-testing-begins-on-product-tanker-maersk-pelican"
 excerpt: "Testing has begun on the recently installed rotor sails on the MV Maersk Pelican. The two large cylinders installed on the deck of the 110,000 DWT Long Range 2 product tanker may not look much like sails but may represent … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "The Mystery of the Mahogany Ship"
 date: 2009-10-01T07:13:14
-slug: the-mystery-of-the-mahogany-ship
-excerpt: "Thanks to Dick and Ben Kooyman for passing along this intriguing account of a new search for the legendary “Mahogany ship” which, if found, may rewrite Australian history.  The Mahogany ship is said to be buried beneath the sand in the … Continue reading &rarr;"
+slug: "the-mystery-of-the-mahogany-ship"
+excerpt: "Thanks to Dick and Ben Kooyman for passing along this intriguing account of a new search for the legendary \"Mahogany ship\" which, if found, may rewrite Australian history.  The Mahogany ship is said to be buried beneath the sand in the … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "Peter Christopher"
   - "Victoria"
 author: "Rick Spilman"
-description: "Thanks to Dick and Ben Kooyman for passing along this intriguing account of a new search for the legendary “Mahogany ship” which, if found, may rewrite Australian history.  The Mahogany ship is said to be buried beneath the sand in the … Continue reading &rarr;"
+description: "Thanks to Dick and Ben Kooyman for passing along this intriguing account of a new search for the legendary \"Mahogany ship\" which, if found, may rewrite Australian history.  The Mahogany ship is said to be buried beneath the sand in the … Continue reading &rarr;"
 ---
 
 ![caravel](http://www.oldsaltblog.com/wp-content/uploads/2009/09/caravel.jpg)Thanks to Dick and Ben Kooyman for passing along this intriguing account of a new search for the legendary [“Mahogany ship”](http://en.wikipedia.org/wiki/Mahogany_Ship) which, if found, may rewrite Australian history.  The Mahogany ship is said to be buried beneath the sand in the Armstrong Bay area, approximately 3 to 6 kilometres west of Warrnambool in southwest Victoria, Australia.  The wreck was originally reported in the 1830s and has been suggested to be variously of Portuguese, Spanish, French or Chinese origin.  Many believe the ship to a Portuguese caravel dating from the early 16th century.

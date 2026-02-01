@@ -1,8 +1,8 @@
 ---
 title: "Cape Horn Race — 500 Years After Magellan"
 date: 2018-04-26T16:36:34
-slug: cape-horn-race-500-years-after-magellan
-excerpt: "A new race is being organized for 2019 and 2020 to celebrate the 500th anniversary of the discovery of the Strait of Magellan in 1520. Dubbed the “Cape Horn Race,” it will have four legs: The Cape Horn Transat — Gibraltar … Continue reading &rarr;"
+slug: "cape-horn-race-500-years-after-magellan"
+excerpt: "A new race is being organized for 2019 and 2020 to celebrate the 500th anniversary of the discovery of the Strait of Magellan in 1520. Dubbed the \"Cape Horn Race,\" it will have four legs: The Cape Horn Transat — Gibraltar … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "Cape Horn Race"
   - "Strait of Magellan"
 author: "Rick Spilman"
-description: "A new race is being organized for 2019 and 2020 to celebrate the 500th anniversary of the discovery of the Strait of Magellan in 1520. Dubbed the “Cape Horn Race,” it will have four legs: The Cape Horn Transat — Gibraltar … Continue reading &rarr;"
+description: "A new race is being organized for 2019 and 2020 to celebrate the 500th anniversary of the discovery of the Strait of Magellan in 1520. Dubbed the \"Cape Horn Race,\" it will have four legs: The Cape Horn Transat — Gibraltar … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/04/KCape-Horn-Race-2019-2020-voiles-noires.jpg)A new race is being organized for 2019 and 2020 to celebrate the 500th anniversary of the discovery of the [Strait of Magellan](https://en.wikipedia.org/wiki/Strait_of_Magellan) in 1520. Dubbed the “[Cape Horn Race](https://www.facebook.com/Mediamec/),” it will have four legs:

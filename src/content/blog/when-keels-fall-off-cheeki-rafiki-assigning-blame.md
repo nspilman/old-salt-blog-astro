@@ -1,7 +1,7 @@
 ---
 title: "When Keels Fall Off — Cheeki Rafiki & Assigning Blame"
 date: 2018-05-05T13:21:04
-slug: when-keels-fall-off-cheeki-rafiki-assigning-blame
+slug: "when-keels-fall-off-cheeki-rafiki-assigning-blame"
 excerpt: "When the keel on the Cheeki Rafiki, a Beneteau 40.7 sailing yacht, broke off in a storm in the mid-Atlantic in May 2014, the yacht capsized and four UK sailors died. Why did the keel fall off and who was to blame … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

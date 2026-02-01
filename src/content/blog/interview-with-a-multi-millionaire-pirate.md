@@ -1,8 +1,8 @@
 ---
 title: "Interview with a Multi-millionaire Pirate"
 date: 2011-03-18T15:30:37
-slug: interview-with-a-multi-millionaire-pirate
-excerpt: "The son of a fisherman, who moved on to selling khat, Saeed Yare became a pirate only two years ago and  “earned” over $2.4 million in 2010 in ransom of ships and crews.  It is estimated that piracy is inflicting a $12-billion toll on … Continue reading &rarr;"
+slug: "interview-with-a-multi-millionaire-pirate"
+excerpt: "The son of a fisherman, who moved on to selling khat, Saeed Yare became a pirate only two years ago and  \"earned\" over $2.4 million in 2010 in ransom of ships and crews.  It is estimated that piracy is inflicting a $12-billion toll on … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Saeed Yare"
   - "somalia"
 author: "Rick Spilman"
-description: "The son of a fisherman, who moved on to selling khat, Saeed Yare became a pirate only two years ago and  “earned” over $2.4 million in 2010 in ransom of ships and crews.  It is estimated that piracy is inflicting a $12-billion toll on … Continue reading &rarr;"
+description: "The son of a fisherman, who moved on to selling khat, Saeed Yare became a pirate only two years ago and  \"earned\" over $2.4 million in 2010 in ransom of ships and crews.  It is estimated that piracy is inflicting a $12-billion toll on … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/An-armed-Somali-pirate.-006.jpg)The son of a fisherman, who moved on to selling khat, Saeed Yare became a pirate only two years ago and  “earned” over $2.4 million in 2010 in ransom of ships and crews.  It is estimated that [piracy is inflicting a $12-billion toll on the global economy](http://www.theglobeandmail.com/report-on-business/economy/economy-lab/daily-mix/pirates-inflict-12-billion-toll-on-global-economy/article1936662/).

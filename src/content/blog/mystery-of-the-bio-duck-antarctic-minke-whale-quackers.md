@@ -1,7 +1,7 @@
 ---
 title: "Mystery of the Bio-Duck — Antarctic Minke Whale Quackers"
 date: 2014-04-25T11:48:23
-slug: mystery-of-the-bio-duck-antarctic-minke-whale-quackers
+slug: "mystery-of-the-bio-duck-antarctic-minke-whale-quackers"
 excerpt: "For roughly fifty years, scientists have listened to an unidentified sound in the Southern Ocean, which has been described as a sort of mechanical quacking noise.  It has been come to be known as the bio-duck. The bio-duck quack was first detected by sonar … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

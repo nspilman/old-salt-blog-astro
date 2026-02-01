@@ -1,7 +1,7 @@
 ---
 title: "The Wonderfully Alien Octopus"
 date: 2015-12-03T13:40:17
-slug: the-wonderfully-alien-octopus
+slug: "the-wonderfully-alien-octopus"
 excerpt: "The octopus is a strange and amazing creature, the most intelligent and agile of all invertebrates. (In May, we posted How Does an Octopus Keep Track of Eight Arms?) Recently, scientists mapped the octopus genetic code and discovered that it is … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

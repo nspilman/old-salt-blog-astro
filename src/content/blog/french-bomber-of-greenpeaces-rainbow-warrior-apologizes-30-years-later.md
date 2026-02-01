@@ -1,7 +1,7 @@
 ---
 title: "French Bomber of Greenpeace’s Rainbow Warrior Apologizes 30 Years Later"
 date: 2015-09-06T15:29:32
-slug: french-bomber-of-greenpeaces-rainbow-warrior-apologizes-30-years-later
+slug: "french-bomber-of-greenpeaces-rainbow-warrior-apologizes-30-years-later"
 excerpt: "On July 10, 1985, agents of the French government planted mines and blew up Greenpeace‘s Rainbow Warrior  in the port of Auckland, New Zealand to prevent the ship to be used to protest a planned French nuclear test in Moruroa. Fernando Pereira, a photographer, drowned … Continue reading &rarr;"
 categories:
   - "Current"

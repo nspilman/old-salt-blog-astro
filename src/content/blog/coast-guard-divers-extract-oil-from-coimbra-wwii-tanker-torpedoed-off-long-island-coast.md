@@ -1,7 +1,7 @@
 ---
 title: "Coast Guard Extracts Oil From Coimbra,  WWII Tanker Torpedoed Off Long Island Coast"
 date: 2019-08-04T15:02:40
-slug: coast-guard-divers-extract-oil-from-coimbra-wwii-tanker-torpedoed-off-long-island-coast
+slug: "coast-guard-divers-extract-oil-from-coimbra-wwii-tanker-torpedoed-off-long-island-coast"
 excerpt: "At about 9AM on January 15, 1942, the British tanker Coimbra, bound from Bayonne, NJ for Halifax, laden with 8,038 tons of lubricating oil, sank after being struck by two torpedoes fired by the German submarine U-123 off the southern shore … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: Replica Continental Sloop Providence to be Repaired"
 date: 2016-08-30T10:20:36
-slug: update-replica-continental-sloop-providence-repaired
+slug: "update-replica-continental-sloop-providence-repaired"
 excerpt: "Great news. The replica Continental sloop Providence will be returning to the water. The sloop was seriously damaged when she was blown over in a blizzard in Newport in January 2015.  For some time the future of the vessel was unclear. Recently, … Continue reading &rarr;"
 categories:
   - "Current"

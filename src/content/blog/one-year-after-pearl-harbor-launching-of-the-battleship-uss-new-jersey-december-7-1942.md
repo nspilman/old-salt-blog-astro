@@ -1,7 +1,7 @@
 ---
 title: "One Year After Pearl Harbor — Launching of the Battleship USS New Jersey, December 7, 1942"
 date: 2021-12-07T15:54:47
-slug: one-year-after-pearl-harbor-launching-of-the-battleship-uss-new-jersey-december-7-1942
+slug: "one-year-after-pearl-harbor-launching-of-the-battleship-uss-new-jersey-december-7-1942"
 excerpt: "On this, the 80th anniversary of the Japanese attack on Pearl Harbor, I thought that it might be interesting to look one year forward to gauge how the US responded to the attack. On December 7, 1942, American shipyards launched … Continue reading &rarr;"
 categories:
   - "History"

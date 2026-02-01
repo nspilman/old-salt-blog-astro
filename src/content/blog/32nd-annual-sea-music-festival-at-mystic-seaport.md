@@ -1,7 +1,7 @@
 ---
 title: "32nd Annual Sea Music Festival at Mystic Seaport"
 date: 2011-06-07T14:54:15
-slug: 32nd-annual-sea-music-festival-at-mystic-seaport
+slug: "32nd-annual-sea-music-festival-at-mystic-seaport"
 excerpt: "The 32nd Annual Sea Music Festival at Mystic Seaport starts this Thursday night, June 9th, and runs through Sunday, June 12th.    More than 5,000 people gather each year to hear Mystic Seaport’s Chantey Staff along with a solid core of performers … Continue reading &rarr;"
 categories:
   - "Current"

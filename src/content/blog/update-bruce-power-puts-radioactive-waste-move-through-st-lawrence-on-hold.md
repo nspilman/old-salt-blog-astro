@@ -1,7 +1,7 @@
 ---
 title: "Update: Bruce Power Puts Radioactive Waste Move through St. Lawrence on Hold"
 date: 2011-06-28T21:38:59
-slug: update-bruce-power-puts-radioactive-waste-move-through-st-lawrence-on-hold
+slug: "update-bruce-power-puts-radioactive-waste-move-through-st-lawrence-on-hold"
 excerpt: "Last February we posted about the the Canadian Nuclear Safety Commission approval of a plan for Bruce Power to ship 1,600 tonnes of radioactive waste,  in 16 decommissioned nuclear reactors, across the Great Lakes, though the St. Lawrence Seaway and across the Atlantic … Continue reading &rarr;"
 categories:
   - "Current"

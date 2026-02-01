@@ -1,7 +1,7 @@
 ---
 title: "Repost: The Zong Massacre, General Average and Abolition"
 date: 2022-04-13T10:11:26
-slug: repost-the-zong-massacre-general-average-and-abolition
+slug: "repost-the-zong-massacre-general-average-and-abolition"
 excerpt: "Yesterday we posted about the What, How, & Why of the Ancient Principle of General Average. Here is a repost about a massacre, in which general average was declared involving a shipment of human cargo. On November 29, 1781, the … Continue reading &rarr;"
 categories:
   - "History"

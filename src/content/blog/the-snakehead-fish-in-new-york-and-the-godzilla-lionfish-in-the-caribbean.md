@@ -1,7 +1,7 @@
 ---
 title: "The Snakehead Fish in New York and the ‘Godzilla’ Lionfish in the Caribbean"
 date: 2011-05-08T21:15:14
-slug: the-snakehead-fish-in-new-york-and-the-godzilla-lionfish-in-the-caribbean
+slug: "the-snakehead-fish-in-new-york-and-the-godzilla-lionfish-in-the-caribbean"
 excerpt: "Two recent articles about alien invasive species: The New York Times reports on efforts to stop the smuggling of the Chinese snakehead fish. The fish is considered to be  a delicacy in New York’s Chinatown, but is a voracious predator that can wipe … Continue reading &rarr;"
 categories:
   - "Current"

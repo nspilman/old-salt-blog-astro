@@ -1,7 +1,7 @@
 ---
 title: "World’s Largest Fresh Water Fish, 660 Pounds, Caught and Released in Cambodia’s Mekong River"
 date: 2022-06-22T17:39:10
-slug: worlds-largest-fresh-water-fish-660-pounds-caught-and-released-in-cambodias-mekong-river
+slug: "worlds-largest-fresh-water-fish-660-pounds-caught-and-released-in-cambodias-mekong-river"
 excerpt: "On June 13th, Moul Thun, a 42-year-old fisherman from Kaoh Preah, a remote island in the Mekong River, in northern Cambodia, hooked an exceptionally large giant freshwater stingray. At 4 meters in diameter and weighing 660 pounds (about 300 kilograms) … Continue reading &rarr;"
 categories:
   - "Current"

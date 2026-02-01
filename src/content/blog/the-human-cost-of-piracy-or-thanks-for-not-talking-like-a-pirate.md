@@ -1,8 +1,8 @@
 ---
 title: "The Human Cost of Piracy or Thanks For Not Talking Like a Pirate"
 date: 2012-09-19T08:59:10
-slug: the-human-cost-of-piracy-or-thanks-for-not-talking-like-a-pirate
-excerpt: "Today is the official “Talk Like a Pirate Day.”   Time to celebrate murderous thugs and to imitate characters from Disney amusement park rides.  Oh goodie.  Or maybe not. Today is also an excellent time to consider the very real … Continue reading &rarr;"
+slug: "the-human-cost-of-piracy-or-thanks-for-not-talking-like-a-pirate"
+excerpt: "Today is the official \"Talk Like a Pirate Day.\"   Time to celebrate murderous thugs and to imitate characters from Disney amusement park rides.  Oh goodie.  Or maybe not. Today is also an excellent time to consider the very real … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "piracy"
   - "somalia"
 author: "Rick Spilman"
-description: "Today is the official “Talk Like a Pirate Day.”   Time to celebrate murderous thugs and to imitate characters from Disney amusement park rides.  Oh goodie.  Or maybe not. Today is also an excellent time to consider the very real … Continue reading &rarr;"
+description: "Today is the official \"Talk Like a Pirate Day.\"   Time to celebrate murderous thugs and to imitate characters from Disney amusement park rides.  Oh goodie.  Or maybe not. Today is also an excellent time to consider the very real … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/An-armed-Somali-pirate.-006-100x87.jpg)Today is the official “[Talk Like a Pirate Day](http://www.talklikeapirate.com/piratehome.html).”   Time to celebrate murderous thugs and to imitate characters from Disney amusement park rides.  Oh goodie.  Or maybe not. Today is also an excellent time to consider the very real human cost of piracy and to remember the more than [1,200 merchant seafarers who were captured and held hostage](http://www.businessweek.com/news/2012-09-14/somali-pirate-hostages-climb-above-1-200-as-violence-escalates) off the Horn of Africa last year.

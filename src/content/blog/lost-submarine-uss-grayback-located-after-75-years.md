@@ -1,7 +1,7 @@
 ---
 title: "Lost Submarine USS Grayback Located After 75 Years"
 date: 2019-11-11T09:38:34
-slug: lost-submarine-uss-grayback-located-after-75-years
+slug: "lost-submarine-uss-grayback-located-after-75-years"
 excerpt: "The submarine USS Grayback, one of the most successful US Navy submarines in World War II, has been located in 1,400 feet of water off Okinawa. The submarine was sunk in February 1944, on her tenth war patrol after sinking … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Mystic Seaport Museum Closing, Lays Off 199 Employees"
 date: 2020-04-01T09:57:10
-slug: mystic-seaport-museum-closing-lays-off-199-employees
+slug: "mystic-seaport-museum-closing-lays-off-199-employees"
 excerpt: "Sadly, this is not an April Fools joke. The Mystic Seaport Museum is another casualty of Covid-19, at least for the duration of the pandemic. The Hartford Courant reports that as of today the museum is closing indefinitely and laying … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

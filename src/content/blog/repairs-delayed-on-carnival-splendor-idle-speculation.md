@@ -1,7 +1,7 @@
 ---
 title: "Repairs delayed on Carnival Splendor – Idle Speculation"
 date: 2010-12-15T16:13:21
-slug: repairs-delayed-on-carnival-splendor-idle-speculation
+slug: "repairs-delayed-on-carnival-splendor-idle-speculation"
 excerpt: "Carnival Cruise Line posted the following today on their website: Carnival Cruise Lines has cancelled additional departures of the Carnival Splendor including the January 16, 23, 30 and February 6 and 13, 2011 voyages to allow for additional repair time … Continue reading &rarr;"
 categories:
   - "Current"

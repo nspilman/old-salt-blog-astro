@@ -1,7 +1,7 @@
 ---
 title: "Someone Must be on Drugs – Ship Owner Sues Pharmacy in 2007 SF Bay Spill"
 date: 2012-04-26T16:24:52
-slug: someone-must-be-on-drugs-ship-owner-sues-pharmacy-in-2007-sf-bay-spill
+slug: "someone-must-be-on-drugs-ship-owner-sues-pharmacy-in-2007-sf-bay-spill"
 excerpt: "You can’t make this stuff up.  A container ship owner and ship manager are suing a California pharmacy for selling prescription drugs to a harbor pilot prior to an allision with a bridge five years ago. On a very foggy morning in … Continue reading &rarr;"
 categories:
   - "Current"

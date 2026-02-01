@@ -1,7 +1,7 @@
 ---
 title: "USS Zumwalt is Too Stealthy — Adding Radar Reflectors"
 date: 2016-04-12T18:06:32
-slug: uss-zumwalt-stealthy-adding-radar-reflectors
+slug: "uss-zumwalt-stealthy-adding-radar-reflectors"
 excerpt: "The Navy’s newest destroyer, the $7.5 billion USS Zumwalt, is designed to be stealthy. The ship is intended to be 50 times harder to detect on radar than current destroyers thanks to its angular shape and other design features. This is turning … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Happy Columbus Day – Thoughts on What Columbus Was and Was Not"
 date: 2010-10-11T08:53:35
-slug: happy-columbus-day-what-columbus-was-and-was-not
+slug: "happy-columbus-day-what-columbus-was-and-was-not"
 excerpt: "Today is Columbus Day in the United States (and Thanksgiving Day in Canada. Happy Thanksgiving Canadians.)  Columbus Day is celebrated tomorrow in Spain. Every year about this time,  various scholars and pundits emerge to denigrate the memory of the Genoese naviator and explorer.   There were indeed many things … Continue reading &rarr;"
 categories:
   - "History"

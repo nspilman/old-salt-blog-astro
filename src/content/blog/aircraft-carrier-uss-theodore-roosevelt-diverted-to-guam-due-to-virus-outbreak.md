@@ -1,8 +1,8 @@
 ---
 title: "Aircraft Carrier USS Theodore Roosevelt Diverted to Guam Due to Virus Outbreak"
 date: 2020-03-27T10:04:16
-slug: aircraft-carrier-uss-theodore-roosevelt-diverted-to-guam-due-to-virus-outbreak
-excerpt: "The U.S. Navy aircraft carrier USS Theodore Roosevelt (CVN-71) has diverted to Guam following an outbreak of coronavirus onboard. Following initial news of three infected sailors, the number of cases is now said to have risen to “dozens.”  The sailors … Continue reading &rarr;"
+slug: "aircraft-carrier-uss-theodore-roosevelt-diverted-to-guam-due-to-virus-outbreak"
+excerpt: "The U.S. Navy aircraft carrier USS Theodore Roosevelt (CVN-71) has diverted to Guam following an outbreak of coronavirus onboard. Following initial news of three infected sailors, the number of cases is now said to have risen to \"dozens.\"  The sailors … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "USS Theodore Roosevelt"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/usstheodoreroosevelt.jpg"
 author: "Rick Spilman"
-description: "The U.S. Navy aircraft carrier USS Theodore Roosevelt (CVN-71) has diverted to Guam following an outbreak of coronavirus onboard. Following initial news of three infected sailors, the number of cases is now said to have risen to “dozens.”  The sailors … Continue reading &rarr;"
+description: "The U.S. Navy aircraft carrier USS Theodore Roosevelt (CVN-71) has diverted to Guam following an outbreak of coronavirus onboard. Following initial news of three infected sailors, the number of cases is now said to have risen to \"dozens.\"  The sailors … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/usstheodoreroosevelt.jpg)The U.S. Navy aircraft carrier [USS *Theodore Roosevelt* (CVN-71)](https://en.wikipedia.org/wiki/USS_Theodore_Roosevelt_\(CVN-71\)) has diverted to Guam following an outbreak of coronavirus onboard. Following initial news of three infected sailors, the number of cases is now said to have risen to “[dozens.](https://www.nbcnews.com/news/us-news/coronavirus-outbreak-diverts-navy-aircraft-carrier-guam-all-5-000-n1169726)”  The sailors infected with the virus have been airlifted to a naval medical hospital on Guam. The infected sailors are reported to have mild cases of the virus and have not required hospitalization. 

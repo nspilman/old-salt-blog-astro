@@ -1,7 +1,7 @@
 ---
 title: "Commemorating 9/11 Boatlift After 20 Years — Flotilla on the Hudson & Anniversary Tribute Ashore"
 date: 2021-09-09T14:51:17
-slug: commemorating-9-11-boatlift-after-20-years-flotilla-on-the-hudson-anniversary-tribute-ashore
+slug: "commemorating-9-11-boatlift-after-20-years-flotilla-on-the-hudson-anniversary-tribute-ashore"
 excerpt: "Tomorrow, two events will commemorate the 20th anniversary of the 9/11 boatlift, in which an estimated 500,00 people were rescued from Lower Manhattan following the attacks of 9/11.  We recently posted about the Flotilla and Blessing of the Fleet hosted … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Tallship Soren Larsen – New Zealand March 2011"
 date: 2011-03-23T08:00:56
-slug: tallship-soren-larsen-new-zealand-march-2011
+slug: "tallship-soren-larsen-new-zealand-march-2011"
 excerpt: "The calendar says that Spring is here on the banks of the Hudson River, but it is nevertheless snowing outside.  On mornings like this it is good to be reminded of warm seas and white sails. The good folks on the Soren Larsen … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

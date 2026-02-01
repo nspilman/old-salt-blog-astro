@@ -1,7 +1,7 @@
 ---
 title: "Video for a Saturday Morning – Launch of HMS Bounty – Boothbay Harbor Shipyard"
 date: 2012-10-20T08:08:33
-slug: video-for-a-saturday-morning-launch-of-hms-bounty-boothbay-harbor-shipyard
+slug: "video-for-a-saturday-morning-launch-of-hms-bounty-boothbay-harbor-shipyard"
 excerpt: "A relaxing video for a Saturday morning. HMS Bounty slides gracefully back into the water at Boothbay HArbor Shipyard last Thursday.  Thanks to Tom Russell on the Linked-in Traditional Sail Professionals group for pointing it out.  In other news, HMS Bounty will be returning … Continue reading &rarr;"
 categories:
   - "Current"

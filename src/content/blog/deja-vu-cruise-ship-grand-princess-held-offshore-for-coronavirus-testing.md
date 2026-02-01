@@ -1,8 +1,8 @@
 ---
 title: "Déjà Vu — Cruise Ship Grand Princess Held Offshore For Coronavirus Testing"
 date: 2020-03-05T13:28:46
-slug: deja-vu-cruise-ship-grand-princess-held-offshore-for-coronavirus-testing
-excerpt: "Yogi Berra is alleged to have said, “It’s like déjà vu all over again.” News of another cruise ship in limbo over the coronavirus feels that way.  On February 5th, we posted about the Diamond Princess, a cruise ship that … Continue reading &rarr;"
+slug: "deja-vu-cruise-ship-grand-princess-held-offshore-for-coronavirus-testing"
+excerpt: "Yogi Berra is alleged to have said, \"It’s like déjà vu all over again.\" News of another cruise ship in limbo over the coronavirus feels that way.  On February 5th, we posted about the Diamond Princess, a cruise ship that … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -16,7 +16,7 @@ tags:
   - "testing"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/grandprincess2.jpg"
 author: "Rick Spilman"
-description: "Yogi Berra is alleged to have said, “It’s like déjà vu all over again.” News of another cruise ship in limbo over the coronavirus feels that way.  On February 5th, we posted about the Diamond Princess, a cruise ship that … Continue reading &rarr;"
+description: "Yogi Berra is alleged to have said, \"It’s like déjà vu all over again.\" News of another cruise ship in limbo over the coronavirus feels that way.  On February 5th, we posted about the Diamond Princess, a cruise ship that … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/grandprincess2.jpg)Yogi Berra is alleged to have said, “It’s like déjà vu all over again.” News of another cruise ship in limbo over the coronavirus feels that way. 

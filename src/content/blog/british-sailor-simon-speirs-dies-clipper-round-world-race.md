@@ -1,7 +1,7 @@
 ---
 title: "British Sailor, Simon Speirs, Dies in Clipper Round the World Race"
 date: 2017-11-19T10:00:40
-slug: british-sailor-simon-speirs-dies-clipper-round-world-race
+slug: "british-sailor-simon-speirs-dies-clipper-round-world-race"
 excerpt: "Simon Speirs, a 60 year old sailor from Bristol, UK, has died in the Clipper Round the World Race. On Saturday, Speirs,  was washed overboard while handling sails on the foredeck of the Clipper CV30 Great Britain, while sailing in … Continue reading &rarr;"
 categories:
   - "Current"

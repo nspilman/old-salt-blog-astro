@@ -1,7 +1,7 @@
 ---
 title: "VindØ – The World’s First Energy Island To Be Built Off Denmark"
 date: 2021-05-01T09:14:00
-slug: vindo-the-worlds-first-energy-island-to-be-built-off-denmark
+slug: "vindo-the-worlds-first-energy-island-to-be-built-off-denmark"
 excerpt: "Denmark is planning on building three offshore wind farms with 200 turbines with a 3 GW capacity 100 kilometers off the coast in the North Sea.  Later phases of the project include an additional seven wind farms with 470 turbines.  … Continue reading &rarr;"
 categories:
   - "Current"

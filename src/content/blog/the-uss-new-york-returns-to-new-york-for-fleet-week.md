@@ -1,7 +1,7 @@
 ---
 title: "The USS New York Returns to New York for Fleet Week"
 date: 2011-05-24T07:47:08
-slug: the-uss-new-york-returns-to-new-york-for-fleet-week
+slug: "the-uss-new-york-returns-to-new-york-for-fleet-week"
 excerpt: "Tomorrow the USS New York returns to the Hudson River to help kick off Fleet Week New York.  The USS New York (LPD-21) is the fifth San Antonio-class amphibious transport dock ship and is the seventh ship of the United States … Continue reading &rarr;"
 categories:
   - "Current"

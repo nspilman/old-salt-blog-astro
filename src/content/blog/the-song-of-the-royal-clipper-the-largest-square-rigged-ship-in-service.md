@@ -1,7 +1,7 @@
 ---
 title: "The Song of the Royal Clipper –  the World’s Largest Square-Rigged Sailing Ship"
 date: 2012-09-23T11:51:13
-slug: the-song-of-the-royal-clipper-the-largest-square-rigged-ship-in-service
+slug: "the-song-of-the-royal-clipper-the-largest-square-rigged-ship-in-service"
 excerpt: "We have posted about new ventures to return commercial sail to the seas, including the brigantine Tres Hombres and the ketch Irene. We have posted about new designs for large ships from rigid sails to the Dyna-rig, as well as … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Pamela Talese and the Open Studio Tour at the Brooklyn Navy Yard"
 date: 2012-10-05T11:25:16
-slug: pamela-talese-and-the-open-studio-tour-at-the-brooklyn-navy-yard
+slug: "pamela-talese-and-the-open-studio-tour-at-the-brooklyn-navy-yard"
 excerpt: "For close to two hundred years, the Brooklyn Navy Yard was a center for shipbuilding. These days the sprawling site is home to a museum as well as a wide range of light industry. It is also host to quite … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Grounding of the Shen Neng 1 – the Aftermath"
 date: 2010-04-14T15:39:23
-slug: grounding-of-the-shen-neng-1-%e2%80%93-the-aftermath
+slug: "grounding-of-the-shen-neng-1-%e2%80%93-the-aftermath"
 excerpt: "The collier Shen Neng 1 has been refloated and removed from Australia’s Great Barrier Reef where it grounded ten days ago.   In its wake it has left severe damage to the reef.  As reported by the BBC:  The Australian authorities have … Continue reading &rarr;"
 categories:
   - "Current"

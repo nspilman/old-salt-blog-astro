@@ -1,7 +1,7 @@
 ---
 title: "Update: Chinese Vessel Did More Damage to Tubbataha Reef than USS Guardian"
 date: 2013-05-04T16:51:54
-slug: update-chinese-vessel-did-more-damage-to-tubbataha-reef-than-uss-guardian
+slug: "update-chinese-vessel-did-more-damage-to-tubbataha-reef-than-uss-guardian"
 excerpt: "Despite being smaller than the USS Guardian and spending less time aground on the Tubbataha reef, the Chinese fishing vessel F/V Min Long Yu, which ran aground on the protected reef on April 8, apparently did more damage than the US Navy minesweeper.  In addition … Continue reading &rarr;"
 categories:
   - "Current"

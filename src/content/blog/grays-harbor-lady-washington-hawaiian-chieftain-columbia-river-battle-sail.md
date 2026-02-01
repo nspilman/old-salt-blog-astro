@@ -1,7 +1,7 @@
 ---
 title: "Grays Harbor Lady Washington & Hawaiian Chieftain: Columbia River Battle Sail"
 date: 2020-01-26T17:42:41
-slug: grays-harbor-lady-washington-hawaiian-chieftain-columbia-river-battle-sail
+slug: "grays-harbor-lady-washington-hawaiian-chieftain-columbia-river-battle-sail"
 excerpt: "The tall ships from Grays Harbor Historical Seaport Authority, Lady Washington and the Hawaiian Chieftain, engage in a mock battle sail. A wonderful video by GHHSAmedia from about a decade ago. Lady Washington/Hawaiian Chieftain: Columbia River Battle Sail … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

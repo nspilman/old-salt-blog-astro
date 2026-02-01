@@ -1,8 +1,8 @@
 ---
 title: "Barque Picton Castle Goes Into Drydock"
 date: 2012-03-14T17:26:16
-slug: barque-picton-castle-going-into-drydock
-excerpt: "In preparation for a busy summer of sailing and an upcoming Atlantic voyage, the barque Picton Castle was hauled up on the marine railway at Lunenburg Foundry today. PICTON CASTLE Going Into Drydock March 14, 2012 [iframe: width=”560″ height=”315″ src=”http://www.youtube.com/embed/rg_3HbYNF-E” … Continue reading &rarr;"
+slug: "barque-picton-castle-going-into-drydock"
+excerpt: "In preparation for a busy summer of sailing and an upcoming Atlantic voyage, the barque Picton Castle was hauled up on the marine railway at Lunenburg Foundry today. PICTON CASTLE Going Into Drydock March 14, 2012 [iframe: width=\"560″ height=\"315″ src=\"http://www.youtube.com/embed/rg_3HbYNF-E\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "marine railway"
   - "Picton Castle"
 author: "Rick Spilman"
-description: "In preparation for a busy summer of sailing and an upcoming Atlantic voyage, the barque Picton Castle was hauled up on the marine railway at Lunenburg Foundry today. PICTON CASTLE Going Into Drydock March 14, 2012 [iframe: width=”560″ height=”315″ src=”http://www.youtube.com/embed/rg_3HbYNF-E” … Continue reading &rarr;"
+description: "In preparation for a busy summer of sailing and an upcoming Atlantic voyage, the barque Picton Castle was hauled up on the marine railway at Lunenburg Foundry today. PICTON CASTLE Going Into Drydock March 14, 2012 [iframe: width=\"560″ height=\"315″ src=\"http://www.youtube.com/embed/rg_3HbYNF-E\" … Continue reading &rarr;"
 ---
 
 In preparation for a busy [summer of sailing](http://www.picton-castle.com/voyages/the-voyages/sail-this-summer-2012.html) and an [upcoming Atlantic voyage](http://www.picton-castle.com/voyages/the-voyages/atlantic-voyage-2012-2013.html), the [barque *Picton Castle*](http://www.picton-castle.com/) was hauled up on the marine railway at [Lunenburg Foundry](http://www.lunenburgfoundry.com/) today.

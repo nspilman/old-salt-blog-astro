@@ -1,7 +1,7 @@
 ---
 title: "Over 400 Pilot Whales Beached in New Zealand — Rescue Efforts Ongoing"
 date: 2017-02-10T13:42:48
-slug: 400-pilot-whales-beached-new-zealand-rescue-efforts-ongoing
+slug: "400-pilot-whales-beached-new-zealand-rescue-efforts-ongoing"
 excerpt: "Over 400 pilot whales became stranded after they swam into the shallow waters of Golden Bay, near Farewell Spit, at the northernmost tip of the South Island of New Zealand.  An estimated 300 of the whales have died, as a small … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Last Swift Boat"
 date: 2013-04-26T16:44:36
-slug: the-last-swift-boat
+slug: "the-last-swift-boat"
 excerpt: "There has been lots of interest in the restoration of surviving  World War II PT (Patrol Torpedo) boats. The closest thing to a PT boat in service during the Vietnam War was the PCF, Patrol Craft Fast, better known as the Swift Boat. … Continue reading &rarr;"
 categories:
   - "Current"

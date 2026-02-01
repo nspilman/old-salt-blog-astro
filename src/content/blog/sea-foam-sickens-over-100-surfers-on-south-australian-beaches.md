@@ -1,7 +1,7 @@
 ---
 title: "Sea Foam Sickens Over 100 Surfers on South Australian Beaches"
 date: 2025-03-19T21:11:24
-slug: sea-foam-sickens-over-100-surfers-on-south-australian-beaches
+slug: "sea-foam-sickens-over-100-surfers-on-south-australian-beaches"
 excerpt: "Five years ago, we posted about a surge of sea foam stirred up by severe weather off the east coast of Australia that inundated several beaches. While that foam proved harmless and non-toxic, recent sea foam washing up on Australian … Continue reading &rarr;"
 categories:
   - "Current"

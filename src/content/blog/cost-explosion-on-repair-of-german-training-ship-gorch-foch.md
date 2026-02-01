@@ -1,7 +1,7 @@
 ---
-title: "“Cost Explosion” on Repair of German Training Ship Gorch Foch"
+title: "\"Cost Explosion\" on Repair of German Training Ship Gorch Foch"
 date: 2019-01-16T13:42:00
-slug: cost-explosion-on-repair-of-german-training-ship-gorch-foch
+slug: "cost-explosion-on-repair-of-german-training-ship-gorch-foch"
 excerpt: "In November 2015, the German Navy training ship, Gorch Fock, went into a shipyard for hull repairs. The cost of repairs and refurbishment to the three-masted barque, built in 1958, was budgeted at 9.6 million euros. Repairs were expected to take 17 weeks. Now, over … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Hurricane Earl vs Labor Day Weekend – Will the Schooners Sail?"
 date: 2010-09-02T09:29:38
-slug: hurricane-earl-vs-labor-day-weekend-will-the-schooners-sail
+slug: "hurricane-earl-vs-labor-day-weekend-will-the-schooners-sail"
 excerpt: "Two major maritime festivals on the US East coast, scheduled for the Labor Day weekend, appear to be generally in the path of Hurricane Earl.    The organizers of the  Twenty-Sixth Annual Gloucester Schooner Festival and schooner race and the Camden Windjammer Festival, both … Continue reading &rarr;"
 categories:
   - "Current"

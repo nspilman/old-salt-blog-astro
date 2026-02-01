@@ -1,7 +1,7 @@
 ---
 title: "What is Killing Whales Off New York & New Jersey Coasts? Is Offshore Wind to Blame?"
 date: 2023-01-27T19:30:22
-slug: what-is-killing-whales-off-new-york-new-jersey-coasts-is-offshore-wind-to-blame
+slug: "what-is-killing-whales-off-new-york-new-jersey-coasts-is-offshore-wind-to-blame"
 excerpt: "We recently posted about the burial of the carcass of a beached humpback whale in the beach at Atlantic City, NJ. It was the second whale to come ashore in the city in the last month. Overall nine dead whales … Continue reading &rarr;"
 categories:
   - "Current"

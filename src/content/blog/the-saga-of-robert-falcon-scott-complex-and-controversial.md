@@ -1,7 +1,7 @@
 ---
 title: "The Saga of Robert Falcon Scott – Complex and Controversial"
 date: 2010-06-06T12:25:19
-slug: the-saga-of-robert-falcon-scott-complex-and-controversial
+slug: "the-saga-of-robert-falcon-scott-complex-and-controversial"
 excerpt: "British explorer Robert Falcon Scott was born today in 1868.  He died, along with his four companions, on the way back from the South Pole in 1912.   They had successfully reached the pole, only to learn that they had been beaten … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Spanish Win the Fight for the Mercedes – Judge Orders Odyssey to Return $500 Million in Coins"
 date: 2012-02-08T18:13:53
-slug: spanish-win-the-fight-for-the-mercedes-judge-orders-odyssey-to-return-500-million-in-coins
+slug: "spanish-win-the-fight-for-the-mercedes-judge-orders-odyssey-to-return-500-million-in-coins"
 excerpt: "The Battle of Cape Santa Maria was one of the most controversial naval engagements of the Napoleonic Wars.  The attack on a Spanish treasure fleet on October 5, 1804 by a British squadron, without a declaration of war, was considered to be an act of piracy … Continue reading &rarr;"
 categories:
   - "Current"

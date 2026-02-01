@@ -1,7 +1,7 @@
 ---
 title: "Jubilee Sailing Trust – Tall Ship Sailing Adventures for All"
 date: 2011-06-16T08:00:30
-slug: jubilee-sailing-trust-tall-ship-sailing-adventures-for-all
+slug: "jubilee-sailing-trust-tall-ship-sailing-adventures-for-all"
 excerpt: "A very nicely done video showing the inspiring work being done the Jubilee Sailing Trust.  The Jubilee Sailing Trust  is a registered charity that owns and operates the tallships Lord Nelson and Tenacious, the only two tall ships in the world designed and … Continue reading &rarr;"
 categories:
   - "Current"

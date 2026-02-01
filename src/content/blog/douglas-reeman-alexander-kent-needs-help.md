@@ -1,7 +1,7 @@
 ---
 title: "Douglas Reeman (Alexander Kent) Needs Our Help"
 date: 2016-11-22T08:38:44
-slug: douglas-reeman-alexander-kent-needs-help
+slug: "douglas-reeman-alexander-kent-needs-help"
 excerpt: "Douglas Reeman needs our help. If you have ever read any of the thirty volumes of the nautical adventures of Richard Bolitho, you probably know the author by his pen name, Alexander Kent. In total, Reeman has written close to … Continue reading &rarr;"
 categories:
   - "Current"

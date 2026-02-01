@@ -1,7 +1,7 @@
 ---
 title: "Tacoma Tallships Festival is dead – Australian Wooden Boat Festival on its way February 2011"
 date: 2010-11-16T08:35:02
-slug: australian-wooden-boat-festival-on-its-way-again-february-2011
+slug: "australian-wooden-boat-festival-on-its-way-again-february-2011"
 excerpt: "Bad news and good news.  The Tacoma Tall Ships Organization is no more and the hoped for Tacoma Tall Ships Festival in 2011 will not be happening, a victim of the recession.   On the other side of the globe, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "France & Germany Seize Oligarchs’ Yachts, Others Flee Sanctions"
 date: 2022-03-03T11:48:24
-slug: france-germany-seize-oligarchs-yachts-others-flee-sanctions
+slug: "france-germany-seize-oligarchs-yachts-others-flee-sanctions"
 excerpt: "The net of sanctions is tightening around the superyachts owned by Russian oligarchs. Yesterday, Germany seized the 512-foot yacht Dilbar, valued at nearly $600 million, owned by Russian billionaire Alisher Usmanov, who faces European Union sanctions over Russia’s invasion of … Continue reading &rarr;"
 categories:
   - "Current"

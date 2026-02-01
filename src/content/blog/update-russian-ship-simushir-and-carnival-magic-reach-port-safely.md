@@ -1,7 +1,7 @@
 ---
 title: "Update: Russian Ship Simushir and Carnival Magic Reach Port Safely"
 date: 2014-10-20T08:16:37
-slug: update-russian-ship-simushir-and-carnival-magic-reach-port-safely
+slug: "update-russian-ship-simushir-and-carnival-magic-reach-port-safely"
 excerpt: "Updates on two stories from the weekend: Carnival Magic Back in Galveston —  (See our previous post.) After being refused entry into both Belize and Mexico, the Carnival Magic is back in its home port of Galveston. One passenger aboard the ship was … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

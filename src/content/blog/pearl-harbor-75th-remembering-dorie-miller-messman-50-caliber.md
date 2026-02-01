@@ -1,7 +1,7 @@
 ---
 title: "Pearl Harbor 75th : Remembering Dorie Miller, Messman with a 50 Caliber"
 date: 2016-12-07T10:24:05
-slug: pearl-harbor-75th-remembering-dorie-miller-messman-50-caliber
+slug: "pearl-harbor-75th-remembering-dorie-miller-messman-50-caliber"
 excerpt: "On the 75th anniversary of the Japanese attack on the US naval base at Pearl Harbor, it is a good time to remember Dorie Miller.  Miller was a Navy messman on the battleship USS West Virginia, who showed incredible courage … Continue reading &rarr;"
 categories:
   - "History"

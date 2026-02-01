@@ -1,7 +1,7 @@
 ---
 title: "End Plastic Pollution — UN Agreement to Draft Treaty to Limit Plastics on Land and Sea"
 date: 2022-03-05T18:21:53
-slug: end-plastic-pollution-un-agreement-to-draft-treaty-to-limit-plastics-on-land-and-sea
+slug: "end-plastic-pollution-un-agreement-to-draft-treaty-to-limit-plastics-on-land-and-sea"
 excerpt: "Last week, representatives from 175 nations agreed to begin writing a global treaty that would restrict the explosive growth of plastic pollution on land and sea. The agreement commits nations to work on a broad and legally binding treaty that … Continue reading &rarr;"
 categories:
   - "Current"

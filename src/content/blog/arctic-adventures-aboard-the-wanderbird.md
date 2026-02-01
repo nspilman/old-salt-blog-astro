@@ -1,8 +1,8 @@
 ---
-title: "“Arctic Adventures Aboard the Wanderbird”"
+title: "\"Arctic Adventures Aboard the Wanderbird\""
 date: 2010-11-20T13:18:29
-slug: arctic-adventures-aboard-the-wanderbird
-excerpt: "For anyone around New York harbor this afternoon and evening, Captains Rick and Karen Miles will be presenting a  slide show of  their “Arctic Adventures Aboard the Wanderbird” at 4pm and  7pm  in the Brooklyn Cruise Terminal, Pier 12, Red Hook, Brooklyn. … Continue reading &rarr;"
+slug: "arctic-adventures-aboard-the-wanderbird"
+excerpt: "For anyone around New York harbor this afternoon and evening, Captains Rick and Karen Miles will be presenting a  slide show of  their \"Arctic Adventures Aboard the Wanderbird\" at 4pm and  7pm  in the Brooklyn Cruise Terminal, Pier 12, Red Hook, Brooklyn. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "expedition cruise vessel"
   - "Wanderbird"
 author: "Rick Spilman"
-description: "For anyone around New York harbor this afternoon and evening, Captains Rick and Karen Miles will be presenting a  slide show of  their “Arctic Adventures Aboard the Wanderbird” at 4pm and  7pm  in the Brooklyn Cruise Terminal, Pier 12, Red Hook, Brooklyn. … Continue reading &rarr;"
+description: "For anyone around New York harbor this afternoon and evening, Captains Rick and Karen Miles will be presenting a  slide show of  their \"Arctic Adventures Aboard the Wanderbird\" at 4pm and  7pm  in the Brooklyn Cruise Terminal, Pier 12, Red Hook, Brooklyn. … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/wanderbird1a.jpg)](http://www.wanderbirdcruises.com/index.html)

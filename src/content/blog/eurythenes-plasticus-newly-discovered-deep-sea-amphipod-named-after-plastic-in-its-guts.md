@@ -1,7 +1,7 @@
 ---
 title: "Eurythenes plasticus — Newly Discovered Deep Sea Amphipod Named After Plastic In Its Guts"
 date: 2020-03-06T18:04:07
-slug: eurythenes-plasticus-newly-discovered-deep-sea-amphipod-named-after-plastic-in-its-guts
+slug: "eurythenes-plasticus-newly-discovered-deep-sea-amphipod-named-after-plastic-in-its-guts"
 excerpt: "British researchers have discovered a new species of amphipod. The team from England’s Newcastle University, led by Dr Alan Jamieson, found the shrimp-like crustacean in the Pacific Ocean’s Mariana Trench between Japan and the Philippines and below the Great Pacific … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

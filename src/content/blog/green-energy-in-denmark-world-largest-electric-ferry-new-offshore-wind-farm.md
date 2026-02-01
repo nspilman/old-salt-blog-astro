@@ -1,7 +1,7 @@
 ---
 title: "Green Energy in Denmark — World’s Largest Electric Ferry & New Offshore Wind Farm"
 date: 2019-08-23T17:29:28
-slug: green-energy-in-denmark-world-largest-electric-ferry-new-offshore-wind-farm
+slug: "green-energy-in-denmark-world-largest-electric-ferry-new-offshore-wind-farm"
 excerpt: "Last week, the Ellen, the world’s largest all-electric ferry, completed its maiden voyage in Denmark. From a press release by Leclanché, the provider of the batteries to power the ferry: The world’s largest all-electric ferry, named Eferry Ellen, made its … Continue reading &rarr;"
 categories:
   - "Current"

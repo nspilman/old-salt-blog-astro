@@ -1,7 +1,7 @@
 ---
 title: "The Ten Stack Luxury Superliner!"
 date: 2016-04-01T07:28:41
-slug: ten-stack-super-luxury-liner
+slug: "ten-stack-super-luxury-liner"
 excerpt: "There is a lot going on in the cruise world these days. There is all the talk about returning the SS United States to service, although probably without a steam plant or much of the original ship coming along for … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,8 +1,8 @@
 ---
 title: "Maine Windjammers Face Uncertain Season in Pandemic"
 date: 2020-06-28T10:33:12
-slug: maine-windjammers-face-uncertain-season-with-pandemic
-excerpt: "For decades, schooners referred to as “windjammers” have sailed up and down the Maine coast carrying vacationers from May to October. This year, however, the pandemic has delayed the season and there are concerns that it may not start at … Continue reading &rarr;"
+slug: "maine-windjammers-face-uncertain-season-with-pandemic"
+excerpt: "For decades, schooners referred to as \"windjammers\" have sailed up and down the Maine coast carrying vacationers from May to October. This year, however, the pandemic has delayed the season and there are concerns that it may not start at … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "Windjammer"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/windjammerfleetdock.jpg"
 author: "Rick Spilman"
-description: "For decades, schooners referred to as “windjammers” have sailed up and down the Maine coast carrying vacationers from May to October. This year, however, the pandemic has delayed the season and there are concerns that it may not start at … Continue reading &rarr;"
+description: "For decades, schooners referred to as \"windjammers\" have sailed up and down the Maine coast carrying vacationers from May to October. This year, however, the pandemic has delayed the season and there are concerns that it may not start at … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/windjammerfleetdock.jpg)For decades, schooners referred to as “windjammers” have sailed up and down the Maine coast carrying vacationers from May to October. This year, however, the pandemic has delayed the season and there are concerns that it may not start at all. 

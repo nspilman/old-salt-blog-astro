@@ -1,7 +1,7 @@
 ---
 title: "Vice Adm. Linda Fagan Nominated as U.S. Coast Guard Vice Commandant"
 date: 2021-04-20T08:03:47
-slug: vice-adm-linda-fagan-nominated-as-u-s-coast-guard-vice-commandant
+slug: "vice-adm-linda-fagan-nominated-as-u-s-coast-guard-vice-commandant"
 excerpt: "Vice Adm. Linda L. Fagan was nominated as the next Vice Commandant of the U.S. Coast Guard, the Department of Homeland Security announced on Monday. The nomination by President Biden, pending approval by the U.S. Senate, would make Fagan the … Continue reading &rarr;"
 categories:
   - "Current"

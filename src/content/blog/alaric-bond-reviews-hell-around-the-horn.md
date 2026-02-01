@@ -1,7 +1,7 @@
 ---
 title: "Alaric Bond Reviews Hell Around the Horn"
 date: 2012-09-18T09:54:51
-slug: alaric-bond-reviews-hell-around-the-horn
+slug: "alaric-bond-reviews-hell-around-the-horn"
 excerpt: "It is highly gratifying to have my work reviewed favorably by an author that I admire.  Alaric Bond, author of the Fighting Sail Series, is indeed such an author. (See our review of his latest, The Patriot’s Fate, here.)  Bond recently reviewed … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

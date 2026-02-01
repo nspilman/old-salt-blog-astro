@@ -1,7 +1,7 @@
 ---
 title: "Ships in Bottles — A Bit of the History and Lore"
 date: 2025-05-14T17:45:44
-slug: ships-in-bottles-a-bit-of-the-history-and-lore
+slug: "ships-in-bottles-a-bit-of-the-history-and-lore"
 excerpt: "A Facebook video by my friend Frank Hanavan showing him inserting a ship in a bottle (after the page break) got me thinking about, well, ships in bottles. When, where and why did sailors start putting ships in bottles? After … Continue reading &rarr;"
 categories:
   - "History"

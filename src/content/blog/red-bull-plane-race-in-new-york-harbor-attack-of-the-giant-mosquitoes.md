@@ -1,7 +1,7 @@
 ---
 title: "Red Bull Plane Race in New York Harbor – Attack of the Giant Mosquitoes"
 date: 2010-06-20T07:19:30
-slug: red-bull-plane-race-in-new-york-harbor-attack-of-the-giant-mosquitoes
+slug: "red-bull-plane-race-in-new-york-harbor-attack-of-the-giant-mosquitoes"
 excerpt: "A section of upper New York harbor,  just north of  Ellis Island, has been taken over for the Red Bull Air Race World Championship.   Huge 20 meter air filled pylons sprang up over a three mile course and small, brightly colored … Continue reading &rarr;"
 categories:
   - "Current"

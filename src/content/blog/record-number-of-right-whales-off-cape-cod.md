@@ -1,7 +1,7 @@
 ---
 title: "Record Number of Right Whales off Cape Cod"
 date: 2011-04-22T13:16:42
-slug: record-number-of-right-whales-off-cape-cod
+slug: "record-number-of-right-whales-off-cape-cod"
 excerpt: "I recall many years ago how excited the guide was on a whale watching trip out of Provincetown when we sighted a mother right whale and her calf not long after leaving the dock. I can only imagine how researchers … Continue reading &rarr;"
 categories:
   - "Current"

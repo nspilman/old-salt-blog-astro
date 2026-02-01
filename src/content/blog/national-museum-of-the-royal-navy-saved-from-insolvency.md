@@ -1,7 +1,7 @@
 ---
 title: "National Museum of the Royal Navy ‘Saved from Insolvency’ Due to Virus Lockdown"
 date: 2020-07-26T14:02:41
-slug: national-museum-of-the-royal-navy-saved-from-insolvency
+slug: "national-museum-of-the-royal-navy-saved-from-insolvency"
 excerpt: "The National Museum of the Royal Navy (NMRN) has announced that it has been saved from imminent insolvency by a promise of emergency government funding. The museum group includes Lord Nelson’s flagship HMS Victory and HMS Warrior at Portsmouth Historic … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

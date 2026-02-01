@@ -1,14 +1,14 @@
 ---
-title: "Passengers’ Near-Riot on Norwegian Spirit “Mystical Fjords” Cruise"
+title: "Passengers’ Near-Riot on Norwegian Spirit \"Mystical Fjords\" Cruise"
 date: 2019-10-09T15:24:17
-slug: passengers-mutiny-on-norwegian-spirit-cruise-mystical-fjords-cruise
+slug: "passengers-mutiny-on-norwegian-spirit-cruise-mystical-fjords-cruise"
 excerpt: "Late season cruises have their own inherent risks. In the case of a recent cruise on the Norwegian Spirit these risks were compounded by the remnants of Hurricane Lorenzo, now a post-tropical storm, which was pounding the Atlantic Coast of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - ""Mystical Fjords" Cruise"
+  - "\"Mystical Fjords\" Cruise"
   - "cruise from hell"
   - "Norwegian Spirit"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/norwegian-spirit.jpg"

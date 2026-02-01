@@ -1,7 +1,7 @@
 ---
 title: "Stealth Submarines – Concerns in Asia & Flaking Tiles in the US"
 date: 2010-10-06T07:59:59
-slug: stealth-submarines-concerns-in-asia-flaking-tiles-in-the-us
+slug: "stealth-submarines-concerns-in-asia-flaking-tiles-in-the-us"
 excerpt: "Aren’t all submarines supposed to be stealthy?  I suppose some are stealthier than others.  The South China Morning Post in Hong Kong is reporting concerns by China’s neighbors that China may have already built a stealth submarine.  On the other side of … Continue reading &rarr;"
 categories:
   - "Current"

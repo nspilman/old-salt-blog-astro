@@ -1,7 +1,7 @@
 ---
 title: "Rare Total Lunar Eclipse Tetrad Beginning This Month Across US"
 date: 2014-04-04T07:15:15
-slug: rare-total-lunar-eclipse-tetrad-beginning-this-month-across-us
+slug: "rare-total-lunar-eclipse-tetrad-beginning-this-month-across-us"
 excerpt: "Sailors watching the sky will see a total lunar eclipse on April 15th in the United States. This is the beginning of a rare tetrad, a sequence of four total lunar eclipses, each six months apart. While this will be … Continue reading &rarr;"
 categories:
   - "Current"

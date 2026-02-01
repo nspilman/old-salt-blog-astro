@@ -1,8 +1,8 @@
 ---
 title: "A Super-Hero Suit to Dive on Antikythera Shipwreck"
 date: 2014-09-10T20:36:18
-slug: a-super-hero-suit-to-dive-on-antikythera-shipwreck
-excerpt: "An international team of archaeologists and divers wearing an Exosuit will be diving on the Antikythera shipwreck this month. The suit is described as a part robot and part submarine, and evocative of the suit from the “Iron Man” movies and their … Continue reading &rarr;"
+slug: "a-super-hero-suit-to-dive-on-antikythera-shipwreck"
+excerpt: "An international team of archaeologists and divers wearing an Exosuit will be diving on the Antikythera shipwreck this month. The suit is described as a part robot and part submarine, and evocative of the suit from the \"Iron Man\" movies and their … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "Exosuit"
   - "Greece"
 author: "Rick Spilman"
-description: "An international team of archaeologists and divers wearing an Exosuit will be diving on the Antikythera shipwreck this month. The suit is described as a part robot and part submarine, and evocative of the suit from the “Iron Man” movies and their … Continue reading &rarr;"
+description: "An international team of archaeologists and divers wearing an Exosuit will be diving on the Antikythera shipwreck this month. The suit is described as a part robot and part submarine, and evocative of the suit from the \"Iron Man\" movies and their … Continue reading &rarr;"
 ---
 
 ![exosuit-main1](http://www.oldsaltblog.com/wp-content/uploads/2014/09/exosuit-main1.jpg)An international team of archaeologists and divers wearing an [Exosuit](http://nuytco.com/products/exosuit/) will be diving on the [Antikythera shipwreck](http://en.wikipedia.org/wiki/Antikythera_wreck) this month. The suit is described as a [part robot and part submarine, and evocative of the suit from the “Iron Man” movies and their hero, Tony Stark.](http://www.nytimes.com/2014/09/09/science/a-superhero-of-sorts-in-a-hunt-for-artifacts.html) With the [Exosuit](http://www.thetoc.gr/eng/news/article/archaeology-to-enlist-robot-suit-to-scour-seabed-near-roman-era-antikythera-shipwreck), [divers can descend safely to 1000 feet (300+ m) and stay for hours, without having to decompress](http://antikythera.whoi.edu/technology/exosuit/) on the way back to the surface. It is fitting that the most modern high-tech suit is using to explore the shipwreck that was the source of the most advanced high-tech device know from the ancient world, the [Antikythera mechanism](http://en.wikipedia.org/wiki/Antikythera_mechanism).

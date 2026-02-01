@@ -1,7 +1,7 @@
 ---
 title: "Cutter Lilac Returns to Staten Island as Star of Commericial"
 date: 2015-09-09T21:17:58
-slug: cutter-lilac-returns-to-staten-island-as-star-of-saucy-commericial
+slug: "cutter-lilac-returns-to-staten-island-as-star-of-saucy-commericial"
 excerpt: "In her long and varied career, the historic cutter Lilac has had many jobs. She served as a lighthouse and buoy tender — bringing supplies to lighthouse and maintaining aids to navigation. She also fought ship fires and rescued the keepers on … Continue reading &rarr;"
 categories:
   - "Current"

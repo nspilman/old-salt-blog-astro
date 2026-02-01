@@ -1,7 +1,7 @@
 ---
 title: "Australia Plans Huge Marine Reserve in Coral Sea – Praise and Conflict"
 date: 2012-12-11T18:38:49
-slug: australia-plans-huge-marine-reserve-in-coral-sea-praise-and-conflict
+slug: "australia-plans-huge-marine-reserve-in-coral-sea-praise-and-conflict"
 excerpt: "The government of Australia plans to establish the world’s largest marine reserve in the Coral Sea, covering an area more than one-and-a-half times the size of France. If approved, the Coral Sea reserve, would be approximately 989,842 sq km. While environmentalists have … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

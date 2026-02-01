@@ -1,7 +1,7 @@
 ---
 title: "Fighter Jets Land for the First Time on HMS Queen Elizabeth"
 date: 2018-10-05T09:37:44
-slug: fighter-jets-land-for-the-first-time-on-hms-queen-elizabeth
+slug: "fighter-jets-land-for-the-first-time-on-hms-queen-elizabeth"
 excerpt: "From the BBC:  Fighter jets, specifically F-35 Lightning stealth jets, have landed on the UK’s new £3.1bn aircraft carrier for the first time.  Portsmouth-based HMS Queen Elizabeth was commissioned into the British fleet last year. The crew are currently undergoing sea … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

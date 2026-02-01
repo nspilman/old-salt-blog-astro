@@ -1,7 +1,7 @@
 ---
 title: "Update: Sparta’s Condition Precarious with Help Days Away"
 date: 2011-12-18T09:07:23
-slug: update-spartas-condition-precarious-with-help-days-away
+slug: "update-spartas-condition-precarious-with-help-days-away"
 excerpt: "On Friday we posted about the Russian fishing vessel, Sparta, which was in danger of sinking off the Ross Ice shelf in Antarctica.  The ship with a crew of 32 had been holed five feet below the water line and … Continue reading &rarr;"
 categories:
   - "Current"

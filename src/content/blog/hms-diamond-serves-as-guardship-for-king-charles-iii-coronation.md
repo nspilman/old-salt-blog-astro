@@ -1,7 +1,7 @@
 ---
 title: "HMS Diamond Serves as Royal Guardship For King Charles III’s Coronation"
 date: 2023-05-06T17:27:56
-slug: hms-diamond-serves-as-guardship-for-king-charles-iii-coronation
+slug: "hms-diamond-serves-as-guardship-for-king-charles-iii-coronation"
 excerpt: "HMS Diamond, a Type 45 Royal Navy air-defense destroyer, docked on the River Thames in Greenwich, served as the Royal Guardship during the coronation of King Charles III earlier today. While the purpose of the guard ship is to help … Continue reading &rarr;"
 categories:
   - "Current"

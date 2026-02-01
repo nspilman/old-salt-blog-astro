@@ -1,7 +1,7 @@
 ---
 title: "Sinking of MV Cemfjord with Loss of Eight Entirely Avoidable"
 date: 2016-04-22T08:34:31
-slug: sinking-mv-cemfjord-loss-eight-entirely-avoidable
+slug: "sinking-mv-cemfjord-loss-eight-entirely-avoidable"
 excerpt: "In January of 2015, we posted about the capsize and sinking of the Cyprus-registered cement carrier MV Cemfjord while attempting to navigate the Pentland Firth in extremely rough weather. Eight officers and crew aboard died in the sinking. The UK’s Marine Accident Investigation … Continue reading &rarr;"
 categories:
   - "Current"

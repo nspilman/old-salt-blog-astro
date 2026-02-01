@@ -1,7 +1,7 @@
 ---
 title: "Violent weather in the Eastern Mediterranean – bulk carrier Adriatic sinks and Brilliance of the Seas battered"
 date: 2010-12-12T21:44:57
-slug: violent-weather-in-the-eastern-mediterranean-bulk-carrier-adriatic-sinks-and-brilliance-of-the-seas-battered
+slug: "violent-weather-in-the-eastern-mediterranean-bulk-carrier-adriatic-sinks-and-brilliance-of-the-seas-battered"
 excerpt: "Heavy rains, strong winds and high seas hit the eastern Mediterranean over the weekend with winds of 100 kilometres per hour and waves reaching heights of 10 metres,  sinking the Moldavian bulk carrier, Adriatic, off the coast of Israel and  battering the RCCL cruise ship, Brilliance of … Continue reading &rarr;"
 categories:
   - "Current"

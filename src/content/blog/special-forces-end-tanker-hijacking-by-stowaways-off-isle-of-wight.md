@@ -1,7 +1,7 @@
 ---
-title: "Special Forces End Tanker “Hijacking” by Stowaways Off Isle of Wight"
+title: "Special Forces End Tanker \"Hijacking\" by Stowaways Off Isle of Wight"
 date: 2020-10-26T12:26:37
-slug: special-forces-end-tanker-hijacking-by-stowaways-off-isle-of-wight
+slug: "special-forces-end-tanker-hijacking-by-stowaways-off-isle-of-wight"
 excerpt: "Seven people were detained after British special forces stormed the Liberian registered tanker, Nave Andromeda, that was suspected of having been hijacked off the Isle of Wight. The BBC reports that sixteen members of the Special Boat Service (SBS) ended … Continue reading &rarr;"
 categories:
   - "Current"

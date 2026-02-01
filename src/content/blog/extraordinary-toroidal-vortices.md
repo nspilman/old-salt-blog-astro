@@ -1,7 +1,7 @@
 ---
 title: "Extraordinary Toroidal Vortices"
 date: 2015-01-25T22:26:02
-slug: extraordinary-toroidal-vortices
+slug: "extraordinary-toroidal-vortices"
 excerpt: "A fascinating video of dolphins and whales creating and then playing with bubble rings — toroidal vortices, also known as vortex rings.  (Also a bit of volcanoes blowing smoke rings.) Extraordinary Toroidal Vortices … Continue reading &rarr;"
 categories:
   - "Current"

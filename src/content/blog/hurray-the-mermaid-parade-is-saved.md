@@ -1,7 +1,7 @@
 ---
 title: "Hurray, the Mermaid Parade is Saved!"
 date: 2013-05-31T17:10:52
-slug: hurray-the-mermaid-parade-is-saved
+slug: "hurray-the-mermaid-parade-is-saved"
 excerpt: "The Mermaid Parade is Saved!   Last week, we posted about a Kickstarter Fundraiser to save the Coney Island Mermaid Parade.  The parade, which has been held yearly since 1983, was nearly shut down by Superstorm Storm, which did over $400,000 … Continue reading &rarr;"
 categories:
   - "Current"

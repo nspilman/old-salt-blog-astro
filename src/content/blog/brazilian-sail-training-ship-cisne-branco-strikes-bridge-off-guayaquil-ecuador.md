@@ -1,7 +1,7 @@
 ---
 title: "Brazilian Sail Training Ship Cisne Branco Strikes Bridge Off Guayaquil, Ecuador"
 date: 2021-10-19T16:48:20
-slug: brazilian-sail-training-ship-cisne-branco-strikes-bridge-off-guayaquil-ecuador
+slug: "brazilian-sail-training-ship-cisne-branco-strikes-bridge-off-guayaquil-ecuador"
 excerpt: "While under tow in the Guayas River, near Guayaquil, Ecuador, the 250′ long Brazilian sail training ship Cisne Branco was carried sideways in the current into a pedestrian bridge that connects Guayaquil to Santay Island. The sailing ship damaged its … Continue reading &rarr;"
 categories:
   - "Current"

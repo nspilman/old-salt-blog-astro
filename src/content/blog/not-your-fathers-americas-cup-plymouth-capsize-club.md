@@ -1,7 +1,7 @@
 ---
 title: "Not Your Father’s America’s Cup – Plymouth Capsize Club"
 date: 2011-09-14T15:21:52
-slug: not-your-fathers-americas-cup-plymouth-capsize-club
+slug: "not-your-fathers-americas-cup-plymouth-capsize-club"
 excerpt: "The old days before Facebook or even the internet, the America’s Cup races were sailed on stately 12 meters in the light air of summer off Newport, Rhode Island. The most exciting thing I ever saw a twelve meter do … Continue reading &rarr;"
 categories:
   - "Current"

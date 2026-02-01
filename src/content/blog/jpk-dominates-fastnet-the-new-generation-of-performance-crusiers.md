@@ -1,7 +1,7 @@
 ---
 title: "JPK Dominates Fastnet — the New Generation of Performance Crusiers"
 date: 2015-09-19T17:30:23
-slug: jpk-dominates-fastnet-the-new-generation-of-performance-crusiers
+slug: "jpk-dominates-fastnet-the-new-generation-of-performance-crusiers"
 excerpt: "JPK Composites, a boat builder from Brittany, is helping to redefine performance cruising sailboats. In 2013, the father and son team of Pascal and Alexis Loison won the biannual Fastnet Race on corrected time, sailing their 33′ Night and Day, a JPK … Continue reading &rarr;"
 categories:
   - "Current"

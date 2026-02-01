@@ -1,8 +1,8 @@
 ---
-title: "The Wreck of Shackleton’s “Last Ship” Quest Discovered"
+title: "The Wreck of Shackleton’s \"Last Ship\" Quest Discovered"
 date: 2024-06-12T18:51:12
-slug: the-wreck-of-shackletons-last-ship-quest-discovered
-excerpt: "The wreck of Sir Ernest Shackleton’s “last ship” Quest has been discovered on the seafloor off the coast of Newfoundland, Canada. When I first read the news, I did a double-take. Just over two years ago, the wreck of Shackleton’s … Continue reading &rarr;"
+slug: "the-wreck-of-shackletons-last-ship-quest-discovered"
+excerpt: "The wreck of Sir Ernest Shackleton’s \"last ship\" Quest has been discovered on the seafloor off the coast of Newfoundland, Canada. When I first read the news, I did a double-take. Just over two years ago, the wreck of Shackleton’s … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -10,7 +10,7 @@ categories:
   - "Ships"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/quest.jpg"
 author: "Rick Spilman"
-description: "The wreck of Sir Ernest Shackleton’s “last ship” Quest has been discovered on the seafloor off the coast of Newfoundland, Canada. When I first read the news, I did a double-take. Just over two years ago, the wreck of Shackleton’s … Continue reading &rarr;"
+description: "The wreck of Sir Ernest Shackleton’s \"last ship\" Quest has been discovered on the seafloor off the coast of Newfoundland, Canada. When I first read the news, I did a double-take. Just over two years ago, the wreck of Shackleton’s … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/quest.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Laura Dekker, Singlehanding the Media Circus"
 date: 2011-04-04T17:43:13
-slug: laura-dekker-singlehanding-the-media-circus
+slug: "laura-dekker-singlehanding-the-media-circus"
 excerpt: "Laura Dekker, the 15 year old Dutch sailor who is sailing rather leisurely alone around the world on her yacht Guppy, has been  by all appearances handling the sailing part of her journey without too much difficulty.  If she completes here multi-stop circumnavigation prior … Continue reading &rarr;"
 categories:
   - "Current"

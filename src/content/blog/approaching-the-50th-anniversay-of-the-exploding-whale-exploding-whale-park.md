@@ -1,7 +1,7 @@
 ---
 title: "Approaching the 50th Anniversay of the Exploding Whale — Exploding Whale Park"
 date: 2020-06-21T15:54:21
-slug: approaching-the-50th-anniversay-of-the-exploding-whale-exploding-whale-park
+slug: "approaching-the-50th-anniversay-of-the-exploding-whale-exploding-whale-park"
 excerpt: "Fifty years ago this November,  the residents of Florence, Oregon learned how not to dispose of a dead whale. Now, a half-century later they have named a park after that lesson. The residents have recently chosen to name a local … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

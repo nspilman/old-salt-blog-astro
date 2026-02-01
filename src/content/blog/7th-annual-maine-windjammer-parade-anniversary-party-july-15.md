@@ -1,7 +1,7 @@
 ---
 title: "7th Annual Maine Windjammer Parade & Anniversary Party  July 15"
 date: 2011-07-13T10:17:49
-slug: 7th-annual-maine-windjammer-parade-anniversary-party-july-15
+slug: "7th-annual-maine-windjammer-parade-anniversary-party-july-15"
 excerpt: "In 1936, Frank Swift founded Maine Windjammer Cruises and began chartering or buying old cargo schooners and offering passenger cruises along the Maine Coast.  This Friday, the Maine Windjammer Association will hold the 7th Annual Maine Windjammer Parade & Anniversary Party in honor of Swift’s founding … Continue reading &rarr;"
 categories:
   - "Current"

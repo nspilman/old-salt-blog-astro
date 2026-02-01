@@ -1,7 +1,7 @@
 ---
 title: "Opsail & Fleet Week in Brooklyn – the Portside Guides"
 date: 2012-05-22T12:33:42
-slug: opsail-fleet-week-in-brooklyn-the-portside-guides
+slug: "opsail-fleet-week-in-brooklyn-the-portside-guides"
 excerpt: "Many visitors think of New York as the island of Manhattan.  The City of New York is in fact five boroughs, only one of which is connected to the mainland.  If Brooklyn, the largest borough, had remained an independent city, as … Continue reading &rarr;"
 categories:
   - "Current"

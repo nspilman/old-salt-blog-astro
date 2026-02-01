@@ -1,7 +1,7 @@
 ---
 title: "Weird News – The Floating Feet of the Salish Sea"
 date: 2011-09-01T08:53:15
-slug: weird-news-the-floating-feet-of-the-salish-sea
+slug: "weird-news-the-floating-feet-of-the-salish-sea"
 excerpt: "A human foot wearing a running shoe washed ashore in British Columbia  recently.   It is the eleventh foot to have washed up on the coast of the Salish Sea, the coastal waterways surrounding southern Vancouver Island and Puget Sound, … Continue reading &rarr;"
 categories:
   - "Current"

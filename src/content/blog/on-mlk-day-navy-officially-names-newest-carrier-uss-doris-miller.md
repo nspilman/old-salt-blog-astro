@@ -1,7 +1,7 @@
 ---
 title: "On MLK Day, Navy Officially Names Newest Carrier USS Doris Miller"
 date: 2020-01-20T15:11:16
-slug: on-mlk-day-navy-officially-names-newest-carrier-uss-doris-miller
+slug: "on-mlk-day-navy-officially-names-newest-carrier-uss-doris-miller"
 excerpt: "Today, on Martin Luther King, Jr. Day, the US Navy officially named the newest of the future Gerald R. Ford-class aircraft carriers, not after a president, a senator, an admiral or a historic battlefield. Instead, they named the carrier after … Continue reading &rarr;"
 categories:
   - "Current"

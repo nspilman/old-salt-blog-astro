@@ -1,7 +1,7 @@
 ---
 title: "After Third Shark Attack, NY/NJ Beaches on High Alert"
 date: 2022-07-09T16:59:02
-slug: after-third-shark-attack-ny-nj-beaches-on-high-alert
+slug: "after-third-shark-attack-ny-nj-beaches-on-high-alert"
 excerpt: "The bad news is that there have been three reported shark attacks off New York’s beaches in just over a week. The good news is that the injuries, so far, have been minor. Nevertheless, beaches in New York and along … Continue reading &rarr;"
 categories:
   - "Current"

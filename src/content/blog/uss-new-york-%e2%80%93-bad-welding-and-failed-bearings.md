@@ -1,7 +1,7 @@
 ---
 title: "USS New York – Bad Welding and Failed Bearings"
 date: 2010-01-22T08:00:13
-slug: uss-new-york-%e2%80%93-bad-welding-and-failed-bearings
+slug: "uss-new-york-%e2%80%93-bad-welding-and-failed-bearings"
 excerpt: "In November we posted about the USS New York’s commissioning in its namesake city.  The new  amphibious transport dock ship, the fifth of the San Antonio-class, was built with seven and a half tons of steel from the rubble of the … Continue reading &rarr;"
 categories:
   - "Current"

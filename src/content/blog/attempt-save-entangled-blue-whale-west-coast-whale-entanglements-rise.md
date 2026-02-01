@@ -1,7 +1,7 @@
 ---
 title: "Attempt to Save Entangled Blue Whale as West Coast Whale Entanglements Rise"
 date: 2016-06-28T17:53:25
-slug: attempt-save-entangled-blue-whale-west-coast-whale-entanglements-rise
+slug: "attempt-save-entangled-blue-whale-west-coast-whale-entanglements-rise"
 excerpt: "On Monday, a 70-80 foot long blue whale entangled in crab or fish nets and lines was spotted off the coast of Dana Point in southern California.  A marine mammal rescue team attempted cut the nets and lines to free the … Continue reading &rarr;"
 categories:
   - "Current"

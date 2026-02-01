@@ -1,7 +1,7 @@
 ---
 title: "Sailing the Lugger Greyhound — View From Aloft"
 date: 2013-11-30T14:53:28
-slug: sailing-the-lugger-greyhound-view-from-aloft
+slug: "sailing-the-lugger-greyhound-view-from-aloft"
 excerpt: "Just about two years ago, we posted a time-lapse video of the building of the lugger Greyhound.  The video covers a 45 day building period in about ten minutes, starting from the keel, the raising of the frames to the … Continue reading &rarr;"
 categories:
   - "Current"

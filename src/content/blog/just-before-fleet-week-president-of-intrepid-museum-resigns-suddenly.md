@@ -1,7 +1,7 @@
 ---
 title: "Just Before Fleet Week, President of Intrepid Museum Resigns Suddenly"
 date: 2010-05-21T15:45:13
-slug: just-before-fleet-week-president-of-intrepid-museum-resigns-suddenly
+slug: "just-before-fleet-week-president-of-intrepid-museum-resigns-suddenly"
 excerpt: "Bill White, the longtime president of the Intrepid Sea Air and Space Museum, resigned abruptly on Wednesday morning.   No clear reason was given for his resignation which comes just one week before New York Fleet Week, in which the museum … Continue reading &rarr;"
 categories:
   - "Current"

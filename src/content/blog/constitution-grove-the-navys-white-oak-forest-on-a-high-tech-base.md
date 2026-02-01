@@ -1,7 +1,7 @@
 ---
 title: "Constitution Grove — the Navy’s White Oak Forest on a High Tech Base"
 date: 2020-11-08T09:30:21
-slug: constitution-grove-the-navys-white-oak-forest-on-a-high-tech-base
+slug: "constitution-grove-the-navys-white-oak-forest-on-a-high-tech-base"
 excerpt: "The Royal Navy Admiral Collingwood would famously slip a handful of acorns into his pockets before taking a walk in the woods near his home. He would press an acorn into the soil whenever he saw a good place for … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

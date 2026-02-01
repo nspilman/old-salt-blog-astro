@@ -1,7 +1,7 @@
 ---
 title: "Old Three Toes — The Giant Penguin of Clearwater Beach, Florida"
 date: 2020-09-20T16:43:31
-slug: old-three-toes-the-giant-penguin-of-clearwater-beach-florida
+slug: "old-three-toes-the-giant-penguin-of-clearwater-beach-florida"
 excerpt: "This seems like a suitable post for a Sunday in 2020. On a morning in February 1948, a local beachcomber was walking the beautiful white sand beach in Clearwater, FL, and was shocked to find large three-toed footprints in the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

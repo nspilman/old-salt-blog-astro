@@ -1,7 +1,7 @@
 ---
 title: "Of Kwakiutl Shell Beaches and Beaches of Glass"
 date: 2014-08-24T17:01:31
-slug: of-kwakiutl-shell-beaches-and-beaches-of-glass
+slug: "of-kwakiutl-shell-beaches-and-beaches-of-glass"
 excerpt: "Many years ago my wife and I kayaked with a group in Blackfish Sound off Vancouver. We paddled with orcas by day and by night camped on the many islands of the sound. On several nights, we camped at what had … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: MV Rena – Unloading Containers & Little Blue Penguins Released"
 date: 2011-11-24T15:30:33
-slug: update-mv-rena-removing-containers-little-blue-penguins-released
+slug: "update-mv-rena-removing-containers-little-blue-penguins-released"
 excerpt: "The clean-up continues on the MV Rena which ran  hard aground on Astrolabe Reef near Tauranga, New Zealand on October 5, 2011. The remaining oil has been pumped off and efforts are beginning to remove the container cargo from the stricken ship.  Roughly forty containers have been … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "HMS Erebus Artifacts Provide Glimpse into Franklin Expedition Sailors Lives"
 date: 2020-03-01T17:17:25
-slug: hms-erebus-artifacts-provide-glimpse-into-franklin-expedition-sailors-lives
+slug: "hms-erebus-artifacts-provide-glimpse-into-franklin-expedition-sailors-lives"
 excerpt: "Artifacts recovered during 93 dives by Parks Canada on the wreck of HMS Erebus over three weeks this fall provide a fascinating glimpse into the lives of the officers and sailors on the doomed Franklin Expedition of 1845. More than … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

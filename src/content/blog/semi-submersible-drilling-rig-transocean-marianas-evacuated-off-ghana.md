@@ -1,7 +1,7 @@
 ---
 title: "Semi-Submersible Drilling Rig, Transocean Marianas, Evacuated off Ghana"
 date: 2011-07-06T18:06:59
-slug: semi-submersible-drilling-rig-transocean-marianas-evacuated-off-ghana
+slug: "semi-submersible-drilling-rig-transocean-marianas-evacuated-off-ghana"
 excerpt: "The semi-submersible drilling rig, Transocean Marianas, was preparing to move to a new location off the coast of Ghana when the rig developed a serious list and was in danger of sinking.  The rig, under contract to Italian oil company Eni, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Quadriga — Lloyd’s Register Joins Project to Build Sailing Car-Carrier"
 date: 2017-08-17T12:57:31
-slug: quadriga-llyods-r-joins-project-to-build-sailing-car-carrier
+slug: "quadriga-llyods-r-joins-project-to-build-sailing-car-carrier"
 excerpt: "Lloyd’s Register (LR) announced recently that it has joined the Quadriga sustainable shipping project – an initiative from Hamburg-based Sailing Cargo, which aims to build a sailing car-carrier, which would be the world’s largest sailing cargo ship. The 170-meter long design … Continue reading &rarr;"
 categories:
   - "Current"

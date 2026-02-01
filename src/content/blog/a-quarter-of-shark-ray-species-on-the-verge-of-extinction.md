@@ -1,7 +1,7 @@
 ---
 title: "A Quarter of Shark & Ray Species on the Verge of Extinction"
 date: 2014-01-25T09:11:40
-slug: a-quarter-of-shark-ray-species-on-the-verge-of-extinction
+slug: "a-quarter-of-shark-ray-species-on-the-verge-of-extinction"
 excerpt: "A recent study by the International Union for Conservation of Nature (IUCN) published in the journal eLife suggests that of more than a thousand species of sharks and rays in the world, one in four species are at the brink … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Trafalgar Day plus One – the Smallest Royal Navy Since Henry VIII"
 date: 2010-10-22T08:20:01
-slug: trafalgar-day-plus-one-the-smallest-royal-navy-since-henry-viii
+slug: "trafalgar-day-plus-one-the-smallest-royal-navy-since-henry-viii"
 excerpt: "The announced British budget cuts will slash spending across the board but will hit the Royal Navy hardest of all of the military services. Anchors away: Britain’s once-proud navy falls prey to budget cuts In all the carnage, the worst damage, at least to … Continue reading &rarr;"
 categories:
   - "Current"

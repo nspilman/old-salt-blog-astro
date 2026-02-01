@@ -1,13 +1,13 @@
 ---
 title: "10,000 Square Mile Floating Island in the Pacific"
 date: 2012-08-11T09:05:49
-slug: vast-floating-island-in-the-pacific-and-the-monowai-seamount
-excerpt: "I received an e-mail a few weeks ago with some intriguing photos. (Click on any of the thumbnails above for a larger image.)  The e-mail was titled “AMAZING SIGHT IN THE SOUTH PACIFIC, SPECTACULAR.”  It was one of those e-mails that had been forwarded … Continue reading &rarr;"
+slug: "vast-floating-island-in-the-pacific-and-the-monowai-seamount"
+excerpt: "I received an e-mail a few weeks ago with some intriguing photos. (Click on any of the thumbnails above for a larger image.)  The e-mail was titled \"AMAZING SIGHT IN THE SOUTH PACIFIC, SPECTACULAR.\"  It was one of those e-mails that had been forwarded … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "I received an e-mail a few weeks ago with some intriguing photos. (Click on any of the thumbnails above for a larger image.)  The e-mail was titled “AMAZING SIGHT IN THE SOUTH PACIFIC, SPECTACULAR.”  It was one of those e-mails that had been forwarded … Continue reading &rarr;"
+description: "I received an e-mail a few weeks ago with some intriguing photos. (Click on any of the thumbnails above for a larger image.)  The e-mail was titled \"AMAZING SIGHT IN THE SOUTH PACIFIC, SPECTACULAR.\"  It was one of those e-mails that had been forwarded … Continue reading &rarr;"
 ---
 
 #gallery-1 { margin: auto; } #gallery-1 .gallery-item { float: left; margin-top: 10px; text-align: center; width: 25%; } #gallery-1 img { border: 2px solid #cfcfcf; } #gallery-1 .gallery-caption { margin-left: 0; } /\* see gallery\_shortcode() in wp-includes/media.php \*/

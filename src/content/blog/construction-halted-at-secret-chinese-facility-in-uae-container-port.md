@@ -1,7 +1,7 @@
 ---
 title: "Construction Halted at Secret Chinese Facility in UAE Container Port"
 date: 2021-11-21T14:08:45
-slug: construction-halted-at-secret-chinese-facility-in-uae-container-port
+slug: "construction-halted-at-secret-chinese-facility-in-uae-container-port"
 excerpt: "Following pressure from the United States, work has been halted on what intelligence agencies believe was a secret Chinese military facility under construction in a commercial port in the United Arab Emirates (UAE). The Wall Street Journal reported that satellite imagery … Continue reading &rarr;"
 categories:
   - "Current"

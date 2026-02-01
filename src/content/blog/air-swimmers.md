@@ -1,7 +1,7 @@
 ---
 title: "Air Swimmers"
 date: 2011-09-12T07:54:55
-slug: air-swimmers
+slug: "air-swimmers"
 excerpt: "Have you ever wanted to live in an aquarium?   I have friends who have been flooded recently, who may feel that they do and I strongly suspect that they do not recommend it. Here is an alternative which looks a lot … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

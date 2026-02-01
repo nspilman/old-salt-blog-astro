@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Hurricane Vulnerable & Overdue Cities"
 date: 2010-09-04T08:25:16
-slug: top-5-hurricane-vulnerable-overdue-cities
+slug: "top-5-hurricane-vulnerable-overdue-cities"
 excerpt: "Hurricane Earl, or rather tropical storm Earl, spun its way past New York, far enough out to sea so we  had neither wind nor rain to mark his passing.   Having missed this hurricane,  here is an interesting article on Weather.com that lists the … Continue reading &rarr;"
 categories:
   - "Current"

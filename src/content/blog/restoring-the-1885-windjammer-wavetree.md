@@ -1,7 +1,7 @@
 ---
 title: "Restoring the 1885 Windjammer Wavertree"
 date: 2015-11-04T09:48:43
-slug: restoring-the-1885-windjammer-wavetree
+slug: "restoring-the-1885-windjammer-wavetree"
 excerpt: "The Wavertree, an iron-hulled windjammer built in 1885, has been a museum ship in at New York’s South Street Seaport Museum since 1969. In May, the historic ship shifted to the Caddell Dry Dock in Staten Island to undergo stabilization and restoration. … Continue reading &rarr;"
 categories:
   - "Current"

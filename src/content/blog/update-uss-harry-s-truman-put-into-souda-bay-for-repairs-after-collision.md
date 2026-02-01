@@ -1,8 +1,8 @@
 ---
 title: "Update: USS Harry S. Truman Put into Souda Bay for Repairs After Collision"
 date: 2025-02-16T17:33:24
-slug: update-uss-harry-s-truman-put-into-souda-bay-for-repairs-after-collision
-excerpt: "USS Harry S. Truman, the Nimitz-class aircraft carrier that collided with the merchant bulk carrier M/V Besiktas-M off the coast of Egypt, put into Souda Bay, Greece, for repairs, US 6th Fleet announced on Sunday. “While the ship is fully … Continue reading &rarr;"
+slug: "update-uss-harry-s-truman-put-into-souda-bay-for-repairs-after-collision"
+excerpt: "USS Harry S. Truman, the Nimitz-class aircraft carrier that collided with the merchant bulk carrier M/V Besiktas-M off the coast of Egypt, put into Souda Bay, Greece, for repairs, US 6th Fleet announced on Sunday. \"While the ship is fully … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "U.S.S. Harry S. Truman"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/02/trumandamage.jpg"
 author: "Rick Spilman"
-description: "USS Harry S. Truman, the Nimitz-class aircraft carrier that collided with the merchant bulk carrier M/V Besiktas-M off the coast of Egypt, put into Souda Bay, Greece, for repairs, US 6th Fleet announced on Sunday. “While the ship is fully … Continue reading &rarr;"
+description: "USS Harry S. Truman, the Nimitz-class aircraft carrier that collided with the merchant bulk carrier M/V Besiktas-M off the coast of Egypt, put into Souda Bay, Greece, for repairs, US 6th Fleet announced on Sunday. \"While the ship is fully … Continue reading &rarr;"
 ---
 
 ![](https://www.oldsaltblog.com/wp-content/uploads/2025/02/trumandamage.jpg)[USS *Harry S. Truman*](https://en.wikipedia.org/wiki/USS_Harry_S._Truman), the Nimitz-class aircraft carrier that [collided with the merchant bulk carrier](https://www.oldsaltblog.com/2025/02/aircraft-carrier-uss-harry-s-truman-collides-with-bulk-carrier-in-mediterranean-sea-near-suez-canal/) [M/V *Besiktas-M*](https://www.classnk.or.jp/register/regships/one_dsp.aspx?imo=9291365) off the coast of Egypt, put into Souda Bay, Greece, for repairs, [US 6th Fleet announced on Sunday](https://www.c6f.navy.mil/Press-Room/News/Article/4068846/uss-harry-s-truman-conducts-emergent-repair-availability/).

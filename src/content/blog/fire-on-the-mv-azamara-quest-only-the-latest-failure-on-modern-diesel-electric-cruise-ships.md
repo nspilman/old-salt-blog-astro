@@ -1,7 +1,7 @@
 ---
 title: "Fire on the MV Azamara Quest Only the Latest Failure on Modern Diesel Electric Cruise Ships"
 date: 2012-03-31T11:20:19
-slug: fire-on-the-mv-azamara-quest-only-the-latest-failure-on-modern-diesel-electric-cruise-ships
+slug: "fire-on-the-mv-azamara-quest-only-the-latest-failure-on-modern-diesel-electric-cruise-ships"
 excerpt: "The fire on the MV Azamara Quest, is one of a recent series of disabling fires and power failures on diesel-electric powered cruise ships.  Unlike the MV Azamara Quest, however, the ship’s crews aboard the Costa Allegra, the Carnival Splendor,  and the MSC Opera were unable to effect … Continue reading &rarr;"
 categories:
   - "Current"

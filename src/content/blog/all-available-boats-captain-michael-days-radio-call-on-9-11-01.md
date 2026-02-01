@@ -1,7 +1,7 @@
 ---
 title: "All Available Boats — Captain Michael Day’s Radio Call On 9/11/01"
 date: 2021-09-10T10:30:17
-slug: all-available-boats-captain-michael-days-radio-call-on-9-11-01
+slug: "all-available-boats-captain-michael-days-radio-call-on-9-11-01"
 excerpt: "There are moments in history when an individual makes the right choice at exactly the right moment and it makes all the difference. Such was the case with LT. Michael Day on the morning of September 11, 2001, in New … Continue reading &rarr;"
 categories:
   - "Current"

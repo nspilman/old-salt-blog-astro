@@ -1,7 +1,7 @@
 ---
-title: "The “Big E” Heading Home for the Last Time.."
+title: "The \"Big E\" Heading Home for the Last Time.."
 date: 2012-10-23T08:00:10
-slug: the-big-e-heading-home-for-the-last-time
+slug: "the-big-e-heading-home-for-the-last-time"
 excerpt: "After almost 51 years in service, twice its expected lifespan, the nuclear powered aircraft carrier USS Enterprise is winding up its 25th deployment and will be heading back to Norfolk to be deactivated on December 1 and decommissioned once all reusable items are removed.  USS Enterprise was the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Record Cargo Shipped Through Suez Canal in 2021"
 date: 2022-01-18T17:55:51
-slug: record-cargo-shipped-through-suez-canal-in-2021
+slug: "record-cargo-shipped-through-suez-canal-in-2021"
 excerpt: "Despite challenges created by the pandemic, the ongoing chaos in the supply chain, and the six-day closure of the canal by the grounding of the ultra-large container ship Ever Given last March, larger volumes of cargo were shipped through the … Continue reading &rarr;"
 categories:
   - "Current"

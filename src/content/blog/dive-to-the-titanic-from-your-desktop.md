@@ -1,13 +1,13 @@
 ---
 title: "Dive to the Titanic from your Desktop"
 date: 2010-11-18T13:57:47
-slug: dive-to-the-titanic-from-your-desktop
-excerpt: "I am not much of a computer gamer, but this looks like fun.   Astragon\TML Studios has a new diving simulator that lets you pilot a submersible and ROV around and through the wreck of the Titanic.  The graphics may not be quite … Continue reading &rarr;"
+slug: "dive-to-the-titanic-from-your-desktop"
+excerpt: "I am not much of a computer gamer, but this looks like fun.   Astragon\\TML Studios has a new diving simulator that lets you pilot a submersible and ROV around and through the wreck of the Titanic.  The graphics may not be quite … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - "Astragon\TML Studios"
+  - "Astragon\\TML Studios"
   - "diving simulator"
   - "Titanic"
 author: "Rick Spilman"

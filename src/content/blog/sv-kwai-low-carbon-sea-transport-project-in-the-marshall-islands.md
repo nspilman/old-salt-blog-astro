@@ -1,7 +1,7 @@
 ---
 title: "SV Kwai — Low Carbon Sea Transport Project in the Marshall Islands"
 date: 2022-04-29T19:42:33
-slug: sv-kwai-low-carbon-sea-transport-project-in-the-marshall-islands
+slug: "sv-kwai-low-carbon-sea-transport-project-in-the-marshall-islands"
 excerpt: "The sailing cargo ship SV Kwai has been owned by the Republic of the Marshall Islands (RMI) since January 2021, as one element of the island archipelago’s goal of achieving net-zero greenhouse gas emissions by 2050. This multi-faceted RMI effort … Continue reading &rarr;"
 categories:
   - "Current"

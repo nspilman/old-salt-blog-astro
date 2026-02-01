@@ -1,7 +1,7 @@
 ---
 title: "Snailfish, the Deepest-Swimming Fish Ever Recorded on Camera"
 date: 2023-04-07T17:19:16
-slug: snailfish-the-deepest-swimming-fish-ever-recorded-on-camera
+slug: "snailfish-the-deepest-swimming-fish-ever-recorded-on-camera"
 excerpt: "A team of Australian and Japanese scientists succeeded in capturing on camera the deepest-swimming fish ever recorded. The fish, an unknown snailfish species of the genus Pseudoliparis, was recorded at a depth of 8,336m in the Izu-Ogasawara Trench, south of … Continue reading &rarr;"
 categories:
   - "Current"

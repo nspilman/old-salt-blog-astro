@@ -1,7 +1,7 @@
 ---
-title: "San Jose, “Holy Grail of Shipwrecks” — the Legal Battles are Just Beginning"
+title: "San Jose, \"Holy Grail of Shipwrecks\" — the Legal Battles are Just Beginning"
 date: 2015-12-30T18:10:39
-slug: san-jose-holy-grail-shipwrecks-legal-battles-just-beginning
+slug: "san-jose-holy-grail-shipwrecks-legal-battles-just-beginning"
 excerpt: "Battles at sea usually last a few hours. Battles in court can last far, far longer.  In the Battle of Santa Maria on October 5, 1804, when a British squadron attacked a Spanish treasure fleet, the ship Nuestra Señora de … Continue reading &rarr;"
 categories:
   - "Current"

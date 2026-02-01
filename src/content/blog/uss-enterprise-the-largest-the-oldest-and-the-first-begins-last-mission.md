@@ -1,8 +1,8 @@
 ---
 title: "USS Enterprise, the Largest, the Oldest and the First Nuclear Carrier Begins Last Mission"
 date: 2012-03-12T08:23:20
-slug: uss-enterprise-the-largest-the-oldest-and-the-first-begins-last-mission
-excerpt: "The USS Enterprise has set sail on her final mission. The fifty year old carrier is heading to the Middle East on a seven-month deployment.  The “Big E,” as she is called, was the first nuclear powered air craft carrier in … Continue reading &rarr;"
+slug: "uss-enterprise-the-largest-the-oldest-and-the-first-begins-last-mission"
+excerpt: "The USS Enterprise has set sail on her final mission. The fifty year old carrier is heading to the Middle East on a seven-month deployment.  The \"Big E,\" as she is called, was the first nuclear powered air craft carrier in … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ categories:
 tags:
   - "USS Enterprise"
 author: "Rick Spilman"
-description: "The USS Enterprise has set sail on her final mission. The fifty year old carrier is heading to the Middle East on a seven-month deployment.  The “Big E,” as she is called, was the first nuclear powered air craft carrier in … Continue reading &rarr;"
+description: "The USS Enterprise has set sail on her final mission. The fifty year old carrier is heading to the Middle East on a seven-month deployment.  The \"Big E,\" as she is called, was the first nuclear powered air craft carrier in … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/USS_Enterprise_CVN-65.jpg)The *[USS Enterprise](http://en.wikipedia.org/wiki/USS_Enterprise_\(CVN-65\))* has set sail on her final mission. The fifty year old carrier is heading to the Middle East on a seven-month deployment.  The “Big E,” as she is called, was the first nuclear powered air craft carrier in the world. She is also the longest US aircraft carrier as well as the oldest, commissioned in 1961.  Where all other US nuclear carriers have two nuclear reactors, the *Enterprise* has eight. She also has four rudders, where most carriers have two.

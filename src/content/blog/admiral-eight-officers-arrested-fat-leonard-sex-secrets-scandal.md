@@ -1,8 +1,8 @@
 ---
-title: "Admiral & Eight Officers Arrested in “Fat Leonard” Sex for Secrets Scandal"
+title: "Admiral & Eight Officers Arrested in \"Fat Leonard\" Sex for Secrets Scandal"
 date: 2017-03-15T08:40:01
-slug: admiral-eight-officers-arrested-fat-leonard-sex-secrets-scandal
-excerpt: "A retired U.S. Navy Rear Admiral and eight other high-ranking Navy officers were arrested on Tuesday on charges of accepting luxury travel, elaborate dinners and services of prostitutes from foreign defense contractor “Fat Leonard” Francis, the former CEO of Glenn … Continue reading &rarr;"
+slug: "admiral-eight-officers-arrested-fat-leonard-sex-secrets-scandal"
+excerpt: "A retired U.S. Navy Rear Admiral and eight other high-ranking Navy officers were arrested on Tuesday on charges of accepting luxury travel, elaborate dinners and services of prostitutes from foreign defense contractor \"Fat Leonard\" Francis, the former CEO of Glenn … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "U.S. Navy Rear Admiral"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/blueridge3.jpg"
 author: "Rick Spilman"
-description: "A retired U.S. Navy Rear Admiral and eight other high-ranking Navy officers were arrested on Tuesday on charges of accepting luxury travel, elaborate dinners and services of prostitutes from foreign defense contractor “Fat Leonard” Francis, the former CEO of Glenn … Continue reading &rarr;"
+description: "A retired U.S. Navy Rear Admiral and eight other high-ranking Navy officers were arrested on Tuesday on charges of accepting luxury travel, elaborate dinners and services of prostitutes from foreign defense contractor \"Fat Leonard\" Francis, the former CEO of Glenn … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/03/blueridge3.jpg)A retired [U.S. Navy Rear Admiral and eight other high-ranking Navy officers](https://www.justice.gov/opa/pr/us-navy-admiral-and-eight-other-officers-indicted-trading-classified-information-massive) were arrested on Tuesday on charges of accepting luxury travel, elaborate dinners and services of prostitutes from foreign defense contractor “Fat Leonard” Francis, the former CEO of Glenn Defense Marine Asia (GDMA), in exchange for classified and internal U.S. Navy information. GDMA used the information to overbill the US Navy for services by more than $30 million.

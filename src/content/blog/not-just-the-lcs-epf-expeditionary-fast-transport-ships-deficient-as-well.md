@@ -1,7 +1,7 @@
 ---
 title: "Not Just the LCS — EPF, Expeditionary Fast Transport Ships Deficient, As Well"
 date: 2018-05-07T17:43:44
-slug: not-just-the-lcs-epf-expeditionary-fast-transport-ships-deficient-as-well
+slug: "not-just-the-lcs-epf-expeditionary-fast-transport-ships-deficient-as-well"
 excerpt: "The Littoral Combat Ships (LCS) are not the only small new Navy ships with serious operating deficiencies. Recently, the Department of Defense Office of the Inspector General released a report on the shortcomings of a new class of fast, shallow draft, transport ship, … Continue reading &rarr;"
 categories:
   - "Current"

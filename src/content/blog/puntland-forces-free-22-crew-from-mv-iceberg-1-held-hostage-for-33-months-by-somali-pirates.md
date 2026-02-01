@@ -1,7 +1,7 @@
 ---
 title: "Puntland Forces Free 22 Crew from MV Iceberg 1 – Held Hostage for 33 Months by Somali Pirates"
 date: 2012-12-24T10:34:09
-slug: puntland-forces-free-22-crew-from-mv-iceberg-1-held-hostage-for-33-months-by-somali-pirates
+slug: "puntland-forces-free-22-crew-from-mv-iceberg-1-held-hostage-for-33-months-by-somali-pirates"
 excerpt: "Wonderful news. Forces of Somalia’s semiautonomous Puntland region are reported to have raided the MV Iceberg I on Sunday and to have rescued 22 officers and crew who had been held hostage by Somali pirates for 33 months.  The Puntland forces had … Continue reading &rarr;"
 categories:
   - "Current"

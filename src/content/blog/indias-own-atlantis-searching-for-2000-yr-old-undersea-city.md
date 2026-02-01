@@ -1,7 +1,7 @@
 ---
 title: "India’s Own Atlantis – Searching for 2000 year old Undersea City"
 date: 2010-08-09T08:17:30
-slug: indias-own-atlantis-searching-for-2000-yr-old-undersea-city
+slug: "indias-own-atlantis-searching-for-2000-yr-old-undersea-city"
 excerpt: "In 2004, at least 170 people died when a tsunami hit the fishing village of Poompuhar,  in India on the Bay of Bengal.    According to legend, this was not the first time.   As described in ancient Tamil texts and by Ptolemy and … Continue reading &rarr;"
 categories:
   - "Current"

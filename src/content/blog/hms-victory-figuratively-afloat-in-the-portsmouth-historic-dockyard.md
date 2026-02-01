@@ -1,7 +1,7 @@
 ---
 title: "HMS Victory Figuratively Afloat in the Portsmouth Historic Dockyard"
 date: 2020-08-11T15:13:05
-slug: hms-victory-figuratively-afloat-in-the-portsmouth-historic-dockyard
+slug: "hms-victory-figuratively-afloat-in-the-portsmouth-historic-dockyard"
 excerpt: "When HMS Victory went into drydock in the Portsmouth Historic Dockyard in 1922, she was supported by 22 steel cradles. In the almost 100 years that she has remained on the dock, the historic ship’s 3,500-tonne hull had been to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

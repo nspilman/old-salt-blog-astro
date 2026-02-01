@@ -1,7 +1,7 @@
 ---
 title: "In the Wake of the Beagle – Stad Amsterdam arrives in Melbourne"
 date: 2010-03-02T08:14:09
-slug: in-the-wake-of-the-beagle-%e2%80%93-stad-amsterdam-arrives-in-melbourne
+slug: "in-the-wake-of-the-beagle-%e2%80%93-stad-amsterdam-arrives-in-melbourne"
 excerpt: "Stad Amsterdam arriving in Melbourne Back in September we posted about a group of historians and naturalists, as well as a film crew for Dutch VPRO Television sailing on the Stad Amsterdam. The ship is retracing the voyage of HMS … Continue reading &rarr;"
 categories:
   - "Current"

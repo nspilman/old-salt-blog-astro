@@ -1,7 +1,7 @@
 ---
 title: "Submarine Missile Launch Creates West Coast Light Show"
 date: 2015-11-08T11:07:30
-slug: submarine-missile-launch-creates-west-coast-light-show
+slug: "submarine-missile-launch-creates-west-coast-light-show"
 excerpt: "Last night, right about sunset, the western sky over Southern California was filled by a weird blue-green light streaking across the heavens. Visible as far as Arizona, the mysterious light didn’t look like a meteor.  For a time, it was … Continue reading &rarr;"
 categories:
   - "Current"

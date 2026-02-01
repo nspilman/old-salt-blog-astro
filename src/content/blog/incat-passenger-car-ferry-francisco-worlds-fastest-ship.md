@@ -1,7 +1,7 @@
 ---
 title: "Incat Passenger/Car Ferry Francisco — World’s Fastest Ship"
 date: 2017-03-04T18:29:58
-slug: incat-passenger-car-ferry-francisco-worlds-fastest-ship
+slug: "incat-passenger-car-ferry-francisco-worlds-fastest-ship"
 excerpt: "The car/passenger ferry Francisco, built in 2013 by Tasmanian shipyard Incat, is billed as the fastest ship in the world. The 99 meter ferry has clocked speeds of 58 knots (67 mph; 107 km/h). Operated by Buquebus, an Argentine-Uruguayan ferry company, Francisco is capable of accommodating … Continue reading &rarr;"
 categories:
   - "Current"

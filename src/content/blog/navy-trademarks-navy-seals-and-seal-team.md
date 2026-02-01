@@ -1,8 +1,8 @@
 ---
-title: "Navy Trademarks “Navy Seals” and “Seal Team”"
+title: "Navy Trademarks \"Navy Seals\" and \"Seal Team\""
 date: 2011-05-24T21:08:40
-slug: navy-trademarks-navy-seals-and-seal-team
-excerpt: "Last week we posted about Disney filing  three trademark applications for the rights to the phrase “SEAL Team 6.”   Proving that they are only a step or two behind Mickey Mouse, the US Navy has now trademarked the phrases … Continue reading &rarr;"
+slug: "navy-trademarks-navy-seals-and-seal-team"
+excerpt: "Last week we posted about Disney filing  three trademark applications for the rights to the phrase \"SEAL Team 6.\"   Proving that they are only a step or two behind Mickey Mouse, the US Navy has now trademarked the phrases … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "trademark"
   - "US Navy"
 author: "Rick Spilman"
-description: "Last week we posted about Disney filing  three trademark applications for the rights to the phrase “SEAL Team 6.”   Proving that they are only a step or two behind Mickey Mouse, the US Navy has now trademarked the phrases … Continue reading &rarr;"
+description: "Last week we posted about Disney filing  three trademark applications for the rights to the phrase \"SEAL Team 6.\"   Proving that they are only a step or two behind Mickey Mouse, the US Navy has now trademarked the phrases … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/US-Navy-SEALs-Insignia.jpg)Last week [we posted about Disney](http://www.oldsaltblog.com/2011/05/16/admiral-mickey-mouse-seal-team-6/) filing  three trademark applications for the rights to the phrase “SEAL Team 6.”   Proving that they are only a step or two behind Mickey Mouse, the US Navy has now trademarked the phrases “NAVY SEALS” and “SEAL TEAM.”

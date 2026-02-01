@@ -1,7 +1,7 @@
 ---
 title: "The Amazing Herreshoff Brothers, Part 2 — Nathanael Greene Herreshoff, Wizard of Bristol"
 date: 2015-10-13T09:15:14
-slug: the-amazing-herreshoff-brothers-part-2-nathanael-greene-herreshoff-wizard-of-bristol
+slug: "the-amazing-herreshoff-brothers-part-2-nathanael-greene-herreshoff-wizard-of-bristol"
 excerpt: "When Nathanael Green Herreshoff was around 16, he began to work for his elder brother, John Brown Herreshoff, in his boat yard in Bristol, RI. To work as an apprentice was a traditional way to learn the skills and techniques … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Evacuation Near Port of Marseille to Remove 1-ton World War II German Bomb"
 date: 2012-03-18T11:08:10
-slug: evacuation-near-port-of-marseille-to-remove-1-ton-world-war-ii-german-bomb
+slug: "evacuation-near-port-of-marseille-to-remove-1-ton-world-war-ii-german-bomb"
 excerpt: "In November, we posted about how a drought on the Rhine River was exposing unexploded World War II munitions, and then in December about the evacuation of half of the German city of Koblenz, when several large bombs were found buried in … Continue reading &rarr;"
 categories:
   - "Current"

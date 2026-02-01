@@ -1,7 +1,7 @@
 ---
 title: "Submarine Saturday – British Submarine Delay Concerns, HMS Astute Fires Harpoons & German Fuel Cell Sub"
 date: 2011-11-19T17:25:26
-slug: submarine-saturday-british-submarine-delay-concerns-hms-astute-fires-harpoons-german-fuel-cell-sub
+slug: "submarine-saturday-british-submarine-delay-concerns-hms-astute-fires-harpoons-german-fuel-cell-sub"
 excerpt: "A report by Britain’s National Audit Office revealed that the Ministry of Defense is concerned that recent budget cuts have put the country at risk due to a shortage of modern attack submarines.   The National Audit Office said delays to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

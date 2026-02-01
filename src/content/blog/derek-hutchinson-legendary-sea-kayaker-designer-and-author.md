@@ -1,7 +1,7 @@
 ---
 title: "Derek Hutchinson – Legendary Sea Kayaker, Designer and Author"
 date: 2012-10-12T11:19:29
-slug: derek-hutchinson-legendary-sea-kayaker-designer-and-author
+slug: "derek-hutchinson-legendary-sea-kayaker-designer-and-author"
 excerpt: "The Sea Kayaker Magazine blog is reporting that Derek Hutchinson, often referred to as the father of sea kayaking, died on Wednesday at the age of 79. Hutchinson literally wrote the book on sea kayaking, even before it was universally called … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

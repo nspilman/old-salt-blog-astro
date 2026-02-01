@@ -1,7 +1,7 @@
 ---
 title: "Sailing the Pride of Baltimore II"
 date: 2015-10-10T09:44:55
-slug: sailing-the-pride-of-baltimore-ii-2
+slug: "sailing-the-pride-of-baltimore-ii-2"
 excerpt: "I happened to come across an absolutely magnificent video by Pierre Henkart. Beautiful video and editing of the Pride under sail as well as great shots of sail handling by the crew. Definitely worth the 5 minutes and 40 seconds to watch. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

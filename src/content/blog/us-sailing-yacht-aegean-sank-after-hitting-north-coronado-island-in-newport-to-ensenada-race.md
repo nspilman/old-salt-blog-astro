@@ -1,7 +1,7 @@
 ---
 title: "US Sailing – Yacht Aegean Sank After Hitting North Coronado Island in Newport to Ensenada Race"
 date: 2012-06-14T08:05:45
-slug: us-sailing-yacht-aegean-sank-after-hitting-north-coronado-island-in-newport-to-ensenada-race
+slug: "us-sailing-yacht-aegean-sank-after-hitting-north-coronado-island-in-newport-to-ensenada-race"
 excerpt: "In the early morning hours of April 28th, the yacht Aegean disappeared and sank in the Newport to Ensenada Race.  Wreckage of the  sailboat and the bodies of the fours sailors who had been aboard were subsequently found nearby. After initial speculation that there … Continue reading &rarr;"
 categories:
   - "Current"

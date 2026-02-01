@@ -1,7 +1,7 @@
 ---
 title: "Destroyer USS Fitzgerald Collides with Container Ship — Seven Missing"
 date: 2017-06-17T10:29:17
-slug: destroyer-uss-fitzgerald-collides-container-ship-seven-missing
+slug: "destroyer-uss-fitzgerald-collides-container-ship-seven-missing"
 excerpt: "Seven crew members are reported to be missing after the US guided-missile destroyer USS Fitzgerald collided with a Philippine flag container ship, ACX Crystal, early Saturday morning. Three others aboard were injured, including the commanding officer, Cmdr. Bryce Benson, and were evacuated from … Continue reading &rarr;"
 categories:
   - "Current"

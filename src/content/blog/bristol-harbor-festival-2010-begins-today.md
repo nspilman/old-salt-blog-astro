@@ -1,7 +1,7 @@
 ---
 title: "Bristol Harbor Festival 2010 Begins Today"
 date: 2010-07-30T08:18:16
-slug: bristol-harbor-festival-2010-begins-today
+slug: "bristol-harbor-festival-2010-begins-today"
 excerpt: "The Bristol Harbour Festival begins today and runs through the weekend. It is expected to attract over 200,000 people and is one of the biggest free events in the UK.    In addition to Brunel’s SS Great Britain, on permanent … Continue reading &rarr;"
 categories:
   - "Current"

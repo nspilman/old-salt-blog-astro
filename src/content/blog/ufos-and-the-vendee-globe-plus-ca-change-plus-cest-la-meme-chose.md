@@ -1,7 +1,7 @@
 ---
 title: "UFOs and the Vendee Globe — Plus ça Change, Plus C’est la Meme Chose"
 date: 2020-12-04T18:15:58
-slug: ufos-and-the-vendee-globe-plus-ca-change-plus-cest-la-meme-chose
+slug: "ufos-and-the-vendee-globe-plus-ca-change-plus-cest-la-meme-chose"
 excerpt: "Of the 33 IMOCAs which started the Vendee Globe Race, four have officially abandoned. Two, Hugo Boss and Arkea Paprec, were damaged after striking Unidentified Floating Objects (UFOs). A third boat, Sam Davies’ Initiatives Coeur was also damaged by a … Continue reading &rarr;"
 categories:
   - "Current"

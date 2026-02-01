@@ -1,7 +1,7 @@
 ---
 title: "Elizabeth Fry Swims NY Harbor -Sets Three Swimming Records in One Day"
 date: 2011-06-15T15:52:18
-slug: elizabeth-fry-swims-ny-harbor-sets-three-swimming-records-in-one-day
+slug: "elizabeth-fry-swims-ny-harbor-sets-three-swimming-records-in-one-day"
 excerpt: "Liz Fry is the sort of person who makes the rest of us feel inadequate. She is from Westport, Connecticut, is 52 and reportedly suffers from asthma.   Nevertheless, yesterday she swam the thirty five miles from Battery Park in Manhattan to Sandy Hook, … Continue reading &rarr;"
 categories:
   - "Current"

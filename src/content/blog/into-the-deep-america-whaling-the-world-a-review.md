@@ -1,7 +1,7 @@
 ---
 title: "Into the Deep: America, Whaling & the World – a Review"
 date: 2010-05-09T08:47:10
-slug: into-the-deep-america-whaling-the-world-a-review
+slug: "into-the-deep-america-whaling-the-world-a-review"
 excerpt: "A few days ago, we posted about Ric Burns’ new documentary, Into the Deep: America, Whaling & the World, which will be broadcast tomorrow, May 10, at 9PM on most PBS channel in the United States. I had the opportunity to … Continue reading &rarr;"
 categories:
   - "Current"

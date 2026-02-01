@@ -1,8 +1,8 @@
 ---
 title: "The Sinking of the USS Rueben James, 80 Years Ago Yesterday"
 date: 2021-11-01T19:51:07
-slug: the-sinking-of-the-uss-rueben-james-80-years-ago-yesterday
-excerpt: "“Have you heard of a ship called the good Reuben James?” (If you do, it may be from the Woodie Guthrie song.) The destroyer USS Reuben James was sunk by a German torpedo while on convoy duty 80 years ago … Continue reading &rarr;"
+slug: "the-sinking-of-the-uss-rueben-james-80-years-ago-yesterday"
+excerpt: "\"Have you heard of a ship called the good Reuben James?\" (If you do, it may be from the Woodie Guthrie song.) The destroyer USS Reuben James was sunk by a German torpedo while on convoy duty 80 years ago … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Woodie Guthrie"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/rjames.jpg"
 author: "Rick Spilman"
-description: "“Have you heard of a ship called the good Reuben James?” (If you do, it may be from the Woodie Guthrie song.) The destroyer USS Reuben James was sunk by a German torpedo while on convoy duty 80 years ago … Continue reading &rarr;"
+description: "\"Have you heard of a ship called the good Reuben James?\" (If you do, it may be from the Woodie Guthrie song.) The destroyer USS Reuben James was sunk by a German torpedo while on convoy duty 80 years ago … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/rjames.jpg)“Have you heard of a ship called the good *Reuben James*?” (If you do, it may be from the [Woodie Guthrie](https://en.wikipedia.org/wiki/Woody_Guthrie) song.) The destroyer [USS *Reuben James*](https://en.wikipedia.org/wiki/USS_Reuben_James_\(DD-245\)) was sunk by a German torpedo while on convoy duty 80 years ago yesterday, roughly a month before the Japanese attack on Pearl Harbor and the US entry into the world war against the Axis powers. 

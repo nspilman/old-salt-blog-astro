@@ -1,7 +1,7 @@
 ---
 title: "Doggy Day Care on HMAS Choules"
 date: 2020-01-10T18:33:53
-slug: doggy-day-care-on-hmas-choules
+slug: "doggy-day-care-on-hmas-choules"
 excerpt: "In addition to more than 24 people who have died in the terrible Australian bushfires, an incredible number of animals have also perished. Estimates of wildlife deaths range from millions to a billion animals. More than 25.5 million acres of … Continue reading &rarr;"
 categories:
   - "Current"

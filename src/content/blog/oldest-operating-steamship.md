@@ -1,7 +1,7 @@
 ---
 title: "Which is the Oldest Operating Steamship?"
 date: 2016-11-16T17:06:36
-slug: oldest-operating-steamship
+slug: "oldest-operating-steamship"
 excerpt: "Everyone likes superlatives. The oldest, fastest, newest, largest and so on. Often superlatives need to be very specific to be made to apply. HMS Victory, for example, is the oldest naval ship still in commission, while USS Constitution is the oldest … Continue reading &rarr;"
 categories:
   - "History"

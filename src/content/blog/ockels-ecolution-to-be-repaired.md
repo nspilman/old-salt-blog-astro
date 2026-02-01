@@ -1,7 +1,7 @@
 ---
 title: "Ockels’ Ecolution to be Repaired"
 date: 2010-12-04T09:35:34
-slug: ockels-ecolution-to-be-repaired
+slug: "ockels-ecolution-to-be-repaired"
 excerpt: "Ockels’ sustainable voyage to go ahead Wubbo Ockels, a former Dutch astronaut, says he is convinced his sailing yacht Ecolution, which was sunk by unknown assailants earlier this week, will soon be repaired, so he can continue his sustainable energy … Continue reading &rarr;"
 categories:
   - "Current"

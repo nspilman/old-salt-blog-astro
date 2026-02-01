@@ -1,7 +1,7 @@
 ---
 title: "Tampa Mayor Jane Castor Goes Fishing in Florida Keys  — Catches $1.1M Cocaine Cache"
 date: 2023-08-09T19:34:17
-slug: tampa-mayor-jane-castor-goes-fishing-in-florida-keys-catches-1-1m-cocaine-cache
+slug: "tampa-mayor-jane-castor-goes-fishing-in-florida-keys-catches-1-1m-cocaine-cache"
 excerpt: "CNN reports that Tampa Mayor Jane Castor made a big catch while fishing the Florida Keys with family late last month, spotting and hauling in a package containing 70 pounds of cocaine with an estimated street value of approximately $1.1 million, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Where the Age of Sail Never Ended  – the Bugis Phinisi, an Appreciation"
 date: 2011-11-12T17:20:43
-slug: where-the-age-of-sail-never-ended-the-bugis-phinisi-an-appreciation
+slug: "where-the-age-of-sail-never-ended-the-bugis-phinisi-an-appreciation"
 excerpt: "For centuries, the Bugis people have sailed from South Sulawesi across the shallow seas of the Indonesian archipelago. They would sail east and west on the monsoons, regularly trading as far as Northern Australia in their two masted ships, known … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

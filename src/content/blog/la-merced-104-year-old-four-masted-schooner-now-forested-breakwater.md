@@ -1,7 +1,7 @@
 ---
 title: "La Merced — 104 Year Old Four-Masted Schooner Now Forested Breakwater"
 date: 2021-07-11T10:16:47
-slug: la-merced-104-year-old-four-masted-schooner-now-forested-breakwater
+slug: "la-merced-104-year-old-four-masted-schooner-now-forested-breakwater"
 excerpt: "Last September, we posted about the wreck of the steam collier SS Ayrfield, abandoned in Homebush Bay, near Sydney, Australia, before it could be scrapped, that has now been taken over by a mangrove forest.  A reader pointed out a similar … Continue reading &rarr;"
 categories:
   - "Current"

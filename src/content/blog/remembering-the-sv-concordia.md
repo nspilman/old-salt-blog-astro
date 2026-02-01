@@ -1,7 +1,7 @@
 ---
 title: "Remembering the SV Concordia"
 date: 2012-03-17T12:20:12
-slug: remembering-the-sv-concordia
+slug: "remembering-the-sv-concordia"
 excerpt: "Two years and one month ago today, the SV Concordia, a school ship operated by West Island College International, was knocked down and sank off the coast of Brazil.  Fortunately, all 64 passengers and crew aboard were rescued.  The final … Continue reading &rarr;"
 categories:
   - "History"

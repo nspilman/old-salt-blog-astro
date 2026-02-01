@@ -1,7 +1,7 @@
 ---
 title: "Swedish Warship Mars, Sunk in 1564, Preserved in the Baltic"
 date: 2014-07-08T13:57:00
-slug: swedish-warship-mars-sunk-in-1564-preserved-in-the-baltic
+slug: "swedish-warship-mars-sunk-in-1564-preserved-in-the-baltic"
 excerpt: "National Geographic has published breathtaking photographs and video of the Swedish warship Mars, which exploded and sank in the first battle of Öland in 1564.  Because the ship sank in the dark, cold waters of the Baltic Sea, where the … Continue reading &rarr;"
 categories:
   - "Current"

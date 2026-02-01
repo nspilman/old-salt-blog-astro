@@ -1,7 +1,7 @@
 ---
 title: "The Navy Goes NeRD – the New Navy E-Reader"
 date: 2014-05-15T08:29:58
-slug: the-navy-goes-nerd-the-new-navy-e-reader
+slug: "the-navy-goes-nerd-the-new-navy-e-reader"
 excerpt: "The Navy is issuing five Navy e-Reader Devices, or NeRDs, each preloaded with 300 books to each of the submarines in the fleet, and if all goes well plans to send NeRDs to all Navy vessels.   The e-Readers are pretty … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Arresting versus Disrupting Pirates"
 date: 2011-03-30T16:19:49
-slug: arresting-versus-disrupting-pirates
-excerpt: "Recently we posted about joint-operations by the Indian Navy and Coast Guard which since last Novemeber have succeeded in capturing 120 pirates in the Indian Ocean as well as taking several pirate “mother ships” and freeing the hostage held aboard.   On reader commented: Good on … Continue reading &rarr;"
+slug: "arresting-versus-disrupting-pirates"
+excerpt: "Recently we posted about joint-operations by the Indian Navy and Coast Guard which since last Novemeber have succeeded in capturing 120 pirates in the Indian Ocean as well as taking several pirate \"mother ships\" and freeing the hostage held aboard.   On reader commented: Good on … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "USS Enterprise"
   - "USS Leyte Gulf"
 author: "Rick Spilman"
-description: "Recently we posted about joint-operations by the Indian Navy and Coast Guard which since last Novemeber have succeeded in capturing 120 pirates in the Indian Ocean as well as taking several pirate “mother ships” and freeing the hostage held aboard.   On reader commented: Good on … Continue reading &rarr;"
+description: "Recently we posted about joint-operations by the Indian Navy and Coast Guard which since last Novemeber have succeeded in capturing 120 pirates in the Indian Ocean as well as taking several pirate \"mother ships\" and freeing the hostage held aboard.   On reader commented: Good on … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/110324-N-BZ392-412_web.jpg)Recently [we posted about joint-operations by the Indian Navy and Coast Guard](http://www.oldsaltblog.com/2011/03/28/indian-navy-captures-16-pirates-frees-16-hostages/) which since last Novemeber have succeeded in capturing 120 pirates in the Indian Ocean as well as taking several pirate “mother ships” and freeing the hostage held aboard.   On reader commented: *Good on the Indian Navy. (Would we have done the same?)*

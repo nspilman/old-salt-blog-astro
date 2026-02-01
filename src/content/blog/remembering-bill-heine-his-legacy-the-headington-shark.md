@@ -1,7 +1,7 @@
 ---
 title: "Remembering Bill Heine & His Legacy — the Headington Shark"
 date: 2019-04-16T15:26:52
-slug: remembering-bill-heine-his-legacy-the-headington-shark
+slug: "remembering-bill-heine-his-legacy-the-headington-shark"
 excerpt: "Bill Heine, journalist and radio presenter, who for many years, lived in the Headington suburb of Oxford, died of cancer earlier this month at the age of 74. He left behind his partner, Jane Hanson, and their son, Magnus, as … Continue reading &rarr;"
 categories:
   - "Current"

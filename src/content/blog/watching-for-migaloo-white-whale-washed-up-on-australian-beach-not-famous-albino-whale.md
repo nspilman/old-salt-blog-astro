@@ -1,7 +1,7 @@
 ---
 title: "Watching for Migaloo — White Whale Washed up on Australian Beach Not Famous Albino Whale"
 date: 2022-07-19T17:07:16
-slug: watching-for-migaloo-white-whale-washed-up-on-australian-beach-not-famous-albino-whale
+slug: "watching-for-migaloo-white-whale-washed-up-on-australian-beach-not-famous-albino-whale"
 excerpt: "A ten-meter-long white humpback whale carcass recently washed ashore on Australia’s Mallacoota beach raising fears that it could be the world-famous albino humpback nicknamed Migaloo. A closer examination by Victoria’s Department of Environment, Land, Water, and Planning revealed, however, that … Continue reading &rarr;"
 categories:
   - "Current"

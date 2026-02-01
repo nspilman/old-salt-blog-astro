@@ -1,7 +1,7 @@
 ---
 title: "HMS Victory ‘Collapsing’ Under Her Own Weight"
 date: 2016-05-12T08:24:09
-slug: hms-victory-collapsing-weight
+slug: "hms-victory-collapsing-weight"
 excerpt: "This week the BBC reported: Lord Nelson’s HMS Victory ‘collapsing’ under own weight.  Sadly, this is not a new story. Five years ago we posted about an extremely similar account in the Telegraph: HMS Victory rotting and being pulled apart under … Continue reading &rarr;"
 categories:
   - "Current"

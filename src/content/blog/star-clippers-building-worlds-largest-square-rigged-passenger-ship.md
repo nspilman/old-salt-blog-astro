@@ -1,7 +1,7 @@
 ---
 title: "Star Clippers Building World’s Largest Square-Rigged Passenger Ship"
 date: 2015-05-22T13:49:49
-slug: star-clippers-building-worlds-largest-square-rigged-passenger-ship
+slug: "star-clippers-building-worlds-largest-square-rigged-passenger-ship"
 excerpt: "Exciting news! Star Clippers is now building what will be the world’s largest square-rigged passenger ship.  The new ship, the fourth in the Star Clippers fleet, is expected to launch mid-2017.  Modeled after the five masted France II of 1912, the ship … Continue reading &rarr;"
 categories:
   - "Current"

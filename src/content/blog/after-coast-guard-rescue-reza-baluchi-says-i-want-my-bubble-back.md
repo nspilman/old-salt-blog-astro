@@ -1,7 +1,7 @@
 ---
-title: "After Coast Guard Rescue, Reza Baluchi Says “I Want My Bubble Back!”"
+title: "After Coast Guard Rescue, Reza Baluchi Says \"I Want My Bubble Back!\""
 date: 2014-10-11T09:38:06
-slug: after-coast-guard-rescue-reza-baluchi-says-i-want-my-bubble-back
+slug: "after-coast-guard-rescue-reza-baluchi-says-i-want-my-bubble-back"
 excerpt: "You really can’t make this stuff up. Extreme runner, Reza Baluchi, attempted to run from Florida to Bermuda, a distance of roughly 1,000 miles, in an inflatable bubble with a metal frame, looking something like a giant hamster wheel.  It didn’t go … Continue reading &rarr;"
 categories:
   - "Current"

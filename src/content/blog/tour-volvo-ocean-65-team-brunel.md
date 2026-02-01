@@ -1,7 +1,7 @@
 ---
 title: "Tour of Volvo Ocean 65 Team Brunel"
 date: 2017-11-06T09:29:37
-slug: tour-volvo-ocean-65-team-brunel
+slug: "tour-volvo-ocean-65-team-brunel"
 excerpt: "Here is a fascinating tour of the Volvo Ocean 65Team Brunel, one of seven identical yachts now racing around the world in the Volvo Ocean Race. The Volvo Ocean 65s are high-performance one-design racers created by Farr Yacht Design and … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Old Weather Project — Citizen-Scientists, Ship’s Logs, & Climate Change"
 date: 2020-01-11T18:59:30
-slug: the-old-weather-project-citizen-scientists-ships-logs-climate-change
+slug: "the-old-weather-project-citizen-scientists-ships-logs-climate-change"
 excerpt: "One of the better ways to tell if a model works at predicting the future is to run it in reverse to see how well it predicts the past. Climate change models so far have had their limitations. Most current … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Maersk to Partially Bypass Panama Canal Backlog by Shifting to Panama Railway"
 date: 2024-01-13T21:10:27
-slug: maersk-to-partially-bypass-panama-canal-backlog-by-shifting-to-panama-railway
-excerpt: "Maersk Lines has announced that it will be routing containers on its Oceania-to-the Americas “OC1” service around the backlogged, drought-stricken Panama Canal. The line will be transporting cargo via the “land bridge” across the isthmus by the Panama Canal Railway … Continue reading &rarr;"
+slug: "maersk-to-partially-bypass-panama-canal-backlog-by-shifting-to-panama-railway"
+excerpt: "Maersk Lines has announced that it will be routing containers on its Oceania-to-the Americas \"OC1\" service around the backlogged, drought-stricken Panama Canal. The line will be transporting cargo via the \"land bridge\" across the isthmus by the Panama Canal Railway … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Panama Railway"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/PCRRintermodal.jpg"
 author: "Rick Spilman"
-description: "Maersk Lines has announced that it will be routing containers on its Oceania-to-the Americas “OC1” service around the backlogged, drought-stricken Panama Canal. The line will be transporting cargo via the “land bridge” across the isthmus by the Panama Canal Railway … Continue reading &rarr;"
+description: "Maersk Lines has announced that it will be routing containers on its Oceania-to-the Americas \"OC1\" service around the backlogged, drought-stricken Panama Canal. The line will be transporting cargo via the \"land bridge\" across the isthmus by the Panama Canal Railway … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/PCRRintermodal.jpg)

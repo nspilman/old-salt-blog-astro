@@ -1,7 +1,7 @@
 ---
 title: "Götheborg of Sweden: Climbing the Rig"
 date: 2022-04-17T10:35:32
-slug: gotheborg-of-sweden-climbing-the-rig
+slug: "gotheborg-of-sweden-climbing-the-rig"
 excerpt: "Sailing onboard Götheborg of Sweden involves climbing and working in the rig, at the highest about 40 meters up, or far out on a yard. Everyone who sails with the ship goes through rig training, and even though most are … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Will Pollution Limit Faroe Island Pilot Whale Hunts?"
 date: 2015-07-26T13:14:29
-slug: will-pollution-limit-faroe-island-pilot-whale-hunts
+slug: "will-pollution-limit-faroe-island-pilot-whale-hunts"
 excerpt: "Around the world, pollution is a serious threat to whales. Ironically, on the Faroe Islands, pollution may help to curtail whaling, where protests have failed.  The residents of the Faroe Islands in the North Atlantic have been hunting pilot whales for almost … Continue reading &rarr;"
 categories:
   - "Current"

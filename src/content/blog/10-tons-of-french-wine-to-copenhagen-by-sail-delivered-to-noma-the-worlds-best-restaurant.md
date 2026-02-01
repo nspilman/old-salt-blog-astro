@@ -1,7 +1,7 @@
 ---
-title: "10 Tons of French Wine to Copenhagen by Sail – Delivered to Noma “the World’s Best Restaurant”"
+title: "10 Tons of French Wine to Copenhagen by Sail – Delivered to Noma \"the World’s Best Restaurant\""
 date: 2012-08-22T10:15:42
-slug: 10-tons-of-french-wine-to-copenhagen-by-sail-delivered-to-noma-the-worlds-best-restaurant
+slug: "10-tons-of-french-wine-to-copenhagen-by-sail-delivered-to-noma-the-worlds-best-restaurant"
 excerpt: "Commercial sail has not yet returned, but there are interesting niche players who are doing what they can to change that. The sailing brigantine Tres Hombres recently carried 10 tons of French wine from Brest to Copenhagen for delivery to … Continue reading &rarr;"
 categories:
   - "Current"

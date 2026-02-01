@@ -1,7 +1,7 @@
 ---
 title: "ROUGH SEAS! Bad Weather in Atlantic Ocean"
 date: 2017-10-06T17:30:27
-slug: rough-seas-bad-weather-atlantic-ocean
+slug: "rough-seas-bad-weather-atlantic-ocean"
 excerpt: "I love the videos shot and produced by maritime vlogger JeffHK. He describes himself as a sailor with a passion for photo/videography and drones who do vlogs while traveling the world on a mega container-ship. This has been a rough … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

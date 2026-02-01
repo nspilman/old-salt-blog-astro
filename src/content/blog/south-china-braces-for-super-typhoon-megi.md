@@ -1,8 +1,8 @@
 ---
-title: "South China Braces for “Super-Typhoon” Megi"
+title: "South China Braces for \"Super-Typhoon\" Megi"
 date: 2010-10-22T07:56:04
-slug: south-china-braces-for-super-typhoon-megi
-excerpt: "After killing more than 20 people in the Philippines and lashing Taiwan, where dozens are reported missing, “super-typhoon” Megi is poised to make landfall in South China today or Saturday.  Typhoon Megi is the the strongest storm to hit the region in more than … Continue reading &rarr;"
+slug: "south-china-braces-for-super-typhoon-megi"
+excerpt: "After killing more than 20 people in the Philippines and lashing Taiwan, where dozens are reported missing, \"super-typhoon\" Megi is poised to make landfall in South China today or Saturday.  Typhoon Megi is the the strongest storm to hit the region in more than … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "super-typhoon"
   - "Taiwan"
 author: "Rick Spilman"
-description: "After killing more than 20 people in the Philippines and lashing Taiwan, where dozens are reported missing, “super-typhoon” Megi is poised to make landfall in South China today or Saturday.  Typhoon Megi is the the strongest storm to hit the region in more than … Continue reading &rarr;"
+description: "After killing more than 20 people in the Philippines and lashing Taiwan, where dozens are reported missing, \"super-typhoon\" Megi is poised to make landfall in South China today or Saturday.  Typhoon Megi is the the strongest storm to hit the region in more than … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/typhoon-megi-nasa-101018-02.jpg)After [killing more than 20 people in the Philippines](http://www.rttnews.com/Content/GeneralNews.aspx?Id=1453208&SM=1) and [lashing Taiwan, where dozens are reported missing](http://www.marketwatch.com/story/taiwan-hit-by-super-typhoon-megi-dozens-missing-2010-10-22), “super-typhoon” Megi is poised to make landfall in South China today or Saturday.  Typhoon Megi is the the strongest storm to hit the region in more than a decade.

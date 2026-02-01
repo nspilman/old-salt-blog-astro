@@ -1,8 +1,8 @@
 ---
 title: "The Problems with the USS Gerald R. Ford  (Hint — It’s Not the Catapults)"
 date: 2017-05-13T09:19:54
-slug: problems-uss-gerald-r-ford-hint-not-catapults
-excerpt: "In an interview with Time, the notional Commander in Chief again showed his willful ignorance by calling for steam catapults rather than “digital catapults” on the new Gerald R. Ford class of aircraft carriers.  Aside from the limitations inherent in … Continue reading &rarr;"
+slug: "problems-uss-gerald-r-ford-hint-not-catapults"
+excerpt: "In an interview with Time, the notional Commander in Chief again showed his willful ignorance by calling for steam catapults rather than \"digital catapults\" on the new Gerald R. Ford class of aircraft carriers.  Aside from the limitations inherent in … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "steam catapults"
   - "USS Gerald R. Ford"
 author: "Rick Spilman"
-description: "In an interview with Time, the notional Commander in Chief again showed his willful ignorance by calling for steam catapults rather than “digital catapults” on the new Gerald R. Ford class of aircraft carriers.  Aside from the limitations inherent in … Continue reading &rarr;"
+description: "In an interview with Time, the notional Commander in Chief again showed his willful ignorance by calling for steam catapults rather than \"digital catapults\" on the new Gerald R. Ford class of aircraft carriers.  Aside from the limitations inherent in … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/ussford.jpg)In an interview with [Time](http://time.com/4775040/donald-trump-time-interview-being-president/), the notional Commander in Chief again showed his willful ignorance by calling for steam catapults rather than “digital catapults” on the new *[Gerald R. Ford](https://en.wikipedia.org/wiki/USS_Gerald_R._Ford)* class of aircraft carriers.  Aside from the limitations inherent in using the decades old steam technology, the new [Electro-Magnetic Aircraft Launch System (EMALS)](https://en.wikipedia.org/wiki/Electromagnetic_Aircraft_Launch_System) catapult on the carrier USS Ford are not “digital.” It is not clear what a digital catapult might be. What is clear is that the president has absolutely no idea what he is talking about, yet again.

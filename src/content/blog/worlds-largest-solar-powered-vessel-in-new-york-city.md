@@ -1,7 +1,7 @@
 ---
 title: "World’s Largest Solar-Powered Vessel in New York City"
 date: 2013-06-25T06:28:06
-slug: worlds-largest-solar-powered-vessel-in-new-york-city
+slug: "worlds-largest-solar-powered-vessel-in-new-york-city"
 excerpt: "I would argue that the wind is, in fact, created by the sun, so all sailing ships are also solar powered, perhaps once removed. The Turanor Planetsolar is, nevertheless, a fascinating vessel. Following her successful circumnavigation, she is now engaged … Continue reading &rarr;"
 categories:
   - "Current"

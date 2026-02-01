@@ -1,7 +1,7 @@
 ---
 title: "Schooner Lettie G. Howard Returns to New York’s South Street Seaport"
 date: 2013-12-10T19:00:44
-slug: schooner-lettie-g-howard-returns-to-new-yorks-south-street-seaport
+slug: "schooner-lettie-g-howard-returns-to-new-yorks-south-street-seaport"
 excerpt: "OK, we are a week late and it is snowing outside, but we do want to to wish the schooner Lettie G. Howard the warmest of welcomes now that she has returned to her berth at the South Street Seaport. We … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,8 +1,8 @@
 ---
-title: "Baltimore’s “Star-Spangled Sailabration” Kicks Off War of 1812 Bicentennial Festivities"
+title: "Baltimore’s \"Star-Spangled Sailabration\" Kicks Off War of 1812 Bicentennial Festivities"
 date: 2012-06-11T08:44:08
-slug: baltimores-star-spangled-sailabration-kicks-off-war-of-1812-bicentennial-festivities
-excerpt: "Starting this Wednesday, June 13th, Baltimore, MD will host its “Star-Spangled Sailabration,”  a week long festival with 18 tall ships and  22 naval vessels, marking the start of Maryland’s three year commemoration of the bicentennial of the War of 1812.   In addition to the parade … Continue reading &rarr;"
+slug: "baltimores-star-spangled-sailabration-kicks-off-war-of-1812-bicentennial-festivities"
+excerpt: "Starting this Wednesday, June 13th, Baltimore, MD will host its \"Star-Spangled Sailabration,\"  a week long festival with 18 tall ships and  22 naval vessels, marking the start of Maryland’s three year commemoration of the bicentennial of the War of 1812.   In addition to the parade … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -18,7 +18,7 @@ tags:
   - "Star-Spangled Banner"
   - "Star-Spangled Sailabration"
 author: "Rick Spilman"
-description: "Starting this Wednesday, June 13th, Baltimore, MD will host its “Star-Spangled Sailabration,”  a week long festival with 18 tall ships and  22 naval vessels, marking the start of Maryland’s three year commemoration of the bicentennial of the War of 1812.   In addition to the parade … Continue reading &rarr;"
+description: "Starting this Wednesday, June 13th, Baltimore, MD will host its \"Star-Spangled Sailabration,\"  a week long festival with 18 tall ships and  22 naval vessels, marking the start of Maryland’s three year commemoration of the bicentennial of the War of 1812.   In addition to the parade … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/baltimoresail.jpg)Starting this Wednesday, June 13th, Baltimore, MD will host its “[Star-Spangled Sailabration](http://www.starspangled200.com/index.php),”  a week long festival with 18 tall ships and  22 naval vessels, marking the start of Maryland’s three year commemoration of the bicentennial of the War of 1812.   In addition to the parade of tall ships, the festivities will include parachute jumps into Camden Yards as well as music, fireworks and an air show over [Fort McHenry](http://www.nps.gov/fomc/index.htm).  [Click here to learn more](http://www.starspangled200.com/index.php) and to find “sailabration” [schedules](http://www.starspangled200.com/schedule-of-events#.T9XlO9VYuVo) and [maps](http://www.starspangled200.com/interactive-map#.T9XlUNVYuVo).  

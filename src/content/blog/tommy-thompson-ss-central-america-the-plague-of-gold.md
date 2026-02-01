@@ -1,7 +1,7 @@
 ---
 title: "Tommy Thompson, SS Central America & the Plague of Gold"
 date: 2014-09-18T10:11:06
-slug: tommy-thompson-ss-central-america-the-plague-of-gold
+slug: "tommy-thompson-ss-central-america-the-plague-of-gold"
 excerpt: "Odyssey Marine Exploration Inc. recently wrapped up recovery efforts on the wreck of the SS Central America for the year. In last five months, they have recovered more than 15,500 gold and silver coins, 45 gold bars and hundreds of nuggets, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Arthur Beale: London Chandlery Closing after 500 Years, Victim of the Pandemic and High Rents"
 date: 2021-05-19T10:50:20
-slug: arthur-beale-london-chandlery-closing-after-500-years-victim-of-the-pandemic-and-high-rents
+slug: "arthur-beale-london-chandlery-closing-after-500-years-victim-of-the-pandemic-and-high-rents"
 excerpt: "London’s yacht-chandler Arthur Beale will close its doors on June 24, after being in business for more than 500 years. Located on Shaftesbury Avenue, in what is now London’s West End, the store is shutting down due to high rents and … Continue reading &rarr;"
 categories:
   - "Current"

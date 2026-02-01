@@ -1,7 +1,7 @@
 ---
 title: "Manhattan Waterfront in 1937  — The Frayed Frontier of This Golden Island"
 date: 2019-11-09T09:15:44
-slug: manhattan-waterfront-in-1937-the-frayed-frontier-of-this-golden-island
+slug: "manhattan-waterfront-in-1937-the-frayed-frontier-of-this-golden-island"
 excerpt: "Last week, we posted a video promoting the Port of New York and New Jersey made in the 1950s. Here is a similar if very different video made by RKO focussing on the Manhattan waterfront around 1937, at the height … Continue reading &rarr;"
 categories:
   - "City of Ships"

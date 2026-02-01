@@ -1,7 +1,7 @@
 ---
 title: "Panama Canal Timelapse — 11 Hour Transit in 7 Minutes"
 date: 2020-01-06T15:49:19
-slug: panama-canal-timelapse-11-hour-transit-in-7-minutes
+slug: "panama-canal-timelapse-11-hour-transit-in-7-minutes"
 excerpt: "A fun video for a Monday.  A timelapse video of the 11-hour transit from the Pacific to the Atlantic on the Ocean Princess in just under 7 minutes. Shot by Steve Noble on February 28th, 2016. Panama Canal – Full … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

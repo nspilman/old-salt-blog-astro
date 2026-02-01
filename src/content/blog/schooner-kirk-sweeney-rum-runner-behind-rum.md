@@ -1,7 +1,7 @@
 ---
 title: "Schooner Kirk and Sweeney — the Rum-Runner Behind the Rum"
 date: 2017-03-14T13:01:14
-slug: schooner-kirk-sweeney-rum-runner-behind-rum
+slug: "schooner-kirk-sweeney-rum-runner-behind-rum"
 excerpt: "A March snowstorm has descended on the banks of the Hudson River. To be ready for all contingencies, I went out and purchased a decent bottle of rum. One can never be too prepared. I chose a 12 year old Dominican rum, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

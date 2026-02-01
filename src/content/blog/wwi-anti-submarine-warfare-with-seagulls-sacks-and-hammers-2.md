@@ -1,7 +1,7 @@
 ---
 title: "WWI Anti-Submarine Warfare with Seagulls, Sacks and Hammers"
 date: 2024-04-18T10:28:27
-slug: wwi-anti-submarine-warfare-with-seagulls-sacks-and-hammers-2
+slug: "wwi-anti-submarine-warfare-with-seagulls-sacks-and-hammers-2"
 excerpt: "One of the great things about writing historical fiction is discovering odd sets of facts, often buried in the archives, that capture both the desperation and the madness of a given time. Often, as the cliche goes, you just can’t … Continue reading &rarr;"
 categories:
   - "History"

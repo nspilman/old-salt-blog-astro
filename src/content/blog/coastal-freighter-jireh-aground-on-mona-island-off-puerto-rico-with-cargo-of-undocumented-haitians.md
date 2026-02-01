@@ -1,7 +1,7 @@
 ---
 title: "Coastal Freighter Jireh, Aground on Mona Island Off Puerto Rico with Cargo of Undocumented Haitians"
 date: 2012-06-22T16:31:39
-slug: coastal-freighter-jireh-aground-on-mona-island-off-puerto-rico-with-cargo-of-undocumented-haitians
+slug: "coastal-freighter-jireh-aground-on-mona-island-off-puerto-rico-with-cargo-of-undocumented-haitians"
 excerpt: "The 185-foot Honduran-flagged coastal freighter Jireh ran aground Thursday morning on Mona Island, a rocky outcropping in the Mona Passage about midway between Mayagüez, Puerto Rico and the Dominican Republic.  The island is uninhabited and maintained as a nature preserve, while the reefs around the island are … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

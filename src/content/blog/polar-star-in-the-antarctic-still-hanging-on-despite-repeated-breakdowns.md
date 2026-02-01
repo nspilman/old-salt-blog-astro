@@ -1,7 +1,7 @@
 ---
 title: "Polar Star in the Antarctic — Still Hanging On Despite Repeated Breakdowns"
 date: 2019-02-02T10:06:14
-slug: polar-star-in-the-antarctic-still-hanging-on-despite-repeated-breakdowns
+slug: "polar-star-in-the-antarctic-still-hanging-on-despite-repeated-breakdowns"
 excerpt: "We recently posted an incomplete list of some of the great things that the US Coast Guard was doing while not getting paid during the government shutdown. One of the missions was the resupply of the US McMurdo Station in … Continue reading &rarr;"
 categories:
   - "Current"

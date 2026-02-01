@@ -1,8 +1,8 @@
 ---
 title: "More Navy Corruption — MSC Director Convicted of Bribery in Korea"
 date: 2022-09-07T10:36:02
-slug: more-navy-corruption-msc-director-convicted-of-bribery-in-korea
-excerpt: "In a case with distinct echoes of the Navy’s almost decade-long “Fat Leonard” scandal, a former U.S. Navy director was convicted for his role in a bribery conspiracy and for lying to federal officials, according to authorities. Stars and Stripes reports … Continue reading &rarr;"
+slug: "more-navy-corruption-msc-director-convicted-of-bribery-in-korea"
+excerpt: "In a case with distinct echoes of the Navy’s almost decade-long \"Fat Leonard\" scandal, a former U.S. Navy director was convicted for his role in a bribery conspiracy and for lying to federal officials, according to authorities. Stars and Stripes reports … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -17,7 +17,7 @@ tags:
   - "U.S Navy"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/msc.jpg"
 author: "Rick Spilman"
-description: "In a case with distinct echoes of the Navy’s almost decade-long “Fat Leonard” scandal, a former U.S. Navy director was convicted for his role in a bribery conspiracy and for lying to federal officials, according to authorities. Stars and Stripes reports … Continue reading &rarr;"
+description: "In a case with distinct echoes of the Navy’s almost decade-long \"Fat Leonard\" scandal, a former U.S. Navy director was convicted for his role in a bribery conspiracy and for lying to federal officials, according to authorities. Stars and Stripes reports … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/08/msc.jpg)In a case with distinct echoes of the Navy’s almost decade-long [“Fat Leonard” scandal](https://www.oldsaltblog.com/2022/07/fat-leonard-corruption-trial-jury-convicts-four-former-navy-officers/), a former U.S. Navy director was convicted for his role in a bribery conspiracy and for lying to federal officials, according to authorities.

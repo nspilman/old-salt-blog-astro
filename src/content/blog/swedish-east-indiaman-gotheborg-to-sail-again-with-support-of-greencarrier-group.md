@@ -1,7 +1,7 @@
 ---
 title: "Swedish East Indiaman Götheborg to Sail Again with Support of Greencarrier Group"
 date: 2019-08-11T13:05:00
-slug: swedish-east-indiaman-gotheborg-to-sail-again-with-support-of-greencarrier-group
+slug: "swedish-east-indiaman-gotheborg-to-sail-again-with-support-of-greencarrier-group"
 excerpt: "Great news! The Swedish East Indiaman Götheborg will sail again thanks to support from the shipping agency Greencarrier Group, which has announced that it will take the full operational and financial responsibility for the ship for the next two years. … Continue reading &rarr;"
 categories:
   - "Current"

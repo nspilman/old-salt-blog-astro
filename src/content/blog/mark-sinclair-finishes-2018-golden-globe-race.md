@@ -1,7 +1,7 @@
 ---
 title: "Mark Sinclair Finishes 2018 Golden Globe Race"
 date: 2022-05-29T15:11:09
-slug: mark-sinclair-finishes-2018-golden-globe-race
+slug: "mark-sinclair-finishes-2018-golden-globe-race"
 excerpt: "On May 27, 2022, Australian solo sailor Mark Sinclair, 63, finished the 2018-2019 Golden Globe Race. He finished last and took four years to complete the race, but he finished, which is an accomplishment in its own right.  Sinclair had … Continue reading &rarr;"
 categories:
   - "Current"

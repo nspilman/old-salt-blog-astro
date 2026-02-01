@@ -1,7 +1,7 @@
 ---
 title: "Doug Peterson, Great Yacht Designer, Dies at 71"
 date: 2017-06-29T08:46:22
-slug: doug-peterson-great-yacht-designer-dies-71
+slug: "doug-peterson-great-yacht-designer-dies-71"
 excerpt: "Doug Peterson, one of the most talented yacht designers of our time, has died at 71 of cancer. He may be best remembered for his America’s Cup designs, as one of the lead designers of the winning 1992 America3 and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

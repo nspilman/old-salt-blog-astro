@@ -1,7 +1,7 @@
 ---
 title: "Oceanbridge Auckland Anniversary Day Regatta turns 170, Feb 1, 2010"
 date: 2010-01-22T11:22:46
-slug: oceanbridge-auckland-anniversary-day-regatta-turns-170-feb-1-2010
+slug: "oceanbridge-auckland-anniversary-day-regatta-turns-170-feb-1-2010"
 excerpt: "Oceanbridge Auckland Anniversary Day Regatta turns 170, Feb 1, 2010 On Monday, 1 February 2010, New Zealand’s oldest sporting event, the Auckland Anniversary Day Regatta will celebrate its 170th anniversary with a celebration of our maritime history and heritage on … Continue reading &rarr;"
 categories:
   - "Current"

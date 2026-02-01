@@ -1,7 +1,7 @@
 ---
 title: "Concert for Cello and Beluga Whales"
 date: 2015-10-09T09:01:15
-slug: concert-for-cello-and-beluga-whales
+slug: "concert-for-cello-and-beluga-whales"
 excerpt: "Hayley and Rob entertain belugas with a cello concert in Churchill Sound, Manitoba, Canada. Cello concert for belugas More video, after the page break. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

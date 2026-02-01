@@ -1,7 +1,7 @@
 ---
 title: "Death of a Coast Guard Legend – Lieutenant Herbert M. Collins Crosses the Bar"
 date: 2010-03-17T08:11:47
-slug: death-of-a-coast-guard-legend-%e2%80%93-lieutenant-herbert-m-collins-crosses-the-bar
+slug: "death-of-a-coast-guard-legend-%e2%80%93-lieutenant-herbert-m-collins-crosses-the-bar"
 excerpt: "Death of a Coast Guard Legend – Lieutenant Herbert M. Collins Crosses the Bar A Coast Guard Legend passed away yesterday. Lieutenant Herbert M. Collins, USCG (RET), the last survivor of the legendary Pea Island Life Saving Station, passed away … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

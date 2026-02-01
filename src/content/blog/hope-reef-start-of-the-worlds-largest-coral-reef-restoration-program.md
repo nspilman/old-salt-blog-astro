@@ -1,7 +1,7 @@
 ---
 title: "Hope Reef, Start of the World’s Largest Coral Reef Restoration Program"
 date: 2021-05-23T12:58:00
-slug: hope-reef-start-of-the-worlds-largest-coral-reef-restoration-program
+slug: "hope-reef-start-of-the-worlds-largest-coral-reef-restoration-program"
 excerpt: "What does cat food have to do with coral reefs? Mars Petcare catfood brand SHEBA®  has partnered with The Nature Conservancy to develop what it claims is the world’s largest coral restoration program, expected to cover more than 185,000 square … Continue reading &rarr;"
 categories:
   - "Current"

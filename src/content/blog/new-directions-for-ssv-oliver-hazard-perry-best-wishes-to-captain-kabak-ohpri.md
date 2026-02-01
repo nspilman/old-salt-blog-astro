@@ -1,20 +1,20 @@
 ---
 title: "New Directions for SSV Oliver Hazard Perry — Best Wishes to Captain Kabak & OHPRI"
 date: 2019-02-19T17:22:44
-slug: new-directions-for-ssv-oliver-hazard-perry-best-wishes-to-captain-kabak-ohpri
-excerpt: "We recently posted that the Oliver Hazard Perry Rhode Island (OHPRI) organization had taken a “strategic pause” to rethink its strategy for the financial sustainability of the SS Oliver Hazard Perry, the largest civilian Sailing School Vessel in the United States. Now, the organization has announced a new … Continue reading &rarr;"
+slug: "new-directions-for-ssv-oliver-hazard-perry-best-wishes-to-captain-kabak-ohpri"
+excerpt: "We recently posted that the Oliver Hazard Perry Rhode Island (OHPRI) organization had taken a \"strategic pause\" to rethink its strategy for the financial sustainability of the SS Oliver Hazard Perry, the largest civilian Sailing School Vessel in the United States. Now, the organization has announced a new … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - "Avery “Whip” Seaman"
+  - "Avery \"Whip\" Seaman"
   - "Captain Jonathan Kabak"
   - "Oliver Hazard Perry Rhode Island"
   - "SSV Oliver Hazard Perry"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/04/ohp3.jpg"
 author: "Rick Spilman"
-description: "We recently posted that the Oliver Hazard Perry Rhode Island (OHPRI) organization had taken a “strategic pause” to rethink its strategy for the financial sustainability of the SS Oliver Hazard Perry, the largest civilian Sailing School Vessel in the United States. Now, the organization has announced a new … Continue reading &rarr;"
+description: "We recently posted that the Oliver Hazard Perry Rhode Island (OHPRI) organization had taken a \"strategic pause\" to rethink its strategy for the financial sustainability of the SS Oliver Hazard Perry, the largest civilian Sailing School Vessel in the United States. Now, the organization has announced a new … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/04/ohp3.jpg)We recently [posted](http://www.oldsaltblog.com/2019/02/tallship-oliver-hazard-perry-in-drydock-with-uncertain-future/) that the [Oliver Hazard Perry Rhode Island](https://www.ohpri.org/) (OHPRI) organization had taken a “strategic pause” to rethink its strategy for the financial sustainability of the SS *Oliver Hazard Perry*, the largest civilian Sailing School Vessel in the United States. Now, the organization has announced a [new operating plan](https://www.ohpri.org/ohpri-2019-moving-forward). 

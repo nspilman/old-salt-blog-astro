@@ -1,7 +1,7 @@
 ---
 title: "Fire and Explosions After Container Ship Strikes Anchored Tanker Off Humber in North Sea"
 date: 2025-03-10T18:21:15
-slug: fire-and-explosions-after-container-ship-strikes-anchored-tanker-off-humber-in-north-sea
+slug: "fire-and-explosions-after-container-ship-strikes-anchored-tanker-off-humber-in-north-sea"
 excerpt: "This morning, the 804 TEU Portuguese-flag container ship Solong struck the 49,729 DWT US-flag product tanker Stena Immaculate, at anchor in the North Sea, off the mouth of the River Humber. Multiple explosions were reported as the ships caught fire.  Both … Continue reading &rarr;"
 categories:
   - "Current"

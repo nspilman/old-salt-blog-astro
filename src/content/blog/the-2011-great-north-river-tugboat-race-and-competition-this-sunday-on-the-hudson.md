@@ -1,7 +1,7 @@
 ---
 title: "The 2011 Great North River Tugboat Race and Competition this Sunday on the Hudson"
 date: 2011-09-01T09:32:09
-slug: the-2011-great-north-river-tugboat-race-and-competition-this-sunday-on-the-hudson
+slug: "the-2011-great-north-river-tugboat-race-and-competition-this-sunday-on-the-hudson"
 excerpt: "The 19th Annual Great North River Tugboat Race and Competition sponsored by the Working Harbor Committee is scheduled to run this Sunday, September 4th, in the Hudson River off Pier 84 at the foot of West 44th Street.  The Parade of Tugs starts at 10:00 … Continue reading &rarr;"
 categories:
   - "Current"

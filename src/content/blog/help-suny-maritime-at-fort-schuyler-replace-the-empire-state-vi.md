@@ -1,7 +1,7 @@
 ---
 title: "Help SUNY Maritime at Fort Schuyler Replace the Empire State VI"
 date: 2016-03-08T09:30:42
-slug: help-suny-maritime-at-fort-schuyler-replace-the-empire-state-vi
+slug: "help-suny-maritime-at-fort-schuyler-replace-the-empire-state-vi"
 excerpt: "We recently posted about Scott Kelly, the American astronaut who spent almost a year in space on the international Space Station. Scott Kelly is an alumnus of the State University of New York Maritime College at Fort Schuyler.  Before graduating … Continue reading &rarr;"
 categories:
   - "Current"

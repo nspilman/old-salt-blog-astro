@@ -1,7 +1,7 @@
 ---
 title: "The Mystery of the Superyacht Scheherazade — Who is the Owner?"
 date: 2022-03-08T18:19:49
-slug: the-mystery-of-the-superyacht-scheherazade-who-is-the-owner
+slug: "the-mystery-of-the-superyacht-scheherazade-who-is-the-owner"
 excerpt: "As Western governments scrabble to identify the luxury yachts of sanctioned Russian oligarchs, the ownership of Scheherazade, a 495′ long superyacht, docked in Marina di Carrara, a small Italian town on the Tuscan coast, remains a mystery. Valued at $700 … Continue reading &rarr;"
 categories:
   - "Current"

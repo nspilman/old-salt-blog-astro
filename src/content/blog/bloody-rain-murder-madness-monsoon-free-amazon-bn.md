@@ -1,7 +1,7 @@
 ---
 title: "Bloody Rain — Murder, Madness and the Monsoon :  Free on Amazon & B&N"
 date: 2017-10-30T09:05:05
-slug: bloody-rain-murder-madness-monsoon-free-amazon-bn
+slug: "bloody-rain-murder-madness-monsoon-free-amazon-bn"
 excerpt: "My short story Bloody Rain — Murder, Madness and the Monsoon, set on a sailing ship in the 1880s, is free as an ebook on Amazon and Barnes & Noble.  That’s right — free.  Feel free to grab a copy. About … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

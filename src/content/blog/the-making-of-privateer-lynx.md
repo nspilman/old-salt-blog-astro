@@ -1,7 +1,7 @@
 ---
 title: "The Making of Privateer Lynx"
 date: 2010-05-19T14:36:08
-slug: the-making-of-privateer-lynx
+slug: "the-making-of-privateer-lynx"
 excerpt: "The schooner Lynx, a replica of a War of 1812 privateer,  is sailing on the US East coast these days on her way to the Great Lakes to celebrate the upcoming War of 1812 Bicentennial.   J. Dennis Robinson will give an informal … Continue reading &rarr;"
 categories:
   - "Current"

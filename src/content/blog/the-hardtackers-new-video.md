@@ -1,7 +1,7 @@
 ---
 title: "The Hardtackers, New Video"
 date: 2015-02-08T20:14:46
-slug: the-hardtackers-new-video
+slug: "the-hardtackers-new-video"
 excerpt: "The Hardtackers Shanty Crew put out a fine new promotional video just a week or two before the publication of my new novel, The Shantyman.  The events are unrelated but feel fortuitous. See our review of the Hardtacker’s CD, Don’t … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

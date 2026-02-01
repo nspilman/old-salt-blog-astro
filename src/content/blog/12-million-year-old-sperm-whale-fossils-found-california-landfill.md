@@ -1,7 +1,7 @@
 ---
 title: "12 Million Year Old Sperm Whale Fossils Found in California Landfill"
 date: 2016-06-24T17:02:06
-slug: 12-million-year-old-sperm-whale-fossils-found-california-landfill
+slug: "12-million-year-old-sperm-whale-fossils-found-california-landfill"
 excerpt: "You never know what you will find in a landfill.  Paleontologist Melissa Macias was looking for fossils in the Bowerman Landfill in Irvine, California, when she spotted teeth and bones as a construction crew moved soil to create a new waste disposal … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "SS City of Rio de Janeiro, San Francisco’s Deadliest Shipwreck Found Again"
 date: 2014-12-23T14:56:00
-slug: ss-city-of-rio-de-janeiro-san-franciscos-deadliest-shipwreck-found-again
-excerpt: "Recently, History.com featured an article titled “Found: San Francisco’s Deadliest Shipwreck.” They reported that the wreck of the 345-foot Pacific Mail Line passenger steamer SS City of Rio de Janeiro had been found by NOAA researchers using high-definition sonar in 287 feet … Continue reading &rarr;"
+slug: "ss-city-of-rio-de-janeiro-san-franciscos-deadliest-shipwreck-found-again"
+excerpt: "Recently, History.com featured an article titled \"Found: San Francisco’s Deadliest Shipwreck.\" They reported that the wreck of the 345-foot Pacific Mail Line passenger steamer SS City of Rio de Janeiro had been found by NOAA researchers using high-definition sonar in 287 feet … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"

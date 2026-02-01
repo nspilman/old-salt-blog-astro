@@ -1,7 +1,7 @@
 ---
 title: "15.5 Metric Tonnes of Cocaine Seized on Container Ship MSC Gayane in Philly"
 date: 2019-06-18T18:21:24
-slug: sixteen-tons-of-cocaine-seized-on-container-ship-msc-gayane-in-philly
+slug: "sixteen-tons-of-cocaine-seized-on-container-ship-msc-gayane-in-philly"
 excerpt: "In one of the largest drug seizures in United States history, Federal authorities seized 15,500 kilos of cocaine hidden in seven shipping containers on the container ship MSC Gayane in the port of Philadelphia. The street value of the drugs … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship Lynx  —  Sailing from St. Petersburg & Nantucket"
 date: 2016-11-27T11:27:57
-slug: tall-ship-lynx-sailing-from-st-petersburg-nantucktet
+slug: "tall-ship-lynx-sailing-from-st-petersburg-nantucktet"
 excerpt: "The Tall Ship Lynx is reported to have found a winter home in St. Petersburg, FL. The ship visited St. Pete last winter and is now expected to make the Gulf Coast city its permanent winter home, according to a … Continue reading &rarr;"
 categories:
   - "Current"

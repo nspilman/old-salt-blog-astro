@@ -1,7 +1,7 @@
 ---
 title: "Robert L. Allen, Chronicler and Champion of Black Sailors in Port Chicago Disaster & Mutiny, Dies at 82"
 date: 2024-07-28T19:38:38
-slug: robert-l-allen-chronicler-and-champion-of-black-sailors-in-port-chicago-disaster-mutiny-dies-at-82
+slug: "robert-l-allen-chronicler-and-champion-of-black-sailors-in-port-chicago-disaster-mutiny-dies-at-82"
 excerpt: "Robert L. Allen, who definitively told the story of 50 Black sailors who were convicted of conspiracy to commit mutiny for refusing to continue to load munitions onto cargo ships after explosions had blown apart two ships at a California … Continue reading &rarr;"
 categories:
   - "Current"

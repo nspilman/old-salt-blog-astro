@@ -1,7 +1,7 @@
 ---
 title: "Emirates Team New Zealand Breaks Wind-Powered Land Speed Record"
 date: 2022-12-17T11:27:38
-slug: emirates-team-new-zealand-breaks-wind-powered-land-speed-record
+slug: "emirates-team-new-zealand-breaks-wind-powered-land-speed-record"
 excerpt: "Emirates Team New Zealand, famous for winning the America’s Cup, has broken the wind-powered land speed record. Its land yacht Horonuku reached 138.2 miles per hour (222.4 km/h) in 25.3 mph winds on the dry basin of Lake Gairdner in … Continue reading &rarr;"
 categories:
   - "Current"

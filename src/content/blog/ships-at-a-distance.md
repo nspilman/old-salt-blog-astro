@@ -1,7 +1,7 @@
 ---
 title: "Ships at a Distance"
 date: 2014-01-07T13:28:56
-slug: ships-at-a-distance
+slug: "ships-at-a-distance"
 excerpt: "Today is the 123rd anniversary of Zora Neale Hurston‘s birthday. She is being honored by Google with a graphic on the main search page. Hurston is considered to be one of the pre-eminent African-America writers of the 20th century. She … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

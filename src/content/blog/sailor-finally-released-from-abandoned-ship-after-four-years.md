@@ -1,8 +1,8 @@
 ---
 title: "Sailor Finally Released From Abandoned Ship After Four Years"
 date: 2021-04-30T09:16:09
-slug: sailor-finally-released-from-abandoned-ship-after-four-years
-excerpt: "First Officer Mohammed Aisha had been stranded on the “cursed” MV Aman, for almost four years onboard, stuck off the Egyptian coast. He has finally been freed and has flown home to Syria. The BBC reports that it began in … Continue reading &rarr;"
+slug: "sailor-finally-released-from-abandoned-ship-after-four-years"
+excerpt: "First Officer Mohammed Aisha had been stranded on the \"cursed\" MV Aman, for almost four years onboard, stuck off the Egyptian coast. He has finally been freed and has flown home to Syria. The BBC reports that it began in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "stranded"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/stranded-first-officer.jpg"
 author: "Rick Spilman"
-description: "First Officer Mohammed Aisha had been stranded on the “cursed” MV Aman, for almost four years onboard, stuck off the Egyptian coast. He has finally been freed and has flown home to Syria. The BBC reports that it began in … Continue reading &rarr;"
+description: "First Officer Mohammed Aisha had been stranded on the \"cursed\" MV Aman, for almost four years onboard, stuck off the Egyptian coast. He has finally been freed and has flown home to Syria. The BBC reports that it began in … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/stranded-first-officer.jpg)First Officer Mohammed Aisha had been stranded on the “cursed” MV *Aman*, for almost four years onboard, stuck off the Egyptian coast. He has finally been freed and has flown home to Syria.

@@ -1,7 +1,7 @@
 ---
 title: "Russia Using Trained Dolphins to Patrol Protect Black Sea Naval Base"
 date: 2022-05-01T18:01:12
-slug: russia-using-trained-dolphins-to-patrol-protect-black-sea-naval-base
+slug: "russia-using-trained-dolphins-to-patrol-protect-black-sea-naval-base"
 excerpt: "Satellite photographs show Russia has deployed trained dolphins at the entrance to the key Black Sea port of Sevastopol, home to Russia’s Black Sea naval fleet. The dolphins are likely to be trained to intercept Ukrainian divers attempting to sabotage … Continue reading &rarr;"
 categories:
   - "Current"

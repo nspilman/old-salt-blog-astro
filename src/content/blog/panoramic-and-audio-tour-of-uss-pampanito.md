@@ -1,7 +1,7 @@
 ---
 title: "Panoramic and Audio Tour of USS Pampanito"
 date: 2014-11-09T18:39:28
-slug: panoramic-and-audio-tour-of-uss-pampanito
+slug: "panoramic-and-audio-tour-of-uss-pampanito"
 excerpt: "Thanks to Richard Pekelney for passing along the link to a wonderful panoramic and audio tour of the USS Pampanito, a World War II Balao class Fleet submarine museum and memorial that is open for visitors daily at San Francisco’s Fisherman’s Wharf. … Continue reading &rarr;"
 categories:
   - "Current"

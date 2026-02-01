@@ -1,7 +1,7 @@
 ---
 title: "Will Royal Cone Snail Venom Help Solve the Opioid Overdose Epidemic?"
 date: 2017-03-05T15:37:56
-slug: will-royal-cone-snail-venom-help-solve-opioid-overdose-epidemic
+slug: "will-royal-cone-snail-venom-help-solve-opioid-overdose-epidemic"
 excerpt: "The United State is facing an epidemic of fatal drug overdoses due to the use of prescription opioids as painkillers. In the US in 2015, there were over 20,000 overdose deaths related to prescription pain relievers, and 12,990 overdose deaths related to … Continue reading &rarr;"
 categories:
   - "Current"

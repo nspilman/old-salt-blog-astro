@@ -1,7 +1,7 @@
 ---
 title: "University of Strathclyde Wins First Place for Safe Affordable Ferry Design"
 date: 2016-06-04T17:50:25
-slug: university-strathclyde-wins-first-place-safe-affordable-ferry-design
+slug: "university-strathclyde-wins-first-place-safe-affordable-ferry-design"
 excerpt: "The UK’s University of Strathclyde won the top prize in the third Worldwide Ferry Safety Association’s Student Design Competition for a Safe Affordable Ferry. The $5,0000 USD award for the design was presented by Bekir Sitki Ustaoglu, Asia Pacific chief of the … Continue reading &rarr;"
 categories:
   - "Current"

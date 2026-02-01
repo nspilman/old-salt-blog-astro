@@ -1,7 +1,7 @@
 ---
 title: "When Crustaceans Attack — Did Sea Lice Chew Up Australian Teen’s Legs?"
 date: 2017-08-07T16:47:43
-slug: crustaceans-attack-sea-lice-chew-australian-teens-legs
+slug: "crustaceans-attack-sea-lice-chew-australian-teens-legs"
 excerpt: "Australian waters can be dangerous. Over the years we have posted about attacks by crocodiles, sharks and deadly jellyfish.   This hazard, however, is new, at least to us. Recently, Australian media was flooded with photos of the bloodied legs … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "USS New Jersey, First Coed Submarine, Commissioned"
 date: 2024-09-14T20:43:06
-slug: uss-new-jersey-first-coed-submarine-commissioned
+slug: "uss-new-jersey-first-coed-submarine-commissioned"
 excerpt: "The US Navy commissioned its first-ever coed submarine, the Virginia-class attack submarine USS New Jersey, at a ceremony at Naval Weapons Station Earle in Middletown, NJ. The US Navy has allowed women to serve on US Navy submarines for more … Continue reading &rarr;"
 categories:
   - "Current"

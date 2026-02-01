@@ -1,7 +1,7 @@
 ---
 title: "The Shipbreakers of Alang"
 date: 2012-09-16T22:07:56
-slug: the-shipbreakers-of-alang
+slug: "the-shipbreakers-of-alang"
 excerpt: "Ships have a finite lifespan, usually not more than 20 years, often much less.  When a ship reaches the end of its economic life, there needs to be a place to recycle the steel, the other valuable metals and equipment.  In a … Continue reading &rarr;"
 categories:
   - "Current"

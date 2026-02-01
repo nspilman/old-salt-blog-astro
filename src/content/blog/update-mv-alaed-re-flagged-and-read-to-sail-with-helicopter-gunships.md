@@ -1,7 +1,7 @@
 ---
 title: "Update: MV Alaed, Re-flagged and Ready to Sail to Syria with Helicopter Gunships"
 date: 2012-06-24T15:33:25
-slug: update-mv-alaed-re-flagged-and-read-to-sail-with-helicopter-gunships
+slug: "update-mv-alaed-re-flagged-and-read-to-sail-with-helicopter-gunships"
 excerpt: "Last week, we posted about the MV Alaed, a 9,000 DWT geared cargo ship, reported to be carrying refurbished Russian attack helicopters bound for Syria. The ship, sailing under the Curacao flag, was turned aback after the cancellation of its P&I … Continue reading &rarr;"
 categories:
   - "Current"

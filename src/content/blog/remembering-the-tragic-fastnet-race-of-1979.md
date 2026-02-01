@@ -1,7 +1,7 @@
 ---
 title: "Remembering the Tragic Fastnet Race of 1979"
 date: 2019-08-14T15:03:48
-slug: remembering-the-tragic-fastnet-race-of-1979
+slug: "remembering-the-tragic-fastnet-race-of-1979"
 excerpt: "Forty years ago today, on the third day of the 605-mile Fastnet Race, an unexpectedly strong storm struck the fleet with tragic results. The fleet of 303 sailing yachts had set off on August 11,1979 in clear weather with calm … Continue reading &rarr;"
 categories:
   - "History"

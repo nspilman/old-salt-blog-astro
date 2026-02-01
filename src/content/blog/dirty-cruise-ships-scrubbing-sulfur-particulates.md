@@ -1,8 +1,8 @@
 ---
 title: "How Dirty are Cruise Ships? Scrubbing Sulfur and Particulates"
 date: 2017-11-01T09:33:21
-slug: dirty-cruise-ships-scrubbing-sulfur-particulates
-excerpt: "How dirty are cruise ships? How much pollution do they really create? It is hard to tell. Several years ago we posted about a claim by the Friends of the Earth which asserted that cruise ships “flushed more than a … Continue reading &rarr;"
+slug: "dirty-cruise-ships-scrubbing-sulfur-particulates"
+excerpt: "How dirty are cruise ships? How much pollution do they really create? It is hard to tell. Several years ago we posted about a claim by the Friends of the Earth which asserted that cruise ships \"flushed more than a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Royal Caribbean Cruise Lines"
   - "scrubbers"
 author: "Rick Spilman"
-description: "How dirty are cruise ships? How much pollution do they really create? It is hard to tell. Several years ago we posted about a claim by the Friends of the Earth which asserted that cruise ships “flushed more than a … Continue reading &rarr;"
+description: "How dirty are cruise ships? How much pollution do they really create? It is hard to tell. Several years ago we posted about a claim by the Friends of the Earth which asserted that cruise ships \"flushed more than a … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/10/oreana.jpg)How dirty are cruise ships? How much pollution do they really create? It is hard to tell. Several years ago we [posted about a claim by the Friends of the Earth](http://www.oldsaltblog.com/2014/12/cruise-ships-sewage-foe-misses-the-point/) which asserted that cruise ships “flushed more than a billion gallons of sewage into oceans” each year. Even a quick glance at the data showed that that wasn’t the case. As we wrote then, the claim was a “wild exaggeration at best. Calling it a boldfaced lie might be a more accurate characterization.”  

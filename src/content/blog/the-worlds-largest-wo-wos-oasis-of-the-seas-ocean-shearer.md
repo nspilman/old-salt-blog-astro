@@ -1,8 +1,8 @@
 ---
 title: "The World’s Largest Wo-Wos — Oasis of the Seas &  Ocean Shearer"
 date: 2014-11-13T19:14:28
-slug: the-worlds-largest-wo-wos-oasis-of-the-seas-ocean-shearer
-excerpt: "Back in the 70s, the advent of oceangoing ships with wheeled cargo introduced the shipping community to the Ro-Ro (roll-on/roll-off.)  Since then acronyms with an “o” sound have gained in popularity.  General cargo and container ships became Lo-Los (lift-on/lift-off). Combination … Continue reading &rarr;"
+slug: "the-worlds-largest-wo-wos-oasis-of-the-seas-ocean-shearer"
+excerpt: "Back in the 70s, the advent of oceangoing ships with wheeled cargo introduced the shipping community to the Ro-Ro (roll-on/roll-off.)  Since then acronyms with an \"o\" sound have gained in popularity.  General cargo and container ships became Lo-Los (lift-on/lift-off). Combination … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

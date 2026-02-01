@@ -1,7 +1,7 @@
 ---
 title: "China and Solomon Islands Draft Secret Security Pact, Raising Concerns in the Pacific"
 date: 2022-03-29T10:08:47
-slug: china-and-solomon-islands-draft-secret-security-pact-raising-concerns-in-the-pacific
+slug: "china-and-solomon-islands-draft-secret-security-pact-raising-concerns-in-the-pacific"
 excerpt: "The New York Times reports that a leaked document has revealed that China and the Solomon Islands are close to signing a security agreement that could open the door to Chinese troops and naval warships flowing into a Pacific Island … Continue reading &rarr;"
 categories:
   - "Current"

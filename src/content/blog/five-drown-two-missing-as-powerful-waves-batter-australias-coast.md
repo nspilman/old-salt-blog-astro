@@ -1,7 +1,7 @@
 ---
 title: "Five Drown, Two Missing as Powerful Waves Batter Australia’s Coast"
 date: 2025-04-19T18:01:34
-slug: five-drown-two-missing-as-powerful-waves-batter-australias-coast
+slug: "five-drown-two-missing-as-powerful-waves-batter-australias-coast"
 excerpt: "The BBC reports that five people have drowned after huge waves hit parts of Australia at the start of the Easter weekend.  Two others are missing off the coasts of New South Wales and Victoria. On Saturday, the body of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

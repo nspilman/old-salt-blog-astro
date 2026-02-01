@@ -1,7 +1,7 @@
 ---
 title: "Happy Valentine’s Day —  A Great Day for Jarvis & Nelson, A Bad Day for Cook"
 date: 2015-02-14T15:27:31
-slug: happy-valentines-day-a-great-day-for-jarvis-nelson-a-bad-day-for-cook
+slug: "happy-valentines-day-a-great-day-for-jarvis-nelson-a-bad-day-for-cook"
 excerpt: "Happy Valentine’s Day! The day is named for one of several martyrs named Valentine.  Valentine of Rome and Valentine of Terni both have feast days on February 14th. The day is also associated with an old Roman fertility festival Lupercalia.  February … Continue reading &rarr;"
 categories:
   - "History"

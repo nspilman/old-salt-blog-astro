@@ -1,7 +1,7 @@
 ---
 title: "Repost: On Armistice Day, Remembering the German High Seas Fleet Mutinies of 1918"
 date: 2023-11-11T14:41:56
-slug: repost-on-armistice-day-remembering-the-german-high-seas-fleet-mutinies-of-1918-2
+slug: "repost-on-armistice-day-remembering-the-german-high-seas-fleet-mutinies-of-1918-2"
 excerpt: "In the US, today is Veteran’s Day, when we honor those who have served in the military. It coincides with Armistice Day, the anniversary of the signing of the armistice which ended World War I, on the 11th hour of … Continue reading &rarr;"
 categories:
   - "History"

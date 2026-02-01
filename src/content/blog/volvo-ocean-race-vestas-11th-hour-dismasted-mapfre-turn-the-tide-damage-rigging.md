@@ -1,7 +1,7 @@
 ---
 title: "Volvo Ocean Race:  Vestas 11th Hour Dismasted, MAPFRE & Turn the Tide Damage Rigging"
 date: 2018-03-31T10:30:37
-slug: volvo-ocean-race-vestas-11th-hour-dismasted-mapfre-turn-the-tide-damage-rigging
+slug: "volvo-ocean-race-vestas-11th-hour-dismasted-mapfre-turn-the-tide-damage-rigging"
 excerpt: "The Southern Ocean has been battering the rigs of the boats sailing in the Volvo Ocean Race (VOR) as the fleet rounds Cape Horn. On Friday, Vestas 11th Hour Racing was dismasted. The Vestas boat lost its mast in 25 … Continue reading &rarr;"
 categories:
   - "Current"

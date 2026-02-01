@@ -1,7 +1,7 @@
 ---
 title: "Virtual Shanty/Chantey Sing, Part 2 — Singalong with the Sheringham Shantymen"
 date: 2020-05-01T11:25:37
-slug: virtual-shanty-chantey-sing-part-2-singalong-with-the-sheringham-shantymen
+slug: "virtual-shanty-chantey-sing-part-2-singalong-with-the-sheringham-shantymen"
 excerpt: "Yesterday, we posted about a virtual chantey sing this Sunday, organized by New York’s South Street Seaport Museum. Here is a slightly different take on a virtual shanty sing. The Sheringham Shantymen are celebrating their 30th anniversary and they are … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

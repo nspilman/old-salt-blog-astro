@@ -1,7 +1,7 @@
 ---
 title: "2017 Lower Keys Underwater Music Festival"
 date: 2017-07-14T09:20:50
-slug: 2017-lower-keys-underwater-music-festival
+slug: "2017-lower-keys-underwater-music-festival"
 excerpt: "Some 400 divers and snorkelers rocked-out to a unique sub-sea concert that promoted reef protection on part of the world’s third-largest living coral barrier reef last Saturday.  The Lower Keys Underwater Music Festival took place at Looe Key Reef, an … Continue reading &rarr;"
 categories:
   - "Current"

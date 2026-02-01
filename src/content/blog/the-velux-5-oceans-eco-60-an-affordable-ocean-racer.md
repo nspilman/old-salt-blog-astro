@@ -1,8 +1,8 @@
 ---
-title: "The Velux 5 Oceans Eco 60, an “affordable” ocean racer?"
+title: "The Velux 5 Oceans Eco 60, an \"affordable\" ocean racer?"
 date: 2010-10-17T14:21:17
-slug: the-velux-5-oceans-eco-60-an-affordable-ocean-racer
-excerpt: "Six sailors have crossed the starting line on the Velux 5 Oceans single-handed around the word race.  They are all sailing Eco 60 class sailboats.  As the race begins we thought it worthwhile to take a look at this “new” class of … Continue reading &rarr;"
+slug: "the-velux-5-oceans-eco-60-an-affordable-ocean-racer"
+excerpt: "Six sailors have crossed the starting line on the Velux 5 Oceans single-handed around the word race.  They are all sailing Eco 60 class sailboats.  As the race begins we thought it worthwhile to take a look at this \"new\" class of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "single-handed around the word race"
   - "Velux 5 Oceans"
 author: "Rick Spilman"
-description: "Six sailors have crossed the starting line on the Velux 5 Oceans single-handed around the word race.  They are all sailing Eco 60 class sailboats.  As the race begins we thought it worthwhile to take a look at this “new” class of … Continue reading &rarr;"
+description: "Six sailors have crossed the starting line on the Velux 5 Oceans single-handed around the word race.  They are all sailing Eco 60 class sailboats.  As the race begins we thought it worthwhile to take a look at this \"new\" class of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/teamlazarus.jpg)

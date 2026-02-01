@@ -1,7 +1,7 @@
 ---
 title: "Captain John Newton & Amazing Grace — The Story Behind the Myth"
 date: 2015-07-11T13:26:21
-slug: captain-john-newton-amazing-grace-the-story-behind-the-myth
+slug: "captain-john-newton-amazing-grace-the-story-behind-the-myth"
 excerpt: "A new musical is coming to Broadway this summer, which features a ship’s captain and stage sets with lots of ship’s rigging. It is based on the story of Captain John Newton and the song Amazing Grace.  The musical is described: … Continue reading &rarr;"
 categories:
   - "History"

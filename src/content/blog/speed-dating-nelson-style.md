@@ -1,7 +1,7 @@
 ---
 title: "Speed Dating – Nelson Style !?!"
 date: 2011-01-20T09:23:32
-slug: speed-dating-nelson-style
+slug: "speed-dating-nelson-style"
 excerpt: "Nelson style speed dating?   I hope this doesn’t involve boarding with cutlasses. Unlucky in love? Try speed dating Nelson-style! His romance with mistress Lady Hamilton is the stuff of legend – and singletons will hope to harness some of Lord Nelson’s pulling … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Space Shuttle Enterprise in New York – Damaged in Transit and Delayed by Weather"
 date: 2012-06-05T15:59:29
-slug: space-shuttle-enterprise-in-new-york-damaged-in-transit-and-delayed-by-weather
+slug: "space-shuttle-enterprise-in-new-york-damaged-in-transit-and-delayed-by-weather"
 excerpt: "The Space Shuttle Enterprise has not had an easy time in New York.  When it was barged last Sunday between Kennedy Airport and Bayonne, New Jersey, prior to its final move to the Intrepid Sea, Air and Space Museum, it suffered minor damage to one wingtip when the barge … Continue reading &rarr;"
 categories:
   - "Current"

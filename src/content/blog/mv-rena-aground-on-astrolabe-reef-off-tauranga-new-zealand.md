@@ -1,7 +1,7 @@
 ---
 title: "MV Rena Aground on Astrolabe Reef off Tauranga, New Zealand"
 date: 2011-10-05T17:45:10
-slug: mv-rena-aground-on-astrolabe-reef-off-tauranga-new-zealand
+slug: "mv-rena-aground-on-astrolabe-reef-off-tauranga-new-zealand"
 excerpt: "The Liberian flagged container ship, MV Rena, ran aground on the Astrolabe Reef off Tauranga, New Zealand yesterday, flooding two cargo holds.   The ship is loaded with approximately 2,100 containers and has around 1,700 tonnes of heavy fuel.  There has been no spillage of … Continue reading &rarr;"
 categories:
   - "Current"

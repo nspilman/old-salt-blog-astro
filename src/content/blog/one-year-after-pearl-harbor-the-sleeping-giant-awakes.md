@@ -1,8 +1,8 @@
 ---
 title: "One Year After Pearl Harbor, the Sleeping Giant Awakes"
 date: 2024-12-08T15:55:21
-slug: one-year-after-pearl-harbor-the-sleeping-giant-awakes
-excerpt: "Japanese Admiral Isoroku Yamamoto, who planned the attack on Pearl Harbor  reportedly wrote in his diary, “I fear all we have done is to awaken a sleeping giant and fill him with a terrible resolve.” Whether or not the Admiral … Continue reading &rarr;"
+slug: "one-year-after-pearl-harbor-the-sleeping-giant-awakes"
+excerpt: "Japanese Admiral Isoroku Yamamoto, who planned the attack on Pearl Harbor  reportedly wrote in his diary, \"I fear all we have done is to awaken a sleeping giant and fill him with a terrible resolve.\" Whether or not the Admiral … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -14,7 +14,7 @@ tags:
   - "world war II"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/battleshipnewjersey.jpg"
 author: "Rick Spilman"
-description: "Japanese Admiral Isoroku Yamamoto, who planned the attack on Pearl Harbor  reportedly wrote in his diary, “I fear all we have done is to awaken a sleeping giant and fill him with a terrible resolve.” Whether or not the Admiral … Continue reading &rarr;"
+description: "Japanese Admiral Isoroku Yamamoto, who planned the attack on Pearl Harbor  reportedly wrote in his diary, \"I fear all we have done is to awaken a sleeping giant and fill him with a terrible resolve.\" Whether or not the Admiral … Continue reading &rarr;"
 ---
 
 Japanese Admiral Isoroku Yamamoto, who planned the attack on Pearl Harbor  reportedly wrote in his diary, “I fear all we have done is to awaken a sleeping giant and fill him with a terrible resolve.” Whether or not the Admiral actually penned those words is [subject to debate](https://en.wikipedia.org/wiki/Isoroku_Yamamoto%27s_sleeping_giant_quote), however, there is no doubt that the attack did awaken a sleeping giant — the industrial might of the United States.

@@ -1,7 +1,7 @@
 ---
 title: "Valentine’s Day TBT – Valentine Islands"
 date: 2019-02-14T08:22:48
-slug: valentines-day-tbt-valentine-islands
+slug: "valentines-day-tbt-valentine-islands"
 excerpt: "On Throw-Back Thursday and Valentine’s Day, here is a repost from a few years ago of a series of Valentine Islands, not all of which are tropical. Are they islands of love on the storm-tossed seas of life?  Sadly, they … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Detroit Riverdays featuring the Appledore Schooners"
 date: 2011-06-23T11:46:13
-slug: detroit-riverdays-featuring-the-schooners-appledore-iv-and-v
+slug: "detroit-riverdays-featuring-the-schooners-appledore-iv-and-v"
 excerpt: "The Detroit Riversdays Festival starts this evening and runs through Sunday. In addition to lots of music, food and riverside activities, the sister schooners, 85′ Appledore IV, and the 65′ Appledore V will be available for tours. Sounds like fun. … Continue reading &rarr;"
 categories:
   - "Current"

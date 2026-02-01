@@ -1,7 +1,7 @@
 ---
 title: "A Day in the Life of a Deckhand on the Schooner Mary Day"
 date: 2012-07-28T07:29:04
-slug: a-day-in-the-life-of-a-deckhand-on-the-schooner-mary-day
+slug: "a-day-in-the-life-of-a-deckhand-on-the-schooner-mary-day"
 excerpt: "Here is a wonderful short video capturing a day in the life of a deckhand on the schooner Mary Day, sailing the coast of Maine.  (Looks someone should cut back on the caffeine.)  See also our previous post – Happy 50th Birthday … Continue reading &rarr;"
 categories:
   - "Current"

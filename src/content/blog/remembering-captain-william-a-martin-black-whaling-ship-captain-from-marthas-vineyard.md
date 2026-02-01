@@ -1,7 +1,7 @@
 ---
 title: "Remembering Captain William A. Martin — Black Whaling Ship Captain From Martha’s Vineyard"
 date: 2018-02-22T19:27:28
-slug: remembering-captain-william-a-martin-black-whaling-ship-captain-from-marthas-vineyard
+slug: "remembering-captain-william-a-martin-black-whaling-ship-captain-from-marthas-vineyard"
 excerpt: "As Black History Month winds to a close it seems worthwhile to recall Captain William A. Martin, the best remembered black whaling ship captain from Martha’s Vineyard. He is often referred to as the only black whaling captain from the island. … Continue reading &rarr;"
 categories:
   - "History"

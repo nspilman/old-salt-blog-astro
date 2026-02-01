@@ -1,7 +1,7 @@
 ---
 title: "Historic Tanker Mary A. Whalen Desperately Needs a Home"
 date: 2012-03-28T07:49:05
-slug: historic-tanker-mary-a-whalen-desperately-needs-a-home
+slug: "historic-tanker-mary-a-whalen-desperately-needs-a-home"
 excerpt: "As we have posted before, PortSide New York, based on the historic coastal tanker, Mary A.Whalen,  is one of the absolutely best waterfront educational organizations in New York harbor.  For the last six years, the Mary A. Whalen has never had a permanent home.  Now … Continue reading &rarr;"
 categories:
   - "Current"

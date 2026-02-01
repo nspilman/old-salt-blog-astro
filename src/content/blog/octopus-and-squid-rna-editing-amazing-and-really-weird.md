@@ -1,7 +1,7 @@
 ---
 title: "Octopus & Squid RNA Editing– Amazing and Really Weird"
 date: 2019-03-19T16:18:29
-slug: octopus-and-squid-rna-editing-amazing-and-really-weird
+slug: "octopus-and-squid-rna-editing-amazing-and-really-weird"
 excerpt: "If a science fiction writer wanted to create a really bizarre alien space creature, using an octopus as a model would not be a bad place to start. After all, an octopus has three hearts, nine brains, and blue blood. … Continue reading &rarr;"
 categories:
   - "Current"

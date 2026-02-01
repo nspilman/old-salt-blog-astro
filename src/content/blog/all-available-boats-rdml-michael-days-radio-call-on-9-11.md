@@ -1,7 +1,7 @@
 ---
-title: "“All Available Boats” — RDML Michael Day’s Radio Call on 9/11"
+title: "\"All Available Boats\" — RDML Michael Day’s Radio Call on 9/11"
 date: 2026-01-08T23:25:36
-slug: all-available-boats-rdml-michael-days-radio-call-on-9-11
+slug: "all-available-boats-rdml-michael-days-radio-call-on-9-11"
 excerpt: "Last week, Rear Admiral Michael Day retired after more than 40 years of service in the US Coast Guard. Over his career, he served in a range of responsible positions, in locations ranging from the Arctic to Taiwan and throughout … Continue reading &rarr;"
 categories:
   - "City of Ships"

@@ -1,12 +1,12 @@
 ---
 title: "M5 and the Modern Clipper Ships of the Super-Rich"
 date: 2014-02-28T10:19:52
-slug: m5-and-the-modern-clipper-ships-of-the-super-rich
-excerpt: "I recently read of the successful sea-trial of the remodeled super-yacht M5, (ex Mirabella V.)  They were testing what is described as the “new carbon rig.”  The new rig includes 34 new carbon fibre stays and titanium fittings with built-in dynamic … Continue reading &rarr;"
+slug: "m5-and-the-modern-clipper-ships-of-the-super-rich"
+excerpt: "I recently read of the successful sea-trial of the remodeled super-yacht M5, (ex Mirabella V.)  They were testing what is described as the \"new carbon rig.\"  The new rig includes 34 new carbon fibre stays and titanium fittings with built-in dynamic … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "I recently read of the successful sea-trial of the remodeled super-yacht M5, (ex Mirabella V.)  They were testing what is described as the “new carbon rig.”  The new rig includes 34 new carbon fibre stays and titanium fittings with built-in dynamic … Continue reading &rarr;"
+description: "I recently read of the successful sea-trial of the remodeled super-yacht M5, (ex Mirabella V.)  They were testing what is described as the \"new carbon rig.\"  The new rig includes 34 new carbon fibre stays and titanium fittings with built-in dynamic … Continue reading &rarr;"
 ---
 
 ![Mirabella V at Rineia, Cyclades in 2008](http://www.oldsaltblog.com/wp-content/uploads/2014/02/304px-Mirabella_V_at_Rinia.jpg)

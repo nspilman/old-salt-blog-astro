@@ -1,7 +1,7 @@
 ---
 title: "A Mariners’ Christmas — Mystic Seaport Wreaths and Lobster Pot Trees"
 date: 2017-11-25T19:37:48
-slug: mariners-christmas-mystic-seaport-wreaths-lobster-pot-trees
+slug: "mariners-christmas-mystic-seaport-wreaths-lobster-pot-trees"
 excerpt: "Now that Thanksgiving is behind us, it is time to start decorating for Christmas with lights, trees, and wreathes. At the Mystic Seaport Museum, 170 wreaths are being constructed or decorated over a period of 18 days to provide decorations … Continue reading &rarr;"
 categories:
   - "Current"

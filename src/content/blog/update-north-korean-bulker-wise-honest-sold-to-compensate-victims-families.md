@@ -1,7 +1,7 @@
 ---
 title: "Update: North Korean Bulker Wise Honest Sold to Compensate Victims’ Families"
 date: 2019-10-12T14:07:13
-slug: update-north-korean-bulker-wise-honest-sold-to-compensate-victims-families
+slug: "update-north-korean-bulker-wise-honest-sold-to-compensate-victims-families"
 excerpt: "The North Korean handysize bulk carrier Wise Honest has been sold in a sealed bid auction. The proceeds of the auction will go to compensate the family of Otto Warmbier, the American student who died in 2017 shortly after being … Continue reading &rarr;"
 categories:
   - "Current"

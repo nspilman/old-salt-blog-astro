@@ -1,7 +1,7 @@
 ---
 title: "Just for Fun — A Whale and an Octopus in the Sky"
 date: 2017-11-04T09:22:16
-slug: just-fun-whale-octopus-sky
+slug: "just-fun-whale-octopus-sky"
 excerpt: "As we descend into the depths of Autumn, even if has been an unusually warm Autumn, here are two YouTube videos reminiscent of summer, when even blue whales and giant octopus can fly in the clear blue sky. In the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Soviet G-5 Torpedo Boat Lost During the Siege of Sevastopol Recovered By Russian Navy"
 date: 2020-03-13T14:44:41
-slug: soviet-g-5-torpedo-boat-lost-during-the-siege-of-sevastopol-recovered-by-russian-navy
+slug: "soviet-g-5-torpedo-boat-lost-during-the-siege-of-sevastopol-recovered-by-russian-navy"
 excerpt: "The Russian Navy recently found and raised a Soviet G-5 Type motor torpedo boat sunk in the Siege of Sevastapol during World War II.  Approximately 300 G-5s were built, of which 73 were lost during World War II. Despite specific … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

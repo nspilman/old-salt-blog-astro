@@ -1,7 +1,7 @@
 ---
 title: "Moroccan Fishermen Celebrate World Cup Victory While Hauling Nets"
 date: 2022-12-18T15:17:29
-slug: moroccan-fishermen-celebrate-world-cup-victory-while-hauling-nets
+slug: "moroccan-fishermen-celebrate-world-cup-victory-while-hauling-nets"
 excerpt: "Morocco finished fourth in this year’s World Cup, becoming the first Arab and first African team to reach the semifinals in the international soccer tournament. Here is a short video of Moroccan fishermen at sea celebrating a team victory while … Continue reading &rarr;"
 categories:
   - "Current"

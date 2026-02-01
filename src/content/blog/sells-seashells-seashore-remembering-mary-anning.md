@@ -1,8 +1,8 @@
 ---
 title: "She Sells Seashells by the Seashore — Remembering Mary Anning"
 date: 2017-03-09T09:57:25
-slug: sells-seashells-seashore-remembering-mary-anning
-excerpt: "Remember the old tongue twister, “She sells seashells by the seashore?” (Try saying that three times fast.) The tongue twisting seashell seller was inspired by a real woman named Mary Anning, who was an English fossil collector, dealer, and paleontologist, and … Continue reading &rarr;"
+slug: "sells-seashells-seashore-remembering-mary-anning"
+excerpt: "Remember the old tongue twister, \"She sells seashells by the seashore?\" (Try saying that three times fast.) The tongue twisting seashell seller was inspired by a real woman named Mary Anning, who was an English fossil collector, dealer, and paleontologist, and … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "seashore"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/maryanning.jpg"
 author: "Rick Spilman"
-description: "Remember the old tongue twister, “She sells seashells by the seashore?” (Try saying that three times fast.) The tongue twisting seashell seller was inspired by a real woman named Mary Anning, who was an English fossil collector, dealer, and paleontologist, and … Continue reading &rarr;"
+description: "Remember the old tongue twister, \"She sells seashells by the seashore?\" (Try saying that three times fast.) The tongue twisting seashell seller was inspired by a real woman named Mary Anning, who was an English fossil collector, dealer, and paleontologist, and … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/maryanning.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Harbor Week at Narratively|NYC"
 date: 2012-10-05T09:03:25
-slug: harbor-week-at-narrativelynyc
+slug: "harbor-week-at-narrativelynyc"
 excerpt: "Narratively|NYC is a new web magazine with a focus, as the name implies, on narrative journalism involving New York City. For the past week, Narratively|NYC has run new features each day on New York harbor. Worth checking out.  Thanks to Carolina Salguero at … Continue reading &rarr;"
 categories:
   - "Current"

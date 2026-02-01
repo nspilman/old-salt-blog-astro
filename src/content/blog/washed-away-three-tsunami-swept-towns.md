@@ -1,7 +1,7 @@
 ---
 title: "Washed Away: Three Tsunami-Swept Towns"
 date: 2011-03-14T11:04:39
-slug: washed-away-three-tsunami-swept-towns
+slug: "washed-away-three-tsunami-swept-towns"
 excerpt: "We have previously posted about the destruction of the town of Minamisanriku by the tsunami, where 9,500 people are reported to be missing.  Other news reports now suggest that similar or greater numbers may be missing in the towns of  Kesennuma and Rikuzentakata. Washed … Continue reading &rarr;"
 categories:
   - "Current"

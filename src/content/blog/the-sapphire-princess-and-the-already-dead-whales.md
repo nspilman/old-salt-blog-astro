@@ -1,7 +1,7 @@
 ---
 title: "The Sapphire Princess and the Already Dead Whales"
 date: 2010-08-07T07:59:02
-slug: the-sapphire-princess-and-the-already-dead-whales
+slug: "the-sapphire-princess-and-the-already-dead-whales"
 excerpt: "An update to our previous post – the Sapphire Princess cruise ship, which was found to have impaled a female humpback whale on her bulbous bow last week, probably did not kill the whale.  A necropsy finished this week suggests that the whale was already dead.  This is … Continue reading &rarr;"
 categories:
   - "Current"

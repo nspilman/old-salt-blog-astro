@@ -1,7 +1,7 @@
 ---
 title: "Faux Fish — Fighting Seafood Fraud"
 date: 2021-04-26T08:30:02
-slug: faux-fish-fighting-seafood-fraud
+slug: "faux-fish-fighting-seafood-fraud"
 excerpt: "Do you know what you are getting when you buy fish in a store or order it prepared in a restaurant? It isn’t always easy. An analysis of 44 recent studies of more than 9,000 seafood samples from restaurants, fishmongers, … Continue reading &rarr;"
 categories:
   - "Current"

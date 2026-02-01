@@ -1,7 +1,7 @@
 ---
 title: "Lobster, Crawfish & Wine – Three Harbor Food Festivals this Weekend"
 date: 2010-08-07T08:58:42
-slug: lobster-crawfish-wine-three-harbor-food-festivals-this-weekend
+slug: "lobster-crawfish-wine-three-harbor-food-festivals-this-weekend"
 excerpt: "This is the season for waterfront and harbor festivals.   Here are three that promise good food along with music and the sea air. In Washington state, the first Gig Harbor Wine & Food Festival starts at noon today at the future … Continue reading &rarr;"
 categories:
   - "Current"

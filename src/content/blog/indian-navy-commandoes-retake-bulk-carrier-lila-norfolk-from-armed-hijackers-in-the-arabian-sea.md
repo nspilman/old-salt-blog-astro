@@ -1,7 +1,7 @@
 ---
 title: "Indian Navy Commandoes Retake Bulk Carrier Lila Norfolk From Armed Hijackers in the Arabian Sea"
 date: 2024-01-08T18:07:24
-slug: indian-navy-commandoes-retake-bulk-carrier-lila-norfolk-from-armed-hijackers-in-the-arabian-sea
+slug: "indian-navy-commandoes-retake-bulk-carrier-lila-norfolk-from-armed-hijackers-in-the-arabian-sea"
 excerpt: "USNI News reports that Indian Navy commandos secured the hijacked Liberian-flagged bulk carrier MV Lila Norfolk last week after a 24-hour confrontation off the Somali Coast in the Arabian Sea.  Five to six armed hijackers boarded Lila Norfolk on Thursday, which was sailing 450 … Continue reading &rarr;"
 categories:
   - "Current"

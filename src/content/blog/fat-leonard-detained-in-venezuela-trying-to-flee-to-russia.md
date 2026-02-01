@@ -1,8 +1,8 @@
 ---
-title: "Update: “Fat Leonard” Detained in Venezuela, Trying to Flee to Russia"
+title: "Update: \"Fat Leonard\" Detained in Venezuela, Trying to Flee to Russia"
 date: 2022-09-22T11:13:08
-slug: fat-leonard-detained-in-venezuela-trying-to-flee-to-russia
-excerpt: "In early September, just weeks before his sentencing in a decade-long Navy bribery and corruption scandal, Leonard Glenn Francis, known as “Fat Leonard,” escaped from house arrest in his San Diego home and fled the country. The Malaysian businessman is … Continue reading &rarr;"
+slug: "fat-leonard-detained-in-venezuela-trying-to-flee-to-russia"
+excerpt: "In early September, just weeks before his sentencing in a decade-long Navy bribery and corruption scandal, Leonard Glenn Francis, known as \"Fat Leonard,\" escaped from house arrest in his San Diego home and fled the country. The Malaysian businessman is … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Venezuela"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/flinterpol.jpg"
 author: "Rick Spilman"
-description: "In early September, just weeks before his sentencing in a decade-long Navy bribery and corruption scandal, Leonard Glenn Francis, known as “Fat Leonard,” escaped from house arrest in his San Diego home and fled the country. The Malaysian businessman is … Continue reading &rarr;"
+description: "In early September, just weeks before his sentencing in a decade-long Navy bribery and corruption scandal, Leonard Glenn Francis, known as \"Fat Leonard,\" escaped from house arrest in his San Diego home and fled the country. The Malaysian businessman is … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/flinterpol.jpg)In early September, just weeks before his sentencing in a decade-long Navy bribery and corruption scandal, Leonard Glenn Francis, known as “[Fat Leonard](https://www.oldsaltblog.com/2022/07/fat-leonard-corruption-trial-jury-convicts-four-former-navy-officers/),” escaped from [house arrest in his San Diego home](https://www.oldsaltblog.com/2022/09/breaking-news-fat-leonard-escapes-house-arrest/) and fled the country. The Malaysian businessman is the center of the [largest bribery scandal in US Navy history.](https://www.oldsaltblog.com/2022/07/fat-leonard-corruption-trial-jury-convicts-four-former-navy-officers/)

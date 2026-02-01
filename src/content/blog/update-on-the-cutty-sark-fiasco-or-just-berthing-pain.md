@@ -1,7 +1,7 @@
 ---
-title: "Update on the Cutty Sark – Fiasco or just “Berthing” Pains?"
+title: "Update on the Cutty Sark – Fiasco or just \"Berthing\" Pains?"
 date: 2010-07-16T09:08:07
-slug: update-on-the-cutty-sark-fiasco-or-just-berthing-pain
+slug: "update-on-the-cutty-sark-fiasco-or-just-berthing-pain"
 excerpt: "Last September we posted about an article in the Telegraph, Cutty Sark restoration turning into a fiasco.   Thanks to Alaric Bond for passing on an update recently published in the Private Eye.  The restoration of the Cutty Sark, after a major fire in 2007, … Continue reading &rarr;"
 categories:
   - "Current"

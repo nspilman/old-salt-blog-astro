@@ -1,7 +1,7 @@
 ---
 title: "Black History Month: Remembering Raye Montague, Barrier-Shattering Navy Ship Designer"
 date: 2021-02-07T13:51:43
-slug: black-history-month-remembering-raye-montague-barrier-shattering-navy-ship-designer
+slug: "black-history-month-remembering-raye-montague-barrier-shattering-navy-ship-designer"
 excerpt: "In honor of Black History Month, an updated repost about the barrier-shattering naval engineer Raye Montague, who died at the age of 83 in 2018. At the age of 7, she was inspired to become an engineer after she toured … Continue reading &rarr;"
 categories:
   - "Current"

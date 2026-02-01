@@ -1,7 +1,7 @@
 ---
 title: "Car Carrier Felicity Ace on Fire and Adrift in the Atlantic"
 date: 2022-02-17T19:00:03
-slug: car-carrier-felicity-ace-on-fire-and-adrift-in-the-atlantic
+slug: "car-carrier-felicity-ace-on-fire-and-adrift-in-the-atlantic"
 excerpt: "The car carrier Felicity Ace caught fire yesterday in the Atlantic Ocean, 90 miles southwest of the Azores. The Portuguese Navy and four merchant ships in the area responded to the car carrier’s distress call. The crew of 22 were … Continue reading &rarr;"
 categories:
   - "Current"

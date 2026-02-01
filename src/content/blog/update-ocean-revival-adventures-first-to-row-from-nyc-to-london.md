@@ -1,7 +1,7 @@
 ---
 title: "Update: Ocean Revival Adventures, First to Row From NYC to London"
 date: 2021-08-19T18:15:17
-slug: update-ocean-revival-adventures-first-to-row-from-nyc-to-london
+slug: "update-ocean-revival-adventures-first-to-row-from-nyc-to-london"
 excerpt: "Congratulations to the Ocean Revival Adventures team who have become the first to row from New York to London. The team of four serving and former serving Royal Marine Commandos completed the epic 72-day, 3,700-mile row across the North Atlantic … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "USS George H.W. Bush Sailors Hold Flashlight Vigil for Late President"
 date: 2018-12-05T11:10:43
-slug: uss-george-h-w-bush-sailors-hold-flashlight-vigil-for-late-president
+slug: "uss-george-h-w-bush-sailors-hold-flashlight-vigil-for-late-president"
 excerpt: "A U.S. Navy video from December 4th, of USS George H.W. Bush (CVN-77) sailors holding a flashlight vigil in honor of the former president and naval aviator namesake who died on Friday. George H.W. Bush Sailors Hold Flashlight Vigil for … Continue reading &rarr;"
 categories:
   - "Current"

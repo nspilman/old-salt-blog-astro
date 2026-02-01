@@ -1,7 +1,7 @@
 ---
 title: "Busy Day for the Queen  –  Naming Gloriana & Reopening Cutty Sark"
 date: 2012-04-25T17:46:59
-slug: busy-day-for-the-queen-naming-gloriana-reopening-cutty-sark
+slug: "busy-day-for-the-queen-naming-gloriana-reopening-cutty-sark"
 excerpt: "This has been a busy day for Queen Elizabeth II and the Duke of Edinburgh. They braved heavy rain and driving winds to name the Gloriana, a new 94-foot ornately carved royal barge, decorated with gold leaf. The Gloriana is … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "SSV Oliver Hazard Perry on Her Maiden Voyage"
 date: 2015-07-21T09:09:18
-slug: ssv-oliver-hazard-perry-on-her-maiden-voyage
+slug: "ssv-oliver-hazard-perry-on-her-maiden-voyage"
 excerpt: "Last weekend, Oliver Hazard Perry, America’s newest and largest civilian sailing school ship sailed into Portland harbor in Maine on her maiden voyage, to participate in the Tall Ships Portland 2015 festival, which wrapped up yesterday.  Based in Newport, RI, the … Continue reading &rarr;"
 categories:
   - "Current"

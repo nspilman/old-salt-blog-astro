@@ -1,7 +1,7 @@
 ---
 title: "The Schooner Bluenose II and the Ax that Never Wears Out"
 date: 2011-05-19T21:46:36
-slug: the-ax-that-never-wears-out-and-the-schooner-bluenose-ii
+slug: "the-ax-that-never-wears-out-and-the-schooner-bluenose-ii"
 excerpt: "There is an old saying about an ax that never wears out so long as you keep replacing the head and the handle.   But what happens if you replace the head and handle at the same time?   Is it the … Continue reading &rarr;"
 categories:
   - "Current"

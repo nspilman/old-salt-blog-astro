@@ -1,7 +1,7 @@
 ---
 title: "Paul Allen’s RV Petrel Locates Wreck of WWII Japanese Carrier Kaga"
 date: 2019-10-18T15:09:39
-slug: paul-allens-rv-petrel-locates-wreck-of-wwii-japanese-carrier-kaga
+slug: "paul-allens-rv-petrel-locates-wreck-of-wwii-japanese-carrier-kaga"
 excerpt: "Paul Allen, the billionaire co-founder of Microsoft, died almost exactly a year ago.  Nevertheless, his passion for underwater archeology lives on in the operation of the Research Vessel Petrel, which is fully funded by Allen’s estate. The ship’s mission is to … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Seafarers Awareness Week – Seafarers UK Sea Cadets"
 date: 2012-06-28T15:50:23
-slug: seafarers-awareness-week-seafarers-uk-sea-cadets
+slug: "seafarers-awareness-week-seafarers-uk-sea-cadets"
 excerpt: "Another in the series from Seafarers UK in observation of Seafarers Awareness Week.  If world trade is going to continue to grow, we will more well trained seafarers.  Seafarers UK is a major supporter of Sea Cadets. Seafarers UK Sea Cadets [iframe: … Continue reading &rarr;"
 categories:
   - "Current"

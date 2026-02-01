@@ -1,8 +1,8 @@
 ---
 title: "Remembering Dr. James Guthrie, the Real Dr. Stephen Maturin ?"
 date: 2011-12-03T13:39:30
-slug: remembering-dr-james-guthrie-the-real-dr-stephen-maturin
-excerpt: "On Facebook this morning, Maritime Great Britain linked to a post on THE DEAR SURPRISE blog, discussing a post by Marion Elizabeth Diamond on the Historians are Past Caring blog, which raised the question, “Was this the real Stephen Maturin?”   Ms. Diamond answers … Continue reading &rarr;"
+slug: "remembering-dr-james-guthrie-the-real-dr-stephen-maturin"
+excerpt: "On Facebook this morning, Maritime Great Britain linked to a post on THE DEAR SURPRISE blog, discussing a post by Marion Elizabeth Diamond on the Historians are Past Caring blog, which raised the question, \"Was this the real Stephen Maturin?\"   Ms. Diamond answers … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Patrick O'Brian"
   - "The Autobiography of a Seaman"
 author: "Rick Spilman"
-description: "On Facebook this morning, Maritime Great Britain linked to a post on THE DEAR SURPRISE blog, discussing a post by Marion Elizabeth Diamond on the Historians are Past Caring blog, which raised the question, “Was this the real Stephen Maturin?”   Ms. Diamond answers … Continue reading &rarr;"
+description: "On Facebook this morning, Maritime Great Britain linked to a post on THE DEAR SURPRISE blog, discussing a post by Marion Elizabeth Diamond on the Historians are Past Caring blog, which raised the question, \"Was this the real Stephen Maturin?\"   Ms. Diamond answers … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/HMSSpeedy.jpg)

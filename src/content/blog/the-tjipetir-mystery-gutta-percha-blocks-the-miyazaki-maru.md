@@ -1,7 +1,7 @@
 ---
 title: "The Tjipetir Mystery — Gutta Percha Blocks & the Miyazaki Maru"
 date: 2014-12-01T17:16:50
-slug: the-tjipetir-mystery-gutta-percha-blocks-the-miyazaki-maru
+slug: "the-tjipetir-mystery-gutta-percha-blocks-the-miyazaki-maru"
 excerpt: "For the last several years, and perhaps much longer, blocks of a rubber-like substance have been washing ashore on the beaches of Great Britain, France, Spain, the Netherlands, Norway, Sweden and Denmark. The blocks are rectangular with rounded corners and … Continue reading &rarr;"
 categories:
   - "Current"

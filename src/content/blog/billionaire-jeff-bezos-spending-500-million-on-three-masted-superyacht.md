@@ -1,7 +1,7 @@
 ---
 title: "Billionaire Jeff Bezos Spending $500 Million on Three Masted Superyacht"
 date: 2021-05-10T09:35:50
-slug: billionaire-jeff-bezos-spending-500-million-on-three-masted-superyacht
+slug: "billionaire-jeff-bezos-spending-500-million-on-three-masted-superyacht"
 excerpt: "Bloomberg is reporting that Amazon billionaire Jeff Bezos is spending upwards of $500 million to have a 417 feet (127-meter) long three-masted superyacht built at Oceano in the Netherlands. Few details are available on the newbuilding, but reports are that … Continue reading &rarr;"
 categories:
   - "Current"

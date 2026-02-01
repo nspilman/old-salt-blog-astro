@@ -1,7 +1,7 @@
 ---
 title: "Schooner Virginia Cuts Season Short, Will Be Put Up For Sale"
 date: 2014-07-25T09:24:55
-slug: schooner-virginia-cuts-season-short-will-be-put-up-for-sale
+slug: "schooner-virginia-cuts-season-short-will-be-put-up-for-sale"
 excerpt: "The bad news just keeps coming.  The Virginia Maritime Heritage Foundation has announced that the schooner Virginia will be suspending the remainder of her 2014 season and will be returned to Hampton Roads in August, where she will be put up … Continue reading &rarr;"
 categories:
   - "Current"

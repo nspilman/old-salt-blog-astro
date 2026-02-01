@@ -1,7 +1,7 @@
 ---
 title: "Repost:  The Battle of Stonington, CT 1814  — Rocket’s Red Glare, Bombs Bursting in Air"
 date: 2021-08-06T09:24:45
-slug: repost-the-battle-of-stonington-ct-1814-rockets-red-glare-bombs-bursting-in-air-2
+slug: "repost-the-battle-of-stonington-ct-1814-rockets-red-glare-bombs-bursting-in-air-2"
 excerpt: "We had a lovely stay in the old seaport village of Stonington, CT on our recent cruise. In honor of our visit, here is a repost from a few years ago about the Battle of Stonington that was fought two … Continue reading &rarr;"
 categories:
   - "History"

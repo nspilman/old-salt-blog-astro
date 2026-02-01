@@ -1,7 +1,7 @@
 ---
 title: "Ecuadorian Navy Raises Alarm Over Fleet of Chinese Fishing Vessels Near Galápagos"
 date: 2020-07-30T15:05:37
-slug: ecuadorian-navy-raises-alarm-over-fleet-of-chinese-fishing-vessels-near-galapagos
+slug: "ecuadorian-navy-raises-alarm-over-fleet-of-chinese-fishing-vessels-near-galapagos"
 excerpt: "Ecuador has raised an alarm after a naval patrol sighted a fleet of around 260 Chinese fishing vessels just outside the Galápagos protection zone. Naval patrols had been stepped up to monitor the Chinese ships. Chinese fishing vessels come regularly … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Vanishing Sail – A Documentary about West Indian Commercial Sail"
 date: 2012-03-21T17:57:27
-slug: vanishing-sail-a-documentary-about-west-indian-commercial-sail
+slug: "vanishing-sail-a-documentary-about-west-indian-commercial-sail"
 excerpt: "Thanks to Dexter Donham for pointing out this trailer for Vanishing Sail, a documentary still under production and expected to be out in 2013.  Filmed in the Grenadines, Vanishing Sail looks at the sailing vessels that once were both the lifeblood of Caribbean commerce. From … Continue reading &rarr;"
 categories:
   - "Current"

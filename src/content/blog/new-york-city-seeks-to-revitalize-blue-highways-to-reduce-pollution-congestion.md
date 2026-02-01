@@ -1,8 +1,8 @@
 ---
-title: "New York City Seeks To Revitalize “Blue Highways” To Reduce Pollution & Congestion"
+title: "New York City Seeks To Revitalize \"Blue Highways\" To Reduce Pollution & Congestion"
 date: 2022-01-09T18:37:10
-slug: new-york-city-seeks-to-revitalize-blue-highways-to-reduce-pollution-congestion
-excerpt: "Outgoing New York City Mayor Bill de Blasio announced a plan to shift traffic away from the city’s roads to its rails system and, particularly, to “blue highways,” the network of waterways that have for so long defined the city. … Continue reading &rarr;"
+slug: "new-york-city-seeks-to-revitalize-blue-highways-to-reduce-pollution-congestion"
+excerpt: "Outgoing New York City Mayor Bill de Blasio announced a plan to shift traffic away from the city’s roads to its rails system and, particularly, to \"blue highways,\" the network of waterways that have for so long defined the city. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Mayor Bill de Blasio"
   - "New York City"
 author: "Rick Spilman"
-description: "Outgoing New York City Mayor Bill de Blasio announced a plan to shift traffic away from the city’s roads to its rails system and, particularly, to “blue highways,” the network of waterways that have for so long defined the city. … Continue reading &rarr;"
+description: "Outgoing New York City Mayor Bill de Blasio announced a plan to shift traffic away from the city’s roads to its rails system and, particularly, to \"blue highways,\" the network of waterways that have for so long defined the city. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/dhlbluehighway.jpg)

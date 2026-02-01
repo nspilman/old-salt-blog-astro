@@ -1,7 +1,7 @@
 ---
 title: "Lessons Learned?  Anthem of the Seas Cruise Cut Short to Avoid Storm"
 date: 2016-02-28T11:27:49
-slug: lessons-learned-anthem-seas-cruise-cut-short-avoid-storm
+slug: "lessons-learned-anthem-seas-cruise-cut-short-avoid-storm"
 excerpt: "Has Royal Caribbean Lines learned its lesson? Just days after a passenger filed a lawsuit against RCL for knowingly sending the cruise ship Anthem of the Seas into a winter storm off Hatteras in early February, the cruise line cut … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Slavery at Sea — Shrimp, Pet Food, & Human Trafficking"
 date: 2015-09-22T09:01:55
-slug: slavery-at-sea-shrimp-pet-food-human-trafficking
+slug: "slavery-at-sea-shrimp-pet-food-human-trafficking"
 excerpt: "Myint Naing, a Burmese man, recently made it home 22 years after being taken aboard a Thai fishing trawler, where he worked as little more than a slave. In the last six months an estimated 2,000 enslaved fishermen have been … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

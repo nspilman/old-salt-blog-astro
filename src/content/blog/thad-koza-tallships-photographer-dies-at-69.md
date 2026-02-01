@@ -1,7 +1,7 @@
 ---
 title: "Thad Koza, Tall Ships Photographer, Dies at 69"
 date: 2010-12-02T12:04:02
-slug: thad-koza-tallships-photographer-dies-at-69
+slug: "thad-koza-tallships-photographer-dies-at-69"
 excerpt: "We posted about his new Tall Ships calendar about a month ago.  One of his calendars is hanging on my wall waiting for the new year to begin.   Sadly, we learned last night that Thad Koza has died of … Continue reading &rarr;"
 categories:
   - "Current"

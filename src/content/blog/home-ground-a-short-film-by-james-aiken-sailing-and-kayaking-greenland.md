@@ -1,7 +1,7 @@
 ---
 title: "Home Ground, a Short Film by James Aiken — Sailing and Kayaking Greenland"
 date: 2014-04-30T09:04:45
-slug: home-ground-a-short-film-by-james-aiken-sailing-and-kayaking-greenland
+slug: "home-ground-a-short-film-by-james-aiken-sailing-and-kayaking-greenland"
 excerpt: "A breathtaking short film by James Aiken, featuring Siggi the Icelandic sailor and Dines the Greenlandic hunter set against the stark majesty of sea, stone and ice. Home Ground from James Aiken on Vimeo. … Continue reading &rarr;"
 categories:
   - "Current"

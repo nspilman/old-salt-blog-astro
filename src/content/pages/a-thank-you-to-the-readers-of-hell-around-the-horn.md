@@ -1,7 +1,7 @@
 ---
 title: "Thank You for Reading Hell Around the Horn"
 date: 2012-08-27T16:05:17
-slug: a-thank-you-to-the-readers-of-hell-around-the-horn
+slug: "a-thank-you-to-the-readers-of-hell-around-the-horn"
 author: "Rick Spilman"
 description: "Thank you for reading Hell Around the Horn. I thought that it was a story worth telling, about a time and a remarkable group of people who should not be wholly forgotten. I hope that you found that reading the … Continue reading &rarr;"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Brig Pilgrim Sinks at Dock in Dana Point, CA, Salvage Attempts Underway"
 date: 2020-03-31T10:21:55
-slug: brig-pilgrim-sinks-at-dock-in-dana-point-ca-salvage-attempts-underway
+slug: "brig-pilgrim-sinks-at-dock-in-dana-point-ca-salvage-attempts-underway"
 excerpt: "The brig Pilgrim, a replica of the ship immortalized in Richard Henry Dana’s 1840 memoir, Two Years Before the Mast, sank at the dock over the weekend in Dana Point, CA. The replica brig, owned by the Ocean Institute has served … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

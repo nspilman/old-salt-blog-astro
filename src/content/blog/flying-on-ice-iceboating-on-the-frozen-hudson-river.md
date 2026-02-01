@@ -1,7 +1,7 @@
 ---
 title: "Flying on Ice — Iceboating on the Frozen Hudson River"
 date: 2014-03-07T14:52:17
-slug: flying-on-ice-iceboating-on-the-frozen-hudson-river
+slug: "flying-on-ice-iceboating-on-the-frozen-hudson-river"
 excerpt: "Not all sailors in the Northeast are sick of winter. For some ice boaters on the Hudson, this has been a great season and isn’t over quite yet. Ice boating, or ice yachting, as some call it, is a cross … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Longest (Partial) Lunar Eclipse in Centuries Later This Week"
 date: 2021-11-15T18:13:01
-slug: longest-partial-lunar-eclipse-in-centuries-later-this-week
+slug: "longest-partial-lunar-eclipse-in-centuries-later-this-week"
 excerpt: "On late Thursday, November 18, and early Friday, November 19, those watching the sky over much of the globe will see the longest partial lunar eclipse in almost 600 years. The eclipse will last for nearly 3 and a half … Continue reading &rarr;"
 categories:
   - "Current"

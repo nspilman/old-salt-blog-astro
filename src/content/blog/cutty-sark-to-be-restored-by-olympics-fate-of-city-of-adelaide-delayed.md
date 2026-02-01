@@ -1,7 +1,7 @@
 ---
 title: "Cutty Sark to be Restored by Olympics; Fate of City of Adelaide Delayed"
 date: 2010-02-20T06:20:33
-slug: cutty-sark-to-be-restored-by-olympics-fate-of-city-of-adelaide-delayed
+slug: "cutty-sark-to-be-restored-by-olympics-fate-of-city-of-adelaide-delayed"
 excerpt: "The Cutty Sark will be restored and ready for new visitors in time for the 2012 Olympics.   The ship was nearly destroyed by fire in 2007.    The other, albeit just barely, surviving composite clipper ship, the City of Adelaide, which has … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Haunting of the LNG Taurus"
 date: 2014-10-31T13:19:55
-slug: the-haunting-of-the-lng-taurus
+slug: "the-haunting-of-the-lng-taurus"
 excerpt: "In honor of Halloween, here is a troubling account of a modern-day haunted ship. The LNG Taurus was one of a series of ten Moss-Rosenberg type 125,000 cubic meter Liquefied Natural Gas ships (LNG) ships built by General Dynamics in Quincy … Continue reading &rarr;"
 categories:
   - "Current"

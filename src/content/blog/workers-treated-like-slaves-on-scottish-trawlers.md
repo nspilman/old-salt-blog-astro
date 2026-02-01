@@ -1,7 +1,7 @@
 ---
 title: "Workers ‘Treated Like Slaves’ on Scottish Trawlers"
 date: 2024-08-21T17:58:27
-slug: workers-treated-like-slaves-on-scottish-trawlers
+slug: "workers-treated-like-slaves-on-scottish-trawlers"
 excerpt: "A BBC investigation has revealed that dozens of workers from around the world may have been trafficked into the UK to work for a small family-owned Scottish fishing firm. Thirty-five men from the Philippines, Ghana, India, and Sri Lanka were … Continue reading &rarr;"
 categories:
   - "Current"

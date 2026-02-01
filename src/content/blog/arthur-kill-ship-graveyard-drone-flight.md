@@ -1,7 +1,7 @@
 ---
 title: "Arthur Kill Ship Graveyard – Drone Flight"
 date: 2015-11-16T10:17:51
-slug: arthur-kill-ship-graveyard-drone-flight
+slug: "arthur-kill-ship-graveyard-drone-flight"
 excerpt: "A beautiful and calming video of the Arthur Kill Ship Graveyard, off Staten Island, NY which seems appropriate for a Mondy morning. Arthur Kill Ship Graveyard – abandoned – Drone View – Staten Island, NY See also, our previous post: … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

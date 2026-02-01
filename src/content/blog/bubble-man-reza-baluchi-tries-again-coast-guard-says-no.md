@@ -1,8 +1,8 @@
 ---
-title: "“Bubble Man” Reza Baluchi Tries Again — Coast Guard Says ‘No’"
+title: "\"Bubble Man\" Reza Baluchi Tries Again — Coast Guard Says ‘No’"
 date: 2016-04-25T12:51:58
-slug: bubble-man-reza-baluchi-tries-again-coast-guard-says-no
-excerpt: "“Bubble Man” Reza Baluchi is at it again, but this time, the Coast Guard told him to turn around not far from shore  before putting himself or others in danger. After warning him not to leave port without a support vessel, the US … Continue reading &rarr;"
+slug: "bubble-man-reza-baluchi-tries-again-coast-guard-says-no"
+excerpt: "\"Bubble Man\" Reza Baluchi is at it again, but this time, the Coast Guard told him to turn around not far from shore  before putting himself or others in danger. After warning him not to leave port without a support vessel, the US … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Hydropod"
   - "Reza Baluchi"
 author: "Rick Spilman"
-description: "“Bubble Man” Reza Baluchi is at it again, but this time, the Coast Guard told him to turn around not far from shore  before putting himself or others in danger. After warning him not to leave port without a support vessel, the US … Continue reading &rarr;"
+description: "\"Bubble Man\" Reza Baluchi is at it again, but this time, the Coast Guard told him to turn around not far from shore  before putting himself or others in danger. After warning him not to leave port without a support vessel, the US … Continue reading &rarr;"
 ---
 
 ![bubblemanuscg](http://www.oldsaltblog.com/wp-content/uploads/2016/04/bubblemanuscg.jpg)“Bubble Man” [Reza Baluchi](http://www.runwithreza.org/) is at it again, but this time, the Coast Guard told him to turn around not far from shore  before putting himself or others in danger. After warning him not to leave port without a support vessel, the US Coast Guard intercepted Baluchi in his inside his Hydropod, a home-made inflatable plastic bubble with a metal frame, about 7 miles off the coast of Jupiter, Florida.  Baluchi had announced his intention to run inside the bubble craft on a 3,500-mile five-month trek between Florida and islands in the Atlantic and Caribbean.

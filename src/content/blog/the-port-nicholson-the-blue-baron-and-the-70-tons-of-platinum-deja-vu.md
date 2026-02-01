@@ -1,7 +1,7 @@
 ---
-title: "SS Port Nicholson, the “Blue Baron” and the 70 Tons of Platinum – Déjà Vu ?"
+title: "SS Port Nicholson, the \"Blue Baron\" and the 70 Tons of Platinum – Déjà Vu ?"
 date: 2012-02-06T09:02:07
-slug: the-port-nicholson-the-blue-baron-and-the-70-tons-of-platinum-deja-vu
+slug: "the-port-nicholson-the-blue-baron-and-the-70-tons-of-platinum-deja-vu"
 excerpt: "We recently posted about a press release by Sub Sea Research (SSR) claiming to have located the wreck of a British cargo ship sunk in June 1942 by the German submarine U87. Sub Sea Research claims that the ship was carrying 70 tons of platinum … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "US Navy Tests Upgraded 3D Printer at Sea on USS Essex"
 date: 2022-07-25T18:14:09
-slug: us-navy-tests-upgraded-3d-printer-at-sea-on-uss-essex
+slug: "us-navy-tests-upgraded-3d-printer-at-sea-on-uss-essex"
 excerpt: "The USS Essex, a Wasp-class Landing Helicopter Dock (LHD), recently loaded a new 15,000-pound 3D printer, just prior to departing to participate in the multinational Rim of the Pacific exercise underway at Hawaii and California. The amphibious assault ship will … Continue reading &rarr;"
 categories:
   - "Current"

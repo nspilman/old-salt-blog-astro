@@ -1,7 +1,7 @@
 ---
 title: "Japan Captivated by Escape of Orcas Trapped in Drift Ice Off Hokkaido, as Annual Dolphin Slaughter Continues"
 date: 2024-02-07T19:37:14
-slug: japan-captivated-by-escape-of-orcas-trapped-in-drift-ice-off-hokkaido-as-annual-dolphin-slaughter-continues
+slug: "japan-captivated-by-escape-of-orcas-trapped-in-drift-ice-off-hokkaido-as-annual-dolphin-slaughter-continues"
 excerpt: "The good news is that a pod of orcas trapped by drift ice in waters off Japan’s northern island of Hokkaido appears to have successfully escaped. Earlier this week, drone footage showed the pod of around a dozen orcas trapped … Continue reading &rarr;"
 categories:
   - "Current"

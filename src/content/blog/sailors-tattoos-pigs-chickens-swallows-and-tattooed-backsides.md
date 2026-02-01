@@ -1,8 +1,8 @@
 ---
 title: "Sailor’s Tattoos – Pigs, Chickens, Swallows, and Tattooed Backsides"
 date: 2018-10-11T09:04:21
-slug: sailors-tattoos-pigs-chickens-swallows-and-tattooed-backsides
-excerpt: "A repost on Throw-Back Thursday from all the way back to 2008. Tattoos have become very popular of late. Tattoo Facts & Statistics notes that “thirty-six percent of those ages 18 to 25, and 40 percent of those ages 26 … Continue reading &rarr;"
+slug: "sailors-tattoos-pigs-chickens-swallows-and-tattooed-backsides"
+excerpt: "A repost on Throw-Back Thursday from all the way back to 2008. Tattoos have become very popular of late. Tattoo Facts & Statistics notes that \"thirty-six percent of those ages 18 to 25, and 40 percent of those ages 26 … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "sailor"
   - "tattoos"
 author: "Rick Spilman"
-description: "A repost on Throw-Back Thursday from all the way back to 2008. Tattoos have become very popular of late. Tattoo Facts & Statistics notes that “thirty-six percent of those ages 18 to 25, and 40 percent of those ages 26 … Continue reading &rarr;"
+description: "A repost on Throw-Back Thursday from all the way back to 2008. Tattoos have become very popular of late. Tattoo Facts & Statistics notes that \"thirty-six percent of those ages 18 to 25, and 40 percent of those ages 26 … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2008/12/hog_foot-2-tm1.jpg)](http://moronosphere.com/2007/08/pig-and-chicken.php#more)A repost on Throw-Back Thursday from all the way back to 2008.

@@ -1,7 +1,7 @@
 ---
 title: "Remembering Mocha Dick, the Real Rogue White Whale Who Inspired Moby Dick"
 date: 2024-04-26T14:16:56
-slug: remembering-mocha-dick-the-real-rogue-white-whale-who-inspired-moby-dick
+slug: "remembering-mocha-dick-the-real-rogue-white-whale-who-inspired-moby-dick"
 excerpt: "An updated repost. Melville’s masterpiece, Moby-Dick, was inspired, at least in part, by the sinking of the whaleship Essex by a sperm whale in 1820.  The fate of the Essex unquestionably supplied Melville with ending to his novel. Nevertheless, the core … Continue reading &rarr;"
 categories:
   - "History"

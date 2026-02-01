@@ -1,7 +1,7 @@
 ---
 title: "Louisa Jo Killen, British Folk Song and Shanty Singer, Dies at 79"
 date: 2013-08-27T09:07:00
-slug: lou-killen-british-folk-song-and-shanty-singer-dies-at-79
+slug: "lou-killen-british-folk-song-and-shanty-singer-dies-at-79"
 excerpt: "I was saddened to learn that the singer that I knew as Lou Killen died early this month after a six year battle with cancer.  Killen was an influential voice in the British folk song revival of the 50s and … Continue reading &rarr;"
 categories:
   - "Current"

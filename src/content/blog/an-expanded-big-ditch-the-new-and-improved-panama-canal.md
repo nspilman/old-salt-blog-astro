@@ -1,7 +1,7 @@
 ---
 title: "An Expanded Big Ditch – the New and Improved Panama Canal"
 date: 2011-08-17T17:49:39
-slug: an-expanded-big-ditch-the-new-and-improved-panama-canal
+slug: "an-expanded-big-ditch-the-new-and-improved-panama-canal"
 excerpt: "In 1914, the opening of the Panama Canal shortened the distance by sea between the Atlantic and Pacific Oceans by almost 7,000 miles, eliminating the need to round treacherous Cape Horn. One hundred years later, in 2014, a new third set of  locks … Continue reading &rarr;"
 categories:
   - "Current"

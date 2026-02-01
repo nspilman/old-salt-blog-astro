@@ -1,7 +1,7 @@
 ---
 title: "San Fran Capsize — 30 People in a 34′ Boat"
 date: 2016-10-10T08:45:54
-slug: san-fran-capsize-30-people-34-sail-boat
+slug: "san-fran-capsize-30-people-34-sail-boat"
 excerpt: "UPDATE: The initial reports of the capsize identified the boat which capsized as a sailboat.  Even the Coast Guard’s website said that the boat named Khaleesi was a 34-foot sailboat.  As initial reports often are, these reports were not accurate. The … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Tragedy on Mobile Bay — 2 Dead and 5 Missing in Dauphin Island Regatta"
 date: 2015-04-27T09:18:09
-slug: tragedy-on-mobile-bay-2-dead-and-5-missing-in-dauphin-island-regatta
-excerpt: "In  a letter about the Fairhope Yacht Club, Commodore Gary Garner describes the local sailing on Mobile Bay in Alabama.  He writes: “We are blessed with a moderate climate, steady afternoon sea breezes and fantastic sunsets. Our generally laid back … Continue reading &rarr;"
+slug: "tragedy-on-mobile-bay-2-dead-and-5-missing-in-dauphin-island-regatta"
+excerpt: "In  a letter about the Fairhope Yacht Club, Commodore Gary Garner describes the local sailing on Mobile Bay in Alabama.  He writes: \"We are blessed with a moderate climate, steady afternoon sea breezes and fantastic sunsets. Our generally laid back … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

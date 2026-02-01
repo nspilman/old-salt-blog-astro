@@ -1,7 +1,7 @@
 ---
 title: "Warm Wishes on a Chilly Morning — Valentine Islands"
 date: 2016-02-14T09:48:44
-slug: warm-wishes-on-a-chilly-morning-valentine-islands
+slug: "warm-wishes-on-a-chilly-morning-valentine-islands"
 excerpt: "It is now 3 degrees Fahrenheit on the West bank of the Hudson River. Hope your Valentine’s day is warmer. On such a chilly morning, it would be nice to escape to a tropical island. Here is a repost from … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

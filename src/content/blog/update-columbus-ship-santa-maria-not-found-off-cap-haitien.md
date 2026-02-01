@@ -1,7 +1,7 @@
 ---
 title: "Update: Columbus’ Ship Santa Maria Not Found Off Cap-Haitien"
 date: 2014-10-07T19:37:41
-slug: update-columbus-ship-santa-maria-not-found-off-cap-haitien
+slug: "update-columbus-ship-santa-maria-not-found-off-cap-haitien"
 excerpt: "Last May we posted that marine archaeologist Barry Clifford had announced that he believed that he had located the wreck of Christopher Columbus’ ship Santa Maria  which ran aground and sank on Christmas Day 1492 off Haiti near Cap-Haitien.   UNESCO has now … Continue reading &rarr;"
 categories:
   - "Current"

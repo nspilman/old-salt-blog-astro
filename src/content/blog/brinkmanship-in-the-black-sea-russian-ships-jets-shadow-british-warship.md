@@ -1,7 +1,7 @@
 ---
 title: "Brinkmanship in the Black Sea: Russian Ships & Jets Shadow British Warship"
 date: 2021-06-24T11:37:06
-slug: brinkmanship-in-the-black-sea-russian-ships-jets-shadow-british-warship
+slug: "brinkmanship-in-the-black-sea-russian-ships-jets-shadow-british-warship"
 excerpt: "Yesterday, more than 20 Russian aircraft and two coastguard ships shadowed the Royal Navy destroyer, HMS Defender, sailing near Crimea. Moscow’s defence ministry said a patrol ship fired warning shots and a jet dropped bombs in the path of HMS … Continue reading &rarr;"
 categories:
   - "Current"

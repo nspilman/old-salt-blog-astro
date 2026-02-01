@@ -1,7 +1,7 @@
 ---
 title: "New Documentary on Thames Sailing Barges – Red Sails"
 date: 2011-11-17T18:03:10
-slug: new-documentary-on-thames-sailing-barges-red-sails
+slug: "new-documentary-on-thames-sailing-barges-red-sails"
 excerpt: "The Thames sailing barge was a remarkably efficient cargo carrier that lasted well into the 20th century before being replaced by diesel trucks. We have followed the rebuilding and the relaunching of the Thames sailing barge Cambria, which was the last British … Continue reading &rarr;"
 categories:
   - "Current"

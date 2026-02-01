@@ -1,7 +1,7 @@
 ---
 title: "Olga Bloom – Founder of Bargemusic"
 date: 2011-11-26T17:23:19
-slug: olga-bloom-founder-of-bargemusic
+slug: "olga-bloom-founder-of-bargemusic"
 excerpt: "We were saddened to learn of the death of Olga Bloom, who died on Thanksgiving Day at the age of 92. Thirty five years ago, Ms. Bloom, a violinist and violist, founded Bargemusic, a floating concert hall moored on the … Continue reading &rarr;"
 categories:
   - "Current"

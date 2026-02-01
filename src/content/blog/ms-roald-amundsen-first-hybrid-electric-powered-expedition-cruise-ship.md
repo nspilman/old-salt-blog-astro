@@ -1,7 +1,7 @@
 ---
 title: "MS Roald Amundsen — First Hybrid Electric-Powered Expedition Cruise Ship"
 date: 2019-11-01T14:20:51
-slug: ms-roald-amundsen-first-hybrid-electric-powered-expedition-cruise-ship
+slug: "ms-roald-amundsen-first-hybrid-electric-powered-expedition-cruise-ship"
 excerpt: "Hurtigruten, a Norwegian ferry and expedition cruise operator, has put into service, MS Roald Amundsen, the world’s first hybrid electric-powered expedition cruise ship. The 530-passenger ship has twin battery banks that operate in conjunction with the ship’s four diesel generators … Continue reading &rarr;"
 categories:
   - "Current"

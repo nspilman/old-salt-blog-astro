@@ -1,7 +1,7 @@
 ---
 title: "Tellurium — Choosing Between Green Energy and Underwater Mining"
 date: 2017-04-13T14:37:05
-slug: tellurium-choosing-green-energy-underwater-mining
+slug: "tellurium-choosing-green-energy-underwater-mining"
 excerpt: "Deep-sea mining has long been a controversial subject. For the last 50 years, proponents have called for the mining of silver, gold, copper, manganese, cobalt, and zinc from the seafloor, while environmentalists have argued that seabed mining should not be permitted because of … Continue reading &rarr;"
 categories:
   - "Current"

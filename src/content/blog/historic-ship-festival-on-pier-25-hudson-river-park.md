@@ -1,7 +1,7 @@
 ---
 title: "Historic Ship Festival on Pier 25, Hudson River Park"
 date: 2011-07-24T09:43:01
-slug: historic-ship-festival-on-pier-25-hudson-river-park
+slug: "historic-ship-festival-on-pier-25-hudson-river-park"
 excerpt: "The North River Historic Ship Society is hosting a four day Historic Ship Festival on July 28-31 to celebrate the  the opening of the first historic ship pier in Hudson River Park in Tribeca, New York. Festival at Pier 25 Features Free Ship Tours, … Continue reading &rarr;"
 categories:
   - "Current"

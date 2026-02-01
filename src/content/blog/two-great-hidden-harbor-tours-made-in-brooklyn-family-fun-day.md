@@ -1,8 +1,8 @@
 ---
-title: "Two Great Hidden Harbor Tours — “Made in Brooklyn” & “Family Fun Day”"
+title: "Two Great Hidden Harbor Tours — \"Made in Brooklyn\" & \"Family Fun Day\""
 date: 2015-06-05T17:35:01
-slug: two-great-hidden-harbor-tours-made-in-brooklyn-family-fun-day
-excerpt: "If you are near New York harbor, the Working Harbor Committee Hidden Harbor Tours® has two great new tours coming up — “Made in Brooklyn” on Thursday, June 11th, and a “Family Fun Day Boat Tour” on Saturday, June 20th. … Continue reading &rarr;"
+slug: "two-great-hidden-harbor-tours-made-in-brooklyn-family-fun-day"
+excerpt: "If you are near New York harbor, the Working Harbor Committee Hidden Harbor Tours® has two great new tours coming up — \"Made in Brooklyn\" on Thursday, June 11th, and a \"Family Fun Day Boat Tour\" on Saturday, June 20th. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Ships"

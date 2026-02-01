@@ -1,13 +1,13 @@
 ---
 title: "Will the South Street Seaport Sink Post-Sandy?"
 date: 2012-12-02T16:31:49
-slug: will-the-south-street-seaport-sink-post-sandy
+slug: "will-the-south-street-seaport-sink-post-sandy"
 excerpt: "The news this week from the South Street Seaport Museum was good. The Museum’s Bowne Stationers has reopened its doors after being flooded by Superstorm Sandy.  There had been serious concern that the 19th century type and letterpress equipment  might be seriously damaged or destroyed by the flood. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - ""superstorm" Sandy"
+  - "\"superstorm\" Sandy"
   - "Bowne Stationers"
   - "South Street Seaport Museum"
 author: "Rick Spilman"

@@ -1,8 +1,8 @@
 ---
-title: "“Mind the Light , Kate” — New York’s Robbins Reef Lighthouse Keeper Kate Walker"
+title: "\"Mind the Light , Kate\" — New York’s Robbins Reef Lighthouse Keeper Kate Walker"
 date: 2023-03-07T10:13:23
-slug: mind-the-light-kate-new-yorks-robbins-reef-lighthouse-keeper-kate-walker
-excerpt: "In 1886, lighthouse keeper John Walker’s last words to his wife Kate as he died died from pneumonia, were “Mind the light, Kate.” Kate, then 38 with two teenage children, took his final wish to heart. She minded the light … Continue reading &rarr;"
+slug: "mind-the-light-kate-new-yorks-robbins-reef-lighthouse-keeper-kate-walker"
+excerpt: "In 1886, lighthouse keeper John Walker’s last words to his wife Kate as he died died from pneumonia, were \"Mind the light, Kate.\" Kate, then 38 with two teenage children, took his final wish to heart. She minded the light … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "USCGS Katherine Walker"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/katewalker.jpg"
 author: "Rick Spilman"
-description: "In 1886, lighthouse keeper John Walker’s last words to his wife Kate as he died died from pneumonia, were “Mind the light, Kate.” Kate, then 38 with two teenage children, took his final wish to heart. She minded the light … Continue reading &rarr;"
+description: "In 1886, lighthouse keeper John Walker’s last words to his wife Kate as he died died from pneumonia, were \"Mind the light, Kate.\" Kate, then 38 with two teenage children, took his final wish to heart. She minded the light … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/katewalker.jpg)

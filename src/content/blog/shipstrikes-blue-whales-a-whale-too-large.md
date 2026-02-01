@@ -1,7 +1,7 @@
 ---
 title: "Shipstrikes & Blue Whales —  A Whale Too Large?"
 date: 2015-05-24T09:04:36
-slug: shipstrikes-blue-whales-a-whale-too-large
+slug: "shipstrikes-blue-whales-a-whale-too-large"
 excerpt: "There is good and bad news about California blue whales. The good news is that the number of whales along the west coast of North America has rebounded to close to levels prior to whaling.  The bad news is that … Continue reading &rarr;"
 categories:
   - "Current"

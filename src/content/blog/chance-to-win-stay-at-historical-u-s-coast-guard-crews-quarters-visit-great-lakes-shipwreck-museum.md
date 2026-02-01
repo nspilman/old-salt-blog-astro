@@ -1,7 +1,7 @@
 ---
 title: "Chance to Win Stay at Historical U.S. Coast Guard Crews Quarters & Visit Great Lakes Shipwreck Museum"
 date: 2011-04-11T17:49:16
-slug: chance-to-win-stay-at-historical-u-s-coast-guard-crews-quarters-visit-great-lakes-shipwreck-museum
+slug: "chance-to-win-stay-at-historical-u-s-coast-guard-crews-quarters-visit-great-lakes-shipwreck-museum"
 excerpt: "For those in the area this looks like fun. The Great Lakes Shipwreck Museum and MLive.com are sponsoring a two-night stay for two in the restored 1923 U.S. Coast Guard crews quarters at Whitefish Point in the Upper Peninsula of Michigan.  Also included is a … Continue reading &rarr;"
 categories:
   - "Current"

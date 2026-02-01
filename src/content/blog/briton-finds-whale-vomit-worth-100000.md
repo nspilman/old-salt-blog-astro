@@ -1,7 +1,7 @@
 ---
-title: "Briton Finds “Whale Vomit” Worth £100,000"
+title: "Briton Finds \"Whale Vomit\" Worth £100,000"
 date: 2013-02-01T12:25:02
-slug: briton-finds-whale-vomit-worth-100000
+slug: "briton-finds-whale-vomit-worth-100000"
 excerpt: "There is some very interesting beachcombing going on these days in the UK.  Two weeks ago, we posted about  four large, barrel-shaped pieces of lard that washed up on the beach at St.Cyrus nature reserve in Scotland.  Locals opined that … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Mystery of the Novorossiysk"
 date: 2010-10-28T12:05:08
-slug: the-mystery-of-the-novorossiysk
+slug: "the-mystery-of-the-novorossiysk"
 excerpt: "Fifty five years ago today, on October 29th 1955, the battleship Novorossiysk, flagship of the Soviet  Black Sea fleet, moored in Sevastopol Bay, was shattered by a powerful explosion which caused the ship to capsize and sink.  Over six hundred sailors lost … Continue reading &rarr;"
 categories:
   - "History"

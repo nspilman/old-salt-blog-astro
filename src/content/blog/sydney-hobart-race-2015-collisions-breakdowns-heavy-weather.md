@@ -1,7 +1,7 @@
 ---
 title: "Sydney Hobart Race 2015 — Collisions, Breakdowns & Heavy Weather"
 date: 2015-12-26T13:34:40
-slug: sydney-hobart-race-2015-collisions-breakdowns-heavy-weather
+slug: "sydney-hobart-race-2015-collisions-breakdowns-heavy-weather"
 excerpt: "Happy Boxing Day and with it a wild beginning to this year’s Rolex Sydney Hobart Race. The race began with three yachts colliding at the starting line.  The Chinese Ark 323, Lupa of London, and Cougar II were forced to … Continue reading &rarr;"
 categories:
   - "Current"

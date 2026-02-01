@@ -1,7 +1,7 @@
 ---
 title: "Other Uses for a Narwhal Tusk"
 date: 2019-12-02T21:17:47
-slug: other-uses-for-a-narwhal-tusk
+slug: "other-uses-for-a-narwhal-tusk"
 excerpt: "When a terrorist began attacking people with knives on London Bridge recently, a man, described in news reports as a Polish chef, at nearby Fishmongers’ Hall, where the incident began, grabbed a narwhal tusk that was displayed by the side … Continue reading &rarr;"
 categories:
   - "Current"

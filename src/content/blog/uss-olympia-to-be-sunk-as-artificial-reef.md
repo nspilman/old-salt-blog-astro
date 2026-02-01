@@ -1,7 +1,7 @@
 ---
 title: "USS Olympia to be Sunk as Artificial Reef?"
 date: 2010-05-23T09:15:05
-slug: uss-olympia-to-be-sunk-as-artificial-reef
+slug: "uss-olympia-to-be-sunk-as-artificial-reef"
 excerpt: "Extremely disturbing news.   The scandal-plagued museum appears to want to get rid of the historic ship Olympia any way that it can. Historic warship’s future may be sunk … Continue reading &rarr;"
 categories:
   - "Current"

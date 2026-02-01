@@ -1,8 +1,8 @@
 ---
 title: "Opsail & Fleet Week Arrive in New York"
 date: 2012-05-22T12:01:43
-slug: opsail-fleet-week-arrive-in-new-york
-excerpt: "The visiting tall ships have started arriving in New York’s outer harbor.  Tomorrow morning at just after 8 in the morning, the “Parade of Sail” will form up at the Verazano Narrows Bridge and stand north into the inner harbor past the … Continue reading &rarr;"
+slug: "opsail-fleet-week-arrive-in-new-york"
+excerpt: "The visiting tall ships have started arriving in New York’s outer harbor.  Tomorrow morning at just after 8 in the morning, the \"Parade of Sail\" will form up at the Verazano Narrows Bridge and stand north into the inner harbor past the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Opsail"
   - "Verazano Narrows Bridge"
 author: "Rick Spilman"
-description: "The visiting tall ships have started arriving in New York’s outer harbor.  Tomorrow morning at just after 8 in the morning, the “Parade of Sail” will form up at the Verazano Narrows Bridge and stand north into the inner harbor past the … Continue reading &rarr;"
+description: "The visiting tall ships have started arriving in New York’s outer harbor.  Tomorrow morning at just after 8 in the morning, the \"Parade of Sail\" will form up at the Verazano Narrows Bridge and stand north into the inner harbor past the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/51550265.jpg)

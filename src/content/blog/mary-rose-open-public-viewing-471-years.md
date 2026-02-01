@@ -1,7 +1,7 @@
 ---
 title: "Mary Rose Open for Public Viewing After 471 Years"
 date: 2016-07-25T19:14:02
-slug: mary-rose-open-public-viewing-471-years
+slug: "mary-rose-open-public-viewing-471-years"
 excerpt: "Four hundred and seventy one years after it sank in the Solent in 1545, King Henry VIII’s flag ship, Mary Rose, is now, once again, accessible to the viewing public at the Mary Rose Museum in the Portsmouth Historic Dockyard, … Continue reading &rarr;"
 categories:
   - "Current"

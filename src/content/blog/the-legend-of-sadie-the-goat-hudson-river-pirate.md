@@ -1,8 +1,8 @@
 ---
 title: "The Legend of Sadie, the Goat – Hudson River Pirate"
 date: 2011-02-17T10:53:06
-slug: the-legend-of-sadie-the-goat-hudson-river-pirate
-excerpt: "Recently the New York Times on its “Answers to Readers’ Questions About New York” blog was asked, “Can you tell me anything about a Hudson River pirate named Sadie the Goat?”  Sadie’s tale is worth retelling, whether or not she ever … Continue reading &rarr;"
+slug: "the-legend-of-sadie-the-goat-hudson-river-pirate"
+excerpt: "Recently the New York Times on its \"Answers to Readers’ Questions About New York\" blog was asked, \"Can you tell me anything about a Hudson River pirate named Sadie the Goat?\"  Sadie’s tale is worth retelling, whether or not she ever … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Sadie Farrell"
   - "Sadie the Goat"
 author: "Rick Spilman"
-description: "Recently the New York Times on its “Answers to Readers’ Questions About New York” blog was asked, “Can you tell me anything about a Hudson River pirate named Sadie the Goat?”  Sadie’s tale is worth retelling, whether or not she ever … Continue reading &rarr;"
+description: "Recently the New York Times on its \"Answers to Readers’ Questions About New York\" blog was asked, \"Can you tell me anything about a Hudson River pirate named Sadie the Goat?\"  Sadie’s tale is worth retelling, whether or not she ever … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/13fyi-articleLarge.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Austal Shipyard Execs Charged With Massive Fraud in LCS Program"
 date: 2023-04-08T17:43:33
-slug: austal-shipyard-execs-charged-with-massive-fraud-in-lcs-program
+slug: "austal-shipyard-execs-charged-with-massive-fraud-in-lcs-program"
 excerpt: "The  Department of Justice and the Securities and Exchange Commission (SEC) have charged three current or ex-Austal USA executives with accounting fraud in the construction of Independence-class Littoral Combat Ships (LCS). A grand jury issued indictments against Craig Perciavalle, who … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Huge wave kills 2 on cruise ship, Louis Majesty, in Mediterranean"
 date: 2010-03-03T17:43:54
-slug: huge-wave-kills-2-on-cruise-ship-louis-majesty-in-mediterranean
+slug: "huge-wave-kills-2-on-cruise-ship-louis-majesty-in-mediterranean"
 excerpt: "Huge wave kills 2 on cruise ship in Mediterranean A 26-foot wave smashed into a cruise ship carrying nearly 2,000 people in the Mediterranean on Wednesday, smashing glass windshields and killing two passengers, according to officials and news reports. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

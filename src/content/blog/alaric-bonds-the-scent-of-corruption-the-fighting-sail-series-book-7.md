@@ -1,7 +1,7 @@
 ---
 title: "Alaric Bond’s The Scent of Corruption — (The Fighting Sail Series Book 7)"
 date: 2015-06-12T18:15:24
-slug: alaric-bonds-the-scent-of-corruption-the-fighting-sail-series-book-7
+slug: "alaric-bonds-the-scent-of-corruption-the-fighting-sail-series-book-7"
 excerpt: "Alaric Bond’s latest novel, The Scent of Corruption, the seventh in the Fighting Sail series, is now available on Kindle and will soon be available in print. A great read. About the novel:  Summer, 1803: the uneasy peace with France … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Return of Deep Blue — Largest Great White Shark Goes Viral"
 date: 2019-01-19T16:35:52
-slug: return-of-deep-blue-largest-great-white-shark-goes-viral
+slug: "return-of-deep-blue-largest-great-white-shark-goes-viral"
 excerpt: "In 2013, a 20′ great white shark was caught on video by Mexican shark expert Mauricio Hoyos Padilla off Guadalupe Island. Believed to be the largest great white shark ever filmed and among the largest great whites ever encountered, she was nicknamed … Continue reading &rarr;"
 categories:
   - "Current"

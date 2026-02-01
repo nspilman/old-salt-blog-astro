@@ -1,7 +1,7 @@
 ---
 title: "Flying P Liner Pommern Reopening to the Public With New Exhibits at New Dock"
 date: 2019-04-08T18:39:19
-slug: flying-p-liner-pommern-reopening-to-the-public-with-new-exhibits-at-new-dock
+slug: "flying-p-liner-pommern-reopening-to-the-public-with-new-exhibits-at-new-dock"
 excerpt: "The Flying-P Liner Pommern will soon be open to the public again at a new dock with new exhibits in Mariehamn, on the Åland Islands of Finland. The 1903 built, steel, four-masted bark has been closed to the public since … Continue reading &rarr;"
 categories:
   - "Current"

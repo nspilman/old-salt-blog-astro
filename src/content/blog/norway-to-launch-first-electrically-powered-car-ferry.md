@@ -1,7 +1,7 @@
 ---
 title: "Norway to Launch First Electrically Powered Car Ferry"
 date: 2013-01-16T16:26:19
-slug: norway-to-launch-first-electrically-powered-car-ferry
+slug: "norway-to-launch-first-electrically-powered-car-ferry"
 excerpt: "The Norwegian shipyard Fjellstrand and Siemens are developing the world’s first electrically powered car ferry. Starting in 2015, the 80-meter ferry will will operate across the Sognefjord between the towns of Lavik and Oppedal. The ferry will have the capacity … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "John Finn, Medal of Honor Winner, Dies at 100"
 date: 2010-05-30T07:43:49
-slug: john-finn-medal-of-honor-winner-dies-at-100
+slug: "john-finn-medal-of-honor-winner-dies-at-100"
 excerpt: "John Finn, Medal of Honor Winner, Dies at 100 John W. Finn, the last survivor of the 15 Navy men who received the Medal of Honor for heroism during the Japanese attack on Pearl Harbor, died Thursday at a nursing … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

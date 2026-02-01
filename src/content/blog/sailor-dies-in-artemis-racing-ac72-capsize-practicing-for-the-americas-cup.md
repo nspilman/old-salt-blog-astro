@@ -1,7 +1,7 @@
 ---
 title: "British Olympian Dies in Artemis Racing AC72 Capsize Practicing for the America’s Cup"
 date: 2013-05-09T18:23:37
-slug: sailor-dies-in-artemis-racing-ac72-capsize-practicing-for-the-americas-cup
+slug: "sailor-dies-in-artemis-racing-ac72-capsize-practicing-for-the-americas-cup"
 excerpt: "Andrew Simpson, a British double Olympic medalist and a sailor with the Swedish Artemis Racing team, has died in the capsize of an AC72 catamaran while practicing in San Francisco Bay for the upcoming America’s Cup races. One other sailor is reported to be seriously injured There were 11 … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Royal Navy Celebrates 75th Anniversary of VE Day"
 date: 2020-05-08T11:30:29
-slug: royal-navy-celebrates-75th-anniversary-of-ve-day
+slug: "royal-navy-celebrates-75th-anniversary-of-ve-day"
 excerpt: "Parades and large celebrations were planned for the 75th anniversary of VE Day, Victory in Europe Day, the end of World War II in Europe on this day in 1945. And then the pandemic came along. Nevertheless, the Royal Navy … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

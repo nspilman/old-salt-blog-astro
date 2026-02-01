@@ -1,7 +1,7 @@
 ---
 title: "DNA Suggests Ancient Voyagers Sailed Between Polynesia and South America"
 date: 2020-07-10T12:54:42
-slug: dna-suggests-ancient-voyagers-sailed-between-polynesia-and-south-america
+slug: "dna-suggests-ancient-voyagers-sailed-between-polynesia-and-south-america"
 excerpt: "For decades scholars have argued over how the myriad islands of Polynesia came to be settled. Did the early settlers sail or drift on rafts from South America on the prevailing currents and then continue to sail westward? Or, did … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Manager of Converted Ex-Cunarder Queen Mary Files for Bankruptcy"
 date: 2021-01-25T17:07:25
-slug: manager-of-converted-ex-cunarder-queen-mary-files-for-bankruptcy
+slug: "manager-of-converted-ex-cunarder-queen-mary-files-for-bankruptcy"
 excerpt: "The operator of the ex-Cunard Queen Mary has filed for bankruptcy raising concerns about the future of the converted luxury liner that has served as a tourist attraction and hotel in Long Beach, CA since 1972. The converted ship is … Continue reading &rarr;"
 categories:
   - "Current"

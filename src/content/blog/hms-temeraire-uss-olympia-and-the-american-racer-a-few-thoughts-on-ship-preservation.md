@@ -1,8 +1,8 @@
 ---
 title: "HMS Temeraire, USS Olympia, and the American Racer – A Few Thoughts on Ship Preservation"
 date: 2010-12-17T07:52:42
-slug: hms-temeraire-uss-olympia-and-the-american-racer-a-few-thoughts-on-ship-preservation
-excerpt: "Bernard Cornwell‘s introduction to his review of  Sam Willis’s book, “The Fighting Temeraire,”  is as dramatic as it is sadly accurate. He writes:  At Penn’s Landing in Philadelphia, the battle-cruiser USS Olympia lies glorious and doomed. The oldest steel warship in … Continue reading &rarr;"
+slug: "hms-temeraire-uss-olympia-and-the-american-racer-a-few-thoughts-on-ship-preservation"
+excerpt: "Bernard Cornwell‘s introduction to his review of  Sam Willis’s book, \"The Fighting Temeraire,\"  is as dramatic as it is sadly accurate. He writes:  At Penn’s Landing in Philadelphia, the battle-cruiser USS Olympia lies glorious and doomed. The oldest steel warship in … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -16,7 +16,7 @@ tags:
   - "The Fighting Temeraire"
   - "USS Olympia"
 author: "Rick Spilman"
-description: "Bernard Cornwell‘s introduction to his review of  Sam Willis’s book, “The Fighting Temeraire,”  is as dramatic as it is sadly accurate. He writes:  At Penn’s Landing in Philadelphia, the battle-cruiser USS Olympia lies glorious and doomed. The oldest steel warship in … Continue reading &rarr;"
+description: "Bernard Cornwell‘s introduction to his review of  Sam Willis’s book, \"The Fighting Temeraire,\"  is as dramatic as it is sadly accurate. He writes:  At Penn’s Landing in Philadelphia, the battle-cruiser USS Olympia lies glorious and doomed. The oldest steel warship in … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/5227825617_273e966207_o.jpg)

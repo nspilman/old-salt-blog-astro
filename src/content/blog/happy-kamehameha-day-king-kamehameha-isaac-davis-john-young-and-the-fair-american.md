@@ -1,7 +1,7 @@
 ---
 title: "Happy Kamehameha Day ! –  King Kamehameha, Isaac Davis, John Young and the Fair American"
 date: 2012-06-11T15:31:16
-slug: happy-kamehameha-day-king-kamehameha-isaac-davis-john-young-and-the-fair-american
+slug: "happy-kamehameha-day-king-kamehameha-isaac-davis-john-young-and-the-fair-american"
 excerpt: "Happy Kamehameha Day!  In the state of Hawaii, June 11th is celebrated as Kamehameha Day, honoring  Kamehameha the Great, the king who unified the Kingdom of Hawaiʻi in 1810.  The holiday was established in 1871 by King Kamehameha V, Kamehameha’s great grandson. … Continue reading &rarr;"
 categories:
   - "Current"

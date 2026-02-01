@@ -1,7 +1,7 @@
 ---
 title: "Tom Grundner, Owner of Fireship Press"
 date: 2011-09-18T19:23:21
-slug: tom-grundner-owner-of-fireship-press
+slug: "tom-grundner-owner-of-fireship-press"
 excerpt: "There aren’t many publishers with a special interest in nautical fiction.  Tom Grundner, the owner of Fireship Press, who died suddenly on September 11th, was one.  I never had the chance to meet him in person, but I genuinely liked the man I knew only through … Continue reading &rarr;"
 categories:
   - "Current"

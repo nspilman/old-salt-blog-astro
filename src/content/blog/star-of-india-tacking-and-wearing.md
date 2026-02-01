@@ -1,7 +1,7 @@
 ---
 title: "Star of India Tacking and Wearing"
 date: 2015-03-22T21:21:45
-slug: star-of-india-tacking-and-wearing
+slug: "star-of-india-tacking-and-wearing"
 excerpt: "Maneuvering a square-rigged ship can be a highly choreographed performance requiring both skill and timing. Here is a well done video of the 1883 built Star of India tacking and wearing. Star of India tacking and wearing … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Black Sails, A Treasure Island Prequel with Dirt, Violence, & Sex — A Review"
 date: 2014-02-02T09:10:54
-slug: black-sails-a-treasure-island-prequel-with-dirt-violence-sex-a-review
+slug: "black-sails-a-treasure-island-prequel-with-dirt-violence-sex-a-review"
 excerpt: "The Starz premium cable channel has a new big-budget original series, Black Sails, which appears to be intended as a gritty, realistic look at piracy in the early 1700s in the pirate’s haven of New Providence in the Bahamas.  In … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

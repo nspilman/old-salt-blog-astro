@@ -1,7 +1,7 @@
 ---
 title: "None of Indonesia’s 22 Tsunami Early Warning Buoys Were Working"
 date: 2018-10-02T13:12:31
-slug: none-of-indonesias-22-tsunami-early-warning-buoys-were-working
+slug: "none-of-indonesias-22-tsunami-early-warning-buoys-were-working"
 excerpt: "After the devastating 2004 Indian Ocean tsunami that killed nearly a quarter of a million people, the United States, Germany, and Malaysia donated an advanced tsunami warning system to Indonesia. When the city of Palu on the island of Sulawesi, Indonesia was … Continue reading &rarr;"
 categories:
   - "Current"

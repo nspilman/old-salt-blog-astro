@@ -1,7 +1,7 @@
 ---
 title: "Record Breaking Sydney Hobart, LDV Comanche Winner After Protest"
 date: 2017-12-28T18:29:31
-slug: record-breaking-sydney-hobart-ldv-comanche-winner-protest
+slug: "record-breaking-sydney-hobart-ldv-comanche-winner-protest"
 excerpt: "This year’s Rolex Sydney to Hobart yacht race saw drama at both the start and the finish of the race. Indeed, the drama at the start determined who would be awarded the line honors at the finish. Let’s start with … Continue reading &rarr;"
 categories:
   - "Current"

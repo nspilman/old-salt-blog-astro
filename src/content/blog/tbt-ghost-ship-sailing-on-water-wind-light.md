@@ -1,7 +1,7 @@
 ---
 title: "TBT — Ghost Ship, Sailing on Water, Wind, & Light"
 date: 2020-04-02T15:54:31
-slug: tbt-ghost-ship-sailing-on-water-wind-light
+slug: "tbt-ghost-ship-sailing-on-water-wind-light"
 excerpt: "Grasping at any excuse to stop thinking about the pandemic, for Throw-back Thursday, here is an updated repost from several years ago about an almost magical ghost ship. What should a ghost ship be made of? Why not water, wind, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

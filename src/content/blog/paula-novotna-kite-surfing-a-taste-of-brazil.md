@@ -1,7 +1,7 @@
 ---
 title: "Paula Novotná Kite Surfing – A Taste of Brazil"
 date: 2014-12-21T09:19:47
-slug: paula-novotna-kite-surfing-a-taste-of-brazil
+slug: "paula-novotna-kite-surfing-a-taste-of-brazil"
 excerpt: "On this the first day of Winter, as the darkness closes in around us, it seems appropriate to take a few minutes to escape, virtually at least, to shores where it is the first day of Summer.  Here is a short … Continue reading &rarr;"
 categories:
   - "Current"

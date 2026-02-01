@@ -1,7 +1,7 @@
 ---
 title: "Hagland Captain — the Other Ship Rescued Off Norway"
 date: 2019-03-26T13:52:24
-slug: hagland-captain-the-other-ship-rescued-off-norway
+slug: "hagland-captain-the-other-ship-rescued-off-norway"
 excerpt: "When the Viking Sky lost power in a storm off the coast of Norway this weekend, the 5,000 DWT geared lumber carrier Hagland Captain responded to the distress call and diverted to assist the cruise ship. The lumber carrier, however, … Continue reading &rarr;"
 categories:
   - "Current"

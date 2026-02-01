@@ -1,7 +1,7 @@
 ---
 title: "Persistent Sheen – After 60 Years Princess Kathleen Still Leaking Oil off Alaskan coast"
 date: 2010-03-03T07:42:39
-slug: persistent-sheen-%e2%80%93-after-60-years-princess-kathleen-still-leaking-oil-off-alaskan-coast
+slug: "persistent-sheen-%e2%80%93-after-60-years-princess-kathleen-still-leaking-oil-off-alaskan-coast"
 excerpt: "Sunken Canadian ship spewing oil off Alaskan coast: U.S. Coast Guard A storied Canadian steamship that offered luxury cruises for decades along the British Columbia coast, then served a crucial role during the Second World War transporting troops, supplies and … Continue reading &rarr;"
 categories:
   - "Current"

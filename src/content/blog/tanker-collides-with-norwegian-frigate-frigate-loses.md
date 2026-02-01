@@ -1,7 +1,7 @@
 ---
 title: "Tanker Collides with Norwegian Frigate — Frigate Loses"
 date: 2018-11-09T08:15:31
-slug: tanker-collides-with-norwegian-frigate-frigate-loses
+slug: "tanker-collides-with-norwegian-frigate-frigate-loses"
 excerpt: "The Norwegian navy frigate, KNM Helge Ingstad, was returning from NATO exercises when it was in a collision with a Maltese flag, Aframax tanker, Sola TS, in the Hjeltefjord near Bergen, Norway. The tanker was not seriously damaged while the frigate suffered major flooding and … Continue reading &rarr;"
 categories:
   - "Current"

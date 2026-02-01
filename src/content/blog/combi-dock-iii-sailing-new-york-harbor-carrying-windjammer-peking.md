@@ -1,7 +1,7 @@
 ---
 title: "Combi-Dock III Sailing from New York Harbor Carrying Windjammer Peking"
 date: 2017-07-21T13:06:41
-slug: combi-dock-iii-sailing-new-york-harbor-carrying-windjammer-peking
+slug: "combi-dock-iii-sailing-new-york-harbor-carrying-windjammer-peking"
 excerpt: "The ship was just a silhouette in the haze as we sailed into New York harbor. We were on the last leg of the delivery of my new/old sailboat Arcturus from southern Virginia to Oyster Bay, Long Island.  The ship … Continue reading &rarr;"
 categories:
   - "Current"

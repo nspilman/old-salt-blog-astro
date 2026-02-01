@@ -1,7 +1,7 @@
 ---
 title: "Tight Race for Favorite Tug of 2010 – W.O. Decker in the Lead"
 date: 2010-09-09T16:34:03
-slug: tight-race-for-favorite-tug-of-2010-w-o-decker-in-the-lead
+slug: "tight-race-for-favorite-tug-of-2010-w-o-decker-in-the-lead"
 excerpt: "The Waterford Tugboat Roundup 2010 starts tomorrow with a Parade of  Tugs past the Albany, NY waterfront before all return to Waterford at the junction of the Hudson and Mohawk Rivers for a  full weekend of competitions and entertainment.   The Roundup Favorite Tug of 2010 competition … Continue reading &rarr;"
 categories:
   - "Current"

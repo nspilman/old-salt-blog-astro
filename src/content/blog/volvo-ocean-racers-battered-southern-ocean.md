@@ -1,7 +1,7 @@
 ---
 title: "Volvo Ocean Racers Battered in the Southern Ocean"
 date: 2017-12-15T15:32:14
-slug: volvo-ocean-racers-battered-southern-ocean
+slug: "volvo-ocean-racers-battered-southern-ocean"
 excerpt: "The third leg of the Volvo Ocean Race from Cape Town to Melbourne has subjected the fleet to the fury of the Southern Ocean.  With steady winds of 50 knots with gusts to over 60, the seven boats have been surfing … Continue reading &rarr;"
 categories:
   - "Current"

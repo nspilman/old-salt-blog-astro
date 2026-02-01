@@ -1,7 +1,7 @@
 ---
 title: "Update: Fires at Sea – MSC Flaminia Finally Allowed To Come Home & Chamarel Salvage Underway"
 date: 2012-08-22T11:01:04
-slug: update-fires-at-sea-msc-flaminia-finally-allowed-to-come-home-chamarel-salvage-underway
+slug: "update-fires-at-sea-msc-flaminia-finally-allowed-to-come-home-chamarel-salvage-underway"
 excerpt: "Updates to two sets of recent posts:  After considerable delay the container ship  MSC Flaminia is being allowed into a port of refuge.  Authorities have granted permission for the German flagged ship to be towed into German waters. Following a safety inspection … Continue reading &rarr;"
 categories:
   - "Current"

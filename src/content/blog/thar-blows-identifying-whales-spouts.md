@@ -1,7 +1,7 @@
 ---
 title: "Thar’ She Blows — Identifying Whales by their Spouts"
 date: 2017-01-03T08:57:59
-slug: thar-blows-identifying-whales-spouts
+slug: "thar-blows-identifying-whales-spouts"
 excerpt: "Yesterday we posted about a whale swimming in New York’s East River. It was originally identified by the police as a humpback, but their photograph of the whale’s spout now makes it highly likely that the whales was in fact … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Update: USS Ponce, One of the Oldest Amphibious Transport Dock Ships, Forward Command Post and Commando Mothership After All"
 date: 2012-07-12T20:19:48
-slug: update-uss-ponce-the-oldest-amphibious-transport-dock-ship-forward-command-post-and-commando-mothership-after-all
-excerpt: "Last February, we posted about the modification to the USS Ponce prior to being sent to the Persian Gulf. (See Mine-Detecting Dolphins and USS Ponce, Commando “Mothership” in Persian Gulf?)   We included the question mark in the post title because, while … Continue reading &rarr;"
+slug: "update-uss-ponce-the-oldest-amphibious-transport-dock-ship-forward-command-post-and-commando-mothership-after-all"
+excerpt: "Last February, we posted about the modification to the USS Ponce prior to being sent to the Persian Gulf. (See Mine-Detecting Dolphins and USS Ponce, Commando \"Mothership\" in Persian Gulf?)   We included the question mark in the post title because, while … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ categories:
 tags:
   - "USS Ponce"
 author: "Rick Spilman"
-description: "Last February, we posted about the modification to the USS Ponce prior to being sent to the Persian Gulf. (See Mine-Detecting Dolphins and USS Ponce, Commando “Mothership” in Persian Gulf?)   We included the question mark in the post title because, while … Continue reading &rarr;"
+description: "Last February, we posted about the modification to the USS Ponce prior to being sent to the Persian Gulf. (See Mine-Detecting Dolphins and USS Ponce, Commando \"Mothership\" in Persian Gulf?)   We included the question mark in the post title because, while … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/ponce.jpg)Last February, we posted about the modification to the [USS *Ponce*](http://en.wikipedia.org/wiki/USS_Ponce_\(LPD-15\)) prior to being sent to the Persian Gulf. (See [Mine-Detecting Dolphins and USS *Ponce*, Commando “Mothership” in Persian Gulf?](http://www.oldsaltblog.com/2012/02/03/mine-detecting-dolphins-and-uss-ponce-commando-mothership-in-persian-gulf/))   We included the question mark in the post title because, while the press was referring to the ship as a “commando mothership,”  a floating base from which commando raids could be launched, the Navy admirals were busy denying that it would be any such thing.  Now it appears that the ship, one of the oldest Amphibious Transport Dock Ship will indeed be used as a “commando mothership” as well as a forward command post.  (Thanks to Dave Shirlaw for pointing out that the USS *Denver* is three years older than the *Ponce*.)

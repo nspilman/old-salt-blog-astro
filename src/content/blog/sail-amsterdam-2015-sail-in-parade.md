@@ -1,7 +1,7 @@
 ---
 title: "Sail Amsterdam 2015 — Sail In Parade"
 date: 2015-08-20T08:20:43
-slug: sail-amsterdam-2015-sail-in-parade
+slug: "sail-amsterdam-2015-sail-in-parade"
 excerpt: "Sail Amsterdam bills itself as the world’s largest nautical festival. Every five years, more than 600 ships navigate along the North Sea Canal before mooring in and around the IJhaven in Amsterdam. The ninth edition of SAIL Amsterdam takes place … Continue reading &rarr;"
 categories:
   - "Current"

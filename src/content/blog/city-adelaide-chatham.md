@@ -1,7 +1,7 @@
 ---
 title: "City of Adelaide at Chatham, UK"
 date: 2013-09-27T09:59:02
-slug: city-adelaide-chatham
+slug: "city-adelaide-chatham"
 excerpt: "The oldest surviving clipper clipper ship, City of Adelaide, was towed on its barge to Chatham where she will be fumigated. In mid-October, the 1864 built composite clipper ship will be moved to Greenwich, near the just slightly younger composite … Continue reading &rarr;"
 categories:
   - "Current"

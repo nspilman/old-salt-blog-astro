@@ -1,7 +1,7 @@
 ---
 title: "Huge 8.9 Earthquake off Japan Triggers Tsunami , Tsunami Warnings in Hawaii and USS West Coast"
 date: 2011-03-11T08:31:20
-slug: huge-8-9-earthquake-triggers-tsunami-off-japan-tsunami-warnings-in-hawaii-and-uss-west-coast
+slug: "huge-8-9-earthquake-triggers-tsunami-off-japan-tsunami-warnings-in-hawaii-and-uss-west-coast"
 excerpt: "The largest earthquake in Japanese recorded history, 8.9 on the Richter scale, which struck about 80 miles offshore, has triggered devastating tsunami waves on the  coast of northeast Japan.   Tsunami warnings have gone up in at least 50 countries and territories, … Continue reading &rarr;"
 categories:
   - "Current"

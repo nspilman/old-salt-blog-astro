@@ -1,7 +1,7 @@
 ---
-title: "Storm-sunken “treasure ship” found in Ukraine ?"
+title: "Storm-sunken \"treasure ship\" found in Ukraine ?"
 date: 2010-03-17T08:44:13
-slug: storm-sunken-%e2%80%9ctreasure-ship%e2%80%9d-found-in-ukraine
+slug: "storm-sunken-%e2%80%9ctreasure-ship%e2%80%9d-found-in-ukraine"
 excerpt: "A sunken British frigate rumored to be carrying gold to  pay the troops? Sounds a lot like the HMS Hussar which sunk in New York in 1780.  This more recent discovery is the British storeship  Prince, which sank in the Black Sea in a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

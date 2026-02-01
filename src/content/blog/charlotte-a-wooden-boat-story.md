@@ -1,7 +1,7 @@
 ---
 title: "CHARLOTTE – A Wooden Boat Story"
 date: 2011-10-28T07:50:08
-slug: charlotte-a-wooden-boat-story
+slug: "charlotte-a-wooden-boat-story"
 excerpt: "The Gannon & Benjamin Marine Railway, located on the island of Martha’s Vineyard, Massachusetts, must be a pretty amazing place. In July of 2010, we reviewed Schooner – Building a Wooden Boat on Martha’s Vineyard, which was about building a schooner … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "On Martin Luther King Jr. Day"
 date: 2017-01-16T11:20:50
-slug: martin-luther-king-jr-day
+slug: "martin-luther-king-jr-day"
 excerpt: "On Martin Luther King, Jr. Day, a quote: We may have all come on different ships, but we’re in the same boat now. Martin Luther King, Jr. … Continue reading &rarr;"
 categories:
   - "Current"

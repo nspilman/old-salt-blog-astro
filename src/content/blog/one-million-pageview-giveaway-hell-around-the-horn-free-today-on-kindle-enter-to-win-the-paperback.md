@@ -1,7 +1,7 @@
 ---
 title: "One Million Pageview Giveaway – Hell Around the Horn Free Today on Kindle, Enter to Win the Paperback"
 date: 2012-12-20T11:00:56
-slug: one-million-pageview-giveaway-hell-around-the-horn-free-today-on-kindle-enter-to-win-the-paperback
+slug: "one-million-pageview-giveaway-hell-around-the-horn-free-today-on-kindle-enter-to-win-the-paperback"
 excerpt: "To continue our celebration of the Old Salt Blog passing one million pageviews, today, December 20, and tommorrow, December 21, we are giving away free copies of the Kindle edition of my new nautical thriller, Hell Around the Horn.  Click here to go … Continue reading &rarr;"
 categories:
   - "Newbooks"

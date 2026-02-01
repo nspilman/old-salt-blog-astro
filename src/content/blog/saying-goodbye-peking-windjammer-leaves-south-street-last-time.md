@@ -1,7 +1,7 @@
 ---
 title: "Saying Goodbye to Peking — Windjammer Leaves South Street for the Last Time"
 date: 2016-09-07T17:27:33
-slug: saying-goodbye-peking-windjammer-leaves-south-street-last-time
+slug: "saying-goodbye-peking-windjammer-leaves-south-street-last-time"
 excerpt: "This morning, the 1911 built, steel, four masted barque, Peking, left South Street Seaport, its home for more than 40 years, for the last time. For those of us who have known the ship for almost as long, it was … Continue reading &rarr;"
 categories:
   - "Current"

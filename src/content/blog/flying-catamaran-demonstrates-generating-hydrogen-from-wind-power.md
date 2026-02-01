@@ -1,7 +1,7 @@
 ---
 title: "Flying Catamaran Demonstrates Generating Hydrogen From Wind Power"
 date: 2022-07-24T18:25:04
-slug: flying-catamaran-demonstrates-generating-hydrogen-from-wind-power
+slug: "flying-catamaran-demonstrates-generating-hydrogen-from-wind-power"
 excerpt: "The 18′ foiling catamaran seen recently flying over the waves off the coast of Essex in the UK, was a small boat testing a very big concept. As it flew during the two-hour sea trial, the boat drove an underwater … Continue reading &rarr;"
 categories:
   - "Current"

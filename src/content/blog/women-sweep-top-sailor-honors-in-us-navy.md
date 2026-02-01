@@ -1,7 +1,7 @@
 ---
 title: "Women sweep top-sailor honors in US Navy"
 date: 2010-06-05T07:14:45
-slug: women-sweep-top-sailor-honors-in-us-navy
+slug: "women-sweep-top-sailor-honors-in-us-navy"
 excerpt: "Women sweep top-sailor honors For the first time, the Navy’s four sailors of the year are women, Chief of Naval Operations Adm. Gary Roughead announced Thursday. Roughead noted the achievement as part of a number of milestones for women in … Continue reading &rarr;"
 categories:
   - "Current"

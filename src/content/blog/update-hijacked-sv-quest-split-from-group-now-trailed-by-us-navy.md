@@ -1,7 +1,7 @@
 ---
 title: "Update ; Hijacked SV Quest Split from Group; Now Trailed by US Navy"
 date: 2011-02-21T09:47:26
-slug: update-hijacked-sv-quest-split-from-group-now-trailed-by-us-navy
+slug: "update-hijacked-sv-quest-split-from-group-now-trailed-by-us-navy"
 excerpt: "We are learning more about the hijacked SV Quest, seized by pirates off Oman last Friday.   The sailing yacht, reportedly with Americans Scott and Jean Adam, Phyllis Macay and Bob Riggle aboard, had been sailing with the Oz-Med section of … Continue reading &rarr;"
 categories:
   - "Current"

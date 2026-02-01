@@ -1,7 +1,7 @@
 ---
 title: "USS Fort McHenry Quarantined at Sea for Two Months"
 date: 2019-03-15T18:15:15
-slug: uss-fort-mchenry-quarantined-at-sea-for-two-months
+slug: "uss-fort-mchenry-quarantined-at-sea-for-two-months"
 excerpt: "USS Fort McHenry, a US Navy Whidbey Island-class dock landing ship, with over 700 sailors and Marines aboard, has spent the last two months at sea without a port-call. The reason? There has been an outbreak of parotitis, a virus … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

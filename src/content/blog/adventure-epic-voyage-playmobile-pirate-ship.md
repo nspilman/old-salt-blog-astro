@@ -1,7 +1,7 @@
 ---
 title: "Adventure, the Epic Voyage of a Playmobile Pirate Ship"
 date: 2017-09-06T09:10:41
-slug: adventure-epic-voyage-playmobile-pirate-ship
+slug: "adventure-epic-voyage-playmobile-pirate-ship"
 excerpt: "Two Scottish brothers, eight-year-old, Ollie and five-year-old, Harry Ferguson, are too young to go to sea themselves, so instead, they sent their toy pirate sailing ship on a voyage from the fine old port of Peterhead, Aberdeenshire earlier this year. … Continue reading &rarr;"
 categories:
   - "Current"

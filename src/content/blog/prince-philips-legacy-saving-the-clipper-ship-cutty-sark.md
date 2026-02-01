@@ -1,7 +1,7 @@
 ---
 title: "Prince Philip’s Legacy — Saving the Clipper Ship Cutty Sark"
 date: 2021-04-10T11:49:08
-slug: prince-philips-legacy-saving-the-clipper-ship-cutty-sark
+slug: "prince-philips-legacy-saving-the-clipper-ship-cutty-sark"
 excerpt: "Great Britain’s Prince Philip, the Duke of Edinburgh, died yesterday at the age of 99. He has been referred to as a sailor prince. The grandson of an admiral of the fleet and first sea lord, he was commissioned as … Continue reading &rarr;"
 categories:
   - "Current"

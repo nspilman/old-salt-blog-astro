@@ -1,8 +1,8 @@
 ---
-title: "“The Finest Hours,” Greatest Small Boat Rescue in History — Movie Review"
+title: "\"The Finest Hours,\" Greatest Small Boat Rescue in History — Movie Review"
 date: 2016-02-06T12:14:09
-slug: the-finest-hours-greatest-small-boat-rescue-in-history-movie-review
-excerpt: "Originally posted on gCaptain. Reposted with permission. “The Finest Hours” is far from a perfect movie. Nevertheless, it recounts a remarkable story of heroism at sea that is well worth retelling. For anyone who has spent any time around ships, … Continue reading &rarr;"
+slug: "the-finest-hours-greatest-small-boat-rescue-in-history-movie-review"
+excerpt: "Originally posted on gCaptain. Reposted with permission. \"The Finest Hours\" is far from a perfect movie. Nevertheless, it recounts a remarkable story of heroism at sea that is well worth retelling. For anyone who has spent any time around ships, … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -16,7 +16,7 @@ tags:
   - "T2 tanker"
   - "US Coast Guard"
 author: "Rick Spilman"
-description: "“The Finest Hours” is far from a perfect movie. Nevertheless, it recounts a remarkable story of heroism at sea that is well worth retelling. For anyone who has spent any time around ships, it is also hard to resist a movie in which one of the lead characters is a grumpy chief engineer."
+description: "\"The Finest Hours\" is far from a perfect movie. Nevertheless, it recounts a remarkable story of heroism at sea that is well worth retelling. For anyone who has spent any time around ships, it is also hard to resist a movie in which one of the lead characters is a grumpy chief engineer."
 ---
 
 Originally posted on [gCaptain](http://gcaptain.com/finest-hours-greatest-small-boat-rescue-history-review/). Reposted with permission.

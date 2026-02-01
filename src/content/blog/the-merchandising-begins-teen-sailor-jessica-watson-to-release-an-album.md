@@ -1,7 +1,7 @@
 ---
 title: "The Merchandising Begins – Teen Sailor Jessica Watson’s Book and Album"
 date: 2010-07-15T10:06:52
-slug: the-merchandising-begins-teen-sailor-jessica-watson-to-release-an-album
+slug: "the-merchandising-begins-teen-sailor-jessica-watson-to-release-an-album"
 excerpt: "Jessica Watson’s book True Spirit will be published in August in Australia and in October in the United States.  It was also recently announced that she will be releasing an album as well.  Fast work given that she only returned in the middle of May. Teen sailor … Continue reading &rarr;"
 categories:
   - "Current"

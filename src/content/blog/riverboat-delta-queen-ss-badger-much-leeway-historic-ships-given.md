@@ -1,7 +1,7 @@
 ---
 title: "Riverboat Delta Queen & SS Badger — How Much Leeway Should Historic Ships be Given?"
 date: 2017-02-07T17:54:24
-slug: riverboat-delta-queen-ss-badger-much-leeway-historic-ships-given
+slug: "riverboat-delta-queen-ss-badger-much-leeway-historic-ships-given"
 excerpt: "Is the classic 1927-built stern-wheel steamboat Delta Queen a national treasure or a not safe enough to operate?  The ship does not meet current safety standards as established by the Safety of Life at Sea (SOLAS) regulations.  A series of rolling two … Continue reading &rarr;"
 categories:
   - "Current"

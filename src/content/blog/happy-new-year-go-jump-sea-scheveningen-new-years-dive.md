@@ -1,7 +1,7 @@
 ---
 title: "Happy New Year! Go Jump in the Sea — Scheveningen New Year’s Dive"
 date: 2017-01-01T08:15:46
-slug: happy-new-year-go-jump-sea-scheveningen-new-years-dive
+slug: "happy-new-year-go-jump-sea-scheveningen-new-years-dive"
 excerpt: "Happy New Year! Every year for more than the last fifty years, brave or foolhardy Dutch men, women, and children have been celebrating New Year’s Day by jumping into the sea. Called the ‘Nieuwjaarsduik‘ (New Year’s dive), an estimated 25,000 or … Continue reading &rarr;"
 categories:
   - "Current"

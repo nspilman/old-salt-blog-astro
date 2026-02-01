@@ -1,7 +1,7 @@
 ---
 title: "Cruise Lines Delay US Port Restart Again, Until at Least September 15th"
 date: 2020-06-22T16:52:30
-slug: cruise-lines-delay-us-port-restart-again-until-at-least-september-15th
+slug: "cruise-lines-delay-us-port-restart-again-until-at-least-september-15th"
 excerpt: "In mid-March, the Cruise Lines International Association (CLIA) announced that the major cruise lines were shutting down operations from all US ports for at least 30 days in response to the coronavirus pandemic. A month later, the Center for Disease … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

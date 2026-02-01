@@ -1,7 +1,7 @@
 ---
 title: "Scientists in Egypt Discover Fossil of an Amphibious, Four-legged Whale"
 date: 2021-08-28T10:01:52
-slug: scientists-in-egypt-discover-fossil-of-an-amphibious-four-legged-whale
+slug: "scientists-in-egypt-discover-fossil-of-an-amphibious-four-legged-whale"
 excerpt: "Scientists in Egypt have announced that they have discovered the fossilized bones of a previously unknown amphibious, four-legged species of an ancestral whale. The semiaquatic whales called protocetids, existed over forty million years, during the Eocene period, according to findings … Continue reading &rarr;"
 categories:
   - "Current"

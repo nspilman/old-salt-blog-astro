@@ -1,7 +1,7 @@
 ---
 title: "Ship Rams Mark the Site of Ancient Mediterranean Sea Battle"
 date: 2010-10-26T08:10:33
-slug: ship-rams-mark-the-site-of-mediterranean-sea-battle
+slug: "ship-rams-mark-the-site-of-mediterranean-sea-battle"
 excerpt: "All that remains to mark the site of the final sea battle of the First Punic War between Rome and Carthage, around 241 BC, are the great bronze rams left behind after the rest of the sunken ships have rotten … Continue reading &rarr;"
 categories:
   - "Current"

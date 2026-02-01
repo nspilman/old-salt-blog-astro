@@ -1,8 +1,8 @@
 ---
-title: "Before IMAX, there was Windjammer in “Cinemiracle”"
+title: "Before IMAX, there was Windjammer in \"Cinemiracle\""
 date: 2011-02-02T11:30:46
-slug: before-imax-there-was-windjammer-in-cinemiracle
-excerpt: "In 1958, the New York Times published a review of  Louis de Rochemont’s new movie “Windjammer.”  It began: “Every last moviegoer with a drop of salt water in his blood will want to swing aboard “Windjammer,” which opened at the … Continue reading &rarr;"
+slug: "before-imax-there-was-windjammer-in-cinemiracle"
+excerpt: "In 1958, the New York Times published a review of  Louis de Rochemont’s new movie \"Windjammer.\"  It began: \"Every last moviegoer with a drop of salt water in his blood will want to swing aboard \"Windjammer,\" which opened at the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Louis de Rochemont"
   - "Windjammer"
 author: "Rick Spilman"
-description: "In 1958, the New York Times published a review of  Louis de Rochemont’s new movie “Windjammer.”  It began: “Every last moviegoer with a drop of salt water in his blood will want to swing aboard “Windjammer,” which opened at the … Continue reading &rarr;"
+description: "In 1958, the New York Times published a review of  Louis de Rochemont’s new movie \"Windjammer.\"  It began: \"Every last moviegoer with a drop of salt water in his blood will want to swing aboard \"Windjammer,\" which opened at the … Continue reading &rarr;"
 ---
 
 In 1958, the New York Times [published a review of  Louis de Rochemont’s new movie “Windjammer](http://movies.nytimes.com/movie/review?res=9402E0DB1139EF3BBC4852DFB2668383649EDE).”  It began:

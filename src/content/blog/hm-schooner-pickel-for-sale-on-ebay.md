@@ -1,7 +1,7 @@
 ---
 title: "Schooner HMS Pickel for Sale on Ebay"
 date: 2014-07-07T14:02:15
-slug: hm-schooner-pickel-for-sale-on-ebay
+slug: "hm-schooner-pickel-for-sale-on-ebay"
 excerpt: "HMS Pickle is for sale on Ebay, with a minimum opening bid of £69,500.00, no reserve and five days left in the auction.  The topsail schooner is a replica of the first ship to bring the news of Nelson’s great … Continue reading &rarr;"
 categories:
   - "Current"

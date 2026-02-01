@@ -1,7 +1,7 @@
 ---
 title: "Wavertree — Stepping the Final Mast Before Returning to South Street Seaport"
 date: 2016-08-12T10:14:18
-slug: wavertree-stepping-final-mast-returning-south-street-seaport
+slug: "wavertree-stepping-final-mast-returning-south-street-seaport"
 excerpt: "Forty six years ago yesterday, the  full-rigged iron sailing ship Wavertree, arrived in South Street Seaport after being towed from Argentina. The 1889 built windjammer had languished as a sand barge in Argentina for decades, before being purchased and partially restored … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Endurance — New Documentary Reveals Shackleton’s Ship as Never Seen Before"
 date: 2024-10-10T21:45:37
-slug: endurance-new-documentary-reveals-shackletons-ship
-excerpt: "A new National Geographic documentary “Endurance,” will premiere at the London Film Festival on Saturday before being released in UK cinemas from Monday and on Disney+ later in the year. The documentary includes a 3D digital scan of Sir Ernest … Continue reading &rarr;"
+slug: "endurance-new-documentary-reveals-shackletons-ship"
+excerpt: "A new National Geographic documentary \"Endurance,\" will premiere at the London Film Festival on Saturday before being released in UK cinemas from Monday and on Disney+ later in the year. The documentary includes a 3D digital scan of Sir Ernest … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Sir Ernest Shackleton"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/10/endurancescan.jpg"
 author: "Rick Spilman"
-description: "A new National Geographic documentary “Endurance,” will premiere at the London Film Festival on Saturday before being released in UK cinemas from Monday and on Disney+ later in the year. The documentary includes a 3D digital scan of Sir Ernest … Continue reading &rarr;"
+description: "A new National Geographic documentary \"Endurance,\" will premiere at the London Film Festival on Saturday before being released in UK cinemas from Monday and on Disney+ later in the year. The documentary includes a 3D digital scan of Sir Ernest … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/10/endurancescan.jpg)A new National Geographic documentary “[Endurance](https://films.nationalgeographic.com/endurance),” will premiere at the London Film Festival on Saturday before being released in UK cinemas from Monday and on Disney+ later in the year.

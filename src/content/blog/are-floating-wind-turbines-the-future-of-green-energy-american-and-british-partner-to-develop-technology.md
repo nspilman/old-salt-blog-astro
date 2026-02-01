@@ -1,7 +1,7 @@
 ---
 title: "Are Floating Wind Turbines the Future of Green Energy? Americans and British Partner to Develop Technology"
 date: 2012-04-24T08:11:08
-slug: are-floating-wind-turbines-the-future-of-green-energy-american-and-british-partner-to-develop-technology
+slug: "are-floating-wind-turbines-the-future-of-green-energy-american-and-british-partner-to-develop-technology"
 excerpt: "Offshore energy, whether oil production or wind, seems to move in the same stages.  Early offshore drilling was in shallow water using jack-up rigs sitting on the bottom.  Now much of offshore oil production is from floating rigs, drilling in deep water.  Likewise, … Continue reading &rarr;"
 categories:
   - "Current"

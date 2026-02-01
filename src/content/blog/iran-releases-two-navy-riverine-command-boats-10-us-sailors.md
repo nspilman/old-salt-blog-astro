@@ -1,7 +1,7 @@
 ---
 title: "What is a Riverine Command Boat?"
 date: 2016-01-13T13:28:26
-slug: iran-releases-two-navy-riverine-command-boats-10-us-sailors
+slug: "iran-releases-two-navy-riverine-command-boats-10-us-sailors"
 excerpt: "Yesterday, two US Navy Riverine Command Boats (RCBs) with a combined crew of ten sailors were apprehended by Iranian Revolutionary Guard boats. One or both of the RCBs had suffered a mechanical failure and had drifted into Iranian waters. The Iranians released … Continue reading &rarr;"
 categories:
   - "Current"

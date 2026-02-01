@@ -1,8 +1,8 @@
 ---
-title: "Vendee Globe: Sam Davies “Out of the Game” With Plans to Keep Sailing"
+title: "Vendee Globe: Sam Davies \"Out of the Game\" With Plans to Keep Sailing"
 date: 2020-12-05T14:22:36
-slug: vendee-globe-sam-davies-out-of-the-game-with-plans-to-keep-sailing
-excerpt: "On December 2, Initiatives-Coeur, being sailed by Sam Davies off South Africa in the Vendee Globe Race, came to a crashing halt. Davies describes the collision: “ It was as if I had run aground on a rock at the … Continue reading &rarr;"
+slug: "vendee-globe-sam-davies-out-of-the-game-with-plans-to-keep-sailing"
+excerpt: "On December 2, Initiatives-Coeur, being sailed by Sam Davies off South Africa in the Vendee Globe Race, came to a crashing halt. Davies describes the collision: \" It was as if I had run aground on a rock at the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/daviesomoca60.jpg"

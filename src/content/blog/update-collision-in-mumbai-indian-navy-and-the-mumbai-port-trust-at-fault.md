@@ -1,7 +1,7 @@
 ---
 title: "Update : Collision in Mumbai – Indian Navy and the Mumbai Port Trust at Fault ?"
 date: 2011-02-06T19:00:55
-slug: update-collision-in-mumbai-indian-navy-and-the-mumbai-port-trust-at-fault
+slug: "update-collision-in-mumbai-indian-navy-and-the-mumbai-port-trust-at-fault"
 excerpt: "The sinking of the frigate INS Vindhyagiri, following a collision with the container ship MV Nordlake, last Sunday near Mumbai harbor,  is the worst-ever peacetime loss for the Indian Navy.   That the accident occurred as the warship was returning … Continue reading &rarr;"
 categories:
   - "Current"

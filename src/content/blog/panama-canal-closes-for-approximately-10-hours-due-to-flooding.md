@@ -1,7 +1,7 @@
 ---
 title: "Panama Canal closes due to flooding"
 date: 2010-12-09T11:11:23
-slug: panama-canal-closes-for-approximately-10-hours-due-to-flooding
+slug: "panama-canal-closes-for-approximately-10-hours-due-to-flooding"
 excerpt: "In only the third time in 96 years, the Panama Canal closed yesterday due to flooding. After being shut down for ten hours it reopened early this morning.   Heavy rains around the Chagres River, caused the water in Lake Gatun, a significant part … Continue reading &rarr;"
 categories:
   - "Current"

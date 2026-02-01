@@ -1,7 +1,7 @@
 ---
 title: "Atlantic Container Line to Take Delivery of Prison Containers"
 date: 2010-08-28T07:40:42
-slug: atlantic-container-line-to-take-delivery-of-prison-containers
+slug: "atlantic-container-line-to-take-delivery-of-prison-containers"
 excerpt: "One of the ways that stowaways can get aboard liner ships these days is to hide in cargo containers.  Atlantic Container Lines will be using containers for a related if rather different purpose.  The shipping line will soon take delivery … Continue reading &rarr;"
 categories:
   - "Current"

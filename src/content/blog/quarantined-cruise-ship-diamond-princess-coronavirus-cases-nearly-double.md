@@ -1,7 +1,7 @@
 ---
 title: "Quarantined Cruise Ship Diamond Princess — Coronavirus Cases Nearly Double"
 date: 2020-02-10T17:46:40
-slug: quarantined-cruise-ship-diamond-princess-coronavirus-cases-nearly-double
+slug: "quarantined-cruise-ship-diamond-princess-coronavirus-cases-nearly-double"
 excerpt: "Overnight the number of passengers and crew onboard the cruise ship Diamond Princess who have tested positive for the coronavirus has nearly doubled, from 70 to 136. An additional 66 people on board the quarantined cruise ship have tested positive … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

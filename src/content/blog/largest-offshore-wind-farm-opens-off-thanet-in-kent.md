@@ -1,7 +1,7 @@
 ---
 title: "Largest offshore wind farm opens off Thanet in Kent"
 date: 2010-09-23T13:51:06
-slug: largest-offshore-wind-farm-opens-off-thanet-in-kent
+slug: "largest-offshore-wind-farm-opens-off-thanet-in-kent"
 excerpt: "Off Kent, in the UK, the world’s biggest offshore wind farm has been officially opened.   With 100 turbines, the Thanet project  is expected to generate enough electricity to power 200,000 homes.  Currently the UK gets 3% of all its … Continue reading &rarr;"
 categories:
   - "Current"

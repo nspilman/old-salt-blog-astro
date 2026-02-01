@@ -1,7 +1,7 @@
 ---
 title: "Blog Action Day – Talking About the Tough Problems: Ocean Acidification"
 date: 2010-10-15T11:33:15
-slug: blog-action-day-talking-about-the-tough-problems-ocean-acidification
+slug: "blog-action-day-talking-about-the-tough-problems-ocean-acidification"
 excerpt: "Today is Blog Action Day where bloggers around the wold  are posting about a common theme – water.  Most, no doubt, will be blogging about the almost a billion people in the world who do not have access to clean drinking water. … Continue reading &rarr;"
 categories:
   - "Current"

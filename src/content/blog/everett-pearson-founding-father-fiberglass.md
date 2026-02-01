@@ -1,7 +1,7 @@
 ---
 title: "Everett A. Pearson — Founding Father of Fiberglass"
 date: 2018-01-10T09:48:10
-slug: everett-pearson-founding-father-fiberglass
+slug: "everett-pearson-founding-father-fiberglass"
 excerpt: "A day before Christmas, Everett A. Pearson died at the age of 84. The co-founder of Pearson Yachts and Tillotson-Pearson Inc., Everett Pearson was a pioneer in the production of fiberglass boats and played a significant role in bringing affordable production … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

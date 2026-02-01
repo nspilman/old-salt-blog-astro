@@ -1,7 +1,7 @@
 ---
 title: "Bayshore Center’s Celebration of Oysters & the A.J. Meerwald’s 85th Birthday"
 date: 2013-09-09T17:15:50
-slug: bayshore-centers-celebration-of-oysters-the-a-j-meerwalds-85th-birthday
+slug: "bayshore-centers-celebration-of-oysters-the-a-j-meerwalds-85th-birthday"
 excerpt: "We recently posted about the A.J. Meerwald‘s 85th birthday.  On Friday September 13th, the Bayshore Center in Bivalve, NJ will be celebrating oysters as well as the A.J. Meerwald‘s 85th birthday and the 25th Anniversary of the founding of the … Continue reading &rarr;"
 categories:
   - "Current"

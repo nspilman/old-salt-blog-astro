@@ -1,7 +1,7 @@
 ---
 title: "Virgin Oceanic Diving into the Deep"
 date: 2011-04-09T14:28:14
-slug: virgin-oceanic-diving-into-the-deep
+slug: "virgin-oceanic-diving-into-the-deep"
 excerpt: "After dabbling with space ships, Richard Branson has turned to the deep oceans.   The Virgin Oceanic team will be diving to the deepest ocean depths in a one man submarine designed by Graham Hawkes.  The submarine has an operating depth … Continue reading &rarr;"
 categories:
   - "Current"

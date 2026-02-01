@@ -1,7 +1,7 @@
 ---
 title: "NYC’s East River Water Turbine Energy Licence Awarded to Verdant Power"
 date: 2012-01-28T14:25:11
-slug: east-river-water-turbine-energy-licence-awarded-to-verdant-power
+slug: "east-river-water-turbine-energy-licence-awarded-to-verdant-power"
 excerpt: "The Federal Energy Regulatory Commission (FERC) has issued its first license for a tidal energy project to Verdant Power.  The Roosevelt Island Tidal Energy (RITE) Project is located in New York’s East River just west of Roosevelt Island. Since 2006, Verdant … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "The Loss of the Christmas Tree Ship, November 23, 1912"
 date: 2019-11-23T16:16:36
-slug: the-loss-of-the-christmas-tree-ship-november-23-1912
-excerpt: "One hundred and seven years ago today, the three-masted schooner Rouse Simmons, under the command of Captain Herman Schuenemann, sank with the loss of all hands in a winter storm in Lake Michigan. The schooner, known as the “Christmas Tree … Continue reading &rarr;"
+slug: "the-loss-of-the-christmas-tree-ship-november-23-1912"
+excerpt: "One hundred and seven years ago today, the three-masted schooner Rouse Simmons, under the command of Captain Herman Schuenemann, sank with the loss of all hands in a winter storm in Lake Michigan. The schooner, known as the \"Christmas Tree … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -17,7 +17,7 @@ tags:
   - "U.S. Coast Guard Cutter Mackinaw"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/ctschooner-1.jpg"
 author: "Rick Spilman"
-description: "One hundred and seven years ago today, the three-masted schooner Rouse Simmons, under the command of Captain Herman Schuenemann, sank with the loss of all hands in a winter storm in Lake Michigan. The schooner, known as the “Christmas Tree … Continue reading &rarr;"
+description: "One hundred and seven years ago today, the three-masted schooner Rouse Simmons, under the command of Captain Herman Schuenemann, sank with the loss of all hands in a winter storm in Lake Michigan. The schooner, known as the \"Christmas Tree … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/ctschooner-1.jpg)One hundred and seven years ago today, the three-masted schooner [*Rouse Simmons*](https://en.wikipedia.org/wiki/Rouse_Simmons), under the command of Captain Herman Schuenemann, sank with the loss of all hands in a winter storm in Lake Michigan. The schooner, known as the “Christmas Tree Ship,” carried a cargo close to 5,000 Christmas trees to be sold in Chicago.

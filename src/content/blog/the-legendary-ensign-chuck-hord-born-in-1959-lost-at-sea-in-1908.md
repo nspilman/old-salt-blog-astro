@@ -1,7 +1,7 @@
 ---
 title: "The Legendary Ensign Chuck Hord, Born in 1959, Lost at Sea in 1908"
 date: 2012-05-23T08:31:44
-slug: the-legendary-ensign-chuck-hord-born-in-1959-lost-at-sea-in-1908
+slug: "the-legendary-ensign-chuck-hord-born-in-1959-lost-at-sea-in-1908"
 excerpt: "A portrait of a naval ensign, in a heavy gilt frame, hung in a lonely corridor in the labyrinth that is the Pentagon.   The plaque on the portrait read: ENS CHUCK HORD, USNA, CIRCA 1898, LOST AT SEA 1908 Fortunately for Ensign Hord, he … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Crossing the Bar — Incredible US Coast Guard Motor Lifeboats"
 date: 2016-02-10T17:54:00
-slug: crossing-the-bar-incredible-us-coast-guard-motor-lifeboats
+slug: "crossing-the-bar-incredible-us-coast-guard-motor-lifeboats"
 excerpt: "It takes a special breed of sailor to attempt to crest the monstrous waves of a harbor bar in a motor lifeboat.  It also takes a very specially designed and built boat to make crossing the bar possible. We recently … Continue reading &rarr;"
 categories:
   - "Current"

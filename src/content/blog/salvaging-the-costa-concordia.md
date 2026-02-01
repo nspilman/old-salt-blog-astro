@@ -1,7 +1,7 @@
 ---
 title: "Salvaging the Costa Concordia"
 date: 2012-10-22T07:48:01
-slug: salvaging-the-costa-concordia
+slug: "salvaging-the-costa-concordia"
 excerpt: "While pre-trial hearings are underway in an Italian court, an Italian-American engineering consortium has begun salvage operations to remove the cruise ship, partially capsized off the island of Giglio.  It will be the first time a ship of this size has been salvalged … Continue reading &rarr;"
 categories:
   - "Current"

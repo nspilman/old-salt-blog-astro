@@ -1,8 +1,8 @@
 ---
 title: "Marc Guillemot on Safran Retires from Vendée Globe with Broken Keel After One Day’s Racing"
 date: 2012-11-11T15:23:24
-slug: marc-guillemot-on-safran-retirees-from-vendee-globe-with-broken-keel-after-one-days-racing
-excerpt: "Marc Guillemot, sailing Safran, was a favorite to win the Vendée Globe non-stop round-the-world single-handed yacht race, yet only one day into the race, he was forced to turn back due to a broken keel.  Fifty miles into the race, he reported hearing a “loud bang.”  Guillemot’s Open … Continue reading &rarr;"
+slug: "marc-guillemot-on-safran-retirees-from-vendee-globe-with-broken-keel-after-one-days-racing"
+excerpt: "Marc Guillemot, sailing Safran, was a favorite to win the Vendée Globe non-stop round-the-world single-handed yacht race, yet only one day into the race, he was forced to turn back due to a broken keel.  Fifty miles into the race, he reported hearing a \"loud bang.\"  Guillemot’s Open … Continue reading &rarr;"
 categories:
   - "Current"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "Safran"
   - "Vendée Globe"
 author: "Rick Spilman"
-description: "Marc Guillemot, sailing Safran, was a favorite to win the Vendée Globe non-stop round-the-world single-handed yacht race, yet only one day into the race, he was forced to turn back due to a broken keel.  Fifty miles into the race, he reported hearing a “loud bang.”  Guillemot’s Open … Continue reading &rarr;"
+description: "Marc Guillemot, sailing Safran, was a favorite to win the Vendée Globe non-stop round-the-world single-handed yacht race, yet only one day into the race, he was forced to turn back due to a broken keel.  Fifty miles into the race, he reported hearing a \"loud bang.\"  Guillemot’s Open … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/11/Safran1410_620.jpg)

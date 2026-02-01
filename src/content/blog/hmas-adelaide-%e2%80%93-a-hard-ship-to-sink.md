@@ -1,7 +1,7 @@
 ---
 title: "HMAS Adelaide – A Hard Ship to Sink"
 date: 2010-03-28T08:10:04
-slug: hmas-adelaide-%e2%80%93-a-hard-ship-to-sink
+slug: "hmas-adelaide-%e2%80%93-a-hard-ship-to-sink"
 excerpt: "The HMAS Adelaide is still afloat, as much due to court action as to Archimedes Law.  The HMAS Adelaide was the lead ship of the Adelaide class of guided missile frigates built for the Royal Australian Navy, not to be confused with … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

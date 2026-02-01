@@ -1,7 +1,7 @@
 ---
 title: "Watching the Ball Drop in Times Square — the Nautical Origins of a New Year’s Tradition"
 date: 2025-12-31T21:52:02
-slug: watching-the-ball-drop-in-times-square-the-nautical-origins-of-a-new-years-tradition
+slug: "watching-the-ball-drop-in-times-square-the-nautical-origins-of-a-new-years-tradition"
 excerpt: "Tonight, roughly a million revelers will watch in person in New York’s Times Square, and over a billion viewers are expected to watch on television or online, as the  New Year’s Eve ball drop rings in 2026 with a dazzling … Continue reading &rarr;"
 categories:
   - "Current"

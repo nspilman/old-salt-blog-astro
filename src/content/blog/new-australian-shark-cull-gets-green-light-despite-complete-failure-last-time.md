@@ -1,7 +1,7 @@
 ---
 title: "New Australian Shark Cull Gets Green Light — Despite Complete Failure Last Time"
 date: 2014-06-18T16:02:58
-slug: new-australian-shark-cull-gets-green-light-despite-complete-failure-last-time
+slug: "new-australian-shark-cull-gets-green-light-despite-complete-failure-last-time"
 excerpt: "In the last decade, ten people off Western Australia have been attacked and killed by sharks.  All of the deaths have been attributed to attacks by great white sharks. Earlier this year, the government of Australia set out on a trial … Continue reading &rarr;"
 categories:
   - "Current"

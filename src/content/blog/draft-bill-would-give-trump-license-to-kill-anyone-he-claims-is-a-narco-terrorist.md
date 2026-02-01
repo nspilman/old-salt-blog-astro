@@ -1,7 +1,7 @@
 ---
 title: "Draft Bill Would Give Trump License to Kill Anyone He Claims is a Narco-Terrorist"
 date: 2025-09-19T17:30:38
-slug: draft-bill-would-give-trump-license-to-kill-anyone-he-claims-is-a-narco-terrorist
+slug: "draft-bill-would-give-trump-license-to-kill-anyone-he-claims-is-a-narco-terrorist"
 excerpt: "We recently posted about the attack and sinking of a Venezuelan vessel in international waters by the US military. Eleven people aboard were reported to have been killed. The Trump regime claimed, without providing any evidence, that the boat was … Continue reading &rarr;"
 categories:
   - "Current"

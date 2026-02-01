@@ -1,7 +1,7 @@
 ---
 title: "Lucky Sturgeon — A Riverkeeper’s Beer"
 date: 2014-09-30T18:22:34
-slug: lucky-sturgeon-a-riverkeepers-beer
+slug: "lucky-sturgeon-a-riverkeepers-beer"
 excerpt: "In 2011, we posted about the Elissa I.P.A. (India Pale Ale) brewed by the Saint Arnold Brewing Company, which bills itself as Texas’ oldest craft brewery.  The Elissa I.P.A. was named after Elissa, the official tall ship of the state of Texas.  Every … Continue reading &rarr;"
 categories:
   - "Current"

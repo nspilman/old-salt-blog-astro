@@ -1,7 +1,7 @@
 ---
 title: "Amazing Video of Humpback Whale Bubble-Net Feeding"
 date: 2020-02-24T10:51:32
-slug: amazing-video-of-humpback-whale-bubble-net-feeding
+slug: "amazing-video-of-humpback-whale-bubble-net-feeding"
 excerpt: "Here is a breathtaking video of humpback whales bubble-net feeding in Alaska shot by the University of Hawaii, Mānoa Marine Mammal Research Program (MMRP). The whales use bubbles to create virtual nets to herd their prey. The video was captured … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

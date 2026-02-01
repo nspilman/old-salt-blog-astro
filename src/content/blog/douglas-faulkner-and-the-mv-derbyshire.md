@@ -1,7 +1,7 @@
 ---
 title: "Douglas Faulkner and the MV Derbyshire"
 date: 2011-04-21T15:53:07
-slug: douglas-faulkner-and-the-mv-derbyshire
+slug: "douglas-faulkner-and-the-mv-derbyshire"
 excerpt: "Douglas Faulkner, who died recently, had a varied and highly accomplished career as a naval and marine architect.   He was involved in the design and testing of the first British nuclear submarine, HMS Dreadnought.   He was later an assistant professor at the Royal Naval College, … Continue reading &rarr;"
 categories:
   - "Current"

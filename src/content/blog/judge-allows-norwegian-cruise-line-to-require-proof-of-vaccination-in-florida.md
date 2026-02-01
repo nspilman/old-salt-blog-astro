@@ -1,7 +1,7 @@
 ---
 title: "Judge Allows Norwegian Cruise Line to Require Proof of Vaccination in Florida"
 date: 2021-08-10T10:36:29
-slug: judge-allows-norwegian-cruise-line-to-require-proof-of-vaccination-in-florida
+slug: "judge-allows-norwegian-cruise-line-to-require-proof-of-vaccination-in-florida"
 excerpt: "Last May, we posted about a threat by Norwegian Cruise Line (NCL) to pull its ships from Florida ports after the Florida legislature passed a law prohibiting businesses from asking whether employees or customers have been vaccinated against Covid-19, contradicting certain CDC … Continue reading &rarr;"
 categories:
   - "Current"

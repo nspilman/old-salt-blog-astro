@@ -1,7 +1,7 @@
 ---
 title: "Algae Apocalypse — Sargassum Spreads Across the Caribbean & Florida"
 date: 2018-10-12T09:10:15
-slug: algae-apocalypse-sargassum-spreads-across-the-caribbean-florida
+slug: "algae-apocalypse-sargassum-spreads-across-the-caribbean-florida"
 excerpt: "On the resort beaches of the Yucatan Peninsula masses of stinking sargassum seaweed have been washing ashore for several years. From Miami Beach to Barbados sargassum is spreading across the Caribbean and Florida. The seaweed is killing fish, turtles and other sea life as well as befouling beaches … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

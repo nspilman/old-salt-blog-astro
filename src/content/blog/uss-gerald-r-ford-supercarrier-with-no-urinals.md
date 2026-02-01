@@ -1,7 +1,7 @@
 ---
 title: "USS Gerald R. Ford, Supercarrier With No Urinals"
 date: 2018-11-24T22:28:13
-slug: uss-gerald-r-ford-supercarrier-with-no-urinals
+slug: "uss-gerald-r-ford-supercarrier-with-no-urinals"
 excerpt: "The U.S. Navy’s new supercarrier, the USS Gerald R. Ford has had more than its share of problems. The ship has a reported  23 new or modified technologies, a number of which have been problematic, to be kind. They are still working the bugs out … Continue reading &rarr;"
 categories:
   - "Current"

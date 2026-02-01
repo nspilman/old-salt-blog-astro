@@ -1,8 +1,8 @@
 ---
-title: "Navy Finds Captain “Ultimately Responsible” for USS Antietam Grounding in Toyko Bay"
+title: "Navy Finds Captain \"Ultimately Responsible\" for USS Antietam Grounding in Toyko Bay"
 date: 2017-08-04T09:00:05
-slug: navy-finds-captain-ultimately-responsible-uss-antietam-grounding-toyko-bay
-excerpt: "These have been rough times for US destroyers and cruisers deployed to Japan. The US Navy has found that the former commanding officer of the USS Antietam, Captain Joseph Carrigan, was “ultimately responsible” for the cruiser running aground and spilling … Continue reading &rarr;"
+slug: "navy-finds-captain-ultimately-responsible-uss-antietam-grounding-toyko-bay"
+excerpt: "These have been rough times for US destroyers and cruisers deployed to Japan. The US Navy has found that the former commanding officer of the USS Antietam, Captain Joseph Carrigan, was \"ultimately responsible\" for the cruiser running aground and spilling … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -11,7 +11,7 @@ tags:
   - "Yokosuka Naval Base"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/antietam.jpg"
 author: "Rick Spilman"
-description: "These have been rough times for US destroyers and cruisers deployed to Japan. The US Navy has found that the former commanding officer of the USS Antietam, Captain Joseph Carrigan, was “ultimately responsible” for the cruiser running aground and spilling … Continue reading &rarr;"
+description: "These have been rough times for US destroyers and cruisers deployed to Japan. The US Navy has found that the former commanding officer of the USS Antietam, Captain Joseph Carrigan, was \"ultimately responsible\" for the cruiser running aground and spilling … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/antietam.jpg)These have been rough times for US destroyers and cruisers deployed to Japan. The US Navy has found that the former commanding officer of the [USS *Antietam*](https://en.wikipedia.org/wiki/USS_Antietam_\(CV-36\)), Captain Joseph Carrigan, was “ultimately responsible” for the cruiser running aground and spilling roughly 1,100 gallons of hydraulic fluid into Tokyo Bay in January.  

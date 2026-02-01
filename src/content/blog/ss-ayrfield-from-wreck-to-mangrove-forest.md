@@ -1,7 +1,7 @@
 ---
 title: "SS Ayrfield  — From Wreck to Mangrove Forest"
 date: 2020-09-26T14:26:15
-slug: ss-ayrfield-from-wreck-to-mangrove-forest
+slug: "ss-ayrfield-from-wreck-to-mangrove-forest"
 excerpt: "The steam collier SS Ayrfield was 61 years old. Formally called the Corrimal, the 1,140-tonne ship, ran coal between Newcastle and Sydney before serving as a transport ship for Australia during World War II. After the war, she operated again … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

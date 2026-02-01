@@ -1,13 +1,13 @@
 ---
 title: "Weigh Anchor Nautical Blog Hop &  A Week of Windjammers"
 date: 2013-09-16T16:12:57
-slug: weigh-anchor-nautical-blog-hop-week-windjammers
-excerpt: "From Tuesday, September 17 through Saturday, September 21st, we will participating in “Weigh Anchor,” a nautical blog hop organized by the wonderful Helen Hollick.  She has brought together twenty three writers of nautical fiction and non-fiction to post about their … Continue reading &rarr;"
+slug: "weigh-anchor-nautical-blog-hop-week-windjammers"
+excerpt: "From Tuesday, September 17 through Saturday, September 21st, we will participating in \"Weigh Anchor,\" a nautical blog hop organized by the wonderful Helen Hollick.  She has brought together twenty three writers of nautical fiction and non-fiction to post about their … Continue reading &rarr;"
 categories:
   - "Blog Hop"
   - "Seastories"
 author: "Rick Spilman"
-description: "From Tuesday, September 17 through Saturday, September 21st, we will participating in “Weigh Anchor,” a nautical blog hop organized by the wonderful Helen Hollick.  She has brought together twenty three writers of nautical fiction and non-fiction to post about their … Continue reading &rarr;"
+description: "From Tuesday, September 17 through Saturday, September 21st, we will participating in \"Weigh Anchor,\" a nautical blog hop organized by the wonderful Helen Hollick.  She has brought together twenty three writers of nautical fiction and non-fiction to post about their … Continue reading &rarr;"
 ---
 
 From![2013-Nautical-Blog-Hopsmall](http://www.oldsaltblog.com/wp-content/uploads/2013/09/2013-Nautical-Blog-Hopsmall.jpg) Tuesday, September 17 through Saturday, September 21st, we will participating in “[Weigh Anchor](http://ofhistoryandkings.blogspot.co.uk/2013/08/weigh-anchor-nautical-blog-hop.html),” a nautical blog hop organized by the wonderful [Helen Hollick](http://ofhistoryandkings.blogspot.co.uk/2013/08/weigh-anchor-nautical-blog-hop.html).  She has brought together twenty three writers of nautical fiction and non-fiction to post about their work and other interesting topics with nautical themes.  If you were unaware that there were  23 authors writing about ships and the sea, here is a great opportunity to meet them.

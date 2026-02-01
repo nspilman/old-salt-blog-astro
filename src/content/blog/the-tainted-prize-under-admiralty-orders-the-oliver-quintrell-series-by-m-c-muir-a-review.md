@@ -1,7 +1,7 @@
 ---
 title: "The Tainted Prize (Under Admiralty Orders – The Oliver Quintrell Series) by M.C. Muir : a Review"
 date: 2012-12-13T18:51:18
-slug: the-tainted-prize-under-admiralty-orders-the-oliver-quintrell-series-by-m-c-muir-a-review
+slug: "the-tainted-prize-under-admiralty-orders-the-oliver-quintrell-series-by-m-c-muir-a-review"
 excerpt: "The Tainted Prize is Margaret Muir’s second book of the Oliver Quintrell series. After sending Captain Quintrell to the bottom of the world in pursuit of Floating Gold, the admiralty is confident in the good captain’s discretion. It is 1803. The Peace … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

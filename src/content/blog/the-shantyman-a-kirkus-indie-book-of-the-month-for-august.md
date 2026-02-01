@@ -1,7 +1,7 @@
 ---
 title: "The Shantyman, A Kirkus Indie Book of the Month for August"
 date: 2015-07-09T18:18:44
-slug: the-shantyman-a-kirkus-indie-book-of-the-month-for-august
+slug: "the-shantyman-a-kirkus-indie-book-of-the-month-for-august"
 excerpt: "I am very pleased to learn that my latest novel, The Shantyman, is being featured as one of Kirkus’ Indie Books of the Month for August. The Kirkus starred review from last June, called The Shantyman …a fabulously gripping sailor’s yarn. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Hauling Draken Harald Hårfagre at Mystic Seaport Museum"
 date: 2017-04-02T09:40:42
-slug: hauling-draken-harald-harfagre-mystic-seaport-museum
+slug: "hauling-draken-harald-harfagre-mystic-seaport-museum"
 excerpt: "The Viking longship Draken Harald Hårfagre was hauled out of the water Friday, March 31 at the Mystic Seaport Museum, for several days of routine maintenance in the museum’s shipyard. The vessel has been spending the winter at Mystic Seaport … Continue reading &rarr;"
 categories:
   - "Current"

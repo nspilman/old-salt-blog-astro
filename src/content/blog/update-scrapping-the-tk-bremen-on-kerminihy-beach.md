@@ -1,7 +1,7 @@
 ---
 title: "Update: Scrapping the TK Bremen on Kerminihy Beach"
 date: 2012-01-25T18:04:27
-slug: update-scrapping-the-tk-bremen-on-kerminihy-beach
+slug: "update-scrapping-the-tk-bremen-on-kerminihy-beach"
 excerpt: "We posted last December about the Maltese flagged 6,600 DWT dry cargo ship, TK Bremen, which was stranded in high winds on Kerminihy beach at Erdeven, in southern Brittany, near the port of Lorient, France.  Now a bit over a month … Continue reading &rarr;"
 categories:
   - "Current"

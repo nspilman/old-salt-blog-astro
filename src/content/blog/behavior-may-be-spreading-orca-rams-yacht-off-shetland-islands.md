@@ -1,7 +1,7 @@
 ---
 title: "Behavior May be Spreading — Orca Rams Yacht Off Shetland Islands"
 date: 2023-06-26T20:06:24
-slug: behavior-may-be-spreading-orca-rams-yacht-off-shetland-islands
+slug: "behavior-may-be-spreading-orca-rams-yacht-off-shetland-islands"
 excerpt: "For the last several years, we have been posting about orca attacks on yachts and fishing boats in the Strait of Gibraltar and the Iberian peninsula. Pods of orcas have been ramming sailboats and often grabbing their rudders and keels, … Continue reading &rarr;"
 categories:
   - "Current"

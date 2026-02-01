@@ -1,7 +1,7 @@
 ---
 title: "Record Setting Hurricane Lorenzo Threatens Azores"
 date: 2019-09-30T12:55:41
-slug: record-setting-hurricane-lorenzo-threatens-azores
+slug: "record-setting-hurricane-lorenzo-threatens-azores"
 excerpt: "Hurricane Lorenzo strengthened briefly to a Category 5 storm over the weekend, becoming the strongest hurricane on record so far north and east in the Atlantic Ocean.  On Saturday, we posted about the sinking of the tug-supply vessel Bourbon Rhode … Continue reading &rarr;"
 categories:
   - "Current"

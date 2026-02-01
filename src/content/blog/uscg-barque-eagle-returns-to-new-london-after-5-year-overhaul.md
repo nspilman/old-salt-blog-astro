@@ -1,7 +1,7 @@
 ---
 title: "USCG Barque Eagle Returns to New London After 5 Year Overhaul"
 date: 2019-07-29T15:46:40
-slug: uscg-barque-eagle-returns-to-new-london-after-5-year-overhaul
+slug: "uscg-barque-eagle-returns-to-new-london-after-5-year-overhaul"
 excerpt: "The USCG barque Eagle has returned to its longstanding homeport at the US Coast Guard Academy in New London, CT, which had been the ship’s homeport since 1946. The Eagle, a 295-foot barque used as a training cutter for future … Continue reading &rarr;"
 categories:
   - "Current"

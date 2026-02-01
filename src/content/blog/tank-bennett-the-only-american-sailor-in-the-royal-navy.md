@@ -1,7 +1,7 @@
 ---
 title: "Tank Bennett, the Only American Sailor in the Royal Navy"
 date: 2014-09-24T10:53:22
-slug: tank-bennett-the-only-american-sailor-in-the-royal-navy
+slug: "tank-bennett-the-only-american-sailor-in-the-royal-navy"
 excerpt: "One of the causes of the War of 1812, was the impressment of American sailors into the Royal Navy. But that was two centuries ago, and Yanks now, generally, do not serve in the British navy. As a result of love … Continue reading &rarr;"
 categories:
   - "Current"

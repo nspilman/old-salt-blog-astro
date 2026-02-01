@@ -1,7 +1,7 @@
 ---
 title: "Odd Notes on the Costa Concordia – Singers, Violinists and Theme Music from the Titanic"
 date: 2012-01-20T08:53:39
-slug: odd-notes-on-the-costa-concordia-singers-violinists-and-theme-music-from-the-titanic
+slug: "odd-notes-on-the-costa-concordia-singers-violinists-and-theme-music-from-the-titanic"
 excerpt: "According to survivors’ reports, the band on the deck of the Titanic continued to play after the last boat departed as the ship sank beneath waters of the icy North Atlantic.  Coincidentally, a singer aboard the Costa Concordia, Amelia Leon says that she … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

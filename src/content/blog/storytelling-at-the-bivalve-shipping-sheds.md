@@ -1,8 +1,8 @@
 ---
 title: "Storytelling at the Bivalve Shipping Sheds"
 date: 2011-04-25T09:37:37
-slug: storytelling-at-the-bivalve-shipping-sheds
-excerpt: "If Detroit was and is the “motor city,” then perhaps Bivalve, New Jersey was the Oyster Capital of the World.  By the late 1880s, 90 railcars full of oysters were shipped from Bivalve every week.  Oysters were once the largest … Continue reading &rarr;"
+slug: "storytelling-at-the-bivalve-shipping-sheds"
+excerpt: "If Detroit was and is the \"motor city,\" then perhaps Bivalve, New Jersey was the Oyster Capital of the World.  By the late 1880s, 90 railcars full of oysters were shipped from Bivalve every week.  Oysters were once the largest … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "New Jersey"
   - "oyster"
 author: "Rick Spilman"
-description: "If Detroit was and is the “motor city,” then perhaps Bivalve, New Jersey was the Oyster Capital of the World.  By the late 1880s, 90 railcars full of oysters were shipped from Bivalve every week.  Oysters were once the largest … Continue reading &rarr;"
+description: "If Detroit was and is the \"motor city,\" then perhaps Bivalve, New Jersey was the Oyster Capital of the World.  By the late 1880s, 90 railcars full of oysters were shipped from Bivalve every week.  Oysters were once the largest … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/oystersdock.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "72 Years Later, Captain Claudius Credited with Sinking U-Boat"
 date: 2014-12-20T09:55:52
-slug: 72-years-later-captain-claudius-credited-with-sinking-u-boat
+slug: "72-years-later-captain-claudius-credited-with-sinking-u-boat"
 excerpt: "On July 30, 1942, Herbert Claudius in command of the patrol boat PC 566 was escorting passenger ship passenger ship Robert E. Lee in the Gulf of Mexico, southeast of the mouth of the Mississippi River. The German U-boat U-166 … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
-title: "The Sea Shadow & Hughes Mining Barge  –  “Invisible Ship” and Spy Barge Sold at Auction"
+title: "The Sea Shadow & Hughes Mining Barge  –  \"Invisible Ship\" and Spy Barge Sold at Auction"
 date: 2012-05-04T15:24:24
-slug: the-sea-shadow-hughes-mining-barge-invisible-ship-and-spy-barge-sold-for-scrap
-excerpt: "Update: The final auction price for the Sea Shadow and the HMB1 was an impressive $3.2 million. The Sea Shadow is an experimental 164′ long catamaran “stealth ship” built by Lockheed in the mid 1980s for the United States Navy.  For … Continue reading &rarr;"
+slug: "the-sea-shadow-hughes-mining-barge-invisible-ship-and-spy-barge-sold-for-scrap"
+excerpt: "Update: The final auction price for the Sea Shadow and the HMB1 was an impressive $3.2 million. The Sea Shadow is an experimental 164′ long catamaran \"stealth ship\" built by Lockheed in the mid 1980s for the United States Navy.  For … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Sea Shadow"
   - "United States Navy"
 author: "Rick Spilman"
-description: "Update: The final auction price for the Sea Shadow and the HMB1 was an impressive $3.2 million. The Sea Shadow is an experimental 164′ long catamaran “stealth ship” built by Lockheed in the mid 1980s for the United States Navy.  For … Continue reading &rarr;"
+description: "Update: The final auction price for the Sea Shadow and the HMB1 was an impressive $3.2 million. The Sea Shadow is an experimental 164′ long catamaran \"stealth ship\" built by Lockheed in the mid 1980s for the United States Navy.  For … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/seashadow.jpg)

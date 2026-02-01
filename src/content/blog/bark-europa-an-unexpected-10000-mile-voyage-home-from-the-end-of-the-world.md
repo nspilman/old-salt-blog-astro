@@ -1,8 +1,8 @@
 ---
 title: "Bark Europa — An Unexpected 10,000 Mile Voyage Home From the End of the World"
 date: 2020-05-31T14:41:17
-slug: bark-europa-an-unexpected-10000-mile-voyage-home-from-the-end-of-the-world
-excerpt: "The bark Europa arrived in the port of Ushuaia, Argentina in late March. Ushuaia, which describes itself as “the end of the world, the beginning of everything,” would normally be the jumping-off point for the ship’s regular voyage to Antarctica. … Continue reading &rarr;"
+slug: "bark-europa-an-unexpected-10000-mile-voyage-home-from-the-end-of-the-world"
+excerpt: "The bark Europa arrived in the port of Ushuaia, Argentina in late March. Ushuaia, which describes itself as \"the end of the world, the beginning of everything,\" would normally be the jumping-off point for the ship’s regular voyage to Antarctica. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -15,7 +15,7 @@ tags:
   - "Ushuaia"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/europatrack.jpg"
 author: "Rick Spilman"
-description: "The bark Europa arrived in the port of Ushuaia, Argentina in late March. Ushuaia, which describes itself as “the end of the world, the beginning of everything,” would normally be the jumping-off point for the ship’s regular voyage to Antarctica. … Continue reading &rarr;"
+description: "The bark Europa arrived in the port of Ushuaia, Argentina in late March. Ushuaia, which describes itself as \"the end of the world, the beginning of everything,\" would normally be the jumping-off point for the ship’s regular voyage to Antarctica. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/europaw.jpg)The [bark *Europa*](https://www.barkeuropa.com/) arrived in the port of Ushuaia, Argentina in late March. Ushuaia, which describes itself as “the end of the world, the beginning of everything,” would normally be the jumping-off point for the ship’s regular voyage to Antarctica. This year, however, the concurrent arrival of the Covid-19 pandemic changed everyone’s plans. The crew found themselves stuck aboard in port in pandemic limbo. 

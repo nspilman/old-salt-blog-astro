@@ -1,7 +1,7 @@
 ---
 title: "LightSail — Sailing on the Light of the Sun"
 date: 2015-06-26T09:29:04
-slug: lightsail-sailing-on-the-light-of-the-sun
+slug: "lightsail-sailing-on-the-light-of-the-sun"
 excerpt: "This post is not quite nautical, but it does involving sailing. The Planetary Society, a non-government, nonprofit organization, is sending sailing ships out to explore space, sailing on the light of the sun.  The first prototype completed a generally successful test mission … Continue reading &rarr;"
 categories:
   - "Current"

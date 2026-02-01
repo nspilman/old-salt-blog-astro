@@ -1,7 +1,7 @@
 ---
 title: "Update: MSC Flaminia Seeking Port of Refuge"
 date: 2012-08-09T21:41:09
-slug: update-msc-flaminia-seeking-port-of-refuge
+slug: "update-msc-flaminia-seeking-port-of-refuge"
 excerpt: "In the middle of July, we posted about a fire and explosion on the  6,750 TEU container ship MSC Flaminia in the mid-Atlantic, resulting in the death of one of the crew and one crew member missing and presumed dead.  The surviving crew abandoned the ship. … Continue reading &rarr;"
 categories:
   - "Current"

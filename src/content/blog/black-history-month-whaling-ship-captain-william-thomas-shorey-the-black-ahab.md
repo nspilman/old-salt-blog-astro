@@ -1,7 +1,7 @@
 ---
 title: "Black History Month: Whaling Ship Captain William Thomas Shorey, the Black Ahab"
 date: 2022-02-27T14:12:37
-slug: black-history-month-whaling-ship-captain-william-thomas-shorey-the-black-ahab
+slug: "black-history-month-whaling-ship-captain-william-thomas-shorey-the-black-ahab"
 excerpt: "Over nearly three centuries of whaling, some 175,000 men went to sea in 2,700 ships. Of the 2,500 masters who captained whaling ships, at least 63 were men of color. Many of the 63 sailed from the US East Coast, … Continue reading &rarr;"
 categories:
   - "History"

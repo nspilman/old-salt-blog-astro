@@ -1,8 +1,8 @@
 ---
 title: "On Labor Day — When Sailors Struck the Topsails in 1768"
 date: 2018-09-03T09:42:16
-slug: on-labor-day-when-sailors-struck-the-topsails-in-1768
-excerpt: "Happy Labor Day! While many nations celebrate workers on May 1st or May Day, US and Canada both celebrate workers rights in early September. It seems a good time to look at the nautical origin of the word “strike,” referring … Continue reading &rarr;"
+slug: "on-labor-day-when-sailors-struck-the-topsails-in-1768"
+excerpt: "Happy Labor Day! While many nations celebrate workers on May 1st or May Day, US and Canada both celebrate workers rights in early September. It seems a good time to look at the nautical origin of the word \"strike,\" referring … Continue reading &rarr;"
 categories:
   - "History"
   - "Language"
@@ -16,7 +16,7 @@ tags:
   - "topsails"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/thamesstrike.jpg"
 author: "Rick Spilman"
-description: "Happy Labor Day! While many nations celebrate workers on May 1st or May Day, US and Canada both celebrate workers rights in early September. It seems a good time to look at the nautical origin of the word “strike,” referring … Continue reading &rarr;"
+description: "Happy Labor Day! While many nations celebrate workers on May 1st or May Day, US and Canada both celebrate workers rights in early September. It seems a good time to look at the nautical origin of the word \"strike,\" referring … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/thamesstrike.jpg)Happy Labor Day! While many nations celebrate workers on May 1st or May Day, US and Canada both celebrate workers rights in early September. It seems a good time to look at the nautical origin of the word “strike,” referring to workers withholding their labor to demand better wages or conditions.

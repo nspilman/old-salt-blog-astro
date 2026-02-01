@@ -1,7 +1,7 @@
 ---
 title: "Lowell’s Boat Shop — Oldest Continuously Operated Boat Shop & Still Making Dories"
 date: 2019-10-19T09:49:17
-slug: lowells-boat-shop-oldest-continuously-operated-boat-shop-still-making-dories
+slug: "lowells-boat-shop-oldest-continuously-operated-boat-shop-still-making-dories"
 excerpt: "When Simeon Lowell moved his boat-building business to Amesbury, Massachusetts in 1793, I wonder whether he could have possibly imagined that the boat shop would still be producing boats, dories, and skiffs 226 years later. Lowell’s Boat Shop is the … Continue reading &rarr;"
 categories:
   - "Current"

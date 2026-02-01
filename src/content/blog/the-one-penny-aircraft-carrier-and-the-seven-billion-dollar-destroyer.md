@@ -1,8 +1,8 @@
 ---
 title: "The One Penny Aircraft Carrier and the Seven Billion Dollar Destroyer"
 date: 2013-10-24T12:09:36
-slug: the-one-penny-aircraft-carrier-and-the-seven-billion-dollar-destroyer
-excerpt: "The first US Navy “supercarrier,” the USS Forrestal was recently sold for scrap for the sum of one penny to the All Star Metals scrap yard in Beaumont, Texas. The Navy offered the carrier as a museum but did not … Continue reading &rarr;"
+slug: "the-one-penny-aircraft-carrier-and-the-seven-billion-dollar-destroyer"
+excerpt: "The first US Navy \"supercarrier,\" the USS Forrestal was recently sold for scrap for the sum of one penny to the All Star Metals scrap yard in Beaumont, Texas. The Navy offered the carrier as a museum but did not … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "USS Forrestal"
   - "USS Zumwalt"
 author: "Rick Spilman"
-description: "The first US Navy “supercarrier,” the USS Forrestal was recently sold for scrap for the sum of one penny to the All Star Metals scrap yard in Beaumont, Texas. The Navy offered the carrier as a museum but did not … Continue reading &rarr;"
+description: "The first US Navy \"supercarrier,\" the USS Forrestal was recently sold for scrap for the sum of one penny to the All Star Metals scrap yard in Beaumont, Texas. The Navy offered the carrier as a museum but did not … Continue reading &rarr;"
 ---
 
 ![USS_Forrestal](http://www.oldsaltblog.com/wp-content/uploads/2013/10/USS_Forrestal.jpg)The first US Navy “[supercarrier](http://en.wikipedia.org/wiki/Supercarrier),” the [USS Forrestal](http://en.wikipedia.org/wiki/USS_Forrestal_\(CV-59\)) was recently sold for scrap for the sum of one penny to the All Star Metals scrap yard in Beaumont, Texas. The Navy offered the carrier as a museum but did not receive any suitable applications. The ship is the first of three carriers scheduled to hit the scrapyard over the next few years. Built in Newport News Shipyard and commissioned in 1955, in her day she was the largest aircraft carrier ever built. Sadly, the ship is best known for a major fire and explosions on her flight deck in 1967 in which 134 sailors died and 161 were injured. Other serious fires in 1978 and 1989 earned her the nicknames, “Firestal”, “Forrestfire” and “USS Zippo.”

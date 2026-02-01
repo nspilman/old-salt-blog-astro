@@ -1,7 +1,7 @@
 ---
 title: "St. Mary’s Challenger and the Majestic Fresh Water Ocean"
 date: 2013-11-19T09:57:28
-slug: st-marys-challenger-and-the-majestic-fresh-water-ocean
+slug: "st-marys-challenger-and-the-majestic-fresh-water-ocean"
 excerpt: "This is the last season for the Great Lakes self-unloading bulk carrier St. Mary’s Challenger (ex William P. Snyder, Elton Hoyt II, Alex D. Chisolm, Medusa Challenger, Southdown Challenger.)  The ship has been in service for 107 years!  She was re-engined … Continue reading &rarr;"
 categories:
   - "Current"

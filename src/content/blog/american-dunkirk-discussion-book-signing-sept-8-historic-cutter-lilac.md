@@ -1,7 +1,7 @@
 ---
 title: "American Dunkirk — Discussion & Book Signing, Sept 8 on Historic Cutter Lilac"
 date: 2016-09-04T09:30:37
-slug: american-dunkirk-discussion-book-signing-sept-8-historic-cutter-lilac
+slug: "american-dunkirk-discussion-book-signing-sept-8-historic-cutter-lilac"
 excerpt: "A great event on the historic ex-Coast Guard Cutter Lilac at Pier 25 in Manhattan on Thursday, September 8th at 6PM. James M. Kendra and Tricia Wachtendorf will discuss and sign copies of their new book, American Dunkirk: The Waterborne … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

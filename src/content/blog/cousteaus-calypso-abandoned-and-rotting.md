@@ -1,8 +1,8 @@
 ---
 title: "Cousteau’s Calypso — Abandoned and Rotting"
 date: 2015-07-03T17:02:27
-slug: cousteaus-calypso-abandoned-and-rotting
-excerpt: "Last March we posted “Will Prince Albert of Monaco Save Cousteau’s Calypso?”  sadly, the answer to the question appears to be, “no.”  Earlier in March, following  a long legal battle, a French court ruled, that Francine Cousteau, the second wife of the … Continue reading &rarr;"
+slug: "cousteaus-calypso-abandoned-and-rotting"
+excerpt: "Last March we posted \"Will Prince Albert of Monaco Save Cousteau’s Calypso?\"  sadly, the answer to the question appears to be, \"no.\"  Earlier in March, following  a long legal battle, a French court ruled, that Francine Cousteau, the second wife of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:

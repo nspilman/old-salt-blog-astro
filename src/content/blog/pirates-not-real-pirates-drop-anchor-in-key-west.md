@@ -1,7 +1,7 @@
 ---
 title: "Pirates (OK, Not Real Pirates) Drop Anchor in Key West"
 date: 2010-11-26T08:45:56
-slug: pirates-not-real-pirates-drop-anchor-in-key-west
+slug: "pirates-not-real-pirates-drop-anchor-in-key-west"
 excerpt: "In my grumpier moments, I object to celebrating Disneyfied pirates, especially given that piracy is, after all, still a serious problem and not merely a quaint relic of the 16th and 17th centuries.  Then again, I can’t be grumpy all the time. … Continue reading &rarr;"
 categories:
   - "Current"

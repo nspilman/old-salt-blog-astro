@@ -1,7 +1,7 @@
 ---
 title: "Chauncy Maples, Africa’s Oldest Ship, Returning as Clinic Ship on Lake Malawi"
 date: 2010-06-24T15:43:59
-slug: chauncy-maples-africas-oldest-ship-returning-as-clinic-ship-on-lake-malawi
+slug: "chauncy-maples-africas-oldest-ship-returning-as-clinic-ship-on-lake-malawi"
 excerpt: "In 1898, the Chauncy Maples was built at the shipyard of Alley & McLellan in Glasgow.   She was then disassembled into 3,481 parts and shipped out for reassembly at Monkey Bay as a missionary/hospital steamer on Lake Malawi.  Now, one hundred and … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Ian Farrier, Designer & Builder of Folding Trimarans"
 date: 2017-12-11T16:23:01
-slug: ian-farrier-designer-builder-folding-trimarans
+slug: "ian-farrier-designer-builder-folding-trimarans"
 excerpt: "The Sailing Anarchy blog has posted a note from Rob Densem, General Manager of Farrier Marine, of Christchurch, NZ.: It is with a heavy heart that I tell you Ian Farrier passed away in San Francisco on his way back from the … Continue reading &rarr;"
 categories:
   - "Current"

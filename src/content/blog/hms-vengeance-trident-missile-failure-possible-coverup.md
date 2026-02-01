@@ -1,7 +1,7 @@
 ---
 title: "HMS Vengeance Trident Missile Failure and Possible Coverup"
 date: 2017-01-22T20:53:38
-slug: hms-vengeance-trident-missile-failure-possible-coverup
+slug: "hms-vengeance-trident-missile-failure-possible-coverup"
 excerpt: "Last June, the Royal Navy submarine HMS Vengeance test fired a dummy Trident II D5 nuclear ballistic missile while cruising in the Atlantic off the coast of Florida.  The missile was supposed to fly 5,600 miles (9,012 km) to a target at sea off … Continue reading &rarr;"
 categories:
   - "Current"

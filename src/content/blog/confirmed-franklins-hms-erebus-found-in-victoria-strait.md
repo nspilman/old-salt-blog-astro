@@ -1,7 +1,7 @@
 ---
 title: "Confirmed: Franklin’s HMS Erebus Found in Victoria Strait"
 date: 2014-10-02T20:51:13
-slug: confirmed-franklins-hms-erebus-found-in-victoria-strait
+slug: "confirmed-franklins-hms-erebus-found-in-victoria-strait"
 excerpt: "In September, we posted about the discovery of one of two missing ships from the Franklin Expedition of 1845.  The two missing ships, HMS Erebus and HMS Terror were both originally built as bomb ships. As bomb ships they were … Continue reading &rarr;"
 categories:
   - "Current"

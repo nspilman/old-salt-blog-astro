@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary War Sister Ships Cannons on EBay"
 date: 2010-07-08T10:33:50
-slug: revolutionary-war-sister-ships-cannons-on-ebay
+slug: "revolutionary-war-sister-ships-cannons-on-ebay"
 excerpt: "Thanks to Alaric Bond for pointing out this wonderful auction on EBay.  No bids yet but there are still five days left.   I would love to own these beauties but can’t figure out where I would put them or what I would … Continue reading &rarr;"
 categories:
   - "Current"

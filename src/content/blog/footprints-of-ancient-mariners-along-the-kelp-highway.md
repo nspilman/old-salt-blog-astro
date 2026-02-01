@@ -1,7 +1,7 @@
 ---
 title: "Footprints of Ancient Mariners Along the Kelp Highway"
 date: 2018-04-01T17:02:22
-slug: footprints-of-ancient-mariners-along-the-kelp-highway
+slug: "footprints-of-ancient-mariners-along-the-kelp-highway"
 excerpt: "The remarkable discovery of 29 ancient footprints just above what would have been the tide line on Calvert Island in British Columbia provides new evidence to support the idea that early humans first migrated to America by sea along what is termed … Continue reading &rarr;"
 categories:
   - "Current"

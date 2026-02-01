@@ -1,7 +1,7 @@
 ---
 title: "Scottish Built Tidal Turbine Producing Energy in Japan"
 date: 2021-03-03T18:13:55
-slug: scottish-built-tidal-turbine-producing-energy-in-japan
+slug: "scottish-built-tidal-turbine-producing-energy-in-japan"
 excerpt: "A tidal turbine, built and tested in Scotland, has been installed in waters off Naru Island, part of Japan’s Goto Island chain. Simec Atlantis Energy said its pilot turbine had generated 10 megawatt-hours in its first 10 days of operation. … Continue reading &rarr;"
 categories:
   - "Current"

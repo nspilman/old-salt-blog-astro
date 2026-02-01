@@ -1,7 +1,7 @@
 ---
 title: "Lake Erie Shipwreck to Remain in the Deep ?"
 date: 2010-06-22T14:02:01
-slug: lake-erie-shipwreck-to-remain-in-the-deep
+slug: "lake-erie-shipwreck-to-remain-in-the-deep"
 excerpt: "An interested court case between a private salvor and the State of New York appears to have been settled in favor of the state.   The salvor, Northeast Research, claimed the 19th century schooner, which it claims is the Caledonia. … Continue reading &rarr;"
 categories:
   - "Current"

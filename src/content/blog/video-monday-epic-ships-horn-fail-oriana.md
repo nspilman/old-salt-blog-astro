@@ -1,7 +1,7 @@
 ---
 title: "A Video for a Monday — Epic Ship’s Horn Fail on the Oriana"
 date: 2016-12-12T17:34:17
-slug: video-monday-epic-ships-horn-fail-oriana
+slug: "video-monday-epic-ships-horn-fail-oriana"
 excerpt: "I am not sure when this actually takes place, but it seems like an appropriate video for a grey cold and rainy Monday.  Here is the P&O Cruises Oriana departing Southampton’s City Cruise Terminal for a refit. As per the Rules … Continue reading &rarr;"
 categories:
   - "Current"

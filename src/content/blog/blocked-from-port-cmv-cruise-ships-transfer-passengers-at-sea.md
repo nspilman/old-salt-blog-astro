@@ -1,7 +1,7 @@
 ---
 title: "Blocked from Port, CMV Cruise Ships Transfer Passengers at Sea"
 date: 2020-03-20T17:05:37
-slug: blocked-from-port-cmv-cruise-ships-transfer-passengers-at-sea
+slug: "blocked-from-port-cmv-cruise-ships-transfer-passengers-at-sea"
 excerpt: "The plan was for the Cruise and Maritime Voyages (CMV) ships Vasco da Gama and Columbus to refuel, reprovision and swap passengers in the port of Phuket, Thailand before returning to their respective homeports to be temporarily laid up. When … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

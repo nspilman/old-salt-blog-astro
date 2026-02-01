@@ -1,7 +1,7 @@
 ---
 title: "The Great Solstice Conjunction of Jupiter and Saturn"
 date: 2020-12-19T13:19:40
-slug: the-great-solstice-conjunction-of-jupiter-and-saturn
+slug: "the-great-solstice-conjunction-of-jupiter-and-saturn"
 excerpt: "On Monday night, December 21, the planets Jupiter and Saturn will appear closer together in the night sky than they have on any night since March 4, 1226. At their closest alignment, the planets will be a tenth of a … Continue reading &rarr;"
 categories:
   - "Current"

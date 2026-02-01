@@ -1,7 +1,7 @@
 ---
 title: "Battleship Texas Scheduled to Be Towed to Yard for Repairs on August 31, Weather Permitting"
 date: 2022-08-27T10:12:07
-slug: battleship-texas-scheduled-to-be-towed-to-yard-for-repairs-on-august-31-weather-permitting
+slug: "battleship-texas-scheduled-to-be-towed-to-yard-for-repairs-on-august-31-weather-permitting"
 excerpt: "The 110-year-old Battleship Texas is the oldest remaining dreadnought battleship and only one of six surviving ships to have served in both World War I and World War II. Over the last decade or so, the historic ship has been … Continue reading &rarr;"
 categories:
   - "Current"

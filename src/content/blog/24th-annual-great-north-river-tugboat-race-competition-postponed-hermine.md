@@ -1,7 +1,7 @@
 ---
 title: "24th Annual Great North River Tugboat Race and Competition Postponed Due to Hermine"
 date: 2016-09-02T15:43:32
-slug: 24th-annual-great-north-river-tugboat-race-competition-postponed-hermine
+slug: "24th-annual-great-north-river-tugboat-race-competition-postponed-hermine"
 excerpt: "The 24th Annual Great North River Tugboat Race and Competition which was to be held on Labor Day on the Hudson River has been postponed by the expected arrival on Monday of high winds and rain associated with Tropical Depression Hermine. … Continue reading &rarr;"
 categories:
   - "Current"

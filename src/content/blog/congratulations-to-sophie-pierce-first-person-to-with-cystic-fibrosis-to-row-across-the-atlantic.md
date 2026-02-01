@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Sophie Pierce, First Person to With Cystic Fibrosis to Row Across the Atlantic"
 date: 2025-04-03T21:16:30
-slug: congratulations-to-sophie-pierce-first-person-to-with-cystic-fibrosis-to-row-across-the-atlantic
+slug: "congratulations-to-sophie-pierce-first-person-to-with-cystic-fibrosis-to-row-across-the-atlantic"
 excerpt: "Sophie Pierce did not believe she would live until she was 30 due to cystic fibrosis, a genetic illness affecting her ability to breathe. Remarkably, she has just completed a world record-breaking row, at age 32, becoming the first person … Continue reading &rarr;"
 categories:
   - "Current"

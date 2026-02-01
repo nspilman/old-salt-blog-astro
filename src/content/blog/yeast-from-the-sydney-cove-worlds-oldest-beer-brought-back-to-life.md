@@ -1,8 +1,8 @@
 ---
 title: "Yeast from the Sydney Cove –World’s Oldest Beer Brought Back to Life?"
 date: 2019-07-07T09:33:37
-slug: yeast-from-the-sydney-cove-worlds-oldest-beer-brought-back-to-life
-excerpt: "The yeast from a 220-year-old bottle of beer found in a shipwreck off the coast of Tasmania has been used to brew what is being described as the “world’s oldest surviving beer.” This is similar to the claims made for … Continue reading &rarr;"
+slug: "yeast-from-the-sydney-cove-worlds-oldest-beer-brought-back-to-life"
+excerpt: "The yeast from a 220-year-old bottle of beer found in a shipwreck off the coast of Tasmania has been used to brew what is being described as the \"world’s oldest surviving beer.\" This is similar to the claims made for … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "yeast"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/tazbeer.jpg"
 author: "Rick Spilman"
-description: "The yeast from a 220-year-old bottle of beer found in a shipwreck off the coast of Tasmania has been used to brew what is being described as the “world’s oldest surviving beer.” This is similar to the claims made for … Continue reading &rarr;"
+description: "The yeast from a 220-year-old bottle of beer found in a shipwreck off the coast of Tasmania has been used to brew what is being described as the \"world’s oldest surviving beer.\" This is similar to the claims made for … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/tazbeer.jpg)The yeast from a [220-year-old bottle of beer found in a shipwreck off the coast of Tasmania](https://www.thecourier.com.au/story/6252822/worlds-oldest-surviving-beer-brought-back-to-life/) has been used to brew what is being described as the “world’s oldest surviving beer.” This is similar to the claims made for [170-year old beer found in a shipwreck off the Åland Islands of Sweden.](http://www.oldsaltblog.com/2014/06/update-a-shipwrecked-beer-reborn-aland-brewery-recreates-170-year-old-beer/) It appears that the Tasmanian beer may be older, but does raise an obvious question — isn’t there more to beer than yeast? 

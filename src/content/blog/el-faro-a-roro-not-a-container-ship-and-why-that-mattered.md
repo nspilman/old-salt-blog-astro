@@ -1,7 +1,7 @@
 ---
 title: "El Faro — a Ro/Ro not a Container Ship and Why that Mattered"
 date: 2015-10-05T10:55:00
-slug: el-faro-a-roro-not-a-container-ship-and-why-that-mattered
+slug: "el-faro-a-roro-not-a-container-ship-and-why-that-mattered"
 excerpt: "El Faro was often referred to in the media as a container ship. It is an easy mistake to make as the file photos showed her carrying stacks of containers on the main deck.  El Faro, ex-Puerto Rico, ex-Northern Lights, was built … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

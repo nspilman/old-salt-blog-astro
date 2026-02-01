@@ -1,7 +1,7 @@
 ---
 title: "USS Samuel B Roberts: World’s Deepest Shipwreck Located"
 date: 2022-06-25T16:02:51
-slug: uss-samuel-b-roberts-worlds-deepest-shipwreck-located
+slug: "uss-samuel-b-roberts-worlds-deepest-shipwreck-located"
 excerpt: "The BBC reports that explorers have found the deepest shipwreck ever identified, a US navy destroyer escort sunk during WWII. The USS Samuel B Roberts went down during the Battle Off Samar in the Philippine Sea in October 1944. It … Continue reading &rarr;"
 categories:
   - "Current"

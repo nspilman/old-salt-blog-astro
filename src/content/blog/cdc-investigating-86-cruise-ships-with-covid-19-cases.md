@@ -1,7 +1,7 @@
 ---
 title: "CDC Investigating 86 Cruise Ships With Covid-19 Cases"
 date: 2021-12-29T16:38:09
-slug: cdc-investigating-86-cruise-ships-with-covid-19-cases
+slug: "cdc-investigating-86-cruise-ships-with-covid-19-cases"
 excerpt: "Yesterday, the Centers for Disease Control and Protection (CDC) updated its color-coded list of ships that tracks where passengers or crew have tested positive for Covid-19. The list is updated multiple times a week. The agency currently identifies 86 ships where the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Ooops, the Blocks Don’t Fit – Construction Glitch hits $8bn Aussie Navy Project"
 date: 2010-10-27T08:43:07
-slug: ooops-the-blocks-dont-fit-construction-glitch-hits-8bn-aussie-navy-project
+slug: "ooops-the-blocks-dont-fit-construction-glitch-hits-8bn-aussie-navy-project"
 excerpt: "In the good (or bad) old days, ships were built from the keel up, with the frames rising from the keel, and the plating or planking secured over the frames.   These days ships are built in modules, large blocks … Continue reading &rarr;"
 categories:
   - "Current"

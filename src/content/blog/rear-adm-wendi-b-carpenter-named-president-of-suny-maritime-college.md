@@ -1,7 +1,7 @@
 ---
 title: "Rear Adm. Wendi B. Carpenter named President of SUNY Maritime College."
 date: 2011-06-30T10:53:01
-slug: rear-adm-wendi-b-carpenter-named-president-of-suny-maritime-college
+slug: "rear-adm-wendi-b-carpenter-named-president-of-suny-maritime-college"
 excerpt: "If you hear a loud cracking sound today,  it might another glass ceiling breaking.  In the beginning of June, we posted  that Rear Adm. Sandra Stosz had been named as the 40th Superintendent of the United States Coast Guard Academy in … Continue reading &rarr;"
 categories:
   - "Current"

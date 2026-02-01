@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup NYC — Technology, the Wind, and the River"
 date: 2016-05-09T10:49:37
-slug: americas-cup-technology-wind-river
+slug: "americas-cup-technology-wind-river"
 excerpt: "Sailing is all about technology and has been ever since the first sailor spread a stretched an animal skin as a sail. The America’s Cup, however, is far more technological than most sailing by a large measure. This thought occurred … Continue reading &rarr;"
 categories:
   - "City of Ships"

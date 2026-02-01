@@ -1,8 +1,8 @@
 ---
 title: "Politics Over Safety? White House Overrules C.D.C. on Cruise Ship Ban"
 date: 2020-10-01T09:26:17
-slug: politics-over-safety-white-house-overules-c-d-c-on-cruise-ship-ban
-excerpt: "The cruise ship industry effectively shut down in the middle of last March due to outbreaks of the coronavirus on several ships. The Center for Disease Control (C.D.C.) has issued a series of “No-Sail Orders” which have kept the ships … Continue reading &rarr;"
+slug: "politics-over-safety-white-house-overules-c-d-c-on-cruise-ship-ban"
+excerpt: "The cruise ship industry effectively shut down in the middle of last March due to outbreaks of the coronavirus on several ships. The Center for Disease Control (C.D.C.) has issued a series of \"No-Sail Orders\" which have kept the ships … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "No-Sail Orders"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/carnival-restart.jpg"
 author: "Rick Spilman"
-description: "The cruise ship industry effectively shut down in the middle of last March due to outbreaks of the coronavirus on several ships. The Center for Disease Control (C.D.C.) has issued a series of “No-Sail Orders” which have kept the ships … Continue reading &rarr;"
+description: "The cruise ship industry effectively shut down in the middle of last March due to outbreaks of the coronavirus on several ships. The Center for Disease Control (C.D.C.) has issued a series of \"No-Sail Orders\" which have kept the ships … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/carnival-restart.jpg)The cruise ship industry effectively shut down in the middle of last March due to outbreaks of the coronavirus on several ships. The Center for Disease Control (C.D.C.) has issued a series of “[No-Sail Orders](http://www.oldsaltblog.com/2020/04/cdc-modifies-extends-no-sail-order-for-all-cruise-ships/)” which have kept the ships in port ever since. 

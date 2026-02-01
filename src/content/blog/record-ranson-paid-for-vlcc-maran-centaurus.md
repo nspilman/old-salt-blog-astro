@@ -1,7 +1,7 @@
 ---
 title: "Record Ransom Paid for VLCC Maran Centaurus"
 date: 2010-01-18T16:56:28
-slug: record-ranson-paid-for-vlcc-maran-centaurus
+slug: "record-ranson-paid-for-vlcc-maran-centaurus"
 excerpt: "Owners of a Greek-flagged oil tanker dropped a record ransom payment of $5.5 million to $7 million on the deck of the ship today, prompting Somali pirates to release the Maran Centaurus. Ransoms to Somali pirates have reached a historic … Continue reading &rarr;"
 categories:
   - "Current"

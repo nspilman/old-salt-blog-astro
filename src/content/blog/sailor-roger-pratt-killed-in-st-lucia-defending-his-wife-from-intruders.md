@@ -1,7 +1,7 @@
 ---
 title: "Sailor Roger Pratt Killed in St. Lucia"
 date: 2014-01-20T10:41:35
-slug: sailor-roger-pratt-killed-in-st-lucia-defending-his-wife-from-intruders
+slug: "sailor-roger-pratt-killed-in-st-lucia-defending-his-wife-from-intruders"
 excerpt: "Terrible news from St. Lucia.  Roger Pratt, 62, was killed while defending his wife from intruders on their Premier 41 sailboat, Magnetic Attraction, near the town of Vieux Fort on the island nation of St. Lucia in the eastern Caribbean. … Continue reading &rarr;"
 categories:
   - "Current"

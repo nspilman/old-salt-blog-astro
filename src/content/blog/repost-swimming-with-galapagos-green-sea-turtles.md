@@ -1,7 +1,7 @@
 ---
 title: "Repost: Swimming with Galápagos Green Sea Turtles"
 date: 2021-11-12T10:26:58
-slug: repost-swimming-with-galapagos-green-sea-turtles
+slug: "repost-swimming-with-galapagos-green-sea-turtles"
 excerpt: "An updated repost. Like so many other species, Galápagos green sea turtles are unique to the archipelago. Here is a short video of snorkeling with Galápagos green sea turtles off Punto Cormorant on Floreana Island in the Galapagos in early November, 2017.  … Continue reading &rarr;"
 categories:
   - "Current"

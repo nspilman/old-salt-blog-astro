@@ -1,7 +1,7 @@
 ---
 title: "Tommy Thompson & the Missing SS Central America Gold Coins  – the Saga Continues"
 date: 2018-11-25T18:28:47
-slug: tommy-thompson-the-missing-ss-central-america-gold-coins-the-saga-continues
+slug: "tommy-thompson-the-missing-ss-central-america-gold-coins-the-saga-continues"
 excerpt: "This is a bizarre story which we have been following for, literally, years. It looked for an instant like it might be resolved and then things fells apart once again. Tommy Thompson — engineer, treasure hunter, alleged swindler, and the current … Continue reading &rarr;"
 categories:
   - "Current"

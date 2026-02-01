@@ -1,7 +1,7 @@
 ---
 title: "Houthis Resume Attacks in Red Sea, Hitting Two Bulk Carriers"
 date: 2025-07-07T20:06:07
-slug: houthis-resume-attacks-in-red-sea-hitting-two-bulk-carriers
+slug: "houthis-resume-attacks-in-red-sea-hitting-two-bulk-carriers"
 excerpt: "The Houthis had not attacked a commercial ship in the Red Sea in approximately seven months. That lull ended on Sunday and Monday when two bulk carriers were struck by gunfire, rocket propelled grenades, small boats and drones. Both ships … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "William Mariner, the Privateer Port-au-Prince & the Tongan Shipwreck"
 date: 2012-08-11T17:13:30
-slug: william-mariner-the-privateer-port-au-prince-the-tongan-shipwreck
+slug: "william-mariner-the-privateer-port-au-prince-the-tongan-shipwreck"
 excerpt: "Divers may have found the wreck of a British privateer, Port-au-Prince, which was sunk off the island of Lifuka  in the Ha’apai island group of Tonga, in December 1806. The ship was attacked by Tongan warriors on the orders of King Finau ‘Ulukalala II. The Tongans … Continue reading &rarr;"
 categories:
   - "Current"

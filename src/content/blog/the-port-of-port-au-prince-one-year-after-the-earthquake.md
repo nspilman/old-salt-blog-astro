@@ -1,7 +1,7 @@
 ---
 title: "The Port of Port-au-Prince – One Year after the Earthquake"
 date: 2011-01-15T14:13:17
-slug: the-port-of-port-au-prince-one-year-after-the-earthquake
+slug: "the-port-of-port-au-prince-one-year-after-the-earthquake"
 excerpt: "One year ago last Wednesday, Haiti was struck by a magnitude 7.0 earthquake. The port of Port-au-Prince was severely damaged.  Now a year later the damage to the port remains unrepaired, but floating barges have temporarily replaced the damaged docks.  Click … Continue reading &rarr;"
 categories:
   - "Current"

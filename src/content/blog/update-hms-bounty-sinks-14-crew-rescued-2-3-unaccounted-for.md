@@ -1,7 +1,7 @@
 ---
 title: "Update: HMS Bounty Sinks, 14 Crew Rescued, 2 Unaccounted For"
 date: 2012-10-29T10:13:31
-slug: update-hms-bounty-sinks-14-crew-rescued-2-3-unaccounted-for
+slug: "update-hms-bounty-sinks-14-crew-rescued-2-3-unaccounted-for"
 excerpt: "The 180′ tall ship HMS Bounty has sunk off the North Carolina coast.  At least 14 of the crew have been rescued.   There is considerable confusion about the remaining 2-3 crew members. The Bounty organization reported that 17 crew, wearing survival … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

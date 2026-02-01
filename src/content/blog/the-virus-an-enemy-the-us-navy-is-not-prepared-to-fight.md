@@ -1,7 +1,7 @@
 ---
 title: "The Virus — An Enemy The US Navy Is Not Prepared To Fight"
 date: 2020-04-05T18:06:51
-slug: the-virus-an-enemy-the-us-navy-is-not-prepared-to-fight
+slug: "the-virus-an-enemy-the-us-navy-is-not-prepared-to-fight"
 excerpt: "Given the complete debacle of the current administration’s response to the coronavirus, one might hope that our military might be better capable of reacting to the crisis. So far, the US Navy, at least, has demonstrated only how ill-prepared it … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

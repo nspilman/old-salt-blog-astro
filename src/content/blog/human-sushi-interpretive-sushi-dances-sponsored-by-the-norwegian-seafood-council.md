@@ -1,8 +1,8 @@
 ---
 title: "Human Sushi – Interpretive Sushi Dances Sponsored by the Norwegian Seafood Council"
 date: 2013-01-18T09:15:22
-slug: human-sushi-interpretive-sushi-dances-sponsored-by-the-norwegian-seafood-council
-excerpt: "We should probably add a new category to the blog, something along the lines of  “You Can’t Make This Stuff Up.”  This post would certainly fit. The Norwegian Seafood Council has sponsored Human Sushi, a series of  dances to interpret sushi … Continue reading &rarr;"
+slug: "human-sushi-interpretive-sushi-dances-sponsored-by-the-norwegian-seafood-council"
+excerpt: "We should probably add a new category to the blog, something along the lines of  \"You Can’t Make This Stuff Up.\"  This post would certainly fit. The Norwegian Seafood Council has sponsored Human Sushi, a series of  dances to interpret sushi … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "sashimi"
   - "sushi"
 author: "Rick Spilman"
-description: "We should probably add a new category to the blog, something along the lines of  “You Can’t Make This Stuff Up.”  This post would certainly fit. The Norwegian Seafood Council has sponsored Human Sushi, a series of  dances to interpret sushi … Continue reading &rarr;"
+description: "We should probably add a new category to the blog, something along the lines of  \"You Can’t Make This Stuff Up.\"  This post would certainly fit. The Norwegian Seafood Council has sponsored Human Sushi, a series of  dances to interpret sushi … Continue reading &rarr;"
 ---
 
 We should probably add a new category to the blog, something along the lines of  “You Can’t Make This Stuff Up.”  This post would certainly fit. The [Norwegian Seafood Council](http://en.seafood.no/) has sponsored [Human Sushi](http://www.godfisk.no/Artikler/Norge/Human-sushi/The-Human-Sushi), a series of  dances to interpret sushi and sashimi recipes.  From their website:

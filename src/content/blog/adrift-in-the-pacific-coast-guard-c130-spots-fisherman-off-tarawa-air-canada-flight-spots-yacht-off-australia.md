@@ -1,7 +1,7 @@
 ---
 title: "Adrift in the Pacific – Coast Guard C130 Spots Fisherman Off Tarawa & Air Canada Flight Spots Yacht Off Australia"
 date: 2012-10-19T08:10:30
-slug: adrift-in-the-pacific-coast-guard-c130-spots-fisherman-off-tarawa-air-canada-flight-spots-yacht-off-australia
+slug: "adrift-in-the-pacific-coast-guard-c130-spots-fisherman-off-tarawa-air-canada-flight-spots-yacht-off-australia"
 excerpt: "It has been a good couple of days for air search and rescue in the Pacific.  U.S. Coast Guard C-130 airplane stationed at Air Station Barber’s Point on Oahu spotted three fishermen 70 nautical miles west of the Pacific atoll … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

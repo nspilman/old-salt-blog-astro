@@ -1,7 +1,7 @@
 ---
 title: "The Supreme Court, Grouper and SOX"
 date: 2015-03-07T17:25:38
-slug: the-supreme-court-grouper-and-sox
+slug: "the-supreme-court-grouper-and-sox"
 excerpt: "In 2007, Captain John L. Yates of the fishing vessel, Miss Katie, was caught with 72 undersized red grouper. After being ordered to bring the fish ashore by a Florida Fish and Wildlife Conservation officer, Captain Yates dumped the fish back into the … Continue reading &rarr;"
 categories:
   - "Current"

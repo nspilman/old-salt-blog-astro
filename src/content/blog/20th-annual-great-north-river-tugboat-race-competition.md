@@ -1,7 +1,7 @@
 ---
 title: "20th Annual Great North River Tugboat Race & Competition"
 date: 2012-08-31T20:57:11
-slug: 20th-annual-great-north-river-tugboat-race-competition
+slug: "20th-annual-great-north-river-tugboat-race-competition"
 excerpt: "The 20th Annual Great North River Tugboat Race and Competition will be held again this year on the Hudson River at Pier 84 (off W44th Street) in Manhattan.  The festivities begin with a Parade of Tugs at 10:00 am with the tug boat race, from the … Continue reading &rarr;"
 categories:
   - "Current"

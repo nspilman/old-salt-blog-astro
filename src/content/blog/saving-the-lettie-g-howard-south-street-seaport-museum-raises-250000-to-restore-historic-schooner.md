@@ -1,7 +1,7 @@
 ---
 title: "Saving the Lettie G Howard – South Street Seaport Museum Raises $250,000 to Restore Historic Schooner"
 date: 2013-04-28T15:51:16
-slug: saving-the-lettie-g-howard-south-street-seaport-museum-raises-250000-to-restore-historic-schooner
+slug: "saving-the-lettie-g-howard-south-street-seaport-museum-raises-250000-to-restore-historic-schooner"
 excerpt: "Wonderful news!  In February 2012, the 1893 built, Freedonia class fishing schooner, Lettie G. Howard was drydocked to repair rot in her keelson.  The rot was found to be far more extensive than expected and since then the South Street … Continue reading &rarr;"
 categories:
   - "Current"

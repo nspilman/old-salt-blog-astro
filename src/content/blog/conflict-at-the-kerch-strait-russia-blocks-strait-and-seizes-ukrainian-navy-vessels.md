@@ -1,7 +1,7 @@
 ---
 title: "Conflict in the Kerch Strait — Russia Blocks Strait and Seizes Ukrainian  Navy Vessels"
 date: 2018-11-26T18:12:58
-slug: conflict-at-the-kerch-strait-russia-blocks-strait-and-seizes-ukrainian-navy-vessels
+slug: "conflict-at-the-kerch-strait-russia-blocks-strait-and-seizes-ukrainian-navy-vessels"
 excerpt: "On Sunday, two Ukrainian naval gunboats and a tug departed from the Black Sea port of Odessa, bound to Mariupol in the Sea of Azov. As they approached the Kerch Strait, connecting the Black Sea and the Sea of Azov, they were intercepted by Russian … Continue reading &rarr;"
 categories:
   - "Current"

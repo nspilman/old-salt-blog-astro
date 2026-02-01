@@ -1,7 +1,7 @@
 ---
 title: "Fleet of Cruise Ships Flees Typhoon Battering the Philippines"
 date: 2020-05-15T14:40:30
-slug: fleet-of-cruise-ships-flees-typhoon-battering-the-philippines
+slug: "fleet-of-cruise-ships-flees-typhoon-battering-the-philippines"
 excerpt: "More than 20 cruise ships are departing Manila Bay to escape the wrath of Category 3 Typhoon Vongfong making landfall in the Philippines. Many of the cruise ships had been in the process of repatriating Filipino crew members, a process … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

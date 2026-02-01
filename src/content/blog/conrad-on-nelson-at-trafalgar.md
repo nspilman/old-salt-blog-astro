@@ -1,8 +1,8 @@
 ---
 title: "Conrad on Nelson at Trafalgar"
 date: 2010-10-21T12:35:22
-slug: conrad-on-nelson-at-trafalgar
-excerpt: "The final essay in Joseph Conrad’s wonderful, if somewhat odd book, The Mirror of the Sea,  is entitled “The Heroic Age.”  It starts out rather disappointingly as a paean to Nelson.  There is nothing wrong with praising Nelson, except that everyone does it, so another bit … Continue reading &rarr;"
+slug: "conrad-on-nelson-at-trafalgar"
+excerpt: "The final essay in Joseph Conrad’s wonderful, if somewhat odd book, The Mirror of the Sea,  is entitled \"The Heroic Age.\"  It starts out rather disappointingly as a paean to Nelson.  There is nothing wrong with praising Nelson, except that everyone does it, so another bit … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Lord Nelson"
   - "The Mirror of the Sea"
 author: "Rick Spilman"
-description: "The final essay in Joseph Conrad’s wonderful, if somewhat odd book, The Mirror of the Sea,  is entitled “The Heroic Age.”  It starts out rather disappointingly as a paean to Nelson.  There is nothing wrong with praising Nelson, except that everyone does it, so another bit … Continue reading &rarr;"
+description: "The final essay in Joseph Conrad’s wonderful, if somewhat odd book, The Mirror of the Sea,  is entitled \"The Heroic Age.\"  It starts out rather disappointingly as a paean to Nelson.  There is nothing wrong with praising Nelson, except that everyone does it, so another bit … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/conrad.jpg)

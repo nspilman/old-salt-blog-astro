@@ -1,7 +1,7 @@
 ---
 title: "Update: Cheeki Rafiki Hull Found, No Sign of Missing Sailors, Coast Guard Ends Search"
 date: 2014-05-24T09:42:24
-slug: update-cheeki-rafiki-hull-found-no-sign-of-missing-sailors
+slug: "update-cheeki-rafiki-hull-found-no-sign-of-missing-sailors"
 excerpt: "In a statement Friday afternoon, the US Coast Guard announced that a U.S. Navy warship helicopter crew located the overturned hull of the Cheeki Rafiki 1,000 miles offshore Massachusetts and within the U.S. Coast Guard’s search area.   A Navy surface swimmer … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Murder on the High Seas — Trump Continues Illegal Attacks on Alleged Drug Smugglers"
 date: 2025-11-07T18:14:38
-slug: murder-on-the-high-seas-trump-continues-illegal-attacks-on-alleged-drug-smugglers
+slug: "murder-on-the-high-seas-trump-continues-illegal-attacks-on-alleged-drug-smugglers"
 excerpt: "The Trump regime continues its bloody attacks on alleged drug smuggling boats off the coast of South America.  Since the attacks began on September 1, the US Navy has killed at least 69 people on 18 vessels—10 in the Caribbean … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

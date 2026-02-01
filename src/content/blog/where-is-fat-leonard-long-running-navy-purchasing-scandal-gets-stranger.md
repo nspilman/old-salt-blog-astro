@@ -1,7 +1,7 @@
 ---
 title: "Where is Fat Leonard? Long-running Navy Purchasing Scandal Gets Stranger"
 date: 2018-05-23T17:35:19
-slug: where-is-fat-leonard-long-running-navy-purchasing-scandal-gets-stranger
+slug: "where-is-fat-leonard-long-running-navy-purchasing-scandal-gets-stranger"
 excerpt: "Where is Fat Leonard?  Fat Leonard, as Leonard Glenn Francis is known, was supposed to testify in Norfolk next week about his crooked dealings with dozens of Navy officers.  Except that apparently, he won’t. Fat Leonard was arrested in 2013 in the worst corruption scandal in … Continue reading &rarr;"
 categories:
   - "Current"

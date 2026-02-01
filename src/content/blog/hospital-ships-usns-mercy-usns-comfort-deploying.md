@@ -1,7 +1,7 @@
 ---
 title: "Hospital Ships USNS Mercy & USNS Comfort Deploying"
 date: 2020-03-19T11:16:38
-slug: hospital-ships-usns-mercy-usns-comfort-deploying
+slug: "hospital-ships-usns-mercy-usns-comfort-deploying"
 excerpt: "The good news is that the Pentagon announced that it is activating the two US Navy hospital ships, USNS Mercy and USNS Comfort, notionally to provide additional capacity in the developing coronavirus pandemic. The bad news is that it is … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Clonal Neptune Grass — the Oldest Living Thing on Earth"
 date: 2022-06-03T18:13:29
-slug: clonal-neptune-grass-the-oldest-living-thing-on-earth
+slug: "clonal-neptune-grass-the-oldest-living-thing-on-earth"
 excerpt: "Yesterday, we posted about Poseidon’s ribbon weed, Posidonia australis, a clonal seagrass. Researchers recently discovered large meadows of the self-cloning sea grass growing in Shark Bay, off the westernmost tip of Australia. DNA testing of the seagrass, covering over 180km, … Continue reading &rarr;"
 categories:
   - "Current"

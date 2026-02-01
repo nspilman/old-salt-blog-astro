@@ -1,7 +1,7 @@
 ---
 title: "Update: Honk Kong Ferry Sinking – the Two Minute Tragedy : Why Did the Lammna IV Sink So Fast?"
 date: 2012-10-08T07:21:55
-slug: update-honk-kong-ferry-sinking-the-two-minute-tragedy-why-did-the-lammna-iv-sink-so-fast
+slug: "update-honk-kong-ferry-sinking-the-two-minute-tragedy-why-did-the-lammna-iv-sink-so-fast"
 excerpt: "Update:  The death toll from the ferry collision has risen to 39 after a nine year old girl, Tsui Hoi-ying, who had been of life support in a Hong Kong hospital, is reported to have died. It only took about … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "MS Veendam off Cape Horn"
 date: 2011-01-09T09:00:59
-slug: ms-veendam-off-cape-horn
+slug: "ms-veendam-off-cape-horn"
 excerpt: "Here is reminder of what the Southern Ocean can be like even in the Summer months. About a month ago the MS Veendam made a cruise from the Falklands to Patagonia and ran into a storm. Waves of over 30 … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

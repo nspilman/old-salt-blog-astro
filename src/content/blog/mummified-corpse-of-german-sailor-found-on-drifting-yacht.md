@@ -1,7 +1,7 @@
 ---
 title: "Corpse of German Sailor Found on Drifting Yacht"
 date: 2016-03-01T09:47:37
-slug: mummified-corpse-of-german-sailor-found-on-drifting-yacht
+slug: "mummified-corpse-of-german-sailor-found-on-drifting-yacht"
 excerpt: "Two fisherman came across a macabre scene on a dismasted derelict sailboat, drifting 40 miles off the coast of Barobo in Surigao del Sur in the Philippines. A figure, the color of dry plaster, was slumped over the chart table … Continue reading &rarr;"
 categories:
   - "Current"

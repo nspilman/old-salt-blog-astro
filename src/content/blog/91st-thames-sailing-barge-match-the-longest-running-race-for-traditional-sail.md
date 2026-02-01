@@ -1,7 +1,7 @@
 ---
 title: "91st Thames Sailing Barge Match, the Longest-Running Race for Traditional Sail"
 date: 2023-07-25T18:29:12
-slug: 91st-thames-sailing-barge-match-the-longest-running-race-for-traditional-sail
+slug: "91st-thames-sailing-barge-match-the-longest-running-race-for-traditional-sail"
 excerpt: "In 1863, Henry Dodd organized a race between Thames River sailing barges. It has become the longest-running, regularly organized, national racing event for traditional sail in the world. In absolute terms, it ranks as the second oldest sailing race behind … Continue reading &rarr;"
 categories:
   - "History"

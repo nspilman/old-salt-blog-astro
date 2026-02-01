@@ -1,7 +1,7 @@
 ---
 title: "Yellow Duckmarine Sinks in Liverpool’s Albert Dock, Second Time in Three Months"
 date: 2013-06-15T18:25:32
-slug: yellow-duckmarine-sinks-in-liverpools-albert-dock-second-time-in-three-months
+slug: "yellow-duckmarine-sinks-in-liverpools-albert-dock-second-time-in-three-months"
 excerpt: "An amphibious tourist bus sank in Liverpool’s Albert Dock today. All 31 aboard the Yellow Duckmarine tour boat were rescued and no serious injuries were reported.  Seventeen passengers were  admitted to the hospital but have since been discharged. The youngest passenger … Continue reading &rarr;"
 categories:
   - "Current"

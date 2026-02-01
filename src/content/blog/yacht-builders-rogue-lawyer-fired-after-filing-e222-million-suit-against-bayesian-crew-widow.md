@@ -1,7 +1,7 @@
 ---
 title: "Yacht Builder’s Rogue Lawyer Fired After Filing €222 Million Suit Against Bayesian Crew & Widow"
 date: 2024-09-23T19:12:57
-slug: yacht-builders-rogue-lawyer-fired-after-filing-e222-million-suit-against-bayesian-crew-widow
+slug: "yacht-builders-rogue-lawyer-fired-after-filing-e222-million-suit-against-bayesian-crew-widow"
 excerpt: "The initial reports were bizarre. On Friday, Tommaso Bertuccelli, a lawyer who works with The Italian Sea Group (TISG), the builder of the superyacht Bayesian that sank at anchor in August off Sicily, killing Mike Lynch and six other passengers, … Continue reading &rarr;"
 categories:
   - "Current"

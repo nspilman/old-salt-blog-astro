@@ -1,7 +1,7 @@
 ---
 title: "Freedom Class LCS in Service — 100% Failure Rate in Last Year"
 date: 2016-08-29T15:36:58
-slug: freedom-class-lcs-service-100-failure-rate-last-year
+slug: "freedom-class-lcs-service-100-failure-rate-last-year"
 excerpt: "The LCS saga continues. The USS Freedom suffered another serious failure.  There are currently three Freedom Class Littoral Combat Ships (LCS) in service — USS Freedom, USS Fort Worth, and the USS Milwaukee.  In the past twelve months, all three of the … Continue reading &rarr;"
 categories:
   - "Current"

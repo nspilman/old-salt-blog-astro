@@ -1,7 +1,7 @@
 ---
 title: "German WWI Destroyers V44 & V82 Lost and Now Found in Portsmouth Harbor"
 date: 2016-03-29T21:20:34
-slug: german-world-war-warships-lost-now-found-portsmouth
+slug: "german-world-war-warships-lost-now-found-portsmouth"
 excerpt: "British archeologists have located the wrecks of two German destroyers, V44  and V82, from World War I in an unlikely location — on the tidal mudflats near Whale Island in the eastern part of Portsmouth Harbour, opposite the Brittany Ferries … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Washington Crossing the Delaware and the Durham Boats"
 date: 2011-12-26T11:26:26
-slug: washington-crossing-the-delaware-and-the-durham-boats
+slug: "washington-crossing-the-delaware-and-the-durham-boats"
 excerpt: "On Christmas Day in 1776, George Washington led what was left of his army across the Delaware River in the middle of a blizzard to attack a Hessian outpost in Trenton, NJ.  In one bold stroke, he turned almost certain … Continue reading &rarr;"
 categories:
   - "History"

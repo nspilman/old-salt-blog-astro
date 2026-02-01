@@ -1,8 +1,8 @@
 ---
 title: "A Message for Prince George from HMS Lancaster"
 date: 2015-05-04T09:43:29
-slug: a-message-for-prince-george-from-hms-lancaster
-excerpt: "Sailors stand on the flight deck of the HMS Lancaster, known as the “Queen’s Frigate,” in a special congratulatory message to Prince George, passing on the news that he now has a sister. … Continue reading &rarr;"
+slug: "a-message-for-prince-george-from-hms-lancaster"
+excerpt: "Sailors stand on the flight deck of the HMS Lancaster, known as the \"Queen’s Frigate,\" in a special congratulatory message to Prince George, passing on the news that he now has a sister. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

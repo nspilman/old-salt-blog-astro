@@ -1,7 +1,7 @@
 ---
 title: "Is a German WWII Submarine on the Bottom of Churchill River in Labrador?"
 date: 2012-07-28T14:42:49
-slug: is-a-german-wwii-submarine-on-the-bottom-of-churchill-river-in-labrador
+slug: "is-a-german-wwii-submarine-on-the-bottom-of-churchill-river-in-labrador"
 excerpt: "Searchers using side scanning sonar believe that they may have located a German U-boat from World War II on the bottom in the Churchill River not far from Muskrat Falls  in Labrador, Canada, more than 100 kilometres from the ocean.   German submarines operated … Continue reading &rarr;"
 categories:
   - "Current"

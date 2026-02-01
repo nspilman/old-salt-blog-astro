@@ -1,8 +1,8 @@
 ---
-title: "Navy SEAL “Leap Frogs” and the Disturbing Number of Parachuting Deaths"
+title: "Navy SEAL \"Leap Frogs\" and the Disturbing Number of Parachuting Deaths"
 date: 2017-05-30T07:56:49
-slug: navy-seal-leap-frogs-worrying-number-parachuting-deaths
-excerpt: "They usually make it look so easy. The United States Navy Parachute Team “Leap Frogs,” a highly trained group of SEAL parachutists, regularly perform at airshows, sporting events and other celebrations. Last Sunday, during Fleet Week in New York, something went tragically … Continue reading &rarr;"
+slug: "navy-seal-leap-frogs-worrying-number-parachuting-deaths"
+excerpt: "They usually make it look so easy. The United States Navy Parachute Team \"Leap Frogs,\" a highly trained group of SEAL parachutists, regularly perform at airshows, sporting events and other celebrations. Last Sunday, during Fleet Week in New York, something went tragically … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "skydiving"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/leapfrog1.jpg"
 author: "Rick Spilman"
-description: "They usually make it look so easy. The United States Navy Parachute Team “Leap Frogs,” a highly trained group of SEAL parachutists, regularly perform at airshows, sporting events and other celebrations. Last Sunday, during Fleet Week in New York, something went tragically … Continue reading &rarr;"
+description: "They usually make it look so easy. The United States Navy Parachute Team \"Leap Frogs,\" a highly trained group of SEAL parachutists, regularly perform at airshows, sporting events and other celebrations. Last Sunday, during Fleet Week in New York, something went tragically … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/leapfrog1.jpg)They usually make it look so easy. The [United States Navy Parachute Team “Leap Frogs,](http://leapfrogs.navy/)” a highly trained group of SEAL parachutists, regularly perform at airshows, sporting events and other celebrations. Last Sunday, during [Fleet Week](http://militarynews.com/app/fleetweeknewyork/) in New York, something went tragically wrong. A SEAL Leap Frog skydiver, Remington J. Peters,  died when his chute detached and he fell into the Hudson River near Liberty State Park as thousands looked on in horror.  

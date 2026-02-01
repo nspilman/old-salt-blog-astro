@@ -1,8 +1,8 @@
 ---
-title: "HMS Diamond Rock, the First “Stone Frigate”"
+title: "HMS Diamond Rock, the First \"Stone Frigate\""
 date: 2021-07-02T15:07:10
-slug: hms-diamond-rock-the-first-stone-frigate
-excerpt: "As an American reading British Royal Navy history, I will admit to being initially confused, more than once, by “stone frigates“, naval establishments on land named as ships. HMS Collingwood, for example, is a stone frigate (shore establishment) of the … Continue reading &rarr;"
+slug: "hms-diamond-rock-the-first-stone-frigate"
+excerpt: "As an American reading British Royal Navy history, I will admit to being initially confused, more than once, by \"stone frigates\", naval establishments on land named as ships. HMS Collingwood, for example, is a stone frigate (shore establishment) of the … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Stone Frigate"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/diamondrock.jpg"
 author: "Rick Spilman"
-description: "As an American reading British Royal Navy history, I will admit to being initially confused, more than once, by “stone frigates“, naval establishments on land named as ships. HMS Collingwood, for example, is a stone frigate (shore establishment) of the … Continue reading &rarr;"
+description: "As an American reading British Royal Navy history, I will admit to being initially confused, more than once, by \"stone frigates\", naval establishments on land named as ships. HMS Collingwood, for example, is a stone frigate (shore establishment) of the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/diamondrock.jpg)

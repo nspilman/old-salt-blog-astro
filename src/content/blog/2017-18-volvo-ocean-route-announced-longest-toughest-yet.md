@@ -1,7 +1,7 @@
 ---
 title: "2017-18 Volvo Ocean Route — Longest & Toughest Yet"
 date: 2016-06-29T17:51:38
-slug: 2017-18-volvo-ocean-route-announced-longest-toughest-yet
+slug: "2017-18-volvo-ocean-route-announced-longest-toughest-yet"
 excerpt: "The route for the 2017-2018 Volvo Ocean Race has been announced and it is the longest and toughest of the competition’s 43 year history. The race around the world will begin in Alicante, Spain in November of next year and end eight … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Happy 50th Birthday Schooner Mary Day !"
 date: 2012-04-03T08:10:51
-slug: happy-50th-birthday-schooner-mary-day
+slug: "happy-50th-birthday-schooner-mary-day"
 excerpt: "Roughly a year ago we posted about the 75th anniversary of Captain Frank Swift buying laid up schooners which had previously carried stone, lumber, hay and all manner of goods, and began carrying vacationers to cruise in the Maine summers.  Many … Continue reading &rarr;"
 categories:
   - "Current"

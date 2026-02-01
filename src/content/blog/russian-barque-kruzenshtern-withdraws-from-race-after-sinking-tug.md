@@ -1,7 +1,7 @@
 ---
 title: "Russian Barque Kruzenshtern Withdraws from Race After Sinking Tug"
 date: 2014-08-20T16:59:24
-slug: russian-barque-kruzenshtern-withdraws-from-race-after-sinking-tug
+slug: "russian-barque-kruzenshtern-withdraws-from-race-after-sinking-tug"
 excerpt: "The Russian four-masted barque Kruzenshtern has been forced to withdraw from the Falmouth Tall Ships Regatta, after it was involved in the sinking of a tug in the Danish port of Esbjerg last week. The Kruzenshtern, ex-Padua, was built in 1926 and is … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

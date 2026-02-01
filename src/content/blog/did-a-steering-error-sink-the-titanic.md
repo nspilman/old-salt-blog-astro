@@ -1,7 +1,7 @@
 ---
 title: "Did a Steering Error Sink the Titanic?"
 date: 2010-09-21T20:07:47
-slug: did-a-steering-error-sink-the-titanic
+slug: "did-a-steering-error-sink-the-titanic"
 excerpt: "In Good as Gold, a new book by Louise Patten, the granddaughter of the most senior surviving officer on the Titanic, reveals a long hidden family secret. She claims that an error in steering on the bridge of the Titanic led to the collision … Continue reading &rarr;"
 categories:
   - "Current"

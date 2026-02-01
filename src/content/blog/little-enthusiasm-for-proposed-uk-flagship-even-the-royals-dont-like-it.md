@@ -1,7 +1,7 @@
 ---
 title: "Little Enthusiasm for Proposed UK Flagship, Even the Royals Don’t Like It"
 date: 2021-07-08T15:42:20
-slug: little-enthusiasm-for-proposed-uk-flagship-even-the-royals-dont-like-it
+slug: "little-enthusiasm-for-proposed-uk-flagship-even-the-royals-dont-like-it"
 excerpt: "Last month, we posted that UK Prime Minister Boris Johnson has announced the construction of a new national flagship intended to promote British businesses around the world. So far the proposal to replace the royal yacht Britannia, has been greeted … Continue reading &rarr;"
 categories:
   - "Current"

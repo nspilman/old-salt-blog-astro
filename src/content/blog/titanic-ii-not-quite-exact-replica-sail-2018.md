@@ -1,7 +1,7 @@
 ---
-title: "Titanic II, Not Quite an “Exact Replica” to Sail in 2018?"
+title: "Titanic II, Not Quite an \"Exact Replica\" to Sail in 2018?"
 date: 2016-02-11T18:31:47
-slug: titanic-ii-not-quite-exact-replica-sail-2018
+slug: "titanic-ii-not-quite-exact-replica-sail-2018"
 excerpt: "Only last June, the media were reporting the project to build a near-replica of RMS Titanic was dead. The Daily Echo was typical, writing: The highly ambitious plan to build a replica of the ill-fated Southampton liner, Titanic, has apparently sunk without … Continue reading &rarr;"
 categories:
   - "Current"

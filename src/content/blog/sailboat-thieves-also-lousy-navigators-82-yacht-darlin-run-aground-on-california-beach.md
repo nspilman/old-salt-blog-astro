@@ -1,7 +1,7 @@
 ---
 title: "Sailboat Thieves Also Lousy Navigators – 82′ Yacht Darlin Run Aground on California Beach"
 date: 2013-03-05T18:26:30
-slug: sailboat-thieves-also-lousy-navigators-82-yacht-darlin-run-aground-on-california-beach
+slug: "sailboat-thieves-also-lousy-navigators-82-yacht-darlin-run-aground-on-california-beach"
 excerpt: "Two men and a woman brought pizza and beer aboard the 82′ sailing yacht Darlin in the Sausalito Yacht Harbor late Sunday or early Monday and proceeded to take the boat to sea, only to run aground in shallow water near Pacifica State … Continue reading &rarr;"
 categories:
   - "Current"

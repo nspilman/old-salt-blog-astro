@@ -1,7 +1,7 @@
 ---
 title: "Update: Sailing Past the Future Stad Ship Tunnel on MS Trollfjord"
 date: 2023-10-29T16:18:18
-slug: update-sailing-past-the-future-stad-ship-tunnel-on-ms-trollfjord
+slug: "update-sailing-past-the-future-stad-ship-tunnel-on-ms-trollfjord"
 excerpt: "This afternoon, sailing south from Ålesund bound for Haugesund, on Hurtigruten’s MS Trollfjord, I noticed something unusual. The ship was pitching and rolling. The motion was gentle but evident. On the previous twelve or so days of the voyage to … Continue reading &rarr;"
 categories:
   - "Current"

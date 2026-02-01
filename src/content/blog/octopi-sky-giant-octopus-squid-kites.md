@@ -1,7 +1,7 @@
 ---
 title: "Octopi in the Sky  — Giant Octopus and Squid Kites"
 date: 2016-07-23T10:53:12
-slug: octopi-sky-giant-octopus-squid-kites
+slug: "octopi-sky-giant-octopus-squid-kites"
 excerpt: "Only slightly nautical but a lot of fun, nevertheless. Giant Octopus Kite … Continue reading &rarr;"
 categories:
   - "Current"

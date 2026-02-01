@@ -1,7 +1,7 @@
 ---
 title: "HMS Victory in the Snow"
 date: 2010-12-04T08:14:05
-slug: hms-victory-in-the-snow
+slug: "hms-victory-in-the-snow"
 excerpt: "Portsmouth Historic Dockyard has posted some lovely photos of HMS Victory and the dockyard after a recent snowfall. Click on the thumbnails for a larger image.   To see more visit their website or Facebook album page. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,13 +1,13 @@
 ---
 title: "PortSide NY, the Tanker Mary A. Whalen, Superstorm Sandy and Redhook"
 date: 2012-11-19T11:39:34
-slug: portside-ny-the-tanker-mary-a-whalen-superstorm-sandy-and-redhook
+slug: "portside-ny-the-tanker-mary-a-whalen-superstorm-sandy-and-redhook"
 excerpt: "Like most of the historic vessels in and around New York harbor, the tanker Mary A. Whalen survived Superstorm Sandy Sandy better than her shore based neighbors. The tanker, which weathered Sandy at the inshore end of Pier 9B in … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - ""superstorm" Sandy"
+  - "\"superstorm\" Sandy"
   - "Brooklyn"
   - "Mary A.Whalen"
   - "PortSide NY"

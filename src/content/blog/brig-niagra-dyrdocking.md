@@ -1,7 +1,7 @@
 ---
 title: "Brig Niagra Drydocking"
 date: 2011-10-04T17:12:58
-slug: brig-niagra-dyrdocking
+slug: "brig-niagra-dyrdocking"
 excerpt: "There is a certain magic to drydocks. They give you the ability to take in the whole ship in almost a single look and provide the one chance to get the bottom clean and whatever needs fixing below the waterline … Continue reading &rarr;"
 categories:
   - "Current"

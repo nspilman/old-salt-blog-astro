@@ -1,7 +1,7 @@
 ---
 title: "Class A Shines in the 2013 Great Chesapeake Bay Schooner Race"
 date: 2013-10-20T15:50:36
-slug: class-a-shines-in-the-2013-great-chesapeake-bay-schooner-race
+slug: "class-a-shines-in-the-2013-great-chesapeake-bay-schooner-race"
 excerpt: "Congratulations to all the racers in this year’s Great Chesapeake Bay Schooner Race.  In last year’s race,  Woodwind, Heron and Prom Queen, the top three Class A schooners (from 40′ to less than 50′) all beat the elapsed and corrected time of the … Continue reading &rarr;"
 categories:
   - "Current"

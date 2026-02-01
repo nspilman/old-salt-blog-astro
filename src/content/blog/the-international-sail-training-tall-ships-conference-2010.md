@@ -1,7 +1,7 @@
 ---
 title: "The International Sail Training & Tall Ships Conference 2010"
 date: 2010-10-29T09:41:12
-slug: the-international-sail-training-tall-ships-conference-2010
+slug: "the-international-sail-training-tall-ships-conference-2010"
 excerpt: "Not long left to register for the International Sail Training and Tall Ships Conference 2010 to be held on 12th – 13th November 2010 in Stavanger, Norway. The International Sail Training & Tall Ships Conference 2010 … Continue reading &rarr;"
 categories:
   - "Current"

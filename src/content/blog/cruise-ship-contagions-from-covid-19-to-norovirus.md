@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ship Contagions — From COVID-19 to Norovirus"
 date: 2020-02-13T16:06:28
-slug: cruise-ship-contagions-from-covid-19-to-norovirus
+slug: "cruise-ship-contagions-from-covid-19-to-norovirus"
 excerpt: "Are cruise ships giant incubators for spreading viruses and other microorganisms?  While the coronavirus has dominated the news recently, two cruise ships were turned away from ports after passengers and crew were stricken by the common norovirus. We have been … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

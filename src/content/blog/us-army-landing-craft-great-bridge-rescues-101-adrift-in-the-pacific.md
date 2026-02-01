@@ -1,7 +1,7 @@
 ---
 title: "US Army Landing Craft, Great Bridge, Rescues 101 Adrift in the Pacific"
 date: 2012-02-10T14:53:27
-slug: us-army-landing-craft-great-bridge-rescues-101-adrift-in-the-pacific
+slug: "us-army-landing-craft-great-bridge-rescues-101-adrift-in-the-pacific"
 excerpt: "It is easy to forget how many ships and boats are indeed operated by the United States Army. Earlier this week the 80 feet long vessel, Enin Meto, with 101 people aboard, was bound from Lib to Ebeye, two island … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Volvo Ocean Race Off to Rough Start – Two of Six Boats Damaged in First 24 Hours"
 date: 2011-11-06T18:06:37
-slug: volvo-ocean-race-off-to-rough-start-two-of-six-boats-damaged-in-first-24-hours
+slug: "volvo-ocean-race-off-to-rough-start-two-of-six-boats-damaged-in-first-24-hours"
 excerpt: "The six boats competing in the Volvo Ocean Race departed from Alicante, Spain yesterday and were immediately battered by rough seas and high winds while still in the Mediterranean.  The Abu Dhabi Ocean Racing‘s Azzam lost her mast only six hours and 85 nautical … Continue reading &rarr;"
 categories:
   - "Current"

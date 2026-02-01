@@ -1,7 +1,7 @@
 ---
 title: "Massive Explosion & Fire Sinks Indian Submarine INS Sindhurakshak at Dock in Mumbai"
 date: 2013-08-14T07:45:54
-slug: explosion-fire-on-indian-submarine-ins-sindhurakshak-at-dock-in-mumbai
+slug: "explosion-fire-on-indian-submarine-ins-sindhurakshak-at-dock-in-mumbai"
 excerpt: "A massive explosion, followed by a fire, has partially sunk the Indian Navy’s diesel electric submarine INS Sindhurakshak early this morning at the Mumbai naval dockyard. Eighteen officers and sailors were reported to be aboard at the time of the explosion … Continue reading &rarr;"
 categories:
   - "Current"

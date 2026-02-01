@@ -1,7 +1,7 @@
 ---
 title: "Weekend Maritime Festival Wrap-up"
 date: 2011-06-10T21:00:49
-slug: weekend-maritime-festival-wrap-up
+slug: "weekend-maritime-festival-wrap-up"
 excerpt: "If you are looking for something to do this weekend, there is no shortage of maritime festivals.   In addition to Delaware ‘Bay Day,’ which we posted about earlier today, the following cities and ports are having festivals this weekend: The Mackinaw Maritime Festival … Continue reading &rarr;"
 categories:
   - "Current"

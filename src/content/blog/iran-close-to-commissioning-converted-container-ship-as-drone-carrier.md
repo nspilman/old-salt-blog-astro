@@ -1,7 +1,7 @@
 ---
 title: "Iran Close to Commissioning Converted Container Ship As Drone Carrier"
 date: 2024-01-25T19:16:08
-slug: iran-close-to-commissioning-converted-container-ship-as-drone-carrier
+slug: "iran-close-to-commissioning-converted-container-ship-as-drone-carrier"
 excerpt: "Reports suggest that Iran is close to commissioning a drone carrier Shahid Bagheri, based on a converted container ship, previously named Sarvin. The converted ship features a 170 m runway, capable of accommodating the take-off and landing of a large … Continue reading &rarr;"
 categories:
   - "Current"

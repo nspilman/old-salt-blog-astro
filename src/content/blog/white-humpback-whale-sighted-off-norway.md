@@ -1,7 +1,7 @@
 ---
 title: "White Humpback Whale Sighted Off Norway"
 date: 2012-11-16T13:05:09
-slug: white-humpback-whale-sighted-off-norway
+slug: "white-humpback-whale-sighted-off-norway"
 excerpt: "Yesterday, we posted about the Moby Dick Marathon NYC, which begins tonight. It is not as one reader suggested a porn event but rather the first-ever marathon-style reading in New York City of Herman Melville’s classic American novel, Moby-Dick. Fittingly … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

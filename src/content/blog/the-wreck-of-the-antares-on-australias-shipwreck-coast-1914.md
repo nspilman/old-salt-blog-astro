@@ -1,8 +1,8 @@
 ---
 title: "The Wreck of the Antares on Australia’s Shipwreck Coast 1914"
 date: 2014-11-19T11:38:03
-slug: the-wreck-of-the-antares-on-australias-shipwreck-coast-1914
-excerpt: "Here is a short video by Sean and James McAnulty, narrated by Rex Mathieson, telling of his family history with the wreck of the full rigged sailing ship Antares, which came ashore in 1914 on Victoria, Australia’s “Shipwreck Coast.” The story of the … Continue reading &rarr;"
+slug: "the-wreck-of-the-antares-on-australias-shipwreck-coast-1914"
+excerpt: "Here is a short video by Sean and James McAnulty, narrated by Rex Mathieson, telling of his family history with the wreck of the full rigged sailing ship Antares, which came ashore in 1914 on Victoria, Australia’s \"Shipwreck Coast.\" The story of the … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"

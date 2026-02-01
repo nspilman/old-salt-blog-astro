@@ -1,7 +1,7 @@
 ---
 title: "Hell Around the Horn – the History (and Fiction) Behind the Novel"
 date: 2012-10-12T19:55:46
-slug: hell-around-the-horn-the-history-and-fiction-behind-the-novel
+slug: "hell-around-the-horn-the-history-and-fiction-behind-the-novel"
 excerpt: "In writing historical fiction, researching the history can be challenging. When researching my novel, Hell Around the Horn, I discovered that the three primary sources for the history behind the novel, two memoirs and the Official Ship’s Log, disagreed with each other in significant details and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

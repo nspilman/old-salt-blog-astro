@@ -1,7 +1,7 @@
 ---
 title: "Climate Change Causing Faster Winds and Accelerating Currents"
 date: 2020-03-03T17:52:44
-slug: climate-change-causing-faster-winds-and-accelerating-currents
+slug: "climate-change-causing-faster-winds-and-accelerating-currents"
 excerpt: "Climate change is affecting the oceans in a wide variety of ways. Oceans are warming and acidifying as temperatures rise and CO2 increases. Sea levels are rising as polar ice caps melt. Recently a study suggests that ocean currents have … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Velux 5 Oceans Update: Rounding Cape Horn"
 date: 2011-02-23T15:47:34
-slug: velux-5-oceans-update-rounding-cape-horn
+slug: "velux-5-oceans-update-rounding-cape-horn"
 excerpt: "The four boat fleet of the Velux 5 Oceans Singlehanded Around the World Race has rounded or is rounding Cape Horn on the third leg of the race.   Brad Van Liew on La Pingouin has kept the lead.    Unless … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: USCGC Acushnet For Sale Again"
 date: 2019-10-17T18:04:54
-slug: update-uscgc-acushnet-for-sale-again
+slug: "update-uscgc-acushnet-for-sale-again"
 excerpt: "The strange saga of the USCGC Acushnet continues. Back in 2011, Acushnet, the oldest serving cutter in the U.S. Coast Guard was put up for sale. She was purchased by a con-man named Vernon Officer who bought the cutter using … Continue reading &rarr;"
 categories:
   - "Current"

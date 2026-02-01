@@ -1,7 +1,7 @@
 ---
 title: "29th Annual Gloucester Schooner Festival – Labor Day Weekend August 30 to September 1, 2013"
 date: 2013-08-29T12:54:42
-slug: 29th-annual-gloucester-schooner-festival-labor-day-weekend-august-30-to-september-1-2013
+slug: "29th-annual-gloucester-schooner-festival-labor-day-weekend-august-30-to-september-1-2013"
 excerpt: "The 29th Annual Gloucester Schooner Festival, in all its glory, is being held again over Labor Day weekend with waterfront tours, public lobster bakes, fireworks, and of course, many lovely schooners. Sunday begins with a parade of sail before the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

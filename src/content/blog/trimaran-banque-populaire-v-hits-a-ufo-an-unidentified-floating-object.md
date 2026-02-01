@@ -1,8 +1,8 @@
 ---
 title: "Trimaran Banque Populaire V hits a UFO (an Unidentified Floating Object)"
 date: 2011-02-04T11:41:11
-slug: trimaran-banque-populaire-v-hits-a-ufo-an-unidentified-floating-object
-excerpt: "The press release, translated from the French by Google, reads, “Maxi Banque Populaire V hit a UFO*. ”   The footnote clarifies that the trimaran hit an “unidentified floating object.”   (Late last month we posted about the trimaran Banque Populaire V setting off … Continue reading &rarr;"
+slug: "trimaran-banque-populaire-v-hits-a-ufo-an-unidentified-floating-object"
+excerpt: "The press release, translated from the French by Google, reads, \"Maxi Banque Populaire V hit a UFO*. \"   The footnote clarifies that the trimaran hit an \"unidentified floating object.\"   (Late last month we posted about the trimaran Banque Populaire V setting off … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Jules Verne trophy"
   - "trimaran"
 author: "Rick Spilman"
-description: "The press release, translated from the French by Google, reads, “Maxi Banque Populaire V hit a UFO*. ”   The footnote clarifies that the trimaran hit an “unidentified floating object.”   (Late last month we posted about the trimaran Banque Populaire V setting off … Continue reading &rarr;"
+description: "The press release, translated from the French by Google, reads, \"Maxi Banque Populaire V hit a UFO*. \"   The footnote clarifies that the trimaran hit an \"unidentified floating object.\"   (Late last month we posted about the trimaran Banque Populaire V setting off … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/banquepopulaireV.jpg)

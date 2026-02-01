@@ -1,7 +1,7 @@
 ---
 title: "Lt-Cdr Bobby Lawson – Swordfish Pilot who Attacked the Bismark"
 date: 2010-05-15T16:14:13
-slug: lt-cdr-bobby-lawson-swordfish-pilot-who-attacked-the-bismark
+slug: "lt-cdr-bobby-lawson-swordfish-pilot-who-attacked-the-bismark"
 excerpt: "It was a classic contest between David and Goliath.  On May 27, 1941, the German battleship Bismark had just sunk the pride of the Royal Navy, the HMS Hood. As she was close to escaping into safe waters, she was attacked … Continue reading &rarr;"
 categories:
   - "Current"

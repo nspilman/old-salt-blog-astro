@@ -1,7 +1,7 @@
 ---
 title: "Draken Harald Hårfagre Ends Great Lakes Voyage at Green Bay"
 date: 2016-08-06T09:52:40
-slug: draken-harald-harfagre-ends-great-lakes-voyage-green-bay
+slug: "draken-harald-harfagre-ends-great-lakes-voyage-green-bay"
 excerpt: "After struggling to raise funds to pay for pilotage fees, the replica Viking longship Draken Harald Hårfagre has ended its voyage in the Great Lakes at Green Bay, WI. Plans to go on to Duluth, Minnesota have been abandoned. A … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

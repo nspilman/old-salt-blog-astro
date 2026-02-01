@@ -1,7 +1,7 @@
 ---
 title: "Schooner Ernestina Needs $1.4 Million in Repairs"
 date: 2012-02-18T18:00:03
-slug: schooner-ernestina-needs-about-1-4-million-to-become-shipshape
+slug: "schooner-ernestina-needs-about-1-4-million-to-become-shipshape"
 excerpt: "The schooner Ernestina, Ex. Effie M.Morrissey, was built in 1894 for the Gloucester fishing fleet. Under Captain Bob Bartlett she sailed to within 600 miles of the North Pole, and later brought immigrants to the U.S. under the power of … Continue reading &rarr;"
 categories:
   - "Current"

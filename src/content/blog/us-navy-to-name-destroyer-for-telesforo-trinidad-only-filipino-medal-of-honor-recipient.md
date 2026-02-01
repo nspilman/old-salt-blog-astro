@@ -1,7 +1,7 @@
 ---
 title: "US Navy to Name Destroyer For Telesforo Trinidad, Only Filipino Medal of Honor Recipient"
 date: 2022-05-20T15:36:17
-slug: us-navy-to-name-destroyer-for-telesforo-trinidad-only-filipino-medal-of-honor-recipient
+slug: "us-navy-to-name-destroyer-for-telesforo-trinidad-only-filipino-medal-of-honor-recipient"
 excerpt: "U.S. Secretary of the Navy Carlos Del Toro has announced that a future Arleigh Burke-class guided-missile destroyer will be named the USS Telesforo Trinidad in honor of a Filipino sailor who rescued two crew members when their ship caught fire … Continue reading &rarr;"
 categories:
   - "Current"

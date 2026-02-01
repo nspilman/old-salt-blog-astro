@@ -1,8 +1,8 @@
 ---
 title: "Vendee Globe:  Le Cam Rescues Escoffier After Boat Breaks in Half in Roaring Forties"
 date: 2020-12-01T10:56:15
-slug: vendee-globe-le-cam-rescues-escoffier-after-boat-breaks-in-half-in-roaring-forties
-excerpt: "High drama on the high seas. Kevin Escoffier was in third place in the Vendee Globe Race, sailing in the “Roaring Forties” about 840 miles south of Cape Town, when his boat PRB broke in half. He sent a brief … Continue reading &rarr;"
+slug: "vendee-globe-le-cam-rescues-escoffier-after-boat-breaks-in-half-in-roaring-forties"
+excerpt: "High drama on the high seas. Kevin Escoffier was in third place in the Vendee Globe Race, sailing in the \"Roaring Forties\" about 840 miles south of Cape Town, when his boat PRB broke in half. He sent a brief … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Yes We Cam!"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/12/escoffier.jpg"
 author: "Rick Spilman"
-description: "High drama on the high seas. Kevin Escoffier was in third place in the Vendee Globe Race, sailing in the “Roaring Forties” about 840 miles south of Cape Town, when his boat PRB broke in half. He sent a brief … Continue reading &rarr;"
+description: "High drama on the high seas. Kevin Escoffier was in third place in the Vendee Globe Race, sailing in the \"Roaring Forties\" about 840 miles south of Cape Town, when his boat PRB broke in half. He sent a brief … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/12/escoffier.jpg)

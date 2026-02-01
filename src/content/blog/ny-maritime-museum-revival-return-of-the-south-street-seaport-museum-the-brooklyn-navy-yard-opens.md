@@ -1,7 +1,7 @@
 ---
 title: "NY Maritime Museum Revival – Return Of The South Street Seaport Museum & the Brooklyn Navy Yard Museum Opens"
 date: 2011-11-08T07:19:36
-slug: ny-maritime-museum-revival-return-of-the-south-street-seaport-museum-the-brooklyn-navy-yard-opens
+slug: "ny-maritime-museum-revival-return-of-the-south-street-seaport-museum-the-brooklyn-navy-yard-opens"
 excerpt: "The two events are unrelated, but they are both highly welcome. The South Street Seaport Museum is on its way toward reopening, while a new museum celebrating over 200 years of shipbuilding and maritime history at the Brooklyn Navy Yard is openings its doors on … Continue reading &rarr;"
 categories:
   - "Current"

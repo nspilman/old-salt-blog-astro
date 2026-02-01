@@ -1,7 +1,7 @@
 ---
 title: "US Coast Guard Barque Eagle Open to the Public in Brooklyn this Weekend"
 date: 2011-08-03T17:10:35
-slug: us-coast-guard-barque-eagle-open-to-the-public-in-brooklyn-this-weekend
+slug: "us-coast-guard-barque-eagle-open-to-the-public-in-brooklyn-this-weekend"
 excerpt: "We just heard from the good folks at PortSide NewYork that the US Coast Guard barque Eagle will be open to the public for the first time ever in Brooklyn, beginning Friday afternoon and continuing Saturday and Sunday at Pier 7 at … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Minesweeper USS Guardian Runs Aground on Reef in Philippines’ Tubbataha National Marine Park"
 date: 2013-01-17T09:51:30
-slug: minesweeper-uss-guardian-runs-aground-on-reef-in-philippines-tubbataha-national-marine-park
+slug: "minesweeper-uss-guardian-runs-aground-on-reef-in-philippines-tubbataha-national-marine-park"
 excerpt: "The minesweeper USS Guardian ran aground early this morning on a reef in the Philippines’ Tubbataha National Marine Park. The park is a World Heritage Site in the Sulu Sea, 640 kilometers (400 miles) southeast of Manila.  USS Guardian is an … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Once Upon a Blonde Island?"
 date: 2011-02-05T14:35:04
-slug: once-upon-a-blonde-island
+slug: "once-upon-a-blonde-island"
 excerpt: "Somehow this sounds like a really bad idea.  I just hope everyone brings sun screen.  Back in October, the BBC ran an article about a Lithuanian company’s plans for a Maldive island resort  run entirely by blondes.  The proposed development was reported on again this  week … Continue reading &rarr;"
 categories:
   - "Current"

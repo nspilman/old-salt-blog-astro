@@ -1,7 +1,7 @@
 ---
 title: "SpaceX Launch Scrubbed Due to Cruise Ship in Exclusion Zone"
 date: 2022-02-01T18:10:17
-slug: spacex-launch-scrubbed-due-to-cruise-ship-in-exclusion-zone
+slug: "spacex-launch-scrubbed-due-to-cruise-ship-in-exclusion-zone"
 excerpt: "On Sunday, 30 seconds before the SpaceX Falcon 9 rocket was due to take off from Florida, the launch was scrubbed when a cruise ship sailed into the launch hazard area. Royal Caribbean’s Harmony of the Seas ventured into the … Continue reading &rarr;"
 categories:
   - "Current"

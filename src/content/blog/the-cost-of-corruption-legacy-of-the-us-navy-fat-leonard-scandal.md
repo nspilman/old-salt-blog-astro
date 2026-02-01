@@ -1,8 +1,8 @@
 ---
 title: "The Cost of Corruption — Legacy of the US Navy Fat Leonard Scandal"
 date: 2024-11-08T21:47:53
-slug: the-cost-of-corruption-legacy-of-the-us-navy-fat-leonard-scandal
-excerpt: "The decades-long “Fat Leonard” bribery and corruption scandal may finally have come to an end.  This week, Malaysian ship-supply contractor, Leonard Glenn Francis, 60, known as “Fat Leonard” was sentenced to 15 years in prison for bribing US Navy officials … Continue reading &rarr;"
+slug: "the-cost-of-corruption-legacy-of-the-us-navy-fat-leonard-scandal"
+excerpt: "The decades-long \"Fat Leonard\" bribery and corruption scandal may finally have come to an end.  This week, Malaysian ship-supply contractor, Leonard Glenn Francis, 60, known as \"Fat Leonard\" was sentenced to 15 years in prison for bribing US Navy officials … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "US Navy"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg"
 author: "Rick Spilman"
-description: "The decades-long “Fat Leonard” bribery and corruption scandal may finally have come to an end.  This week, Malaysian ship-supply contractor, Leonard Glenn Francis, 60, known as “Fat Leonard” was sentenced to 15 years in prison for bribing US Navy officials … Continue reading &rarr;"
+description: "The decades-long \"Fat Leonard\" bribery and corruption scandal may finally have come to an end.  This week, Malaysian ship-supply contractor, Leonard Glenn Francis, 60, known as \"Fat Leonard\" was sentenced to 15 years in prison for bribing US Navy officials … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Celebrating New Jersey’s Tall Ship A.J. Meerwald’s 90th Birthday!"
 date: 2018-05-25T15:51:30
-slug: celebrating-new-jerseys-tall-ship-a-j-meerwalds-90th-birthday
+slug: "celebrating-new-jerseys-tall-ship-a-j-meerwalds-90th-birthday"
 excerpt: "We recently posted about Portside NewYork’s tanker Mary A. Whalen‘s 80th birthday. We also posted about the ex-USCG lighthouse tender Lilac‘s 90th birthday, which is tomorrow. (Stop by for cake.) And coming up next weekend, June 2, is the oyster … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Remembering the General Slocum Disaster of June 15, 1904"
 date: 2020-06-15T15:20:37
-slug: remembering-the-general-slocum-disaster-of-june-15-1904
+slug: "remembering-the-general-slocum-disaster-of-june-15-1904"
 excerpt: "An updated repost from a few year’s back. One hundred and sixteen years ago today, the disaster on the General Slocum resulted in the largest loss of life in New York City prior to the attacks of 9/11/01. At around … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

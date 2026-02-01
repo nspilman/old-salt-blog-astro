@@ -1,7 +1,7 @@
 ---
 title: "Update: Leopard Seal Scat Memory Stick Owner Found"
 date: 2019-02-16T15:49:49
-slug: update-leopard-seal-scat-memory-stick-owner-found
+slug: "update-leopard-seal-scat-memory-stick-owner-found"
 excerpt: "The owner of a USB memory card, which was found in a pile of leopard seal scat, has been located.  Last week we posted about USB memory card that was buried in a pile of leopard seal scat near Oreti Beach … Continue reading &rarr;"
 categories:
   - "Current"

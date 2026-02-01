@@ -1,7 +1,7 @@
 ---
 title: "Escaping from Libya, Overloaded Boat Sinks, 250 Passengers Missing"
 date: 2011-04-06T14:41:24
-slug: escaping-from-libya-overloaded-boat-sinks-250-passengers-missing
+slug: "escaping-from-libya-overloaded-boat-sinks-250-passengers-missing"
 excerpt: "A boat overloaded with migrants sailing from Libya capsized south south of the island of Lampedusa , off Sicily, early today.   Fifteen are confirmed dead and between 130 and 250 are believed to be missing. Migrant boat sinks off Italy, up to 250 … Continue reading &rarr;"
 categories:
   - "Current"

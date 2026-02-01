@@ -1,7 +1,7 @@
 ---
 title: "Dredging Portsmouth Harbor — Cannon, Anchors, Bombs and a Skull"
 date: 2017-08-03T08:27:05
-slug: dredging-portsmouth-harbor-cannon-anchors-bombs-skull
+slug: "dredging-portsmouth-harbor-cannon-anchors-bombs-skull"
 excerpt: "When dredging a harbor with as long and rich a history as UK’s Portsmouth, there is literally no telling what you may find.  The harbor is now being dredged to deepen and widen a four-mile channel to allow the the navy’s … Continue reading &rarr;"
 categories:
   - "Current"

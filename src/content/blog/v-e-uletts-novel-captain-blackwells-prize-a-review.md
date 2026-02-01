@@ -1,7 +1,7 @@
 ---
 title: "V.E. Ulett’s Captain Blackwell’s Prize – A Review"
 date: 2013-08-06T16:12:12
-slug: v-e-uletts-novel-captain-blackwells-prize-a-review
+slug: "v-e-uletts-novel-captain-blackwells-prize-a-review"
 excerpt: "V.E. Ulett’s novel, Captain Blackwell’s Prize begins in battle. As the British board a larger Spanish ship, they discover that the boy wielding a sword next to the Spanish captain is indeed a woman. The novel develops into an unexpected … Continue reading &rarr;"
 categories:
   - "Newbooks"

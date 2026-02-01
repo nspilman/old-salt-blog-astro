@@ -1,7 +1,7 @@
 ---
 title: "Kayaking Through the Engine Room of MV E Evangelia"
 date: 2018-07-02T09:15:27
-slug: kayaking-through-the-engine-room-of-mv-e-evangelia
+slug: "kayaking-through-the-engine-room-of-mv-e-evangelia"
 excerpt: "The MV Empire Strength, a 7,355 GRT refrigerated cargo ship, was built by Harland and Wolff in 1942.  In her long career, she had seven owners and four names. When she was purchased by a Greek owner in 1965, she was renamed, MV E Evangelia.  … Continue reading &rarr;"
 categories:
   - "Current"

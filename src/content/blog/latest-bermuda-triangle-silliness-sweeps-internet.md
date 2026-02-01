@@ -1,7 +1,7 @@
 ---
 title: "Methane Bubbles — Latest Bermuda Triangle Silliness Sweeps the Internet"
 date: 2016-03-27T17:36:39
-slug: latest-bermuda-triangle-silliness-sweeps-internet
+slug: "latest-bermuda-triangle-silliness-sweeps-internet"
 excerpt: "The Bermuda Triangle nonsense continues, as does the media’s fondness for dramatic headlines, whether or not there are any facts to support them.  The most recent silliness is about late ice age methane explosions. The UK’s Daily Mail headline reads: … Continue reading &rarr;"
 categories:
   - "Current"

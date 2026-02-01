@@ -1,7 +1,7 @@
 ---
 title: "Hidden Harbor Tour — Brooklyn Waterfront Past & Present"
 date: 2018-05-27T16:17:50
-slug: hidden-harbor-tour-brooklyn-waterfront-past-present-2
+slug: "hidden-harbor-tour-brooklyn-waterfront-past-present-2"
 excerpt: "On June 7th, The Working Harbor Committee (WHC) is sponsoring a Hidden Harbour Tour® — Brooklyn Waterfront Past & Present — featuring guest speakers Capt. Maggie Flanagan, WHC & Waterfront Alliance, and Bill Miller, renowned maritime historian & author, www.billmilleratsea.com. … Continue reading &rarr;"
 categories:
   - "City of Ships"

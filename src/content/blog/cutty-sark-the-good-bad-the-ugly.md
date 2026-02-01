@@ -1,8 +1,8 @@
 ---
 title: "Cutty Sark – the Good, Bad & the Ugly"
 date: 2012-10-03T14:30:23
-slug: cutty-sark-the-good-bad-the-ugly
-excerpt: "After a multi-year, £50 million restoration, interrupted by a near catastrophic fire, the composite clipper ship, Cutty Sark, reopened last April.  Not everyone was impressed. Andrew Gilligan, the Telegraph‘s London Editor, called the restoration “a clucking, Grade A, … turkey.”  In September, the British architectural trade journal, Building Design, awarded … Continue reading &rarr;"
+slug: "cutty-sark-the-good-bad-the-ugly"
+excerpt: "After a multi-year, £50 million restoration, interrupted by a near catastrophic fire, the composite clipper ship, Cutty Sark, reopened last April.  Not everyone was impressed. Andrew Gilligan, the Telegraph‘s London Editor, called the restoration \"a clucking, Grade A, … turkey.\"  In September, the British architectural trade journal, Building Design, awarded … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Greenwich"
   - "restoration"
 author: "Rick Spilman"
-description: "After a multi-year, £50 million restoration, interrupted by a near catastrophic fire, the composite clipper ship, Cutty Sark, reopened last April.  Not everyone was impressed. Andrew Gilligan, the Telegraph‘s London Editor, called the restoration “a clucking, Grade A, … turkey.”  In September, the British architectural trade journal, Building Design, awarded … Continue reading &rarr;"
+description: "After a multi-year, £50 million restoration, interrupted by a near catastrophic fire, the composite clipper ship, Cutty Sark, reopened last April.  Not everyone was impressed. Andrew Gilligan, the Telegraph‘s London Editor, called the restoration \"a clucking, Grade A, … turkey.\"  In September, the British architectural trade journal, Building Design, awarded … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2012/10/csbowgreenhouse-125x70.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2012/10/csbowgreenhouse.jpg)

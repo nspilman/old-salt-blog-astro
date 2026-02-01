@@ -1,7 +1,7 @@
 ---
 title: "Update: Clotilda, the Last Slave Ship Found"
 date: 2019-05-26T09:45:31
-slug: update-clotilda-the-last-slave-ship-found
+slug: "update-clotilda-the-last-slave-ship-found"
 excerpt: "In January 2018, the news broke that a journalist believed that he had found the burned wreckage of the schooner Clotilda, the last vessel to carry Africans into bondage in the United States. By March, however, further research and excavation … Continue reading &rarr;"
 categories:
   - "Current"

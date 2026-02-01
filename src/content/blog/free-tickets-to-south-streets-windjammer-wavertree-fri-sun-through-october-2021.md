@@ -1,7 +1,7 @@
 ---
 title: "Free Tickets to South Street’s Windjammer Wavertree, Fri-Sun Through October 2021"
 date: 2021-06-03T15:45:18
-slug: free-tickets-to-south-streets-windjammer-wavertree-fri-sun-through-october-2021
+slug: "free-tickets-to-south-streets-windjammer-wavertree-fri-sun-through-october-2021"
 excerpt: "The South Street Seaport Museum is offering FREE tickets to tour the 1885-built windjammer Wavertree on Fridays, Saturdays, and Sundays through October 2021, with timed entry, from 11am-5pm at Pier 16 on Manhattan’s East River, (Fulton and South Streets).  From … Continue reading &rarr;"
 categories:
   - "Current"

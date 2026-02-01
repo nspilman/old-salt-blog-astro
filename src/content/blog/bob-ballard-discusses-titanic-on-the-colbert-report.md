@@ -1,7 +1,7 @@
 ---
 title: "Bob Ballard Discusses Titanic on the Colbert Report"
 date: 2012-04-05T10:11:59
-slug: bob-ballard-discusses-titanic-on-the-colbert-report
+slug: "bob-ballard-discusses-titanic-on-the-colbert-report"
 excerpt: "Robert Ballard, the oceanographer who lead the expedition which discovered the wreck of the Titanic in 1985, was interviewed by Stephen Colbert on the Colbert Report last night. He discusses how the search for the Titanic was a cover for … Continue reading &rarr;"
 categories:
   - "Current"

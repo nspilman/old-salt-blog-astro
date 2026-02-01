@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday to the Old Salt Blog & Thank You for Not Talking Like A Pirate"
 date: 2013-09-19T11:09:27
-slug: happy-birthday-old-salt-blog-thank-talking-like-pirate
+slug: "happy-birthday-old-salt-blog-thank-talking-like-pirate"
 excerpt: "I would like to thank all the readers and supporters of the Old Salt Blog. Today is the fifth anniversary of the very first post, five years ago. So happy birthday to us all. Since September 19th, 2008, the blog … Continue reading &rarr;"
 categories:
   - "Current"

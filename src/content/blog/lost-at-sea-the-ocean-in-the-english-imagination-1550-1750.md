@@ -1,7 +1,7 @@
 ---
 title: "Lost at Sea – The Ocean in the English Imagination, 1550-1750"
 date: 2010-08-21T08:12:14
-slug: lost-at-sea-the-ocean-in-the-english-imagination-1550-1750
+slug: "lost-at-sea-the-ocean-in-the-english-imagination-1550-1750"
 excerpt: "The Folger Shakespeare Library in Washington, DC has been hosting an intriguing exhibit:  Lost at Sea – The Ocean in the English Imagination, 1550-1750.   Unfortunately the exhibit itself is almost over, running only through September 4th.  Nevertheless, for those of us who cannot make it … Continue reading &rarr;"
 categories:
   - "Current"

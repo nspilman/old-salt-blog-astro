@@ -1,7 +1,7 @@
 ---
 title: "Norway to Build World’s First Ship Tunnel"
 date: 2017-04-09T15:52:03
-slug: norway-build-worlds-first-ship-tunnel
+slug: "norway-build-worlds-first-ship-tunnel"
 excerpt: "Norway’s Stad Peninsula divides the Norwegian Sea to the north and the North Sea to the south. The seas, winds, currents and weather are extremely dangerous for any ship attempting to round the peninsula. Now, Norway intends to bore through … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Unfortunate Economics of Tall Ships"
 date: 2012-05-27T08:36:04
-slug: the-unfortunate-economics-of-tall-ships
+slug: "the-unfortunate-economics-of-tall-ships"
 excerpt: "The old cliche that a boat is a hole in the water into which you pour money applies far too well to tall ships. They are expensive to build or restore and chronically costly to maintain and keep running.  It should come … Continue reading &rarr;"
 categories:
   - "Current"

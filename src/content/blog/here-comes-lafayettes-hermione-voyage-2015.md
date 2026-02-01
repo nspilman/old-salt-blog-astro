@@ -1,7 +1,7 @@
 ---
 title: "Here Comes Lafayette’s Hermione — Voyage 2015"
 date: 2014-11-16T23:03:23
-slug: here-comes-lafayettes-hermione-voyage-2015
+slug: "here-comes-lafayettes-hermione-voyage-2015"
 excerpt: "Twenty years ago, a small group of enthusiasts conceived a plan to build a replica of the French frigate, l’Hermione, the ship which carried the Marquis de Lafayette, to America in 1780 with the news of French support for the American revolution. … Continue reading &rarr;"
 categories:
   - "Current"

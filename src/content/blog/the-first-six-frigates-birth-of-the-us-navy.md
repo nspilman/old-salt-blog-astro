@@ -1,7 +1,7 @@
 ---
 title: "The Six Frigates – Birth of the US Navy"
 date: 2011-03-27T15:52:52
-slug: the-first-six-frigates-birth-of-the-us-navy
+slug: "the-first-six-frigates-birth-of-the-us-navy"
 excerpt: "Two hundred and seventeen years ago today, March 27, 1794,  the United States Congress authorized the construction of six frigates, the first ships of  the United States Navy, the  USS Constitution, the USS Chesapeake , the USS Constellation , the USS President, the USS … Continue reading &rarr;"
 categories:
   - "History"

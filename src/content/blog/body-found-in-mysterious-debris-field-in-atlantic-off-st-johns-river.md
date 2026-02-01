@@ -1,7 +1,7 @@
 ---
 title: "Body Found in Mysterious Debris Field in Atlantic Off St John’s River"
 date: 2013-03-04T16:04:09
-slug: body-found-in-mysterious-debris-field-in-atlantic-off-st-johns-river
+slug: "body-found-in-mysterious-debris-field-in-atlantic-off-st-johns-river"
 excerpt: "The US Coast Guard has identified Guillermo Gonzales Losada, 49, as the man found dead in a debris field of parts of a boat, ten life jackets, flares and an oily sheen in the Atlantic Ocean on Sunday, off the coast of Florida, about … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

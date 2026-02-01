@@ -1,7 +1,7 @@
 ---
-title: "Wreck of HMS Investigator Yields “Treasure Trove” of Artifacts as Search for HMS Erebus and HMS Terror Continues"
+title: "Wreck of HMS Investigator Yields \"Treasure Trove\" of Artifacts as Search for HMS Erebus and HMS Terror Continues"
 date: 2011-08-19T22:33:34
-slug: wreck-of-hms-investigator-yields-treasure-trove-of-artifacts-as-search-for-hms-erebus-and-hms-terror-continues
+slug: "wreck-of-hms-investigator-yields-treasure-trove-of-artifacts-as-search-for-hms-erebus-and-hms-terror-continues"
 excerpt: "Last July, a Parks Canada expedition discovered the wreck of HMS Investigator, a ship which sank in 1853 after becoming trapped in the ice while searching for Sir John Franklin’s lost expedition in the Canadian Arctic.  Exploration of the wreck … Continue reading &rarr;"
 categories:
   - "Current"

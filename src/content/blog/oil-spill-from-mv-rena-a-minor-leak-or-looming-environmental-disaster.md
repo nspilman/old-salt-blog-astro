@@ -1,8 +1,8 @@
 ---
 title: "Oil Spill from MV Rena – A Small Leak or Looming Environmental Disaster ?"
 date: 2011-10-06T16:45:34
-slug: oil-spill-from-mv-rena-a-minor-leak-or-looming-environmental-disaster
-excerpt: "Depending on what one reads, the oil spill associated with the grounding of the MV Rena on Astrolabe Reef off Tauranga, New Zealand is either a “small leak” or a “looming environmental disaster.”  Conceivably, depending on the integrity of the ship’s hull, both … Continue reading &rarr;"
+slug: "oil-spill-from-mv-rena-a-minor-leak-or-looming-environmental-disaster"
+excerpt: "Depending on what one reads, the oil spill associated with the grounding of the MV Rena on Astrolabe Reef off Tauranga, New Zealand is either a \"small leak\" or a \"looming environmental disaster.\"  Conceivably, depending on the integrity of the ship’s hull, both … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Oil spill"
   - "Tauranga"
 author: "Rick Spilman"
-description: "Depending on what one reads, the oil spill associated with the grounding of the MV Rena on Astrolabe Reef off Tauranga, New Zealand is either a “small leak” or a “looming environmental disaster.”  Conceivably, depending on the integrity of the ship’s hull, both … Continue reading &rarr;"
+description: "Depending on what one reads, the oil spill associated with the grounding of the MV Rena on Astrolabe Reef off Tauranga, New Zealand is either a \"small leak\" or a \"looming environmental disaster.\"  Conceivably, depending on the integrity of the ship’s hull, both … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/renaspill.jpg)

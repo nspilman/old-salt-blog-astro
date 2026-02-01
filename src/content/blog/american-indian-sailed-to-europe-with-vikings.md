@@ -1,7 +1,7 @@
 ---
 title: "American Indian Sailed to Europe With Vikings?"
 date: 2010-12-01T09:39:21
-slug: american-indian-sailed-to-europe-with-vikings
+slug: "american-indian-sailed-to-europe-with-vikings"
 excerpt: "Interesting new evidence that the Vikings and the North American natives, who the Vikings called skrælings may have gotten along a bit better than suggested by the sagas.   DNA testing of 80 living Icelanders shows indicates a genetic variation similar … Continue reading &rarr;"
 categories:
   - "History"

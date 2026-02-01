@@ -1,7 +1,7 @@
 ---
 title: "British Minehunters Collide — HMS Chiddingfold Backs Into HMS Bangor"
 date: 2024-01-21T19:17:37
-slug: british-minehunters-collide-hms-chiddingfold-backs-into-hms-bangor
+slug: "british-minehunters-collide-hms-chiddingfold-backs-into-hms-bangor"
 excerpt: "UK Royal Navy minehunter HMS Chiddingfold collided with HMS Bangor while maneuvering in Bahrain harbor on January 18th. No one was reported to be injured but Bangor was seriously damaged, with a large hole ripped in its fiberglass hull. Both ships … Continue reading &rarr;"
 categories:
   - "Current"

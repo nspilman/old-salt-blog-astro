@@ -1,7 +1,7 @@
 ---
 title: "Home For Christmas — Old Style, A Poem by Cicely Fox Smith, Sung by Daniel Kelly"
 date: 2024-12-27T09:48:30
-slug: home-for-christmas-old-style-a-poem-by-cicely-fox-smith-sung-by-daniel-kelly-2
+slug: "home-for-christmas-old-style-a-poem-by-cicely-fox-smith-sung-by-daniel-kelly-2"
 excerpt: "Home for Christmas — Old Style, a poem by Cicely Fox Smith, performed by Daniel Kelly from his Ukulele Christmas Singalong 2021. Home for Christmas – Old Style – Ukulele Christmas Singalong … Continue reading &rarr;"
 categories:
   - "Current"

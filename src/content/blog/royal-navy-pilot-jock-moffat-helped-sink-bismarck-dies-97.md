@@ -1,7 +1,7 @@
 ---
 title: "Royal Navy Pilot Jock Moffat, Torpedo Crippled the Bismarck, Dies at 97"
 date: 2016-12-14T09:06:51
-slug: royal-navy-pilot-jock-moffat-helped-sink-bismarck-dies-97
+slug: "royal-navy-pilot-jock-moffat-helped-sink-bismarck-dies-97"
 excerpt: "On May 27, 1941, the German battleship Bismarck had just sunk the pride of the Royal Navy, HMS Hood. As she was close to escaping into safe waters, Bismarck was attacked by a swarm of obsolete Fairey Swordfish biplanes launched from the carrier HMS … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Chinese Boat Loaded with Illegal Cargo of Endangered Species Ran Aground on Protected Tubbataha Reef"
 date: 2013-04-16T08:52:28
-slug: chinese-boat-loaded-with-illegal-cargo-of-endangered-species-ran-aground-on-protected-tubbataha-reef
+slug: "chinese-boat-loaded-with-illegal-cargo-of-endangered-species-ran-aground-on-protected-tubbataha-reef"
 excerpt: "You can’t make this stuff up. Only a week after the last wreckage of the minesweeper USS Guardian was removed from the reef in the Philippines’  Tubbataha National Marine Park, a UNESCO-designated World Heritage Site, where it ran hard aground on January … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

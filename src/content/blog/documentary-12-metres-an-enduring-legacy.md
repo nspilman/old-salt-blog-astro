@@ -1,7 +1,7 @@
 ---
 title: "Documentary: 12 Metres — An Enduring Legacy"
 date: 2021-03-11T10:49:52
-slug: documentary-12-metres-an-enduring-legacy
+slug: "documentary-12-metres-an-enduring-legacy"
 excerpt: "The America’s Cup races in Aukland restart again tomorrow. The defender and challenger will be sailing AC75 class boats — keel-less, flying, foiling wonders of carbon fiber, packed with hydraulics, cutting-edge electronics, and powered by soft wing sails, capable of … Continue reading &rarr;"
 categories:
   - "Current"

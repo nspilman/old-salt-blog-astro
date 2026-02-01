@@ -1,7 +1,7 @@
 ---
 title: "The Elissa – A Galveston Treasure and Fine Indian Pale Ale"
 date: 2011-09-13T15:58:39
-slug: the-elissa-%e2%80%93-a-galveston-treasure-and-fine-indian-pale-ale
+slug: "the-elissa-%e2%80%93-a-galveston-treasure-and-fine-indian-pale-ale"
 excerpt: "The folks at the Pint Jockeys blog have suggested a great way to support the repairs to the 1877 Barque Elissa, which is believed to have been a victim of stray current electrolytic corrosion resulting from underwater  electrical cable damage after Hurricane Ike. … Continue reading &rarr;"
 categories:
   - "Current"

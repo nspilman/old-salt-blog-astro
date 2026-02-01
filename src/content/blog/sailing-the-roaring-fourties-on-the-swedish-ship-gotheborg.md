@@ -1,7 +1,7 @@
 ---
 title: "Sailing the Roaring Fourties on the Swedish Ship Götheborg"
 date: 2013-02-21T09:25:20
-slug: sailing-the-roaring-fourties-on-the-swedish-ship-gotheborg
+slug: "sailing-the-roaring-fourties-on-the-swedish-ship-gotheborg"
 excerpt: "A wonderful video of the Swedish ship Götheborg sailing in the Roaring Forties. The ship is a replica of the Swedish East Indiaman of the same name which sank in 1747. The ship is described as the world’s largest operational … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Fitzgerald Tragedy & the Fort Report –Worse Than We Thought"
 date: 2019-01-23T13:42:16
-slug: the-fitzgerald-tragedy-the-fort-report-worse-than-we-thought
+slug: "the-fitzgerald-tragedy-the-fort-report-worse-than-we-thought"
 excerpt: "There is a tragic irony in the collision of the guided-missile cruiser USS Fitzgerald, which resulted in the death of seven of its crew. The Fitzgerald is built around one of the most advanced anti-missile radar systems in the world and yet when it turned into … Continue reading &rarr;"
 categories:
   - "Current"

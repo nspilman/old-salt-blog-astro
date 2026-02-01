@@ -1,7 +1,7 @@
 ---
 title: "First Black Female Naval Academy Brigade Commander and First Navy Fighter Pilot"
 date: 2020-11-10T11:32:49
-slug: first-black-female-naval-academy-brigade-commander-and-first-navy-fighter-pilot
+slug: "first-black-female-naval-academy-brigade-commander-and-first-navy-fighter-pilot"
 excerpt: "Two recent firsts in the US Navy. Congratulations to Midshipman 1st Class Sydney Barber who has been awarded the position of brigade commander next semester at the US Naval Academy in Annapolis. Brigade commander is the highest leadership position within the … Continue reading &rarr;"
 categories:
   - "Current"

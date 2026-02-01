@@ -1,7 +1,7 @@
 ---
 title: "Archipelago New York —  a Modern Day Exploration,  Book Talk,  June 18th"
 date: 2018-06-12T20:18:07
-slug: archipelago-new-york-a-modern-day-exploration-book-talk-june-18th
+slug: "archipelago-new-york-a-modern-day-exploration-book-talk-june-18th"
 excerpt: "In 1614, Dutch sailor Adriaen Block explored the over 70 islands of the archipelago between the mouth of the Hudson and Fisher’s Island. Four hundred years later, photographer, videographer, and writer Thomas Halaczinsky, set off on his 30-foot sailboat, on a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

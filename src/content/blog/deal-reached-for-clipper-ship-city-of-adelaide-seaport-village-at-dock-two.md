@@ -1,7 +1,7 @@
 ---
 title: "Deal Reached for Clipper Ship City of Adelaide & Seaport Village at Dock Two"
 date: 2019-09-29T18:14:04
-slug: deal-reached-for-clipper-ship-city-of-adelaide-seaport-village-at-dock-two
+slug: "deal-reached-for-clipper-ship-city-of-adelaide-seaport-village-at-dock-two"
 excerpt: "The world’s oldest clipper ship, City of Adelaide, may be one step closer to having a permanent home. Last March we posted about how the clipper ship City of Adelaide was being kicked off Dock 1 in its namesake port … Continue reading &rarr;"
 categories:
   - "Current"

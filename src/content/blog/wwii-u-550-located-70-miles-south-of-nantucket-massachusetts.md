@@ -1,7 +1,7 @@
 ---
 title: "WWII U-550 Located 70 Miles South of Nantucket, Massachusetts"
 date: 2012-07-29T09:49:10
-slug: wwii-u-550-located-70-miles-south-of-nantucket-massachusetts
+slug: "wwii-u-550-located-70-miles-south-of-nantucket-massachusetts"
 excerpt: "Yesterday we posted about the possible discovery of a German WWII  submarine sunk in the Churchill River in Labrador, Canada. Now we have learned that the German World War II submarine U-550 has been located in the Atlantic, 70 miles … Continue reading &rarr;"
 categories:
   - "Current"

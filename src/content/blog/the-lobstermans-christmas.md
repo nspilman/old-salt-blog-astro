@@ -1,7 +1,7 @@
 ---
 title: "The Lobsterman’s Christmas"
 date: 2011-12-25T08:20:34
-slug: the-lobstermans-christmas
+slug: "the-lobstermans-christmas"
 excerpt: "Christmas Morning in the lobster capital of the world. The wonderful photography of Doug Mills of Shoot Maine Studios. THE LOBSTERMAN’S CHRISTMAS … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

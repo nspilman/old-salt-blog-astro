@@ -1,7 +1,7 @@
 ---
 title: "The Moon’s Wobble Likely to Worsen Coastal Flooding"
 date: 2021-07-18T16:15:33
-slug: the-moons-wobble-likely-to-worsen-coastal-flooding
+slug: "the-moons-wobble-likely-to-worsen-coastal-flooding"
 excerpt: "The moon is wobbling. This is nothing new. First observed in 1728, the wobble is a cyclical shifting of the moon’s orbit around the earth that takes 18.6 years to complete. In half of this lunar cycle, Earth’s regular daily … Continue reading &rarr;"
 categories:
   - "Current"

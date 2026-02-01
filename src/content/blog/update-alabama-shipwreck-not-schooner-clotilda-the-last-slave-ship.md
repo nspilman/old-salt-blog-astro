@@ -1,7 +1,7 @@
 ---
 title: "Update: Alabama Shipwreck Not Schooner Clotilda, the Last Slave Ship"
 date: 2018-03-17T16:30:23
-slug: update-alabama-shipwreck-not-schooner-clotilda-the-last-slave-ship
+slug: "update-alabama-shipwreck-not-schooner-clotilda-the-last-slave-ship"
 excerpt: "At the end of January, we posted about a shipwreck that was suspected to be the remains of the schooner Clotilda, the last vessel to carry slaves to the United States. The wreck was roughly in the right place on … Continue reading &rarr;"
 categories:
   - "Current"

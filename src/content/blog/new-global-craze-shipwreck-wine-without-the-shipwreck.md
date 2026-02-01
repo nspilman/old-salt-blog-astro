@@ -1,8 +1,8 @@
 ---
 title: "New Global Craze — Shipwreck Wine Without the Shipwreck"
 date: 2021-05-14T17:29:39
-slug: new-global-craze-shipwreck-wine-without-the-shipwreck
-excerpt: "A new craze is spreading across the world of wine. Call it “shipwreck wine” without the shipwreck. Off the shores of California, Croatia, Spain, Britain, France, Argentina, Italy, and China; vintners are aging wines underwater in specially constructed ocean wine … Continue reading &rarr;"
+slug: "new-global-craze-shipwreck-wine-without-the-shipwreck"
+excerpt: "A new craze is spreading across the world of wine. Call it \"shipwreck wine\" without the shipwreck. Off the shores of California, Croatia, Spain, Britain, France, Argentina, Italy, and China; vintners are aging wines underwater in specially constructed ocean wine … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "underwater wine cellar"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/Ocean-Fathomswine-1.jpg"
 author: "Rick Spilman"
-description: "A new craze is spreading across the world of wine. Call it “shipwreck wine” without the shipwreck. Off the shores of California, Croatia, Spain, Britain, France, Argentina, Italy, and China; vintners are aging wines underwater in specially constructed ocean wine … Continue reading &rarr;"
+description: "A new craze is spreading across the world of wine. Call it \"shipwreck wine\" without the shipwreck. Off the shores of California, Croatia, Spain, Britain, France, Argentina, Italy, and China; vintners are aging wines underwater in specially constructed ocean wine … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/Ocean-Fathomswine-127x200.jpg)

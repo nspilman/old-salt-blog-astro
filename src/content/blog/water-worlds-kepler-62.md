@@ -1,7 +1,7 @@
 ---
 title: "The Water Worlds of Kepler-62"
 date: 2016-12-10T09:54:25
-slug: water-worlds-kepler-62
+slug: "water-worlds-kepler-62"
 excerpt: "I have always thought that our planet was misnamed. Earth is a synonym for dirt, even though 72% is covered by water. Now, it appears that scientists may have discovered two distant water worlds even wetter than our own misnamed … Continue reading &rarr;"
 categories:
   - "Current"

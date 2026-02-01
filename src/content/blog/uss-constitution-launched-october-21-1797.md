@@ -1,7 +1,7 @@
 ---
 title: "USS Constitution Launched October 21, 1797"
 date: 2013-10-21T14:13:16
-slug: uss-constitution-launched-october-21-1797
+slug: "uss-constitution-launched-october-21-1797"
 excerpt: "October 21st is a busy day in nautical history. In addition to being the anniversary of the Battle of Trafagar of 1805, it was also the day that the the USS Constitution was launched in 1797.  A three-masted US Navy heavy frigate, … Continue reading &rarr;"
 categories:
   - "History"

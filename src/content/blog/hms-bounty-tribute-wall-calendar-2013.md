@@ -1,7 +1,7 @@
 ---
 title: "HMS Bounty Tribute Wall Calendar 2013"
 date: 2012-12-01T08:44:48
-slug: hms-bounty-tribute-wall-calendar-2013
+slug: "hms-bounty-tribute-wall-calendar-2013"
 excerpt: "Amy Mullen has a done a beautiful job producing a 2013 wall calendar in tribute to HMS Bounty.   The photos in the  17″x11″ wall calendar were taken by current or former crew of the ship on her adventures and have the location of the … Continue reading &rarr;"
 categories:
   - "Current"

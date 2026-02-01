@@ -1,8 +1,8 @@
 ---
 title: "Coast Guard Honors Charleston Harbor Pilot Christopher Thornton For Safely Steering Runaway Container Ship"
 date: 2024-07-08T18:06:42
-slug: coast-guard-honors-charleston-harbor-pilot-christopher-thornton-for-safely-steering-runaway-container-ship
-excerpt: "Early last month, we posted about the departure on the morning of June 5th, of the container ship MSC Michigan VII from the North Charleston Container Terminal in Charleston, South Carolina. Its engine was set to “dead slow ahead” as … Continue reading &rarr;"
+slug: "coast-guard-honors-charleston-harbor-pilot-christopher-thornton-for-safely-steering-runaway-container-ship"
+excerpt: "Early last month, we posted about the departure on the morning of June 5th, of the container ship MSC Michigan VII from the North Charleston Container Terminal in Charleston, South Carolina. Its engine was set to \"dead slow ahead\" as … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -17,7 +17,7 @@ tags:
   - "South Carolina"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/07/pilothonored.jpg"
 author: "Rick Spilman"
-description: "Early last month, we posted about the departure on the morning of June 5th, of the container ship MSC Michigan VII from the North Charleston Container Terminal in Charleston, South Carolina. Its engine was set to “dead slow ahead” as … Continue reading &rarr;"
+description: "Early last month, we posted about the departure on the morning of June 5th, of the container ship MSC Michigan VII from the North Charleston Container Terminal in Charleston, South Carolina. Its engine was set to \"dead slow ahead\" as … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/07/pilothonored.jpg)

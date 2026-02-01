@@ -1,7 +1,7 @@
 ---
 title: "Moving the Battleship USS New Jersey to Drydock in the Philadelphia Navy Yard"
 date: 2024-03-24T14:59:44
-slug: moving-the-battleship-uss-new-jersey-to-drydock-in-the-philadelphia-navy-yard
+slug: "moving-the-battleship-uss-new-jersey-to-drydock-in-the-philadelphia-navy-yard"
 excerpt: "At the beginning of the month, we posted a drone video of the battleship USS Texas being refloated following repairs and refurbishment on the drydock at the Gulf Copper Shipyard in Galveston. Here is another drone video of a historic … Continue reading &rarr;"
 categories:
   - "Current"

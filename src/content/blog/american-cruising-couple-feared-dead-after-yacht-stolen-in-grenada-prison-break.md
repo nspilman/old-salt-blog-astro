@@ -1,7 +1,7 @@
 ---
 title: "American Cruising Couple Feared Dead After Yacht Stolen in Grenada Prison Break"
 date: 2024-02-27T20:35:14
-slug: american-cruising-couple-feared-dead-after-yacht-stolen-in-grenada-prison-break
+slug: "american-cruising-couple-feared-dead-after-yacht-stolen-in-grenada-prison-break"
 excerpt: "Two liveaboard cruisers, Ralph Hendry, 66, and Kathy Brandel, 71, are missing and feared dead after their 48′ catamaran Simplicity was apparently stolen during a prison escape from Grenada by three men on February 19th.  On February 21, their boat was … Continue reading &rarr;"
 categories:
   - "Current"

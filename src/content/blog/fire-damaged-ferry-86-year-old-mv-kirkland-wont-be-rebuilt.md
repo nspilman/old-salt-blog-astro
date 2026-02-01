@@ -1,7 +1,7 @@
 ---
 title: "Fire Damaged Ferry, 86-year-old M/V Kirkland, Won’t be Rebuilt"
 date: 2010-09-21T11:12:06
-slug: fire-damaged-ferry-86-year-old-mv-kirkland-wont-be-rebuilt
+slug: "fire-damaged-ferry-86-year-old-mv-kirkland-wont-be-rebuilt"
 excerpt: "Argosy Cruises has announced that the 86 year old ferry, MV Kirkland, which was severely damaged by fire at the end of last month, will not be rebuilt.  The 1924 wooden-hulled car ferry served passengers all over the Pacific Northwest. The … Continue reading &rarr;"
 categories:
   - "Current"

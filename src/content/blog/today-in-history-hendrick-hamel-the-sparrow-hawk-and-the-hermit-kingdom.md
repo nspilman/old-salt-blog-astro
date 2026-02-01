@@ -1,7 +1,7 @@
 ---
 title: "Today in History – Hendrick Hamel, the Sparrow Hawk and the Hermit Kingdom"
 date: 2011-08-15T12:17:23
-slug: today-in-history-hendrick-hamel-the-sparrow-hawk-and-the-hermit-kingdom
+slug: "today-in-history-hendrick-hamel-the-sparrow-hawk-and-the-hermit-kingdom"
 excerpt: "On August 15th, 1653, the Dutch East India Company ship, Sperwer (Sparrow Hawk), was shipwrecked on Jeju Island off the southern coast of Korea.  Thirty six of the sixty four crew survived. One of the survivors was the ship’s book keeper, Hendrick … Continue reading &rarr;"
 categories:
   - "History"

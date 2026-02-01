@@ -1,7 +1,7 @@
 ---
 title: "Update: Aftermath of the Sinking of the Princess Ashika"
 date: 2009-09-25T12:56:55
-slug: update-aftermath-of-the-sinking-of-the-princess-ashika
+slug: "update-aftermath-of-the-sinking-of-the-princess-ashika"
 excerpt: "There will be a preliminary hearing into the sinking of the ferry, Princess Ashika, next Thursday in Nuku’alofa by the Royal Commission set up by the Government to investigate the tragedy. A letter from Port Authority Port Authority general manager, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

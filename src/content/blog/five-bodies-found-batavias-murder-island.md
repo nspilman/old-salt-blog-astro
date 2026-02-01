@@ -1,7 +1,7 @@
 ---
-title: "Five More Bodies Found on Batavia’s “Murder Island”"
+title: "Five More Bodies Found on Batavia’s \"Murder Island\""
 date: 2017-12-26T19:35:39
-slug: five-bodies-found-batavias-murder-island
+slug: "five-bodies-found-batavias-murder-island"
 excerpt: "The story of the Dutch East Indiaman Batavia is as grim and tragic as it is fascinating. The Batavia was wrecked on her maiden voyage in 1629 when she ran aground on Beacon Island off Western Australia. Of the original 341 passengers and … Continue reading &rarr;"
 categories:
   - "Current"

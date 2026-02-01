@@ -1,7 +1,7 @@
 ---
 title: "Hull trawler, Arctic Corsair, joins SS Great Britain and Royal Yacht on Historic Ships Register"
 date: 2010-03-07T08:30:09
-slug: hull-trawler-arctic-corsair-joins-ss-great-britain-and-royal-yacht-on-historic-ships-register
+slug: "hull-trawler-arctic-corsair-joins-ss-great-britain-and-royal-yacht-on-historic-ships-register"
 excerpt: "Hull trawler joins SS Great Britain and Royal Yacht on Historic Ships Register An historic trawler berthed in Hull’s Museum Quarter has joined the ss Great Britain, HMS Victory and the Royal Yacht Britannia on the list of the nation’s … Continue reading &rarr;"
 categories:
   - "Current"

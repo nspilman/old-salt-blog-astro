@@ -1,7 +1,7 @@
 ---
 title: "Friday the 13th Repost, the Unlikely Story of HMS Friday"
 date: 2021-08-13T16:16:14
-slug: friday-the-13th-repost-the-unlikely-story-of-hms-friday
+slug: "friday-the-13th-repost-the-unlikely-story-of-hms-friday"
 excerpt: "A repost from several years ago. Sailors have long considered Friday to be an unlucky day and Friday the 13th, particularly so. On this Friday the 13th, it seems appropriate to remember the unlikely tale of HMS Friday. Sometime in the … Continue reading &rarr;"
 categories:
   - "History"

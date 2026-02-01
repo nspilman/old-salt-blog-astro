@@ -1,7 +1,7 @@
 ---
 title: "The War in the Black Sea — Ukrainians Hit Russian Patrol Boats, Landing Craft, and Possibly a Frigate"
 date: 2022-05-07T16:14:11
-slug: the-war-in-the-black-sea-ukrainians-hit-russian-patrol-boats-landing-craft-and-possibly-a-frigate
+slug: "the-war-in-the-black-sea-ukrainians-hit-russian-patrol-boats-landing-craft-and-possibly-a-frigate"
 excerpt: "As brutal combat continues in the eastern part of Ukraine, the war in the Black Sea continues to heat up. Three weeks ago, Ukrainian Neptune anti-ship cruise missiles hit and subsequently sank the guided-missile cruiser and the flagship of the … Continue reading &rarr;"
 categories:
   - "Current"

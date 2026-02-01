@@ -1,8 +1,8 @@
 ---
 title: "Ocean garbage patches are not growing, so where is all that plastic going?"
 date: 2010-09-28T11:44:29
-slug: ocean-garbage-patches-are-not-growing-so-where-is-all-that-plastic-going
-excerpt: "We have previously posted about the plastic “garbage patches” in both the Atlantic and Pacific Oceans – great current vortexes where floating plastic trash has accumulated.   As reported in Scientific American scientists studying the garbage patches have noticed that despite … Continue reading &rarr;"
+slug: "ocean-garbage-patches-are-not-growing-so-where-is-all-that-plastic-going"
+excerpt: "We have previously posted about the plastic \"garbage patches\" in both the Atlantic and Pacific Oceans – great current vortexes where floating plastic trash has accumulated.   As reported in Scientific American scientists studying the garbage patches have noticed that despite … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "garbage patch"
   - "plastic"
 author: "Rick Spilman"
-description: "We have previously posted about the plastic “garbage patches” in both the Atlantic and Pacific Oceans – great current vortexes where floating plastic trash has accumulated.   As reported in Scientific American scientists studying the garbage patches have noticed that despite … Continue reading &rarr;"
+description: "We have previously posted about the plastic \"garbage patches\" in both the Atlantic and Pacific Oceans – great current vortexes where floating plastic trash has accumulated.   As reported in Scientific American scientists studying the garbage patches have noticed that despite … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/garbage-patch1.jpg)We have previously [posted about the plastic “garbage patches”](http://www.oldsaltblog.com/index.php?s=garbage+patch) in both the Atlantic and Pacific Oceans – great current vortexes where floating plastic trash has accumulated.   As reported in Scientific American scientists studying the garbage patches have noticed that despite that their size has stayed relatively constant despite an steady influx of plastic into the oceans, raising the question “where is all the plastic going?”   It may be breaking up into smaller pieces and/or sinking or it may be being easting by marine life and entering the the food chain.  The best answer is that no one knows.

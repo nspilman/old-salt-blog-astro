@@ -1,7 +1,7 @@
 ---
 title: "Why Lightning Strikes Twice as Often Over Shipping Lanes — Dirty Fuel"
 date: 2019-11-08T08:18:41
-slug: why-lightning-strikes-twice-as-often-over-shipping-lanes-dirty-fuel
+slug: "why-lightning-strikes-twice-as-often-over-shipping-lanes-dirty-fuel"
 excerpt: "Apparently, lightning strikes twice as often over shipping sea lanes than over the ocean as a whole. Wired recently published an article about research that comes to that conclusion and suggests an answer to the question. They note that it … Continue reading &rarr;"
 categories:
   - "Current"

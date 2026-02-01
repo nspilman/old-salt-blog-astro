@@ -1,7 +1,7 @@
 ---
 title: "Dolphin Sunday – Part 1:  Dolphin Tale,  a Review"
 date: 2011-09-25T12:14:04
-slug: dolphin-sunday-part-1-dolphin-tale-a-review
+slug: "dolphin-sunday-part-1-dolphin-tale-a-review"
 excerpt: "Today, we have three posts about dolphins and humans interacting. I went to high school on the Gulf Coast of Florida, which has some of the largest bottlenose dolphin populations in the world.  When I am in Florida visiting family, I … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

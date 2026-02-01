@@ -1,7 +1,7 @@
 ---
 title: "Replica of Henry Hudson’s Ship Half Moon May Move to Netherlands"
 date: 2014-10-10T09:23:46
-slug: replica-of-henry-hudsons-ship-half-moon-may-move-to-netherlands
+slug: "replica-of-henry-hudsons-ship-half-moon-may-move-to-netherlands"
 excerpt: "The story is regrettably familiar. A historic vessel, unable to find a suitable berth, is forced to move elsewhere. Yesterday, Chip Reynolds, Director of the New Netherland Museum and Captain of the replica ship, Half Moon, announced the museum’s intentions to … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Baltic Sea Communications Cables Severed — Sabotage Suspected"
 date: 2024-11-19T22:01:20
-slug: baltic-sea-communications-cables-severed-sabotage-suspected
+slug: "baltic-sea-communications-cables-severed-sabotage-suspected"
 excerpt: "Early Monday morning, a 1,170km (730-mile) telecommunications cable in the Baltic Sea between Finland and Germany was severed, while a 218km internet link between Lithuania and Sweden’s Gotland Island stopped working on Sunday. German Defense Minister Boris Pistorius has said … Continue reading &rarr;"
 categories:
   - "Current"

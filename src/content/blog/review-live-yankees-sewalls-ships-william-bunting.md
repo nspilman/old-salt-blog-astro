@@ -1,7 +1,7 @@
 ---
 title: "Review: Live Yankees, the Sewalls and their Ships by William Bunting"
 date: 2009-10-19T17:18:35
-slug: review-live-yankees-sewalls-ships-william-bunting
+slug: "review-live-yankees-sewalls-ships-william-bunting"
 excerpt: "Live Yankees, the Sewalls and their Ships is a fascinating and sweeping history of one family from Bath, Maine, which built and operated over one hundred merchant ships, mostly square riggers in the 19th and early 20th centuries. It offers … Continue reading &rarr;"
 categories:
   - "Reviews"

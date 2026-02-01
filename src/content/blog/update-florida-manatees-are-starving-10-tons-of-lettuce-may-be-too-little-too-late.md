@@ -1,7 +1,7 @@
 ---
 title: "Update: Florida Manatees Are Starving, 10 Tons of Lettuce May Be Too Little, Too Late"
 date: 2022-04-09T16:01:40
-slug: update-florida-manatees-are-starving-10-tons-of-lettuce-may-be-too-little-too-late
+slug: "update-florida-manatees-are-starving-10-tons-of-lettuce-may-be-too-little-too-late"
 excerpt: "In December we posted about an emergency feeding program for starving Florida manatees to help them survive the winter. The sea grass that manatees rely on for food has been decimated by pollution, killed off by algae blooms fueled largely … Continue reading &rarr;"
 categories:
   - "Current"

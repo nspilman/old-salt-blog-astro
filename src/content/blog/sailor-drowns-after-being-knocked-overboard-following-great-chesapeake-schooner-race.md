@@ -1,7 +1,7 @@
 ---
 title: "Sailor Drowns After Being Knocked Overboard Following Great Chesapeake Schooner Race"
 date: 2012-10-15T10:03:42
-slug: sailor-drowns-after-being-knocked-overboard-following-great-chesapeake-schooner-race
+slug: "sailor-drowns-after-being-knocked-overboard-following-great-chesapeake-schooner-race"
 excerpt: "On one schooner, the 2012 Great Chesapeake Schooner Race ended in tragedy.  Shortly after the 43-foot Cuchulain crossed the finish line at Windmill Point, at just after 4 p.m. on Friday, Paul Stephen Case, 68, of Racine Wisconsin was knocked overboard and drowned, while … Continue reading &rarr;"
 categories:
   - "Current"

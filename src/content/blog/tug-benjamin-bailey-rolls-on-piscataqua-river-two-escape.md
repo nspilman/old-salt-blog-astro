@@ -1,7 +1,7 @@
 ---
 title: "Tug Benjamin Bailey Rolls on Piscataqua River, Two Escape"
 date: 2012-10-25T15:48:51
-slug: tug-benjamin-bailey-rolls-on-piscataqua-river-two-escape
+slug: "tug-benjamin-bailey-rolls-on-piscataqua-river-two-escape"
 excerpt: "On Wednesday afternoon, the tug Benjamin Bailey rolled and suddenly capsized in the currents of the Piscataqua River. Fortunately the two crew men aboard managed to escape from the sudden capsize. The tug is owned by Ken Anderson of Riverside … Continue reading &rarr;"
 categories:
   - "Current"

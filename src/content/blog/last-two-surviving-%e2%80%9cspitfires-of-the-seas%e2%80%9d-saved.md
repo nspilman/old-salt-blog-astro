@@ -1,7 +1,7 @@
 ---
-title: "Last Two Surviving “Spitfires of the Seas” Saved"
+title: "Last Two Surviving \"Spitfires of the Seas\" Saved"
 date: 2010-02-11T12:44:27
-slug: last-two-surviving-%e2%80%9cspitfires-of-the-seas%e2%80%9d-saved
+slug: "last-two-surviving-%e2%80%9cspitfires-of-the-seas%e2%80%9d-saved"
 excerpt: "Last Operational World War II Motor Boats Saved For The Nation Two of the last remaining fully operational high-speed World War II motor boats have been saved for the nation today by Portsmouth Naval Base Property Trust, with the help … Continue reading &rarr;"
 categories:
   - "Current"

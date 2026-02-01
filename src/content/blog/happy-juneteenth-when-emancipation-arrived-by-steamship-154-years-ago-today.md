@@ -1,7 +1,7 @@
 ---
 title: "Happy Juneteenth! When Emancipation Arrived by Steamship, 154 Years Ago Today"
 date: 2019-06-19T16:45:39
-slug: happy-juneteenth-when-emancipation-arrived-by-steamship-154-years-ago-today
+slug: "happy-juneteenth-when-emancipation-arrived-by-steamship-154-years-ago-today"
 excerpt: "Today is Juneteeth, a commemoration of the abolition of slavery in the state of Texas, in particular, and in the Confederate states in general, one hundred and fifty-four years ago today. Although the surrender at Appomattox Court House, Virginia signaled the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

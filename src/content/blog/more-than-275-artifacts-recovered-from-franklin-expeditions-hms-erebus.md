@@ -1,7 +1,7 @@
 ---
 title: "More Than 275 Artifacts Recovered from Franklin Expedition’s HMS Erebus"
 date: 2022-12-30T18:23:27
-slug: more-than-275-artifacts-recovered-from-franklin-expeditions-hms-erebus
+slug: "more-than-275-artifacts-recovered-from-franklin-expeditions-hms-erebus"
 excerpt: "A team of researchers conducted 56 dives over 11 days in September on the wreck of the HMS Erebus from the 1845 Franklin Expedition near Gjoa Haven recovering more than 275 additional artifacts from the historic shipwreck. The newly retrieved artifacts … Continue reading &rarr;"
 categories:
   - "Current"

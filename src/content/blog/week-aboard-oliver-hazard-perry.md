@@ -1,7 +1,7 @@
 ---
 title: "A Week Aboard Oliver Hazard Perry"
 date: 2017-01-14T09:41:53
-slug: week-aboard-oliver-hazard-perry
+slug: "week-aboard-oliver-hazard-perry"
 excerpt: "A video for a cold winter day. We recently posted about the exciting voyage plans for 2017 on the School Sailing Vessel (SSV) Oliver Hazard Perry. This year, the ship will be sailing to Florida, Bermuda, Cuba and the Arctic. … Continue reading &rarr;"
 categories:
   - "Current"

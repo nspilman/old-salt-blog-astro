@@ -1,7 +1,7 @@
 ---
 title: "The Return of the Schooner Amistad"
 date: 2016-01-02T18:34:07
-slug: return-schooner-amistad
+slug: "return-schooner-amistad"
 excerpt: "The schooner Amistad, the official flagship of the State of Connecticut, has seen difficult times in recent years. Built fifteen years ago at Mystic Seaport, until recently, the ship had been in receivership since 2014, after Amistad America, the non-profit which ran the … Continue reading &rarr;"
 categories:
   - "Current"

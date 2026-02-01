@@ -1,7 +1,7 @@
 ---
 title: "Voyage to the Titanic or to the Edge of Space — the Costs Are Astronomical"
 date: 2021-11-28T18:13:20
-slug: voyage-to-the-titanic-or-to-the-edge-of-space-the-costs-are-astronomical
+slug: "voyage-to-the-titanic-or-to-the-edge-of-space-the-costs-are-astronomical"
 excerpt: "Would you rather take a voyage to the wreck of the Titanic or to the edge of space? A ticket for either happens to start at around $250,000, which makes the likelihood of experiencing either well out of reach for … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Gulf of Mexico ‘Dead Zone’ Will Be Large This Summer, But Maybe Smaller than Last Year"
 date: 2020-06-12T15:38:04
-slug: gulf-of-mexico-dead-zone-will-be-large-this-summer-but-maybe-smaller-than-last-year
-excerpt: "The bad news is that the annual summer “hypoxic” or “dead zone” in the Gulf of Mexico this year may be larger than average. The good news is that it will be about 15% smaller than last year’s model prediction … Continue reading &rarr;"
+slug: "gulf-of-mexico-dead-zone-will-be-large-this-summer-but-maybe-smaller-than-last-year"
+excerpt: "The bad news is that the annual summer \"hypoxic\" or \"dead zone\" in the Gulf of Mexico this year may be larger than average. The good news is that it will be about 15% smaller than last year’s model prediction … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Mississippi River watershed"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/gulfdeadzone2020.jpg"
 author: "Rick Spilman"
-description: "The bad news is that the annual summer “hypoxic” or “dead zone” in the Gulf of Mexico this year may be larger than average. The good news is that it will be about 15% smaller than last year’s model prediction … Continue reading &rarr;"
+description: "The bad news is that the annual summer \"hypoxic\" or \"dead zone\" in the Gulf of Mexico this year may be larger than average. The good news is that it will be about 15% smaller than last year’s model prediction … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/gulfdeadzone2020.jpg)The bad news is that the annual summer “hypoxic” or “dead zone” in the Gulf of Mexico this year may be [larger than average](https://www.noaa.gov/media-release/larger-than-average-dead-zone-expected-for-gulf-of-mexico). The good news is that it will be about [15% smaller than last year’s model prediction](https://www.noaa.gov/media-release/noaa-forecasts-very-large-dead-zone-for-gulf-of-mexico) and roughly 20% smaller than the record “dead zone” in 2017. Nevertheless, at 6,700 square miles, this year’s “dead zone” is still larger than the State of Connecticut.

@@ -1,7 +1,7 @@
 ---
 title: "Stolen Coins, a Missing Wife, and a Sunken Catamaran —  Stranger Than Fiction"
 date: 2017-09-01T08:25:38
-slug: stolen-coins-missing-wife-sunken-catamaran-stranger-fiction
+slug: "stolen-coins-missing-wife-sunken-catamaran-stranger-fiction"
 excerpt: "Lewis Bennett, 38, a British engineer, was recently arrested by the FBI on charges related to possession of stolen rare silver and gold coins. The story behind the arrest gets very strange, involving a Caribbean theft, a missing wife, and … Continue reading &rarr;"
 categories:
   - "Current"

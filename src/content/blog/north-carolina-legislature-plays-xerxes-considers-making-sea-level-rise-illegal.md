@@ -1,7 +1,7 @@
 ---
 title: "North Carolina Legislature Plays Xerxes, Considers Making Sea-Level Rise Illegal"
 date: 2012-06-02T07:29:05
-slug: north-carolina-legislature-plays-xerxes-considers-making-sea-level-rise-illegal
+slug: "north-carolina-legislature-plays-xerxes-considers-making-sea-level-rise-illegal"
 excerpt: "When a storm destroyed Xerxes the Great’s bridge across the Hellespont in 480 BCE, he ordered that the sea be flogged with chains. Now, the North Carolina legislature is playing Xerxes. Some North Carolina legislators do not like the estimates of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

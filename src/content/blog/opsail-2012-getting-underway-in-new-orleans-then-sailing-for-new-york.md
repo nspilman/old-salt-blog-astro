@@ -1,7 +1,7 @@
 ---
 title: "OpSail 2012 Getting Underway in New Orleans, then Sailing for New York"
 date: 2012-04-16T09:57:24
-slug: opsail-2012-getting-underway-in-new-orleans-then-sailing-for-new-york
+slug: "opsail-2012-getting-underway-in-new-orleans-then-sailing-for-new-york"
 excerpt: "The 47th Operation Sail, OpSail 2012 gets underway tomorrow, April 17th and will continue through the 23rd, in the port of New Orleans, LA.   It will feature the tall ships Dewaruci from Indonesia, the BAE Guayas from Equador and the … Continue reading &rarr;"
 categories:
   - "Current"

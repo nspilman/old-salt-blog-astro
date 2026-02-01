@@ -1,7 +1,7 @@
 ---
 title: "Update: Bombs on the Rhine – Koblentz Bombs Successfully Defused, Residents Return"
 date: 2011-12-04T16:21:21
-slug: update-bombs-on-the-rhine-koblentz-bombs-successfully-defused-residents-return
+slug: "update-bombs-on-the-rhine-koblentz-bombs-successfully-defused-residents-return"
 excerpt: "We have previously posted about how the European drought has lowered the Rhine River so that World War II munitions long buried in the riverbank have become exposed.  Over the weekend, forty five thousand people, roughly half of the population of the city … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Capesize Bulker MV Wakashio Aground on Mauritius Reef, May Break Up"
 date: 2020-08-12T15:41:43
-slug: capesize-bulker-mv-wakashio-aground-on-mauritius-reef-may-break-up
+slug: "capesize-bulker-mv-wakashio-aground-on-mauritius-reef-may-break-up"
 excerpt: "On July 25, the MV Wakashio ran hard aground on a coral reef in Mauritius. The large capesize bulker was bound From China to Brazil to load cargo and was empty, operating in ballast when it struck the reef. On … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Betelgeuse, Navigational Star, May Explode, If It Hasn’t Already"
 date: 2020-02-20T17:14:12
-slug: betelgeuse-navigational-star-may-explode-if-it-hasnt-already
+slug: "betelgeuse-navigational-star-may-explode-if-it-hasnt-already"
 excerpt: "Betelgeuse, a red giant in the constellation Orion, is normally one of the 10 brightest stars in the sky. For those navigating by sextant, it is  one of the 58 navigational stars. Recently, however, it has begun to dim and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

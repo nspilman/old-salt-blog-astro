@@ -1,7 +1,7 @@
 ---
 title: "Keep Off the Ice & Remembering Robert Fulton, Who Died 200 Years Ago Today"
 date: 2015-02-24T13:39:41
-slug: keep-off-the-ice-remembered-robert-fulton-who-died-200-years-ago-today
+slug: "keep-off-the-ice-remembered-robert-fulton-who-died-200-years-ago-today"
 excerpt: "The Working Harbor Committee blog posted today, Keep Off the Ice! The post begins begins: The Hudson PD issued a warning for people to stay off the frozen river in Hudson, N.Y. after security cameras at the Hudson Boat Launch … Continue reading &rarr;"
 categories:
   - "Current"

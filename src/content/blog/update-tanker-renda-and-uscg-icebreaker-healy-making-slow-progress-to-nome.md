@@ -1,7 +1,7 @@
 ---
 title: "Update: Tanker Renda and USCG Icebreaker Healy Making Slow Progress to Nome"
 date: 2012-01-11T10:03:28
-slug: update-tanker-renda-and-uscg-icebreaker-healy-making-slow-progress-to-nome
+slug: "update-tanker-renda-and-uscg-icebreaker-healy-making-slow-progress-to-nome"
 excerpt: "When the sled dog, Balto, arrived with emergency supplies for the icebound town of Nome in 1926, a statue was erected in his honor in New York City’s Central park.  When the Russian ice strengthened tanker Renda, escorted by the USCG’s icebreaker Healy arrive … Continue reading &rarr;"
 categories:
   - "Current"

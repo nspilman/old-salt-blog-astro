@@ -1,7 +1,7 @@
 ---
 title: "A Sail on the Draken Harald Hårfagre in New York Harbor"
 date: 2018-10-24T20:22:17
-slug: a-sail-on-the-draken-harald-harfagre-in-new-york-harbor
+slug: "a-sail-on-the-draken-harald-harfagre-in-new-york-harbor"
 excerpt: "On Monday, I was fortunate enough to have been invited by the good folks at Highland Park Whisky to sail for an afternoon on the Draken Harald Hårfagre in New York harbor. At 115′ feet from stem to stern, Draken Harald Hårfagre is the … Continue reading &rarr;"
 categories:
   - "City of Ships"

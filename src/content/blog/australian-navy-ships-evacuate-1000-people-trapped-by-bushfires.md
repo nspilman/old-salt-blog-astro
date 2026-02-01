@@ -1,7 +1,7 @@
 ---
 title: "Australian Navy Ships Evacuate 1,000 People Trapped by Bushfires"
 date: 2020-01-03T18:55:05
-slug: australian-navy-ships-evacuate-1000-people-trapped-by-bushfires
+slug: "australian-navy-ships-evacuate-1000-people-trapped-by-bushfires"
 excerpt: "The Australian Navy landing ship HMAS Choules, supported by the training ship, MV Sycamore, evacuated 1,000 tourists and residents stranded by bushfires in Mallacoota, Australia. ABC News Australia reports that about 4,000 people, including some 3,000 tourists, have been stranded … Continue reading &rarr;"
 categories:
   - "Current"

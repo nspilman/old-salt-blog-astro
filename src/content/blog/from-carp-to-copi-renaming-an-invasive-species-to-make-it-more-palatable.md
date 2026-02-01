@@ -1,7 +1,7 @@
 ---
 title: "From Carp to Copi — Renaming an Invasive Species to Make it More Palatable"
 date: 2022-09-08T10:47:46
-slug: from-carp-to-copi-renaming-an-invasive-species-to-make-it-more-palatable
+slug: "from-carp-to-copi-renaming-an-invasive-species-to-make-it-more-palatable"
 excerpt: "If you can’t beat them, eat them. That is the idea at the Illinois Department of Natural Resources as one approach to managing the ongoing invasion of invasive carp in the Mississippi and connecting rivers. They even propose renaming the … Continue reading &rarr;"
 categories:
   - "Current"

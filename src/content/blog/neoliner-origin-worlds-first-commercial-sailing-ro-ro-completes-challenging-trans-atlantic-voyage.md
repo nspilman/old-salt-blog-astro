@@ -1,7 +1,7 @@
 ---
 title: "Neoliner Origin, World’s First Commercial Sailing Ro/Ro, Completes Challenging Trans-Atlantic Voyage"
 date: 2025-10-31T17:13:42
-slug: neoliner-origin-worlds-first-commercial-sailing-ro-ro-completes-challenging-trans-atlantic-voyage
+slug: "neoliner-origin-worlds-first-commercial-sailing-ro-ro-completes-challenging-trans-atlantic-voyage"
 excerpt: "The world’s first commercial sailing ro/ro, the 136-meter Neoliner Origin, arrived in the Port of Baltimore on October 30, 2025, completing a challenging trans-Atlantic maiden voyage from Saint-Nazaire, France.   According to Neoline, two days into the voyage, the top … Continue reading &rarr;"
 categories:
   - "Current"

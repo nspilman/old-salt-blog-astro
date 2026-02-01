@@ -1,7 +1,7 @@
 ---
 title: "Update:  Yang­­-suis & Archimedes Burning Mirrors"
 date: 2014-07-11T13:35:33
-slug: update-yang%c2%ad%c2%ad-suis-archimedes-burning-mirrors
+slug: "update-yang%c2%ad%c2%ad-suis-archimedes-burning-mirrors"
 excerpt: "One of the great stories from ancient history is of Archimedes Burning Mirrors.  Legend has it that Archimedes designed a series of curved mirrors to reflect and focus the rays of the sun and that these mirrors were used to set a … Continue reading &rarr;"
 categories:
   - "History"

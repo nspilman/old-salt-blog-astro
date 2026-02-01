@@ -1,7 +1,7 @@
 ---
 title: "Recent Reviews, Old Salt Press Authors, Part 2 — McBook Press’ Quarterdeck, Spring 2015"
 date: 2015-03-04T20:44:11
-slug: recent-reviews-old-salt-press-authors-part-2-mcbook-press-quarterdeck-spring-2015
+slug: "recent-reviews-old-salt-press-authors-part-2-mcbook-press-quarterdeck-spring-2015"
 excerpt: "As we mentioned in Part 1 of this post, two excellent nautical newsletters came out within the past few days — Astrodene’s Historic Naval Fiction Log Book and McBook Press’ Quarterdeck. Both feature news and reviews of nautical fiction and non-fiction … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

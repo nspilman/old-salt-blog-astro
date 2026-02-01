@@ -1,7 +1,7 @@
 ---
 title: "Return of Migaloo, the White Humpback — Concerns Over Skin Cancer"
 date: 2014-06-28T07:42:06
-slug: return-of-migaloo-the-white-humpback-concerns-over-skin-cancer
+slug: "return-of-migaloo-the-white-humpback-concerns-over-skin-cancer"
 excerpt: "Migaloo, the white humpback whale has been spotted making his way up Australia’s Queensland’s coast on his annual migration to warmer waters. Migaloo was first seen in 1991 and is believed to be around 28 years old and is one of a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

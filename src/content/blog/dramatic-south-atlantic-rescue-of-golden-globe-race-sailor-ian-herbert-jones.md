@@ -1,7 +1,7 @@
 ---
 title: "Dramatic South Atlantic Rescue of Golden Globe Race Sailor Ian Herbert Jones"
 date: 2023-04-12T17:10:36
-slug: dramatic-south-atlantic-rescue-of-golden-globe-race-sailor-ian-herbert-jones
+slug: "dramatic-south-atlantic-rescue-of-golden-globe-race-sailor-ian-herbert-jones"
 excerpt: "Ian Herbert Jones of Great Britain, competing in the 2022-23 Golden Globe Race, was successfully rescued after his Tradewind 35 Puffin had rolled over and dismasted, with the skipper injuring his back and incurring a gash to his head. Jones … Continue reading &rarr;"
 categories:
   - "Current"

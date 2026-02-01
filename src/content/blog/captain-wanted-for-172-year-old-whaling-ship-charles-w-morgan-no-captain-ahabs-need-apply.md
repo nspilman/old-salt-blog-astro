@@ -1,7 +1,7 @@
 ---
 title: "Captain Wanted for 172 Year Old Whaling Ship, Charles W. Morgan – No Captain Ahabs Need Apply"
 date: 2013-09-06T08:15:22
-slug: captain-wanted-for-172-year-old-whaling-ship-charles-w-morgan-no-captain-ahabs-need-apply
+slug: "captain-wanted-for-172-year-old-whaling-ship-charles-w-morgan-no-captain-ahabs-need-apply"
 excerpt: "Mystic Seaport is looking for a new captain for the newly rebuilt whaling ship, Charles W. Morgan. The whaler first sailed in 1841 and is scheduled to undertake a  three month voyage next summer.  The captain must have a 500-ton Near Coastal … Continue reading &rarr;"
 categories:
   - "Current"

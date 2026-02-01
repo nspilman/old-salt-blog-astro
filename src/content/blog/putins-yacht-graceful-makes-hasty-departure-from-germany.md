@@ -1,7 +1,7 @@
 ---
 title: "Putin’s Yacht Graceful Makes Hasty Departure from Germany"
 date: 2022-02-12T10:23:12
-slug: putins-yacht-graceful-makes-hasty-departure-from-germany
+slug: "putins-yacht-graceful-makes-hasty-departure-from-germany"
 excerpt: "German media reports that the 83-meter yacht, Graceful, believed to be owned by Vladimir Putin, has made a hasty departure from Hamburg, Germany, bound for Russia, before finishing repairs and renovations at the Blohm and Voss shipyard. Some speculate that … Continue reading &rarr;"
 categories:
   - "Current"

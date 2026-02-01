@@ -1,7 +1,7 @@
 ---
 title: "Abby Sunderland Rescued by French Fishing Vessel, Ile De La Reunion"
 date: 2010-06-12T07:28:20
-slug: abby-sunderland-rescued-by-french-fishing-vessel-ile-de-la-reunion
+slug: "abby-sunderland-rescued-by-french-fishing-vessel-ile-de-la-reunion"
 excerpt: "The French fishing vessel, Ile de Reunion, plucked Abby Sunderland from her damaged sailboat  on Sunday, 2,000 nautical miles off western Australia. French fishing boat rescues stranded Calif. teen … Continue reading &rarr;"
 categories:
   - "Current"

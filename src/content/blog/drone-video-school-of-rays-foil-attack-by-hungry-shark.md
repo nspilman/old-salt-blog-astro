@@ -1,7 +1,7 @@
 ---
 title: "Drone Video — School of Rays Foil Attack by Hungry Shark"
 date: 2023-10-04T14:33:49
-slug: drone-video-school-of-rays-foil-attack-by-hungry-shark
+slug: "drone-video-school-of-rays-foil-attack-by-hungry-shark"
 excerpt: "Sharks are among the top predators of sting rays. Here is a short video of a large school of stingrays narrowly escaping a shark attack in September off Anna Maria Island, in Manatee County, FL. The drone footage, captured by … Continue reading &rarr;"
 categories:
   - "Current"

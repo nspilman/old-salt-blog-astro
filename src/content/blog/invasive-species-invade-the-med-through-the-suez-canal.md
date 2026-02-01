@@ -1,7 +1,7 @@
 ---
 title: "Invasive Species Invade the Med Through the Suez Canal"
 date: 2015-09-01T09:53:48
-slug: invasive-species-invade-the-med-through-the-suez-canal
+slug: "invasive-species-invade-the-med-through-the-suez-canal"
 excerpt: "In 1869, the Suez Canal changed the world of shipping.  By providing steamers a shortcut though the relatively less windy Mediterranean Sea as well as ensuring access to coaling stations, the canal destroyed the millennia long supremacy of sail. Now, the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

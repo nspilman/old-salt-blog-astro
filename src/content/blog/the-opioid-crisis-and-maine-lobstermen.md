@@ -1,7 +1,7 @@
 ---
 title: "Maine Lobstermen and the Opioid Crisis"
 date: 2018-04-20T15:37:47
-slug: the-opioid-crisis-and-maine-lobstermen
+slug: "the-opioid-crisis-and-maine-lobstermen"
 excerpt: "The lobstermen of Maine are known for their independence. They don’t often ask for help. Like many other states, Maine has been struck hard by the opioid crisis.  In many coastal communities, opioid addiction is taking a serious toll, particularly on lobstermen. How serious … Continue reading &rarr;"
 categories:
   - "Current"

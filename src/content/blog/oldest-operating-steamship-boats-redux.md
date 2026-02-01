@@ -1,8 +1,8 @@
 ---
 title: "Oldest Operating Steamship & Boats, Redux"
 date: 2016-11-19T16:51:43
-slug: oldest-operating-steamship-boats-redux
-excerpt: "We recently posted, “Which is the Oldest Operating Steamship?” We thought that “the oldest steamer may be the Norwegian PS Skibladner, which began service in August 1856 on Lake Mjøsa. We also asked, “So, which vessels have we missed? Any … Continue reading &rarr;"
+slug: "oldest-operating-steamship-boats-redux"
+excerpt: "We recently posted, \"Which is the Oldest Operating Steamship?\" We thought that \"the oldest steamer may be the Norwegian PS Skibladner, which began service in August 1856 on Lake Mjøsa. We also asked, \"So, which vessels have we missed? Any … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -10,7 +10,7 @@ categories:
   - "Ships"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/oldeststeam1.jpg"
 author: "Rick Spilman"
-description: "We recently posted, “Which is the Oldest Operating Steamship?” We thought that “the oldest steamer may be the Norwegian PS Skibladner, which began service in August 1856 on Lake Mjøsa. We also asked, “So, which vessels have we missed? Any … Continue reading &rarr;"
+description: "We recently posted, \"Which is the Oldest Operating Steamship?\" We thought that \"the oldest steamer may be the Norwegian PS Skibladner, which began service in August 1856 on Lake Mjøsa. We also asked, \"So, which vessels have we missed? Any … Continue reading &rarr;"
 ---
 
 ![oldeststeam1](http://www.oldsaltblog.com/wp-content/uploads/2016/11/oldeststeam1.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Update: In Japan Vagina Kayaks Are Legal, Distributing Plans Are Not"
 date: 2016-10-29T16:16:41
-slug: update-japan-vagina-kayaks-legal-distributing-plans-not
+slug: "update-japan-vagina-kayaks-legal-distributing-plans-not"
 excerpt: "We are about six months behind on this update, but it is a worthwhile topic to catch up on. In January of 2015, we posted The Vagina Kayak and Japanese Genital Politics, which was the story of a Japanese artist,  Megumi … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Bouchard Files for Bankruptcy, Looking Back at Captain Fred and the Attack on Black Tom"
 date: 2020-10-08T11:04:04
-slug: bouchard-files-for-bankruptcy-looking-back-at-captain-fred-and-the-attack-on-black-tom
+slug: "bouchard-files-for-bankruptcy-looking-back-at-captain-fred-and-the-attack-on-black-tom"
 excerpt: "Bouchard Transportation recently filed for Chapter 11 bankruptcy protection. The 102-year-old Long Island petroleum barge operator has been struggling over the last several years, involved financial shortfalls and a string of accidents, including a fatal explosion in 2017.  Rather than … Continue reading &rarr;"
 categories:
   - "History"

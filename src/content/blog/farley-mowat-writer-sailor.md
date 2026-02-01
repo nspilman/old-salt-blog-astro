@@ -1,7 +1,7 @@
 ---
 title: "Farley Mowat — Writer & Sailor"
 date: 2014-05-08T10:47:09
-slug: farley-mowat-writer-sailor
+slug: "farley-mowat-writer-sailor"
 excerpt: "I was saddened to hear of Farley Mowat’s death, at the age of 92.  Many will remember him as an environmentalist and a champion of the rights of native Canadians, as indeed he was.  I will remember him for his books about … Continue reading &rarr;"
 categories:
   - "Current"

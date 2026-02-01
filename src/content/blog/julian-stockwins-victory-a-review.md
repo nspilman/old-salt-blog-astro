@@ -1,7 +1,7 @@
 ---
 title: "Julian Stockwin’s Victory – A Review"
 date: 2010-07-03T13:39:24
-slug: julian-stockwins-victory-a-review
+slug: "julian-stockwins-victory-a-review"
 excerpt: "We have fallen way behind in our book reviews. Until we catch up, here is a review of Julian Stockwin’s new novel, Victory, republished with permission from Astrodene’s Historic Naval Fiction. Astrodene Review: Victory by Julian Stockwin Victory starts off with a major setback … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

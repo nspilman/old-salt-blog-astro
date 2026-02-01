@@ -1,7 +1,7 @@
 ---
 title: "Around 270 Pilot Whales Stranded on Sandbar on West Coast of Tasmania"
 date: 2020-09-22T09:50:19
-slug: around-270-pilot-whales-stranded-on-sandbar-on-west-coast-of-tasmania
+slug: "around-270-pilot-whales-stranded-on-sandbar-on-west-coast-of-tasmania"
 excerpt: "Around 270 pilot whales have become stranded on a sandbar on the remote western coast of Tasmania. Rescuers in Australia say that at least a third of the whales have died and that more are dying.  The BBC reports that … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

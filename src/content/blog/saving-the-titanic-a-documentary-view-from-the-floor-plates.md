@@ -1,7 +1,7 @@
 ---
 title: "Saving the Titanic – A Documentary View from the Floor Plates"
 date: 2012-04-08T08:15:47
-slug: saving-the-titanic-a-documentary-view-from-the-floor-plates
+slug: "saving-the-titanic-a-documentary-view-from-the-floor-plates"
 excerpt: "A very well done documentary from PBS, Saving the Titanic. Watch Full Program on PBS. See more from Saving the Titanic. … Continue reading &rarr;"
 categories:
   - "Current"

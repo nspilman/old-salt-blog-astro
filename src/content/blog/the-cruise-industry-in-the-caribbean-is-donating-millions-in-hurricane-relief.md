@@ -1,7 +1,7 @@
 ---
 title: "Cruise Lines Donating Millions for Bahamas Dorian Disaster Relief"
 date: 2019-09-05T09:07:45
-slug: the-cruise-industry-in-the-caribbean-is-donating-millions-in-hurricane-relief
+slug: "the-cruise-industry-in-the-caribbean-is-donating-millions-in-hurricane-relief"
 excerpt: "The cruise industry in the Caribbean is donating to help the Bahamian victims of Hurricane Dorian. Royal Caribbean, Carnival, Norwegian Caribbean and Disney have all pledged millions in hurricane relief. Royal Caribbean is committing $1 million to Dorian disaster relief, … Continue reading &rarr;"
 categories:
   - "Current"

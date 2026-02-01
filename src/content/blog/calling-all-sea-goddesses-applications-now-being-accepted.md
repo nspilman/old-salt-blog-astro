@@ -1,7 +1,7 @@
 ---
 title: "Calling All Sea Goddesses – Applications Now Being Accepted"
 date: 2013-03-08T20:38:14
-slug: calling-all-sea-goddesses-applications-now-being-accepted
+slug: "calling-all-sea-goddesses-applications-now-being-accepted"
 excerpt: "Calling all Sea Goddesses and would-be Sea Goddesses. Applications are now being accepted for the Maine Sea Goddess Pageant.    The Pageant is open to 20 young women who are single, a high school (or equivalent GED) graduate, not more … Continue reading &rarr;"
 categories:
   - "Current"

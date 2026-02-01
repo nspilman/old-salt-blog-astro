@@ -1,7 +1,7 @@
 ---
-title: "Power Paddle to Puyallup — “Honoring Our Medicine”"
+title: "Power Paddle to Puyallup — \"Honoring Our Medicine\""
 date: 2018-07-25T15:55:26
-slug: power-paddle-to-puyallup-honoring-our-medicine
+slug: "power-paddle-to-puyallup-honoring-our-medicine"
 excerpt: "Every year, thousands of people join in on a canoe journey across the Pacific Northwest to celebrate traditional Native American culture. The long paddle includes multiple stops hosted by local tribes along the route. This year’s journey is called Power … Continue reading &rarr;"
 categories:
   - "Current"

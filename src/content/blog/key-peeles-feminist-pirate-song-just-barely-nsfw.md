@@ -1,7 +1,7 @@
 ---
 title: "Key & Peele’s Feminist Pirate Song (Just Barely NSFW)"
 date: 2015-07-18T09:46:21
-slug: key-peeles-feminist-pirate-song-just-barely-nsfw
+slug: "key-peeles-feminist-pirate-song-just-barely-nsfw"
 excerpt: "The sketch comedy team of Key and Peele have come up with what may be the very first feminist pirate song, examining issues of respect, equality and consent, as sung by a bunch of scurvy sea dogs. (It is just … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Gallipoli Veteran, HMS M33, to be Restored in Time for 100th Anniversary"
 date: 2013-10-14T11:39:55
-slug: gallipoli-veteran-hms-m33-restored-time-100th-anniversary
+slug: "gallipoli-veteran-hms-m33-restored-time-100th-anniversary"
 excerpt: "Monitor HMS M33, only surviving warship from the Gallipoli campaign of World War I, has received £1.79m from the UK’s Heritage Lottery Fund to allow the ship to be restored in time for the 100th anniversary of the campaign. GALLIPOLI … Continue reading &rarr;"
 categories:
   - "Current"

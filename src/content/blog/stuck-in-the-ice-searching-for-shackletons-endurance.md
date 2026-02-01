@@ -1,7 +1,7 @@
 ---
 title: "Stuck in the Ice, Searching for Shackleton’s Endurance"
 date: 2022-03-04T15:24:20
-slug: stuck-in-the-ice-searching-for-shackletons-endurance
+slug: "stuck-in-the-ice-searching-for-shackletons-endurance"
 excerpt: "In early February, the Endurance22 expedition set off from Cape Town, South Africa for Antarctica’s Weddell Sea aboard the icebreaking research ship, SA Agulhas II. Their objective is to locate, survey, and film the wreck of Endurance, Ernest Shackleton’s ship that … Continue reading &rarr;"
 categories:
   - "Current"

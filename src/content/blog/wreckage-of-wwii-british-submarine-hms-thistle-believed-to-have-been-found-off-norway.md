@@ -1,7 +1,7 @@
 ---
 title: "Wreckage of WWII British Submarine HMS Thistle Believed to Have Been Found Off Norway"
 date: 2023-10-21T14:10:44
-slug: wreckage-of-wwii-british-submarine-hms-thistle-believed-to-have-been-found-off-norway
+slug: "wreckage-of-wwii-british-submarine-hms-thistle-believed-to-have-been-found-off-norway"
 excerpt: "The Institute of Maritime Research announced recently that the wreckage of the World War II British submarine HMS Thistle has probably been discovered outside Rogaland, Norway, after more than 80 years on the seabed. In the Spring of 2023, the … Continue reading &rarr;"
 categories:
   - "Current"

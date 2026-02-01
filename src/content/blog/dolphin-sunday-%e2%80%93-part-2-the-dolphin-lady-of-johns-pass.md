@@ -1,7 +1,7 @@
 ---
 title: "Dolphin Sunday – Part 2:  The Dolphin Lady of John’s Pass"
 date: 2011-09-25T12:44:31
-slug: dolphin-sunday-%e2%80%93-part-2-the-dolphin-lady-of-johns-pass
+slug: "dolphin-sunday-%e2%80%93-part-2-the-dolphin-lady-of-johns-pass"
 excerpt: "Ann Weaver is a researcher who has been studying dolphins in Boca Ciega Bay, with a particular focus on how to to minimize the impact of local construction projects on the dolphins. The Dolphin Lady of John’s Pass … Continue reading &rarr;"
 categories:
   - "Current"

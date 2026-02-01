@@ -1,7 +1,7 @@
 ---
 title: "Half Moon in Perspective"
 date: 2015-04-23T13:17:55
-slug: half-moon-in-perspective
+slug: "half-moon-in-perspective"
 excerpt: "Half Moon, a replica of Henry Hudson’s ship, looks very small sitting on the deck of the heavy-lift ship Traveler, which is carrying the ship to its new berth at the  Westfries Museum in Hoorn, in the Netherlands.  As heavy lift ships go, … Continue reading &rarr;"
 categories:
   - "City of Ships"

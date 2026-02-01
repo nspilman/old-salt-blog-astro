@@ -1,7 +1,7 @@
 ---
 title: "The Fyddeye Guide to America’s Maritime History – Book Trailer"
 date: 2011-06-12T17:27:03
-slug: the-fyddeye-guide-to-americas-maritime-history-book-trailer
+slug: "the-fyddeye-guide-to-americas-maritime-history-book-trailer"
 excerpt: "Joe Follansbee has put together a really fun book trailer for his excellent guide book  to historic ships, sites and museums.    We reviewed the guide last March and liked it a lot. Read our review here. The Fyddeye Guide to America’s … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

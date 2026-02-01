@@ -1,7 +1,7 @@
 ---
 title: "Clearwater’s 2020 Virtual Great Hudson River Revival: An Epic Stream to Save the River"
 date: 2020-06-18T14:53:04
-slug: clearwaters-2020-virtual-great-hudson-river-revival-an-epic-stream-to-save-the-river
+slug: "clearwaters-2020-virtual-great-hudson-river-revival-an-epic-stream-to-save-the-river"
 excerpt: "The Clearwater Great Hudson River Revival is a music and environmental summer festival held yearly since 1966, on the banks of the Hudson River. It is said to be America’s oldest and the largest annual festival of its kind.  In … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Dutch Shipowner Investing in New Ventifoil Wind-Assist Technology"
 date: 2019-09-26T17:08:40
-slug: dutch-shipowner-investing-in-new-ventifoil-wind-assist-technology
+slug: "dutch-shipowner-investing-in-new-ventifoil-wind-assist-technology"
 excerpt: "Van Dam Shipping, based in Spijk, Netherlands, has signed a contract for the installation of an eConowind propulsion system on its 3,600 DWT general cargo vessel Ankie. At first glance, two vertical structures in the graphic of the ship look … Continue reading &rarr;"
 categories:
   - "Current"

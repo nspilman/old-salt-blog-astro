@@ -1,7 +1,7 @@
 ---
 title: "Update:  Höegh Osaka Grounded Deliberately, Salvage Planning Underway"
 date: 2015-01-05T09:14:57
-slug: update-hoegh-osaka-grounded-deliberately-salvage-planning-underway
+slug: "update-hoegh-osaka-grounded-deliberately-salvage-planning-underway"
 excerpt: "The answer to the question as to whether the Höegh Osaka ran aground due to steering failure or pilot error, is neither. The car carrier was deliberately grounded on Bramble Bank when the ship developed an unexplained list after leaving Southhampton.  Ingar … Continue reading &rarr;"
 categories:
   - "Current"

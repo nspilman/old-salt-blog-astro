@@ -1,7 +1,7 @@
 ---
 title: "Update: Zanzibar Ferry Disaster – Captain and Crew Charged with Murder"
 date: 2012-01-26T08:44:21
-slug: update-zanzibar-ferry-disaster-captain-and-crew-charged-with-murder
+slug: "update-zanzibar-ferry-disaster-captain-and-crew-charged-with-murder"
 excerpt: "Last September we posted about an overloaded ferry boat running between Zanzibar and Pemba, Tanzania which sank after capsizing taking the lives of at least 230 passengers.  Recently the captain and crew of the ill-fated ferry, MV Spice Islander, were charged with negligence and murder. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Captain John Barry — the Other Father of the US Navy"
 date: 2017-03-25T10:03:39
-slug: captain-john-barry-father-us-navy
-excerpt: "This seems like a good day to celebrate birthdays.  A repost from two years ago. Happy birthday to Commodore John Barry, born on this day in 1745, in Tacumshane, County Wexford, Ireland.  He is considered by many to be the “father of … Continue reading &rarr;"
+slug: "captain-john-barry-father-us-navy"
+excerpt: "This seems like a good day to celebrate birthdays.  A repost from two years ago. Happy birthday to Commodore John Barry, born on this day in 1745, in Tacumshane, County Wexford, Ireland.  He is considered by many to be the \"father of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "John Paul Jones"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/barry200.jpg"
 author: "Rick Spilman"
-description: "This seems like a good day to celebrate birthdays.  A repost from two years ago. Happy birthday to Commodore John Barry, born on this day in 1745, in Tacumshane, County Wexford, Ireland.  He is considered by many to be the “father of … Continue reading &rarr;"
+description: "This seems like a good day to celebrate birthdays.  A repost from two years ago. Happy birthday to Commodore John Barry, born on this day in 1745, in Tacumshane, County Wexford, Ireland.  He is considered by many to be the \"father of … Continue reading &rarr;"
 ---
 
 ![John Barry by Gilbert Stuart 1801](http://www.oldsaltblog.com/wp-content/uploads/2015/03/John_Barry_by_Gilbert_Stuart.jpg)

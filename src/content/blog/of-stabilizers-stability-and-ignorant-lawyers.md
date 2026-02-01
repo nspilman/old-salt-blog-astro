@@ -1,8 +1,8 @@
 ---
 title: "Of Stabilizers, Stability and Lawyers"
 date: 2012-07-03T07:25:26
-slug: of-stabilizers-stability-and-ignorant-lawyers
-excerpt: "Mississippi lawyer John Arthur Eaves is supposed to be good at his job and is, by reputation, a pretty smart fellow. He recently filed a law suit claiming that the Costa Concordia was “defectively designed,” a ” floating coffin,” had a “propensity … to … Continue reading &rarr;"
+slug: "of-stabilizers-stability-and-ignorant-lawyers"
+excerpt: "Mississippi lawyer John Arthur Eaves is supposed to be good at his job and is, by reputation, a pretty smart fellow. He recently filed a law suit claiming that the Costa Concordia was \"defectively designed,\" a \" floating coffin,\" had a \"propensity … to … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Jim Walker"
   - "John Arthur Eaves"
 author: "Rick Spilman"
-description: "Mississippi lawyer John Arthur Eaves is supposed to be good at his job and is, by reputation, a pretty smart fellow. He recently filed a law suit claiming that the Costa Concordia was “defectively designed,” a ” floating coffin,” had a “propensity … to … Continue reading &rarr;"
+description: "Mississippi lawyer John Arthur Eaves is supposed to be good at his job and is, by reputation, a pretty smart fellow. He recently filed a law suit claiming that the Costa Concordia was \"defectively designed,\" a \" floating coffin,\" had a \"propensity … to … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/costa-concordia-e1326646133.jpg)Mississippi lawyer John Arthur Eaves is supposed to be good at his job and is, by reputation, a pretty smart fellow. He recently filed a law suit claiming that the *Costa Concordia* was [“defectively designed,” a ” floating coffin,” had a “propensity … to roll and list” and was dangerous “because of the maze-effect within the vessel…”](http://www.todaysthv.com/news/article/215883/288/Lawyer-says-Concordia-had-faulty-design)   I am not a lawyer, but as a naval architect, I can say with a fair degree of confidence that Mr. Eaves does not know the first thing about ship stability.  

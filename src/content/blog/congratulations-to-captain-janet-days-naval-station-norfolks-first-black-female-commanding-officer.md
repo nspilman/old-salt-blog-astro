@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Captain Janet Days, Naval Station Norfolk’s First Black Female Commanding Officer"
 date: 2023-02-03T10:35:00
-slug: congratulations-to-captain-janet-days-naval-station-norfolks-first-black-female-commanding-officer
+slug: "congratulations-to-captain-janet-days-naval-station-norfolks-first-black-female-commanding-officer"
 excerpt: "Congratulations to Captain Janet Days due to take command as Naval Station Norfolk’s 51st commanding officer in a change of command ceremony today. Captain Days is the first Black woman commanding officer of the world’s largest naval base. Days will … Continue reading &rarr;"
 categories:
   - "Current"

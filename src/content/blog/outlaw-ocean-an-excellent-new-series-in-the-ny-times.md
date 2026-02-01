@@ -1,7 +1,7 @@
 ---
 title: "Outlaw Ocean — An Excellent New Series in the NY Times"
 date: 2015-07-20T20:27:32
-slug: outlaw-ocean-an-excellent-new-series-in-the-ny-times
+slug: "outlaw-ocean-an-excellent-new-series-in-the-ny-times"
 excerpt: "The New York Times is featuring a new four part series, Outlaw Ocean, by Ian Urbina, which presents a vivid and disturbing look at crime at sea.  Definitely worth reading. The first installment, Stowaways and Crimes Aboard Aboard a Scofflaw Ship, looks … Continue reading &rarr;"
 categories:
   - "Current"

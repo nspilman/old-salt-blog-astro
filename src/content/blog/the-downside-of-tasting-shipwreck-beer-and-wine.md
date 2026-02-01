@@ -1,7 +1,7 @@
 ---
 title: "The Downside of Tasting Shipwreck Beer and Wine"
 date: 2015-03-08T17:35:07
-slug: the-downside-of-tasting-shipwreck-beer-and-wine
+slug: "the-downside-of-tasting-shipwreck-beer-and-wine"
 excerpt: "Back in 2010, archaeologists found 30 bottles of champagne thought to pre-date the French Revolution in a shipwreck on the Baltic seabed.  Remarkably, when a bottle of champagne was opened it was found to be drinkable.  At the time, some commented … Continue reading &rarr;"
 categories:
   - "Current"

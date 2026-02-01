@@ -1,7 +1,7 @@
 ---
 title: "Update: UK Cancels Plans for £250m National Flagship Yacht"
 date: 2022-11-07T18:50:34
-slug: update-uk-cancels-plans-for-250m-national-flagship-yacht
+slug: "update-uk-cancels-plans-for-250m-national-flagship-yacht"
 excerpt: "In June of last year, we posted that UK Prime Minister, Boris Johnson, had announced the construction of a new national flagship intended to promote British businesses around the world. The proposal received a mixed response. As we noted in … Continue reading &rarr;"
 categories:
   - "Current"

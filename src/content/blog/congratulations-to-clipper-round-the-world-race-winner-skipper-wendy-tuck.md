@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Clipper Round the World Race Winner Skippers Wendy Tuck & Nikki Henderson"
 date: 2018-07-30T18:05:09
-slug: congratulations-to-clipper-round-the-world-race-winner-skipper-wendy-tuck
+slug: "congratulations-to-clipper-round-the-world-race-winner-skipper-wendy-tuck"
 excerpt: "The top two spots in the Clipper Round the World Race were, for the first time, won by women.  Australian Wendy Tuck has become the first female skipper to win the Clipper Round-the-World race.  British skipper Nikki Henderson, 25, came in … Continue reading &rarr;"
 categories:
   - "Current"

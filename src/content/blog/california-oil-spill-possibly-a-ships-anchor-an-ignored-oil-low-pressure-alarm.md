@@ -1,7 +1,7 @@
 ---
 title: "California Oil Spill — Possibly a Ship’s Anchor & an Ignored Oil Low-Pressure Alarm"
 date: 2021-10-06T17:15:09
-slug: california-oil-spill-possibly-a-ships-anchor-an-ignored-oil-low-pressure-alarm
+slug: "california-oil-spill-possibly-a-ships-anchor-an-ignored-oil-low-pressure-alarm"
 excerpt: "We have posted about the ongoing port congestion that has resulted in as many as 70 ships being anchored off the Southern Californian coast waiting for berths. While no one knows for certain what caused the pipeline rupture that leaked … Continue reading &rarr;"
 categories:
   - "Current"

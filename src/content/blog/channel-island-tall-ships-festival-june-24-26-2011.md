@@ -1,7 +1,7 @@
 ---
 title: "Channel Island Tall Ships Festival June 24-26, 2011"
 date: 2011-06-22T08:35:07
-slug: channel-island-tall-ships-festival-june-24-26-2011
+slug: "channel-island-tall-ships-festival-june-24-26-2011"
 excerpt: "An impressive fleet of schooners and brigantines will be featured in the the Channel Islands Harbor Tall Ships Festival, this Friday through Sunday at Channel Islands Harbor in Oxnard, California.    The visiting vessels include the topsail schooner Californian, topsail schooner Amazing Grace, … Continue reading &rarr;"
 categories:
   - "Current"

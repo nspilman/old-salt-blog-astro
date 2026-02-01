@@ -1,7 +1,7 @@
 ---
 title: "With Drones and Missiles, Ukraine Wreaks Havoc on Russian Black Sea Fleet & Gets Navy Commander Fired"
 date: 2024-03-12T20:35:31
-slug: with-drones-and-missiles-ukraine-wreaks-havoc-on-russian-black-sea-fleet-gets-navy-commander-fired
+slug: "with-drones-and-missiles-ukraine-wreaks-havoc-on-russian-black-sea-fleet-gets-navy-commander-fired"
 excerpt: "Ukraine is a nation without a navy and yet has succeeded in wreaking havoc on the Russian Black Sea Fleet using high-tech sea drones and anti-ship missiles. The Ukrainians have continued to sink Russian warships, as recently as last week, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Search for Captain Robin Walbridge, Washed off the Sinking HMS Bounty, Ends – Investigation into Sinking Begins"
 date: 2012-11-02T11:14:30
-slug: search-for-captain-robin-walbridge-washed-off-the-sinking-hms-bounty-ends-investigation-into-sinking-begins
+slug: "search-for-captain-robin-walbridge-washed-off-the-sinking-hms-bounty-ends-investigation-into-sinking-begins"
 excerpt: "Sadly, the US Coast Guard has suspended the search for Captain Robin Walbridge, who was washed off the HMS Bounty as she sank in high seas on Monday off the coast of North Carolina.   Claudene Christian, 42, was also lost overboard. … Continue reading &rarr;"
 categories:
   - "Current"

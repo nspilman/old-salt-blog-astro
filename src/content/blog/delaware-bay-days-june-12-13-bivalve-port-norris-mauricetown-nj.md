@@ -1,7 +1,7 @@
 ---
 title: "Delaware Bay Days – June 12 & 13 Bivalve, Port Norris & Mauricetown NJ"
 date: 2010-06-10T09:07:18
-slug: delaware-bay-days-june-12-13-bivalve-port-norris-mauricetown-nj
+slug: "delaware-bay-days-june-12-13-bivalve-port-norris-mauricetown-nj"
 excerpt: "From the Bayshore Discovery Project: Delaware Bay Days, the free two-day folklife festival celebrating the Bay and the Bayshore region, returns June 12 & 13 with events in Bivalve, Port Norris and Mauricetown, NJ, with a schedule featuring new activities … Continue reading &rarr;"
 categories:
   - "Current"

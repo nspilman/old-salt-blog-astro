@@ -1,8 +1,8 @@
 ---
-title: "Bizarre Navy “Training Film” from 1967 — How to Succeed with Brunettes"
+title: "Bizarre Navy \"Training Film\" from 1967 — How to Succeed with Brunettes"
 date: 2017-11-05T08:52:49
-slug: bizarre-navy-training-film-1967-succeed-brunettes
-excerpt: "This may be the most bizarre Navy training film yet. The film dates from 1967 and purports to answer the question of “how to succeed with brunettes (or blondes.)” It is directed exclusively at male naval officers. How many female … Continue reading &rarr;"
+slug: "bizarre-navy-training-film-1967-succeed-brunettes"
+excerpt: "This may be the most bizarre Navy training film yet. The film dates from 1967 and purports to answer the question of \"how to succeed with brunettes (or blondes.)\" It is directed exclusively at male naval officers. How many female … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "US Navy"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/10/howtosucceedwithbrunettes.jpg"
 author: "Rick Spilman"
-description: "This may be the most bizarre Navy training film yet. The film dates from 1967 and purports to answer the question of “how to succeed with brunettes (or blondes.)” It is directed exclusively at male naval officers. How many female … Continue reading &rarr;"
+description: "This may be the most bizarre Navy training film yet. The film dates from 1967 and purports to answer the question of \"how to succeed with brunettes (or blondes.)\" It is directed exclusively at male naval officers. How many female … Continue reading &rarr;"
 ---
 
 This may be the most bizarre Navy training film yet. The film dates from 1967 and purports to answer the question of “how to succeed with brunettes (or blondes.)” It is directed exclusively at male naval officers.

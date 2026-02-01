@@ -1,7 +1,7 @@
 ---
 title: "The First Circumnavigation of Canada’s Ellesmere Island  – Important Arctic Life Lessons"
 date: 2012-01-17T15:47:19
-slug: the-first-circumnavigation-of-canadas-ellesmere-island-important-arctic-life-lessons
+slug: "the-first-circumnavigation-of-canadas-ellesmere-island-important-arctic-life-lessons"
 excerpt: "There is a wonderful article in today’s New York Times about Jon Turk and Erik Boomer, who recently became the first to circumnavigate Canada’s Ellesmere Island, roughly 1,000 miles north of the Arctic Circle.  Jon Turk, 65, is an author, scientist and … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Sixty-Nine Rohingya Refugees Rescued from Hull of Capsized Boat off Indonesia. 80 Missing & Feared Dead"
 date: 2024-03-22T20:10:45
-slug: sixty-nine-rohingya-refugees-rescued-from-hull-of-capsized-boat-off-indonesia-80-missing-feared-dead
+slug: "sixty-nine-rohingya-refugees-rescued-from-hull-of-capsized-boat-off-indonesia-80-missing-feared-dead"
 excerpt: "Tragic news as reported by the BBC:  Indonesian rescuers found 69 Rohingya people sunburnt and dehydrated on Thursday, floating on a rusty hull off the coast of Aceh. The country’s search and rescue agency says nine children, 18 women and … Continue reading &rarr;"
 categories:
   - "Current"

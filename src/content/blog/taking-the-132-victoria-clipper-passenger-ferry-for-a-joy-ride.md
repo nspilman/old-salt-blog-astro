@@ -1,7 +1,7 @@
 ---
 title: "Taking the 132′ Victoria Clipper Passenger Ferry for a Joy Ride"
 date: 2013-12-03T10:12:10
-slug: taking-the-132-victoria-clipper-passenger-ferry-for-a-joy-ride
+slug: "taking-the-132-victoria-clipper-passenger-ferry-for-a-joy-ride"
 excerpt: "What could be nicer than a boat ride on your birthday? Last Sunday, on his 33rd birthday, Samuel Kenneth McDonough allegedly took the Victoria Clipper, a 132′ high speed passenger ferry, for a several hour joy-ride in Seattle’s Elliot Bay. … Continue reading &rarr;"
 categories:
   - "Current"

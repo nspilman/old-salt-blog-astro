@@ -1,7 +1,7 @@
 ---
-title: "Marina 59 and the Far Rockaway “Boatel” Built from the Flotsam & Jetsam of Jamaica Bay"
+title: "Marina 59 and the Far Rockaway \"Boatel\" Built from the Flotsam & Jetsam of Jamaica Bay"
 date: 2012-06-13T11:55:19
-slug: marina-59-far-rockaway-boatel-built-from-the-flotsam-jetsam-of-jamaica-bay
+slug: "marina-59-far-rockaway-boatel-built-from-the-flotsam-jetsam-of-jamaica-bay"
 excerpt: "In a marina in the Far Rockaway neighborhood, in the New York City borough of Queens, a summer habitation has grown up from a group of abandoned docks and boats.  Part artists’ colony and part junk yard, the Boatel at Marina 59 is described as : … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

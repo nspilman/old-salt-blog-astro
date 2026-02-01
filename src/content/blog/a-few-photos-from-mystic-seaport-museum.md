@@ -1,7 +1,7 @@
 ---
 title: "A Few Photos from Mystic Seaport Museum"
 date: 2012-07-21T18:58:26
-slug: a-few-photos-from-mystic-seaport-museum
+slug: "a-few-photos-from-mystic-seaport-museum"
 excerpt: "A few photos of Mystic Seaport Museum on a recent trip sponsored by the New York Shiplore and Model Club. Thanks again to Lee Gruzen, Norman Brouwer and Linda Zatkowski for making the arrangements."
 categories:
   - "Current"

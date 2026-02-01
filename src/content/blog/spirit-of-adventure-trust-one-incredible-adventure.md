@@ -1,7 +1,7 @@
 ---
 title: "Spirit of Adventure Trust – One Incredible Adventure"
 date: 2015-02-17T17:27:15
-slug: spirit-of-adventure-trust-one-incredible-adventure
+slug: "spirit-of-adventure-trust-one-incredible-adventure"
 excerpt: "The weather is bitterly cold here on the west bank of the Hudson River, so it seems like as good a time as any to look toward the warmer waters of the Antipodes. A video from the Spirit of Adventure … Continue reading &rarr;"
 categories:
   - "Current"

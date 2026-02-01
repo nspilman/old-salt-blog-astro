@@ -1,8 +1,8 @@
 ---
-title: "“It takes guts to dream” – Three-Time Olympian Sailor – Nikola Girke"
+title: "\"It takes guts to dream\" – Three-Time Olympian Sailor – Nikola Girke"
 date: 2014-02-03T09:30:45
-slug: it-takes-guts-to-dream-three-time-olympian-sailor-nikola-girke
-excerpt: "Fascinating commentary on the joys and sacrifices of following her dreams by three-time Olympian sailor Nikola Girke, as she prepares for Rio 2016. “It takes guts to dream” – Canadian Olympian – Nikola Girke … Continue reading &rarr;"
+slug: "it-takes-guts-to-dream-three-time-olympian-sailor-nikola-girke"
+excerpt: "Fascinating commentary on the joys and sacrifices of following her dreams by three-time Olympian sailor Nikola Girke, as she prepares for Rio 2016. \"It takes guts to dream\" – Canadian Olympian – Nikola Girke … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Olympics"
   - "sailor"
 author: "Rick Spilman"
-description: "Fascinating commentary on the joys and sacrifices of following her dreams by three-time Olympian sailor Nikola Girke, as she prepares for Rio 2016. “It takes guts to dream” – Canadian Olympian – Nikola Girke … Continue reading &rarr;"
+description: "Fascinating commentary on the joys and sacrifices of following her dreams by three-time Olympian sailor Nikola Girke, as she prepares for Rio 2016. \"It takes guts to dream\" – Canadian Olympian – Nikola Girke … Continue reading &rarr;"
 ---
 
 Fascinating commentary on the joys and sacrifices of following her dreams by three-time Olympian sailor Nikola Girke, as she prepares for Rio 2016.

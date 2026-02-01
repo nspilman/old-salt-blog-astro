@@ -1,7 +1,7 @@
 ---
 title: "Secrets Hidden in a Whale’s Ear"
 date: 2013-09-22T15:56:20
-slug: secrets-whales-ear
+slug: "secrets-whales-ear"
 excerpt: "Scientists have found the record of a whale’s life in, of all places, its ear.  The carcass of a blue whale, which died after being struck by a ship, has yielded a 10″ slab of ear wax which researchers have … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

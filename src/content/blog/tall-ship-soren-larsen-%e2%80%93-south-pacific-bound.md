@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship Soren Larsen – South Pacific Bound"
 date: 2010-04-07T09:44:41
-slug: tall-ship-soren-larsen-%e2%80%93-south-pacific-bound
+slug: "tall-ship-soren-larsen-%e2%80%93-south-pacific-bound"
 excerpt: "The Tall Ship Soren Larsen is returning to the Pacific in 2010 2010 Summer Voyaging In May the ship will depart from New Zealand for the South Seas with a voyage route chosen to encompass some of our favourite island … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

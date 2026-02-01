@@ -1,8 +1,8 @@
 ---
-title: "MS Satoshi, Attempt to “Seastead” on a Bitcoin Cruise Ship Fails, Not Surprisingly"
+title: "MS Satoshi, Attempt to \"Seastead\" on a Bitcoin Cruise Ship Fails, Not Surprisingly"
 date: 2021-09-13T16:13:22
-slug: ms-satoshi-attempt-to-seastead-on-a-bitcoin-cruise-ship-fails-not-surprisingly
-excerpt: "The Guardian recently published “The disastrous voyage of Satoshi, the world’s first cryptocurrency cruise ship.” Thanks to Joan Druett for pointing it out. In 2020, three cryptocurrency enthusiasts bought a pandemic-bargain cruise ship with plans to create a libertarian utopia, … Continue reading &rarr;"
+slug: "ms-satoshi-attempt-to-seastead-on-a-bitcoin-cruise-ship-fails-not-surprisingly"
+excerpt: "The Guardian recently published \"The disastrous voyage of Satoshi, the world’s first cryptocurrency cruise ship.\" Thanks to Joan Druett for pointing it out. In 2020, three cryptocurrency enthusiasts bought a pandemic-bargain cruise ship with plans to create a libertarian utopia, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -18,7 +18,7 @@ tags:
   - "SeaPod"
   - "seasteading"
 author: "Rick Spilman"
-description: "The Guardian recently published “The disastrous voyage of Satoshi, the world’s first cryptocurrency cruise ship.” Thanks to Joan Druett for pointing it out. In 2020, three cryptocurrency enthusiasts bought a pandemic-bargain cruise ship with plans to create a libertarian utopia, … Continue reading &rarr;"
+description: "The Guardian recently published \"The disastrous voyage of Satoshi, the world’s first cryptocurrency cruise ship.\" Thanks to Joan Druett for pointing it out. In 2020, three cryptocurrency enthusiasts bought a pandemic-bargain cruise ship with plans to create a libertarian utopia, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/satoshi.jpg)The Guardian recently published “[The disastrous voyage of Satoshi, the world’s first cryptocurrency cruise ship](https://www.theguardian.com/news/2021/sep/07/disastrous-voyage-satoshi-cryptocurrency-cruise-ship-seassteading).” Thanks to [Joan Druett](https://www.amazon.com/Joan-Druett/e/B000APKEAQ%3Fref=dbs_a_mng_rwt_scns_share) for pointing it out.

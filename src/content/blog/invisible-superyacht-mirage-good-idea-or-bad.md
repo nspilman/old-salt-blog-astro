@@ -1,8 +1,8 @@
 ---
-title: "“Invisible” Superyacht Mirage — Good Idea or Bad?"
+title: "\"Invisible\" Superyacht Mirage — Good Idea or Bad?"
 date: 2018-10-26T17:54:24
-slug: invisible-superyacht-mirage-good-idea-or-bad
-excerpt: "Italian boatbuilders Fincantieri and Dutch firm Van Geest Designs have developed a design of a 106 meter “Superyacht,” named Mirage, which would effectively become invisible at sea. The design features specially mirrored glass which is intended to reflect the image of the … Continue reading &rarr;"
+slug: "invisible-superyacht-mirage-good-idea-or-bad"
+excerpt: "Italian boatbuilders Fincantieri and Dutch firm Van Geest Designs have developed a design of a 106 meter \"Superyacht,\" named Mirage, which would effectively become invisible at sea. The design features specially mirrored glass which is intended to reflect the image of the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Mirage"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/mirage.jpg"
 author: "Rick Spilman"
-description: "Italian boatbuilders Fincantieri and Dutch firm Van Geest Designs have developed a design of a 106 meter “Superyacht,” named Mirage, which would effectively become invisible at sea. The design features specially mirrored glass which is intended to reflect the image of the … Continue reading &rarr;"
+description: "Italian boatbuilders Fincantieri and Dutch firm Van Geest Designs have developed a design of a 106 meter \"Superyacht,\" named Mirage, which would effectively become invisible at sea. The design features specially mirrored glass which is intended to reflect the image of the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/mirage.jpg)Italian boatbuilders Fincantieri and Dutch firm Van Geest Designs have developed a design of a 106 meter [“Superyacht,” named *Mirage*,](https://www.mirror.co.uk/news/world-news/200million-superyacht-that-turns-invisible-13403228) which would effectively become invisible at sea. The design features specially mirrored glass which is intended to reflect the image of the sea back to onlookers, making the yacht apparently vanish at distances over 50 meters. 

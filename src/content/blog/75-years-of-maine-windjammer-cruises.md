@@ -1,7 +1,7 @@
 ---
 title: "75 years of Maine Windjammer Cruises"
 date: 2011-04-25T22:49:44
-slug: 75-years-of-maine-windjammer-cruises
+slug: "75-years-of-maine-windjammer-cruises"
 excerpt: "For hundreds of years, coastal schooners carried cargoes up and down the hundred harbored coast of Maine.  By the early part of the last century, the schooners were being replaced by trucks and trains.   In 1936 Captain Frank Swift started buying laid  up … Continue reading &rarr;"
 categories:
   - "Current"

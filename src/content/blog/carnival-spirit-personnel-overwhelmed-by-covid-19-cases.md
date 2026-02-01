@@ -1,8 +1,8 @@
 ---
 title: "Carnival Spirit Personnel Overwhelmed by COVID-19 Cases"
 date: 2022-05-05T19:04:52
-slug: carnival-spirit-personnel-overwhelmed-by-covid-19-cases
-excerpt: "Is the cruise industry ready to get back to business in the “new normal” of the late pandemic or will cruise ships remain the floating Petri dishes that typified some ships in the early part of the COVID-19 outbreak? Unfortunately, … Continue reading &rarr;"
+slug: "carnival-spirit-personnel-overwhelmed-by-covid-19-cases"
+excerpt: "Is the cruise industry ready to get back to business in the \"new normal\" of the late pandemic or will cruise ships remain the floating Petri dishes that typified some ships in the early part of the COVID-19 outbreak? Unfortunately, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Vaccination"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/carnivalspirit.jpg"
 author: "Rick Spilman"
-description: "Is the cruise industry ready to get back to business in the “new normal” of the late pandemic or will cruise ships remain the floating Petri dishes that typified some ships in the early part of the COVID-19 outbreak? Unfortunately, … Continue reading &rarr;"
+description: "Is the cruise industry ready to get back to business in the \"new normal\" of the late pandemic or will cruise ships remain the floating Petri dishes that typified some ships in the early part of the COVID-19 outbreak? Unfortunately, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/carnivalspirit.jpg)Is the cruise industry ready to get back to business in the “new normal” of the late pandemic or will cruise ships remain the floating Petri dishes that typified some ships in the early part of the COVID-19 outbreak? Unfortunately, a recent 16-day voyage from Miami to Seattle via the Panama Canal on the 3,000-passenger [*Carnival Spirit*](https://en.wikipedia.org/wiki/Carnival_Spirit) does not provide an encouraging answer to the question.

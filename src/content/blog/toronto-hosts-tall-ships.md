@@ -1,7 +1,7 @@
 ---
 title: "Toronto Hosts Tall Ships"
 date: 2010-07-01T08:49:47
-slug: toronto-hosts-tall-ships
+slug: "toronto-hosts-tall-ships"
 excerpt: "The Redpath Toronto Waterfront Festival started yesterday and will run through July 4th.   The festival is hosting fifteen sailing ships and schooners, including HMS Bounty, the brig Niagara, the Bark Europa, the Pride of Baltimore II,  Brig Roald Amundsen, … Continue reading &rarr;"
 categories:
   - "Current"

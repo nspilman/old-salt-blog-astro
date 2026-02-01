@@ -1,8 +1,8 @@
 ---
 title: "The Coffee Table and the Nemi Ships — Remembering Caligula’s Great Pleasure Barges"
 date: 2017-10-20T08:59:15
-slug: remembering-caligulas-nemi-ships
-excerpt: "Part of one of Roman Emperor Caligula‘s ceremonial Nemi ships has been recovered from an unexpected location. The New York Times reports that a four-by-four piece of mosaic flooring from one of the ships has been “sitting in … the Park … Continue reading &rarr;"
+slug: "remembering-caligulas-nemi-ships"
+excerpt: "Part of one of Roman Emperor Caligula‘s ceremonial Nemi ships has been recovered from an unexpected location. The New York Times reports that a four-by-four piece of mosaic flooring from one of the ships has been \"sitting in … the Park … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "Lake"
   - "Nemi"
 author: "Rick Spilman"
-description: "Part of one of Roman Emperor Caligula‘s ceremonial Nemi ships has been recovered from an unexpected location. The New York Times reports that a four-by-four piece of mosaic flooring from one of the ships has been “sitting in … the Park … Continue reading &rarr;"
+description: "Part of one of Roman Emperor Caligula‘s ceremonial Nemi ships has been recovered from an unexpected location. The New York Times reports that a four-by-four piece of mosaic flooring from one of the ships has been \"sitting in … the Park … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/10/nemiship1.jpg)Part of one of [Roman Emperor Caligula](https://en.wikipedia.org/wiki/Caligula)‘s ceremonial [Nemi ships](https://en.wikipedia.org/wiki/Nemi_ships) has been recovered from an unexpected location. The [New York Times](https://www.nytimes.com/2017/10/19/arts/design/a-remnant-from-caligulas-ship-once-a-coffee-table-heads-home.html?_r=0) reports that a four-by-four piece of mosaic flooring from one of the ships has been “*sitting in … the Park Avenue apartment of an antiques dealer where it was used as a coffee table often to hold a vase of flowers and, occasionally, someone’s drinking glass. … Last month, prosecutors seized the mosaic, saying they had evidence it had been taken from an Italian museum before World War II. On Thursday evening, the piece was returned to the Italian government at a ceremony, along with two other recently recovered antiquities.*” 

@@ -1,7 +1,7 @@
 ---
 title: "Windjammer Peking Needs a New Home – South Street Deal with Hamburg Falls Through"
 date: 2012-10-13T16:58:21
-slug: windjammer-peking-needs-a-new-home-south-street-deal-with-hamburg-falls-through
+slug: "windjammer-peking-needs-a-new-home-south-street-deal-with-hamburg-falls-through"
 excerpt: "The Peking, a steel-hulled four-masted barque built in 1911, which has been a largely neglected fixture at New York’s South Street Seaport for almost the last 40 years, is now in desperate need of a new home. The South Street Seaport Museum thought that … Continue reading &rarr;"
 categories:
   - "Current"

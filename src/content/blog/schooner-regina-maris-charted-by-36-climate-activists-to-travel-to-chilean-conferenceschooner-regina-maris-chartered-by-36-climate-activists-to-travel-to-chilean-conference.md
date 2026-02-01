@@ -1,7 +1,7 @@
 ---
 title: "Schooner Regina Maris Chartered by 36 Climate Activists to Travel to Chilean Conference"
 date: 2019-10-04T17:22:06
-slug: schooner-regina-maris-charted-by-36-climate-activists-to-travel-to-chilean-conferenceschooner-regina-maris-chartered-by-36-climate-activists-to-travel-to-chilean-conference
+slug: "schooner-regina-maris-charted-by-36-climate-activists-to-travel-to-chilean-conferenceschooner-regina-maris-chartered-by-36-climate-activists-to-travel-to-chilean-conference"
 excerpt: "Following the example of Greta Thunberg, who traveled to a UN climate conference by sail in August, 36 young climate change activists set sail from Amsterdam on October 2, bound for COP25 – the United Nations Climate Conference.  Rather than … Continue reading &rarr;"
 categories:
   - "Current"

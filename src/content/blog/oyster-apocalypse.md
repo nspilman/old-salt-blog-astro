@@ -1,7 +1,7 @@
 ---
 title: "Oyster Apocalypse?"
 date: 2011-02-16T19:02:02
-slug: oyster-apocalypse
+slug: "oyster-apocalypse"
 excerpt: "According to a study published in the February issue of BioScience, 85% percent of the world’s native oyster reefs have been destroyed. Oyster Apocalypse? Truth About Bivalve Obliteration Three-quarters of the wild oysters left in the world, the study says, now … Continue reading &rarr;"
 categories:
   - "Current"

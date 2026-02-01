@@ -1,7 +1,7 @@
 ---
 title: "Tall Ships Race to Hartlepool August 7th – 10th"
 date: 2010-08-04T07:14:44
-slug: tall-ships-race-to-hartlepool-august-7th-10th
+slug: "tall-ships-race-to-hartlepool-august-7th-10th"
 excerpt: "Race number two of the Tall Ships Races 2010 is now under way from Kristiansand, Norway to Hartlepool, UK.  The tall ships will be on display in Hartlepool from August 7th through the 10th. Tall Ships – Hartlepool To learn … Continue reading &rarr;"
 categories:
   - "Current"

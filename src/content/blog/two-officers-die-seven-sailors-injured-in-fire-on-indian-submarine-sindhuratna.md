@@ -1,7 +1,7 @@
 ---
 title: "Two Officers Die, Seven Sailors Injured in Fire on Indian Submarine Sindhuratna"
 date: 2014-03-01T08:05:24
-slug: two-officers-die-seven-sailors-injured-in-fire-on-indian-submarine-sindhuratna
+slug: "two-officers-die-seven-sailors-injured-in-fire-on-indian-submarine-sindhuratna"
 excerpt: "Two Indian naval officers, Lieutenant Commander Kapish Muwal and Lieutenant Manoranjan Kumar, died in a fire on the submarine INS Sindhuratna.  Seven sailors were evacuated suffering from smoke inhalation. The fire broke out around 40 nautical miles off Mumbai early … Continue reading &rarr;"
 categories:
   - "Current"

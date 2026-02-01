@@ -1,7 +1,7 @@
 ---
 title: "Queen Mary Operators Plan to Remove B-427 ‘Scorpion’ Submarine"
 date: 2019-03-30T23:09:40
-slug: queen-mary-operators-plan-to-remove-b-427-scorpion-submarine
+slug: "queen-mary-operators-plan-to-remove-b-427-scorpion-submarine"
 excerpt: "Are you interested in acquiring a Foxtrot-class Soviet-era submarine? If so, the folks at Urban Commons, the operators of the hotel and tourist attraction Queen Mary in Long Beach may want to talk to you. They have a well-used submarine … Continue reading &rarr;"
 categories:
   - "Current"

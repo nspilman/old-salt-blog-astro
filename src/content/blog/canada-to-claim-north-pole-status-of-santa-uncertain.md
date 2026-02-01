@@ -1,7 +1,7 @@
 ---
 title: "Canada to Claim North Pole — Status of Santa Uncertain"
 date: 2013-12-06T14:34:04
-slug: canada-to-claim-north-pole-status-of-santa-uncertain
+slug: "canada-to-claim-north-pole-status-of-santa-uncertain"
 excerpt: "Reports are that Canada is filing a claim to extend its northern sea boundary to encompass an area of over 1 million square miles of Arctic seafloor which includes the North Pole, under provisions of the United Nations Convention on … Continue reading &rarr;"
 categories:
   - "Current"

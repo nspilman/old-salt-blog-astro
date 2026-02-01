@@ -1,7 +1,7 @@
 ---
 title: "Maidentrip — A Documentary of Laura Dekker’s Epic Voyage"
 date: 2015-09-14T19:03:00
-slug: maidentrip-a-documentary-of-laura-dekkers-epic-voyage
+slug: "maidentrip-a-documentary-of-laura-dekkers-epic-voyage"
 excerpt: "I recently watched Maidentrip, a wonderful, award winning documentary by Jillian Schlesinger about 14 year old Laura Dekker‘s almost two year solo circumnavigation on her Jeaneau Gin Fizz ketch, Guppy.  It is a fascinating tale about young sailor’s coming of age … Continue reading &rarr;"
 categories:
   - "Current"

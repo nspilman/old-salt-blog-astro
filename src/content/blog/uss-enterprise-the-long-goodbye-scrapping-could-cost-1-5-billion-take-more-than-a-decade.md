@@ -1,7 +1,7 @@
 ---
 title: "USS Enterprise & the Long Goodbye: Scrapping Could Cost $1.5 Billion &Take More Than a Decade"
 date: 2021-11-11T09:14:50
-slug: uss-enterprise-the-long-goodbye-scrapping-could-cost-1-5-billion-take-more-than-a-decade
+slug: "uss-enterprise-the-long-goodbye-scrapping-could-cost-1-5-billion-take-more-than-a-decade"
 excerpt: "We recently posted about how the US Navy’s last two non-nuclear carriers were sold for scrap for the modest sum of one cent each. By some standards, that was not such a bad deal.  A recent report by the General … Continue reading &rarr;"
 categories:
   - "Current"

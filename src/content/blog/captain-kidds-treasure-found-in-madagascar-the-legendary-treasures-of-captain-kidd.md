@@ -1,7 +1,7 @@
 ---
 title: "Captain Kidd’s Treasure Found in Madagascar? The Legendary Treasures of Captain Kidd"
 date: 2015-05-23T17:22:26
-slug: captain-kidds-treasure-found-in-madagascar-the-legendary-treasures-of-captain-kidd
+slug: "captain-kidds-treasure-found-in-madagascar-the-legendary-treasures-of-captain-kidd"
 excerpt: "Earlier this month, salvors reported finding a 50 kg silver bar off the coast of Madagascar, which they believed to be part of Captain Kidd‘s treasure lost in the sinking of the Adventure Galley in 1698.  The salvors are confident that they will … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "April Fool’s Pirates Mistake USS Nicholas for a Merchant Ship – No Joke"
 date: 2013-04-01T09:46:45
-slug: april-fools-pirates-mistake-uss-nicholas-for-a-merchant-ship-no-joke
+slug: "april-fools-pirates-mistake-uss-nicholas-for-a-merchant-ship-no-joke"
 excerpt: "An April Fool’s post that is no joke. At 12:27 a.m. on April 1, 2010, in the Indian Ocean west of the Seychelles, three Somali pirates in a small skiff attacked what they thought was a merchant vessel.  It wasn’t. They … Continue reading &rarr;"
 categories:
   - "Current"

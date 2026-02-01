@@ -1,7 +1,7 @@
 ---
 title: "Update: Thames Sailing Barge Blue Mermaid Authorized to Carry Cargo in the Thames"
 date: 2023-03-03T16:52:27
-slug: update-thames-sailing-barge-blue-mermaid-authorized-to-carry-cargo-in-the-thames
+slug: "update-thames-sailing-barge-blue-mermaid-authorized-to-carry-cargo-in-the-thames"
 excerpt: "In 2019, we posted about Blue Mermaid, the first sailing barge built for trade in Britain since 1930. Recently, the Maritime and Coastguard Agency has granted permission to the Sea-Change Sailing Trust, which owns the Blue Mermaid, for the barge … Continue reading &rarr;"
 categories:
   - "Current"

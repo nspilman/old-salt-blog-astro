@@ -1,7 +1,7 @@
 ---
 title: "Passengers on Antarctic cruise ship, Polar Star, to be evacuated after grounding"
 date: 2011-02-03T15:58:24
-slug: antarctic-cruise-ship-polar-star-passengers-to-be-evacuated-after-grounding
+slug: "antarctic-cruise-ship-polar-star-passengers-to-be-evacuated-after-grounding"
 excerpt: "On Monday, the Polar Star struck a rock while at anchor near Detaille Island, a small island off the Northern end of Arrowsmith Peninsula in Antarctica.     The grounding damaged the outer hull of the double hulled ship.  The ship sailed for the Arctowski Station, … Continue reading &rarr;"
 categories:
   - "Current"

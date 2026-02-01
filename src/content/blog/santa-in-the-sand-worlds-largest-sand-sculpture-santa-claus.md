@@ -1,7 +1,7 @@
 ---
 title: "Santa in the Sand  – World’s Largest Sand Sculpture Santa Claus"
 date: 2011-12-24T09:33:42
-slug: santa-in-the-sand-worlds-largest-sand-sculpture-santa-claus
+slug: "santa-in-the-sand-worlds-largest-sand-sculpture-santa-claus"
 excerpt: "I love walking the beach in the wintertime, though I would be surprised to come across a 100 foot long Santa Claus. In 2008, sand artist Sudarsan Pattnaik and his team created a sand sculpture of Santa Claus at Puri beach … Continue reading &rarr;"
 categories:
   - "Current"

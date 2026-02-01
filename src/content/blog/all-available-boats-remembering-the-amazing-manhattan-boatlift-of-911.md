@@ -1,7 +1,7 @@
 ---
 title: "All Available Boats — Remembering the Amazing Manhattan Boatlift of 9/11"
 date: 2015-09-11T13:09:36
-slug: all-available-boats-remembering-the-amazing-manhattan-boatlift-of-911
+slug: "all-available-boats-remembering-the-amazing-manhattan-boatlift-of-911"
 excerpt: "This morning was overcast and threatening rain on the West bank of the Hudson River. Fourteen years ago, on September 11, 2001, it was a sunny, clear day. A Nor’westerly wind was blowing and the air was cool and crisp. … Continue reading &rarr;"
 categories:
   - "History"

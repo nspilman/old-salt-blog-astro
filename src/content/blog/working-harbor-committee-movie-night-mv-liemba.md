@@ -1,8 +1,8 @@
 ---
 title: "Working Harbor Committee Movie Night — MV Liemba"
 date: 2015-03-26T09:43:08
-slug: working-harbor-committee-movie-night-mv-liemba
-excerpt: "If you happen to be near New York City next Tuesday night, March 31st, be sure to stop by the Community Church to “take an epic journey down the longest lake in the world on Africa’s last surviving steamship…. the … Continue reading &rarr;"
+slug: "working-harbor-committee-movie-night-mv-liemba"
+excerpt: "If you happen to be near New York City next Tuesday night, March 31st, be sure to stop by the Community Church to \"take an epic journey down the longest lake in the world on Africa’s last surviving steamship…. the … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"

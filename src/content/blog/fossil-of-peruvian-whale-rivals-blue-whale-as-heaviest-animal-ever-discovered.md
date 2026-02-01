@@ -1,7 +1,7 @@
 ---
 title: "Fossil of Peruvian Whale Rivals Blue Whale as Heaviest Animal Ever Discovered"
 date: 2023-08-08T20:24:45
-slug: fossil-of-peruvian-whale-rivals-blue-whale-as-heaviest-animal-ever-discovered
+slug: "fossil-of-peruvian-whale-rivals-blue-whale-as-heaviest-animal-ever-discovered"
 excerpt: "A recent study published in the journal Nature describes an extinct whale, Perucetus colossus, discovered in the desert in southern Peru, that rivals the blue whale in weight, if not necessarily in length.  The Perucetus colossus was a basilosaurid whale … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Black History Month — John Henry Turpin : Pioneer, Survivor, and Overlooked Hero"
 date: 2022-02-23T17:46:42
-slug: black-history-month-john-henry-turpin-pioneer-survivor-and-overlooked-hero
+slug: "black-history-month-john-henry-turpin-pioneer-survivor-and-overlooked-hero"
 excerpt: "John Henry Turpin was one of the first Black Chief Petty Officers to serve in the United States Navy. He was also a survivor of two naval disasters — the catastrophic explosions of the USS Maine in 1898, and USS Bennington in … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Historic Schooner Bowdoin Bound Back to the Arctic"
 date: 2024-06-16T17:16:12
-slug: historic-schooner-bowdoin-bound-back-to-the-arctic
+slug: "historic-schooner-bowdoin-bound-back-to-the-arctic"
 excerpt: "The schooner Bowdoin, built for Arctic exploration in 1921, is headed for the Arctic for the first time since 2008, more than 100 years since her first such expedition.  The schooner, owned by Maine Maritime Academy (MMA), is sailed by a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

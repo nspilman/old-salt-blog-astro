@@ -1,7 +1,7 @@
 ---
 title: "British Passenger Seen Falling Overboard from Cruise Ship Allure of the Seas"
 date: 2012-02-04T10:05:20
-slug: british-passenger-seen-falling-overboard-from-allure-of-the-sea
+slug: "british-passenger-seen-falling-overboard-from-allure-of-the-sea"
 excerpt: "On Friday morning, a British passenger was seen falling overboard  fell from the balcony of his cruise ship cabin on the Royal Caribbean cruise ship,  the Allure of the Seas, while cruising off the coast of Mexico, near the island of Cozumel.  The Allure of the Seas with a capacity of … Continue reading &rarr;"
 categories:
   - "Current"

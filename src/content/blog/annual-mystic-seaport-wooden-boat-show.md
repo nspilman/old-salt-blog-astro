@@ -1,7 +1,7 @@
 ---
 title: "20th Annual Mystic Seaport Wooden Boat Show"
 date: 2011-06-24T09:33:12
-slug: annual-mystic-seaport-wooden-boat-show
+slug: "annual-mystic-seaport-wooden-boat-show"
 excerpt: "For anyone in the area, the Mystic Seaport Wooden Boat Show, which starts today and runs through Sunday,  is well worth stopping by.   The show is sponsored in partnership with WoodenBoat  Publications. The WoodenBoat Show A video about the show: 20th … Continue reading &rarr;"
 categories:
   - "Current"

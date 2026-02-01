@@ -1,7 +1,7 @@
 ---
 title: "Port Congestion Spreads to East Coast & Major Shippers Charter Ships Independently"
 date: 2021-09-27T14:29:00
-slug: port-congestion-spreads-to-east-coast-major-shippers-charter-ships-independently
+slug: "port-congestion-spreads-to-east-coast-major-shippers-charter-ships-independently"
 excerpt: "We recently posted about the record congestion in the ports of Los Angeles and Long Beach where over 60 container ships wait at anchor or simply drift offshore awaiting berth space.  The port congestion has spread to the East Coast … Continue reading &rarr;"
 categories:
   - "Current"

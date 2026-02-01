@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship Pelican For Sale"
 date: 2012-05-03T07:33:07
-slug: tall-ship-pelican-for-sale
+slug: "tall-ship-pelican-for-sale"
 excerpt: "One of the most beautiful and most interesting tall ship sailing today, at least to my eye, is the three-masted barquentine Pelican.  The Pelican is 148ft long overall, square rigged on the main mast but fore and aft rigged on the fore mast and … Continue reading &rarr;"
 categories:
   - "Current"

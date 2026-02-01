@@ -1,7 +1,7 @@
 ---
 title: "Vindskip Design Uses Its Hull as a Sail"
 date: 2015-01-18T18:31:02
-slug: vindskip-design-uses-its-hull-as-a-sail
+slug: "vindskip-design-uses-its-hull-as-a-sail"
 excerpt: "The Norwegian firm Lade AS is developing a hybrid ship design, Vindskip, in which the ship sails using lift off its airfoil shaped hull. It is an intriguing design. Nevertheless, I can’t quite figure out how it would work in … Continue reading &rarr;"
 categories:
   - "Current"

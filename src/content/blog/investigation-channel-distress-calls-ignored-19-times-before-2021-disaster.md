@@ -1,7 +1,7 @@
 ---
 title: "Investigation : Channel Distress Calls Ignored 19 Times Before 2021 Disaster"
 date: 2023-05-01T13:28:47
-slug: investigation-channel-distress-calls-ignored-19-times-before-2021-disaster
+slug: "investigation-channel-distress-calls-ignored-19-times-before-2021-disaster"
 excerpt: "A recent investigation reveals that at least 440 people in distress appear to have been abandoned in the weeks before the worst Channel disaster in 30 years. On November 23, 2021, at around 10PM an inflatable boat with over 30 … Continue reading &rarr;"
 categories:
   - "Current"

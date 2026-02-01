@@ -1,7 +1,7 @@
 ---
 title: "Sea Shepherd’s New Speed Boat, Brigitte Bardot, Broken by the Southern Ocean"
 date: 2011-12-29T09:28:33
-slug: sea-shepherds-new-toy-boat-brigitte-bardot-broken-by-the-southern-ocean
+slug: "sea-shepherds-new-toy-boat-brigitte-bardot-broken-by-the-southern-ocean"
 excerpt: "The reality TV stars, the Sea Shepherds, took their newest speed boat, the Brigitte Bardot, out on the Southern Ocean recently, which proved to be more than it could handle. The Brigitte Bardot reportedly cracked its main hull and severely damaged the port … Continue reading &rarr;"
 categories:
   - "Current"

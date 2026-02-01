@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Glaciologist Dr. Heïdi Sevestre on Winning Inaugural Shackleton Medal"
 date: 2022-04-06T17:03:56
-slug: congratulations-to-glaciologist-dr-heidi-sevestre-on-winning-inaugural-shackleton-medal
+slug: "congratulations-to-glaciologist-dr-heidi-sevestre-on-winning-inaugural-shackleton-medal"
 excerpt: "Congratulations to glaciologist Dr. Heïdi Sevestre on winning the inaugural Shackleton Medal for the Protection of the Polar Regions. Dr. Sevestre, a pioneering climate activist, expedition leader, scientific researcher, documentary maker, and lobbyist, receives a prize of £10,000 as a contribution … Continue reading &rarr;"
 categories:
   - "Current"

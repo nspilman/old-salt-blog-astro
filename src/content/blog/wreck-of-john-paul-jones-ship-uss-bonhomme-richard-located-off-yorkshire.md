@@ -1,7 +1,7 @@
 ---
 title: "Wreck of John Paul Jones’ Ship USS Bonhomme Richard Located Off Yorkshire"
 date: 2018-12-10T17:48:44
-slug: wreck-of-john-paul-jones-ship-uss-bonhomme-richard-located-off-yorkshire
+slug: "wreck-of-john-paul-jones-ship-uss-bonhomme-richard-located-off-yorkshire"
 excerpt: "Researchers believe that wreckage found off the coast of Filey in Yorkshire is from the American warship USS Bonhomme Richard.  The ship, under the command of John Paul Jones, fought a four-hour battle with HMS Serapis off nearby Flamborough Head in … Continue reading &rarr;"
 categories:
   - "Current"

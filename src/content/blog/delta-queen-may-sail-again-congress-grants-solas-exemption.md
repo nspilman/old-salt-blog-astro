@@ -1,7 +1,7 @@
 ---
 title: "Delta Queen May Sail Again — Congress Grants SOLAS Exemption"
 date: 2018-11-28T16:53:18
-slug: delta-queen-may-sail-again-congress-grants-solas-exemption
+slug: "delta-queen-may-sail-again-congress-grants-solas-exemption"
 excerpt: "Yesterday, the House of Representatives, in a provision of a U.S. Coast Guard reauthorization bill, voted to grant a waiver exempting the riverboat Delta Queen from certain fire safety regulations. The bill, which now only requires the president’s signature to take … Continue reading &rarr;"
 categories:
   - "Current"

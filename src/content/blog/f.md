@@ -1,7 +1,7 @@
 ---
 title: "Collision between New York City Fireboats  Firefighter II and 343"
 date: 2011-06-18T11:37:42
-slug: f
+slug: "f"
 excerpt: "In  a lawsuit  a whistleblower is charging that New York City’s new $27 million Fireboat 343, named after the number of New York firefighters killed on 9/11, was damaged in a storm last winter when sideswiped by another fireboat, the Firefighter II, … Continue reading &rarr;"
 categories:
   - "Current"

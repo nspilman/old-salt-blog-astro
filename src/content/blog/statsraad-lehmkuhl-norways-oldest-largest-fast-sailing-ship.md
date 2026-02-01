@@ -1,7 +1,7 @@
 ---
 title: "Statsraad Lehmkuhl — Norway’s Oldest, Largest, and Very Fast Sailing Ship"
 date: 2016-12-04T09:00:05
-slug: statsraad-lehmkuhl-norways-oldest-largest-fast-sailing-ship
+slug: "statsraad-lehmkuhl-norways-oldest-largest-fast-sailing-ship"
 excerpt: "The three masted barque Statsraad Lehmkuhl is many things. Based in Bergen, Norway, at 102 years old, she is Norway’s largest and oldest square-rigged sailing ship. She is also very beautiful and very fast. In this year’s Tall Ship Races, she … Continue reading &rarr;"
 categories:
   - "Current"

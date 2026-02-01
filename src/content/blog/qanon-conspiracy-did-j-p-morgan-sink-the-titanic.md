@@ -1,7 +1,7 @@
 ---
 title: "QAnon Conspiracy: Did J.P. Morgan Sink the Titanic?"
 date: 2020-09-07T11:46:05
-slug: qanon-conspiracy-did-j-p-morgan-sink-the-titanic
+slug: "qanon-conspiracy-did-j-p-morgan-sink-the-titanic"
 excerpt: "The QAnon conspiracy nuts seem to be growing in number, so it seems to be a good time to look at an older conspiracy picked up by the current QAnon crowd.  The conspiracy theory claims that J.P. Morgan sank the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

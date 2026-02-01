@@ -1,8 +1,8 @@
 ---
 title: "Message in a Bottle Helped Rescue Crew of MV Montecristo"
 date: 2011-10-16T09:53:16
-slug: message-in-a-bottle-helped-rescue-crew-of-mv-montecristo
-excerpt: "The current recommended response on a merchant ship on being boarded by pirates is to radio a distress call,  disable the ship’s engines and to retreat into a “citadel,” a safe locked-down space aboard the ship and await either rescue or until … Continue reading &rarr;"
+slug: "message-in-a-bottle-helped-rescue-crew-of-mv-montecristo"
+excerpt: "The current recommended response on a merchant ship on being boarded by pirates is to radio a distress call,  disable the ship’s engines and to retreat into a \"citadel,\" a safe locked-down space aboard the ship and await either rescue or until … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -11,7 +11,7 @@ tags:
   - "MV Montecristo"
   - "pirates"
 author: "Rick Spilman"
-description: "The current recommended response on a merchant ship on being boarded by pirates is to radio a distress call,  disable the ship’s engines and to retreat into a “citadel,” a safe locked-down space aboard the ship and await either rescue or until … Continue reading &rarr;"
+description: "The current recommended response on a merchant ship on being boarded by pirates is to radio a distress call,  disable the ship’s engines and to retreat into a \"citadel,\" a safe locked-down space aboard the ship and await either rescue or until … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/Montecristo-carrier-007.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Darwin200 — Retracing the Voyage of HMS Beagle on 105-Year-Old Dutch Schooner Oosterschelde"
 date: 2023-08-17T18:23:31
-slug: darwin200-retracing-the-voyage-of-hms-beagle-on-105-year-old-dutch-schooner-oosterschelde
+slug: "darwin200-retracing-the-voyage-of-hms-beagle-on-105-year-old-dutch-schooner-oosterschelde"
 excerpt: "Almost 200 years ago, Charles Darwin set sail from Plymouth, UK, as a naturalist on HMS Beagle on an epic voyage that would prove pivotal in the development of his theories of evolution.   This week, the 105-year-old Dutch schooner Oosterschelde set … Continue reading &rarr;"
 categories:
   - "Current"

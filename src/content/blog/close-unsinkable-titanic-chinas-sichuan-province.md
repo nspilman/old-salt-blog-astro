@@ -1,7 +1,7 @@
 ---
 title: "A Close to Unsinkable Titanic in China’s Sichuan Province"
 date: 2016-12-13T09:50:19
-slug: close-unsinkable-titanic-chinas-sichuan-province
+slug: "close-unsinkable-titanic-chinas-sichuan-province"
 excerpt: "Back in 2012, we posted about Australian billionaire Clive Palmer’s grand plans to build a sorta-replica of RMS Titanic. The Titanic II, as it was to be known, was supposed to be built in a Chinese shipyard enter with a … Continue reading &rarr;"
 categories:
   - "Current"

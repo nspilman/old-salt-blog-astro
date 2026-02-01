@@ -1,7 +1,7 @@
 ---
 title: "Refloating the Costa Concordia"
 date: 2014-07-14T08:36:59
-slug: refloating-the-costa-concordia
+slug: "refloating-the-costa-concordia"
 excerpt: "Two and a half years ago,  the cruise ship Costa Concordia ran aground, sank and capsized with the loss of 32 passengers and crew, off the island of Giglio in the Tyrrhenian Sea off Tuscany.  This morning, the ship was re-floated  as … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

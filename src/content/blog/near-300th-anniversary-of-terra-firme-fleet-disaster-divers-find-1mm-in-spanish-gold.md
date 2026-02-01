@@ -1,7 +1,7 @@
 ---
 title: "Near 300th Anniversary of Terra Firme Fleet Disaster, Divers Find $1MM in Spanish Gold"
 date: 2015-08-03T21:09:25
-slug: near-300th-anniversary-of-terra-firme-fleet-disaster-divers-find-1mm-in-spanish-gold
+slug: "near-300th-anniversary-of-terra-firme-fleet-disaster-divers-find-1mm-in-spanish-gold"
 excerpt: "On July 30, 1715 the Spanish Terra Firme and New Spain fleets, bound from Havana to Spain, were hit by a hurricane off the coast of Florida.  Eleven ships were blown up on to the reefs and sank. Only one ship … Continue reading &rarr;"
 categories:
   - "Current"

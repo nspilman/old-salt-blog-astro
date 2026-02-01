@@ -1,7 +1,7 @@
 ---
 title: "Major Gas Leak at Total Elgin Platform in the North Sea – Why it Matters"
 date: 2012-03-28T08:00:12
-slug: major-gas-leak-at-total-elgin-platform-in-the-north-sea-why-it-matters
+slug: "major-gas-leak-at-total-elgin-platform-in-the-north-sea-why-it-matters"
 excerpt: "The Elgin platform in the North Sea, 150 miles (240km) off Aberdeen, suffered a serious natural gas on Sunday.   It is expected at take several weeks, in the best case scenario, to shut off the leak. Some estimates suggest that it will take 6 months … Continue reading &rarr;"
 categories:
   - "Current"

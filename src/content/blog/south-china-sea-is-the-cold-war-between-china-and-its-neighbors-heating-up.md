@@ -1,7 +1,7 @@
 ---
 title: "South China Sea – Is the Cold War Between China and its Neighbors Heating Up?"
 date: 2012-05-10T09:21:27
-slug: south-china-sea-is-the-cold-war-between-china-and-its-neighbors-heating-up
+slug: "south-china-sea-is-the-cold-war-between-china-and-its-neighbors-heating-up"
 excerpt: "Last month we posted about a stand-off between Chinese fishing vessels and Philippine Coast Guard ships at Scarborough Shoal in the South China  Sea.  Both nations claim sovereignty over the area. Even the island name is in contention. The Philipines refers to Scarborough Shoal as Panatag … Continue reading &rarr;"
 categories:
   - "Current"

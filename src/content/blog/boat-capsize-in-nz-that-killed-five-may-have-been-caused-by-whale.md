@@ -1,7 +1,7 @@
 ---
 title: "Boat Capsize in NZ That Killed Five May Have Been Caused by Whale"
 date: 2022-09-12T16:48:54
-slug: boat-capsize-in-nz-that-killed-five-may-have-been-caused-by-whale
+slug: "boat-capsize-in-nz-that-killed-five-may-have-been-caused-by-whale"
 excerpt: "The BBC reports that five people died in New Zealand after a birdwatching boat capsized, possibly after colliding with a whale. Eleven people, mostly from the birdwatching group, were onboard when the boat capsized on Saturday in Goose Bay near … Continue reading &rarr;"
 categories:
   - "Current"

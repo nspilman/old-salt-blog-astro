@@ -1,8 +1,8 @@
 ---
 title: "Project Shiphunt: Discovering the M.F. Merrick"
 date: 2011-07-15T13:27:35
-slug: project-shiphunt-discovering-the-m-f-merrick
-excerpt: "Sony and Intel have partnered to sponsor “Project Shiphunt.”  The project sponsored a group of Michigan high school students to discover an historic sunken ship in The Great Lakes using Sony VAIO laptops. So far they have assisted in the … Continue reading &rarr;"
+slug: "project-shiphunt-discovering-the-m-f-merrick"
+excerpt: "Sony and Intel have partnered to sponsor \"Project Shiphunt.\"  The project sponsored a group of Michigan high school students to discover an historic sunken ship in The Great Lakes using Sony VAIO laptops. So far they have assisted in the … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "Sony"
   - "steel freighter Etruria."
 author: "Rick Spilman"
-description: "Sony and Intel have partnered to sponsor “Project Shiphunt.”  The project sponsored a group of Michigan high school students to discover an historic sunken ship in The Great Lakes using Sony VAIO laptops. So far they have assisted in the … Continue reading &rarr;"
+description: "Sony and Intel have partnered to sponsor \"Project Shiphunt.\"  The project sponsored a group of Michigan high school students to discover an historic sunken ship in The Great Lakes using Sony VAIO laptops. So far they have assisted in the … Continue reading &rarr;"
 ---
 
 Sony and Intel have partnered to sponsor [“Project Shiphunt](http://blog.discover.sonystyle.com/announcing-project-shiphunt).”  The project sponsored a group of Michigan high school students to discover an historic sunken ship in The Great Lakes using Sony VAIO laptops. So far they have assisted in the discovery of two sunken ships, the schooner *M.F. Merrick* and the steel freighter *Etruria*.  The video below describes finding the *Merrick.*

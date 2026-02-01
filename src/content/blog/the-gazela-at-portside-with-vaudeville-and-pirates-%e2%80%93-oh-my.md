@@ -1,7 +1,7 @@
 ---
 title: "The Gazela at Portside with Vaudeville and Pirates – Oh My!"
 date: 2010-08-16T09:43:03
-slug: the-gazela-at-portside-with-vaudeville-and-pirates-%e2%80%93-oh-my
+slug: "the-gazela-at-portside-with-vaudeville-and-pirates-%e2%80%93-oh-my"
 excerpt: "Earlier this month we posted about Philadelphia’s tall ship, the barquentine Gazela, returning to sea after suffering rudder damage several years ago.  After participating in a  Portuguese festival in New Bedford, MA the Gazela will be visiting PortSide  New York,starting this Thursday August 19th to Monday the 23rd.  She will be … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "One Way to Win a Bass Fishing Tournament – Steal Your Own Bass"
 date: 2013-01-12T09:32:55
-slug: one-way-to-win-a-bass-fishing-tournament-steal-your-own-bass
+slug: "one-way-to-win-a-bass-fishing-tournament-steal-your-own-bass"
 excerpt: "Last summer, 29 year old Matthew Clark almost won the latest Bailiwick Bass Club Open Challenge in Guernsey.  The almost 14 pound fish that he presented at the weigh in should have the won the the £800 first prize if one of the judges … Continue reading &rarr;"
 categories:
   - "Current"

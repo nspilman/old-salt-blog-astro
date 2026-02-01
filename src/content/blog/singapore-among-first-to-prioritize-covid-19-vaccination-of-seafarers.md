@@ -1,7 +1,7 @@
 ---
 title: "Singapore Among First to Prioritize Covid-19 Vaccination of Seafarers"
 date: 2021-01-26T15:55:27
-slug: singapore-among-first-to-prioritize-covid-19-vaccination-of-seafarers
+slug: "singapore-among-first-to-prioritize-covid-19-vaccination-of-seafarers"
 excerpt: "Singapore has become one of the first states to prioritize seafarers to receive the Covid-19 vaccine. Nautilus International reports that more than 10,000 maritime workers are scheduled for vaccination by the end of January 2021 under the country’s Sea – … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Russian Replica Frigate Shtandart Banned From Brest Maritime Festival"
 date: 2024-07-10T19:23:44
-slug: russian-replica-frigate-shtandart-banned-from-brest-maritime-festival
+slug: "russian-replica-frigate-shtandart-banned-from-brest-maritime-festival"
 excerpt: "A few days before one of the world’s largest maritime gatherings, the crew of the Russian sailing ship Shtandart learned that it would not be able to participate in the Brest festivities due to the extension of European sanctions due … Continue reading &rarr;"
 categories:
   - "Current"

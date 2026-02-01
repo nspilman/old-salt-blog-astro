@@ -1,7 +1,7 @@
 ---
 title: "Summer Camp Aboard the Delaware Oyster Schooner AJ Meerwald"
 date: 2014-06-20T08:37:23
-slug: summer-camps-aboard-the-delaware-oyster-schooner-aj-meerwald
+slug: "summer-camps-aboard-the-delaware-oyster-schooner-aj-meerwald"
 excerpt: "I wish that I had been sent to a summer camp aboard a historic schooner when I was a kid. Growing up in Texas, I remember summer camps notable for scrub mesquite trees, cactus and snakes, only some of which were … Continue reading &rarr;"
 categories:
   - "Current"

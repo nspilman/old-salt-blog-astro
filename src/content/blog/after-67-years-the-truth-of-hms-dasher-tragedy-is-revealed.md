@@ -1,7 +1,7 @@
 ---
 title: "After 67 years, the truth of HMS Dasher tragedy is revealed"
 date: 2010-11-24T10:53:45
-slug: after-67-years-the-truth-of-hms-dasher-tragedy-is-revealed
+slug: "after-67-years-the-truth-of-hms-dasher-tragedy-is-revealed"
 excerpt: "In 1940 and 1941, Moore McCormack Lines took delivery of four Rio class C3 Class passenger/cargo liners from Sun Shipbuilding.   They were the Rio Hudson, the Rio Parana, the Rio de la Plata and the  Rio de Janeiro.  In May … Continue reading &rarr;"
 categories:
   - "History"

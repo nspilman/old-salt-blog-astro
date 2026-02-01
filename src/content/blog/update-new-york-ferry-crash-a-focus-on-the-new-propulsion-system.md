@@ -1,7 +1,7 @@
 ---
 title: "Update: New York Ferry Crash – A Focus on the New Propulsion System"
 date: 2013-01-10T19:04:26
-slug: update-new-york-ferry-crash-a-focus-on-the-new-propulsion-system
+slug: "update-new-york-ferry-crash-a-focus-on-the-new-propulsion-system"
 excerpt: "The captain of the Seastreak Wall Street ferry which hit the Pier 11 in New York yesterday morning, injuring more than 70 passengers, told investigators that the ferry suffered a mechanical failure.  Captain Jason Reimer said that the engines would not … Continue reading &rarr;"
 categories:
   - "Current"

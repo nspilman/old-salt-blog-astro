@@ -1,7 +1,7 @@
 ---
 title: "On an Ocean of Air – Stena Prototype Tests Air Cushion"
 date: 2010-04-09T09:20:06
-slug: on-an-ocean-of-air-%e2%80%93-stena-prototype-tests-air-cushion
+slug: "on-an-ocean-of-air-%e2%80%93-stena-prototype-tests-air-cushion"
 excerpt: "The idea that cushion of air bubbles might significantly reduce ship resistance through the water has been around for some time. Now Stena is testing the concept with 15 meter prototype vessel. Stena prototype tests air cushion concept … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Recreating 17th Century Sailor’s Grub on the Tall Ship Elissa"
 date: 2016-04-20T09:57:30
-slug: recreating-17th-century-sailors-grub-on-the-tall-ship-elissa
+slug: "recreating-17th-century-sailors-grub-on-the-tall-ship-elissa"
 excerpt: "What we know of the diet of 17th-century sailors comes from written records — log entries, diaries, and journals. Most accounts say that it was pretty bad.  Now, Grace Tsai, a Ph.D. student specializing in nautical archaeology at Texas A&M University, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

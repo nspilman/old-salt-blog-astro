@@ -1,7 +1,7 @@
 ---
-title: "Abby Sunderland Update, Photo of “Wild Eyes”"
+title: "Abby Sunderland Update, Photo of \"Wild Eyes\""
 date: 2010-06-11T17:28:07
-slug: abby-sunderland-update-photo-of-wild-eyes
+slug: "abby-sunderland-update-photo-of-wild-eyes"
 excerpt: "Rough weather is reported to be delaying  the French fishing boat that is on its way to rescue Abby Sunderland.   Her sailboat, Wild Eyes, has been dismasted but has not lost its keel as was earlier reported.   A … Continue reading &rarr;"
 categories:
   - "Current"

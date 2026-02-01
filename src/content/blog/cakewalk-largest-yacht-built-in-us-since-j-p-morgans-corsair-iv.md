@@ -1,7 +1,7 @@
 ---
 title: "Cakewalk – Largest Yacht Built in US Since J.P. Morgan’s Corsair IV"
 date: 2010-12-12T08:45:18
-slug: cakewalk-largest-yacht-built-in-us-since-j-p-morgans-corsair-iv
+slug: "cakewalk-largest-yacht-built-in-us-since-j-p-morgans-corsair-iv"
 excerpt: "While we may prefer prefer vessels with more sticks, cloth and string, we are overdue in acknowledging the construction of  Cakewalk, a new  $82 million 85 meter yacht, which was delivered from Derecktor Shipyards in Bridgeport, CT yard in August. Cakewalk … Continue reading &rarr;"
 categories:
   - "Current"

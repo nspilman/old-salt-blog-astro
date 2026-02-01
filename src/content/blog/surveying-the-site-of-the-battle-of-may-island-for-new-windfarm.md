@@ -1,7 +1,7 @@
 ---
-title: "Surveying the Site of the “Battle of May Island” for New Windfarm"
+title: "Surveying the Site of the \"Battle of May Island\" for New Windfarm"
 date: 2011-08-30T11:30:41
-slug: surveying-the-site-of-the-battle-of-may-island-for-new-windfarm
+slug: "surveying-the-site-of-the-battle-of-may-island-for-new-windfarm"
 excerpt: "There was no actual battle at the Isle of May in the Firth of Forth off Scotland. Nevertheless, on the night of January 31st and the morning of February 1st, 1918,  270 sailors of the Royal Navy lost their lives off the Isle of May … Continue reading &rarr;"
 categories:
   - "Current"

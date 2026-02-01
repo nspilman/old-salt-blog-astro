@@ -1,7 +1,7 @@
 ---
 title: "Is Puerto Rico Getting Enough Help? No Jones Act Waiver, Delays With Hospital Ship USNS Comfort"
 date: 2017-09-27T09:19:00
-slug: is-puerto-rico-getting-enough-help-no-jones-act-waiver-delays-with-hospital-ship-usns-comfort
+slug: "is-puerto-rico-getting-enough-help-no-jones-act-waiver-delays-with-hospital-ship-usns-comfort"
 excerpt: "The island of Puerto Rico was devastated by Hurricane Maria. The damage has been described as apocalyptic.  Most of the island is without power or water and tens of thousands are in shelters or are homeless. The healthcare system is overwhelmed … Continue reading &rarr;"
 categories:
   - "Current"

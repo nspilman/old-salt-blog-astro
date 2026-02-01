@@ -1,7 +1,7 @@
 ---
-title: "DOJ Arrests $260 Million Superyacht “Equanimity” as Bizarre 1MDB Scandal Rolls On"
+title: "DOJ Arrests $260 Million Superyacht \"Equanimity\" as Bizarre 1MDB Scandal Rolls On"
 date: 2018-03-12T09:45:49
-slug: doj-arrests-260-million-superyacht-equanimity-as-bizarre-1mdb-scandal-rolls-on
+slug: "doj-arrests-260-million-superyacht-equanimity-as-bizarre-1mdb-scandal-rolls-on"
 excerpt: "On February 28th, Indonesian police seized the superyacht Equanimity, moored in Bali, at the request of the United States Department of Justice (DOJ). Equanimity is a 300′ luxury yacht owned by Malaysian financier Jho Low. The yacht, which is reported to have … Continue reading &rarr;"
 categories:
   - "Current"

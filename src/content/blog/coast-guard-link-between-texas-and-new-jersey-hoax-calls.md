@@ -1,7 +1,7 @@
 ---
 title: "Coast Guard – Link Between Texas and New Jersey Hoax Distress Calls?"
 date: 2012-06-20T20:21:20
-slug: coast-guard-link-between-texas-and-new-jersey-hoax-calls
+slug: "coast-guard-link-between-texas-and-new-jersey-hoax-calls"
 excerpt: "Last week we posted about a distress call to the Coast Guard reporting a yacht explosion off the New Jersey shore, which was an apparent hoax.  The search and rescue operation which resulted is estimated to have cost over $300,000.  Now the Coast … Continue reading &rarr;"
 categories:
   - "Current"

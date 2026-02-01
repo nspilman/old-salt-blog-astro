@@ -1,7 +1,7 @@
 ---
 title: "San Diego Big Bay Whale Days and Whale Festival"
 date: 2012-01-19T09:47:15
-slug: san-diego-whale-festival-sat-jan-21-2012
+slug: "san-diego-whale-festival-sat-jan-21-2012"
 excerpt: "Every year, around 26,000 gray whales (Eschrichtius robustus) make the 10,000 mile journey from their feeding grounds in the Arctic Sea south to their breeding groups in the lagoons of Baja.  (For an interesting view of the migration see Whale … Continue reading &rarr;"
 categories:
   - "Current"

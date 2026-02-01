@@ -1,7 +1,7 @@
 ---
 title: "Margaret Muir’s Admiralty Orders Released – Floating Gold Free for Three Days!"
 date: 2013-08-11T09:03:16
-slug: margaret-muirs-admiralty-orders-released-floating-gold-free-fro-three-days
+slug: "margaret-muirs-admiralty-orders-released-floating-gold-free-fro-three-days"
 excerpt: "To celebrate the launch of Margaret Muir’s Admiralty Orders – Book 3 in her Oliver Quintrell series, the first book of the series, Floating Gold is free on Amazon for the next three days.  In our review, we called Floating … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

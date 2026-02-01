@@ -1,7 +1,7 @@
 ---
-title: "South Australia Eviro Boss Says Historic Clipper, City of Adelaide, “The Last Thing We Need…”"
+title: "South Australia Eviro Boss Says Historic Clipper, City of Adelaide, \"The Last Thing We Need…\""
 date: 2014-07-03T07:12:11
-slug: south-australia-eviro-boss-says-historic-clipper-city-of-adelaide-the-last-thing-we-need
+slug: "south-australia-eviro-boss-says-historic-clipper-city-of-adelaide-the-last-thing-we-need"
 excerpt: "The composite clipper, City of Adelaide, built in 1864, is the world’s oldest surviving clipper ship. Between 1864 and 1887 the ship made 23 voyages from London and Plymouth to Adelaide, South Australia. Approximately a quarter of a million Australians … Continue reading &rarr;"
 categories:
   - "Current"

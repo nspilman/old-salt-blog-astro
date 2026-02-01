@@ -1,7 +1,7 @@
 ---
 title: "ROV Training on the Tanker Mary A. Whalen"
 date: 2011-12-11T11:24:53
-slug: rov-training-on-the-tanker-mary-whalen
+slug: "rov-training-on-the-tanker-mary-whalen"
 excerpt: "Yesterday we posted about the New York Police Department Harbor Unit’s use of ROVs to maintain security in the harbot.  We had missed an amusing post by Portside New York‘s Carolina Salguero on NPYD security training on the MARY A. WHALEN.  From her post: … Continue reading &rarr;"
 categories:
   - "Current"

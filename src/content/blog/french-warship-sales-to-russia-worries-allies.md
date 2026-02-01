@@ -1,7 +1,7 @@
 ---
 title: "French Warship Sales to Russia Worries Allies"
 date: 2010-02-17T08:11:32
-slug: french-warship-sales-to-russia-worries-allies
+slug: "french-warship-sales-to-russia-worries-allies"
 excerpt: "Does politics make for strange shipmates? NATO allies worry about France’s decision to sell big warships to Russia CHAMPAGNE and other French products may soon face declining sales in Tallinn, Tbilisi and places in between. The possible sale by France … Continue reading &rarr;"
 categories:
   - "Current"

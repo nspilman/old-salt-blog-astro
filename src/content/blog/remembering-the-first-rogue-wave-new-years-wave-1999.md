@@ -1,7 +1,7 @@
 ---
-title: "The New Year’s Day Wave, 1995 — Remembering the “First” Rogue Wave"
+title: "The New Year’s Day Wave, 1995 — Remembering the \"First\" Rogue Wave"
 date: 2016-01-01T16:00:52
-slug: remembering-the-first-rogue-wave-new-years-wave-1999
+slug: "remembering-the-first-rogue-wave-new-years-wave-1999"
 excerpt: "Happy New Year! On New Year’s Day 1995, a sea monster capable of sinking ships and sending sailors to their deaths was documented for the first time.  I am not speaking of a mythical serpent or another beasty, (which may or may … Continue reading &rarr;"
 categories:
   - "Current"

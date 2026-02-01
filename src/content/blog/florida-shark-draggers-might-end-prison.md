@@ -1,7 +1,7 @@
 ---
 title: "Florida Shark-Draggers Might End Up in Prison"
 date: 2017-12-14T17:59:38
-slug: florida-shark-draggers-might-end-prison
+slug: "florida-shark-draggers-might-end-prison"
 excerpt: "A disturbing video of a shark being dragged backward at high speeds behind a motorboat off the Gulf Coast of Florida hit the internet this summer. Now, three men behind the video may be facing prison time. The Miami Herald identifies … Continue reading &rarr;"
 categories:
   - "Current"

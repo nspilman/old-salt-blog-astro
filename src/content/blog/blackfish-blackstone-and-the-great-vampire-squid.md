@@ -1,7 +1,7 @@
 ---
 title: "Blackfish, Blackstone and the Great Vampire Squid"
 date: 2013-10-23T09:05:26
-slug: blackfish-blackstone-and-the-great-vampire-squid
+slug: "blackfish-blackstone-and-the-great-vampire-squid"
 excerpt: "On Thursday October 24th, at 9PM E.T. in the United States, CNN will broadcast the documentary, Blackfish, directed by Gabriela Cowperthwaite.  Blackfish looks at the almost 40 year history of orcas in captivity, leading up to the killing of SeaWorld trainer Dawn Brancheau … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

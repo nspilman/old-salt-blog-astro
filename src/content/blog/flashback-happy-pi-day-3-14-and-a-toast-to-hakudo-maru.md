@@ -1,7 +1,7 @@
 ---
 title: "Flashback: Happy Pi Day (3.14) and a Toast to Hakudo Maru"
 date: 2014-03-14T09:37:16
-slug: flashback-happy-pi-day-3-14-and-a-toast-to-hakudo-maru
+slug: "flashback-happy-pi-day-3-14-and-a-toast-to-hakudo-maru"
 excerpt: "A re-post from four years ago that seems appropriate today.  So Happy Pi day and a toast to Hakudo Maru, the Japanese celestial shipbuilder. Some call today Pi day, as the first three digits of the date (3.14) are the first … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

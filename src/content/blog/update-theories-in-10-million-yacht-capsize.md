@@ -1,7 +1,7 @@
 ---
 title: "Update: Theories in $10 Million Yacht Capsize"
 date: 2014-06-03T16:51:09
-slug: update-theories-in-10-million-yacht-capsize
+slug: "update-theories-in-10-million-yacht-capsize"
 excerpt: "A little over a week ago, we posted about a 90′ yacht, valued at around $10 million, which capsized and sank on her launching in Anacortes, Washington. Since then there has been no definitive determination as to what caused the … Continue reading &rarr;"
 categories:
   - "Current"

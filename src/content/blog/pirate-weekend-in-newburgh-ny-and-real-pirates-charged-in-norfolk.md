@@ -1,8 +1,8 @@
 ---
 title: "Pirate Weekend in Newburgh, NY and Real Pirates Charged in Norfolk"
 date: 2010-04-24T10:26:32
-slug: pirate-weekend-in-newburgh-ny-and-real-pirates-charged-in-norfolk
-excerpt: "This week HMS Bounty, the replica ship built for the 1960 movie, “Mutiny on the Bounty,”  will be the centerpiece of the “Pirate Weekend”  in Newburgh, New York, on the Hudson River, sixty miles north of new York City.  The Bounty … Continue reading &rarr;"
+slug: "pirate-weekend-in-newburgh-ny-and-real-pirates-charged-in-norfolk"
+excerpt: "This week HMS Bounty, the replica ship built for the 1960 movie, \"Mutiny on the Bounty,\"  will be the centerpiece of the \"Pirate Weekend\"  in Newburgh, New York, on the Hudson River, sixty miles north of new York City.  The Bounty … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "piracy"
   - "somalia"
 author: "Rick Spilman"
-description: "This week HMS Bounty, the replica ship built for the 1960 movie, “Mutiny on the Bounty,”  will be the centerpiece of the “Pirate Weekend”  in Newburgh, New York, on the Hudson River, sixty miles north of new York City.  The Bounty … Continue reading &rarr;"
+description: "This week HMS Bounty, the replica ship built for the 1960 movie, \"Mutiny on the Bounty,\"  will be the centerpiece of the \"Pirate Weekend\"  in Newburgh, New York, on the Hudson River, sixty miles north of new York City.  The Bounty … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/04/bounty1.jpg)This week [*HMS Bounty*](http://www.tallshipbounty.org/index.php), the replica ship built for the 1960 movie, “Mutiny on the Bounty,”  will be the centerpiece of the “Pirate Weekend”  in [Newburgh, New York](http://www.newburghwaterfront.com/), on the Hudson River, sixty miles north of new York City.  The *Bounty* has also been featured in over a dozen films and television shows, including 1989’s “Treasure Island” with Charlton Heston, “Muppet Treasure Island” and the second and third “Pirates of the Caribbean” movies.

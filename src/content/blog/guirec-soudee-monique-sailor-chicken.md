@@ -1,7 +1,7 @@
 ---
 title: "Guirec Soudee & Monique — a Sailor & His Chicken"
 date: 2016-06-18T10:13:44
-slug: guirec-soudee-monique-sailor-chicken
+slug: "guirec-soudee-monique-sailor-chicken"
 excerpt: "Guirec Soudée, a 24 year old sailor, has spent the last two years sailing the globe with a female chicken named Monique.  Soudée began the cruise in the Canary Islands in May 2014, sailing to St. Barts in the Caribbean and … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Tall Ships: The Privateer Lynx – Documentary On-line for a Limited Time"
 date: 2012-03-30T09:02:02
-slug: tall-ships-the-privateer-lynx-documentary-on-line-for-a-limited-time
+slug: "tall-ships-the-privateer-lynx-documentary-on-line-for-a-limited-time"
 excerpt: "Through an agreement with Snag Films, TheSailingChannel is showing the documentary, Tall Ships: The Privateer Lynx, in HD, free of charge, for a limited time. Thanks to Tom Russell on the Linked-in Traditional Sail Professionals group for pointing out the … Continue reading &rarr;"
 categories:
   - "Current"

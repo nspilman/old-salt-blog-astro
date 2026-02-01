@@ -1,7 +1,7 @@
 ---
 title: "Scott Kelly, Starship Sailor Returns Home Taller After a Year in Space"
 date: 2016-03-02T20:39:19
-slug: scott-kelly-starship-sailor-returns-home-taller-after-a-year-in-space
+slug: "scott-kelly-starship-sailor-returns-home-taller-after-a-year-in-space"
 excerpt: "For several years now we have been posting about Scott and Mark Kelly, the identical twins who both graduated from merchant marine academies and served in the Navy.  Each became astronauts and both have traveled in space. Recently, Scott Kelly … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Eleanor’s Odyssey — a New Book by Joan Druett"
 date: 2014-12-15T09:49:56
-slug: eleanors-odyssey-a-new-book-by-joan-druett
+slug: "eleanors-odyssey-a-new-book-by-joan-druett"
 excerpt: "Joan Druett has a wonderful new book out — Eleanor’s Odyssey. Now available in paperback and soon as an ebook. Eleanor’s Odyssey: Journal of the Captain’s Wife on the East Indiaman Friendship, 1799-1801 by Joan Druett It was 1799, and … Continue reading &rarr;"
 categories:
   - "Newbooks"

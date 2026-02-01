@@ -1,7 +1,7 @@
 ---
 title: "Russia Salvages Landing Ship Sunk by Ukraine Missiles"
 date: 2022-07-08T18:15:37
-slug: russia-salvages-landing-ship-sunk-by-ukraine-missiles
+slug: "russia-salvages-landing-ship-sunk-by-ukraine-missiles"
 excerpt: "In March, we posted about the sinking of a Russian Alligator Class landing ship by a Ukrainian ballistic missile strike in the Ukrainian port city of Berdyansk, which Russia captured in late February.  The Russians are now salvaging the landing … Continue reading &rarr;"
 categories:
   - "Current"

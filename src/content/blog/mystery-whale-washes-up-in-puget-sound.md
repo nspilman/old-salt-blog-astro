@@ -1,7 +1,7 @@
 ---
 title: "Mystery Whale Washes up in Puget Sound"
 date: 2010-01-20T07:29:21
-slug: mystery-whale-washes-up-in-puget-sound
+slug: "mystery-whale-washes-up-in-puget-sound"
 excerpt: "What appears to be the carcass of a Bryde’s whale has washed ashore in Case Inlet in Puget Sound in Washington State.   If it is a Bryde’s whale, it is a mystery what a whale that favors tropical waters was doing … Continue reading &rarr;"
 categories:
   - "Current"

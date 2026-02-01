@@ -1,7 +1,7 @@
 ---
 title: "Jeanne Socrates, Singlehanding at 76, Suffers Knockdown Off New Zealand"
 date: 2019-05-18T13:27:33
-slug: jeanne-socrates-singlehanding-at-76-suffers-knockdown-off-new-zealand
+slug: "jeanne-socrates-singlehanding-at-76-suffers-knockdown-off-new-zealand"
 excerpt: "Singlehander Jeanne Socrates, 76, on her fourth circumnavigation, suffered a knockdown on S/V Nereida off the South Island of New Zealand. Despite damage to solar and wind charging equipment, Socrates is unhurt, and sails, rig, most instruments, autopilot and radio … Continue reading &rarr;"
 categories:
   - "Current"

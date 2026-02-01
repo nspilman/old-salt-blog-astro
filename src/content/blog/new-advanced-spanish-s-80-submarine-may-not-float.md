@@ -1,15 +1,15 @@
 ---
 title: "New Advanced Spanish S-80 Submarine May Not Float"
 date: 2013-05-27T09:16:17
-slug: new-advanced-spanish-s-80-submarine-may-not-float
-excerpt: "The new S-80 class submarines under construction for the Spanish Navy are high-tech wonders with an “air-independent-propulsion” system which allows the non-nuclear submarines to operate independently of the surface by using bio-ethanol engines and fuel cells.  It was announced recently, … Continue reading &rarr;"
+slug: "new-advanced-spanish-s-80-submarine-may-not-float"
+excerpt: "The new S-80 class submarines under construction for the Spanish Navy are high-tech wonders with an \"air-independent-propulsion\" system which allows the non-nuclear submarines to operate independently of the surface by using bio-ethanol engines and fuel cells.  It was announced recently, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
   - "air-independent-propulsion"
   - "S-80 class submarines"
 author: "Rick Spilman"
-description: "The new S-80 class submarines under construction for the Spanish Navy are high-tech wonders with an “air-independent-propulsion” system which allows the non-nuclear submarines to operate independently of the surface by using bio-ethanol engines and fuel cells.  It was announced recently, … Continue reading &rarr;"
+description: "The new S-80 class submarines under construction for the Spanish Navy are high-tech wonders with an \"air-independent-propulsion\" system which allows the non-nuclear submarines to operate independently of the surface by using bio-ethanol engines and fuel cells.  It was announced recently, … Continue reading &rarr;"
 ---
 
 ![navantia-s80_2570230b](http://www.oldsaltblog.com/wp-content/uploads/2013/05/navantia-s80_2570230b.jpg)

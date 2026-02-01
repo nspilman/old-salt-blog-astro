@@ -1,7 +1,7 @@
 ---
 title: "The Board of Longitude Project — Digitizing 18th Century Science and Technology"
 date: 2014-11-26T09:55:06
-slug: the-board-of-longitude-project-digitizing-18th-century-science-and-technology
+slug: "the-board-of-longitude-project-digitizing-18th-century-science-and-technology"
 excerpt: "The Board of Longitude Project, a partnership between Cambridge University Library and the National Maritime Museum at Greenwich in the UK, has digitized the complete papers of the Board of Longitude from its founding in 1714 until its abolition in 1828. … Continue reading &rarr;"
 categories:
   - "Current"

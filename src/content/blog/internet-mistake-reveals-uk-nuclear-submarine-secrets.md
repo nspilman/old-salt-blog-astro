@@ -1,8 +1,8 @@
 ---
 title: "Internet mistake reveals UK nuclear submarine secrets"
 date: 2011-04-17T10:50:44
-slug: internet-mistake-reveals-uk-nuclear-submarine-secrets
-excerpt: "Oopps. In what is being described as a “school-boy error” the British Ministry of Defence posted a report on-line which revealed secret information about the UK’s nuclear powered submarines. The sensitive material was “redacted” by turning the background black, so that the text was not readable. … Continue reading &rarr;"
+slug: "internet-mistake-reveals-uk-nuclear-submarine-secrets"
+excerpt: "Oopps. In what is being described as a \"school-boy error\" the British Ministry of Defence posted a report on-line which revealed secret information about the UK’s nuclear powered submarines. The sensitive material was \"redacted\" by turning the background black, so that the text was not readable. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "nuclear powered submarines"
   - "secret information"
 author: "Rick Spilman"
-description: "Oopps. In what is being described as a “school-boy error” the British Ministry of Defence posted a report on-line which revealed secret information about the UK’s nuclear powered submarines. The sensitive material was “redacted” by turning the background black, so that the text was not readable. … Continue reading &rarr;"
+description: "Oopps. In what is being described as a \"school-boy error\" the British Ministry of Defence posted a report on-line which revealed secret information about the UK’s nuclear powered submarines. The sensitive material was \"redacted\" by turning the background black, so that the text was not readable. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/redacted.jpg)Oopps. In what is being described as a “school-boy error” the British Ministry of Defence posted a report on-line which revealed secret information about the UK’s nuclear powered submarines. The sensitive material was “redacted” by turning the background black, so that the text was not readable.  The text was not removed, however, so that anyone who cut and pasted the text to another document could read, copy or distribute the “secret” information.   The MOD was unaware of the breach until it was pointed out by a journalist.

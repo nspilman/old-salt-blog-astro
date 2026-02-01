@@ -1,7 +1,7 @@
 ---
 title: "Fukushima – Radioactive Fish and US Sailors Exposed"
 date: 2012-12-30T08:25:43
-slug: fukishima-radioactive-fish-and-us-sailors-exposed
+slug: "fukishima-radioactive-fish-and-us-sailors-exposed"
 excerpt: "The impact of  the meltdown of nuclear reactors at the Fukishima Daiichi power plant, hit by the following the Tōhoku earthquake and tsunami on 11 March 2011, is still unfolding.  Last month it was revealed that fish caught near the crippled power plant were … Continue reading &rarr;"
 categories:
   - "Current"

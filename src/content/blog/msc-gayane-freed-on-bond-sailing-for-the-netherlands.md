@@ -1,7 +1,7 @@
 ---
 title: "MSC Gayane Freed on Bond, Sailing for the Netherlands"
 date: 2019-07-16T19:48:35
-slug: msc-gayane-freed-on-bond-sailing-for-the-netherlands
+slug: "msc-gayane-freed-on-bond-sailing-for-the-netherlands"
 excerpt: "Last week, US Customs and Border Patrol seized the container ship MSC Gayane, following the seizure of 18,000 kilograms of cocaine, worth an estimated $1.3 billion, by Federal agents while at the dock in the Port of Philadelphia in late June. … Continue reading &rarr;"
 categories:
   - "Current"

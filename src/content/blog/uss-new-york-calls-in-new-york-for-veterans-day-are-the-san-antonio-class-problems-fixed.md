@@ -1,7 +1,7 @@
 ---
 title: "USS New York Calls in New York for Veterans Day – Are the San Antonio Class Problems Fixed?"
 date: 2013-11-11T18:26:10
-slug: uss-new-york-calls-in-new-york-for-veterans-day-are-the-san-antonio-class-problems-fixed
+slug: "uss-new-york-calls-in-new-york-for-veterans-day-are-the-san-antonio-class-problems-fixed"
 excerpt: "The USS New York called in New York harbor over the weekend to help celebrate Veteran’s Week.  The ship is the fifth of the San Antonio class of amphibious transport dock ships.  The ship’s bow includes 7.5 tonnes of salvaged steel from … Continue reading &rarr;"
 categories:
   - "Current"

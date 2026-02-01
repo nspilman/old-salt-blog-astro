@@ -1,7 +1,7 @@
 ---
 title: "Mates’ Jobs on the SSV Oliver Hazard Perry"
 date: 2014-12-11T10:20:10
-slug: mates-jobs-on-the-ssv-oliver-hazard-perry
+slug: "mates-jobs-on-the-ssv-oliver-hazard-perry"
 excerpt: "The SSV Oliver Hazard Perry organization is looking for Licensed Mates.  The 200-foot square-rigged tall ship Oliver Hazard Perry  is Rhode Island’s official Sailing Education Vessel, the largest of its kind to have been built in this country in the last … Continue reading &rarr;"
 categories:
   - "Current"

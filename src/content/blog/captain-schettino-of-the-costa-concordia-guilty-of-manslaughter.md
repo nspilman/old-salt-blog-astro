@@ -1,7 +1,7 @@
 ---
 title: "Captain Schettino of the Costa Concordia Guilty of Manslaughter"
 date: 2015-02-11T17:54:45
-slug: captain-schettino-of-the-costa-concordia-guilty-of-manslaughter
+slug: "captain-schettino-of-the-costa-concordia-guilty-of-manslaughter"
 excerpt: "After a 19 month trial, Captain Francesco Schettino has been found guilty of manslaughter associated with the grounding and sinking of the Costa Concordia in 2012 in which 32 passengers and crew died. Another 150 passengers and crew were injured. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "MV Rena Cracking, Risking Breaking Up, Containers Washing Ashore"
 date: 2011-10-13T22:08:46
-slug: mv-rena-cracking-risking-breaking-up-containers-washing-ashore
+slug: "mv-rena-cracking-risking-breaking-up-containers-washing-ashore"
 excerpt: "The Liberian flagged container ship, MV Rena, which ran aground on the Astrolabe Reef off Tauranga, New Zealand last week is continuing to suffer structural cracking and is continuing to spill bunker oil and losing containers overboard. Several beaches on the … Continue reading &rarr;"
 categories:
   - "Current"

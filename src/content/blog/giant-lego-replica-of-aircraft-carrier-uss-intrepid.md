@@ -1,7 +1,7 @@
 ---
 title: "Giant Lego Replica of Aircraft Carrier USS Intrepid"
 date: 2010-10-09T09:04:22
-slug: giant-lego-replica-of-aircraft-carrier-uss-intrepid
+slug: "giant-lego-replica-of-aircraft-carrier-uss-intrepid"
 excerpt: "An amazing 23 foot-long Lego replica of the  Essex Class aircraft carrier USS Intrepid constructed by Ed Diment was unveiled at the Great Western Lego Show Swindon, UK last weekend. Click here for more photos. Giant Lego Replica of Aircraft Carrier … Continue reading &rarr;"
 categories:
   - "Current"

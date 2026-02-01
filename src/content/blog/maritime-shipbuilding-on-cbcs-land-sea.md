@@ -1,7 +1,7 @@
 ---
 title: "Maritime Shipbuilding on CBC’s Land & Sea"
 date: 2012-12-06T22:21:12
-slug: maritime-shipbuilding-on-cbcs-land-sea
+slug: "maritime-shipbuilding-on-cbcs-land-sea"
 excerpt: "The CBC’s Land & Sea is without question the favorite television program that I have never watched on television. While I cannot get Canadian broadcasting on my television, Land & Sea fortunately also puts their programming on-line. We have previously … Continue reading &rarr;"
 categories:
   - "Current"

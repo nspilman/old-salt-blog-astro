@@ -1,7 +1,7 @@
 ---
 title: "Dead Whale Found Floating in New York Harbor’s Upper Bay"
 date: 2014-05-05T16:09:26
-slug: dead-whale-found-floating-in-new-york-harbors-upper-bay
+slug: "dead-whale-found-floating-in-new-york-harbors-upper-bay"
 excerpt: "Update: The dead whale is now identified as a sei whale. One report says that it was hit by a cruise liner, possibly the Norwegian Breakaway. Last month, a 60 ton dead fin whale arrived in New York harbor, pinned … Continue reading &rarr;"
 categories:
   - "Current"

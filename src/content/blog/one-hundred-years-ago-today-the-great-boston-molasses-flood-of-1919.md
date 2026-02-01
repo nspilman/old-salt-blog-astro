@@ -1,7 +1,7 @@
 ---
 title: "One Hundred Years Ago Today — The Great Boston Molasses Flood of 1919"
 date: 2019-01-15T11:36:04
-slug: one-hundred-years-ago-today-the-great-boston-molasses-flood-of-1919
+slug: "one-hundred-years-ago-today-the-great-boston-molasses-flood-of-1919"
 excerpt: "Today marks the 100th year anniversary of the Great Boston Molasses Flood, which inundated Boston’s North End sending a wall of molasses, killing 21 and injuring 150. The Purity Distilling Company built a large molasses storage tank on Commercial Street in Boston’s North … Continue reading &rarr;"
 categories:
   - "History"

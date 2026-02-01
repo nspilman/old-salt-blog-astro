@@ -1,7 +1,7 @@
 ---
 title: "Repost:  The Battle of Stonington, CT 1814  — Rocket’s Red Glare, Bombs Bursting in Air"
 date: 2018-08-10T08:43:26
-slug: repost-the-battle-of-stonington-ct-1814-rockets-red-glare-bombs-bursting-in-air
+slug: "repost-the-battle-of-stonington-ct-1814-rockets-red-glare-bombs-bursting-in-air"
 excerpt: "Two hundred and four years ago this week, in a three day battle, the militia at Stonington, CT drove off a four ship Royal Navy flotilla during the War of 1812.  Here is lightly edited repost about the battle from July … Continue reading &rarr;"
 categories:
   - "History"

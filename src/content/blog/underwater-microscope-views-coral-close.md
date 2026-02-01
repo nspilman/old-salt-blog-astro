@@ -1,7 +1,7 @@
 ---
 title: "An Underwater Microscope Views Coral Up-Close"
 date: 2016-08-23T11:32:41
-slug: underwater-microscope-views-coral-close
+slug: "underwater-microscope-views-coral-close"
 excerpt: "Coral are individual invertebrate polyps living in communities, which can grow to become vast reefs. Until recently, there was no way to examine the living coral polyps in their own habitat. Now, researchers at the Scripps Institution of Oceanography at … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

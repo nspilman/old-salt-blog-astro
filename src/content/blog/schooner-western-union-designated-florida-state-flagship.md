@@ -1,7 +1,7 @@
 ---
 title: "Schooner Western Union Designated Florida State Flagship"
 date: 2012-03-09T12:35:26
-slug: schooner-western-union-designated-florida-state-flagship
+slug: "schooner-western-union-designated-florida-state-flagship"
 excerpt: "The Florida Legislature has designated the schooner Western Union as the state’s official flagship. The schooner was built in 1939 and served for 35 years as as a cable vessel for the Western Union Telegraph Company, repairing and maintaining undersea … Continue reading &rarr;"
 categories:
   - "Current"

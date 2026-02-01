@@ -1,7 +1,7 @@
 ---
 title: "The Irony of the SS John Harvey – Deadly Mustard Gas and Lifesaving Chemotherapy"
 date: 2012-05-10T08:14:05
-slug: the-irony-of-the-ss-john-harvey-deadly-mustard-gas-and-lifesaving-chemotherapy
+slug: "the-irony-of-the-ss-john-harvey-deadly-mustard-gas-and-lifesaving-chemotherapy"
 excerpt: "Yesterday, we posted the obituary of Claude Holloway, a British Motor Torpedo Boat commander, who heroically saved  dozens of sailors in the German attack on Bari, Italy in 1943.  Holloway was nearly killed by mustard gas bombs secretly carried aboard the American Liberty … Continue reading &rarr;"
 categories:
   - "Current"

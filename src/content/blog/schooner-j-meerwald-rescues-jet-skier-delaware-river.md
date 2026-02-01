@@ -1,7 +1,7 @@
 ---
 title: "Schooner A.J. Meerwald Crew Rescues Jet Skier in Delaware River"
 date: 2016-05-11T08:54:26
-slug: schooner-j-meerwald-rescues-jet-skier-delaware-river
+slug: "schooner-j-meerwald-rescues-jet-skier-delaware-river"
 excerpt: "The crew aboard the schooner A.J. Meerwald had just finished a Saturday evening sail on the Delaware River near Trenton, NJ when they heard screams at around 7PM. They immediately launched a boat and headed in the direction of the screams … Continue reading &rarr;"
 categories:
   - "Current"

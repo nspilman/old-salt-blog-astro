@@ -1,8 +1,8 @@
 ---
-title: "Pristine Coral Reef Discovered in “Twilight Zone” Off Tahiti"
+title: "Pristine Coral Reef Discovered in \"Twilight Zone\" Off Tahiti"
 date: 2022-01-20T19:12:51
-slug: pristine-coral-reef-discovered-in-twilight-zone-off-tahiti
-excerpt: "CNN reports that deep in the ocean off the coast of Tahiti, scientists made an incredible discovery in November: acres of giant, pristine, rose-shaped corals blossoming from the sea floor in what’s known as the ocean’s “twilight zone.” That a … Continue reading &rarr;"
+slug: "pristine-coral-reef-discovered-in-twilight-zone-off-tahiti"
+excerpt: "CNN reports that deep in the ocean off the coast of Tahiti, scientists made an incredible discovery in November: acres of giant, pristine, rose-shaped corals blossoming from the sea floor in what’s known as the ocean’s \"twilight zone.\" That a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "UNESCO"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/coral-reeftwlight.jpg"
 author: "Rick Spilman"
-description: "CNN reports that deep in the ocean off the coast of Tahiti, scientists made an incredible discovery in November: acres of giant, pristine, rose-shaped corals blossoming from the sea floor in what’s known as the ocean’s “twilight zone.” That a … Continue reading &rarr;"
+description: "CNN reports that deep in the ocean off the coast of Tahiti, scientists made an incredible discovery in November: acres of giant, pristine, rose-shaped corals blossoming from the sea floor in what’s known as the ocean’s \"twilight zone.\" That a … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/coral-reeftwlight.jpg)[CNN](https://www.cnn.com/2022/01/19/world/coral-reef-tahiti-twilight-zone-climate-scn/index.html) reports that deep in the ocean off the coast of Tahiti, scientists made an incredible discovery in November: acres of giant, pristine, rose-shaped corals blossoming from the sea floor in what’s known as the ocean’s “twilight zone.”

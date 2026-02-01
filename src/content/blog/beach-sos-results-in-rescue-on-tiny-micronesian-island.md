@@ -1,8 +1,8 @@
 ---
 title: "Beach SOS Results in Rescue on Tiny Micronesian island"
 date: 2020-08-09T18:46:40
-slug: beach-sos-results-in-rescue-on-tiny-micronesian-island
-excerpt: "A recent news item brought to Gilligan’s Island, a situation comedy broadcast on US television for three seasons in the 1960s. The premise of the program was that a small tourist boat on a “three-hour tour” was swept away in … Continue reading &rarr;"
+slug: "beach-sos-results-in-rescue-on-tiny-micronesian-island"
+excerpt: "A recent news item brought to Gilligan’s Island, a situation comedy broadcast on US television for three seasons in the 1960s. The premise of the program was that a small tourist boat on a \"three-hour tour\" was swept away in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -15,7 +15,7 @@ tags:
   - "SOS"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/sosbeach.jpg"
 author: "Rick Spilman"
-description: "A recent news item brought to Gilligan’s Island, a situation comedy broadcast on US television for three seasons in the 1960s. The premise of the program was that a small tourist boat on a “three-hour tour” was swept away in … Continue reading &rarr;"
+description: "A recent news item brought to Gilligan’s Island, a situation comedy broadcast on US television for three seasons in the 1960s. The premise of the program was that a small tourist boat on a \"three-hour tour\" was swept away in … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/sosbeach.jpg)A recent news item brought to [Gilligan’s Island](https://en.wikipedia.org/wiki/Gilligan%27s_Island), a situation comedy broadcast on US television for three seasons in the 1960s. The premise of the program was that a small tourist boat on a [“three-hour tour”](https://youtu.be/cfR7qxtgCgY) was swept away in a storm to an “uncharted desert isle.” Fortunately for all concerned, the sailors involved were stranded on an uninhabited island for only three days because they marked the beach with a large “SOS” to assist rescuers. 

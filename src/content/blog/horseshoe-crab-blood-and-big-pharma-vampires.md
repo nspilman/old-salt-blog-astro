@@ -1,7 +1,7 @@
 ---
 title: "Horseshoe Crab Blood and Big Pharma Vampires"
 date: 2019-03-22T17:54:33
-slug: horseshoe-crab-blood-and-big-pharma-vampires
+slug: "horseshoe-crab-blood-and-big-pharma-vampires"
 excerpt: "Horseshoe crabs are an ancient variety of arthropods, which are not actually crabs. Having remained largely unchanged in about 450 million years, the horseshoe crab is considered by many to be a living fossil. One of the reasons that horseshoe … Continue reading &rarr;"
 categories:
   - "Current"

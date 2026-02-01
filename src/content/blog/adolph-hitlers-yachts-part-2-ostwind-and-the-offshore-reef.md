@@ -1,8 +1,8 @@
 ---
 title: "Adolph Hitler’s Yachts — Part 2 : Ostwind and the Offshore Reef"
 date: 2022-04-24T10:10:19
-slug: adolph-hitlers-yachts-part-2-ostwind-and-the-offshore-reef
-excerpt: "Yesterday we posted about the patrol ship, the Grille, described by some as “Hitler’s yacht.” Today we will look at a second vessel to bear the same title — the Ostwind. In 1936, the German government had two racing sailboats built, … Continue reading &rarr;"
+slug: "adolph-hitlers-yachts-part-2-ostwind-and-the-offshore-reef"
+excerpt: "Yesterday we posted about the patrol ship, the Grille, described by some as \"Hitler’s yacht.\" Today we will look at a second vessel to bear the same title — the Ostwind. In 1936, the German government had two racing sailboats built, … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Ostwind Reef"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/nordwind.jpg"
 author: "Rick Spilman"
-description: "Yesterday we posted about the patrol ship, the Grille, described by some as “Hitler’s yacht.” Today we will look at a second vessel to bear the same title — the Ostwind. In 1936, the German government had two racing sailboats built, … Continue reading &rarr;"
+description: "Yesterday we posted about the patrol ship, the Grille, described by some as \"Hitler’s yacht.\" Today we will look at a second vessel to bear the same title — the Ostwind. In 1936, the German government had two racing sailboats built, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/nordwind.jpg)

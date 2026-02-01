@@ -1,7 +1,7 @@
 ---
 title: "Massive Explosions in Chinese Port City Tianjin Kill at Least Fifty"
 date: 2015-08-13T09:05:28
-slug: massive-explosions-in-chinese-port-city-tianjin-kill-at-least-fifty
+slug: "massive-explosions-in-chinese-port-city-tianjin-kill-at-least-fifty"
 excerpt: "Explosions at a warehouse containing hazardous materials rocked the Chinese port city of Tianjin on Wednesday, killing at least 50 and injuring over 700, 71 critically. Tianjin, 100 miles east of Beijing, is the fourth largest urban area in China. Buildings within a 1.5 miles … Continue reading &rarr;"
 categories:
   - "Current"

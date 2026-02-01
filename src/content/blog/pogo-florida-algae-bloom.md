@@ -1,8 +1,8 @@
 ---
 title: "Pogo and the Latest Florida Algae Bloom"
 date: 2016-07-05T09:21:55
-slug: pogo-florida-algae-bloom
-excerpt: "A massive blue-green algae bloom has hit Florida’s “Treasure Coast,” coating the beaches and inlets with a foul-smelling, sticky green-goo that some resident describe as “guacamole thick.” A state of emergency has been declared the Lee, Palm Beach, Martin and … Continue reading &rarr;"
+slug: "pogo-florida-algae-bloom"
+excerpt: "A massive blue-green algae bloom has hit Florida’s \"Treasure Coast,\" coating the beaches and inlets with a foul-smelling, sticky green-goo that some resident describe as \"guacamole thick.\" A state of emergency has been declared the Lee, Palm Beach, Martin and … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Palm Beach"
   - "St. Lucie"
 author: "Rick Spilman"
-description: "A massive blue-green algae bloom has hit Florida’s “Treasure Coast,” coating the beaches and inlets with a foul-smelling, sticky green-goo that some resident describe as “guacamole thick.” A state of emergency has been declared the Lee, Palm Beach, Martin and … Continue reading &rarr;"
+description: "A massive blue-green algae bloom has hit Florida’s \"Treasure Coast,\" coating the beaches and inlets with a foul-smelling, sticky green-goo that some resident describe as \"guacamole thick.\" A state of emergency has been declared the Lee, Palm Beach, Martin and … Continue reading &rarr;"
 ---
 
 ![bluegreenalgae](http://www.oldsaltblog.com/wp-content/uploads/2016/07/bluegreenalgae.jpg)

@@ -1,8 +1,8 @@
 ---
-title: "New York Wants to Restore Shad, the “Poor Man’s Salmon, to the Hudson River"
+title: "New York Wants to Restore Shad, the \"Poor Man’s Salmon, to the Hudson River"
 date: 2023-04-11T20:07:54
-slug: new-york-wants-to-restore-shad-the-poor-mans-salmon-to-the-hudson-river
-excerpt: "Shad, often referred to as the “poor man’s Salmon,” once returned yearly to spawn in the Hudson River estuary from New York Harbor north to Fort Edward. Overfishing, habitat loss, and pollution contributed to a series of population collapses, and … Continue reading &rarr;"
+slug: "new-york-wants-to-restore-shad-the-poor-mans-salmon-to-the-hudson-river"
+excerpt: "Shad, often referred to as the \"poor man’s Salmon,\" once returned yearly to spawn in the Hudson River estuary from New York Harbor north to Fort Edward. Overfishing, habitat loss, and pollution contributed to a series of population collapses, and … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "The Founding Fish"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/04/americanshad.jpg"
 author: "Rick Spilman"
-description: "Shad, often referred to as the “poor man’s Salmon,” once returned yearly to spawn in the Hudson River estuary from New York Harbor north to Fort Edward. Overfishing, habitat loss, and pollution contributed to a series of population collapses, and … Continue reading &rarr;"
+description: "Shad, often referred to as the \"poor man’s Salmon,\" once returned yearly to spawn in the Hudson River estuary from New York Harbor north to Fort Edward. Overfishing, habitat loss, and pollution contributed to a series of population collapses, and … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/04/americanshad.jpg)[Shad](https://en.wikipedia.org/wiki/American_shad), often referred to as the “poor man’s Salmon,” once returned yearly to spawn in the Hudson River estuary from New York Harbor north to Fort Edward. Overfishing, habitat loss, and pollution contributed to a series of population collapses, and shad fishing on the Hudson River was closed in 2010. Now [New York State wants to grow shad populations in the river](https://www.timesunion.com/hudsonvalley/outdoors/article/ny-wants-repopulate-hudson-shad-17875423.php) until recreational catch-and-release is once again possible, with the eventual goal of reopening commercial fishing.

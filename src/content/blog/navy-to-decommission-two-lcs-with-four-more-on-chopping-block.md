@@ -1,7 +1,7 @@
 ---
 title: "Navy to Decommission Two LCS, with Four More on Chopping Block"
 date: 2021-08-08T12:10:56
-slug: navy-to-decommission-two-lcs-with-four-more-on-chopping-block
+slug: "navy-to-decommission-two-lcs-with-four-more-on-chopping-block"
 excerpt: "We posted back in February, about the Navy’s plans to decommission four relatively new Littoral Combat Ships (LCS). Congress granted approval to decommission two, the USS Independence and the USS Freedom. The Independence was decommissioned on July 29, 20201 and … Continue reading &rarr;"
 categories:
   - "Current"

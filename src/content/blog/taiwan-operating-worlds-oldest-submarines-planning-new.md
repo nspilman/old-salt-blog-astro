@@ -1,7 +1,7 @@
 ---
 title: "Taiwan Operating World’s Oldest Submarines While Planning for New"
 date: 2017-01-26T13:20:30
-slug: taiwan-operating-worlds-oldest-submarines-planning-new
+slug: "taiwan-operating-worlds-oldest-submarines-planning-new"
 excerpt: "Taiwan is now operating the two oldest submarines in service in the world, the 72 year old SS-791 Hai Shih, ex-USS Cutlass, and the 71 year old SS-792 Hai Pao, ex USS Tusk. The Taiwanese government has announced that the Hai … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
-title: "Loch Ness Quest — Recruiting Volunteer Monster Hunters for Biggest Search for “Nessie” in 50 years"
+title: "Loch Ness Quest — Recruiting Volunteer Monster Hunters for Biggest Search for \"Nessie\" in 50 years"
 date: 2023-08-07T18:49:34
-slug: loch-ness-quest-recruiting-volunteer-monster-hunters-for-biggest-search-for-nessie-in-50-years
+slug: "loch-ness-quest-recruiting-volunteer-monster-hunters-for-biggest-search-for-nessie-in-50-years"
 excerpt: "The Loch Ness Centre, in partnership with Loch Ness Exploration, is seeking to recruit a small army of volunteers to join in what is described as the biggest search for the Loch Ness monster in 50 years. The Quest weekend … Continue reading &rarr;"
 categories:
   - "Current"

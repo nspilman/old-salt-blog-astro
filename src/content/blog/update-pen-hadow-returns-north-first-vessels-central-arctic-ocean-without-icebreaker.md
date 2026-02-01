@@ -1,7 +1,7 @@
 ---
 title: "Update: Pen Hadow Returns From the North — First Vessels in Central Arctic Ocean Without Icebreaker"
 date: 2017-11-02T09:29:46
-slug: update-pen-hadow-returns-north-first-vessels-central-arctic-ocean-without-icebreaker
+slug: "update-pen-hadow-returns-north-first-vessels-central-arctic-ocean-without-icebreaker"
 excerpt: "An update on a previous post — in August, we posted about Pen Hadow’s latest expedition to the Arctic. Hadow is best known for being the only person to walk solo to the North Pole and back without being resupplied. … Continue reading &rarr;"
 categories:
   - "Current"

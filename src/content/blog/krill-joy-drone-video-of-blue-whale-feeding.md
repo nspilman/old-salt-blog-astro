@@ -1,7 +1,7 @@
 ---
 title: "Krill Joy — Drone Video of  Blue Whale Feeding"
 date: 2024-04-21T10:46:00
-slug: krill-joy-drone-video-of-blue-whale-feeding
+slug: "krill-joy-drone-video-of-blue-whale-feeding"
 excerpt: "Something to take one’s mind off the unpleasantness of current events. A repost. Krill Joy From Slate:This video catches a rare glimpse of a gigantic, lunge-feeding blue whale deciding on what’s for lunch. A nonintrusive drone from Oregon State University … Continue reading &rarr;"
 categories:
   - "Current"

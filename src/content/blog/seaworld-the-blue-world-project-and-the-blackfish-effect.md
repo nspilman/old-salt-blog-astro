@@ -1,7 +1,7 @@
 ---
 title: "SeaWorld, the Blue World Project and the Blackfish Effect"
 date: 2014-08-22T09:33:10
-slug: seaworld-the-blue-world-project-and-the-blackfish-effect
+slug: "seaworld-the-blue-world-project-and-the-blackfish-effect"
 excerpt: "Last October, the documentary Blackfish aired on CNN. The documentary looked at the almost 40 year history of orcas in captivity, leading up to the killing of SeaWorld trainer Dawn Brancheau  in 2010 by the 12,000-pound orca, Tilikum, a whale previously associated with … Continue reading &rarr;"
 categories:
   - "Current"

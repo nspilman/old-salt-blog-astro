@@ -1,8 +1,8 @@
 ---
 title: "New York at Port Condition X-Ray – Hurricane Irene Sweeps up the East Coast"
 date: 2011-08-26T20:23:10
-slug: new-york-at-port-condition-x-ray-hurricane-irene-sweeps-up-the-east-coast
-excerpt: "Almost exactly a year ago, we posted about the “Top 5 Hurricane Vulnerable & Overdue Cities.”   Number 2 on the list was New York City. After Sunday, New York harbor may still be vulnerable but we will no longer be … Continue reading &rarr;"
+slug: "new-york-at-port-condition-x-ray-hurricane-irene-sweeps-up-the-east-coast"
+excerpt: "Almost exactly a year ago, we posted about the \"Top 5 Hurricane Vulnerable & Overdue Cities.\"   Number 2 on the list was New York City. After Sunday, New York harbor may still be vulnerable but we will no longer be … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Port Condition X-Ray"
   - "Port of New York and New Jersey"
 author: "Rick Spilman"
-description: "Almost exactly a year ago, we posted about the “Top 5 Hurricane Vulnerable & Overdue Cities.”   Number 2 on the list was New York City. After Sunday, New York harbor may still be vulnerable but we will no longer be … Continue reading &rarr;"
+description: "Almost exactly a year ago, we posted about the \"Top 5 Hurricane Vulnerable & Overdue Cities.\"   Number 2 on the list was New York City. After Sunday, New York harbor may still be vulnerable but we will no longer be … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/092739W5_NL_sm.jpg)Almost exactly a year ago, we posted about the “[Top 5 Hurricane Vulnerable & Overdue Cities](http://www.oldsaltblog.com/2010/09/04/top-5-hurricane-vulnerable-overdue-cities/).”   Number 2 on the list was New York City. After Sunday, New York harbor may still be vulnerable but we will no longer be overdue.  Hurricane Irene is coming to call.

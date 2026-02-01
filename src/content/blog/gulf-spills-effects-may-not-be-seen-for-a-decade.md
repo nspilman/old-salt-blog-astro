@@ -1,7 +1,7 @@
 ---
 title: "Gulf spill’s effects ‘may not be seen for a decade’"
 date: 2011-02-21T11:07:34
-slug: gulf-spills-effects-may-not-be-seen-for-a-decade
+slug: "gulf-spills-effects-may-not-be-seen-for-a-decade"
 excerpt: "In contrast to claims made by BP suggesting that the Gulf will have recovered from the Deep Horizon oil spill by 2012, a recent study presented at an American Association for the Advancement of Science conference says that the damage is far … Continue reading &rarr;"
 categories:
   - "Current"

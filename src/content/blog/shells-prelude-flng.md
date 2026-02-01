@@ -1,7 +1,7 @@
 ---
 title: "Shell’s Prelude FLNG to be the World’s Largest Floating Offshore Platform"
 date: 2011-05-22T08:08:05
-slug: shells-prelude-flng
+slug: "shells-prelude-flng"
 excerpt: "Shell is on its way to building the largest floating offshore facility in the world for its Prelude Floating Liquefied Natural Gas (FLNG) Project in Australia. The FLNG facility will be 488 meters long  and will weigh around 600,000 tonnes – … Continue reading &rarr;"
 categories:
   - "Current"

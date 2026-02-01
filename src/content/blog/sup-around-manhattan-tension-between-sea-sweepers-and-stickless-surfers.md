@@ -1,7 +1,7 @@
 ---
 title: "SUP Around Manhattan & Tension between Sea Sweepers and Stickless Surfers"
 date: 2010-08-15T09:28:18
-slug: sup-around-manhattan-tension-between-sea-sweepers-and-stickless-surfers
+slug: "sup-around-manhattan-tension-between-sea-sweepers-and-stickless-surfers"
 excerpt: "A week ago we posted about the increasing popularity of Stand-Up-Paddling (SUP) also known as paddle-boarding.  The sport was new to us, but obviously we have been behind the times, at least when it comes to stand-up paddling.   Last … Continue reading &rarr;"
 categories:
   - "Current"

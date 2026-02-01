@@ -1,7 +1,7 @@
 ---
 title: "Christeen — Oldest Oyster Sloop in the US"
 date: 2017-07-28T08:30:37
-slug: christeen-oldest-oyster-sloop-us
+slug: "christeen-oldest-oyster-sloop-us"
 excerpt: "Last weekend, we sailed by living history in Oyster Bay. As we were heading toward the gas dock, a beautiful gaff rigged sloop sailed by. It was Christeen, the oldest oyster sloop in the United States.  Built in 1883 in Glenwood Landing, … Continue reading &rarr;"
 categories:
   - "Current"

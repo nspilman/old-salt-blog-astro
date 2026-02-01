@@ -1,7 +1,7 @@
 ---
-title: "“Bubble Man” Reza Baluchi Plans To Try Running To Bermuda Again !?!"
+title: "\"Bubble Man\" Reza Baluchi Plans To Try Running To Bermuda Again !?!"
 date: 2014-10-30T21:54:32
-slug: bubble-man-reza-baluchi-plans-to-try-running-to-bermuda-again
+slug: "bubble-man-reza-baluchi-plans-to-try-running-to-bermuda-again"
 excerpt: "As we posted earlier this month, Reza Baluchi, an extreme runner, attempted to run the almost 1,000 miles from Florida to Bermuda in a sort of bubble — an inflatable cylinder with a metal frame, that looked sort of like a clear hamster … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Battleship USS Texas – 100 Years Old and Taking on Water Fast"
 date: 2012-06-12T14:21:53
-slug: battleship-uss-texas-100-years-old-and-taking-on-water-fast
+slug: "battleship-uss-texas-100-years-old-and-taking-on-water-fast"
 excerpt: "Battleship Texas taking on extraordinary amounts of water The battleship USS Texas was launched 100 years ago on May 19th, 1912.  She is the oldest remaining dreadnought battleship and only one of six surviving ships to have served in both World War … Continue reading &rarr;"
 categories:
   - "Current"

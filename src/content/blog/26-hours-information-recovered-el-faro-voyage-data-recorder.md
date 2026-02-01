@@ -1,7 +1,7 @@
 ---
 title: "26 Hours of Information Recovered from El Faro Voyage Data Recorder"
 date: 2016-08-25T08:30:37
-slug: 26-hours-information-recovered-el-faro-voyage-data-recorder
+slug: "26-hours-information-recovered-el-faro-voyage-data-recorder"
 excerpt: "The National Transportation Safety Board (NTSB) announced Wednesday that they had successfully retrieved 26 hours of information from the El Faro Voyage Data Recorder (VDR). The VDR was recovered earlier in August in 15,000 feet of water.  The US flagged … Continue reading &rarr;"
 categories:
   - "Current"

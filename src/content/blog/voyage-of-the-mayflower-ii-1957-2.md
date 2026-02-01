@@ -1,7 +1,7 @@
 ---
 title: "Voyage of the Mayflower II, 1957"
 date: 2025-11-26T22:08:49
-slug: voyage-of-the-mayflower-ii-1957-2
+slug: "voyage-of-the-mayflower-ii-1957-2"
 excerpt: "Happy Thanksgiving! On Thanksgiving eve, here is a short video of the voyage of the Mayflower II across the Atlantic in 1957, under the command of Captain Alan Villiers. The reproduction was built in Devon, England, during 1955–1956, in a collaboration between Englishman Warwick … Continue reading &rarr;"
 categories:
   - "History"

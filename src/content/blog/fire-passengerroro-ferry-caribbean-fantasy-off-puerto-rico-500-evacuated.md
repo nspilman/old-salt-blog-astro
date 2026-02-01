@@ -1,7 +1,7 @@
 ---
 title: "Fire on Passenger/RoRo Ferry Caribbean Fantasy Off Puerto Rico, 500 + Evacuated"
 date: 2016-08-17T16:51:36
-slug: fire-passengerroro-ferry-caribbean-fantasy-off-puerto-rico-500-evacuated
+slug: "fire-passengerroro-ferry-caribbean-fantasy-off-puerto-rico-500-evacuated"
 excerpt: "A fire broke out on the passenger/roro ferry Caribbean Fantasy as she was approaching San Juan, Puerto Rico on Wednesday morning. A reported 512 passengers were evacuated from the burning ship, roughly a mile off Puerto Rico’s north coast. The … Continue reading &rarr;"
 categories:
   - "Current"

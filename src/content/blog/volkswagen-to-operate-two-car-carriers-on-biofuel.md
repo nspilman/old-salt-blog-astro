@@ -1,7 +1,7 @@
 ---
 title: "Volkswagen to Operate Two Car Carriers on Biofuel"
 date: 2021-01-20T13:51:08
-slug: volkswagen-to-operate-two-car-carriers-on-biofuel
+slug: "volkswagen-to-operate-two-car-carriers-on-biofuel"
 excerpt: "Volkswagen Group Logistics has switched the first of two chartered car carriers from burning heavy fuel to biofuel. The fuel is supplied by Netherlands-based GoodFuels and is produced primarily from used oil from restaurants and the food industry. The car … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,8 +1,8 @@
 ---
 title: "Colombia Begins Exploring Galleon San José, ‘Holy Grail’ of Shipwrecks"
 date: 2024-05-28T20:02:30
-slug: colombia-begins-exploring-galleon-san-jose-holy-grail-of-shipwrecks
-excerpt: "BBC reports that after decades of legal wrangling, the Colombian government has started exploring the wreck of the 18th-century Spanish galleon San José, dubbed the “holy grail of shipwrecks.” The South American nation has also declared a protected archaeological area around … Continue reading &rarr;"
+slug: "colombia-begins-exploring-galleon-san-jose-holy-grail-of-shipwrecks"
+excerpt: "BBC reports that after decades of legal wrangling, the Colombian government has started exploring the wreck of the 18th-century Spanish galleon San José, dubbed the \"holy grail of shipwrecks.\" The South American nation has also declared a protected archaeological area around … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -16,7 +16,7 @@ tags:
   - "Spanish galleon"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/sanjose.jpg"
 author: "Rick Spilman"
-description: "BBC reports that after decades of legal wrangling, the Colombian government has started exploring the wreck of the 18th-century Spanish galleon San José, dubbed the “holy grail of shipwrecks.” The South American nation has also declared a protected archaeological area around … Continue reading &rarr;"
+description: "BBC reports that after decades of legal wrangling, the Colombian government has started exploring the wreck of the 18th-century Spanish galleon San José, dubbed the \"holy grail of shipwrecks.\" The South American nation has also declared a protected archaeological area around … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/sanjose.jpg)[BBC](https://www.bbc.com/news/articles/c4nn983qmepo) reports that [after decades of legal wrangling](https://www.oldsaltblog.com/2015/12/san-jose-holy-grail-shipwrecks-legal-battles-just-beginning/), the Colombian government has started exploring the wreck of the 18th-century [Spanish galleon San José](https://en.wikipedia.org/wiki/Spanish_galleon_San_Jos%C3%A9), dubbed the “holy grail of shipwrecks.”

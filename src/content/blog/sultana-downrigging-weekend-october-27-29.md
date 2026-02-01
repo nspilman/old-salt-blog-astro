@@ -1,7 +1,7 @@
 ---
 title: "Sultana Downrigging Weekend Tall Ship and Wooden Boat Festival  — October 27-29"
 date: 2017-10-21T09:38:03
-slug: sultana-downrigging-weekend-october-27-29
+slug: "sultana-downrigging-weekend-october-27-29"
 excerpt: "The Sultana Downrigging Weekend and Tall Ship and Wooden Boat Festival has grown to be one of the largest annual Tall Ship gatherings on the East Coast. Now in its 17th year, it is held on the Chester River in Chestertown, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

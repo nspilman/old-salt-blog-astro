@@ -1,8 +1,8 @@
 ---
 title: "CNO on Navy Shipbuilding Mistakes :  May Not Be Able To Recover In This Century"
 date: 2021-01-13T14:58:41
-slug: cno-on-navy-shipbuilding-mistakes-may-not-be-able-to-recover-in-this-century
-excerpt: "The US Chief of Naval Operations Adm. Mike Gilday was blunt when he was recently quoted saying, “I don’t mean to be dramatic, but I feel like if the Navy loses its head, if we go off course and we … Continue reading &rarr;"
+slug: "cno-on-navy-shipbuilding-mistakes-may-not-be-able-to-recover-in-this-century"
+excerpt: "The US Chief of Naval Operations Adm. Mike Gilday was blunt when he was recently quoted saying, \"I don’t mean to be dramatic, but I feel like if the Navy loses its head, if we go off course and we … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Zumwalt destroyer"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/cnolcs.jpg"
 author: "Rick Spilman"
-description: "The US Chief of Naval Operations Adm. Mike Gilday was blunt when he was recently quoted saying, “I don’t mean to be dramatic, but I feel like if the Navy loses its head, if we go off course and we … Continue reading &rarr;"
+description: "The US Chief of Naval Operations Adm. Mike Gilday was blunt when he was recently quoted saying, \"I don’t mean to be dramatic, but I feel like if the Navy loses its head, if we go off course and we … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/cnolcs.jpg)

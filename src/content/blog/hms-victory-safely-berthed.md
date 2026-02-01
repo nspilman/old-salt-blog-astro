@@ -1,7 +1,7 @@
 ---
 title: "HMS Victory Safely Berthed"
 date: 2021-05-07T16:51:35
-slug: hms-victory-safely-berthed
+slug: "hms-victory-safely-berthed"
 excerpt: "Here is a new video from The National Museum of the Royal Navy describing the 20 year-long project to secure HMS Victory in her dock at Portsmouth’s Historic Dockyard. As we posted back in August 2020, when HMS Victory went … Continue reading &rarr;"
 categories:
   - "Current"

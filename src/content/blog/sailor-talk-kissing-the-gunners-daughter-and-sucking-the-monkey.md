@@ -1,8 +1,8 @@
 ---
-title: "Sailor Talk – “Kissing the Gunner’s Daughter” and “Sucking the Monkey”"
+title: "Sailor Talk – \"Kissing the Gunner’s Daughter\" and \"Sucking the Monkey\""
 date: 2008-10-13T10:33:43
-slug: sailor-talk-kissing-the-gunners-daughter-and-sucking-the-monkey
-excerpt: "One of my particular frustrations with the “Talk-Like a Pirate Day” folks is that even if one ignores the very nasty nature of pirates, historical and modern alike, a second and perhaps even great problem remains. The Talk-Like-a-Piraters do such … Continue reading &rarr;"
+slug: "sailor-talk-kissing-the-gunners-daughter-and-sucking-the-monkey"
+excerpt: "One of my particular frustrations with the \"Talk-Like a Pirate Day\" folks is that even if one ignores the very nasty nature of pirates, historical and modern alike, a second and perhaps even great problem remains. The Talk-Like-a-Piraters do such … Continue reading &rarr;"
 categories:
   - "Language"
 tags:
@@ -15,7 +15,7 @@ tags:
   - "sucking the monkey"
   - "talk like a pirate"
 author: "Rick Spilman"
-description: "One of my particular frustrations with the “Talk-Like a Pirate Day” folks is that even if one ignores the very nasty nature of pirates, historical and modern alike, a second and perhaps even great problem remains. The Talk-Like-a-Piraters do such … Continue reading &rarr;"
+description: "One of my particular frustrations with the \"Talk-Like a Pirate Day\" folks is that even if one ignores the very nasty nature of pirates, historical and modern alike, a second and perhaps even great problem remains. The Talk-Like-a-Piraters do such … Continue reading &rarr;"
 ---
 
 One of my particular frustrations with the [“Talk-Like a Pirate Day”](http://www.talklikeapirate.com/) folks is that even if one ignores the very nasty nature of pirates, historical and modern alike, a second and perhaps even great problem remains. The Talk-Like-a-Piraters do such a lousy job of talking like pirates. A few “Aarghs”, “avast-ye maties”s and “shiver-me-timbers” isn’t very impressive.  If that is the best they can do, why bother?

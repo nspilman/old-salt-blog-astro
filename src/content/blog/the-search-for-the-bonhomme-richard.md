@@ -1,7 +1,7 @@
 ---
 title: "The Search for the Bonhomme Richard"
 date: 2010-09-05T15:10:49
-slug: the-search-for-the-bonhomme-richard
+slug: "the-search-for-the-bonhomme-richard"
 excerpt: "The Ocean Technology Foundation has been searching for John Paul Jones’  famous flagship, the Bonhomme Richard for the last five years.  They now believe that they are closing in on the wreck. On this year’s expedition both the US and French Navies are joining … Continue reading &rarr;"
 categories:
   - "History"

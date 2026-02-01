@@ -1,7 +1,7 @@
 ---
 title: "Tourist Submarine Sinks in Red Sea Off Egypt — 39 Rescued, 6 Dead"
 date: 2025-03-27T17:01:24
-slug: tourist-submarine-sinks-in-red-sea-off-egypt-39-rescued-6-dead
+slug: "tourist-submarine-sinks-in-red-sea-off-egypt-39-rescued-6-dead"
 excerpt: "Reuters reports that on Thursday morning, six Russians died and 39 foreign passengers were rescued when a tourist submarine sank off the Egyptian Red Sea resort of Hurghada. The Red Sea Governorate said the submarine, named Sindbad, had 50 people … Continue reading &rarr;"
 categories:
   - "Current"

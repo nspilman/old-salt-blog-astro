@@ -1,8 +1,8 @@
 ---
 title: "All is Lost, Robert Redford as Solo Sailor – a Review"
 date: 2013-10-19T10:51:34
-slug: lost-robert-redford-solo-sailor-review
-excerpt: "“All is Lost” a new film by J. C. Chandor, starring Robert Redford is about a solo sailor whose 39-foot sail boat is struck by a floating shipping container while 1,700 miles off the Sunda Strait and which later sinks in … Continue reading &rarr;"
+slug: "lost-robert-redford-solo-sailor-review"
+excerpt: "\"All is Lost\" a new film by J. C. Chandor, starring Robert Redford is about a solo sailor whose 39-foot sail boat is struck by a floating shipping container while 1,700 miles off the Sunda Strait and which later sinks in … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "J. C. Chandor"
   - "Robert Redford"
 author: "Rick Spilman"
-description: "“All is Lost” a new film by J. C. Chandor, starring Robert Redford is about a solo sailor whose 39-foot sail boat is struck by a floating shipping container while 1,700 miles off the Sunda Strait and which later sinks in … Continue reading &rarr;"
+description: "\"All is Lost\" a new film by J. C. Chandor, starring Robert Redford is about a solo sailor whose 39-foot sail boat is struck by a floating shipping container while 1,700 miles off the Sunda Strait and which later sinks in … Continue reading &rarr;"
 ---
 
 ![all is lost movie poster](http://www.oldsaltblog.com/wp-content/uploads/2013/10/all-is-lost-movie-poster.jpg)“[All is Lost](http://www.imdb.com/title/tt2017038/?ref_=nv_sr_1)” a new film by J. C. Chandor, starring Robert Redford is about a solo sailor whose 39-foot sail boat is struck by a floating shipping container while 1,700 miles off the Sunda Strait and which later sinks in a storm.  Redford is the only cast member and there is virtually no dialog. The movie has received rave reviews, particularly for Redford’s low key but gripping performance. I saw it yesterday afternoon and it is indeed much of what the reviewers praise – a well paced, intense and engaging adventure story with an amazing, if almost entirely mute, performance by Robert Redford, the unnamed sailor, who the the credits only identify as “Our Man.” Nevertheless, I left the movie theater disappointed.

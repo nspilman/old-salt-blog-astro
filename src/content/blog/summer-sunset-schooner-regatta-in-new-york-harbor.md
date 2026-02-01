@@ -1,7 +1,7 @@
 ---
 title: "Summer Sunset Schooner Regatta in New York Harbor"
 date: 2010-07-11T08:15:37
-slug: summer-sunset-schooner-regatta-in-new-york-harbor
+slug: "summer-sunset-schooner-regatta-in-new-york-harbor"
 excerpt: "At the end of the recent holiday weekend I was amazed to see what at first looked like a schooner race in New York harbor.  Six large schooners were all short tacking down the channel against a gentle southerly breeze.   I soon realized … Continue reading &rarr;"
 categories:
   - "Current"

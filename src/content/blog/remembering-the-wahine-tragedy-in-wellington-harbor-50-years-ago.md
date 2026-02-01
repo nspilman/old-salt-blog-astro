@@ -1,7 +1,7 @@
 ---
 title: "Remembering the Wahine Tragedy in Wellington Harbor 50 Years Ago"
 date: 2018-04-10T18:02:38
-slug: remembering-the-wahine-tragedy-in-wellington-harbor-50-years-ago
+slug: "remembering-the-wahine-tragedy-in-wellington-harbor-50-years-ago"
 excerpt: "Fifty years ago today, the interisland ferryWahine capsized and sank in shallow water after running aground near the mouth of Wellington harbor in New Zealand. The ship had been caught in a storm caused by Tropical Cyclone Giselle. Wahine was a twin-screw, turbo-electric, roll-on/roll-off passenger and … Continue reading &rarr;"
 categories:
   - "History"

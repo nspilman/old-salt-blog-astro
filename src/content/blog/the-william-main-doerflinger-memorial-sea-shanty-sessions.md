@@ -1,7 +1,7 @@
 ---
 title: "The William Main Doerflinger Memorial Sea Shanty Session – September 18th, 2011"
 date: 2011-09-20T17:56:25
-slug: the-william-main-doerflinger-memorial-sea-shanty-sessions
+slug: "the-william-main-doerflinger-memorial-sea-shanty-sessions"
 excerpt: "Fifteen years ago, a group of sea shanty enthusiasts got together for an old fashioned shanty sing. Their first meeting was, fittingly enough on the windjammer Peking at South Street Seaport. For many years they met monthly at the Seaman’s Church … Continue reading &rarr;"
 categories:
   - "Current"

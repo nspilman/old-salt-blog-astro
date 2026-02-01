@@ -1,7 +1,7 @@
 ---
 title: "Ukraine Widens Naval War — Sinks Russian Arms Ship In Caspian Sea in Drone Strike"
 date: 2025-08-20T17:15:23
-slug: ukraine-widens-naval-war-sinks-russian-arms-ship-in-caspian-sea-in-drone-strike
+slug: "ukraine-widens-naval-war-sinks-russian-arms-ship-in-caspian-sea-in-drone-strike"
 excerpt: "For a country without a significant navy, Ukraine’s naval and aerial drones have done considerable damage to Russia’s Black Sea fleet, destroying or disabling roughly a third of its ships. Now, for the first time, the Ukrainians have reached well … Continue reading &rarr;"
 categories:
   - "Current"

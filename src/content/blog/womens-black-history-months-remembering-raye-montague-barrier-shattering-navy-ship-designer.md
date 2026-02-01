@@ -1,7 +1,7 @@
 ---
 title: "Women’s & Black History Months: Remembering Raye Montague, Barrier-Shattering Navy Ship Designer"
 date: 2023-03-06T09:34:36
-slug: womens-black-history-months-remembering-raye-montague-barrier-shattering-navy-ship-designer
+slug: "womens-black-history-months-remembering-raye-montague-barrier-shattering-navy-ship-designer"
 excerpt: "In honor of both March’s Women’s History Month & February’s Black History Month, an updated repost about the barrier-shattering naval engineer Raye Montague, who died at the age of 83 in 2018. At the age of 7, she was inspired … Continue reading &rarr;"
 categories:
   - "History"

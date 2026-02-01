@@ -1,7 +1,7 @@
 ---
 title: "Update: Diana Nyad Ends Her Attempt to Swim Between Havanna & Key West"
 date: 2012-08-21T09:12:10
-slug: update-diana-nyad-ends-her-attempt-to-swim-between-havanna-key-west
+slug: "update-diana-nyad-ends-her-attempt-to-swim-between-havanna-key-west"
 excerpt: "This morning Diana Nyad ended her fourth attempt, her third this year, to swim from Havana, Cuba to Key West, Florida after being buffeted by squalls and stung by jellyfish. She had been in the water for roughly 60 hours … Continue reading &rarr;"
 categories:
   - "Current"

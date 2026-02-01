@@ -1,7 +1,7 @@
 ---
 title: "Glimpse at the New Mary Rose Museum – Carpenter’s Cabin Display"
 date: 2011-01-22T08:30:36
-slug: glimpse-at-the-new-mary-rose-museum-carpenters-cabin-display
+slug: "glimpse-at-the-new-mary-rose-museum-carpenters-cabin-display"
 excerpt: "In this latest video blog from Portsmouth Historic Dockyard, Chris Dobbs, Head of Interpretation at the Mary Rose Trust, talks us through the designing of the new carpenters cabin display, which is due to go into the new museum in … Continue reading &rarr;"
 categories:
   - "Current"

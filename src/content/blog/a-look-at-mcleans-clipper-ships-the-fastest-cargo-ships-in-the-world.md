@@ -1,7 +1,7 @@
 ---
 title: "A Look at McLean’s Clipper Ships — the Fastest Cargo Ships in the World"
 date: 2019-09-24T16:18:15
-slug: a-look-at-mcleans-clipper-ships-the-fastest-cargo-ships-in-the-world
+slug: "a-look-at-mcleans-clipper-ships-the-fastest-cargo-ships-in-the-world"
 excerpt: "The recent activation by TRANSCOM of 28 cargo ships, makes it a good time to take a look back at eight iconic shps from the 1970s still in service today.  When I was a young student of naval architecture at … Continue reading &rarr;"
 categories:
   - "Current"

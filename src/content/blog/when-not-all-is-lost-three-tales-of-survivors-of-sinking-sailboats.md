@@ -1,7 +1,7 @@
 ---
 title: "When Not All is Lost – Three Tales of Survivors of Sinking Sailboats"
 date: 2013-11-01T08:00:39
-slug: when-not-all-is-lost-three-tales-of-survivors-of-sinking-sailboats
+slug: "when-not-all-is-lost-three-tales-of-survivors-of-sinking-sailboats"
 excerpt: "In our recent review of Robert Redford’s new movie, All is Lost,  about a solo sailor in a sinking sailboat, we noted various glitches, mistakes and omissions which distracted from an otherwise gripping and engaging movie. Readers who commented on … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

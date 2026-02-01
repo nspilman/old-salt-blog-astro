@@ -1,7 +1,7 @@
 ---
 title: "Artist Required for The Tall Ships Races 2011 onboard Gaff Ketch Swan"
 date: 2011-03-19T07:25:53
-slug: artist-required-for-the-tall-ships-races-2011-onboard-gaff-ketch-swan
+slug: "artist-required-for-the-tall-ships-races-2011-onboard-gaff-ketch-swan"
 excerpt: "This sounds like a wonderful gig for the right artist. Artist required for The Tall Ships Races 2011 onboard Swan In a first for The Tall Ships Races, the former herring drifter Swan will host an artist in residence for the whole … Continue reading &rarr;"
 categories:
   - "Current"

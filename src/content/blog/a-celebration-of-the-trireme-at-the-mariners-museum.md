@@ -1,7 +1,7 @@
 ---
 title: "A Celebration of the Trireme at the Mariners’ Museum"
 date: 2011-03-16T07:45:08
-slug: a-celebration-of-the-trireme-at-the-mariners-museum
+slug: "a-celebration-of-the-trireme-at-the-mariners-museum"
 excerpt: "I am a huge fan of triremes and  am looking forward to seeing the trireme Olympias when she visits New York harbor during Op-Sail in 2012.  In the mean time, however, the Mariners’ Museum in Hampton Roads, VA is hosting a … Continue reading &rarr;"
 categories:
   - "Current"

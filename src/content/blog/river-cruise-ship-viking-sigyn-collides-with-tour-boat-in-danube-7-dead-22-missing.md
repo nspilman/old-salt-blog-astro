@@ -1,7 +1,7 @@
 ---
 title: "River Cruise Ship Viking Sigyn Collides with Tour Boat in Danube — 7 Dead, 22 Missing"
 date: 2019-05-30T19:38:19
-slug: river-cruise-ship-viking-sigyn-collides-with-tour-boat-in-danube-7-dead-22-missing
+slug: "river-cruise-ship-viking-sigyn-collides-with-tour-boat-in-danube-7-dead-22-missing"
 excerpt: "A Viking River Cruises ship, the Viking Sigyn, collided with a tourist sightseeing boat in the Danube River named Mermaid off Budapest on Wednesday night. Of the 33 Korean tourists and two Hungarian crew aboard the sightseeing boat, seven have … Continue reading &rarr;"
 categories:
   - "Current"

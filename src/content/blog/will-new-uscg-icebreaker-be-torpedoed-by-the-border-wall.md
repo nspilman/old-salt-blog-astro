@@ -1,7 +1,7 @@
 ---
 title: "Will New USCG Icebreaker Be Torpedoed by the Border Wall?"
 date: 2018-08-05T09:12:01
-slug: will-new-uscg-icebreaker-be-torpedoed-by-the-border-wall
+slug: "will-new-uscg-icebreaker-be-torpedoed-by-the-border-wall"
 excerpt: "There is a serious crisis at our border. No, not the Southern border, where crossings are at close to a 50 year low. I am referring to our Northern border, the Arctic Sea, where the US has only one heavy icebreaker, … Continue reading &rarr;"
 categories:
   - "Current"

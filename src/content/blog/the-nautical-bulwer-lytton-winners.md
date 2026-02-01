@@ -1,7 +1,7 @@
 ---
 title: "The Nautical Bulwer-Lytton Winners"
 date: 2016-05-08T09:45:45
-slug: the-nautical-bulwer-lytton-winners
+slug: "the-nautical-bulwer-lytton-winners"
 excerpt: "I am a huge fan of the Bulwer-Lytton Fiction Contest. The contest is a whimsical literary competition that challenges entrants to compose the opening sentence to the worst of all possible novels. If you are not acquainted with Edward Bulwer-Lytton, he … Continue reading &rarr;"
 categories:
   - "Current"

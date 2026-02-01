@@ -1,7 +1,7 @@
 ---
 title: "South Street Seaport Museum Reopening December 14th with New Exhibits"
 date: 2012-12-10T22:09:54
-slug: south-street-seaport-museum-reopening-december-14th-with-new-exhibits
+slug: "south-street-seaport-museum-reopening-december-14th-with-new-exhibits"
 excerpt: "The South Street Seaport Museum is reopening on Friday, December 14 with the launch of two new exhibitions –  A Fisherman’s Dream: Folk Art by Mario Sanchez and Street Shots/NYC, a presentation of contemporary New York City street photography. They … Continue reading &rarr;"
 categories:
   - "Current"

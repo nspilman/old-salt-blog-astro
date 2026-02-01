@@ -1,7 +1,7 @@
 ---
 title: "Fleet : the Complete Collection by Andrew D. Thaler, a Review by Joe Follansbee"
 date: 2014-01-29T17:47:06
-slug: fleet-the-complete-collection-by-andrew-d-thaler-a-review-by-joe-follansbee
+slug: "fleet-the-complete-collection-by-andrew-d-thaler-a-review-by-joe-follansbee"
 excerpt: "A review by Joe Follansbee of Andrew D. Thaler’s Fleet: The Complete Collection, a fascinating, post-apocalyptic tale of survival in a nautical world. Review: ‘Fleet’ revives sci-fi’s nautical tradition, By Joe Follansbee Science fiction’s nautical tradition goes back to the genre’s origins. In … Continue reading &rarr;"
 categories:
   - "Reviews"

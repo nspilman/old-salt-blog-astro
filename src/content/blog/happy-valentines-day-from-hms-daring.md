@@ -1,7 +1,7 @@
 ---
 title: "Happy Valentine’s Day from  the Crew of HMS Daring"
 date: 2014-02-14T10:24:37
-slug: happy-valentines-day-from-hms-daring
+slug: "happy-valentines-day-from-hms-daring"
 excerpt: "The crew of the HMS Daring spelled out a message on the the flight deck to their loved ones at home. The Type 45 destroyer is on her way home to Portsmouth, Hampshire, after having spent nine months on deployment. … Continue reading &rarr;"
 categories:
   - "Current"

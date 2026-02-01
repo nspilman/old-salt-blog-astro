@@ -1,7 +1,7 @@
 ---
 title: "Giant Squid Filmed for First Time in the Deep Sea"
 date: 2013-01-10T18:14:14
-slug: giant-squid-filmed-for-first-time-in-the-deep-sea
+slug: "giant-squid-filmed-for-first-time-in-the-deep-sea"
 excerpt: "They are the subject of myth and legend, the giant squid who battle massive sperms whales and leave battle scars on the whales’ flesh. Now for the first time in history, a living giant squid has been recorded in its … Continue reading &rarr;"
 categories:
   - "Current"

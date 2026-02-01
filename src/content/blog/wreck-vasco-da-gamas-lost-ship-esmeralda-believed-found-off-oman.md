@@ -1,7 +1,7 @@
 ---
 title: "Wreck of Vasco da Gama’s Lost Ship Esmeralda Believed Found Off Oman"
 date: 2016-03-19T13:31:02
-slug: wreck-vasco-da-gamas-lost-ship-esmeralda-believed-found-off-oman
+slug: "wreck-vasco-da-gamas-lost-ship-esmeralda-believed-found-off-oman"
 excerpt: "The wreck of the Esmeralda, a ship from Portuguese explorer Vasco da Gama’s  second voyage to India in 1502 and 1503, is believed to have been found close to Al Hallaniyah island, near the coast of Oman according to an … Continue reading &rarr;"
 categories:
   - "Current"

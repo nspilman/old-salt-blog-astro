@@ -1,7 +1,7 @@
 ---
 title: "Chesapeake Light Craft Sells its 20,000th Kit !"
 date: 2010-11-28T08:03:17
-slug: chesapeake-light-craft-sells-its-20000th-kit
+slug: "chesapeake-light-craft-sells-its-20000th-kit"
 excerpt: "A friend has a wooden kayak that he built from a kit.  It is simple in both design and construction – a stitch and glue plywood boat covered with fiberglass cloth.  It paddles well, is light weight and is very pretty.  Very difficult to ask for more than … Continue reading &rarr;"
 categories:
   - "Current"

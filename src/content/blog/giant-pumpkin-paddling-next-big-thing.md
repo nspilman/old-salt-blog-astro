@@ -1,7 +1,7 @@
 ---
 title: "Giant Pumpkin Paddling ! The Next Big Thing?"
 date: 2016-10-31T16:49:20
-slug: giant-pumpkin-paddling-next-big-thing
+slug: "giant-pumpkin-paddling-next-big-thing"
 excerpt: "Giant pumpkin paddling is apparently a new, hot water sport, with competitions around the globe. Who knew? From Nova Scotia, to Maine, Wisconsin, Minnesota, Oregon, Germany and the United Kingdom, people are carving out giant pumpkins, hopping aboard with a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

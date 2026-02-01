@@ -1,7 +1,7 @@
 ---
 title: "Mission Underway to Map Titanic and Wreck Site Using Cutting Edge Tech"
 date: 2024-07-19T20:01:58
-slug: mission-underway-to-map-titanic-and-wreck-site-using-cutting-edge-tech
+slug: "mission-underway-to-map-titanic-and-wreck-site-using-cutting-edge-tech"
 excerpt: "Just over a year after the ill-fated Titan expedition to the Titanic killed five people, another expedition down to one of the most famous shipwrecks in the world is underway. Using remotely operated vehicles (ROVs), a team of imaging experts, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Happy Birthday US Navy – Whenever and Wherever the Date and Place May be"
 date: 2023-10-13T16:58:42
-slug: happy-birthday-us-navy-whenever-and-wherever-the-date-and-place-may-be
-excerpt: "Today, October 13th, is celebrated as the birthday of the United States Navy, not to be confused with Navy Day which was once celebrated on October 27th.  The current “birthday” may have more to do with bragging rights than real … Continue reading &rarr;"
+slug: "happy-birthday-us-navy-whenever-and-wherever-the-date-and-place-may-be"
+excerpt: "Today, October 13th, is celebrated as the birthday of the United States Navy, not to be confused with Navy Day which was once celebrated on October 27th.  The current \"birthday\" may have more to do with bragging rights than real … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "Navy Department first established"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/10/navybirthday.jpg"
 author: "Rick Spilman"
-description: "Today, October 13th, is celebrated as the birthday of the United States Navy, not to be confused with Navy Day which was once celebrated on October 27th.  The current “birthday” may have more to do with bragging rights than real … Continue reading &rarr;"
+description: "Today, October 13th, is celebrated as the birthday of the United States Navy, not to be confused with Navy Day which was once celebrated on October 27th.  The current \"birthday\" may have more to do with bragging rights than real … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/navybirthday.jpg)[Today, October 13th, is celebrated as the birthday of the United States Navy](https://www.history.navy.mil/browse-by-topic/commemorations-toolkits/navy-birthday.html#:~:text=In%201972%2C%20Chief%20of%20Naval,birthday%20of%20the%20U.S.%20Navy.), not to be confused with [Navy Day](https://afd.defense.gov/History/Navy-Day/#:~:text=October%2027%20was%20suggested%20by,the%20idea%20of%20Navy%20Day.) which was once celebrated on October 27th.  The current “birthday” may have more to do with bragging rights than real birthdays. An updated repost.

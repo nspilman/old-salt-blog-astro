@@ -1,7 +1,7 @@
 ---
 title: "Updated: WHC Hidden Harbor Tour of Port Newark, Thursday May 17th"
 date: 2018-05-14T08:16:16
-slug: whc-hidden-harbor-tour-of-port-newark-thursday-may-17th
+slug: "whc-hidden-harbor-tour-of-port-newark-thursday-may-17th"
 excerpt: "This Thursday, the Working Harbor Committee is hosting a Hidden Harbor Tour of Port Newark. The tour is one is one of the best ways to see the mighty port hard at work. The tour features guest speakers Mitch Waxman of … Continue reading &rarr;"
 categories:
   - "Current"

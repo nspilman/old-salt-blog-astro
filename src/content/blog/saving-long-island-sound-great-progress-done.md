@@ -1,7 +1,7 @@
 ---
 title: "Saving Long Island Sound — Great Progress, More to be Done"
 date: 2017-10-27T09:00:51
-slug: saving-long-island-sound-great-progress-done
+slug: "saving-long-island-sound-great-progress-done"
 excerpt: "When my wife and I recently passed through Western Long Island Sound near City Island on a recent Saturday morning, we saw dozens of fishing boats — large and small, including at least three kayaks outfitted for fishing. I recall … Continue reading &rarr;"
 categories:
   - "Current"

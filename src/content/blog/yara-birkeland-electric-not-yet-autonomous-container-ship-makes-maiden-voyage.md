@@ -1,7 +1,7 @@
 ---
 title: "Yara Birkeland — Electric, Not-Yet-Autonomous, Container Ship Makes Maiden Voyage"
 date: 2021-11-23T17:38:59
-slug: yara-birkeland-electric-not-yet-autonomous-container-ship-makes-maiden-voyage
+slug: "yara-birkeland-electric-not-yet-autonomous-container-ship-makes-maiden-voyage"
 excerpt: "In August we posted Yara Birkeland, Crewless Electric Container Ship, First Voyage by Year’s End.  We noted that if all went according to plan, the ship would make its first journey between two Norwegian towns before the end of the … Continue reading &rarr;"
 categories:
   - "Current"

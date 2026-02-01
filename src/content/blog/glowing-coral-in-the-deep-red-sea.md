@@ -1,7 +1,7 @@
 ---
 title: "Glowing Coral in the Deep Red Sea"
 date: 2015-06-29T09:45:41
-slug: glowing-coral-in-the-deep-red-sea
+slug: "glowing-coral-in-the-deep-red-sea"
 excerpt: "As reported by Slate Magazine: Scientists have discovered a trippy scene under the Red Sea, full of fluorescent, glowing corals. An international team of researchers discovered the colorful corals at depths of more than 150 feet below the surface and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

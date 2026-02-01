@@ -1,7 +1,7 @@
 ---
 title: "Remembering the Halifax Explosion and the Boston Christmas Tree"
 date: 2015-12-06T14:49:05
-slug: remembering-the-halifax-explosion-98-years-ago-today
+slug: "remembering-the-halifax-explosion-98-years-ago-today"
 excerpt: "Ninety-eight years ago today, on the morning of December 6, 1917, the French freighter SS Mont-Blanc collided with the SS Imo, a Norwegian ship chartered to carry relief supplies to Belgium, in the Narrows, a strait connecting the upper Halifax Harbour … Continue reading &rarr;"
 categories:
   - "Current"

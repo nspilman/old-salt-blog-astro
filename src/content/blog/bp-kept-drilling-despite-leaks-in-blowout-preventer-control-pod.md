@@ -1,7 +1,7 @@
 ---
 title: "BP Kept Drilling Despite Leaks in Blowout Preventer Control Pod & Bypassed Alarms"
 date: 2010-07-24T09:02:04
-slug: bp-kept-drilling-despite-leaks-in-blowout-preventer-control-pod
+slug: "bp-kept-drilling-despite-leaks-in-blowout-preventer-control-pod"
 excerpt: "There is reported stonewalling by witnesses who have cancelled their scheduled testimonies at the ongoing investigation of the Deepwater Horizon disaster.  Nevertheless,  startling testimony was presented this Tuesday: A BP official, Ronald Sepulvado, a well-site leader, testified that BP continued drilling for oil … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Olympic Torch Arrives in Marseille on Three Masted Barque Belem"
 date: 2024-05-10T17:50:13
-slug: olympic-torch-arrives-in-marseille-on-three-masted-barque-belem
+slug: "olympic-torch-arrives-in-marseille-on-three-masted-barque-belem"
 excerpt: "Tens of thousands of people welcomed the Olympic torch Wednesday in the southern French city of Marseille, marking another milestone in the lead-up to the Summer Games in Paris. The flame arrived after a 12-day trip from Greece onboard the … Continue reading &rarr;"
 categories:
   - "Current"

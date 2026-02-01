@@ -1,8 +1,8 @@
 ---
 title: "The River Thames 1963 & the London Gateway — Glimpses of a Cargo Revolution"
 date: 2020-09-27T16:29:18
-slug: the-river-thames-1963-the-london-gateway-glimpses-of-a-cargo-revolution
-excerpt: "Here are two short videos that provide a glimpse at the revolution in cargo shipping in the UK (and the world) over the last half-century. The first video, “Look at Life – Report on a River – The River Thames … Continue reading &rarr;"
+slug: "the-river-thames-1963-the-london-gateway-glimpses-of-a-cargo-revolution"
+excerpt: "Here are two short videos that provide a glimpse at the revolution in cargo shipping in the UK (and the world) over the last half-century. The first video, \"Look at Life – Report on a River – The River Thames … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "London Gateway"
   - "River Thames"
 author: "Rick Spilman"
-description: "Here are two short videos that provide a glimpse at the revolution in cargo shipping in the UK (and the world) over the last half-century. The first video, “Look at Life – Report on a River – The River Thames … Continue reading &rarr;"
+description: "Here are two short videos that provide a glimpse at the revolution in cargo shipping in the UK (and the world) over the last half-century. The first video, \"Look at Life – Report on a River – The River Thames … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/riverthames2.jpg)Here are two short videos that provide a glimpse at the revolution in cargo shipping in the UK (and the world) over the last half-century. The first video, “[Look at Life – Report on a River – The River Thames – 1963](https://youtu.be/mwf6OM2Ar5s),” captures a moment in time just before containerization changed everything. The second video shows the huge, largely automated container terminal [London Gateway](https://www.youtube.com/watch?v=mWKXG3LCBvM). The contrast between the port facilities shown on the two videos, separated in time by over 50 years, could not be more dramatic.

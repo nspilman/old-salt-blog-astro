@@ -1,7 +1,7 @@
 ---
 title: "New Staten Island Ferry, SSG Michael H. Ollis, Launched at Eastern Shipbuilding"
 date: 2019-11-21T18:03:24
-slug: new-staten-island-ferry-ssg-michael-h-ollis-launched-at-eastern-shipbuilding
+slug: "new-staten-island-ferry-ssg-michael-h-ollis-launched-at-eastern-shipbuilding"
 excerpt: "Eastern Shipbuilding Group, Inc., Panama City, FL launched the SSG Michael H. Ollis, the first of three new 4,500-passenger ferries for New York City’s Staten Island Ferry system. The Ollis Class ferries will be double-ended, with an overall length of … Continue reading &rarr;"
 categories:
   - "Current"

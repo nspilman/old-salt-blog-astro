@@ -1,8 +1,8 @@
 ---
 title: "USS Constitution Shifts to Drydock"
 date: 2015-05-19T13:44:04
-slug: uss-constitution-shifts-to-drydock
-excerpt: "Last night, the USS Constitution was shifted to Dry Dock #1 at the Charlestown Navy Yard in Boston. The ship, the world’s oldest commissioned warship afloat, will be undergoing a three year refurbishment. USS Constitution, nicknamed “Old Ironsides,” entered service in the U.S. Navy on … Continue reading &rarr;"
+slug: "uss-constitution-shifts-to-drydock"
+excerpt: "Last night, the USS Constitution was shifted to Dry Dock #1 at the Charlestown Navy Yard in Boston. The ship, the world’s oldest commissioned warship afloat, will be undergoing a three year refurbishment. USS Constitution, nicknamed \"Old Ironsides,\" entered service in the U.S. Navy on … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

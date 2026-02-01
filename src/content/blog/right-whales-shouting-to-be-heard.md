@@ -1,7 +1,7 @@
 ---
 title: "Right Whales Shouting to be Heard"
 date: 2010-08-21T08:09:51
-slug: right-whales-shouting-to-be-heard
+slug: "right-whales-shouting-to-be-heard"
 excerpt: "Recent studies by researchers at Penn State have suggested that Northern Right Whales increase the volumes of their calls to counteract increases in environmental noise, such as propeller noise from ships.  This is the first time that an ability to … Continue reading &rarr;"
 categories:
   - "Current"

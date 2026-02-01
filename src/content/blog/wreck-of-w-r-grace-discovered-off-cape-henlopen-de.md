@@ -1,7 +1,7 @@
 ---
 title: "Wreck of W.R. GRACE Discovered off Cape Henlopen, DE"
 date: 2012-08-15T07:16:49
-slug: wreck-of-w-r-grace-discovered-off-cape-henlopen-de
+slug: "wreck-of-w-r-grace-discovered-off-cape-henlopen-de"
 excerpt: "Researchers at the University of Delaware have discovered the wreck of the 215 foot long, three masted sailing ship, W.R. Grace, which sank in a hurricane near Cape Henlopen in 1889 . Shipwreck mystery solved … Continue reading &rarr;"
 categories:
   - "Current"

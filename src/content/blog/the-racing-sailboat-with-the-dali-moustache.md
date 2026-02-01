@@ -1,7 +1,7 @@
 ---
 title: "The VPLP-Verdier Racers with Dali Moustaches — the Future or a Foil Too Far?"
 date: 2015-12-19T14:06:19
-slug: the-racing-sailboat-with-the-dali-moustache
+slug: "the-racing-sailboat-with-the-dali-moustache"
 excerpt: "A new IMOCA (International Monohull Open Class Association) 60 design by Guillaume Verdier and VPLP Design has raised the question whether the design will be a the future of ocean racing or whether it is a foil too far.  In addition … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Soul of the Sea: Immersive Dance at Historic Lighthouse Tender Lilac"
 date: 2016-06-01T16:40:17
-slug: soul-sea-immersive-dance-historic-lighthouse-tender-lilac
-excerpt: "A very interesting program coming up on the historic lighthouse tender ex-USCGC Lilac at Pier 25 on the Hudson River in Manhattan. From their press release: Linked Dance Theatre will stage “Soul of the Sea,” a site-specific immersive dance performance … Continue reading &rarr;"
+slug: "soul-sea-immersive-dance-historic-lighthouse-tender-lilac"
+excerpt: "A very interesting program coming up on the historic lighthouse tender ex-USCGC Lilac at Pier 25 on the Hudson River in Manhattan. From their press release: Linked Dance Theatre will stage \"Soul of the Sea,\" a site-specific immersive dance performance … Continue reading &rarr;"
 categories:
   - "City of Ships"
   - "Current"
@@ -14,7 +14,7 @@ tags:
   - "Linked Dance Theatre"
   - "SOUL OF THE SEA"
 author: "Rick Spilman"
-description: "A very interesting program coming up on the historic lighthouse tender ex-USCGC Lilac at Pier 25 on the Hudson River in Manhattan. From their press release: Linked Dance Theatre will stage “Soul of the Sea,” a site-specific immersive dance performance … Continue reading &rarr;"
+description: "A very interesting program coming up on the historic lighthouse tender ex-USCGC Lilac at Pier 25 on the Hudson River in Manhattan. From their press release: Linked Dance Theatre will stage \"Soul of the Sea,\" a site-specific immersive dance performance … Continue reading &rarr;"
 ---
 
 ![sots](http://www.oldsaltblog.com/wp-content/uploads/2016/06/sots.jpg)A very interesting program coming up on the [historic lighthouse tender ex-USCGC *Lilac*](http://www.lilacpreservationproject.org/) at Pier 25 on the Hudson River in Manhattan. From their press release:

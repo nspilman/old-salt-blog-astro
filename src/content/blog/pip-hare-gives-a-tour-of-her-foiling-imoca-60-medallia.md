@@ -1,7 +1,7 @@
 ---
 title: "Pip Hare Gives a Tour of Her Foiling IMOCA 60, Medallia"
 date: 2022-06-24T16:41:27
-slug: pip-hare-gives-a-tour-of-her-foiling-imoca-60-medallia
+slug: "pip-hare-gives-a-tour-of-her-foiling-imoca-60-medallia"
 excerpt: "Here is a short video of Pip Hare giving a tour under sail of her foiling IMOCA 60 Medallia to Yachting Monthly’s Katy Stickland. Hare recently completed the Vendée Arctique, a qualifying race for the Vendée Globe 2024/25 in Medallia. Pip … Continue reading &rarr;"
 categories:
   - "Current"

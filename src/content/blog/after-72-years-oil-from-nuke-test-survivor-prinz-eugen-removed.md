@@ -1,7 +1,7 @@
 ---
 title: "After 72 Years, Oil From Nuke Test Survivor Prinz Eugen Removed"
 date: 2018-12-29T17:43:52
-slug: after-72-years-oil-from-nuke-test-survivor-prinz-eugen-removed
+slug: "after-72-years-oil-from-nuke-test-survivor-prinz-eugen-removed"
 excerpt: "Recently, teams of Navy specialists have successfully removed 230,000 gallons of fuel, or close to 800 tons, still aboard the Prinz Eugen when it sank at Kwajalein, 72 years ago. The bottom of the lagoon at the Kwajalein Atoll is … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Royal Navy’s XV Patrick Blacket Tests GPS-Free Quantum Navigation System"
 date: 2023-05-27T15:53:38
-slug: royal-navys-xv-patrick-blacket-tests-gps-free-quantum-navigation-system
-excerpt: "Last year we posted about the christening of the Royal Navy’s research ship XV Patrick Blacket. (The “XV” designation refers to “experimental vessel.”) The 42-meter, 270 tonne modified crew-supply ship is intended to be a platform on which to test … Continue reading &rarr;"
+slug: "royal-navys-xv-patrick-blacket-tests-gps-free-quantum-navigation-system"
+excerpt: "Last year we posted about the christening of the Royal Navy’s research ship XV Patrick Blacket. (The \"XV\" designation refers to \"experimental vessel.\") The 42-meter, 270 tonne modified crew-supply ship is intended to be a platform on which to test … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "XV Patrick Blacket"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/xo1.jpg"
 author: "Rick Spilman"
-description: "Last year we posted about the christening of the Royal Navy’s research ship XV Patrick Blacket. (The “XV” designation refers to “experimental vessel.”) The 42-meter, 270 tonne modified crew-supply ship is intended to be a platform on which to test … Continue reading &rarr;"
+description: "Last year we posted about the christening of the Royal Navy’s research ship XV Patrick Blacket. (The \"XV\" designation refers to \"experimental vessel.\") The 42-meter, 270 tonne modified crew-supply ship is intended to be a platform on which to test … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/xo1.jpg)Last year [we posted about the christening](https://www.oldsaltblog.com/2022/07/robot-dog-helps-christen-navyxs-maritime-sandbox-xv-patrick-blacket/) of the Royal Navy’s research ship XV *Patrick Blacket*. (The “XV” designation refers to “experimental vessel.”) The 42-meter, 270 tonne modified crew-supply ship is intended to be a platform on which to test new technology without the need to place demands on other navy ships, many of which are deployed permanently away from UK waters.

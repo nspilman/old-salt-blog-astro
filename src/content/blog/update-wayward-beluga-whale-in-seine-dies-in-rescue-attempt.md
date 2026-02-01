@@ -1,7 +1,7 @@
 ---
 title: "Update: Wayward Beluga Whale in Seine Dies in Rescue Attempt"
 date: 2022-08-10T09:10:09
-slug: update-wayward-beluga-whale-in-seine-dies-in-rescue-attempt
+slug: "update-wayward-beluga-whale-in-seine-dies-in-rescue-attempt"
 excerpt: "Sad news. We recently posted about a wayward beluga whale that had been found swimming over 100 km up the River Seine in France. After the dangerously thin whale refused food, an attempt to rescue the whale was undertaken. Sadly, … Continue reading &rarr;"
 categories:
   - "Current"

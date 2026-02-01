@@ -1,7 +1,7 @@
 ---
 title: "Largest Mass Whale Stranding Ever Reported in Patagonia"
 date: 2015-11-22T18:52:01
-slug: largest-mass-whale-stranding-ever-reported-in-patagonia
+slug: "largest-mass-whale-stranding-ever-reported-in-patagonia"
 excerpt: "Scientists have reported the largest whale stranding on record — 337 dead whales were discovered in a remote fiord in the Patagonia, southern Chile.  The discovery was made using aerial and satellite photography last June but was first leaked the Chilean … Continue reading &rarr;"
 categories:
   - "Current"

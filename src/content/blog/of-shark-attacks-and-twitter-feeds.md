@@ -1,7 +1,7 @@
 ---
 title: "Of Shark Attacks and Twitter Feeds"
 date: 2015-07-06T18:25:39
-slug: of-shark-attacks-and-twitter-feeds
+slug: "of-shark-attacks-and-twitter-feeds"
 excerpt: "Recently, sharks and the internet have begun to interact. On the Atlantic coast, shark researchers have been tagging great white sharks, allowing thousands of internet fans to watch their travels across the world’s oceans on the web.  On the other … Continue reading &rarr;"
 categories:
   - "Current"

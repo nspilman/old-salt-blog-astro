@@ -1,7 +1,7 @@
 ---
 title: "ROV Video – Costa Concordia Perched Perilously on Rocks, Bow & Stern"
 date: 2012-02-22T10:54:25
-slug: rov-video-costa-concordia-perched-perilously-on-rocks-bow-stern
+slug: "rov-video-costa-concordia-perched-perilously-on-rocks-bow-stern"
 excerpt: "Video shot by a remotely operated vehicle (ROV), roughly a month after the ship ran aground, shows that the Costa Concordia is not sitting evenly on the bottom.  Instead, the 950′ long ship is perched perilously on two rocky outcroppings at the bow … Continue reading &rarr;"
 categories:
   - "Current"

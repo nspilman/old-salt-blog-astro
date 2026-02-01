@@ -1,8 +1,8 @@
 ---
 title: "USS Houston Wreck, Popular Dive Site for Years, Finally Confirmed by US Navy"
 date: 2014-08-21T15:50:49
-slug: uss-houston-wreck-popular-dive-site-for-years-finally-confirmed-by-us-navy
-excerpt: "This week, US Navy divers confirmed the location of the wreck of the USS Houston in Banten Bay off the Java Sea.   The heavy cruiser was nicknamed the “The Galloping Ghost of the Java Coast,” and sank along with the Australian light … Continue reading &rarr;"
+slug: "uss-houston-wreck-popular-dive-site-for-years-finally-confirmed-by-us-navy"
+excerpt: "This week, US Navy divers confirmed the location of the wreck of the USS Houston in Banten Bay off the Java Sea.   The heavy cruiser was nicknamed the \"The Galloping Ghost of the Java Coast,\" and sank along with the Australian light … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"

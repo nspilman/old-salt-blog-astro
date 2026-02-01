@@ -1,7 +1,7 @@
 ---
 title: "Lobster Trap Christmas Trees – Christmas Tradition & Friendly Competition"
 date: 2011-12-23T09:51:33
-slug: lobster-trap-christmas-trees-christmas-tradition-friendly-competition
+slug: "lobster-trap-christmas-trees-christmas-tradition-friendly-competition"
 excerpt: "Lobster traps, also known as lobster pots, are ubiquitous around the coastal towns of New England. Around this time of year, Christmas trees built from stacked lobster pots rise in many towns along the coast. With fishermen being fishermen, a friendly competition between the … Continue reading &rarr;"
 categories:
   - "Current"

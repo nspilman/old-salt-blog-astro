@@ -1,7 +1,7 @@
 ---
 title: "Update: Tragedy at Dauphin Island — Six Dead or Missing"
 date: 2015-05-03T09:59:32
-slug: update-tragedy-at-dauphin-island-six-dead-or-missing
+slug: "update-tragedy-at-dauphin-island-six-dead-or-missing"
 excerpt: "A week ago, tragedy struck at the Dauphin Island Regatta on Mobile Bay,  when a powerful squall packing winds of almost 70 knots struck the assembled fleet. Six sailors were lost. The bodies of five sailors have been found.   The … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,8 +1,8 @@
 ---
 title: "Missing WWII Sub, R12, Found with 42 Entombed Sailors"
 date: 2011-05-26T16:00:23
-slug: missing-wwii-sub-r12-found-with-42-entombed-sailors
-excerpt: "On June 12,1943 in 600 feet of water, the submarine USS R12 sank in 15 seconds in 600 feet of water, taking 42 of her crew with her to the bottom.  Recently, a team led by Tim Taylor on the “RV … Continue reading &rarr;"
+slug: "missing-wwii-sub-r12-found-with-42-entombed-sailors"
+excerpt: "On June 12,1943 in 600 feet of water, the submarine USS R12 sank in 15 seconds in 600 feet of water, taking 42 of her crew with her to the bottom.  Recently, a team led by Tim Taylor on the \"RV … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "RV Tiburon"
   - "WWII Sub"
 author: "Rick Spilman"
-description: "On June 12,1943 in 600 feet of water, the submarine USS R12 sank in 15 seconds in 600 feet of water, taking 42 of her crew with her to the bottom.  Recently, a team led by Tim Taylor on the “RV … Continue reading &rarr;"
+description: "On June 12,1943 in 600 feet of water, the submarine USS R12 sank in 15 seconds in 600 feet of water, taking 42 of her crew with her to the bottom.  Recently, a team led by Tim Taylor on the \"RV … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/r12.jpg)

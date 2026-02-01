@@ -1,7 +1,7 @@
 ---
 title: "Container Cliff: Port Strike on East and Gulf Coast Ports Averted, for Now"
 date: 2012-12-27T14:12:52
-slug: container-cliff-port-strike-looms-on-east-and-gulf-coasts
+slug: "container-cliff-port-strike-looms-on-east-and-gulf-coasts"
 excerpt: "Update: The port strike has been averted for now with a 30 day contract extension. In early December we posted about the end of the eight day West Coast dock strike that shut down 10 of the port’s 14 container terminals in  the … Continue reading &rarr;"
 categories:
   - "Current"

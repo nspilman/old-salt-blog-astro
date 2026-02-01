@@ -1,7 +1,7 @@
 ---
 title: "The Long Goodbye — Preparing SS United States to be Sunk as an Artificial Reef"
 date: 2025-03-06T19:06:42
-slug: the-long-goodbye-preparing-ss-united-states-to-be-sunk-as-an-artificial-reef
+slug: "the-long-goodbye-preparing-ss-united-states-to-be-sunk-as-an-artificial-reef"
 excerpt: "The iconic passenger liner  SS United States arrived early Monday in Mobile, Alabama, nearly two weeks after departing under tow from South Philadelphia. She was docked at Modern American Recycling Service (MARS), where if all goes according to plan, she … Continue reading &rarr;"
 categories:
   - "Current"

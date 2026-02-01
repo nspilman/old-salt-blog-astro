@@ -1,7 +1,7 @@
 ---
 title: "Building a Petrel Play Strip Kayak in One Minute"
 date: 2017-11-30T18:53:47
-slug: building-petrel-play-strip-kayak-one-minute
+slug: "building-petrel-play-strip-kayak-one-minute"
 excerpt: "I am a big fan of strip kayaks in general and the designs of Nick Schade of Guillemot Kayaks in particular. Given that our family already owns five kayaks, it has become harder for me to argue that I really need … Continue reading &rarr;"
 categories:
   - "Current"

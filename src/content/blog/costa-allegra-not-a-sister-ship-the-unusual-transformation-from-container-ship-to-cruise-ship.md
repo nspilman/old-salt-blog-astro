@@ -1,8 +1,8 @@
 ---
 title: "Costa Allegra: Not A Sister Ship – the Unusual Transformation from Container Ship to Cruise Ship"
 date: 2012-02-28T09:21:27
-slug: costa-allegra-not-a-sister-ship-the-unusual-transformation-from-container-ship-to-cruise-ship
-excerpt: "The headlines from several media sources (see here or here) have referred to the Costa Allegra, the cruise ship adrift in the Indian Ocean after an engine room fire, as a sister ship to the Costa Concordia.  A sister ship is generally defined as a “a ship of the … Continue reading &rarr;"
+slug: "costa-allegra-not-a-sister-ship-the-unusual-transformation-from-container-ship-to-cruise-ship"
+excerpt: "The headlines from several media sources (see here or here) have referred to the Costa Allegra, the cruise ship adrift in the Indian Ocean after an engine room fire, as a sister ship to the Costa Concordia.  A sister ship is generally defined as a \"a ship of the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Costa Marina"
   - "Rederi AB Nordstjernan"
 author: "Rick Spilman"
-description: "The headlines from several media sources (see here or here) have referred to the Costa Allegra, the cruise ship adrift in the Indian Ocean after an engine room fire, as a sister ship to the Costa Concordia.  A sister ship is generally defined as a “a ship of the … Continue reading &rarr;"
+description: "The headlines from several media sources (see here or here) have referred to the Costa Allegra, the cruise ship adrift in the Indian Ocean after an engine room fire, as a sister ship to the Costa Concordia.  A sister ship is generally defined as a \"a ship of the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/costa_allegra_1969_1.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "In Aftermath of Volcanic Eruption, Tonga Plunged Into Digital Darkness"
 date: 2022-01-19T19:05:32
-slug: in-aftermath-of-volcanic-eruption-tonga-plunged-into-digital-darkness
+slug: "in-aftermath-of-volcanic-eruption-tonga-plunged-into-digital-darkness"
 excerpt: "The underwater volcano that erupted off Tonga on Saturday with the force of 500 Hiroshima nuclear bombs covered the island nation with ash and sent tsunami waves of up 50 feet (15 meters) striking some islands, killing at least three. Efforts are … Continue reading &rarr;"
 categories:
   - "Current"

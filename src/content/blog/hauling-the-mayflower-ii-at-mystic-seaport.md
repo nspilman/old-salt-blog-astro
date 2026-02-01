@@ -1,7 +1,7 @@
 ---
 title: "Hauling the Mayflower II at Mystic Seaport"
 date: 2016-11-24T11:17:23
-slug: hauling-the-mayflower-ii-at-mystic-seaport
+slug: "hauling-the-mayflower-ii-at-mystic-seaport"
 excerpt: "I hope everyone who celebrates the American holiday is having a wonderful Thanksgiving. The holiday is associated with a group of English settlers now known as the Pilgrims who arrived on the Massachusetts coast around 1620 on the ship Mayflower. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Sailors’ and Fishermans’ Superstitions"
 date: 2009-10-04T07:32:04
-slug: sailors%e2%80%99-and-fishermans%e2%80%99-superstitions
-excerpt: "Martin Evans on the Marine History List posted a collection of  sailors’ superstitions from the current issue of “Fishing Boats”. … Continue reading &rarr;"
+slug: "sailors%e2%80%99-and-fishermans%e2%80%99-superstitions"
+excerpt: "Martin Evans on the Marine History List posted a collection of  sailors’ superstitions from the current issue of \"Fishing Boats\". … Continue reading &rarr;"
 categories:
   - "Language"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "Marine History List"
   - "Superstitions"
 author: "Rick Spilman"
-description: "Martin Evans on the Marine History List posted a collection of  sailors’ superstitions from the current issue of “Fishing Boats”. … Continue reading &rarr;"
+description: "Martin Evans on the Marine History List posted a collection of  sailors’ superstitions from the current issue of \"Fishing Boats\". … Continue reading &rarr;"
 ---
 
 ![dory](http://www.oldsaltblog.com/wp-content/uploads/2009/10/dory.jpg)Martin Evans on the Marine History List posted a collection of  sailors’ superstitions from the current issue of “Fishing Boats”.  

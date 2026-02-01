@@ -1,7 +1,7 @@
 ---
 title: "Photo of Iceberg That Sank the Titanic Up for Sale"
 date: 2012-11-27T08:34:57
-slug: photo-of-iceberg-that-sank-the-titanic-up-for-sale
+slug: "photo-of-iceberg-that-sank-the-titanic-up-for-sale"
 excerpt: "No one aboard the Titanic took a photograph of the iceberg that sank the famous ship in 1912, but two sailors made sketches of the berg, which had a distinctly elliptical shape. It so happens that two days before, what … Continue reading &rarr;"
 categories:
   - "Current"

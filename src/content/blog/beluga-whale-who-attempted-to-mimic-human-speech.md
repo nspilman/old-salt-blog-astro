@@ -1,8 +1,8 @@
 ---
 title: "Beluga Whale that Attempted to Mimic Human Speech"
 date: 2012-10-23T07:47:27
-slug: beluga-whale-who-attempted-to-mimic-human-speech
-excerpt: "Beluga whale ‘makes human-like sounds’ Sailors once called beluga whales the “canaries of the sea.”  Sailors could hear the “song” of the beluga, a range of chirps and whistles, through the wooden hulls of their ships.  There is a fascinating story … Continue reading &rarr;"
+slug: "beluga-whale-who-attempted-to-mimic-human-speech"
+excerpt: "Beluga whale ‘makes human-like sounds’ Sailors once called beluga whales the \"canaries of the sea.\"  Sailors could hear the \"song\" of the beluga, a range of chirps and whistles, through the wooden hulls of their ships.  There is a fascinating story … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "beluga whale"
   - "canary of the sea"
 author: "Rick Spilman"
-description: "Beluga whale ‘makes human-like sounds’ Sailors once called beluga whales the “canaries of the sea.”  Sailors could hear the “song” of the beluga, a range of chirps and whistles, through the wooden hulls of their ships.  There is a fascinating story … Continue reading &rarr;"
+description: "Beluga whale ‘makes human-like sounds’ Sailors once called beluga whales the \"canaries of the sea.\"  Sailors could hear the \"song\" of the beluga, a range of chirps and whistles, through the wooden hulls of their ships.  There is a fascinating story … Continue reading &rarr;"
 ---
 
 [http://youtu.be/HtIv8RIbDbk](http://youtu.be/HtIv8RIbDbk)  

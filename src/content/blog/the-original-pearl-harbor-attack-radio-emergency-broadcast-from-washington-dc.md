@@ -1,7 +1,7 @@
 ---
 title: "The Original Pearl Harbor Attack Radio Emergency Broadcast from Washington DC"
 date: 2010-12-07T19:51:11
-slug: the-original-pearl-harbor-attack-radio-emergency-broadcast-from-washington-dc
+slug: "the-original-pearl-harbor-attack-radio-emergency-broadcast-from-washington-dc"
 excerpt: "The Original Pearl Harbor Attack Radio Emergency Broadcast from Washington DC Thanks to Dave Shirlaw on the  Marine History list for pointing out the video. … Continue reading &rarr;"
 categories:
   - "History"

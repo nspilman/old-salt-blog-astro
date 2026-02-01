@@ -1,7 +1,7 @@
 ---
 title: "The Tradition of Naval Christmas Cards"
 date: 2012-12-26T09:04:18
-slug: the-tradition-of-naval-christmas-cards
+slug: "the-tradition-of-naval-christmas-cards"
 excerpt: "The custom of sending Christmas card is said to have originated in 1843 with Sir Henry Cole, a civil servant, who wanted to promote the new ‘Public Post Office.’  He arranged for his artist friend, John Horsley to design a card.  Two batches … Continue reading &rarr;"
 categories:
   - "History"

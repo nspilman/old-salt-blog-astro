@@ -1,7 +1,7 @@
 ---
 title: "Broken Keels in the Vendée Globe – Javier Sanso Capsizes, Keel-less Jean-Pierre Dick Takes Fourth Place"
 date: 2013-02-04T17:25:22
-slug: broken-keels-in-the-vendee-globe-javier-sanso-capsizes-keel-less-jean-pierre-dick-takes-fourth-place
+slug: "broken-keels-in-the-vendee-globe-javier-sanso-capsizes-keel-less-jean-pierre-dick-takes-fourth-place"
 excerpt: "The high-tech canting keels on the Vendée Globe Open 60 racing sailboats continue to be problematic, at best.  On Sunday, Javier Sanso’s boat, Acciona, capsized, when his keel broke off.  Sanso was rescued today.  Also today, Jean-Pierre Dick crossed the finish line despite having lost his … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

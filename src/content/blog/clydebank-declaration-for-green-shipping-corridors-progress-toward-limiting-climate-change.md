@@ -1,7 +1,7 @@
 ---
 title: "Clydebank Declaration for Green Shipping Corridors, Progress Toward Limiting Climate Change"
 date: 2021-12-11T12:26:08
-slug: clydebank-declaration-for-green-shipping-corridors-progress-toward-limiting-climate-change
+slug: "clydebank-declaration-for-green-shipping-corridors-progress-toward-limiting-climate-change"
 excerpt: "While many were disappointed by the lack of major breakthroughs at COP26, the recent U.N. climate talks, significant progress was made in beginning to clean up shipping emissions on global trade routes. As reported by the Washington Post, the United … Continue reading &rarr;"
 categories:
   - "Current"

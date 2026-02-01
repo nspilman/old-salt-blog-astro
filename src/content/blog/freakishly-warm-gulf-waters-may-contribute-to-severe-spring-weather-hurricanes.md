@@ -1,7 +1,7 @@
 ---
-title: "“Freakishly Warm” Gulf Waters May Contribute to Severe Spring Weather & Hurricanes"
+title: "\"Freakishly Warm\" Gulf Waters May Contribute to Severe Spring Weather & Hurricanes"
 date: 2020-05-05T14:42:22
-slug: freakishly-warm-gulf-waters-may-contribute-to-severe-spring-weather-hurricanes
+slug: "freakishly-warm-gulf-waters-may-contribute-to-severe-spring-weather-hurricanes"
 excerpt: "As if a pandemic is not enough to worry about, the effects of climate change appear to be delivering some particularly nasty weather this year. The waters of the Gulf of Mexico have been described as being abnormally warm, freakishly … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

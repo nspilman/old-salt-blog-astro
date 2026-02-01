@@ -1,7 +1,7 @@
 ---
 title: "Museum of the City of New York to Take Over Seaport Museum with $2M Grant"
 date: 2011-09-08T08:05:28
-slug: museum-of-the-city-of-new-york-to-take-over-seaport-museum-with-2m-grant
+slug: "museum-of-the-city-of-new-york-to-take-over-seaport-museum-with-2m-grant"
 excerpt: "The Seaport Museum of New York, better known as the South Street Seaport Museum, will be taken over by the Museum of the City of New York with starting funds of $2 million in the form of a grant from the … Continue reading &rarr;"
 categories:
   - "Current"

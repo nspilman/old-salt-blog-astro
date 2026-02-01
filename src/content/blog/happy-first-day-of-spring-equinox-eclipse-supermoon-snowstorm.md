@@ -1,8 +1,8 @@
 ---
 title: "Happy First Day of Spring — Equinox, Eclipse, Supermoon & Snowstorm"
 date: 2015-03-20T12:21:16
-slug: happy-first-day-of-spring-equinox-eclipse-supermoon-snowstorm
-excerpt: "Happy first day of Spring! The arrival of the vernal equinox happens to coincide with a solar eclipse, as well as with a “supermoon,” and here on the west bank of the Hudson River, a snowstorm designated “Winter Storm Ultima.” … Continue reading &rarr;"
+slug: "happy-first-day-of-spring-equinox-eclipse-supermoon-snowstorm"
+excerpt: "Happy first day of Spring! The arrival of the vernal equinox happens to coincide with a solar eclipse, as well as with a \"supermoon,\" and here on the west bank of the Hudson River, a snowstorm designated \"Winter Storm Ultima.\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

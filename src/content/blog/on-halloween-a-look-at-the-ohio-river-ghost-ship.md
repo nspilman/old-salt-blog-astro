@@ -1,7 +1,7 @@
 ---
 title: "On Halloween — a Look at the Ohio River Ghost Ship"
 date: 2019-10-31T14:22:50
-slug: on-halloween-a-look-at-the-ohio-river-ghost-ship
+slug: "on-halloween-a-look-at-the-ohio-river-ghost-ship"
 excerpt: "The so-called Ohio River ghost ship does not seem to be really haunted, except perhaps by a long and illustrious past. A vessel of many names, she has been known as Celt, Sachem, USS Phenakite, Sightseer, and Circle Line V. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Linda Collison’s Barbados Bound"
 date: 2012-08-05T12:20:17
-slug: linda-collisons-barbados-bound
+slug: "linda-collisons-barbados-bound"
 excerpt: "Barbados Bound, the first book of the Linda Collison’s Patricia MacPherson Nautical Adventure Series has been published by Fireship Press. First published as Star-Crossed in 2006 by Alfred A. Knopf, the New York Public Library chose Star-Crossed to be among … Continue reading &rarr;"
 categories:
   - "Newbooks"

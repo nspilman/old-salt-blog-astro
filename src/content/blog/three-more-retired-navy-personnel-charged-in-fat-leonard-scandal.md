@@ -1,8 +1,8 @@
 ---
 title: "Three More Retired Navy Personnel Charged in Fat Leonard Scandal"
 date: 2018-08-18T11:04:06
-slug: three-more-retired-navy-personnel-charged-in-fat-leonard-scandal
-excerpt: "Two retired U.S. Navy chief petty officers and one retired captain were charged with bribery and fraud in the multi-year “Fat Leonard” criminal investigation, which has been described as the worst corruption scandal in Navy history. Leonard Glenn Francis, who at 6’3″ tall and … Continue reading &rarr;"
+slug: "three-more-retired-navy-personnel-charged-in-fat-leonard-scandal"
+excerpt: "Two retired U.S. Navy chief petty officers and one retired captain were charged with bribery and fraud in the multi-year \"Fat Leonard\" criminal investigation, which has been described as the worst corruption scandal in Navy history. Leonard Glenn Francis, who at 6’3″ tall and … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "US Navy scandal"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/fatleonard1.jpg"
 author: "Rick Spilman"
-description: "Two retired U.S. Navy chief petty officers and one retired captain were charged with bribery and fraud in the multi-year “Fat Leonard” criminal investigation, which has been described as the worst corruption scandal in Navy history. Leonard Glenn Francis, who at 6’3″ tall and … Continue reading &rarr;"
+description: "Two retired U.S. Navy chief petty officers and one retired captain were charged with bribery and fraud in the multi-year \"Fat Leonard\" criminal investigation, which has been described as the worst corruption scandal in Navy history. Leonard Glenn Francis, who at 6’3″ tall and … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/fatleonard1.jpg)

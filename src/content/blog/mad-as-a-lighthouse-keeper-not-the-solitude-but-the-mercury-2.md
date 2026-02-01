@@ -1,7 +1,7 @@
 ---
 title: "Mad as a Lighthouse Keeper — Not the Solitude, but the Mercury"
 date: 2025-05-19T14:02:03
-slug: mad-as-a-lighthouse-keeper-not-the-solitude-but-the-mercury-2
+slug: "mad-as-a-lighthouse-keeper-not-the-solitude-but-the-mercury-2"
 excerpt: "Lighthouse keepers had more to worry about than simply storms and terrible conditions. In the 19th century, lighthouse keepers had a high frequency of madness and suicide.  Many assumed that they went mad from solitude and the demands of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

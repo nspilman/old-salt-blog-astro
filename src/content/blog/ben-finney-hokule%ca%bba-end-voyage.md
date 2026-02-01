@@ -1,7 +1,7 @@
 ---
 title: "Ben Finney and Hōkūleʻa’  — the End of a Voyage"
 date: 2017-06-24T11:14:37
-slug: ben-finney-hokule%ca%bba-end-voyage
+slug: "ben-finney-hokule%ca%bba-end-voyage"
 excerpt: "Less than a month before the voyaging canoe Hōkūleʻa‘ completed its epic journey around the globe, Ben Finney completed his own last voyage. Ben Rudolph Finney died at the age of 83. A University of Hawaii Professor Emeritus in Anthropology, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

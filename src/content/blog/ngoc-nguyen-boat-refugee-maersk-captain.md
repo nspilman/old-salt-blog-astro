@@ -1,8 +1,8 @@
 ---
 title: "Ngoc Nguyen, From Boat Refugee to Maersk Captain"
 date: 2016-04-26T09:05:03
-slug: ngoc-nguyen-boat-refugee-maersk-captain
-excerpt: "In 1981, Ngoc Nguyen was 13, one of the at least 800,000 of the so-called Vietnamese “boat people” who fled Vietnam by boat after the end of the war. He was crammed in an overcrowded boat with his family, among 65 … Continue reading &rarr;"
+slug: "ngoc-nguyen-boat-refugee-maersk-captain"
+excerpt: "In 1981, Ngoc Nguyen was 13, one of the at least 800,000 of the so-called Vietnamese \"boat people\" who fled Vietnam by boat after the end of the war. He was crammed in an overcrowded boat with his family, among 65 … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,9 +10,9 @@ tags:
   - "South China Sea"
   - "Thomas Maersk"
   - "Vietnam"
-  - "Vietnamese "boat people""
+  - "Vietnamese \"boat people\""
 author: "Rick Spilman"
-description: "In 1981, Ngoc Nguyen was 13, one of the at least 800,000 of the so-called Vietnamese “boat people” who fled Vietnam by boat after the end of the war. He was crammed in an overcrowded boat with his family, among 65 … Continue reading &rarr;"
+description: "In 1981, Ngoc Nguyen was 13, one of the at least 800,000 of the so-called Vietnamese \"boat people\" who fled Vietnam by boat after the end of the war. He was crammed in an overcrowded boat with his family, among 65 … Continue reading &rarr;"
 ---
 
 ![maerskcaptain](http://www.oldsaltblog.com/wp-content/uploads/2016/04/maerskcaptain.jpg)In 1981, Ngoc Nguyen was 13, one of the at least 800,000 of the so-called [Vietnamese “boat people”](https://en.wikipedia.org/wiki/Vietnamese_boat_people) who fled Vietnam by boat after the end of the war. He was crammed in an overcrowded boat with his family, among 65 other refugees adrift in the South China Sea, when they were picked up by the *Arnold Maersk*. Now 34 years later, took to the bridge of the container ship, *Thomas Maersk*, as its captain.

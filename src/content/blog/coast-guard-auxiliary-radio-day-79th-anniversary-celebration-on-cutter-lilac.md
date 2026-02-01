@@ -1,7 +1,7 @@
 ---
 title: "Coast Guard Auxiliary Radio Day & 79th Anniversary Celebration on Cutter Lilac"
 date: 2018-10-18T14:47:39
-slug: coast-guard-auxiliary-radio-day-79th-anniversary-celebration-on-cutter-lilac
+slug: "coast-guard-auxiliary-radio-day-79th-anniversary-celebration-on-cutter-lilac"
 excerpt: "This Saturday, October 20, from 1:00 to 5:00 PM at Manhattan’s Pier 25, at West Street and N. Moore Street, on the Hudson River, the retired U.S. Coast Guard Cutter Lilac will be hosting a celebration of 79th anniversary of the founding of the … Continue reading &rarr;"
 categories:
   - "Current"

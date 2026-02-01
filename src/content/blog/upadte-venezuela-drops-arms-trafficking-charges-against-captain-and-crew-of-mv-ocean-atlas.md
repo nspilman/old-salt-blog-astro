@@ -1,7 +1,7 @@
 ---
 title: "Update: Venezuela Drops Arms Trafficking Charges Against Captain and Crew of MV Ocean Atlas"
 date: 2012-09-10T08:43:07
-slug: upadte-venezuela-drops-arms-trafficking-charges-against-captain-and-crew-of-mv-ocean-atlas
+slug: "upadte-venezuela-drops-arms-trafficking-charges-against-captain-and-crew-of-mv-ocean-atlas"
 excerpt: "Good news.  On Friday, we posted that the captain of the U.S. flag heavy lift ship, MV Ocean Atlas, had been arrested in Maracaibo, Venezuela after three rifles were found aboard the ship. The rifles had reportedly been listed in the ship’s manifest.  Reports are … Continue reading &rarr;"
 categories:
   - "Current"

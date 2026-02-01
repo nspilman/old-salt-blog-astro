@@ -1,7 +1,7 @@
 ---
 title: "Parade of Sail — 31st Annual Gloucester Schooner Festival"
 date: 2015-09-07T16:29:25
-slug: parade-of-sail-31st-annual-gloucester-schooner-festival
+slug: "parade-of-sail-31st-annual-gloucester-schooner-festival"
 excerpt: "A short video of the Parade of Sail in the 31st Annual Gloucester Schooner Festival. Annual Gloucester Schooner Festival 2015 … Continue reading &rarr;"
 categories:
   - "Current"

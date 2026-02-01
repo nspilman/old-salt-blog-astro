@@ -1,7 +1,7 @@
 ---
 title: "Update: Gipsy Moth IV to stay in Britain"
 date: 2010-11-07T10:15:20
-slug: update-gipsy-moth-iv-to-stay-in-britain
+slug: "update-gipsy-moth-iv-to-stay-in-britain"
 excerpt: "In September, we posted that the Gipsy Moth IV, the famous yacht sailed by Sir Francis Chichester singlehanded around the world was for sale.   Last week, it was reported that two anonymous donors  donated more than £250,000 to the United … Continue reading &rarr;"
 categories:
   - "Current"

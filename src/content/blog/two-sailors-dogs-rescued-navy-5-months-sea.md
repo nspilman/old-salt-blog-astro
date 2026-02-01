@@ -1,7 +1,7 @@
 ---
 title: "Two Sailors and their Dogs Rescued by Navy After 5 Months at Sea"
 date: 2017-10-27T08:53:37
-slug: two-sailors-dogs-rescued-navy-5-months-sea
+slug: "two-sailors-dogs-rescued-navy-5-months-sea"
 excerpt: "On Wednesday, the dock landing ship USS Ashland rescued two woman sailors and their two dogs from their sailboat roughly 900 miles southeast of Japan. The sailboat had been spotted by a passing Taiwanese fishing boat, which alerted the navy. The two … Continue reading &rarr;"
 categories:
   - "Current"
@@ -9,7 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Jennifer Appel"
-  - "Natasha "Tasha" Fuiava"
+  - "Natasha \"Tasha\" Fuiava"
   - "Sea Nymph"
   - "USS Ashland"
 author: "Rick Spilman"

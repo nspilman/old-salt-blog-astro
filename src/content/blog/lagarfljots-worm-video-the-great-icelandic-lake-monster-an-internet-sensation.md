@@ -1,7 +1,7 @@
 ---
 title: "Video of the Lagarfljóts Worm, Great Icelandic Lake Monster – An Internet Sensation"
 date: 2012-02-09T11:05:29
-slug: lagarfljots-worm-video-the-great-icelandic-lake-monster-an-internet-sensation
+slug: "lagarfljots-worm-video-the-great-icelandic-lake-monster-an-internet-sensation"
 excerpt: "I saw it on the Internet so it must be true!  The Lagarfljóts Worm has gone viral.  A video of what appears to be a large serpent-like creature swimming in the the glacial river, Jökulsá í Fljótsdal, in east Iceland, has been … Continue reading &rarr;"
 categories:
   - "Current"

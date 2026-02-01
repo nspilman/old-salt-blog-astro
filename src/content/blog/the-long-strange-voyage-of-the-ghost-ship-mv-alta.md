@@ -1,7 +1,7 @@
 ---
-title: "The Long Strange Voyage of the “Ghost Ship” MV Alta"
+title: "The Long Strange Voyage of the \"Ghost Ship\" MV Alta"
 date: 2020-02-18T16:34:19
-slug: the-long-strange-voyage-of-the-ghost-ship-mv-alta
+slug: "the-long-strange-voyage-of-the-ghost-ship-mv-alta"
 excerpt: "Storm Dennis was the second-strongest nontropical storm on record in the North Atlantic Ocean. It brought hurricane-force winds, towering waves, and significant flooding to Britain, Wales, and Ireland. It also brought something wholly unexpected — the abandoned general cargo ship, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

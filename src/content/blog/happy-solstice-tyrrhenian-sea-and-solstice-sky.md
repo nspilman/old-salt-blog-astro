@@ -1,7 +1,7 @@
 ---
 title: "Happy Solstice –Tyrrhenian Sea and Solstice Sky"
 date: 2014-12-21T09:26:01
-slug: happy-solstice-tyrrhenian-sea-and-solstice-sky
+slug: "happy-solstice-tyrrhenian-sea-and-solstice-sky"
 excerpt: "NASA’s Astronomy Picture of the Day: Today the solstice occurs at 23:03 Universal Time, the Sun reaching its southernmost declination in planet Earth’s sky. Of course, the December solstice marks the beginning of winter in the northern hemisphere and summer … Continue reading &rarr;"
 categories:
   - "Current"

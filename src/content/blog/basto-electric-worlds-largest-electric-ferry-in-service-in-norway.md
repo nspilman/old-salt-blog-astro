@@ -1,7 +1,7 @@
 ---
 title: "Bastø Electric, World’s Largest Electric Ferry in Service in Norway"
 date: 2021-11-06T15:06:22
-slug: basto-electric-worlds-largest-electric-ferry-in-service-in-norway
+slug: "basto-electric-worlds-largest-electric-ferry-in-service-in-norway"
 excerpt: "The Daily Scandinavian reported that last March the world’s largest all-electric ferry went into full operation on the 5.67 nautical mile route between the two Norwegian cities of Moss and Horten, on Norway’s busiest ferry route. The new ferry, named … Continue reading &rarr;"
 categories:
   - "Current"

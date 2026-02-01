@@ -1,7 +1,7 @@
 ---
 title: "Stepping Stones Light & the Devil’s Stepping Stones"
 date: 2017-10-17T09:14:11
-slug: stepping-stones-light-the-devils-stepping-stones
+slug: "stepping-stones-light-the-devils-stepping-stones"
 excerpt: "My wife and I were moving our boat last weekend from her summer mooring in Oyster Bay to winter layup in Cheesequake Creek in Raritan Bay and passed Stepping Stones Light as we rushed to catch a favorable current through Hell Gate. Even … Continue reading &rarr;"
 categories:
   - "Current"

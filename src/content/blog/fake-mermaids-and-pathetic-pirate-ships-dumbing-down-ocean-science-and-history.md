@@ -1,8 +1,8 @@
 ---
 title: "Fake Mermaids and Pathetic Pirate Ships – Dumbing Down Ocean Science and History"
 date: 2013-06-02T09:26:23
-slug: fake-mermaids-and-pathetic-pirate-ships-dumbing-down-ocean-science-and-history
-excerpt: "Recently, we celebrated the saving of the wonderful Coney Island Mermaid Parade.  Now a story about “mermaids” that is a bit disturbing. There were two news stories that at first glance had little in common, other than a distant nautical … Continue reading &rarr;"
+slug: "fake-mermaids-and-pathetic-pirate-ships-dumbing-down-ocean-science-and-history"
+excerpt: "Recently, we celebrated the saving of the wonderful Coney Island Mermaid Parade.  Now a story about \"mermaids\" that is a bit disturbing. There were two news stories that at first glance had little in common, other than a distant nautical … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "The Animal Planet"
   - "Tim Woodson"
 author: "Rick Spilman"
-description: "Recently, we celebrated the saving of the wonderful Coney Island Mermaid Parade.  Now a story about “mermaids” that is a bit disturbing. There were two news stories that at first glance had little in common, other than a distant nautical … Continue reading &rarr;"
+description: "Recently, we celebrated the saving of the wonderful Coney Island Mermaid Parade.  Now a story about \"mermaids\" that is a bit disturbing. There were two news stories that at first glance had little in common, other than a distant nautical … Continue reading &rarr;"
 ---
 
 ![mermaids](http://www.oldsaltblog.com/wp-content/uploads/2013/01/mermaids.jpg)Recently, we celebrated the [saving of the wonderful Coney Island Mermaid Parade](http://www.oldsaltblog.com/2013/05/hurray-the-mermaid-parade-is-saved/).  Now a story about “mermaids” that is a bit disturbing.

@@ -1,7 +1,7 @@
 ---
 title: "Sailing Around the Globe, Part 2 — Clipper Round the World Race"
 date: 2017-05-17T14:58:49
-slug: sailing-around-globe-part-2-clipper-round-world-race
+slug: "sailing-around-globe-part-2-clipper-round-world-race"
 excerpt: "Yesterday, we posted about signing aboard as trainee crew on the square rigged barque Picton Castle, to sail all or part of the way around the world. But what if you want to sail in a globe girdling ocean race instead of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

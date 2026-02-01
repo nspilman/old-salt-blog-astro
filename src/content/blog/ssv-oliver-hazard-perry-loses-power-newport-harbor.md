@@ -1,7 +1,7 @@
 ---
 title: "SSV Oliver Hazard Perry Loses Power in Newport Harbor"
 date: 2017-10-16T13:15:55
-slug: ssv-oliver-hazard-perry-loses-power-newport-harbor
+slug: "ssv-oliver-hazard-perry-loses-power-newport-harbor"
 excerpt: "The 200′ long three-masted square-rigger SSV Oliver Hazard Perry was departing from a local dockside festival on Sunday evening when she lost power while maneuvering in very close quarters in Newport Harbor, Rhode Island. The steel ship drifted into four boats. No one … Continue reading &rarr;"
 categories:
   - "Current"

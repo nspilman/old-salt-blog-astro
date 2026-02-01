@@ -1,7 +1,7 @@
 ---
 title: "Happy Evacuation Day!"
 date: 2013-11-25T16:43:13
-slug: happy-evacuation-day
+slug: "happy-evacuation-day"
 excerpt: "Happy Evacuation Day!  On this day in 1783, the last shot of the American revolution was fired by a gunner on a departing Royal Navy ship at jeering crowds gathered on the shore of Staten Island, at the mouth of New … Continue reading &rarr;"
 categories:
   - "History"

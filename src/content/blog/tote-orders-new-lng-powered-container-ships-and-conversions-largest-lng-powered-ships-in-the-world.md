@@ -1,7 +1,7 @@
 ---
 title: "TOTE Orders New LNG Powered Container Ships and Conversions – Largest LNG Powered Ships in the World"
 date: 2013-02-02T10:41:17
-slug: tote-orders-new-lng-powered-container-ships-and-conversions-largest-lng-powered-ships-in-the-world
+slug: "tote-orders-new-lng-powered-container-ships-and-conversions-largest-lng-powered-ships-in-the-world"
 excerpt: "In December, Totem Ocean Transport Express (TOTE) ordered two new LNG powered container ships from NASSCO shipyard in San Diego.   Late last month they also signed a contract with NASSCO to convert two existing roll-on/roll-off ships to LNG fuel. … Continue reading &rarr;"
 categories:
   - "Current"

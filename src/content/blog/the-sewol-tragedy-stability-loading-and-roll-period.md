@@ -1,7 +1,7 @@
 ---
 title: "The Sewol Tragedy — Stability , Loading and Roll Period"
 date: 2014-05-04T14:28:16
-slug: the-sewol-tragedy-stability-loading-and-roll-period
+slug: "the-sewol-tragedy-stability-loading-and-roll-period"
 excerpt: "It is not always easy to decipher the news being reported on the tragic sinking of the Korean ferry Sewol , which capsized in the Yellow Sea on April 16, leaving more than 300 dead or missing.  There have been … Continue reading &rarr;"
 categories:
   - "Current"

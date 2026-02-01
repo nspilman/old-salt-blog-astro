@@ -1,7 +1,7 @@
 ---
 title: "Update: US Navy Confirms Tanker MV Pacific Zircon Hit by Iranian Shahed-136 Drone"
 date: 2022-11-22T19:10:06
-slug: update-us-navy-confirms-tanker-mv-pacific-zircon-hit-by-iranian-shahed-136-drone
+slug: "update-us-navy-confirms-tanker-mv-pacific-zircon-hit-by-iranian-shahed-136-drone"
 excerpt: "Last week, we posted about the drone attack on the 50,000 DWT product tanker Pacific Zircon, off the coast of Oman. Investigators sent aboard to assess the damage and to collect debris from the drone determined that the tanker was … Continue reading &rarr;"
 categories:
   - "Current"

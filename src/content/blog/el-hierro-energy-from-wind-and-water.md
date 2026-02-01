@@ -1,7 +1,7 @@
 ---
 title: "El Hierro – Energy from Wind and Water"
 date: 2011-05-07T20:12:53
-slug: el-hierro-energy-from-wind-and-water
+slug: "el-hierro-energy-from-wind-and-water"
 excerpt: "El Hierro is the easternmost of Spain’s Canary Islands, 750 miles from the Spanish mainland.  The island itself has no energy resources beyond wind and water.  There is now a plan to make the island wholly energy independent by linking wind and hydro-power … Continue reading &rarr;"
 categories:
   - "Current"

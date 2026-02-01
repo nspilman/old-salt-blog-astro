@@ -1,7 +1,7 @@
 ---
 title: "Ex-Miami Dolphin Rob Konrad Swims 9 Miles to Shore"
 date: 2015-01-13T14:28:48
-slug: ex-miami-dolphin-rob-konrad-swims-9-miles-to-shore
+slug: "ex-miami-dolphin-rob-konrad-swims-9-miles-to-shore"
 excerpt: "Last Wednesday, Rob Konrad went fishing alone in his 36 foot Grady White boat. He left Deerfield Beach, FL and headed about nine miles out in the Atlantic Ocean. At about 1PM, with the boat trolling at about 5 knots … Continue reading &rarr;"
 categories:
   - "Current"

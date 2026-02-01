@@ -1,8 +1,8 @@
 ---
-title: "Pride’s Capt. Jan Miles and “Coffee with the Captain”"
+title: "Pride’s Capt. Jan Miles and \"Coffee with the Captain\""
 date: 2020-11-19T17:34:41
-slug: prides-capt-jan-miles-and-coffee-with-the-captain
-excerpt: "We have been remiss in not posting about “Coffee with the Captain,” the wonderful Facebook video blog hosted by the highly respected schooner skipper Captain Jan Miles of the Pride of Baltimore II.  The series began last April and is … Continue reading &rarr;"
+slug: "prides-capt-jan-miles-and-coffee-with-the-captain"
+excerpt: "We have been remiss in not posting about \"Coffee with the Captain,\" the wonderful Facebook video blog hosted by the highly respected schooner skipper Captain Jan Miles of the Pride of Baltimore II.  The series began last April and is … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -18,7 +18,7 @@ tags:
   - "schooner"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/coffeewith-thecaptain.jpg"
 author: "Rick Spilman"
-description: "We have been remiss in not posting about “Coffee with the Captain,” the wonderful Facebook video blog hosted by the highly respected schooner skipper Captain Jan Miles of the Pride of Baltimore II.  The series began last April and is … Continue reading &rarr;"
+description: "We have been remiss in not posting about \"Coffee with the Captain,\" the wonderful Facebook video blog hosted by the highly respected schooner skipper Captain Jan Miles of the Pride of Baltimore II.  The series began last April and is … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/coffeewith-thecaptain.jpg)We have been remiss in not posting about “Coffee with the Captain,” the wonderful Facebook video blog hosted by the highly respected schooner skipper [Captain Jan Miles](https://pride2.org/about/captains-crew/) of the [*Pride of Baltimore II*](https://pride2.org/).  The series began last April and is wonderfully entertaining as well as informative — discussing schooners, sailing, and the general strangeness of sailing during a pandemic. The most recent episode featured a Zoom chat between Captain Miles, the *Pride*‘s Chief Mate [Jeff Crosby](https://www.facebook.com/prideII/photos/a.10156064541128639/10156064541178639/?type=3&size=1386%2C1917&fbid=10156064541178639), and [Captain Katelinn Shaw](https://www.soundexp.org/about-us/our-team/staff/) of the schooner [*Adventuress*](https://www.soundexp.org/).

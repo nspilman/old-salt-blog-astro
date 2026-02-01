@@ -1,7 +1,7 @@
 ---
 title: "MV Moscow University – Why Anti-Piracy Efforts off Somalia Are Doomed to Fail"
 date: 2010-05-10T14:20:46
-slug: mv-moscow-university-why-anti-piracy-efforts-in-somalia-are-doomed-to-fail
+slug: "mv-moscow-university-why-anti-piracy-efforts-in-somalia-are-doomed-to-fail"
 excerpt: "Two news stories, days apart demonstrate, at least to me, why the current efforts to combat piracy off the coast of Somalia are doomed to fail.  We posted previously how the tanker MV Moscow University was recaptured from pirates by … Continue reading &rarr;"
 categories:
   - "Current"

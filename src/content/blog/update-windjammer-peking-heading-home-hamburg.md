@@ -1,7 +1,7 @@
 ---
 title: "Update: Windjammer Peking Heading Home to Hamburg"
 date: 2017-07-12T11:39:47
-slug: update-windjammer-peking-heading-home-hamburg
+slug: "update-windjammer-peking-heading-home-hamburg"
 excerpt: "I heard this morning that the heavy lift ship Combi Dock III has entered New York harbor.  (Thanks Daniel Pine for the heads-up.) The ship is reported to be the heavy-lift chartered to carry the windjammer Peking back to her home … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

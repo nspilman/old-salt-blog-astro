@@ -1,7 +1,7 @@
 ---
 title: "Navy & Coast Guard Offer Signing Bonuses & Increased Enlistment Age to Attract Recruits"
 date: 2022-11-09T18:20:34
-slug: navy-coast-guard-offer-signing-bonuses-to-attract-recruits
+slug: "navy-coast-guard-offer-signing-bonuses-to-attract-recruits"
 excerpt: "The US military has been having problems meeting its recruiting targets. In response, the US Coast Guard and the US Navy have been offering signing bonuses of up to $50,000 for certain billets, after the number of sailors plummeted, in … Continue reading &rarr;"
 categories:
   - "Current"

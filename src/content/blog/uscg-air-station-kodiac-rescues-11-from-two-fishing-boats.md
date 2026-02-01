@@ -1,7 +1,7 @@
 ---
 title: "USCG Air Station Kodiac Rescues 11 from Two Fishing Boats"
 date: 2012-01-26T21:32:24
-slug: uscg-air-station-kodiac-rescues-11-from-two-fishing-boats
+slug: "uscg-air-station-kodiac-rescues-11-from-two-fishing-boats"
 excerpt: "In two separate incidents, US Coast Guard Air Station Kodiac crews rescued eleven fisherman from two boats on Wednesday. The 58-foot fishing vessel Kimberly ran aground on Portage Bay southwest of Kodiak on the Alaska Peninsula Tuesday night around 8 p.m. but severe weather prevented the Coast … Continue reading &rarr;"
 categories:
   - "Current"

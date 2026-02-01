@@ -1,7 +1,7 @@
 ---
 title: "Obama Expands Papahānaumokuākea — Largest Marine Sanctuary with the Longest Name"
 date: 2016-08-26T12:43:05
-slug: obama-expands-papahanaumokuakea-largest-marine-sanctuary-longest-name
+slug: "obama-expands-papahanaumokuakea-largest-marine-sanctuary-longest-name"
 excerpt: "The Obama administration announced the four-fold expansion of the Papahānaumokuākea Marine National Monument, a marine sanctuary northwest of the main Hawaiian Islands. The expanded sanctuary will be the largest in the world at more than 580,000 square miles. As noted by the NYTimes: Created by … Continue reading &rarr;"
 categories:
   - "Current"

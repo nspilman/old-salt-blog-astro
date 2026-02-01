@@ -1,7 +1,7 @@
 ---
 title: "More Than Five Somali Pirates Let Go for Every One Prosecuted"
 date: 2012-02-08T09:35:27
-slug: more-than-five-somali-pirates-let-go-for-every-one-prosecuted
+slug: "more-than-five-somali-pirates-let-go-for-every-one-prosecuted"
 excerpt: "If a single fact can explain why an armada of high tech naval ships from around the world has failed to control, much less to eradicate, gangs of Somali pirates operating from hijacked fishing trawlers and open boats, this is … Continue reading &rarr;"
 categories:
   - "Current"

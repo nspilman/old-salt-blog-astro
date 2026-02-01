@@ -1,7 +1,7 @@
 ---
 title: "Drug Overdoses Suspected in Deaths of Ex-Navy SEALs on Maersk Alabama"
 date: 2014-02-21T07:51:46
-slug: drug-overdoses-suspected-in-deaths-of-ex-navy-seals-on-maersk-alabama
+slug: "drug-overdoses-suspected-in-deaths-of-ex-navy-seals-on-maersk-alabama"
 excerpt: "CNN  is reporting that hypodermic needles and traces of narcotics were found with the bodies of two American security officers on the container ship Maersk Alabama, suggesting that the deaths resulted from drug overdoses, according to a Seychelles government official. … Continue reading &rarr;"
 categories:
   - "Current"

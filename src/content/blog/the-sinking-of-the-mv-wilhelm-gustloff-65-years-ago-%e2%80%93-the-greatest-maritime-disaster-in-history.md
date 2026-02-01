@@ -1,7 +1,7 @@
 ---
 title: "The Sinking of the MV Wilhelm Gustloff, 65 Years Ago – the Greatest Maritime Disaster in History"
 date: 2010-02-11T09:45:56
-slug: the-sinking-of-the-mv-wilhelm-gustloff-65-years-ago-%e2%80%93-the-greatest-maritime-disaster-in-history
+slug: "the-sinking-of-the-mv-wilhelm-gustloff-65-years-ago-%e2%80%93-the-greatest-maritime-disaster-in-history"
 excerpt: "Many ships carrying civilians were sunk during World War II by both sides. If current estimates are correct, the torpedoing of the M/V Wilhelm Gustloff resulted in the largest loss of life from the sinking of one vessel in maritime … Continue reading &rarr;"
 categories:
   - "History"

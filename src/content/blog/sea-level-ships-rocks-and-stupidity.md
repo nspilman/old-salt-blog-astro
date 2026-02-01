@@ -1,7 +1,7 @@
 ---
 title: "Sea Level, Ships, Rocks and Stupidity"
 date: 2018-05-20T07:56:18
-slug: sea-level-ships-rocks-and-stupidity
+slug: "sea-level-ships-rocks-and-stupidity"
 excerpt: "A recent statement by Representative Mo Brooks (R-AL), who happens to be a member of the U.S. House of Representatives Science, Space and Technology Committee, is disturbing at best. He suggested that sea levels are not rising because of climate change but because … Continue reading &rarr;"
 categories:
   - "Current"

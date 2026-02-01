@@ -1,7 +1,7 @@
 ---
 title: "Update: Crystal Serenity and Crystal Symphony Arrested in the Bahamas"
 date: 2022-02-08T19:31:20
-slug: update-crystal-serenity-and-crystal-symphony-arrested-in-the-bahamas
+slug: "update-crystal-serenity-and-crystal-symphony-arrested-in-the-bahamas"
 excerpt: "In late January, we posted about how the cruise ship Crystal Symphony, which had been bound for Miami, suddenly changed course and diverted to the Bahamas, after a United States federal judge ordered the ship seized over a lawsuit regarding … Continue reading &rarr;"
 categories:
   - "Current"

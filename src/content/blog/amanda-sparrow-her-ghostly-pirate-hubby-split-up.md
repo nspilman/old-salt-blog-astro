@@ -1,7 +1,7 @@
 ---
 title: "Amanda Sparrow & Her Ghostly Pirate Hubby Split Up"
 date: 2018-12-11T17:19:56
-slug: amanda-sparrow-her-ghostly-pirate-hubby-split-up
+slug: "amanda-sparrow-her-ghostly-pirate-hubby-split-up"
 excerpt: "Sadly, it apparently wasn’t a relationship meant to last. Earlier this year, Amanda Sparrow Large, 46, from Loth, Ireland was married to a Haitian pirate named Jack. Jack and Ms. Large were married by a shaman priest in a boat off the … Continue reading &rarr;"
 categories:
   - "Current"

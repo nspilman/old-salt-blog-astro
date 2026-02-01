@@ -1,7 +1,7 @@
 ---
 title: "Wreck of USS Jacob Jones Found Off Isles of Scilly — First US Destroyer Lost to Enemy Action"
 date: 2022-08-14T16:33:45
-slug: wreck-of-uss-jacob-jones-found-off-isles-of-scilly-first-us-destroyer-lost-to-enemy-action
+slug: "wreck-of-uss-jacob-jones-found-off-isles-of-scilly-first-us-destroyer-lost-to-enemy-action"
 excerpt: "British divers have located the wreck of the USS Jacob Jones in over 100 meters of water, 40 miles off the Isles of Scilly. The ship, a Tucker Class destroyer, was sunk during World War I by a German U-boat … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Three Sailors in the Fog — Will You Get in Trouble With the Captain?"
 date: 2019-04-09T16:16:21
-slug: three-sailors-in-the-fog-will-you-get-in-trouble-with-the-captain
+slug: "three-sailors-in-the-fog-will-you-get-in-trouble-with-the-captain"
 excerpt: "The Dutch general cargo ship Alana Evita, on a voyage from Hamburg to Avonmouth, was recently anchored in the Bristol channel off Minehead, in Somerset, UK. Rather than go ashore in Minehead, three of her personnel; a Russian, a  Filipino … Continue reading &rarr;"
 categories:
   - "Current"

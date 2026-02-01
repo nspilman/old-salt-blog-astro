@@ -1,7 +1,7 @@
 ---
 title: "Not Just  Kiribati – Rising Sea Levels a Threat to Coastal U.S."
 date: 2012-03-16T09:45:21
-slug: not-just-kiribati-rising-sea-levels-a-threat-to-coastal-u-s
+slug: "not-just-kiribati-rising-sea-levels-a-threat-to-coastal-u-s"
 excerpt: "This week we posted that the Pacific nation of Kiribati is considering purchasing land on Fiji as a possible site to relocate as rising waters threaten to submerge their home islands.  As distant and exotic as  Kiribati’s problem may sound an article in the … Continue reading &rarr;"
 categories:
   - "Current"

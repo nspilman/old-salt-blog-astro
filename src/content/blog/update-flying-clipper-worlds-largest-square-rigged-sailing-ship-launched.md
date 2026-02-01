@@ -1,7 +1,7 @@
 ---
 title: "Update: Flying Clipper, World’s Largest Square Rigged Sailing Ship, Launched"
 date: 2017-06-12T10:20:02
-slug: update-flying-clipper-worlds-largest-square-rigged-sailing-ship-launched
+slug: "update-flying-clipper-worlds-largest-square-rigged-sailing-ship-launched"
 excerpt: "We have been following the progress of Star Clipper‘s new ship, the Flying Clipper, since her announcement in May 2015, through her keel laying at the Brodosplit Shipyard in Split, Croatia, in December of that year. On Saturday the Flying Clipper was … Continue reading &rarr;"
 categories:
   - "Current"

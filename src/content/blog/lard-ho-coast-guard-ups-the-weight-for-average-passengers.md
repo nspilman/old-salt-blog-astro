@@ -1,7 +1,7 @@
 ---
 title: "Lard Ho! Coast Guard Ups the Weight for Average Passengers"
 date: 2011-04-30T12:16:04
-slug: lard-ho-coast-guard-ups-the-weight-for-average-passengers
+slug: "lard-ho-coast-guard-ups-the-weight-for-average-passengers"
 excerpt: "The US Coast Guard has updated its regulations, increasing the average weight per passenger for stability and loading calculations of tour and charter boats  from 160 pounds to 185 pounds. Lard ahoy! Coast Guard estimates average weight of cruise passengers has gone up by … Continue reading &rarr;"
 categories:
   - "Current"

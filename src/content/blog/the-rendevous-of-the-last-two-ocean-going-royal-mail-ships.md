@@ -1,8 +1,8 @@
 ---
 title: "The Rendevous of the Last Two Ocean-going  Royal Mail Ships"
 date: 2011-02-07T16:43:24
-slug: the-rendevous-of-the-last-two-ocean-going-royal-mail-ships
-excerpt: "Last month we posted about a rendezvous of the “Three Queens,”  the RMS Queen Mary II, the MS Queen Elizabeth and the MS Queen Victoria in New York harbor.   Of the three ships only the Queen Mary II has the distinction of … Continue reading &rarr;"
+slug: "the-rendevous-of-the-last-two-ocean-going-royal-mail-ships"
+excerpt: "Last month we posted about a rendezvous of the \"Three Queens,\"  the RMS Queen Mary II, the MS Queen Elizabeth and the MS Queen Victoria in New York harbor.   Of the three ships only the Queen Mary II has the distinction of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "RMS St Helena"
   - "Royal Mail Ship"
 author: "Rick Spilman"
-description: "Last month we posted about a rendezvous of the “Three Queens,”  the RMS Queen Mary II, the MS Queen Elizabeth and the MS Queen Victoria in New York harbor.   Of the three ships only the Queen Mary II has the distinction of … Continue reading &rarr;"
+description: "Last month we posted about a rendezvous of the \"Three Queens,\"  the RMS Queen Mary II, the MS Queen Elizabeth and the MS Queen Victoria in New York harbor.   Of the three ships only the Queen Mary II has the distinction of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/rmsqh.jpg)

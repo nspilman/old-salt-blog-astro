@@ -1,7 +1,7 @@
 ---
 title: "Brazilian Navy Sinks Toxic Aircraft Carrier São Paulo"
 date: 2023-02-04T14:44:09
-slug: brazilian-navy-sinks-toxic-aircraft-carrier-sao-paulo
+slug: "brazilian-navy-sinks-toxic-aircraft-carrier-sao-paulo"
 excerpt: "Aircraft carriers can be tough. They cost a fortune to build, so most nations can afford only one or two. They are demanding and costly to operate. They are also extremely expensive to clean up enough to be scrapped. São … Continue reading &rarr;"
 categories:
   - "Current"

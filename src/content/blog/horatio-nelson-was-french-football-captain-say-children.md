@@ -1,7 +1,7 @@
 ---
 title: "Horatio Nelson ‘was French football captain’, say children"
 date: 2010-10-21T10:12:23
-slug: horatio-nelson-was-french-football-captain-say-children
+slug: "horatio-nelson-was-french-football-captain-say-children"
 excerpt: "Horatio Nelson ‘was French football captain’, say children Research carried out to mark the anniversary of the Battle of Trafalgar shows many schoolchildren believe that Horatio Nelson was captain of the French national football team in the 1990s. Almost one-in-four … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Queen Mary Update: Long Beach Weighs Expensive Alternatives"
 date: 2021-07-21T16:03:23
-slug: queen-mary-update-long-beach-weighs-expensive-alternatives
+slug: "queen-mary-update-long-beach-weighs-expensive-alternatives"
 excerpt: "Last month we posted that a recent Queen Mary inspection survey revealed that lack of maintenance and neglected repairs have left the converted Cunard passenger liner vulnerable to flooding or possibly even capsizing.  In early June, the City of Long Beach, … Continue reading &rarr;"
 categories:
   - "Current"

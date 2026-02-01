@@ -1,7 +1,7 @@
 ---
-title: "Update on the M/V Magellan Star – “The Crew is on Holiday.”"
+title: "Update on the M/V Magellan Star – \"The Crew is on Holiday.\""
 date: 2010-09-11T08:08:35
-slug: update-on-the-mv-magellan-star-the-crew-is-on-holiday
+slug: "update-on-the-mv-magellan-star-the-crew-is-on-holiday"
 excerpt: "More details on the capture of the M/V Magellan Star.  The crew and the ship management company kept their heads and their sense of humor when the ship was boarded by Somali pirates on Wednesday.   When the pirates boarded the ship, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "American Eagle For Sale — An Appreciation of a Classic Schooner"
 date: 2013-10-08T11:32:09
-slug: schooner-american-eagle
+slug: "schooner-american-eagle"
 excerpt: "The schooner American Eagle is for sale.  I have long been an admirer of the  American Eagle from afar.   She was the the last fishing schooner built in Gloucester in 1930. After a long career, the old and tired … Continue reading &rarr;"
 categories:
   - "Current"

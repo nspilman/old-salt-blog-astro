@@ -1,7 +1,7 @@
 ---
 title: "Digging into the Archives – Logs of the Serapis and Elegiac Epistles on the Calamities of Love and War"
 date: 2009-09-23T08:46:23
-slug: digging-into-the-archives-%e2%80%93-logs-of-the-serapis-and-elegiac-epistles-on-the-calamities-of-love-and-war
+slug: "digging-into-the-archives-%e2%80%93-logs-of-the-serapis-and-elegiac-epistles-on-the-calamities-of-love-and-war"
 excerpt: "In honor of John Paul Jones’ victory in the Battle of Flamborough Head where he captured HMS Serapis on this day 230 years ago, we offer two works from the archives. (For those who have not yet discovered it, the Internet … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Derelicts, Then and Now — From Lumber Schooners to Racers"
 date: 2019-01-20T18:39:33
-slug: derelicts-then-and-now-from-lumber-schooners-to-racers
+slug: "derelicts-then-and-now-from-lumber-schooners-to-racers"
 excerpt: "Recently the containership MOL Empire passed an abandoned sailboat in the mid-Atlantic around 1,500 nautical miles away from Jersey. The captain emailed photos of the boat to the Cross Jobourg Coastguard in France which was able to identify it as the Service Civique. The … Continue reading &rarr;"
 categories:
   - "Current"

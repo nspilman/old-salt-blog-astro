@@ -1,7 +1,7 @@
 ---
 title: "Update:  Attempt to Refloat Museum Ship USS The Sullivans Underway"
 date: 2022-04-26T15:19:30
-slug: update-attempt-to-refloat-museum-ship-uss-the-sullivans-underway
+slug: "update-attempt-to-refloat-museum-ship-uss-the-sullivans-underway"
 excerpt: "A week ago last Thursday, the museum ship, the USS The Sullivans in the Buffalo and Erie County Naval & Military Park began to take on water and partially sank at her berth. Naval Park Director of Museum Collections and Curator Shane … Continue reading &rarr;"
 categories:
   - "Current"

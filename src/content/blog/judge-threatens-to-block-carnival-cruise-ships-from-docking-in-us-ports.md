@@ -1,7 +1,7 @@
 ---
 title: "Judge Threatens to Block Carnival Cruise Ships from Docking in US Ports"
 date: 2019-04-11T17:17:14
-slug: judge-threatens-to-block-carnival-cruise-ships-from-docking-in-us-ports
+slug: "judge-threatens-to-block-carnival-cruise-ships-from-docking-in-us-ports"
 excerpt: "On Wednesday, a federal judge decided to get Carnival Corp.‘s attention. U.S. District Judge Patricia Seitz said she is considering temporarily blocking the largest cruise corporation in the world from docking its ships at ports in the United States as … Continue reading &rarr;"
 categories:
   - "Current"

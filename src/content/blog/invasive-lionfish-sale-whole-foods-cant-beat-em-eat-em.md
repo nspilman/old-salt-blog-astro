@@ -1,8 +1,8 @@
 ---
 title: "Invasive Lionfish for Sale at Whole Foods – If You Can’t Beat ’em, Eat ’em"
 date: 2016-06-12T17:42:49
-slug: invasive-lionfish-sale-whole-foods-cant-beat-em-eat-em
-excerpt: "The upscale supermarket, Whole Foods, is taking an innovative approach to countering the spread of an invasive species of fish in Florida. They offering lionfish for sale. It is sort of a “if you can’t beat’em, eat’em” approach to managing … Continue reading &rarr;"
+slug: "invasive-lionfish-sale-whole-foods-cant-beat-em-eat-em"
+excerpt: "The upscale supermarket, Whole Foods, is taking an innovative approach to countering the spread of an invasive species of fish in Florida. They offering lionfish for sale. It is sort of a \"if you can’t beat’em, eat’em\" approach to managing … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "lionfish"
   - "Whole Foods"
 author: "Rick Spilman"
-description: "The upscale supermarket, Whole Foods, is taking an innovative approach to countering the spread of an invasive species of fish in Florida. They offering lionfish for sale. It is sort of a “if you can’t beat’em, eat’em” approach to managing … Continue reading &rarr;"
+description: "The upscale supermarket, Whole Foods, is taking an innovative approach to countering the spread of an invasive species of fish in Florida. They offering lionfish for sale. It is sort of a \"if you can’t beat’em, eat’em\" approach to managing … Continue reading &rarr;"
 ---
 
 ![lionfish](http://www.oldsaltblog.com/wp-content/uploads/2016/05/lionfish.jpg)The upscale supermarket, [Whole Foods, is taking an innovative approach to countering the spread of an invasive species of fish in Florida](http://www.usatoday.com/story/money/nation-now/2016/05/26/florida-whole-foods-invasive-lionfish-food/84962286/). They offering lionfish for sale. It is sort of a “if you can’t beat’em, eat’em” approach to managing an invasive species.  A Whole Foods spokesman says that the fish’s “white, buttery meat lends itself to a number of different recipes.” The supermarket’s workers will remove the venomous spines before consumers purchase the fish, according to the statement.

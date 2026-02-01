@@ -1,7 +1,7 @@
 ---
 title: "Leaked Recordings Challenge Greek Coast Guard Account of Deadly Migrant Shipwreck"
 date: 2025-02-27T21:28:52
-slug: leaked-recordings-challenge-greek-coast-guard-account-of-deadly-migrant-shipwreck
+slug: "leaked-recordings-challenge-greek-coast-guard-account-of-deadly-migrant-shipwreck"
 excerpt: "On June 14, 2023, the Adriana, an aging fishing trawler overloaded with up to 750 people, capsized in international waters off the Greek town of Pylos. One hundred and four men were rescued, and eighty-two bodies were recovered.  An additional 500 … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "The Man from Dildo and the Dildo Iceberg"
 date: 2023-05-05T17:39:51
-slug: the-man-from-dildo-and-the-dildo-iceberg
+slug: "the-man-from-dildo-and-the-dildo-iceberg"
 excerpt: "Recently, Ken Pretty, a photographer from the village of Dildo, in Newfoundland, Canada, caught some remarkable drone footage of a 30′ high dildo-shaped iceberg off the coast of Harbour Grace in Conception Bay, Newfoundland. The photographs and video of the … Continue reading &rarr;"
 categories:
   - "Current"

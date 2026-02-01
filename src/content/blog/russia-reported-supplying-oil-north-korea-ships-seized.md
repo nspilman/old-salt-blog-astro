@@ -1,7 +1,7 @@
 ---
 title: "Russia Reported to be Supplying Oil to North Korea; More Ships Seized"
 date: 2018-01-02T18:55:40
-slug: russia-reported-supplying-oil-north-korea-ships-seized
+slug: "russia-reported-supplying-oil-north-korea-ships-seized"
 excerpt: "Sanctions do not mean much if they are not enforced. The UN has been imposing increasingly stricter limitations on the importation of crude and refined oil to North Korea. Still, oil has been getting through.  In the past few days, South Korea … Continue reading &rarr;"
 categories:
   - "Current"

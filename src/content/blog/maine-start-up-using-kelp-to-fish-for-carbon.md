@@ -1,7 +1,7 @@
 ---
 title: "Maine Start-up Using Kelp to Fish For Carbon"
 date: 2021-03-01T18:13:43
-slug: maine-start-up-using-kelp-to-fish-for-carbon
+slug: "maine-start-up-using-kelp-to-fish-for-carbon"
 excerpt: "A start-up company in Maine is testing the feasibility of combatting climate change by growing kelp to capture carbon dioxide. Once the kelp is mature, it will sink to the bottom becoming part of the sediment and trapping the carbon … Continue reading &rarr;"
 categories:
   - "Current"

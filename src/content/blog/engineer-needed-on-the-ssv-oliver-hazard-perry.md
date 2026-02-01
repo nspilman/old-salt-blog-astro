@@ -1,7 +1,7 @@
 ---
 title: "Engineer Needed on the SSV Oliver Hazard Perry"
 date: 2014-12-11T21:32:23
-slug: engineer-needed-on-the-ssv-oliver-hazard-perry
+slug: "engineer-needed-on-the-ssv-oliver-hazard-perry"
 excerpt: "This morning we posted that the SSV Oliver Hazard Perry organization is looking for Licensed Mates.  They are also looking for a qualified Engineer. Engineer Job Description: OHPRI is seeking an Engineer for SSV Oliver Hazard Perry to join the … Continue reading &rarr;"
 categories:
   - "Current"

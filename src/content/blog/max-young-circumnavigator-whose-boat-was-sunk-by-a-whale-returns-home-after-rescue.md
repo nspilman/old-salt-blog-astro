@@ -1,7 +1,7 @@
 ---
 title: "Max Young, Circumnavigator Whose Boat was Sunk by a Whale, Returns Home After Rescue"
 date: 2012-06-25T17:29:31
-slug: max-young-circumnavigator-whose-boat-was-sunk-by-a-whale-returns-home-after-rescue
+slug: "max-young-circumnavigator-whose-boat-was-sunk-by-a-whale-returns-home-after-rescue"
 excerpt: "We recently posted about Max Young, who was close to completing a twelve year circumnavigation on his 50′ sailboat, Reflections, when it was struck by a whale. The sailboat was severely damaged by the impact and began sinking. Max was … Continue reading &rarr;"
 categories:
   - "Current"

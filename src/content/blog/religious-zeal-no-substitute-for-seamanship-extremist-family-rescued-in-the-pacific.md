@@ -1,7 +1,7 @@
 ---
 title: "Religious Zeal No Substitute for Seamanship – Extremist Family Rescued in the Pacific"
 date: 2013-08-13T15:11:13
-slug: religious-zeal-no-substitute-for-seamanship-extremist-family-rescued-in-the-pacific
+slug: "religious-zeal-no-substitute-for-seamanship-extremist-family-rescued-in-the-pacific"
 excerpt: "A family of religious extremists was rescued from their damaged sailboat after becoming lost for many weeks in the Pacific and has been flown back to the United States. In May, Sean and Hannah Gastonguay, with Sean’s father, Mike, and … Continue reading &rarr;"
 categories:
   - "Current"

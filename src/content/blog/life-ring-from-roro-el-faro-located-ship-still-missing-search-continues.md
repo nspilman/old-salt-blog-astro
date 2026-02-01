@@ -1,7 +1,7 @@
 ---
 title: "Updated: Life Ring from Ro/Ro El Faro Located, Ship Still Missing, Search Continues"
 date: 2015-10-04T09:31:48
-slug: life-ring-from-roro-el-faro-located-ship-still-missing-search-continues
+slug: "life-ring-from-roro-el-faro-located-ship-still-missing-search-continues"
 excerpt: "Update: From USCG Update 4 — Life jackets, life rings, containers and an oil sheen have been located by Coast Guard aircrews.  The objects have not been confirmed to be from the El Faro at this time. Yesterday, the US Coast Guard … Continue reading &rarr;"
 categories:
   - "Current"

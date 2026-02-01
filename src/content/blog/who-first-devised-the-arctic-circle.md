@@ -1,7 +1,7 @@
 ---
 title: "Who First Devised the Arctic Circle?"
 date: 2023-10-23T10:56:53
-slug: who-first-devised-the-arctic-circle
+slug: "who-first-devised-the-arctic-circle"
 excerpt: "We recently crossed the Arctic Circle on a Norwegian voyage on the Hurtigruten MS Trollfjord.  The crossing brought to mind the question — who first devised this imaginary line at 66° 34′ N latitude? My first guess would have been … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Vancouver Maritime Museum, Stephen Colbert & Whale Bone Porn"
 date: 2013-03-28T08:45:59
-slug: vancouver-maritime-museum-stephen-colbert-whale-bone-porn
+slug: "vancouver-maritime-museum-stephen-colbert-whale-bone-porn"
 excerpt: "The Vancouver Maritime Museum has an exhibit which opened this month, Tattoos & Scrimshaw: the Art of the Sailor, which has generated a surprising amount of controversy. It seems that some of the scrimshaw on display features explicit erotic scenes. … Continue reading &rarr;"
 categories:
   - "Current"

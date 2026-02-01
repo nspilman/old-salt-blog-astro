@@ -1,7 +1,7 @@
 ---
 title: "Sailors’ Valentines – Better than a Hallmark Card"
 date: 2011-02-14T08:36:45
-slug: sailors-valentines-better-than-a-hallmark-card
+slug: "sailors-valentines-better-than-a-hallmark-card"
 excerpt: "Happy Valentines Day!   Yesterday, the Penobscot Marine Museum in Searsport, Maine held a sailor’s valentine workshop.  (See our previous post.)   Sailors’ valentines were traditionally octagonal wooden boxes with a glass front,  with intricate symmetrical designs inside, often made of shells … Continue reading &rarr;"
 categories:
   - "Current"

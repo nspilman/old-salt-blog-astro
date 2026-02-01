@@ -1,7 +1,7 @@
 ---
 title: "Bay City Tall Ship Celebration 2016"
 date: 2016-07-15T08:18:11
-slug: bay-city-michigan-tall-ship-f
+slug: "bay-city-michigan-tall-ship-f"
 excerpt: "Bay City Michigan kicked off its sixth Tall Ship Celebration yesterday, featuring a diverse mix of historic ships and replicas, including the U.S. Brig Niagara; the replica galleon El Galeon Andalucia; the replica Viking longship Draken Harald Hårfagre;  the brigantines Pathfinder and Playfair; and the … Continue reading &rarr;"
 categories:
   - "Current"

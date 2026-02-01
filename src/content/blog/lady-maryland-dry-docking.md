@@ -1,7 +1,7 @@
 ---
 title: "Lady Maryland Dry Docking"
 date: 2011-11-20T13:23:48
-slug: lady-maryland-dry-docking
+slug: "lady-maryland-dry-docking"
 excerpt: "The schooner Lady Maryland is being dry docked at Chase’s Wharf in Fells Point to replace rotted sections of the stem and to refasten the hull as necessary. The docking and repairs are expected to take around four months and … Continue reading &rarr;"
 categories:
   - "Current"

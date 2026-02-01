@@ -1,7 +1,7 @@
 ---
-title: "Wreck of “Last Slave Ship” Clotilda Remarkably Well Preserved"
+title: "Wreck of \"Last Slave Ship\" Clotilda Remarkably Well Preserved"
 date: 2021-12-26T18:28:36
-slug: wreck-of-last-slave-ship-clotilda-remarkably-well-preserved
+slug: "wreck-of-last-slave-ship-clotilda-remarkably-well-preserved"
 excerpt: "An interesting article from the New York Times —  In 2019, a team of researchers confirmed that a wooden wreck resting in the murky waters of the Mobile River in Alabama was the schooner  Clotilda, the last known ship to … Continue reading &rarr;"
 categories:
   - "Current"

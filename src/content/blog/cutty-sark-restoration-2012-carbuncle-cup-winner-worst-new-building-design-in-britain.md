@@ -1,8 +1,8 @@
 ---
 title: "Cutty Sark Restoration: 2012 Carbuncle Cup Winner – Worst New Building Design in Britain"
 date: 2012-09-13T11:09:25
-slug: cutty-sark-restoration-2012-carbuncle-cup-winner-worst-new-building-design-in-britain
-excerpt: "In April, we posted about a scathing review of the Cutty Sark restoration by Andrew Gilligan, the Telegraph‘s London Editor.  He referred to the restoration as “a clucking, Grade A … turkey.”   I have not seen the ship but I share many of Gilligan’s concerns. (I will be visiting the … Continue reading &rarr;"
+slug: "cutty-sark-restoration-2012-carbuncle-cup-winner-worst-new-building-design-in-britain"
+excerpt: "In April, we posted about a scathing review of the Cutty Sark restoration by Andrew Gilligan, the Telegraph‘s London Editor.  He referred to the restoration as \"a clucking, Grade A … turkey.\"   I have not seen the ship but I share many of Gilligan’s concerns. (I will be visiting the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Cutty Sark"
   - "Worst New Building"
 author: "Rick Spilman"
-description: "In April, we posted about a scathing review of the Cutty Sark restoration by Andrew Gilligan, the Telegraph‘s London Editor.  He referred to the restoration as “a clucking, Grade A … turkey.”   I have not seen the ship but I share many of Gilligan’s concerns. (I will be visiting the … Continue reading &rarr;"
+description: "In April, we posted about a scathing review of the Cutty Sark restoration by Andrew Gilligan, the Telegraph‘s London Editor.  He referred to the restoration as \"a clucking, Grade A … turkey.\"   I have not seen the ship but I share many of Gilligan’s concerns. (I will be visiting the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/CuttySarkcarb.jpg)In April, we posted about a scathing review of the *Cutty Sark* restoration by Andrew Gilligan, the [Telegraph](http://www.telegraph.co.uk/)‘s London Editor.  He referred to the restoration as “[a clucking, Grade A … turkey](http://blogs.telegraph.co.uk/news/andrewgilligan/100152428/cutty-sark-restoration-a-clucking-grade-a-bernard-matthews-class-turkey/).”   I have not seen the ship but I share many of Gilligan’s concerns. (I will be visiting the composite clipper ship in a few weeks when I attend the Historical Novel Society Conference in London, so I will have the opportunity to see for myself.)  Mr. Gilligan is not alone in his dislike of the *Cutty Sark* restoration.  The British architectural trade journal, [Building Design](http://www.bdonline.co.uk/buildings/carbuncle-cup/carbuncle-cup-winner-2012-ship-in-a-throttle/5042493.article), has announced that the restoration of the historic tea clipper is the 2012 winner of the *Carbuncle Cup* for the worst new building design in Britain.

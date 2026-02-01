@@ -1,7 +1,7 @@
 ---
 title: "Pod of One Thousand Pilot Whales Surround Solo Rower in the Atlantic"
 date: 2024-07-13T18:07:09
-slug: pod-of-one-thousand-pilot-whales-surround-solo-rower-in-the-atlantic
+slug: "pod-of-one-thousand-pilot-whales-surround-solo-rower-in-the-atlantic"
 excerpt: "Yesterday, we posted about the tragic stranding on a beach in the Orkneys that resulted in the deaths of 77 long-finned pilot whales.  Here is a much more cheerful story involving a pod of pilot whales and a solo transatlantic … Continue reading &rarr;"
 categories:
   - "Current"

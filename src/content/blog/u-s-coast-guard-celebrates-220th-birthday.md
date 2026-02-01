@@ -1,7 +1,7 @@
 ---
 title: "U.S. Coast Guard Celebrates 220th Birthday"
 date: 2010-08-04T07:28:13
-slug: u-s-coast-guard-celebrates-220th-birthday
+slug: "u-s-coast-guard-celebrates-220th-birthday"
 excerpt: "Happy birthday to the United States Coast Guard!   Two hundred and twenty years ago today, Secretary of the Treasury Alexander Hamilton, created the Revenue-Marine, later renamed the Revenue Cutter Service.  For nine years, until the re-establishment of the United … Continue reading &rarr;"
 categories:
   - "Current"

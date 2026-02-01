@@ -1,7 +1,7 @@
 ---
 title: "SSV Oliver Hazard Perry to Set Sail In 2014 — Adventure at Sea Berths Available"
 date: 2014-01-12T19:10:11
-slug: ssv-oliver-hazard-perry-to-set-sail-in-2014-adventure-at-sea-berths-available
+slug: "ssv-oliver-hazard-perry-to-set-sail-in-2014-adventure-at-sea-berths-available"
 excerpt: "There are great things going on in Rhode Island. When completed this year, the SSV Oliver Hazard Perry will be the first ocean-going full-rigged ship to be built in the U.S. in 100 years and the largest civilian sail training vessel … Continue reading &rarr;"
 categories:
   - "Current"

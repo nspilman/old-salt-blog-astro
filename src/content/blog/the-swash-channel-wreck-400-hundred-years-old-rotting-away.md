@@ -1,8 +1,8 @@
 ---
-title: "The “Swash Channel Wreck”, 400 Hundred Years Old, Rotting Away"
+title: "The \"Swash Channel Wreck\", 400 Hundred Years Old, Rotting Away"
 date: 2011-05-10T17:23:26
-slug: the-swash-channel-wreck-400-hundred-years-old-rotting-away
-excerpt: "An unidentified wreck, believed to be 400 years old, has been described as the “biggest discovery since the Mary Rose.”  For centuries, it was covered by sand but is now rotting away so fast that it may effectively disappear within five years. Battle to save … Continue reading &rarr;"
+slug: "the-swash-channel-wreck-400-hundred-years-old-rotting-away"
+excerpt: "An unidentified wreck, believed to be 400 years old, has been described as the \"biggest discovery since the Mary Rose.\"  For centuries, it was covered by sand but is now rotting away so fast that it may effectively disappear within five years. Battle to save … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Dorset"
   - "Swash Channel Wreck"
 author: "Rick Spilman"
-description: "An unidentified wreck, believed to be 400 years old, has been described as the “biggest discovery since the Mary Rose.”  For centuries, it was covered by sand but is now rotting away so fast that it may effectively disappear within five years. Battle to save … Continue reading &rarr;"
+description: "An unidentified wreck, believed to be 400 years old, has been described as the \"biggest discovery since the Mary Rose.\"  For centuries, it was covered by sand but is now rotting away so fast that it may effectively disappear within five years. Battle to save … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/wreck_604399t.jpg)

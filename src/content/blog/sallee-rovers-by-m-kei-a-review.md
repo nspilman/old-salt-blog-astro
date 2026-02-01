@@ -1,7 +1,7 @@
 ---
 title: "Sallee Rovers by M. Kei, A Review"
 date: 2010-07-21T11:11:52
-slug: sallee-rovers-by-m-kei-a-review
+slug: "sallee-rovers-by-m-kei-a-review"
 excerpt: "Pirates of the Narrow Sea, Book 1 – Sallee Rovers by M. Kei is well written nautical adventure fiction with a twist or two, or perhaps three. The novel is not set during the Napoleonic wars and features, as the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

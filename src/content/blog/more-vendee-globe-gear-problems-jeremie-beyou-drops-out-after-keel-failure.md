@@ -1,7 +1,7 @@
 ---
 title: "More Vendée Globe Gear Problems – Jérémie Beyou Drops Out After Keel Failure"
 date: 2012-11-20T07:55:27
-slug: more-vendee-globe-gear-problems-jeremie-beyou-drops-out-after-keel-failure
+slug: "more-vendee-globe-gear-problems-jeremie-beyou-drops-out-after-keel-failure"
 excerpt: "A week ago last Sunday, 20 boats sailed by 20 sailors set off in the Vendée Globe non-stop round-the-world single-handed yacht race. Now only 15 remain in the race.  Jérémie Beyou dropped out yesterday after the hydraulic ram on his articulating keel broke on his Open 60 class boat, Maître CoQ.   Of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

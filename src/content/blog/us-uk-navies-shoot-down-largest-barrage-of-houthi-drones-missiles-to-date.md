@@ -1,7 +1,7 @@
 ---
 title: "US & UK Navies Shoot Down Largest Barrage of Houthi Drones & Missiles To Date"
 date: 2024-01-10T17:53:11
-slug: us-uk-navies-shoot-down-largest-barrage-of-houthi-drones-missiles-to-date
+slug: "us-uk-navies-shoot-down-largest-barrage-of-houthi-drones-missiles-to-date"
 excerpt: "Reuters reports that US and British naval forces shot down 21 drones and missiles fired by Yemen-based Houthis on Tuesday towards the southern Red Sea, with Britain hinting at further measures to protect international shipping lanes. Eighteen drones, two cruise missiles … Continue reading &rarr;"
 categories:
   - "Current"

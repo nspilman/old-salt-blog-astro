@@ -1,7 +1,7 @@
 ---
 title: "Scientists Studying Climate Change Rescued from Melting Ice"
 date: 2013-06-11T16:25:28
-slug: scientists-studying-climate-change-rescued-from-melting-ice
+slug: "scientists-studying-climate-change-rescued-from-melting-ice"
 excerpt: "A group of 16 Russian scientists, monitoring climate change in the Arctic, encountered more than they had planned on. They had to be rescued when the ice beneath their station began to crack due to unusually warm weather. The Russian nuclear … Continue reading &rarr;"
 categories:
   - "Current"

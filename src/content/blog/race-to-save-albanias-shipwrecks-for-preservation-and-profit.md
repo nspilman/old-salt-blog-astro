@@ -1,7 +1,7 @@
 ---
 title: "Race to Save Albania’s Shipwrecks for Preservation and Profit"
 date: 2018-07-17T08:28:36
-slug: race-to-save-albanias-shipwrecks-for-preservation-and-profit
+slug: "race-to-save-albanias-shipwrecks-for-preservation-and-profit"
 excerpt: "Can Albania both protect and profit from the veritable treasure trove of shipwrecks, ancient and modern, which lie off its coast?  Along a 220 stretch of the Ionian coast, there are dozens of wrecks dating from the 6th century B.C. through … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

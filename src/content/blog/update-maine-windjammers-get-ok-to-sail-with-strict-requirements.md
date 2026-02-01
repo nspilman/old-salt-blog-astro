@@ -1,7 +1,7 @@
 ---
 title: "Update: Maine Windjammers Get OK to Sail, With Strict Requirements"
 date: 2020-07-01T11:18:32
-slug: update-maine-windjammers-get-ok-to-sail-with-strict-requirements
+slug: "update-maine-windjammers-get-ok-to-sail-with-strict-requirements"
 excerpt: "We recently posted about a delay in the start of the Maine windjammer schooner passenger season due to the pandemic and concerns that it may not start at all. The good news is that the State of Maine, working with … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

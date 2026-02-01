@@ -1,7 +1,7 @@
 ---
 title: "Last Ditch Appeal to Save the Tall Ship Falls of Clyde from Scrapping or Scuttling"
 date: 2021-05-20T11:18:50
-slug: last-ditch-appeal-to-save-the-tall-ship-falls-of-clyde-from-scrapping-or-scuttling
+slug: "last-ditch-appeal-to-save-the-tall-ship-falls-of-clyde-from-scrapping-or-scuttling"
 excerpt: "Supporters in Scotland are mounting a last-ditch effort to save the Falls of Clyde from scrapping or scuttling in Hawaii. The Falls of Clyde, launched in 1878 in Port Glasgow, Scotland, is the only remaining iron-hulled four-masted full-rigged ship and … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Maine Schooners Stephen Taber & Lewis R. French 150 Years Old & Still Sailing"
 date: 2021-06-18T13:28:24
-slug: maine-schooners-stephen-taber-lewis-r-french-still-sailing-at-150-years-old
+slug: "maine-schooners-stephen-taber-lewis-r-french-still-sailing-at-150-years-old"
 excerpt: "The Maine Windjammer fleet was hit hard by the pandemic last summer. Most of the schooners didn’t sail and those that did offered fewer trips. As things return closer to normal, it is a good time to consider two of … Continue reading &rarr;"
 categories:
   - "Current"

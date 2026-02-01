@@ -1,7 +1,7 @@
 ---
 title: "Beware the Red-Bellied Pacu?  Testicle-Biting Fish Invading Denmark?"
 date: 2013-08-15T08:13:42
-slug: beware-the-red-bellied-pacu-testicle-biting-fish-invading-denmark
+slug: "beware-the-red-bellied-pacu-testicle-biting-fish-invading-denmark"
 excerpt: "The headline in Live Science sounds like the premise for a bad SyFi channel made-for-cable movie – Testicle-Biting Fish  Invading Denmark.  It turns out that a Danish fisherman caught, what is believed to be, a red-bellied pacu, an omnivorous South American freshwater … Continue reading &rarr;"
 categories:
   - "Current"

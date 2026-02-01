@@ -1,7 +1,7 @@
 ---
 title: "Fisherman Killed by a Right Whale, US Suspends Rescue Program Temporarily"
 date: 2017-07-16T17:55:22
-slug: fisherman-killed-right-whale-us-suspends-rescue-program-temporarily
+slug: "fisherman-killed-right-whale-us-suspends-rescue-program-temporarily"
 excerpt: "Last week, Joe Howlett, 59, a Canadian fisherman and a founder of Campobello Whale Rescue, died after rescuing a North Atlantic right whale, which was entangled in fishing nets off the coast of New Brunswick.  Howlett was apparently struck by the … Continue reading &rarr;"
 categories:
   - "Current"

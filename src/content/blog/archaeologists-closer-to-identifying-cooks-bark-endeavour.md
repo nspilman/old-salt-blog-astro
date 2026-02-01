@@ -1,7 +1,7 @@
 ---
 title: "Archaeologists Closer to Identifying Cook’s Bark Endeavour"
 date: 2018-09-19T21:40:42
-slug: archaeologists-closer-to-identifying-cooks-bark-endeavour
+slug: "archaeologists-closer-to-identifying-cooks-bark-endeavour"
 excerpt: "We are within days of the 250th anniversary of when Captain James Cook set off on an epic circumnavigation, stopping at numerous islands in the Pacific, as well as Australia and New Zealand on the bark HMS Endeavour. Now, the Rhode … Continue reading &rarr;"
 categories:
   - "Current"

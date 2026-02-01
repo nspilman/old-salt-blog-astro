@@ -1,7 +1,7 @@
 ---
 title: "And They’re Off — 29 Sailors Set Sail in Vendée Globe"
 date: 2016-11-06T12:55:45
-slug: and-theyre-off-29-sailors-set-sail-in-vendee-globe
+slug: "and-theyre-off-29-sailors-set-sail-in-vendee-globe"
 excerpt: "Today, 29 sailors set off from Les Sables-d’Olonne, France in the eighth Vendée Globe single-handed round-the-world yacht race. The 24,000 mile circumnavigation will be sailed non-stop and without assistance along the clipper route: down the Atlantic Ocean to the Cape … Continue reading &rarr;"
 categories:
   - "Current"

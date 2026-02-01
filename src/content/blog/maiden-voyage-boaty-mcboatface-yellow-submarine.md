@@ -1,7 +1,7 @@
 ---
 title: "Maiden Voyage for Boaty McBoatface, the Yellow Submarine"
 date: 2017-03-13T15:39:55
-slug: maiden-voyage-boaty-mcboatface-yellow-submarine
+slug: "maiden-voyage-boaty-mcboatface-yellow-submarine"
 excerpt: "Having successfully completed sea trials, the new yellow submarine Boaty McBoatface is about to be deployed on its maiden voyage, on a research expedition to some of the the deepest, coldest waters on earth.  Boaty McBoatface is one of three autonomous underwater … Continue reading &rarr;"
 categories:
   - "Current"

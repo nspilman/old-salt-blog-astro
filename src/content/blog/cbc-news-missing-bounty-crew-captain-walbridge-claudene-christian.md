@@ -1,7 +1,7 @@
 ---
 title: "Update: Missing Bounty Crew – Claudene Christian Dead & Captain Walbridge Still Missing"
 date: 2012-10-29T14:15:19
-slug: cbc-news-missing-bounty-crew-captain-walbridge-claudene-christian
+slug: "cbc-news-missing-bounty-crew-captain-walbridge-claudene-christian"
 excerpt: "UPDATE: Missing crew member, Claudene Christian, 42, was pulled from the water unconscious and later confirmed dead by the Coast Guard.  Captain Robin Walbridge is still missing. CBC News is reporting: Claudia McCann, whose husband Robin Walbridge is the captain of the … Continue reading &rarr;"
 categories:
   - "Current"

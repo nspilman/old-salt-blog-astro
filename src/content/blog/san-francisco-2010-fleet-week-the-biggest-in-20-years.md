@@ -1,7 +1,7 @@
 ---
 title: "San Francisco 2010 Fleet Week the Biggest in 20 years"
 date: 2010-10-08T10:31:46
-slug: san-francisco-2010-fleet-week-the-biggest-in-20-years
+slug: "san-francisco-2010-fleet-week-the-biggest-in-20-years"
 excerpt: "2010 Fleet Week celebration will be the biggest in 20 years SAN FRANCISCO -This year’s Fleet Week celebration, an annual event that celebrates the city’s rich contribution to the United States armed forces, will be the largest one held in … Continue reading &rarr;"
 categories:
   - "Current"

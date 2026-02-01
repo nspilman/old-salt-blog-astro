@@ -1,8 +1,8 @@
 ---
 title: "OPT PowerBuoys on the Grid in Hawaii"
 date: 2010-10-10T08:35:03
-slug: opt-powerbuoys-on-the-grid-in-hawaii
-excerpt: "Recently we have been posting about the PowerBuoys developed by Ocean Power Technology.  They will soon be connected to the word’s largest  “Wave Hub” off the coast of England. They are also working toward deploying their buoys off the Oregon … Continue reading &rarr;"
+slug: "opt-powerbuoys-on-the-grid-in-hawaii"
+excerpt: "Recently we have been posting about the PowerBuoys developed by Ocean Power Technology.  They will soon be connected to the word’s largest  \"Wave Hub\" off the coast of England. They are also working toward deploying their buoys off the Oregon … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "PowerBuoy"
   - "wave energy"
 author: "Rick Spilman"
-description: "Recently we have been posting about the PowerBuoys developed by Ocean Power Technology.  They will soon be connected to the word’s largest  “Wave Hub” off the coast of England. They are also working toward deploying their buoys off the Oregon … Continue reading &rarr;"
+description: "Recently we have been posting about the PowerBuoys developed by Ocean Power Technology.  They will soon be connected to the word’s largest  \"Wave Hub\" off the coast of England. They are also working toward deploying their buoys off the Oregon … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/buoy.jpg)

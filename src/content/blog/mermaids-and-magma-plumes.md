@@ -1,7 +1,7 @@
 ---
 title: "MERMAIDS and Magma Plumes"
 date: 2019-02-10T15:29:30
-slug: mermaids-and-magma-plumes
+slug: "mermaids-and-magma-plumes"
 excerpt: "Scientists have identified a huge magma plume under the Galapagos archipelago using an array of floating robotic seismometers. In other news, the acronym writers have been working overtime. The robotic seismometers used in study have been named Mobile Earthquake Recording in Marine Areas by Independent … Continue reading &rarr;"
 categories:
   - "Current"

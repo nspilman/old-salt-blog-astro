@@ -1,7 +1,7 @@
 ---
 title: "South Street Seaport Schooner Lettie G Howard Heading for Lake Erie"
 date: 2018-02-01T17:15:38
-slug: south-street-seaport-schooner-lettie-g-howard-heading-lake-erie
+slug: "south-street-seaport-schooner-lettie-g-howard-heading-lake-erie"
 excerpt: "The South Street Seaport Museum‘s historic Georges Banks fishing schooner Lettie G. Howard will be spending the next two summers in Lake Erie at the Erie Maritime Museum in a collaboration with the Flagship Niagara League. The schooner will be partnering with … Continue reading &rarr;"
 categories:
   - "Current"

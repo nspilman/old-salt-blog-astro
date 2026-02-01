@@ -1,8 +1,8 @@
 ---
 title: "Breaking News : Fat Leonard Escapes House Arrest"
 date: 2022-09-06T10:19:25
-slug: breaking-news-fat-leonard-escapes-house-arrest
-excerpt: "When it appeared that the decade-long US Navy corruption scandal focused on Leonard Glenn Francis, known as “Fat Leonard,” was winding down, the saga takes a new turn. The Malaysian businessman, who confessed to directing a massive bribery scandal of … Continue reading &rarr;"
+slug: "breaking-news-fat-leonard-escapes-house-arrest"
+excerpt: "When it appeared that the decade-long US Navy corruption scandal focused on Leonard Glenn Francis, known as \"Fat Leonard,\" was winding down, the saga takes a new turn. The Malaysian businessman, who confessed to directing a massive bribery scandal of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "US Navy"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg"
 author: "Rick Spilman"
-description: "When it appeared that the decade-long US Navy corruption scandal focused on Leonard Glenn Francis, known as “Fat Leonard,” was winding down, the saga takes a new turn. The Malaysian businessman, who confessed to directing a massive bribery scandal of … Continue reading &rarr;"
+description: "When it appeared that the decade-long US Navy corruption scandal focused on Leonard Glenn Francis, known as \"Fat Leonard,\" was winding down, the saga takes a new turn. The Malaysian businessman, who confessed to directing a massive bribery scandal of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg)

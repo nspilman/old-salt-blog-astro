@@ -1,7 +1,7 @@
 ---
 title: "Japanese Fishing Trawler, Carried Away by Tsunami, Found Drifting Toward British Columbia"
 date: 2012-03-24T08:56:59
-slug: japanese-fishing-trawler-carried-away-by-tsunami-found-drifting-toward-british-columbia
+slug: "japanese-fishing-trawler-carried-away-by-tsunami-found-drifting-toward-british-columbia"
 excerpt: "A 150′ foot long fishing trawler carried away last March by the tsunami off the east coast of Japan has been spotted drifting in the Pacific Ocean, 120 miles off Haida Gwaii, British Columbia, Canada.  About 5 million tons of debris … Continue reading &rarr;"
 categories:
   - "Current"

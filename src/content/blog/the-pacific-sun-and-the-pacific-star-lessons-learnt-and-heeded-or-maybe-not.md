@@ -1,8 +1,8 @@
 ---
-title: "The Pacific Sun and the Pacific Star: “Lessons Learnt and Heeded” – Or Maybe Not"
+title: "The Pacific Sun and the Pacific Star: \"Lessons Learnt and Heeded\" – Or Maybe Not"
 date: 2010-09-08T13:48:50
-slug: the-pacific-sun-and-the-pacific-star-lessons-learnt-and-heeded-or-maybe-not
-excerpt: "The video of unsecured furniture flying about on the P&O cruise ship, Pacific Sun, is all over the internet.  A Carnival spokesperson (Carnival owns P&O) is quoted as saying, “The incident was fully investigated and lessons learnt have been heeded, including the … Continue reading &rarr;"
+slug: "the-pacific-sun-and-the-pacific-star-lessons-learnt-and-heeded-or-maybe-not"
+excerpt: "The video of unsecured furniture flying about on the P&O cruise ship, Pacific Sun, is all over the internet.  A Carnival spokesperson (Carnival owns P&O) is quoted as saying, \"The incident was fully investigated and lessons learnt have been heeded, including the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Pacific Star"
   - "Pacific Sun"
 author: "Rick Spilman"
-description: "The video of unsecured furniture flying about on the P&O cruise ship, Pacific Sun, is all over the internet.  A Carnival spokesperson (Carnival owns P&O) is quoted as saying, “The incident was fully investigated and lessons learnt have been heeded, including the … Continue reading &rarr;"
+description: "The video of unsecured furniture flying about on the P&O cruise ship, Pacific Sun, is all over the internet.  A Carnival spokesperson (Carnival owns P&O) is quoted as saying, \"The incident was fully investigated and lessons learnt have been heeded, including the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/Pacific_Star.jpg)

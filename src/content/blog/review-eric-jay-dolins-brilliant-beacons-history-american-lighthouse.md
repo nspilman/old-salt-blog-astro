@@ -1,7 +1,7 @@
 ---
 title: "Review: Eric Jay Dolin’s Brilliant Beacons — A History of the American Lighthouse"
 date: 2016-11-04T19:56:21
-slug: review-eric-jay-dolins-brilliant-beacons-history-american-lighthouse
+slug: "review-eric-jay-dolins-brilliant-beacons-history-american-lighthouse"
 excerpt: "My review of Eric Jay Dolin’s Brilliant Beacons : A History of the American Lighthouse, originally published in gCaptain. Reposted with permission. Next only perhaps to an anchor, lighthouses are symbols of security and safety. Even with modern electronic navigation, there … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

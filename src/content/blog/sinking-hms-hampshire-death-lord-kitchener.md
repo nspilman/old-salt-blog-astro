@@ -1,7 +1,7 @@
 ---
 title: "The Death of Lord Kitchener & the Sinking of HMS Hampshire"
 date: 2016-06-05T07:56:05
-slug: sinking-hms-hampshire-death-lord-kitchener
+slug: "sinking-hms-hampshire-death-lord-kitchener"
 excerpt: "One hundred years today, on June 5, 1916, Lord Horatio Herbert Kitchener, the British Secretary of State for War, drowned when the HMS Hampshire sank in the North Sea off the Orkneys. Of the 655 crewmen and 7 passengers, including Lord Kitchener, aboard … Continue reading &rarr;"
 categories:
   - "History"

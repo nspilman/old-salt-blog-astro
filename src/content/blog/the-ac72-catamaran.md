@@ -1,7 +1,7 @@
 ---
 title: "The AC72 Catamaran"
 date: 2012-07-27T07:14:33
-slug: the-ac72-catamaran
+slug: "the-ac72-catamaran"
 excerpt: "The 72 foot long catamarans that will be competing for the America’s Cup in San Francisco in 2013 are both breathtakingly beautiful and slightly terrifying.  Powered by a towering wing sail and well capable of sailing at the twice the speed of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

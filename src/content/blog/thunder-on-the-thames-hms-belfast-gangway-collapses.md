@@ -1,7 +1,7 @@
 ---
 title: "Thunder on the Thames – HMS Belfast Gangway Collapses"
 date: 2011-11-29T14:29:10
-slug: thunder-on-the-thames-hms-belfast-gangway-collapses
+slug: "thunder-on-the-thames-hms-belfast-gangway-collapses"
 excerpt: "The gangway to HMS Belfast, collapsed into the Thames River in London shortly after noon today.  Two work men are reported to have been taken to the hospital with what are described as abrasions.  More than 100 people on board the ship, including 30 school … Continue reading &rarr;"
 categories:
   - "Current"

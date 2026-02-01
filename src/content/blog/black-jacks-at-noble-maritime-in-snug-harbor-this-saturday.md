@@ -1,7 +1,7 @@
 ---
-title: "“Black Jacks” at Noble Maritime in Snug Harbor This Saturday"
+title: "\"Black Jacks\" at Noble Maritime in Snug Harbor This Saturday"
 date: 2017-02-02T18:16:00
-slug: black-jacks-at-noble-maritime-in-snug-harbor-this-saturday
+slug: "black-jacks-at-noble-maritime-in-snug-harbor-this-saturday"
 excerpt: "I read Dr. Jeffrey Bolster‘s book, Black Jacks: African American Seamen in the Age of Sail, not long after it came out a few years ago. It is a fascinating study of the largely untold story of African-American sailors in … Continue reading &rarr;"
 categories:
   - "Current"

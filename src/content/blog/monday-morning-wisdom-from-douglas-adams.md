@@ -1,7 +1,7 @@
 ---
 title: "Monday Morning Wisdom from Douglas Adams"
 date: 2013-06-17T09:54:14
-slug: monday-morning-wisdom-from-douglas-adams
+slug: "monday-morning-wisdom-from-douglas-adams"
 excerpt: "From the I Fucking Love Science Facebook page. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

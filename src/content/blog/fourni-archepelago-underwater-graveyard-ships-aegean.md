@@ -1,7 +1,7 @@
 ---
 title: "Fourni Archepelago, an Underwater Graveyard of Ships in the Aegean"
 date: 2016-07-18T09:47:52
-slug: fourni-archepelago-underwater-graveyard-ships-aegean
+slug: "fourni-archepelago-underwater-graveyard-ships-aegean"
 excerpt: "An area off the Fourni archepelago, a group of 13 islands between the islands of Samos and Icaria in Greece, is known as a graveyard of ships.  In June, underwater archaeologists discovered 23 ship wrecks during a survey period of … Continue reading &rarr;"
 categories:
   - "Current"

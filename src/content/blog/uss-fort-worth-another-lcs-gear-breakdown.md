@@ -1,7 +1,7 @@
 ---
 title: "USS Fort Worth — Another LCS Gear Breakdown"
 date: 2016-01-22T17:35:57
-slug: uss-fort-worth-another-lcs-gear-breakdown
+slug: "uss-fort-worth-another-lcs-gear-breakdown"
 excerpt: "The sad saga of the Littoral Combat Ships (LCS) continues. The USS Fort Worth, the third Freedom Class LCS delivered, was testing its engines at dockside in Singapore and seriously damaged the ship’s combining gear. The LCS have both diesel and … Continue reading &rarr;"
 categories:
   - "Current"

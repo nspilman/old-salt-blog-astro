@@ -1,7 +1,7 @@
 ---
 title: "Update 2: Explosion on Oil Rig in Gulf of Mexico – Eleven Injured,  Four Critically and Two Missing"
 date: 2012-11-16T13:22:29
-slug: explosion-on-oil-rig-in-gulf-of-mexico-four-hurt-and-two-missing
+slug: "explosion-on-oil-rig-in-gulf-of-mexico-four-hurt-and-two-missing"
 excerpt: "Update 2: Current reports say that eleven were injured, four critically. Two workers are still missing. An oil and gas rig in the Gulf of Mexico, about 20 nautical miles southeast of Grand Isle, La., was hit by an explosion … Continue reading &rarr;"
 categories:
   - "Current"

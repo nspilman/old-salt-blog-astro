@@ -1,7 +1,7 @@
 ---
 title: "Matson’s Massive Molasses Mess – Bitter Aftermath of a Sticky Sweet Spill"
 date: 2013-09-26T15:22:14
-slug: matsons-molasses-mess-bitter-aftermath-sweet-spill
+slug: "matsons-molasses-mess-bitter-aftermath-sweet-spill"
 excerpt: "What is worse than an oil spill?  A molasses spill, apparently.  There are ways to clean up after an oil spill, whereas no one knows how clean up spilled molasses.  Earlier this month, a Matson pipeline spilled 1,400 tons (233,000 … Continue reading &rarr;"
 categories:
   - "Current"

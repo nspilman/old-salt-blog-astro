@@ -1,7 +1,7 @@
 ---
 title: "USS Freedom, Continued Break Downs in Singapore, Troubled LCS Program Facing Cuts"
 date: 2013-11-21T09:34:09
-slug: uss-freedom-continued-break-downs-in-singapore-troubled-lcs-program-facing-cuts
+slug: "uss-freedom-continued-break-downs-in-singapore-troubled-lcs-program-facing-cuts"
 excerpt: "In March of this year, we posted about the repeated blackouts suffered on the USS Freedom as it made its way to a deployment in Singapore.  Recently the ship was delayed due to failures in its water jet controls. In October it … Continue reading &rarr;"
 categories:
   - "Current"

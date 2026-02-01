@@ -1,8 +1,8 @@
 ---
 title: "The Antikythera Treasure Ship and the Titanic"
 date: 2014-10-15T19:13:27
-slug: the-antikythera-treasure-ship-and-the-titanic
-excerpt: "The quote by Brendan Foley of the Woods Hole Oceanographic Institution was pure marketing genius.  He said that the Antikythera wreck is “the Titanic of the ancient world.”  The Titanic is, after all, the rock star of ship wrecks. No doubt what Foley … Continue reading &rarr;"
+slug: "the-antikythera-treasure-ship-and-the-titanic"
+excerpt: "The quote by Brendan Foley of the Woods Hole Oceanographic Institution was pure marketing genius.  He said that the Antikythera wreck is \"the Titanic of the ancient world.\"  The Titanic is, after all, the rock star of ship wrecks. No doubt what Foley … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"

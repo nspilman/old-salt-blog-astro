@@ -1,7 +1,7 @@
 ---
 title: "Update: Retired Four-Star Navy Adm. Robert P. Burke Found Guilty of Bribery"
 date: 2025-05-22T03:54:40
-slug: update-retired-four-star-navy-adm-robert-p-burke-found-guilty-of-bribery
+slug: "update-retired-four-star-navy-adm-robert-p-burke-found-guilty-of-bribery"
 excerpt: "Last June, we posted about the arrest of Robert P. Burke, a retired four-star Navy Admiral, on bribery charges. This week, a federal jury convicted the former Vice Chief of Naval Operations of four counts of bribery for steering a … Continue reading &rarr;"
 categories:
   - "Current"

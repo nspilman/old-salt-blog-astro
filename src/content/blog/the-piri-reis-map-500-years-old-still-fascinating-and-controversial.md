@@ -1,7 +1,7 @@
 ---
 title: "The Piri Reis Map – 500 Years Old, Still Fascinating and Controversial"
 date: 2013-06-15T17:28:02
-slug: the-piri-reis-map-500-years-old-still-fascinating-and-controversial
+slug: "the-piri-reis-map-500-years-old-still-fascinating-and-controversial"
 excerpt: "In 1929, a portion of a world map was discovered in the archives at the Topkapı Palace in Istanbul.  The map showed Europe, parts of Africa and Columbus’ discoveries in the New World. It was drawn in 1513 only 21 years … Continue reading &rarr;"
 categories:
   - "Current"

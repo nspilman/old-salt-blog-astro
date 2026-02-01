@@ -124,7 +124,7 @@
         "npm run build succeeds with migrated content",
         "Collection types exported for use in components"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 8,

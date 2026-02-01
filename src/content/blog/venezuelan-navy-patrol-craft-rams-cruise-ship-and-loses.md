@@ -1,7 +1,7 @@
 ---
 title: "Venezuelan Navy Patrol Craft Rams Cruise Ship and Loses"
 date: 2020-04-04T14:51:23
-slug: venezuelan-navy-patrol-craft-rams-cruise-ship-and-loses
+slug: "venezuelan-navy-patrol-craft-rams-cruise-ship-and-loses"
 excerpt: "The incident took place in the early hours of Mar. 30, 2020, but the cruise ship operator only released an official statement on April 1st. It could almost be taken for an April Fool’s joke. It wasn’t.   The Portuguese flag … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

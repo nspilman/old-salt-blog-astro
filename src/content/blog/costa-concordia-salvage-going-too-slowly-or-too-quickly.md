@@ -1,7 +1,7 @@
 ---
 title: "Costa Concordia – Salvage Going Too Slowly, or Too Quickly?"
 date: 2012-02-12T10:50:31
-slug: costa-concordia-salvage-going-too-slowly-or-too-quickly
+slug: "costa-concordia-salvage-going-too-slowly-or-too-quickly"
 excerpt: "Costa Lines has asked ten companies to bid on salvaging the Costa Concordia. The bids are due early next month and Costa has plans to award a contract by the end of March. Smit Salvage, Svitzer Salvage, Mammoet Salvage, Titan … Continue reading &rarr;"
 categories:
   - "Current"

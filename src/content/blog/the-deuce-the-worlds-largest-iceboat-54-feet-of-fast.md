@@ -1,7 +1,7 @@
 ---
 title: "The Deuce, the World’s Largest Iceboat — 54 Feet of Fast"
 date: 2015-01-28T11:07:47
-slug: the-deuce-the-worlds-largest-iceboat-54-feet-of-fast
+slug: "the-deuce-the-worlds-largest-iceboat-54-feet-of-fast"
 excerpt: "A video shot and edited by Dave Elsmo about the Deuce, the world’s largest iceboat, on Lake Mendota, in Madison, WI during the Wisconsin Stern Steerers Association Regatta. The 54′ stern-steerer speed demon built in the 1930s and rebuilt in … Continue reading &rarr;"
 categories:
   - "Current"

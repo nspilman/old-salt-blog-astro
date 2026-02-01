@@ -1,7 +1,7 @@
 ---
 title: "Drone Video of Mayflower II Returning to Plymouth"
 date: 2020-08-24T10:01:18
-slug: drone-video-of-mayflower-ii-returning-to-plymouth
+slug: "drone-video-of-mayflower-ii-returning-to-plymouth"
 excerpt: "Here is wonderful drone footage from Ryan Smith of the Mayflower II transiting the Cape Cod Canal and then arriving in its homeport of Plymouth, MS. Her arrival had been delayed by the pandemic and then by Tropical Storm Isaias. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

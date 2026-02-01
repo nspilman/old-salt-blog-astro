@@ -1,7 +1,7 @@
 ---
 title: "British Shipbuilding 1940s — Steel Goes to Sea"
 date: 2021-01-09T18:36:21
-slug: british-shipbuilding-1940s-steel-goes-to-sea
+slug: "british-shipbuilding-1940s-steel-goes-to-sea"
 excerpt: "Here is a fascinating short video of British riveted steel shipbuilding in the 1940s. The shipyard in the film is the Burntisland Shipbuilding Company in Fife. The ship being built is thought to be either the MV Dalhousie or the … Continue reading &rarr;"
 categories:
   - "History"

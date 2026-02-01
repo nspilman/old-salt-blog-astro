@@ -1,7 +1,7 @@
 ---
 title: "City of Adelaide – a Ship Renamed, a Duke Showered in Champagne, & Funding Approved"
 date: 2013-10-18T19:36:38
-slug: city-adelaide-ship-renamed-duke-showered-champagne-funding-approved
+slug: "city-adelaide-ship-renamed-duke-showered-champagne-funding-approved"
 excerpt: "The composite clipper ship, City of Adelaide, which had been renamed HMS Carrick, was officially renamed the City of Adelaide once at a ceremony on the River Thames at Greenwich near London.  Prince Philip, the Duke of Edinburgh, was accidentally … Continue reading &rarr;"
 categories:
   - "Current"

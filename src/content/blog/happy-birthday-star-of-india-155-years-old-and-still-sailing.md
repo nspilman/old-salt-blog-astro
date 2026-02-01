@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday Star of India — 155 Years Old and Still Sailing!"
 date: 2018-11-18T13:57:12
-slug: happy-birthday-star-of-india-155-years-old-and-still-sailing
+slug: "happy-birthday-star-of-india-155-years-old-and-still-sailing"
 excerpt: "This weekend, the Maritime Museum of San Diego is celebrating the 155th birthday of the Star of India by taking her for a sail. The museums other ships Californian, San Salvador, and America are sailing along with with the Star of India.  It has been five years … Continue reading &rarr;"
 categories:
   - "Current"

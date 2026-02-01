@@ -1,7 +1,7 @@
 ---
 title: "On Jacques Cousteau’s Centennial, the Calypso to Sail Again?"
 date: 2010-06-11T09:31:06
-slug: on-jacques-cousteaus-centennial-the-calypso-to-sail-again
+slug: "on-jacques-cousteaus-centennial-the-calypso-to-sail-again"
 excerpt: "Today is the 100th anniversary of the birth of Jacques Cousteau.  It is hard to overstate Cousteau’s influence as an inventor, writer, filmmaker, explorer and ecologist.   His first book, the Silent World, written with Frédéric Dumas in 1953, was a memoir which … Continue reading &rarr;"
 categories:
   - "Current"

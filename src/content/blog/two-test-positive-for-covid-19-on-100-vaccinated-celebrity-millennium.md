@@ -1,7 +1,7 @@
 ---
 title: "Two Test Positive for Covid-19 on 100% Vaccinated Celebrity Millennium"
 date: 2021-06-11T15:09:06
-slug: two-test-positive-for-covid-19-on-100-vaccinated-celebrity-millennium
+slug: "two-test-positive-for-covid-19-on-100-vaccinated-celebrity-millennium"
 excerpt: "When the cruise ship Celebrity Millennium departed from St. Maarten on June 5 for a seven-night cruise visiting Aruba, Curacao, and Barbados, each of the 600 passengers (over 12 years old) and 700 crew members had been fully vaccinated and … Continue reading &rarr;"
 categories:
   - "Current"

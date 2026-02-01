@@ -1,7 +1,7 @@
 ---
 title: "Restoring the Sloop Doris of 1905"
 date: 2015-10-11T08:40:22
-slug: restoring-the-sloop-doris-of-1905
+slug: "restoring-the-sloop-doris-of-1905"
 excerpt: "Drivers on Interstate 95 in Connecticut may have been surprised recently to see the 78-foot, wooden yacht Doris traveling by trailer down the highway, on her way to restoration and a new life. The 1905 built sloop is believed to be the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

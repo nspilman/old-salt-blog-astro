@@ -1,7 +1,7 @@
 ---
 title: "300th anniversary of the Nottingham Galley wreck on Boon Island"
 date: 2010-12-15T11:07:35
-slug: 300th-anniversary-of-the-nottingham-galley-wreck-on-boon-island
+slug: "300th-anniversary-of-the-nottingham-galley-wreck-on-boon-island"
 excerpt: "On December 11, 1710, the English ship Nottingham Galley came ashore on Boon Island, off Cape Neddick, Maine, stranding its 14 man crew, of whom four would subsequently die.  It became one of the best known shipwrecks in New England … Continue reading &rarr;"
 categories:
   - "History"

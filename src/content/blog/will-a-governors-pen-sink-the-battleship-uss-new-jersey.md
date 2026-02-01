@@ -1,7 +1,7 @@
 ---
 title: "Will a Governor’s Pen Sink the Battleship USS New Jersey?"
 date: 2011-08-26T09:11:39
-slug: will-a-governors-pen-sink-the-battleship-uss-new-jersey
+slug: "will-a-governors-pen-sink-the-battleship-uss-new-jersey"
 excerpt: "The Battleship USS New Jersey has survived a lot.  Commissioned in 1943, she fought in World War II, the Korean Conflict, the Vietnam War and supported U.S. operations during the Lebanese Civil War in 1983. Despite her success in combat, recent … Continue reading &rarr;"
 categories:
   - "Current"

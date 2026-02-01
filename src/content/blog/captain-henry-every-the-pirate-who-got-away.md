@@ -1,8 +1,8 @@
 ---
 title: "Captain Henry Every – The Pirate Who Got Away"
 date: 2021-05-12T12:04:25
-slug: captain-henry-every-the-pirate-who-got-away
-excerpt: "During the “Golden Age of Piracy,” the most successful pirates amassed huge fortunes over short periods of time and then died bloody deaths in combat, on the gallows, or in shipwrecks.  The one notable exception was Captain Henry Every. During … Continue reading &rarr;"
+slug: "captain-henry-every-the-pirate-who-got-away"
+excerpt: "During the \"Golden Age of Piracy,\" the most successful pirates amassed huge fortunes over short periods of time and then died bloody deaths in combat, on the gallows, or in shipwrecks.  The one notable exception was Captain Henry Every. During … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "Roundsmen"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/henryevery.jpg"
 author: "Rick Spilman"
-description: "During the “Golden Age of Piracy,” the most successful pirates amassed huge fortunes over short periods of time and then died bloody deaths in combat, on the gallows, or in shipwrecks.  The one notable exception was Captain Henry Every. During … Continue reading &rarr;"
+description: "During the \"Golden Age of Piracy,\" the most successful pirates amassed huge fortunes over short periods of time and then died bloody deaths in combat, on the gallows, or in shipwrecks.  The one notable exception was Captain Henry Every. During … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/henryevery.jpg)During the “[Golden Age of Piracy](https://en.wikipedia.org/wiki/Golden_Age_of_Piracy),” the most successful pirates amassed huge fortunes over short periods of time and then died bloody deaths in combat, on the gallows, or in shipwrecks.  The one notable exception was [Captain Henry Every](https://www.history.com/news/henry-everys-bloody-pirate-raid-320-years-ago). During just two years prowling the seas, Every and his band captured roughly a dozen vessels and made off with tens of millions of dollars in booty.

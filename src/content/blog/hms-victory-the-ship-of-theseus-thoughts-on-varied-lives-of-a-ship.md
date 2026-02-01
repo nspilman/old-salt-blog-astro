@@ -1,7 +1,7 @@
 ---
 title: "HMS Victory & the Ship of Theseus, Thoughts on Varied Lives of A Ship"
 date: 2022-01-14T18:53:37
-slug: hms-victory-the-ship-of-theseus-thoughts-on-varied-lives-of-a-ship
+slug: "hms-victory-the-ship-of-theseus-thoughts-on-varied-lives-of-a-ship"
 excerpt: "We recently posted about an announcement that an additional £35m is being committed for continued repairs to the HMS Victory, specifically to replace rotting planking and frames and to complete the rerigging of the ship. As it has been 256 … Continue reading &rarr;"
 categories:
   - "Current"

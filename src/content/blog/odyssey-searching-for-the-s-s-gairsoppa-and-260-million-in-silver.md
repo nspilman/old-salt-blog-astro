@@ -1,7 +1,7 @@
 ---
 title: "Odyssey Searching for the S.S. Gairsoppa and $260 million in Silver"
 date: 2011-03-30T16:39:07
-slug: odyssey-searching-for-the-s-s-gairsoppa-and-260-million-in-silver
+slug: "odyssey-searching-for-the-s-s-gairsoppa-and-260-million-in-silver"
 excerpt: "On February 16, 1941 the S.S. Gairsoppa was bound from India to Britain, when she was torpedoed by a German submarine and sank 300 miles southwest of Galway Bay.  In addition to pig iron and tea, she carried silver bullion … Continue reading &rarr;"
 categories:
   - "History"

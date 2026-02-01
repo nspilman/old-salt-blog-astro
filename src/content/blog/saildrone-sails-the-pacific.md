@@ -1,7 +1,7 @@
 ---
 title: "Saildrone Sails the Pacific"
 date: 2014-01-06T09:12:02
-slug: saildrone-sails-the-pacific
+slug: "saildrone-sails-the-pacific"
 excerpt: "We have recently posted about Slocum gliders, autonomous underwater vehicles, capable of extended voyages and used by oceanographers to map ocean conditions.  Saildrone, a company in California, has recently launched a 19′ long by 7′ wide autonomous  trimaran sailing drone capable … Continue reading &rarr;"
 categories:
   - "Current"

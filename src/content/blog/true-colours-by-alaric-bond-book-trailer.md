@@ -1,7 +1,7 @@
 ---
 title: "True Colours by Alaric Bond – Book Trailer"
 date: 2010-06-04T08:24:39
-slug: true-colours-by-alaric-bond-book-trailer
+slug: "true-colours-by-alaric-bond-book-trailer"
 excerpt: "A book trailer for Alaric Bond’s new book, True Colours which we recently reviewed. True Colours … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

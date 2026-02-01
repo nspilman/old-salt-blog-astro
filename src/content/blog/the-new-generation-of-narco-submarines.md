@@ -1,7 +1,7 @@
 ---
 title: "The New Generation of Narco Submarines"
 date: 2010-07-08T13:04:06
-slug: the-new-generation-of-narco-submarines
+slug: "the-new-generation-of-narco-submarines"
 excerpt: "Until recent the narco subs used to smuggle cocaine into the United States were submarines in name only, as they were not designed to dive underwater and resurface. Last week, however, the U.S. Drug Enforcement Administration and Ecuadorian authorities seized a 108 … Continue reading &rarr;"
 categories:
   - "Current"

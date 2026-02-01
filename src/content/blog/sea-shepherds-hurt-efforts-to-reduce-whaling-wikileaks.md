@@ -1,7 +1,7 @@
 ---
 title: "Sea Shepherds Hurt Efforts to Reduce Whaling  – WikiLeaks"
 date: 2011-01-05T10:34:33
-slug: sea-shepherds-hurt-efforts-to-reduce-whaling-wikileaks
+slug: "sea-shepherds-hurt-efforts-to-reduce-whaling-wikileaks"
 excerpt: "Rather than pressuring the Japanese to stop whaling, the vigilante violence of the Sea Shepherds made it more difficult for Japanese diplomats  to compromise in negotiations to reduce whaling according to documents released by WikiLeaks. WikiLeaks releases documents about anti-whaling group Sea Shepherd … Continue reading &rarr;"
 categories:
   - "Current"

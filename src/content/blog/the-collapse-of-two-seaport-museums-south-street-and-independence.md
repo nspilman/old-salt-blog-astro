@@ -1,7 +1,7 @@
 ---
 title: "Hard Times at Two Seaport Museums – South Street and Independence"
 date: 2011-04-17T10:17:32
-slug: the-collapse-of-two-seaport-museums-south-street-and-independence
+slug: "the-collapse-of-two-seaport-museums-south-street-and-independence"
 excerpt: "New York and Philadelphia are major ports and centers of art and culture.  By all rights both should be home for major and successful seaport museums. Sadly that is not the case. Last month we posted about the Independence Seaport … Continue reading &rarr;"
 categories:
   - "Current"

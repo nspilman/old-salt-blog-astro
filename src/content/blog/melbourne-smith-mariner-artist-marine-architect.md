@@ -1,7 +1,7 @@
 ---
 title: "Melbourne Smith — Mariner, Artist, & Marine Architect"
 date: 2018-02-05T17:16:55
-slug: melbourne-smith-mariner-artist-marine-architect
+slug: "melbourne-smith-mariner-artist-marine-architect"
 excerpt: "The Pride of Baltimore II  Facebook page has some very bad news about Melbourne Smith.  … Continue reading &rarr;"
 categories:
   - "Current"

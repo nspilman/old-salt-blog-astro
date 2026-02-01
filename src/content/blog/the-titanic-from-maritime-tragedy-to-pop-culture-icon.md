@@ -1,7 +1,7 @@
 ---
 title: "The Titanic – from Maritime Tragedy to Pop Culture Icon"
 date: 2011-04-15T14:59:20
-slug: the-titanic-from-maritime-tragedy-to-pop-culture-icon
+slug: "the-titanic-from-maritime-tragedy-to-pop-culture-icon"
 excerpt: "Ninety nine years ago today, the RMS Titanic sank after striking an iceberg in the North Atlantic with the loss of 1,517 passengers and crew.  The sinking of the Titanic had a major impact on  ship  operations.     The first International … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Gray Whale Sighted in South Atlantic, First Ever Observed Below the Equator"
 date: 2013-05-21T13:46:32
-slug: gray-whale-sighted-in-south-atlantic-first-ever-observed-below-the-equator
+slug: "gray-whale-sighted-in-south-atlantic-first-ever-observed-below-the-equator"
 excerpt: "A gray whale has been sighted in Walvis Bay, Namibia.  This is amazing news, as gray whales were hunted to extinction in the North Atlantic by the 18th century and have never been sighted before south of the equator.  Gray whales … Continue reading &rarr;"
 categories:
   - "Current"

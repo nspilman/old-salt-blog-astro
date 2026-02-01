@@ -1,7 +1,7 @@
 ---
 title: "What Happened on the Container Ship ONE Apus? A Glimpse at Parametric Rolling"
 date: 2020-12-08T18:27:44
-slug: what-happened-on-the-container-ship-one-apus-a-glimpse-at-parametric-rolling
+slug: "what-happened-on-the-container-ship-one-apus-a-glimpse-at-parametric-rolling"
 excerpt: "Last week, the container ship ONE Apus lost or had damaged over 1,900 containers in a storm in the Pacific. The lost or damaged containers representing close to 25% of the ship’s cargo. The casualty represents more containers than are … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

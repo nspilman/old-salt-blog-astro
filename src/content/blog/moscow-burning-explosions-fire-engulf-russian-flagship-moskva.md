@@ -1,7 +1,7 @@
 ---
 title: "Moscow Burning — Explosions & Fire Engulf Russian Flagship Moskva"
 date: 2022-04-14T09:14:11
-slug: moscow-burning-explosions-fire-engulf-russian-flagship-moskva
+slug: "moscow-burning-explosions-fire-engulf-russian-flagship-moskva"
 excerpt: "Moskva, a guided-missile cruiser and the flagship of the Russian Black Sea fleet, suffered ammunition explosions and fire while operating in the Black Sea off Odesa on April 13. Exactly what happened is unclear.  Reuters reports that Ukraine’s southern military … Continue reading &rarr;"
 categories:
   - "Current"

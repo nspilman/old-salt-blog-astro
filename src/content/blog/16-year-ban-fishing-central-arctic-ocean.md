@@ -1,7 +1,7 @@
 ---
 title: "16 Year Ban on Fishing in Central Arctic Ocean"
 date: 2017-12-03T17:28:12
-slug: 16-year-ban-fishing-central-arctic-ocean
+slug: "16-year-ban-fishing-central-arctic-ocean"
 excerpt: "Nine nations; the United States, Canada, Norway, Russia, Denmark, Iceland, Japan, South Korea, China; and the European Union have agreed to ban commercial fishing in the Central Arctic Ocean for at least the next 16 years. The goal of the pact … Continue reading &rarr;"
 categories:
   - "Current"

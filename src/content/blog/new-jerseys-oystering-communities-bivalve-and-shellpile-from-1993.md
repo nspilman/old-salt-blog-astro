@@ -1,7 +1,7 @@
 ---
 title: "New Jersey’s Oystering Communities, Bivalve and Shellpile from 1993"
 date: 2019-08-10T17:21:26
-slug: new-jerseys-oystering-communities-bivalve-and-shellpile-from-1993
+slug: "new-jerseys-oystering-communities-bivalve-and-shellpile-from-1993"
 excerpt: "Here is a wonderful short video from 1993, which visits Bivalve and Shellpile, the last of New Jersey’s oystering communities, near Port Norris, where the Maurice River meets the Delaware Bay. The oystering industry was once highly profitable. Port Norris … Continue reading &rarr;"
 categories:
   - "City of Ships"

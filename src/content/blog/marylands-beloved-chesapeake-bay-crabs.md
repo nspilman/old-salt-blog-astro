@@ -1,7 +1,7 @@
 ---
 title: "Maryland’s Beloved Chesapeake Bay Crabs"
 date: 2017-10-29T09:11:37
-slug: marylands-beloved-chesapeake-bay-crabs
+slug: "marylands-beloved-chesapeake-bay-crabs"
 excerpt: "With decreased pollution, the Chesapeake Bay has seen a significant recovery in its blue crab population in recent years. All is not good news, however. The 2017 crabbing season was cut short by a significant population decline. With luck, the … Continue reading &rarr;"
 categories:
   - "Current"

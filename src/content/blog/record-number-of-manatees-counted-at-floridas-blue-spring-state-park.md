@@ -1,7 +1,7 @@
 ---
 title: "Record Number of Manatees Counted At Florida’s Blue Spring State Park"
 date: 2024-01-23T20:55:29
-slug: record-number-of-manatees-counted-at-floridas-blue-spring-state-park
+slug: "record-number-of-manatees-counted-at-floridas-blue-spring-state-park"
 excerpt: "Encouraging news! Following a devastating record year of manatee deaths in 2021, a​ record number of manatees was counted at Central Florida’s Blue Spring State Park on Sunday. Staff there counted 932 on Sunday, which is nearly 200 more than … Continue reading &rarr;"
 categories:
   - "Current"

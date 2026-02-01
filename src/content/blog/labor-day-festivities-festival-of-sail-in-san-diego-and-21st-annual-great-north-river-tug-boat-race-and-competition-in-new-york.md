@@ -1,7 +1,7 @@
 ---
 title: "Labor Day Festivities – Festival of Sail in San Diego and 21st Annual Great North River Tug Boat Race and Competition in New York"
 date: 2013-08-30T14:26:35
-slug: labor-day-festivities-festival-of-sail-in-san-diego-and-21st-annual-great-north-river-tug-boat-race-and-competition-in-new-york
+slug: "labor-day-festivities-festival-of-sail-in-san-diego-and-21st-annual-great-north-river-tug-boat-race-and-competition-in-new-york"
 excerpt: "Great activities on the water, on both coasts, this Labor Day weekend. In San Diego, the annual Festival of Sail began yesterday with a Parade of Sail and continues through Monday with lots of great activities. as described by San Diego … Continue reading &rarr;"
 categories:
   - "Current"

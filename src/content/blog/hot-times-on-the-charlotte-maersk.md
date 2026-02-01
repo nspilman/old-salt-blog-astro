@@ -1,7 +1,7 @@
 ---
 title: "Hot Times on the Charlotte Maersk – Fire Reported Contained"
 date: 2010-07-09T10:20:14
-slug: hot-times-on-the-charlotte-maersk
+slug: "hot-times-on-the-charlotte-maersk"
 excerpt: "A fire in deck containers stowed forward of the house on the 8,000 TEU containership,  Charlotte Maersk, is reported to be contained.   The fire broke out on Wednesday as the ship was passing through the Straits of Malacca bound … Continue reading &rarr;"
 categories:
   - "Current"

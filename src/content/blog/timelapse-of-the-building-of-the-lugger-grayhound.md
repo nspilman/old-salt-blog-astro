@@ -1,7 +1,7 @@
 ---
 title: "Timelapse of the Building of the Lugger Grayhound"
 date: 2011-12-19T18:36:22
-slug: timelapse-of-the-building-of-the-lugger-grayhound
+slug: "timelapse-of-the-building-of-the-lugger-grayhound"
 excerpt: "Perhaps if I worked as fast as the folks in this video, I might get something done. Thanks to Alaric Bond for passing along the link to the building of the lugger Grayhound. In March of 2010, we posted about … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Ferry Captain Sentence to Eight Years in Collision Where 39 Died"
 date: 2015-02-16T18:59:09
-slug: hong-kong-ferry-captain-sentence-to-eight-years-in-collision-where-39-died
+slug: "hong-kong-ferry-captain-sentence-to-eight-years-in-collision-where-39-died"
 excerpt: "In 2012, we posted about the collision between the passenger ferry Sea Smooth and the ferry Lamma IV off Hong Kong near Lama Island. The collision killed 39, all passengers on the Lamma IV .  The Lamma IV  was carrying staff and family members of … Continue reading &rarr;"
 categories:
   - "Current"

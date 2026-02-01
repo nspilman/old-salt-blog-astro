@@ -1,7 +1,7 @@
 ---
 title: "Scientists Baffled by Orcas Ramming Sailboats, Grabbing Rudders"
 date: 2020-09-19T14:43:28
-slug: scientists-baffled-by-orcas-ramming-sailboats-grabbing-rudders
+slug: "scientists-baffled-by-orcas-ramming-sailboats-grabbing-rudders"
 excerpt: "Another 2020 story. Despite being dubbed killer whales, orcas in the wild have a long history of not attacking humans and rarely attacking boats. [Edited — see note at the end of the post.] (The situation with orcas in captivity … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

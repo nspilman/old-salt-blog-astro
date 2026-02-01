@@ -1,8 +1,8 @@
 ---
 title: "Soren Larsen’s South Pacific Challenge"
 date: 2012-03-29T10:01:01
-slug: soren-larsens-south-pacific-challenge
-excerpt: "The good folks on the brigantine Søren Larsen are offering a “South Pacific Challenge,” a Youtube video competition where you can explain in a short video why you need to change your life and what a South Pacific voyage on the … Continue reading &rarr;"
+slug: "soren-larsens-south-pacific-challenge"
+excerpt: "The good folks on the brigantine Søren Larsen are offering a \"South Pacific Challenge,\" a Youtube video competition where you can explain in a short video why you need to change your life and what a South Pacific voyage on the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Soren Larsen"
   - "South Pacific Challenge"
 author: "Rick Spilman"
-description: "The good folks on the brigantine Søren Larsen are offering a “South Pacific Challenge,” a Youtube video competition where you can explain in a short video why you need to change your life and what a South Pacific voyage on the … Continue reading &rarr;"
+description: "The good folks on the brigantine Søren Larsen are offering a \"South Pacific Challenge,\" a Youtube video competition where you can explain in a short video why you need to change your life and what a South Pacific voyage on the … Continue reading &rarr;"
 ---
 
 The good folks on the brigantine *[Søren Larsen](http://southpacificchallenge.com.au/)* are offering a “[South Pacific Challenge](http://southpacificchallenge.com.au/the-challenge.html),” a Youtube video competition where you can explain in a short video why you need to change your life and what a South Pacific voyage on the *Søren Larsen* would mean to you.   Visitors to their web site will have the opportunity to vote on the uploaded videos. Two winners will be chosen to feature in a professionally filmed documentary about their life changing voyage from the Cook Islands to Samoa on the *Søren Larsen*.  Entries must be submitted by Friday, April 20th 2012, at 3pm EST.  [Click here to learn more](http://southpacificchallenge.com.au/the-challenge.html).

@@ -1,7 +1,7 @@
 ---
 title: "Help Restore the Hudson Ferry Sloop Woody Guthrie"
 date: 2015-12-13T09:13:37
-slug: help-restore-the-hudson-ferry-woody-guthrie
+slug: "help-restore-the-hudson-ferry-woody-guthrie"
 excerpt: "The Beacon Sloop Club is raising money to restore the Hudson River ferry sloop, Woody Guthrie. G Since 1978, the sloop Woody Guthrie has given thousands of people their first experience on a sailboat and their first experience of the beauties … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

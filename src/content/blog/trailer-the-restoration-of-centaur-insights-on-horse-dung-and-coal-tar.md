@@ -1,7 +1,7 @@
 ---
 title: "Trailer ‘The Restoration of Centaur’ — Insights on Horse Dung and Coal Tar"
 date: 2020-06-14T17:33:35
-slug: trailer-the-restoration-of-centaur-insights-on-horse-dung-and-coal-tar
+slug: "trailer-the-restoration-of-centaur-insights-on-horse-dung-and-coal-tar"
 excerpt: "Centaur is one of three sailing barges owned and operated by the Thames Sailing Barge Trust. Launched in  February 1895 at John and Herbert Cann’s Bathside yard in Harwich, Centaur was built as a coasting barge – able to trade … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

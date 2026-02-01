@@ -1,7 +1,7 @@
 ---
 title: "Lubec’s Gold from Sea Water Hoax of 1898"
 date: 2021-04-01T10:22:04
-slug: lubecs-gold-from-sea-water-hoax-of-1898
+slug: "lubecs-gold-from-sea-water-hoax-of-1898"
 excerpt: "On April Fool’s Day, a repost about not an April Fool’s Day prank but a hoax and a swindle. In October of 1897, at the height of the Alaskan Gold Rush, two men, Prescott Ford Jernegan, a Baptist minister, and … Continue reading &rarr;"
 categories:
   - "History"

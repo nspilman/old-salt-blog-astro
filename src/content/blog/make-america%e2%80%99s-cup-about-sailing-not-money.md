@@ -1,12 +1,12 @@
 ---
 title: "Make America’s Cup about Sailing, not Money"
 date: 2010-03-31T08:27:32
-slug: make-america%e2%80%99s-cup-about-sailing-not-money
-excerpt: "Larry Ellison and Ernesto Bertarelli perhaps bear equal blame for a litigious and incredibly costly America’s Cup race which turned more on technology and court rulings than on sailing.   Now Ellison is singing a different tune, saying  ”We’d like … Continue reading &rarr;"
+slug: "make-america%e2%80%99s-cup-about-sailing-not-money"
+excerpt: "Larry Ellison and Ernesto Bertarelli perhaps bear equal blame for a litigious and incredibly costly America’s Cup race which turned more on technology and court rulings than on sailing.   Now Ellison is singing a different tune, saying  \"We’d like … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "Larry Ellison and Ernesto Bertarelli perhaps bear equal blame for a litigious and incredibly costly America’s Cup race which turned more on technology and court rulings than on sailing.   Now Ellison is singing a different tune, saying  ”We’d like … Continue reading &rarr;"
+description: "Larry Ellison and Ernesto Bertarelli perhaps bear equal blame for a litigious and incredibly costly America’s Cup race which turned more on technology and court rulings than on sailing.   Now Ellison is singing a different tune, saying  \"We’d like … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/larry_ellison.gi_.top_.jpg)Larry Ellison and Ernesto Bertarelli perhaps bear equal blame for a litigious and incredibly costly America’s Cup race which turned more on technology and court rulings than on sailing.   Now Ellison is singing a different tune, saying  ”We’d like this to not be a matter of who invests the most money in designing their boat but who sails the best.”  If he is true to his word, this might open up the America’s Cup races again to mere millionaires rather than being so costly that only billionaires can play.

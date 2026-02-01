@@ -1,7 +1,7 @@
 ---
 title: "Joan Druett’s Tupaia Wins 2012 New Zealand Post Book Award"
 date: 2012-08-01T10:47:06
-slug: joan-druetts-tupaia-wins-2012-new-zealand-post-book-award
+slug: "joan-druetts-tupaia-wins-2012-new-zealand-post-book-award"
 excerpt: "Congratulations to Joan Druett! Her recent book, Tupaia – The Remarkable Story of Captain Cook’s Polynesian Navigator, was general non-fiction winner in the 2012 New Zealand Post Book Awards. See  our review of Tupaia – The Remarkable Story of Captain … Continue reading &rarr;"
 categories:
   - "Seastories"

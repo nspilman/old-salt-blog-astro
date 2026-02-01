@@ -1,7 +1,7 @@
 ---
 title: "Giant ‘Gravity Hole’ in the Ocean May Be the Ghost of an Ancient Sea"
 date: 2023-06-30T16:18:38
-slug: giant-gravity-hole-in-the-ocean-may-be-the-ghost-of-an-ancient-sea
+slug: "giant-gravity-hole-in-the-ocean-may-be-the-ghost-of-an-ancient-sea"
 excerpt: "A fascinating story from Scientific American: A vast expanse of the Indian Ocean is a staggering 100 meters lower than the global average sea level because of a major dip in Earth’s gravity. Scientists now think they know the cause. … Continue reading &rarr;"
 categories:
   - "Current"

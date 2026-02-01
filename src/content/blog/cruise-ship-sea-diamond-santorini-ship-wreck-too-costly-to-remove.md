@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ship Sea Diamond, Santorini ship wreck ‘too costly’ to remove"
 date: 2011-05-30T07:40:25
-slug: cruise-ship-sea-diamond-santorini-ship-wreck-too-costly-to-remove
+slug: "cruise-ship-sea-diamond-santorini-ship-wreck-too-costly-to-remove"
 excerpt: "In April of 2007, the cruise ship Sea Diamond struck a reef off the island of Santorini and sank.   Nearly 1,600 passengers where rescued and two passengers drowned.  Now four years later the Greek government has says that it cannot afford to remove … Continue reading &rarr;"
 categories:
   - "Current"

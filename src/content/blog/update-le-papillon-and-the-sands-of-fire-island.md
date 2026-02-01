@@ -1,7 +1,7 @@
 ---
 title: "Update: Le Papillon and the Sands of Fire Island"
 date: 2011-04-18T09:11:20
-slug: update-le-papillon-and-the-sands-of-fire-island
+slug: "update-le-papillon-and-the-sands-of-fire-island"
 excerpt: "Not quite three weeks ago the 50′ steel pinky schooner Le Papillon came ashore on Fire Island, a barrier island off Long Island, northeast of the entrance to New York harbor.  Will van Dorp at the Tugster blog has taken some amazing … Continue reading &rarr;"
 categories:
   - "Current"

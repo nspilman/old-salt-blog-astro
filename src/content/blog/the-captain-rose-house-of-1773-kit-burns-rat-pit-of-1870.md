@@ -1,7 +1,7 @@
 ---
 title: "The Captain Rose House of 1773 & Kit Burns Rat Pit of 1870"
 date: 2014-03-10T15:37:48
-slug: the-captain-rose-house-of-1773-kit-burns-rat-pit-of-1870
+slug: "the-captain-rose-house-of-1773-kit-burns-rat-pit-of-1870"
 excerpt: "On my way to an informal gathering of water-bloggers on Saturday, I passed by Captain Joseph Rose’s House at 273 Water Street in Lower Manhattan.  I wanted to stop by because one scene in my next novel, The Shantyman, is set … Continue reading &rarr;"
 categories:
   - "City of Ships"

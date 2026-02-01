@@ -1,7 +1,7 @@
 ---
 title: "On Shakespeare’s Birthday — Was Shakespeare a Sailor?"
 date: 2025-04-23T17:30:35
-slug: on-shakespeares-birthday-was-shakespeare-a-sailor
+slug: "on-shakespeares-birthday-was-shakespeare-a-sailor"
 excerpt: "There is much that we do not know about William Shakespeare. The exact date of his birth was not recorded, but is most often celebrated worldwide on April 23rd. One of the biggest mysteries about William Shakespeare, however, is the … Continue reading &rarr;"
 categories:
   - "History"

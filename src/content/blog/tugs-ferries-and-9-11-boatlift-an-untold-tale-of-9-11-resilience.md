@@ -1,7 +1,7 @@
 ---
 title: "Tugs, Ferries and 9/11 — BOATLIFT, An Untold Tale of 9/11 Resilience"
 date: 2018-09-11T07:44:05
-slug: tugs-ferries-and-9-11-boatlift-an-untold-tale-of-9-11-resilience
+slug: "tugs-ferries-and-9-11-boatlift-an-untold-tale-of-9-11-resilience"
 excerpt: "This weekend I enjoyed watching the Great North River Tug Race. Now, a few days later, we have arrived again at the anniversary of the attacks of 9/11. As horrible as that Tuesday morning in September indeed was and as … Continue reading &rarr;"
 categories:
   - "Current"

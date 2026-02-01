@@ -1,7 +1,7 @@
 ---
 title: "Space Shuttle Enterprise Arrives in New York"
 date: 2012-04-27T20:28:53
-slug: space-shuttle-endeavour-arrives-in-new-york
+slug: "space-shuttle-endeavour-arrives-in-new-york"
 excerpt: "The Space Shuttle Enterprise arrived in New York today on its way to the Intrepid Sea, Air and Space Museum.   The Shuttle Enterprise rode piggy-back on a NASA 747, flying a loop over the Hudson River before landing at Kennedy Airport.  The shuttle will … Continue reading &rarr;"
 categories:
   - "Current"

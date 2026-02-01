@@ -1,7 +1,7 @@
 ---
 title: "Viking Longboat Dragens Vinge Lost Off Shetland, Crew Rescued After Activating EPIRB"
 date: 2011-08-10T16:45:57
-slug: viking-longboat-dragens-vinge-lost-off-shetland-crew-rescued-after-activating-epirb
+slug: "viking-longboat-dragens-vinge-lost-off-shetland-crew-rescued-after-activating-epirb"
 excerpt: "The Viking longboat replica, Dragens Vinge, is reported to have broken up in a gale while on a voyage from Norway to Lerwick.  The crew was rescued by helicopter fifty miles 50 miles east of Shetland after they activated the Emergency Position Indicating Radio Beacon … Continue reading &rarr;"
 categories:
   - "Current"

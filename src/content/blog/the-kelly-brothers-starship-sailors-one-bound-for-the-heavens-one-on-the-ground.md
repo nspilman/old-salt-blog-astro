@@ -1,8 +1,8 @@
 ---
 title: "The Kelly Brothers — Starship Sailors, A Shared Mission to the Heavens and on the Ground"
 date: 2015-03-24T19:56:42
-slug: the-kelly-brothers-starship-sailors-one-bound-for-the-heavens-one-on-the-ground
-excerpt: "In January 2011, we posted about Mark and Scott Kelly, two “starship sailors” — identical twin brothers who both graduated from merchant marine academies and went on to be astronauts in the US space program. Now, Scott Kelly is about … Continue reading &rarr;"
+slug: "the-kelly-brothers-starship-sailors-one-bound-for-the-heavens-one-on-the-ground"
+excerpt: "In January 2011, we posted about Mark and Scott Kelly, two \"starship sailors\" — identical twin brothers who both graduated from merchant marine academies and went on to be astronauts in the US space program. Now, Scott Kelly is about … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

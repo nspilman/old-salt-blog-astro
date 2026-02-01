@@ -1,7 +1,7 @@
 ---
-title: "Pandemic Flashback — Bounding Main’s T-Rex Quintet Singing “Strike the Bell”"
+title: "Pandemic Flashback — Bounding Main’s T-Rex Quintet Singing \"Strike the Bell\""
 date: 2022-12-09T17:51:01
-slug: pandemic-flashback-bounding-mains-t-rex-quintet-singing-strike-the-bell
+slug: "pandemic-flashback-bounding-mains-t-rex-quintet-singing-strike-the-bell"
 excerpt: "We are two years late in posting this. Nevertheless, it seems like a worthwhile bit of silliness for a Friday afternoon.  Back in 2020, a deadly virus was running rampant across the globe. Performance venues and even rehearsals were shut … Continue reading &rarr;"
 categories:
   - "Current"

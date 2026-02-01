@@ -1,8 +1,8 @@
 ---
 title: "A Whale’s Tale?  Did Costa Cover Up Past Grounding on the Costa Fortuna?"
 date: 2012-01-25T11:02:06
-slug: a-whales-tale-did-costa-cover-up-past-grounding-on-the-costa-fortuna
-excerpt: "In May 2005, while the cruise ship Costa Fortuna was making a close approach to the island of Sorrento, there was a “loud bang” after which the vessel rolled from left to right according to the ship’s photographer Roberto Cappello, 59.  He later would … Continue reading &rarr;"
+slug: "a-whales-tale-did-costa-cover-up-past-grounding-on-the-costa-fortuna"
+excerpt: "In May 2005, while the cruise ship Costa Fortuna was making a close approach to the island of Sorrento, there was a \"loud bang\" after which the vessel rolled from left to right according to the ship’s photographer Roberto Cappello, 59.  He later would … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Roberto Cappello"
   - "Sorrento"
 author: "Rick Spilman"
-description: "In May 2005, while the cruise ship Costa Fortuna was making a close approach to the island of Sorrento, there was a “loud bang” after which the vessel rolled from left to right according to the ship’s photographer Roberto Cappello, 59.  He later would … Continue reading &rarr;"
+description: "In May 2005, while the cruise ship Costa Fortuna was making a close approach to the island of Sorrento, there was a \"loud bang\" after which the vessel rolled from left to right according to the ship’s photographer Roberto Cappello, 59.  He later would … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/n_fortuna_img01-125x79.jpg)

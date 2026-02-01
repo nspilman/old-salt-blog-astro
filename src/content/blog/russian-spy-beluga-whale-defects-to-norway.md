@@ -1,8 +1,8 @@
 ---
 title: "Russian Spy Beluga Whale Defects to Norway"
 date: 2019-05-03T09:32:09
-slug: russian-spy-beluga-whale-defects-to-norway
-excerpt: "Two days ago, NPR reported: “Fisherman off the coast of Norway encountered a beluga whale with “Equipment of St. Petersburg” inscribed on its harness. Researchers think the beluga may be a Russian spy in training.”  There was speculation that the … Continue reading &rarr;"
+slug: "russian-spy-beluga-whale-defects-to-norway"
+excerpt: "Two days ago, NPR reported: \"Fisherman off the coast of Norway encountered a beluga whale with \"Equipment of St. Petersburg\" inscribed on its harness. Researchers think the beluga may be a Russian spy in training.\"  There was speculation that the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "spy"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/belugaspy.jpg"
 author: "Rick Spilman"
-description: "Two days ago, NPR reported: “Fisherman off the coast of Norway encountered a beluga whale with “Equipment of St. Petersburg” inscribed on its harness. Researchers think the beluga may be a Russian spy in training.”  There was speculation that the … Continue reading &rarr;"
+description: "Two days ago, NPR reported: \"Fisherman off the coast of Norway encountered a beluga whale with \"Equipment of St. Petersburg\" inscribed on its harness. Researchers think the beluga may be a Russian spy in training.\"  There was speculation that the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/belugaspy.jpg)Two days ago, [NPR](https://www.npr.org/2019/04/30/718735455/beluga-whale-found-in-norway-may-be-a-russian-spy) reported: “Fisherman off the coast of Norway encountered a beluga whale with “Equipment of St. Petersburg” inscribed on its harness. Researchers think the beluga may be a Russian spy in training.” 

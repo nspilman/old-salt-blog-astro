@@ -1,7 +1,7 @@
 ---
 title: "Happy Evacuation Day! When the British Sailed From New York at the End of the Revolutionary War"
 date: 2023-11-25T18:49:52
-slug: happy-evacuation-day-when-the-british-sailed-from-new-york-at-the-end-of-the-revolutionary-war
+slug: "happy-evacuation-day-when-the-british-sailed-from-new-york-at-the-end-of-the-revolutionary-war"
 excerpt: "Happy Evacuation Day! 240 years ago today, on November 25, 1783, the last shot of the American Revolution was fired by a gunner on a departing Royal Navy ship at jeering crowds gathered on the shore of Staten Island, at … Continue reading &rarr;"
 categories:
   - "History"

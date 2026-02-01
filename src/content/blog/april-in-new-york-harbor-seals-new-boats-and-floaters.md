@@ -1,13 +1,13 @@
 ---
 title: "April in New York Harbor – Seals, New Boats and Floaters?"
 date: 2010-04-23T19:27:07
-slug: april-in-new-york-harbor-seals-new-boats-and-floaters
+slug: "april-in-new-york-harbor-seals-new-boats-and-floaters"
 excerpt: "It is feeling like spring in New York harbor.   Earlier this month a harbor seal  was seem enjoying the sun on an old pier on the Jersey City side of the Hudson. Harbor seal were once common in New York harbor but were … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - ""floaters""
+  - "\"floaters\""
   - "Harbor seal"
   - "New York City Police and Fire Departments"
   - "new york harbor"

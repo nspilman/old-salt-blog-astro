@@ -1,7 +1,7 @@
 ---
 title: "Book Review: Alaric Bond’s HMS Prometheus — the Fine Line Between Valor and Recklessness"
 date: 2016-03-10T09:02:13
-slug: alaric-book-review-bonds-hms-prometheus-fine-line-valor-recklessness
+slug: "alaric-book-review-bonds-hms-prometheus-fine-line-valor-recklessness"
 excerpt: "Originally posted in gCaptain by Rick Spilman. Reposted with permission. In Alaric Bond‘s most recent novel, HMS Prometheus, the eighth of his Fighting Sail series, the Mediterranean is a dangerous place for the Royal Navy. In the autumn of 1803, the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

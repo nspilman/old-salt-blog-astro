@@ -1,7 +1,7 @@
 ---
 title: "Update: Golden Ray Salvage, Cutting Begins on Stern Section"
 date: 2020-12-27T15:07:38
-slug: update-golden-ray-salvage-cutting-begins-on-stern-section
+slug: "update-golden-ray-salvage-cutting-begins-on-stern-section"
 excerpt: "Salvors on the heavy-lift barge VB-10,000 have begun making the second cut through the hull of the stranded car carrier Golden Ray which rolled over in shallow water shortly after departing the Port of Brunswick, Georgia on St. Simons Sound … Continue reading &rarr;"
 categories:
   - "Current"

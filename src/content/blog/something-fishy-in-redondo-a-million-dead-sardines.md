@@ -1,7 +1,7 @@
 ---
 title: "Something Fishy in Redondo – A Million Dead Sardines"
 date: 2011-03-09T17:16:16
-slug: something-fishy-in-redondo-a-million-dead-sardines
+slug: "something-fishy-in-redondo-a-million-dead-sardines"
 excerpt: "What’s that smelt? (Sorry.) Actually it was a million dead sardines (or anchovies depending on the news reports)  that washed up dead in the King Harbor Marina in Redondo Beach California. ‘One million’ dead sardines clog Redondo Beach marina … Continue reading &rarr;"
 categories:
   - "Current"

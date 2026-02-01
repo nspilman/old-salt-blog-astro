@@ -1,7 +1,7 @@
 ---
 title: "Toy Ship  Adventure Sails On, Crosses the Atlantic"
 date: 2018-04-24T15:56:13
-slug: toy-ship-adventure-sails-on-crosses-the-atlantic
+slug: "toy-ship-adventure-sails-on-crosses-the-atlantic"
 excerpt: "The extremely small ship Adventure sails on. Last year we posted about the Playmobil toy pirate ship, named Adventure, launched by brothers Ollie and Harry Ferguson, 9 and 6 years old, respectively, from the port of Peterhead, Aberdeenshire, Scotland. After adding … Continue reading &rarr;"
 categories:
   - "Current"

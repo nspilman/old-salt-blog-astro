@@ -1,7 +1,7 @@
 ---
 title: "Remembering Charley Morgan — Legendary Sailor, Sailmaker, Yacht Builder, and Designer"
 date: 2023-01-13T16:49:06
-slug: remembering-charley-morgan-legendary-sailor-sailmaker-yacht-builder-and-designer
+slug: "remembering-charley-morgan-legendary-sailor-sailmaker-yacht-builder-and-designer"
 excerpt: "Charles Eugene Morgan Jr., 93, known to all as Charley, passed away last weekend, just a few hours after his wife Maurine died. It has been said that Charley Morgan is the only person to ever single-handedly design, build, and … Continue reading &rarr;"
 categories:
   - "Current"

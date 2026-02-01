@@ -1,7 +1,7 @@
 ---
 title: "Four Hundred Years of Sailing Ships at the South Street Seaport"
 date: 2015-07-05T12:18:02
-slug: four-hundred-years-of-sailing-ships-at-the-south-street-seaport
+slug: "four-hundred-years-of-sailing-ships-at-the-south-street-seaport"
 excerpt: "Last week provided a rare opportunity to glimpse over 400 years of sailing ship history in three ships, tied up almost side by side, at New York’s South Street Seaport. Berthed on the south side of Pier 15, El Galeon Andalucia is a replica of a … Continue reading &rarr;"
 categories:
   - "City of Ships"

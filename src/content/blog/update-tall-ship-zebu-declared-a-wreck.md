@@ -1,7 +1,7 @@
 ---
 title: "Update: Tall Ship Zebu Declared a Wreck"
 date: 2021-05-25T15:07:50
-slug: update-tall-ship-zebu-declared-a-wreck
+slug: "update-tall-ship-zebu-declared-a-wreck"
 excerpt: "Attempts to salvage the historic tall ship Zebu have failed. Last week, the 100′ long brigantine, built in Sweden in 1938, broke from its moorings and drifted onto the Holyhead New Harbour breakwater in Wales, where she became hard aground. … Continue reading &rarr;"
 categories:
   - "Current"

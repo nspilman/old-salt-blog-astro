@@ -1,8 +1,8 @@
 ---
 title: "No. 18 Kyotoku-maru – the Ghost Ship of Kesennuma"
 date: 2011-03-23T08:39:08
-slug: no-18-kyotoku-maru-the-ghost-ship-of-kesennuma
-excerpt: "“The newest landmark in the tsunami-stricken city of Kesennuma.” Ghost ship haunts tsunami-hit Japanese city The newest landmark in the tsunami-stricken city of Kesennuma is a massive fishing trawler that was swept up at sea and came to rest on … Continue reading &rarr;"
+slug: "no-18-kyotoku-maru-the-ghost-ship-of-kesennuma"
+excerpt: "\"The newest landmark in the tsunami-stricken city of Kesennuma.\" Ghost ship haunts tsunami-hit Japanese city The newest landmark in the tsunami-stricken city of Kesennuma is a massive fishing trawler that was swept up at sea and came to rest on … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "No. 18 Kyotoku-maru"
   - "tsunami"
 author: "Rick Spilman"
-description: "“The newest landmark in the tsunami-stricken city of Kesennuma.” Ghost ship haunts tsunami-hit Japanese city The newest landmark in the tsunami-stricken city of Kesennuma is a massive fishing trawler that was swept up at sea and came to rest on … Continue reading &rarr;"
+description: "\"The newest landmark in the tsunami-stricken city of Kesennuma.\" Ghost ship haunts tsunami-hit Japanese city The newest landmark in the tsunami-stricken city of Kesennuma is a massive fishing trawler that was swept up at sea and came to rest on … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/ghostship1.jpg)“The newest landmark in the tsunami-stricken city of Kesennuma.”

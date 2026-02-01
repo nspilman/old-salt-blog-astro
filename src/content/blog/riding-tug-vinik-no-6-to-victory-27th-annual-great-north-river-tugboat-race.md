@@ -1,7 +1,7 @@
 ---
 title: "Riding Tug Vinik No. 6 to Victory —  27th Annual Great North River Tugboat Race"
 date: 2019-09-07T09:34:56
-slug: riding-tug-vinik-no-6-to-victory-27th-annual-great-north-river-tugboat-race
+slug: "riding-tug-vinik-no-6-to-victory-27th-annual-great-north-river-tugboat-race"
 excerpt: "I was away for the 27th Annual Great North River Tugboat Race last weekend so I am grateful for this wonderful video from Youtube shot from the winning tug, Vinik No. 6, in an exciting race on a beautiful Sunday … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Strange Doings in the Strait — What We Know About the Maersk Tigris"
 date: 2015-04-29T11:39:39
-slug: strange-doings-in-the-strait-what-we-know-about-the-maersk-tigris
-excerpt: "Yesterday, we posted about the Maersk Tigris, a 5470-TEU container ship, which was detained by boats from the Iranian Revolutionary Guard. Here is what we know so far. 1. Is the Maersk Tigris a “U.S. cargo ship?” No. Initially, Saudi owned Al-Arabiya and several … Continue reading &rarr;"
+slug: "strange-doings-in-the-strait-what-we-know-about-the-maersk-tigris"
+excerpt: "Yesterday, we posted about the Maersk Tigris, a 5470-TEU container ship, which was detained by boats from the Iranian Revolutionary Guard. Here is what we know so far. 1. Is the Maersk Tigris a \"U.S. cargo ship?\" No. Initially, Saudi owned Al-Arabiya and several … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

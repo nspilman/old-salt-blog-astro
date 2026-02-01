@@ -1,7 +1,7 @@
 ---
 title: "The Deep – Academy Awards, Survival and the Selkie"
 date: 2013-02-23T09:40:08
-slug: the-deep-academy-awards-survival-and-the-selkie
+slug: "the-deep-academy-awards-survival-and-the-selkie"
 excerpt: "This year’s nominee from Iceland for best foreign film in the Academy Awards is The Deep (Djúpið) directed by Baltasar Kormákur.  The movie is based on a true story. In 1984, a fishing boat sank off the south coast of Iceland.  Four of the … Continue reading &rarr;"
 categories:
   - "Current"

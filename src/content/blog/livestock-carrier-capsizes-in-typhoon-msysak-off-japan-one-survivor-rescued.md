@@ -1,7 +1,7 @@
 ---
 title: "Livestock Carrier Capsizes Off Japan in Typhoon Msysak, One Survivor Rescued"
 date: 2020-09-03T09:34:30
-slug: livestock-carrier-capsizes-in-typhoon-msysak-off-japan-one-survivor-rescued
+slug: "livestock-carrier-capsizes-in-typhoon-msysak-off-japan-one-survivor-rescued"
 excerpt: "The Japanese Coast Guard reported receiving a single distress call from the Panamanian flagged livestock carrier, Gulf Livestock 1, with a crew of 43 aboard. The vessel’s last known position in the East China Sea was near Typhoon Maysak, a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

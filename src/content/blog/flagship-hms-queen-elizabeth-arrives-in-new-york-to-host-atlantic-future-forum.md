@@ -1,7 +1,7 @@
 ---
 title: "Flagship HMS Queen Elizabeth Arrives in New York to Host Atlantic Future Forum"
 date: 2022-09-26T17:40:32
-slug: flagship-hms-queen-elizabeth-arrives-in-new-york-to-host-atlantic-future-forum
+slug: "flagship-hms-queen-elizabeth-arrives-in-new-york-to-host-atlantic-future-forum"
 excerpt: "The Royal Navy aircraft carrier HMS Queen Elizabeth has arrived in New York harbor, dropping anchor within sight of the Statue of Liberty. The carrier is accompanied by her frigate escort, HMS Richmond, which sailed up the Hudson River for … Continue reading &rarr;"
 categories:
   - "Current"

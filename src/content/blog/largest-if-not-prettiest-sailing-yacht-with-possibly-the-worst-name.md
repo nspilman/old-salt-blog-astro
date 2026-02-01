@@ -1,7 +1,7 @@
 ---
 title: "Largest, if Not Prettiest, Sailing Yacht with Possibly the Worst Name"
 date: 2015-09-23T09:17:52
-slug: largest-if-not-prettiest-sailing-yacht-with-possibly-the-worst-name
+slug: "largest-if-not-prettiest-sailing-yacht-with-possibly-the-worst-name"
 excerpt: "In August we wrote about Dream Symphony, which, for a brief period, looked as if it would be the largest sailing sailing in the world at 463 feet (141m) long. Now a slightly larger sailing yacht at 147 meters has emerged … Continue reading &rarr;"
 categories:
   - "Current"

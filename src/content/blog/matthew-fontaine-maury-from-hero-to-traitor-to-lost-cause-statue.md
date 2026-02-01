@@ -1,7 +1,7 @@
 ---
-title: "Matthew Fontaine Maury — From Hero, to Traitor, to “Lost Cause” Statue"
+title: "Matthew Fontaine Maury — From Hero, to Traitor, to \"Lost Cause\" Statue"
 date: 2020-07-08T14:07:46
-slug: matthew-fontaine-maury-from-hero-to-traitor-to-lost-cause-statue
+slug: "matthew-fontaine-maury-from-hero-to-traitor-to-lost-cause-statue"
 excerpt: "Recently, four statues of Confederates were removed from city property in Richmond, Virginia. Three of the individuals represented by the statues were well know — Jefferson Davis, the president of the Confederacy, and the Confederate generals, Stonewall Jackson and J.E.B. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "How Shackleton’s Endurance Endured for 107 Years on the Bottom of the Weddell Sea"
 date: 2022-03-10T17:54:34
-slug: how-shackletons-endurance-endured-for-107-years-on-the-bottom-of-the-weddell-sea
+slug: "how-shackletons-endurance-endured-for-107-years-on-the-bottom-of-the-weddell-sea"
 excerpt: "The Endurance22 Expedition announced yesterday that they have discovered the wreck of Sir Ernest Shackleton‘s ship Endurance, which was crushed by pack ice off Antarctica in 1915.  The ship was in remarkably good condition. How is it that the ship is so … Continue reading &rarr;"
 categories:
   - "Current"

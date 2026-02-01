@@ -1,7 +1,7 @@
 ---
 title: "Aurora Australis Standing By As Snow Dragon May Now Be Stuck in Ice"
 date: 2014-01-03T18:23:22
-slug: aurora-australis-standing-by-as-snow-dragon-may-now-be-stuck-in-ice
+slug: "aurora-australis-standing-by-as-snow-dragon-may-now-be-stuck-in-ice"
 excerpt: "The Australian icebreaker Aurora Australis, currently carrying passengers rescued from a stricken Antarctic expedition cruise ship, has been told to stand by to assist the Chinese icebreaker, Snow Dragon, as necessary. The icebreaker Xue Long, or Snow Dragon, notified rescue authorities … Continue reading &rarr;"
 categories:
   - "Current"

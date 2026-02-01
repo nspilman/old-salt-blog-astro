@@ -1,7 +1,7 @@
 ---
 title: "A Satellite’s View of Ship Pollution"
 date: 2013-04-08T09:54:04
-slug: a-satellites-view-of-ship-pollution
+slug: "a-satellites-view-of-ship-pollution"
 excerpt: "Ships are the most energy efficient means of moving good across the surface of the earth.  Goods moved by ship have the lowest carbon foot-print of goods moved by any other means. At the same time, modern ships are significant … Continue reading &rarr;"
 categories:
   - "Current"

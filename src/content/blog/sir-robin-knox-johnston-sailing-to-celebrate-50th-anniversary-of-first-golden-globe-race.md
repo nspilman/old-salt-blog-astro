@@ -1,7 +1,7 @@
 ---
 title: "Sir Robin Knox-Johnston Sailing To Celebrate 50th Anniversary of First Golden Globe Race"
 date: 2019-04-18T16:09:29
-slug: sir-robin-knox-johnston-sailing-to-celebrate-50th-anniversary-of-first-golden-globe-race
+slug: "sir-robin-knox-johnston-sailing-to-celebrate-50th-anniversary-of-first-golden-globe-race"
 excerpt: "The News is reporting that Sir Robin Knox-Johnston is setting sail today from Portsmouth Harbour, heading to a celebratory tour of Falmouth, where he finished his record-setting voyage on April 22 in 1969, becoming the first person to sail non-stop … Continue reading &rarr;"
 categories:
   - "Current"

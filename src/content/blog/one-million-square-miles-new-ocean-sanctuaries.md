@@ -1,7 +1,7 @@
 ---
 title: "Over One Million Square Miles of New Ocean Sanctuaries"
 date: 2015-11-18T17:11:02
-slug: one-million-square-miles-new-ocean-sanctuaries
+slug: "one-million-square-miles-new-ocean-sanctuaries"
 excerpt: "It is easy to get caught up in the bad news. The oceans are filling with plastic. Coral reefs are dying due to ocean acidification caused by climate change.  Overfishing will wipe out all currently fished seafood by 2050. And … Continue reading &rarr;"
 categories:
   - "Current"

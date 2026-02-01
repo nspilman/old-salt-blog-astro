@@ -1,7 +1,7 @@
 ---
 title: "Dolphins and Birds Dying on the Coast of Peru – No Clear Answer Why"
 date: 2012-05-08T11:03:38
-slug: dolphins-and-birds-dying-on-the-coast-of-peru-no-clear-answer-why
+slug: "dolphins-and-birds-dying-on-the-coast-of-peru-no-clear-answer-why"
 excerpt: "Something is terribly wrong on the coast of Peru.  At least 877 dolphins and more than 1,500 birds, most of them brown pelicans and boobies, have died along the coast since February when the government started tracking the deaths. The government says that … Continue reading &rarr;"
 categories:
   - "Current"

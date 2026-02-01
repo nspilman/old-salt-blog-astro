@@ -1,7 +1,7 @@
 ---
 title: "Tall Ships Hit By Slumping Economy"
 date: 2010-06-02T08:34:02
-slug: tall-ships-hit-by-slumping-economy
+slug: "tall-ships-hit-by-slumping-economy"
 excerpt: "Not surprising news given the economy but disturbing nevertheless. Flagship might sail elsewhere: Highlander Sea’s future uncertain The tall ship Highlander Sea, a longtime symbol of Port Huron, is not expected to hit the waves this summer. What’s more, its time representing … Continue reading &rarr;"
 categories:
   - "Current"

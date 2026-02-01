@@ -1,8 +1,8 @@
 ---
 title: "Star-Crossed by Linda Collison, a Review"
 date: 2009-09-21T08:00:15
-slug: star-crossed-by-linda-collison-a-review
-excerpt: "I started reading nautical fiction, specifically C.S. Forester’s Hornblower series, as a teenager. The Hornblower novels, while meant for adults, were great “boy books,” full of adventure and action, with a hero with just enough self doubt and angst for … Continue reading &rarr;"
+slug: "star-crossed-by-linda-collison-a-review"
+excerpt: "I started reading nautical fiction, specifically C.S. Forester’s Hornblower series, as a teenager. The Hornblower novels, while meant for adults, were great \"boy books,\" full of adventure and action, with a hero with just enough self doubt and angst for … Continue reading &rarr;"
 categories:
   - "Reviews"
   - "Seastories"
@@ -10,7 +10,7 @@ tags:
   - "Linda Collison"
   - "Star-Crossed"
 author: "Rick Spilman"
-description: "I started reading nautical fiction, specifically C.S. Forester’s Hornblower series, as a teenager. The Hornblower novels, while meant for adults, were great “boy books,” full of adventure and action, with a hero with just enough self doubt and angst for … Continue reading &rarr;"
+description: "I started reading nautical fiction, specifically C.S. Forester’s Hornblower series, as a teenager. The Hornblower novels, while meant for adults, were great \"boy books,\" full of adventure and action, with a hero with just enough self doubt and angst for … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/books/starcrossed.jpg)](http://www.amazon.com/gp/product/0553494848/ref=as_li_ss_tl?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=0553494848)I started reading nautical fiction, specifically C.S. Forester’s Hornblower series, as a teenager. The Hornblower novels, while meant for adults, were great “boy books,” full of adventure and action, with a hero with just enough self doubt and angst for a teenager to relate to. The readers of most nautical fiction seem to be primarily boys and men, which is not surprising for a genre whose heroes and villains are overwhelming male. Is there room for female readers and indeed a female heroine in these crowded waters? And if so, what role could she and would she play? After reading Linda Collison’s novel, *[Star-Crossed](http://www.amazon.com/gp/product/0553494848/ref=as_li_ss_tl?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=0553494848)*, the answer to the first question is clearly yes.  

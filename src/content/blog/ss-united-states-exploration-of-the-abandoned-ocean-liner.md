@@ -1,7 +1,7 @@
 ---
 title: "SS United States – Exploration of the Abandoned Ocean Liner"
 date: 2023-01-17T13:12:34
-slug: ss-united-states-exploration-of-the-abandoned-ocean-liner
+slug: "ss-united-states-exploration-of-the-abandoned-ocean-liner"
 excerpt: "The SS United States is a ship from another era. One of the last great ocean liners, very different from modern cruise ships, she was designed to carry passengers across oceans.  On her maiden voyage in 1952, she set speed … Continue reading &rarr;"
 categories:
   - "Current"

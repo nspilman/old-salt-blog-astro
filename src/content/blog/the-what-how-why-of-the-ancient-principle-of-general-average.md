@@ -1,8 +1,8 @@
 ---
 title: "The What, How, & Why of the Ancient Principle of General Average"
 date: 2022-04-12T12:56:54
-slug: the-what-how-why-of-the-ancient-principle-of-general-average
-excerpt: "Following several attempts to free the Ever Forward, the ship’s owner declared General Average, citing “the increasing costs arising from the continued attempts to refloat the vessel.” What this means, in practice, is that the owners of the cargo now … Continue reading &rarr;"
+slug: "the-what-how-why-of-the-ancient-principle-of-general-average"
+excerpt: "Following several attempts to free the Ever Forward, the ship’s owner declared General Average, citing \"the increasing costs arising from the continued attempts to refloat the vessel.\" What this means, in practice, is that the owners of the cargo now … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "York Antwerp Rules"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/04/kyrena-ship.jpg"
 author: "Rick Spilman"
-description: "Following several attempts to free the Ever Forward, the ship’s owner declared General Average, citing “the increasing costs arising from the continued attempts to refloat the vessel.” What this means, in practice, is that the owners of the cargo now … Continue reading &rarr;"
+description: "Following several attempts to free the Ever Forward, the ship’s owner declared General Average, citing \"the increasing costs arising from the continued attempts to refloat the vessel.\" What this means, in practice, is that the owners of the cargo now … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/04/kyrena-ship.jpg)

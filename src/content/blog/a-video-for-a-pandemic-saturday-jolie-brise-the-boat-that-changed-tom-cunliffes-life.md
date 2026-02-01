@@ -1,7 +1,7 @@
 ---
 title: "A Video for a Pandemic Saturday : Jolie Brise – the Boat That Changed Tom Cunliffe’s Life"
 date: 2020-12-12T17:11:06
-slug: a-video-for-a-pandemic-saturday-jolie-brise-the-boat-that-changed-tom-cunliffes-life
+slug: "a-video-for-a-pandemic-saturday-jolie-brise-the-boat-that-changed-tom-cunliffes-life"
 excerpt: "This is a wonderful half-hour documentary hosted by Tom Cunliffe about Jolie Brise. Jolie Brise is a gaff-rigged pilot cutter/racing yacht built and launched by the Albert Paumelle Yard in Le Havre in 1913 to a design by Alexandre Pâris. … Continue reading &rarr;"
 categories:
   - "Current"

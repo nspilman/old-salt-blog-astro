@@ -1,7 +1,7 @@
 ---
 title: "Last Mission of the USS Olympia — Carrying the Unknown Soldier Home"
 date: 2017-05-29T09:18:21
-slug: last-mission-uss-olympia-carrying-unknown-soldier-home
+slug: "last-mission-uss-olympia-carrying-unknown-soldier-home"
 excerpt: "On Memorial Day, an updated repost from six years ago about the last mission of the USS Olympia in 1921, when she carried an American unknown soldier killed during World War I  from a cemetery in France back to the Washington to be in … Continue reading &rarr;"
 categories:
   - "History"

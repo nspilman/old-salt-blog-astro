@@ -1,7 +1,7 @@
 ---
 title: "Day of the Dolphin :  Part 2 — Dolphin Slaughter Begins in Japan’s Taiji Cove"
 date: 2014-01-21T12:23:23
-slug: day-of-the-dolphin-part-2-dolphin-slaughter-begins-in-japans-taiji-cove
+slug: "day-of-the-dolphin-part-2-dolphin-slaughter-begins-in-japans-taiji-cove"
 excerpt: "Despite domestic and international protest, the annual mass slaughter of bottlenose dolphins is underway in a cove near the Japanese village of  Taiji.  In 2010, The Cove, a documentary about the yearly slaughter, won the Academy Award last night for best feature … Continue reading &rarr;"
 categories:
   - "Current"

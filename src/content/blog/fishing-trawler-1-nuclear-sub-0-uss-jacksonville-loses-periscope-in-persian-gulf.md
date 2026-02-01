@@ -1,7 +1,7 @@
 ---
 title: "Fishing Trawler:1,  Nuclear Sub:0  –  USS Jacksonville Loses Periscope in Persian Gulf"
 date: 2013-01-11T13:06:17
-slug: fishing-trawler-1-nuclear-sub-0-uss-jacksonville-loses-periscope-in-persian-gulf
+slug: "fishing-trawler-1-nuclear-sub-0-uss-jacksonville-loses-periscope-in-persian-gulf"
 excerpt: "At around 5:00 AM local time, the officer on watch of the nuclear submarine, USS Jacksonville, cruising in the Persian Gulf heard a noise and felt the submarine shudder. When he went to look out the periscope to see what had happened, he noticed that the … Continue reading &rarr;"
 categories:
   - "Current"

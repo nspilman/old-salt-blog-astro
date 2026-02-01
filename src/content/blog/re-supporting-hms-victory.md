@@ -1,7 +1,7 @@
 ---
 title: "The Engineering to Re-Support HMS Victory"
 date: 2016-05-18T08:00:52
-slug: re-supporting-hms-victory
+slug: "re-supporting-hms-victory"
 excerpt: "Last week we made a post with the headline, HMS Victory ‘Collapsing’ Under Her Own Weight.  The headline was alarmist at best.  (We borrowed it from the BBC, but that is no excuse.)  The historic ship will, of course, not be … Continue reading &rarr;"
 categories:
   - "Current"

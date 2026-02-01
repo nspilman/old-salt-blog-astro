@@ -1,7 +1,7 @@
 ---
 title: "Second Leg of the Velux Five Oceans Race Underway"
 date: 2010-12-16T15:47:52
-slug: second-leg-of-the-velux-five-oceans-race-underway
+slug: "second-leg-of-the-velux-five-oceans-race-underway"
 excerpt: "The second leg of the Velux Five Oceans singlehanded around the world race began today with the five  competitors  setting  sail from Cape Town, South Africa bound for Wellington, NZ, a 7,000 mile voyage across the wild Southern Ocean.  Brad Van Liew, … Continue reading &rarr;"
 categories:
   - "Current"

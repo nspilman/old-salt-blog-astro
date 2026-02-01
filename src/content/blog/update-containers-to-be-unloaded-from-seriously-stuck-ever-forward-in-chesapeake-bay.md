@@ -1,7 +1,7 @@
 ---
 title: "Update: Containers to be Unloaded From Seriously Stuck Ever Forward in Chesapeake Bay"
 date: 2022-04-05T18:12:27
-slug: update-containers-to-be-unloaded-from-seriously-stuck-ever-forward-in-chesapeake-bay
+slug: "update-containers-to-be-unloaded-from-seriously-stuck-ever-forward-in-chesapeake-bay"
 excerpt: "On March 13th, the container ship Ever Forward missed a turn in the Craighill Channel in the Chesapeake Bay, not long after leaving the Port of Baltimore, and ran up on a mudbank just outside the channel while traveling at … Continue reading &rarr;"
 categories:
   - "Current"

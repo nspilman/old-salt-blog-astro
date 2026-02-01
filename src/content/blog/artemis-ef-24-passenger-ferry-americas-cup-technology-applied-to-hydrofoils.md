@@ -1,7 +1,7 @@
 ---
 title: "Artemis EF-24 Passenger Ferry — America’s Cup Technology Applied to Hydrofoils"
 date: 2022-10-18T17:09:44
-slug: artemis-ef-24-passenger-ferry-americas-cup-technology-applied-to-hydrofoils
+slug: "artemis-ef-24-passenger-ferry-americas-cup-technology-applied-to-hydrofoils"
 excerpt: "Artemis Technologies, an applied technologies spin-off from the Artemis Racing America’s Cup team, has announced its latest design, the EF-24 passenger ferry. The ferry is a 100% electric hydrofoil vessel with a capacity for 150 passengers and an operating range … Continue reading &rarr;"
 categories:
   - "Current"

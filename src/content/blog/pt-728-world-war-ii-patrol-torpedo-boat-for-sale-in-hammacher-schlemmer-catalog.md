@@ -1,8 +1,8 @@
 ---
 title: "PT 728, World War II Patrol Torpedo Boat, for Sale in Hammacher Schlemmer Catalog"
 date: 2012-04-01T14:42:47
-slug: pt-728-world-war-ii-patrol-torpedo-boat-for-sale-in-hammacher-schlemmer-catalog
-excerpt: "Hammacher Schlemmer’s catalog is subtitled: “Offering the Best, the Only and the Unexpected for 164 years.” One item for sale certainly qualifies as “unique.”  They currently list for sale the World War II PT-728, the only PT boat in existence licensed … Continue reading &rarr;"
+slug: "pt-728-world-war-ii-patrol-torpedo-boat-for-sale-in-hammacher-schlemmer-catalog"
+excerpt: "Hammacher Schlemmer’s catalog is subtitled: \"Offering the Best, the Only and the Unexpected for 164 years.\" One item for sale certainly qualifies as \"unique.\"  They currently list for sale the World War II PT-728, the only PT boat in existence licensed … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "PT-728"
   - "world war II"
 author: "Rick Spilman"
-description: "Hammacher Schlemmer’s catalog is subtitled: “Offering the Best, the Only and the Unexpected for 164 years.” One item for sale certainly qualifies as “unique.”  They currently list for sale the World War II PT-728, the only PT boat in existence licensed … Continue reading &rarr;"
+description: "Hammacher Schlemmer’s catalog is subtitled: \"Offering the Best, the Only and the Unexpected for 164 years.\" One item for sale certainly qualifies as \"unique.\"  They currently list for sale the World War II PT-728, the only PT boat in existence licensed … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/ptboat1.jpg)Hammacher Schlemmer’](http://www.hammacher.com/)s catalog is subtitled: “*Offering the Best, the Only and the Unexpected for 164 years*.” One item for sale certainly qualifies as “unique.”  They currently list for sale the World War II [PT-728](http://www.pt728.com/), the only PT boat in existence licensed by the U.S. Coast Guard for carrying passengers.  They are asking $1,000,000 for the refurbished boat.

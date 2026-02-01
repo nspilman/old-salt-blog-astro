@@ -1,7 +1,7 @@
 ---
 title: "Titanic II – Part 1 : Downton Abbey on the North Atlantic, Cruising as Performance Art"
 date: 2013-02-27T17:10:55
-slug: titanic-ii-part-1-downton-abbey-in-the-north-atlantic-cruising-as-performance-art
+slug: "titanic-ii-part-1-downton-abbey-in-the-north-atlantic-cruising-as-performance-art"
 excerpt: "How should we think about the RMS Titanic? Was the ship, which sank with a loss of over 1,500, a major maritime tragedy? Or was it just the backdrop for a historical drama about wealth and class conflict – a sort of Downton Abbey on the North Atlantic? … Continue reading &rarr;"
 categories:
   - "Current"

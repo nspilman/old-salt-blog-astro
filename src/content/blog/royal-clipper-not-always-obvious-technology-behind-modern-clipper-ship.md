@@ -1,7 +1,7 @@
 ---
 title: "Royal Clipper — the Not Always Obvious Technology Behind a Modern Clipper Ship"
 date: 2018-01-12T15:51:43
-slug: royal-clipper-not-always-obvious-technology-behind-modern-clipper-ship
+slug: "royal-clipper-not-always-obvious-technology-behind-modern-clipper-ship"
 excerpt: "Here is a look at a modern sailing ship, Star Clipper’s Royal Clipper, a high-tech square-rigger whose technology is not always obvious.  Click here for a photo tour of the Royal Clipper recently featured in USA Today. We recently posted about … Continue reading &rarr;"
 categories:
   - "Current"

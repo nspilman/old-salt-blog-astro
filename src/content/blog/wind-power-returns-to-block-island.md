@@ -1,7 +1,7 @@
 ---
 title: "Wind Power Returns to Block Island"
 date: 2015-11-05T21:54:12
-slug: wind-power-returns-to-block-island
+slug: "wind-power-returns-to-block-island"
 excerpt: "Off the coast of Europe, offshore wind turbines with an installed capacity of over 6,600 MW generate enough electricity to power almost five million households. In the United States, the number of households powered by offshore wind is almost zero, though, with luck that, is … Continue reading &rarr;"
 categories:
   - "Current"

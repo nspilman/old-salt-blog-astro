@@ -1,7 +1,7 @@
 ---
 title: "The Cooperage at the Mystic Seaport Museum"
 date: 2018-03-03T22:46:47
-slug: cooperage-mystic-seaport-museum
+slug: "cooperage-mystic-seaport-museum"
 excerpt: "The first time I visited Mystic Seaport Museum, in addition to spending time on the historic ships, I recall spending quite a while talking to the docent in the village cooperage. The production of barrels, for the storage of oil on whalers, as well … Continue reading &rarr;"
 categories:
   - "History"

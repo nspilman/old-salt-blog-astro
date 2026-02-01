@@ -1,7 +1,7 @@
 ---
 title: "Raising the Anchor from Blackbeard’s Queen Anne’s Revenge"
 date: 2011-06-04T07:44:31
-slug: raising-the-anchor-from-blackbeards-queen-annes-revenge
+slug: "raising-the-anchor-from-blackbeards-queen-annes-revenge"
 excerpt: "Until I saw the video I didn’t grasp just how large this anchor is.  It is believed to be from the pirate Blackbeard‘s flagship, the Queen Anne’s Revenge, which ran aground in 1718 while trying to enter Old Topsail Inlet in North Carolina, now known … Continue reading &rarr;"
 categories:
   - "Current"

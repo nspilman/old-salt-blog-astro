@@ -1,7 +1,7 @@
 ---
 title: "Modern-day Mary Celeste – the Mystery of Tanker Galuh Pusaka in the South China Sea"
 date: 2014-07-02T08:27:22
-slug: modern-day-mary-celeste-mystery-of-tanker-galuh-pusaka-south-china-sea
+slug: "modern-day-mary-celeste-mystery-of-tanker-galuh-pusaka-south-china-sea"
 excerpt: "The owners of the product tanker Arsenal  lost contact with the ship while she was underway in the South China Sea near the Anambas Archipelago, Indonesia. Fearing that the ship might have been hijacked by pirates, they contacted the Indonesian … Continue reading &rarr;"
 categories:
   - "Current"

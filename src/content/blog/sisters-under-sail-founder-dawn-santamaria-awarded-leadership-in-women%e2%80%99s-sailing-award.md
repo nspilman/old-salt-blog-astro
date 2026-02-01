@@ -1,7 +1,7 @@
 ---
 title: "Sisters Under Sail Founder, Dawn Santamaria, awarded Leadership in Women’s Sailing Award"
 date: 2011-06-08T21:16:13
-slug: sisters-under-sail-founder-dawn-santamaria-awarded-leadership-in-women%e2%80%99s-sailing-award
+slug: "sisters-under-sail-founder-dawn-santamaria-awarded-leadership-in-women%e2%80%99s-sailing-award"
 excerpt: "On a hazy summer’s morning I happened to see the topsail schooner Unicorn leave the gas dock at Liberty Landing marina on the Hudson River.   The Unicorn is a particularly lovely topsail schooner converted from a  North Sea fishing … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

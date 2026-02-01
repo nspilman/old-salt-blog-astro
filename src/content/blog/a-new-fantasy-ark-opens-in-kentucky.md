@@ -1,8 +1,8 @@
 ---
-title: "A New Fantasy “Ark” Opens in Kentucky"
+title: "A New Fantasy \"Ark\" Opens in Kentucky"
 date: 2016-07-07T08:46:11
-slug: a-new-fantasy-ark-opens-in-kentucky
-excerpt: "The latest and greatest ark fantasy exhibit is opening in northern Kentucky. The new “Ark Encounter” bills itself as “one-of-a-kind, historically themed attraction. In an entertaining, educational, and immersive way, it presents a number of historical events centered on Noah’s Ark … Continue reading &rarr;"
+slug: "a-new-fantasy-ark-opens-in-kentucky"
+excerpt: "The latest and greatest ark fantasy exhibit is opening in northern Kentucky. The new \"Ark Encounter\" bills itself as \"one-of-a-kind, historically themed attraction. In an entertaining, educational, and immersive way, it presents a number of historical events centered on Noah’s Ark … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Kentucky"
   - "young earth creationists"
 author: "Rick Spilman"
-description: "The latest and greatest ark fantasy exhibit is opening in northern Kentucky. The new “Ark Encounter” bills itself as “one-of-a-kind, historically themed attraction. In an entertaining, educational, and immersive way, it presents a number of historical events centered on Noah’s Ark … Continue reading &rarr;"
+description: "The latest and greatest ark fantasy exhibit is opening in northern Kentucky. The new \"Ark Encounter\" bills itself as \"one-of-a-kind, historically themed attraction. In an entertaining, educational, and immersive way, it presents a number of historical events centered on Noah’s Ark … Continue reading &rarr;"
 ---
 
 ![hamark](http://www.oldsaltblog.com/wp-content/uploads/2016/07/hamark.jpg)

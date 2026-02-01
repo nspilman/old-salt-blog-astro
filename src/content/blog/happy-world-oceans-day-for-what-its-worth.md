@@ -1,8 +1,8 @@
 ---
 title: "Happy World Oceans Day, For What It’s Worth"
 date: 2015-06-08T15:51:22
-slug: happy-world-oceans-day-for-what-its-worth
-excerpt: "Happy World Oceans Day. June 8th has been celebrated, unofficially, as World Oceans Day since 1992, and has been officially recognized by the United Nations since 2008. This year the theme is “Healthy Oceans. Healthy Planet.” What does World Ocean Day mean, … Continue reading &rarr;"
+slug: "happy-world-oceans-day-for-what-its-worth"
+excerpt: "Happy World Oceans Day. June 8th has been celebrated, unofficially, as World Oceans Day since 1992, and has been officially recognized by the United Nations since 2008. This year the theme is \"Healthy Oceans. Healthy Planet.\" What does World Ocean Day mean, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

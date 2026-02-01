@@ -1,7 +1,7 @@
 ---
 title: "Two Constants – Bligh Reef and Human Error"
 date: 2011-05-13T16:00:24
-slug: two-constants-bligh-reef-and-human-error
+slug: "two-constants-bligh-reef-and-human-error"
 excerpt: "On March 24, 1989 the third mate on the Exxon Valdez lost track of the ship’s position and  ran the ship into  Bligh Reef in Prince William Sound, Alaska, resulting in a spill of roughly 40,000 tons of crude oil, the largest offshore spill in … Continue reading &rarr;"
 categories:
   - "Current"

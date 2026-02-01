@@ -1,7 +1,7 @@
 ---
 title: "HMB Endeavour Transit of Venus 2012"
 date: 2012-01-18T08:47:30
-slug: hmb-endeavour-transit-of-venus-2012
+slug: "hmb-endeavour-transit-of-venus-2012"
 excerpt: "HMB Endeavour is embarking on a special cruise to observe the transit of Venus – a very rare astronomical event when the planet Venus moves across the sun on June 6th 2012.  The next transit of Venus will take place on … Continue reading &rarr;"
 categories:
   - "Current"

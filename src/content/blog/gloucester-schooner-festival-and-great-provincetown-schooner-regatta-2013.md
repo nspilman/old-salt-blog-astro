@@ -1,7 +1,7 @@
 ---
 title: "Gloucester Schooner Festival and Great Provincetown Schooner Regatta 2013"
 date: 2013-09-03T12:28:23
-slug: gloucester-schooner-festival-and-great-provincetown-schooner-regatta-2013
+slug: "gloucester-schooner-festival-and-great-provincetown-schooner-regatta-2013"
 excerpt: "Another year and I still did not manage to get up to Gloucester for the Schooner Festival and Race. Oh well. Maybe next year I’ll drag my catboat up for the catboat races.  Congratulations to all the captains and crews … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

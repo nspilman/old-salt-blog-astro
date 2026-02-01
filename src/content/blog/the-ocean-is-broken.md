@@ -1,7 +1,7 @@
 ---
 title: "The Ocean is Broken"
 date: 2013-11-10T17:38:21
-slug: the-ocean-is-broken
+slug: "the-ocean-is-broken"
 excerpt: "Roughly two hundred years ago, Lord Byron published Childe Harold’s Pilgrimage, which contains a stanza that today seems sadly dated: Roll on, thou deep and dark blue Ocean–roll! Ten thousand fleets sweep over thee in vain; Man marks the earth … Continue reading &rarr;"
 categories:
   - "Current"

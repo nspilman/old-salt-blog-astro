@@ -1,7 +1,7 @@
 ---
 title: "How Damaging is a Condensate Spill?  With Sanchi Sinking, We May Find Out"
 date: 2018-01-16T18:41:55
-slug: damaging-condensate-spill-sanchi-sinking-find
+slug: "damaging-condensate-spill-sanchi-sinking-find"
 excerpt: "On January 6th, the Iranian tanker Sanchi carrying 130,000 tonnes of condensate collided with the Chinese bulk carrier CF Crystal. The condensate on the Sanchi caught fire, resulting in the death of all 32 of the tanker’s crew. The tanker … Continue reading &rarr;"
 categories:
   - "Current"

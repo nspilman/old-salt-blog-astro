@@ -1,13 +1,13 @@
 ---
-title: "Flight 1549, NY Harbor Ferries, & the Two “Miracles on the Hudson”"
+title: "Flight 1549, NY Harbor Ferries, & the Two \"Miracles on the Hudson\""
 date: 2023-01-15T10:55:13
-slug: flight-1549-ny-harbor-ferries-the-two-miracles-on-the-hudson-3
+slug: "flight-1549-ny-harbor-ferries-the-two-miracles-on-the-hudson-3"
 excerpt: "An updated repost — a look back at the twin miracles on the Hudson from fourteen years ago today. On January 15, 2009, US Airways Flight 1549 made an emergency water landing in the Hudson River. If the plane’s pilots, … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
 tags:
-  - "Captain Chesley "Sulley" Sullenberger"
+  - "Captain Chesley \"Sulley\" Sullenberger"
   - "Flight 1549"
   - "hudson river"
   - "Miracle on the Hudson"

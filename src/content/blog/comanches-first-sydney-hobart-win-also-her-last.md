@@ -1,7 +1,7 @@
 ---
 title: "Comanche’s First Sydney-Hobart Win Also Her Last?"
 date: 2015-12-28T17:36:50
-slug: comanches-first-sydney-hobart-win-also-her-last
+slug: "comanches-first-sydney-hobart-win-also-her-last"
 excerpt: "Despite having a damaged rudder, the American super-maxi Comanche was first across the finish line in this year’s Rolex Sydney-Hobart Race, leading the next closest boat, Rambler by roughly 50 miles. This is the first time since 1998 that an … Continue reading &rarr;"
 categories:
   - "Current"

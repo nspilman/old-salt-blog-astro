@@ -1,7 +1,7 @@
 ---
 title: "Frantic Search For Missing Indonesian Submarine KRI Nanggala-402"
 date: 2021-04-23T08:50:07
-slug: frantic-search-for-missing-indonesian-submarine-kri-nanggala-402
+slug: "frantic-search-for-missing-indonesian-submarine-kri-nanggala-402"
 excerpt: "The Indonesian submarine KRI Nanggala 402, with a crew of 53, disappeared on Wednesday during exercises off the coast of Bali, sparking a frantic search to locate the stricken vessel. Australia, India, Malaysia, Singapore, and the United States have sent … Continue reading &rarr;"
 categories:
   - "Current"

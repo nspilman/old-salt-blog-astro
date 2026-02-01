@@ -1,7 +1,7 @@
 ---
 title: "Shipbuilding: China Overtakes Korea; Avondale to Shutdown"
 date: 2010-07-25T09:07:31
-slug: shipbuilding-china-overtakes-korea-avondale-to-shutdown
+slug: "shipbuilding-china-overtakes-korea-avondale-to-shutdown"
 excerpt: "For the first time since 2003, Korean shipyards have lost their position as the  world’s number one shipbuilder to China. China overtakes Korea in shipbuilding deliveries According to Clarkson Research Services Ltd., a London-based market research firm, Korean shipbuilding companies … Continue reading &rarr;"
 categories:
   - "Current"

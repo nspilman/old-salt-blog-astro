@@ -1,7 +1,7 @@
 ---
 title: "What Did the Navy Pilots See? UFOs, UAPs, or Drones?"
 date: 2022-05-27T14:54:43
-slug: what-did-the-navy-pilots-see-ufos-uaps-or-drones
+slug: "what-did-the-navy-pilots-see-ufos-uaps-or-drones"
 excerpt: "The first Congressional hearing addressing UFOs (Unidentified Flying Objects) in more than fifty years, yielded very few answers. The main takeaway from the hearings was that, while most sightings could be identified, a number of events have defied all attempts … Continue reading &rarr;"
 categories:
   - "Current"

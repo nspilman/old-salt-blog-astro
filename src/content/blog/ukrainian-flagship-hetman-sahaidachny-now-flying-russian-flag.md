@@ -1,7 +1,7 @@
 ---
 title: "Update: Ukrainian Flagship Hetman Sahaidachny Sighted Off Crete, Defection Reports Denied"
 date: 2014-03-02T10:47:03
-slug: ukrainian-flagship-hetman-sahaidachny-now-flying-russian-flag
+slug: "ukrainian-flagship-hetman-sahaidachny-now-flying-russian-flag"
 excerpt: "Update:  Reports of the defection of the frigate Hetman Sahaidachny are being denied by the Ukrainian military.  The ship is reported to have be sighted in port in Crete still flying the Ukrainian flag. There are reports that the Ukraine’s Navy flagship, the frigate … Continue reading &rarr;"
 categories:
   - "Current"

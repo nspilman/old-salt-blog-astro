@@ -1,8 +1,8 @@
 ---
 title: "Update: Golden Ray Salvors Consider Using Explosives to Cut Steel"
 date: 2021-06-30T12:36:10
-slug: update-golden-ray-salvors-consider-using-explosives-to-cut-steel
-excerpt: "The salvors attempting to cut up the shipwreck of the car-carrier Golden Ray have run into new problems. For the last seven months, the salvors have attempted to cut the ship up using a heavy-lift catamaran VB-10,000, nicknamed the “Golden … Continue reading &rarr;"
+slug: "update-golden-ray-salvors-consider-using-explosives-to-cut-steel"
+excerpt: "The salvors attempting to cut up the shipwreck of the car-carrier Golden Ray have run into new problems. For the last seven months, the salvors have attempted to cut the ship up using a heavy-lift catamaran VB-10,000, nicknamed the \"Golden … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -16,7 +16,7 @@ tags:
   - "VB-10000"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/goldenraycutting.jpg"
 author: "Rick Spilman"
-description: "The salvors attempting to cut up the shipwreck of the car-carrier Golden Ray have run into new problems. For the last seven months, the salvors have attempted to cut the ship up using a heavy-lift catamaran VB-10,000, nicknamed the “Golden … Continue reading &rarr;"
+description: "The salvors attempting to cut up the shipwreck of the car-carrier Golden Ray have run into new problems. For the last seven months, the salvors have attempted to cut the ship up using a heavy-lift catamaran VB-10,000, nicknamed the \"Golden … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/goldenraycutting.jpg)The salvors attempting to cut up the shipwreck of the car-carrier [*Golden Ray*](https://en.wikipedia.org/wiki/MV_Golden_Ray) have run into new problems. For the last seven months, the salvors have attempted to cut the ship up using a heavy-lift catamaran [VB-10,000, nicknamed the “*Golden Arches.”*](http://www.vbar.com/vb10000/index.html)  To make the cuts, the VB-10,000 hauls a heavy chain up through the steel hull. After delays related to equipment failures and most recently [a significant fire](http://www.oldsaltblog.com/2021/05/update-golden-ray-salvage-delayed-by-fire/), progress has again come to a near standstill as the chains have encountered thick structural brackets inside the hull.  

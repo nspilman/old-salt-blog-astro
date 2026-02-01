@@ -1,7 +1,7 @@
 ---
 title: "Update: Removing the MV Miner from Nova Scotia’s Scatarie Island"
 date: 2012-06-01T11:19:48
-slug: update-removing-the-mv-miner-from-nova-scotias-scatarie-island
+slug: "update-removing-the-mv-miner-from-nova-scotias-scatarie-island"
 excerpt: "Last October, we posted about the MV Miner, ex Canadian Miner, a Great Lakes bulk carrier whose tow rope snapped on the way to the scrap yard. The ship drifted onto Scatarie Island, off the coast of Cape Breton in Nova … Continue reading &rarr;"
 categories:
   - "Current"

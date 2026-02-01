@@ -1,7 +1,7 @@
 ---
 title: "Close Encounters of the Humpback Kind — Gulping & Spitting Out Swimmers, Surfers, & Kayakers"
 date: 2025-02-17T21:23:32
-slug: close-encounters-of-the-humpback-kind-gulping-spitting-out-swimmers-surfers-kayakers
+slug: "close-encounters-of-the-humpback-kind-gulping-spitting-out-swimmers-surfers-kayakers"
 excerpt: "A video of a humpback whale gulping up and spitting out a kayaker has gone viral over the last week.  Adrián Simancas was kayaking with his father, Dell Simancas, in the Strait of Magellan, off Chile’s southernmost Patagonia region, when … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Raye Montague, Barrier-Shattering Navy Ship Designer, Dies at 83"
 date: 2018-10-19T07:12:29
-slug: raye-montague-navy-barrier-shattering-ship-designer-dies-at-83
+slug: "raye-montague-navy-barrier-shattering-ship-designer-dies-at-83"
 excerpt: "Barrier-shattering naval engineer Raye Montague has died at the age of 83. At the age of 7, she was inspired to become an engineer after she toured a captured German submarine with her grandmother during World War II.  As an African-American … Continue reading &rarr;"
 categories:
   - "Current"

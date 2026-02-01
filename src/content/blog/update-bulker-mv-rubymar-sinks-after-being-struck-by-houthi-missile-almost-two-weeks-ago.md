@@ -1,7 +1,7 @@
 ---
 title: "Update: Bulker MV Rubymar Sinks After Being Struck by Houthi Missile Almost Two Weeks Ago"
 date: 2024-03-02T18:04:59
-slug: update-bulker-mv-rubymar-sinks-after-being-struck-by-houthi-missile-almost-two-weeks-ago
+slug: "update-bulker-mv-rubymar-sinks-after-being-struck-by-houthi-missile-almost-two-weeks-ago"
 excerpt: "On Sunday, February 18th, anti-ship ballistic missiles, launched by Houthi rebels from Yemen, struck the MV Rubymar, a  32,211 DWT, Belize-flagged, UK-owned, and Lebanese-operated bulk carrier in the Gulf of Aden near the Bab al-Mandab Strait. The attack caused sufficient … Continue reading &rarr;"
 categories:
   - "Current"

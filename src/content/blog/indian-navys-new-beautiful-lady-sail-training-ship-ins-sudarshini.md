@@ -1,8 +1,8 @@
 ---
-title: "Indian Navy’s New “Beautiful Lady” – Sail Training Ship INS Sudarshini"
+title: "Indian Navy’s New \"Beautiful Lady\" – Sail Training Ship INS Sudarshini"
 date: 2011-01-28T18:21:51
-slug: indian-navys-new-beautiful-lady-sail-training-ship-ins-sudarshini
-excerpt: "The Indian Navy has launched its second sail training ship, INS Sudarshini. The name means “beautiful lady.”   She will be a three masted barquentine and will join  INS Tarangini, the Indian navy’s other sail training ship which was commissioned in 1997.  Both ships … Continue reading &rarr;"
+slug: "indian-navys-new-beautiful-lady-sail-training-ship-ins-sudarshini"
+excerpt: "The Indian Navy has launched its second sail training ship, INS Sudarshini. The name means \"beautiful lady.\"   She will be a three masted barquentine and will join  INS Tarangini, the Indian navy’s other sail training ship which was commissioned in 1997.  Both ships … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "INS Tarangini"
   - "sail training ship"
 author: "Rick Spilman"
-description: "The Indian Navy has launched its second sail training ship, INS Sudarshini. The name means “beautiful lady.”   She will be a three masted barquentine and will join  INS Tarangini, the Indian navy’s other sail training ship which was commissioned in 1997.  Both ships … Continue reading &rarr;"
+description: "The Indian Navy has launched its second sail training ship, INS Sudarshini. The name means \"beautiful lady.\"   She will be a three masted barquentine and will join  INS Tarangini, the Indian navy’s other sail training ship which was commissioned in 1997.  Both ships … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/christening.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "French Cuts Two Submarines in Half to Create One Functioning Sub"
 date: 2021-04-16T09:07:39
-slug: french-cuts-two-submarines-in-half-to-create-one-functioning-sub
+slug: "french-cuts-two-submarines-in-half-to-create-one-functioning-sub"
 excerpt: "In June 2020, an intense fire broke out in the bow of the French nuclear attack submarine Perle, while the ship was in drydock in Toulon in southern France. The submarine’s 48-megawatt  nuclear reactor that had been removed when it … Continue reading &rarr;"
 categories:
   - "Current"

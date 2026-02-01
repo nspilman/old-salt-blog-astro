@@ -1,7 +1,7 @@
 ---
 title: "Gods Mortals and Protectors — Figureheads at Mystic Seaport"
 date: 2014-05-30T10:35:10
-slug: gods-mortals-and-protectors-figureheads-at-mystic-seaport
+slug: "gods-mortals-and-protectors-figureheads-at-mystic-seaport"
 excerpt: "There is a magic to ship’s figureheads.  In Conrad’s Mirror of the Sea who wrote about the ships and figureheads that he saw on London’s docks:   It was a noble gathering of the fairest and the swiftest, each bearing … Continue reading &rarr;"
 categories:
   - "History"

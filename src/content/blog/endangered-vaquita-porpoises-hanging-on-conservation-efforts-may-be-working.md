@@ -1,7 +1,7 @@
 ---
 title: "Endangered Vaquita Porpoises Hanging on, Conservation Efforts May be Working"
 date: 2023-06-10T17:55:29
-slug: endangered-vaquita-porpoises-hanging-on-conservation-efforts-may-be-working
+slug: "endangered-vaquita-porpoises-hanging-on-conservation-efforts-may-be-working"
 excerpt: "Great News. The vaquita porpoise, the world’s rarest marine mammal, swimming right on the edge of extinction, appears to be hanging on. Conservation measures in Mexico to save the endangered porpoise may be working.     The New York Times reports … Continue reading &rarr;"
 categories:
   - "Current"

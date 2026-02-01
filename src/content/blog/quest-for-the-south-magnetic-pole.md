@@ -1,7 +1,7 @@
 ---
 title: "Quest for the South Magnetic Pole"
 date: 2010-06-30T09:21:14
-slug: quest-for-the-south-magnetic-pole
+slug: "quest-for-the-south-magnetic-pole"
 excerpt: "We recently posted about the centennial of Robert Falcon Scott‘s departure on his ill-fated expedition to reach the South Pole.   Now the Australian National Maritime Museum will host a new exhibit, the Quest for the South Magnetic Pole.    The quest to … Continue reading &rarr;"
 categories:
   - "Current"

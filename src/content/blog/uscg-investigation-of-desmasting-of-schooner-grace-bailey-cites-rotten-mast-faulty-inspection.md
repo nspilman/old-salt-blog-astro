@@ -1,7 +1,7 @@
 ---
 title: "USCG Investigation of Desmasting of Schooner Grace Bailey Cites Rotten Mast & Faulty Inspection"
 date: 2025-08-04T16:06:55
-slug: uscg-investigation-of-desmasting-of-schooner-grace-bailey-cites-rotten-mast-faulty-inspection
+slug: "uscg-investigation-of-desmasting-of-schooner-grace-bailey-cites-rotten-mast-faulty-inspection"
 excerpt: "On Monday, October 9, 2023, the schooner Grace Bailey was returning to Rockland, ME, from a four-day Fall Foliage cruise, when an upper section of the main mast broke and fell to the deck, killing one passenger and injuring five … Continue reading &rarr;"
 categories:
   - "Current"

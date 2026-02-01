@@ -1,8 +1,8 @@
 ---
 title: "Unexpected Whale Watching in New York Harbor"
 date: 2009-09-26T16:14:41
-slug: unexpected-whale-watching-in-new-york-harbor
-excerpt: "This morning while sailing on the schooner Pioneer in Upper New York Harbor, we were all surprised when the captain shouted “whale”.    There, close aboard to starboard, the back and dorsal fin of a whale rose and then disappeared beneath the surface of the harbor. The … Continue reading &rarr;"
+slug: "unexpected-whale-watching-in-new-york-harbor"
+excerpt: "This morning while sailing on the schooner Pioneer in Upper New York Harbor, we were all surprised when the captain shouted \"whale\".    There, close aboard to starboard, the back and dorsal fin of a whale rose and then disappeared beneath the surface of the harbor. The … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "schooner Pioneer"
   - "whale"
 author: "Rick Spilman"
-description: "This morning while sailing on the schooner Pioneer in Upper New York Harbor, we were all surprised when the captain shouted “whale”.    There, close aboard to starboard, the back and dorsal fin of a whale rose and then disappeared beneath the surface of the harbor. The … Continue reading &rarr;"
+description: "This morning while sailing on the schooner Pioneer in Upper New York Harbor, we were all surprised when the captain shouted \"whale\".    There, close aboard to starboard, the back and dorsal fin of a whale rose and then disappeared beneath the surface of the harbor. The … Continue reading &rarr;"
 ---
 
 ![humpbackwhale1](http://www.oldsaltblog.com/wp-content/uploads/2009/09/humpbackwhale1.jpg)

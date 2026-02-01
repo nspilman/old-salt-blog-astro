@@ -1,7 +1,7 @@
 ---
-title: "US and China Navy Have “Unsafe” Encounter In South China Sea"
+title: "US and China Navy Have \"Unsafe\" Encounter In South China Sea"
 date: 2018-10-03T09:20:05
-slug: us-and-china-navy-have-unsafe-encounter-in-south-china-sea
+slug: "us-and-china-navy-have-unsafe-encounter-in-south-china-sea"
 excerpt: "A Chinese destroyer came perilously close to the US destroyer Decatur as it sailed 12 nautical miles off Gaven and Johnson reefs in the Spratly Islands.  The Chinese destroyer is reported to have approached within 45 yards of the Decatur, which … Continue reading &rarr;"
 categories:
   - "Current"

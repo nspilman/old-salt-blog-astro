@@ -1,8 +1,8 @@
 ---
-title: "The Costa Concordia’s Fatal Salute – “Inexplicable Error” or “Nice Tradition”?"
+title: "The Costa Concordia’s Fatal Salute – \"Inexplicable Error\" or \"Nice Tradition\"?"
 date: 2012-01-17T10:45:28
-slug: the-fatal-salute-by-the-costa-concordia-inexplicable-error-or-nice-tradition
-excerpt: "The Costa Concordia “Saluting” Giglio Last August In a recent press conference, Costa Crociere chairman and CEO Pier Luigi Foschi blamed the grounding of the Costa Concordia on an “inexplicable” error by the captain.  Mr Foschi said: “This route was put in … Continue reading &rarr;"
+slug: "the-fatal-salute-by-the-costa-concordia-inexplicable-error-or-nice-tradition"
+excerpt: "The Costa Concordia \"Saluting\" Giglio Last August In a recent press conference, Costa Crociere chairman and CEO Pier Luigi Foschi blamed the grounding of the Costa Concordia on an \"inexplicable\" error by the captain.  Mr Foschi said: \"This route was put in … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Pier Luigi Foschi"
   - "salute"
 author: "Rick Spilman"
-description: "The Costa Concordia “Saluting” Giglio Last August In a recent press conference, Costa Crociere chairman and CEO Pier Luigi Foschi blamed the grounding of the Costa Concordia on an “inexplicable” error by the captain.  Mr Foschi said: “This route was put in … Continue reading &rarr;"
+description: "The Costa Concordia \"Saluting\" Giglio Last August In a recent press conference, Costa Crociere chairman and CEO Pier Luigi Foschi blamed the grounding of the Costa Concordia on an \"inexplicable\" error by the captain.  Mr Foschi said: \"This route was put in … Continue reading &rarr;"
 ---
 
 The *Costa Concordia* “Saluting” Giglio Last August

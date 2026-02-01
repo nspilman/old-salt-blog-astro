@@ -1,7 +1,7 @@
 ---
 title: "Holy Calamari, Batman – 25′ Giant Squid Found Floating off Florida"
 date: 2011-06-30T21:27:16
-slug: holy-calamari-batman-25-giant-squid-found-floating-off-florida
+slug: "holy-calamari-batman-25-giant-squid-found-floating-off-florida"
 excerpt: "A 25 foot long giant squid was found floating off the coast of Florida. It has now been taken for study to the University of South Florida.  It was found by fisherman in a 23 foot boat, who somehow managed to bring … Continue reading &rarr;"
 categories:
   - "Current"

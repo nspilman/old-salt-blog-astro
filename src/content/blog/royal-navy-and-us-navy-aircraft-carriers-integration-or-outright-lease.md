@@ -1,7 +1,7 @@
 ---
 title: "Royal Navy and US Navy Aircraft Carriers — Integration or Outright Lease?"
 date: 2019-12-22T11:16:55
-slug: royal-navy-and-us-navy-aircraft-carriers-integration-or-outright-lease
+slug: "royal-navy-and-us-navy-aircraft-carriers-integration-or-outright-lease"
 excerpt: "USNI News recently quoted Adm. Tony Radakin, the First Sea Lord and U.K. Chief of Naval Staff suggesting that the U.K. Royal Navy intends the HMS Queen Elizabeth its largest, most advanced warship ever built, to be considered interchangeable with … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Sailing Ship Amongst the Battle Cruisers, Battle of the Falklands 1914"
 date: 2019-12-23T15:36:19
-slug: the-sailing-ship-amongst-the-battle-cruisers-battle-of-the-falklands-1914
+slug: "the-sailing-ship-amongst-the-battle-cruisers-battle-of-the-falklands-1914"
 excerpt: "We recently posted about the 105th anniversary of the Battle of the Falklands and the discovery of the wreckage of the German armored cruiser, SMS Scharnhorst, which was sunk in the battle. In researching these posts there was one bit of historical … Continue reading &rarr;"
 categories:
   - "History"

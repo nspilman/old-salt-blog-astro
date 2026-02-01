@@ -1,7 +1,7 @@
 ---
 title: "With Pandemic Spiking, Hong Kong Restricts Crew Changes"
 date: 2020-07-28T14:56:10
-slug: with-pandemic-spiking-hong-kong-restricts-crew-changes
+slug: "with-pandemic-spiking-hong-kong-restricts-crew-changes"
 excerpt: "As Hong Kong braces for its third wave of coronavirus infections, local authorities are cracking down on allowing crew changes on ships, except for those loading or discharging cargo in the port.  The rule change could significantly affect shipping across … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

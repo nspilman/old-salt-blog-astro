@@ -1,7 +1,7 @@
 ---
 title: "Carrier Ale, the Queen’s Head Pub and the HMS Queen Elizabeth,"
 date: 2018-08-22T15:54:55
-slug: carrier-ale-the-queens-head-pub-and-the-hms-queen-elizabeth
+slug: "carrier-ale-the-queens-head-pub-and-the-hms-queen-elizabeth"
 excerpt: "A quick two-question quiz — First question: What do US aircraft carriers have that the newest British carrier, HMS Queen Elizabeth, lacks?  The answer is aircraft. The UK’s new aircraft carrier will be conducting flight trials with two borrowed US planes. Its own … Continue reading &rarr;"
 categories:
   - "Current"

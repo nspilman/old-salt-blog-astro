@@ -1,8 +1,8 @@
 ---
-title: "“Unprecedented” Number of Blue Whales Observed Off Southern Ocean South Georgia Island"
+title: "\"Unprecedented\" Number of Blue Whales Observed Off Southern Ocean South Georgia Island"
 date: 2020-02-28T15:36:34
-slug: unprecedented-number-of-blue-whales-observed-off-southern-ocean-south-georgia-island
-excerpt: "Mother Nature Network is reporting that a team of scientists led by the British Antarctic Survey (BAS) counted 55 Antarctic blue whales during their 2020 expedition to the sub-Antarctic island of South Georgia — a number they called “unprecedented.” In … Continue reading &rarr;"
+slug: "unprecedented-number-of-blue-whales-observed-off-southern-ocean-south-georgia-island"
+excerpt: "Mother Nature Network is reporting that a team of scientists led by the British Antarctic Survey (BAS) counted 55 Antarctic blue whales during their 2020 expedition to the sub-Antarctic island of South Georgia — a number they called \"unprecedented.\" In … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "South Georgia Island"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/blue2.jpg"
 author: "Rick Spilman"
-description: "Mother Nature Network is reporting that a team of scientists led by the British Antarctic Survey (BAS) counted 55 Antarctic blue whales during their 2020 expedition to the sub-Antarctic island of South Georgia — a number they called “unprecedented.” In … Continue reading &rarr;"
+description: "Mother Nature Network is reporting that a team of scientists led by the British Antarctic Survey (BAS) counted 55 Antarctic blue whales during their 2020 expedition to the sub-Antarctic island of South Georgia — a number they called \"unprecedented.\" In … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/blue2.jpg)[Mother Nature Network](https://www.mnn.com/earth-matters/animals/stories/antarctic-blue-whales-make-unprecedented-comeback) is reporting that a team of scientists led by the [British Antarctic Survey (BAS)](https://www.bas.ac.uk/media-post/return-of-the-whales-to-south-georgia/) counted 55 Antarctic [blue whales](https://en.wikipedia.org/wiki/Blue_whale#cite_note-G.S.Paul2016-4) during their 2020 expedition to the sub-Antarctic island of South Georgia — a number they called “unprecedented.” In a previous BAS survey in 2018, only one Antarctic blue whale had been sighted.

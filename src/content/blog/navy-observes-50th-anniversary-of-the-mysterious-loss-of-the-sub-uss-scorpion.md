@@ -1,7 +1,7 @@
 ---
 title: "Navy Observes 50th Anniversary of the Mysterious Loss of the Sub USS Scorpion"
 date: 2018-05-31T19:30:07
-slug: navy-observes-50th-anniversary-of-the-mysterious-loss-of-the-sub-uss-scorpion
+slug: "navy-observes-50th-anniversary-of-the-mysterious-loss-of-the-sub-uss-scorpion"
 excerpt: "Last week, the Navy marked the 50th anniversary of the loss of the Skipjack-class nuclear submarine USS Scorpion (SSN 589) in a private observance at the Scorpion Memorial on Norfolk Naval Station.  99 officers and crew died when the submarine sank on May 22, … Continue reading &rarr;"
 categories:
   - "Current"

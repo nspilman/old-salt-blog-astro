@@ -1,7 +1,7 @@
 ---
 title: "Joan Druett Review: Hell Around the Horn by Rick Spilman"
 date: 2012-12-05T14:47:30
-slug: joan-druett-review-hell-around-the-horn-by-rick-spilman
+slug: "joan-druett-review-hell-around-the-horn-by-rick-spilman"
 excerpt: "Joan Druett, award winning maritime historian and novelist, recently reviewed Hell Around the Horn for Historic Naval Fiction. Those Gallant Seamen Get their Story Told at Last Ringing with authenticity, this nail-biter is a tale of battling wind and weather to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

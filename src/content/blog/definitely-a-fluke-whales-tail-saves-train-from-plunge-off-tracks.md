@@ -1,7 +1,7 @@
 ---
 title: "Definitely a Fluke — Whale’s Tail Saves Train from Plunge Off Tracks"
 date: 2020-11-03T09:49:56
-slug: definitely-a-fluke-whales-tail-saves-train-from-plunge-off-tracks
+slug: "definitely-a-fluke-whales-tail-saves-train-from-plunge-off-tracks"
 excerpt: "A commuter train car careened off the end of elevated train tracks yesterday near Rotterdam in the Netherlands. It was saved from plunging more than 30 feet to the ground when it landed on the sculpture of a whale’s tail. … Continue reading &rarr;"
 categories:
   - "Current"

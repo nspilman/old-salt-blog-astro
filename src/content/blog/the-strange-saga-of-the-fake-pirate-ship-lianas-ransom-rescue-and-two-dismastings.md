@@ -1,7 +1,7 @@
 ---
 title: "The Strange Saga of the Fake Pirate Ship, Liana’s Ransom — Rescue and Two Dismastings"
 date: 2015-04-02T12:33:19
-slug: the-strange-saga-of-the-fake-pirate-ship-lianas-ransom-rescue-and-two-dismastings
+slug: "the-strange-saga-of-the-fake-pirate-ship-lianas-ransom-rescue-and-two-dismastings"
 excerpt: "On Monday, the US Coast Guard rescued nine crew members from the schooner, Liana’s Ransom, off the coast of Maine, after the schooner suffered engine failure and her sails became fouled. There are now reports that the schooner also lost … Continue reading &rarr;"
 categories:
   - "Current"

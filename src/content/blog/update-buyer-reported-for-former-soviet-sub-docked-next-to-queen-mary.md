@@ -1,7 +1,7 @@
 ---
 title: "Update: Buyer Reported for Former Soviet Sub Docked Next to Queen Mary"
 date: 2019-11-20T10:15:54
-slug: update-buyer-reported-for-former-soviet-sub-docked-next-to-queen-mary
+slug: "update-buyer-reported-for-former-soviet-sub-docked-next-to-queen-mary"
 excerpt: "Last March, we posted about a Foxtrot-class Soviet-era submarine for sale in Long Beach, CA. Known as the Scorpion, the diesel-electric patrol submarine built in the Soviet Union in 1971, has been a museum ship berthed next to the hotel-ship … Continue reading &rarr;"
 categories:
   - "Current"

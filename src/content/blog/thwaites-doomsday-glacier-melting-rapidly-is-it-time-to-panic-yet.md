@@ -1,8 +1,8 @@
 ---
-title: "Thwaites “Doomsday Glacier” Melting Rapidly — Is It Time To Panic Yet?"
+title: "Thwaites \"Doomsday Glacier\" Melting Rapidly — Is It Time To Panic Yet?"
 date: 2023-02-22T19:10:32
-slug: thwaites-doomsday-glacier-melting-rapidly-is-it-time-to-panic-yet
-excerpt: "The continued rapid melting of Antarctica’s Thwaites glacier is worrying, at the very least. The glacier was dubbed “The Doomsday Glacier” by an article in Rolling Stone magazine in 2017. At 80 miles across, Thwaites is the widest glacier in … Continue reading &rarr;"
+slug: "thwaites-doomsday-glacier-melting-rapidly-is-it-time-to-panic-yet"
+excerpt: "The continued rapid melting of Antarctica’s Thwaites glacier is worrying, at the very least. The glacier was dubbed \"The Doomsday Glacier\" by an article in Rolling Stone magazine in 2017. At 80 miles across, Thwaites is the widest glacier in … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "US Antarctic program"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/thwaites.jpg"
 author: "Rick Spilman"
-description: "The continued rapid melting of Antarctica’s Thwaites glacier is worrying, at the very least. The glacier was dubbed “The Doomsday Glacier” by an article in Rolling Stone magazine in 2017. At 80 miles across, Thwaites is the widest glacier in … Continue reading &rarr;"
+description: "The continued rapid melting of Antarctica’s Thwaites glacier is worrying, at the very least. The glacier was dubbed \"The Doomsday Glacier\" by an article in Rolling Stone magazine in 2017. At 80 miles across, Thwaites is the widest glacier in … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/thwaites.jpg)

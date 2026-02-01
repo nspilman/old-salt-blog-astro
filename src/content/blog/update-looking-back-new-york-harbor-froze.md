@@ -1,8 +1,8 @@
 ---
 title: "Update: Looking Back at When New York Harbor Froze"
 date: 2018-01-04T16:28:32
-slug: update-looking-back-new-york-harbor-froze
-excerpt: "Today, the East Coast is being pummeled by what meterologists are referring to as a “bomb cyclone,” a term which is equal parts concerning and confusing. A “bomb cyclone” is simply a rapidly intensifying low pressure front, which is now … Continue reading &rarr;"
+slug: "update-looking-back-new-york-harbor-froze"
+excerpt: "Today, the East Coast is being pummeled by what meterologists are referring to as a \"bomb cyclone,\" a term which is equal parts concerning and confusing. A \"bomb cyclone\" is simply a rapidly intensifying low pressure front, which is now … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "hudson river"
   - "new york harbor"
 author: "Rick Spilman"
-description: "Today, the East Coast is being pummeled by what meterologists are referring to as a “bomb cyclone,” a term which is equal parts concerning and confusing. A “bomb cyclone” is simply a rapidly intensifying low pressure front, which is now … Continue reading &rarr;"
+description: "Today, the East Coast is being pummeled by what meterologists are referring to as a \"bomb cyclone,\" a term which is equal parts concerning and confusing. A \"bomb cyclone\" is simply a rapidly intensifying low pressure front, which is now … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/01/eastriver1867.jpg)

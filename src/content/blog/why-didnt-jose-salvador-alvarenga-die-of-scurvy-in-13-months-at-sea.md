@@ -1,7 +1,7 @@
 ---
 title: "Why Didn’t José Salvador Alvarenga Die of Scurvy in 13 Months at Sea?"
 date: 2014-02-08T16:31:51
-slug: why-didnt-jose-salvador-alvarenga-die-of-scurvy-in-13-months-at-sea
+slug: "why-didnt-jose-salvador-alvarenga-die-of-scurvy-in-13-months-at-sea"
 excerpt: "José Salvador Alvarenga, the fisherman who apparently drifted for 13 months at sea in open boat, has been released from the hospital in the Marshall Islands.  How is it possible that he could have survived for over a year, while … Continue reading &rarr;"
 categories:
   - "Current"

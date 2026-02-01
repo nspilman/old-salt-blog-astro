@@ -1,7 +1,7 @@
 ---
 title: "Zoom Presentation — Tanker Mary A. Whalen’s Game Changing Supreme Court Case"
 date: 2021-05-27T16:15:27
-slug: zoom-presentation-tanker-mary-a-whalens-game-changing-supreme-court-case
+slug: "zoom-presentation-tanker-mary-a-whalens-game-changing-supreme-court-case"
 excerpt: "PortSide NewYork is hosting a fascinating virtual talk with Captain Lawrence Brennan, a Fordham law Professor, and PortSide Executive Director Carolina Salguero about the Supreme Court decision US vs RELIABLE TRANSFER involving PortSide’s historic ship Mary A. Whalen.  Brennan and … Continue reading &rarr;"
 categories:
   - "History"

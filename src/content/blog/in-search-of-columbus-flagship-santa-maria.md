@@ -1,7 +1,7 @@
 ---
 title: "In Search of Columbus’ Flagship Santa Maria"
 date: 2014-05-14T16:12:07
-slug: in-search-of-columbus-flagship-santa-maria
+slug: "in-search-of-columbus-flagship-santa-maria"
 excerpt: "Columbus’ flagship, Santa Maria, ran aground and sank on Christmas Day 1492 off Haiti, on Columbus’ first voyage to the New World. Now after more than a decade’s research, underwater explorer Barry Clifford believes that he has found the wreck of … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Carbon Dating Pinpoints Year of Norse L’Anse aux Meadows Newfoundland Settlement"
 date: 2021-10-25T10:57:38
-slug: carbon-dating-pinpoints-year-of-norse-lanse-aux-meadows-newfoundland-settlement
+slug: "carbon-dating-pinpoints-year-of-norse-lanse-aux-meadows-newfoundland-settlement"
 excerpt: "In 1960, the archaeological remains of Norse buildings were discovered at L’Anse aux Meadows in Newfoundland. Until recently the settlement date was estimated within about a sixty-year span around 1000 CE. On Wednesday, scientists published a study in the journal … Continue reading &rarr;"
 categories:
   - "History"

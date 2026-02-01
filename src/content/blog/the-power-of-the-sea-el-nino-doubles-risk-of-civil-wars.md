@@ -1,8 +1,8 @@
 ---
 title: "The Power of the Sea : El Nino Doubles Risk of Civil Wars"
 date: 2011-08-27T10:52:42
-slug: the-power-of-the-sea-el-nino-doubles-risk-of-civil-wars
-excerpt: "With Hurricane Irene slamming into North Carolina and bearing down on New York harbor, this seems quite timely. Here is an article for anyone who may forget how fundamentally the sea effects us all.  A new study suggests that “El … Continue reading &rarr;"
+slug: "the-power-of-the-sea-el-nino-doubles-risk-of-civil-wars"
+excerpt: "With Hurricane Irene slamming into North Carolina and bearing down on New York harbor, this seems quite timely. Here is an article for anyone who may forget how fundamentally the sea effects us all.  A new study suggests that \"El … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "El Nino"
   - "tropical countries"
 author: "Rick Spilman"
-description: "With Hurricane Irene slamming into North Carolina and bearing down on New York harbor, this seems quite timely. Here is an article for anyone who may forget how fundamentally the sea effects us all.  A new study suggests that “El … Continue reading &rarr;"
+description: "With Hurricane Irene slamming into North Carolina and bearing down on New York harbor, this seems quite timely. Here is an article for anyone who may forget how fundamentally the sea effects us all.  A new study suggests that \"El … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/nino_globe.jpg)With Hurricane Irene slamming into North Carolina and bearing down on New York harbor, this seems quite timely. Here is an article for anyone who may forget how fundamentally the sea effects us all.  A new study suggests that “El Nino,” the periodic warming of a large patch of the Pacific, doubles the risk of civil wars in 90 tropical countries.

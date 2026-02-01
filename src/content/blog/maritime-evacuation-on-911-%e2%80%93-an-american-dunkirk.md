@@ -1,7 +1,7 @@
 ---
 title: "Maritime Evacuation on 9/11 – An American Dunkirk"
 date: 2009-09-11T08:40:57
-slug: maritime-evacuation-on-911-%e2%80%93-an-american-dunkirk
+slug: "maritime-evacuation-on-911-%e2%80%93-an-american-dunkirk"
 excerpt: "Eight years ago today, on a beautiful Tuesday morning in September,  hundreds of thousands of commuters were trapped  in lower Manhattan.  Manhattan is an island and all bridges, tunnels and subways had been shut down following the attacks on the World Trade Center. Shortly after … Continue reading &rarr;"
 categories:
   - "Current"

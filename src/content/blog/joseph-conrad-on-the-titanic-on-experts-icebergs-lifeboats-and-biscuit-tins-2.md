@@ -1,7 +1,7 @@
 ---
 title: "Joseph Conrad on the Titanic – On Experts, Icebergs, Lifeboats and Biscuit Tins"
 date: 2018-04-15T13:48:57
-slug: joseph-conrad-on-the-titanic-on-experts-icebergs-lifeboats-and-biscuit-tins-2
+slug: "joseph-conrad-on-the-titanic-on-experts-icebergs-lifeboats-and-biscuit-tins-2"
 excerpt: "One hundred and six years ago today, the White Star liner Titanic  sank after striking an iceberg. Over 1,500 lives were lost. Here is a repost from 2012 of Joseph Conrad’s commentary on the sinking.  In June of 1912, Joseph Conrad wrote … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Peruvian Fisherman Rescued After 94 Days Missing at Sea"
 date: 2025-03-17T16:25:17
-slug: peruvian-fisherman-rescued-after-94-days-missing-at-sea
+slug: "peruvian-fisherman-rescued-after-94-days-missing-at-sea"
 excerpt: "A remarkable story of survival against all odds. A Peruvian fisherman was found alive after drifting at sea for 94 days, a navy official said.  Maximo Napa, 61, was rescued in his small fishing boat on Tuesday after being spotted by … Continue reading &rarr;"
 categories:
   - "Current"

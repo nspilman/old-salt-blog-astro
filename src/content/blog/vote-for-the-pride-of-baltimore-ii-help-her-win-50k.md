@@ -1,8 +1,8 @@
 ---
 title: "Vote For the Pride of Baltimore II – Help Her Win $50K"
 date: 2010-09-10T08:27:46
-slug: vote-for-the-pride-of-baltimore-ii-help-her-win-50k
-excerpt: "The Pride of Baltimore II needs your help.  The Pepsi Refresh Project is giving away $1.3 million dollars toward “ideas that refresh the Gulf.”  The Pride of Baltimore organization is competing for a $50, 000 grant to teach boating safety … Continue reading &rarr;"
+slug: "vote-for-the-pride-of-baltimore-ii-help-her-win-50k"
+excerpt: "The Pride of Baltimore II needs your help.  The Pepsi Refresh Project is giving away $1.3 million dollars toward \"ideas that refresh the Gulf.\"  The Pride of Baltimore organization is competing for a $50, 000 grant to teach boating safety … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Pepsi Refresh Project"
   - "Pride of Baltimore II"
 author: "Rick Spilman"
-description: "The Pride of Baltimore II needs your help.  The Pepsi Refresh Project is giving away $1.3 million dollars toward “ideas that refresh the Gulf.”  The Pride of Baltimore organization is competing for a $50, 000 grant to teach boating safety … Continue reading &rarr;"
+description: "The Pride of Baltimore II needs your help.  The Pepsi Refresh Project is giving away $1.3 million dollars toward \"ideas that refresh the Gulf.\"  The Pride of Baltimore organization is competing for a $50, 000 grant to teach boating safety … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/pride.jpg)

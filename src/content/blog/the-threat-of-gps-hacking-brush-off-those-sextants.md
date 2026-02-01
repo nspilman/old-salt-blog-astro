@@ -1,7 +1,7 @@
 ---
 title: "The Threat of GPS Hacking — Brush off Those Sextants"
 date: 2015-10-24T15:12:15
-slug: the-threat-of-gps-hacking-brush-off-those-sextants
+slug: "the-threat-of-gps-hacking-brush-off-those-sextants"
 excerpt: "In 1998, the United States Naval Academy dropped celestial navigation from its curriculum. If a naval officer wished to know where he or she was, the officer simply had to read the display on a GPS (Global Positioning System) receiver. … Continue reading &rarr;"
 categories:
   - "Current"

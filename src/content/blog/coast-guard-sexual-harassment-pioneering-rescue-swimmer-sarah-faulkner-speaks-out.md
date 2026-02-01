@@ -1,7 +1,7 @@
 ---
 title: "Coast Guard Sexual Harassment — Pioneering Rescue Swimmer Sarah Faulkner Speaks Out"
 date: 2020-07-15T09:46:40
-slug: coast-guard-sexual-harassment-pioneering-rescue-swimmer-sarah-faulkner-speaks-out
+slug: "coast-guard-sexual-harassment-pioneering-rescue-swimmer-sarah-faulkner-speaks-out"
 excerpt: "We have posted in the past about the heroic and pioneering US Coast Guard Rescue Swimmer Sara Faulkner. She was the first of only a handful of women who have qualified and served as rescue swimmers. Faulkner joined the Coast … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

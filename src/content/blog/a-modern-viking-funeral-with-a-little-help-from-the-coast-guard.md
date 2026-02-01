@@ -1,7 +1,7 @@
 ---
 title: "A Modern Viking Funeral With a Little Help From the Coast Guard"
 date: 2014-10-03T15:39:47
-slug: a-modern-viking-funeral-with-a-little-help-from-the-coast-guard
+slug: "a-modern-viking-funeral-with-a-little-help-from-the-coast-guard"
 excerpt: "Andrew Haines, a World War II veteran who emigrated from Norway as a child, wanted a Viking funeral.  He realized that building a pyre on a full sized Viking ship would be impractical, so Haines decided to build a small … Continue reading &rarr;"
 categories:
   - "Current"

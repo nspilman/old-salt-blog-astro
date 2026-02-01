@@ -1,7 +1,7 @@
 ---
 title: "Own the Historic Schooner Isaac H. Evans for an Essay & $125"
 date: 2015-08-09T12:05:21
-slug: for-125-and-an-essay-you-could-own-a-historic-rockland-schooner
+slug: "for-125-and-an-essay-you-could-own-a-historic-rockland-schooner"
 excerpt: "The 129 year old, 90 foot long schooner Isaac H. Evans sailing out of Rockland, Maine could be yours for $125 and a 200 word essay.
  Continue reading &rarr;"
 categories:

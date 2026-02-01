@@ -1,7 +1,7 @@
 ---
 title: "Diana Nyad Nearing 5 Mile Countdown to Key West in Epic Cuba-to-Florida Swim"
 date: 2013-09-02T09:27:13
-slug: diana-nyad-nearing-5-mile-countdown-to-key-west-in-epic-cuba-to-florida-swim
+slug: "diana-nyad-nearing-5-mile-countdown-to-key-west-in-epic-cuba-to-florida-swim"
 excerpt: "Diana Nyad is nearing the five mile countdown to Key West on her epic 112 statute mile swim from Cuba to Florida. If she completes the swim, she will be the first person to swim from Cuba to Florida without a cage, … Continue reading &rarr;"
 categories:
   - "Current"

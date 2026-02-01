@@ -1,8 +1,8 @@
 ---
 title: "Navy Submarine Commander Michael P. Ward II Relieved of Duty After Faking Death to End Affair"
 date: 2012-09-24T08:19:06
-slug: navy-submarine-commander-michael-p-ward-ii-relieved-after-faking-death-to-end-affair
-excerpt: "The American singer/songwriter, Paul Simon, had a hit in 1975 titled “50 Ways to Leave Your Lover.”  Sending an email to your mistress telling her that you are dead is definitely not on the list.  Commander Michael P. Ward II was recently relieved of … Continue reading &rarr;"
+slug: "navy-submarine-commander-michael-p-ward-ii-relieved-after-faking-death-to-end-affair"
+excerpt: "The American singer/songwriter, Paul Simon, had a hit in 1975 titled \"50 Ways to Leave Your Lover.\"  Sending an email to your mistress telling her that you are dead is definitely not on the list.  Commander Michael P. Ward II was recently relieved of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Navy Submarine"
   - "USS Pittsburgh"
 author: "Rick Spilman"
-description: "The American singer/songwriter, Paul Simon, had a hit in 1975 titled “50 Ways to Leave Your Lover.”  Sending an email to your mistress telling her that you are dead is definitely not on the list.  Commander Michael P. Ward II was recently relieved of … Continue reading &rarr;"
+description: "The American singer/songwriter, Paul Simon, had a hit in 1975 titled \"50 Ways to Leave Your Lover.\"  Sending an email to your mistress telling her that you are dead is definitely not on the list.  Commander Michael P. Ward II was recently relieved of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/usspittsburg.jpg)

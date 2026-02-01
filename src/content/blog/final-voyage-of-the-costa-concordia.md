@@ -1,7 +1,7 @@
 ---
 title: "Final Voyage of the Costa Concordia"
 date: 2014-07-23T10:01:43
-slug: final-voyage-of-the-costa-concordia
+slug: "final-voyage-of-the-costa-concordia"
 excerpt: "The Costa Concordia has begun her final voyage from the Tuscan island of Giglio to the scrapyard in Genoa, Italy, the port city where the ill-fated cruise ship was built.  The ship sank and partially capsized in January 2012 after striking … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

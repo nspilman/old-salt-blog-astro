@@ -1,7 +1,7 @@
 ---
 title: "Laura Dekker, Banque Populaire V, Jules Verne, the Internet & and Our Shrinking Globe"
 date: 2012-01-05T09:21:18
-slug: laura-dekker-jules-verne-the-internet-and-our-shrinking-globe
+slug: "laura-dekker-jules-verne-the-internet-and-our-shrinking-globe"
 excerpt: "This morning, when I logged onto my computer, I checked the position of the max-trimaran Banque Populaire V as its screams it way across the North Atlantic at roughly 30 knots, seeking to seize the Jules Verne Trophy for the fastest non-stop circumnavigation. It … Continue reading &rarr;"
 categories:
   - "Current"

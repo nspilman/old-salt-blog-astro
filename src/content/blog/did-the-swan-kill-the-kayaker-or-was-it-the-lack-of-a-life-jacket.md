@@ -1,8 +1,8 @@
 ---
 title: "Did the Swan Kill the Kayaker? Or was it the Lack of a Life Jacket?"
 date: 2012-04-22T10:25:31
-slug: did-the-swan-kill-the-kayaker-or-was-it-the-lack-of-a-life-jacket
-excerpt: "The first headlines read, “Swan Kills Kayaker,” and “Aggressive swan kills kayaker.”   Later versions were more moderate – “Swan attack contributed to man’s drowning death” and “Kayaker drowns after coming too close to swan” with “Chicago Kayaker Killed After Swan … Continue reading &rarr;"
+slug: "did-the-swan-kill-the-kayaker-or-was-it-the-lack-of-a-life-jacket"
+excerpt: "The first headlines read, \"Swan Kills Kayaker,\" and \"Aggressive swan kills kayaker.\"   Later versions were more moderate – \"Swan attack contributed to man’s drowning death\" and \"Kayaker drowns after coming too close to swan\" with \"Chicago Kayaker Killed After Swan … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "pfd"
   - "swan"
 author: "Rick Spilman"
-description: "The first headlines read, “Swan Kills Kayaker,” and “Aggressive swan kills kayaker.”   Later versions were more moderate – “Swan attack contributed to man’s drowning death” and “Kayaker drowns after coming too close to swan” with “Chicago Kayaker Killed After Swan … Continue reading &rarr;"
+description: "The first headlines read, \"Swan Kills Kayaker,\" and \"Aggressive swan kills kayaker.\"   Later versions were more moderate – \"Swan attack contributed to man’s drowning death\" and \"Kayaker drowns after coming too close to swan\" with \"Chicago Kayaker Killed After Swan … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/swan-taking-off.jpg)The first headlines read, “[Swan Kills Kayaker](http://www2.turnto10.com/news/2012/apr/17/2/swan-kills-kayaker-57034-vi-40063/),” and “[Aggressive swan kills kayaker](http://www.wcnc.com/video/featured-videos/Aggressive-swan-kills-kayaker-147745305.html).”   Later versions were more moderate – “[Swan attack contributed to man’s drowning death](http://www.dailyherald.com/article/20120416/news/704169741/)” and “[Kayaker drowns after coming too close to swan](http://www.suntimes.com/news/11923182-418/kayaker-drowns-after-coming-too-close-to-swan.html)” with “[Chicago Kayaker Killed After Swan Attack](http://www.inquisitr.com/220771/chicago-kayaker-killed-after-swan-attack/)” falling in the middle of the spectrum.  Even the BBC picked up the story – “[Who, What, Why: How dangerous are swans?](http://m.bbc.co.uk/news/magazine-17736292)”  writing: “*A man has drowned after being attacked by a swan, which knocked him out of his kayak and stopped him swimming to shore. So how dangerous are these graceful white birds?*”  

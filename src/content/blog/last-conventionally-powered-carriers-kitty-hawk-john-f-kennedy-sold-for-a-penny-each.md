@@ -1,7 +1,7 @@
 ---
 title: "Last Conventionally Powered Carriers, Kitty Hawk & John F. Kennedy, Sold For a Penny Each"
 date: 2021-10-13T10:39:37
-slug: last-conventionally-powered-carriers-kitty-hawk-john-f-kennedy-sold-for-a-penny-each
+slug: "last-conventionally-powered-carriers-kitty-hawk-john-f-kennedy-sold-for-a-penny-each"
 excerpt: "The decommissioned supercarriers USS Kitty Hawk and the USS John F. Kennedy have finally been sold for scrap for a modest one cent each to a Texas breaking yard. The last carriers to be powered by fuel oil, the ships … Continue reading &rarr;"
 categories:
   - "Current"

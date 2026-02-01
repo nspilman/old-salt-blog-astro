@@ -1,7 +1,7 @@
 ---
 title: "A Speck in the Sea — the Deadly Business of Commercial Fishing"
 date: 2014-01-05T09:00:24
-slug: a-speck-in-the-sea-the-deadly-business-of-commercial-fishing
+slug: "a-speck-in-the-sea-the-deadly-business-of-commercial-fishing"
 excerpt: "The New York Times has a wonderful account of the rescue of John Aldridge, a commercial fisherman who fell off a lobsterboat in the middle of the night last July, over forty miles off Montauk, Long Island, NY. Aldridge spent … Continue reading &rarr;"
 categories:
   - "Current"

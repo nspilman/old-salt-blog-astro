@@ -1,7 +1,7 @@
 ---
 title: "A Short Sea Voyage for the not yet Tall Ship, Oliver Hazard Perry"
 date: 2011-12-27T12:19:28
-slug: a-short-sea-voyage-for-the-not-yet-tall-ship-oliver-hazard-perry
+slug: "a-short-sea-voyage-for-the-not-yet-tall-ship-oliver-hazard-perry"
 excerpt: "More progress in the completion of Rhode Island’s tall ship, SSV Oliver Hazard Perry. The not yet tall ship was recently launched at Sims Metal Management in Providence and towed to Senesco Marine in North Kingstown to continue construction, including … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
-title: "Maine Lobster Festival & “Lobster-Palooza” August 3-7th"
+title: "Maine Lobster Festival & \"Lobster-Palooza\" August 3-7th"
 date: 2011-07-31T09:56:19
-slug: maine-lobster-festival-lobster-palooza-august-3-7th
-excerpt: "The Maine Lobster Festival being held in Rockland from August 3rd to the 7th is described as “Five Days of Feasting and Fun on the Fabulous Coast of Maine!”  “The festival promises “ the world’s greatest lobster cooker, 20,000 pounds of lobster, a sea goddess … Continue reading &rarr;"
+slug: "maine-lobster-festival-lobster-palooza-august-3-7th"
+excerpt: "The Maine Lobster Festival being held in Rockland from August 3rd to the 7th is described as \"Five Days of Feasting and Fun on the Fabulous Coast of Maine!\"  \"The festival promises \" the world’s greatest lobster cooker, 20,000 pounds of lobster, a sea goddess … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Miane"
   - "Rockland"
 author: "Rick Spilman"
-description: "The Maine Lobster Festival being held in Rockland from August 3rd to the 7th is described as “Five Days of Feasting and Fun on the Fabulous Coast of Maine!”  “The festival promises “ the world’s greatest lobster cooker, 20,000 pounds of lobster, a sea goddess … Continue reading &rarr;"
+description: "The Maine Lobster Festival being held in Rockland from August 3rd to the 7th is described as \"Five Days of Feasting and Fun on the Fabulous Coast of Maine!\"  \"The festival promises \" the world’s greatest lobster cooker, 20,000 pounds of lobster, a sea goddess … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/lobster.jpg)The [Maine Lobster Festival](http://www.mainelobsterfestival.com/) being held in Rockland from August 3rd to the 7th is described as “*Five Days of Feasting and Fun on the Fabulous Coast of Maine!*”  “The festival promises “ *the world’s greatest lobster cooker, 20,000 pounds of lobster, a sea goddess coronation, a big parade, top notch entertainment, an international crate race, fine art, talented crafts people and vendors, US Navy ship tours, cooking contests, marine tent and MORE?!*”  Wow.

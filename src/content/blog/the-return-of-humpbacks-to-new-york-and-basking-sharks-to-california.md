@@ -1,7 +1,7 @@
 ---
 title: "The Return of Humpbacks to New York and Basking Sharks to California"
 date: 2019-05-21T14:52:46
-slug: the-return-of-humpbacks-to-new-york-and-basking-sharks-to-california
+slug: "the-return-of-humpbacks-to-new-york-and-basking-sharks-to-california"
 excerpt: "The Pacific and Atlantic coasts have seen the return of large marine creatures that have been absent for decades. On the East Coast, New York City has seen the return of humpback whales which had been missing from local waters … Continue reading &rarr;"
 categories:
   - "Current"

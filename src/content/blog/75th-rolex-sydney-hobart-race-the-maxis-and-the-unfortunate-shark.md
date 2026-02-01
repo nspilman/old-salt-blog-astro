@@ -1,7 +1,7 @@
 ---
 title: "75th Rolex Sydney Hobart Race — the Maxis and the Unfortunate Shark"
 date: 2019-12-28T15:23:08
-slug: 75th-rolex-sydney-hobart-race-the-maxis-and-the-unfortunate-shark
+slug: "75th-rolex-sydney-hobart-race-the-maxis-and-the-unfortunate-shark"
 excerpt: "The five 100′ long maxi yachts dominated the 75th sailing of the Rolex Sydney Hobart Yacht Race, each finishing the 630 nautical mile race within the same two-hour window. Commanche took line honors finishing the race in 1 day, 18 … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Iceberg Larger Than New York City Calves from Brunt Ice Shelf"
 date: 2021-02-27T16:30:28
-slug: iceberg-larger-than-new-york-city-calves-from-brunt-ice-shelf
+slug: "iceberg-larger-than-new-york-city-calves-from-brunt-ice-shelf"
 excerpt: "A large iceberg about 490 square miles and about 492 feet thick broke off the Brunt Ice Shelf in the Weddell Sea section of Antarctica yesterday. For comparison purposes, the City of New York is 303 square miles, while Manhattan … Continue reading &rarr;"
 categories:
   - "Current"

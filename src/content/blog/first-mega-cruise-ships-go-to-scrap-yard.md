@@ -1,7 +1,7 @@
 ---
-title: "First “Mega” Cruise Ships Go to Scrap Yard"
+title: "First \"Mega\" Cruise Ships Go to Scrap Yard"
 date: 2020-07-31T16:48:46
-slug: first-mega-cruise-ships-go-to-scrap-yard
+slug: "first-mega-cruise-ships-go-to-scrap-yard"
 excerpt: "Carnival Fantasy entering in Aliaga to be scrapped In the video, the Carnival Fantasy is being beached at the Aliaga scrapyard in Turkey.  Next to it are two other cruise ships, the Sovereign and the Monarch, which had been operated … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

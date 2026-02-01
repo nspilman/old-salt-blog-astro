@@ -1,7 +1,7 @@
 ---
 title: "The Folly of the MV Wisdom"
 date: 2011-06-23T08:12:51
-slug: the-folly-of-the-mv-wisdom
+slug: "the-folly-of-the-mv-wisdom"
 excerpt: "The MV Wisdom is a small 26-year-old container ship.  She has had 14 name changes in her life and no one knows how many owners. The current owner may be unknown as well.  She was being towed from Colombo to the scrap-yard in … Continue reading &rarr;"
 categories:
   - "Current"

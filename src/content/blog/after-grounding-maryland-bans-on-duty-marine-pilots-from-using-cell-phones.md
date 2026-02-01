@@ -1,7 +1,7 @@
 ---
 title: "After Grounding, Maryland Bans On-Duty Marine Pilots From Using Cell Phones"
 date: 2023-01-10T13:04:43
-slug: after-grounding-maryland-bans-on-duty-marine-pilots-from-using-cell-phones
+slug: "after-grounding-maryland-bans-on-duty-marine-pilots-from-using-cell-phones"
 excerpt: "The Maryland Board of Pilots has decided to enact a rule change that forbids on-duty pilots from using their phones after the Coast Guard determined that a distracted pilot’s cell phone use contributed to a container ship grounding.  In March … Continue reading &rarr;"
 categories:
   - "Current"

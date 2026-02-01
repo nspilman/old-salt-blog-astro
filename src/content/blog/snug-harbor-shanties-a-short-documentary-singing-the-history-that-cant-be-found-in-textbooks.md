@@ -1,7 +1,7 @@
 ---
 title: "Snug Harbor Shanties, A Short Documentary — Singing the History that Can’t be Found in Textbooks"
 date: 2015-08-24T21:44:15
-slug: snug-harbor-shanties-a-short-documentary-singing-the-history-that-cant-be-found-in-textbooks
+slug: "snug-harbor-shanties-a-short-documentary-singing-the-history-that-cant-be-found-in-textbooks"
 excerpt: "My novel, The Shantyman, begins with a fictionalized Bill Doerflinger recording the tale told by a retired ship’s captain of a shantyman who saved his ship and its crew. The old captain lives close to the sailor’s retirement home, Sailor’s Snug … Continue reading &rarr;"
 categories:
   - "Current"

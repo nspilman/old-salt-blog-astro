@@ -1,7 +1,7 @@
 ---
 title: "Sea Nomads, the Bajau, May Be Genetically Adapted for Diving"
 date: 2018-08-11T09:06:48
-slug: sea-nomads-the-bajau-may-be-genetically-adapted-for-diving
+slug: "sea-nomads-the-bajau-may-be-genetically-adapted-for-diving"
 excerpt: "The Bajau people of Indonesia, the Philippines, and Malaysia have lived for centuries at sea as hunter-gatherer nomads. They can spend up to five hours a day underwater, diving for fish, octopus and other seafood. The Bajau do not use any … Continue reading &rarr;"
 categories:
   - "Current"

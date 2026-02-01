@@ -1,7 +1,7 @@
 ---
 title: "Master Hawaiian Navigator Chad Kalepa Baybayan Dies at 65"
 date: 2021-05-18T17:44:55
-slug: master-hawaiian-navigator-chad-kalepa-baybayan-dies-at-65
+slug: "master-hawaiian-navigator-chad-kalepa-baybayan-dies-at-65"
 excerpt: "Chad Kālepa Baybayan, a revered Hawaiian navigator and captain of the Polynesian voyaging canoe Hōkūleʻa, died on April 8 while visiting family in Seattle. He was 64. His daughter Kala Tanaka said the cause was a heart attack. Chad Kalepa … Continue reading &rarr;"
 categories:
   - "Current"

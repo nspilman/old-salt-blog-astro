@@ -1,7 +1,7 @@
 ---
 title: "Container Ship Horizon Reliance Saves Three in Nighttime Rescue in the Pacific"
 date: 2012-02-09T17:28:23
-slug: container-ship-horizon-reliance-saves-three-in-dramatic-nighttime-rescue-in-the-pacific
+slug: "container-ship-horizon-reliance-saves-three-in-dramatic-nighttime-rescue-in-the-pacific"
 excerpt: "At around 2AM local time Wednesday, the container ship Horizon Reliance rescued three Canadians, two men and a 9 year old boy, from the 33 foot disabled sailboat, Liahona, about 411 nautical miles east of Honolulu, Hawaii.  The winds were gusting over 40 knots … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "USS Vesuvius and the Amazing Dynamite Gun"
 date: 2016-03-23T12:20:39
-slug: httpsen-wikipedia-orgwikiuss_vesuvius_1888
+slug: "httpsen-wikipedia-orgwikiuss_vesuvius_1888"
 excerpt: "The US Navy is currently testing some potentially revolutionary new weapons, including electromagnetic rail guns. This is not the first time that the navy has experimented with new and exotic weapons systems, not all of which have been successful. USS … Continue reading &rarr;"
 categories:
   - "History"

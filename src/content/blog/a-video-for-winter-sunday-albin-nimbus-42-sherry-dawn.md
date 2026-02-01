@@ -1,7 +1,7 @@
 ---
 title: "A Video for a Winter Sunday — Albin Nimbus 42 Sherry Dawn"
 date: 2016-01-24T13:24:24
-slug: a-video-for-winter-sunday-albin-nimbus-42-sherry-dawn
+slug: "a-video-for-winter-sunday-albin-nimbus-42-sherry-dawn"
 excerpt: "Here on the west bank of the Hudson River, I spent most of the morning digging out from yesterday’s blizzard, which dumped around 30 inches of snow on us. So, it seems like a good time to think of sunshine … Continue reading &rarr;"
 categories:
   - "Current"

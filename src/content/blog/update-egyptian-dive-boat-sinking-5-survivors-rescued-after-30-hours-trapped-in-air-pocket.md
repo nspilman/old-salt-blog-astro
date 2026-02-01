@@ -1,7 +1,7 @@
 ---
 title: "Update: Egyptian Dive Boat Sinking — 5 Survivors Rescued After 30 Hours Trapped in Air Pocket"
 date: 2024-11-27T18:57:12
-slug: update-egyptian-dive-boat-sinking-5-survivors-rescued-after-30-hours-trapped-in-air-pocket
+slug: "update-egyptian-dive-boat-sinking-5-survivors-rescued-after-30-hours-trapped-in-air-pocket"
 excerpt: "After the Egyptian liveaboard dive boat, Sea Story, capsized and sank in heavy weather in the Red Sea early Monday morning, 28 of the 44 passengers and crew were rescued. On Tuesday, divers rescued five additional survivors trapped in air … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Scientists Find Oldest Intact Shipwreck in Black Sea"
 date: 2018-10-23T16:02:24
-slug: scientists-find-oldest-intact-shipwreck-in-black-sea
+slug: "scientists-find-oldest-intact-shipwreck-in-black-sea"
 excerpt: "In the dark and oxygenless waters of the Black Sea two miles below the surface, a team of maritime archaeologists, scientists and surveyors has discovered what it believes to be the world’s oldest intact shipwreck. Carbon dating suggests that the … Continue reading &rarr;"
 categories:
   - "Current"

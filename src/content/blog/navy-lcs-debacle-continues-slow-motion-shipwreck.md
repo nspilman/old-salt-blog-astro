@@ -1,7 +1,7 @@
 ---
 title: "Navy LCS Debacle Continues — Slow Motion Shipwreck"
 date: 2014-04-10T15:29:17
-slug: navy-lcs-debacle-continues-slow-motion-shipwreck
+slug: "navy-lcs-debacle-continues-slow-motion-shipwreck"
 excerpt: "The Navy’s Littoral Combat Ship (LCS) USS Freedom, the first of her namesake class and one of two different LCS designs, was recently deployed to Singapore for ten months in order to demonstrate the capabilities of the ship described by … Continue reading &rarr;"
 categories:
   - "Current"

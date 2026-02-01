@@ -1,8 +1,8 @@
 ---
 title: "More Than 100,000 Crew Still Trapped Aboard Cruise Ships"
 date: 2020-05-19T16:15:35
-slug: more-than-100000-crew-still-trapped-aboard-cruise-ships
-excerpt: "The Miami Herald recently helped to quantify the scale of the crew repatriation crisis aboard cruise ships around the world. They report that “two months after the cruise industry shut down amid repeated COVID-19 outbreaks on ships, more than 100,000 … Continue reading &rarr;"
+slug: "more-than-100000-crew-still-trapped-aboard-cruise-ships"
+excerpt: "The Miami Herald recently helped to quantify the scale of the crew repatriation crisis aboard cruise ships around the world. They report that \"two months after the cruise industry shut down amid repeated COVID-19 outbreaks on ships, more than 100,000 … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -18,7 +18,7 @@ tags:
   - "Royal Caribbean Cruises"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/carnival-restart.jpg"
 author: "Rick Spilman"
-description: "The Miami Herald recently helped to quantify the scale of the crew repatriation crisis aboard cruise ships around the world. They report that “two months after the cruise industry shut down amid repeated COVID-19 outbreaks on ships, more than 100,000 … Continue reading &rarr;"
+description: "The Miami Herald recently helped to quantify the scale of the crew repatriation crisis aboard cruise ships around the world. They report that \"two months after the cruise industry shut down amid repeated COVID-19 outbreaks on ships, more than 100,000 … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/carnival-restart.jpg)The [Miami Herald recently helped to quantify](https://www.miamiherald.com/news/business/tourism-cruises/article242565281.html?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axiosam&stream=top) the scale of the crew repatriation crisis aboard cruise ships around the world. They report that “two months after the cruise industry shut down amid repeated COVID-19 outbreaks on ships, more than 100,000 crew members remain trapped at sea with little reliable information about what will happen to them.” 

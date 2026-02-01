@@ -1,7 +1,7 @@
 ---
 title: "Italian Navy’s Operation Mare Nostrum Rescues 4,000 Refugees"
 date: 2014-09-02T18:36:04
-slug: italian-navy-operation-mare-nostrum-rescues-4000-refugees
+slug: "italian-navy-operation-mare-nostrum-rescues-4000-refugees"
 excerpt: "Yesterday, we posted about Migrant Offshore Aid Station (MOAS), a privately funded operation to assist refugees in trouble attempting to cross the Mediterranean. While we obviously wish them well, a recent report reminded us again of the scope of the refugee … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

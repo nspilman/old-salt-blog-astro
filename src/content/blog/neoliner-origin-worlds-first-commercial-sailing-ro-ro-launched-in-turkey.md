@@ -1,7 +1,7 @@
 ---
 title: "Neoliner Origin, World’s First Commercial Sailing Ro/Ro, Launched in Turkey"
 date: 2025-02-05T22:18:06
-slug: neoliner-origin-worlds-first-commercial-sailing-ro-ro-launched-in-turkey
+slug: "neoliner-origin-worlds-first-commercial-sailing-ro-ro-launched-in-turkey"
 excerpt: "The world’s first commercial sailing ro/ro, the 136-meter (450-foot) Neoliner Origin, was launched recently in Tuzla, Turkey, and will now undergo six months of fitting out before entering service in mid-2025. The new ship is expected to slash carbon emissions … Continue reading &rarr;"
 categories:
   - "Current"

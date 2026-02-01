@@ -1,7 +1,7 @@
 ---
 title: "July 4th on Whichever Coast – New York, San Diego & the Adirondacks"
 date: 2013-07-02T20:58:00
-slug: july-4th-on-either-coast-new-york-san-diego
+slug: "july-4th-on-either-coast-new-york-san-diego"
 excerpt: "This year the 4th of July fireworks in New York, sponsored by Macys, will be set off over the Hudson River. The North River Historic Ship Society is sponsoring their Fifth Annual Fireworks Gala offering views from the rooftop of … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "How Big is Too Big?  The Strange Case of the Valemax VLOCs"
 date: 2011-12-12T21:00:37
-slug: how-big-is-too-big-the-strange-case-of-the-valemax-vlocs
+slug: "how-big-is-too-big-the-strange-case-of-the-valemax-vlocs"
 excerpt: "The Vale Brasil is the largest dry cargo ship in the world with a capacity of over 400,000 DWT.  It is the first of the Valemax class of  Very Large Ore Carriers (VLOC).   The Vale Brasil  was built with one purpose – to carry iron … Continue reading &rarr;"
 categories:
   - "Current"

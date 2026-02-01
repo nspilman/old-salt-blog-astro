@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship Oliver Hazard Perry Begins Year-Round Local Programming"
 date: 2019-04-19T16:40:51
-slug: tall-ship-oliver-hazard-perry-begins-year-round-local-programming
+slug: "tall-ship-oliver-hazard-perry-begins-year-round-local-programming"
 excerpt: "In February we posted that the tall ship Oliver Hazard Perry was entering drydock and that the mission and strategy of Oliver Hazard Perry Rhode Island (OHPRI), the organization operating the ship, was being reconsidered. Rather than focussing on distance sailing, … Continue reading &rarr;"
 categories:
   - "Current"

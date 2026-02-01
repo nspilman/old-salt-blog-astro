@@ -1,7 +1,7 @@
 ---
 title: "Remembering Captain Robert M. Cusick"
 date: 2016-04-10T20:08:13
-slug: remembering-captain-robert-m-cusick
+slug: "remembering-captain-robert-m-cusick"
 excerpt: "Captain Robert M. Cusick was born today on April 10, 1923, in Boston, Massachusetts. He was the chief mate and one of only three survivors on the SS Marine Electric when she sank on February 12, 1983. His testimony in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

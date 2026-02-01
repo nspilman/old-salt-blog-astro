@@ -1,7 +1,7 @@
 ---
 title: "Titanic Museum to Open in Pigeon Forge, Tennessee?"
 date: 2010-04-05T08:33:02
-slug: titanic-museum-to-open-in-pigeon-forge-tennessee
+slug: "titanic-museum-to-open-in-pigeon-forge-tennessee"
 excerpt: "Pigeon Forge, Tennessee is a small town located in the Great Smokey Mountains of Tennessee, located just north of the Great Smokey National Park.  It is one of the more unlikely locales in which to find a half scale recreation of the Titanic opening in early … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

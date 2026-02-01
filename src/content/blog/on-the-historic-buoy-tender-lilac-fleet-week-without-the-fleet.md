@@ -1,7 +1,7 @@
 ---
 title: "Fleet Week without the Fleet on the Historic Buoy Tender Lilac"
 date: 2013-05-19T13:58:43
-slug: on-the-historic-buoy-tender-lilac-fleet-week-without-the-fleet
+slug: "on-the-historic-buoy-tender-lilac-fleet-week-without-the-fleet"
 excerpt: "For the last 30 years, New York has welcomed ships and crews from the US Navy and Coast Guard to the harbor around the Memorial Day weekend during a celebration of Fleet Week.  Unfortunately, this year’s Fleet Week has been scuttled … Continue reading &rarr;"
 categories:
   - "Current"

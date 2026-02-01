@@ -1,7 +1,7 @@
 ---
 title: "Noorderlicht – Summer Nordic Cruiser & Winter Ice Hotel"
 date: 2010-11-06T08:50:53
-slug: noorderlicht-summer-nordic-cruiser-winter-ice-hotel
+slug: "noorderlicht-summer-nordic-cruiser-winter-ice-hotel"
 excerpt: "The 36 meter steel schooner Noorderlicht celebrates her one hundredth birthday this year.  With ten double cabins for passengers, she cruises along the Svalbard archipelago in the Arctic Ocean in the summer and coastal Norway in the Autumn. Her winter employment is what … Continue reading &rarr;"
 categories:
   - "Current"

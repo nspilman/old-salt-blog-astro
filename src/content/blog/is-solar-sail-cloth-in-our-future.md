@@ -1,7 +1,7 @@
 ---
 title: "Is Solar Sail Cloth in our Future?"
 date: 2014-12-22T09:02:00
-slug: is-solar-sail-cloth-in-our-future
+slug: "is-solar-sail-cloth-in-our-future"
 excerpt: "For roughly the last ten years, UK Sailmakers of Mandelieu, France has been developing Uni-Titanium sails, in which thin sheets of uni-directional carbon films are laminated into the sail. They are now partnering with the Solar Cloth Company of the UK to develop … Continue reading &rarr;"
 categories:
   - "Current"

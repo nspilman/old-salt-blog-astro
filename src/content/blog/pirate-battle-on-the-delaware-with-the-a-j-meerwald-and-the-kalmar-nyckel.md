@@ -1,8 +1,8 @@
 ---
-title: "“Pirate” Battle on the Delaware with the A.J. Meerwald, the Kalmar Nyckel and the Gazella"
+title: "\"Pirate\" Battle on the Delaware with the A.J. Meerwald, the Kalmar Nyckel and the Gazella"
 date: 2011-09-16T12:57:34
-slug: pirate-battle-on-the-delaware-with-the-a-j-meerwald-and-the-kalmar-nyckel
-excerpt: "Frankly, the A.J. Meerwald , the Kalmar Nyckel, and the Gazela deserve far better.   The A.J. Meerwald,  the “Official Tall Ship of the state of New Jersey,” is  a 1928 built Delaware Bay oyster schooner.  The Kalmar Nyckel , the Delaware’s “Official Tall Ship,” … Continue reading &rarr;"
+slug: "pirate-battle-on-the-delaware-with-the-a-j-meerwald-and-the-kalmar-nyckel"
+excerpt: "Frankly, the A.J. Meerwald , the Kalmar Nyckel, and the Gazela deserve far better.   The A.J. Meerwald,  the \"Official Tall Ship of the state of New Jersey,\" is  a 1928 built Delaware Bay oyster schooner.  The Kalmar Nyckel , the Delaware’s \"Official Tall Ship,\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Kalmar Nyckel"
   - "pirate battle sails"
 author: "Rick Spilman"
-description: "Frankly, the A.J. Meerwald , the Kalmar Nyckel, and the Gazela deserve far better.   The A.J. Meerwald,  the “Official Tall Ship of the state of New Jersey,” is  a 1928 built Delaware Bay oyster schooner.  The Kalmar Nyckel , the Delaware’s “Official Tall Ship,” … Continue reading &rarr;"
+description: "Frankly, the A.J. Meerwald , the Kalmar Nyckel, and the Gazela deserve far better.   The A.J. Meerwald,  the \"Official Tall Ship of the state of New Jersey,\" is  a 1928 built Delaware Bay oyster schooner.  The Kalmar Nyckel , the Delaware’s \"Official Tall Ship,\" … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/Kalmar-Nyckel-150x112.jpg)

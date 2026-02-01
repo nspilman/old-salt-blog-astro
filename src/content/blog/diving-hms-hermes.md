@@ -1,7 +1,7 @@
 ---
 title: "Diving HMS Hermes"
 date: 2011-10-10T10:30:05
-slug: diving-hms-hermes
+slug: "diving-hms-hermes"
 excerpt: "Last Friday we posted about the USS Arthur W Radford as an artificial reef.  Thanks to Alaric Bond for passing on this video of the wreck of  HMS Hermes, which is a popular dive site off near Batticaloa, Sri Lanka.   … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "World’s Newest Island Rises Off Iwo Jima After Undersea Volcanic Eruption"
 date: 2023-11-12T18:14:50
-slug: worlds-newest-island-rises-off-iwo-jima-after-undersea-volcanic-eruption
+slug: "worlds-newest-island-rises-off-iwo-jima-after-undersea-volcanic-eruption"
 excerpt: "The world’s newest island has risen from the Pacific Ocean off the Japanese island of Iwo Jima after an underwater volcanic eruption that began toward the end of October. In just 10 days, volcanic ash and rocks built up on … Continue reading &rarr;"
 categories:
   - "Current"

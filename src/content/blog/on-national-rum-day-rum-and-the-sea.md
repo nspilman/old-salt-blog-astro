@@ -1,8 +1,8 @@
 ---
 title: "On National Rum Day — Rum and the Sea"
 date: 2019-08-16T17:21:29
-slug: on-national-rum-day-rum-and-the-sea
-excerpt: "Today is “National Rum Day” in the United States. Why? Why not? In observation of the day, it seems worthwhile to consider the role of rum at sea. Before there was rum, there was water. The problem with water was … Continue reading &rarr;"
+slug: "on-national-rum-day-rum-and-the-sea"
+excerpt: "Today is \"National Rum Day\" in the United States. Why? Why not? In observation of the day, it seems worthwhile to consider the role of rum at sea. Before there was rum, there was water. The problem with water was … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "rum"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/rumration.jpg"
 author: "Rick Spilman"
-description: "Today is “National Rum Day” in the United States. Why? Why not? In observation of the day, it seems worthwhile to consider the role of rum at sea. Before there was rum, there was water. The problem with water was … Continue reading &rarr;"
+description: "Today is \"National Rum Day\" in the United States. Why? Why not? In observation of the day, it seems worthwhile to consider the role of rum at sea. Before there was rum, there was water. The problem with water was … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/rumration.jpg)Today is “[National Rum Day](https://nationaldaycalendar.com/national-rum-day-august-16/)” in the United States. Why? Why not? In observation of the day, it seems worthwhile to consider the role of rum at sea.

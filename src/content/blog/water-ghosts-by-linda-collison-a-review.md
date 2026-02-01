@@ -1,8 +1,8 @@
 ---
 title: "Water Ghosts by Linda Collison — A Review"
 date: 2015-05-31T12:42:03
-slug: water-ghosts-by-linda-collison-a-review
-excerpt: "In Linda Collison’s new novel, Water Ghosts, seven troubled teenagers embark  on a vintage Chinese junk on a Pacific “adventure-therapy” voyage, to either help them work out their problems or just possibly to get them out of their parents’ hair. … Continue reading &rarr;"
+slug: "water-ghosts-by-linda-collison-a-review"
+excerpt: "In Linda Collison’s new novel, Water Ghosts, seven troubled teenagers embark  on a vintage Chinese junk on a Pacific \"adventure-therapy\" voyage, to either help them work out their problems or just possibly to get them out of their parents’ hair. … Continue reading &rarr;"
 categories:
   - "Newbooks"
   - "Reviews"

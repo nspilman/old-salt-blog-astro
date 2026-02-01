@@ -1,8 +1,8 @@
 ---
 title: "Reviews for Evening Gray Morning Red on Pirates and Privateers Blog"
 date: 2018-01-30T16:35:44
-slug: reviews-evening-gray-morning-red-pirates-privateers-blog
-excerpt: "My latest novel, Evening Gray Morning Red, has received not one, but two, wonderful reviews on the Pirates and Privateers blog, by Cindy Vallar and Irwin Bryan, respectively.  Excerpts from Cindy Vallar’s review: “Gripping nautical and historical fiction at its best… Spilman deftly brings … Continue reading &rarr;"
+slug: "reviews-evening-gray-morning-red-pirates-privateers-blog"
+excerpt: "My latest novel, Evening Gray Morning Red, has received not one, but two, wonderful reviews on the Pirates and Privateers blog, by Cindy Vallar and Irwin Bryan, respectively.  Excerpts from Cindy Vallar’s review: \"Gripping nautical and historical fiction at its best… Spilman deftly brings … Continue reading &rarr;"
 categories:
   - "Newbooks"
   - "Reviews"
@@ -13,7 +13,7 @@ tags:
   - "Irwin Bryan"
   - "Pirates and Privateers"
 author: "Rick Spilman"
-description: "My latest novel, Evening Gray Morning Red, has received not one, but two, wonderful reviews on the Pirates and Privateers blog, by Cindy Vallar and Irwin Bryan, respectively.  Excerpts from Cindy Vallar’s review: “Gripping nautical and historical fiction at its best… Spilman deftly brings … Continue reading &rarr;"
+description: "My latest novel, Evening Gray Morning Red, has received not one, but two, wonderful reviews on the Pirates and Privateers blog, by Cindy Vallar and Irwin Bryan, respectively.  Excerpts from Cindy Vallar’s review: \"Gripping nautical and historical fiction at its best… Spilman deftly brings … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/EGMRcoverthumb.jpg)My latest novel, *[Evening Gray Morning Red](https://www.amazon.com/Evening-Gray-Morning-Rick-Spilman-ebook/dp/B075NY1SRL/ref=asap_bc?ie=UTF8),* has received not one, but two, wonderful reviews on the [Pirates and Privateers](http://www.cindyvallar.com/pirates.html) blog, by Cindy Vallar and Irwin Bryan, respectively. 

@@ -1,7 +1,7 @@
 ---
 title: "Movie to Be Made About Robert Smalls’ Daring Hijacking of CSS Planter"
 date: 2019-02-25T18:54:25
-slug: movie-to-be-made-about-robert-smalls-daring-hijacking-of-css-planter
+slug: "movie-to-be-made-about-robert-smalls-daring-hijacking-of-css-planter"
 excerpt: "On May 13, 1862, Robert Smalls, a 23-year-old slave, who served as the pilot of the Confederate armed transport, CSS Planter, seized the steamer, sailed it out past the batteries and forts of Charleston harbor and turned it over to the Union naval blockade. Smalls … Continue reading &rarr;"
 categories:
   - "Current"

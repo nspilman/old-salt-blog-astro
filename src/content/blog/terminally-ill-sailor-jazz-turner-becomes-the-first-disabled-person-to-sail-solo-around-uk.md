@@ -1,7 +1,7 @@
 ---
 title: "Terminally Ill Sailor, Jazz Turner, Becomes the First Disabled Person to Sail Solo Around UK"
 date: 2025-07-02T09:47:16
-slug: terminally-ill-sailor-jazz-turner-becomes-the-first-disabled-person-to-sail-solo-around-uk
+slug: "terminally-ill-sailor-jazz-turner-becomes-the-first-disabled-person-to-sail-solo-around-uk"
 excerpt: "Jazz Turner sailed back into Brighton on Monday afternoon, June 30, after a voyage of 28 days, becoming the first disabled person to make the journey around the British Isles non-stop and unassisted. Turner sailed from Brighton on June 2 … Continue reading &rarr;"
 categories:
   - "Current"

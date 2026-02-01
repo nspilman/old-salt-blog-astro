@@ -1,7 +1,7 @@
 ---
 title: "Norovirus on RCCL Explorer of the Seas — Worse than Cannibal Rats"
 date: 2014-01-27T10:09:12
-slug: norovirus-on-rccl-explorer-of-the-seas-worse-than-cannibal-rats
+slug: "norovirus-on-rccl-explorer-of-the-seas-worse-than-cannibal-rats"
 excerpt: "My next door neighbors left last Tuesday for a 10 day cruise in the Eastern Caribbean on the Royal Caribbean Cruise Line ship Explorer of the Seas.  I saw them shortly before they departed.  We were both shoveling snow from our … Continue reading &rarr;"
 categories:
   - "Current"

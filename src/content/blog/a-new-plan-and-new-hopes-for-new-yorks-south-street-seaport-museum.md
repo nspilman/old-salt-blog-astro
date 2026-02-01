@@ -1,7 +1,7 @@
 ---
 title: "A New Plan and New Hopes for New York’s South Street Seaport Museum"
 date: 2011-05-16T14:10:16
-slug: a-new-plan-and-new-hopes-for-new-yorks-south-street-seaport-museum
+slug: "a-new-plan-and-new-hopes-for-new-yorks-south-street-seaport-museum"
 excerpt: "Great news for supporters of New York’s South Street Seaport Museum which has been in a state of near collapse since February.  The Save our Seaport grassroots organization reports the following: The NYS Attorney General has told the Seaport Museum New York … Continue reading &rarr;"
 categories:
   - "Current"

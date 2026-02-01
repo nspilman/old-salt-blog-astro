@@ -1,7 +1,7 @@
 ---
 title: "In the Time of COVID-19, the Unexpected Voyage of the Wylde Swan"
 date: 2020-04-26T15:53:38
-slug: in-the-time-of-covid-19-the-unexpected-voyage-of-the-wylde-swan
+slug: "in-the-time-of-covid-19-the-unexpected-voyage-of-the-wylde-swan"
 excerpt: "The Wylde Swan has returned to the Netherlands. The schooner, said to be the world’s largest topsail schooner, was completing an educational cruise of the Caribbean with 25 Dutch high school students, ages 14 to 17. The plan was for … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

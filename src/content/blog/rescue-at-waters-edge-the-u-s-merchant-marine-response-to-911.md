@@ -1,7 +1,7 @@
 ---
 title: "An American Dunkirk – Evacuating Manhattan on 9/11"
 date: 2011-09-11T07:38:14
-slug: rescue-at-waters-edge-the-u-s-merchant-marine-response-to-911
+slug: "rescue-at-waters-edge-the-u-s-merchant-marine-response-to-911"
 excerpt: "Ten years ago today, amidst the smoke, flames, and debris from the collapsed World Trade Center towers, an armada of tugs, ferries, launches and virtually every other craft available in New York harbor steamed toward the docks and seawalls of … Continue reading &rarr;"
 categories:
   - "Current"

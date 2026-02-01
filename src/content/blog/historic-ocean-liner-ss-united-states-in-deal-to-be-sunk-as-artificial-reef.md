@@ -1,7 +1,7 @@
 ---
 title: "Historic Ocean Liner SS United States in Deal to be Sunk as Artificial Reef"
 date: 2024-08-31T20:18:54
-slug: historic-ocean-liner-ss-united-states-in-deal-to-be-sunk-as-artificial-reef
+slug: "historic-ocean-liner-ss-united-states-in-deal-to-be-sunk-as-artificial-reef"
 excerpt: "After decades of working to save the historic ocean liner SS United States, the SS United States Conservancy has made the difficult choice to sell the old liner to be sunk to create the world’s largest artificial reef, off the … Continue reading &rarr;"
 categories:
   - "Current"

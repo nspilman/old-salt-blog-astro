@@ -1,7 +1,7 @@
 ---
 title: "Migrant Offshore Aid Station — A Millionaire’s Vision to Save Refugees"
 date: 2014-09-01T14:12:00
-slug: migrant-offshore-aid-station-a-millionaires-vision-to-save-refugees
+slug: "migrant-offshore-aid-station-a-millionaires-vision-to-save-refugees"
 excerpt: "Chris and Regina Catrambone and their daughter Maria Luisa have launched what they say is the world’s first privately funded vessel to help migrants in trouble at sea. Specifically, they hope to assist refugees in distress attempting to cross the Mediterranean … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Oceanbird, Proposed Sailing Car Carrier, Cuts Emissions by 90%"
 date: 2020-09-12T08:54:55
-slug: oceanbird-proposed-sailing-car-carrier-cuts-emissions-by-90
+slug: "oceanbird-proposed-sailing-car-carrier-cuts-emissions-by-90"
 excerpt: "A Swedish consortium that includes Wallenius Marine has designed Oceanbird, a five-masted sailing car carrier, that could have a huge impact on the development of modern commercial sail.  The design is intended to be finished in 2021 with potential delivery … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

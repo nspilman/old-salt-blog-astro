@@ -1,7 +1,7 @@
 ---
 title: "Crow’s Nests : Part 2 — Floki, Ravens and Fighting Tops"
 date: 2014-07-17T09:36:10
-slug: crows-nests-part-2-floki-ravens-and-fighting-tops
+slug: "crows-nests-part-2-floki-ravens-and-fighting-tops"
 excerpt: "The crows nest, as a shelter for the lookout on whaling ships sailing the icy waters of the Arctic, was by all indications, invented by Captain William Scoresby around 1807.  (See yesterday’s post:  Crow’s Nests : Part 1 — Melville & … Continue reading &rarr;"
 categories:
   - "History"

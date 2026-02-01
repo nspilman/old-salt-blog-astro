@@ -1,7 +1,7 @@
 ---
 title: "Pilot, New Schooner Restaurant/Bar Opens in Brooklyn to Cheers and a Few Jeers"
 date: 2017-08-08T11:33:02
-slug: pilot-new-schooner-restaurantbar-opens-brooklyn-cheers-jeers
+slug: "pilot-new-schooner-restaurantbar-opens-brooklyn-cheers-jeers"
 excerpt: "Pilot, a new seasonal restaurant and bar on an historic schooner has opened in Brooklyn, NY, off Brooklyn Bridge Park’s Pier 6 on the East River. The opening has been met with cheers and a few jeers. The cheers are … Continue reading &rarr;"
 categories:
   - "Current"

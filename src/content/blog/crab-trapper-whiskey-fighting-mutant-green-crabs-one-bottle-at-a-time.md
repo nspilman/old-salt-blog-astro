@@ -1,8 +1,8 @@
 ---
 title: "Crab Trapper Whiskey — Fighting Mutant Green Crabs One Bottle at a Time"
 date: 2022-07-12T17:01:13
-slug: crab-trapper-whiskey-fighting-mutant-green-crabs-one-bottle-at-a-time
-excerpt: "In 2018, we posted “Mutant Green Crabs Invading Maine.” At the time we noted that it sounded like a low-budget horror/sci-fi flick, but that, sadly, an aggressive breed of green crab has indeed invaded Maine’s and neighboring states’ waters. Now, … Continue reading &rarr;"
+slug: "crab-trapper-whiskey-fighting-mutant-green-crabs-one-bottle-at-a-time"
+excerpt: "In 2018, we posted \"Mutant Green Crabs Invading Maine.\" At the time we noted that it sounded like a low-budget horror/sci-fi flick, but that, sadly, an aggressive breed of green crab has indeed invaded Maine’s and neighboring states’ waters. Now, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Tamworth Distilling"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/crabtrapper.jpg"
 author: "Rick Spilman"
-description: "In 2018, we posted “Mutant Green Crabs Invading Maine.” At the time we noted that it sounded like a low-budget horror/sci-fi flick, but that, sadly, an aggressive breed of green crab has indeed invaded Maine’s and neighboring states’ waters. Now, … Continue reading &rarr;"
+description: "In 2018, we posted \"Mutant Green Crabs Invading Maine.\" At the time we noted that it sounded like a low-budget horror/sci-fi flick, but that, sadly, an aggressive breed of green crab has indeed invaded Maine’s and neighboring states’ waters. Now, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/crabtrapper.jpg)In 2018, we posted “[Mutant Green Crabs Invading Maine](https://www.oldsaltblog.com/2018/10/mutant-green-crabs-invading-maine/).” At the time we noted that it sounded like a low-budget horror/sci-fi flick, but that, sadly, an aggressive breed of green crab has indeed invaded Maine’s and neighboring states’ waters.

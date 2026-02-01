@@ -1,7 +1,7 @@
 ---
 title: "A Roomba For Lionfish — Underwater Robot Vacuum to Suck Up an Invasive Species"
 date: 2017-06-14T12:57:51
-slug: roomba-lionfish-underwater-robot-vacuum-suck-invasive-species
+slug: "roomba-lionfish-underwater-robot-vacuum-suck-invasive-species"
 excerpt: "A year ago we posted, Invasive Lionfish for Sale at Whole Foods – If You Can’t Beat ’em, Eat ’em, about a new approach to combating lionfish which have been spreading rapidly along the southeast coast of the U.S., the Caribbean, … Continue reading &rarr;"
 categories:
   - "Current"

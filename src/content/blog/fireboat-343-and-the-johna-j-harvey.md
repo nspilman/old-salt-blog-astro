@@ -1,7 +1,7 @@
 ---
 title: "Fireboat 343 and the JohnA.J. Harvey"
 date: 2010-05-01T09:13:29
-slug: fireboat-343-and-the-johna-j-harvey
+slug: "fireboat-343-and-the-johna-j-harvey"
 excerpt: "When the new New York City fireboat 343 arrived in New York harbor yesterday, one of the fleet greeting her was the fireboat John J. Harvey.  (Will has some great photos and commentary the tugster blog.)   I am struck by … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Sally Snowman, the Last Lighthouse Keeper in the US, Set to Retire"
 date: 2023-12-05T20:30:09
-slug: sally-snowman-the-last-lighthouse-keeper-in-the-us-set-to-retire
+slug: "sally-snowman-the-last-lighthouse-keeper-in-the-us-set-to-retire"
 excerpt: "For the last twenty years, Sally Snowman has worked as the keeper of the Boston Light on Little Brewster Island. She was the first woman to serve as lighthouse keeper at the lighthouse in Boston Harbor, the oldest continually used … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Pirates Days on the Embarcadero in San Diego"
 date: 2012-05-17T10:13:33
-slug: pirates-days-on-the-embarcadero-in-san-diego
-excerpt: "Aargh. Once again, the junk food of maritime events, another “pirate” festival.  This one is being sponsored by one of my favorite museums, the Maritime Museum of San Diego — home to the 1863 iron windjammer, Star of India, the world’s oldest active … Continue reading &rarr;"
+slug: "pirates-days-on-the-embarcadero-in-san-diego"
+excerpt: "Aargh. Once again, the junk food of maritime events, another \"pirate\" festival.  This one is being sponsored by one of my favorite museums, the Maritime Museum of San Diego — home to the 1863 iron windjammer, Star of India, the world’s oldest active … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Star of India"
   - "world's oldest active sailing ship"
 author: "Rick Spilman"
-description: "Aargh. Once again, the junk food of maritime events, another “pirate” festival.  This one is being sponsored by one of my favorite museums, the Maritime Museum of San Diego — home to the 1863 iron windjammer, Star of India, the world’s oldest active … Continue reading &rarr;"
+description: "Aargh. Once again, the junk food of maritime events, another \"pirate\" festival.  This one is being sponsored by one of my favorite museums, the Maritime Museum of San Diego — home to the 1863 iron windjammer, Star of India, the world’s oldest active … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/pirateKid2-190.jpg)Aargh. Once again, the junk food of maritime events, another “pirate” festival.  This one is being sponsored by one of my favorite museums, the [Maritime Museum of San Dieg](http://www.sdmaritime.org/)o — home to the 1863 iron windjammer, *[Star of India](http://www.sdmaritime.org/star-of-india/)*, the world’s oldest active sailing ship; the replica *[HMS Surprise](http://www.sdmaritime.org/hms-surprise/)  (*ex- HMS Rose), star performer in the academy award winning film, *Master and Commander: The Far Side of the World;* and the replica 1874 revenue cutter, *[Californian](http://www.sdmaritime.org/californian/),* the Official Tall Ship of the State of California*,* among other historic and replica ships. They are also building a replica of the *[San Salvador](http://www.sdmaritime.org/san-salvador/)*, the ship on which the Portuguese explorer [Juan Rodriguez Cabrillo](http://en.wikipedia.org/wiki/Juan_Rodr%C3%ADguez_Cabrillo) sailed into San Diego harbor in 1542.  (See also: [Maritime Museum, Port Celebrate Milestone in Construction of Historic Ship Replica](http://www.portofsandiego.org/recreation/2523-maritime-museum-port-celebrate-milestone-in-construction-of-historic-ship-replica.html).)  None of the wonderful collection of ships or exhibits at the museum actually have anything to do with piracy, but be that as it may.

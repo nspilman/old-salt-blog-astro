@@ -1,7 +1,7 @@
 ---
 title: "Farewell FLIP, Famous Flipping Research Platform Heads Sent to Scrapyard"
 date: 2023-08-19T18:06:37
-slug: farewell-flip-famous-flipping-research-platform-heads-sent-to-scrapyard
+slug: "farewell-flip-famous-flipping-research-platform-heads-sent-to-scrapyard"
 excerpt: "After 61 years of service, the one of its kind research vessel FLoating Instrument Platform, known as FLIP, has been retired and sent to a scrapyard.  I distinctly recall being absolutely fascinated by this engineering marvel when it was almost brand … Continue reading &rarr;"
 categories:
   - "Current"

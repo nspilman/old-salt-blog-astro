@@ -1,7 +1,7 @@
 ---
 title: "Bounty Hearings Streaming Live"
 date: 2013-02-14T15:22:27
-slug: bounty-hearings-streaming-live
+slug: "bounty-hearings-streaming-live"
 excerpt: "Today is third day of hearings by the US Coast Guard on the sinking of the HMS Bounty on October 29, 2012, with loss of crew member Claudene Christian and Captain Robin Walbridge.  The hearings will continue in Portsmouth VA through … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Bankruptcy on the Horizon? Horizon Lines Weighs April Filing"
 date: 2011-04-01T08:36:19
-slug: bankruptcy-on-the-horizon-horizon-lines-weighs-april-bankruptcy
+slug: "bankruptcy-on-the-horizon-horizon-lines-weighs-april-bankruptcy"
 excerpt: "Times have been tough for Horizon Lines, the US  Jones Act container shipping company that was spun off from Sealand in 2003.  In addition to suffering decreased revenues in the general economic downturn, in late February Horizon agreed to plead guilty to a felony charge … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Ex-Queen Mary Operators in Alleged $2.4 Million PPP Loan Fraud"
 date: 2022-01-05T18:46:48
-slug: ex-queen-mary-operators-in-alleged-2-4-million-ppp-loan-fraud
+slug: "ex-queen-mary-operators-in-alleged-2-4-million-ppp-loan-fraud"
 excerpt: "In January of last year, we posted that the operator of the ex-Cunard Queen Mary filed for bankruptcy. The converted ship is owned by the City of Long Beach and has been managed by Eagle Hospitality, ex-Urban Commons, since 2016. Now, … Continue reading &rarr;"
 categories:
   - "Current"

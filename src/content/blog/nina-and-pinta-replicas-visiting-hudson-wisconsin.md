@@ -1,8 +1,8 @@
 ---
 title: "Nina and Pinta Replicas Visiting Hudson, Wisconsin"
 date: 2010-08-05T08:33:15
-slug: nina-and-pinta-replicas-visiting-hudson-wisconsin
-excerpt: "Replicas of two of Christopher Columbus’ ships, the Nina and Pinta, will be visiting Hudson, Wisconsin. The ships will be open to visitors at the Hudson Docks from Friday, Aug. 6, through Monday, Aug. 16. Columbus Ship Replicas Come To Wisconsin The “Nina” was … Continue reading &rarr;"
+slug: "nina-and-pinta-replicas-visiting-hudson-wisconsin"
+excerpt: "Replicas of two of Christopher Columbus’ ships, the Nina and Pinta, will be visiting Hudson, Wisconsin. The ships will be open to visitors at the Hudson Docks from Friday, Aug. 6, through Monday, Aug. 16. Columbus Ship Replicas Come To Wisconsin The \"Nina\" was … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Pinta"
   - "Wisconsin"
 author: "Rick Spilman"
-description: "Replicas of two of Christopher Columbus’ ships, the Nina and Pinta, will be visiting Hudson, Wisconsin. The ships will be open to visitors at the Hudson Docks from Friday, Aug. 6, through Monday, Aug. 16. Columbus Ship Replicas Come To Wisconsin The “Nina” was … Continue reading &rarr;"
+description: "Replicas of two of Christopher Columbus’ ships, the Nina and Pinta, will be visiting Hudson, Wisconsin. The ships will be open to visitors at the Hudson Docks from Friday, Aug. 6, through Monday, Aug. 16. Columbus Ship Replicas Come To Wisconsin The \"Nina\" was … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/ninapinta.jpg)

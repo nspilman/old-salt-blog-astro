@@ -1,7 +1,7 @@
 ---
 title: "Iowa Class Battleship News – USS Iowa Makes Final Journey, USS New Jersey Gets a Loan and USS Missouri Saves the World From Aliens"
 date: 2012-06-10T10:51:49
-slug: iowa-class-battleship-news-uss-iowa-makes-final-journey-uss-new-jersey-gets-a-loan-and-uss-missouri-saves-the-world-from-aliens
+slug: "iowa-class-battleship-news-uss-iowa-makes-final-journey-uss-new-jersey-gets-a-loan-and-uss-missouri-saves-the-world-from-aliens"
 excerpt: "These are busy time for the World War II vintage Iowa Class battleships. The USS Iowa arrived yesterday in the Port of Los Angeles to tie up alongside her new permanent home, Berth 87, in San Pedro, California, where she will become … Continue reading &rarr;"
 categories:
   - "Current"

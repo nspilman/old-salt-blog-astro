@@ -1,7 +1,7 @@
 ---
 title: "Holy-calamari, Batman! Flying squid!"
 date: 2010-12-19T08:53:26
-slug: holy-calamari-batman-flying-squid
+slug: "holy-calamari-batman-flying-squid"
 excerpt: "Though often confused with flying fish, the Japanese flying squid, Todarodes pacificus, uses jet propulsion to leap out of the sea and fly up to 65ft to escape predators.   Graham Ekins, 60, a retired deputy head teacher from Boreham, Essex, … Continue reading &rarr;"
 categories:
   - "Current"

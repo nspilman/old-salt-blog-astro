@@ -1,7 +1,7 @@
 ---
 title: "What’s SUP? Stand-Up Paddling – the New Rage on the Water"
 date: 2010-08-08T07:41:09
-slug: whats-sup-stand-up-paddling-the-new-rage-on-the-water
+slug: "whats-sup-stand-up-paddling-the-new-rage-on-the-water"
 excerpt: "About a year ago, I saw what appeared to be a man standing up in the middle of the Hudson River. That is about all I could see.  He appeared to making a sweeping motion with his hands and arms … Continue reading &rarr;"
 categories:
   - "Current"

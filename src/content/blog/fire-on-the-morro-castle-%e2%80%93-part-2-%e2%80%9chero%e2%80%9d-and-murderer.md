@@ -1,7 +1,7 @@
 ---
-title: "Fire on the Morro Castle – Part 2: “Hero” and Murderer"
+title: "Fire on the Morro Castle – Part 2: \"Hero\" and Murderer"
 date: 2009-09-08T08:31:20
-slug: fire-on-the-morro-castle-%e2%80%93-part-2-%e2%80%9chero%e2%80%9d-and-murderer
+slug: "fire-on-the-morro-castle-%e2%80%93-part-2-%e2%80%9chero%e2%80%9d-and-murderer"
 excerpt: "In the aftermath of the fire in 1934 on the passenger liner Morro Castle, in which 135 passengers and crew died, there was considerable blame to be shared. The ship’s safety equipment was poorly maintained, the crew poorly trained and the … Continue reading &rarr;"
 categories:
   - "History"

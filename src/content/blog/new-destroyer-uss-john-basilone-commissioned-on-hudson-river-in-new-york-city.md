@@ -1,7 +1,7 @@
 ---
 title: "New Destroyer USS John Basilone Commissioned on Hudson River in New York City"
 date: 2024-11-13T19:36:53
-slug: new-destroyer-uss-john-basilone-commissioned-on-hudson-river-in-new-york-city
+slug: "new-destroyer-uss-john-basilone-commissioned-on-hudson-river-in-new-york-city"
 excerpt: "Last Saturday morning at Pier 88 on the Hudson River, the US Navy commissioned its newest destroyer, USS John Basilone. With the New York City skyline as a backdrop, the ceremony took place between the aircraft carrier USS Intrepid and the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Long Delayed Refurbished Russian Aircraft Carrier Finally Commissioned by India as INS Vikramaditya"
 date: 2013-11-18T18:25:02
-slug: long-delayed-refurbished-russian-aircraft-carrier-finally-commissioned-by-india-as-ins-vikramaditya
+slug: "long-delayed-refurbished-russian-aircraft-carrier-finally-commissioned-by-india-as-ins-vikramaditya"
 excerpt: "The Indian Navy has finally taken delivery of a modified the Kiev class aircraft carrier, which it purchased from the Russians in 2002.  The ship was actually given to the Indian Navy with the stipulation that the estimated $800 million in … Continue reading &rarr;"
 categories:
   - "Current"

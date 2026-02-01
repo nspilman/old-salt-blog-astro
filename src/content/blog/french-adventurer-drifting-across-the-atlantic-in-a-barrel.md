@@ -1,7 +1,7 @@
 ---
 title: "French Adventurer Drifting Across the Atlantic in a Barrel"
 date: 2018-12-28T18:17:26
-slug: french-adventurer-drifting-across-the-atlantic-in-a-barrel
+slug: "french-adventurer-drifting-across-the-atlantic-in-a-barrel"
 excerpt: "On Wednesday, 71-year-old  French adventurer Jean-Jacques Savin set off to cross the Atlantic in an unlikely craft — a barrel. He departed from El Hierro, one of the Canary Islands, west of Morocco, in a barrel-shaped capsule with the intention of drifting, … Continue reading &rarr;"
 categories:
   - "Current"

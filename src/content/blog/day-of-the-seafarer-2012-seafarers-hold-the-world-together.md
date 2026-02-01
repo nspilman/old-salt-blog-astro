@@ -1,8 +1,8 @@
 ---
 title: "Day of the Seafarer 2012 – Seafarers Hold the World Together"
 date: 2012-06-25T08:13:56
-slug: day-of-the-seafarer-2012-seafarers-hold-the-world-together
-excerpt: "Today is the IMO “Day of the Seafarer.”  So? Why does it matter?  It matters because without the hard working men and women who go to sea, our world, our global civilization, simply would not exist. Take a look at a world … Continue reading &rarr;"
+slug: "day-of-the-seafarer-2012-seafarers-hold-the-world-together"
+excerpt: "Today is the IMO \"Day of the Seafarer.\"  So? Why does it matter?  It matters because without the hard working men and women who go to sea, our world, our global civilization, simply would not exist. Take a look at a world … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "IMO"
   - "International Maritime Organization"
 author: "Rick Spilman"
-description: "Today is the IMO “Day of the Seafarer.”  So? Why does it matter?  It matters because without the hard working men and women who go to sea, our world, our global civilization, simply would not exist. Take a look at a world … Continue reading &rarr;"
+description: "Today is the IMO \"Day of the Seafarer.\"  So? Why does it matter?  It matters because without the hard working men and women who go to sea, our world, our global civilization, simply would not exist. Take a look at a world … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/2012_dosf_banner.jpg)Today is the [IMO “Day of the Seafarer](http://www.imo.org/About/Events/dayoftheseafarer/Pages/default.aspx).”  So? Why does it matter?  It matters because without the hard working men and women who go to sea, our world, our global civilization, simply would not exist.

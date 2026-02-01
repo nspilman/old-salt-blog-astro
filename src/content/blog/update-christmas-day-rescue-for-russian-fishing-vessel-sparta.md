@@ -1,7 +1,7 @@
 ---
 title: "Update: Christmas Day Rescue for Russian Fishing Vessel Sparta?"
 date: 2011-12-24T09:30:03
-slug: update-christmas-day-rescue-for-russian-fishing-vessel-sparta
+slug: "update-christmas-day-rescue-for-russian-fishing-vessel-sparta"
 excerpt: "The South Korean icebreaker Araon and the fishing vessel Chiyo Maru No 3 may reach the stricken Russian fishing vessel Sparta on Christmas Day. The Sparta is a 157 feet long fishing vessel with a crew of 32 aboard which … Continue reading &rarr;"
 categories:
   - "Current"

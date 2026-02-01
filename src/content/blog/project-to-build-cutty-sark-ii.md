@@ -1,7 +1,7 @@
 ---
 title: "Project to Build Cutty Sark II"
 date: 2015-11-29T18:02:29
-slug: project-to-build-cutty-sark-ii
+slug: "project-to-build-cutty-sark-ii"
 excerpt: "A group of tall ship enthusiasts are attempting raise money to build and sail an exact replica of the great composite clipper ship, Cutty Sark.  The goal is to launch the Cutty Sark II  by November 2019, the 150th anniversary of … Continue reading &rarr;"
 categories:
   - "Current"

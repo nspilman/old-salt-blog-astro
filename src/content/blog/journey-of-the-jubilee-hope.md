@@ -1,7 +1,7 @@
 ---
 title: "Journey of the Jubilee Hope"
 date: 2014-10-08T08:14:15
-slug: journey-of-the-jubilee-hope
+slug: "journey-of-the-jubilee-hope"
 excerpt: "The hospital ship Jubilee Hope was recently christened by the Princess Royal, in Tanzania on Lake Victoria. The 160 ton ship will provide health services to 150 remote island communities with 400,000 people on the large inland lake. She will be … Continue reading &rarr;"
 categories:
   - "Current"

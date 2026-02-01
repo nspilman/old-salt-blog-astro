@@ -1,13 +1,13 @@
 ---
 title: "Turning a Blind Eye – Nelson at Copenhagen"
 date: 2011-04-02T16:56:52
-slug: turning-a-blind-eye-nelson-at-copenhagen
+slug: "turning-a-blind-eye-nelson-at-copenhagen"
 excerpt: "On April 2, 1801 at a key moment at the Battle of Copenhagen, Admiral Sir Hyde Parker, in overall command of the British forces, sent a signal to Vice-Admiral Horatio Nelson to withdraw.  Nelson is said to have lifted his telescope to his blind eye … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
 tags:
-  - ""turn a blind eye"
+  - "\"turn a blind eye"
   - "Admiral Sir Hyde Parker"
   - "Battle of Copenhagen"
   - "Vice-Admiral Horatio Nelson"

@@ -1,7 +1,7 @@
 ---
 title: "Model of HMS Victory carved from HMS Victory"
 date: 2010-10-23T07:56:12
-slug: model-of-hms-victory-carved-from-hms-victory
+slug: "model-of-hms-victory-carved-from-hms-victory"
 excerpt: "We previously posted about a model of the Mayflower crafted from timber believed to used on the original ship that carried the Pilgrims to America.   Alaric Bond passed along an article about a model of the HMS Victory by sculptor and … Continue reading &rarr;"
 categories:
   - "History"

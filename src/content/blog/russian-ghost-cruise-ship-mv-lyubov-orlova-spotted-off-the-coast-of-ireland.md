@@ -1,8 +1,8 @@
 ---
 title: "Russian Ghost Cruise Ship MV Lyubov Orlova Spotted Off The Coast Of Ireland"
 date: 2013-02-22T18:43:55
-slug: russian-ghost-cruise-ship-mv-lyubov-orlova-spotted-off-the-coast-of-ireland
-excerpt: "For almost a month, the small cruise ship MV Lyubov Orlova has been adrift in the Atlantic Ocean, a “ghost ship” without power, lights or passengers, except for the rats left aboard.  The 295′ ice strengthened cruise ship, built in Yugoslavia in 1976, has been abandoned twice – once … Continue reading &rarr;"
+slug: "russian-ghost-cruise-ship-mv-lyubov-orlova-spotted-off-the-coast-of-ireland"
+excerpt: "For almost a month, the small cruise ship MV Lyubov Orlova has been adrift in the Atlantic Ocean, a \"ghost ship\" without power, lights or passengers, except for the rats left aboard.  The 295′ ice strengthened cruise ship, built in Yugoslavia in 1976, has been abandoned twice – once … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "ghost ship"
   - "MV Lyubov Orlova"
 author: "Rick Spilman"
-description: "For almost a month, the small cruise ship MV Lyubov Orlova has been adrift in the Atlantic Ocean, a “ghost ship” without power, lights or passengers, except for the rats left aboard.  The 295′ ice strengthened cruise ship, built in Yugoslavia in 1976, has been abandoned twice – once … Continue reading &rarr;"
+description: "For almost a month, the small cruise ship MV Lyubov Orlova has been adrift in the Atlantic Ocean, a \"ghost ship\" without power, lights or passengers, except for the rats left aboard.  The 295′ ice strengthened cruise ship, built in Yugoslavia in 1976, has been abandoned twice – once … Continue reading &rarr;"
 ---
 
 ![1-anundatedhan](http://www.oldsaltblog.com/wp-content/uploads/2013/02/1-anundatedhan.jpg)For almost a month, the small cruise ship [MV *Lyubov Orlova*](http://en.wikipedia.org/wiki/MV_Lyubov_Orlova) has been adrift in the Atlantic Ocean, a “ghost ship” without power, lights or passengers, except for the rats left aboard.  The 295′ ice strengthened cruise ship, built in Yugoslavia in 1976, has been abandoned twice – once by her owners in St John’s, Newfoundland in 2010 and once by Transport Canada. The ship was recently spotted drifting over a thousand miles off the coast of Ireland.

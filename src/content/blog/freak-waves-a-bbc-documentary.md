@@ -1,7 +1,7 @@
 ---
 title: "Freak Waves – a BBC Documentary"
 date: 2010-10-06T08:12:24
-slug: freak-waves-a-bbc-documentary
+slug: "freak-waves-a-bbc-documentary"
 excerpt: "As noted in our recent review, I found Susan Casey’s The Wave: In Pursuit of the Rogues, Freaks and Giants of the Ocean to be very disappointing because it spends far more time with extreme surfer dudes than it does … Continue reading &rarr;"
 categories:
   - "Current"

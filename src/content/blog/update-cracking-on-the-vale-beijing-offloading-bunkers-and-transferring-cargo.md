@@ -1,7 +1,7 @@
 ---
 title: "Update: Cracking on the Vale Beijing – Offloading Bunkers and Transferring Cargo"
 date: 2012-01-07T21:53:14
-slug: update-cracking-on-the-vale-beijing-offloading-bunkers-and-transferring-cargo
+slug: "update-cracking-on-the-vale-beijing-offloading-bunkers-and-transferring-cargo"
 excerpt: "In early December, on her maiden voyage, the VLOC (Very Large Ore Carrier) Vale Beijing suffered structural cracking while loading cargo in northeast Brasil.  As reported by Maritime Propulsion , the extent of the damage was significant – the hull plating was found to … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: E-Ship 1 – Sailing Ship without Sails"
 date: 2012-08-13T09:19:39
-slug: update-e-ship-1-sailing-ship-without-sails
+slug: "update-e-ship-1-sailing-ship-without-sails"
 excerpt: "Two years ago, we posted about the delivery of the E-Ship 1, a ship built for Enercon, a German producer of wind turbines. The ship is intended to demonstrate energy saving technology as well as to deliver Enercon wind turbine assemblies … Continue reading &rarr;"
 categories:
   - "Current"

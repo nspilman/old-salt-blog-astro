@@ -1,8 +1,8 @@
 ---
 title: "Breaking News: NOAA Claims that Mermaids Aren’t Real!"
 date: 2012-07-02T16:11:38
-slug: breaking-news-noaa-claims-that-mermaids-arent-real
-excerpt: "The National Oceanic and Atmospheric Administration has taken the bold step of announcing that “no evidence of aquatic humanoids has ever been found.”  In other words, mermaids aren’t real!  Something is fishy here. On the other hand, the government has also denied the existence of space aliens, yet how else … Continue reading &rarr;"
+slug: "breaking-news-noaa-claims-that-mermaids-arent-real"
+excerpt: "The National Oceanic and Atmospheric Administration has taken the bold step of announcing that \"no evidence of aquatic humanoids has ever been found.\"  In other words, mermaids aren’t real!  Something is fishy here. On the other hand, the government has also denied the existence of space aliens, yet how else … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "National Oceanic and Atmospheric Administration"
   - "NOAA"
 author: "Rick Spilman"
-description: "The National Oceanic and Atmospheric Administration has taken the bold step of announcing that “no evidence of aquatic humanoids has ever been found.”  In other words, mermaids aren’t real!  Something is fishy here. On the other hand, the government has also denied the existence of space aliens, yet how else … Continue reading &rarr;"
+description: "The National Oceanic and Atmospheric Administration has taken the bold step of announcing that \"no evidence of aquatic humanoids has ever been found.\"  In other words, mermaids aren’t real!  Something is fishy here. On the other hand, the government has also denied the existence of space aliens, yet how else … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/mermaid11.jpg)The National Oceanic and Atmospheric Administration has taken the bold step of announcing that “[no evidence of aquatic humanoids has ever been found](http://oceanservice.noaa.gov/facts/mermaids.html).”  In other words, mermaids aren’t real!  Something is fishy here. On the other hand, the government has also denied the existence of space aliens, yet how else can one explain Donald Trump?

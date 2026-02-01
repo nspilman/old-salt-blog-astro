@@ -1,7 +1,7 @@
 ---
 title: "UK Frigates & Russian Submarines — Increasing Challenges & Too Few Ships"
 date: 2016-06-09T13:38:24
-slug: uk-frigates-russian-submarine
+slug: "uk-frigates-russian-submarine"
 excerpt: "Naval ships are very expensive to build and operate and in the best of all possible worlds would never be used.  Nevertheless, they exist for a purpose.  Recently, while taking part in commemorations for the Battle of Jutland centenary, HMS Kent intercepted … Continue reading &rarr;"
 categories:
   - "Current"

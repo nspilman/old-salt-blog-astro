@@ -1,7 +1,7 @@
 ---
 title: "North Korea Developing Ballistic Missile Submarine, Tests Sub-Launched Missile"
 date: 2019-10-03T14:57:26
-slug: north-korea-developing-ballistic-missile-submarine-tests-sub-launched-missile
+slug: "north-korea-developing-ballistic-missile-submarine-tests-sub-launched-missile"
 excerpt: "North Korea appears to be aggressively developing the capacity to deploy a ballistic missile submarine even as it purports to continue to negotiate denuclearization with the current administration. Yesterday, the Washington Post reported that North Korea successfully tested a new … Continue reading &rarr;"
 categories:
   - "Current"

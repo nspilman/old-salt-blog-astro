@@ -1,7 +1,7 @@
 ---
 title: "Noah’s Violin Serenades Venice as it Sails the Grand Canal"
 date: 2021-09-26T16:15:20
-slug: noahs-violin-serenades-venice-as-it-sails-the-grand-canal
+slug: "noahs-violin-serenades-venice-as-it-sails-the-grand-canal"
 excerpt: "We recently posted A Look at Venetian Gondolas — Designs New and Old.  Here is a post about a very different watercraft that graced Venetian waters last weekend. Named Noah’s Violin, it is a 12-meter electric-powered giant floating violin, the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Littoral Combat Ship Program Plowing Ahead Regardless"
 date: 2012-04-06T07:25:40
-slug: littoral-combat-ship-program-plowing-ahead-regardless
+slug: "littoral-combat-ship-program-plowing-ahead-regardless"
 excerpt: "It is never a good sign for a new class of Navy ships when an article about them appears on the front page of the New York Times.  The article, Navy Plowing Ahead on New Coastal Ship, Despite Woes by Elisabeth Bumiller,  focuses on … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

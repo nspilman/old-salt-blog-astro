@@ -1,7 +1,7 @@
 ---
 title: "The Swedish Ship Götheborg Demonstrates Making Pine Tar"
 date: 2021-06-20T10:09:48
-slug: the-swedish-ship-gotheborg-demonstrates-making-pine-tar
+slug: "the-swedish-ship-gotheborg-demonstrates-making-pine-tar"
 excerpt: "Before chemical or petroleum-based sealants, tar made from pine trees had a myriad of uses; from protecting hemp ropes, lines, and cable from rot; to waterproofing canvas; for preserving wood; to being used as an antiseptic in chronic skin conditions. … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,8 +1,8 @@
 ---
 title: "Edmund ‘Ned’ Cabot, Boston Brahmin Scion and Avid Yachtsman, Drowns off Newfoundland"
 date: 2012-09-06T17:16:28
-slug: edmund-ned-cabot-boston-brahmin-scion-and-avid-yachtsman-drowns-off-newfoundland
-excerpt: "Sad news. Dr. Edmund ‘Ned’ Cabot, 69, a retired surgeon and a lifelong sailor, drowned on Saturday off the coast of Newfoundland when his sloop  Cielita was knocked down by a “rogue wave” and he was lost overboard. Edmund ‘Ned’ Cabot, Boston … Continue reading &rarr;"
+slug: "edmund-ned-cabot-boston-brahmin-scion-and-avid-yachtsman-drowns-off-newfoundland"
+excerpt: "Sad news. Dr. Edmund ‘Ned’ Cabot, 69, a retired surgeon and a lifelong sailor, drowned on Saturday off the coast of Newfoundland when his sloop  Cielita was knocked down by a \"rogue wave\" and he was lost overboard. Edmund ‘Ned’ Cabot, Boston … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "Edmund ‘Ned’ Cabot"
   - "Newfoundland"
 author: "Rick Spilman"
-description: "Sad news. Dr. Edmund ‘Ned’ Cabot, 69, a retired surgeon and a lifelong sailor, drowned on Saturday off the coast of Newfoundland when his sloop  Cielita was knocked down by a “rogue wave” and he was lost overboard. Edmund ‘Ned’ Cabot, Boston … Continue reading &rarr;"
+description: "Sad news. Dr. Edmund ‘Ned’ Cabot, 69, a retired surgeon and a lifelong sailor, drowned on Saturday off the coast of Newfoundland when his sloop  Cielita was knocked down by a \"rogue wave\" and he was lost overboard. Edmund ‘Ned’ Cabot, Boston … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/Cabot-3291.jpg)](http://www.boston.com/news/local/massachusetts/2012/09/02/edmund-cabot-brahmin-scion-and-avid-yachtsman-drowns-off-newfoundland/o10CcgCVIIt74OQRmNKx9N/story.html)Sad news. Dr. Edmund ‘Ned’ Cabot, 69, a retired surgeon and a lifelong sailor, drowned on Saturday off the coast of Newfoundland when his sloop  *Cielita* was knocked down by a “rogue wave” and he was lost overboard.  

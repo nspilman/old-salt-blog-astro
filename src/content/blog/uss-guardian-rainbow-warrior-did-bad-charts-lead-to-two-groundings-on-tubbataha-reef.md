@@ -1,7 +1,7 @@
 ---
 title: "USS Guardian & Rainbow Warrior  – Did Bad Charts Lead to Two Groundings on Tubbataha Reef ?"
 date: 2013-01-19T14:01:30
-slug: uss-guardian-rainbow-warrior-did-bad-charts-lead-to-two-groundings-on-tubbataha-reef
+slug: "uss-guardian-rainbow-warrior-did-bad-charts-lead-to-two-groundings-on-tubbataha-reef"
 excerpt: "In 2005, when the Greenpeace flagship, Rainbow Warrior, ran aground on Tubbataha Reef in the Sulu Sea, the captain claimed that the reef was incorrectly plotted on his charts. As reported by the UK’s Guardian in November 1, 2005: Red Constantino of Greenpeace Southeast Asia blamed the incident on a … Continue reading &rarr;"
 categories:
   - "Current"

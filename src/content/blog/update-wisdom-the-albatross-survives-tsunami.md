@@ -1,7 +1,7 @@
 ---
 title: "Update: Wisdom, the Albatross, Survives Tsunami"
 date: 2011-03-17T08:19:07
-slug: update-wisdom-the-albatross-survives-tsunami
+slug: "update-wisdom-the-albatross-survives-tsunami"
 excerpt: "Last week we posted about a Laysan albatross, nicknamed Wisdom, who, at at least 60, is the oldest known wild bird and who also recently became a mother again, delivering a healthy chick.   The BBC has now reported that while the tsunami killed … Continue reading &rarr;"
 categories:
   - "Current"

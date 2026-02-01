@@ -1,7 +1,7 @@
 ---
 title: "Mock Iranian Carrier Claimed to Be Set for Movie About Downing of Iran Air Flight 655"
 date: 2014-03-26T12:04:17
-slug: mock-iranian-carrier-claimed-to-be-set-for-movie-about-downing-of-iran-air-flight-655
+slug: "mock-iranian-carrier-claimed-to-be-set-for-movie-about-downing-of-iran-air-flight-655"
 excerpt: "Lights, camera, mock aircraft carrier.  We posted the other day about a strange mock Nimitz aircraft carrier apparently under construction in an Iranian shipyard.  The Iranian-owned Al-Alam News Network is reporting that the mock-up is being built for a film … Continue reading &rarr;"
 categories:
   - "Current"

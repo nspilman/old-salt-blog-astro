@@ -1,7 +1,7 @@
 ---
 title: "Virtual Shanty/Chantey Sing, Part 1 — South Street Seaport"
 date: 2020-04-30T15:11:54
-slug: virtual-shanty-chantey-sing-part-1-south-street-seaport
+slug: "virtual-shanty-chantey-sing-part-1-south-street-seaport"
 excerpt: "New York’s South Street Seaport Museum‘s monthly Chantey Sing is returning virtually, this Sunday, May 3rd from 2-4pm. From the Seaport announcement: From our living rooms and kitchens, and even from the deck of Wavertree, join our round-robin of shared … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

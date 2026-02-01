@@ -1,7 +1,7 @@
 ---
 title: "Vajoliroja – Johnny Depp’s very own pirate ship in the Caribbean"
 date: 2010-04-30T16:05:29
-slug: vajoliroja-johnny-depps-very-own-pirate-ship-in-the-caribbean
+slug: "vajoliroja-johnny-depps-very-own-pirate-ship-in-the-caribbean"
 excerpt: "I ‘ve got to say that I prefer Neil Young’s and David Crosby’s taste in yachts somewhat better, but Johnny Depp’s Vajoliroja does have a certain idiosyncratic style. Johnny Depp’s very own pirate ship in the Caribbean … Continue reading &rarr;"
 categories:
   - "Current"

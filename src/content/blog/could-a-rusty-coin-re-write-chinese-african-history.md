@@ -1,7 +1,7 @@
 ---
 title: "Could a rusty coin re-write Chinese-African history?"
 date: 2010-10-25T08:21:41
-slug: could-a-rusty-coin-re-write-chinese-african-history
+slug: "could-a-rusty-coin-re-write-chinese-african-history"
 excerpt: "In August we posted about a joint  Chinese-Kenyan expedition to locate the remains of a ship from the fleet of the legandary Chinese navigator, Zheng He.  The ship was said to have sunk off Kenya near Lamu.    Recently the team discovered … Continue reading &rarr;"
 categories:
   - "History"

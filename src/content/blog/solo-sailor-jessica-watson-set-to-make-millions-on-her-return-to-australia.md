@@ -1,7 +1,7 @@
 ---
 title: "Solo sailor Jessica Watson set to make millions on her return to Australia"
 date: 2010-03-07T08:35:56
-slug: solo-sailor-jessica-watson-set-to-make-millions-on-her-return-to-australia
+slug: "solo-sailor-jessica-watson-set-to-make-millions-on-her-return-to-australia"
 excerpt: "After a controversial beginning, is Jessica Watson reaching the final legs of her circumnavigation.  A  flood of deals and endorsements could make Jessica a very wealthy teenager. Solo sailor Jessica Watson set to make millions when she finishes … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

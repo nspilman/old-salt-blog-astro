@@ -1,7 +1,7 @@
 ---
 title: "Sailing the Pride of Baltimore II"
 date: 2014-12-14T09:57:19
-slug: sailing-the-pride-of-baltimore-ii
+slug: "sailing-the-pride-of-baltimore-ii"
 excerpt: "As far as I am concerned the Baltimore clippers under sail are among the most beautiful traditional sailing ships on the face of the watery planet.  As we slip into winter here is lovely video by Pierre Henkart of the Pride of Baltimore II … Continue reading &rarr;"
 categories:
   - "Current"

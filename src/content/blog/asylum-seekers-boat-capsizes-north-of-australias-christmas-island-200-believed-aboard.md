@@ -1,7 +1,7 @@
 ---
 title: "Asylum Seekers Boat Capsizes North of Australia’s Christmas Island – 200 Believed Aboard"
 date: 2012-06-21T07:49:20
-slug: asylum-seekers-boat-capsizes-north-of-australias-christmas-island-200-believed-aboard
+slug: "asylum-seekers-boat-capsizes-north-of-australias-christmas-island-200-believed-aboard"
 excerpt: "With a sad familiarity, another overloaded boat, filled with desperate asylum seekers trying to reach Australia’s Christmas Island, has capsized in Indonesian waters. Up to 200 people are believed to have been aboard the vessel when it capsized.  Indonesia’s search and rescue authority … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: Viking Longship Dragon Harald Fairhair Under Sail"
 date: 2012-07-14T07:14:03
-slug: update-viking-longship-dragon-harold-fairhair-under-sail
+slug: "update-viking-longship-dragon-harold-fairhair-under-sail"
 excerpt: "We have been following the construction of the Dragon Harald Fairhair, (or in Norwegian Draken Harald Hårfagre)  the largest Viking longship to have been built in modern times. (See our previous post – Building the Viking Longship Dragon Harald Fairhair.)  Built of oak, … Continue reading &rarr;"
 categories:
   - "Current"

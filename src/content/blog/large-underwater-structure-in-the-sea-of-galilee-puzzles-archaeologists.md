@@ -1,7 +1,7 @@
 ---
 title: "Large Underwater Structure in the Sea of Galilee Puzzles Archaeologists"
 date: 2013-05-25T08:05:28
-slug: large-underwater-structure-in-the-sea-of-galilee-puzzles-archaeologists
+slug: "large-underwater-structure-in-the-sea-of-galilee-puzzles-archaeologists"
 excerpt: "It is a conical shaped structure built of boulders, roughly 230 feet in diameter, 30 feet high and weighing an estimated  60,000-tons, 40 feet underwater in the Sea of Galilee.  And archaeologists have no idea what it is.   Based on the … Continue reading &rarr;"
 categories:
   - "Current"

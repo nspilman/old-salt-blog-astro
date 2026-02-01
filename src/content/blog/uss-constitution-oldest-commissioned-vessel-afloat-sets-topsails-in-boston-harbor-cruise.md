@@ -1,7 +1,7 @@
 ---
 title: "USS Constitution, Oldest Commissioned Vessel Afloat,  Sets Topsails in Boston Harbor Cruise"
 date: 2021-10-24T10:37:36
-slug: uss-constitution-oldest-commissioned-vessel-afloat-sets-topsails-in-boston-harbor-cruise
+slug: "uss-constitution-oldest-commissioned-vessel-afloat-sets-topsails-in-boston-harbor-cruise"
 excerpt: "The USS Constitution left its berth in the Charleston Navy Yard last Friday for a short cruise in Boston Harbor. CBS Boston reports that the ship fired a 21-gun salute while carrying 120 newly-trained Navy sailors. The sailors were recently selected … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Remembering the Savannah on National Maritime Day"
 date: 2019-05-22T09:02:32
-slug: remembering-the-savannah-on-national-maritime-day
+slug: "remembering-the-savannah-on-national-maritime-day"
 excerpt: "In 1933, the US Congress created National Maritime Day to recognize the maritime industry in the United States. The date chosen to celebrate the new holiday was May 22, in honor of the day that the auxiliary packet ship Savannah … Continue reading &rarr;"
 categories:
   - "History"

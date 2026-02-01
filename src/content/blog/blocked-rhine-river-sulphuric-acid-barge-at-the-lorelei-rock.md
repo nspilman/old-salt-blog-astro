@@ -1,7 +1,7 @@
 ---
 title: "Blocked Rhine River – Sulphuric Acid Barge at the Lorelei Rock"
 date: 2011-01-23T08:28:16
-slug: blocked-rhine-river-sulphuric-acid-barge-at-the-lorelei-rock
+slug: "blocked-rhine-river-sulphuric-acid-barge-at-the-lorelei-rock"
 excerpt: "Two floating cranes are now in place to begin salvaging the Waldhof,  a capsized 330 foot long tanker barge, loaded with 2,400 tonnes of sulfuric acid, which has blocked traffic on the Rhine River, Europe’s busiest inland water way, for over a … Continue reading &rarr;"
 categories:
   - "Current"

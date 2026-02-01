@@ -1,7 +1,7 @@
 ---
 title: "British and French to Share Carriers?"
 date: 2010-09-01T11:36:44
-slug: british-and-french-to-share-carriers
+slug: "british-and-french-to-share-carriers"
 excerpt: "What would Lord Nelson have thought of this?  There were various news reports out recently that the British and the French may share aircraft carriers. UK, France closer to carrier sharing deal Britain and France are moving closer to a deal to share … Continue reading &rarr;"
 categories:
   - "Current"

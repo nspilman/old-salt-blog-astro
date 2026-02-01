@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup Returning to America – BMW Oracle Defeats Alinghi"
 date: 2010-02-14T17:49:44
-slug: america%e2%80%99s-cup-returning-to-america-%e2%80%93-bmw-oracle-defeats-alinghi
+slug: "america%e2%80%99s-cup-returning-to-america-%e2%80%93-bmw-oracle-defeats-alinghi"
 excerpt: "BMW Oracle easily beat Alinghi in their second race, winning the America’s Cup.  The US boat won, literally, by a mile. BMW Oracle claim America’s Cup triumph BMW Oracle won the America’s Cup as victory in Sunday’s second race off … Continue reading &rarr;"
 categories:
   - "Current"

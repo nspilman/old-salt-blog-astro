@@ -1,7 +1,7 @@
 ---
 title: "Janet MacPherson, Pioneering Female Surfer, Dies at 84"
 date: 2022-03-20T17:52:18
-slug: janet-macpherson-pioneering-female-surfer-dies-at-84
+slug: "janet-macpherson-pioneering-female-surfer-dies-at-84"
 excerpt: "When Janet MacPherson started surfing around 1955, she was a rarity in a sport dominated by men. In those days, male surfers would sometimes throw rocks at her because they didn’t want a woman on their waves. She overcame the … Continue reading &rarr;"
 categories:
   - "Current"

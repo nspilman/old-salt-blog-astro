@@ -1,7 +1,7 @@
 ---
 title: "Orca Dies at San Diego SeaWorld – Sadly Typical"
 date: 2010-09-08T08:25:14
-slug: orca-dies-at-san-diego-seaworld-sadly-typical
+slug: "orca-dies-at-san-diego-seaworld-sadly-typical"
 excerpt: "A twelve year old male orca whale, named Sumar by SeaWorld, died suddenly at their San Diego facility on Tuesday.   Sadly its death was not untypical.  Male orcas in the wild have an average life expectancy of 30 years.   Many live … Continue reading &rarr;"
 categories:
   - "Current"

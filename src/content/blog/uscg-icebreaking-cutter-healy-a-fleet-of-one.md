@@ -1,7 +1,7 @@
 ---
 title: "USCG Icebreaking Cutter Healy  – A Fleet of One"
 date: 2012-01-16T08:27:27
-slug: uscg-icebreaking-cutter-healy-a-fleet-of-one
+slug: "uscg-icebreaking-cutter-healy-a-fleet-of-one"
 excerpt: "The United States has something like eleven aircraft carriers, fifty nine destroyers, thirty frigates, seventy nine submarines, thirty amphibious assault ships as well as numerous minesweepers patrol craft and supply ships.  The navy’s battle fleet tonnage is greater than that of the next 13 largest navies combined.   Quite a … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Meet Sailor and Author John Rousmaniere at Mystic Seaport"
 date: 2010-12-06T19:55:42
-slug: meet-sailor-and-author-john-rousmaniere-at-mystic-seaport
+slug: "meet-sailor-and-author-john-rousmaniere-at-mystic-seaport"
 excerpt: "For anyone in the area, sailor and author John Rousmaniere will be a guest at Mystic Seaport Museum on Thursday, December 9th for a wine and cheese reception beginning at at 5:30 p.m, followed by a presentation of  sea stories beginning around 6:00 p.m.  The program … Continue reading &rarr;"
 categories:
   - "Current"

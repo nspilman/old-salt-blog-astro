@@ -1,7 +1,7 @@
 ---
 title: "Five Cannons from Blackbeard’s Flagship Queen Anne’s Revenge Raised From Beaufort Inlet"
 date: 2013-11-02T16:59:14
-slug: five-cannons-from-blackbeards-flagship-queen-annes-revenge-raised-from-beaufort-inlet
+slug: "five-cannons-from-blackbeards-flagship-queen-annes-revenge-raised-from-beaufort-inlet"
 excerpt: "This morning we posted about a new video game, Assassins Creed IV : Blag Flag, which takes notable liberties with history.  One of the characters in the game, Edward Thatch, is based on the historical pirate, Edward Teach, better known as … Continue reading &rarr;"
 categories:
   - "Current"

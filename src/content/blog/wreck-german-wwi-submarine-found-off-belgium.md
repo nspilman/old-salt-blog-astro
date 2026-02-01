@@ -1,7 +1,7 @@
 ---
 title: "Wreck of German WWI Submarine Found Off Belgium"
 date: 2017-09-21T08:20:52
-slug: wreck-german-wwi-submarine-found-off-belgium
+slug: "wreck-german-wwi-submarine-found-off-belgium"
 excerpt: "The almost intact wreck of a German submarine that sank during World War I has been located in the North Sea off Belgium, in 98 feet of water. The type UB-II submarine is said to be in good condition, with … Continue reading &rarr;"
 categories:
   - "Current"

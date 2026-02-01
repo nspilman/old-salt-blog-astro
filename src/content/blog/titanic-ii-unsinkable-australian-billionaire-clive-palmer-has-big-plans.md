@@ -1,7 +1,7 @@
 ---
 title: "Titanic II ?  Unsinkable?  Australian Billionaire Clive Palmer Has Big Plans"
 date: 2012-04-30T08:17:43
-slug: titanic-ii-unsinkable-australian-billionaire-clive-palmer-has-big-plans
+slug: "titanic-ii-unsinkable-australian-billionaire-clive-palmer-has-big-plans"
 excerpt: "On the heels of the centennial of the sinking of the Titanic, Australian mining billionaire Clive Palmer has announced his plans to build a 21st-century replica of the Titanic and sail it from England to New York accompanied by the Chinese navy by the … Continue reading &rarr;"
 categories:
   - "Current"

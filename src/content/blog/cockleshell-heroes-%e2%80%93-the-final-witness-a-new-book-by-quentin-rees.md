@@ -1,7 +1,7 @@
 ---
 title: "Cockleshell Heroes – The Final Witness, a new book by Quentin Rees"
 date: 2011-01-06T13:59:14
-slug: cockleshell-heroes-%e2%80%93-the-final-witness-a-new-book-by-quentin-rees
+slug: "cockleshell-heroes-%e2%80%93-the-final-witness-a-new-book-by-quentin-rees"
 excerpt: "On the night of December 7,1942 ten British commandos set off in five wood and canvas canoes from a British submarine in the Bay of Biscay off the coast of occupied France. Their intent was to paddle 75 miles up the Gironde estuary and attack … Continue reading &rarr;"
 categories:
   - "History"

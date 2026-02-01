@@ -1,7 +1,7 @@
 ---
 title: "New Jersey Oyster Madness"
 date: 2015-02-18T09:58:15
-slug: new-jersey-oyster-madness
+slug: "new-jersey-oyster-madness"
 excerpt: "In the east side of New York harbor, the New York State side, the lowly oyster is a hero.  Not only will restored oyster beds help filter and clean the water of the harbor, they could also play a critical … Continue reading &rarr;"
 categories:
   - "Current"

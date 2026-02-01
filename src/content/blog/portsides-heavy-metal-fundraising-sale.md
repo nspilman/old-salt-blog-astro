@@ -1,7 +1,7 @@
 ---
-title: "PortSide’s “Heavy Metal” Fundraising Sale!"
+title: "PortSide’s \"Heavy Metal\" Fundraising Sale!"
 date: 2014-07-21T21:47:23
-slug: portsides-heavy-metal-fundraising-sale
+slug: "portsides-heavy-metal-fundraising-sale"
 excerpt: "PortSide New York, the organization behind the historic tanker Mary A. Whalen,  is having an amazing marine hardware fundraising sale.  From their press release: If you think a full-sized bollard makes the perfect doorstop, or that a collection of shackles … Continue reading &rarr;"
 categories:
   - "City of Ships"

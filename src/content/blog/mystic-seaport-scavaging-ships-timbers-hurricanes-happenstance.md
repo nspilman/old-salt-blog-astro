@@ -1,7 +1,7 @@
 ---
 title: "Mystic Seaport, Scavaging Ship’s Timbers From Hurricanes & Happenstance"
 date: 2016-09-18T21:47:19
-slug: mystic-seaport-scavaging-ships-timbers-hurricanes-happenstance
+slug: "mystic-seaport-scavaging-ships-timbers-hurricanes-happenstance"
 excerpt: "In 2009, we posted about how thousands of trees downed by Hurricane Ike in Galveston, TX proved to be a literal and figurative windfall for Mystic Seaport in rebuilding the historic whaling ship, Charles W. Morgan.  Of the 40,000 trees … Continue reading &rarr;"
 categories:
   - "Current"

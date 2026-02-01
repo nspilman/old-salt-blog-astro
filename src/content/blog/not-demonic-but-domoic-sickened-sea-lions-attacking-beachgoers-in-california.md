@@ -1,8 +1,8 @@
 ---
-title: "Not “Demonic” but “Domoic” — Sickened Sea Lions Attacking Beachgoers in California"
+title: "Not \"Demonic\" but \"Domoic\" — Sickened Sea Lions Attacking Beachgoers in California"
 date: 2025-04-14T21:14:18
-slug: not-demonic-but-domoic-sickened-sea-lions-attacking-beachgoers-in-california
-excerpt: "The BBC reports that last month a surfer paddling off the coast of Southern California was attacked by a sea lion that lunged at him, bit him, and dragged him off his board.  “It looked possessed,”  the surfer, Rj LaMendola … Continue reading &rarr;"
+slug: "not-demonic-but-domoic-sickened-sea-lions-attacking-beachgoers-in-california"
+excerpt: "The BBC reports that last month a surfer paddling off the coast of Southern California was attacked by a sea lion that lunged at him, bit him, and dragged him off his board.  \"It looked possessed,\"  the surfer, Rj LaMendola … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "toxic algal bloom"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/04/sicksealion.jpg"
 author: "Rick Spilman"
-description: "The BBC reports that last month a surfer paddling off the coast of Southern California was attacked by a sea lion that lunged at him, bit him, and dragged him off his board.  “It looked possessed,”  the surfer, Rj LaMendola … Continue reading &rarr;"
+description: "The BBC reports that last month a surfer paddling off the coast of Southern California was attacked by a sea lion that lunged at him, bit him, and dragged him off his board.  \"It looked possessed,\"  the surfer, Rj LaMendola … Continue reading &rarr;"
 ---
 
 ![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/sicksealion.jpg)The [BBC](https://www.bbc.com/news/articles/cx2778894l1o) reports that last month a surfer paddling off the coast of Southern California was attacked by a sea lion that lunged at him, bit him, and dragged him off his board.  “It looked possessed,”  the surfer, [Rj LaMendola wrote in a Facebook post](https://www.facebook.com/rjlamendola), saying the animal involved in the encounter was “feral, almost demonic”.

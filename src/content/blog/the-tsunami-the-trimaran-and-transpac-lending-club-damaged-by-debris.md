@@ -1,7 +1,7 @@
 ---
 title: "The Tsunami, the Trimaran and Transpac –  Lending Club Damaged by Debris"
 date: 2013-07-25T11:04:20
-slug: the-tsunami-the-trimaran-and-transpac-lending-club-damaged-by-debris
+slug: "the-tsunami-the-trimaran-and-transpac-lending-club-damaged-by-debris"
 excerpt: "We recently posted about the 83 year old yacht Dorade, which won the 2013 Transpac.  it was not however the first yacht across the finish line.  That honor goes to Lending Club, a racing trimaran; specifically an ORMA (Offshore Racing Multi-hull Association) 60 lengthened to … Continue reading &rarr;"
 categories:
   - "Current"

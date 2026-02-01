@@ -1,7 +1,7 @@
 ---
 title: "Icon of the Seas, World’s Largest Cruise Ship Sets Sail, Raising Concerns Over Methane Emissions"
 date: 2024-01-28T21:07:31
-slug: icon-of-the-seas-worlds-largest-cruise-ship-sets-sail-raising-concerns-over-methane-emissions
+slug: "icon-of-the-seas-worlds-largest-cruise-ship-sets-sail-raising-concerns-over-methane-emissions"
 excerpt: "On Saturday, the world’s largest cruise ship, Royal Caribbean’s Icon of the Seas, set sail from Miami on its maiden voyage. The nearly 1,200-foot-long and 250,800 gross-ton behemoth can accommodate close to 8,000 passengers across 20 decks. The ship is … Continue reading &rarr;"
 categories:
   - "Current"

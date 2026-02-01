@@ -1,7 +1,7 @@
 ---
 title: "Five More Bodies Found in the Wreckage of the Costa Concordia"
 date: 2012-03-22T17:11:29
-slug: five-more-bodies-found-in-the-wreckage-of-the-costa-concordia
+slug: "five-more-bodies-found-in-the-wreckage-of-the-costa-concordia"
 excerpt: "Divers have found five more bodies in the wreckage of the Costa Concordia which ran aground and sank on January 13, 2012 off the island of Giglio, Italy. The presumed death toll remains at 32, with only two of the roughly 4,200 passengers and … Continue reading &rarr;"
 categories:
   - "Current"

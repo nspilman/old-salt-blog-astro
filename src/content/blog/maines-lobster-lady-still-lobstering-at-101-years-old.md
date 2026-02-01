@@ -1,7 +1,7 @@
 ---
-title: "Maine’s “Lobster Lady” Still Lobstering at 101 Years Old"
+title: "Maine’s \"Lobster Lady\" Still Lobstering at 101 Years Old"
 date: 2021-08-23T15:41:22
-slug: maines-lobster-lady-still-lobstering-at-101-years-old
+slug: "maines-lobster-lady-still-lobstering-at-101-years-old"
 excerpt: "Lobsterman Max Oliver, 78, captains the lobster boat Virginia out of Rockland, Maine, three days a week, May through November. The boat happens to be named after his crew, Virginia Oliver, who is also his mother.  At age 101, she … Continue reading &rarr;"
 categories:
   - "Current"

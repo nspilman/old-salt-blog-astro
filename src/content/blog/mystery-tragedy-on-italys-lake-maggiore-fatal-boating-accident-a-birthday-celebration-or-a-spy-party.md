@@ -1,7 +1,7 @@
 ---
-title: "Mystery & Tragedy on Italy’s Lake Maggiore — Fatal Boating Accident a Birthday Celebration or a “Spy Party”?"
+title: "Mystery & Tragedy on Italy’s Lake Maggiore — Fatal Boating Accident a Birthday Celebration or a \"Spy Party\"?"
 date: 2023-06-01T19:01:40
-slug: mystery-tragedy-on-italys-lake-maggiore-fatal-boating-accident-a-birthday-celebration-or-a-spy-party
+slug: "mystery-tragedy-on-italys-lake-maggiore-fatal-boating-accident-a-birthday-celebration-or-a-spy-party"
 excerpt: "On Sunday, an overloaded chartered houseboat on Italy’s Lake Maggiore was caught in a sudden, violent storm and capsized, killing four of the 21 passengers and two crew. Sadly, this sort of boating accident, while tragic, is not entirely out … Continue reading &rarr;"
 categories:
   - "Current"

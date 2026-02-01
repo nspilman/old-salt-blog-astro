@@ -1,7 +1,7 @@
 ---
 title: "The Hurricane That Destroyed the Spanish Treasure Fleet of 1715"
 date: 2022-10-02T19:19:09
-slug: the-hurricane-that-destroyed-the-spanish-treasure-fleet-of-1715
+slug: "the-hurricane-that-destroyed-the-spanish-treasure-fleet-of-1715"
 excerpt: "The scope and scale of the property damage and loss of life resulting from Hurricane Ian to Florida and the Carolinas are still being assessed. The hurricane is likely to rank among the most destructive storms to strike to state … Continue reading &rarr;"
 categories:
   - "Current"

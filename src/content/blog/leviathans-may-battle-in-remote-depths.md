@@ -1,7 +1,7 @@
 ---
 title: "Leviathans may battle in remote depths"
 date: 2010-03-08T07:44:43
-slug: leviathans-may-battle-in-remote-depths
+slug: "leviathans-may-battle-in-remote-depths"
 excerpt: "A fascinating new study reported in the LA Times suggests that we know far less about the great white shark than we may have thought. Leviathans may battle in remote depths … Continue reading &rarr;"
 categories:
   - "Current"

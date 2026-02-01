@@ -1,8 +1,8 @@
 ---
 title: "Choking the Oceans With Plastic"
 date: 2014-08-25T19:54:24
-slug: choking-the-oceans-with-plastic
-excerpt: "Yesterday, we posted about a beach where the ocean has worn down glass, which once had been discarded as trash. The “glass beach” is now beautiful and enjoyed by thousands.  If only all our trash was glass. Another beach comes … Continue reading &rarr;"
+slug: "choking-the-oceans-with-plastic"
+excerpt: "Yesterday, we posted about a beach where the ocean has worn down glass, which once had been discarded as trash. The \"glass beach\" is now beautiful and enjoyed by thousands.  If only all our trash was glass. Another beach comes … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Fire on the Horizon – The Untold Story of the Gulf Oil Disaster, by John Konrad and Tom Shroder"
 date: 2010-09-18T08:12:53
-slug: fire-on-the-horizon-the-untold-story-of-the-gulf-oil-disaster-by-john-konrad-and-tom-shroder
+slug: "fire-on-the-horizon-the-untold-story-of-the-gulf-oil-disaster-by-john-konrad-and-tom-shroder"
 excerpt: "gCaptain is one of my favorite blogs. It has a done a great job of covering the Deepwater Horizon disaster. Now gCaptain’s John Konrad has written a book, Fire on the Horizon – The Untold Story of the Gulf Oil Disaster, … Continue reading &rarr;"
 categories:
   - "Current"

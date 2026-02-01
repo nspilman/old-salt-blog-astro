@@ -1,8 +1,8 @@
 ---
 title: "Swedish Singing Sailor to Russian Subs  — ‘This Way if You Are Gay’"
 date: 2015-05-13T17:35:23
-slug: swedish-singing-sailor-to-russian-subs-this-way-if-you-are-gay
-excerpt: "In the general category of “you can’t make this stuff up,” the Swedish Peace and Arbitration Society (SPAS), a group dedicated to the study and promotion of peace, released details of their “Singing Sailor Campaign.” Last October, we posted about a … Continue reading &rarr;"
+slug: "swedish-singing-sailor-to-russian-subs-this-way-if-you-are-gay"
+excerpt: "In the general category of \"you can’t make this stuff up,\" the Swedish Peace and Arbitration Society (SPAS), a group dedicated to the study and promotion of peace, released details of their \"Singing Sailor Campaign.\" Last October, we posted about a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

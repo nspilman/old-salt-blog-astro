@@ -1,7 +1,7 @@
 ---
 title: "Monitor Lab at Mariner’s Museum Shut By Lack of Fed Funds"
 date: 2014-01-10T14:17:52
-slug: monitor-lab-at-mariners-museum-shut-by-lack-of-fed-funds
+slug: "monitor-lab-at-mariners-museum-shut-by-lack-of-fed-funds"
 excerpt: "For several years now, there has been a webcam of the 90,000 gallon treatment tank where the 120 ton wrought iron turret of the USS Monitor is being preserved by electrolysis and desalination.  After spending 111 years underwater, the turret will need … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Bryce Carlson Shatters North Atlantic Rowing Record"
 date: 2018-08-07T14:52:27
-slug: bryce-carlson-shatters-north-atlantic-rowing-record
+slug: "bryce-carlson-shatters-north-atlantic-rowing-record"
 excerpt: "Congratulations to Bryce Carlson who shattered the record for rowing solo, unsupported, from west-to-east across the North Atlantic. He completed the roughly 2,000-mile row from St. John’s, Newfoundland to St. Mary’s Harbor, in the Isles of Scilly in just 38 days, 6 hours … Continue reading &rarr;"
 categories:
   - "Current"

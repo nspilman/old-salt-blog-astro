@@ -1,8 +1,8 @@
 ---
 title: "Bulk Carrier ID Integrity Adrift Off  Australia’s Great Barrier Reef – Passes Over Shark Reef"
 date: 2012-05-19T12:21:25
-slug: bulk-carrier-id-integrity-adrift-off-australias-great-barrier-reef-passes-over-shark-reef
-excerpt: "Update: The first tug has reached the ID Integrity. As reported by vesseltracker.com: The commercial tug “PT Kotor” rendezvoused with the “ID Integrity” on May 20 at approximately 10:30am AEST. At 11:30am AMSA was advised that the tug had connected a towline … Continue reading &rarr;"
+slug: "bulk-carrier-id-integrity-adrift-off-australias-great-barrier-reef-passes-over-shark-reef"
+excerpt: "Update: The first tug has reached the ID Integrity. As reported by vesseltracker.com: The commercial tug \"PT Kotor\" rendezvoused with the \"ID Integrity\" on May 20 at approximately 10:30am AEST. At 11:30am AMSA was advised that the tug had connected a towline … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "ID Integrity"
   - "Shark Reef"
 author: "Rick Spilman"
-description: "Update: The first tug has reached the ID Integrity. As reported by vesseltracker.com: The commercial tug “PT Kotor” rendezvoused with the “ID Integrity” on May 20 at approximately 10:30am AEST. At 11:30am AMSA was advised that the tug had connected a towline … Continue reading &rarr;"
+description: "Update: The first tug has reached the ID Integrity. As reported by vesseltracker.com: The commercial tug \"PT Kotor\" rendezvoused with the \"ID Integrity\" on May 20 at approximately 10:30am AEST. At 11:30am AMSA was advised that the tug had connected a towline … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/148320-id-integrity.jpg)

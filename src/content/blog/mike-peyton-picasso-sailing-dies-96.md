@@ -1,7 +1,7 @@
 ---
 title: "Mike Peyton, the Picasso of Sailing, Dies at 96"
 date: 2017-01-28T18:01:33
-slug: mike-peyton-picasso-sailing-dies-96
+slug: "mike-peyton-picasso-sailing-dies-96"
 excerpt: "You may not necessarily know his name, but if you have been reading yachting magazines over the years, his cartoons probably brought a smile to your face. British cartoonist Mike Peyton, who died on January 25th at the age of … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Big Problems on the Royal Princess — New Ship Taken Out of Service After Power Outage"
 date: 2013-09-24T07:10:20
-slug: big-problems-royal-princess-new-ship-taken-service-power-outage
+slug: "big-problems-royal-princess-new-ship-taken-service-power-outage"
 excerpt: "If you take a cruise on a ship owned by Carnival, you may want to bring along a flashlight. The newest Princess Cruises ship, the Royal Princess, suffered a power outage while sailing between Mykonos and Naples.  Power was reported to … Continue reading &rarr;"
 categories:
   - "Current"

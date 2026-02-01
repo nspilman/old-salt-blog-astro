@@ -1,7 +1,7 @@
 ---
 title: "Searching for Type D — A New Species of Killer Whale?"
 date: 2020-07-09T15:20:03
-slug: searching-for-type-d-a-new-species-of-killer-whale
+slug: "searching-for-type-d-a-new-species-of-killer-whale"
 excerpt: "How little we know about the ocean is staggering. What little we know and understand about orcas, killer whales, is just one example. For years, there were thought to be two types of orcas — residents and transients. Residents stayed … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

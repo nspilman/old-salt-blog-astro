@@ -1,7 +1,7 @@
 ---
 title: "Video for a Monday Morning – Nudibrachs (Sea Slugs)"
 date: 2010-09-20T09:03:13
-slug: video-for-a-friday-afternoon-nudibrachs-sea-slugs
+slug: "video-for-a-friday-afternoon-nudibrachs-sea-slugs"
 excerpt: "Definitely worth 27 seconds of your time. Nudibranch A bit racier – a look at nudibrach sex. Fun fact – Having both male and female sex organs increases the chances of finding a mate.  Sounds reasonable. … Continue reading &rarr;"
 categories:
   - "Current"

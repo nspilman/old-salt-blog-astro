@@ -1,8 +1,8 @@
 ---
 title: "Fin Whales Return to Wales"
 date: 2011-09-03T11:26:18
-slug: fin-whales-return-to-wales
-excerpt: "Fin whales have been called the “the greyhounds of the sea” because they are fast and sleek. grwoing to almost 90 feet, they are the second longest animal on the planet but only the the sixth heaviest. Though they are baleen whales, … Continue reading &rarr;"
+slug: "fin-whales-return-to-wales"
+excerpt: "Fin whales have been called the \"the greyhounds of the sea\" because they are fast and sleek. grwoing to almost 90 feet, they are the second longest animal on the planet but only the the sixth heaviest. Though they are baleen whales, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Sea Trust"
   - "Wales"
 author: "Rick Spilman"
-description: "Fin whales have been called the “the greyhounds of the sea” because they are fast and sleek. grwoing to almost 90 feet, they are the second longest animal on the planet but only the the sixth heaviest. Though they are baleen whales, … Continue reading &rarr;"
+description: "Fin whales have been called the \"the greyhounds of the sea\" because they are fast and sleek. grwoing to almost 90 feet, they are the second longest animal on the planet but only the the sixth heaviest. Though they are baleen whales, … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/finwhalewales.jpg)Fin whales](http://en.wikipedia.org/wiki/Fin_whale) have been called the “the greyhounds of the sea” because they are fast and sleek. grwoing to almost 90 feet, they are the second longest animal on the planet but only the the sixth heaviest. Though they are baleen whales, from a distance they can be mistaken for dolphins due to their scimitar shaped dorsal fins.  The [great fin whales have now returning to the Irish Sea off Wales and the Sea Trust](http://whaleswales.blogspot.com/2011/08/fin-whales_20.html) is keeping an eye out for them. [Sea Trust](http://www.seatrust.org.uk/) is  the marine arm of the Wildlife Trust, South & West Wales.

@@ -1,7 +1,7 @@
 ---
 title: "Maine man creates huge online ship database"
 date: 2010-03-23T09:08:05
-slug: maine-man-creates-huge-online-ship-database
+slug: "maine-man-creates-huge-online-ship-database"
 excerpt: "Maine man creates huge online ship database Thousands of ships over hundreds of years have navigated the rolling waters of Maine’s Penobscot River across the street from Jon Johansen’s home. Inspired by that history, Johansen set about documenting every ship … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

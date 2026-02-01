@@ -1,7 +1,7 @@
 ---
 title: "Blood Moon Eclipse Lights the Sky"
 date: 2014-04-15T08:14:42
-slug: blood-moon-eclipse-lights-the-sky
+slug: "blood-moon-eclipse-lights-the-sky"
 excerpt: "We posted recently about a rare lunar eclipse tetrad, a sequence of four total lunar eclipses, each six months apart.  The first of these total lunar eclipses was last night around 2:30 AM EST. I confess. I didn’t stay up. Fortunately … Continue reading &rarr;"
 categories:
   - "Current"

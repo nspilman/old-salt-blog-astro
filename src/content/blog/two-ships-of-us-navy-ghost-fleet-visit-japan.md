@@ -1,7 +1,7 @@
 ---
-title: "Two Ships of US Navy “Ghost Fleet” Visit Japan"
+title: "Two Ships of US Navy \"Ghost Fleet\" Visit Japan"
 date: 2023-10-01T20:19:49
-slug: two-ships-of-us-navy-ghost-fleet-visit-japan
+slug: "two-ships-of-us-navy-ghost-fleet-visit-japan"
 excerpt: "In August, we posted about how Ukrainian naval drones are redefining warfare in the Black Sea in Ukraine’s battle against the ongoing Russian invasion. On the other side of the globe, two US Navy unmanned surface vessels (USV) arrived in … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Thursday Daydream : the Mayan – David Crosby’s Legendary Schooner"
 date: 2012-03-01T10:04:35
-slug: thursday-daydream-the-mayan-david-crosbys-legendary-schooner
+slug: "thursday-daydream-the-mayan-david-crosbys-legendary-schooner"
 excerpt: "On one hand, this is a very interesting use of Youtube by a yacht broker selling a classic yacht.   Here Bob Craven gives us a tour, a bit of history and low key sales pitch on David Crosby‘s legendary schooner – … Continue reading &rarr;"
 categories:
   - "Current"

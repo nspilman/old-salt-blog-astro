@@ -1,7 +1,7 @@
 ---
 title: "World’s First Zero-Emission Bulker Expected in 2024"
 date: 2021-04-08T16:23:54
-slug: worlds-first-zero-emission-bulker-expected-in-2024
+slug: "worlds-first-zero-emission-bulker-expected-in-2024"
 excerpt: "Marine Log reports that Norwegian shipping firm Egil Ulvan Rederi has been awarded a contract to build what is claimed will be the world’s first zero-emission bulk carrier. The 88-meter, 5,000 DWT self-unloading vessel will be used on a Norwegian … Continue reading &rarr;"
 categories:
   - "Current"

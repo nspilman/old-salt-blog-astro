@@ -1,7 +1,7 @@
 ---
 title: "Fire and Explosion on the Baltic Ferry Lisco Gloria"
 date: 2010-10-09T15:21:02
-slug: fire-and-explosion-on-the-baltic-ferry-lisco-gloria
+slug: "fire-and-explosion-on-the-baltic-ferry-lisco-gloria"
 excerpt: "There fire and explosions on the Lithuanian ferry Lisco Gloria early Saturday.  Twenty three minor injuries were reported.  Translated by Google from German from Der Spiegel : Second explosion reinforced fire on the Baltic Sea ferry 236 people rescued, but the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Ancient Sperm Whale Clans Maintain Cultural Identities by Patterns of Clicks Within their Songs"
 date: 2022-11-02T10:04:01
-slug: ancient-sperm-whale-clans-maintain-cultural-identities-by-patterns-of-clicks-within-their-songs
-excerpt: "A fascinating study recently published in the Proceedings of the National Academy of Sciences suggests that seven ancient “clans” of sperm whales living in the vast Pacific Ocean maintain their cultural identity by distinctive patterns of clicks within their songs. … Continue reading &rarr;"
+slug: "ancient-sperm-whale-clans-maintain-cultural-identities-by-patterns-of-clicks-within-their-songs"
+excerpt: "A fascinating study recently published in the Proceedings of the National Academy of Sciences suggests that seven ancient \"clans\" of sperm whales living in the vast Pacific Ocean maintain their cultural identity by distinctive patterns of clicks within their songs. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "sperm whales"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/spermwhalecodas.jpg"
 author: "Rick Spilman"
-description: "A fascinating study recently published in the Proceedings of the National Academy of Sciences suggests that seven ancient “clans” of sperm whales living in the vast Pacific Ocean maintain their cultural identity by distinctive patterns of clicks within their songs. … Continue reading &rarr;"
+description: "A fascinating study recently published in the Proceedings of the National Academy of Sciences suggests that seven ancient \"clans\" of sperm whales living in the vast Pacific Ocean maintain their cultural identity by distinctive patterns of clicks within their songs. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/spermwhalecodas.jpg)A fascinating study recently published in the [Proceedings of the National Academy of Sciences](https://www.pnas.org/doi/full/10.1073/pnas.2201692119) suggests that seven ancient “clans” of sperm whales living in the vast Pacific Ocean maintain their cultural identity by distinctive patterns of clicks within their songs.

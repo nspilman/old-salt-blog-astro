@@ -1,7 +1,7 @@
 ---
 title: "21st Annual Wooden Boat Show at Mystic Seaport, June 29-July 1"
 date: 2012-06-26T10:10:58
-slug: 21st-annual-wooden-boat-show-at-mystic-seaport-june-29-july-1
+slug: "21st-annual-wooden-boat-show-at-mystic-seaport-june-29-july-1"
 excerpt: "For anyone who loves wooden boats, Mystic Seaport is the place to be this weekend.  Starting Friday and running through the weekend, the 21st Annual WoodenBoat Show will feature a fleet of beautiful wooden boats of all shapes and sizes as well … Continue reading &rarr;"
 categories:
   - "Current"

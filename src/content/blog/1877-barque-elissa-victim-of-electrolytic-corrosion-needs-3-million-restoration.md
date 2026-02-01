@@ -1,7 +1,7 @@
 ---
 title: "1877 Barque Elissa Victim of Electrolytic Corrosion – Needs $3 Million Restoration"
 date: 2011-07-05T17:10:10
-slug: 1877-barque-elissa-victim-of-electrolytic-corrosion-needs-3-million-restoration
+slug: "1877-barque-elissa-victim-of-electrolytic-corrosion-needs-3-million-restoration"
 excerpt: "The barque Elissa, built in 1877 in Aberdeen, Scotland, the Official Tall ship of the State of Texas and the star attraction at the Texas Seaport Museum in Galveston, is suffering from electrolytic corrosion, which if not repaired, may keep … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

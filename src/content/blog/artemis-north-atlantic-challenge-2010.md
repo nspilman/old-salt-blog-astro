@@ -1,7 +1,7 @@
 ---
 title: "‘ARTEMIS NORTH ATLANTIC CHALLENGE’ 2010"
 date: 2010-06-19T09:12:29
-slug: artemis-north-atlantic-challenge-2010
+slug: "artemis-north-atlantic-challenge-2010"
 excerpt: "As many of us were watching Reid Stowe sail into New York harbor from his 1,000 day plus journey, a team of four intrepid rowers were apparently setting out in their attempt to break the 114 year old record set by Harbo and Samuelson … Continue reading &rarr;"
 categories:
   - "Current"

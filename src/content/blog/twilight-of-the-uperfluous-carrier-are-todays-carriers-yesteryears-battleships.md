@@ -1,7 +1,7 @@
 ---
 title: "Twilight of the $UPERfluous Carrier – Are Today’s Carrier’s Yesteryear’s Battleships?"
 date: 2011-05-29T09:13:11
-slug: twilight-of-the-uperfluous-carrier-are-todays-carriers-yesteryears-battleships
+slug: "twilight-of-the-uperfluous-carrier-are-todays-carriers-yesteryears-battleships"
 excerpt: "For seventy years, battleships were the unchallenged masters of the oceans, until technology swept them aside.  Now the aircraft carrier reigns supreme.  The US currently has five times more aircraft carrier capacity based on flight deck acreage than the the … Continue reading &rarr;"
 categories:
   - "Current"

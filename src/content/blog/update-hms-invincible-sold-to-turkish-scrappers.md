@@ -1,7 +1,7 @@
 ---
 title: "Update: HMS Invincible Sold to Turkish Scrappers"
 date: 2011-02-12T09:28:54
-slug: update-hms-invincible-sold-to-turkish-scrappers
+slug: "update-hms-invincible-sold-to-turkish-scrappers"
 excerpt: "Last November, we posted about the sale by tender, through an internet site, of the aircraft carrier HMS Invincible. The highest bidder was a Turkish scrapper. HMS Invincible sold to Turkish ship recyclers Leyal Ship Recycling, which is based near Izmir, … Continue reading &rarr;"
 categories:
   - "Current"

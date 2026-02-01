@@ -1,7 +1,7 @@
 ---
 title: "Frederick Marryat’s The Mission – Cue the Helicopters"
 date: 2010-09-15T10:55:21
-slug: frederick-marryats-the-mission-cue-the-helicopter
+slug: "frederick-marryats-the-mission-cue-the-helicopter"
 excerpt: "David Hayes made a discovery that is too good not to share.  He came across a book cover of a reissue of Frederick Marryat‘s The Mission by Tutis Digital Publishing.   The cover shows a helicopter hovering low over the ocean about … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

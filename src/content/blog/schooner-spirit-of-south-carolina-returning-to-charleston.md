@@ -1,8 +1,8 @@
 ---
 title: "Schooner Spirit of South Carolina Returning to Charleston"
 date: 2015-11-14T18:22:26
-slug: schooner-spirit-of-south-carolina-returning-to-charleston
-excerpt: "Great news. The schooner Spirit of South Carolina is on her way home to Charleston, South Carolina.  We recently heard from Meryl Huckabey: “As a long-time reader of oldsaltblog.com I am pleased to tell you that the Spirit of South Carolina, tall ship … Continue reading &rarr;"
+slug: "schooner-spirit-of-south-carolina-returning-to-charleston"
+excerpt: "Great news. The schooner Spirit of South Carolina is on her way home to Charleston, South Carolina.  We recently heard from Meryl Huckabey: \"As a long-time reader of oldsaltblog.com I am pleased to tell you that the Spirit of South Carolina, tall ship … Continue reading &rarr;"
 categories:
   - "Current"
   - "Ships"

@@ -1,7 +1,7 @@
 ---
 title: "Saildrone Surveyor USV Discovers a 3,300-Foot-Tall Seamount Off California Coast"
 date: 2023-04-04T17:08:46
-slug: saildrone-surveyor-usv-discovers-a-3300-foot-tall-seamount-off-california-coast
+slug: "saildrone-surveyor-usv-discovers-a-3300-foot-tall-seamount-off-california-coast"
 excerpt: "Two years ago,  we posted about Saildrone‘s new 72’ long Surveyor, which was described as the world’s most advanced uncrewed surface vehicle (USV), equipped for high-resolution mapping of the ocean seafloor. Now, the Saildrone Surveyor has discovered a 3,300-foot-tall sea … Continue reading &rarr;"
 categories:
   - "Current"

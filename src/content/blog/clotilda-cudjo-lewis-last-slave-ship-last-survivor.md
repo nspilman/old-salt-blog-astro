@@ -1,8 +1,8 @@
 ---
 title: "Clotilda & Cudjo Lewis — the Last Slave Ship & the Last Survivor"
 date: 2018-01-25T17:14:12
-slug: clotilda-cudjo-lewis-last-slave-ship-last-survivor
-excerpt: "On Tuesday, a reporter in Alabama announced that he believed that he had found the burned wreckage of the schooner Clotilda, the last vessel to carry slaves to the United States. The wreckage was exposed following a winter “bomb cyclone” … Continue reading &rarr;"
+slug: "clotilda-cudjo-lewis-last-slave-ship-last-survivor"
+excerpt: "On Tuesday, a reporter in Alabama announced that he believed that he had found the burned wreckage of the schooner Clotilda, the last vessel to carry slaves to the United States. The wreckage was exposed following a winter \"bomb cyclone\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Mobile"
   - "slave ship. slave trade"
 author: "Rick Spilman"
-description: "On Tuesday, a reporter in Alabama announced that he believed that he had found the burned wreckage of the schooner Clotilda, the last vessel to carry slaves to the United States. The wreckage was exposed following a winter “bomb cyclone” … Continue reading &rarr;"
+description: "On Tuesday, a reporter in Alabama announced that he believed that he had found the burned wreckage of the schooner Clotilda, the last vessel to carry slaves to the United States. The wreckage was exposed following a winter \"bomb cyclone\" … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/01/clotilda.jpg)On Tuesday, a [reporter in Alabama announced that he believed that he had found the burned wreckage](http://www.al.com/news/mobile/index.ssf/2018/01/alcom_reporter_may_have_found.html) of the schooner [*Clotilda*](https://en.wikipedia.org/wiki/Clotilde_\(slave_ship\)), the last vessel to carry slaves to the United States. The wreckage was exposed following a winter “bomb cyclone” weather front, which caused extremely low tides in the area, exposing the wreckage. There is no firm confirmation that the wreckage is that of the schooner *Clotilda*, but the location, dimensions, and condition of the wreck strongly suggest that the wreckage is the slave ship. *Clotilda* was a two-masted schooner, 86 feet long, 23 feet of beam, and had a copper-sheathed hull. The wreck was found on the [Mobile River just off Twelvemile Island](https://www.google.com/maps/place/30%C2%B047'08.0%22N+88%C2%B000'13.0%22W/@30.7979382,-88.0065822,2281m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d30.785556!4d-88.003611?hl=en) by Ben Raines of AL.com. 

@@ -1,7 +1,7 @@
 ---
 title: "Belated Bicentennial Birthday Wishes to Herman Melville"
 date: 2019-08-05T14:46:05
-slug: belated-bicentennial-birthday-wishes-to-herman-melville
+slug: "belated-bicentennial-birthday-wishes-to-herman-melville"
 excerpt: "We missed the bicentennial of Herman Melville‘s birthday.  He was born just over 200 years ago on August 1, 1819, in a boarding house on 6 Pearl Street, in the Financial District of Lower Manhattan in New York City.  In … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Loose Wire on Container Ship Dali Caused Blackouts, Resulting in Key Bridge Tragedy"
 date: 2025-11-19T21:25:30
-slug: loose-wire-on-container-ship-dali-caused-blackouts-resulting-in-key-bridge-tragedy
+slug: "loose-wire-on-container-ship-dali-caused-blackouts-resulting-in-key-bridge-tragedy"
 excerpt: "The National Transportation Safety Board (NTSB) said that a single loose wire on the 984-foot-long container ship MV Dali caused an electrical blackout that led to the 10,000 TEU ship veering and contacting the nearby Francis Scott Key Bridge in … Continue reading &rarr;"
 categories:
   - "Current"

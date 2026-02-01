@@ -1,7 +1,7 @@
 ---
 title: "Sea Shanty Sessions 20th Anniversary Celebration at the Noble Maritime Collection at Snug Harbor"
 date: 2015-09-17T08:18:59
-slug: sea-shanty-sessions-20th-anniversary-celebration-at-the-noble-maritime-collection-at-snug-harbor
+slug: "sea-shanty-sessions-20th-anniversary-celebration-at-the-noble-maritime-collection-at-snug-harbor"
 excerpt: "In the summer of 1995, a group of lovers of the music of the sea got together on the deck of the windjammer Peking at the South Street Seaport Museum on the East River in New York to sing sea shanties. … Continue reading &rarr;"
 categories:
   - "Current"

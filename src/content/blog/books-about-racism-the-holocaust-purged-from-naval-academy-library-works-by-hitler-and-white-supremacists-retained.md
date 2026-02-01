@@ -1,7 +1,7 @@
 ---
 title: "Books About Racism & the Holocaust Purged From Naval Academy Library, Works by Hitler and White Supremacists Retained"
 date: 2025-04-16T20:27:41
-slug: books-about-racism-the-holocaust-purged-from-naval-academy-library-works-by-hitler-and-white-supremacists-retained
+slug: "books-about-racism-the-holocaust-purged-from-naval-academy-library-works-by-hitler-and-white-supremacists-retained"
 excerpt: "As the current regime in Washington continues its assault on diversity, equity, and inclusion in schools across the country, it has even included the Nimitz Library at the US Naval Academy in its modern-day book burning. An order from Defense … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Updated: Fire on Cruise Ship MV Azamara Quest, Five Crew Injured"
 date: 2012-03-31T08:50:04
-slug: fire-on-cruise-ship-mv-azamara-quest-adrift-off-the-philippines-five-crew-injured
+slug: "fire-on-cruise-ship-mv-azamara-quest-adrift-off-the-philippines-five-crew-injured"
 excerpt: "Update: A fire broke out late Friday in an engine room on the luxury cruise ship, MV Azamara Quest, while en route from Manila to Sandakan in Sabah, Malaysia.  Five members of the crew were injured, suffering smoke inhallation. One crew member is reported … Continue reading &rarr;"
 categories:
   - "Current"

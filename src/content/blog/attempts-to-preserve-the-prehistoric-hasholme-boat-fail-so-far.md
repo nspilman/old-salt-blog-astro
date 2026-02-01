@@ -1,7 +1,7 @@
 ---
 title: "Attempts to Preserve the Prehistoric Hasholme Boat Fail So Far"
 date: 2010-10-20T08:07:43
-slug: attempts-to-preserve-the-prehistoric-hasholme-boat-fail-so-far
+slug: "attempts-to-preserve-the-prehistoric-hasholme-boat-fail-so-far"
 excerpt: "The Hasholme boat, discovered in 1984 in a former inlet of the Humber estuary near Holme on Spalding Moor, dates from the late Iron Age ( 750-390 BC ). The boat was cut from a single oak tree and was originally roughly … Continue reading &rarr;"
 categories:
   - "Current"

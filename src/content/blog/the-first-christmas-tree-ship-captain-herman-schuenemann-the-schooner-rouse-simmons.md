@@ -1,8 +1,8 @@
 ---
 title: "The First Christmas Tree Ship –  Captain Herman Schuenemann & the Schooner Rouse Simmons"
 date: 2011-12-04T12:43:01
-slug: the-first-christmas-tree-ship-captain-herman-schuenemann-the-schooner-rouse-simmons
-excerpt: "Today the Christmas Ship is Chicago’s largest all volunteer charitable support program for inner city youth and their families at Christmas time.  At the turn of the twentieth century, the “Christmas Tree Ship” was a family business. In  the mid 1880s, August and … Continue reading &rarr;"
+slug: "the-first-christmas-tree-ship-captain-herman-schuenemann-the-schooner-rouse-simmons"
+excerpt: "Today the Christmas Ship is Chicago’s largest all volunteer charitable support program for inner city youth and their families at Christmas time.  At the turn of the twentieth century, the \"Christmas Tree Ship\" was a family business. In  the mid 1880s, August and … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "Rouse Simmons"
   - "schooner"
 author: "Rick Spilman"
-description: "Today the Christmas Ship is Chicago’s largest all volunteer charitable support program for inner city youth and their families at Christmas time.  At the turn of the twentieth century, the “Christmas Tree Ship” was a family business. In  the mid 1880s, August and … Continue reading &rarr;"
+description: "Today the Christmas Ship is Chicago’s largest all volunteer charitable support program for inner city youth and their families at Christmas time.  At the turn of the twentieth century, the \"Christmas Tree Ship\" was a family business. In  the mid 1880s, August and … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/schooner_rouse_simmons.jpg)

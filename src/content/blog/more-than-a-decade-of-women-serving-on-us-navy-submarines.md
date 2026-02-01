@@ -1,7 +1,7 @@
 ---
 title: "More Than a Decade of Women Serving on US Navy Submarines"
 date: 2022-03-31T17:14:10
-slug: more-than-a-decade-of-women-serving-on-us-navy-submarines
+slug: "more-than-a-decade-of-women-serving-on-us-navy-submarines"
 excerpt: "On the last day of Women’s History Month, it is worthwhile celebrating more than a decade of women’s service on US Navy submarines. In 2010, Secretary of Defense Robert M. Gates lifted the ban on females serving aboard US submarines. … Continue reading &rarr;"
 categories:
   - "Current"

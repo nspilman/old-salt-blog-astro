@@ -1,7 +1,7 @@
 ---
 title: "Stricken Fishing Vessel Sparta Not Fit for Antarctic Ice"
 date: 2011-12-19T22:31:08
-slug: stricken-fishing-vessel-sparta-not-fit-for-antarctic-ice
+slug: "stricken-fishing-vessel-sparta-not-fit-for-antarctic-ice"
 excerpt: "The Russian fishing vessel Sparta is afloat, though just barely after being holed by ice at the edge of the Ross ice shelf in Antarctica.  Why was an non-ice strengthened fishing boat fishing in such treacherous waters in the first place?  That is the question being raised by the Vyacheslav Martyanov, … Continue reading &rarr;"
 categories:
   - "Current"

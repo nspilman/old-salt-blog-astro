@@ -1,8 +1,8 @@
 ---
-title: "Latest “Fat Leonard” Bribery Case Falls Apart"
+title: "Latest \"Fat Leonard\" Bribery Case Falls Apart"
 date: 2024-06-05T17:47:29
-slug: latest-fat-leonard-bribery-case-falls-apart
-excerpt: "A federal judge dismissed the most recent felony convictions of five retired military officers who had admitted to accepting bribes from Leonard Francis, a Malaysian contractor nicknamed “Fat Leonard,” in one of the biggest corruption scandals in Navy history. The … Continue reading &rarr;"
+slug: "latest-fat-leonard-bribery-case-falls-apart"
+excerpt: "A federal judge dismissed the most recent felony convictions of five retired military officers who had admitted to accepting bribes from Leonard Francis, a Malaysian contractor nicknamed \"Fat Leonard,\" in one of the biggest corruption scandals in Navy history. The … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -21,7 +21,7 @@ tags:
   - "Stephen Shedd"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/fl9.jpg"
 author: "Rick Spilman"
-description: "A federal judge dismissed the most recent felony convictions of five retired military officers who had admitted to accepting bribes from Leonard Francis, a Malaysian contractor nicknamed “Fat Leonard,” in one of the biggest corruption scandals in Navy history. The … Continue reading &rarr;"
+description: "A federal judge dismissed the most recent felony convictions of five retired military officers who had admitted to accepting bribes from Leonard Francis, a Malaysian contractor nicknamed \"Fat Leonard,\" in one of the biggest corruption scandals in Navy history. The … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/fl9.jpg)A federal judge dismissed the most recent felony convictions of five retired military officers who had admitted to accepting bribes from Leonard Francis, a Malaysian contractor nicknamed [“Fat Leonard,](https://www.cbsnews.com/news/fat-leonard-francis-venezuela-prisoner-swap-bribery-charges-court-hearing/)” in one of the biggest corruption scandals in Navy history.

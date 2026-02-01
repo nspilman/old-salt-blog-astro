@@ -1,7 +1,7 @@
 ---
 title: "USNS John Lewis Christened in San Diego"
 date: 2021-07-19T15:10:43
-slug: usns-john-lewis-christened-in-san-diego
+slug: "usns-john-lewis-christened-in-san-diego"
 excerpt: "Last Saturday, USNS John Lewis (T-AO 205), the first in a new class of Navy oiler, was christened at NASSCO on the one-year anniversary of the congressman’s death. It’s fitting that we honor John Lewis with this formidable ship, because … Continue reading &rarr;"
 categories:
   - "Current"

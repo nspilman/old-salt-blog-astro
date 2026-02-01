@@ -1,7 +1,7 @@
 ---
 title: "Red Hook Open Studios Concert: Shepup & Friends on Historical Tanker Mary A. Whalen"
 date: 2022-10-05T16:39:47
-slug: red-hook-open-studios-concert-shepup-friends-on-historical-tanker-mary-a-whalen
+slug: "red-hook-open-studios-concert-shepup-friends-on-historical-tanker-mary-a-whalen"
 excerpt: "If you are in the vicinity of New York harbor on this Sunday, October 9th, you may wish to check out the Red Hook Open Studios (RHOS) concert featuring Shepup & friends on Portside NewYork‘s historic tanker Mary A. Whalen. … Continue reading &rarr;"
 categories:
   - "Current"

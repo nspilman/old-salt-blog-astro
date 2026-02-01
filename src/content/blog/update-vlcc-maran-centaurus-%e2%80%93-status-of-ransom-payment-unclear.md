@@ -1,7 +1,7 @@
 ---
 title: "Update: VLCC Maran Centaurus – Status of Ransom Payment Unclear"
 date: 2010-01-19T08:01:37
-slug: update-vlcc-maran-centaurus-%e2%80%93-status-of-ransom-payment-unclear
+slug: "update-vlcc-maran-centaurus-%e2%80%93-status-of-ransom-payment-unclear"
 excerpt: "UPDATE:  Maran Tankers Management Inc. said the crew – 9 Greeks, 16 Filipinos, 2 Ukrainians, and a Romanian – was safe and well. In strange turn, pirates send out an SOS Unconfirmed reports suggest that infighting between rival pirate gangs … Continue reading &rarr;"
 categories:
   - "Current"

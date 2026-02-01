@@ -1,7 +1,7 @@
 ---
 title: "On the Trail of the Pirate Blackbeard and the Queen Anne’s Revenge"
 date: 2011-06-11T08:27:45
-slug: on-the-trail-of-the-pirate-bluebeard-and-the-queen-annes-revenge
+slug: "on-the-trail-of-the-pirate-bluebeard-and-the-queen-annes-revenge"
 excerpt: "The wreck of the pirate Blackbeard‘s Queen Anne’s Revenge, which sank in 1718, was believed to be discovered in 1996.   After 15 years of excavation, the State of North Carolina and the North Carolina Maritime Museum announced today that they had confirmed that … Continue reading &rarr;"
 categories:
   - "Current"

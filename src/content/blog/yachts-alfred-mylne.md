@@ -1,7 +1,7 @@
 ---
 title: "The Yachts of Alfred Mylne"
 date: 2017-08-27T09:04:32
-slug: yachts-alfred-mylne
+slug: "yachts-alfred-mylne"
 excerpt: "Remarkably, Scotland’s Mylne Yacht Design was founded by Alfred Mylne I in 1896 and has been in continuous operation for more than 120 years. Alfred Mylne designed over 400 yachts in his career. Here is a short video of classic … Continue reading &rarr;"
 categories:
   - "History"

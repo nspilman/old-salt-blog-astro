@@ -1,7 +1,7 @@
 ---
 title: "Joan Druett’s Tupaia – Captain Cook’s Polynesian Navigator : A Review"
 date: 2011-01-19T12:09:50
-slug: joan-druetts-tupaia-%e2%80%93-captain-cooks-polynesian-navigator-a-review
+slug: "joan-druetts-tupaia-%e2%80%93-captain-cooks-polynesian-navigator-a-review"
 excerpt: "Joan Druett’s new book, Tupaia – Captain Cook’s Polynesian Navigator, fills an important blank space in the history, as well as the legend, of Captain Cook. On his first voyage to the Pacific in HMS Endeavour, during a stop in … Continue reading &rarr;"
 categories:
   - "Newbooks"

@@ -1,7 +1,7 @@
 ---
 title: "USCG Barque Eagle – A Perfect Lady"
 date: 2011-08-15T13:59:30
-slug: uscg-barque-eagle-a-perfect-lady
+slug: "uscg-barque-eagle-a-perfect-lady"
 excerpt: "Having recently visited the USCG Cutter Barque Eagle, I can wholeheartedly agree with the title of  Tido Holtkamp’s book,  A Perfect Lady: A Pictorial History of the Coast Guard Barque Eagle, which has recently gone into its second printing.   The ship is indeed a … Continue reading &rarr;"
 categories:
   - "Current"

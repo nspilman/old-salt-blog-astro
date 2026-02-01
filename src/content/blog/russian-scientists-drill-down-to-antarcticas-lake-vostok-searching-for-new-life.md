@@ -1,8 +1,8 @@
 ---
 title: "Russian Scientists Drill Down to Antarctica’s Lake Vostok Searching for New Life."
 date: 2012-02-15T14:15:33
-slug: russian-scientists-drill-down-to-antarcticas-lake-vostok-searching-for-new-life
-excerpt: "The Guardian reports that, “Russian scientists have confirmed they have drilled through more than 2.3 miles of ice to reach Lake Vostok, a 16,000 sq km (6,200 sq mile) body of water that has been isolated from the rest of … Continue reading &rarr;"
+slug: "russian-scientists-drill-down-to-antarcticas-lake-vostok-searching-for-new-life"
+excerpt: "The Guardian reports that, \"Russian scientists have confirmed they have drilled through more than 2.3 miles of ice to reach Lake Vostok, a 16,000 sq km (6,200 sq mile) body of water that has been isolated from the rest of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Lake Vostok"
   - "Russian scientists"
 author: "Rick Spilman"
-description: "The Guardian reports that, “Russian scientists have confirmed they have drilled through more than 2.3 miles of ice to reach Lake Vostok, a 16,000 sq km (6,200 sq mile) body of water that has been isolated from the rest of … Continue reading &rarr;"
+description: "The Guardian reports that, \"Russian scientists have confirmed they have drilled through more than 2.3 miles of ice to reach Lake Vostok, a 16,000 sq km (6,200 sq mile) body of water that has been isolated from the rest of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/Lake-Vostok-007.jpg)

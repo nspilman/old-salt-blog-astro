@@ -1,7 +1,7 @@
 ---
 title: "On National Donut Day — Captain Gregory & the Birth of the Modern Donut"
 date: 2018-06-01T17:23:01
-slug: on-national-donut-day-captain-gregory-the-birth-of-the-modern-donut
+slug: "on-national-donut-day-captain-gregory-the-birth-of-the-modern-donut"
 excerpt: "Today is National Donut Day. I was not aware that such a day existed until I bought a cup of coffee at Dunkin Donuts this morning and was offered a free donut in honor of the day. (I did not … Continue reading &rarr;"
 categories:
   - "Current"

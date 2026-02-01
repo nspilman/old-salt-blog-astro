@@ -1,8 +1,8 @@
 ---
 title: "John W. Griffith’s Headstone Unveiled in Linden Hill Cemetery"
 date: 2016-07-24T17:58:17
-slug: john-w-griffiths-headstone-unveiled-linden-hill-cemetery
-excerpt: "Yesterday, one hundred and thirty four year after his death, a headstone was unveiled at the grave of John Willis Griffiths, a gifted American naval architect who is often referred to as the “Father of the Clipper Ship.”  Although Griffiths … Continue reading &rarr;"
+slug: "john-w-griffiths-headstone-unveiled-linden-hill-cemetery"
+excerpt: "Yesterday, one hundred and thirty four year after his death, a headstone was unveiled at the grave of John Willis Griffiths, a gifted American naval architect who is often referred to as the \"Father of the Clipper Ship.\"  Although Griffiths … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -17,7 +17,7 @@ tags:
   - "National Maritime Historical Society"
   - "unmarked grave"
 author: "Rick Spilman"
-description: "Yesterday, one hundred and thirty four year after his death, a headstone was unveiled at the grave of John Willis Griffiths, a gifted American naval architect who is often referred to as the “Father of the Clipper Ship.”  Although Griffiths … Continue reading &rarr;"
+description: "Yesterday, one hundred and thirty four year after his death, a headstone was unveiled at the grave of John Willis Griffiths, a gifted American naval architect who is often referred to as the \"Father of the Clipper Ship.\"  Although Griffiths … Continue reading &rarr;"
 ---
 
 ![griffithdtombstone](http://www.oldsaltblog.com/wp-content/uploads/2016/07/griffithdtombstone.jpg)Yesterday, one hundred and thirty four year after his death, a headstone was unveiled at the grave of [John Willis Griffiths](https://en.wikipedia.org/wiki/John_W._Griffiths), a gifted American naval architect who is often referred to as the “Father of the Clipper Ship.”  Although Griffiths was a brilliant engineer, designer, writer, editor and publisher; he died poor and was buried in an unmarked grave in the Linden Hill United Methodist Cemetery in Queens, NY.  The effort to provide a headstone for Griffith’s grave was spearheaded by Matt Carmel and Melbourne Smith with the sponsorship of the [National Maritime Historical Society](http://www.seahistory.org/), assisted by Dr. Larrie D. Ferreiro and Adam Brodsky of the New York Post.  Bruce Johnson, yacht designer and Director of Business Development  for the ‎Brooklin Boat Yard, Front Street Shipyard & Rockport Marine, provided major financial support for the project.

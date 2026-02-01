@@ -1,7 +1,7 @@
 ---
 title: "Krill Joy — Drone Video of  Blue Whale Feeding"
 date: 2017-09-10T08:20:36
-slug: krill-joy-drone-video-blue-whale-feeding
+slug: "krill-joy-drone-video-blue-whale-feeding"
 excerpt: "Something to take one’s mind off the apocalyptic hurricane bearing down on the west coast of Florida. Rare images of blue whale feeding behavior Krill Joy From Slate:This video catches a rare glimpse of a gigantic, lunge-feeding blue whale deciding … Continue reading &rarr;"
 categories:
   - "Current"

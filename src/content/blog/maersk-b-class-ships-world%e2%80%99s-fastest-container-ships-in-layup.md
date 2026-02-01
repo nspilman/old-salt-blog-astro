@@ -1,7 +1,7 @@
 ---
 title: "Maersk B Class Ships, World’s Fastest Container Ships, in Layup"
 date: 2010-02-28T07:05:42
-slug: maersk-b-class-ships-world%e2%80%99s-fastest-container-ships-in-layup
+slug: "maersk-b-class-ships-world%e2%80%99s-fastest-container-ships-in-layup"
 excerpt: "We have recently posted about the roller coaster ride that has been container ship design over the last few decades.  See Containerships – from Slow to Fast to Slow to Fast to Slow Again.  The smartest minds in the shipping … Continue reading &rarr;"
 categories:
   - "Current"

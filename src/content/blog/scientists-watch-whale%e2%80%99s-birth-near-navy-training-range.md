@@ -1,7 +1,7 @@
 ---
 title: "Scientists watch whale’s birth near Navy training range"
 date: 2010-03-25T09:13:04
-slug: scientists-watch-whale%e2%80%99s-birth-near-navy-training-range
+slug: "scientists-watch-whale%e2%80%99s-birth-near-navy-training-range"
 excerpt: "Scientists watch whale’s birth near Navy training range Scientists surveying the area near a planned Navy training range said Tuesday they witnessed an endangered right whale giving birth off the Northeast Florida coast.    It was only the second time … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

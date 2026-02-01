@@ -1,7 +1,7 @@
 ---
 title: "Red Sea Piracy may be going Multinational"
 date: 2011-03-09T18:13:48
-slug: red-sea-piracy-may-be-going-multinational
+slug: "red-sea-piracy-may-be-going-multinational"
 excerpt: "Piracy in the Red Sea and the Indian Ocean can be wildly profitable and is relatively risk free.   If a pirate is caught by any of the multinational naval task force, chances are that they will simply let the … Continue reading &rarr;"
 categories:
   - "Current"

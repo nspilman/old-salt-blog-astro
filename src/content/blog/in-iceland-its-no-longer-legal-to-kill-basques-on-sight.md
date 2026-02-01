@@ -1,7 +1,7 @@
 ---
 title: "In Iceland, It’s No Longer Legal to Kill Basques On Sight"
 date: 2019-10-30T16:09:55
-slug: in-iceland-its-no-longer-legal-to-kill-basques-on-sight
+slug: "in-iceland-its-no-longer-legal-to-kill-basques-on-sight"
 excerpt: "I recently came back from a voyage on a small ship along the west coast of Iceland. One of the highlights of the trip were stops in ports in the Westfjords, an isolated peninsula in the northwest of the island. … Continue reading &rarr;"
 categories:
   - "Current"

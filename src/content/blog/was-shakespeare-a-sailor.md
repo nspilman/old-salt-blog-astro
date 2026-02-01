@@ -1,8 +1,8 @@
 ---
 title: "Was Shakespeare a Sailor?"
 date: 2012-05-21T13:33:37
-slug: was-shakespeare-a-sailor
-excerpt: "Charles Spencer, writing for the Telegraph, had a hunch. After reviewing the Royal Shakespeare Company’s trilogy of Shakespeare’s “shipwreck” plays last month,  he  found himself wondering whether the Bard spent his so-called “lost years” before his arrival in London, as … Continue reading &rarr;"
+slug: "was-shakespeare-a-sailor"
+excerpt: "Charles Spencer, writing for the Telegraph, had a hunch. After reviewing the Royal Shakespeare Company’s trilogy of Shakespeare’s \"shipwreck\" plays last month,  he  found himself wondering whether the Bard spent his so-called \"lost years\" before his arrival in London, as … Continue reading &rarr;"
 categories:
   - "History"
   - "Language"
@@ -13,7 +13,7 @@ tags:
   - "Sir Eric Anderson"
   - "William Shakespeare"
 author: "Rick Spilman"
-description: "Charles Spencer, writing for the Telegraph, had a hunch. After reviewing the Royal Shakespeare Company’s trilogy of Shakespeare’s “shipwreck” plays last month,  he  found himself wondering whether the Bard spent his so-called “lost years” before his arrival in London, as … Continue reading &rarr;"
+description: "Charles Spencer, writing for the Telegraph, had a hunch. After reviewing the Royal Shakespeare Company’s trilogy of Shakespeare’s \"shipwreck\" plays last month,  he  found himself wondering whether the Bard spent his so-called \"lost years\" before his arrival in London, as … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/Shakespearesailor.jpg)Charles Spencer, writing for the Telegraph](http://www.telegraph.co.uk/culture/theatre/william-shakespeare/9275916/My-Bard-hunch-holds-water.html), had a hunch. After reviewing the Royal Shakespeare Company’s trilogy of Shakespeare’s “shipwreck” plays last month,  he  found himself wondering whether the Bard spent his so-called “lost years” before his arrival in London, as a sailor. He has now come to the conclusion that his hunch holds water, so to speak, based primarily on the work of the late Professor A.F. Falconer of the University of St. Andrews.

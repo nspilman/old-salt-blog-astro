@@ -1,7 +1,7 @@
 ---
 title: "2,000 Year Old Roman Shipwreck Found Near Genoa"
 date: 2012-08-10T12:00:15
-slug: 2000-year-old-roman-shipwreck-found-near-genoa
+slug: "2000-year-old-roman-shipwreck-found-near-genoa"
 excerpt: "Tipped off by fisherman who caught amphorae in their nets, the wreck of a Roman merchant ship, believed to date from between the 1st century B.C. and the 2nd century, has been located in 230 feet of water near the Italian port city of … Continue reading &rarr;"
 categories:
   - "History"

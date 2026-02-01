@@ -1,8 +1,8 @@
 ---
-title: "Poon Lim,  Surviving a Record 133 Days at Sea —  “I hope no one will ever have to break it.”"
+title: "Poon Lim,  Surviving a Record 133 Days at Sea —  \"I hope no one will ever have to break it.\""
 date: 2013-12-14T18:15:59
-slug: poon-lim-surviving-a-record-133-days-at-sea-i-hope-no-one-will-ever-have-to-break-it
-excerpt: "Robert Redford was recently nominated for a Golden Globe award for his remarkable one man performance in the movie, “All is Lost.” While Redford’s acting was impressive, the movie was marred by an apparent lack of even a basic understand … Continue reading &rarr;"
+slug: "poon-lim-surviving-a-record-133-days-at-sea-i-hope-no-one-will-ever-have-to-break-it"
+excerpt: "Robert Redford was recently nominated for a Golden Globe award for his remarkable one man performance in the movie, \"All is Lost.\" While Redford’s acting was impressive, the movie was marred by an apparent lack of even a basic understand … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"

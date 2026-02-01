@@ -1,7 +1,7 @@
 ---
 title: "Facing Rising Seas, Can Tuvalu Become the First Digital Nation?"
 date: 2024-11-21T20:32:41
-slug: facing-rising-seas-can-tuvalu-become-the-first-digital-nation
+slug: "facing-rising-seas-can-tuvalu-become-the-first-digital-nation"
 excerpt: "The Pacific island nation of Tuvalu is facing an existential threat due to rising sea levels, caused by climate change. According to NASA, the sea level in Tuvalu has risen nearly 6 inches in the past 30 years and is expected … Continue reading &rarr;"
 categories:
   - "Current"

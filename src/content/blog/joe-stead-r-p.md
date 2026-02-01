@@ -1,7 +1,7 @@
 ---
 title: "Joe Stead, R.I.P."
 date: 2017-03-30T08:28:07
-slug: joe-stead-r-p
+slug: "joe-stead-r-p"
 excerpt: "We have learned that Joe Stead has passed away. He was a folk singer who sang with everyone from Paul Robeson to Pete Seeger. Around the turn of the 21st century, his focus shifted more toward the sea with his … Continue reading &rarr;"
 categories:
   - "Current"

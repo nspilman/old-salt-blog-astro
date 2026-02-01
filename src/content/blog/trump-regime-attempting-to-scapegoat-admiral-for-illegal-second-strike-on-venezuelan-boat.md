@@ -1,7 +1,7 @@
 ---
 title: "Trump Regime Attempting to Scapegoat Admiral For Illegal Second Strike on Venezuelan Boat"
 date: 2025-12-02T22:14:19
-slug: trump-regime-attempting-to-scapegoat-admiral-for-illegal-second-strike-on-venezuelan-boat
+slug: "trump-regime-attempting-to-scapegoat-admiral-for-illegal-second-strike-on-venezuelan-boat"
 excerpt: "The criminal clown circus that is the Trump regime continues to spin out of control with lethal consequences. The Washington Post reports that during an attack on an unidentified Venezuelan vessel on September 2, the US Defense Secretary Pete Hegseth … Continue reading &rarr;"
 categories:
   - "Current"

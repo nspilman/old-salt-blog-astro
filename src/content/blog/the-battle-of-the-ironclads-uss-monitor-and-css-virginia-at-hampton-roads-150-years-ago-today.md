@@ -1,7 +1,7 @@
 ---
 title: "The Battle of the Ironclads – USS Monitor and CSS Virginia at Hampton Roads, 150 Years Ago Today"
 date: 2012-03-09T15:54:16
-slug: the-battle-of-the-ironclads-uss-monitor-and-css-virginia-at-hampton-roads-150-years-ago-today
+slug: "the-battle-of-the-ironclads-uss-monitor-and-css-virginia-at-hampton-roads-150-years-ago-today"
 excerpt: "The USS Monitor and the CSS Virginia were not the first iron-clad war ships, but they were the first to face each other in battle. One hundred and fifty years ago today, the two ironclads met in Hampton Roads, VA and fought each … Continue reading &rarr;"
 categories:
   - "History"

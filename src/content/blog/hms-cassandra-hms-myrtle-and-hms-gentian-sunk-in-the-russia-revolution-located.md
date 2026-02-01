@@ -1,7 +1,7 @@
 ---
 title: "HMS Cassandra, HMS Myrtle and HMS Gentian, Sunk in the Russia Revolution, Located"
 date: 2010-08-24T08:18:01
-slug: hms-cassandra-hms-myrtle-and-hms-gentian-sunk-in-the-russia-revolution-located
+slug: "hms-cassandra-hms-myrtle-and-hms-gentian-sunk-in-the-russia-revolution-located"
 excerpt: "Ninety years on, locations of Royal Navy warships sunk in Russian Revolution are found The wrecks of three British warships sunk more than 90 years ago – seeking to prevent the Bolshevik Revolution from spreading West – have been located … Continue reading &rarr;"
 categories:
   - "Current"

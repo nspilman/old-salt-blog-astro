@@ -1,7 +1,7 @@
 ---
 title: "Restoring the Schooner Nathaniel Bowditch"
 date: 2014-11-14T10:39:56
-slug: restoring-the-schooner-nathaniel-bowditch
+slug: "restoring-the-schooner-nathaniel-bowditch"
 excerpt: "Great news about the schooner Nathaniel Bowditch. In February, we posted about the foreclosure and auction of the 82 foot long schooner. There were no bids at the auction in Camden, ME,  which ended after 27 seconds. The future of … Continue reading &rarr;"
 categories:
   - "Current"

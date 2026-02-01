@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship Festival Green Bay 2016 — Nine Ships including the Draken Harald Hårfagre"
 date: 2016-08-03T15:39:45
-slug: tall-ship-festival-green-bay-2016-nine-ships-including-draken-harald-harfagre
+slug: "tall-ship-festival-green-bay-2016-nine-ships-including-draken-harald-harfagre"
 excerpt: "The Green Bay Tall Ship Festival kicks off this Friday, August 5th, at noon and runs through Sunday, August 7th. It features nine tall ships, including the replica Viking longship Draken Harald Hårfagre. There had been some question as to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

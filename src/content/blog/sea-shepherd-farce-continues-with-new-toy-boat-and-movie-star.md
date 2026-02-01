@@ -1,8 +1,8 @@
 ---
 title: "Sea Shepherd Farce Continues with New Toy Boat and Movie Star"
 date: 2010-11-23T17:27:43
-slug: sea-shepherd-farce-continues-with-new-toy-boat-and-movie-star
-excerpt: "Paul Watson and his merry band of bumbling pirates, the Sea Shepherds, stars of the “reality” TV show, Whale Wars, have a new high speed toy boat and have recruited Michelle Rodriguez, the actor who played the kick-ass helicopter pilot in … Continue reading &rarr;"
+slug: "sea-shepherd-farce-continues-with-new-toy-boat-and-movie-star"
+excerpt: "Paul Watson and his merry band of bumbling pirates, the Sea Shepherds, stars of the \"reality\" TV show, Whale Wars, have a new high speed toy boat and have recruited Michelle Rodriguez, the actor who played the kick-ass helicopter pilot in … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -18,7 +18,7 @@ tags:
   - "Sea Shepherds"
   - "Whale Wars"
 author: "Rick Spilman"
-description: "Paul Watson and his merry band of bumbling pirates, the Sea Shepherds, stars of the “reality” TV show, Whale Wars, have a new high speed toy boat and have recruited Michelle Rodriguez, the actor who played the kick-ass helicopter pilot in … Continue reading &rarr;"
+description: "Paul Watson and his merry band of bumbling pirates, the Sea Shepherds, stars of the \"reality\" TV show, Whale Wars, have a new high speed toy boat and have recruited Michelle Rodriguez, the actor who played the kick-ass helicopter pilot in … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/interceptor-e.jpg)[](http://www.newyorker.com/reporting/2007/11/05/071105fa_fact_khatchadourian)

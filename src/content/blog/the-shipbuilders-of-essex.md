@@ -1,7 +1,7 @@
 ---
 title: "The Shipbuilders of Essex"
 date: 2012-01-20T08:52:54
-slug: the-shipbuilders-of-essex
+slug: "the-shipbuilders-of-essex"
 excerpt: "Here is a wonderful 20 minute film made in 1947 about, as the tile suggests, shipbuilding in Essex, Massachusetts.  It has the slightly corny Hollywood production values of its time but does a good job at showing the construction of a … Continue reading &rarr;"
 categories:
   - "Current"

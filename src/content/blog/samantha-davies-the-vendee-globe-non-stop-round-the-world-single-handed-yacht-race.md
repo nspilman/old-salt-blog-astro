@@ -1,7 +1,7 @@
 ---
 title: "Samantha Davies & the Vendée Globe Non-Stop Round-the-World Single-Handed Yacht Race"
 date: 2012-11-09T18:18:43
-slug: samantha-davies-the-vendee-globe-non-stop-round-the-world-single-handed-yacht-race
+slug: "samantha-davies-the-vendee-globe-non-stop-round-the-world-single-handed-yacht-race"
 excerpt: "Her French competitors refer to her as La Petite Anglaise.  Tomorrow, when the twenty boats in Vendée Globe non-stop round-the-world single-handed yacht race set off from Les Sables-d’Olonne, France, Samantha Davies will be the only woman in the race.  When she sails tomorrow, she will be waving goodbye … Continue reading &rarr;"
 categories:
   - "Current"

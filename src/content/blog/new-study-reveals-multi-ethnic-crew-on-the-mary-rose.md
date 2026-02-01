@@ -1,7 +1,7 @@
 ---
 title: "New Study Reveals Multi-Ethnic Crew on the Mary Rose"
 date: 2021-05-15T16:19:50
-slug: new-study-reveals-multi-ethnic-crew-on-the-mary-rose
+slug: "new-study-reveals-multi-ethnic-crew-on-the-mary-rose"
 excerpt: "The Mary Rose, often described as King Henry VIII’s favorite warship, sank on July 19, 1545 during the Battle of the Solent with the loss of most of its crew of 415. When the ship was raised in 1982, the … Continue reading &rarr;"
 categories:
   - "Current"

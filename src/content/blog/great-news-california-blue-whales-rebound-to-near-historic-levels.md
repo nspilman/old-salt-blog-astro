@@ -1,8 +1,8 @@
 ---
 title: "Great News — California Blue Whales Rebound to Near Historic Levels"
 date: 2014-09-08T10:29:32
-slug: great-news-california-blue-whales-rebound-to-near-historic-levels
-excerpt: "Despite being hunted from 1905–1971, the California blue whale has rebounded so that today it is approximately 97% of pre-whaling levels.  The journal Marine Mammal Science recently published a study, “Do ship strikes threaten the recovery of endangered eastern North Pacific blue … Continue reading &rarr;"
+slug: "great-news-california-blue-whales-rebound-to-near-historic-levels"
+excerpt: "Despite being hunted from 1905–1971, the California blue whale has rebounded so that today it is approximately 97% of pre-whaling levels.  The journal Marine Mammal Science recently published a study, \"Do ship strikes threaten the recovery of endangered eastern North Pacific blue … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Saildrone Issued First-Ever Classification For A Commercial Autonomous, Uncrewed Vehicle"
 date: 2023-11-13T17:32:26
-slug: saildrone-issued-first-ever-classification-for-a-commercial-autonomous-uncrewed-vehicle
+slug: "saildrone-issued-first-ever-classification-for-a-commercial-autonomous-uncrewed-vehicle"
 excerpt: "Intriguing news from Saildrone. The developer of ocean data collection using autonomous vehicles announced that it has received the first-ever classification for an autonomous, uncrewed surface vehicle (USV). From their announcement: The American Bureau of Shipping (ABS) has been a … Continue reading &rarr;"
 categories:
   - "Current"

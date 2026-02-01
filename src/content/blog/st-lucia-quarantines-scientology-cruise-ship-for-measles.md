@@ -1,8 +1,8 @@
 ---
 title: "St. Lucia Quarantines Scientology Cruise Ship for Measles"
 date: 2019-05-02T06:53:54
-slug: st-lucia-quarantines-scientology-cruise-ship-for-measles
-excerpt: "The cruise ship MV Freewinds is described on the Scientology website as “a religious retreat ministering the most advanced level of spiritual counseling in the Scientology religion.” It is also home to at least one confirmed case of the measles. … Continue reading &rarr;"
+slug: "st-lucia-quarantines-scientology-cruise-ship-for-measles"
+excerpt: "The cruise ship MV Freewinds is described on the Scientology website as \"a religious retreat ministering the most advanced level of spiritual counseling in the Scientology religion.\" It is also home to at least one confirmed case of the measles. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "St. Lucia"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/fairwinds.jpg"
 author: "Rick Spilman"
-description: "The cruise ship MV Freewinds is described on the Scientology website as “a religious retreat ministering the most advanced level of spiritual counseling in the Scientology religion.” It is also home to at least one confirmed case of the measles. … Continue reading &rarr;"
+description: "The cruise ship MV Freewinds is described on the Scientology website as \"a religious retreat ministering the most advanced level of spiritual counseling in the Scientology religion.\" It is also home to at least one confirmed case of the measles. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/fairwinds.jpg)The cruise ship MV *Freewinds* is described on the [Scientology website](https://www.scientology.org/faq/the-organization-of-scientology/what-is-the-freewinds.html) as “a religious retreat ministering the most advanced level of spiritual counseling in the Scientology religion.” It is also home to at least one confirmed case of the measles. The Caribbean nation of St. Lucia has quarantined the 440′ ship with 300 aboard in an attempt to avoid the spread of the contagious illness.

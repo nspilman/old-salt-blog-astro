@@ -1,7 +1,7 @@
 ---
 title: "Guest Post by Robin Denny: The Five-Masted Full-Rigged Ship Preussen"
 date: 2024-04-07T10:58:27
-slug: guest-post-by-robin-denny-the-five-masted-full-rigged-ship-preussen
+slug: "guest-post-by-robin-denny-the-five-masted-full-rigged-ship-preussen"
 excerpt: "We recently posted about the five-masted full-rigged cruise ship Royal Clipper, a modern sailing ship designed as an homage to the great five-masted windjammer Preussen. Here is a repost of a guest post by Robin Denny about the mighty windjammer:  With the Peking now … Continue reading &rarr;"
 categories:
   - "History"

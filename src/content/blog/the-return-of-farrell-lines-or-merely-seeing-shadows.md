@@ -1,7 +1,7 @@
 ---
 title: "The Return of Farrell Lines? Or Merely Seeing Shadows?"
 date: 2010-03-31T08:25:14
-slug: the-return-of-farrell-lines-or-merely-seeing-shadows
+slug: "the-return-of-farrell-lines-or-merely-seeing-shadows"
 excerpt: "Farrell Lines was a grand old US steamship company.  It had an office in downtown Manhattan full of ship models and paintings of ships. Behind the receptionist, as you came in the door, there was a world map with chains … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

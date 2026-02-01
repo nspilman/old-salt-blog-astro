@@ -1,7 +1,7 @@
 ---
 title: "Massive Explosion at Iranian Port Kills at Least 40, Injures Over 1,000"
 date: 2025-04-27T19:45:37
-slug: massive-explosion-at-iranian-port-kills-at-least-40-injures-over-1000
+slug: "massive-explosion-at-iranian-port-kills-at-least-40-injures-over-1000"
 excerpt: "A massive explosion and fire on Saturday rocked the Port of Shahid Rajaei in southern Iran, killing at least 40 people and injuring more than 1,000 others. Helicopters and aircraft dumped water from the air on the raging fire through … Continue reading &rarr;"
 categories:
   - "Current"

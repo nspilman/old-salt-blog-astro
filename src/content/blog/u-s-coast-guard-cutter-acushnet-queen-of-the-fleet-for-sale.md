@@ -1,8 +1,8 @@
 ---
-title: "U. S. Coast Guard Cutter Acushnet, “Queen of the Fleet,” for Sale"
+title: "U. S. Coast Guard Cutter Acushnet, \"Queen of the Fleet,\" for Sale"
 date: 2011-03-03T09:23:12
-slug: u-s-coast-guard-cutter-acushnet-queen-of-the-fleet-for-sale
-excerpt: "The U.S. Coast Guard cutter Acushnet, oldest commissioned Coast Guard cutter, and the officially designated “Queen of the Fleet” will be sold as surplus at an online auction scheduled to end on March 16th.   Current bidding is $66,000. (Updated 4/04) US NAVY … Continue reading &rarr;"
+slug: "u-s-coast-guard-cutter-acushnet-queen-of-the-fleet-for-sale"
+excerpt: "The U.S. Coast Guard cutter Acushnet, oldest commissioned Coast Guard cutter, and the officially designated \"Queen of the Fleet\" will be sold as surplus at an online auction scheduled to end on March 16th.   Current bidding is $66,000. (Updated 4/04) US NAVY … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -16,7 +16,7 @@ tags:
   - "US Navy Diver-class rescue and salvage ship"
   - "USS Shackle"
 author: "Rick Spilman"
-description: "The U.S. Coast Guard cutter Acushnet, oldest commissioned Coast Guard cutter, and the officially designated “Queen of the Fleet” will be sold as surplus at an online auction scheduled to end on March 16th.   Current bidding is $66,000. (Updated 4/04) US NAVY … Continue reading &rarr;"
+description: "The U.S. Coast Guard cutter Acushnet, oldest commissioned Coast Guard cutter, and the officially designated \"Queen of the Fleet\" will be sold as surplus at an online auction scheduled to end on March 16th.   Current bidding is $66,000. (Updated 4/04) US NAVY … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/41QSCI11168001.jpg)

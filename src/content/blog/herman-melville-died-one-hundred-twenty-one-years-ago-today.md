@@ -1,7 +1,7 @@
 ---
 title: "Herman Melville Died One Hundred Twenty One Years Ago Today"
 date: 2012-09-28T13:04:14
-slug: herman-melville-died-one-hundred-twenty-one-years-ago-today
+slug: "herman-melville-died-one-hundred-twenty-one-years-ago-today"
 excerpt: "Herman Melville died September 28, 1891.  He was indeed a great American writer, some would argue the great American writer. He was also the greatest failed writer of his day. When he died all of his books had been out … Continue reading &rarr;"
 categories:
   - "History"

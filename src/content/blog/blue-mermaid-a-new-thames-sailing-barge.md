@@ -1,7 +1,7 @@
 ---
 title: "Blue Mermaid — A New Thames Sailing Barge"
 date: 2019-09-01T17:30:16
-slug: blue-mermaid-a-new-thames-sailing-barge
+slug: "blue-mermaid-a-new-thames-sailing-barge"
 excerpt: "Classic Sailor reports on a new Thames sailing barge: A new sailing barge is a rare sight – but in 1900 there were around 4,000 such barges registered to carry cargo up and down the London river – and the … Continue reading &rarr;"
 categories:
   - "Current"

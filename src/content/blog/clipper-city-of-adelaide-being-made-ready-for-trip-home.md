@@ -1,7 +1,7 @@
 ---
 title: "Clipper City of Adelaide being made ready for trip home"
 date: 2010-12-11T09:31:03
-slug: clipper-city-of-adelaide-being-made-ready-for-trip-home
+slug: "clipper-city-of-adelaide-being-made-ready-for-trip-home"
 excerpt: "The clipper ship City of Adelaide (later HMS Carrick), the oldest surviving composite clipper ship in the world, is being made ready for her long trip home to her namesake city in Australia, from her current berth in Irvine, Scotland. Carrick … Continue reading &rarr;"
 categories:
   - "Current"

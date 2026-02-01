@@ -1,7 +1,7 @@
 ---
 title: "Trevor Grills of the Port Isaac’s Fisherman’s Friends, Dies at 54"
 date: 2013-02-20T14:10:41
-slug: trevor-grills-of-the-port-isaacs-fishermans-friends-dies-at-54
+slug: "trevor-grills-of-the-port-isaacs-fishermans-friends-dies-at-54"
 excerpt: "Trevor Grill was a self employed builder from Port Isaac on Cornwall’s rugged north coast, who enjoyed getting together with friends to sing sea shanties and folk songs.  The group came to call themselves the Port Isaac’s Fisherman’s Friends and they performed at … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: KNM Helge Ingstad Sinks Beneath the Fjord"
 date: 2018-11-13T08:32:38
-slug: knm-helge-ingstad-sinks-beneath-the-fjord
+slug: "knm-helge-ingstad-sinks-beneath-the-fjord"
 excerpt: "Overnight, the Norwegian frigate Helge Ingstad slipped beneath the waters of Hjeltefjord near Bergen, Norway. Last Thursday, the frigate was intentionally grounded to prevent it from sinking after it collided with the tanker Sola TS. Despite efforts to stabilize the … Continue reading &rarr;"
 categories:
   - "Current"

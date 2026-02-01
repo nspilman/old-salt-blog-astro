@@ -1,7 +1,7 @@
 ---
 title: "US Navy Naming Replenishment Oiler for Ruth Bader Ginsburg"
 date: 2022-04-03T17:04:21
-slug: us-navy-naming-replenishment-oiler-for-ruth-bader-ginsburg
+slug: "us-navy-naming-replenishment-oiler-for-ruth-bader-ginsburg"
 excerpt: "Navy Secretary Carlos Del Toro has announced that the US Navy will name a replenishment oiler now on order in honor of the late Supreme Court Justice Ruth Bader Ginsburg. The new ship will be the eighth of the John Lewis … Continue reading &rarr;"
 categories:
   - "Current"

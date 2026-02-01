@@ -1,7 +1,7 @@
 ---
 title: "Brigantine Søren Larsen Larsen Available for Sale by Syndication"
 date: 2010-12-17T15:23:18
-slug: brigantine-s%c3%b8ren-larsen-larsen-available-for-sale-by-syndication
+slug: "brigantine-s%c3%b8ren-larsen-larsen-available-for-sale-by-syndication"
 excerpt: "The brigantine Soren Larsen was built in Denamrk in 1948 and traded extensively in Baltic, British and European ports until 1972.  In the 1970s she starred in the popular BBC television drama series, The Onedin Line.   She has also … Continue reading &rarr;"
 categories:
   - "Current"

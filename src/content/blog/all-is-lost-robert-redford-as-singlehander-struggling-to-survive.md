@@ -1,7 +1,7 @@
 ---
 title: "All is Lost – Robert Redford as Singlehander Struggling to Survive"
 date: 2013-08-02T13:14:06
-slug: all-is-lost-robert-redford-as-singlehander-struggling-to-survive
+slug: "all-is-lost-robert-redford-as-singlehander-struggling-to-survive"
 excerpt: "Every time I read about a major casualty on a container ship, I think about the containers lost over the side, many of which continue to float, hazards to navigation to any boat about their size. All the evidence suggests … Continue reading &rarr;"
 categories:
   - "Current"

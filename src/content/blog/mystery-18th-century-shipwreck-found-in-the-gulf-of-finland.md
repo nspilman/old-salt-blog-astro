@@ -1,7 +1,7 @@
 ---
 title: "Mystery 18th Century Shipwreck Found in the Gulf of Finland"
 date: 2011-04-27T17:18:29
-slug: mystery-18th-century-shipwreck-found-in-the-gulf-of-finland
+slug: "mystery-18th-century-shipwreck-found-in-the-gulf-of-finland"
 excerpt: "I am always amazed by how well darkness, cold and a lack of oxygen can preserve a wooden ship wreck.   Thanks to Badewanne, a non-profit group of divers that has been documenting shipwrecks in the Gulf of Finland for more … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Prepping for the Panama Canal Expansion — New York Raising a Bridge and New Container Cranes"
 date: 2014-05-19T08:48:29
-slug: prepping-for-the-panama-canal-expansion-new-york-raising-a-bridge-and-new-container-cranes
+slug: "prepping-for-the-panama-canal-expansion-new-york-raising-a-bridge-and-new-container-cranes"
 excerpt: "The expansion of the Panama Canal, which will allow the transit of much larger ships through new locks,  is like a large stone dropped in the center of a quiet lake. The ripples are being felt on every shore.  This Saturday, the semi-submersible … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

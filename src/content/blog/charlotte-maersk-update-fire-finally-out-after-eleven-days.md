@@ -1,7 +1,7 @@
 ---
 title: "Charlotte Maersk Update: Fire Finally Out After Eleven Days"
 date: 2010-07-23T09:44:35
-slug: charlotte-maersk-update-fire-finally-out-after-eleven-days
+slug: "charlotte-maersk-update-fire-finally-out-after-eleven-days"
 excerpt: "As an update to our previous post, the fire on the Charlotte Maersk, which started July 7th, was finally extinguished last Sunday after 11 days of firefighting. Charlotte Maersk blaze is extinguished after 11 days … Continue reading &rarr;"
 categories:
   - "Current"

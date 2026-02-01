@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Port Side New York and the Mary Whalen"
 date: 2011-05-25T08:28:17
-slug: congratulations-to-port-side-new-york-and-the-mary-whalen
+slug: "congratulations-to-port-side-new-york-and-the-mary-whalen"
 excerpt: "Congratulations to PortSide New York and the tanker Mary Whalen, which has been deemed eligible to be listed on the National Register of Historic Places!   The Mary Whalen is a 172’ long coastal tanker built by the John H. Mathis Company, of … Continue reading &rarr;"
 categories:
   - "Current"

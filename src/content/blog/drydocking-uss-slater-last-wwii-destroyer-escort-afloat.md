@@ -1,7 +1,7 @@
 ---
 title: "Drydocking USS Slater, Last WWII Destroyer Escort Afloat"
 date: 2014-04-07T17:07:59
-slug: drydocking-uss-slater-last-wwii-destroyer-escort-afloat
+slug: "drydocking-uss-slater-last-wwii-destroyer-escort-afloat"
 excerpt: "Could the arrival of the the USS Slater, the last World War II destroyer escort still afloat in the United States, be a sign of spring in New York harbor?  We can only hope, although as the sky today remains … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Friendly Floatees — What 29,000 Yellow Ducks,  Red Beavers, Blue Turtles and Green Frogs Tell Us About Ocean Dumping"
 date: 2014-05-28T10:15:41
-slug: friendly-floatees-what-29000-yellow-ducks-red-beavers-blue-turtles-and-green-frogs-tells-us-about-ocean-dumping
+slug: "friendly-floatees-what-29000-yellow-ducks-red-beavers-blue-turtles-and-green-frogs-tells-us-about-ocean-dumping"
 excerpt: "Yesterday, we posted about the Big Rubber Duck, which is scheduled to lead the Tall Ships Grand Parade of Sail at the Tall Ships Festival L.A., August 20, 2014. One commenter suggested that we needed more rubber ducks while another suggested … Continue reading &rarr;"
 categories:
   - "Current"

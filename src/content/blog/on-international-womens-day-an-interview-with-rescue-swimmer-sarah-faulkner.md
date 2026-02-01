@@ -1,7 +1,7 @@
 ---
 title: "On International Women’s Day – An interview with Rescue Swimmer Sarah Faulkner"
 date: 2011-03-08T14:00:48
-slug: on-international-womens-day-an-interview-with-rescue-swimmer-sarah-faulkner
+slug: "on-international-womens-day-an-interview-with-rescue-swimmer-sarah-faulkner"
 excerpt: "Today is International Women’s Day.  Indeed, it is the 100th Anniversary of the first International  Women’s Day in 1911.   We have followed with interest the women who have progressively stepped up to serve in jobs that not too long … Continue reading &rarr;"
 categories:
   - "Current"

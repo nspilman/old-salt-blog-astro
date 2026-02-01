@@ -1,8 +1,8 @@
 ---
 title: "Western Africa’s Graveyards of Ships"
 date: 2011-10-17T19:44:56
-slug: western-africas-graveyards-of-ships
-excerpt: "Recently the BBC published an article, Nigeria’s coast ‘threatened by shipwrecks’, focused on the 100 rusty shipwrecks which line Nigeria’s 853km (530-mile) coast.   The ships are causing coastal erosion and pollution. Nigeria is not the only country on the West coast of Africa with “graveyard of … Continue reading &rarr;"
+slug: "western-africas-graveyards-of-ships"
+excerpt: "Recently the BBC published an article, Nigeria’s coast ‘threatened by shipwrecks’, focused on the 100 rusty shipwrecks which line Nigeria’s 853km (530-mile) coast.   The ships are causing coastal erosion and pollution. Nigeria is not the only country on the West coast of Africa with \"graveyard of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Skeleton Coast National Park"
   - "Western Africa"
 author: "Rick Spilman"
-description: "Recently the BBC published an article, Nigeria’s coast ‘threatened by shipwrecks’, focused on the 100 rusty shipwrecks which line Nigeria’s 853km (530-mile) coast.   The ships are causing coastal erosion and pollution. Nigeria is not the only country on the West coast of Africa with “graveyard of … Continue reading &rarr;"
+description: "Recently the BBC published an article, Nigeria’s coast ‘threatened by shipwrecks’, focused on the 100 rusty shipwrecks which line Nigeria’s 853km (530-mile) coast.   The ships are causing coastal erosion and pollution. Nigeria is not the only country on the West coast of Africa with \"graveyard of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/nigeriawreck.jpg)

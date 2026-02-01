@@ -1,8 +1,8 @@
 ---
 title: "Ship Shooter Jonathan Atkin’s Maritime Love Affair From (Mostly) Above"
 date: 2020-06-07T12:46:57
-slug: ship-shooter-jonathan-atkins-maritime-love-affair-from-mostly-above
-excerpt: "After a rough week, here is something beautiful — a video compilation of stills and video of ships and their crews, by “ship shooter” Jonathan Atkin. Maritime Love Affair from (mostly) above. from jonathan atkin on Vimeo. … Continue reading &rarr;"
+slug: "ship-shooter-jonathan-atkins-maritime-love-affair-from-mostly-above"
+excerpt: "After a rough week, here is something beautiful — a video compilation of stills and video of ships and their crews, by \"ship shooter\" Jonathan Atkin. Maritime Love Affair from (mostly) above. from jonathan atkin on Vimeo. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "ship shooter"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/atkinmla.jpg"
 author: "Rick Spilman"
-description: "After a rough week, here is something beautiful — a video compilation of stills and video of ships and their crews, by “ship shooter” Jonathan Atkin. Maritime Love Affair from (mostly) above. from jonathan atkin on Vimeo. … Continue reading &rarr;"
+description: "After a rough week, here is something beautiful — a video compilation of stills and video of ships and their crews, by \"ship shooter\" Jonathan Atkin. Maritime Love Affair from (mostly) above. from jonathan atkin on Vimeo. … Continue reading &rarr;"
 ---
 
 After a rough week, here is something beautiful — a video compilation of stills and video of ships and their crews, by “[ship shooter” Jonathan Atkin](http://shipshooter.com/home/).

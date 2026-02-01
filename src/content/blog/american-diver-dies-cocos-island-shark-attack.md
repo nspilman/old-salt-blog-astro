@@ -1,7 +1,7 @@
 ---
 title: "American Diver Dies in Cocos Island Shark Attack"
 date: 2017-12-01T18:07:52
-slug: american-diver-dies-cocos-island-shark-attack
+slug: "american-diver-dies-cocos-island-shark-attack"
 excerpt: "An American diving in a tour group off Costa Rico’s Cocos Island was attacked and killed yesterday by a tiger shark. The name of the victim has not been released and the circumstances of the attack are not known. The … Continue reading &rarr;"
 categories:
   - "Current"

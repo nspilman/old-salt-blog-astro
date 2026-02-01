@@ -1,7 +1,7 @@
 ---
 title: "HMS Somerset resurfaces off Cape Cod"
 date: 2010-04-13T16:57:32
-slug: hms-somerset-resurfaces-off-cape-cod
+slug: "hms-somerset-resurfaces-off-cape-cod"
 excerpt: "In his poem, The Midnight Ride of Paul Revere, Henry Wadsworth Longfellow described HMS Somersett on the night of April 18, 1775: Just as the moon rose over the bay, Where swinging wide at her moorings lay The Somerset, British man-of-war; … Continue reading &rarr;"
 categories:
   - "Current"

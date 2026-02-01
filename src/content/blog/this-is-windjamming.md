@@ -1,7 +1,7 @@
 ---
 title: "This is Windjamming  — Maine Schooners Captured by Fred LeBlanc"
 date: 2017-02-25T13:35:37
-slug: this-is-windjamming
+slug: "this-is-windjamming"
 excerpt: "A relaxing video for a Saturday afternoon. I’ve long been a fan of Fred LeBlanc’s photography, particularly his photos of schooners. Here is a video of LeBlanc’s photos of scenes from Maine Windjammers fleet. LeBlanc hosts photo sailing adventure aboard … Continue reading &rarr;"
 categories:
   - "Current"

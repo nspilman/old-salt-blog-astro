@@ -1,7 +1,7 @@
 ---
 title: "Nelson’s Sword Discovered in Wreck of HMS Victoria"
 date: 2012-01-30T13:02:03
-slug: nelsons-sword-discovered-in-underwater-treasure-trove-in-wreck-of-hms-victoria
+slug: "nelsons-sword-discovered-in-underwater-treasure-trove-in-wreck-of-hms-victoria"
 excerpt: "While on peace time maneuvers off Libya on June 22, 1893, Vice Admiral George Tryon, the commander of the British Mediterranean Fleet, gave a series of orders that resulted in HMS Camperdown ramming his ship, HMS Victoria, which sank with the loss of 358 lives, including … Continue reading &rarr;"
 categories:
   - "Current"

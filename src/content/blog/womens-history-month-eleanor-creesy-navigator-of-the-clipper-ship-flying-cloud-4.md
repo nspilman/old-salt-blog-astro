@@ -1,7 +1,7 @@
 ---
 title: "Women’s History Month  — Eleanor Creesy, Navigator of the Clipper Ship Flying Cloud"
 date: 2024-03-01T18:17:58
-slug: womens-history-month-eleanor-creesy-navigator-of-the-clipper-ship-flying-cloud-4
+slug: "womens-history-month-eleanor-creesy-navigator-of-the-clipper-ship-flying-cloud-4"
 excerpt: "On the first day of Women’s History Month, it is worth remembering Eleanor Creesy, the navigator of the clipper ship Flying Cloud, who with her husband, Captain Josiah Creesy, set world sailing records for the fastest passage between New York … Continue reading &rarr;"
 categories:
   - "History"

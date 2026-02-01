@@ -1,7 +1,7 @@
 ---
 title: "The 1st EU piracy trial starts in the Netherlands"
 date: 2010-05-29T09:18:33
-slug: the-1st-eu-piracy-trial-starts-in-the-netherlands
+slug: "the-1st-eu-piracy-trial-starts-in-the-netherlands"
 excerpt: "Five alleged pirates went on trial this week in the Netherlands in what is believed to be the first piracy trial in the European Union.  The Netherlands has called for an international tribunal for the prosecution of sea pirates, but thus far no EU action … Continue reading &rarr;"
 categories:
   - "Current"

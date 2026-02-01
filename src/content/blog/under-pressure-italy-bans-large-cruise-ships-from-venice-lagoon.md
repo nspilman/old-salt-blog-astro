@@ -1,7 +1,7 @@
 ---
 title: "Under Pressure, Italy Bans Large Cruise Ships from Venice Lagoon"
 date: 2021-07-14T17:02:11
-slug: under-pressure-italy-bans-large-cruise-ships-from-venice-lagoon
+slug: "under-pressure-italy-bans-large-cruise-ships-from-venice-lagoon"
 excerpt: "The Italian government is banning large cruise ships from calling on the Venice lagoon after declaring the lagoon a national monument. Italy had come under pressure from Unesco, the UN’s heritage agency, that threatened to put Venice on its endangered … Continue reading &rarr;"
 categories:
   - "Current"

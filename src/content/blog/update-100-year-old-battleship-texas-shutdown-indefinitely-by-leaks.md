@@ -1,7 +1,7 @@
 ---
 title: "Update: 100 Year Old Battleship Texas Shutdown Indefinitely by Leaks"
 date: 2012-06-26T08:15:28
-slug: update-100-year-old-battleship-texas-shutdown-indefinitely-by-leaks
+slug: "update-100-year-old-battleship-texas-shutdown-indefinitely-by-leaks"
 excerpt: "We posted recently about the attempts to repair hull leaks in the BattleshipTexas, the oldest remaining dreadnought battleship and only one of six surviving ships to have served in both World War I and World War II.  The ship has been on … Continue reading &rarr;"
 categories:
   - "Current"

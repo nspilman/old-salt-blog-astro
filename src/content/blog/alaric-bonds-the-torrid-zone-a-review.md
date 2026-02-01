@@ -1,7 +1,7 @@
 ---
 title: "Alaric Bond’s The Torrid Zone  — A Review"
 date: 2014-05-31T16:53:29
-slug: alaric-bonds-the-torrid-zone-a-review
+slug: "alaric-bonds-the-torrid-zone-a-review"
 excerpt: "In The Torrid Zone, Alaric Bond’s latest novel in his Fighting Sail Series, HMS Scylla is due to return to England. Her crew is weary and the ship is in serious need of a refit.  Yet, as soon as the ship reaches … Continue reading &rarr;"
 categories:
   - "Newbooks"

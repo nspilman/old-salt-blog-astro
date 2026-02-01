@@ -1,7 +1,7 @@
 ---
 title: "Wreck of 400 Year Old Portuguese Spice Ship Discovered Near Cascais"
 date: 2018-09-30T09:23:45
-slug: wreck-of-400-year-old-portuguese-spice-ship-discovered-near-cascais
+slug: "wreck-of-400-year-old-portuguese-spice-ship-discovered-near-cascais"
 excerpt: "Archaeologists have found a 400-year-old shipwreck off the coast of Portugal, near Cascais, close to the capital Lisbon. The shipwreck was found in early September while dredging the mouth of the Tagus river.  Spices, ceramics, and cannons engraved with Portugal’s … Continue reading &rarr;"
 categories:
   - "Current"

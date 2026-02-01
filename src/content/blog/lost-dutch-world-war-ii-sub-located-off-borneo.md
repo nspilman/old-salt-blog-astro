@@ -1,7 +1,7 @@
 ---
 title: "Lost Dutch World War II Sub Located off Borneo"
 date: 2011-10-25T10:58:52
-slug: lost-dutch-world-war-ii-sub-located-off-borneo
+slug: "lost-dutch-world-war-ii-sub-located-off-borneo"
 excerpt: "The Dutch submarine Hr Ms KXVI was part of an Allied fleet attempting to stop the Japanese invasion of the Dutch East Indies, when it was sunk by a Japanese submarine on the day after Christmas, 1941. Since then the wreck of … Continue reading &rarr;"
 categories:
   - "Current"

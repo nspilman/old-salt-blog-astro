@@ -1,7 +1,7 @@
 ---
 title: "The Dual Discovery of the Whaling Brig Industry and Her Crew’s Fate Link to US Racial History"
 date: 2022-03-25T17:51:57
-slug: the-dual-discovery-of-the-whaling-brig-industry-and-her-crew-link-to-us-racial-history
+slug: "the-dual-discovery-of-the-whaling-brig-industry-and-her-crew-link-to-us-racial-history"
 excerpt: "The shipwreck in 6,000 feet of water in the Gulf of Mexico, 70 miles from the mouth of the Mississippi River, had first been spotted in 2011, by a geological data company scanning an oil lease area. The wreck was … Continue reading &rarr;"
 categories:
   - "Current"

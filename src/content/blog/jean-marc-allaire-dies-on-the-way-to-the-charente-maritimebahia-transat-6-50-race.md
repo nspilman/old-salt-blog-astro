@@ -1,7 +1,7 @@
 ---
 title: "Jean-Marc Allaire Dies on the Way to the Charente-Maritime/Bahia Transat 6.50 Race"
 date: 2011-09-24T11:19:28
-slug: jean-marc-allaire-dies-on-the-way-to-the-charente-maritimebahia-transat-6-50-race
+slug: "jean-marc-allaire-dies-on-the-way-to-the-charente-maritimebahia-transat-6-50-race"
 excerpt: "Tommorrow, the Charente-Maritime/Bahia Transat 6.50 sets off from La Rochelle, France bound for Salvador de Bahia, Brazil via Funchal, Madeira.  Roughly eighty sailors from sixteen countries will sail the Open/Mini 6.5, a 21 foot long ocean racer, across the Atlantic. … Continue reading &rarr;"
 categories:
   - "Current"

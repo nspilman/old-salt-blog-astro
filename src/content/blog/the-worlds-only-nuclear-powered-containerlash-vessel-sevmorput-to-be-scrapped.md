@@ -1,7 +1,7 @@
 ---
 title: "The World’s Only Nuclear Powered Container/LASH Vessel, Sevmorput, to be Scrapped"
 date: 2012-11-01T09:52:17
-slug: the-worlds-only-nuclear-powered-containerlash-vessel-sevmorput-to-be-scrapped
+slug: "the-worlds-only-nuclear-powered-containerlash-vessel-sevmorput-to-be-scrapped"
 excerpt: "Nuclear powered ships were the future that never quite arrived.  The Russian container ship/LASH carrier Sevmorput is the only remaining nuclear powered merchant ship and it is slated to be scrapped. No future for nuclear-powered container ship … Continue reading &rarr;"
 categories:
   - "Current"

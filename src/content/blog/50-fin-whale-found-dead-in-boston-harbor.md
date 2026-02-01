@@ -1,7 +1,7 @@
 ---
 title: "50′ Fin Whale Found Dead in Boston Harbor"
 date: 2012-10-10T10:33:59
-slug: 50-fin-whale-found-dead-in-boston-harbor
+slug: "50-fin-whale-found-dead-in-boston-harbor"
 excerpt: "As we have posted about previously, the greatest threat to many species of endangered whales is from ship strikes and entanglement in fishing nets. The dead 50′ fin whale that drifted into Boston harbor recently is a reminder of this. … Continue reading &rarr;"
 categories:
   - "Current"

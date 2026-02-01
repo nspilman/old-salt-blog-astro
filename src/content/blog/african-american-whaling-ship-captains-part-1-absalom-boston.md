@@ -1,7 +1,7 @@
 ---
 title: "African American Whaling Ship Captains: Part 1 — Absalom Boston"
 date: 2017-02-27T09:19:20
-slug: african-american-whaling-ship-captains-part-1-absalom-boston
+slug: "african-american-whaling-ship-captains-part-1-absalom-boston"
 excerpt: "As Black History Month for 2017 comes to a close, we look at African American whaling ship captains. Over nearly three centuries of whaling, some 175,000 men went to sea in 2,700 ships. Of the 2,500 masters who captained these … Continue reading &rarr;"
 categories:
   - "History"

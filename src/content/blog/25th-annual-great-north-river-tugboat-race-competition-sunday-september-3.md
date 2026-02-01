@@ -1,7 +1,7 @@
 ---
 title: "25th Annual Great North River Tugboat Race & Competition on Sunday, September 3"
 date: 2017-08-26T09:31:19
-slug: 25th-annual-great-north-river-tugboat-race-competition-sunday-september-3
+slug: "25th-annual-great-north-river-tugboat-race-competition-sunday-september-3"
 excerpt: "For those in and around New York harbor, the 25th Annual Great North River Tugboat Race & Competition, sponsored by the Working Harbor Committee, is coming up on Sunday, September 3rd. The Parade of Tugs starts on the Hudson River at 10 … Continue reading &rarr;"
 categories:
   - "Current"

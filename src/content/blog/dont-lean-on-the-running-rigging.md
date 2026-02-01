@@ -1,7 +1,7 @@
 ---
 title: "Don’t Lean on the Running Rigging"
 date: 2014-05-12T08:24:20
-slug: dont-lean-on-the-running-rigging
+slug: "dont-lean-on-the-running-rigging"
 excerpt: "This video has been around for some time, but I smile every time I see it.  Yes, it is in Dutch, but that hardly matters. Watch until the end.  The journalist is interviewing the mayor of the city of Kampen, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

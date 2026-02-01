@@ -1,7 +1,7 @@
 ---
 title: "Viking Sky Engine Loss Blamed on Low Oil Pressure"
 date: 2019-03-27T17:50:54
-slug: viking-sky-engine-loss-blamed-on-low-oil-pressure
+slug: "viking-sky-engine-loss-blamed-on-low-oil-pressure"
 excerpt: "Last weekend, the cruise ship Viking Sky, with over 1,300 passengers and crew aboard, lost all four of its engines in high winds and rough seas off the Norwegian coast and came precariously close to drifting onto a rocky reef.  … Continue reading &rarr;"
 categories:
   - "Current"

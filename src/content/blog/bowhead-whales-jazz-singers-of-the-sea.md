@@ -1,7 +1,7 @@
 ---
 title: "Bowhead Whales, Jazz Singers of the Sea"
 date: 2018-05-03T08:15:10
-slug: bowhead-whales-jazz-singers-of-the-sea
+slug: "bowhead-whales-jazz-singers-of-the-sea"
 excerpt: "Last month, researchers from the University of Washington released a study performed over four winters which recorded 184 bowhead whales singing beneath the ice in Greenland. What they found was remarkable. Kate Stafford and other UW oceanographers discovered that the … Continue reading &rarr;"
 categories:
   - "Current"

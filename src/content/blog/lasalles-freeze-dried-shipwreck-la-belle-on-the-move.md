@@ -1,7 +1,7 @@
 ---
 title: "LaSalle’s Freeze-Dried Shipwreck La Belle on the Move"
 date: 2014-07-19T12:30:46
-slug: lasalles-freeze-dried-shipwreck-la-belle-on-the-move
+slug: "lasalles-freeze-dried-shipwreck-la-belle-on-the-move"
 excerpt: "Two years ago we posted about how a team of scientists at the Texas A&M University Center for Maritime Archaeology and Conservation were using freeze-drying to preserve large sections of French explorer’s Robert LaSalle’s flagship, La Belle, which sank in Matagorda Bay in … Continue reading &rarr;"
 categories:
   - "Current"

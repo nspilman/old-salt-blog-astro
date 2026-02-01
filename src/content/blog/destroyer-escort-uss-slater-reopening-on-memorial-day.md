@@ -1,7 +1,7 @@
 ---
 title: "Destroyer Escort USS Slater Reopening on Memorial Day"
 date: 2021-05-30T15:05:07
-slug: destroyer-escort-uss-slater-reopening-on-memorial-day
+slug: "destroyer-escort-uss-slater-reopening-on-memorial-day"
 excerpt: "Museum ships are slowly reopening.  The USS Slater on the Albany waterfront, the last Destroyer Escort afloat in America, is set to open to the public on Memorial Day, Monday, May 31st. After Memorial Day the ship will operate normal … Continue reading &rarr;"
 categories:
   - "Current"

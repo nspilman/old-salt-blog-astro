@@ -1,7 +1,7 @@
 ---
 title: "Last Chance to Get A Free Kindle Edition of Hell Around the Horn"
 date: 2013-02-09T13:51:31
-slug: last-chance-to-get-a-free-kindle-edition-of-hell-around-the-horn
+slug: "last-chance-to-get-a-free-kindle-edition-of-hell-around-the-horn"
 excerpt: "The Kindle Edition of Hell Around the Horn will be free today through Monday, February 9 – 11th.  Click here to download a copy. This is the second and last Kindle free promotion for the book. For those who have asked for … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

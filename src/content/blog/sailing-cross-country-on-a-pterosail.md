@@ -1,7 +1,7 @@
 ---
 title: "Sailing Cross-Country on a Pterosail"
 date: 2010-07-12T15:42:49
-slug: sailing-cross-country-on-a-pterosail
+slug: "sailing-cross-country-on-a-pterosail"
 excerpt: "John MacTaggart is attempting to sail cross-country on a Pterosail, a recumbent trike with a sail and solar panel.  He set off on July 1st in San Diego and is now in New Mexico on his way to Florida. He … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Jellyfish Invasion Shuts Down Swedish Reactor – A Sign of the Jellyfish Apocalypse?"
 date: 2013-10-02T09:43:35
-slug: jellyfish-invasion-paralyzes-swedish-reactor-sign-jellyfish-apocalypse
+slug: "jellyfish-invasion-paralyzes-swedish-reactor-sign-jellyfish-apocalypse"
 excerpt: "Over the weekend, a huge swarm of moon jellyfish shut down the 1,400 megawatt Unit 3 reactor at the Oskarshamn nuclear power plant on Sweden’s Baltic Sea coast.  The jellyfish clogged the cooling water intakes, located roughly 60′ feet below the … Continue reading &rarr;"
 categories:
   - "Current"

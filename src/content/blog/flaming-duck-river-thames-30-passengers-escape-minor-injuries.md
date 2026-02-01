@@ -1,7 +1,7 @@
 ---
 title: "Flaming Duck on the River Thames – 30 Passengers Escape with Minor Injuries"
 date: 2013-09-30T13:39:18
-slug: flaming-duck-river-thames-30-passengers-escape-minor-injuries
+slug: "flaming-duck-river-thames-30-passengers-escape-minor-injuries"
 excerpt: "In wholly unrelated news, one day after the people of Pittsburgh held a party on the Allegheny River to celebrate the arrival of the Rubber Duck (as well as to kick-off the Pittsburgh International Festival of Firsts), see our recent … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

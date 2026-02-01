@@ -1,7 +1,7 @@
 ---
 title: "Undocking US Coast Guard Barque Eagle"
 date: 2018-03-25T13:21:07
-slug: undocking-us-coast-guard-barque-eagle
+slug: "undocking-us-coast-guard-barque-eagle"
 excerpt: "Here is a time-lapse video of the U.S. Coast Guard’s 81-year-old Barque Eagle departing the floating drydock, the ex-USS Oak Ridge, on February 27, 2018, at the Coast Guard Yard, Baltimore, Maryland. The 295-foot Eagle went on dock in August … Continue reading &rarr;"
 categories:
   - "Current"

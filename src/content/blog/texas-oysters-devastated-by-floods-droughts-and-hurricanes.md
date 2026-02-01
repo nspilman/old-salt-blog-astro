@@ -1,7 +1,7 @@
 ---
 title: "Texas Oysters Devastated by Floods, Droughts, and Hurricanes"
 date: 2022-05-04T17:23:24
-slug: texas-oysters-devastated-by-floods-droughts-and-hurricanes
+slug: "texas-oysters-devastated-by-floods-droughts-and-hurricanes"
 excerpt: "The cumulative impact of hurricanes, floods, drought, and oil spills has had a devastating impact on Texas oyster beds. Across the Gulf Coast region, an estimated 50-85% of the original oyster reefs have disappeared, according to a report by the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Update: World’s Oldest Champagne Going on the Block in June"
 date: 2011-04-22T22:21:28
-slug: update-worlds-oldest-champagne-going-on-the-block-in-june
-excerpt: "In July of last year we posted about the discovery of 30 bottles of champagne thought to pre-date the French Revolution in a wreck on the Baltic seabed.  In November, wine experts tasted the “world’s oldest champagne” which was judged to be … Continue reading &rarr;"
+slug: "update-worlds-oldest-champagne-going-on-the-block-in-june"
+excerpt: "In July of last year we posted about the discovery of 30 bottles of champagne thought to pre-date the French Revolution in a wreck on the Baltic seabed.  In November, wine experts tasted the \"world’s oldest champagne\" which was judged to be … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Veuve-Clicquot"
   - "World's Oldest Champagne"
 author: "Rick Spilman"
-description: "In July of last year we posted about the discovery of 30 bottles of champagne thought to pre-date the French Revolution in a wreck on the Baltic seabed.  In November, wine experts tasted the “world’s oldest champagne” which was judged to be … Continue reading &rarr;"
+description: "In July of last year we posted about the discovery of 30 bottles of champagne thought to pre-date the French Revolution in a wreck on the Baltic seabed.  In November, wine experts tasted the \"world’s oldest champagne\" which was judged to be … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/champagne.jpg)In July of last year [we posted about the discovery of 30 bottles of champagne](http://www.oldsaltblog.com/2010/07/18/worlds-oldest-champagne-found-on-baltic-seabed/) thought to pre-date the French Revolution in a wreck on the Baltic seabed.  In [November, wine experts tasted the “world’s oldest champagne”](http://www.oldsaltblog.com/2010/11/22/tasting-the-shipwreck-champagne-and-brewing-shipwreck-beer/) which was judged to be quite palatable.  Recently it was announced that two bottles of 200-year old champagne will be auctioned off in June.

@@ -1,8 +1,8 @@
 ---
-title: "Eugenie Clark, “The Shark Lady,” Dies at 92"
+title: "Eugenie Clark, \"The Shark Lady,\" Dies at 92"
 date: 2015-02-28T19:17:18
-slug: eugenie-clark-the-shark-lady-dies-at-92
-excerpt: "Dr. Eugenie Clark; ichthyologist, marine biologist and oceanographer; who earned the nickname, “the Shark Lady,” has died at her home in Sarasota Florida, at the age of 92.  Her research on the behavior of sharks helped the public understand and appreciate … Continue reading &rarr;"
+slug: "eugenie-clark-the-shark-lady-dies-at-92"
+excerpt: "Dr. Eugenie Clark; ichthyologist, marine biologist and oceanographer; who earned the nickname, \"the Shark Lady,\" has died at her home in Sarasota Florida, at the age of 92.  Her research on the behavior of sharks helped the public understand and appreciate … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

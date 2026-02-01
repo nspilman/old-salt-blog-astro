@@ -1,7 +1,7 @@
 ---
 title: "Will COVID-19 Destroy the Traditional Netherlands Sailing Fleet?"
 date: 2020-07-16T15:40:16
-slug: will-covid-19-destroy-the-traditional-netherlands-sailing-fleet
+slug: "will-covid-19-destroy-the-traditional-netherlands-sailing-fleet"
 excerpt: "The Netherlands has the largest, still operational, historical sailing fleet in the world, consisting of 400 traditional, authentic sailing vessels. There are real concerns that the historic fleet may be destroyed by the aftermath of COVID-19. With the fleet locked … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

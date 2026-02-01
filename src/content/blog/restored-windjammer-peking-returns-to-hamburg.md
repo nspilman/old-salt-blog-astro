@@ -1,7 +1,7 @@
 ---
 title: "Restored Windjammer Peking Returns to Hamburg"
 date: 2020-09-10T12:45:04
-slug: restored-windjammer-peking-returns-to-hamburg
+slug: "restored-windjammer-peking-returns-to-hamburg"
 excerpt: "In all her former glory, the restored Flying P Liner Peking has returned to her home port of Hamburg. Four years ago, we posted about the Peking‘s departure from New York’s South Street Seaport. During the summer of 2017, she … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

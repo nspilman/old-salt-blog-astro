@@ -1,7 +1,7 @@
 ---
 title: "OpSail and Fleet Week in New York Harbor – Two Parades of Ships on May 23rd"
 date: 2012-05-18T12:25:03
-slug: opsail-and-fleet-week-in-new-york-harbor-two-parades-of-ships-on-may-23rd
+slug: "opsail-and-fleet-week-in-new-york-harbor-two-parades-of-ships-on-may-23rd"
 excerpt: "Next Wednesday, May 23rd, OpSail 2012 and New York Fleet Week kick off with two parades of ships in the harbor and up the Hudson River.   This year’s OpSail is organized to mark the bicentennial of the War of … Continue reading &rarr;"
 categories:
   - "Current"

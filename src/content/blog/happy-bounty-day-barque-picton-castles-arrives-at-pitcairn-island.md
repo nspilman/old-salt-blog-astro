@@ -1,7 +1,7 @@
 ---
 title: "Happy Bounty Day! Barque Picton Castles Arrives at Pitcairn Island"
 date: 2013-01-23T10:39:21
-slug: happy-bounty-day-barque-picton-castles-arrives-at-pitcairn-island
+slug: "happy-bounty-day-barque-picton-castles-arrives-at-pitcairn-island"
 excerpt: "Happy Bounty Day! On Pitcairn Island, Bounty Day is celebrated yearly on January 23, in commemoration of the burning of the HMS Bounty by the mutineers in 1790.  The sail training ship Picton Castle arrived just in time to partake in the celebrations. … Continue reading &rarr;"
 categories:
   - "Current"

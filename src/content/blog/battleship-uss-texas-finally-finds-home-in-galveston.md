@@ -1,7 +1,7 @@
 ---
 title: "Battleship USS Texas Finally Finds Home in Galveston"
 date: 2025-03-13T21:34:52
-slug: battleship-uss-texas-finally-finds-home-in-galveston
+slug: "battleship-uss-texas-finally-finds-home-in-galveston"
 excerpt: "The battleship USS Texas, the oldest remaining dreadnought battleship, may finally have a permaneny home in Galveston, TX. After decades of heglect, the venerable old ship was drydocked in 2022 to undergo $60 million in repairs and refurbishment, which was … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

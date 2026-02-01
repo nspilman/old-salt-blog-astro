@@ -1,12 +1,12 @@
 ---
 title: "Captain William Thomas Shorey, the Black Ahab"
 date: 2014-07-13T09:06:07
-slug: captain-william-thomas-storey-the-black-ahab
-excerpt: "Today is the 155th anniversary of the birth of Captain William Thomas Shorey, a famous captain in the last days of whaling,  who was affectionately nicknamed “Black Ahab” by his crew.  Shorey was born in Barbados in 1859 and ran … Continue reading &rarr;"
+slug: "captain-william-thomas-storey-the-black-ahab"
+excerpt: "Today is the 155th anniversary of the birth of Captain William Thomas Shorey, a famous captain in the last days of whaling,  who was affectionately nicknamed \"Black Ahab\" by his crew.  Shorey was born in Barbados in 1859 and ran … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "Today is the 155th anniversary of the birth of Captain William Thomas Shorey, a famous captain in the last days of whaling,  who was affectionately nicknamed “Black Ahab” by his crew.  Shorey was born in Barbados in 1859 and ran … Continue reading &rarr;"
+description: "Today is the 155th anniversary of the birth of Captain William Thomas Shorey, a famous captain in the last days of whaling,  who was affectionately nicknamed \"Black Ahab\" by his crew.  Shorey was born in Barbados in 1859 and ran … Continue reading &rarr;"
 ---
 
 ![Williamshorey](http://www.oldsaltblog.com/wp-content/uploads/2014/07/Williamshorey.jpg)Today is the 155th anniversary of the birth of [Captain William Thomas Shorey](http://en.wikipedia.org/wiki/William_T._Shorey), a famous captain in the last days of whaling,  who was affectionately nicknamed “Black Ahab” by his crew.  Shorey was born in Barbados in 1859 and ran away to sea as a young man. He learned navigation from a British ship captain and became a ship’s officer by the age of 21.  After only a decade at sea, he rose to command whaling ships sailing out of San Francisco.

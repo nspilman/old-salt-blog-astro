@@ -1,8 +1,8 @@
 ---
 title: "Titanic — Digitally Reconstructed 3D View of Wreck Seen For First Time"
 date: 2023-05-17T17:40:20
-slug: titanic-digitally-reconstructed-3d-view-of-wreck-for-first-time
-excerpt: "The BBC is reporting that the first full-sized digital scan of the Titanic, 3,800m (12,500ft) down in the Atlantic, has been completed using deep-sea mapping, providing a unique 3D view of the entire ship. “There are still questions, basic questions, … Continue reading &rarr;"
+slug: "titanic-digitally-reconstructed-3d-view-of-wreck-for-first-time"
+excerpt: "The BBC is reporting that the first full-sized digital scan of the Titanic, 3,800m (12,500ft) down in the Atlantic, has been completed using deep-sea mapping, providing a unique 3D view of the entire ship. \"There are still questions, basic questions, … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -16,7 +16,7 @@ tags:
   - "Titanic"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/05/titanicscan.jpg"
 author: "Rick Spilman"
-description: "The BBC is reporting that the first full-sized digital scan of the Titanic, 3,800m (12,500ft) down in the Atlantic, has been completed using deep-sea mapping, providing a unique 3D view of the entire ship. “There are still questions, basic questions, … Continue reading &rarr;"
+description: "The BBC is reporting that the first full-sized digital scan of the Titanic, 3,800m (12,500ft) down in the Atlantic, has been completed using deep-sea mapping, providing a unique 3D view of the entire ship. \"There are still questions, basic questions, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/05/titanicscan.jpg)The [BBC](https://www.bbc.com/news/science-environment-65602182) is reporting that the first full-sized digital scan of the [*Titanic*](https://en.wikipedia.org/wiki/Titanic), 3,800m (12,500ft) down in the Atlantic, has been completed using deep-sea mapping, providing a unique 3D view of the entire ship.

@@ -1,8 +1,8 @@
 ---
 title: "Off Antarctica, Hope Fades for Crew of Yacht Berserk"
 date: 2011-02-25T08:50:56
-slug: off-antarctica-hope-fades-for-crew-of-yacht-berserk-ii
-excerpt: "The called themselves the Wild Vikings.  They were to be the “new generation of explorers.”  From their website: The crew onboard Berserk II wish to pick up the old Norsemen traditions opposed to todays so called “civilized” and often artificial … Continue reading &rarr;"
+slug: "off-antarctica-hope-fades-for-crew-of-yacht-berserk-ii"
+excerpt: "The called themselves the Wild Vikings.  They were to be the \"new generation of explorers.\"  From their website: The crew onboard Berserk II wish to pick up the old Norsemen traditions opposed to todays so called \"civilized\" and often artificial … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "liferaft"
   - "Wild Vikings"
 author: "Rick Spilman"
-description: "The called themselves the Wild Vikings.  They were to be the “new generation of explorers.”  From their website: The crew onboard Berserk II wish to pick up the old Norsemen traditions opposed to todays so called “civilized” and often artificial … Continue reading &rarr;"
+description: "The called themselves the Wild Vikings.  They were to be the \"new generation of explorers.\"  From their website: The crew onboard Berserk II wish to pick up the old Norsemen traditions opposed to todays so called \"civilized\" and often artificial … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/berserk1.jpg)

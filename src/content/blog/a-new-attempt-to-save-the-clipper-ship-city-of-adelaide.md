@@ -1,7 +1,7 @@
 ---
 title: "A New Attempt to Save the Clipper Ship City of Adelaide"
 date: 2010-01-21T08:14:22
-slug: a-new-attempt-to-save-the-clipper-ship-city-of-adelaide
+slug: "a-new-attempt-to-save-the-clipper-ship-city-of-adelaide"
 excerpt: "More talks to save the fine old ship from being broken up.  Only time will tell whether anyone will come up with the funds to rescue her. Fresh bid to salvage historic Scots ship … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Fryderyk Chopin, Polish Training Vessel, loses masts in force 9 gale"
 date: 2010-10-29T10:35:13
-slug: fryderyk-chopin-polish-training-vessel-loses-mast-in-force-9-gale
+slug: "fryderyk-chopin-polish-training-vessel-loses-mast-in-force-9-gale"
 excerpt: "Update: UK coast guard: Polish teen sailors safe after their ship loses both masts A group of teenage sailors whose ship was drifting at sea after it lost both masts in gale-force winds is safe from harm, coast guards said … Continue reading &rarr;"
 categories:
   - "Current"

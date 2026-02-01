@@ -1,7 +1,7 @@
 ---
 title: "Scuttling the German High Seas Fleet at Scapa Flow, 102 Years Ago Today"
 date: 2021-06-21T16:49:42
-slug: scuttling-the-german-high-seas-fleet-at-scapa-flow-102-years-ago-today
+slug: "scuttling-the-german-high-seas-fleet-at-scapa-flow-102-years-ago-today"
 excerpt: "Following the Armistice of November 11, 1918, which ended fighting on land, sea, and air in World War I, the German High Seas Fleet of 74 ships was interned at Scapa Flow, in the Orkney Islands of Scotland. While the … Continue reading &rarr;"
 categories:
   - "History"

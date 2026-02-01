@@ -1,7 +1,7 @@
 ---
 title: "Record Slaughter of 1,400 Dolphins in Faroe Islands Triggers Anger and Review"
 date: 2021-09-20T17:22:31
-slug: record-slaughter-of-1400-dolphins-in-faroe-islands-triggers-anger-and-review
+slug: "record-slaughter-of-1400-dolphins-in-faroe-islands-triggers-anger-and-review"
 excerpt: "The inhabitants of the Faroe Islands, a windswept archipelago in the North Atlantic roughly halfway between Norway and Iceland, have been hunting long-finned pilot whales and white-sided dolphins for food for almost a thousand years. The summer hunt is known … Continue reading &rarr;"
 categories:
   - "Current"

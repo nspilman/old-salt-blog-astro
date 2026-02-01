@@ -1,7 +1,7 @@
 ---
 title: "Thai Corvette HTMS Sukhothai Sinks in Storm, Search Ongoing For Over 30 Missing"
 date: 2022-12-19T11:46:11
-slug: thai-corvette-htms-sukhothai-sinks-in-storm-search-ongoing-for-over-30-missing
+slug: "thai-corvette-htms-sukhothai-sinks-in-storm-search-ongoing-for-over-30-missing"
 excerpt: "The Thai navy says 31 sailors are missing after the corvette, HTMS Sukhothai, with a crew of 100 capsized and sank during a storm in the Gulf of Thailand. The ship sank around 23:30 local time Sunday (16:30 GMT) after … Continue reading &rarr;"
 categories:
   - "Current"

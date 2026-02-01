@@ -1,7 +1,7 @@
 ---
 title: "Grays Harbor Announces Hawaiian Chieftain Sold, to Return to Hawaii"
 date: 2021-07-22T10:10:16
-slug: grays-harbor-announces-hawaiian-chieftain-sold-to-return-to-hawaii
+slug: "grays-harbor-announces-hawaiian-chieftain-sold-to-return-to-hawaii"
 excerpt: "Positive news from Grays Harbor Historical Seaport in Aberdeen, WA. The Hawaiian Chieftain, a 65′ on deck square topsail ketch,  has been sold and will eventually be returning to her home state of Hawai’i. Briefly known as the Spirit of Larinda. … Continue reading &rarr;"
 categories:
   - "Current"

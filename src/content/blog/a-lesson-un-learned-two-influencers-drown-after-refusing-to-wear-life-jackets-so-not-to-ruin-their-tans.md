@@ -1,8 +1,8 @@
 ---
-title: "A Lesson Un-Learned: Two “Influencers” Drown After Refusing to Wear Life Jackets So Not to Ruin Their Tans"
+title: "A Lesson Un-Learned: Two \"Influencers\" Drown After Refusing to Wear Life Jackets So Not to Ruin Their Tans"
 date: 2024-11-04T22:29:33
-slug: a-lesson-un-learned-two-influencers-drown-after-refusing-to-wear-life-jackets-so-not-to-ruin-their-tans
-excerpt: "A sad account that reinforces an old lesson, while also highlighting an unexpected risk of social media.  Vice reports that two Brazilian Instagram “influencers” drowned in a boating accident off the coast of São Paulo after opting not to wear … Continue reading &rarr;"
+slug: "a-lesson-un-learned-two-influencers-drown-after-refusing-to-wear-life-jackets-so-not-to-ruin-their-tans"
+excerpt: "A sad account that reinforces an old lesson, while also highlighting an unexpected risk of social media.  Vice reports that two Brazilian Instagram \"influencers\" drowned in a boating accident off the coast of São Paulo after opting not to wear … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -18,7 +18,7 @@ tags:
   - "tanning"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/11/influencerssrown.jpg"
 author: "Rick Spilman"
-description: "A sad account that reinforces an old lesson, while also highlighting an unexpected risk of social media.  Vice reports that two Brazilian Instagram “influencers” drowned in a boating accident off the coast of São Paulo after opting not to wear … Continue reading &rarr;"
+description: "A sad account that reinforces an old lesson, while also highlighting an unexpected risk of social media.  Vice reports that two Brazilian Instagram \"influencers\" drowned in a boating accident off the coast of São Paulo after opting not to wear … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/11/influencerssrown.jpg)A sad account that reinforces an old lesson, while also highlighting an unexpected risk of social media.  [Vice](https://www.vice.com/en/article/brazilian-influencers-drown-after-refusing-life-jackets/) reports that two Brazilian [Instagram “influencers”](https://www.instagram.com/its_onsite/p/DBv-9HnRbA-/) drowned in a boating accident off the coast of São Paulo after opting not to wear life jackets, believing the safety gear would ruin their tans. One of the two victims reportedly did not know how to swim.

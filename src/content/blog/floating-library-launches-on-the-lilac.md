@@ -1,7 +1,7 @@
 ---
 title: "Floating Library Launches on the Lilac"
 date: 2014-09-06T10:53:00
-slug: floating-library-launches-on-the-lilac
+slug: "floating-library-launches-on-the-lilac"
 excerpt: "Starting today and running through October 3rd, the 1933 lighthouse tender Lilac, on the Hudson River at Pier 25 in New York, is being transformed into the Floating Library, a mobile device-free salon for reading, writing, research, debate, and fearless dreaming. Created and … Continue reading &rarr;"
 categories:
   - "Current"

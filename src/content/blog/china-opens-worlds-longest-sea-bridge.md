@@ -1,8 +1,8 @@
 ---
 title: "China Opens World’s Longest Sea Bridge"
 date: 2011-07-03T07:50:44
-slug: china-opens-worlds-longest-sea-bridge
-excerpt: "The world’ s longest bridge over salt water, the 26.4 mile-long Qingdao Haiwan Bridge, in China, has opened to traffic.   It makes me wonder how you say in Mandarin, “OK, kids.  Who needs to go to the bathroom? No … Continue reading &rarr;"
+slug: "china-opens-worlds-longest-sea-bridge"
+excerpt: "The world’ s longest bridge over salt water, the 26.4 mile-long Qingdao Haiwan Bridge, in China, has opened to traffic.   It makes me wonder how you say in Mandarin, \"OK, kids.  Who needs to go to the bathroom? No … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Qingdao Haiwan Bridge"
   - "world' s longest bridge over salt water"
 author: "Rick Spilman"
-description: "The world’ s longest bridge over salt water, the 26.4 mile-long Qingdao Haiwan Bridge, in China, has opened to traffic.   It makes me wonder how you say in Mandarin, “OK, kids.  Who needs to go to the bathroom? No … Continue reading &rarr;"
+description: "The world’ s longest bridge over salt water, the 26.4 mile-long Qingdao Haiwan Bridge, in China, has opened to traffic.   It makes me wonder how you say in Mandarin, \"OK, kids.  Who needs to go to the bathroom? No … Continue reading &rarr;"
 ---
 
 The world’ s longest bridge over salt water, the 26.4 mile-long Qingdao Haiwan Bridge, in China, has opened to traffic.   It makes me wonder how you say in Mandarin, “OK, kids.  Who needs to go to the bathroom? No stops on the bridge.”

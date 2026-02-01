@@ -1,7 +1,7 @@
 ---
 title: "Ancient Sailors — More Evidence that First Settlers in North America May Have Arrived by Sea"
 date: 2019-09-12T09:10:52
-slug: ancient-sailors-more-evidence-that-first-settlers-in-north-america-may-have-arrived-by-sea
+slug: "ancient-sailors-more-evidence-that-first-settlers-in-north-america-may-have-arrived-by-sea"
 excerpt: "More evidence that the first travelers to the Americas may have been sailors. The classic theory of the arrival of early people in North America was the Clovis model. The theory was that early humans migrated to North America by … Continue reading &rarr;"
 categories:
   - "History"

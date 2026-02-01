@@ -1,8 +1,8 @@
 ---
 title: "James Bartley, Swallowed By A Sperm Whale, & the Nature Of A Good Sea Story"
 date: 2021-06-17T17:53:55
-slug: james-bartley-swallowed-by-a-sperm-whale-the-nature-of-a-good-sea-story
-excerpt: "We recently posted about Michael Packard, a Cape Cod diver, who found himself scooped up inside the mouth of a humpback whale. Most of the media reports used the term “swallowed” by the whale. If the word “swallow” is defined … Continue reading &rarr;"
+slug: "james-bartley-swallowed-by-a-sperm-whale-the-nature-of-a-good-sea-story"
+excerpt: "We recently posted about Michael Packard, a Cape Cod diver, who found himself scooped up inside the mouth of a humpback whale. Most of the media reports used the term \"swallowed\" by the whale. If the word \"swallow\" is defined … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "sperm whale"
   - "whaling ship"
 author: "Rick Spilman"
-description: "We recently posted about Michael Packard, a Cape Cod diver, who found himself scooped up inside the mouth of a humpback whale. Most of the media reports used the term “swallowed” by the whale. If the word “swallow” is defined … Continue reading &rarr;"
+description: "We recently posted about Michael Packard, a Cape Cod diver, who found himself scooped up inside the mouth of a humpback whale. Most of the media reports used the term \"swallowed\" by the whale. If the word \"swallow\" is defined … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/spermwhalejb.jpg)We recently posted about Michael Packard, a Cape Cod diver, who found himself [scooped up inside the mouth of a humpback whale](http://www.oldsaltblog.com/2021/06/diver-gulped-up-then-spat-out-by-humpback-whale-off-cape-cod/). Most of the media reports used the term “swallowed” by the whale. If the word “swallow” is defined as “cause or allow something to pass down the throat,” the description is impossible. A humpback’s esophagus is only about 4 to 5″ in diameter, far too small to swallow a diver, especially one wearing a SCUBA tank. As one might expect, Mr. Pollard was promptly spat out by the whale, fortunately with minor injuries.

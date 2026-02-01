@@ -1,7 +1,7 @@
 ---
 title: "California Kayak Fisherman and the Hammerhead Shark"
 date: 2015-10-16T09:55:23
-slug: california-kayak-fisherman-and-the-hammerhead-shark
+slug: "california-kayak-fisherman-and-the-hammerhead-shark"
 excerpt: "Mark McCracken was out fishing for bonito half a mile off Gaviota State Beach, near Santa Barbara, when a hammerhead shark started bumping and circling his kayak. Mark, to his credit, didn’t panic, paddled toward shore and kept striking the shark … Continue reading &rarr;"
 categories:
   - "Current"

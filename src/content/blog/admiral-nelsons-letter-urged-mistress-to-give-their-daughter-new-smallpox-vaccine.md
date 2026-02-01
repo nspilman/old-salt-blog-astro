@@ -1,7 +1,7 @@
 ---
 title: "Admiral Nelson’s Letter Urged Mistress To Give Their Daughter New Smallpox Vaccine"
 date: 2021-02-16T11:07:54
-slug: admiral-nelsons-letter-urged-mistress-to-give-their-daughter-new-smallpox-vaccine
+slug: "admiral-nelsons-letter-urged-mistress-to-give-their-daughter-new-smallpox-vaccine"
 excerpt: "A recently unearthed letter from Admiral Horatio Nelson to his mistress, Lady Emma Hamilton, written in 1801, reveals Nelson recommending that their six-month-old baby daughter be given the smallpox vaccine developed by Edward Jenner just three years before. It is … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

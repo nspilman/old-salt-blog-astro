@@ -1,8 +1,8 @@
 ---
 title: "(Potentially) Really Great News About the Tanker Mary A. Whalen"
 date: 2012-12-14T22:14:38
-slug: potentially-really-great-news-about-the-tanker-mary-a-whalen
-excerpt: "Really great news about the tanker, Mary A. Whalen. (Negotiations are not finalized so perhaps we should say “potentially great news” so as not to jinx anything.)  For the last six years, the historic tanker and PortSide New York, the non-profit educational organization based on the ship, have been … Continue reading &rarr;"
+slug: "potentially-really-great-news-about-the-tanker-mary-a-whalen"
+excerpt: "Really great news about the tanker, Mary A. Whalen. (Negotiations are not finalized so perhaps we should say \"potentially great news\" so as not to jinx anything.)  For the last six years, the historic tanker and PortSide New York, the non-profit educational organization based on the ship, have been … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Mary A.Whalen"
   - "PortSide New York"
 author: "Rick Spilman"
-description: "Really great news about the tanker, Mary A. Whalen. (Negotiations are not finalized so perhaps we should say “potentially great news” so as not to jinx anything.)  For the last six years, the historic tanker and PortSide New York, the non-profit educational organization based on the ship, have been … Continue reading &rarr;"
+description: "Really great news about the tanker, Mary A. Whalen. (Negotiations are not finalized so perhaps we should say \"potentially great news\" so as not to jinx anything.)  For the last six years, the historic tanker and PortSide New York, the non-profit educational organization based on the ship, have been … Continue reading &rarr;"
 ---
 
 ![7-hull+bits](http://www.oldsaltblog.com/wp-content/uploads/2012/12/7-hull+bits.jpg)Really great news about the tanker, *[Mary A. Whalen](http://www.portsidenewyork.org/mary_whalen.htm)*. (Negotiations are not finalized so perhaps we should say “potentially great news” so as not to jinx anything.)  For the last six years, the historic tanker and [PortSide New York](http://portsidenewyork.org/), the non-profit educational organization based on the ship, have been without a permanent home.  If all goes well that may soon change. [Portside](http://myemail.constantcontact.com/Prospective-Brooklyn-site-revealed--National-Register-n-more-.html?soid=1102382229120&aid=gh_QSxdhAsg) has announced:

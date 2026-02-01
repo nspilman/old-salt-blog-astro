@@ -1,8 +1,8 @@
 ---
 title: "SS Great Britain Returns to Bristol, 48 Years Ago Today"
 date: 2018-07-05T15:45:38
-slug: ss-great-britain-returns-to-bristol-48-years-ago-today
-excerpt: "[tribulant_slideshow gallery_id=”4″]   Forty-eight years ago today, 100,000 people who lined the banks of the River Avon in Bristol as the SS Great Britain returned to her birthplace. In the intervening years, the rusting hulk has been meticulously restored to her former … Continue reading &rarr;"
+slug: "ss-great-britain-returns-to-bristol-48-years-ago-today"
+excerpt: "[tribulant_slideshow gallery_id=\"4″]   Forty-eight years ago today, 100,000 people who lined the banks of the River Avon in Bristol as the SS Great Britain returned to her birthplace. In the intervening years, the rusting hulk has been meticulously restored to her former … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -12,7 +12,7 @@ tags:
   - "Bristol"
   - "SS Great Britain"
 author: "Rick Spilman"
-description: "[tribulant_slideshow gallery_id=”4″]   Forty-eight years ago today, 100,000 people who lined the banks of the River Avon in Bristol as the SS Great Britain returned to her birthplace. In the intervening years, the rusting hulk has been meticulously restored to her former … Continue reading &rarr;"
+description: "[tribulant_slideshow gallery_id=\"4″]   Forty-eight years ago today, 100,000 people who lined the banks of the River Avon in Bristol as the SS Great Britain returned to her birthplace. In the intervening years, the rusting hulk has been meticulously restored to her former … Continue reading &rarr;"
 ---
 
 \[tribulant\_slideshow gallery\_id=”4″\]

@@ -1,7 +1,7 @@
 ---
 title: "First American Woman to Walk in Space Also First Woman to Visit the Challenger Deep"
 date: 2020-06-10T15:12:04
-slug: first-woman-to-walk-in-space-also-first-to-visit-the-challenger-deep
+slug: "first-woman-to-walk-in-space-also-first-to-visit-the-challenger-deep"
 excerpt: "In addition to serving as a crew member on three Space Shuttle missions, Kathryn Sullivan was also the first American woman to walk in space on October 11, 1984. Now, at 68, she has become the first woman to reach … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

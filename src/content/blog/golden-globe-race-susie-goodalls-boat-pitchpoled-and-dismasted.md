@@ -1,7 +1,7 @@
 ---
 title: "Golden Globe Race — Susie Goodall’s Boat Pitchpoled and Dismasted"
 date: 2018-12-06T08:26:43
-slug: golden-globe-race-susie-goodalls-boat-pitchpoled-and-dismasted
+slug: "golden-globe-race-susie-goodalls-boat-pitchpoled-and-dismasted"
 excerpt: "British sailor Susie Goodall‘s Rustler 36 yacht, DHL Starlight, is reported to have been pitchpoled and been dismasted in the Southern Ocean, approximately 2,000 miles west of Cape Horn. Goodall was racing in the Golden Globe single-handed around the world race and … Continue reading &rarr;"
 categories:
   - "Current"

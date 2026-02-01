@@ -1,7 +1,7 @@
 ---
 title: "Wreck of HMS Bounty"
 date: 2012-12-01T08:43:51
-slug: wreck-of-hms-bounty
+slug: "wreck-of-hms-bounty"
 excerpt: "A song in memory of Claudene Christian, Captain Robin Walbridge, and H.M.S. Bounty with lyrics by Mark Skinner, performed by Mike Whitehead and Tom Harrison. Wreck of the HMS Bounty … Continue reading &rarr;"
 categories:
   - "Current"

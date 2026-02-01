@@ -1,7 +1,7 @@
 ---
 title: "Pearl Harbor, 70 Years Ago Today – Disbanding the Survivors Association"
 date: 2011-12-07T14:29:57
-slug: pearl-harbor-70-years-ago-today-part-1-disbanding-the-survivors-association
+slug: "pearl-harbor-70-years-ago-today-part-1-disbanding-the-survivors-association"
 excerpt: "It was inevitable. The Pearl Harbor Survivors Association will observe the 70th anniversary of the attack on Pearl Harbor on this day in 1941.  It will be the  Association’s last observance. The group has too few remaining members to carry on and will disband on … Continue reading &rarr;"
 categories:
   - "Current"

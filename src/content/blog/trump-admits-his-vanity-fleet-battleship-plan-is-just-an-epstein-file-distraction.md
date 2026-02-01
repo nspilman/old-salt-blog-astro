@@ -1,8 +1,8 @@
 ---
 title: "Trump Admits His Vanity Fleet Battleship Plan is Just an Epstein File Distraction"
 date: 2026-01-01T22:26:58
-slug: trump-admits-his-vanity-fleet-battleship-plan-is-just-an-epstein-file-distraction
-excerpt: "Trump recently announced that the Navy will begin the construction of “two brand new, very large, the largest we’ve ever built battleships.” He claims that the new battleships, which he has named after himself, the Trump Class,  will be “the … Continue reading &rarr;"
+slug: "trump-admits-his-vanity-fleet-battleship-plan-is-just-an-epstein-file-distraction"
+excerpt: "Trump recently announced that the Navy will begin the construction of \"two brand new, very large, the largest we’ve ever built battleships.\" He claims that the new battleships, which he has named after himself, the Trump Class,  will be \"the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Ships"

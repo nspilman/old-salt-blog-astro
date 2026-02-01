@@ -1,7 +1,7 @@
 ---
 title: "Captain John W. Doswell, the Final Voyage"
 date: 2015-01-03T22:26:51
-slug: captain-john-w-doswell-the-final-voyage
+slug: "captain-john-w-doswell-the-final-voyage"
 excerpt: "On Friday, New York lost an essential part of its waterfront when Captain John W. Doswell died after a long illness. John was a pioneer in multimedia presentations. He was a writer, designer, producer and programmer. He was also a Navy … Continue reading &rarr;"
 categories:
   - "Current"

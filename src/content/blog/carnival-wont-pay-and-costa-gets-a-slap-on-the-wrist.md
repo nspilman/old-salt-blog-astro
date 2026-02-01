@@ -1,7 +1,7 @@
 ---
 title: "Updated: Carnival Agrees to Pay and Costa Gets a Slap on the Wrist"
 date: 2013-04-15T09:59:02
-slug: carnival-wont-pay-and-costa-gets-a-slap-on-the-wrist
+slug: "carnival-wont-pay-and-costa-gets-a-slap-on-the-wrist"
 excerpt: "Update: Carnival Corp has has agreed to reimburse the U.S. government for costs related to the high-profile fires aboard the Carnival Triumph in February and Carnival Splendor in 2010. Read more here. The juxtaposition is priceless. OK, priceless may be the wrong word … Continue reading &rarr;"
 categories:
   - "Current"

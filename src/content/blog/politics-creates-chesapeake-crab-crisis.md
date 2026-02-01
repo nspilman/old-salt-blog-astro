@@ -1,7 +1,7 @@
 ---
 title: "Politics Creates Chesapeake Crab Crisis"
 date: 2018-05-04T20:05:00
-slug: politics-creates-chesapeake-crab-crisis
+slug: "politics-creates-chesapeake-crab-crisis"
 excerpt: "The good news is that the waters of the Chesapeake are getting progressively cleaner and the crab population has experienced a significant rebound. The bad news is that anti-immigrant politics have plunged the Chesapeake crabbing industry into chaos. First, more … Continue reading &rarr;"
 categories:
   - "Current"

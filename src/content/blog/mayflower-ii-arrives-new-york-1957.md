@@ -1,7 +1,7 @@
 ---
 title: "Mayflower II Arrives in New York in 1957"
 date: 2016-11-25T17:48:12
-slug: mayflower-ii-arrives-new-york-1957
+slug: "mayflower-ii-arrives-new-york-1957"
 excerpt: "Yesterday, we posted about the renewal and reconstruction of the Mayflower II at Mystic Seaport Museum. Here is a short video of the ship in 1957 arriving in New York on its maiden voyage across the Atlantic. I love the … Continue reading &rarr;"
 categories:
   - "History"

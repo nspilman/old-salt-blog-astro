@@ -1,7 +1,7 @@
 ---
 title: "A Brigantine Beneath Washington Street – Identifying the World Trade Center Ship"
 date: 2010-07-31T07:30:50
-slug: a-brigantine-beneath-washington-street-identifying-the-world-trade-center-ship
+slug: "a-brigantine-beneath-washington-street-identifying-the-world-trade-center-ship"
 excerpt: "Two weeks ago the remains of an 18th century ship were found in the excavation of the World Trade Center site in Lower Manhattan.    On Thursday Warren Riess, an archaeologist specializing in marine history, speculated that the ship was  most likely a brigantine; … Continue reading &rarr;"
 categories:
   - "Current"

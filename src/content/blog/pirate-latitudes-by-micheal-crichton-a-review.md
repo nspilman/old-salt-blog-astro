@@ -1,7 +1,7 @@
 ---
 title: "Pirate Latitudes by Micheal Crichton, a Review"
 date: 2010-04-04T09:47:22
-slug: pirate-latitudes-by-micheal-crichton-a-review
+slug: "pirate-latitudes-by-micheal-crichton-a-review"
 excerpt: "Pirate Latitudes by Micheal Crichton, published a year after his death, is a romp. It is full of swashbuckling action and completely familiar characters. There is a bold captain, who is either a privateer or a pirate; several fair and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

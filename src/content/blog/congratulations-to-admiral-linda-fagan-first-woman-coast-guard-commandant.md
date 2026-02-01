@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Admiral Linda Fagan, First Woman Coast Guard Commandant"
 date: 2022-06-01T17:41:30
-slug: congratulations-to-admiral-linda-fagan-first-woman-coast-guard-commandant
+slug: "congratulations-to-admiral-linda-fagan-first-woman-coast-guard-commandant"
 excerpt: "Congratulations to Admiral Linda Fagan, who today assumed command as the 27th commandant of the US Coast Guard. Breaking a major glass ceiling, (or perhaps a glass overhead), she also becomes the first woman to lead the service, as well … Continue reading &rarr;"
 categories:
   - "Current"

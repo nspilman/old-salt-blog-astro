@@ -1,7 +1,7 @@
 ---
 title: "Halloween Haunted Ship Round-Up 2011"
 date: 2011-10-27T10:46:26
-slug: halloween-haunted-ship-round-up-2011
+slug: "halloween-haunted-ship-round-up-2011"
 excerpt: "Who needs a haunted house if you can have a haunted ship? Around this time of year, historic and modern ships suddenly become haunted and ghostly. (To be fair, some are reported to be haunted all year round.) Here is … Continue reading &rarr;"
 categories:
   - "Current"

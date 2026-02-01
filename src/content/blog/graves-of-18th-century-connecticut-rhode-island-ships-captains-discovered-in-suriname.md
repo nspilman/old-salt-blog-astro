@@ -1,7 +1,7 @@
 ---
 title: "Graves Of 18th Century Connecticut & Rhode Island Ship’s Captains Discovered In Suriname"
 date: 2012-01-24T13:07:44
-slug: graves-of-18th-century-connecticut-rhode-island-ships-captains-discovered-in-suriname
+slug: "graves-of-18th-century-connecticut-rhode-island-ships-captains-discovered-in-suriname"
 excerpt: "The graves of four ship’s captains and merchants dating from the mid-18th century have been found in Suriname, a former Dutch sugar colony on the northern coast of South America. The graves of privateer Capt. Michael Burnham of Middletown, CT; Capt. William Barbut … Continue reading &rarr;"
 categories:
   - "History"

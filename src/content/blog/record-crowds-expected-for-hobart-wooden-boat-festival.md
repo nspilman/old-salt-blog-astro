@@ -1,7 +1,7 @@
 ---
 title: "Record Crowds Expected for Hobart Wooden Boat Festival"
 date: 2011-02-11T09:14:43
-slug: record-crowds-expected-for-hobart-wooden-boat-festival
+slug: "record-crowds-expected-for-hobart-wooden-boat-festival"
 excerpt: "Record crowds, possibly exceeding 100,000, are expected at the Australian Wooden Boat Festival which begins today and runs through Monday at Hobart’s historic Sullivan’s Cove docks.   The four-day festival which  brings together the biggest collection of wooden boats in … Continue reading &rarr;"
 categories:
   - "Current"

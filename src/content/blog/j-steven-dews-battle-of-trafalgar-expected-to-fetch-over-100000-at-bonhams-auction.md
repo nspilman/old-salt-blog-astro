@@ -1,7 +1,7 @@
 ---
 title: "J. Steven Dews’ ‘Battle of Trafalgar’ Expected to Fetch over £100,000 at Bonhams Auction"
 date: 2012-08-27T15:56:46
-slug: j-steven-dews-battle-of-trafalgar-expected-to-fetch-over-100000-at-bonhams-auction
+slug: "j-steven-dews-battle-of-trafalgar-expected-to-fetch-over-100000-at-bonhams-auction"
 excerpt: "The old saying goes that success is the best revenge.  John Stevens Dews failed his ‘A’ level art. (For the non-British, including myself, the ‘A’ level is a public examination in a subject taken for the General Certificate of Education (GCE), usually … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

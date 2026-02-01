@@ -1,7 +1,7 @@
 ---
 title: "How Captain Longhair Saved the World"
 date: 2012-10-24T08:35:45
-slug: how-captain-longhair-saved-the-world
+slug: "how-captain-longhair-saved-the-world"
 excerpt: "The title may be a bit unfortunate, but it is an interesting documentary nevertheless, featuring the brigantine Tres Hombres. The documentary trailer is posted below. The entire documentary can be watched here. Three weeks after the devastating earthquake on Haiti in 2010, eleven … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

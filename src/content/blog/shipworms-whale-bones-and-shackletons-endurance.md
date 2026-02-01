@@ -1,8 +1,8 @@
 ---
 title: "Shipworms, Whale Bones and Shackleton’s Endurance"
 date: 2013-08-16T09:22:12
-slug: shipworms-whale-bones-and-shackletons-endurance
-excerpt: "The press recently has been full of headlines about Ernest Shackleton‘s ill-fated ship, Endurance.  The Christian Science Monitor asks, “What happened to Shackleton’s sunken ship?”  Radio New Zealand answers the question with “Shackleton’s ship could still be in good condition.”  … Continue reading &rarr;"
+slug: "shipworms-whale-bones-and-shackletons-endurance"
+excerpt: "The press recently has been full of headlines about Ernest Shackleton‘s ill-fated ship, Endurance.  The Christian Science Monitor asks, \"What happened to Shackleton’s sunken ship?\"  Radio New Zealand answers the question with \"Shackleton’s ship could still be in good condition.\"  … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -11,7 +11,7 @@ tags:
   - "Shipworms"
   - "Whale Bones"
 author: "Rick Spilman"
-description: "The press recently has been full of headlines about Ernest Shackleton‘s ill-fated ship, Endurance.  The Christian Science Monitor asks, “What happened to Shackleton’s sunken ship?”  Radio New Zealand answers the question with “Shackleton’s ship could still be in good condition.”  … Continue reading &rarr;"
+description: "The press recently has been full of headlines about Ernest Shackleton‘s ill-fated ship, Endurance.  The Christian Science Monitor asks, \"What happened to Shackleton’s sunken ship?\"  Radio New Zealand answers the question with \"Shackleton’s ship could still be in good condition.\"  … Continue reading &rarr;"
 ---
 
 ![Endurance3](http://www.oldsaltblog.com/wp-content/uploads/2013/08/Endurance3.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Ro/Ro Cargo Ship El Faro Still Missing with 33 Crew in Hurricane Joaquin"
 date: 2015-10-03T09:51:56
-slug: roro-cargo-ship-el-faro-still-missing-with-33-crew-in-hurricane-joaquin
+slug: "roro-cargo-ship-el-faro-still-missing-with-33-crew-in-hurricane-joaquin"
 excerpt: "The US Coast Guard has resumed the search for the U.S. flagged ro/ro cargo ship, El Faro, with a crew of 33, still missing after losing power and communications in the path of Hurricane Joaquin. The 735-foot ship was bound … Continue reading &rarr;"
 categories:
   - "Current"

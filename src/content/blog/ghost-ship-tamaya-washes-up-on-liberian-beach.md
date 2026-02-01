@@ -1,7 +1,7 @@
 ---
-title: "“Ghost Ship” Tamaya Washes up on Liberian Beach"
+title: "\"Ghost Ship\" Tamaya Washes up on Liberian Beach"
 date: 2016-05-14T09:38:39
-slug: ghost-ship-tamaya-washes-up-on-liberian-beach
+slug: "ghost-ship-tamaya-washes-up-on-liberian-beach"
 excerpt: "On May 4th, the 1441 DWT Panamanian registered product tanker Tamaya 1 drifted ashore on a remote beach in Liberia near Robertsport, with no crew aboard. There appears to have been a fire in the ship’s deckhouse and one of two lifeboats … Continue reading &rarr;"
 categories:
   - "Current"

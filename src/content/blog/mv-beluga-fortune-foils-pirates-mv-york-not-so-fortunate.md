@@ -1,7 +1,7 @@
 ---
 title: "MV Beluga Fortune Foils Pirates, MV York Not so Fortunate"
 date: 2010-10-25T17:22:41
-slug: mv-beluga-fortune-foils-pirates-mv-york-not-so-fortunate
+slug: "mv-beluga-fortune-foils-pirates-mv-york-not-so-fortunate"
 excerpt: "Over the weekend, Somali pirates seized two ships in two days.  On Saturday, pirates seized the MV York, a liquefied petroleum gas tanker, off the coast of Kenya.   On Sunday, pirates seized the MV Beluga Fortune about 1,200 miles east of … Continue reading &rarr;"
 categories:
   - "Current"

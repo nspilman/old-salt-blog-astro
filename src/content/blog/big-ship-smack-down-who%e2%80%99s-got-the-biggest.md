@@ -1,7 +1,7 @@
 ---
 title: "Big Ship Smack-Down: Who’s Got the Biggest?"
 date: 2010-04-02T08:09:56
-slug: big-ship-smack-down-who%e2%80%99s-got-the-biggest
+slug: "big-ship-smack-down-who%e2%80%99s-got-the-biggest"
 excerpt: "This looks like a great symposium, next weekend at the Maine Maritime Museum at Bath, Maine.  I have also heard great things about the fish-house punch served a the evening reception. 38th Annual Walker Maritime History Symposium, April 10, 2010 … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

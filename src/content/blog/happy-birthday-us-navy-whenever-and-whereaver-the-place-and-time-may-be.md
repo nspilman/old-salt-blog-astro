@@ -1,8 +1,8 @@
 ---
 title: "Happy Birthday US Navy – Whenever and whereaver the place and time may be"
 date: 2010-10-13T08:57:28
-slug: happy-birthday-us-navy-whenever-and-whereaver-the-place-and-time-may-be
-excerpt: "Today, October 13th,  is celebrated as the birthday of the United States Navy, not to be confused with Navy Day, which is celebrated on October 27th.  The current “birthday” may have more to do with bragging rights than real birthdays. For many years, the … Continue reading &rarr;"
+slug: "happy-birthday-us-navy-whenever-and-whereaver-the-place-and-time-may-be"
+excerpt: "Today, October 13th,  is celebrated as the birthday of the United States Navy, not to be confused with Navy Day, which is celebrated on October 27th.  The current \"birthday\" may have more to do with bragging rights than real birthdays. For many years, the … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "Navy Day"
   - "United States Navy"
 author: "Rick Spilman"
-description: "Today, October 13th,  is celebrated as the birthday of the United States Navy, not to be confused with Navy Day, which is celebrated on October 27th.  The current “birthday” may have more to do with bragging rights than real birthdays. For many years, the … Continue reading &rarr;"
+description: "Today, October 13th,  is celebrated as the birthday of the United States Navy, not to be confused with Navy Day, which is celebrated on October 27th.  The current \"birthday\" may have more to do with bragging rights than real birthdays. For many years, the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/Military.jpg)Today, October 13th,  is celebrated as the [birthday of the United States Navy](http://www.history.navy.mil/faqs/faq31-1.htm), not to be confused with [Navy Day](http://www.defense.gov/afd/military/navy.html), which is celebrated on October 27th.  The current “birthday” may have more to do with bragging rights than real birthdays.

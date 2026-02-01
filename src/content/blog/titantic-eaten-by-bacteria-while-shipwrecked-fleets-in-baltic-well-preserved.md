@@ -1,7 +1,7 @@
 ---
 title: "Titantic eaten by bacteria while shipwrecked fleets in Baltic well preserved"
 date: 2010-12-08T07:33:48
-slug: titantic-eaten-by-bacteria-while-shipwrecked-fleets-in-baltic-well-preserved
+slug: "titantic-eaten-by-bacteria-while-shipwrecked-fleets-in-baltic-well-preserved"
 excerpt: "Two interesting stories of shipwrecks in the press recently – the wreck of the Titanic is being consumed by newly identified steel-munching bacteria, while scientists are discovering large numbers of well preserved shipwrecks in the dark and cold Baltic where there are 1,500 confirmed wrecks … Continue reading &rarr;"
 categories:
   - "Current"

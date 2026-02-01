@@ -1,8 +1,8 @@
 ---
-title: "Colombia Announces Finding Galleon San José, the “Holy Grail of Ship Wrecks”"
+title: "Colombia Announces Finding Galleon San José, the \"Holy Grail of Ship Wrecks\""
 date: 2015-12-05T19:34:45
-slug: columbia-announces-finding-galleon-san-jose-the-holy-grail-of-ship-wrecks
-excerpt: "Today, Colombia’s President Juan Manuel Santos announced that it has found the wreck of the galleon San José, what some have called the “holy grail of shipwrecks.”  He announced the discovery on Twitter.  In June of 1708, during the War of … Continue reading &rarr;"
+slug: "columbia-announces-finding-galleon-san-jose-the-holy-grail-of-ship-wrecks"
+excerpt: "Today, Colombia’s President Juan Manuel Santos announced that it has found the wreck of the galleon San José, what some have called the \"holy grail of shipwrecks.\"  He announced the discovery on Twitter.  In June of 1708, during the War of … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "San José"
   - "treasure"
 author: "Rick Spilman"
-description: "Today, Colombia’s President Juan Manuel Santos announced that it has found the wreck of the galleon San José, what some have called the “holy grail of shipwrecks.”  He announced the discovery on Twitter.  In June of 1708, during the War of … Continue reading &rarr;"
+description: "Today, Colombia’s President Juan Manuel Santos announced that it has found the wreck of the galleon San José, what some have called the \"holy grail of shipwrecks.\"  He announced the discovery on Twitter.  In June of 1708, during the War of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/320px-Samuel_Scott_3.jpg)Today, Colombia’s President Juan Manuel Santos announced that it has found the wreck of the galleon *San José,* what some have called the “holy grail of shipwrecks.”  He [announced the discovery on Twitter](https://twitter.com/JuanManSantos/status/672925619278249984?lang=en-gb).  In June of 1708, during the War of the Spanish Succession, in a battle with the British, [the galleon *San José* blew up](https://en.wikipedia.org/wiki/Wager%27s_Action) taking a cargo in gold and silver coins as well as a cache of emeralds and most of its crew to the bottom. The treasure has been estimated to be worth today somewhere between $4 billion to $17 billion.

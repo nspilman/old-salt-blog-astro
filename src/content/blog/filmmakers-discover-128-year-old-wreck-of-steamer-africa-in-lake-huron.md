@@ -1,7 +1,7 @@
 ---
 title: "Filmmakers Discover 128 Year Old Wreck of Steamer Africa in Lake Huron"
 date: 2023-12-01T17:28:32
-slug: filmmakers-discover-128-year-old-wreck-of-steamer-africa-in-lake-huron
+slug: "filmmakers-discover-128-year-old-wreck-of-steamer-africa-in-lake-huron"
 excerpt: "Documentary filmmakers Yvonne Drebert and Zach Melnick were looking for invasive mussels on the bottom of Lake Huron in Canada when they came across the 150-foot-long shipwreck of the Africa. On the morning of 4 October 1895, the Africa departed … Continue reading &rarr;"
 categories:
   - "History"

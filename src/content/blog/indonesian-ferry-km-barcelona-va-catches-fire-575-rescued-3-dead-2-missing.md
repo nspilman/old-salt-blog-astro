@@ -1,7 +1,7 @@
 ---
 title: "Indonesian Ferry KM Barcelona VA Catches Fire — 575 Rescued, 3 Dead, 2 Missing"
 date: 2025-07-21T16:07:18
-slug: indonesian-ferry-km-barcelona-va-catches-fire-575-rescued-3-dead-2-missing
+slug: "indonesian-ferry-km-barcelona-va-catches-fire-575-rescued-3-dead-2-missing"
 excerpt: "On Sunday, a fire broke out on the ferry KM Barcelona VA in the Celebes Sea off the northern coast of Sulawesi Island, Indonesia. The ferry was en route to Manado, on its regular half-day journey from Melonguane port, according … Continue reading &rarr;"
 categories:
   - "Current"

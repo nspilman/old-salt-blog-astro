@@ -1,7 +1,7 @@
 ---
 title: "WWII Submarine USS Ling Vandalized — Plaques Stolen, Sub Flooded"
 date: 2018-08-15T11:43:33
-slug: wwii-submarine-uss-ling-vandalized-plaques-stolen-sub-flooded
+slug: "wwii-submarine-uss-ling-vandalized-plaques-stolen-sub-flooded"
 excerpt: "Sometime between last Saturday afternoon and Sunday morning, vandals broke into the USS Ling, a World War II-era Balao-class submarine, which has been a museum ship in the Hackensack River since 1973. The vandals stole four bronze plaques, dedicated to the sailors lost … Continue reading &rarr;"
 categories:
   - "Current"

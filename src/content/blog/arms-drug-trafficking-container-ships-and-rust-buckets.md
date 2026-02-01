@@ -1,8 +1,8 @@
 ---
 title: "Arms & Drug Trafficking – Container Ships and Rust Buckets"
 date: 2012-02-04T08:13:41
-slug: arms-drug-trafficking-container-ships-and-rust-buckets
-excerpt: "The Stockholm International Peace Research Institute has recently released a study of arms and drug trafficking by ship. The headline is “Most ships involved in arms and drugs trafficking are based in world’s richest countries.”  The larger part of the picture, however, is not … Continue reading &rarr;"
+slug: "arms-drug-trafficking-container-ships-and-rust-buckets"
+excerpt: "The Stockholm International Peace Research Institute has recently released a study of arms and drug trafficking by ship. The headline is \"Most ships involved in arms and drugs trafficking are based in world’s richest countries.\"  The larger part of the picture, however, is not … Continue reading &rarr;"
 categories:
   - "Current"
   - "Ships"
@@ -12,7 +12,7 @@ tags:
   - "containers"
   - "Stockholm International Peace Research Institute"
 author: "Rick Spilman"
-description: "The Stockholm International Peace Research Institute has recently released a study of arms and drug trafficking by ship. The headline is “Most ships involved in arms and drugs trafficking are based in world’s richest countries.”  The larger part of the picture, however, is not … Continue reading &rarr;"
+description: "The Stockholm International Peace Research Institute has recently released a study of arms and drug trafficking by ship. The headline is \"Most ships involved in arms and drugs trafficking are based in world’s richest countries.\"  The larger part of the picture, however, is not … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/containers.jpg)The [Stockholm International Peace Research Institute](http://www.sipri.org/) has recently released a [study of arms and drug trafficking by ship](http://books.sipri.org/product_info?c_product_id=441). The headline is “[Most ships involved in arms and drugs trafficking are based in world’s richest countries](http://www.sipri.org/media/pressreleases/30-jan-2012-most-ships-involved-in-arms-and-drugs-trafficking-are-based-in-world2019s-richest-countries-says-sipri).”  The larger part of the picture, however, is not ships, but containers. Containerization has revolutionized trade, including drug and arms trafficking.  From the [SIPRI press release](http://www.sipri.org/media/pressreleases/30-jan-2012-most-ships-involved-in-arms-and-drugs-trafficking-are-based-in-world2019s-richest-countries-says-sipri):  

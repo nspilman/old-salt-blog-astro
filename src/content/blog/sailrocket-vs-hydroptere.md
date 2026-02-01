@@ -1,7 +1,7 @@
 ---
 title: "Sailrocket vs. Hydroptère"
 date: 2011-10-23T10:04:32
-slug: sailrocket-vs-hydroptere
+slug: "sailrocket-vs-hydroptere"
 excerpt: "We have posted previously about the world’s fasted sailboat, the hydrofoil trimaran, Hydroptère, which in November 2009, sailed for one nautical mile at speed of 50.17 knots in Hyères, France. He also has achieved a sustained speed of 52.86 knots … Continue reading &rarr;"
 categories:
   - "Current"

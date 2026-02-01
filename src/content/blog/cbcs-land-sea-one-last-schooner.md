@@ -1,7 +1,7 @@
 ---
 title: "CBC’s Land & Sea – One Last Schooner"
 date: 2013-01-06T09:33:24
-slug: cbcs-land-sea-one-last-schooner
+slug: "cbcs-land-sea-one-last-schooner"
 excerpt: "At the age of 79, Newfoundland master wooden boat builder Henry Vokey decided to build one last schooner. He finished her and she was launched this summer, a few months after his 82nd birthday. CBC’s Land & Sea has produced … Continue reading &rarr;"
 categories:
   - "Current"

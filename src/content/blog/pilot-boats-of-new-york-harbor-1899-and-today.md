@@ -1,7 +1,7 @@
 ---
 title: "Pilot Boats of New York Harbor 1899 and Today"
 date: 2019-07-28T09:26:05
-slug: pilot-boats-of-new-york-harbor-1899-and-today
+slug: "pilot-boats-of-new-york-harbor-1899-and-today"
 excerpt: "Sandy Hook pilots have been guiding ships into New York harbor since 1694 when Colonial legislators first mandated that pilots be stationed at the barrier beach at the mouth of the great harbor. Here are two short videos of New … Continue reading &rarr;"
 categories:
   - "Current"

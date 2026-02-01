@@ -1,8 +1,8 @@
 ---
 title: "Remembering the Battle of Midway, 80 Years Ago This Week"
 date: 2022-06-05T13:05:35
-slug: remembering-the-battle-of-midway-80-years-ago-this-week
-excerpt: "The Battle of Midway, fought from June 4 — 7, 1942, eighty years ago this week, was a major American victory in the Pacific theater in World War II. Military historian John Keegan called it “the most stunning and decisive … Continue reading &rarr;"
+slug: "remembering-the-battle-of-midway-80-years-ago-this-week"
+excerpt: "The Battle of Midway, fought from June 4 — 7, 1942, eighty years ago this week, was a major American victory in the Pacific theater in World War II. Military historian John Keegan called it \"the most stunning and decisive … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "world war II"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/midwaydivebombers.jpg"
 author: "Rick Spilman"
-description: "The Battle of Midway, fought from June 4 — 7, 1942, eighty years ago this week, was a major American victory in the Pacific theater in World War II. Military historian John Keegan called it “the most stunning and decisive … Continue reading &rarr;"
+description: "The Battle of Midway, fought from June 4 — 7, 1942, eighty years ago this week, was a major American victory in the Pacific theater in World War II. Military historian John Keegan called it \"the most stunning and decisive … Continue reading &rarr;"
 ---
 
 The [Battle of Midway](https://en.wikipedia.org/wiki/Battle_of_Midway), fought from June 4 — 7, 1942, eighty years ago this week, was a major American victory in the Pacific theater in World War II. Military historian John Keegan called it “the most stunning and decisive blow in the history of naval warfare”, while naval historian Craig Symonds called it “one of the most consequential naval engagements in world history, ranking alongside Salamis, Trafalgar, and Tsushima Strait, as both tactically decisive and strategically influential”.

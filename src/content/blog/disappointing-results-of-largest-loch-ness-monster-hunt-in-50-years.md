@@ -1,7 +1,7 @@
 ---
 title: "Disappointing Results of Largest Loch Ness Monster Hunt in 50 Years"
 date: 2023-09-22T15:51:04
-slug: disappointing-results-of-largest-loch-ness-monster-hunt-in-50-years
+slug: "disappointing-results-of-largest-loch-ness-monster-hunt-in-50-years"
 excerpt: "Over the weekend of August 26th and 27th, hundreds of volunteers gathered on the shores and on the waters of Loch Ness for what was billed as the largest search for the Loch Ness monster in 50 years. What was … Continue reading &rarr;"
 categories:
   - "Current"

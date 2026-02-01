@@ -1,7 +1,7 @@
 ---
 title: "US Tourist, 75, Dies After Ferry Boat to Blue Lagoon Island Sinks in the Bahamas"
 date: 2023-11-16T17:40:24
-slug: us-tourist-75-dies-after-ferry-boat-to-blue-lagoon-island-sinks-in-the-bahamas
+slug: "us-tourist-75-dies-after-ferry-boat-to-blue-lagoon-island-sinks-in-the-bahamas"
 excerpt: "A popular, full-day excursion to Blue Lagoon Island, from a cruise ship docked in Nassau in the Bahamas, ended in tragedy on Tuesday when a ferry boat loaded with 100 passengers rolled over and sank in choppy waters. A 75-year-old … Continue reading &rarr;"
 categories:
   - "Current"

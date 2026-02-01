@@ -1,8 +1,8 @@
 ---
 title: "In Blistering Heat Wave, Sewage Plant Fire Keeps New Yorkers Away from the Water"
 date: 2011-07-22T10:23:43
-slug: in-blistering-heat-wave-sewage-plant-fire-keeps-new-yorkers-away-from-the-water
-excerpt: "The timing could not have been worse. In the midst of a blistering heat wave in New York City, what has been described as a “catastrophic fire” at the North River Waste Water Treatment plant yesterday allowed millions of gallons of … Continue reading &rarr;"
+slug: "in-blistering-heat-wave-sewage-plant-fire-keeps-new-yorkers-away-from-the-water"
+excerpt: "The timing could not have been worse. In the midst of a blistering heat wave in New York City, what has been described as a \"catastrophic fire\" at the North River Waste Water Treatment plant yesterday allowed millions of gallons of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "North River Waste Water Treatment plant"
   - "Sewage Plant Fire"
 author: "Rick Spilman"
-description: "The timing could not have been worse. In the midst of a blistering heat wave in New York City, what has been described as a “catastrophic fire” at the North River Waste Water Treatment plant yesterday allowed millions of gallons of … Continue reading &rarr;"
+description: "The timing could not have been worse. In the midst of a blistering heat wave in New York City, what has been described as a \"catastrophic fire\" at the North River Waste Water Treatment plant yesterday allowed millions of gallons of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/Y-SEWAGE1-articleInline.jpg)

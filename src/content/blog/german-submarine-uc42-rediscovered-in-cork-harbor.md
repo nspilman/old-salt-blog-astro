@@ -1,7 +1,7 @@
 ---
 title: "German Submarine UC42 Rediscovered in Cork Harbor"
 date: 2011-01-25T13:36:17
-slug: german-submarine-uc42-rediscovered-in-cork-harbor
+slug: "german-submarine-uc42-rediscovered-in-cork-harbor"
 excerpt: "Divers in Ireland have located the intact hull of German World War I submarine, the UC42, in Cork harbor.   The  discovery of the intact ship came as a surprise as the submarine was believed to have been destroyed by Royal Navy divers with explosives in 1919.   The … Continue reading &rarr;"
 categories:
   - "Current"

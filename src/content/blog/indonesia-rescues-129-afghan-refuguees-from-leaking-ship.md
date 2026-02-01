@@ -1,7 +1,7 @@
 ---
 title: "Indonesia Rescues 129 Afghan Refuguees from Leaking Ship"
 date: 2012-04-09T07:23:31
-slug: indonesia-rescues-129-afghan-refuguees-from-leaking-ship
+slug: "indonesia-rescues-129-afghan-refuguees-from-leaking-ship"
 excerpt: "The Indonesian National Search and Rescue Agency received a distress call Sunday night from the captain of a wooden ship bound for Australia.  The ship was taking on water and carrying 120 Afghan refugees.  The Afghans were picked up and taken by tanker … Continue reading &rarr;"
 categories:
   - "Current"

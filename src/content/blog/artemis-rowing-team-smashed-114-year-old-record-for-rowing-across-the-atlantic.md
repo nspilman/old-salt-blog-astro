@@ -1,7 +1,7 @@
 ---
 title: "Artemis Rowing Team Smashes 114-year old Record for Rowing Across the Atlantic"
 date: 2010-08-01T08:08:30
-slug: artemis-rowing-team-smashed-114-year-old-record-for-rowing-across-the-atlantic
+slug: "artemis-rowing-team-smashed-114-year-old-record-for-rowing-across-the-atlantic"
 excerpt: "On July 19th, we posted about the start of the Artemis North Atlantic Challenge when the Artemis Rowing Team set off from New York Harbor to break the 114 year old record for rowing across the Atlantic.    The previous record had … Continue reading &rarr;"
 categories:
   - "Current"

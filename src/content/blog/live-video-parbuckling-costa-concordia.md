@@ -1,7 +1,7 @@
 ---
 title: "Costa Concordia Parbuckling Salvage Begins"
 date: 2013-09-16T07:15:41
-slug: live-video-parbuckling-costa-concordia
+slug: "live-video-parbuckling-costa-concordia"
 excerpt: "The parbuckling of the cruise ship Costa Concordia is proceeding as intended after a three hour delay due to a thunderstorm. If all goes well, the process should take 10 hours to roll the ship upright from its current position, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
-title: "“History Helping History” in the Rebuilding the Whaler Charles W. Morgan"
+title: "\"History Helping History\" in the Rebuilding the Whaler Charles W. Morgan"
 date: 2011-06-10T08:18:17
-slug: history-helping-history-in-the-rebuilding-the-whaler-charles-w-morgan
+slug: "history-helping-history-in-the-rebuilding-the-whaler-charles-w-morgan"
 excerpt: "Rebuilding a historic ship has got to be part craftsmanship, part engineering, and part treasure hunt.    In the case of the oldest surviving sailing whale ship, the Charles W. Morgan at Mystic, CT, one of the challenges has been finding good quality shipbuilding timber. … Continue reading &rarr;"
 categories:
   - "Current"

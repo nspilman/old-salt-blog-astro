@@ -1,7 +1,7 @@
 ---
 title: "Jewel of Muscat — 9th Century Dhow Inspired by Tang Shipwreck"
 date: 2017-03-10T12:46:34
-slug: jewel-muscat-9th-century-dhow-inspired-tang-shipwreck
+slug: "jewel-muscat-9th-century-dhow-inspired-tang-shipwreck"
 excerpt: "We recently posted about a new exhibit at New York City’s Asia Society featuring artifacts from the wreck of an Arab dhow which sank with a veritable treasure trove of Tang Dynasty goods off Indonesia’s Belitung Island in the 9th … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "E Ship 1 – Has the Flettner Rotor Ship Finally Arrived?"
 date: 2010-08-17T08:58:55
-slug: e-ship-1-has-the-flettner-rotor-ship-finally-arrived
+slug: "e-ship-1-has-the-flettner-rotor-ship-finally-arrived"
 excerpt: "The E Ship 1 arrived in Dublin last week with a cargo of wind turbines manufactured by Enercon.    What was striking was the ship itself, with four tall pillars rising vertically from the ship, two forward and two aft.   The … Continue reading &rarr;"
 categories:
   - "Current"

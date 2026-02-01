@@ -1,7 +1,7 @@
 ---
 title: "Dog Saved by Oil Rig Workers 135 Miles from Shore"
 date: 2019-04-17T17:55:12
-slug: dog-save-by-oil-rig-workers-135-miles-from-shore
+slug: "dog-save-by-oil-rig-workers-135-miles-from-shore"
 excerpt: "Four workers on a drilling rig 135 miles off the coast of Thailand saw something completely unexpected in the ocean swimming toward the rig — a small brown dog.  The dog successfully climbed onto a partially submerged strut on the … Continue reading &rarr;"
 categories:
   - "Current"

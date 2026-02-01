@@ -1,7 +1,7 @@
 ---
 title: "Video of Breaching Whale Crushing Sailboat off South Africa."
 date: 2010-07-24T09:48:31
-slug: whale-tales-truth-fiction-and-hoax
+slug: "whale-tales-truth-fiction-and-hoax"
 excerpt: "There has been considerable discussion whether the photo of a Southern Right whale breaching and landing on a sailboat off South Africa is real or Photoshopped.  (See the comments on our previous post.)    A video has now emerged which … Continue reading &rarr;"
 categories:
   - "Current"

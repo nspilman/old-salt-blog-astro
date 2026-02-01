@@ -1,7 +1,7 @@
 ---
 title: "Giant Yellow Duck Explodes in Taiwan"
 date: 2014-01-01T11:18:31
-slug: giant-yellow-duck-explodes-in-taiwan
+slug: "giant-yellow-duck-explodes-in-taiwan"
 excerpt: "Disturbing video of the Giant Yellow Duck exploding shortly before a New Year’s Day celebration in the northern Taiwan port city of Keeling. it is unclear what caused the duck to explode though some are speculating that it was attacked … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Danish Warship Absalon Rescues 16 Hostages from Hijacked Ship, 2 Hostages Die in Attack"
 date: 2012-02-28T13:55:14
-slug: danish-warship-absalon-rescue-16-hostages-from-hijacked-ship-2-hostages-die-in-attack
+slug: "danish-warship-absalon-rescue-16-hostages-from-hijacked-ship-2-hostages-die-in-attack"
 excerpt: "Sixteen hostages were freed when the Danish warship HDMS Absalon attacked pirates in control of a hijacker vessel off the coast of Somalia late Sunday.  Two crew from the hijacked ship were found to have severe injuries and subsequently died.   The circumstances of … Continue reading &rarr;"
 categories:
   - "Current"

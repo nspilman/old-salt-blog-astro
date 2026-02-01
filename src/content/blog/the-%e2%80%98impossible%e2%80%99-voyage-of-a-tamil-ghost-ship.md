@@ -1,7 +1,7 @@
 ---
 title: "The ‘impossible’ voyage of a Tamil ghost ship"
 date: 2010-08-27T10:35:42
-slug: the-%e2%80%98impossible%e2%80%99-voyage-of-a-tamil-ghost-ship
+slug: "the-%e2%80%98impossible%e2%80%99-voyage-of-a-tamil-ghost-ship"
 excerpt: "Despite all odds, earlier this month, 492 Tamil refugees arrived in Vancouver in an old and barely seaworthy ship, then named the Sun Sea.  The Tamil Ghost ship, as she has been dubbed,  had been intermittently tracked by the maritime authorities of various nations as she … Continue reading &rarr;"
 categories:
   - "Current"

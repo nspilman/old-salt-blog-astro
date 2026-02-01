@@ -1,7 +1,7 @@
 ---
 title: "The Saint Lawrence Seaway Concludes 50th Anniversary Season"
 date: 2010-01-17T08:37:34
-slug: the-saint-lawrence-seaway-concludes-50th-anniversary-season
+slug: "the-saint-lawrence-seaway-concludes-50th-anniversary-season"
 excerpt: "While there have been locks on the Saint Lawrence River since at least 1862, the St. Lawrence Seaway, the current series of locks, canals and channels that permit ocean-going vessels to travel from the Atlantic Ocean to the North American Great … Continue reading &rarr;"
 categories:
   - "Current"

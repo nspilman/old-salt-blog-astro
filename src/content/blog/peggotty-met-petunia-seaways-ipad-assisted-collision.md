@@ -1,7 +1,7 @@
 ---
 title: "When Peggotty Met Petunia Seaways — an iPad Assisted Collision"
 date: 2017-03-03T18:21:52
-slug: peggotty-met-petunia-seaways-ipad-assisted-collision
+slug: "peggotty-met-petunia-seaways-ipad-assisted-collision"
 excerpt: "The UK Marine Accident Investigation Branch (MAIB) recently released a report on a collision between the 50 ft wooden WWII-era training boat Peggotty and the 32,000 GT cargo ferry Petunia Seaways on the UK’s Humber estuary. The report concluded that … Continue reading &rarr;"
 categories:
   - "Current"

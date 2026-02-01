@@ -1,7 +1,7 @@
 ---
-title: "Two Hundred and Seven Years Ago Today — “Don’t Give Up the Ship”"
+title: "Two Hundred and Seven Years Ago Today — \"Don’t Give Up the Ship\""
 date: 2020-06-01T10:29:35
-slug: two-hundred-and-seven-years-ago-today-dont-give-up-the-ship
+slug: "two-hundred-and-seven-years-ago-today-dont-give-up-the-ship"
 excerpt: "On June 1, 1813, two hundred and seven years ago today, the British frigate HMS Shannon defeated and captured the USS Chesapeake in single-ship combat. Captain James  Lawrence on the Chesapeake was mortally wounded during the battle. His last words … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

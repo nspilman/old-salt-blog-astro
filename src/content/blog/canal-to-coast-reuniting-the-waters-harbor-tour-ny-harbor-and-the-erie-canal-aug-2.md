@@ -1,7 +1,7 @@
 ---
 title: "Canal to Coast: Reuniting the Waters — Harbor Tour, NY Harbor and the Erie Canal, Aug 2"
 date: 2018-07-23T17:04:04
-slug: canal-to-coast-reuniting-the-waters-harbor-tour-ny-harbor-and-the-erie-canal-aug-2
+slug: "canal-to-coast-reuniting-the-waters-harbor-tour-ny-harbor-and-the-erie-canal-aug-2"
 excerpt: "As part of the continuing Erie Canal Bicentennial celebration, the Waterfront Alliance is sponsoring a harbor tour on August 2. During the tour, I will be providing commentary and narration on the enormous impact that the Erie Canal has had on … Continue reading &rarr;"
 categories:
   - "Current"

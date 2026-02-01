@@ -1,7 +1,7 @@
 ---
 title: "The 8,850 Kilometer Great Atlantic Sargassum Belt — From the Gulf to West Africa"
 date: 2019-07-13T09:24:03
-slug: the-8850-kilometer-great-atlantic-sargassum-belt-from-the-gulf-to-west-africa
+slug: "the-8850-kilometer-great-atlantic-sargassum-belt-from-the-gulf-to-west-africa"
 excerpt: "Floating mats of Sargassum seaweed in the center of the North Atlantic were first reported by Christopher Columbus in the 15th century. These mats, although abundant, have, until recently, been limited and scattered.  In recent years that has changed dramatically. … Continue reading &rarr;"
 categories:
   - "Current"

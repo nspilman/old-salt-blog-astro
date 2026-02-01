@@ -1,7 +1,7 @@
 ---
 title: "The Wahine Disaster in Wellington Harbour"
 date: 2010-04-10T09:15:48
-slug: the-wahine-disaster-in-wellington-harbour
+slug: "the-wahine-disaster-in-wellington-harbour"
 excerpt: "Forty two years go the Lyttelton–Wellington ferry Wahine sank in Wellington harbor with the loss of 53 lives. It was New Zealand’s worst modern maritime disaster. The Wahine’s sinking coincided with the advent of television news broadcasting in New Zealand … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

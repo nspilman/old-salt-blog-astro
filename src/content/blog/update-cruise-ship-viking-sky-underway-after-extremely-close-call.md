@@ -1,7 +1,7 @@
 ---
 title: "Update: Cruise Ship Viking Sky Underway After Extremely Close Call"
 date: 2019-03-24T11:22:54
-slug: update-cruise-ship-viking-sky-underway-after-extremely-close-call
+slug: "update-cruise-ship-viking-sky-underway-after-extremely-close-call"
 excerpt: "The cruise ship Viking Sky is now underway bound for the port of Molde, Norway, accompanied by a tug and support vessels. Prior to getting underway, 479 passengers were evacuated by helicopters, leaving 436 passengers and 458 crew members onboard. … Continue reading &rarr;"
 categories:
   - "Current"

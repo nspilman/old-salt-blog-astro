@@ -1,7 +1,7 @@
 ---
 title: "Underwater Gliders Gather Data to Help Predict Hurricanes"
 date: 2013-11-08T09:47:09
-slug: robot-underwater-gliders-gather-data-to-help-predict-hurricanes
+slug: "robot-underwater-gliders-gather-data-to-help-predict-hurricanes"
 excerpt: "Robots are being increasingly being used to gather data at sea.  Here is a fascinating undersea glider design in use by the Coastal Ocean Observation Lab (COOL) at Rutgers University, which uses gravity and buoyancy for propulsion, allowing to it remain at … Continue reading &rarr;"
 categories:
   - "Current"

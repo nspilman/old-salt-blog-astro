@@ -1,7 +1,7 @@
 ---
-title: "HMT Lancastria Finally Honored – A “Secret Sacrifice” No Longer"
+title: "HMT Lancastria Finally Honored – A \"Secret Sacrifice\" No Longer"
 date: 2011-10-04T18:02:30
-slug: hmt-lancastria-finally-honored-a-secret-sacrifice-no-more
+slug: "hmt-lancastria-finally-honored-a-secret-sacrifice-no-more"
 excerpt: "The evacuation of British troops and civilians from France in 1940 did not end with Dunkirk.   Several weeks later,   on June 17, 1940, the British Cunard liner Lancastria was loaded to capacity with troops and civilians off the French port of St. Nazaire, when she … Continue reading &rarr;"
 categories:
   - "Current"

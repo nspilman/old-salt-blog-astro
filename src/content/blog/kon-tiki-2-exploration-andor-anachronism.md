@@ -1,7 +1,7 @@
 ---
 title: "Kon-Tiki 2 — Exploration and/or Anachronism?"
 date: 2015-11-12T16:37:44
-slug: kon-tiki-2-exploration-andor-anachronism
+slug: "kon-tiki-2-exploration-andor-anachronism"
 excerpt: "On November 7th, two balsa rafts set out from Lima, Peru, bound for Easter Island on the Kon-Tiki 2 expedition. The voyage is both an homage to Thor Heyerdahl’s famous voyage on the raft Kon-Tiki in 1947 and a voyage … Continue reading &rarr;"
 categories:
   - "Current"

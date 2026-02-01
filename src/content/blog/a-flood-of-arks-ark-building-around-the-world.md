@@ -1,7 +1,7 @@
 ---
 title: "A Flood of Arks? Ark Building Around the World"
 date: 2011-06-02T15:11:52
-slug: a-flood-of-arks-ark-building-around-the-world
+slug: "a-flood-of-arks-ark-building-around-the-world"
 excerpt: "If a group of birds are a flock, a group of whales is a pod, and fish gather in schools, what would one call a group of Noah’s arks?  A fleet would be the easy answer, but that somehow doesn’t … Continue reading &rarr;"
 categories:
   - "Current"

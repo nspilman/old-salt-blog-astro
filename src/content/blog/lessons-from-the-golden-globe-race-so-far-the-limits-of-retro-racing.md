@@ -1,7 +1,7 @@
 ---
 title: "Lessons From the Golden Globe Race, So Far — the Limits of Retro Racing"
 date: 2018-10-09T09:06:49
-slug: lessons-from-the-golden-globe-race-so-far-the-limits-of-retro-racing
+slug: "lessons-from-the-golden-globe-race-so-far-the-limits-of-retro-racing"
 excerpt: "Ocean racing seems to have been taken over by boats made entirely of carbon fiber, costing slightly more than their weight in gold, as well being as festooned with foils, articulating keels and every high-tech whiz-bang device that millions of dollars … Continue reading &rarr;"
 categories:
   - "Current"

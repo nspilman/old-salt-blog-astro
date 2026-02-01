@@ -1,7 +1,7 @@
 ---
 title: "Red Sails — Thames Sailing Barge Documentary"
 date: 2018-02-04T15:48:48
-slug: red-sails-thames-sailing-barge-documentary
+slug: "red-sails-thames-sailing-barge-documentary"
 excerpt: "Red Sails is a documentary by Michael Maloney about the remarkable Thames sailing barges, which continued to ply their trade well into the 20th century before being replaced by diesel trucks. The documentary interviews bargemen about their lives aboard the … Continue reading &rarr;"
 categories:
   - "History"

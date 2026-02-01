@@ -1,8 +1,8 @@
 ---
 title: "Pearl Harbor, 70 Years Ago Today – Isoroku Yamamoto, An Insufficiently Reluctant Enemy"
 date: 2011-12-07T16:01:50
-slug: pearl-harbor-70-years-ago-today-isoroku-yamamoto-an-insufficiently-reluctant-enemy
-excerpt: "We seem to need to put a face to our enemies. On the cover of Time Magazine of December 22, 1941, the face of the enemy was Admiral Yamamoto, labeled as “Japan’s Aggressor.” The image of the admiral is a … Continue reading &rarr;"
+slug: "pearl-harbor-70-years-ago-today-isoroku-yamamoto-an-insufficiently-reluctant-enemy"
+excerpt: "We seem to need to put a face to our enemies. On the cover of Time Magazine of December 22, 1941, the face of the enemy was Admiral Yamamoto, labeled as \"Japan’s Aggressor.\" The image of the admiral is a … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -12,7 +12,7 @@ tags:
   - "Isoroku Yamamoto"
   - "Pearl Harbor"
 author: "Rick Spilman"
-description: "We seem to need to put a face to our enemies. On the cover of Time Magazine of December 22, 1941, the face of the enemy was Admiral Yamamoto, labeled as “Japan’s Aggressor.” The image of the admiral is a … Continue reading &rarr;"
+description: "We seem to need to put a face to our enemies. On the cover of Time Magazine of December 22, 1941, the face of the enemy was Admiral Yamamoto, labeled as \"Japan’s Aggressor.\" The image of the admiral is a … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/1101411222_400.jpg)We seem to need to put a face to our enemies. On the [cover of Time Magazine of December 22, 1941](http://www.time.com/time/covers/0,16641,19411222,00.html), the face of the enemy was [Admiral Yamamoto](http://en.wikipedia.org/wiki/Isoroku_Yamamoto), labeled as “Japan’s Aggressor.” The image of the admiral is a scowling caricature in yellow, looking off to one side, personifying an image of Oriental duplicity and betrayal. In the decades following the war, historians have been far more charitable to Isoroku Yamamoto, casting him as a reluctant warrior who understood and predicted Japan’s defeat even while personally planning the attack on Pear Harbor. Ian Toll’s [A Reluctant Enemy](http://www.nytimes.com/2011/12/07/opinion/a-reluctant-enemy.html?hp) in today’s New York Times makes this case. I wonder whether this assessment of Yamamoto is not, at times, almost as a much a caricature as the Time magazine cover of 1941.  

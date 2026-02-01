@@ -1,7 +1,7 @@
 ---
 title: "Argentines Search for Missing Submarine ARA San Juan"
 date: 2017-11-18T17:17:56
-slug: argentines-search-missing-submarine-ara-san-juan
+slug: "argentines-search-missing-submarine-ara-san-juan"
 excerpt: "ARA San Juan, an Argentine Navy diesel-electric submarine, was on a routine mission when it went silent on Wednesday. Communications ended while the submarine was en route,with a crew of 44, from Ushuaia naval base, near the southern tip of South America, … Continue reading &rarr;"
 categories:
   - "Current"

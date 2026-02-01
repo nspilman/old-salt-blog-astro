@@ -1,7 +1,7 @@
 ---
 title: "New York’s Working Harbor Committee Seeking Executive Director"
 date: 2016-04-27T10:05:49
-slug: new-yorks-working-harbor-committee-seeks-executive-director
+slug: "new-yorks-working-harbor-committee-seeks-executive-director"
 excerpt: "Last year, John Doswell, the Executive Director of  New York’s Working Harbor Committee, died after a long illness. The Committee is now seeking an Executive Director to continue the great work that John and his colleagues have undertaken. For those interested, click … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Massive Explosion in the Port of Beirut, Echoes of Texas City"
 date: 2020-08-05T10:56:00
-slug: massive-explosion-in-the-port-of-beirut-echoes-of-texas-city
+slug: "massive-explosion-in-the-port-of-beirut-echoes-of-texas-city"
 excerpt: "Yesterday, a massive explosion in the port of Beirut, Lebanon killed at least 100 people and injured thousands. The blast destroyed buildings in the port district while the shockwave shattered windows and overturned vehicles across the city. An estimated 300,000 … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship Falls of Clyde Gets Brief Reprieve"
 date: 2021-05-28T13:11:25
-slug: tall-ship-falls-of-clyde-gets-brief-reprieve
+slug: "tall-ship-falls-of-clyde-gets-brief-reprieve"
 excerpt: "The Falls of Clyde, the only remaining iron-hulled four-masted full-rigged ship and the only surviving sail-driven oil tanker in the world, has been given a short reprieve from being scrapped or scuttled. In late April, the Hawaii Department of Transportation’s … Continue reading &rarr;"
 categories:
   - "Current"

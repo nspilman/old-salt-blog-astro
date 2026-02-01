@@ -1,7 +1,7 @@
 ---
 title: "Friday Evening at the Sultana Downrigging Weekend, Chestertown, MD"
 date: 2015-10-31T07:30:48
-slug: friday-evening-at-the-sultana-downrigging-weekend-chestertown-md
+slug: "friday-evening-at-the-sultana-downrigging-weekend-chestertown-md"
 excerpt: "A beautiful Friday evening at the Sultana Downrigging Weekend in Chestertown, MD. The schooner Sultana, launched in Chestertown, Maryland, in 2001, serves as an educational vessel for schoolchildren as it travels around the Chesapeake Bay. Now in its fifteenth year, … Continue reading &rarr;"
 categories:
   - "Current"

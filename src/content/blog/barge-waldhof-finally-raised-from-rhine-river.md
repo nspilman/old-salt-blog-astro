@@ -1,7 +1,7 @@
 ---
 title: "Barge Waldhof Finally Raised from Rhine River"
 date: 2011-02-14T20:58:57
-slug: barge-waldhof-finally-raised-from-rhine-river
+slug: "barge-waldhof-finally-raised-from-rhine-river"
 excerpt: "The tank barge Waldhof which capsized a month ago in the Rhine River near Lorelei Rock  was finally raised today after its cargo of sulfuric acid was allowed to slowly drain off.   Two sailors where lost in the capsize. One of … Continue reading &rarr;"
 categories:
   - "Current"

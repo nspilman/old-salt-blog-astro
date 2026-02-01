@@ -1,8 +1,8 @@
 ---
 title: "Berths Available for Oliver Hazard Perry Arctic Voyage"
 date: 2017-05-12T09:00:39
-slug: berths-avaiable-oliver-hazard-perry-arctic-voyage
-excerpt: "In September, we posted about an upcoming voyage on the SSV Oliver Hazard Perry into Canada’s Northwest Passage.  Apparently there berths still available for those who would like to join in the adventure. From the OHPRI website:  Earn your “Blue nose” … Continue reading &rarr;"
+slug: "berths-avaiable-oliver-hazard-perry-arctic-voyage"
+excerpt: "In September, we posted about an upcoming voyage on the SSV Oliver Hazard Perry into Canada’s Northwest Passage.  Apparently there berths still available for those who would like to join in the adventure. From the OHPRI website:  Earn your \"Blue nose\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Northwest Passage"
   - "Oliver Hazard Perry"
 author: "Rick Spilman"
-description: "In September, we posted about an upcoming voyage on the SSV Oliver Hazard Perry into Canada’s Northwest Passage.  Apparently there berths still available for those who would like to join in the adventure. From the OHPRI website:  Earn your “Blue nose” … Continue reading &rarr;"
+description: "In September, we posted about an upcoming voyage on the SSV Oliver Hazard Perry into Canada’s Northwest Passage.  Apparently there berths still available for those who would like to join in the adventure. From the OHPRI website:  Earn your \"Blue nose\" … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/ohparctic.jpg)In September, we posted about an [upcoming voyage on the SSV *Oliver Hazard Perry*](http://www.oldsaltblog.com/2016/09/ssv-oliver-hazard-perry-sail-northwest-passage/) into Canada’s Northwest Passage.  Apparently there berths still available for those who would like to join in the adventure. From the [OHPRI website](https://www.ohpri.org/details-of-arctic-voyage-northbound): 

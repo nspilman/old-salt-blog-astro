@@ -1,7 +1,7 @@
 ---
 title: "U.S. Coast Guard Punishes 7 for Sexual Hazing Aboard Cutter Venturous"
 date: 2011-06-26T16:03:58
-slug: u-s-coast-guard-punishes-7-for-sexual-hazing-aboard-cutter-venturous
+slug: "u-s-coast-guard-punishes-7-for-sexual-hazing-aboard-cutter-venturous"
 excerpt: "Navy Times is reporting that seven US Coast Guard personnel have been found guilty of various charges; including indecent exposure, assault and disorderly conduct; related to tying down and stripping fellow crew members aboard the cutter Venturous.  The hazing incidents took … Continue reading &rarr;"
 categories:
   - "Current"

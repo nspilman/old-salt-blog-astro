@@ -1,7 +1,7 @@
 ---
 title: "Container Ship MOL Summer Rescued 116 of 246 Survivors of Capsized Ferry"
 date: 2012-02-05T08:40:52
-slug: container-ship-mol-summer-rescued-116-of-246-survivors-of-capsized-ferry
+slug: "container-ship-mol-summer-rescued-116-of-246-survivors-of-capsized-ferry"
 excerpt: "The officers and crew of the Mitsui O.S.K. Lines container ship, MOL Summer, deserve a special commendation for their rescue of 116 people following the capsizing and sinking of the passenger ferry MV Rabaul Queen off the coast of Papua New Guinea early Thursday. Eight merchant vessels assisted in … Continue reading &rarr;"
 categories:
   - "Current"

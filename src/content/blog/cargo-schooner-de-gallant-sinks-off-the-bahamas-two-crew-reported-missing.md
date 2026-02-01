@@ -1,7 +1,7 @@
 ---
 title: "Cargo Schooner De Gallant Sinks off the Bahamas, Two Crew Reported Missing"
 date: 2024-05-22T20:17:51
-slug: cargo-schooner-de-gallant-sinks-off-the-bahamas-two-crew-reported-missing
+slug: "cargo-schooner-de-gallant-sinks-off-the-bahamas-two-crew-reported-missing"
 excerpt: "The cargo schooner De Gallant capsized and sank early Tuesday morning 22 nautical miles north of the Bahamas island of Great Inagua with eight sailors on board. So far, six people have been rescued from a life raft with two … Continue reading &rarr;"
 categories:
   - "Current"

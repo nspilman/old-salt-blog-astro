@@ -1,7 +1,7 @@
 ---
 title: "Remembering Larry Pardey, 1938 — 2020"
 date: 2020-07-27T16:19:13
-slug: remembering-larry-pardey-1938-2020
+slug: "remembering-larry-pardey-1938-2020"
 excerpt: "Lin and Larry Pardey met in 1965. Lin was 21. Larry was 26. He was a sailor and shipwright and was beginning to build a 24′ engineless Lyle Hess designed cutter, to be named Seraffyn, in which he planned on sailing … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

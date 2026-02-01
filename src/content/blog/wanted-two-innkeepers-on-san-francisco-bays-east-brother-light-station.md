@@ -1,7 +1,7 @@
 ---
 title: "Wanted: Two Innkeepers on San Francisco Bay’s East Brother Light Station"
 date: 2023-01-08T20:35:37
-slug: wanted-two-innkeepers-on-san-francisco-bays-east-brother-light-station
+slug: "wanted-two-innkeepers-on-san-francisco-bays-east-brother-light-station"
 excerpt: "The East Bay Light Station Bed and Breakfast Inn, at the entrance to San Pablo Bay from San Francisco Bay, is looking to hire two innkeepers for a period of two years. The joint positions, which start in April of … Continue reading &rarr;"
 categories:
   - "Current"

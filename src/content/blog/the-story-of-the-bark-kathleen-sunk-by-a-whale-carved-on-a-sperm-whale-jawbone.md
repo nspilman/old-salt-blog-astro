@@ -1,7 +1,7 @@
 ---
 title: "The Story of the Bark Kathleen, Sunk by a Whale, Carved on a Sperm Whale Jawbone"
 date: 2023-05-23T17:31:23
-slug: the-story-of-the-bark-kathleen-sunk-by-a-whale-carved-on-a-sperm-whale-jawbone
+slug: "the-story-of-the-bark-kathleen-sunk-by-a-whale-carved-on-a-sperm-whale-jawbone"
 excerpt: "We are all familiar with Melville’s novel, Moby Dick, inspired, at least in part, by the ramming and sinking of the whaleship Essex by a rogue sperm whale in the Pacific in 1820.  Less well-known is the sinking by a … Continue reading &rarr;"
 categories:
   - "Current"

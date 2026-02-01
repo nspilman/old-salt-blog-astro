@@ -1,8 +1,8 @@
 ---
 title: "Ichthyosaur: Huge Fossilized ‘Sea Dragon’ Found in UK Reservoir"
 date: 2022-01-10T20:29:38
-slug: ichthyosaur-huge-fossilized-sea-dragon-found-in-uk-reservoir
-excerpt: "Last February, Joe Davis, a landscaper who works at Rutland Water Nature Reserve. spotted something odd poking out of the mud. He called the county council and said, “I think I’ve found a dinosaur.” It wasn’t a dinosaur. But it … Continue reading &rarr;"
+slug: "ichthyosaur-huge-fossilized-sea-dragon-found-in-uk-reservoir"
+excerpt: "Last February, Joe Davis, a landscaper who works at Rutland Water Nature Reserve. spotted something odd poking out of the mud. He called the county council and said, \"I think I’ve found a dinosaur.\" It wasn’t a dinosaur. But it … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "United Kingdom"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/icthy.jpg"
 author: "Rick Spilman"
-description: "Last February, Joe Davis, a landscaper who works at Rutland Water Nature Reserve. spotted something odd poking out of the mud. He called the county council and said, “I think I’ve found a dinosaur.” It wasn’t a dinosaur. But it … Continue reading &rarr;"
+description: "Last February, Joe Davis, a landscaper who works at Rutland Water Nature Reserve. spotted something odd poking out of the mud. He called the county council and said, \"I think I’ve found a dinosaur.\" It wasn’t a dinosaur. But it … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/icthy.jpg)Last February, Joe Davis, a landscaper who works at Rutland Water Nature Reserve. spotted something odd poking out of the mud. He called the county council and said, “I think I’ve found a dinosaur.”

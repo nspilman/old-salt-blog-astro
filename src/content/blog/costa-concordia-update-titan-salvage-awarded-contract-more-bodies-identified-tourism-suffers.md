@@ -1,7 +1,7 @@
 ---
 title: "Costa Concordia Update: Titan Salvage Awarded Contract, More Bodies Identified, Tourism Suffers"
 date: 2012-04-21T10:52:54
-slug: costa-concordia-update-titan-salvage-awarded-contract-more-bodies-identified-tourism-suffers
+slug: "costa-concordia-update-titan-salvage-awarded-contract-more-bodies-identified-tourism-suffers"
 excerpt: "In February, Costa Lines invited ten companies to bid on salvaging the Costa Concordia (see our previous post.)   Today, the salvage contract was awarded to Titan Salvage and Micoperi.  Titan Salvage is a unit of Crowley Maritime Corporation and Micoperi is a Italian marine … Continue reading &rarr;"
 categories:
   - "Current"

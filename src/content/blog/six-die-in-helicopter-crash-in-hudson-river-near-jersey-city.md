@@ -1,7 +1,7 @@
 ---
 title: "Six Die in Helicopter Crash in Hudson River Near Jersey City"
 date: 2025-04-10T18:09:09
-slug: six-die-in-helicopter-crash-in-hudson-river-near-jersey-city
+slug: "six-die-in-helicopter-crash-in-hudson-river-near-jersey-city"
 excerpt: "Six people died when a helicopter crashed in the Hudson River, at roughly 3:15 PM this afternoon. Two adults and three children — all believed to be members of a family of Spanish tourists — were pulled from the helicopter … Continue reading &rarr;"
 categories:
   - "Current"

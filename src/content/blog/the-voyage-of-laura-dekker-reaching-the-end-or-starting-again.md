@@ -1,7 +1,7 @@
 ---
 title: "The Long Voyage of Laura Dekker – Reaching the End or Starting Again ?"
 date: 2011-12-21T13:46:21
-slug: the-voyage-of-laura-dekker-reaching-the-end-or-starting-again
+slug: "the-voyage-of-laura-dekker-reaching-the-end-or-starting-again"
 excerpt: "Laura Dekker, the 16 year old solo sailor, is on the last leg of her voyage around the world.   She is bound not for Europe but back to Sint Maarten in the Caribbean, from which she sailed on January 5, 2011. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

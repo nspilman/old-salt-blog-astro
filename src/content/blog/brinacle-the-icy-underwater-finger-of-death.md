@@ -1,8 +1,8 @@
 ---
 title: "Brinacle – The Icy Underwater Finger of Death"
 date: 2011-11-24T16:44:26
-slug: brinacle-the-icy-underwater-finger-of-death
-excerpt: "A BBC camera crew has videoed a “brinicle,” a bizarre underwater “icicle of death” in Antarctica. ‘Brinicle’ ice finger of death filmed in Antarctic With timelapse cameras, specialists recorded salt water being excluded from the sea ice and sinking.  The … Continue reading &rarr;"
+slug: "brinacle-the-icy-underwater-finger-of-death"
+excerpt: "A BBC camera crew has videoed a \"brinicle,\" a bizarre underwater \"icicle of death\" in Antarctica. ‘Brinicle’ ice finger of death filmed in Antarctic With timelapse cameras, specialists recorded salt water being excluded from the sea ice and sinking.  The … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "brinicle"
   - "underwater icicle of death"
 author: "Rick Spilman"
-description: "A BBC camera crew has videoed a “brinicle,” a bizarre underwater “icicle of death” in Antarctica. ‘Brinicle’ ice finger of death filmed in Antarctic With timelapse cameras, specialists recorded salt water being excluded from the sea ice and sinking.  The … Continue reading &rarr;"
+description: "A BBC camera crew has videoed a \"brinicle,\" a bizarre underwater \"icicle of death\" in Antarctica. ‘Brinicle’ ice finger of death filmed in Antarctic With timelapse cameras, specialists recorded salt water being excluded from the sea ice and sinking.  The … Continue reading &rarr;"
 ---
 
 A BBC camera crew has videoed a “brinicle,” a bizarre underwater “icicle of death” in Antarctica.

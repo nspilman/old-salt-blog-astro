@@ -1,7 +1,7 @@
 ---
 title: "Update: Who Owns MSC Gayane? Does it Matter?"
 date: 2019-07-11T12:37:22
-slug: update-who-owns-msc-gayane-does-it-matter
+slug: "update-who-owns-msc-gayane-does-it-matter"
 excerpt: "Recently, we posted about the MSC Gayane, the container ship seized on Monday by US Customs following a $1.3 billion cocaine bust last month in Philadelphia. We said that the ship was not owned by Mediterranean Shipping Company (MSC) but by … Continue reading &rarr;"
 categories:
   - "Current"

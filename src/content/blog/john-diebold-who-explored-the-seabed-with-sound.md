@@ -1,7 +1,7 @@
 ---
 title: "John Diebold, Who Explored The Seabed With Sound"
 date: 2010-07-06T19:48:56
-slug: john-diebold-who-explored-the-seabed-with-sound
+slug: "john-diebold-who-explored-the-seabed-with-sound"
 excerpt: "John Diebold, 1944-2010 John Diebold, a marine scientist who sailed the world’s oceans for more than four decades using sound waves to study earthquake faults, underwater volcanoes and other normally hidden features of the seabed, died on July 1 at … Continue reading &rarr;"
 categories:
   - "Current"

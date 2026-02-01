@@ -1,7 +1,7 @@
 ---
 title: "SAIL Amsterdam 2010 Festival August 19th-23rd"
 date: 2010-08-18T11:33:05
-slug: sail-amsterdam-2010-festival-august-19th-23rd
+slug: "sail-amsterdam-2010-festival-august-19th-23rd"
 excerpt: "SAIL Amsterdam 2010, which starts tomorrow and runs through the weekend, will feature roughly 600 ships berthing in and around the harbor, ranging from traditional tall ships to historical replicas, to traditional coasting craft, as well as modern yachts and naval vessels.  Twenty Class … Continue reading &rarr;"
 categories:
   - "Current"

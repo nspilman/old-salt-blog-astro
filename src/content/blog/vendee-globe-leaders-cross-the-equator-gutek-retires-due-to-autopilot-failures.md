@@ -1,7 +1,7 @@
 ---
 title: "Vendée Globe: Leaders Cross the Equator & ‘Gutek’ Retires due to Autopilot Failures"
 date: 2012-11-21T17:03:49
-slug: vendee-globe-leaders-cross-the-equator-gutek-retires-due-to-autopilot-failures
+slug: "vendee-globe-leaders-cross-the-equator-gutek-retires-due-to-autopilot-failures"
 excerpt: "The six boats leading in the Vendée Globe non-stop round-the-world single-handed yacht race have all crossed the equator and are heading for the Southern Ocean.  The leaders are, respectively – Armel Le Cléac´h,  François Gabart, Bernard Stamm, Vincent Riou, Jean-Pierre Dick, and Alex Thomson.  Meanwhile, Zbigniew Gutikowski, … Continue reading &rarr;"
 categories:
   - "Current"

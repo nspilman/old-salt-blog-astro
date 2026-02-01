@@ -1,7 +1,7 @@
 ---
 title: "Charles W. Morgan — 360 and Sea Trials"
 date: 2014-06-14T18:40:34
-slug: charles-w-morgan-360-and-sea-trials
+slug: "charles-w-morgan-360-and-sea-trials"
 excerpt: "Two wonderful videos by Mystic Seaport Museum of the whaler Charles W. Morgan under sail, preparing for her 38th voyage. Charles W. Morgan 360 degrees … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

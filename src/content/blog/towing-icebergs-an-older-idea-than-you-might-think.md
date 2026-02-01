@@ -1,7 +1,7 @@
 ---
 title: "Towing Icebergs – An Older Idea Than You Might Think"
 date: 2012-07-03T07:49:34
-slug: towing-icebergs-an-older-idea-than-you-might-think
+slug: "towing-icebergs-an-older-idea-than-you-might-think"
 excerpt: "About a year ago, we posted Towing Icebergs – an Idea Whose Time is Still Coming?, where we pointed out that the latest proposal to tow icebergs from the Arctic or Antarctic to supply fresh water, was similar to plans that dated … Continue reading &rarr;"
 categories:
   - "History"

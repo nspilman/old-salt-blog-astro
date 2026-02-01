@@ -1,7 +1,7 @@
 ---
 title: "The Wave: In Pursuit of the Rogues, Freaks and Giants of the Ocean by Susan Casey, – A Review"
 date: 2010-10-03T08:22:43
-slug: the-wave-in-pursuit-of-the-rogues-freaks-and-giants-of-the-ocean-by-susan-casey-a-review-2
+slug: "the-wave-in-pursuit-of-the-rogues-freaks-and-giants-of-the-ocean-by-susan-casey-a-review-2"
 excerpt: "Sea monsters exist. They break ships in half and pull them below the waves. Sometimes they swallow them whole. Most who encounter them never return to tell the tale and those few who do, until very recently, were rarely believed. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "New Owners for Schooner Victory Chimes"
 date: 2018-08-29T09:57:58
-slug: new-owners-for-schooner-victory-chimes
+slug: "new-owners-for-schooner-victory-chimes"
 excerpt: "The grand matriarch of the Maine Windjammer fleet, the schooner Victory Chimes, will soon have new owners at the helm. Captain Sam Sikkema will be taking over from Captains Kip Files and Paul DeGaeta, who for the last 29 years, have been in command … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

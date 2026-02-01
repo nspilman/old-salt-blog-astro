@@ -1,7 +1,7 @@
 ---
 title: "Grand Banks Oyster Bar on the Schooner Sherman Zwicker on the Hudson"
 date: 2014-07-09T20:51:24
-slug: grand-banks-oyster-bar-on-the-schooner-sherman-zwicker-on-the-hudson-river
+slug: "grand-banks-oyster-bar-on-the-schooner-sherman-zwicker-on-the-hudson-river"
 excerpt: "I believe that this is the first straight-out restaurant review that we have done on the Old Salt Blog.  Then again the Grand Banks Oyster Bar on the schooner Sherman Zwicker is not your typical restaurant.  Sherman Zwicker is a … Continue reading &rarr;"
 categories:
   - "City of Ships"

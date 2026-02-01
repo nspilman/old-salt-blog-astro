@@ -1,7 +1,7 @@
 ---
 title: "Falls of Clyde Ordered to Leave Honolulu Harbor"
 date: 2016-08-13T09:35:07
-slug: falls-clyde-ordered-leave-honolulu-harbor
+slug: "falls-clyde-ordered-leave-honolulu-harbor"
 excerpt: "Sad, if not surprising news. The Hawaii Department of Transportation Harbors Division (HDOT Harbors) has ordered that the 138-year-old sailing ship Falls of Clyde be removed from Honolulu harbor. Previously, in a letter dated June 15th, the Harbor Division had … Continue reading &rarr;"
 categories:
   - "Current"

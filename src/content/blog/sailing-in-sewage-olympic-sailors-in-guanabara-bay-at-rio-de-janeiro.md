@@ -1,7 +1,7 @@
 ---
 title: "Sailing in Sewage — Olympic Sailors in Guanabara Bay at Rio de Janeiro"
 date: 2014-05-21T09:19:46
-slug: sailing-in-sewage-olympic-sailors-in-guanabara-bay-at-rio-de-janeiro
+slug: "sailing-in-sewage-olympic-sailors-in-guanabara-bay-at-rio-de-janeiro"
 excerpt: "Sailors in the upcoming Olympics in Rio de Janeiro will face more than just tough competition. They will be sailing in Guanabara Bay, a body of water thoroughly befouled with garbage and sewage.  Falling overboard is not recommended.  As reported by the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update Storm Pia Aftermath : MS Maud Reaches Bremerhaven Safely, Mayview Maersk Loses More than 40 Boxes Overboard"
 date: 2023-12-24T21:05:01
-slug: update-storm-pia-aftermath-ms-maud-reaches-bremerhaven-safely-mayview-maersk-loses-more-than-40-boxes-overboard
+slug: "update-storm-pia-aftermath-ms-maud-reaches-bremerhaven-safely-mayview-maersk-loses-more-than-40-boxes-overboard"
 excerpt: "We recently posted about the Hurtigruten cruise ship MS Maud that was disabled during the North Sea storm Pia on Thursday. The Maud arrived in Bremerhaven yesterday, under tow, after suffering damage by a rogue wave to the bridge deck resulting … Continue reading &rarr;"
 categories:
   - "Current"

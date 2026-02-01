@@ -1,8 +1,8 @@
 ---
 title: "Hong Kong Bids Rubber Duck Adieu as Pittsburgh Welcomes Inflated Yellow Avian"
 date: 2013-06-11T16:59:08
-slug: hong-kong-bids-rubber-duck-adieu-as-pittsburgh-welcomes-inflated-yellow-avian
-excerpt: "Thousands thronged Hong Kong’s Victoria harbor waterfront to say goodbye to a beloved four-story inflatable yellow duck. (See our recent post, Spreading Joy Around the World,” aka “Rubber Duck” – Inflated, Deflated, Revived & Censored) The huge inflatable duck, which is named … Continue reading &rarr;"
+slug: "hong-kong-bids-rubber-duck-adieu-as-pittsburgh-welcomes-inflated-yellow-avian"
+excerpt: "Thousands thronged Hong Kong’s Victoria harbor waterfront to say goodbye to a beloved four-story inflatable yellow duck. (See our recent post, Spreading Joy Around the World,\" aka \"Rubber Duck\" – Inflated, Deflated, Revived & Censored) The huge inflatable duck, which is named … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Rubber Duck"
   - "Victoria harbor"
 author: "Rick Spilman"
-description: "Thousands thronged Hong Kong’s Victoria harbor waterfront to say goodbye to a beloved four-story inflatable yellow duck. (See our recent post, Spreading Joy Around the World,” aka “Rubber Duck” – Inflated, Deflated, Revived & Censored) The huge inflatable duck, which is named … Continue reading &rarr;"
+description: "Thousands thronged Hong Kong’s Victoria harbor waterfront to say goodbye to a beloved four-story inflatable yellow duck. (See our recent post, Spreading Joy Around the World,\" aka \"Rubber Duck\" – Inflated, Deflated, Revived & Censored) The huge inflatable duck, which is named … Continue reading &rarr;"
 ---
 
 ![520431422](http://www.oldsaltblog.com/wp-content/uploads/2013/06/520431422.jpg)

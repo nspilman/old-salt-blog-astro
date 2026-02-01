@@ -1,7 +1,7 @@
 ---
 title: "Costa Concordia – Ship Rolled Upright in Most Challenging Phase of Salvage"
 date: 2013-09-17T09:24:04
-slug: costa-concordia-ship-rolled-upright-challenging-phase-salvage
+slug: "costa-concordia-ship-rolled-upright-challenging-phase-salvage"
 excerpt: "This was the most perilous phase of the salvage of the wrecked cruise ship, Costa Concordia.  The parbuckle rolling of the ship upright was where everything could go wrong.  The biggest concern was that the stress would break the already damaged … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

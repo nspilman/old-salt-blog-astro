@@ -1,7 +1,7 @@
 ---
 title: "Buying Time – Scrambling to Raise Half Million to Save SS United States from Scrap Yard"
 date: 2013-03-27T08:00:12
-slug: buying-time-scrambling-to-raise-half-million-to-save-ss-united-states-from-scrap-yard
+slug: "buying-time-scrambling-to-raise-half-million-to-save-ss-united-states-from-scrap-yard"
 excerpt: "The SS United States Conservancy is scrambling to raise $500,000 to buy time in their effort to save the ex-passenger liner SS United States.  If they fail, the ship could be sold for scrap.  The conservancy is exploring potential partnerships with … Continue reading &rarr;"
 categories:
   - "Current"

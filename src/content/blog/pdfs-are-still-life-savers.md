@@ -1,8 +1,8 @@
 ---
 title: "PFDs are still Life Savers"
 date: 2010-08-10T10:38:43
-slug: pdfs-are-still-life-savers
-excerpt: "A recent Coast Guard report on boating safety noted:  “Nearly 75 percent of the 736 people who died in boating accidents in 2009 drowned, and 84 percent of those victims reportedly were not wearing a life jacket,” said Rear Adm. Kevin … Continue reading &rarr;"
+slug: "pdfs-are-still-life-savers"
+excerpt: "A recent Coast Guard report on boating safety noted:  \"Nearly 75 percent of the 736 people who died in boating accidents in 2009 drowned, and 84 percent of those victims reportedly were not wearing a life jacket,\" said Rear Adm. Kevin … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "life jackets"
   - "PFDs"
 author: "Rick Spilman"
-description: "A recent Coast Guard report on boating safety noted:  “Nearly 75 percent of the 736 people who died in boating accidents in 2009 drowned, and 84 percent of those victims reportedly were not wearing a life jacket,” said Rear Adm. Kevin … Continue reading &rarr;"
+description: "A recent Coast Guard report on boating safety noted:  \"Nearly 75 percent of the 736 people who died in boating accidents in 2009 drowned, and 84 percent of those victims reportedly were not wearing a life jacket,\" said Rear Adm. Kevin … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/life-jacket-kayakers-1-150x106.jpg)

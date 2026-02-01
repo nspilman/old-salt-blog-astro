@@ -1,7 +1,7 @@
 ---
 title: "Beachcomber stumbles upon historical shipwreck"
 date: 2010-06-09T08:31:18
-slug: beachcomber-stumbles-upon-historical-shipwreck
+slug: "beachcomber-stumbles-upon-historical-shipwreck"
 excerpt: "A beachcomber found the wreck of a ship uncovered by winter gales on  a beach in North Carolina.   Originally though to the an 18th century Royal Navy ship, the wreck has now been identified as dating from the 1600s, making it the … Continue reading &rarr;"
 categories:
   - "Current"

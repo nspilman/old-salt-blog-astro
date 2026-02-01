@@ -1,8 +1,8 @@
 ---
 title: "Of What Do Whales Dream When Asleep in the Sea?"
 date: 2015-03-06T17:12:23
-slug: of-what-do-whales-dream-when-asleep-in-the-sea
-excerpt: "How do whales sleep? And do they dream? Many years ago on a kayaking trip on Blackfish Sound off Vancouver Island, our group of paddlers came across a pod of “sleeping” orcas. The pod was swimming very slowly, each orca swimming … Continue reading &rarr;"
+slug: "of-what-do-whales-dream-when-asleep-in-the-sea"
+excerpt: "How do whales sleep? And do they dream? Many years ago on a kayaking trip on Blackfish Sound off Vancouver Island, our group of paddlers came across a pod of \"sleeping\" orcas. The pod was swimming very slowly, each orca swimming … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

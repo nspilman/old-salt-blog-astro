@@ -1,7 +1,7 @@
 ---
 title: "Searching for the USS Thresher and USS Scorpion with the Titanic as Cover"
 date: 2010-06-14T09:58:09
-slug: searching-for-the-uss-thresher-and-uss-scorpion-with-the-titanic-as-cover
+slug: "searching-for-the-uss-thresher-and-uss-scorpion-with-the-titanic-as-cover"
 excerpt: "Late last month, the secret was revealed – when Bob Ballard discovered the Titanic in 1985,  he was actually on a  secret mission to find two sunken US submarines, the USS Thresher and USS Scorpion, both of which had sunk in the Atlantic in … Continue reading &rarr;"
 categories:
   - "Current"

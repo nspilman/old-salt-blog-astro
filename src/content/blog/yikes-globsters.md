@@ -1,8 +1,8 @@
 ---
 title: "Yikes – Globsters!"
 date: 2013-05-29T16:20:19
-slug: yikes-globsters
-excerpt: "In most cases, no one ever manages to find the carcass of a dead sea serpent or lake monster washed up on a beach.  The one big, literal and figurative, exception are the”globsters,”  massive carcasses which have been washing shore … Continue reading &rarr;"
+slug: "yikes-globsters"
+excerpt: "In most cases, no one ever manages to find the carcass of a dead sea serpent or lake monster washed up on a beach.  The one big, literal and figurative, exception are the\"globsters,\"  massive carcasses which have been washing shore … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "sperm whales"
   - "St. Augustine Monster"
 author: "Rick Spilman"
-description: "In most cases, no one ever manages to find the carcass of a dead sea serpent or lake monster washed up on a beach.  The one big, literal and figurative, exception are the”globsters,”  massive carcasses which have been washing shore … Continue reading &rarr;"
+description: "In most cases, no one ever manages to find the carcass of a dead sea serpent or lake monster washed up on a beach.  The one big, literal and figurative, exception are the\"globsters,\"  massive carcasses which have been washing shore … Continue reading &rarr;"
 ---
 
 ![The St. Augustine Monster,1897, by DeWitt Webb, photograph](http://www.oldsaltblog.com/wp-content/uploads/2013/05/staugglob.jpg)

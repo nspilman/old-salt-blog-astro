@@ -1,7 +1,7 @@
 ---
 title: "Golden Globe — Igor Zaretskiy Out, Five Sail On"
 date: 2018-12-18T08:08:05
-slug: golden-globe-igor-zaretskiy-out-five-sail-on
+slug: "golden-globe-igor-zaretskiy-out-five-sail-on"
 excerpt: "Sixty-seven-year-old Igor Zaretskiy was in last place in the Golden Globe Race. His mast was seriously damaged, even after jury-rigged repairs. He had lost a hatch, exposing his cabin the elements, and his hull was so fouled that his boat, Esmerelda, … Continue reading &rarr;"
 categories:
   - "Current"

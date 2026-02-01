@@ -1,7 +1,7 @@
 ---
 title: "INS Kalpeni Nabs 61 Pirates on Mother Ship, Frees 13 Hostages"
 date: 2011-03-14T11:53:48
-slug: ins-kalpeni-nabs-61-pirates-on-mother-ship-frees-13-hostages
+slug: "ins-kalpeni-nabs-61-pirates-on-mother-ship-frees-13-hostages"
 excerpt: "Last Friday, the Indian Navy picked up as distress call from the container ship MV Vancouver Bridge, which was under attack by pirates  in the Indian Ocean, about 600 nautical miles off the Indian coast.  When spotted by an Indian patrol … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Dueling Sea Drone Videos in Russian/Ukrainian PR Battle"
 date: 2023-05-26T17:49:39
-slug: dueling-sea-drone-videos-in-russian-ukrainian-pr-battle
+slug: "dueling-sea-drone-videos-in-russian-ukrainian-pr-battle"
 excerpt: "Recent videos of a sea drone attack on a Russian warship released by Russia’s Defence Ministry and by Ukraine’s public broadcaster Suspilne tell two very different stories of the encounter. The Russian video shows a Ukrainian sea drone, a small … Continue reading &rarr;"
 categories:
   - "Current"

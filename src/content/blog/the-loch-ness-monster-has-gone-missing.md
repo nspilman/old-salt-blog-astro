@@ -1,8 +1,8 @@
 ---
 title: "The Loch Ness Monster Has Gone Missing!"
 date: 2014-02-15T08:12:59
-slug: the-loch-ness-monster-has-gone-missing
-excerpt: "Recently, the press has been abuzz with the lack of sightings of Loch Ness monster.  There have been no sightings of the famous beastie in the last 18 months.  The Daily Mail asks “Is Nessie DEAD?”  The BBC notes: No Loch … Continue reading &rarr;"
+slug: "the-loch-ness-monster-has-gone-missing"
+excerpt: "Recently, the press has been abuzz with the lack of sightings of Loch Ness monster.  There have been no sightings of the famous beastie in the last 18 months.  The Daily Mail asks \"Is Nessie DEAD?\"  The BBC notes: No Loch … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Loch Ness monster"
   - "missing"
 author: "Rick Spilman"
-description: "Recently, the press has been abuzz with the lack of sightings of Loch Ness monster.  There have been no sightings of the famous beastie in the last 18 months.  The Daily Mail asks “Is Nessie DEAD?”  The BBC notes: No Loch … Continue reading &rarr;"
+description: "Recently, the press has been abuzz with the lack of sightings of Loch Ness monster.  There have been no sightings of the famous beastie in the last 18 months.  The Daily Mail asks \"Is Nessie DEAD?\"  The BBC notes: No Loch … Continue reading &rarr;"
 ---
 
 ![Hoaxed_photo_of_the_Loch_Ness_monster](http://www.oldsaltblog.com/wp-content/uploads/2014/02/Hoaxed_photo_of_the_Loch_Ness_monster.jpg)

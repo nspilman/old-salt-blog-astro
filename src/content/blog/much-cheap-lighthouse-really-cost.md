@@ -1,15 +1,15 @@
 ---
 title: "How Much Does a Cheap Lighthouse Really Cost?"
 date: 2017-09-24T09:40:39
-slug: much-cheap-lighthouse-really-cost
-excerpt: "There are always iconic objects that are almost irresistible in contemplation. They represent ideas which are far too easy to fall in love with. I really wanted to own an old style Volkswagen “bug” and then I owned one and … Continue reading &rarr;"
+slug: "much-cheap-lighthouse-really-cost"
+excerpt: "There are always iconic objects that are almost irresistible in contemplation. They represent ideas which are far too easy to fall in love with. I really wanted to own an old style Volkswagen \"bug\" and then I owned one and … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
   - "lighthouse"
 author: "Rick Spilman"
-description: "There are always iconic objects that are almost irresistible in contemplation. They represent ideas which are far too easy to fall in love with. I really wanted to own an old style Volkswagen “bug” and then I owned one and … Continue reading &rarr;"
+description: "There are always iconic objects that are almost irresistible in contemplation. They represent ideas which are far too easy to fall in love with. I really wanted to own an old style Volkswagen \"bug\" and then I owned one and … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/lighthouse1.jpg)There are always iconic objects that are almost irresistible in contemplation. They represent ideas which are far too easy to fall in love with. I really wanted to own an old style Volkswagen “bug” and then I owned one and understood my mistake. The old bug had a nearly indestructible engine but the body of the car had almost entirely rusted away. It had seemed like a good idea at the time. Likewise, I had friends who were in love with the idea of converting an almost free surplus lifeboat into an oceangoing yacht. That didn’t work out too well either.

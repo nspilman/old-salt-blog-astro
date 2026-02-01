@@ -1,8 +1,8 @@
 ---
 title: "Heritage Desks From USS Constitution For Veep & SecNav"
 date: 2021-04-07T15:44:16
-slug: heritage-desks-from-uss-constitution-for-veep-secnav
-excerpt: "The Vice President and the Secretary of the Navy now each have new “heritage desks,”  built by Navy Seabees, using wood, fasteners, and fittings from historic US Navy ships.  The desk for Vice President Kamala Harris is made from wood, … Continue reading &rarr;"
+slug: "heritage-desks-from-uss-constitution-for-veep-secnav"
+excerpt: "The Vice President and the Secretary of the Navy now each have new \"heritage desks,\"  built by Navy Seabees, using wood, fasteners, and fittings from historic US Navy ships.  The desk for Vice President Kamala Harris is made from wood, … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -16,7 +16,7 @@ tags:
   - "Vice President"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/vpheritagedesk.jpg"
 author: "Rick Spilman"
-description: "The Vice President and the Secretary of the Navy now each have new “heritage desks,”  built by Navy Seabees, using wood, fasteners, and fittings from historic US Navy ships.  The desk for Vice President Kamala Harris is made from wood, … Continue reading &rarr;"
+description: "The Vice President and the Secretary of the Navy now each have new \"heritage desks,\"  built by Navy Seabees, using wood, fasteners, and fittings from historic US Navy ships.  The desk for Vice President Kamala Harris is made from wood, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/vpheritagedesk.jpg)The Vice President and the Secretary of the Navy now each have new “[heritage desks](https://www.navy.mil/Press-Office/News-Stories/Article/2552742/navy-heritage-desks/),”  built by Navy [Seabees](https://en.wikipedia.org/wiki/Seabee), using wood, fasteners, and fittings from historic US Navy ships. 

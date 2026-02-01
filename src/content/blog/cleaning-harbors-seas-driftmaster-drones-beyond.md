@@ -1,7 +1,7 @@
 ---
 title: "Cleaning Up Harbors and Seas — From the Driftmaster to Drones and Beyond"
 date: 2018-02-03T09:00:33
-slug: cleaning-harbors-seas-driftmaster-drones-beyond
+slug: "cleaning-harbors-seas-driftmaster-drones-beyond"
 excerpt: "As the problem of trash and plastic in our waters gets worse, new (and a few older technologies) are being used to respond. They range from small and functional, like the Seabin, a sort of high tech floating bucket designed … Continue reading &rarr;"
 categories:
   - "Current"

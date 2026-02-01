@@ -1,8 +1,8 @@
 ---
 title: "Cruelty on the Cowpens? Cruiser CO Relieved of Duty"
 date: 2010-01-18T07:57:36
-slug: cruelty-on-the-cowpens-cruiser-co-relieved-of-duty
-excerpt: "Cruiser CO relieved for ‘cruelty’ The commanding officer of the Yokosuka, Japan-based cruiser USS Cowpens was relieved of duty Wednesday after being punished for “cruelty and maltreatment” during her time in charge, the Navy announced. In an unusual move, she … Continue reading &rarr;"
+slug: "cruelty-on-the-cowpens-cruiser-co-relieved-of-duty"
+excerpt: "Cruiser CO relieved for ‘cruelty’ The commanding officer of the Yokosuka, Japan-based cruiser USS Cowpens was relieved of duty Wednesday after being punished for \"cruelty and maltreatment\" during her time in charge, the Navy announced. In an unusual move, she … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Carrier Strike Group 5"
   - "cruiser USS Cowpens"
 author: "Rick Spilman"
-description: "Cruiser CO relieved for ‘cruelty’ The commanding officer of the Yokosuka, Japan-based cruiser USS Cowpens was relieved of duty Wednesday after being punished for “cruelty and maltreatment” during her time in charge, the Navy announced. In an unusual move, she … Continue reading &rarr;"
+description: "Cruiser CO relieved for ‘cruelty’ The commanding officer of the Yokosuka, Japan-based cruiser USS Cowpens was relieved of duty Wednesday after being punished for \"cruelty and maltreatment\" during her time in charge, the Navy announced. In an unusual move, she … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/01/graf_holly_800.jpg)[Cruiser CO relieved for ‘cruelty’](http://www.navytimes.com/news/2010/01/ap_cowpens_cofired_011310/)

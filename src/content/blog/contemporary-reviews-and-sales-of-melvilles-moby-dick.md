@@ -1,7 +1,7 @@
 ---
 title: "Melville’s Moby Dick – Contemporary Reviews and Sales Figures"
 date: 2012-10-19T08:47:49
-slug: contemporary-reviews-and-sales-of-melvilles-moby-dick
+slug: "contemporary-reviews-and-sales-of-melvilles-moby-dick"
 excerpt: "Yesterday we posted about the Google Doodle honoring Herman Melville‘s Moby Dick on the anniversary of its publication.  The reviews of Herman Melville’s Moby Dick when it was published in 1851 were decidedly mixed. There were indeed positive reviews to balance the … Continue reading &rarr;"
 categories:
   - "Critiques"

@@ -1,7 +1,7 @@
 ---
 title: "The Wellerman & the Cross Cultural Whaling History of New Zealand"
 date: 2021-02-06T15:50:45
-slug: the-wellerman-the-cross-cultural-whaling-history-of-new-zealand
+slug: "the-wellerman-the-cross-cultural-whaling-history-of-new-zealand"
 excerpt: "We recently posted about the Wellerman and the Sea Shanty Boom on TikTok. We noted that of all the recent strangeness, the most pleasant and least expected has been the explosion of sea shanties on TikTok. It all began when … Continue reading &rarr;"
 categories:
   - "History"

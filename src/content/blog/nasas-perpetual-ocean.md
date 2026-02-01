@@ -1,7 +1,7 @@
 ---
 title: "NASA’s Perpetual Ocean"
 date: 2012-10-16T08:48:20
-slug: nasas-perpetual-ocean
+slug: "nasas-perpetual-ocean"
 excerpt: "If you haven’t seen this yet, it is definitely worth watching.  It is a visualization developed by NASA/JPL of ocean surface currents around the world between 2005 and 2007.  Fascinating. NASA | Perpetual Ocean … Continue reading &rarr;"
 categories:
   - "Current"

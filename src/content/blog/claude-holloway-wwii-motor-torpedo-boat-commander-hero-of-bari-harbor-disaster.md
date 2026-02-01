@@ -1,7 +1,7 @@
 ---
 title: "Claude Holloway – WWII Motor Torpedo Boat Commander, Hero of Bari Harbor Disaster"
 date: 2012-05-09T12:35:54
-slug: claude-holloway-wwii-motor-torpedo-boat-commander-hero-of-bari-harbor-disaster
+slug: "claude-holloway-wwii-motor-torpedo-boat-commander-hero-of-bari-harbor-disaster"
 excerpt: "Claude Holloway died recently at the age of 93. He was one of the most successful motor torpedo boat commanders in the Mediterranean in the Second World War, earning a Distinguished Service Cross for his part in the Caorle Point … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Chinese and Japanese Ships Contest Disputed Senkaku/Diaoyu Islands in the East China Sea"
 date: 2013-04-25T08:02:03
-slug: chinese-and-japanese-ships-contest-disputed-senkakudiaoyu-islands-in-the-east-china-sea
+slug: "chinese-and-japanese-ships-contest-disputed-senkakudiaoyu-islands-in-the-east-china-sea"
 excerpt: "Things are getting tense again in the East China Sea, specifically between the Chinese and Japanese.  The dispute is over a small group of uninhabited islands that lie between Okinawa and Taiwan and are known as Senkaku in Japanese and Diaoyu … Continue reading &rarr;"
 categories:
   - "Current"

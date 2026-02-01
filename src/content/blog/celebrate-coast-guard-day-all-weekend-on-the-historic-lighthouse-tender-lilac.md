@@ -1,7 +1,7 @@
 ---
 title: "Celebrate Coast Guard Day All Weekend on the Historic Lighthouse Tender Lilac"
 date: 2019-08-02T12:34:15
-slug: celebrate-coast-guard-day-all-weekend-on-the-historic-lighthouse-tender-lilac
+slug: "celebrate-coast-guard-day-all-weekend-on-the-historic-lighthouse-tender-lilac"
 excerpt: "Coast Guard Day in the United States is this Sunday, August 4th, commemorating the founding of the U. S. Coast Guard as the Revenue Marine on August 4, 1790, by the Secretary of the Treasury, Alexander Hamilton. On the ex-USCG … Continue reading &rarr;"
 categories:
   - "City of Ships"

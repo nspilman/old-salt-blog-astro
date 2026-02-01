@@ -1,7 +1,7 @@
 ---
 title: "Struggle over Kurdish Oil — Tanker United Kalavrvta Goes Dark in Gulf of Mexico"
 date: 2014-08-29T13:28:48
-slug: struggle-over-kurdish-oil-tanker-united-kalavrvta-goes-dark-in-gulf-of-mexico
+slug: "struggle-over-kurdish-oil-tanker-united-kalavrvta-goes-dark-in-gulf-of-mexico"
 excerpt: "The Suezmax oil tanker United Kalavrvta has been motoring in large circles in the Gulf of Mexico for over a month. Today her AIS (Automatic Identification System) transponder was turned off, making her far more difficult to track. The ship has, at … Continue reading &rarr;"
 categories:
   - "Current"

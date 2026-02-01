@@ -1,8 +1,8 @@
 ---
 title: "Sleeping Beauty — Britain’s WWII Motorized Submersible Canoe"
 date: 2014-02-09T09:05:47
-slug: sleeping-beauty-britains-wwii-motorised-submersible-canoe
-excerpt: "In World War II, the British government set up the Special Operations Executive (SOE) to to conduct espionage, sabotage and reconnaissance in occupied Europe. An unusual group, they were also known as “the Baker Street Irregulars,” (because their headquarters was on Baker Street in … Continue reading &rarr;"
+slug: "sleeping-beauty-britains-wwii-motorised-submersible-canoe"
+excerpt: "In World War II, the British government set up the Special Operations Executive (SOE) to to conduct espionage, sabotage and reconnaissance in occupied Europe. An unusual group, they were also known as \"the Baker Street Irregulars,\" (because their headquarters was on Baker Street in … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Special Operations Executive"
   - "Station IX"
 author: "Rick Spilman"
-description: "In World War II, the British government set up the Special Operations Executive (SOE) to to conduct espionage, sabotage and reconnaissance in occupied Europe. An unusual group, they were also known as “the Baker Street Irregulars,” (because their headquarters was on Baker Street in … Continue reading &rarr;"
+description: "In World War II, the British government set up the Special Operations Executive (SOE) to to conduct espionage, sabotage and reconnaissance in occupied Europe. An unusual group, they were also known as \"the Baker Street Irregulars,\" (because their headquarters was on Baker Street in … Continue reading &rarr;"
 ---
 
 ![med_diving_canoe](http://www.oldsaltblog.com/wp-content/uploads/2014/02/med_diving_canoe.jpg)In World War II, the British government set up the [Special Operations Executive](http://en.wikipedia.org/wiki/Special_Operations_Executive) (SOE) to to conduct espionage, sabotage and reconnaissance in occupied Europe. An unusual group, they were also known as “the Baker Street Irregulars,” (because their headquarters was on Baker Street in London.)  They also earned the nickname “Churchill’s Secret Army” and the “Ministry of Ungentlemanly Warfare.”  The SEO operated [Station IX](http://en.wikipedia.org/wiki/Station_IX), a secret factory for designing commando equipment in a mansion called ‘[The Frythe](http://en.wikipedia.org/wiki/The_Frythe)‘ north of London near the town of Welwyn.

@@ -1,7 +1,7 @@
 ---
 title: "World’s Toughest Row – Atlantic Challenge : Rowers Attacked by Marlin, Again"
 date: 2025-01-31T18:54:24
-slug: worlds-toughest-row-atlantic-challenge-rowers-attacked-by-marlin-again
+slug: "worlds-toughest-row-atlantic-challenge-rowers-attacked-by-marlin-again"
 excerpt: "The World’s Toughest Row – Atlantic Challenge, a 3,000 mile race across the Atlantic Ocean from San Sebastian in La Gomera, Canary Islands to Nelson’s Dockyard, Antigua, is billed as the ultimate test of endurance and adventure. In addition to … Continue reading &rarr;"
 categories:
   - "Current"

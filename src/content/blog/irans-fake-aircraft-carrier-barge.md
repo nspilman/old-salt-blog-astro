@@ -1,7 +1,7 @@
 ---
 title: "Iran’s Mysterious Fake Aircraft Carrier Barge"
 date: 2014-03-22T09:37:31
-slug: irans-fake-aircraft-carrier-barge
+slug: "irans-fake-aircraft-carrier-barge"
 excerpt: "Iran appears to be be building a non-functioning mock-up of the aircraft carrier USS Nimitz.  The mock-up appears to be more of a barge, is not nuclear powered, doesn’t really look all that much like the Nimitz and is only about 2/3 the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

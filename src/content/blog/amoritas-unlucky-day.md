@@ -1,7 +1,7 @@
 ---
 title: "Amorita’s Unlucky Day"
 date: 2013-05-13T09:00:33
-slug: amoritas-unlucky-day
+slug: "amoritas-unlucky-day"
 excerpt: "The first time I saw Billy Black‘s photo of the collision, I had to look twice to believe what I was seeing. It show two white yachts, both under full sail, one slicing half-way through the other.  The collision took … Continue reading &rarr;"
 categories:
   - "Current"

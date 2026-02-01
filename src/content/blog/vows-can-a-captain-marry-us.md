@@ -1,7 +1,7 @@
 ---
 title: "Vows: Can a Captain Marry Us?"
 date: 2014-03-03T09:42:20
-slug: vows-can-a-captain-marry-us
+slug: "vows-can-a-captain-marry-us"
 excerpt: "From the New York Times: Hollywood gave a big boost to the myth that captains could legally join couples on the open seas. In New York, Captain Arnold Wonsever, an ordained minister, is making this myth a reality. … Continue reading &rarr;"
 categories:
   - "Current"

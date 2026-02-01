@@ -1,7 +1,7 @@
 ---
 title: "Privateer Royaliste, the Sternwheeler Portland and the Very Bad Friday the 13th"
 date: 2012-07-18T13:47:35
-slug: privateer-royaliste-the-sternwheeler-portland-and-the-very-bad-friday-the-13th
+slug: "privateer-royaliste-the-sternwheeler-portland-and-the-very-bad-friday-the-13th"
 excerpt: "Correction: Based on local news reports, we originally posted that water pressure from the steamer Portland‘s paddle-wheel damaged the Royaliste.  We were incorrect. The Portland clearly backed into the ketch, which was tied up  alongside the dock.  See the video below, which shows the impact.   … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

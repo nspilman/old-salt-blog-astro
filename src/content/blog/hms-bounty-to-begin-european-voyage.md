@@ -1,7 +1,7 @@
 ---
 title: "HMS Bounty to Begin European Voyage"
 date: 2011-04-05T12:34:02
-slug: hms-bounty-to-begin-european-voyage
+slug: "hms-bounty-to-begin-european-voyage"
 excerpt: "HMS Bounty is making ready to sail from San Juan, Puerto Rico tomorrow to begin this season’s European voyage.   She will be calling at ports in the UK, Ireland, Belgium, Poland, Sweden, Germany and Russia, before returning to the US around October. For her … Continue reading &rarr;"
 categories:
   - "Current"

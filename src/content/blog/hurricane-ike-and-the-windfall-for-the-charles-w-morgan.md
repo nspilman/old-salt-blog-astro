@@ -1,7 +1,7 @@
 ---
 title: "Hurricane Ike and the Windfall for the Charles W. Morgan"
 date: 2009-08-02T07:21:38
-slug: hurricane-ike-and-the-windfall-for-the-charles-w-morgan
+slug: "hurricane-ike-and-the-windfall-for-the-charles-w-morgan"
 excerpt: "A windfall, a sudden and unexpected occurrence of good fortune, literally refers to fruit or timber knocked down by the wind. Here is an intriguing story of a literal windfall from the Maritime Texas blog. … Continue reading &rarr;"
 categories:
   - "Current"

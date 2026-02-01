@@ -1,8 +1,8 @@
 ---
 title: "Did Saint Brendan the Navigator Sail the Atlantic?"
 date: 2015-03-17T18:05:17
-slug: did-saint-brendan-the-navigator-sail-the-atlantic
-excerpt: "On this St. Patrick’s Day, it seems worthwhile to recall the story of another Irish saint, Brendan the Navigator, who is said to have sailed off on a seven year voyage across the Atlantic, from Ireland to the “Isle of the … Continue reading &rarr;"
+slug: "did-saint-brendan-the-navigator-sail-the-atlantic"
+excerpt: "On this St. Patrick’s Day, it seems worthwhile to recall the story of another Irish saint, Brendan the Navigator, who is said to have sailed off on a seven year voyage across the Atlantic, from Ireland to the \"Isle of the … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"

@@ -1,8 +1,8 @@
 ---
 title: "A Blog for the ‘Sixth Borough’ – Tugster in the New York Times"
 date: 2011-02-19T08:28:18
-slug: a-blog-for-the-%e2%80%98sixth-borough%e2%80%99-tugster-in-the-new-york-times
-excerpt: "One of my favorite blogs is Will van Dorp’s Tugster : a water blog – part shipspotting, part anthropology and part wry commentary on life and the universe, Will and his omnipresent camera do a great job covering New York’s “six borough.” … Continue reading &rarr;"
+slug: "a-blog-for-the-%e2%80%98sixth-borough%e2%80%99-tugster-in-the-new-york-times"
+excerpt: "One of my favorite blogs is Will van Dorp’s Tugster : a water blog – part shipspotting, part anthropology and part wry commentary on life and the universe, Will and his omnipresent camera do a great job covering New York’s \"six borough.\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "Tugster : a water blog"
   - "Will van Dorp"
 author: "Rick Spilman"
-description: "One of my favorite blogs is Will van Dorp’s Tugster : a water blog – part shipspotting, part anthropology and part wry commentary on life and the universe, Will and his omnipresent camera do a great job covering New York’s “six borough.” … Continue reading &rarr;"
+description: "One of my favorite blogs is Will van Dorp’s Tugster : a water blog – part shipspotting, part anthropology and part wry commentary on life and the universe, Will and his omnipresent camera do a great job covering New York’s \"six borough.\" … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/20NYOL2-articleInline.jpg)

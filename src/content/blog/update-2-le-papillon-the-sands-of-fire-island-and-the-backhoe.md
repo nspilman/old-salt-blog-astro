@@ -1,7 +1,7 @@
 ---
 title: "Update 2: Le Papillon, the Sands of Fire Island and the Backhoe"
 date: 2011-04-29T20:57:55
-slug: update-2-le-papillon-the-sands-of-fire-island-and-the-backhoe
+slug: "update-2-le-papillon-the-sands-of-fire-island-and-the-backhoe"
 excerpt: "An update to a story that we have been following. The 50′ schooner Le Papillon came ashore on a beach  on Fire Island, northeast of New York harbor, at the beginning of April.   Just as it looked like the schooner would be … Continue reading &rarr;"
 categories:
   - "Current"

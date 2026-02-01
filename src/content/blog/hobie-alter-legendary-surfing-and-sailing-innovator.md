@@ -1,8 +1,8 @@
 ---
 title: "Hobie Alter — Legendary Surfing and Sailing Innovator"
 date: 2014-03-31T08:15:33
-slug: hobie-alter-legendary-surfing-and-sailing-innovator
-excerpt: "Hobart “Hobie” Alter died of cancer in Palm Desert, California on March 29th, 2014 at the age of 80.  In 1958, he revolutionized surfboard design by developing the foam-and-fiberglass surfboard. In the 1960s, he introduced multi-hull sailing to the mass market … Continue reading &rarr;"
+slug: "hobie-alter-legendary-surfing-and-sailing-innovator"
+excerpt: "Hobart \"Hobie\" Alter died of cancer in Palm Desert, California on March 29th, 2014 at the age of 80.  In 1958, he revolutionized surfboard design by developing the foam-and-fiberglass surfboard. In the 1960s, he introduced multi-hull sailing to the mass market … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "Hobie Cat"
   - "surfboard"
 author: "Rick Spilman"
-description: "Hobart “Hobie” Alter died of cancer in Palm Desert, California on March 29th, 2014 at the age of 80.  In 1958, he revolutionized surfboard design by developing the foam-and-fiberglass surfboard. In the 1960s, he introduced multi-hull sailing to the mass market … Continue reading &rarr;"
+description: "Hobart \"Hobie\" Alter died of cancer in Palm Desert, California on March 29th, 2014 at the age of 80.  In 1958, he revolutionized surfboard design by developing the foam-and-fiberglass surfboard. In the 1960s, he introduced multi-hull sailing to the mass market … Continue reading &rarr;"
 ---
 
 ![hobie](http://www.oldsaltblog.com/wp-content/uploads/2014/03/hobie.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Joan Druett Interviewed by Quarterdeck"
 date: 2013-06-06T21:26:30
-slug: joan-druett-interviewed-by-quarterdeck
+slug: "joan-druett-interviewed-by-quarterdeck"
 excerpt: "McBook Press‘ wonderful publication Quarterdeck, has a fascinating interview with Joan Druett in their June 2013 edition.   We are reposting it here with permission. Award-winning author Joan Druett sailed back into nautical fiction in 2005 with the launch of A … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

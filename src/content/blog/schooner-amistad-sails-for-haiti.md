@@ -1,7 +1,7 @@
 ---
 title: "Schooner Amistad Sails for Haiti"
 date: 2010-01-22T06:51:53
-slug: schooner-amistad-sails-for-haiti
+slug: "schooner-amistad-sails-for-haiti"
 excerpt: "While the amphibious assault ship USS Bataan arrived in Haiti yesterday and the hospital ship USNS Comfort arrived the day before,  naval ships are not the only vessels sailing to aid the earthquake victims.  The schooner Amistad is on her way bearing both supplies and a … Continue reading &rarr;"
 categories:
   - "Current"

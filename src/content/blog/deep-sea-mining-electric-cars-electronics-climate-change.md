@@ -1,7 +1,7 @@
 ---
 title: "Deep-Sea Mining — Electric Cars, Electronics & Climate Change"
 date: 2019-11-18T18:49:43
-slug: deep-sea-mining-electric-cars-electronics-climate-change
+slug: "deep-sea-mining-electric-cars-electronics-climate-change"
 excerpt: "Deep-sea mining may provide the material necessary to create our latest and greatest electronics, electric cars and battery backup systems. The mining may also damage the environment and worsen climate change.  In 2018, we posted about the discovery of huge … Continue reading &rarr;"
 categories:
   - "Current"

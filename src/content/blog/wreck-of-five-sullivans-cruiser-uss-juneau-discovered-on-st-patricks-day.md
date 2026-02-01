@@ -1,7 +1,7 @@
 ---
 title: "Wreck of Five Sullivans’ Cruiser USS Juneau Discovered on St. Patrick’s Day"
 date: 2018-03-20T12:52:06
-slug: wreck-of-five-sullivans-cruiser-uss-juneau-discovered-on-st-patricks-day
+slug: "wreck-of-five-sullivans-cruiser-uss-juneau-discovered-on-st-patricks-day"
 excerpt: "The latest news from Paul Allen’s research vessel Petrel: Wreckage from the USS Juneau (CL-52) was discovered on March 17, 2018, by the expedition crew of Research Vessel (R/V) Petrel. The Juneau was sunk by a Japanese torpedo during the Battle … Continue reading &rarr;"
 categories:
   - "Current"

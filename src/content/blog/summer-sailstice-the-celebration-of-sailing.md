@@ -1,7 +1,7 @@
 ---
 title: "Summer Sailstice & the Celebration of Sailing"
 date: 2014-06-21T09:05:26
-slug: summer-sailstice-the-celebration-of-sailing
+slug: "summer-sailstice-the-celebration-of-sailing"
 excerpt: "What is the best way to celebrate sailing?  My first response is to say, go sailing.  Sailing, seems to me, to be its own celebration. There is that moment when everything falls into balance — when the force of the … Continue reading &rarr;"
 categories:
   - "Current"

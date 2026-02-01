@@ -1,8 +1,8 @@
 ---
-title: "Video of Deep-Sea Dana Octopus Squid Flashing Brilliant “Headlights”"
+title: "Video of Deep-Sea Dana Octopus Squid Flashing Brilliant \"Headlights\""
 date: 2024-05-17T16:42:07
-slug: video-of-deep-sea-dana-octopus-squid-flashing-brilliant-headlights
-excerpt: "Researchers from the University of Western Australia (UWA) and Kelpie Geosciences in the U.K. recently caught some amazing video footage of a terrifying deep-sea squid that flashed a pair of brilliant “headlights” at the moment it goes in for the … Continue reading &rarr;"
+slug: "video-of-deep-sea-dana-octopus-squid-flashing-brilliant-headlights"
+excerpt: "Researchers from the University of Western Australia (UWA) and Kelpie Geosciences in the U.K. recently caught some amazing video footage of a terrifying deep-sea squid that flashed a pair of brilliant \"headlights\" at the moment it goes in for the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Samoan Passage"
   - "South Pacific"
 author: "Rick Spilman"
-description: "Researchers from the University of Western Australia (UWA) and Kelpie Geosciences in the U.K. recently caught some amazing video footage of a terrifying deep-sea squid that flashed a pair of brilliant “headlights” at the moment it goes in for the … Continue reading &rarr;"
+description: "Researchers from the University of Western Australia (UWA) and Kelpie Geosciences in the U.K. recently caught some amazing video footage of a terrifying deep-sea squid that flashed a pair of brilliant \"headlights\" at the moment it goes in for the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/danasquid.jpg)Researchers from the University of Western Australia (UWA) and Kelpie Geosciences in the U.K. recently caught some amazing video footage of a terrifying deep-sea squid that flashed a pair of brilliant “headlights” at the moment it goes in for the kill. 

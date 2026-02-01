@@ -1,7 +1,7 @@
 ---
 title: "Prepared Crew on Charter Boat Stardust Rescues Dumb Kayakers"
 date: 2017-04-19T09:34:13
-slug: prepared-crew-charter-boat-stardust-rescues-dumb-kayakers
+slug: "prepared-crew-charter-boat-stardust-rescues-dumb-kayakers"
 excerpt: "I guess if you are going to be stupid, it is also good to be lucky. A few days ago, two kayakers, a man and a woman, paddled out several miles into the Pacific ocean off Goleta, CA, 15 miles … Continue reading &rarr;"
 categories:
   - "Current"

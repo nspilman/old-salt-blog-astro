@@ -1,7 +1,7 @@
 ---
 title: "Wave Kills Passenger on MS Marco Polo While Valentine’s Day Storm Slams UK"
 date: 2014-02-15T15:48:50
-slug: wave-kills-passenger-on-ms-marco-polo-while-valentines-day-storm-slams-uk
+slug: "wave-kills-passenger-on-ms-marco-polo-while-valentines-day-storm-slams-uk"
 excerpt: "A unusually large wave killed an 85 year old man and injured a woman in her 70s on the cruise ship MS Marco Polo in the English Channel, as it headed for its home port of Tilbury, in Essex.  Both were … Continue reading &rarr;"
 categories:
   - "Current"

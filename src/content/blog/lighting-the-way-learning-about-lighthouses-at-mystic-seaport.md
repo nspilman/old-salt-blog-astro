@@ -1,7 +1,7 @@
 ---
 title: "Lighting The Way : Learning about Lighthouses at Mystic Seaport"
 date: 2014-10-05T08:24:22
-slug: lighting-the-way-learning-about-lighthouses-at-mystic-seaport
+slug: "lighting-the-way-learning-about-lighthouses-at-mystic-seaport"
 excerpt: "Another interesting video by Mystic Seaport Museum. Lighting The Way For Ships: Learning about Lighthouses at Mystic Seaport … Continue reading &rarr;"
 categories:
   - "Current"

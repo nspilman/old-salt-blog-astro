@@ -1,7 +1,7 @@
 ---
 title: "Russell Crowe calls for Master and Commander sequel"
 date: 2010-12-13T09:00:15
-slug: russell-crowe-calls-for-master-and-commander-sequel
+slug: "russell-crowe-calls-for-master-and-commander-sequel"
 excerpt: "Master and Commander – Far Side of the World, loosely based on one or another novel by Patrick O’Brian,  was a movie that I needed to see twice to enjoy.  The first time I saw it, I was so annoyed by the … Continue reading &rarr;"
 categories:
   - "Current"

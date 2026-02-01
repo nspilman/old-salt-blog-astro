@@ -1,7 +1,7 @@
 ---
 title: "Norwegian Tall Ship Statsraad Lehmkuhl Visiting New York Next Week on One Ocean Circumnavigation"
 date: 2021-12-13T18:33:45
-slug: norwegian-tall-ship-statsraad-lehmkuhl-visiting-new-york-next-week-on-one-ocean-circumnavigation
+slug: "norwegian-tall-ship-statsraad-lehmkuhl-visiting-new-york-next-week-on-one-ocean-circumnavigation"
 excerpt: "The Norwegian sail training ship Statsraad Lehmkuhl will be visiting New York harbor next week. The three-masted barque, built in 1914, will be docking at Brooklyn Bridge Park and will be available for tours from December 19 to 27, from … Continue reading &rarr;"
 categories:
   - "Current"

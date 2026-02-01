@@ -1,7 +1,7 @@
 ---
 title: "Collision in Volvo Ocean Race Kills Chinese Fisherman, Nine Others Rescued"
 date: 2018-01-21T12:52:09
-slug: collision-volvo-ocean-race-kills-chinese-fisherman-nine-others-rescued
+slug: "collision-volvo-ocean-race-kills-chinese-fisherman-nine-others-rescued"
 excerpt: "Around 30 NM from Hong Kong, the Volvo Ocean racer Vestas 11th Hour collided with a Chinese fishing vessel on Friday night around 1:20 a.m. local time, which resulted in the death of a Chinese fisherman. The Vestas 11th Hour … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Shell Drilling Rig, Kulluk, Loaded with Fuel, Aground on Sitkalidak Island in Gulf of Alaska"
 date: 2013-01-01T18:55:15
-slug: shell-drilling-rig-kulluck-loaded-with-fuel-aground-on-sitkalidak-island-in-gulf-of-alaska
+slug: "shell-drilling-rig-kulluck-loaded-with-fuel-aground-on-sitkalidak-island-in-gulf-of-alaska"
 excerpt: "On Monday night, the Shell Oil drilling rig, the Kulluk, broke free from its towlines during heavy weather and ran aground on the east coast of Sitkalidak Island in the Gulf of Alaska.  Sitkalidak Island is an uninhabited island separated … Continue reading &rarr;"
 categories:
   - "Current"

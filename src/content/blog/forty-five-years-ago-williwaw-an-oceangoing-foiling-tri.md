@@ -1,7 +1,7 @@
 ---
 title: "Forty Five Years Ago — Williwaw, An Oceangoing Foiling Tri"
 date: 2015-04-21T16:37:20
-slug: forty-five-years-ago-williwaw-an-oceangoing-foiling-tri
+slug: "forty-five-years-ago-williwaw-an-oceangoing-foiling-tri"
 excerpt: "We recently posted about Gunboat’s new G4 carbon-fiber catamaran which can fly on foils. (It can also capsize dramatically.)  As high tech and leading edge as the G4 may be, it is not the first cruising foiling multihull.  Forty five … Continue reading &rarr;"
 categories:
   - "Current"

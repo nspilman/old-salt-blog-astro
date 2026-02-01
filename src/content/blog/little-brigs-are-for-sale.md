@@ -1,7 +1,7 @@
 ---
 title: "Little Brigs are for Sale"
 date: 2018-10-27T09:50:36
-slug: little-brigs-are-for-sale
+slug: "little-brigs-are-for-sale"
 excerpt: "Sad news from the Little Brig Trust, which operates two very small tall-ships. The Gosport based charity has announced that after a review of operations, that it did not have the capacity to continue into 2019, and so are putting … Continue reading &rarr;"
 categories:
   - "Current"

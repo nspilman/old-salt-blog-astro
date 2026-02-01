@@ -1,7 +1,7 @@
 ---
 title: "Ice Core Study Shows Greenland is the Warmest it has Been in 1,000 Years"
 date: 2023-01-21T21:02:16
-slug: ice-core-study-shows-greenland-is-the-warmest-it-has-been-in-1000-years
+slug: "ice-core-study-shows-greenland-is-the-warmest-it-has-been-in-1000-years"
 excerpt: "At the end of December, we posted about a disturbing report that Greenland’s glaciers are melting 100 times faster than previously calculated. Now, a new study published this week in the journal Nature reveals that Greenland is warmer than it … Continue reading &rarr;"
 categories:
   - "Current"

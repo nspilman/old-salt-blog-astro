@@ -1,7 +1,7 @@
 ---
 title: "The unseen tragedy behind Superferry 9"
 date: 2009-09-13T20:02:01
-slug: the-unseen-tragedy-behind-superferry-9
+slug: "the-unseen-tragedy-behind-superferry-9"
 excerpt: "I’ve always been struck by the tragedy that those most in need of ferry service are often also most at risk.    We have seen recent ferry accidents in the Philippines with the sinking of the Superferry 9 resulting in nine deaths, in … Continue reading &rarr;"
 categories:
   - "Current"

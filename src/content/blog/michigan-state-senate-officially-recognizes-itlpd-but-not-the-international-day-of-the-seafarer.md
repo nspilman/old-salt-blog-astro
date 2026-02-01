@@ -1,7 +1,7 @@
 ---
 title: "Michigan State Senate Officially Recognizes ITLPD but Not the International Day of the Seafarer"
 date: 2013-06-05T09:02:16
-slug: michigan-state-senate-officially-recognizes-itlpd-but-not-the-international-day-of-the-seafarer
+slug: "michigan-state-senate-officially-recognizes-itlpd-but-not-the-international-day-of-the-seafarer"
 excerpt: "I was under the impression that the State of Michigan had serious problems – a $2 billion budget shortfall, its largest city in dire economic straits, schools closing for lack of funding, that sort of thing.  Things must be better … Continue reading &rarr;"
 categories:
   - "Current"

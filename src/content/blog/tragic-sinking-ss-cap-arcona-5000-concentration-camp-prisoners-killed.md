@@ -1,7 +1,7 @@
 ---
 title: "The Tragic Sinking of the SS Cap Arcona, 5,000 Concentration Camp Prisoners Killed"
 date: 2017-05-03T09:07:32
-slug: tragic-sinking-ss-cap-arcona-5000-concentration-camp-prisoners-killed
+slug: "tragic-sinking-ss-cap-arcona-5000-concentration-camp-prisoners-killed"
 excerpt: "On this day, 72 years ago, May 3, 1945, the German liner SS Cap Arcona, serving as a prison ship, was sunk by Royal Air Force  fighter bombers in the Baltic Sea. Almost 5,000 prisoners from Nazi concentration camps who were being transported … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

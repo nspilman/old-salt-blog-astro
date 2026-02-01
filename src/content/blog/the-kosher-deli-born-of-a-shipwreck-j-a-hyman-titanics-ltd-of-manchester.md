@@ -1,7 +1,7 @@
 ---
 title: "The Kosher Deli Born of a Shipwreck – J.A.Hyman (Titanics) Ltd of Manchester"
 date: 2012-04-09T07:30:48
-slug: the-kosher-deli-born-of-a-shipwreck-j-a-hyman-titanics-ltd-of-manchester
+slug: "the-kosher-deli-born-of-a-shipwreck-j-a-hyman-titanics-ltd-of-manchester"
 excerpt: "This story is so unlikely that it must be true.  When the Collapsible Lifeboat C from the RMS Titanic was picked up by the Carpathia, of the 41 aboard, there were two very different men, though their names, by virtue of alphabetization are adjacent to each other on … Continue reading &rarr;"
 categories:
   - "History"

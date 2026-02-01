@@ -1,7 +1,7 @@
 ---
 title: "Driller Liquidated to Help Clean Up Long Running Gulf Oil Spill"
 date: 2021-12-27T15:36:38
-slug: driller-liquidated-to-help-clean-up-long-running-gulf-oil-spill
+slug: "driller-liquidated-to-help-clean-up-long-running-gulf-oil-spill"
 excerpt: "Seventeen years ago, Hurricane Ivan destroyed an oil-production platform in the Gulf of Mexico. The wells associated with the platform have been leaking ever since and may be one of the largest and longest-running offshore spills in US history.  Now, … Continue reading &rarr;"
 categories:
   - "Current"

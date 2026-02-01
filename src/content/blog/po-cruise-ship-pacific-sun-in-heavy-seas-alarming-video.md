@@ -1,7 +1,7 @@
 ---
 title: "P&O Cruise Ship, Pacific Sun, in Heavy Seas – Alarming Video"
 date: 2010-09-08T08:59:13
-slug: po-cruise-ship-pacific-sun-in-heavy-seas-alarming-video
+slug: "po-cruise-ship-pacific-sun-in-heavy-seas-alarming-video"
 excerpt: "Cruise ship operators would prefer that their passengers exist in a hermetically sealed bubble, where they can enjoy the sea without ever having to be exposed to it;  where their passengers can look up occasionally from drinking, dining and spending money in the onboard … Continue reading &rarr;"
 categories:
   - "Current"

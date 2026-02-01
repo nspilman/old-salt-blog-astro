@@ -1,7 +1,7 @@
 ---
 title: "Navy Promises to Cut Costs As Christening of $12.9 Billion USS Gerald R. Ford Approaches"
 date: 2013-11-05T17:40:23
-slug: navy-promises-to-cut-costs-as-christening-of-12-9-billion-uss-gerald-r-ford-approaches
+slug: "navy-promises-to-cut-costs-as-christening-of-12-9-billion-uss-gerald-r-ford-approaches"
 excerpt: "The U.S. Navy’s new supercarrier, USS Gerald R. Ford (CVN-78), was floated in the drydock last month. She will be christened this Saturday, November 9th at the Northrop Grumman Shipbuilding in Newport News, Virginia. In addition to other superlatives, she … Continue reading &rarr;"
 categories:
   - "Current"

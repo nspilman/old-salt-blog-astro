@@ -1,7 +1,7 @@
 ---
 title: "Fire on the Horizon: The Untold Story of the Gulf Oil Disaster by John Konrad and Tom Shroder"
 date: 2011-02-28T15:51:04
-slug: fire-on-the-horizon-the-untold-story-of-the-gulf-oil-disaster-by-john-konrad-and-tom-shroder-2
+slug: "fire-on-the-horizon-the-untold-story-of-the-gulf-oil-disaster-by-john-konrad-and-tom-shroder-2"
 excerpt: "When the Deepwater Horizon suffered a blowout, caught fire and sank in the Gulf of Mexico last April, it was only forty miles off the coast of Louisiana.  Yet,  in many respects, the world aboard the ill-fated rig was as … Continue reading &rarr;"
 categories:
   - "Newbooks"

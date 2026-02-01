@@ -1,7 +1,7 @@
 ---
 title: "Simulator Training at Fort Schuyler for NYC Ferry Captains"
 date: 2017-04-11T10:49:31
-slug: simulator-training-fort-schuyler-nyc-ferry-captains
+slug: "simulator-training-fort-schuyler-nyc-ferry-captains"
 excerpt: "Captains on the new Citywide Ferry service in New York harbor are receiving training on a state-of-the-art simulator at SUNY Maritime College at Fort Schyler. … Continue reading &rarr;"
 categories:
   - "Current"

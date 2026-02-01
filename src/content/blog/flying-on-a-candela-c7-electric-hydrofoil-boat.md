@@ -1,8 +1,8 @@
 ---
 title: "Flying on a Candela C7 Electric Hydrofoil Boat"
 date: 2021-11-08T10:33:11
-slug: flying-on-a-candela-c7-electric-hydrofoil-boat
-excerpt: "On Saturday, we posted about the world’s largest electric ferry. Here is a very different electric watercraft, an all-electric hydrofoil runabout that literally flies above the water. Candela Speed Boat AB has been referred to by Bloomberg as “Sweden’s Tesla … Continue reading &rarr;"
+slug: "flying-on-a-candela-c7-electric-hydrofoil-boat"
+excerpt: "On Saturday, we posted about the world’s largest electric ferry. Here is a very different electric watercraft, an all-electric hydrofoil runabout that literally flies above the water. Candela Speed Boat AB has been referred to by Bloomberg as \"Sweden’s Tesla … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "carbon fiber"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/candela7.jpg"
 author: "Rick Spilman"
-description: "On Saturday, we posted about the world’s largest electric ferry. Here is a very different electric watercraft, an all-electric hydrofoil runabout that literally flies above the water. Candela Speed Boat AB has been referred to by Bloomberg as “Sweden’s Tesla … Continue reading &rarr;"
+description: "On Saturday, we posted about the world’s largest electric ferry. Here is a very different electric watercraft, an all-electric hydrofoil runabout that literally flies above the water. Candela Speed Boat AB has been referred to by Bloomberg as \"Sweden’s Tesla … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/candela7.jpg)On Saturday, we posted about the [world’s largest electric ferry](http://www.oldsaltblog.com/2021/11/basto-electric-worlds-largest-electric-ferry-in-service-in-norway/). Here is a very different electric watercraft, an all-electric hydrofoil runabout that literally flies above the water.

@@ -1,7 +1,7 @@
 ---
 title: "Pitcairn Island — Tropical Living, Free Land and Internet!"
 date: 2015-08-10T18:09:00
-slug: pitcairn-island-tropical-living-free-land-and-internet
+slug: "pitcairn-island-tropical-living-free-land-and-internet"
 excerpt: "How would you like to escape to a tropical island, well off the beaten path, where land to build a house is free,  temperatures stay above 62F all year round and there is even an internet connection? If that sounds good to you, you might want to consider Pitcairn Island.
  Continue reading &rarr;"
 categories:

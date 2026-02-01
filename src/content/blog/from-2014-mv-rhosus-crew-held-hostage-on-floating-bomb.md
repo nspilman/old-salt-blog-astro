@@ -1,7 +1,7 @@
 ---
 title: "From 2014: MV Rhosus – Crew Held Hostage on Floating Bomb"
 date: 2020-08-06T10:43:17
-slug: from-2014-mv-rhosus-crew-held-hostage-on-floating-bomb
+slug: "from-2014-mv-rhosus-crew-held-hostage-on-floating-bomb"
 excerpt: "The events leading up to the catastrophic explosion in Beirut, Lebanon that killed more than 135 and injured 5,000, began in November 2013, when the cargo ship MV Rhosus, loaded with 2,750 tonnes of ammonium nitrate, made an unplanned stop … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

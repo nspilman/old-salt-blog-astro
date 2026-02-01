@@ -1,7 +1,7 @@
 ---
 title: "New Orca Behaviors Discovered — Using Tools and Sharing Food With People"
 date: 2025-07-01T21:02:17
-slug: new-orca-behaviors-discovered-using-tools-and-sharing-food-with-people
+slug: "new-orca-behaviors-discovered-using-tools-and-sharing-food-with-people"
 excerpt: "There is so much we do not understand about orcas, also known as killer whales. Scientists and sailors have been mystified in recent years by pods of orcas attacking sailboats near the Strait of Gibraltar and the Iberian Peninsula. Multiple … Continue reading &rarr;"
 categories:
   - "Current"

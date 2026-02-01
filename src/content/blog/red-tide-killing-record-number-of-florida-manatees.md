@@ -1,7 +1,7 @@
 ---
 title: "Red Tide Killing Record Number of Florida Manatees"
 date: 2013-03-11T11:11:27
-slug: red-tide-killing-record-number-of-florida-manatees
+slug: "red-tide-killing-record-number-of-florida-manatees"
 excerpt: "An outbreak of Red Tide, a deadly algae bloom, in the Gulf of Mexico off Florida is killing a record number of endangered Florida manatees. The Red Tide bloom has been killing  at least 10 manatees a day and shows no sign of … Continue reading &rarr;"
 categories:
   - "Current"

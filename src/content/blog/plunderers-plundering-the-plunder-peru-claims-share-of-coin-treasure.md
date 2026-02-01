@@ -1,7 +1,7 @@
 ---
 title: "Plunderers Plundering the Plunder – Peru Claims Share of Coin Treasure"
 date: 2012-02-28T12:11:43
-slug: plunderers-plundering-the-plunder-peru-claims-share-of-coin-treasure
+slug: "plunderers-plundering-the-plunder-peru-claims-share-of-coin-treasure"
 excerpt: "The silver and gold coins valued at $500 million that Odyssey Marine recovered from the wreck of the Nuestra Senora de las Mercedes have now been flown to Spain.  American courts ruled that the coins had been removed illegally and that they … Continue reading &rarr;"
 categories:
   - "Current"

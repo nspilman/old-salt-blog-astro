@@ -1,7 +1,7 @@
 ---
 title: "Mystery of the Vanished Dutch WWII Shipwrecks"
 date: 2016-11-20T12:07:07
-slug: mystery-vanished-dutch-wwii-shipwrecks
+slug: "mystery-vanished-dutch-wwii-shipwrecks"
 excerpt: "In 2002, amateur divers discovered the wrecks of three Dutch warships sunk off Indonesia in World War II. The three ships; the HNLMS De Ruyter, HNLMS Java and HNLMS Kortenaer;  were found at 70 meters deep, 60 miles off the … Continue reading &rarr;"
 categories:
   - "Current"

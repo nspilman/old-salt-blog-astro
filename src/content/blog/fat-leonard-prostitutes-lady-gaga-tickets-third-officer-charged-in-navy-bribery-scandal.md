@@ -1,8 +1,8 @@
 ---
 title: "Fat Leonard, Prostitutes, & Lady Gaga Tickets — Third Officer Charged in Navy Bribery Scandal"
 date: 2013-11-09T09:59:02
-slug: fat-leonard-prostitutes-lady-gaga-tickets-third-officer-charged-in-navy-bribery-scandal
-excerpt: "It all sounds like a bad novel.  Bribes, prostitutes, and Lady Gaga tickets were allegedly handed out to US Navy officers by a Malaysian businessman known as “Fat Leonard” in exchange for classified information and directing business toward the Singapore-based … Continue reading &rarr;"
+slug: "fat-leonard-prostitutes-lady-gaga-tickets-third-officer-charged-in-navy-bribery-scandal"
+excerpt: "It all sounds like a bad novel.  Bribes, prostitutes, and Lady Gaga tickets were allegedly handed out to US Navy officers by a Malaysian businessman known as \"Fat Leonard\" in exchange for classified information and directing business toward the Singapore-based … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Glenn Defense Marine Asia"
   - "Leonard Glenn Francis"
 author: "Rick Spilman"
-description: "It all sounds like a bad novel.  Bribes, prostitutes, and Lady Gaga tickets were allegedly handed out to US Navy officers by a Malaysian businessman known as “Fat Leonard” in exchange for classified information and directing business toward the Singapore-based … Continue reading &rarr;"
+description: "It all sounds like a bad novel.  Bribes, prostitutes, and Lady Gaga tickets were allegedly handed out to US Navy officers by a Malaysian businessman known as \"Fat Leonard\" in exchange for classified information and directing business toward the Singapore-based … Continue reading &rarr;"
 ---
 
 !["Fat Leonard" Glen Francis](http://www.oldsaltblog.com/wp-content/uploads/2013/11/fatleonard.jpg)

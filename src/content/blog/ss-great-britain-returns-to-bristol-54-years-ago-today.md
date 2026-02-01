@@ -1,8 +1,8 @@
 ---
 title: "SS Great Britain Returns to Bristol, 54 Years Ago Today"
 date: 2024-07-05T17:26:48
-slug: ss-great-britain-returns-to-bristol-54-years-ago-today
-excerpt: "[tribulant_slideshow gallery_id=”4″]  Fifty-four years ago today, 100,000 people lined the banks of the River Avon in Bristol as the SS Great Britain returned to her birthplace. In the intervening years, the rusting hulk was meticulously restored to her former glory … Continue reading &rarr;"
+slug: "ss-great-britain-returns-to-bristol-54-years-ago-today"
+excerpt: "[tribulant_slideshow gallery_id=\"4″]  Fifty-four years ago today, 100,000 people lined the banks of the River Avon in Bristol as the SS Great Britain returned to her birthplace. In the intervening years, the rusting hulk was meticulously restored to her former glory … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "SS Great Britain"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/07/brunelsgb.jpg"
 author: "Rick Spilman"
-description: "[tribulant_slideshow gallery_id=”4″]  Fifty-four years ago today, 100,000 people lined the banks of the River Avon in Bristol as the SS Great Britain returned to her birthplace. In the intervening years, the rusting hulk was meticulously restored to her former glory … Continue reading &rarr;"
+description: "[tribulant_slideshow gallery_id=\"4″]  Fifty-four years ago today, 100,000 people lined the banks of the River Avon in Bristol as the SS Great Britain returned to her birthplace. In the intervening years, the rusting hulk was meticulously restored to her former glory … Continue reading &rarr;"
 ---
 
 \[tribulant\_slideshow gallery\_id=”4″\]

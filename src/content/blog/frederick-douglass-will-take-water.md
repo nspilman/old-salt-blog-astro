@@ -1,7 +1,7 @@
 ---
-title: "Frederick Douglass — “I Will Take to the Water”"
+title: "Frederick Douglass — \"I Will Take to the Water\""
 date: 2017-02-14T14:24:24
-slug: frederick-douglass-will-take-water
+slug: "frederick-douglass-will-take-water"
 excerpt: "Frederick Douglass never knew his birthday but he chose to celebrate it every year on February 14th. So happy Frederick Douglass’ birthday and a most joyous Valentine’s Day.  Frederick Douglass was born a slave around 1818. He taught himself to read … Continue reading &rarr;"
 categories:
   - "History"

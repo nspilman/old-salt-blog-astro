@@ -1,8 +1,8 @@
 ---
 title: "Manatees Swim Back From the Brink"
 date: 2016-01-18T16:33:45
-slug: manatees-swim-back-brink
-excerpt: "When I was in high school in Florida in the 70s, the question was not “will the manatees become extinct?” but “how fast?”  The manatees appeared to be doomed by a loss of habitat, pollution, slow birth rates and being … Continue reading &rarr;"
+slug: "manatees-swim-back-brink"
+excerpt: "When I was in high school in Florida in the 70s, the question was not \"will the manatees become extinct?\" but \"how fast?\"  The manatees appeared to be doomed by a loss of habitat, pollution, slow birth rates and being … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Atlantic Odyssey Rowers Rescued After Boat, Sara G, Capsizes"
 date: 2012-02-01T09:32:10
-slug: atlantic-odyssey-rowers-rescued-after-boat-sara-g-capsizes
+slug: "atlantic-odyssey-rowers-rescued-after-boat-sara-g-capsizes"
 excerpt: "These are busy days in ocean rowing. As the Talisker Whisky Atlantic Challenge is finishing up and the Bouvet Guyane Solo Atlantic Rowing Race 2012 is getting started, an attempt at breaking an ocean rowing record as failed, ending with the rescue of … Continue reading &rarr;"
 categories:
   - "Current"

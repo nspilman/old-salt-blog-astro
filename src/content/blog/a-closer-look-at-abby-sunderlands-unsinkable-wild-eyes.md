@@ -1,7 +1,7 @@
 ---
 title: "A Closer Look at Abby Sunderland’s Unsinkable ‘Wild Eyes’"
 date: 2019-01-03T11:32:06
-slug: a-closer-look-at-abby-sunderlands-unsinkable-wild-eyes
+slug: "a-closer-look-at-abby-sunderlands-unsinkable-wild-eyes"
 excerpt: "In 2010, 16-year-old Abby Sunderland was attempting to become the youngest person to sail around the world, non-stop singlehanded. It didn’t go well. Sunderland’s boat, Wild Eyes, an Open 40 class racer, capsized and was dismasted in a remote region … Continue reading &rarr;"
 categories:
   - "Current"

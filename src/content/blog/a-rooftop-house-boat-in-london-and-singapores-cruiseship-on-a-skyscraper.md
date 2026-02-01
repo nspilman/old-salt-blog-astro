@@ -1,7 +1,7 @@
 ---
 title: "A Houseboat on a London Rooftop and Singapore’s Cruiseship on a Skyscraper"
 date: 2012-02-16T09:45:43
-slug: a-rooftop-house-boat-in-london-and-singapores-cruiseship-on-a-skyscraper
+slug: "a-rooftop-house-boat-in-london-and-singapores-cruiseship-on-a-skyscraper"
 excerpt: "A quick look at two quirky structures that look like a boat and a ship left high and dry. What appears to be a modest houseboat is perched above the Purcell Room of Queen Elizabeth Hall at the Southbank Centre … Continue reading &rarr;"
 categories:
   - "Current"

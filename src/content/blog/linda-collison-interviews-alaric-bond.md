@@ -1,7 +1,7 @@
 ---
 title: "Linda Collison Interviews Alaric Bond"
 date: 2011-09-20T16:59:11
-slug: linda-collison-interviews-alaric-bond
+slug: "linda-collison-interviews-alaric-bond"
 excerpt: "I have really enjoyed Linda Collison‘s two books in her Patricia MacPherson nautical adventure series. (See our reviews of Star-Crossed and Surgeon’s Mate.)  She is also an excellent interviewer. Here she interviews another favorite nautical writer and frequent contributor to this blog, Alaric Bond.  (See also Linda’s … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

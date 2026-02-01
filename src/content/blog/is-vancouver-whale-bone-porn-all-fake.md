@@ -1,8 +1,8 @@
 ---
-title: "Update: Is Vancouver “Whale Bone Porn” All Fake?"
+title: "Update: Is Vancouver \"Whale Bone Porn\" All Fake?"
 date: 2013-04-04T09:28:23
-slug: is-vancouver-whale-bone-porn-all-fake
-excerpt: "Last week we posted, “Vancouver Maritime Museum, Stephen Colbert & Whale Bone Porn,” about a controversy over an exhibit at the  Vancouver Maritime Museum, Tattoos & Scrimshaw: the Art of the Sailor.  One Vancouver mother and schoolteacher was offended by the erotic depictions … Continue reading &rarr;"
+slug: "is-vancouver-whale-bone-porn-all-fake"
+excerpt: "Last week we posted, \"Vancouver Maritime Museum, Stephen Colbert & Whale Bone Porn,\" about a controversy over an exhibit at the  Vancouver Maritime Museum, Tattoos & Scrimshaw: the Art of the Sailor.  One Vancouver mother and schoolteacher was offended by the erotic depictions … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "Vancouver Maritime Museum"
   - "Whale Bone Porn"
 author: "Rick Spilman"
-description: "Last week we posted, “Vancouver Maritime Museum, Stephen Colbert & Whale Bone Porn,” about a controversy over an exhibit at the  Vancouver Maritime Museum, Tattoos & Scrimshaw: the Art of the Sailor.  One Vancouver mother and schoolteacher was offended by the erotic depictions … Continue reading &rarr;"
+description: "Last week we posted, \"Vancouver Maritime Museum, Stephen Colbert & Whale Bone Porn,\" about a controversy over an exhibit at the  Vancouver Maritime Museum, Tattoos & Scrimshaw: the Art of the Sailor.  One Vancouver mother and schoolteacher was offended by the erotic depictions … Continue reading &rarr;"
 ---
 
 ![Gauguin scrimshaw](http://www.oldsaltblog.com/wp-content/uploads/2013/04/Gauguin-scrimshaw.jpg)Last week we posted, “[Vancouver Maritime Museum, Stephen Colbert & Whale Bone Porn](http://www.oldsaltblog.com/2013/03/vancouver-maritime-museum-stephen-colbert-whale-bone-porn/),” about a controversy over an exhibit at the  [Vancouver Maritime Museum](http://www.vancouvermaritimemuseum.com/), [Tattoos & Scrimshaw: the Art of the Sailor](http://www.vancouvermaritimemuseum.com/page161.htm).  One Vancouver mother and schoolteacher was offended by the erotic depictions on nine whale teeth which she described as “whale bone porn.”  It appears that the exhibit may greater problems than merely erotic scrimshaw.   James Delgado, director of maritime heritage for the United States’ National Oceanic and Atmospheric Administration, and a former executive director of the Vancouver Maritime Museum, says the teeth are not 19th-century scrimshaw.

@@ -1,7 +1,7 @@
 ---
 title: "Nearly 40% of US Attack Submarines Are Out of Commission for Repairs"
 date: 2023-07-13T17:44:19
-slug: nearly-40-of-us-attack-submarines-are-out-of-commission-for-repairs
+slug: "nearly-40-of-us-attack-submarines-are-out-of-commission-for-repairs"
 excerpt: "Bloomberg reports that delays at naval shipyards mean that nearly 40% of US attack submarines are out of commission for repairs, about double the rate the Navy would like, according to new data released by the service. As of this … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup Update:  American Magic Capsizes & Floods — the Race to Repair a Crippled Yacht"
 date: 2021-01-18T14:44:53
-slug: americas-cup-update-american-magic-capsizes-floods-the-race-to-repair-a-crippled-yacht
+slug: "americas-cup-update-american-magic-capsizes-floods-the-race-to-repair-a-crippled-yacht"
 excerpt: "At about 6 PM on Sunday, the American Magic yacht Patriot was rounding the final mark in Race 3 of Round Robin 2, of the Prada Cup in Aukland, NZ, when disaster struck. The wind increased from 12 knots to … Continue reading &rarr;"
 categories:
   - "Current"

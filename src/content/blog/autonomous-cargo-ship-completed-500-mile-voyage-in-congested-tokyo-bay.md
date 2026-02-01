@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Cargo Ship Completes 500-Mile Voyage in Congested Tokyo Bay"
 date: 2022-05-15T10:52:28
-slug: autonomous-cargo-ship-completed-500-mile-voyage-in-congested-tokyo-bay
+slug: "autonomous-cargo-ship-completed-500-mile-voyage-in-congested-tokyo-bay"
 excerpt: "In January, we posted about the successful test demonstration of the world’s first fully autonomous ship navigation systems on a large car ferry on a 240-km route from Shinmoji (Northern Kyushu) to Iyonada, Japan. Now, ​​Nippon Yusen Kabushiki Kaisha (NYK Line), … Continue reading &rarr;"
 categories:
   - "Current"

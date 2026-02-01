@@ -1,7 +1,7 @@
 ---
 title: "Joe versus the Ice Island"
 date: 2010-09-12T07:42:45
-slug: joe-versus-the-ice-island
+slug: "joe-versus-the-ice-island"
 excerpt: "Early last month we posted about an ice island four times the size of Manhattan, a 100-square-mile block of ice 600 feet thick , that broke off from the Petermann glacier in Greenland.  In a case of an irresistible force meeting … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "German WWI U-Boat UB-122 on the Mudflats of the River Medway"
 date: 2013-12-21T20:35:35
-slug: german-wwi-u-boat-ub-122-on-the-mudflats-of-the-river-medway
+slug: "german-wwi-u-boat-ub-122-on-the-mudflats-of-the-river-medway"
 excerpt: "There was a recent story in the press about  the wreckage of a German World War I submarine beached of mudflats on the banks of the River Medway in Hoo, Kent.   The sub is, believed to be the UB-122,  one … Continue reading &rarr;"
 categories:
   - "Current"

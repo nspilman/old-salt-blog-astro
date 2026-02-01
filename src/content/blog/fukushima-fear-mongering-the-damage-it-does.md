@@ -1,7 +1,7 @@
 ---
 title: "Fukushima Fear Mongering & the Damage it Does"
 date: 2014-08-16T12:20:36
-slug: fukushima-fear-mongering-the-damage-it-does
+slug: "fukushima-fear-mongering-the-damage-it-does"
 excerpt: "In March of 2011, the Fukushima Daiichi nuclear power plant was hit by a tsunami triggered by the magnitude 9.0 Tōhoku earthquake.  Three operating nuclear reactors suffered partial meltdowns and a fourth reactor which was not in service suffered hydrogen explosions which … Continue reading &rarr;"
 categories:
   - "Current"

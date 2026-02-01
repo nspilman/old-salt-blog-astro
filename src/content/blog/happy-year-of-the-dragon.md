@@ -1,7 +1,7 @@
 ---
 title: "Happy Year of the Black Water Dragon!"
 date: 2012-01-23T13:35:16
-slug: happy-year-of-the-dragon
+slug: "happy-year-of-the-dragon"
 excerpt: "Today begins the new lunar year – the Year of the Black Water Dragon.  The lunar new year is celebrated for 15 days, from the first day of the first new moon of the year to the first full moon. … Continue reading &rarr;"
 categories:
   - "Current"

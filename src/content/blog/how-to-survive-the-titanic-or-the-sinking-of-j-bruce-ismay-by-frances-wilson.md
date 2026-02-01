@@ -1,7 +1,7 @@
 ---
 title: "How to Survive the Titanic, or the Sinking of J Bruce Ismay by Frances Wilson"
 date: 2011-08-19T08:49:33
-slug: how-to-survive-the-titanic-or-the-sinking-of-j-bruce-ismay-by-frances-wilson
+slug: "how-to-survive-the-titanic-or-the-sinking-of-j-bruce-ismay-by-frances-wilson"
 excerpt: "What more can be written about the Titanic?   In a book recently released in Great Britain and coming out this October in the US,  Francis Wilson looks at the sinking and the impact on one of the more famous survivors – J. Bruce … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

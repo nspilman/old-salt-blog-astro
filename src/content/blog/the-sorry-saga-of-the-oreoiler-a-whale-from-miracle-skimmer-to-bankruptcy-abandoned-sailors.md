@@ -1,7 +1,7 @@
 ---
 title: "The Sorry Saga of the Ore/Oiler A Whale – From Miracle Skimmer to Bankruptcy & Abandoned Sailors"
 date: 2013-07-03T06:58:51
-slug: the-sorry-saga-of-the-oreoiler-a-whale-from-miracle-skimmer-to-bankruptcy-abandoned-sailors
+slug: "the-sorry-saga-of-the-oreoiler-a-whale-from-miracle-skimmer-to-bankruptcy-abandoned-sailors"
 excerpt: "Unfortunately, the story is not that unusual. A ship owner in financial trouble and sailors find themselves abandoned on a ship, far from home, with no wages, and running out of food and fuel.  This is what has happened to … Continue reading &rarr;"
 categories:
   - "Current"

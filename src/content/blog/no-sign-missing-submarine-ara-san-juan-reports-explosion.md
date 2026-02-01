@@ -1,8 +1,8 @@
 ---
 title: "No Sign of Missing Submarine ARA San Juan, Reports of Explosion"
 date: 2017-11-24T13:42:45
-slug: no-sign-missing-submarine-ara-san-juan-reports-explosion
-excerpt: "The news of the Argentine submarine ARA San Juan, missing since a week ago last Wednesday, has been uniformly grim.  A report on Tuesday of a “heat stain” picked up by a US search place has come to naught.   More … Continue reading &rarr;"
+slug: "no-sign-missing-submarine-ara-san-juan-reports-explosion"
+excerpt: "The news of the Argentine submarine ARA San Juan, missing since a week ago last Wednesday, has been uniformly grim.  A report on Tuesday of a \"heat stain\" picked up by a US search place has come to naught.   More … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Argentine submarine"
   - "explosion"
 author: "Rick Spilman"
-description: "The news of the Argentine submarine ARA San Juan, missing since a week ago last Wednesday, has been uniformly grim.  A report on Tuesday of a “heat stain” picked up by a US search place has come to naught.   More … Continue reading &rarr;"
+description: "The news of the Argentine submarine ARA San Juan, missing since a week ago last Wednesday, has been uniformly grim.  A report on Tuesday of a \"heat stain\" picked up by a US search place has come to naught.   More … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/11/arasanjuan2.jpg)The news of the Argentine submarine ARA *San Juan*, missing since a week ago last Wednesday, has been uniformly grim.  A report on Tuesday of a “heat stain” picked up by a US search place has come to naught.  

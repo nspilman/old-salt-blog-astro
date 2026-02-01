@@ -1,7 +1,7 @@
 ---
 title: "Dead Rise Summer Ale & Olde Salt Oysters at Merroir"
 date: 2016-07-19T09:02:45
-slug: olde-salt-oysters-dead-rise-summer-ale
+slug: "olde-salt-oysters-dead-rise-summer-ale"
 excerpt: "I am currently in the Northern Neck of of Virginia, where I will soon sit down with a boatyard to hear the latest estimated launch date for my Albin Nimbus 42, Arcturus.  As I left the boat with the yard … Continue reading &rarr;"
 categories:
   - "Current"

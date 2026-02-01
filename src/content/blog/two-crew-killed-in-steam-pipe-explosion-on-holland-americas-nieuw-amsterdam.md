@@ -1,8 +1,8 @@
 ---
 title: "Two Crew Killed in Steam Pipe Explosion on Holland America’s Nieuw Amsterdam"
 date: 2024-03-23T17:40:17
-slug: two-crew-killed-in-steam-pipe-explosion-on-holland-americas-nieuw-amsterdam
-excerpt: "Two crew members on a Holland America cruise ship died during an “incident” in the ship’s engineering space, the cruise line said. The unidentified crew members died Friday while the Florida-based Nieuw Amsterdam was at Half Moon Cay in the … Continue reading &rarr;"
+slug: "two-crew-killed-in-steam-pipe-explosion-on-holland-americas-nieuw-amsterdam"
+excerpt: "Two crew members on a Holland America cruise ship died during an \"incident\" in the ship’s engineering space, the cruise line said. The unidentified crew members died Friday while the Florida-based Nieuw Amsterdam was at Half Moon Cay in the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Nieuw Amsterdam"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/03/nieuamsterdam.jpg"
 author: "Rick Spilman"
-description: "Two crew members on a Holland America cruise ship died during an “incident” in the ship’s engineering space, the cruise line said. The unidentified crew members died Friday while the Florida-based Nieuw Amsterdam was at Half Moon Cay in the … Continue reading &rarr;"
+description: "Two crew members on a Holland America cruise ship died during an \"incident\" in the ship’s engineering space, the cruise line said. The unidentified crew members died Friday while the Florida-based Nieuw Amsterdam was at Half Moon Cay in the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/03/nieuamsterdam.jpg)Two crew members on a [Holland America](https://en.wikipedia.org/wiki/Holland_America_Line) cruise ship died during an “incident” in the ship’s engineering space, the cruise line said.

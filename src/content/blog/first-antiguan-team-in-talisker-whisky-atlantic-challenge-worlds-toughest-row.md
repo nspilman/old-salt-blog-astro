@@ -1,7 +1,7 @@
 ---
 title: "First Antiguan Team in Talisker Whisky Atlantic Challenge — World’s Toughest Row"
 date: 2019-02-09T16:01:07
-slug: first-antiguan-team-in-talisker-whisky-atlantic-challenge-worlds-toughest-row
+slug: "first-antiguan-team-in-talisker-whisky-atlantic-challenge-worlds-toughest-row"
 excerpt: "The Talisker Whisky Atlantic Challenge is billed as the world’s toughest row, 3,000 miles across the Atlantic from San Sebastian in La Gomera, Canary Islands, Spain to Nelson’s Dockyard, English Harbour, Antigua & Barbuda. This year an all-female Antiguan team made history by … Continue reading &rarr;"
 categories:
   - "Current"

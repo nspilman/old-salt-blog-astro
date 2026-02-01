@@ -1,7 +1,7 @@
 ---
 title: "Costa Concordia – Wreckage on Le Scole Rock"
 date: 2012-01-21T09:17:33
-slug: costa-concordia-wreckage-on-le-scole-rock
+slug: "costa-concordia-wreckage-on-le-scole-rock"
 excerpt: "It appears that the question of where and on what the Costa Concordia ran aground is a bit more clear.  Wreckage, believed to be from the collision, has been photographed at Le Scole rock.  Thanks to Andy Hall at the Maritime Texas … Continue reading &rarr;"
 categories:
   - "Current"

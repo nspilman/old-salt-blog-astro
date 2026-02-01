@@ -1,7 +1,7 @@
 ---
 title: "Sultana Downrigging Weekend, Chestertown, MD"
 date: 2014-11-02T19:24:46
-slug: sultana-downrigging-weekend-chestertown-md
+slug: "sultana-downrigging-weekend-chestertown-md"
 excerpt: "Photos from the Sultana Downrigging Weekend in Chestertown, MD. A touch rainy, cold and windy but still a great time. Along with the schooner Sultana were the pinnance Kalmar Nyckel,  and the schooners Lady Maryland, Pride of Baltimore II and A.J. Meerwald.  A … Continue reading &rarr;"
 categories:
   - "Galleries"

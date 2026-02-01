@@ -1,8 +1,8 @@
 ---
 title: "Repost: Sailing on the Schooner A.J. Meerwald in New York Harbor"
 date: 2022-07-17T15:22:22
-slug: repost-sailing-on-the-schooner-a-j-meerwald-in-new-york-harbor
-excerpt: "We recently posted about the A.J. Meerwald, a Delaware Bay oyster schooner launched in 1928, completing an extensive 10-month restoration and refurbishment in Maine. The Meerwald is also the “Official Tall Ship” of the State of New Jersey and was … Continue reading &rarr;"
+slug: "repost-sailing-on-the-schooner-a-j-meerwald-in-new-york-harbor"
+excerpt: "We recently posted about the A.J. Meerwald, a Delaware Bay oyster schooner launched in 1928, completing an extensive 10-month restoration and refurbishment in Maine. The Meerwald is also the \"Official Tall Ship\" of the State of New Jersey and was … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "official tall ship of the State of New Jersey"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/05/ajmeerwald.jpg"
 author: "Rick Spilman"
-description: "We recently posted about the A.J. Meerwald, a Delaware Bay oyster schooner launched in 1928, completing an extensive 10-month restoration and refurbishment in Maine. The Meerwald is also the “Official Tall Ship” of the State of New Jersey and was … Continue reading &rarr;"
+description: "We recently posted about the A.J. Meerwald, a Delaware Bay oyster schooner launched in 1928, completing an extensive 10-month restoration and refurbishment in Maine. The Meerwald is also the \"Official Tall Ship\" of the State of New Jersey and was … Continue reading &rarr;"
 ---
 
 We [recently posted](https://www.oldsaltblog.com/2022/07/the-a-j-meerwald-official-tall-ship-of-the-state-of-new-jersey-completes-10-month-restoration/) about the [*A.J. Meerwald*](https://www.bayshorecenter.org/our-ship/), a Delaware Bay oyster schooner launched in 1928, completing an extensive 10-month restoration and refurbishment in Maine. The *Meerwald* is also the “Official Tall Ship” of the State of New Jersey and was included in the National Register of Historic Places on November 7, 1995.

@@ -1,7 +1,7 @@
 ---
 title: "Omani Women Taking to the Sea"
 date: 2012-03-08T09:51:53
-slug: omani-women-taking-to-the-sea
+slug: "omani-women-taking-to-the-sea"
 excerpt: "I will admit to not knowing much about Oman. I know that it is a Sultanate. It exports oil. I can find it on the map on the south-east corner of the Arabian peninsula. One thing that I do know … Continue reading &rarr;"
 categories:
   - "Current"

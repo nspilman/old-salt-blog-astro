@@ -1,8 +1,8 @@
 ---
 title: "Amazon, Ikea, and Other Cargo Owners Pledge to Use Zero Carbon Ocean Shipping by 2040"
 date: 2021-10-20T16:57:07
-slug: amazon-ikea-and-other-cargo-owners-pledge-to-use-zero-carbon-ocean-shipping-by-2040
-excerpt: "Nine major shippers including Amazon, Ikea and Unilever have signed an “ambition statement” to pledge to only move cargo on ships using zero-carbon fuel by 2040.  This pledge is part of a new initiative by the non-profit Aspen Insititute called … Continue reading &rarr;"
+slug: "amazon-ikea-and-other-cargo-owners-pledge-to-use-zero-carbon-ocean-shipping-by-2040"
+excerpt: "Nine major shippers including Amazon, Ikea and Unilever have signed an \"ambition statement\" to pledge to only move cargo on ships using zero-carbon fuel by 2040.  This pledge is part of a new initiative by the non-profit Aspen Insititute called … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Unilever"
   - "zero-carbon fuel"
 author: "Rick Spilman"
-description: "Nine major shippers including Amazon, Ikea and Unilever have signed an “ambition statement” to pledge to only move cargo on ships using zero-carbon fuel by 2040.  This pledge is part of a new initiative by the non-profit Aspen Insititute called … Continue reading &rarr;"
+description: "Nine major shippers including Amazon, Ikea and Unilever have signed an \"ambition statement\" to pledge to only move cargo on ships using zero-carbon fuel by 2040.  This pledge is part of a new initiative by the non-profit Aspen Insititute called … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/cshipoverhead.jpg)[Nine major shippers](https://www.bbc.com/news/business-58970877) including Amazon, Ikea and Unilever have signed an “[ambition statement](https://www.cozev.org/img/FINAL-coZEV-2040-Ambition-Statement_2021-10-18-144834_uorz.pdf)” to pledge to only move cargo on ships using zero-carbon fuel by 2040.  This pledge is part of a new initiative by the non-profit [Aspen Insititute](https://www.aspeninstitute.org/blog-posts/companies-aim-to-use-only-zero-carbon-ocean-shipping-by-2040/) called [Cargo Owners for Zero-Emission Vessels or coZEV.](https://www.cozev.org/aboutcozev) 

@@ -1,8 +1,8 @@
 ---
 title: "Baja by Erick Higuera – Amazing Award Winning Short"
 date: 2013-08-12T07:44:31
-slug: baja-by-erick-higuera-amazing-award-winning-short
-excerpt: "Erick Higuera’s short film, Baja – the Ocean Geographic Pictures of the Year Winner Howard Hall Award for Outstanding Achievement 2013. An amazing film. Ocean Geographic Pictures of the Year Winner Howard Hall Award 2013 “Baja” project, finally completed after … Continue reading &rarr;"
+slug: "baja-by-erick-higuera-amazing-award-winning-short"
+excerpt: "Erick Higuera’s short film, Baja – the Ocean Geographic Pictures of the Year Winner Howard Hall Award for Outstanding Achievement 2013. An amazing film. Ocean Geographic Pictures of the Year Winner Howard Hall Award 2013 \"Baja\" project, finally completed after … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -11,7 +11,7 @@ tags:
   - "Howard Hall Award for Outstanding Achievement"
   - "Ocean Geographic"
 author: "Rick Spilman"
-description: "Erick Higuera’s short film, Baja – the Ocean Geographic Pictures of the Year Winner Howard Hall Award for Outstanding Achievement 2013. An amazing film. Ocean Geographic Pictures of the Year Winner Howard Hall Award 2013 “Baja” project, finally completed after … Continue reading &rarr;"
+description: "Erick Higuera’s short film, Baja – the Ocean Geographic Pictures of the Year Winner Howard Hall Award for Outstanding Achievement 2013. An amazing film. Ocean Geographic Pictures of the Year Winner Howard Hall Award 2013 \"Baja\" project, finally completed after … Continue reading &rarr;"
 ---
 
 Erick Higuera’s short film, Baja – the Ocean Geographic Pictures of the Year Winner Howard Hall Award for Outstanding Achievement 2013. An amazing film.

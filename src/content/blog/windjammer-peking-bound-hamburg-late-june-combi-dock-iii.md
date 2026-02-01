@@ -1,7 +1,7 @@
 ---
 title: "Windjammer Peking Bound for Hamburg in Late June on Combi Dock III"
 date: 2017-06-01T08:04:27
-slug: windjammer-peking-bound-hamburg-late-june-combi-dock-iii
+slug: "windjammer-peking-bound-hamburg-late-june-combi-dock-iii"
 excerpt: "A recent post on the Combi Lift company blog says that the windjammer Peking, long a resident of New York’s South Street Seaport, will travel back to its original homeport of Hamburg Germany carried by the heavy lift ship Combi Dock … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Valentine Islands"
 date: 2011-02-14T09:26:24
-slug: valentine-islands
+slug: "valentine-islands"
 excerpt: "Are they islands of love on the storm-tossed seas of life?  Sadly, they probably are not, but they do look like Valentine’s Day hearts. … Continue reading &rarr;"
 categories:
   - "Galleries"

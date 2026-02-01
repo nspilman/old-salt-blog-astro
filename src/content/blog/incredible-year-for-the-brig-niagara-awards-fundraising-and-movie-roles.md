@@ -1,7 +1,7 @@
 ---
 title: "Incredible Year for the Brig Niagara – Awards, Fundraising and Movie Roles !"
 date: 2010-11-29T09:46:31
-slug: incredible-year-for-the-brig-niagara-awards-fundraising-and-movie-roles
+slug: "incredible-year-for-the-brig-niagara-awards-fundraising-and-movie-roles"
 excerpt: "The Brig Niagara has had an incredible year.   The ship and its captain have been honored with major awards, the organization has raised significant sums to support the ship and the ship has been featured in a new PBS documentary. Just … Continue reading &rarr;"
 categories:
   - "Current"

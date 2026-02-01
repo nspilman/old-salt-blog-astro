@@ -1,7 +1,7 @@
 ---
 title: "Teenagers Racing Around the Globe – First Zac, then Mike, Jessica and now Abby"
 date: 2010-01-28T08:25:48
-slug: teenagers-racing-around-the-globe-%e2%80%93-first-zac-then-mike-jessica-and-now-abby
+slug: "teenagers-racing-around-the-globe-%e2%80%93-first-zac-then-mike-jessica-and-now-abby"
 excerpt: "In July of last year, Zac Sunderland, a 17-year-old from Southern California, became the youngest person to sail around the world alone.   He held that tile for only about a month as the British 17 year old sailor, Mike … Continue reading &rarr;"
 categories:
   - "Current"

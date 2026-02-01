@@ -1,7 +1,7 @@
 ---
 title: "Catching Up — Fireboat John J. Harvey Briefly Stolen by Homeless Man On Hudson River"
 date: 2024-05-05T17:18:15
-slug: catching-up-fireboat-john-j-harvey-briefly-stolen-by-homeless-man-on-hudson-river
+slug: "catching-up-fireboat-john-j-harvey-briefly-stolen-by-homeless-man-on-hudson-river"
 excerpt: "I have been away for the better part of a month on a transatlantic sail from Barbados to Malta on a five-masted square rigger. (Click here for a short video of the ship under sail.) I had limited internet access … Continue reading &rarr;"
 categories:
   - "Current"

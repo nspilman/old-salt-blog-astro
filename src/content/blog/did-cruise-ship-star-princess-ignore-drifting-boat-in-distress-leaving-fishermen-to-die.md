@@ -1,7 +1,7 @@
 ---
 title: "Did Cruise Ship, Star Princess, Ignore Drifting Boat in Distress Leaving Fishermen to Die?"
 date: 2012-04-19T17:06:39
-slug: did-cruise-ship-star-princess-ignore-drifting-boat-in-distress-leaving-fishermen-to-die
+slug: "did-cruise-ship-star-princess-ignore-drifting-boat-in-distress-leaving-fishermen-to-die"
 excerpt: "In February, we posted about the rescue of the three fishermen, drifting in the Pacific, by the cruise ship, Seaborne Odyssey. There are now reports of a similar story with a tragically different outcome.  Passengers aboard the cruise ship, Star Princess, are claiming that the ship ignored a drifting boat in distress in the Pacific off  the Galapagos, leaving … Continue reading &rarr;"
 categories:
   - "Current"

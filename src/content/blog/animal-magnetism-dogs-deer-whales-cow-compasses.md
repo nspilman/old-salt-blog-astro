@@ -1,7 +1,7 @@
 ---
 title: "Animal Magnetism — Dogs, Deer, Whales & Cow Compasses"
 date: 2020-01-13T18:03:36
-slug: animal-magnetism-dogs-deer-whales-cow-compasses
+slug: "animal-magnetism-dogs-deer-whales-cow-compasses"
 excerpt: "Six years ago, we posted about research that documented that when dogs defecate, they usually align their bodies along the magnetic north-south axis, not unlike the needle of a magnetic compass. It turns out that dogs are not unique in … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Florida’s Manatees Are Starving, Wildlife Officials to Begin Feeding Program"
 date: 2021-12-09T17:12:02
-slug: floridas-manatees-are-starving-wildlife-officials-to-begin-feeding-program
+slug: "floridas-manatees-are-starving-wildlife-officials-to-begin-feeding-program"
 excerpt: "This year has been a catastrophe for Florida manatees. More than 1,000 manatees, about 15 percent of the state’s total population, have died, primarily of starvation, this year.  For nourishment, manatees rely mainly on sea grass, beds of which have … Continue reading &rarr;"
 categories:
   - "Current"

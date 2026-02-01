@@ -1,7 +1,7 @@
 ---
 title: "US & Soviet Nuclear Submarine Collision Kept Hidden Over 40 Years"
 date: 2017-02-17T14:55:26
-slug: us-soviet-nuclear-submarine-collision-kept-hidden-40-years
+slug: "us-soviet-nuclear-submarine-collision-kept-hidden-40-years"
 excerpt: "A Russian spy ship lingering off the US coast has been in the news recently. Within the last day or so, the spy ship Viktor Leonov was hanging out off the US Navy submarine base at New London. (The ship … Continue reading &rarr;"
 categories:
   - "Current"

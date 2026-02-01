@@ -1,8 +1,8 @@
 ---
 title: "A Harvest Moon on the Autumnal Equinox"
 date: 2010-09-22T15:00:12
-slug: a-harvest-moon-on-the-autumnal-equinox
-excerpt: "Tonight, the beginning of Fall will be marked by the rising of a “Super Harvest Moon”  accompanied by an unusually bright planet Jupiter. ‘Super Harvest Moon’ will usher in autumn tonight For the first time since 1991, autumn begins tonight with a … Continue reading &rarr;"
+slug: "a-harvest-moon-on-the-autumnal-equinox"
+excerpt: "Tonight, the beginning of Fall will be marked by the rising of a \"Super Harvest Moon\"  accompanied by an unusually bright planet Jupiter. ‘Super Harvest Moon’ will usher in autumn tonight For the first time since 1991, autumn begins tonight with a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "planet Jupiter"
   - "Super Harvest Moon"
 author: "Rick Spilman"
-description: "Tonight, the beginning of Fall will be marked by the rising of a “Super Harvest Moon”  accompanied by an unusually bright planet Jupiter. ‘Super Harvest Moon’ will usher in autumn tonight For the first time since 1991, autumn begins tonight with a … Continue reading &rarr;"
+description: "Tonight, the beginning of Fall will be marked by the rising of a \"Super Harvest Moon\"  accompanied by an unusually bright planet Jupiter. ‘Super Harvest Moon’ will usher in autumn tonight For the first time since 1991, autumn begins tonight with a … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/harvest-moon.jpg)Tonight, the beginning of Fall will be marked by the rising of a “Super Harvest Moon”  accompanied by [an unusually bright planet Jupiter](http://www.oldsaltblog.com/2010/09/19/jupiter-making-closest-approach-in-nearly-50-years/).

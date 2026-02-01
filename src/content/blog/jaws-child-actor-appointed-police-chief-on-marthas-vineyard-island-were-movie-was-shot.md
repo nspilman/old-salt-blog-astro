@@ -1,8 +1,8 @@
 ---
-title: "“Jaws” Child Actor Appointed Police Chief on Martha’s Vineyard, Island Where Movie was Shot"
+title: "\"Jaws\" Child Actor Appointed Police Chief on Martha’s Vineyard, Island Where Movie was Shot"
 date: 2022-05-22T16:12:45
-slug: jaws-child-actor-appointed-police-chief-on-marthas-vineyard-island-were-movie-was-shot
-excerpt: "In 1975, 9-year-old Jonathan Searle appeared in Steven Spielberg’s blockbuster movie “Jaws.” In the movie, Searle and his real-life brother, Steven, memorably played two pranksters who caused mass panic on the beach after swimming into the ocean with a cardboard fin. … Continue reading &rarr;"
+slug: "jaws-child-actor-appointed-police-chief-on-marthas-vineyard-island-were-movie-was-shot"
+excerpt: "In 1975, 9-year-old Jonathan Searle appeared in Steven Spielberg’s blockbuster movie \"Jaws.\" In the movie, Searle and his real-life brother, Steven, memorably played two pranksters who caused mass panic on the beach after swimming into the ocean with a cardboard fin. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Steven Spielberg"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/searlejaws.jpg"
 author: "Rick Spilman"
-description: "In 1975, 9-year-old Jonathan Searle appeared in Steven Spielberg’s blockbuster movie “Jaws.” In the movie, Searle and his real-life brother, Steven, memorably played two pranksters who caused mass panic on the beach after swimming into the ocean with a cardboard fin. … Continue reading &rarr;"
+description: "In 1975, 9-year-old Jonathan Searle appeared in Steven Spielberg’s blockbuster movie \"Jaws.\" In the movie, Searle and his real-life brother, Steven, memorably played two pranksters who caused mass panic on the beach after swimming into the ocean with a cardboard fin. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/searlejaws.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Seafarers Ale:Drinking for a Cause, not Just Because…"
 date: 2010-10-07T10:21:50
-slug: seafarers-ale-drinking-for-a-cause-not-just-because
+slug: "seafarers-ale-drinking-for-a-cause-not-just-because"
 excerpt: "For those in Britain, Fuller’s Brewery (Fuller, Smith and Turner plc), founded in 1864 and London’s only remaining traditional family brewer, is donating £5 to Seafarers UK for every barrel of their Seafarer’s Ale sold.  Seafarers UK is a national charity that supports … Continue reading &rarr;"
 categories:
   - "Current"

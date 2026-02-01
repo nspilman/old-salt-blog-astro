@@ -1,7 +1,7 @@
 ---
 title: "From Drought to Extreme Cold – Europe’s Waterways Freezing Over"
 date: 2012-02-11T15:43:41
-slug: from-drought-to-extreme-cold-europes-waterways-freezing-over
+slug: "from-drought-to-extreme-cold-europes-waterways-freezing-over"
 excerpt: "Pity the river boatman. Just a few months ago, a European drought lowered the water levels on many rivers and canals, significantly limiting barge and ship traffic.  The lower river levels also unexpectedly exposed un-exploded ordinance from  World War II.   In … Continue reading &rarr;"
 categories:
   - "Current"

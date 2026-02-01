@@ -1,7 +1,7 @@
 ---
 title: "Laura Dekker’s Voyage  – One Year On"
 date: 2011-08-21T09:05:37
-slug: laura-dekkers-voyage-one-year-on
+slug: "laura-dekkers-voyage-one-year-on"
 excerpt: "One year ago, Laura Dekker, now 15, set sail on her attempt to sail around the world alone. If she continues at her current pace, she will be the youngest person to ever complete a solo circumnavigation. Perhaps the most interesting … Continue reading &rarr;"
 categories:
   - "Current"

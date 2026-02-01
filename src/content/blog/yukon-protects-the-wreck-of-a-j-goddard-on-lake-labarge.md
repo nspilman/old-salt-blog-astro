@@ -1,7 +1,7 @@
 ---
 title: "Yukon Protects the wreck of A.J. Goddard on Lake Labarge"
 date: 2010-06-13T15:55:54
-slug: yukon-protects-the-wreck-of-a-j-goddard-on-lake-labarge
+slug: "yukon-protects-the-wreck-of-a-j-goddard-on-lake-labarge"
 excerpt: "Yukon protects Klondike shipwreck site Just months after a team of archeologists revealed their discovery of a historic Klondike shipwreck in waters north of Whitehorse, the Yukon government has declared the sunken A.J. Goddard sternwheeler a historic site symbolizing the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Ship-spotting on a Monday Morning"
 date: 2010-05-17T09:17:43
-slug: ship-spotting-on-a-monday-morning
+slug: "ship-spotting-on-a-monday-morning"
 excerpt: "Will, over at the Tugster blog, is no doubt the preeminent New York harbor ship-spotter.  If one is so inclined, it is easy to spent far more time than one might have planned browsing his thousands of photographs – all well organized and accompanied by fascinating commentary. … Continue reading &rarr;"
 categories:
   - "Current"

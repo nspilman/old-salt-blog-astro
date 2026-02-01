@@ -1,7 +1,7 @@
 ---
 title: "3 Dead & 1 Missing in Suspected Collision Between Yacht Aegean and Larger Vessel"
 date: 2012-04-29T07:51:19
-slug: 3-dead-1-missing-in-suspected-collision-between-yacht-aegean-and-larger-vessel
+slug: "3-dead-1-missing-in-suspected-collision-between-yacht-aegean-and-larger-vessel"
 excerpt: "Sometime late Friday night or early Saturdaymorning, near the Coronado Islands, during the 125-mile Newport-to-Ensenada yacht race, something went terribly wrong on the 37′ yacht Aegean, leaving three sailors dead and one missing.  A statement issued this morning by the Newport Ocean Sailing Association, which hosts the … Continue reading &rarr;"
 categories:
   - "Current"

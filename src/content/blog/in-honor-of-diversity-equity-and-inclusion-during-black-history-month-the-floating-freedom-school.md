@@ -1,7 +1,7 @@
 ---
 title: "In Honor of Diversity, Equity, and Inclusion During Black History Month — the Floating Freedom School"
 date: 2025-02-26T23:51:30
-slug: in-honor-of-diversity-equity-and-inclusion-during-black-history-month-the-floating-freedom-school
+slug: "in-honor-of-diversity-equity-and-inclusion-during-black-history-month-the-floating-freedom-school"
 excerpt: "At a time when programs supporting the American values of diversity, equity, and inclusion are being banned in schools across the nation, it is incumbent on the rest of us to keep alive the history that some are now seeking … Continue reading &rarr;"
 categories:
   - "History"

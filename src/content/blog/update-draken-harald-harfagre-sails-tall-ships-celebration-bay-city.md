@@ -1,7 +1,7 @@
 ---
 title: "Update: Draken Harald Hårfagre Sails on to Tall Ships Celebration Bay City"
 date: 2016-07-12T19:37:11
-slug: update-draken-harald-harfagre-sails-tall-ships-celebration-bay-city
+slug: "update-draken-harald-harfagre-sails-tall-ships-celebration-bay-city"
 excerpt: "Despite being burdened with unmanageable pilotage fees, the Norwegian Viking longboat, Draken Harald Hårfagre, and her crew have decided to sail on to the Tall Ships Celebration in Bay City, MI, on July 14 -17th. From their press release: There is not room … Continue reading &rarr;"
 categories:
   - "Current"

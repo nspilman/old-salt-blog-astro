@@ -1,7 +1,7 @@
 ---
 title: "Black History Month — Remembering the Golden Thirteen"
 date: 2022-02-22T18:28:00
-slug: black-history-month-remembering-the-golden-thirteen
+slug: "black-history-month-remembering-the-golden-thirteen"
 excerpt: "The Golden Thirteen, a wonderful bit of history from the Naval History and Heritage Command: In January 1944, there were nearly 100,000 Black Sailors in the United States Navy, but none were officers. That would change when a group of … Continue reading &rarr;"
 categories:
   - "History"

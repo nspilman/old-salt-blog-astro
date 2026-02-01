@@ -1,7 +1,7 @@
 ---
 title: "Carnival Splendor Catches Fire Off Mexico, Ship Dead in the Water"
 date: 2010-11-08T23:51:38
-slug: carnival-splendor-catches-fire-off-mexico-ship-dead-in-the-water
+slug: "carnival-splendor-catches-fire-off-mexico-ship-dead-in-the-water"
 excerpt: "Update: Tugs have been dispatched from Long Beach to tow the stricken cruise ship to Ensenada, Mexico to disembark passengers. An early morning fire on Monday in the engine room on the Carnival Splendor has left the ship dead  in the water in … Continue reading &rarr;"
 categories:
   - "Current"

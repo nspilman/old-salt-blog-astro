@@ -1,7 +1,7 @@
 ---
 title: "Horizon Line Sold — the End of an Era"
 date: 2014-11-12T14:05:40
-slug: horizon-line-sold-end-of-an-era
+slug: "horizon-line-sold-end-of-an-era"
 excerpt: "Yesterday, Horizon Line, a US Flag Jones Act container ship operator, announced that it was ending operations. It had sold its Alaskan service to Matson, its Hawaiian operations to Pasha Group, and would be shutting down its operations to Puerto … Continue reading &rarr;"
 categories:
   - "Current"

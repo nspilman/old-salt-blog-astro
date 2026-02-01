@@ -1,7 +1,7 @@
 ---
 title: "MV Alaed, Russian Ship Carrying Arms for Syria, Makes a U-Turn & Heads Back to Russia"
 date: 2012-06-19T18:24:34
-slug: mv-alaed-russian-ship-carrying-arms-for-syria-makes-a-u-turn-heads-back-to-russia
+slug: "mv-alaed-russian-ship-carrying-arms-for-syria-makes-a-u-turn-heads-back-to-russia"
 excerpt: "The MV Alaed, a 9,00 DWT geared cargo ship, was reported to be carrying refurbished Russian attack helicopters, as well as missiles and other unspecified munitions, on a voyage from Russia to Syria.  Today, about 50 miles (80.4km) off Scotland’s north coast, the ship turned around … Continue reading &rarr;"
 categories:
   - "Current"

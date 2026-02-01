@@ -1,7 +1,7 @@
 ---
 title: "Ro-Ro Finnwave Catches Fire in English Channel"
 date: 2025-11-13T21:19:30
-slug: ro-ro-finnwave-catches-fire-in-english-channel
+slug: "ro-ro-finnwave-catches-fire-in-english-channel"
 excerpt: "A fire broke out in the early hours of Wednesday, November 12, in the engine room of the Finnwave (IMO: 9468932) in the English Channel, approximately 11 nautical miles southeast of Eastbourne, England. The 217.5-meter-long, 14509-dwt Finnish-flag Ro-Ro cargo vessel … Continue reading &rarr;"
 categories:
   - "Current"

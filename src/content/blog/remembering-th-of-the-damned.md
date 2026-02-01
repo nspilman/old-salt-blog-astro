@@ -1,7 +1,7 @@
 ---
-title: "Remembering the MS St. Louis and the “Voyage of the Damned”"
+title: "Remembering the MS St. Louis and the \"Voyage of the Damned\""
 date: 2015-11-20T08:42:22
-slug: remembering-th-of-the-damned
+slug: "remembering-th-of-the-damned"
 excerpt: "Given the current heated debate over Syrian refugees, it seems worthwhile to remember the ill-fated voyage of the German ocean liner St. Louis in 1939. The ship carried 908 Jewish refugees who were fleeing from Nazi Germany. The ship and its … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "More Attacks on Sailboats — Did the Gladis Orca Trio Strike Again?"
 date: 2023-05-19T15:07:12
-slug: more-attacks-on-sailboats-did-the-gladis-orca-trio-strike-again
+slug: "more-attacks-on-sailboats-did-the-gladis-orca-trio-strike-again"
 excerpt: "Orca attacks on sailboats off the Strait of Gibraltar and the Iberian Peninsula continue. Janet Morris and Stephen Bidwell from Cambridge told The Sunday Times that on May 2, on the second day of training for their week-long sailing course … Continue reading &rarr;"
 categories:
   - "Current"

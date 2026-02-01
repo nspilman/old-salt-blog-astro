@@ -1,7 +1,7 @@
 ---
 title: "The Strange New World of Single-handed Racing  – Alex Thomson Vendée Globe Week 4 Highlights"
 date: 2012-12-08T11:35:07
-slug: the-strange-new-world-of-single-handed-racing-alex-thomson-vendee-globe-week-4-highlights
+slug: "the-strange-new-world-of-single-handed-racing-alex-thomson-vendee-globe-week-4-highlights"
 excerpt: "In 1969 in the Sunday Times Golden Globe Race, the first non-stop, single-handed, round-the-world yacht race, there was considerable concern for Robin Knox Johnson whose radio had malfunctioned off New Zealand.  Four months later, he was able to make contact with a … Continue reading &rarr;"
 categories:
   - "Current"

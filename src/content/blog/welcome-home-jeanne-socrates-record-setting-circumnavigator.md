@@ -1,7 +1,7 @@
 ---
 title: "Welcome Almost-Home Jeanne Socrates, Record Setting Circumnavigator!"
 date: 2019-09-06T08:44:08
-slug: welcome-home-jeanne-socrates-record-setting-circumnavigator
+slug: "welcome-home-jeanne-socrates-record-setting-circumnavigator"
 excerpt: "For the last several days, Jeanne Socrates has been within sight of the mountains of the Vancouver coast, tantalizingly close to completing her 4th circumnavigation, and, at 77, becoming the oldest person to sail around the world solo, unassisted and … Continue reading &rarr;"
 categories:
   - "Current"

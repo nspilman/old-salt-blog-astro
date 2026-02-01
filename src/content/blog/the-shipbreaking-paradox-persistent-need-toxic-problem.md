@@ -1,7 +1,7 @@
 ---
 title: "The Shipbreaking Paradox — Persistent Need, Toxic Problem"
 date: 2021-03-05T18:36:48
-slug: the-shipbreaking-paradox-persistent-need-toxic-problem
+slug: "the-shipbreaking-paradox-persistent-need-toxic-problem"
 excerpt: "Every year, on average, close to 1,000 ships are sold for scrap, or in more current language, to be recycled.  Over the past year during the pandemic, there has been a particular surge in the number of older cruise being … Continue reading &rarr;"
 categories:
   - "Current"

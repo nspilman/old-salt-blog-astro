@@ -1,7 +1,7 @@
 ---
 title: "Bon Voyage to Captain Stanley Paris and the Kiwi Spirit"
 date: 2013-12-02T17:19:22
-slug: bon-voyage-to-captain-stanley-paris-and-the-kiwi-spirit
+slug: "bon-voyage-to-captain-stanley-paris-and-the-kiwi-spirit"
 excerpt: "A few hours ago, Stanley Paris, 76, at the helm of the 63′ custom yacht, Kiwi Spirit, sailed from the sea-buoy at St. Augustine, Florida, bound out on a solo, non-stop un-assisted voyage around the globe.  Paris will be attempting … Continue reading &rarr;"
 categories:
   - "Language"

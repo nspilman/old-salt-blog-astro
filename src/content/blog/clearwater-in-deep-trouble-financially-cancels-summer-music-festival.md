@@ -1,7 +1,7 @@
 ---
-title: "Clearwater in “Deep Trouble” Financially, Cancels Summer Music Festival"
+title: "Clearwater in \"Deep Trouble\" Financially, Cancels Summer Music Festival"
 date: 2016-01-21T17:44:10
-slug: clearwater-in-deep-trouble-financially-cancels-summer-music-festival
+slug: "clearwater-in-deep-trouble-financially-cancels-summer-music-festival"
 excerpt: "Only days after hearing good news about funding for the Pride of Baltimore II, there is very grim news about the organization which operates the Hudson River sloop Clearwater. The Clearwater organization announced that it is facing deep financial problems … Continue reading &rarr;"
 categories:
   - "Current"

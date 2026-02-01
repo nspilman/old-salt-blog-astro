@@ -1,7 +1,7 @@
 ---
 title: "Owner’s Manual for a Sunken Ship – RMS Titanic Manual: 1909-1912 Olympic Class"
 date: 2011-04-15T15:17:02
-slug: owners-manual-for-a-sunken-ship-rms-titanic-manual-1909-1912-olympic-class
+slug: "owners-manual-for-a-sunken-ship-rms-titanic-manual-1909-1912-olympic-class"
 excerpt: "Haynes Manuals are well known as practical guides aimed at automobile enthusiastic and mechanics.  They have also branched out into manuals for domestic appliances, personal computers, digital photography, model railways, men,  babies, sex, and women. Reportedly the last four categories … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

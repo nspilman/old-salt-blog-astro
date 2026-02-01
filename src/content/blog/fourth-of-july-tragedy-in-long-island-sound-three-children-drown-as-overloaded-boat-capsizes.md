@@ -1,7 +1,7 @@
 ---
 title: "Fourth of July Tragedy in Long Island Sound – Three Children Drown when Overloaded Boat Capsizes"
 date: 2012-07-06T16:15:41
-slug: fourth-of-july-tragedy-in-long-island-sound-three-children-drown-as-overloaded-boat-capsizes
+slug: "fourth-of-july-tragedy-in-long-island-sound-three-children-drown-as-overloaded-boat-capsizes"
 excerpt: "We have blogged too often about the loss of life after overcrowded boats capsized off Indonesia, India, Bangladesh and Papau New Guinea.  This week was sad reminder that the problem of overloaded boats is not limited to the developing world.  On Wednesday evening … Continue reading &rarr;"
 categories:
   - "Current"

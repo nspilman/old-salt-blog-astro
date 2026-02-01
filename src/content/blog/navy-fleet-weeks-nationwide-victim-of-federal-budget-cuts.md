@@ -1,7 +1,7 @@
 ---
 title: "Navy Fleet Weeks Across the Country Victim of Federal Budget Cuts?"
 date: 2013-04-11T16:25:47
-slug: navy-fleet-weeks-nationwide-victim-of-federal-budget-cuts
+slug: "navy-fleet-weeks-nationwide-victim-of-federal-budget-cuts"
 excerpt: "First it was the White House Easter Egg Hunt – cancelled due to the sequestration. Now it appears that Navy Fleet Weeks in ports around the country, traditionally held each spring, may fall victim to the automatic budget cuts as … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

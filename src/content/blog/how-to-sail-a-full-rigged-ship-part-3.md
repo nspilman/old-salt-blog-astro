@@ -1,8 +1,8 @@
 ---
 title: "How to Sail a Full-Rigged Ship, Part 3"
 date: 2012-11-12T09:26:28
-slug: how-to-sail-a-full-rigged-ship-part-3
-excerpt: "Would you like to know how to sail a square-rigger?  Part 3 of “How to Sail a Full-Rigged Ship,” courtesy of the full-rigged ship Sørlandet.  Part 3 looks at wearing ship and anchoring under sail. How to sail a Full-Rigged-Ship – The Sørlandet … Continue reading &rarr;"
+slug: "how-to-sail-a-full-rigged-ship-part-3"
+excerpt: "Would you like to know how to sail a square-rigger?  Part 3 of \"How to Sail a Full-Rigged Ship,\" courtesy of the full-rigged ship Sørlandet.  Part 3 looks at wearing ship and anchoring under sail. How to sail a Full-Rigged-Ship – The Sørlandet … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Ships"
@@ -13,7 +13,7 @@ tags:
   - "square rigger"
   - "wearing"
 author: "Rick Spilman"
-description: "Would you like to know how to sail a square-rigger?  Part 3 of “How to Sail a Full-Rigged Ship,” courtesy of the full-rigged ship Sørlandet.  Part 3 looks at wearing ship and anchoring under sail. How to sail a Full-Rigged-Ship – The Sørlandet … Continue reading &rarr;"
+description: "Would you like to know how to sail a square-rigger?  Part 3 of \"How to Sail a Full-Rigged Ship,\" courtesy of the full-rigged ship Sørlandet.  Part 3 looks at wearing ship and anchoring under sail. How to sail a Full-Rigged-Ship – The Sørlandet … Continue reading &rarr;"
 ---
 
 Would you like to know how to sail a square-rigger?  Part 3 of “How to Sail a Full-Rigged Ship,” courtesy of the [full-rigged ship Sørlandet](http://fullriggeren-sorlandet.no/en).  Part 3 looks at wearing ship and anchoring under sail.

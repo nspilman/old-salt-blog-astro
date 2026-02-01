@@ -1,8 +1,8 @@
 ---
 title: "Dragon in the Big City — Draken Harald Hårfagre at North Cove"
 date: 2016-09-21T16:50:44
-slug: dragon-big-city-draken-harald-harfagre-north-cove
-excerpt: "[tribulant_slideshow gallery_id=”5″] Yesterday, I had the opportunity to go aboard the 115 foot long Draken Harald Hårfagre, the largest Viking ship built in modern times, currently docked in Manhattan’s North Cove.  Here are a few photos of her arrival and at … Continue reading &rarr;"
+slug: "dragon-big-city-draken-harald-harfagre-north-cove"
+excerpt: "[tribulant_slideshow gallery_id=\"5″] Yesterday, I had the opportunity to go aboard the 115 foot long Draken Harald Hårfagre, the largest Viking ship built in modern times, currently docked in Manhattan’s North Cove.  Here are a few photos of her arrival and at … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "North Cove"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/09/drakenfigurehead.jpg"
 author: "Rick Spilman"
-description: "[tribulant_slideshow gallery_id=”5″] Yesterday, I had the opportunity to go aboard the 115 foot long Draken Harald Hårfagre, the largest Viking ship built in modern times, currently docked in Manhattan’s North Cove.  Here are a few photos of her arrival and at … Continue reading &rarr;"
+description: "[tribulant_slideshow gallery_id=\"5″] Yesterday, I had the opportunity to go aboard the 115 foot long Draken Harald Hårfagre, the largest Viking ship built in modern times, currently docked in Manhattan’s North Cove.  Here are a few photos of her arrival and at … Continue reading &rarr;"
 ---
 
 \[tribulant\_slideshow gallery\_id=”5″\]

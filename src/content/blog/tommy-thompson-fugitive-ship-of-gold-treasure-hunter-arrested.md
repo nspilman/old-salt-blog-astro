@@ -1,7 +1,7 @@
 ---
-title: "Tommy Thompson, Fugitive “Ship of Gold” Treasure Hunter, Arrested"
+title: "Tommy Thompson, Fugitive \"Ship of Gold\" Treasure Hunter, Arrested"
 date: 2015-01-29T10:54:46
-slug: tommy-thompson-fugitive-ship-of-gold-treasure-hunter-arrested
+slug: "tommy-thompson-fugitive-ship-of-gold-treasure-hunter-arrested"
 excerpt: "Tommy Thompson’s two years on the run has come to an end.  He was arrested yesterday in a Palm Beach, Florida hotel.  Thompson was arrested along with his longtime companion, Alison Anteiker. In September, we posted about the continued recovery … Continue reading &rarr;"
 categories:
   - "Current"

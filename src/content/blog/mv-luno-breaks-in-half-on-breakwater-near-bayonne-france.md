@@ -1,7 +1,7 @@
 ---
 title: "MV Luno Breaks in Two on Breakwater near Bayonne, France"
 date: 2014-02-05T18:27:09
-slug: mv-luno-breaks-in-half-on-breakwater-near-bayonne-france
+slug: "mv-luno-breaks-in-half-on-breakwater-near-bayonne-france"
 excerpt: "The MV Luno, a 4,600 DWT Spanish general cargo ship, lost power in rough seas and high winds  and and was blown onto a breakwater south-west of French port city Bayonne.  In winds gusting up to blowing up to 110 Km/hr … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

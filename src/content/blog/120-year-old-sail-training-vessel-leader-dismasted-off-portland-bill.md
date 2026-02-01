@@ -1,7 +1,7 @@
 ---
 title: "120 Year Old Sail Training Vessel, Leader, Dismasted off Portland Bill"
 date: 2011-09-06T12:33:07
-slug: 120-year-old-sail-training-vessel-leader-dismasted-off-portland-bill
+slug: "120-year-old-sail-training-vessel-leader-dismasted-off-portland-bill"
 excerpt: "The 120 year old ketch, Leader, was dismasted yesterday in force seven winds off Portland Bill, Dorset; losing her main mast, boom, sails and associated rigging.   An RNLI lifeboat was called to assist and successfully towed the Leader and her 16 … Continue reading &rarr;"
 categories:
   - "Current"

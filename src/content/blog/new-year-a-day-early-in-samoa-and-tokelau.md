@@ -1,7 +1,7 @@
 ---
 title: "New Year a Day Early in Samoa and Tokelau"
 date: 2011-12-31T15:56:16
-slug: new-year-a-day-early-in-samoa-and-tokelau
+slug: "new-year-a-day-early-in-samoa-and-tokelau"
 excerpt: "New Year’s Day came a day early this year to Samoa and the Tokelau atolls in the South Pacific, while Friday, December 30th, disappeared entirely.  After being east of the International Date Line for almost 120 years, Samoa and the Tokelau atolls decided to move west, … Continue reading &rarr;"
 categories:
   - "Current"

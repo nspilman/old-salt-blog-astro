@@ -1,7 +1,7 @@
 ---
 title: "From Lakes Freighters to Lake Houses — Benson Ford & John W. Boardman"
 date: 2014-08-18T16:26:18
-slug: from-lakes-freighters-to-lake-houses-benson-ford-john-w-boardman
+slug: "from-lakes-freighters-to-lake-houses-benson-ford-john-w-boardman"
 excerpt: "Great Lakes freighters are known for their longevity. Compared to their salt water sisters, lakes boats, as they are called, rust slowly and tend to be around for a long time. Here are two lakes freighters, Benson Ford and John W. … Continue reading &rarr;"
 categories:
   - "Current"

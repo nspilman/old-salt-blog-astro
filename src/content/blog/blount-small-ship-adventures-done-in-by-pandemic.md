@@ -1,8 +1,8 @@
 ---
 title: "Blount Small Ship Adventures Done in By Pandemic"
 date: 2020-08-25T11:33:49
-slug: blount-small-ship-adventures-done-in-by-pandemic
-excerpt: "Covid-19 has claimed its first U.S, flagged cruise operator. Citing the pandemic, Blount announced that it is ending its cruise operations and is selling its three small overnight cruise ships. The family will focus on its shipbuilding activities.  “It was … Continue reading &rarr;"
+slug: "blount-small-ship-adventures-done-in-by-pandemic"
+excerpt: "Covid-19 has claimed its first U.S, flagged cruise operator. Citing the pandemic, Blount announced that it is ending its cruise operations and is selling its three small overnight cruise ships. The family will focus on its shipbuilding activities.  \"It was … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "U.S"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/GrandeCaribe.jpg"
 author: "Rick Spilman"
-description: "Covid-19 has claimed its first U.S, flagged cruise operator. Citing the pandemic, Blount announced that it is ending its cruise operations and is selling its three small overnight cruise ships. The family will focus on its shipbuilding activities.  “It was … Continue reading &rarr;"
+description: "Covid-19 has claimed its first U.S, flagged cruise operator. Citing the pandemic, Blount announced that it is ending its cruise operations and is selling its three small overnight cruise ships. The family will focus on its shipbuilding activities.  \"It was … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/GrandeCaribe.jpg)

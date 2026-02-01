@@ -1,7 +1,7 @@
 ---
 title: "Sail Training Brig Prince William Sold to Pakistani Navy"
 date: 2010-09-24T08:18:49
-slug: sail-training-brig-prince-william-sold-to-pakistani-navy
+slug: "sail-training-brig-prince-william-sold-to-pakistani-navy"
 excerpt: "The brig Prince William owned by the Tall Ships Youth Trust has been sold to the Pakistan Navy and has been renamed the PNS Rah Naward. The Prince William was delivered in 2001, a sistership to the TS Stavros  S. … Continue reading &rarr;"
 categories:
   - "Current"

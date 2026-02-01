@@ -1,8 +1,8 @@
 ---
 title: "Tall Ships Chicago 2010"
 date: 2010-08-23T10:01:40
-slug: tall-ships-chicago-2010
-excerpt: "Tis the season for tall ships festivals.   Tomorrow, Tall Ships Chicago 2010 begins in the Windy City at the Navy Pier.  The event runs through August 29th and is described as, “Twenty Ships. Six Days. Once-in-a-Lifetime. ” Tall Ships Chicago 2010 – … Continue reading &rarr;"
+slug: "tall-ships-chicago-2010"
+excerpt: "Tis the season for tall ships festivals.   Tomorrow, Tall Ships Chicago 2010 begins in the Windy City at the Navy Pier.  The event runs through August 29th and is described as, \"Twenty Ships. Six Days. Once-in-a-Lifetime. \" Tall Ships Chicago 2010 – … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Navy Pier"
   - "Tall Ships Chicago 2010"
 author: "Rick Spilman"
-description: "Tis the season for tall ships festivals.   Tomorrow, Tall Ships Chicago 2010 begins in the Windy City at the Navy Pier.  The event runs through August 29th and is described as, “Twenty Ships. Six Days. Once-in-a-Lifetime. ” Tall Ships Chicago 2010 – … Continue reading &rarr;"
+description: "Tis the season for tall ships festivals.   Tomorrow, Tall Ships Chicago 2010 begins in the Windy City at the Navy Pier.  The event runs through August 29th and is described as, \"Twenty Ships. Six Days. Once-in-a-Lifetime. \" Tall Ships Chicago 2010 – … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/tschicago..jpg)](http://www.navypier.com/tallshipschicago/home.html)

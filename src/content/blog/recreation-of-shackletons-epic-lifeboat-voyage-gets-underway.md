@@ -1,7 +1,7 @@
 ---
 title: "Recreation of Shackleton’s Epic Lifeboat Voyage Gets Underway"
 date: 2013-01-24T13:56:54
-slug: recreation-of-shackletons-epic-lifeboat-voyage-gets-underway
+slug: "recreation-of-shackletons-epic-lifeboat-voyage-gets-underway"
 excerpt: "In the Antarctic winter of 1916, Ernest Shackleton and a crew of five sailed in a decked over lifeboat from Elephant Island to South Georgia. They were on a desperate rescue mission across 800 miles of the roughest ocean in … Continue reading &rarr;"
 categories:
   - "Current"

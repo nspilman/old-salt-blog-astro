@@ -1,7 +1,7 @@
 ---
 title: "Court Rules Shipwreck Ribault’s Flagship, la Trinité, Property of France"
 date: 2018-07-29T17:19:52
-slug: court-rules-shipwreck-ribaults-flagship-la-trinite-property-of-france
+slug: "court-rules-shipwreck-ribaults-flagship-la-trinite-property-of-france"
 excerpt: "In 1565, Captain Jean Ribault sailed from France with ships and 800 settlers to resupply and reinforce the French colony of Fort Caroline in what is now the state of Florida. The French colony was being threatened by the Spanish … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Jeanne Socrates — Singlehanding Non-Stop Around the World at 76"
 date: 2019-01-09T16:57:25
-slug: jeanne-socrates-singlehanding-non-stop-around-the-world-at-76
+slug: "jeanne-socrates-singlehanding-non-stop-around-the-world-at-76"
 excerpt: "Jeanne Socrates is a 76-year-old grandmother of three, originally from Ealing, West London. She didn’t start sailing until she was 50 but nevertheless has circumnavigated the globe under sail three times in S/V Nereida, a Najad 380. She currently holds the record as … Continue reading &rarr;"
 categories:
   - "Current"

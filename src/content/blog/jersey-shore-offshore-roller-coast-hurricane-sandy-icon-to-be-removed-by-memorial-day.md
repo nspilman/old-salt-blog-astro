@@ -1,7 +1,7 @@
 ---
 title: "Jersey Shore Offshore Roller Coast – Hurricane Sandy Icon – to Be Removed by Memorial Day"
 date: 2013-04-24T08:17:53
-slug: jersey-shore-offshore-roller-coast-hurricane-sandy-icon-to-be-removed-by-memorial-day
+slug: "jersey-shore-offshore-roller-coast-hurricane-sandy-icon-to-be-removed-by-memorial-day"
 excerpt: "The roller coasters on the Casino Pier in Seaside Heights, New Jersey have long been a major attraction of the Jersey shore resort town. The latest roller coaster on the pier, the Star Jet (also referred to as the Jet … Continue reading &rarr;"
 categories:
   - "Current"

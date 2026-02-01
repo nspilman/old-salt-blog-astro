@@ -1,7 +1,7 @@
 ---
 title: "TV Vikings, Wrong-Side Rudders and the USS Fitzgerald Collision"
 date: 2017-06-30T14:42:14
-slug: tv-vikings-wrong-side-rudders-uss-fitzgerald-collision
+slug: "tv-vikings-wrong-side-rudders-uss-fitzgerald-collision"
 excerpt: "Vikings is a History Channel series that follows the exploits of  the legendary Viking leader Ragnar Lodbrok. It is basically lots of fun, with swords and axes flying, supported by a fair share of intrigue and drama, the sort of show that … Continue reading &rarr;"
 categories:
   - "History"

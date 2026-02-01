@@ -1,8 +1,8 @@
 ---
 title: "Nocturnal for Both Bears"
 date: 2019-09-09T19:31:41
-slug: nocturnal-for-both-bears
-excerpt: "I recently came across a reference for a “nocturnal for both bears.” It sounded, at first, like a piece of music written by Mussorgsky or perhaps Prokofiev, which it isn’t. It is a device used for telling time at night … Continue reading &rarr;"
+slug: "nocturnal-for-both-bears"
+excerpt: "I recently came across a reference for a \"nocturnal for both bears.\" It sounded, at first, like a piece of music written by Mussorgsky or perhaps Prokofiev, which it isn’t. It is a device used for telling time at night … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Polaris"
   - "Ursa Major"
 author: "Rick Spilman"
-description: "I recently came across a reference for a “nocturnal for both bears.” It sounded, at first, like a piece of music written by Mussorgsky or perhaps Prokofiev, which it isn’t. It is a device used for telling time at night … Continue reading &rarr;"
+description: "I recently came across a reference for a \"nocturnal for both bears.\" It sounded, at first, like a piece of music written by Mussorgsky or perhaps Prokofiev, which it isn’t. It is a device used for telling time at night … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/nocturnalbothbears.jpg)I recently came across a reference for a “nocturnal for both bears.” It sounded, at first, like a piece of music written by Mussorgsky or perhaps Prokofiev, which it isn’t. It is a device used for telling time at night by the position of Polaris and the stars of the constellation Ursa Major, the “big bear.” 

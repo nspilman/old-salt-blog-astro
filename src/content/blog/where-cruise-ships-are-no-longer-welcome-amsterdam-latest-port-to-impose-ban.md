@@ -1,7 +1,7 @@
 ---
 title: "Where Cruise Ships Are No Longer Welcome — Amsterdam Latest Port to Impose Ban"
 date: 2023-07-31T19:57:49
-slug: where-cruise-ships-are-no-longer-welcome-amsterdam-latest-port-to-impose-ban
+slug: "where-cruise-ships-are-no-longer-welcome-amsterdam-latest-port-to-impose-ban"
 excerpt: "Have cruise ships worn out their welcome? Increasingly, port cities around the world are banning or regulating cruise ship dockings and operations in their coastal waters. Amsterdam has become only the most recent to do so. The BBC reports that … Continue reading &rarr;"
 categories:
   - "Current"

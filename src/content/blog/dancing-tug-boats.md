@@ -1,7 +1,7 @@
 ---
 title: "Dancing Tug Boats"
 date: 2013-03-24T21:46:21
-slug: dancing-tug-boats
+slug: "dancing-tug-boats"
 excerpt: "A lovely performance by the tug boats Fairplay II and Bugsier 16 the in Port of Rostock-Warnemünde, on June 4, 2011. Dancing Tug Boats … Continue reading &rarr;"
 categories:
   - "Current"

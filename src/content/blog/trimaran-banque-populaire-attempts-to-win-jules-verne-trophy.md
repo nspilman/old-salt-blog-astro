@@ -1,7 +1,7 @@
 ---
 title: "Trimaran Banque Populaire Attempts to Win Jules Verne Trophy"
 date: 2011-01-22T17:36:39
-slug: trimaran-banque-populaire-attempts-to-win-jules-verne-trophy
+slug: "trimaran-banque-populaire-attempts-to-win-jules-verne-trophy"
 excerpt: "At just before 0800 GMT this morning,  Pascal Bidegorry and the crew of the 40 meter trimaran Banque Populaire set off from Brest in an attempt to win the Jules Verne Trophy.   The Jules Verne Trophy is a prize for the … Continue reading &rarr;"
 categories:
   - "Current"

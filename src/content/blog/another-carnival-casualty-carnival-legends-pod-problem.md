@@ -1,7 +1,7 @@
 ---
 title: "Another Carnival Casualty – Carnival Legend’s Pod Problem"
 date: 2013-03-15T12:02:00
-slug: another-carnival-casualty-carnival-legends-pod-problem
+slug: "another-carnival-casualty-carnival-legends-pod-problem"
 excerpt: "As passengers are being flown home from an cancelled cruise on the Carnival Dream, another Carnival Cruise ship, the Carnival Legend, is limping to port with a damaged Azipod. Unlike more conventional designs where the ship’s propeller is connected to a ship’s engine … Continue reading &rarr;"
 categories:
   - "Current"

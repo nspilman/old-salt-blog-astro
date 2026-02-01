@@ -1,8 +1,8 @@
 ---
 title: "Goodreads Giveaway — Water Ghosts by  Linda Collison"
 date: 2015-07-16T11:14:14
-slug: goodreads-giveaway-water-ghosts-by-linda-collison
-excerpt: "We recently reviewed Linda Collison’s Water Ghosts and called it “an absolutely gripping paranormal nautical adventure.” From July 18th — 25th. Linda will be giving away ten copies of her book on Goodreads. Click here to learn more. … Continue reading &rarr;"
+slug: "goodreads-giveaway-water-ghosts-by-linda-collison"
+excerpt: "We recently reviewed Linda Collison’s Water Ghosts and called it \"an absolutely gripping paranormal nautical adventure.\" From July 18th — 25th. Linda will be giving away ten copies of her book on Goodreads. Click here to learn more. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Newbooks"

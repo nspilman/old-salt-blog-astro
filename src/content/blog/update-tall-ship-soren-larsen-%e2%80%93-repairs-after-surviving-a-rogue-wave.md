@@ -1,7 +1,7 @@
 ---
 title: "Update: Tall Ship Soren Larsen – Repairs after Surviving a Rogue Wave"
 date: 2009-10-03T08:11:09
-slug: update-tall-ship-soren-larsen-%e2%80%93-repairs-after-surviving-a-rogue-wave
+slug: "update-tall-ship-soren-larsen-%e2%80%93-repairs-after-surviving-a-rogue-wave"
 excerpt: "Last May, we posted about the Tall Ship Soren Larsen’s new season of voyages –  Tall ship Soren Larsen – Pearls of the Pacific, Voyages across the South Seas 2009.  Unfortunately, the ship was hit by a rogue wave on the 1st … Continue reading &rarr;"
 categories:
   - "Current"

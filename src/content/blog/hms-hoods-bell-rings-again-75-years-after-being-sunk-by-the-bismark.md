@@ -1,7 +1,7 @@
 ---
 title: "HMS Hood’s Bell Rings Again, 75 Years After Being Sunk by the Bismark"
 date: 2016-05-24T15:42:25
-slug: hms-hoods-bell-rings-again-75-years-after-being-sunk-by-the-bismark
+slug: "hms-hoods-bell-rings-again-75-years-after-being-sunk-by-the-bismark"
 excerpt: "On May 24, 1941, the battlecruiser HMS Hood  exploded after being struck by several shells from the German battleship Bismark during the Battle of Denmark Strait. The Hood sank within three minutes with the loss of 1,415 sailors, all but three of her crew; … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Underway in the Engine Room on the Liberty Ship SS John W. Brown"
 date: 2016-09-20T11:13:49
-slug: underway-engine-room-liberty-ship-ss-john-w-brown
-excerpt: "Last Sunday, I had the opportunity to spend a little time in the engine room of the Liberty ship, SS John W. Brown. The ship, normally based in Baltimore, was visiting New York and offered a full day “Living History Cruise.” … Continue reading &rarr;"
+slug: "underway-engine-room-liberty-ship-ss-john-w-brown"
+excerpt: "Last Sunday, I had the opportunity to spend a little time in the engine room of the Liberty ship, SS John W. Brown. The ship, normally based in Baltimore, was visiting New York and offered a full day \"Living History Cruise.\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "SS John W. Brown"
   - "triple expansion reciprocating steam engine"
 author: "Rick Spilman"
-description: "Last Sunday, I had the opportunity to spend a little time in the engine room of the Liberty ship, SS John W. Brown. The ship, normally based in Baltimore, was visiting New York and offered a full day “Living History Cruise.” … Continue reading &rarr;"
+description: "Last Sunday, I had the opportunity to spend a little time in the engine room of the Liberty ship, SS John W. Brown. The ship, normally based in Baltimore, was visiting New York and offered a full day \"Living History Cruise.\" … Continue reading &rarr;"
 ---
 
 ![johnbrowndock](http://www.oldsaltblog.com/wp-content/uploads/2016/09/johnbrowndock.jpg)Last Sunday, I had the opportunity to spend a little time in the engine room of the [Liberty ship](https://en.wikipedia.org/wiki/Liberty_ship), SS *[John W. Brown](http://www.ssjohnwbrown.org/)*. The ship, normally based in Baltimore, was visiting New York and offered a full day “[Living History Cruise](http://www.ssjohnwbrown.org/living-history-cruise/).”

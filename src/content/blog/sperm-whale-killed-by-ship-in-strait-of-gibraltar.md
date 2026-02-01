@@ -1,7 +1,7 @@
 ---
 title: "Sperm Whale Killed by Ship in Strait of Gibraltar"
 date: 2024-07-30T20:53:44
-slug: sperm-whale-killed-by-ship-in-strait-of-gibraltar
+slug: "sperm-whale-killed-by-ship-in-strait-of-gibraltar"
 excerpt: "Yesterday, we posted about the sinking of the British sailing yacht Bonhomme William last week, following an attack by orcas in the Strait of Gibraltar. Fortunately, the crew were rescued without injury.  Two days later, a sperm whale encountered a … Continue reading &rarr;"
 categories:
   - "Current"

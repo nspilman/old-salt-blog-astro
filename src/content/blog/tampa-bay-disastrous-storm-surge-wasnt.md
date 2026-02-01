@@ -1,7 +1,7 @@
 ---
 title: "Tampa Bay & the Disastrous Storm Surge That Wasn’t"
 date: 2017-09-13T08:02:07
-slug: tampa-bay-disastrous-storm-surge-wasnt
+slug: "tampa-bay-disastrous-storm-surge-wasnt"
 excerpt: "Hurricane Irma devasted islands in the Caribbean and did serious damage to cities in Florida. 6.5 million residents of Florida alone lost power and the damage toll is still being calculated across the state. The cities on the West Coast … Continue reading &rarr;"
 categories:
   - "Current"

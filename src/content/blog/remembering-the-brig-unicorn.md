@@ -1,7 +1,7 @@
 ---
 title: "Remembering the Brig Unicorn"
 date: 2014-05-26T08:41:24
-slug: remembering-the-brig-unicorn
+slug: "remembering-the-brig-unicorn"
 excerpt: "Last week, the brig Unicorn sank after apparently hitting a submerged object on her way from St. Lucia to Saint Vincent and the Grenadines for dry docking. The captain and nine crew escaped by boat and were rescued by the … Continue reading &rarr;"
 categories:
   - "Current"

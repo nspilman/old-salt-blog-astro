@@ -1,8 +1,8 @@
 ---
 title: "World’s Largest Lionfish Tournament Removes 19,167 of the Invasive Predators"
 date: 2019-06-02T09:09:38
-slug: worlds-largest-lionfish-tournament-removes-19167-of-the-invasive-predators
-excerpt: "For several years, we have followed the attempts to control, if not eradicate, the invasive lionfish from the waters around Florida and the Caribbean.  Recently, divers participating in Destin, Florida’s Emerald Coast Open, which is described as the “world’s largest … Continue reading &rarr;"
+slug: "worlds-largest-lionfish-tournament-removes-19167-of-the-invasive-predators"
+excerpt: "For several years, we have followed the attempts to control, if not eradicate, the invasive lionfish from the waters around Florida and the Caribbean.  Recently, divers participating in Destin, Florida’s Emerald Coast Open, which is described as the \"world’s largest … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Lionfish Tournament"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/emeraldcoastopen.jpg"
 author: "Rick Spilman"
-description: "For several years, we have followed the attempts to control, if not eradicate, the invasive lionfish from the waters around Florida and the Caribbean.  Recently, divers participating in Destin, Florida’s Emerald Coast Open, which is described as the “world’s largest … Continue reading &rarr;"
+description: "For several years, we have followed the attempts to control, if not eradicate, the invasive lionfish from the waters around Florida and the Caribbean.  Recently, divers participating in Destin, Florida’s Emerald Coast Open, which is described as the \"world’s largest … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/emeraldcoastopen.jpg)For several years, we have followed the attempts to control, if not eradicate, the invasive lionfish from the waters around Florida and the Caribbean.  Recently, divers participating in Destin, Florida’s [Emerald Coast Open](http://emeraldcoastopen.com/), which is described as the “world’s largest lionfish tournament,” removed 19,167 of the invasive predators.    

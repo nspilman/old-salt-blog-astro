@@ -1,7 +1,7 @@
 ---
 title: "Vermont Sailing Barge Ceres for Sale"
 date: 2019-08-09T09:57:40
-slug: vermont-sailing-barge-ceres-for-sale
+slug: "vermont-sailing-barge-ceres-for-sale"
 excerpt: "Around six years ago, Vermont farmer Eric Andrus had an idea. Why not build a sailing barge to carry non-perishable produce down Lake Champlain to the Hudson and onward to markets along the river and on to New York City?  … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Farming the Sea: Oystering at Mystic Seaport"
 date: 2017-10-01T09:11:53
-slug: farming-sea-oystering-mystic-seaport
+slug: "farming-sea-oystering-mystic-seaport"
 excerpt: "Here is a wonderful short video about oystering in Long Island Sound from the Mystic Seaport Museum.  Farming the Sea: Oystering at Mystic Seaport More information about oysters from the Mystic Seaport site: … Continue reading &rarr;"
 categories:
   - "Current"

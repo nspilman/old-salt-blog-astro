@@ -1,7 +1,7 @@
 ---
 title: "Remembering the Godmother of Thanksgiving — Sarah Josepha Hale"
 date: 2017-11-23T14:25:51
-slug: remembering-godmother-thanksgiving-sarah-josepha-hale
+slug: "remembering-godmother-thanksgiving-sarah-josepha-hale"
 excerpt: "Happy Thanksgiving for those on this side of the pond and below the 49th parallel.  (The Canadians celebrated the holiday in October.) Here is repost of a story I think is well worth retelling.  In the United States, Thanksgiving only … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
-title: "Schooner Lynx, “America’s Privateer” in New York’s North Cove"
+title: "Schooner Lynx, \"America’s Privateer\" in New York’s North Cove"
 date: 2012-10-25T16:16:55
-slug: schooner-lynx-americas-privateer-in-new-yorks-north-cove
+slug: "schooner-lynx-americas-privateer-in-new-yorks-north-cove"
 excerpt: "On an overcast Thursday morning, the 122-foot top-sail schooner Lynx arrived at North Cove in lower Manhattan on the Hudson River. See our recent post. She will be open to the public for dockside tours and sails on Saturday and Sunday, … Continue reading &rarr;"
 categories:
   - "Current"

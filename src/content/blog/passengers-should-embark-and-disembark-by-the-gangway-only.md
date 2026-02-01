@@ -1,7 +1,7 @@
 ---
 title: "Passengers Should Embark and Disembark by the Gangway Only"
 date: 2010-09-27T12:02:51
-slug: passengers-should-embark-and-disembark-by-the-gangway-only
+slug: "passengers-should-embark-and-disembark-by-the-gangway-only"
 excerpt: "Passengers should embark and disembark by the gangway only. Three stories, two of them tragic, of unusual arrivals and departures from cruise ships last week. On the Holland America  cruise ship,  Prinsendam, passengers were shocked when  a powered hang glider made a crash landing on … Continue reading &rarr;"
 categories:
   - "Current"

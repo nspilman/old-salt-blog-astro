@@ -1,8 +1,8 @@
 ---
-title: "Update: Hvaldimir, Beluga “Spy” Whale Returns to Waters Near Oslo"
+title: "Update: Hvaldimir, Beluga \"Spy\" Whale Returns to Waters Near Oslo"
 date: 2023-05-25T16:52:48
-slug: update-hvaldimir-beluga-spy-whale-returns-to-waters-near-oslo
-excerpt: "In 2019, we posted about fishermen off the coast of Norway who encountered a beluga whale wearing a harness that read “Equipment of St. Petersburg. Researchers think the beluga may be a Russian spy in training. There was speculation that … Continue reading &rarr;"
+slug: "update-hvaldimir-beluga-spy-whale-returns-to-waters-near-oslo"
+excerpt: "In 2019, we posted about fishermen off the coast of Norway who encountered a beluga whale wearing a harness that read \"Equipment of St. Petersburg. Researchers think the beluga may be a Russian spy in training. There was speculation that … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Russian spy"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/05/Hvaldimir.jpg"
 author: "Rick Spilman"
-description: "In 2019, we posted about fishermen off the coast of Norway who encountered a beluga whale wearing a harness that read “Equipment of St. Petersburg. Researchers think the beluga may be a Russian spy in training. There was speculation that … Continue reading &rarr;"
+description: "In 2019, we posted about fishermen off the coast of Norway who encountered a beluga whale wearing a harness that read \"Equipment of St. Petersburg. Researchers think the beluga may be a Russian spy in training. There was speculation that … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/05/Hvaldimir.jpg)In 2019, we [posted about fishermen off the coast of Norway who encountered a beluga whale](https://www.oldsaltblog.com/2019/05/russian-spy-beluga-whale-defects-to-norway/) wearing a harness that read “Equipment of St. Petersburg. Researchers think the beluga may be a Russian spy in training.

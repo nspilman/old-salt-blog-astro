@@ -1,7 +1,7 @@
 ---
 title: "Scottish MP Supports Rescue of the Falls of Clyde"
 date: 2017-01-23T10:59:43
-slug: scottish-mp-supports-rescue-falls-clyde
+slug: "scottish-mp-supports-rescue-falls-clyde"
 excerpt: "A UK member of parliament from Glasgow, Scotland has joined in the effort to save the endangered historic sailing ship Falls of Clyde. MP Alison Thewliss has written to David Ige, Governor of Hawaii, in support of returning the ship to the … Continue reading &rarr;"
 categories:
   - "Current"

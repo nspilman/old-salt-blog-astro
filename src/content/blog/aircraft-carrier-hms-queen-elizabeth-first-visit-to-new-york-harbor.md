@@ -1,7 +1,7 @@
 ---
 title: "Aircraft Carrier HMS Queen Elizabeth, First Visit to New York Harbor"
 date: 2018-10-20T12:13:29
-slug: aircraft-carrier-hms-queen-elizabeth-first-visit-to-new-york-harbor
+slug: "aircraft-carrier-hms-queen-elizabeth-first-visit-to-new-york-harbor"
 excerpt: "The HMS Queen Elizabeth, Great Britain’s new aircraft carrier, sailed beneath the Verrazano Bridge yesterday on a weeklong visit to New York harbor. The ship which cost £3.1 billion is 932 feet long, displaces 65,000 tonnes, and is the largest … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Quarterdeck Review of Evening Grey Morning Red by George Jepson"
 date: 2018-01-05T20:51:17
-slug: quarterdeck-review-evening-grey-morning-red-george-jepson
+slug: "quarterdeck-review-evening-grey-morning-red-george-jepson"
 excerpt: "A review of Evening Gray Morning Red by George Jepson in the Winter 2018 issue of Quarterdeck: Cracking open Evening Gray Morning Red, Rick Spilman’s new novel, I was hooked by the first paragraph, which took me back four decades to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

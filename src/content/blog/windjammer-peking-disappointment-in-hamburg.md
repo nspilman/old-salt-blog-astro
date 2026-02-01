@@ -1,7 +1,7 @@
 ---
 title: "Windjammer Peking – Disappointment in Hamburg"
 date: 2012-10-15T08:00:09
-slug: windjammer-peking-disappointment-in-hamburg
+slug: "windjammer-peking-disappointment-in-hamburg"
 excerpt: "On Friday, we posted that the windjammer Peking is in need a new home.  The 101 year old four masted steel ship has spent the last 37 years as a museum ship at New York’s South Street Seaport Museum.  The … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

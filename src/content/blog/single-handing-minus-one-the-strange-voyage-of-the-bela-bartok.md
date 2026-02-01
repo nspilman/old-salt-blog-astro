@@ -1,7 +1,7 @@
 ---
 title: "Single-Handing Minus One – The Strange Voyage of the Bela Bartok"
 date: 2012-11-29T16:21:35
-slug: single-handing-minus-one-the-strange-voyage-of-the-bela-bartok
+slug: "single-handing-minus-one-the-strange-voyage-of-the-bela-bartok"
 excerpt: "Here is a wonderful story from Cruising World’s Editor’s Log about the very strange voyage of the 31-foot cruising sailboat, Bela Bartok. Derk Wolmuth was sailing Bela Bartok in last summer’s Singlehanded TransPac race between San Francisco and Kaua’i, Hawaii … Continue reading &rarr;"
 categories:
   - "Current"

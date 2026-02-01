@@ -1,7 +1,7 @@
 ---
 title: "Shipwreck’s ‘oldest beer’ to be brewed again"
 date: 2011-02-16T10:21:26
-slug: shipwrecks-oldest-beer-to-be-brewed-again
+slug: "shipwrecks-oldest-beer-to-be-brewed-again"
 excerpt: "Last November we posted about a plan by Finnish authorities to allow one or several modern breweries to replicate the recipe of beer found in a Baltic Sea shipwreck dated between 1800 to 1830.  In addition to cases of champagne, the … Continue reading &rarr;"
 categories:
   - "Current"

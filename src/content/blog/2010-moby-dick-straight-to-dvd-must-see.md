@@ -1,7 +1,7 @@
 ---
 title: "2010: Moby Dick – Straight to DVD Must See ?"
 date: 2010-12-10T09:25:59
-slug: 2010-moby-dick-straight-to-dvd-must-see
+slug: "2010-moby-dick-straight-to-dvd-must-see"
 excerpt: "The closest thing to a nautical movie in the theaters this season, The Chronicles of Narnia: The Voyage of the Dawn Treader, doesn’t sound like it is necessarily worth the price of a ticket. Manohla Dargis begins her review in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

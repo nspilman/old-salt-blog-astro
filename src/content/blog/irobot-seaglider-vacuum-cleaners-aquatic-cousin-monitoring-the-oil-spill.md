@@ -1,7 +1,7 @@
 ---
 title: "IRobot Seaglider – Vacuum Cleaner’s Aquatic Cousin Monitoring the Oil Spill"
 date: 2010-07-05T08:25:46
-slug: irobot-seaglider-vacuum-cleaners-aquatic-cousin-monitoring-the-oil-spill
+slug: "irobot-seaglider-vacuum-cleaners-aquatic-cousin-monitoring-the-oil-spill"
 excerpt: "We own a Roomba, which is a robot vacuum cleaner made by iRobot.   It looks like a cross between an overgrown hockey puck and a squashed R2D2 from Star Wars.  It softly whirs and occasionally beeps as it crisscrosses the floor vacuuming, until … Continue reading &rarr;"
 categories:
   - "Current"

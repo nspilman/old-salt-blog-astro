@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship Oliver Hazard Perry in Annapolis and Philadelphia"
 date: 2018-05-11T20:47:49
-slug: tall-ship-oliver-hazard-perry-in-annapolis-and-philadelphia
+slug: "tall-ship-oliver-hazard-perry-in-annapolis-and-philadelphia"
 excerpt: "If you are around Annapolis tomorrow, May 12th, the 200-foot Class A Tall Ship, SSV Oliver Hazard Perry will be at the Naval Academy in Annapolis and will be open for public tours from 10 a.m. to 3 p.m. at the Dewey Seawall (Gate 1 … Continue reading &rarr;"
 categories:
   - "Current"

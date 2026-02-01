@@ -1,7 +1,7 @@
 ---
 title: "Costa Allegra Under Tow to Seychelles, Expected to Arrive Thursday"
 date: 2012-02-28T09:57:55
-slug: costa-allegra-under-tow-to-seychelles-arrival-expected-thursday
+slug: "costa-allegra-under-tow-to-seychelles-arrival-expected-thursday"
 excerpt: "A French fishing vessel was the first ship to reach the stricken Costa Allegra, which has been drifting without power in the Indian Ocean, as the result of an engine room fire Monday. The fishing vessel took the cruise ship … Continue reading &rarr;"
 categories:
   - "Current"

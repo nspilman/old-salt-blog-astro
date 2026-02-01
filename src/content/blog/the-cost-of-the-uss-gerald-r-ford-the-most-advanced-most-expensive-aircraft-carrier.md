@@ -1,7 +1,7 @@
 ---
 title: "The Cost of the USS Gerald R. Ford, the Most Advanced & Most Expensive Aircraft Carrier"
 date: 2021-10-14T09:25:46
-slug: the-cost-of-the-uss-gerald-r-ford-the-most-advanced-most-expensive-aircraft-carrier
+slug: "the-cost-of-the-uss-gerald-r-ford-the-most-advanced-most-expensive-aircraft-carrier"
 excerpt: "Here is a short and concise video by Business Insider looking at the cost, the myriad of problems and the potential of the USS Gerald R. Ford, the largest, most advanced, and most expensive aircraft carrier ever built. The True … Continue reading &rarr;"
 categories:
   - "Current"

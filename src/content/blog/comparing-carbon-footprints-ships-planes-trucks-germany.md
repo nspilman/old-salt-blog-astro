@@ -1,8 +1,8 @@
 ---
 title: "Comparing Carbon Footprints — Ships, Planes, Trucks & Germany"
 date: 2021-04-27T09:36:53
-slug: comparing-carbon-footprints-ships-planes-trucks-germany
-excerpt: "We recently posted “No, 15 Large Ships Do Not Pollute More Than All the Cars in the World.” It was based on a claim made by Dr. James Corbett in 2009, that only addressed sulfur pollution. Enthusiastic journalists picked up … Continue reading &rarr;"
+slug: "comparing-carbon-footprints-ships-planes-trucks-germany"
+excerpt: "We recently posted \"No, 15 Large Ships Do Not Pollute More Than All the Cars in the World.\" It was based on a claim made by Dr. James Corbett in 2009, that only addressed sulfur pollution. Enthusiastic journalists picked up … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "trucks"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/04/gramspertonnekm.jpg"
 author: "Rick Spilman"
-description: "We recently posted “No, 15 Large Ships Do Not Pollute More Than All the Cars in the World.” It was based on a claim made by Dr. James Corbett in 2009, that only addressed sulfur pollution. Enthusiastic journalists picked up … Continue reading &rarr;"
+description: "We recently posted \"No, 15 Large Ships Do Not Pollute More Than All the Cars in the World.\" It was based on a claim made by Dr. James Corbett in 2009, that only addressed sulfur pollution. Enthusiastic journalists picked up … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/04/gramspertonnekm.jpg)

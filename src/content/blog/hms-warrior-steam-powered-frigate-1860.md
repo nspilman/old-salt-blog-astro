@@ -1,7 +1,7 @@
 ---
 title: "HMS Warrior — Steam Powered Frigate of 1860"
 date: 2017-10-28T09:44:56
-slug: hms-warrior-steam-powered-frigate-1860
+slug: "hms-warrior-steam-powered-frigate-1860"
 excerpt: "HMS Warrior is a fascinating ship. It may be heresy to say so, but when I visited Portsmouth, I spent more time on HMS Warrior than I did on Nelson’s Victory. Warrior is a 40-gun steam-powered armored frigate built for the Royal Navy in 1859–61. … Continue reading &rarr;"
 categories:
   - "History"

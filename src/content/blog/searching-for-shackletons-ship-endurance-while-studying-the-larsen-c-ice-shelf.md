@@ -1,7 +1,7 @@
 ---
 title: "Searching for Shackleton’s Ship Endurance While Studying the Larsen C Ice Shelf"
 date: 2018-04-11T15:26:10
-slug: searching-for-shackletons-ship-endurance-while-studying-the-larsen-c-ice-shelf
+slug: "searching-for-shackletons-ship-endurance-while-studying-the-larsen-c-ice-shelf"
 excerpt: "Next January and February, an expedition to Antarctica will search for Ernest Shackleton‘s doomed ship, Endurance, crushed by the ice in 1915. Finding the wreck of the ship is not the primary objective of the venture, however, which is to study … Continue reading &rarr;"
 categories:
   - "Current"

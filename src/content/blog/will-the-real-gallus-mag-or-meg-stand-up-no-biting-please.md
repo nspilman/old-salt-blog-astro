@@ -1,7 +1,7 @@
 ---
 title: "Will the Real Gallus Mag, or Meg, Stand Up? No Biting, Please"
 date: 2014-06-04T10:40:43
-slug: will-the-real-gallus-mag-or-meg-stand-up-no-biting-please
+slug: "will-the-real-gallus-mag-or-meg-stand-up-no-biting-please"
 excerpt: "In New York City, there is a story told about Gallus Mag, the bouncer at the ‘Hole in the Wall‘, a bar and brothel on Water Street on the East River waterfront in the mid-1800s. Standing well over 6’ tall, she … Continue reading &rarr;"
 categories:
   - "City of Ships"

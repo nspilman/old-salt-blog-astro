@@ -1,7 +1,7 @@
 ---
 title: "US Coast Guard Testing Unmanned Vessels Off Hawaii"
 date: 2020-10-20T16:35:25
-slug: us-coast-guard-testing-unmanned-vessels-off-hawaii
+slug: "us-coast-guard-testing-unmanned-vessels-off-hawaii"
 excerpt: "The US Coast Guard Research and Development Center (RDC) has begun testing and evaluation of several unmanned surface vehicles (USVs) off the south shore of Oahu, Hawaii. The testing is scheduled to run through early November, conducted in partnership with … Continue reading &rarr;"
 categories:
   - "Current"

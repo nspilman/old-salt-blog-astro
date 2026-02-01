@@ -1,7 +1,7 @@
 ---
 title: "Vendee Globe Race 2020-2021 : Largest Fleet, More Female Skippers, and a Competing Couple"
 date: 2020-11-13T18:10:03
-slug: vendee-globe-race-2020-2021-largest-fleet-more-female-skippers-and-a-competing-couple
+slug: "vendee-globe-race-2020-2021-largest-fleet-more-female-skippers-and-a-competing-couple"
 excerpt: "The 2020-2021 Vendee Globe Race set off last Sunday from Les Sables-d’Olonne, France. The 24,000 nautical miles race, sailed every four years, is billed as the world’s greatest singlehanded, non-stop, yacht race. Notwithstanding the impact of the global pandemic, this … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

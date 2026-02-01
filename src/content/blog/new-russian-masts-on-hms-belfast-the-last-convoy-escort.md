@@ -1,7 +1,7 @@
 ---
 title: "New Russian Masts on HMS Belfast – The Last Convoy Escort"
 date: 2010-10-24T08:03:20
-slug: new-russian-masts-on-hms-belfast-the-last-convoy-escort
+slug: "new-russian-masts-on-hms-belfast-the-last-convoy-escort"
 excerpt: "The HMS Belfast, a Royal Navy light cruiser, now a museum ship on the Thames, is the last surviving  escort ship from the Arctic convoy run to Russia during World War II.  Last week, in a ceremony attended by HRH Prince Philip, The Duke of Edinburgh, … Continue reading &rarr;"
 categories:
   - "Current"

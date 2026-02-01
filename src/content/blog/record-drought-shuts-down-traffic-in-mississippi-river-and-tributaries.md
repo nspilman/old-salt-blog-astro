@@ -1,7 +1,7 @@
 ---
 title: "Record Drought Shuts Down Traffic In Mississippi River and Tributaries"
 date: 2022-10-25T18:08:23
-slug: record-drought-shuts-down-traffic-in-mississippi-river-and-tributaries
+slug: "record-drought-shuts-down-traffic-in-mississippi-river-and-tributaries"
 excerpt: "In August, we posted about an extreme drought in Europe that dramatically reduced water levels in major rivers, including the Rhine, Elbe, Loire, Danube, and Po. Now a near-record drought in the US Midwest has dropped water levels in the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Video for a Friday – My Jorts Smell Like Biomass"
 date: 2011-12-02T09:15:43
-slug: video-for-a-friday-my-jorts-smell-like-biomass
+slug: "video-for-a-friday-my-jorts-smell-like-biomass"
 excerpt: "After an lovely warm November, winter is beginning to settle in here on the banks of the Hudson River, so it feels like a good time to feature a video of warm water, blue sky and white sails. Here is a video shot by Jimmy … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Rocking the Boat in Hunts Point — Where Boats Build Kids"
 date: 2014-08-29T07:53:22
-slug: rocking-the-boat-in-hunts-point-where-boats-build-kids
+slug: "rocking-the-boat-in-hunts-point-where-boats-build-kids"
 excerpt: "I recently learned about Rocking the Boat, a wonderful organization in the Hunts Point section of the Bronx, one of the five boroughs of the City of New York.  Since 1998, the after-school program has been teaching neighborhood kids to build wooden boats. In … Continue reading &rarr;"
 categories:
   - "Current"

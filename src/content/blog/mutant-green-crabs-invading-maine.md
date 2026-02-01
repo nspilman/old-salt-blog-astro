@@ -1,8 +1,8 @@
 ---
 title: "Mutant Green Crabs Invading Maine"
 date: 2018-10-10T09:55:07
-slug: mutant-green-crabs-invading-maine
-excerpt: "It sounds like a low budget horror/sci-fi flick —  “Nasty Mutant Green Crabs Invade Maine.” Sadly, it is no movie pitch. LiveScience reports that an aggressive breed of green crab is indeed invading Maine’s waters.  Green crabs have been in North … Continue reading &rarr;"
+slug: "mutant-green-crabs-invading-maine"
+excerpt: "It sounds like a low budget horror/sci-fi flick —  \"Nasty Mutant Green Crabs Invade Maine.\" Sadly, it is no movie pitch. LiveScience reports that an aggressive breed of green crab is indeed invading Maine’s waters.  Green crabs have been in North … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Maine"
   - "Nova Scotia"
 author: "Rick Spilman"
-description: "It sounds like a low budget horror/sci-fi flick —  “Nasty Mutant Green Crabs Invade Maine.” Sadly, it is no movie pitch. LiveScience reports that an aggressive breed of green crab is indeed invading Maine’s waters.  Green crabs have been in North … Continue reading &rarr;"
+description: "It sounds like a low budget horror/sci-fi flick —  \"Nasty Mutant Green Crabs Invade Maine.\" Sadly, it is no movie pitch. LiveScience reports that an aggressive breed of green crab is indeed invading Maine’s waters.  Green crabs have been in North … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/greencrab.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "How Dead is the Great Barrier Reef?"
 date: 2017-05-26T09:42:50
-slug: dead-great-barrier-reef
+slug: "dead-great-barrier-reef"
 excerpt: "An interesting video by Vox on coral reefs and the serious threats to the Great Barrier Reef and other reefs around the world. The outlook doesn’t look good but not all is lost. Definitely worth watching.  How dead is the … Continue reading &rarr;"
 categories:
   - "Current"

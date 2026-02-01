@@ -1,7 +1,7 @@
 ---
 title: "Harwich Mayflower Making Progress"
 date: 2015-01-08T09:47:24
-slug: harwich-mayflower-making-progress
+slug: "harwich-mayflower-making-progress"
 excerpt: "As we posted in December, the Mayflower II, a replica of the ship which brought the Pilgrims across the Atlantic in 1620, is now undergoing a multi-year restoration in the Henry B. duPont Preservation Shipyard at Mystic Seaport in Connecticut. … Continue reading &rarr;"
 categories:
   - "Current"

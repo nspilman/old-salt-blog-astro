@@ -1,7 +1,7 @@
 ---
 title: "As Hurricane Lane Approaches, Why Hurricanes Are So Rare in Hawaii"
 date: 2018-08-23T15:42:19
-slug: as-hurricane-lane-approaches-why-hurricanes-are-so-rare-in-hawaii
+slug: "as-hurricane-lane-approaches-why-hurricanes-are-so-rare-in-hawaii"
 excerpt: "The good news is that Hurricane Lane has been downgraded to a Category 4 hurricane. The bad news is that it is still heading straight for the Hawaiian islands.  The storm’s outer bands have been pounding parts of Hawaii’s Big … Continue reading &rarr;"
 categories:
   - "Current"

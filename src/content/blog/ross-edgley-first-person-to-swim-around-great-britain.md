@@ -1,7 +1,7 @@
 ---
 title: "Ross Edgley, First Person to Swim Around Great Britain"
 date: 2018-11-04T15:42:51
-slug: ross-edgley-first-person-to-swim-around-great-britain
+slug: "ross-edgley-first-person-to-swim-around-great-britain"
 excerpt: "Adventurer Ross Edgley, 33, has become the first person to swim the 1,780-miles around Great Britain. Setting out from Kent on June 1st, Edgley swam up to 12 hours per day, sleeping at night on his support boat. He did … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Glasgow’s Tall Ship Glenlee"
 date: 2020-11-22T16:38:07
-slug: glasgows-tall-ship-glenlee
+slug: "glasgows-tall-ship-glenlee"
 excerpt: "This seems appropriate for an overcast Sunday in late November – a lovely drone video from a few years ago of the restored steel-hulled three-masted bark Glenlee on the River Clyde. Built name in 1896, the Glenlee sailed for 23 … Continue reading &rarr;"
 categories:
   - "Current"

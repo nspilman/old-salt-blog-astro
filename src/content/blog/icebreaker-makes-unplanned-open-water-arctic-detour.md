@@ -1,7 +1,7 @@
 ---
 title: "Icebreaker Makes Unplanned Open-Water Arctic Detour"
 date: 2020-08-22T13:02:16
-slug: icebreaker-makes-unplanned-open-water-arctic-detour
+slug: "icebreaker-makes-unplanned-open-water-arctic-detour"
 excerpt: "The Associated Press is reporting that the  RV Polarstern, a German icebreaker carrying scientists on a year-long international expedition in the high Arctic, has reached the North Pole after making an unplanned detour there due to lighter-than-usual sea ice conditions. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

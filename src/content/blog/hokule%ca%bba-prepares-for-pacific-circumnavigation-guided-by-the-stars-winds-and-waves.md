@@ -1,7 +1,7 @@
 ---
 title: "Hōkūleʻa Prepares For Pacific Circumnavigation Guided by the Stars Winds and & Waves"
 date: 2023-03-25T16:55:12
-slug: hokule%ca%bba-prepares-for-pacific-circumnavigation-guided-by-the-stars-winds-and-waves
+slug: "hokule%ca%bba-prepares-for-pacific-circumnavigation-guided-by-the-stars-winds-and-waves"
 excerpt: "In June 2016, I had the pleasure of visiting Hōkūleʻa, a Polynesian double-hulled voyaging canoe, when she sailed into New York harbor in the third year of an epic voyage. Since her launch in 1975, Hōkūleʻa, had crisscrossed the Pacific … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Why China’s Naval Rise Could Help the World"
 date: 2010-02-16T07:06:57
-slug: why-china%e2%80%99s-naval-rise-could-help-the-world
+slug: "why-china%e2%80%99s-naval-rise-could-help-the-world"
 excerpt: "An interesting perspective from the  The Diplomat Magazine on Chinese naval expansion. Thanks to Alaric Bond for passing it along. Why China’s Naval Rise Could Help the World … Continue reading &rarr;"
 categories:
   - "Current"

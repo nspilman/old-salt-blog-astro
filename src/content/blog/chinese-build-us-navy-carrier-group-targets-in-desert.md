@@ -1,7 +1,7 @@
 ---
 title: "Chinese Build US Navy Carrier Group Targets in Desert"
 date: 2021-11-09T10:07:45
-slug: chinese-build-us-navy-carrier-group-targets-in-desert
+slug: "chinese-build-us-navy-carrier-group-targets-in-desert"
 excerpt: "The Chinese military has built targets in the shape of an American aircraft carrier and other U.S. warships in the Taklamakan desert as part of a new target range complex, according to photos from satellite imagery company Maxar. USNI News … Continue reading &rarr;"
 categories:
   - "Current"

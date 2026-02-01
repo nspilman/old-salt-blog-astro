@@ -1,7 +1,7 @@
 ---
 title: "Open Seas, Closed Borders — Crews Trapped by Covid-19"
 date: 2020-03-26T15:34:29
-slug: open-seas-closed-borders-crews-trapped-by-covid-19
+slug: "open-seas-closed-borders-crews-trapped-by-covid-19"
 excerpt: "Despite the pandemic caused by the coronavirus, known as Covid-19, ships keep moving across the oceans.  Oil tankers, bulk carriers, and container ships carry critical resources and manufactured goods to industry and consumers across the globe. Now, however, dozens of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

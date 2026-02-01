@@ -1,7 +1,7 @@
 ---
 title: "The Coney Island Mermaid Parade 2017"
 date: 2017-06-18T11:55:23
-slug: coney-island-mermaid-parade-2017
+slug: "coney-island-mermaid-parade-2017"
 excerpt: "Despite the rain the mermaids and denizens of the sea still came out to play at the 35th Annual Coney Island Mermaid Day Parade. Photos by LCHphoto.com For more images, some NSFW, check out Gothamist. Coney Island Mermaid Parade 2017 … Continue reading &rarr;"
 categories:
   - "Current"

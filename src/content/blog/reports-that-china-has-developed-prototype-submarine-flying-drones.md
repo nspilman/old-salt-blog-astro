@@ -1,7 +1,7 @@
 ---
 title: "Reports that China Has Developed Prototype Submarine Flying Drones"
 date: 2022-08-19T15:26:41
-slug: reports-that-china-has-developed-prototype-submarine-flying-drones
+slug: "reports-that-china-has-developed-prototype-submarine-flying-drones"
 excerpt: "There are reports that researchers from Nanjing University of Aeronautics in eastern China have developed a prototype flying submarine drone capable of operating underwater or in the air. According to a report by the South China Morning Post, the flying submarine can support … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

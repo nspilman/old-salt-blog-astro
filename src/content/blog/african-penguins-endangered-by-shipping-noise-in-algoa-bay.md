@@ -1,7 +1,7 @@
 ---
 title: "African Penguins Endangered by Shipping Noise in Algoa Bay"
 date: 2022-09-05T10:19:16
-slug: african-penguins-endangered-by-shipping-noise-in-algoa-bay
+slug: "african-penguins-endangered-by-shipping-noise-in-algoa-bay"
 excerpt: "A disturbing report from Reuters:  The already endangered African penguin is being driven away from its natural habitat off the east coast of South Africa due to noise from ship refueling, a scientific study has found. The number of African … Continue reading &rarr;"
 categories:
   - "Current"

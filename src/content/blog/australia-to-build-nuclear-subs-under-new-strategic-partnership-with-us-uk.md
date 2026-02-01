@@ -1,7 +1,7 @@
 ---
 title: "Australia to Build Nuclear Subs Under New Strategic Partnership with US & UK"
 date: 2021-09-16T15:21:56
-slug: australia-to-build-nuclear-subs-under-new-strategic-partnership-with-us-uk
+slug: "australia-to-build-nuclear-subs-under-new-strategic-partnership-with-us-uk"
 excerpt: "AP reports that President Joe Biden announced on Wednesday a new U.S. security alliance with Australia and Britain that will provide Australia with the technology and capability to deploy nuclear-powered submarines. The agreement would make Australia the first country without nuclear … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Dive Boat Disaster  — 34 Feared Dead in Catastrophic Fire Off Santa Cruz Island"
 date: 2019-09-03T13:16:45
-slug: dive-boat-disaster-34-feared-dead-in-catastrophic-fire-off-santa-cruz-island
+slug: "dive-boat-disaster-34-feared-dead-in-catastrophic-fire-off-santa-cruz-island"
 excerpt: "A horrific fire broke on the commercial scuba diving vessel, Conception, off Santa Cruz Island in the Channel Islands of California, early on Monday morning. Thirty-four people are believed to have died in the fire. Five of six crew members … Continue reading &rarr;"
 categories:
   - "Current"

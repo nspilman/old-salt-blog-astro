@@ -1,7 +1,7 @@
 ---
 title: "Houston Ship Channel Closed After Barges Crash into Electrical Tower"
 date: 2010-10-04T18:33:15
-slug: houston-ship-channel-closed-after-barges-crash-into-electrical-tower
+slug: "houston-ship-channel-closed-after-barges-crash-into-electrical-tower"
 excerpt: "One of the largest port complexes in the US has been shut down since Sunday morning after a barge accident almost knocked a high voltage tower into the Houston Ship Channel.    Over thirty ships have been blocked by the … Continue reading &rarr;"
 categories:
   - "Current"

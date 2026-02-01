@@ -1,7 +1,7 @@
 ---
 title: "Is the Explosive-Laden SS Richard Montgomery a Target for Terrorists?"
 date: 2016-01-03T15:54:47
-slug: is-the-explosion-laden-ss-richard-montgomery-in-the-thames-a-target-for-terrorists
+slug: "is-the-explosion-laden-ss-richard-montgomery-in-the-thames-a-target-for-terrorists"
 excerpt: "Anti-terror police in the UK are suddenly concerned that the SS Richard Montgomery, a Liberty ship which sank over seventy years ago loaded with high explosives in the Thames estuary, might be a potential target for terrorists.  Reportedly, the government … Continue reading &rarr;"
 categories:
   - "Current"

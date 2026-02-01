@@ -1,8 +1,8 @@
 ---
 title: "Thames Diamond Jubilee Pageant – a Map of the Festivities"
 date: 2012-06-02T07:31:42
-slug: thames-jubilee-pageant
-excerpt: "In anticipation of tomorrow’s Thames Diamond Jubilee Pageant, a map from LondonTown.com.  Click on the map below for a larger version. [iframe: src=”http://www.londontown.com/London-Maps/Thames-Jubilee-Pageant/EmbedJubilee/?width=580&height=214″ width=”580″ height=”214″ frameborder=”1″ scrolling=”no”] On Sunday 3rd June 2012, over one thousand boats will muster on the River … Continue reading &rarr;"
+slug: "thames-jubilee-pageant"
+excerpt: "In anticipation of tomorrow’s Thames Diamond Jubilee Pageant, a map from LondonTown.com.  Click on the map below for a larger version. [iframe: src=\"http://www.londontown.com/London-Maps/Thames-Jubilee-Pageant/EmbedJubilee/?width=580&height=214″ width=\"580″ height=\"214″ frameborder=\"1″ scrolling=\"no\"] On Sunday 3rd June 2012, over one thousand boats will muster on the River … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "river procession"
   - "Thames Diamond Jubilee Pageant"
 author: "Rick Spilman"
-description: "In anticipation of tomorrow’s Thames Diamond Jubilee Pageant, a map from LondonTown.com.  Click on the map below for a larger version. [iframe: src=”http://www.londontown.com/London-Maps/Thames-Jubilee-Pageant/EmbedJubilee/?width=580&height=214″ width=”580″ height=”214″ frameborder=”1″ scrolling=”no”] On Sunday 3rd June 2012, over one thousand boats will muster on the River … Continue reading &rarr;"
+description: "In anticipation of tomorrow’s Thames Diamond Jubilee Pageant, a map from LondonTown.com.  Click on the map below for a larger version. [iframe: src=\"http://www.londontown.com/London-Maps/Thames-Jubilee-Pageant/EmbedJubilee/?width=580&height=214″ width=\"580″ height=\"214″ frameborder=\"1″ scrolling=\"no\"] On Sunday 3rd June 2012, over one thousand boats will muster on the River … Continue reading &rarr;"
 ---
 
 In anticipation of tomorrow’s [Thames Diamond Jubilee Pageant,](http://www1.thamesdiamondjubileepageant.org/) a map from [LondonTown.com](http://www.londontown.com).  Click on the map below for a larger version.

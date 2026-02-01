@@ -1,7 +1,7 @@
 ---
 title: "The Ship Hotel: A Grand View Along the Lincoln Highway"
 date: 2010-04-20T23:10:45
-slug: the-ship-hotel-a-grand-view-along-the-lincoln-highway
+slug: "the-ship-hotel-a-grand-view-along-the-lincoln-highway"
 excerpt: "A new book details the history of a hotel built to look like an ocean liner perched high in the mountains of Pennsylvania. Ship Hotel has sailed, but a jaunty new book honors its history and heyday The story of … Continue reading &rarr;"
 categories:
   - "Newbooks"

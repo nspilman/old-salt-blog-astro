@@ -1,7 +1,7 @@
 ---
 title: "Meade Gougeon — Innovator, Designer & Sailing Legend Dies at 78"
 date: 2017-09-02T09:19:16
-slug: meade-gougeon-innovator-designer-sailing-legend-dies-78
+slug: "meade-gougeon-innovator-designer-sailing-legend-dies-78"
 excerpt: "I recently learned that Meade Gougeon has died at aged 78 of melanoma.  More than 45 years ago, I was a young student of naval architecture at the University of Michigan. I met Meade when he came to speak to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

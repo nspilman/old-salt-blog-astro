@@ -1,7 +1,7 @@
 ---
 title: "Frigate l’Hermione Arrives Off the Virginia Capes"
 date: 2015-06-03T11:01:56
-slug: frigate-lhermione-arrives-off-the-virginia-capes
+slug: "frigate-lhermione-arrives-off-the-virginia-capes"
 excerpt: "The French frigate l’Hermoine arrived off the Virginia Capes yesterday where she was greeted by the Arleigh Burke-class guided-missile destroyer USS Mitscher. l’Hermoine is scheduled to visit Yorktown, Va. on June 5 on her twelve port East Coast tour.  The … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: The Weather Window That Never Opened, Sails of Change Postpones Jules Verne Attempt"
 date: 2022-02-13T17:00:21
-slug: update-the-weather-window-that-never-opened-sails-of-change-postpones-jules-verne-attempt
+slug: "update-the-weather-window-that-never-opened-sails-of-change-postpones-jules-verne-attempt"
 excerpt: "In November we posted about the maxi-trimaran Sails of Change (ex-Spindrift 2) and its crew of 11, waiting to set off from La Trinité-sur-Mer, in southwest Brittany, on their latest attempt to claim the Jules Verne Trophy. To win the trophy, they … Continue reading &rarr;"
 categories:
   - "Current"

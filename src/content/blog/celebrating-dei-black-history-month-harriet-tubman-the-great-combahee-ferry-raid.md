@@ -1,7 +1,7 @@
 ---
 title: "Celebrating DEI & Black History Month — Harriet Tubman & the Great Combahee Ferry Raid"
 date: 2025-02-20T20:00:09
-slug: celebrating-dei-black-history-month-harriet-tubman-the-great-combahee-ferry-raid
+slug: "celebrating-dei-black-history-month-harriet-tubman-the-great-combahee-ferry-raid"
 excerpt: "Last week, the New York Times reported that Harriet Tubman posters, origami paper cranes and rainbows have been disappearing from the halls of the American schools at NATO headquarters in Belgium, a response to the Trump administration’s rollbacks of diversity, … Continue reading &rarr;"
 categories:
   - "Current"

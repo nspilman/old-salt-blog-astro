@@ -1,8 +1,8 @@
 ---
 title: "The Execution of Admiral Byng"
 date: 2018-03-14T17:14:58
-slug: the-execution-of-admiral-byng
-excerpt: "On this day, March 14th, in 1757, Admiral John Byng was executed by firing squad on the quarterdeck of HMS Monarch in the Solent for the crime of failing to “do his utmost against the enemy.” Byng was the first … Continue reading &rarr;"
+slug: "the-execution-of-admiral-byng"
+excerpt: "On this day, March 14th, in 1757, Admiral John Byng was executed by firing squad on the quarterdeck of HMS Monarch in the Solent for the crime of failing to \"do his utmost against the enemy.\" Byng was the first … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Minorca"
   - "seven years war"
 author: "Rick Spilman"
-description: "On this day, March 14th, in 1757, Admiral John Byng was executed by firing squad on the quarterdeck of HMS Monarch in the Solent for the crime of failing to “do his utmost against the enemy.” Byng was the first … Continue reading &rarr;"
+description: "On this day, March 14th, in 1757, Admiral John Byng was executed by firing squad on the quarterdeck of HMS Monarch in the Solent for the crime of failing to \"do his utmost against the enemy.\" Byng was the first … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/byng.jpg)On this day, March 14th, in 1757, [Admiral John Byng](https://en.wikipedia.org/wiki/John_Byng) was executed by firing squad on the quarterdeck of HMS *Monarch* in the Solent for the crime of failing to “do his utmost against the enemy.” Byng was the first and last admiral ever executed by the Royal Navy.

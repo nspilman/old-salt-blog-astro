@@ -1,7 +1,7 @@
 ---
 title: "My Version of Pisco Grog"
 date: 2015-11-10T18:59:51
-slug: my-version-of-pisco-grog
+slug: "my-version-of-pisco-grog"
 excerpt: "In the latter part of the 19th and the early 20th century, windjammer sailors in the nitrate and guano trades to Peru and Chile drank significant quantities of pisco when they arrived on the west coast of South America. Pisco … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Emirates Team New Zealand Wins the America’s Cup, 7-1!"
 date: 2017-06-26T14:06:59
-slug: emirates-team-new-zealand-wins-americas-cup-7-1
+slug: "emirates-team-new-zealand-wins-americas-cup-7-1"
 excerpt: "Emirates Team New Zealand has won the America’s Cup, defeating Oracle Team USA 7-1!   In the races in 2013, Team New Zealand was within one race of winning the cup, only to have Oracle stage a dramatic comeback and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

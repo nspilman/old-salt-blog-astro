@@ -1,7 +1,7 @@
 ---
 title: "Paul Cuffee, African-American Captain, Shipbuilder & Shipowner"
 date: 2018-02-02T18:28:45
-slug: paul-cuffee-african-american-captain-shipbuilder-shipowner
+slug: "paul-cuffee-african-american-captain-shipbuilder-shipowner"
 excerpt: "The Maritime Administration identifies Captain Hugh Mulzac as The First African-American Shipmaster. Mulzac was the captain of the Liberty ship Booker T. Washington in 1942. Without intending any disrespect to the memory of Captain Mulzac, he was not the first African American shipmaster, … Continue reading &rarr;"
 categories:
   - "History"

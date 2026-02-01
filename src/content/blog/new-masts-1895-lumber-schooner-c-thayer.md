@@ -1,7 +1,7 @@
 ---
 title: "New Masts for the 1895 Lumber Schooner C.A.Thayer"
 date: 2016-02-29T10:56:50
-slug: new-masts-1895-lumber-schooner-c-thayer
+slug: "new-masts-1895-lumber-schooner-c-thayer"
 excerpt: "Last week, the 1895 lumber schooner C.A. Thayer, the last surviving West Coast lumber schooner, returned to her berth at San Francisco Maritime‘s Hyde Street Pier, after having three masts and a bowsprit installed by the Bay Ship and Yacht … Continue reading &rarr;"
 categories:
   - "Current"

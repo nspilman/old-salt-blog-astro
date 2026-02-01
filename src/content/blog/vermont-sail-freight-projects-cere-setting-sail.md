@@ -1,7 +1,7 @@
 ---
 title: "Vermont Sail Freight Project’s Ceres Setting Sail"
 date: 2013-10-05T08:41:32
-slug: vermont-sail-freight-projects-cere-setting-sail
+slug: "vermont-sail-freight-projects-cere-setting-sail"
 excerpt: "In April, we posted about the Vermont Sail Freight Project, a plan to build a sailing cargo barge to carry non-perishable produce down Lake Champlain to the Hudson River and onward to markets along the river and in New York City. … Continue reading &rarr;"
 categories:
   - "Current"

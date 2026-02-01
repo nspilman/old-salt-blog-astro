@@ -1,7 +1,7 @@
 ---
 title: "Classic Yawl Dorade Finishes Second in Division in Sydney Hobart Race"
 date: 2017-12-30T18:20:54
-slug: classic-yawl-dorade-finishes-second-division-sydney-hobart-race
+slug: "classic-yawl-dorade-finishes-second-division-sydney-hobart-race"
 excerpt: "Four years ago, the yacht racing world was caught aback when Dorade, a yacht designed by Olin Stephens II  and delivered in 1930, won the 2013 Transpac Race. Dorade has previously won the Transpac 77 years before.  Now the 87-year old Dorade has … Continue reading &rarr;"
 categories:
   - "Current"

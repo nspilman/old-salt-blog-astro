@@ -1,7 +1,7 @@
 ---
 title: "Public Notice: Ferryboat Binghamton Removal for Preservation and Restoration"
 date: 2016-04-05T09:11:58
-slug: ferryboat-binghamton-removal-for-preservation-and-restoration
+slug: "ferryboat-binghamton-removal-for-preservation-and-restoration"
 excerpt: "We have been asked to post this public notice seeking interested parties to remove and restore the Ferryboat Binghamton, now aground, flooded and seriously damaged in the Hudson River off Edgewater, NJ.  Interested parties should email FerryboatBinghamton@gmail.com for more information. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

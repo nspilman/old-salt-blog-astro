@@ -1,7 +1,7 @@
 ---
-title: "Saltwater Brewery “Edible Six Pack Rings” Saving Marine Life"
+title: "Saltwater Brewery \"Edible Six Pack Rings\" Saving Marine Life"
 date: 2016-10-04T15:23:33
-slug: saltwater-brewery-edible-six-pack-rings-saving-marine-life
+slug: "saltwater-brewery-edible-six-pack-rings-saving-marine-life"
 excerpt: "A craft brew beer company and an ad agency have come up with a brilliant solution to problem of plastic six pack rings. What is the problem with six pack rings, you might ask? The plastic rings that hold six … Continue reading &rarr;"
 categories:
   - "Current"

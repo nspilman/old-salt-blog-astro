@@ -1,7 +1,7 @@
 ---
 title: "MT Phoenix Finally Free from Salt Rocks, Sheffield Beach, South Africa"
 date: 2011-09-06T14:50:28
-slug: mt-phoenix-finally-free-of-salt-rocks-sheffield-beach-south-africa
+slug: "mt-phoenix-finally-free-of-salt-rocks-sheffield-beach-south-africa"
 excerpt: "The MT Phoenix, which has been hard aground and leaking oil on a South African beach, is finally free. This Saturday, two salvage tugs, Smit Amanda and Smit Siyanda, under the direction of the South African Maritime Safety Authority (SAMSA), successfully towed the ship … Continue reading &rarr;"
 categories:
   - "Current"

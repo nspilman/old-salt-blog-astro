@@ -1,7 +1,7 @@
 ---
 title: "Update : Hawai‘i Issues New Bids to Remove Historic Windjammer Falls of Clyde From Honolulu Harbor"
 date: 2024-07-27T20:08:00
-slug: update-hawaii-issues-new-bids-to-remove-historic-windjammer-falls-of-clyde-from-honolulu-harbor
+slug: "update-hawaii-issues-new-bids-to-remove-historic-windjammer-falls-of-clyde-from-honolulu-harbor"
 excerpt: "The Hawai‘i Department of Transportation (HDOT) has issued a request for proposals (RFP) to permanently remove the historic ship Falls of Clyde from Honolulu Harbor, where it has languished since 2008. Bids must be submitted by September 25, 2024. The … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Oak Jam from HMS Victory?"
 date: 2010-07-10T16:44:01
-slug: oak-jam-from-hms-victory
+slug: "oak-jam-from-hms-victory"
 excerpt: "Oak flavored jam? Wood from HMS Victory bottled as a jam in a jar Admiral Lord Nelson led HMS Victory out of a few sticky situations, but now the ship finds itself in a bit of a jam. Off-cuts of … Continue reading &rarr;"
 categories:
   - "Current"

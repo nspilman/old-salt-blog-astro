@@ -1,7 +1,7 @@
 ---
 title: "Barque Picton Castle Announces New Atlantic Voyage"
 date: 2011-09-01T09:09:10
-slug: barque-picton-castle-announces-new-atlantic-voyage
+slug: "barque-picton-castle-announces-new-atlantic-voyage"
 excerpt: "After five circumnavigations, Captain Daniel Moreland and the Barque Picton Castle will be changing their course for this year’s voyage focusing primarily on the Atlantic visiting ports in Europe, Africa, the Caribbean and the Spanish Main. World Voyaging Tall Ship Picton Castle Announces New Voyage Around … Continue reading &rarr;"
 categories:
   - "Current"

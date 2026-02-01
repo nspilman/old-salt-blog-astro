@@ -1,7 +1,7 @@
 ---
 title: "Clipper Ship City of Adelaide to be Sent to Australia"
 date: 2010-08-28T09:50:20
-slug: clipper-ship-city-of-adelaide-to-be-sent-to-australia
+slug: "clipper-ship-city-of-adelaide-to-be-sent-to-australia"
 excerpt: "Great news!  The oldest just barely surviving composite clipper ship in the world, the City of Adelaide appears  likely to be moved to Australia to its namesake city, Adelaide.  The ship, which is currently at the Scottish Maritime Museum in Irvine, Scotland, has … Continue reading &rarr;"
 categories:
   - "Current"

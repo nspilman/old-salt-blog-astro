@@ -1,8 +1,8 @@
 ---
 title: "Volvo Racers Partying in Newport, Police Involved"
 date: 2018-05-18T16:40:30
-slug: volvo-racers-partying-in-newport-police-involved
-excerpt: "As the song goes, “What do you do with a drunken sailor?” The answer for the police in Newport, RI early last Tuesday morning, when a group of sailors associated with the Volvo Ocean Race got rowdy, was to arrest … Continue reading &rarr;"
+slug: "volvo-racers-partying-in-newport-police-involved"
+excerpt: "As the song goes, \"What do you do with a drunken sailor?\" The answer for the police in Newport, RI early last Tuesday morning, when a group of sailors associated with the Volvo Ocean Race got rowdy, was to arrest … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Rhode Island"
   - "Volvo Ocean"
 author: "Rick Spilman"
-description: "As the song goes, “What do you do with a drunken sailor?” The answer for the police in Newport, RI early last Tuesday morning, when a group of sailors associated with the Volvo Ocean Race got rowdy, was to arrest … Continue reading &rarr;"
+description: "As the song goes, \"What do you do with a drunken sailor?\" The answer for the police in Newport, RI early last Tuesday morning, when a group of sailors associated with the Volvo Ocean Race got rowdy, was to arrest … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/05/clarkcook.jpg)

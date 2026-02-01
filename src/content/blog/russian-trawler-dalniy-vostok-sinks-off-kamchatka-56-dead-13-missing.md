@@ -1,7 +1,7 @@
 ---
 title: "Russian Trawler Dalniy Vostok Sinks Off Kamchatka — 56 Dead, 13 Missing"
 date: 2015-04-02T08:15:49
-slug: russian-trawler-dalniy-vostok-sinks-off-kamchatka-56-dead-13-missing
+slug: "russian-trawler-dalniy-vostok-sinks-off-kamchatka-56-dead-13-missing"
 excerpt: "Dalniy Vostok, a Russian freezer trawler, has sunk in the Sea of Okhotsk off the Kamchatka peninsula. Of the 132 people aboard, 56 are reported to have died, while 13 remain missing. Sixty-three people were rescued.  The trawler sank quickly at around 06:30 local … Continue reading &rarr;"
 categories:
   - "Current"

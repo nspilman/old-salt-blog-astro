@@ -1,7 +1,7 @@
 ---
 title: "The Fourth Amendment vs the Penn. Fish and Boat Commission"
 date: 2018-04-30T19:04:34
-slug: the-fourth-amendment-vs-the-penn-fish-and-boat-commission
+slug: "the-fourth-amendment-vs-the-penn-fish-and-boat-commission"
 excerpt: "A very interesting case was argued recently before the Commonwealth of Pennsylvania Superior Court over a $75 fine issued to a boater for not having enough life jackets aboard his boat. The issue before the court, however, was not life jackets, … Continue reading &rarr;"
 categories:
   - "Current"

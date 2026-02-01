@@ -1,7 +1,7 @@
 ---
 title: "Crowley Establishing Flow of Relief Cargo Into Haiti"
 date: 2010-01-22T09:28:08
-slug: crowley-establishing-flow-of-relief-cargo-into-haiti
+slug: "crowley-establishing-flow-of-relief-cargo-into-haiti"
 excerpt: "Crowley Establishing Flow of Relief Cargo Into Haiti Crowley Maritime Corporation, working under contract with the U.S. Transportation Command (USTRANSCOM), is unloading Haiti relief cargo in Rio Haina, Dominican Republic, today. Fifty six of the 68 20-foot containers of water … Continue reading &rarr;"
 categories:
   - "Current"

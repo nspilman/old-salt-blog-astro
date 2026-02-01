@@ -1,7 +1,7 @@
 ---
 title: "Boarding a Fast Attack Nuclear Sub in the Arctic During ICEX 2020"
 date: 2021-01-03T18:47:19
-slug: boarding-a-fast-attack-nuclear-sub-in-the-arctic-during-icex-2020
+slug: "boarding-a-fast-attack-nuclear-sub-in-the-arctic-during-icex-2020"
 excerpt: "A video for a Sunday afternoon. In March, the US Navy officially commenced Ice Exercise (ICEX) 2020 in the Arctic Ocean with the construction of a temporary ice camp, Camp Seadragon, and the arrival of two US Navy fast-attack submarines.  … Continue reading &rarr;"
 categories:
   - "Current"

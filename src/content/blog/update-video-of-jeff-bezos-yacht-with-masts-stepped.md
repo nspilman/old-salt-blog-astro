@@ -1,7 +1,7 @@
 ---
 title: "Update: Video of Jeff Bezos’ Yacht With Masts Stepped"
 date: 2022-08-08T11:50:41
-slug: update-video-of-jeff-bezos-yacht-with-masts-stepped
+slug: "update-video-of-jeff-bezos-yacht-with-masts-stepped"
 excerpt: "Last week, we posted about how the 417-foot-long, three-masted sailing yacht built for billionaire Jeff Bezos was towed out of the Oceanco shipyard in Rotterdam under the cover of darkness and moved to a shipyard in Greenport. The three masts … Continue reading &rarr;"
 categories:
   - "Current"

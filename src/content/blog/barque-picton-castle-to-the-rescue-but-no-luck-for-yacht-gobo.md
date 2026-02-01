@@ -1,7 +1,7 @@
 ---
 title: "Barque Picton Castle to the Rescue but No Luck for Yacht Gobo"
 date: 2013-08-08T08:26:06
-slug: barque-picton-castle-to-the-rescue-but-no-luck-for-yacht-gobo
+slug: "barque-picton-castle-to-the-rescue-but-no-luck-for-yacht-gobo"
 excerpt: "An Austrian couple, identified only as Irene and Christian, made a distress call last week, on July 31, from their Jeanneau Sun Legende 41, Gobo, in the South Pacific. The three masted barque Picton Castle, sailing in the Cook Islands, charted a … Continue reading &rarr;"
 categories:
   - "Current"

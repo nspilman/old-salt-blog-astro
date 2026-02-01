@@ -1,8 +1,8 @@
 ---
 title: "All Royal Navy Attack Submarines Down for Repairs, or Maybe Not"
 date: 2017-02-11T08:47:08
-slug: royal-navy-attack-submarines-repairs-maybe-not
-excerpt: "On Friday, the British tabloid The Sun reported that the Royal Navy’s entire fleet of seven attack submarines was out of service. They wrote: “Repairs and maintenance to all seven have left none to defend our waters — or monitor … Continue reading &rarr;"
+slug: "royal-navy-attack-submarines-repairs-maybe-not"
+excerpt: "On Friday, the British tabloid The Sun reported that the Royal Navy’s entire fleet of seven attack submarines was out of service. They wrote: \"Repairs and maintenance to all seven have left none to defend our waters — or monitor … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "attack submarine"
   - "Royal Navy"
 author: "Rick Spilman"
-description: "On Friday, the British tabloid The Sun reported that the Royal Navy’s entire fleet of seven attack submarines was out of service. They wrote: “Repairs and maintenance to all seven have left none to defend our waters — or monitor … Continue reading &rarr;"
+description: "On Friday, the British tabloid The Sun reported that the Royal Navy’s entire fleet of seven attack submarines was out of service. They wrote: \"Repairs and maintenance to all seven have left none to defend our waters — or monitor … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/uksubs.jpg)

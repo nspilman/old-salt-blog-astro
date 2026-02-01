@@ -1,12 +1,12 @@
 ---
 title: "Four Ballads of the USS Thresher"
 date: 2013-04-14T19:31:44
-slug: four-ballads-of-the-uss-thresher
-excerpt: "We recently posted an embedded video of Tom Paxton’s song, “The Thresher Disaster” sung my threelegsofman.  about the loss of the nuclear submarine USS Thresher in 1963.  Brian Frizell pointed out that Paxton’s song was not the only ballad about … Continue reading &rarr;"
+slug: "four-ballads-of-the-uss-thresher"
+excerpt: "We recently posted an embedded video of Tom Paxton’s song, \"The Thresher Disaster\" sung my threelegsofman.  about the loss of the nuclear submarine USS Thresher in 1963.  Brian Frizell pointed out that Paxton’s song was not the only ballad about … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "We recently posted an embedded video of Tom Paxton’s song, “The Thresher Disaster” sung my threelegsofman.  about the loss of the nuclear submarine USS Thresher in 1963.  Brian Frizell pointed out that Paxton’s song was not the only ballad about … Continue reading &rarr;"
+description: "We recently posted an embedded video of Tom Paxton’s song, \"The Thresher Disaster\" sung my threelegsofman.  about the loss of the nuclear submarine USS Thresher in 1963.  Brian Frizell pointed out that Paxton’s song was not the only ballad about … Continue reading &rarr;"
 ---
 
 ![thresehr2](http://www.oldsaltblog.com/wp-content/uploads/2013/04/thresehr2.jpg)We recently posted an embedded video of Tom Paxton’s song, “*The Thresher Disaster*” sung my threelegsofman.  about the loss of the nuclear submarine USS *Thresher* in 1963.  Brian Frizell pointed out that Paxton’s song was not the only ballad about the *Thresher*.  The Kingston Trio also sang a “[*Ballad of the Thresher*](http://www.youtube.com/watch?v=w41nF5yrexY).”  The singer/songwriters Phil Ochs and Pete Seeger also had songs about the disaster, both titled simply “*The Thresher*.”  Why did the sinking of this one ship inspire at least four songs?

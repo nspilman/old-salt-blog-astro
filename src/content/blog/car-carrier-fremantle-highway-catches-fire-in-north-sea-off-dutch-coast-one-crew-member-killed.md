@@ -1,7 +1,7 @@
 ---
 title: "Car Carrier Fremantle Highway Catches Fire in North Sea Off Dutch Coast, One Crew Member Killed"
 date: 2023-07-26T18:43:49
-slug: car-carrier-fremantle-highway-catches-fire-in-north-sea-off-dutch-coast-one-crew-member-killed
+slug: "car-carrier-fremantle-highway-catches-fire-in-north-sea-off-dutch-coast-one-crew-member-killed"
 excerpt: "Near midnight on Tuesday, the car carrier Fremantle Highway, loaded with nearly 3,000 cars, caught fire and has been burning out of control off the Dutch island of Ameland. The Dutch coast guard said one crew member had died and … Continue reading &rarr;"
 categories:
   - "Current"

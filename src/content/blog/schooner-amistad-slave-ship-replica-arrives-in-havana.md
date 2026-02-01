@@ -1,7 +1,7 @@
 ---
 title: "Schooner Amistad, Slave Ship Replica, Arrives in Havana"
 date: 2010-03-26T11:37:33
-slug: schooner-amistad-slave-ship-replica-arrives-in-havana
+slug: "schooner-amistad-slave-ship-replica-arrives-in-havana"
 excerpt: "One hundred and seventy one years after the slave ship Amistad sailed from Havana carrying a cargo of captives from Sierra Leone, the replica of the Amistad arrived in Havannah harbor yesterday.  The captives on the original slave ship seized control of the vessel and sailed the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

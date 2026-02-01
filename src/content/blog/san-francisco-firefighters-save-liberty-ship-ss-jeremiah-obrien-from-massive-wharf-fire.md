@@ -1,7 +1,7 @@
 ---
 title: "San Francisco Firefighters Save Liberty Ship SS Jeremiah O’Brien From Massive Wharf Fire"
 date: 2020-05-24T13:16:38
-slug: san-francisco-firefighters-save-liberty-ship-ss-jeremiah-obrien-from-massive-wharf-fire
+slug: "san-francisco-firefighters-save-liberty-ship-ss-jeremiah-obrien-from-massive-wharf-fire"
 excerpt: "A major fire broke out on Saturday morning in a warehouse on Pier 45 on San Francisco’s Fisherman’s Wharf which came very close to the engulfing the historic World War II Liberty ship, SS Jeremiah O’Brien. The fire was reported … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

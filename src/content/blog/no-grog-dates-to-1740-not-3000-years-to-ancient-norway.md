@@ -1,7 +1,7 @@
 ---
 title: "No, — Grog Dates to 1740, Not 3,000 Years to Ancient Norway!"
 date: 2014-01-18T13:43:49
-slug: no-grog-dates-to-1740-not-3000-years-to-ancient-norway
+slug: "no-grog-dates-to-1740-not-3000-years-to-ancient-norway"
 excerpt: "Recently there have been multiple articles in the press and across the Internet citing a recent study published in the Danish Journal of Archaeology (Dec. 23, 2013) which claims that grog was consumed in Norway as far back as 1,500 … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

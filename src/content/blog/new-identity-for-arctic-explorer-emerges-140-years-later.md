@@ -1,7 +1,7 @@
 ---
 title: "New Identity for Arctic Explorer Emerges 140 Years Later"
 date: 2011-03-28T08:12:51
-slug: new-identity-for-arctic-explorer-emerges-140-years-later
+slug: "new-identity-for-arctic-explorer-emerges-140-years-later"
 excerpt: "New facial reconstruction technology applied to the skull of one of the members of the ill-fated Franklin expedition may rewrite accepted history. The skeleton long believed to be that of Henry Le Vesconte, a lieutenant aboard HMS Erebus, is now believed to be that of  Harry … Continue reading &rarr;"
 categories:
   - "Current"

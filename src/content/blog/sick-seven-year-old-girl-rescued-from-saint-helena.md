@@ -1,7 +1,7 @@
 ---
 title: "Sick Seven Year Old Girl Rescued from Saint Helena"
 date: 2015-03-13T21:44:08
-slug: sick-seven-year-old-girl-rescued-from-saint-helena
+slug: "sick-seven-year-old-girl-rescued-from-saint-helena"
 excerpt: "When Alaric Bond wrote of the island of Saint Helena in the South Atlantic in his novel, The Torrid Zone, set during  the Napoleanic wars, it was one of the most remote islands in the world. A recent rescue of … Continue reading &rarr;"
 categories:
   - "Current"

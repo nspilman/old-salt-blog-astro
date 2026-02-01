@@ -1,7 +1,7 @@
 ---
 title: "Chris Bertish — First Person to Cross Atlantic by Paddleboard"
 date: 2017-03-12T09:15:49
-slug: chris-bertish-first-person-cross-atlantic-paddleboard
+slug: "chris-bertish-first-person-cross-atlantic-paddleboard"
 excerpt: "On Thursday, South African Chris Bertish paddled his ocean-going stand-up paddleboard into Antiqua’s English Harbor becoming the first person to cross the Atlantic by stand-up paddleboard. He left Agadir, Morocco, 93 days ago, on the epic 4,050-mile voyage.  Bertish was wholly unassisted … Continue reading &rarr;"
 categories:
   - "Current"

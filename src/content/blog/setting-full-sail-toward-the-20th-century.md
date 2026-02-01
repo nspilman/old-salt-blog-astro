@@ -1,8 +1,8 @@
 ---
 title: "Setting Full Sail Toward the 20th Century"
 date: 2009-10-02T09:44:22
-slug: setting-full-sail-toward-the-20th-century
-excerpt: "The American Museum of Folk Art in New York has a new exhibit –  Thomas Chambers (1808-1869): American Marine and Landscape Painter.  His paintings have been described as having an “entrancing, slightly demonic style … neither strictly realist nor naïve, they … Continue reading &rarr;"
+slug: "setting-full-sail-toward-the-20th-century"
+excerpt: "The American Museum of Folk Art in New York has a new exhibit –  Thomas Chambers (1808-1869): American Marine and Landscape Painter.  His paintings have been described as having an \"entrancing, slightly demonic style … neither strictly realist nor naïve, they … Continue reading &rarr;"
 categories:
   - "Galleries"
   - "History"
@@ -11,7 +11,7 @@ tags:
   - "American Museum of Folk Art"
   - "Thomas Chambers"
 author: "Rick Spilman"
-description: "The American Museum of Folk Art in New York has a new exhibit –  Thomas Chambers (1808-1869): American Marine and Landscape Painter.  His paintings have been described as having an “entrancing, slightly demonic style … neither strictly realist nor naïve, they … Continue reading &rarr;"
+description: "The American Museum of Folk Art in New York has a new exhibit –  Thomas Chambers (1808-1869): American Marine and Landscape Painter.  His paintings have been described as having an \"entrancing, slightly demonic style … neither strictly realist nor naïve, they … Continue reading &rarr;"
 ---
 
 [![cham_650](http://www.oldsaltblog.com/wp-content/uploads/2009/10/cham_650.jpg)](http://graphics8.nytimes.com/images/2009/10/02/arts/02cham_650.jpg)

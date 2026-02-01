@@ -1,7 +1,7 @@
 ---
 title: "Composite Clipper Ship City of Adelaide’s Rudder Arrives in Australia"
 date: 2013-01-04T16:32:46
-slug: composite-clipper-ship-city-of-adelaides-rudder-arrives-in-australia
+slug: "composite-clipper-ship-city-of-adelaides-rudder-arrives-in-australia"
 excerpt: "The rudder for the composite clipper ship, City of Adelaide, arrived in Australia the week before Christmas   Typically, when a ship comes into port, the rudder arrives last. Very little has been typical, however, about the struggle to save the oldest composite clipper ship, the City … Continue reading &rarr;"
 categories:
   - "Current"

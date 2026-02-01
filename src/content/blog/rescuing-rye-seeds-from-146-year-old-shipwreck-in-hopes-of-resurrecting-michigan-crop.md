@@ -1,7 +1,7 @@
 ---
 title: "Rescuing Rye Seeds From 146 Year Old Shipwreck in Hopes of Resurrecting Michigan Crop"
 date: 2024-11-17T21:35:27
-slug: rescuing-rye-seeds-from-146-year-old-shipwreck-in-hopes-of-resurrecting-michigan-crop
+slug: "rescuing-rye-seeds-from-146-year-old-shipwreck-in-hopes-of-resurrecting-michigan-crop"
 excerpt: "In November 1878, the wooden schooner James R. Bentley set sail from Chicago bound for Buffalo loaded with a large shipment of rye. It encountered heavy seas and gale-force winds during the voyage, struck a shoal, and sank near 40 … Continue reading &rarr;"
 categories:
   - "Current"

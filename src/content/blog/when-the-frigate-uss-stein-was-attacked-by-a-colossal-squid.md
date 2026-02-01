@@ -1,7 +1,7 @@
 ---
 title: "When the Frigate USS Stein Was Attacked by a Colossal Squid"
 date: 2022-09-15T16:41:36
-slug: when-the-frigate-uss-stein-was-attacked-by-a-colossal-squid
+slug: "when-the-frigate-uss-stein-was-attacked-by-a-colossal-squid"
 excerpt: "The legend of the Kraken, a giant cephalopod from Greek and Norse mythology that attacked ships and dragged sailors to their doom, is many hundreds of years old. Here is an unlikely, but apparently true, story of the US Navy … Continue reading &rarr;"
 categories:
   - "History"

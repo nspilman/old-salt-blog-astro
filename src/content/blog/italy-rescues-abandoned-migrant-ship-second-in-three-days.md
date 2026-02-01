@@ -1,7 +1,7 @@
 ---
 title: "Italy Rescues Abandoned Migrant Ship — Second in Three Days"
 date: 2015-01-02T15:55:33
-slug: italy-rescues-abandoned-migrant-ship-second-in-three-days
+slug: "italy-rescues-abandoned-migrant-ship-second-in-three-days"
 excerpt: "The Italian Coast Guard has taken control of Ezadeen, a 240′ long, 50 year old cattle carrier registered in Sierra Leone, with 450 migrants aboard off the southern coast of Italy, near Crotone. The crew of the ship abandoned it … Continue reading &rarr;"
 categories:
   - "Current"

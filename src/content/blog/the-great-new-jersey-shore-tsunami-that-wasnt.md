@@ -1,7 +1,7 @@
 ---
 title: "The Great New Jersey Shore Tsunami, That Wasn’t"
 date: 2015-06-09T14:34:08
-slug: the-great-new-jersey-shore-tsunami-that-wasnt
+slug: "the-great-new-jersey-shore-tsunami-that-wasnt"
 excerpt: "It looked like a tsunami rolling in from the Atlantic toward the beach at Sea Girt on the Jersey Shore.  Except that it wasn’t rolling in. It just hung there.  It wasn’t a tsunami. It was merely a beautiful if … Continue reading &rarr;"
 categories:
   - "Current"

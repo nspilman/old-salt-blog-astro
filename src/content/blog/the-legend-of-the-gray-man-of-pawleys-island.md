@@ -1,7 +1,7 @@
 ---
 title: "The Legend of the Gray Man of Pawley’s Island"
 date: 2020-10-31T14:20:24
-slug: the-legend-of-the-gray-man-of-pawleys-island
+slug: "the-legend-of-the-gray-man-of-pawleys-island"
 excerpt: "On Halloween, it seems appropriate to look at the legend of the Gray Man of Pawley’s Island, South Carolina, a benevolent ghost said to warn residents of coming severe storms and hurricanes. Those who heed his warnings are said to … Continue reading &rarr;"
 categories:
   - "Current"

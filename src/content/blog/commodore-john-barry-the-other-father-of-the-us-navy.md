@@ -1,8 +1,8 @@
 ---
 title: "Commodore John Barry — the Other Father of the US Navy"
 date: 2015-03-25T19:24:57
-slug: commodore-john-barry-the-other-father-of-the-us-navy
-excerpt: "This seems like a good day to celebrate birthdays.  So, happy birthday to Commodore John Barry, born on this day in 1745, in Tacumshane, County Wexford, Ireland.  He is considered by many to be the “father of the United States Navy.”  But … Continue reading &rarr;"
+slug: "commodore-john-barry-the-other-father-of-the-us-navy"
+excerpt: "This seems like a good day to celebrate birthdays.  So, happy birthday to Commodore John Barry, born on this day in 1745, in Tacumshane, County Wexford, Ireland.  He is considered by many to be the \"father of the United States Navy.\"  But … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"

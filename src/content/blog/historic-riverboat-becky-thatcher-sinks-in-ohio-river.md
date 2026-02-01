@@ -1,7 +1,7 @@
 ---
 title: "Historic riverboat, Becky Thatcher, sinks in Ohio River"
 date: 2010-02-23T14:41:04
-slug: historic-riverboat-becky-thatcher-sinks-in-ohio-river
+slug: "historic-riverboat-becky-thatcher-sinks-in-ohio-river"
 excerpt: "The historic riverboat, Becky Thatcher, a 220-foot, 74-year-old stern-wheeler sank in the Ohio River off Neville Island near Pittburgh, apparently due to the weight of a record snowfall which also collapsed the top two decks. Historic riverboat sinks in Ohio River … Continue reading &rarr;"
 categories:
   - "Current"

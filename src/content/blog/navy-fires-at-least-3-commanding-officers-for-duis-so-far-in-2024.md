@@ -1,7 +1,7 @@
 ---
 title: "Navy Fires at Least 3 Commanding Officers for DUIs so Far in 2024"
 date: 2024-03-25T10:02:20
-slug: navy-fires-at-least-3-commanding-officers-for-duis-so-far-in-2024
+slug: "navy-fires-at-least-3-commanding-officers-for-duis-so-far-in-2024"
 excerpt: "Task & Purpose reports that three of the five Navy commanding officers who have been fired so far this year, including a Navy SEAL and two submarine captains, were relieved after being arrested off-base for driving under the influence. Navy … Continue reading &rarr;"
 categories:
   - "Current"

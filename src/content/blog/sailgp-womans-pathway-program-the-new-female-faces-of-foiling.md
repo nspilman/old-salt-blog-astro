@@ -1,7 +1,7 @@
 ---
 title: "SailGP Woman’s Pathway Program — the New Female Faces of Foiling"
 date: 2021-12-22T20:26:49
-slug: sailgp-womans-pathway-program-the-new-female-faces-of-foiling
+slug: "sailgp-womans-pathway-program-the-new-female-faces-of-foiling"
 excerpt: "Recently, the Washington Post featured a profile of CJ Perez, an 18-year-old female sailor who recently joined the US team of SailGP. SailGP is an international sailing competition using high-performance F50 foiling catamarans, where teams compete across a season of … Continue reading &rarr;"
 categories:
   - "Current"

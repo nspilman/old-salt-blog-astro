@@ -1,7 +1,7 @@
 ---
-title: "“Boaty McBoatface” Wins in a Landslide & No, That Won’t be the Ship’s Name"
+title: "\"Boaty McBoatface\" Wins in a Landslide & No, That Won’t be the Ship’s Name"
 date: 2016-04-19T08:19:00
-slug: boaty-mcboatface-wins-landslide-no-wont-ship-name
+slug: "boaty-mcboatface-wins-landslide-no-wont-ship-name"
 excerpt: "We previously posted about how the British Natural Environment Research Council (NERC) was asking for suggestions for a name for the new polar research ship, currently under construction at Cammell Laird’s yard in Birkenhead. The suggestion period ended on April 16th … Continue reading &rarr;"
 categories:
   - "Current"

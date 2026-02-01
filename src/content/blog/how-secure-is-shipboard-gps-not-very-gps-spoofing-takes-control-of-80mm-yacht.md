@@ -1,8 +1,8 @@
 ---
 title: "How Secure is Shipboard GPS? Not Very – GPS Spoofing Takes Control of $80MM Yacht"
 date: 2013-07-29T19:22:06
-slug: how-secure-is-shipboard-gps-not-very-gps-spoofing-takes-control-of-80mm-yacht
-excerpt: "In June, the navigation system of the 213′ yacht White Rose was taken over by a team of University of Texas students. Using only a laptop, a small antenna, and a GPS “spoofing” device, the team fed a stronger signal … Continue reading &rarr;"
+slug: "how-secure-is-shipboard-gps-not-very-gps-spoofing-takes-control-of-80mm-yacht"
+excerpt: "In June, the navigation system of the 213′ yacht White Rose was taken over by a team of University of Texas students. Using only a laptop, a small antenna, and a GPS \"spoofing\" device, the team fed a stronger signal … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "University of Texas"
   - "White Rose"
 author: "Rick Spilman"
-description: "In June, the navigation system of the 213′ yacht White Rose was taken over by a team of University of Texas students. Using only a laptop, a small antenna, and a GPS “spoofing” device, the team fed a stronger signal … Continue reading &rarr;"
+description: "In June, the navigation system of the 213′ yacht White Rose was taken over by a team of University of Texas students. Using only a laptop, a small antenna, and a GPS \"spoofing\" device, the team fed a stronger signal … Continue reading &rarr;"
 ---
 
 ![whiterose](http://www.oldsaltblog.com/wp-content/uploads/2013/07/whiterose.jpg)

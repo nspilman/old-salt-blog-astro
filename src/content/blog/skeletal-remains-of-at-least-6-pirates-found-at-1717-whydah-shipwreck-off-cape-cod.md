@@ -1,7 +1,7 @@
 ---
 title: "Skeletal Remains Of At Least 6 Pirates Found At 1717 Whydah Shipwreck Off Cape Cod"
 date: 2022-01-11T18:46:54
-slug: skeletal-remains-of-at-least-6-pirates-found-at-1717-whydah-shipwreck-off-cape-cod
+slug: "skeletal-remains-of-at-least-6-pirates-found-at-1717-whydah-shipwreck-off-cape-cod"
 excerpt: "Last February, archaeologists in Cape Cod recovered six skeletons from the ruins of the Whydah, a British pirate ship that sank during a 1717 storm with 146 men—and a trove of treasure—on board. A team led by Barry Clifford, who discovered … Continue reading &rarr;"
 categories:
   - "Current"
@@ -12,7 +12,7 @@ tags:
   - "Barry Clifford"
   - "Cape Cod"
   - "pirate ship"
-  - "Samuel “Black Sam” Bellamy"
+  - "Samuel \"Black Sam\" Bellamy"
   - "Whydah"
   - "Whydah Pirate Museum"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/whydamodel.jpg"

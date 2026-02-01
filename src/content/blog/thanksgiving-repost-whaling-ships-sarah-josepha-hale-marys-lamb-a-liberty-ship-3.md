@@ -1,7 +1,7 @@
 ---
 title: "Thanksgiving Repost — Whaling Ships, Sarah Josepha Hale, Mary’s Lamb & a Liberty Ship"
 date: 2022-11-24T11:04:59
-slug: thanksgiving-repost-whaling-ships-sarah-josepha-hale-marys-lamb-a-liberty-ship-3
+slug: "thanksgiving-repost-whaling-ships-sarah-josepha-hale-marys-lamb-a-liberty-ship-3"
 excerpt: "Happy Thanksgiving to those on this side of the pond and below the 49th parallel. (The Canadians celebrated the holiday in October.) What do whaling ships, a child’s nursery rhyme, a female magazine editor, and Abraham Lincoln have to do … Continue reading &rarr;"
 categories:
   - "History"

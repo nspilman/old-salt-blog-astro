@@ -1,7 +1,7 @@
 ---
 title: "Help Save the Schooner Lettie G. Howard"
 date: 2012-02-11T09:21:29
-slug: help-save-the-schooner-lettie-g-howard
+slug: "help-save-the-schooner-lettie-g-howard"
 excerpt: "The Lettie G. Howard is in trouble.  The wooden Fredonia schooner was built in Essex, Massachusetts in 1893. She was acquired by the South Street Seaport Museum in 1968 and was designated a National Historic Landmark in 1989.  She was recently drydocked … Continue reading &rarr;"
 categories:
   - "Current"

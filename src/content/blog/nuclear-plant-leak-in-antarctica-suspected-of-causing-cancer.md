@@ -1,7 +1,7 @@
 ---
 title: "Nuclear plant leak in Antarctica suspected of causing cancer"
 date: 2011-03-05T13:08:00
-slug: nuclear-plant-leak-in-antarctica-suspected-of-causing-cancer
+slug: "nuclear-plant-leak-in-antarctica-suspected-of-causing-cancer"
 excerpt: "Reports are surfacing of Navy veterans contracting cancer after serving  at the McMurdo Station in Antarctica when the station was powered by a problem-prone nuclear power plant. Nuclear plant leak in Antarctica suspected of causing cancer … Continue reading &rarr;"
 categories:
   - "Current"

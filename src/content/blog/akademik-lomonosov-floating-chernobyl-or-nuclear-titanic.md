@@ -1,8 +1,8 @@
 ---
 title: "Akademik Lomonosov — Floating Chernobyl or Nuclear Titanic?"
 date: 2018-05-02T08:56:00
-slug: akademik-lomonosov-floating-chernobyl-or-nuclear-titanic
-excerpt: "The media has called the Russian floating nuclear power plant Akademik Lomonosov a “Floating Chernobyl” and a “Nuclear Titanic.” Is this just headline hyperbole? Or, is the barge-mounted 70-megawatt nuclear reactor a serious threat? It is hard to tell, which is scary … Continue reading &rarr;"
+slug: "akademik-lomonosov-floating-chernobyl-or-nuclear-titanic"
+excerpt: "The media has called the Russian floating nuclear power plant Akademik Lomonosov a \"Floating Chernobyl\" and a \"Nuclear Titanic.\" Is this just headline hyperbole? Or, is the barge-mounted 70-megawatt nuclear reactor a serious threat? It is hard to tell, which is scary … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "Arctic"
   - "Russian floating nuclear power plant"
 author: "Rick Spilman"
-description: "The media has called the Russian floating nuclear power plant Akademik Lomonosov a “Floating Chernobyl” and a “Nuclear Titanic.” Is this just headline hyperbole? Or, is the barge-mounted 70-megawatt nuclear reactor a serious threat? It is hard to tell, which is scary … Continue reading &rarr;"
+description: "The media has called the Russian floating nuclear power plant Akademik Lomonosov a \"Floating Chernobyl\" and a \"Nuclear Titanic.\" Is this just headline hyperbole? Or, is the barge-mounted 70-megawatt nuclear reactor a serious threat? It is hard to tell, which is scary … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/05/floatingnuke.jpg)The media has called the Russian floating nuclear power plant *Akademik Lomonosov* a [“Floating Chernobyl”](https://www.washingtonpost.com/news/worldviews/wp/2018/05/01/russia-says-its-sea-based-nuclear-power-plant-is-safe-critics-call-it-a-floating-chernobyl/?noredirect=on&utm_term=.2892c316e967) and a “[Nuclear Titanic](http://www.iflscience.com/technology/russia-launched-its-arcticbound-nuclear-titanic-on-saturday/).” Is this just headline hyperbole? Or, is the barge-mounted 70-megawatt nuclear reactor a serious threat? It is hard to tell, which is scary in its own right. 

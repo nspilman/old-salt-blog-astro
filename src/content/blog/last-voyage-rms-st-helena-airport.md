@@ -1,7 +1,7 @@
 ---
 title: "The Last Voyage of RMS St Helena & Oh, About That Airport…"
 date: 2016-06-16T09:07:01
-slug: last-voyage-rms-st-helena-airport
+slug: "last-voyage-rms-st-helena-airport"
 excerpt: "The RMS St Helena, the last true Royal Mail Ship, recently departed from the UK on its final voyage for its namesake island.  St. Helena, which lies around 1,150 miles off the coast of Angola in the South Atlantic, is the most … Continue reading &rarr;"
 categories:
   - "Current"

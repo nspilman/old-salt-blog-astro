@@ -1,8 +1,8 @@
 ---
 title: "William Liebenow, Decorated WWII PT Boat Skipper, Dies at 97"
 date: 2017-03-02T17:09:38
-slug: william-liebenow-decorated-wwii-pt-boat-skipper-dies-97
-excerpt: "William “Bud” Liebenow recently died at the age of 97. He served on patrol torpedo boats, PT boats, in both the Pacific and the Atlantic during World War II. He was best known as the commander of PT-157, which rescued Jack … Continue reading &rarr;"
+slug: "william-liebenow-decorated-wwii-pt-boat-skipper-dies-97"
+excerpt: "William \"Bud\" Liebenow recently died at the age of 97. He served on patrol torpedo boats, PT boats, in both the Pacific and the Atlantic during World War II. He was best known as the commander of PT-157, which rescued Jack … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,10 +14,10 @@ tags:
   - "patrol torpedo boat"
   - "PT boats"
   - "USS Corry"
-  - "William "Bud" Liebenow"
+  - "William \"Bud\" Liebenow"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/03/liebenow.jpg"
 author: "Rick Spilman"
-description: "William “Bud” Liebenow recently died at the age of 97. He served on patrol torpedo boats, PT boats, in both the Pacific and the Atlantic during World War II. He was best known as the commander of PT-157, which rescued Jack … Continue reading &rarr;"
+description: "William \"Bud\" Liebenow recently died at the age of 97. He served on patrol torpedo boats, PT boats, in both the Pacific and the Atlantic during World War II. He was best known as the commander of PT-157, which rescued Jack … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2017/03/liebenow.jpg)William “Bud” Liebenow](https://www.bostonglobe.com/metro/obituaries/2017/02/27/william-liebenow-wwii-navy-officer-who-helped-rescue-kennedy/5CIgCS13aieLbBnuMApq1N/story.html) recently died at the age of 97. He served on patrol torpedo boats, PT boats, in both the Pacific and the Atlantic during World War II. He was best known as the commander of PT-157, which rescued Jack Kennedy and the ten other surviving crew of the PT 109 from behind enemy lines near the Solomon Islands in the South Pacific, after Kennedy’s PT boat was cut in half by a Japanese destroyer in August of 1943. Kennedy would later become the 35th President of the United States. Liebenow briefly joined Kennedy on the campaign trial during that election and he and his wife, Lucy, were invited by Kennedy to his inaugural ball in 1961.

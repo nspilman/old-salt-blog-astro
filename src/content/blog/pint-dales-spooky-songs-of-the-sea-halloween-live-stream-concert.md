@@ -1,7 +1,7 @@
 ---
 title: "Pint & Dale’s Spooky Songs of the Sea Halloween Live Stream Concert"
 date: 2021-10-30T14:19:07
-slug: pint-dales-spooky-songs-of-the-sea-halloween-live-stream-concert
+slug: "pint-dales-spooky-songs-of-the-sea-halloween-live-stream-concert"
 excerpt: "On Halloween, Sunday, October 31, at 2:30 Pacific Time (5:30 Eastern TIme), William Pint and Felicia Dale are hosting Spooky Songs of the Sea in an online live streaming Facebook event. They will perform songs about ghostly sailors, haunted ships, … Continue reading &rarr;"
 categories:
   - "Current"

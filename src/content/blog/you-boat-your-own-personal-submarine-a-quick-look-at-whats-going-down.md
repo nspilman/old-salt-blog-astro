@@ -1,7 +1,7 @@
 ---
 title: "You Boat – Your Own Personal Submarine, a Quick Look at What’s Going Down"
 date: 2011-09-28T18:29:46
-slug: you-boat-your-own-personal-submarine-a-quick-look-at-whats-going-down
+slug: "you-boat-your-own-personal-submarine-a-quick-look-at-whats-going-down"
 excerpt: "Slate.com recently recently featured and article, You-Boat, Can you buy your own submarine?.  They noted that drug smugglers had their own submarines to sneak cocaine and other drugs north. If they had subs why couldn’t we all own a personal … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

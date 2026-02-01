@@ -1,7 +1,7 @@
 ---
 title: "Götheborg & Expedition 2022 — Sailing for Asia in April"
 date: 2021-09-04T16:25:14
-slug: gotheborg-expedition-2022-sailing-for-asia-in-april
+slug: "gotheborg-expedition-2022-sailing-for-asia-in-april"
 excerpt: "Götheborg of Sweden, a full-sized replica of a Swedish East Indiaman, sailed home today from Stockholm to her homeport in preparation for a voyage to Asia in April of next year.   The nearly 60-meter (197-feet) long East Indiaman is billed … Continue reading &rarr;"
 categories:
   - "Current"

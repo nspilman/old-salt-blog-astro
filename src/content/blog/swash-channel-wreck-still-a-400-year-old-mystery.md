@@ -1,7 +1,7 @@
 ---
 title: "400 Year Old Swash Channel Wreck Still a  Mystery"
 date: 2013-08-20T14:06:42
-slug: swash-channel-wreck-still-a-400-year-old-mystery
+slug: "swash-channel-wreck-still-a-400-year-old-mystery"
 excerpt: "Two years ago we posted about the efforts by a Bournemouth University marine archaeology team to save the a mysterious ship known only as the Swash Channel Wreck, after its location off the Dorset coast.   The team is now … Continue reading &rarr;"
 categories:
   - "History"

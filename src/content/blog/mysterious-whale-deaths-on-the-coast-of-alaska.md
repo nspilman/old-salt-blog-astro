@@ -1,7 +1,7 @@
 ---
 title: "Mysterious Whale Deaths on the Coast of Alaska"
 date: 2015-08-22T11:33:06
-slug: mysterious-whale-deaths-on-the-coast-of-alaska
+slug: "mysterious-whale-deaths-on-the-coast-of-alaska"
 excerpt: "Since May, 30 dead whales have been found along the coast of Alaska. This compares to a total of five dead whales reported for all of last year.  According to the National Oceanic & Atmospheric Administration (NOAA) 11 fin whales, 14 … Continue reading &rarr;"
 categories:
   - "Current"

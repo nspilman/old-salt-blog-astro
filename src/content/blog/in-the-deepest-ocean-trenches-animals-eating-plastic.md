@@ -1,7 +1,7 @@
 ---
 title: "In the Deepest Ocean Trenches, Animals Eating Plastic"
 date: 2019-03-07T17:04:45
-slug: in-the-deepest-ocean-trenches-animals-eating-plastic
+slug: "in-the-deepest-ocean-trenches-animals-eating-plastic"
 excerpt: "The bottom of the Mariana Trench, in the western Pacific Ocean, is the deepest point in any ocean of the world.  At its deepest, the bottom is over 36,000 feet below the surface. In comparison, Mount Everest is 29,000 above … Continue reading &rarr;"
 categories:
   - "Current"

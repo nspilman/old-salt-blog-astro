@@ -1,7 +1,7 @@
 ---
 title: "Over 400 Sailors Test Positive For Coronavirus on USS Theodore Roosevelt"
 date: 2020-04-11T18:22:17
-slug: over-400-sailors-test-positive-for-coronavirus-on-uss-theodore-roosevelt
+slug: "over-400-sailors-test-positive-for-coronavirus-on-uss-theodore-roosevelt"
 excerpt: "In late March, there were reports of three cases of coronavirus on the aircraft carrier USS Theodore Roosevelt.  The number quickly grew to dozens and the ship was diverted to Guam. Now, the testing of sailors aboard the Roosevelt is … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

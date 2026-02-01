@@ -1,7 +1,7 @@
 ---
 title: "Salvage Plan for the MV Canadian Miner"
 date: 2011-10-04T08:40:18
-slug: salvage-plan-for-the-mv-canadian-miner
+slug: "salvage-plan-for-the-mv-canadian-miner"
 excerpt: "What is it about ships being towed to the scrap yard? The MT Phoenix under tow, on her way to the scrap yard last July broke her towing cable and drifted ashore on Salt Rocks in Sheffield Beach, South Africa.  She … Continue reading &rarr;"
 categories:
   - "Current"

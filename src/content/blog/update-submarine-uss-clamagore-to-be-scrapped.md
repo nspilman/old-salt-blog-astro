@@ -1,8 +1,8 @@
 ---
 title: "Update: Submarine USS Clamagore to be Scrapped"
 date: 2022-03-21T18:22:24
-slug: update-submarine-uss-clamagore-to-be-scrapped
-excerpt: "The Patriots Point Naval & Maritime Museum in South Carolina has decided after years of debate to scrap USS Clamagore, a Cold War-era submarine, and save some of its artifacts for an exhibit.  “Unfortunately, we cannot financially sustain the maintenance … Continue reading &rarr;"
+slug: "update-submarine-uss-clamagore-to-be-scrapped"
+excerpt: "The Patriots Point Naval & Maritime Museum in South Carolina has decided after years of debate to scrap USS Clamagore, a Cold War-era submarine, and save some of its artifacts for an exhibit.  \"Unfortunately, we cannot financially sustain the maintenance … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "USS Yorktown"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/clamagore.jpg"
 author: "Rick Spilman"
-description: "The Patriots Point Naval & Maritime Museum in South Carolina has decided after years of debate to scrap USS Clamagore, a Cold War-era submarine, and save some of its artifacts for an exhibit.  “Unfortunately, we cannot financially sustain the maintenance … Continue reading &rarr;"
+description: "The Patriots Point Naval & Maritime Museum in South Carolina has decided after years of debate to scrap USS Clamagore, a Cold War-era submarine, and save some of its artifacts for an exhibit.  \"Unfortunately, we cannot financially sustain the maintenance … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/clamagore.jpg)The [Patriots Point Naval & Maritime Museum](https://www.patriotspoint.org/) in South Carolina has decided after years of debate to scrap [USS *Clamagore*](https://en.wikipedia.org/wiki/USS_Clamagore_\(SS-343\)), a Cold War-era submarine, and save some of its artifacts for an exhibit. 

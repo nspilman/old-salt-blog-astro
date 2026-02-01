@@ -1,7 +1,7 @@
 ---
 title: "Spain’s New S-80 Plus Submarine Too Big For its Dock"
 date: 2018-07-28T15:07:41
-slug: spains-new-s-80-plussubmarine-too-big-for-its-dock
+slug: "spains-new-s-80-plussubmarine-too-big-for-its-dock"
 excerpt: "Spain’s S-80 Plus submarine is an advanced design featuring Air Independent Propulsion  (AIP), which is reported to have cost around € 1 billion. The original design came in overweight, so it necessary to lengthen the submarine by 10 meters.  Now, it appears that the newly … Continue reading &rarr;"
 categories:
   - "Current"

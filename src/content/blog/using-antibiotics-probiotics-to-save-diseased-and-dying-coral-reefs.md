@@ -1,7 +1,7 @@
 ---
 title: "Using Antibiotics & Probiotics to Save Diseased and Dying Coral Reefs"
 date: 2023-12-13T21:07:29
-slug: using-antibiotics-probiotics-to-save-diseased-and-dying-coral-reefs
+slug: "using-antibiotics-probiotics-to-save-diseased-and-dying-coral-reefs"
 excerpt: "When we went on a family scuba diving trip to the coral reefs of Roatan, Honduras, we took the antibiotic amoxicillin as a prophylaxis for malaria.  Scientists are now using the same antibiotic to combat stony coral tissue loss disease … Continue reading &rarr;"
 categories:
   - "Current"

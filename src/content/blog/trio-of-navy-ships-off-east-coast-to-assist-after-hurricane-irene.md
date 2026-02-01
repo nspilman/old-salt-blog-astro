@@ -1,7 +1,7 @@
 ---
 title: "Trio of Navy Ships off East Coast to Assist After Hurricane Irene"
 date: 2011-08-30T16:05:03
-slug: trio-of-navy-ships-off-east-coast-to-assist-after-hurricane-irene
+slug: "trio-of-navy-ships-off-east-coast-to-assist-after-hurricane-irene"
 excerpt: "Three US Navy amphibious assault and transport ships; the USS Wasp, the USS San Antonio, and the USS New York; are just offshore of New York harbor as of this morning to provide assistance, if needed, to the states of New York, Connecticut or New Jersey after Hurricane Irene. … Continue reading &rarr;"
 categories:
   - "Current"

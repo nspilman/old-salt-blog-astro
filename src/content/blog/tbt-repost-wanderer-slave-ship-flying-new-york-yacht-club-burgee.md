@@ -1,7 +1,7 @@
 ---
 title: "TBT Repost: Wanderer — the Slave Ship Flying a New York Yacht Club Burgee"
 date: 2017-09-28T16:30:28
-slug: tbt-repost-wanderer-slave-ship-flying-new-york-yacht-club-burgee
+slug: "tbt-repost-wanderer-slave-ship-flying-new-york-yacht-club-burgee"
 excerpt: "For Throw-Back Thursday (TBT) here is a repost of an unlikely bit of history which we posted three years ago.   The schooner yacht Wanderer was built in 1857 for Colonel John D. Johnson, a New Orleans sugar baron. At just over … Continue reading &rarr;"
 categories:
   - "History"

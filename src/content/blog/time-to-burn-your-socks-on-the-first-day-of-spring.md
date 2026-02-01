@@ -1,7 +1,7 @@
 ---
 title: "Time to Burn Your Socks on the First Day of Spring?"
 date: 2019-03-20T12:08:41
-slug: time-to-burn-your-socks-on-the-first-day-of-spring
+slug: "time-to-burn-your-socks-on-the-first-day-of-spring"
 excerpt: "On Maryland’s Eastern Shore and in a handful of other ports around the country, there is a sailors’ tradition of burning your socks on the vernal equinox, the first day of Spring. If you have been wearing the same woolen … Continue reading &rarr;"
 categories:
   - "Current"

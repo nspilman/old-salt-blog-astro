@@ -1,8 +1,8 @@
 ---
-title: "“Spreading Joy Around the World,” aka “Rubber Duck” – Inflated, Deflated, Revived & Censored"
+title: "\"Spreading Joy Around the World,\" aka \"Rubber Duck\" – Inflated, Deflated, Revived & Censored"
 date: 2013-06-04T14:46:40
-slug: spreading-joy-around-the-world-aka-rubber-duck-inflated-deflated-revived-censored
-excerpt: "In early May, a five story high inflatable rubber duck was set adrift in Hong Kong harbor. The duck was sponsored by the Harbour City shopping mall. Created by the Dutch artist Florentijn Hofman, it was named “Spreading Joy Around the … Continue reading &rarr;"
+slug: "spreading-joy-around-the-world-aka-rubber-duck-inflated-deflated-revived-censored"
+excerpt: "In early May, a five story high inflatable rubber duck was set adrift in Hong Kong harbor. The duck was sponsored by the Harbour City shopping mall. Created by the Dutch artist Florentijn Hofman, it was named \"Spreading Joy Around the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Spreading Joy Around the World"
   - "Tiananmen Square"
 author: "Rick Spilman"
-description: "In early May, a five story high inflatable rubber duck was set adrift in Hong Kong harbor. The duck was sponsored by the Harbour City shopping mall. Created by the Dutch artist Florentijn Hofman, it was named “Spreading Joy Around the … Continue reading &rarr;"
+description: "In early May, a five story high inflatable rubber duck was set adrift in Hong Kong harbor. The duck was sponsored by the Harbour City shopping mall. Created by the Dutch artist Florentijn Hofman, it was named \"Spreading Joy Around the … Continue reading &rarr;"
 ---
 
 ![Photo:PHILIPPE LOPEZ / AFP / GETTY IMAGES](http://www.oldsaltblog.com/wp-content/uploads/2013/06/yellowduck1.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Newport, RI Labor Day Festivities Rearranged Slightly by Earl"
 date: 2010-09-04T07:55:48
-slug: newport-ri-labor-day-festivities-rearranged-slightly-by-earl
+slug: "newport-ri-labor-day-festivities-rearranged-slightly-by-earl"
 excerpt: "After Earl, some R.I. weekend events adjust schedules To give participants in the Museum of Yachting’s 31st annual Classic Yacht Regatta in Newport time to get their boats back in the water in the wake of the storm, races scheduled … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Georg Büchner, ex-Charlesville, Last of the Belgian-Congo Liners, May Be Scrapped"
 date: 2013-01-30T15:00:23
-slug: georg-buchner-ex-charlesville-last-of-the-belgian-congo-liners-may-be-scrapped
+slug: "georg-buchner-ex-charlesville-last-of-the-belgian-congo-liners-may-be-scrapped"
 excerpt: "In its more than 60 year history, the MS Georg Büchner, ex-Charlesville, served in liner service between Belgium and the Belgian Congo and Angola, was a DDR training ship and for the last decade was a hotel and youth hostel … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

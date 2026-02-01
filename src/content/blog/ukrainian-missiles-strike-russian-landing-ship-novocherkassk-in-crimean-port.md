@@ -1,7 +1,7 @@
 ---
 title: "Ukrainian Missiles Strike Russian Landing Ship Novocherkassk in Crimean Port"
 date: 2023-12-26T19:31:39
-slug: ukrainian-missiles-strike-russian-landing-ship-novocherkassk-in-crimean-port
+slug: "ukrainian-missiles-strike-russian-landing-ship-novocherkassk-in-crimean-port"
 excerpt: "Today, the Ukrainian Air Force said that it had destroyed the Novocherkassk, a large landing ship, in the Crimean port of Feodosia overnight. Russia’s Defense Ministry told the Tass state news agency that the ship had been damaged in an … Continue reading &rarr;"
 categories:
   - "Current"

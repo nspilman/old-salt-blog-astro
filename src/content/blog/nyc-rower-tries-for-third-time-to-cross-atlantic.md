@@ -1,7 +1,7 @@
 ---
 title: "NYC rower tries for third time to cross Atlantic"
 date: 2011-02-27T22:57:58
-slug: nyc-rower-tries-for-third-time-to-cross-atlantic
+slug: "nyc-rower-tries-for-third-time-to-cross-atlantic"
 excerpt: "We can only wish him the best of luck. The third time may be the charm. NYC rower tries for third time to cross Atlantic There is something about the sea that has caused Victor Mooney to lose all reason. … Continue reading &rarr;"
 categories:
   - "Current"

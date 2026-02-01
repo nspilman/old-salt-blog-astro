@@ -1,7 +1,7 @@
 ---
 title: "Stowaways — Complicated, Messy, Expensive and Possibly Dangerous"
 date: 2015-07-22T10:21:58
-slug: stowaways-complicated-messy-expensive-and-possibly-dangerous
+slug: "stowaways-complicated-messy-expensive-and-possibly-dangerous"
 author: "Rick Spilman"
 description: "Recently, the New York Times published Stowaways and Crimes Aboard Aboard a Scofflaw Ship, the first of a four part series, by Ian Urbina. At the core of the article, Urbina tells the story of two South Africans who have … Continue reading &rarr;"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Covid-19 Fears & the Alaskan Salmon Season in Bristol Bay"
 date: 2020-06-25T16:58:52
-slug: covid-19-fears-the-alaskan-salmon-season-in-bristol-bay
+slug: "covid-19-fears-the-alaskan-salmon-season-in-bristol-bay"
 excerpt: "Every year, the Alaskan fishing industry attracts tens of thousands of migrant workers. In remote Bristol Bay, Alaska, between 10,000 and 15,000 fishermen come to work on the salmon boats plying the Bering Sea, while another 6,000 workers or so … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

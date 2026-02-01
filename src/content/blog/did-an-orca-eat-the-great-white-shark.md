@@ -1,7 +1,7 @@
 ---
 title: "Update: What Ate the Great White Shark?"
 date: 2014-06-07T08:22:51
-slug: did-an-orca-eat-the-great-white-shark
+slug: "did-an-orca-eat-the-great-white-shark"
 excerpt: "A recent news story and video spins a fascinating mystery. Scientists in Australia tagged a healthy 9-foot great white shark. Four months later they found the tracking device washed up on a beach. The data in the the tracking device … Continue reading &rarr;"
 categories:
   - "Current"

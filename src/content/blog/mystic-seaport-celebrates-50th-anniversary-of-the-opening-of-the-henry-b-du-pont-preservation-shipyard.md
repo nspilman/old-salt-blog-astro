@@ -1,7 +1,7 @@
 ---
 title: "Mystic Seaport Celebrates 50th Anniversary of the Opening of the Henry B. du Pont Preservation Shipyard"
 date: 2022-12-18T10:02:14
-slug: mystic-seaport-celebrates-50th-anniversary-of-the-opening-of-the-henry-b-du-pont-preservation-shipyard
+slug: "mystic-seaport-celebrates-50th-anniversary-of-the-opening-of-the-henry-b-du-pont-preservation-shipyard"
 excerpt: "The year 2022 marks the 50th anniversary of the opening of the Henry B. du Pont Preservation Shipyard at the Mystic Seaport Museum, the first shipyard built specifically for preservation in the United States, and possibly the world, marking a … Continue reading &rarr;"
 categories:
   - "Current"

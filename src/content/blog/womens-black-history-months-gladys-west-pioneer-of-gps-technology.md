@@ -1,7 +1,7 @@
 ---
 title: "Women’s & Black History Months: Gladys West — Pioneer of GPS Technology"
 date: 2023-03-10T10:54:32
-slug: womens-black-history-months-gladys-west-pioneer-of-gps-technology
+slug: "womens-black-history-months-gladys-west-pioneer-of-gps-technology"
 excerpt: "In honor of both Women’s History Month and Black History Month, an updated repost about Gladys West. From maps to apps to chartplotters, we all rely on GPS these days, sometimes whether we realize it or not. Ethan Siegel wrote … Continue reading &rarr;"
 categories:
   - "Current"

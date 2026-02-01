@@ -1,7 +1,7 @@
 ---
 title: "Britain Set to Introduce Sailing Ships to Counter Emissions, or Maybe Not"
 date: 2011-11-11T12:40:41
-slug: britain-set-to-introduce-sailing-ships-to-counter-emissions-or-maybe-not
+slug: "britain-set-to-introduce-sailing-ships-to-counter-emissions-or-maybe-not"
 excerpt: "I love the headline in the article in Sail-World – Britain set to introduce sailing ships to counter emissions.  The first paragraph reads: It’s official. The days of sail may be just about to recommence. The UK’s Committee on Climate Change has come out with … Continue reading &rarr;"
 categories:
   - "Current"

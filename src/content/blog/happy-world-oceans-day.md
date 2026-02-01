@@ -1,15 +1,15 @@
 ---
 title: "Happy World Oceans Day! A Day to Mourn, to Celebrate or Both?"
 date: 2016-06-08T10:25:01
-slug: happy-world-oceans-day
-excerpt: "I am never sure what to make of the yearly “World Oceans Day.” On a world where 71% of the globe is covered by oceans and where oceans contain 99 percent of the living space on the planet, shouldn’t every day be … Continue reading &rarr;"
+slug: "happy-world-oceans-day"
+excerpt: "I am never sure what to make of the yearly \"World Oceans Day.\" On a world where 71% of the globe is covered by oceans and where oceans contain 99 percent of the living space on the planet, shouldn’t every day be … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
   - "World Oceans Day"
 author: "Rick Spilman"
-description: "I am never sure what to make of the yearly “World Oceans Day.” On a world where 71% of the globe is covered by oceans and where oceans contain 99 percent of the living space on the planet, shouldn’t every day be … Continue reading &rarr;"
+description: "I am never sure what to make of the yearly \"World Oceans Day.\" On a world where 71% of the globe is covered by oceans and where oceans contain 99 percent of the living space on the planet, shouldn’t every day be … Continue reading &rarr;"
 ---
 
 ![square1resized](http://www.oldsaltblog.com/wp-content/uploads/2016/06/square1resized.jpg)I am never sure what to make of the yearly “[World Oceans Day](http://www.worldoceansday.org/).” On a world where 71% of the globe is covered by oceans and where oceans contain 99 percent of the living space on the planet, shouldn’t every day be “World Ocean’s Day”?

@@ -1,8 +1,8 @@
 ---
 title: "Admiral Mickey Says Never-mind"
 date: 2011-05-26T16:13:54
-slug: admiral-mickey-says-never-mind
-excerpt: "Last week we posted about Disney filing  three trademark applications to to claim the rights to the phrase “SEAL Team 6.”  Apparently, Admiral Mickey Mouse has changed his mind. Disney Withdraws ‘SEAL Team 6’ Trademark Application Out of “deference” to the Navy, … Continue reading &rarr;"
+slug: "admiral-mickey-says-never-mind"
+excerpt: "Last week we posted about Disney filing  three trademark applications to to claim the rights to the phrase \"SEAL Team 6.\"  Apparently, Admiral Mickey Mouse has changed his mind. Disney Withdraws ‘SEAL Team 6’ Trademark Application Out of \"deference\" to the Navy, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Seal Team Six"
   - "trademark"
 author: "Rick Spilman"
-description: "Last week we posted about Disney filing  three trademark applications to to claim the rights to the phrase “SEAL Team 6.”  Apparently, Admiral Mickey Mouse has changed his mind. Disney Withdraws ‘SEAL Team 6’ Trademark Application Out of “deference” to the Navy, … Continue reading &rarr;"
+description: "Last week we posted about Disney filing  three trademark applications to to claim the rights to the phrase \"SEAL Team 6.\"  Apparently, Admiral Mickey Mouse has changed his mind. Disney Withdraws ‘SEAL Team 6’ Trademark Application Out of \"deference\" to the Navy, … Continue reading &rarr;"
 ---
 
 [Last week we posted about Disney filing  three trademark applications](http://www.oldsaltblog.com/2011/05/16/admiral-mickey-mouse-seal-team-6/) to to claim the rights to the phrase “SEAL Team 6.”  Apparently, Admiral Mickey Mouse has changed his mind.

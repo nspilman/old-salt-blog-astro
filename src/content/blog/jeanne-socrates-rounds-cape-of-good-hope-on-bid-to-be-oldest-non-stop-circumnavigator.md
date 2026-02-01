@@ -1,7 +1,7 @@
 ---
 title: "Jeanne Socrates Rounds Cape of Good Hope on Bid to Be Oldest Non-Stop Circumnavigator"
 date: 2013-02-17T11:59:28
-slug: jeanne-socrates-rounds-cape-of-good-hope-on-bid-to-be-oldest-non-stop-circumnavigator
+slug: "jeanne-socrates-rounds-cape-of-good-hope-on-bid-to-be-oldest-non-stop-circumnavigator"
 excerpt: "Jeanne Socrates, a 70 year old British grandmother, has rounded the Cape of Good Hope on her sailboat, Nereida, in her attempt to become the oldest non-stop solo circumnavigator.  She left Victoria, British Columbia in October and successfully rounded Cape Horn in January. … Continue reading &rarr;"
 categories:
   - "Current"

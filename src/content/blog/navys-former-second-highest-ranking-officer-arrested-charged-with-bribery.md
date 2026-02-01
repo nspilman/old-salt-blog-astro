@@ -1,7 +1,7 @@
 ---
 title: "Navy’s Former Second-Highest-Ranking Officer Arrested, Charged with Bribery"
 date: 2024-06-01T17:58:07
-slug: navys-former-second-highest-ranking-officer-arrested-charged-with-bribery
+slug: "navys-former-second-highest-ranking-officer-arrested-charged-with-bribery"
 excerpt: "The Department of Justice announced yesterday the arrest of Robert P. Burke, a retired four-star Navy Admiral, on criminal charges in a bribery scheme that allegedly awarded a sole-source contract to a company in 2021 in exchange for a $500,000-a-year … Continue reading &rarr;"
 categories:
   - "Current"

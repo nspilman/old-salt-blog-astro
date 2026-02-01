@@ -1,7 +1,7 @@
 ---
 title: "USNS Bejanmin Isherwood and the USNS Henry Eckford  – From the Shipyard to the Scrapyard Without a Day of Service"
 date: 2011-07-18T09:13:01
-slug: usns-bejanmin-isherwood-and-the-usns-henry-eckford-from-the-shipyard-to-the-scrapyard-without-a-day-of-service
+slug: "usns-bejanmin-isherwood-and-the-usns-henry-eckford-from-the-shipyard-to-the-scrapyard-without-a-day-of-service"
 excerpt: "Twenty five years ago, the US Navy contracted to build two fleet oilers, the USNS Bejanmin Isherwood and the USNS Henry Eckford.   The Navy spent at least $300 million dollars on their construction. Due to shipyard defaults and various … Continue reading &rarr;"
 categories:
   - "Current"

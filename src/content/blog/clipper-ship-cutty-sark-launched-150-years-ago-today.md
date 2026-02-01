@@ -1,7 +1,7 @@
 ---
 title: "Clipper Ship Cutty Sark Launched 150 Years Ago Today"
 date: 2019-11-22T15:38:43
-slug: clipper-ship-cutty-sark-launched-150-years-ago-today
+slug: "clipper-ship-cutty-sark-launched-150-years-ago-today"
 excerpt: "On Monday, November 22, 1869, the composite clipper ship Cutty Sark, built for the Jock Willis Shipping, Line was launched from the Scott & Linton shipyard on the River Leven in Scotland. The Cutty Sark, one of the last tea … Continue reading &rarr;"
 categories:
   - "Current"

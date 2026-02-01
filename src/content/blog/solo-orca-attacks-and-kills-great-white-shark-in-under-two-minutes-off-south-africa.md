@@ -1,7 +1,7 @@
 ---
 title: "Solo Orca Attacks and Kills Great White Shark in Under Two Minutes Off South Africa"
 date: 2024-03-03T20:06:51
-slug: solo-orca-attacks-and-kills-great-white-shark-in-under-two-minutes-off-south-africa
+slug: "solo-orca-attacks-and-kills-great-white-shark-in-under-two-minutes-off-south-africa"
 excerpt: "Orcas attacking and killing sharks, even great white sharks, off the coast of South Africa is nothing new. A year ago, a pair of orcas killed 17 sharks in one day in South Africa’s Pearly Bay. More recently, scientists were … Continue reading &rarr;"
 categories:
   - "Current"

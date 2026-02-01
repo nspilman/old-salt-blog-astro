@@ -1,7 +1,7 @@
 ---
 title: "Update: Tsunami Floating Dock an Instant Tourist Attraction on Oregon’s Agate Beach"
 date: 2012-06-21T16:25:31
-slug: update-tsunami-floating-dock-an-instant-tourist-attraction-on-oregons-agate-beach
+slug: "update-tsunami-floating-dock-an-instant-tourist-attraction-on-oregons-agate-beach"
 excerpt: "Earlier in the month, we posted about a a 66 feet long, 165 tonne, starfish and barnacle encrusted, steel and concrete floating dock that washed up on Agate beach, south-west of Portland, Oregon.  We were surprised to hear that the dock, torn free … Continue reading &rarr;"
 categories:
   - "Current"

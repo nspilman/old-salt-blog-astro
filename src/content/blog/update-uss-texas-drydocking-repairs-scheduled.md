@@ -1,7 +1,7 @@
 ---
 title: "Update: USS Texas Drydocking & Repairs Scheduled"
 date: 2021-10-29T17:17:58
-slug: update-uss-texas-drydocking-repairs-scheduled
+slug: "update-uss-texas-drydocking-repairs-scheduled"
 excerpt: "For years, we have been following the valiant efforts to keep the battleship USS Texas afloat at its berth in the Buffalo Bayou at the San Jacinto Battleground Historic Site in La Porte, Texas. Now, the Battleship Texas Foundation has … Continue reading &rarr;"
 categories:
   - "Current"

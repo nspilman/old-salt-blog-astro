@@ -1,7 +1,7 @@
 ---
 title: "Riverboat Car Washes"
 date: 2018-12-24T18:08:31
-slug: riverboat-car-washes
+slug: "riverboat-car-washes"
 excerpt: "We recently visited St. Augustine, FL. Founded in 1567, it is the oldest continually occupied city in the United States and is replete with a fascinating history and a plethora of sites and museums worth visiting. This post, however, is not about … Continue reading &rarr;"
 categories:
   - "Current"

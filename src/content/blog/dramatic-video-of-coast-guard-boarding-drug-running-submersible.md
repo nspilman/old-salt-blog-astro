@@ -1,7 +1,7 @@
 ---
 title: "Dramatic Video of Coast Guard Boarding Drug-Running Submersible"
 date: 2019-07-15T09:50:44
-slug: dramatic-video-of-coast-guard-boarding-drug-running-submersible
+slug: "dramatic-video-of-coast-guard-boarding-drug-running-submersible"
 excerpt: "Here is an amazing short video of the US Coast Guard overtaking and boarding a drug-running submersible. A Coast Guardsman is seen leaping aboard the submersible while underway and forcing the hatch open to apprehend the smugglers. The capture took … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Captain Tammie Jo Shults, Flight 1380 & Female Pilots in the US Navy"
 date: 2018-04-19T22:04:56
-slug: captain-tammie-jo-shults-flight-1380-female-pilots-in-the-us-navy
+slug: "captain-tammie-jo-shults-flight-1380-female-pilots-in-the-us-navy"
 excerpt: "On Tuesday, the 149 passengers on Southwest Airline’s Flight 1380 were shocked when about 20 minutes after takeoff from New York, the plane’s left engine exploded, blowing a hole in the fuselage. The rapid depressurization sucked one woman passenger partially out of … Continue reading &rarr;"
 categories:
   - "Current"

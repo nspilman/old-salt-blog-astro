@@ -1,8 +1,8 @@
 ---
 title: "Ark in Urk Goes Berserk — Second Casualty in Two Years"
 date: 2018-01-06T16:20:33
-slug: ark-urk-goes-berserk-second-casualty-two-years
-excerpt: "A half-scale notional replica of Noah’s Ark went adrift in storm winds of 70 mph in the Dutch port of Urk last Wednesday, damaging several boats. People and animals aboard the “ark” were rescued, possibly two by two. To be … Continue reading &rarr;"
+slug: "ark-urk-goes-berserk-second-casualty-two-years"
+excerpt: "A half-scale notional replica of Noah’s Ark went adrift in storm winds of 70 mph in the Dutch port of Urk last Wednesday, damaging several boats. People and animals aboard the \"ark\" were rescued, possibly two by two. To be … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Noah's Ark"
   - "Urk"
 author: "Rick Spilman"
-description: "A half-scale notional replica of Noah’s Ark went adrift in storm winds of 70 mph in the Dutch port of Urk last Wednesday, damaging several boats. People and animals aboard the “ark” were rescued, possibly two by two. To be … Continue reading &rarr;"
+description: "A half-scale notional replica of Noah’s Ark went adrift in storm winds of 70 mph in the Dutch port of Urk last Wednesday, damaging several boats. People and animals aboard the \"ark\" were rescued, possibly two by two. To be … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/01/ArkinUrk.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Lifesaving Drone Drops Inflatable Rescue Pod to Two Swimmers in Australia"
 date: 2018-01-22T14:33:20
-slug: lifesaving-drone-drops-inflatable-rescue-pod-two-swimmers-australia
+slug: "lifesaving-drone-drops-inflatable-rescue-pod-two-swimmers-australia"
 excerpt: "Amazon is currently testing using drones to deliver packages. Recently in Australia, lifeguards used a drone to deliver something far more vital than a package from an online retailer.  They successfully used a Little Ripper drone to drop a flotation rescue … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

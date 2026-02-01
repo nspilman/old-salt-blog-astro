@@ -1,7 +1,7 @@
 ---
 title: "The Wreck of the Edmund Fitzgerald – November 10, 1975"
 date: 2011-11-10T16:07:25
-slug: the-wreck-of-the-edmund-fitzgerald-november-10-1975
+slug: "the-wreck-of-the-edmund-fitzgerald-november-10-1975"
 excerpt: "A fitting tribute to the 29 men who went down with the Great Lakes ore boat, the SS Edmund Fitgerald, which sank 36 years ago today in Lake Superior. I am having a hard time believing that she sank that many years ago. The … Continue reading &rarr;"
 categories:
   - "Current"

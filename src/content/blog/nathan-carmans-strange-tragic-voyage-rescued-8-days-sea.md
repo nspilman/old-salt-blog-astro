@@ -1,7 +1,7 @@
 ---
 title: "Nathan Carman’s Strange & Tragic Voyage — Rescued After 8 Days at Sea"
 date: 2016-09-29T14:54:52
-slug: nathan-carmans-strange-tragic-voyage-rescued-8-days-sea
+slug: "nathan-carmans-strange-tragic-voyage-rescued-8-days-sea"
 excerpt: "On Monday, Nathan Carmen, 22, was rescued 115 nautical miles from Martha’s Vineyard in the Atlantic Ocean by the Chinese freighter Lucky Orient. He had spent eight days in a life raft after his 32′ center cockpit aluminum boat sank suddenly while … Continue reading &rarr;"
 categories:
   - "Current"

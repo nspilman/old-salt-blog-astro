@@ -1,7 +1,7 @@
 ---
 title: "Remembering the HMY Iolaire Disaster, 100 Years Ago This Week"
 date: 2019-01-04T15:55:24
-slug: remembering-the-hmy-iolaire-disaster-100-years-ago-this-week
+slug: "remembering-the-hmy-iolaire-disaster-100-years-ago-this-week"
 excerpt: "On New Year’s Eve 1918, over 200 men crowded the dock at the port of Kyle of Lochalsh waiting to the board the HMY Iolaire, a 190′ long iron-hulled yacht requisitioned by the Admiralty. Most of the men were Royal Navy Reservists. … Continue reading &rarr;"
 categories:
   - "History"

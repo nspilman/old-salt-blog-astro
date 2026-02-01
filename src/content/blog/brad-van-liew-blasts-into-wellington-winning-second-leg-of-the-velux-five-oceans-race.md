@@ -1,7 +1,7 @@
 ---
 title: "Brad van Liew blasts into Wellington winning second leg of the Velux 5 Oceans Race"
 date: 2011-01-16T17:14:41
-slug: brad-van-liew-blasts-into-wellington-winning-second-leg-of-the-velux-five-oceans-race
+slug: "brad-van-liew-blasts-into-wellington-winning-second-leg-of-the-velux-five-oceans-race"
 excerpt: "American Brad van Liew sailing his Eco 60 yacht Le Pingouin won the second leg of the Velux 5 Oceans race, arriving in Wellington 120 miles ahead of his nearest competitor.  Van Liew also won the first leg from La … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Carnival’s Micki Arinson Faces the Heat, More or Less & American Express Costa Concordia Offer"
 date: 2012-01-30T13:40:30
-slug: carnivals-micki-arinson-faces-the-heat-more-or-less-american-express-mails-costa-concordiaoffer
+slug: "carnivals-micki-arinson-faces-the-heat-more-or-less-american-express-mails-costa-concordiaoffer"
 excerpt: "Carnival’s CEO & Chairman, Micki Arinson has been criticized for maintaining a low profile following the sinking of the Costa Concordia where over 30 passengers and crew are dead or missing.  Last Friday, he made what was believed to be his … Continue reading &rarr;"
 categories:
   - "Current"

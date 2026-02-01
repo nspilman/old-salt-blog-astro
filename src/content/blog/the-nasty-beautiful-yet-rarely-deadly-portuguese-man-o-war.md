@@ -1,7 +1,7 @@
 ---
 title: "The Nasty, Beautiful, Yet Rarely Deadly Portuguese Man o’ War"
 date: 2021-10-17T16:21:58
-slug: the-nasty-beautiful-yet-rarely-deadly-portuguese-man-o-war
+slug: "the-nasty-beautiful-yet-rarely-deadly-portuguese-man-o-war"
 excerpt: "Alaric Bond was kind enough to pass along an article from the Eastbourne Herald titled, Killer ‘jellyfish’ which can grow to 160ft long are washing up on Britain’s beaches. While more common in tropical waters, Portuguese man o’ wars have … Continue reading &rarr;"
 categories:
   - "Current"

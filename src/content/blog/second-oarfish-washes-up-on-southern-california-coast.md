@@ -1,7 +1,7 @@
 ---
 title: "Second Oarfish Washes Up on Southern California Coast"
 date: 2013-10-22T15:00:58
-slug: second-oarfish-washes-up-on-southern-california-coast
+slug: "second-oarfish-washes-up-on-southern-california-coast"
 excerpt: "A second rare oarfish has washed up on the California coast. Last week a dead 18 foot oarfish was found by a snorkeling marine science instructor off Catalina Island. On Sunday, a second 14′ long oarfish washed up on a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

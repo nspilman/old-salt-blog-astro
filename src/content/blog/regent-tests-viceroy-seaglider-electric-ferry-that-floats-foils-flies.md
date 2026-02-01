@@ -1,7 +1,7 @@
 ---
 title: "REGENT Tests Viceroy Seaglider Electric Ferry That Floats, Foils & Flies"
 date: 2025-08-23T17:18:31
-slug: regent-tests-viceroy-seaglider-electric-ferry-that-floats-foils-flies
+slug: "regent-tests-viceroy-seaglider-electric-ferry-that-floats-foils-flies"
 excerpt: "REGENT Craft of Rhode Island is now testing a prototype of their Viceroy Seaglider, an electric wing-in-ground-effect flying coastal ferry. REGENT is an acronym for Regional Electric Ground Effect Nautical Transport. The 12-passenger Viceroy Seaglider is 55 feet long with … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Brunt Ice Shelf Continues Calving — Another Iceberg Twice the Size of New York City"
 date: 2023-01-31T19:38:17
-slug: brunt-ice-shelf-continues-calving-another-iceberg-twice-the-size-of-new-york-city
+slug: "brunt-ice-shelf-continues-calving-another-iceberg-twice-the-size-of-new-york-city"
 excerpt: "In late February 2022, an iceberg with an area of about 490 square miles, or slightly less than twice the size of the City of New York, calved from the Brunt Ice Shelf in the Weddell Sea section of Antarctica. … Continue reading &rarr;"
 categories:
   - "Current"

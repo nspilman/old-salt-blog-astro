@@ -1,7 +1,7 @@
 ---
 title: "Five Guilty in Costa Concordia Sinking; Captain Schettino’s Trial Continues"
 date: 2013-07-20T11:27:25
-slug: five-guilty-in-costa-concordia-sinking-captain-schettinos-trial-continues
+slug: "five-guilty-in-costa-concordia-sinking-captain-schettinos-trial-continues"
 excerpt: "An Italian court has convicted five people of manslaughter related to the sinking of the cruise ship Costa Concordia in January 2012, which killed 32 passengers and crew.  Each of the five agreed to plea bargains and none may serving … Continue reading &rarr;"
 categories:
   - "Current"

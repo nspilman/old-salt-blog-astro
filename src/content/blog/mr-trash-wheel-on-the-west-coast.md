@@ -1,8 +1,8 @@
 ---
 title: "Mr. Trash Wheel on the West Coast"
 date: 2018-11-03T09:30:37
-slug: mr-trash-wheel-on-the-west-coast
-excerpt: "Earlier this year, we posted about Baltimore’s “Mr. Trash Wheel,” a water-wheel and solar powered conveyor system which lifts drifting trash from the water of Baltimore’s Inner Harbor. Mr. Trash Wheel has been so successful that three other similar trash wheels have … Continue reading &rarr;"
+slug: "mr-trash-wheel-on-the-west-coast"
+excerpt: "Earlier this year, we posted about Baltimore’s \"Mr. Trash Wheel,\" a water-wheel and solar powered conveyor system which lifts drifting trash from the water of Baltimore’s Inner Harbor. Mr. Trash Wheel has been so successful that three other similar trash wheels have … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "Newport Beach"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/02/mrtrashwheel.jpg"
 author: "Rick Spilman"
-description: "Earlier this year, we posted about Baltimore’s “Mr. Trash Wheel,” a water-wheel and solar powered conveyor system which lifts drifting trash from the water of Baltimore’s Inner Harbor. Mr. Trash Wheel has been so successful that three other similar trash wheels have … Continue reading &rarr;"
+description: "Earlier this year, we posted about Baltimore’s \"Mr. Trash Wheel,\" a water-wheel and solar powered conveyor system which lifts drifting trash from the water of Baltimore’s Inner Harbor. Mr. Trash Wheel has been so successful that three other similar trash wheels have … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/mrtrashwheel.jpg)Earlier this year, we posted about Baltimore’s “[Mr. Trash Wheel](http://www.oldsaltblog.com/2018/02/baltimores-mr-trash-wheel-water-solar-powered-harbor-trash-gobbler/),” a water-wheel and solar powered conveyor system which lifts drifting trash from the water of Baltimore’s Inner Harbor. Mr. Trash Wheel has been so successful that three other similar trash wheels have been installed around Baltimore harbor.  

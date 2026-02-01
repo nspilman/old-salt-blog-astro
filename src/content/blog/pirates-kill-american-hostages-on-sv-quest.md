@@ -1,7 +1,7 @@
 ---
 title: "Pirates Kill American Hostages on SV Quest"
 date: 2011-02-22T11:32:16
-slug: pirates-kill-american-hostages-on-sv-quest
+slug: "pirates-kill-american-hostages-on-sv-quest"
 excerpt: "The US Central Command announced this morning that four Americans aboard the hijacked sailing vessel Quest were shot and killed by pirates at approximately 1 a.m. EST today.  The victims were Jean and Scott Adam, the owners of the yacht,  and Phyllis … Continue reading &rarr;"
 categories:
   - "Current"

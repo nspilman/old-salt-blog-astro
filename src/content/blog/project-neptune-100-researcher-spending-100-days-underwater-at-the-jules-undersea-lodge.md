@@ -1,7 +1,7 @@
 ---
 title: "Project NEPTUNE 100 — Researcher Spending 100 Days Underwater at the Jules Undersea Lodge"
 date: 2023-05-18T20:00:30
-slug: project-neptune-100-researcher-spending-100-days-underwater-at-the-jules-undersea-lodge
+slug: "project-neptune-100-researcher-spending-100-days-underwater-at-the-jules-undersea-lodge"
 excerpt: "The Jules Undersea Lodge is the only underwater hotel in the United States. Located 30 feet (9 m) deep at the bottom of the Emerald Lagoo in Key Largo, Florida, guests have to scuba dive to get to their rooms. … Continue reading &rarr;"
 categories:
   - "Current"

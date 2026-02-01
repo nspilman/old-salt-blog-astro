@@ -1,7 +1,7 @@
 ---
 title: "Schooner Bowdoin, Arctic Veteran Turns 100"
 date: 2021-10-03T10:05:39
-slug: schooner-bowdoin-arctic-veteran-turns-100
+slug: "schooner-bowdoin-arctic-veteran-turns-100"
 excerpt: "The schooner Bowdoin turned 100 years old this year. She was designed by William H. Hand, Jr., and built in East Boothbay, Maine, at the Hodgdon Brothers Shipyard. The only American schooner built specifically for Arctic exploration, she was designed … Continue reading &rarr;"
 categories:
   - "Current"

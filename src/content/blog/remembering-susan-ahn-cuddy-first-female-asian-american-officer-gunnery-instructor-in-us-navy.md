@@ -1,7 +1,7 @@
 ---
 title: "Remembering Susan Ahn Cuddy, First Female Asian American Officer, Gunnery Instructor in US Navy"
 date: 2024-03-09T10:00:15
-slug: remembering-susan-ahn-cuddy-first-female-asian-american-officer-gunnery-instructor-in-us-navy
+slug: "remembering-susan-ahn-cuddy-first-female-asian-american-officer-gunnery-instructor-in-us-navy"
 excerpt: "As March is Women’s History Month, it seems appropriate to remember the life and accomplishments of Susan Ahn Cuddy, a Korean American who would serve as the first female Asian-American officer in the US Navy and would also become the … Continue reading &rarr;"
 categories:
   - "History"

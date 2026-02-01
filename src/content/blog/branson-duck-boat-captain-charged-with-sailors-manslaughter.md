@@ -1,7 +1,7 @@
 ---
 title: "Branson Duck Boat Captain Charged with Sailor’s Manslaughter"
 date: 2018-11-11T09:42:45
-slug: branson-duck-boat-captain-charged-with-sailors-manslaughter
+slug: "branson-duck-boat-captain-charged-with-sailors-manslaughter"
 excerpt: "On July 19th, 2018, a duck boat capsized and sank in high winds during a storm on Table Rock Lake, near Branson, MO. Seventeen passengers and crew lost their lives. Now, a federal grand jury has charged the captain of the duck … Continue reading &rarr;"
 categories:
   - "Current"

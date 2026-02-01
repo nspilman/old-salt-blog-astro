@@ -1,7 +1,7 @@
 ---
 title: "50.48 Knots on a Windsurfer!"
 date: 2012-01-09T15:50:14
-slug: 50-48-knots-on-a-windsurfer
+slug: "50-48-knots-on-a-windsurfer"
 excerpt: "British windsurfer, Steve Thorpe, was recently clocked at 50.48 knots, (58 mph or 93.3 km/hr,) sailing his windsurfer in 40 to 80 knots winds, in West Kirby, England.  If the GPS readings are confirmed, he may hold the title of the world’s … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Korea’s first clipper finally sets sail"
 date: 2009-08-04T15:12:13
-slug: korea%e2%80%99s-first-clipper-finally-sets-sail
+slug: "korea%e2%80%99s-first-clipper-finally-sets-sail"
 excerpt: "An interesting article from JoongAng Ilbo about a large sailing yacht once owned by an unnamed American Mafia boss. The yacht was in Korea for modifications, when the Mafiosa was arrested and sent to prison.  The boat was purchased by a Korean who … Continue reading &rarr;"
 categories:
   - "Current"

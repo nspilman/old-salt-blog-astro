@@ -1,7 +1,7 @@
 ---
 title: "Pete Seeger, the Hudson River and the Sloop Clearwater"
 date: 2014-01-28T11:14:09
-slug: pete-seeger-the-hudson-river-and-the-sloop-clearwater
+slug: "pete-seeger-the-hudson-river-and-the-sloop-clearwater"
 excerpt: "Pete Seeger died last night at the age of 94.  Seeger was a folk singer and song writer, as well as an activist who thought that song just might change the world.  It is hard to believe that he has … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

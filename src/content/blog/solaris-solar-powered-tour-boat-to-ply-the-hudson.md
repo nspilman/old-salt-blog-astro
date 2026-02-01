@@ -1,7 +1,7 @@
 ---
 title: "Solaris, Solar-Powered Tour Boat to Ply the Hudson"
 date: 2019-10-11T17:02:22
-slug: solaris-solar-powered-tour-boat-to-ply-the-hudson
+slug: "solaris-solar-powered-tour-boat-to-ply-the-hudson"
 excerpt: "The Solaris, a solar-powered tour boat owned by the Hudson River Maritime Museum in Kingston, NY will provide trips across the Hudson River on Saturday and Sunday, October 19 and 20. (They also previously offered trips at the end of … Continue reading &rarr;"
 categories:
   - "Current"

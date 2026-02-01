@@ -1,7 +1,7 @@
 ---
 title: "Museo Atlántico, Europe´s Only Underwater Sculpture Museum"
 date: 2017-03-19T09:25:31
-slug: museo-atlantico-europes-underwater-sculpture-museum
+slug: "museo-atlantico-europes-underwater-sculpture-museum"
 excerpt: "In 2012, we posted about the Museo Subacuático de Arte, MUSA, an underwater museum of art between the islands of Isla Mujeres and Cancun. MUSA displays the sculpture of Jason deCaires Taylor. Now a new museum featuring Jason deCaires Taylor’s work has … Continue reading &rarr;"
 categories:
   - "Current"

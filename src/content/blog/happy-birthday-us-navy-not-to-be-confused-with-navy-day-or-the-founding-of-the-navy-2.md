@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday US Navy, Not to be Confused With Navy Day or the Founding of the Navy"
 date: 2020-10-13T11:34:23
-slug: happy-birthday-us-navy-not-to-be-confused-with-navy-day-or-the-founding-of-the-navy-2
+slug: "happy-birthday-us-navy-not-to-be-confused-with-navy-day-or-the-founding-of-the-navy-2"
 excerpt: "Happy Birthday to the US Navy! This should not be confused, however, with Navy Day, or the day that US Navy was founded by an Act of Congress. If success has many fathers, it might be said that the Navy … Continue reading &rarr;"
 categories:
   - "Current"

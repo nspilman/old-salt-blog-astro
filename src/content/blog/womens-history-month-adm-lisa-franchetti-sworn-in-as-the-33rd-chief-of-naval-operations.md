@@ -1,7 +1,7 @@
 ---
 title: "Women’s History Month — Adm. Lisa Franchetti Sworn in as the 33rd Chief of Naval Operations"
 date: 2024-03-15T16:18:49
-slug: womens-history-month-adm-lisa-franchetti-sworn-in-as-the-33rd-chief-of-naval-operations
+slug: "womens-history-month-adm-lisa-franchetti-sworn-in-as-the-33rd-chief-of-naval-operations"
 excerpt: "Adm. Lisa Franchetti was sworn in as the 33rd Chief of Naval Operations (CNO), the highest-ranking officer of the United States Navy, on Nov. 2, 2023. Her confirmation made Franchetti not only the first woman to become the CNO and … Continue reading &rarr;"
 categories:
   - "Current"

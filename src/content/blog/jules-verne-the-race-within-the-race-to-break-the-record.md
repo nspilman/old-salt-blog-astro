@@ -1,7 +1,7 @@
 ---
 title: "Jules Verne — Two Past Trophy Winners in a Race Within a Race"
 date: 2015-12-23T14:44:29
-slug: jules-verne-the-race-within-the-race-to-break-the-record
+slug: "jules-verne-the-race-within-the-race-to-break-the-record"
 excerpt: "Past attempts to claim the Jules Verne Trophy, awarded to the fastest sailboat to circumnavigate the globe, have been solitary affairs — a single sailboat attempting to break the previous record time. That changed on November 22, when two veteran … Continue reading &rarr;"
 categories:
   - "Current"

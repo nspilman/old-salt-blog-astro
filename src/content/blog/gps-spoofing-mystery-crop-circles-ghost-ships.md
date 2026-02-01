@@ -1,7 +1,7 @@
 ---
 title: "GPS Spoofing Mystery — Crop Circles & Ghost Ships"
 date: 2020-06-06T11:27:26
-slug: gps-spoofing-mystery-crop-circles-ghost-ships
+slug: "gps-spoofing-mystery-crop-circles-ghost-ships"
 excerpt: "On June 5, 2019, the offshore supply boat Princess Janice was operating from a Nigerian oil terminal when suddenly the AIS (Automatic Identification System) an automatic tracking system showed the vessel a continent away, circling above Point Reyes, CA, eventually … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

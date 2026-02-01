@@ -1,7 +1,7 @@
 ---
 title: "Grand Theft Otter — Sea Otter Keeps Stealing Surfboards in Santa Cruz"
 date: 2023-07-12T19:50:07
-slug: grand-theft-otter-sea-otter-keeps-stealing-surfboards-in-santa-cruz
+slug: "grand-theft-otter-sea-otter-keeps-stealing-surfboards-in-santa-cruz"
 excerpt: "We have followed the outbreak of orca attacks off the Iberian peninsula over the last several years. Here is an only slightly less threatening story of a mischievous female sea otter which has been harassing surfers and stealing surfboards in … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Incredible Photos – Beauty & the Belugas & the Darker Backstory"
 date: 2013-12-01T15:16:42
-slug: incredible-photos-beauty-the-belugas-the-darker-backstory
+slug: "incredible-photos-beauty-the-belugas-the-darker-backstory"
 excerpt: "The photographs are not new, though they were new to me. The story on-line dates back to 2011. Thanks to Carolina Salguero for posting about them on Facebook. The photos are both beautiful and incredible — a naked woman swimming in … Continue reading &rarr;"
 categories:
   - "Current"

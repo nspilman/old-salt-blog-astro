@@ -1,7 +1,7 @@
 ---
 title: "NTSB Determines Inaccurate Stability Calculations Caused Capsizing of Golden Ray"
 date: 2021-09-15T16:30:44
-slug: ntsb-determines-inaccurate-stability-calculations-caused-capsizing-of-golden-ray
+slug: "ntsb-determines-inaccurate-stability-calculations-caused-capsizing-of-golden-ray"
 excerpt: "The final report issued yesterday by the National Transportation Safety Board Office (NTSB) summarizes what happened on Sept. 8, 2019, when the roll-on/roll-off vehicle carrier Golden Ray capsized as it transited outbound through St. Simons Sound near Brunswick, Georgia. ​​Less … Continue reading &rarr;"
 categories:
   - "Current"

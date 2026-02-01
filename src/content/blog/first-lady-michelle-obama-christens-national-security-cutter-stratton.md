@@ -1,7 +1,7 @@
 ---
 title: "First Lady Michelle Obama Christens National Security Cutter Stratton"
 date: 2010-07-26T08:30:00
-slug: first-lady-michelle-obama-christens-national-security-cutter-stratton
+slug: "first-lady-michelle-obama-christens-national-security-cutter-stratton"
 excerpt: "Last Friday, Michelle Obama was the first First Lady ever to christen a US Coast Guard Cutter, the National Security Cutter Stratton.   The cutter is named after the first woman to serve as a commissioned officer in the U. S. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The USS Fitzgerald Is At Fault. This Is Why — Commentary by gCaptain’s John Konrad"
 date: 2017-06-20T16:34:59
-slug: uss-fitzgerald-fault-commentary-gcaptains-john-konrad
+slug: "uss-fitzgerald-fault-commentary-gcaptains-john-konrad"
 excerpt: "gCaptain’s Captain John Konrad has a excellent post today that describes in detail why he believes that the destroyerUSS Fitzgerald was at fault in its recent collision with the container ship ACX Crystal.  He suggests a simple rule for avoiding collisions with … Continue reading &rarr;"
 categories:
   - "Current"

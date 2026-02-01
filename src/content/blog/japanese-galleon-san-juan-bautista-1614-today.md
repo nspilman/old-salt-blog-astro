@@ -1,7 +1,7 @@
 ---
 title: "Japanese Galleon San Juan Bautista of 1614 and Today"
 date: 2016-12-29T17:22:45
-slug: japanese-galleon-san-juan-bautista-1614-today
+slug: "japanese-galleon-san-juan-bautista-1614-today"
 excerpt: "I love stumbling across bits of history that are completely new to me. The Japanese galleon San Juan Bautista is a good example.  The San Juan Bautista was one of the first Western-style sailing ships to be built in Japan. … Continue reading &rarr;"
 categories:
   - "Current"

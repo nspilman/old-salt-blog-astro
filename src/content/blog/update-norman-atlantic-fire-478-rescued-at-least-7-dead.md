@@ -1,7 +1,7 @@
 ---
 title: "Update: Norman Atlantic Fire, 478 Rescued, At Least 7 Dead"
 date: 2014-12-29T12:24:02
-slug: update-norman-atlantic-fire-478-rescued-at-least-7-dead
+slug: "update-norman-atlantic-fire-478-rescued-at-least-7-dead"
 excerpt: "As of Monday evening, local time, 478 passengers and crew have been rescued from the burning ro/ro ferry Norman Atlantic, which caught fire Sunday morning around 6 AM in the Adriatic Sea.  At least 7 people have died.  Many of the passengers … Continue reading &rarr;"
 categories:
   - "Current"

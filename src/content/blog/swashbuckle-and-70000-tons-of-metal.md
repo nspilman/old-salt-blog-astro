@@ -1,7 +1,7 @@
 ---
 title: "Swashbuckle and 70,000 Tons of Metal"
 date: 2010-04-10T15:12:21
-slug: swashbuckle-and-70000-tons-of-metal
+slug: "swashbuckle-and-70000-tons-of-metal"
 excerpt: "It was announced recently that Swashbuckle would be joining the 40 heavy metal bands on the 70,000 Tons of Metal cruise. Swashbuckle, for those who are not aware of the group, is a pirate themed metal band from New Jersey. From … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

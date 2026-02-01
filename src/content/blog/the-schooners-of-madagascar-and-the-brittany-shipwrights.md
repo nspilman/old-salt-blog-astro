@@ -1,7 +1,7 @@
 ---
 title: "The Schooners of Madagascar and the Brittany Shipwrights"
 date: 2011-12-17T12:00:04
-slug: the-schooners-of-madagascar-and-the-brittany-shipwrights
+slug: "the-schooners-of-madagascar-and-the-brittany-shipwrights"
 excerpt: "Last month we posted about the Bugis schooners of Indonesia – Where the Age of Sail Never Ended – the Bugis Phinisi, an Appreciation. Recently AFP (Agence France-Presse) published an article about another region where the age of commercial sail … Continue reading &rarr;"
 categories:
   - "Current"

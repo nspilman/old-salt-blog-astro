@@ -1,7 +1,7 @@
 ---
 title: "British Women Rowing, Records & Rescues"
 date: 2016-02-15T14:42:16
-slug: british-women-rowing-records-rescues
+slug: "british-women-rowing-records-rescues"
 excerpt: "Recently, four British women competing in the Talisker Whiskey Atlantic Challenge set a new record  as the youngest and fastest all-female crew of four to row across the Atlantic Ocean.  Gee Purdy, 23, Bella Collins, 23, Lauren Morton, 26, and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

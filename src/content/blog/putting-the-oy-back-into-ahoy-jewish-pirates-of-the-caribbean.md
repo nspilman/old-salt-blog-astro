@@ -1,7 +1,7 @@
 ---
 title: "Putting the Oy Back into ‘Ahoy’ – Jewish Pirates of the Caribbean"
 date: 2008-10-14T19:31:00
-slug: putting-the-oy-back-into-ahoy-jewish-pirates-of-the-caribbean
+slug: "putting-the-oy-back-into-ahoy-jewish-pirates-of-the-caribbean"
 excerpt: "A friend pointed this book out to me. It looks intriguing and is coming out in mid-November.  Jean Lafite was Jewish? Who knew?  (Thanks Henya!)  From a review in the Jewish Press: Jewish Pirates of the Caribbean: How a Generation of Swashbuckling Jews … Continue reading &rarr;"
 categories:
   - "Newbooks"

@@ -1,7 +1,7 @@
 ---
 title: "Lending Club 2 Shatters Newport to Bermuda Speed Record"
 date: 2015-05-03T09:14:11
-slug: lending-club-2-shatterings-newport-to-bermuda-speed-record
+slug: "lending-club-2-shatterings-newport-to-bermuda-speed-record"
 excerpt: "On April 20th, the 105′ trimaran Lending Club 2  sailed from Newport, Rhode Island to Bermuda in an amazing 23 hours,  9 minutes and 52 seconds, beating the previous record by a 15 hours. Lending Club 2 sailed the 635-nautical mile passage at an average … Continue reading &rarr;"
 categories:
   - "Current"

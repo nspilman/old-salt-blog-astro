@@ -1,7 +1,7 @@
 ---
 title: "The Glory and the Danger of Open Water — Thoughts on Two Missing Teens"
 date: 2015-07-28T07:43:24
-slug: the-glory-and-the-danger-of-open-water-thoughts-on-two-missing-teens
+slug: "the-glory-and-the-danger-of-open-water-thoughts-on-two-missing-teens"
 excerpt: "On Friday, two 14 year old boys went missing in the Atlantic off Jupiter, FL. Their 19′ boat was found capsized on Sunday night. The Coast Guard, and now the Navy, is continuing the search for the teens, Austin Stephanos … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "USS Oklahoma — December 7, 1941 And Beyond"
 date: 2013-12-07T10:59:02
-slug: uss-oklahoma-december-7-1941-and-beyond
+slug: "uss-oklahoma-december-7-1941-and-beyond"
 excerpt: "On the morning of December 7, 1941, USS Oklahoma was moored at an outside berth in the inner harbor at Pearl Harbor, Hawaii. When the Japanese attacked Pearl Harbor that day, the USS Oklahoma was directly in the flight path of … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "A.J. Meerwald In Cape May, NJ"
 date: 2010-08-03T17:23:04
-slug: a-j-meerwald-in-cape-may-nj
+slug: "a-j-meerwald-in-cape-may-nj"
 excerpt: "The lovely schooner A.J. Meerwald will be sailing out of Cape May, one of the loveliest towns in New Jersey, through early September.   From the folks at Bayshore Discovery Project: Utsch’s Marina in Cape May will be the port-of-call for … Continue reading &rarr;"
 categories:
   - "Current"

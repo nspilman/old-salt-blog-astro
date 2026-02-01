@@ -1,7 +1,7 @@
 ---
 title: "Schooner Fiddler’s Dream Donated to Kitsap Maritime Heritage Foundation"
 date: 2014-05-09T07:15:31
-slug: schooner-fiddlers-dream-donated-to-kitsap-maritime-heritage-foundation
+slug: "schooner-fiddlers-dream-donated-to-kitsap-maritime-heritage-foundation"
 excerpt: "Kitsap Maritime Heritage Foundation has announced that Seattle attorney Mike Withey is donating the 65′ schooner, Fiddler’s Dream, to the foundation.   KMHF was founded in March of 2012 with the stated purpose of being the premiere venue in the Puget Sound … Continue reading &rarr;"
 categories:
   - "Current"

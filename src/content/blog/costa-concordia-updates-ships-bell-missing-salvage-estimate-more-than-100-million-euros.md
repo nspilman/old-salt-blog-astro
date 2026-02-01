@@ -1,8 +1,8 @@
 ---
 title: "Costa Concordia Updates – Ship’s Bell Missing, Salvage Estimate More than 100 Million Euros"
 date: 2012-03-15T13:21:32
-slug: costa-concordia-updates-ships-bell-missing-salvage-estimate-more-than-100-million-euros
-excerpt: "The ship’s bell on the Costa Concordia has gone missing.  According to Reuters, “underwater thieves have evaded an array of laser systems that measure millimetric shifts in the Costa Concordia shipwreck and 24-hour surveillance by the Italian coast guard and … Continue reading &rarr;"
+slug: "costa-concordia-updates-ships-bell-missing-salvage-estimate-more-than-100-million-euros"
+excerpt: "The ship’s bell on the Costa Concordia has gone missing.  According to Reuters, \"underwater thieves have evaded an array of laser systems that measure millimetric shifts in the Costa Concordia shipwreck and 24-hour surveillance by the Italian coast guard and … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Peter Berdowski"
   - "salvage"
 author: "Rick Spilman"
-description: "The ship’s bell on the Costa Concordia has gone missing.  According to Reuters, “underwater thieves have evaded an array of laser systems that measure millimetric shifts in the Costa Concordia shipwreck and 24-hour surveillance by the Italian coast guard and … Continue reading &rarr;"
+description: "The ship’s bell on the Costa Concordia has gone missing.  According to Reuters, \"underwater thieves have evaded an array of laser systems that measure millimetric shifts in the Costa Concordia shipwreck and 24-hour surveillance by the Italian coast guard and … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/ccbell.jpg)The ship’s bell on the *[Costa Concordia](http://www.oldsaltblog.com/2012/01/14/thousands-evacuated-as-cruise-ship-costa-concordia-strikes-reef-off-italy-at-least-three-dead/)* has gone missing.  [According to Reuters](http://www.reuters.com/article/2012/03/15/italy-ship-bell-idUSL5E8EF4ED20120315), “*underwater thieves have evaded an array of laser systems that measure millimetric shifts in the Costa Concordia shipwreck and 24-hour surveillance by the Italian coast guard and police to haul off a symbolic booty – the ship’s bell…. Judicial sources said on Thursday thieves nabbed the ship’s bell more than two weeks ago from one of the decks of the Costa Concordia, which is submerged in 8 metres (26 feet) of water.*”

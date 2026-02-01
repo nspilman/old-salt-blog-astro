@@ -1,7 +1,7 @@
 ---
 title: "Adolph Hitler’s Yachts — Part 1: Aviso Grille & the New Jersey Repair Shop Toilet"
 date: 2022-04-23T10:37:49
-slug: adolph-hitlers-yachts-part-1-aviso-grille-the-new-jersey-repair-shop-toilet
+slug: "adolph-hitlers-yachts-part-1-aviso-grille-the-new-jersey-repair-shop-toilet"
 excerpt: "With the advent of Putin’s brutal invasion of Ukraine, we have posted about superyachts owned by Russian oligarchs including several yachts that may or may not be owned by the dictator himself.  Here is a two-part post about yachts associated … Continue reading &rarr;"
 categories:
   - "History"

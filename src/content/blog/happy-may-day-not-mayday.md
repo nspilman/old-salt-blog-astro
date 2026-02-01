@@ -1,7 +1,7 @@
 ---
 title: "Happy May Day, not Mayday!"
 date: 2011-05-01T17:24:53
-slug: happy-may-day-not-mayday
+slug: "happy-may-day-not-mayday"
 excerpt: "The first of May is traditionally called May Day and is related to the Celtic festival of Beltane and the Germanic festival of Walpurgis Night.  The English have been known to break out in fits of Morris Dancing around May Day.  In many countries May … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,8 +1,8 @@
 ---
 title: "At the Movies – First Pirates of the Caribbean and now Battleship!"
 date: 2010-08-25T17:52:43
-slug: at-the-movies-first-pirates-of-the-caribbean-and-now-battleship
-excerpt: "Once movies were based on great novels.  Of course, they usually ruined the story, but at least you could say, “I liked the book better.”   Then, seven years ago,  Jerry Bruckheimer produced a movie based on a Disney World … Continue reading &rarr;"
+slug: "at-the-movies-first-pirates-of-the-caribbean-and-now-battleship"
+excerpt: "Once movies were based on great novels.  Of course, they usually ruined the story, but at least you could say, \"I liked the book better.\"   Then, seven years ago,  Jerry Bruckheimer produced a movie based on a Disney World … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "battleship"
   - "pirates of the caribbean"
 author: "Rick Spilman"
-description: "Once movies were based on great novels.  Of course, they usually ruined the story, but at least you could say, “I liked the book better.”   Then, seven years ago,  Jerry Bruckheimer produced a movie based on a Disney World … Continue reading &rarr;"
+description: "Once movies were based on great novels.  Of course, they usually ruined the story, but at least you could say, \"I liked the book better.\"   Then, seven years ago,  Jerry Bruckheimer produced a movie based on a Disney World … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/brooklyn-decker.jpg)

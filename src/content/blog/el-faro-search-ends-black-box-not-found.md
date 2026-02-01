@@ -1,7 +1,7 @@
 ---
 title: "El Faro Search Ends — Black Box Not Found"
 date: 2015-11-17T09:39:22
-slug: el-faro-search-ends-black-box-not-found
+slug: "el-faro-search-ends-black-box-not-found"
 excerpt: "We know that the ro/ro El Faro sank with all hands after it lost power in the path of Hurricane Joaquin in early October. The captain reported a hull breach. All 33 crew were lost.  We may never know too … Continue reading &rarr;"
 categories:
   - "Current"

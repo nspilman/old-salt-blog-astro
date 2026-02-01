@@ -1,7 +1,7 @@
 ---
 title: "HMHS Britannic, Only Slightly Luckier Sister of the Titanic"
 date: 2016-11-29T19:22:25
-slug: hmhs-britannic-unlucky-sister-titanic
+slug: "hmhs-britannic-unlucky-sister-titanic"
 excerpt: "Titanic had two sisters — the Olympic and the Britannic. While the Olympic had a productive 24 year operating life, the Britannic was only slightly more lucky than her ill-fated sister, Titanic. Just over 100 years ago, on November 21, … Continue reading &rarr;"
 categories:
   - "Current"

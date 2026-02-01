@@ -1,7 +1,7 @@
 ---
 title: "Will the Tallship Providence Sail to Alexandria?"
 date: 2017-10-12T14:11:28
-slug: will-tallship-providence-sail-alexandria
+slug: "will-tallship-providence-sail-alexandria"
 excerpt: "I had kind of lost track of the replica Revolutionary War sloop Providence. In January 2015, she was blown off her jackstands by blizzard winds while on the hard in Newport, RI, incurring significant damage to her hull and rigging. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Wreck of Steamer Robert J. Walker, Sunk in 1860, Identified Off New Jersey Coast"
 date: 2013-08-28T16:45:31
-slug: wreck-of-steamer-robert-j-walker-sunk-in-1860-identified-off-new-jersey-coast
+slug: "wreck-of-steamer-robert-j-walker-sunk-in-1860-identified-off-new-jersey-coast"
 excerpt: "In 1970, fisherman discovered a shipwreck in about 85 feet of water, ten miles off the Absecon Inlet on the New Jersey coast.   For more than 40 years, divers have visited the unidentified wreck.  Now the National Oceanic and Atmospheric Administration … Continue reading &rarr;"
 categories:
   - "Current"

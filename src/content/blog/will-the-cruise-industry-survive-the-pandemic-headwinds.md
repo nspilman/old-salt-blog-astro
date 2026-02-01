@@ -1,7 +1,7 @@
 ---
 title: "Will the Cruise Industry Survive the Pandemic Headwinds?"
 date: 2020-06-23T16:23:29
-slug: will-the-cruise-industry-survive-the-pandemic-headwinds
+slug: "will-the-cruise-industry-survive-the-pandemic-headwinds"
 excerpt: "Pullmantur Cruceros, a joint venture between Royal Caribbean and Cruises Investment Holding, has filed for reorganization under Spanish insolvency laws. Cruises Investment Holding owns 51 percent of the three-ship Spanish cruise line, while Royal Caribbean owns the remaining 49 percent.  … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

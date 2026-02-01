@@ -1,7 +1,7 @@
 ---
 title: "Wet And Wild Start For VELUX 5 OCEANS Sprint Three"
 date: 2011-02-08T18:43:31
-slug: wet-and-wild-start-for-velux-5-oceans-sprint-three
+slug: "wet-and-wild-start-for-velux-5-oceans-sprint-three"
 excerpt: "Blustery winds, gray skies and rain marked the beginning of the 6,000 nautical mile Sprint 3 of the Velux Five Oceans Singlehanded Around the World Race.  The four remaining boats departed Sunday from Wellington, New Zealand bound for to Punta del … Continue reading &rarr;"
 categories:
   - "Current"

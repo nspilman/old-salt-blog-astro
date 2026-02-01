@@ -1,7 +1,7 @@
 ---
 title: "Maersk Alabama Attacked for the Third Time – Will Armed Guards on Merchant Ships Become the Norm?"
 date: 2011-03-10T20:30:28
-slug: maersk-alabama-attacked-for-the-third-time-will-armed-guards-on-merchant-ships-become-the-norm
+slug: "maersk-alabama-attacked-for-the-third-time-will-armed-guards-on-merchant-ships-become-the-norm"
 excerpt: "This week the Maersk Alabama was attacked by pirates for the third time in the last two years.    In April of 2009, pirates boarded the Maersk containership and took her captain, Richard Phillips, hostage.  He was later rescued when Navy sharpshooters … Continue reading &rarr;"
 categories:
   - "Current"

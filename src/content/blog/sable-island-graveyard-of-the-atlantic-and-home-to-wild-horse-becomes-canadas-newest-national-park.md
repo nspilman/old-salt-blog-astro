@@ -1,7 +1,7 @@
 ---
 title: "Sable Island, Graveyard of the Atlantic and Home to Wild Horses, Becomes Canada’s Newest National Park"
 date: 2011-10-19T10:12:51
-slug: sable-island-graveyard-of-the-atlantic-and-home-to-wild-horse-becomes-canadas-newest-national-park
+slug: "sable-island-graveyard-of-the-atlantic-and-home-to-wild-horse-becomes-canadas-newest-national-park"
 excerpt: "This week Sable Island became the Canada’s newest national park.  Almost three hundred kilometers out into the Atlantic off the coast of Nova Scotia, it is a scimitar shaped sandbar which seems to have no business being there at all. … Continue reading &rarr;"
 categories:
   - "Current"

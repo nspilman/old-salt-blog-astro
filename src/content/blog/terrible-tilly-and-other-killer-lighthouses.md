@@ -1,7 +1,7 @@
 ---
 title: "Terrible Tilly and Two Other Killer Lighthouses"
 date: 2014-03-11T16:40:54
-slug: terrible-tilly-and-other-killer-lighthouses
+slug: "terrible-tilly-and-other-killer-lighthouses"
 excerpt: "Lighthouses can be dangerous places. They are placed specifically near hazards to navigation, where the seas are the roughest and the rocks the most treacherous. Here is a brief look at three deadly lighthouses. Tillamook Rock Lighthouse — Off the … Continue reading &rarr;"
 categories:
   - "History"

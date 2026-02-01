@@ -1,8 +1,8 @@
 ---
 title: "Sailor’s Tattoos – Pigs, Chickens, Swallows, and Tattooed Backsides"
 date: 2008-12-01T10:19:23
-slug: sailors-tattoos-%e2%80%93-pigs-chickens-swallows-and-tattooed-backsides
-excerpt: "Tattoos have become very popular of late. Tattoo Facts & Statistics notes that “thirty-six percent of those ages 18 to 25, and 40 percent of those ages 26 to 40, have at least one tattoo, according to a fall 2006 … Continue reading &rarr;"
+slug: "sailors-tattoos-%e2%80%93-pigs-chickens-swallows-and-tattooed-backsides"
+excerpt: "Tattoos have become very popular of late. Tattoo Facts & Statistics notes that \"thirty-six percent of those ages 18 to 25, and 40 percent of those ages 26 to 40, have at least one tattoo, according to a fall 2006 … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "pig"
   - "tattoos"
 author: "Rick Spilman"
-description: "Tattoos have become very popular of late. Tattoo Facts & Statistics notes that “thirty-six percent of those ages 18 to 25, and 40 percent of those ages 26 to 40, have at least one tattoo, according to a fall 2006 … Continue reading &rarr;"
+description: "Tattoos have become very popular of late. Tattoo Facts & Statistics notes that \"thirty-six percent of those ages 18 to 25, and 40 percent of those ages 26 to 40, have at least one tattoo, according to a fall 2006 … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2008/12/hog_foot-2-tm1.jpg)](http://moronosphere.com/2007/08/pig-and-chicken.php#more)Tattoos have become very popular of late. [Tattoo Facts & Statistics](http://www.vanishingtattoo.com/tattoo_facts.htm) notes that “thirty-six percent of those ages 18 to 25, and 40 percent of those ages 26 to 40, have at least one tattoo, according to a fall 2006 survey by the Pew Research Center.” As popular as tattoos are with twenty and thirty somethings, sailors have been marking their bodies for most of history.

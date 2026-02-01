@@ -1,7 +1,7 @@
 ---
 title: "USCG Cutter Tamaroa, ex-USS Zuni, to be Reefed off NJ Coast"
 date: 2016-10-25T17:02:55
-slug: uscg-cutter-tamaroa-ex-uss-zuni-reefed-off-nj-coast
+slug: "uscg-cutter-tamaroa-ex-uss-zuni-reefed-off-nj-coast"
 excerpt: "The historic USCG CutterTamaroa will soon be sunk as an artificial reef in the Atlantic Ocean 25 miles south of Cape May Point, New Jersey.  The old ship has had a remarkable history.  Built in 1943 as USS Zuni, the 205-foot … Continue reading &rarr;"
 categories:
   - "Current"

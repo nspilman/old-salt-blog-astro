@@ -1,7 +1,7 @@
 ---
 title: "What the Fashionable Sailor Wears, Part 1 — A Leatherman Tread?"
 date: 2015-12-20T18:09:57
-slug: fashionable-sailor-wears-part-1-leatherman-tread
+slug: "fashionable-sailor-wears-part-1-leatherman-tread"
 excerpt: "What should a sailor carry with him or her when clambering around a boat or sailing ship? A rigging knife and marlinspike are common. Some prefer a sheath knife, whereas I am happy with a folding knife and marlinspike that … Continue reading &rarr;"
 categories:
   - "Current"

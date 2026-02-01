@@ -1,7 +1,7 @@
 ---
 title: "Andy Irons, three-time world champion surfer, dead at 32"
 date: 2010-11-04T09:28:24
-slug: andy-irons-three-time-world-champion-surfer-dead-at-32
+slug: "andy-irons-three-time-world-champion-surfer-dead-at-32"
 excerpt: "Andy Irons, three time world champion surfer, was found dead in his hotel room in Dallas on Tuesday. He had been scheduled to compete in the Rip Curl Pro Search in Puerto Rico but became ill, reportedly with a bout … Continue reading &rarr;"
 categories:
   - "Current"

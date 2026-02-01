@@ -1,7 +1,7 @@
 ---
 title: "Italy Seizes Russian Billionaire Melnichenko’s Sailing Yacht A"
 date: 2022-03-13T18:18:10
-slug: italy-seizes-russian-billionaire-melnichenkos-sailing-yacht-a
+slug: "italy-seizes-russian-billionaire-melnichenkos-sailing-yacht-a"
 excerpt: "Russian billionaire Andrey Igorevich Melnichenko’s superyacht Sailing Yacht A is nothing if not distinctive. It is one of the largest sail-assisted vessels afloat, with a singularly terrible name, and is arguably the ugliest large yacht in service. It is also … Continue reading &rarr;"
 categories:
   - "Current"

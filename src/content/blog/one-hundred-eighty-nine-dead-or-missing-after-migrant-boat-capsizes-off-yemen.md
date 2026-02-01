@@ -1,7 +1,7 @@
 ---
 title: "One Hundred Eighty Nine Dead or Missing After Migrant Boat Capsizes Off Yemen"
 date: 2024-06-11T17:08:10
-slug: one-hundred-eighty-nine-dead-or-missing-after-migrant-boat-capsizes-off-yemen
+slug: "one-hundred-eighty-nine-dead-or-missing-after-migrant-boat-capsizes-off-yemen"
 excerpt: "At least 49 people from the Horn of Africa have died and 140 are missing after their boat capsized off the coast of Yemen, according to the UN’s International Organization for Migration (IOM). Among the dead were six children and … Continue reading &rarr;"
 categories:
   - "Current"

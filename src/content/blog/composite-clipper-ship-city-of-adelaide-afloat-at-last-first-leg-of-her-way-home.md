@@ -1,7 +1,7 @@
 ---
 title: "Composite Clipper Ship City of Adelaide Afloat At Last – First Leg of Her Way Home"
 date: 2013-09-09T12:19:05
-slug: composite-clipper-ship-city-of-adelaide-afloat-at-last-first-leg-of-her-way-home
+slug: "composite-clipper-ship-city-of-adelaide-afloat-at-last-first-leg-of-her-way-home"
 excerpt: "After more than two decades, the City of Adelaide, the world’s oldest surviving clipper ship, is afloat again! The 1864 built clipper ship, supported by a 100 ton steel cradle, has been moved onto a pontoon barge and is being … Continue reading &rarr;"
 categories:
   - "Current"

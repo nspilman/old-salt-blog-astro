@@ -1,7 +1,7 @@
 ---
 title: "Capt. Schettino Lectures on Emergency Procedures? Really?"
 date: 2014-08-06T15:04:16
-slug: capt-schettino-lectures-on-emergency-procedures-really
+slug: "capt-schettino-lectures-on-emergency-procedures-really"
 excerpt: "Captain Francesco Schettino recently gave a two-hour lecture on emergency procedures to criminal science masters candidates at Rome’s Sapienza University. Yes, this is the same Capt. Schettino who ripped open the side of the cruise ship Costa Concordia on a reef, then … Continue reading &rarr;"
 categories:
   - "Current"

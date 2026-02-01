@@ -1,7 +1,7 @@
 ---
 title: "The Long Strange Voyage of Rimas Meleshyus"
 date: 2017-10-19T16:19:58
-slug: long-strange-voyage-rimas-meleshyus
+slug: "long-strange-voyage-rimas-meleshyus"
 excerpt: "His name is Rimas Meleshyus. He recently showed up adrift on his 30-foot sailboat, Mimsy, off Saipan, where he was towed into port. He had last been reported almost 3,000 nautical miles away on July 31, off Fiji.  Over the last several … Continue reading &rarr;"
 categories:
   - "Current"

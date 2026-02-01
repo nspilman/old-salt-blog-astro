@@ -1,7 +1,7 @@
 ---
 title: "Draken Harald Hårfagre Looking for Trans-Atlantic Crew"
 date: 2015-12-04T17:41:46
-slug: draken-harald-harfagre-looking-for-trans-atlantic-crew
+slug: "draken-harald-harfagre-looking-for-trans-atlantic-crew"
 excerpt: "We recently posted about the possibility of purchasing a custom Viking longship from the Viking Ship Museum in Roskilde, Denmark.  If that doesn’t fit your budget, or if you don’t want to have to line up thirty to one hundred able bodied … Continue reading &rarr;"
 categories:
   - "Current"

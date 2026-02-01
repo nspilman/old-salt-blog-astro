@@ -1,7 +1,7 @@
 ---
 title: "Floating Gold by Margaret Muir – a Review"
 date: 2012-01-21T08:03:00
-slug: floating-gold-by-margaret-muir-a-review-2
+slug: "floating-gold-by-margaret-muir-a-review-2"
 excerpt: "Margaret Muir’s novel, Floating Gold, was recently released in paperback.  A great read, we never though that it got the attention that it deserved. Here is a repost of our review from May of 2010: Margaret Muir’s new novel, Floating Gold, is … Continue reading &rarr;"
 categories:
   - "Reviews"

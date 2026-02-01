@@ -1,7 +1,7 @@
 ---
 title: "James Cameron’s Vertical Torpedo to Dive to the Challenger Deep"
 date: 2012-03-19T18:38:26
-slug: james-camerons-vertical-torpedo-to-dive-to-the-challenger-deep
+slug: "james-camerons-vertical-torpedo-to-dive-to-the-challenger-deep"
 excerpt: "James Cameron wants to dive to deepest part of the ocean – the Challenger Deep in the Mariana Trench, 35,800 feet (5.8 nautical miles) below the surface.  To do so, he plans on using a single person submersible designed to dive … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
-title: "Screening of “The Arctic Rose Mystery” at Shiplore in NYC on Monday, 2/24/20"
+title: "Screening of \"The Arctic Rose Mystery\" at Shiplore in NYC on Monday, 2/24/20"
 date: 2020-02-21T17:09:26
-slug: screening-of-the-arctic-rose-mystery-at-shiplore-in-nyc-on-monday-2-24-20
-excerpt: "On Monday, February 24th, at 7:30 PM, New York’s Shiplore and Model Club, the city’s oldest nautical interest group, will be hosting a screening of the documentary “The Mystery of the Arctic Rose,”  which examines the deadliest U.S. fishing accident … Continue reading &rarr;"
+slug: "screening-of-the-arctic-rose-mystery-at-shiplore-in-nyc-on-monday-2-24-20"
+excerpt: "On Monday, February 24th, at 7:30 PM, New York’s Shiplore and Model Club, the city’s oldest nautical interest group, will be hosting a screening of the documentary \"The Mystery of the Arctic Rose,\"  which examines the deadliest U.S. fishing accident … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -15,7 +15,7 @@ tags:
   - "The Mystery of the Arctic Rose"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/01/articrosemystery.jpg"
 author: "Rick Spilman"
-description: "On Monday, February 24th, at 7:30 PM, New York’s Shiplore and Model Club, the city’s oldest nautical interest group, will be hosting a screening of the documentary “The Mystery of the Arctic Rose,”  which examines the deadliest U.S. fishing accident … Continue reading &rarr;"
+description: "On Monday, February 24th, at 7:30 PM, New York’s Shiplore and Model Club, the city’s oldest nautical interest group, will be hosting a screening of the documentary \"The Mystery of the Arctic Rose,\"  which examines the deadliest U.S. fishing accident … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/01/articrosemystery.jpg)  

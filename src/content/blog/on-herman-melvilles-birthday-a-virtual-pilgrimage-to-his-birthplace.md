@@ -1,7 +1,7 @@
 ---
 title: "On Herman Melville’s Birthday – A Virtual Pilgrimage to His Birthplace"
 date: 2013-08-01T08:29:52
-slug: on-herman-melvilles-birthday-a-virtual-pilgrimage-to-his-birthplace
+slug: "on-herman-melvilles-birthday-a-virtual-pilgrimage-to-his-birthplace"
 excerpt: "Herman Melville was born on this day, August 1, in 1819, in a boarding house on the site of 6 Pearl Street, in the Financial District of lower Manhattan in New York City.  I invite you to join me in … Continue reading &rarr;"
 categories:
   - "Current"

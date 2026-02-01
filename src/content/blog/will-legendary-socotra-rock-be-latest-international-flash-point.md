@@ -1,7 +1,7 @@
 ---
 title: "Will Legendary Socotra Rock Be Latest International Flash Point?"
 date: 2013-12-09T12:53:49
-slug: will-legendary-socotra-rock-be-latest-international-flash-point
+slug: "will-legendary-socotra-rock-be-latest-international-flash-point"
 excerpt: "On Sunday, the government of South Korea announced that it was extending its air defense zone to include Socotra Rock, a submerged pinnacle in the Yellow Sea.  The Korean air defense zone now overlaps with the air defense zones already … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

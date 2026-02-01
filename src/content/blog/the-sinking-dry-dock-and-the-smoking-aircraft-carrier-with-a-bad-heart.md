@@ -1,7 +1,7 @@
 ---
 title: "The Sinking Dry Dock and the Smoking Aircraft Carrier with a Bad Heart"
 date: 2018-11-12T10:44:20
-slug: the-sinking-dry-dock-and-the-smoking-aircraft-carrier-with-a-bad-heart
+slug: "the-sinking-dry-dock-and-the-smoking-aircraft-carrier-with-a-bad-heart"
 excerpt: "This is an odd story, set in the icy Siberian waters near Murmansk, Russia.  Apparently, Russia’s largest floating drydock sank from underneath Russia’s only aircraft carrier, the Admiral Kuznetsov, doing some damage to the carrier above the waterline as the dock … Continue reading &rarr;"
 categories:
   - "Current"

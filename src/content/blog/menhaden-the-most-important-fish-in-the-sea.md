@@ -1,7 +1,7 @@
 ---
-title: "Menhaden — “the Most Important Fish in the Sea”"
+title: "Menhaden — \"the Most Important Fish in the Sea\""
 date: 2020-04-06T17:53:48
-slug: menhaden-the-most-important-fish-in-the-sea
+slug: "menhaden-the-most-important-fish-in-the-sea"
 excerpt: "To change the topic, for a day at least, here is a well done short video by the Nature Conservancy about the return of the lowly menhaden, which they call the most important fish in the sea. Menhaden are an … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

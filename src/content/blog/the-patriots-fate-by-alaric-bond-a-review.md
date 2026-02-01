@@ -1,7 +1,7 @@
 ---
 title: "The Patriot’s Fate by Alaric Bond – A Review"
 date: 2012-09-01T20:00:00
-slug: the-patriots-fate-by-alaric-bond-a-review
+slug: "the-patriots-fate-by-alaric-bond-a-review"
 excerpt: "Alaric Bond’s The Patriot’s Fate, the fifth in his Fighting Sail series, is an exciting nautical adventure that is also a rich and fascinating voyage through the history, politics and complex divided loyalties of Britain at the end of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

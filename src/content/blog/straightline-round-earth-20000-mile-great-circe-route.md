@@ -1,7 +1,7 @@
 ---
 title: "A Straight Line on a Spherical Earth – 20,000 Mile Great Circe Route"
 date: 2013-10-12T12:16:34
-slug: straightline-round-earth-20000-mile-great-circe-route
+slug: "straightline-round-earth-20000-mile-great-circe-route"
 excerpt: "How far can you sail in a straight line without hitting land?  The answer appears to be an almost 20,000 mile voyage from Pakistan to the Kamchatka Peninsula in Russia.  The red line on the map, above, shows the voyage.  OK, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

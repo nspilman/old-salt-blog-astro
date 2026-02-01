@@ -1,7 +1,7 @@
 ---
 title: "Street Signs of the Times — Peking, Gone But Not Forgotten"
 date: 2016-10-01T17:30:06
-slug: street-signs-times-peking-gone-not-forgotten
+slug: "street-signs-times-peking-gone-not-forgotten"
 excerpt: "The windjammer Peking has left the South Street Seaport for the last time.  Nevertheless, the grand old windjammer has left her mark, both on those who cared for the beautiful, if decrepit, Flying P liner, and also on the street signs … Continue reading &rarr;"
 categories:
   - "Current"

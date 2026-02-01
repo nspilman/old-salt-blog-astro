@@ -1,7 +1,7 @@
 ---
 title: "100 Female Admirals in the US Navy in 50 Years"
 date: 2022-01-21T18:42:05
-slug: 100-female-admirals-in-the-us-navy-in-50-years
+slug: "100-female-admirals-in-the-us-navy-in-50-years"
 excerpt: "We recently posted about Jude Terry, the first woman admiral in the history of the British Royal Navy. On her appointment, Admiral Terry commented that the fact that she is a woman is irrelevant to her post and rank – … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Archimedes’ Burning Mirrors & the Ivanpah Solar Thermal Power Facility"
 date: 2014-02-22T11:23:08
-slug: archimedes-burning-mirrors-the-ivanpah-solar-thermal-power-facility
-excerpt: "During the Siege of Syracuse, 214–212 BC, Archimedes was said to have used “burning mirrors” to set fire to a Roman fleet attacking the city. The mirrors focused the rays of the sun and generated enough heat to set ships … Continue reading &rarr;"
+slug: "archimedes-burning-mirrors-the-ivanpah-solar-thermal-power-facility"
+excerpt: "During the Siege of Syracuse, 214–212 BC, Archimedes was said to have used \"burning mirrors\" to set fire to a Roman fleet attacking the city. The mirrors focused the rays of the sun and generated enough heat to set ships … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "Archimedes' burning mirrors"
   - "Ivanpah Solar Power Facility"
 author: "Rick Spilman"
-description: "During the Siege of Syracuse, 214–212 BC, Archimedes was said to have used “burning mirrors” to set fire to a Roman fleet attacking the city. The mirrors focused the rays of the sun and generated enough heat to set ships … Continue reading &rarr;"
+description: "During the Siege of Syracuse, 214–212 BC, Archimedes was said to have used \"burning mirrors\" to set fire to a Roman fleet attacking the city. The mirrors focused the rays of the sun and generated enough heat to set ships … Continue reading &rarr;"
 ---
 
 ![Archimedes Burning Mirrors Generating Electricity](http://www.oldsaltblog.com/wp-content/uploads/2014/02/80_630_225_ivan1b.jpg)

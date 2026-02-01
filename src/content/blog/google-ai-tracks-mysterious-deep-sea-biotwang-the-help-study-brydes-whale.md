@@ -1,7 +1,7 @@
 ---
-title: "Google AI Tracks Mysterious Deep Sea “Biotwang” to Help Study Bryde’s Whale"
+title: "Google AI Tracks Mysterious Deep Sea \"Biotwang\" to Help Study Bryde’s Whale"
 date: 2024-10-09T18:30:57
-slug: google-ai-tracks-mysterious-deep-sea-biotwang-the-help-study-brydes-whale
+slug: "google-ai-tracks-mysterious-deep-sea-biotwang-the-help-study-brydes-whale"
 excerpt: "The National Oceanic and Atmospheric Administration (NOAA) has partnered with Google AI to analyze an ocean of long-term passive acoustic data. Using AI and machine learning, they have analyzed in hours what would otherwise take decades to process. In 2014, … Continue reading &rarr;"
 categories:
   - "Current"

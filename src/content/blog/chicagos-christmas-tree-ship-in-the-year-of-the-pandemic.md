@@ -1,7 +1,7 @@
 ---
 title: "Chicago’s Christmas Tree Ship in the Year of the Pandemic"
 date: 2020-12-24T15:27:49
-slug: chicagos-christmas-tree-ship-in-the-year-of-the-pandemic
+slug: "chicagos-christmas-tree-ship-in-the-year-of-the-pandemic"
 excerpt: "Every year, the Christmas Ship, with the support of the US Coast Guard and volunteer groups, delivers Christmas trees to families in need in Chicago’s communities. This year was no exception, but because of the pandemic, it was a bit … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

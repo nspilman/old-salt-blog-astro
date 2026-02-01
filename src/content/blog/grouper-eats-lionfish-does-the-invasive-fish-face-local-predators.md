@@ -1,7 +1,7 @@
 ---
 title: "Grouper Eats Lionfish — Does the Invasive Fish Face Local Predators?"
 date: 2018-06-28T09:49:32
-slug: grouper-eats-lionfish-does-the-invasive-fish-face-local-predators
+slug: "grouper-eats-lionfish-does-the-invasive-fish-face-local-predators"
 excerpt: "Sometime in the 1990s, two different species of lionfish made it into the waters of the Atlantic off Florida. Native to the Indo-Pacific, the venomous, predatory fish spread rapidly, decimating local reef fish in the Atlantic, the Gulf of Mexico, and the … Continue reading &rarr;"
 categories:
   - "Current"

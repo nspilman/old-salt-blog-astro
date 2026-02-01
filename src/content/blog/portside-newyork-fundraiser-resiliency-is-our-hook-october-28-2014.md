@@ -1,7 +1,7 @@
 ---
 title: "PortSide NewYork Fundraiser — Resiliency is our Hook, October 28, 2014"
 date: 2014-10-17T08:59:10
-slug: portside-newyork-fundraiser-resiliency-is-our-hook-october-28-2014
+slug: "portside-newyork-fundraiser-resiliency-is-our-hook-october-28-2014"
 excerpt: "PortSide NewYork is hosting a Fundraiser — Resiliency is our Hook, on October 28, 2014.  There will be smoky BBQ and sizzling Dixieland Jazz by the Red Hook Ramblers.  Good food, good music and good times for a good cause. PortSide … Continue reading &rarr;"
 categories:
   - "Current"

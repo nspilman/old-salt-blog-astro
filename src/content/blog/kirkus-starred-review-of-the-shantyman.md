@@ -1,8 +1,8 @@
 ---
 title: "Kirkus Starred Review of The Shantyman"
 date: 2015-05-26T14:07:08
-slug: kirkus-starred-review-of-the-shantyman
-excerpt: "“A fabulously gripping sailor’s yarn.” The Shantyman was recently reviewed by Kirkus Reviews. I am pleased to say that gave it a Kirkus Star. What does that mean? (I didn’t know either.) “The Kirkus Star is one of the most … Continue reading &rarr;"
+slug: "kirkus-starred-review-of-the-shantyman"
+excerpt: "\"A fabulously gripping sailor’s yarn.\" The Shantyman was recently reviewed by Kirkus Reviews. I am pleased to say that gave it a Kirkus Star. What does that mean? (I didn’t know either.) \"The Kirkus Star is one of the most … Continue reading &rarr;"
 categories:
   - "Newbooks"
   - "Reviews"

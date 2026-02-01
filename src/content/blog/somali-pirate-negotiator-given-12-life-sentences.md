@@ -1,7 +1,7 @@
 ---
 title: "Somali Pirate Negotiator, Mohammad Saaili Shibin, Given 12 Life Sentences"
 date: 2012-08-14T08:11:20
-slug: somali-pirate-negotiator-given-12-life-sentences
+slug: "somali-pirate-negotiator-given-12-life-sentences"
 excerpt: "Yesterday, a federal judge in Virginia ordered Somali pirate Mohammad Saaili Shibin to serve 12 life sentences, 10 of which will run concurrently, while two are consecutive. Shibin was also ordered to pay $5.4 million in restitution. Shibin, 50, has white hair and … Continue reading &rarr;"
 categories:
   - "Current"

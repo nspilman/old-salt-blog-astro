@@ -1,7 +1,7 @@
 ---
 title: "No ‘Times Square on the Hudson’ — New York State Bans Barges with Electronic Billboards"
 date: 2019-08-22T20:15:57
-slug: no-times-square-on-the-hudson-new-york-state-bans-barges-with-electronic-billboards
+slug: "no-times-square-on-the-hudson-new-york-state-bans-barges-with-electronic-billboards"
 excerpt: "If you haven’t been in Times Square in New York City within the past few decades, it has been transformed into a realm of light and video with every available building and wall covered with electronic billboards advertising products and … Continue reading &rarr;"
 categories:
   - "City of Ships"

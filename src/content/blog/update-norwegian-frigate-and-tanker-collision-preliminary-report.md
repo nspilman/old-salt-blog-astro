@@ -1,7 +1,7 @@
 ---
 title: "Update: Norwegian Frigate and Tanker Collision — What Happened?"
 date: 2018-12-13T16:59:32
-slug: update-norwegian-frigate-and-tanker-collision-preliminary-report
+slug: "update-norwegian-frigate-and-tanker-collision-preliminary-report"
 excerpt: "On November 8, just after 4 AM, the Norwegian navy frigate, KNM Helge Ingstad, collided with the Maltese flag, Aframax tanker, Sola TS, near the Sture terminal in the Hjeltefjord near Bergen, Norway. The night was clear. Local traffic control and the tanker both communicated with the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

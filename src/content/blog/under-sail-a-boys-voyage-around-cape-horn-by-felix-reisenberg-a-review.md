@@ -1,7 +1,7 @@
 ---
 title: "Under Sail : A Boy’s Voyage Around Cape Horn by Felix Reisenberg – A Review"
 date: 2010-03-08T11:06:28
-slug: under-sail-a-boys-voyage-around-cape-horn-by-felix-reisenberg-a-review
+slug: "under-sail-a-boys-voyage-around-cape-horn-by-felix-reisenberg-a-review"
 excerpt: "Under Sail is a remarkable account of sixteen year old Felix Riesenberg’s first voyage on a square rigger from South Street Seaport in New York, to Honolulu and back. He sailed on the A.J. Fuller, a Bath built, copper clad, … Continue reading &rarr;"
 categories:
   - "Critiques"

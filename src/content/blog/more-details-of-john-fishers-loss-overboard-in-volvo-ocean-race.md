@@ -1,7 +1,7 @@
 ---
 title: "More Details of John Fisher’s Loss Overboard in Volvo Ocean Race"
 date: 2018-04-23T17:58:13
-slug: more-details-of-john-fishers-loss-overboard-in-volvo-ocean-race
+slug: "more-details-of-john-fishers-loss-overboard-in-volvo-ocean-race"
 excerpt: "Years ago, when I sailed briefly on tall ships, I heard that the two most at-risk groups when going aloft were total novices and the most experienced old hands. The novices knew little, while the experienced sailors grew complacent. This came to … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Crisis on Maersk Etienne Escalates — Three Migrants Jump Overboard"
 date: 2020-09-08T10:20:58
-slug: crisis-on-maersk-etienne-escalates-three-migrants-jump-overboard
+slug: "crisis-on-maersk-etienne-escalates-three-migrants-jump-overboard"
 excerpt: "In early August, the Maltese government asked the tanker, Maersk Etienne, to help a nearby boat in distress. The crew of the tanker found an overcrowded, wooden fishing boat carrying 27 African migrants — including a pregnant woman and a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

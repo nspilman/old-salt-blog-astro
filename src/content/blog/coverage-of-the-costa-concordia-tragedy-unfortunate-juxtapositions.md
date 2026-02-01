@@ -1,7 +1,7 @@
 ---
 title: "Coverage of the Costa Concordia Tragedy  – Unfortunate Juxtapositions"
 date: 2012-01-18T10:31:16
-slug: coverage-of-the-costa-concordia-tragedy-unfortunate-juxtapositions
+slug: "coverage-of-the-costa-concordia-tragedy-unfortunate-juxtapositions"
 excerpt: "As the tragedy of the Costa Concordia plays out, newspapers still need to sell ads.  Recently some of the juxtapositions have been, well, unfortunate. (Click on any of the thumbnails below for a larger image.) Italy’s Il Gazzettino featured a … Continue reading &rarr;"
 categories:
   - "Current"

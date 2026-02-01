@@ -1,7 +1,7 @@
 ---
 title: "Matt Rutherford Completing Circumnavigation of the Americas Within Hours"
 date: 2012-04-17T16:04:11
-slug: matt-rutherford-completing-circumnavigation-of-the-americas-within-hours
+slug: "matt-rutherford-completing-circumnavigation-of-the-americas-within-hours"
 excerpt: "Matt Rutherford, sailing St. Brendan, a 27′ Albin Vega, is within hours of sailing into the Chesapeake Bay, finishing his solo circumnavigation of the Americas!  Matt is planning to on setting foot on-shore for the first time in 25,000 miles-at-sea, at noon, Saturday, April 21 at … Continue reading &rarr;"
 categories:
   - "Current"

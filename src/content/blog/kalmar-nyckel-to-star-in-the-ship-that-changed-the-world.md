@@ -1,8 +1,8 @@
 ---
-title: "Kalmar Nyckel to Star in “The Ship That Changed the World”"
+title: "Kalmar Nyckel to Star in \"The Ship That Changed the World\""
 date: 2010-05-21T09:41:03
-slug: kalmar-nyckel-to-star-in-the-ship-that-changed-the-world
-excerpt: "The Kalmar Nyckel will be featured in an upcoming documentary, “The Ship That Changed the World.” Delaware’s sailing star – Kalmar Nyckel the ‘wow factor’ in new documentary F ilm director Malcolm Dixelius knew he had found his “star” when … Continue reading &rarr;"
+slug: "kalmar-nyckel-to-star-in-the-ship-that-changed-the-world"
+excerpt: "The Kalmar Nyckel will be featured in an upcoming documentary, \"The Ship That Changed the World.\" Delaware’s sailing star – Kalmar Nyckel the ‘wow factor’ in new documentary F ilm director Malcolm Dixelius knew he had found his \"star\" when … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "ghost ship"
   - "Kalmar Nyckel"
 author: "Rick Spilman"
-description: "The Kalmar Nyckel will be featured in an upcoming documentary, “The Ship That Changed the World.” Delaware’s sailing star – Kalmar Nyckel the ‘wow factor’ in new documentary F ilm director Malcolm Dixelius knew he had found his “star” when … Continue reading &rarr;"
+description: "The Kalmar Nyckel will be featured in an upcoming documentary, \"The Ship That Changed the World.\" Delaware’s sailing star – Kalmar Nyckel the ‘wow factor’ in new documentary F ilm director Malcolm Dixelius knew he had found his \"star\" when … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/kn1.jpg)The [Kalmar Nyckel](http://www.kalmarnyckel.org/) will be featured in an upcoming documentary, “[The Ship That Changed the World](http://www.deepsea.se/?id=current&productionid=29).”

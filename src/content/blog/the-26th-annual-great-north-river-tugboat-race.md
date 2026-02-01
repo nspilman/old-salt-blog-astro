@@ -1,7 +1,7 @@
 ---
 title: "The 26th Annual Great North River Tugboat Race"
 date: 2018-09-09T21:20:29
-slug: the-26th-annual-great-north-river-tugboat-race
+slug: "the-26th-annual-great-north-river-tugboat-race"
 excerpt: "A short video of this morning’s 26th Annual Great North River Tugboat Race sponsored by the Working Waterfront Committee. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: Fire-Ravaged Car Carrier Morning Midas Sinks Under Tow in North Pacific"
 date: 2025-06-24T16:43:08
-slug: update-fire-ravaged-car-carrier-morning-midas-sinks-under-tow-in-north-pacific
+slug: "update-fire-ravaged-car-carrier-morning-midas-sinks-under-tow-in-north-pacific"
 excerpt: "The fire-damaged car carrier Morning Midas sank while under tow in the North Pacific Ocean. The ship, with 3,048 vehicles aboard, including over 700 fully electric or hybrid electric vehicles, caught fire three weeks ago on one of the decks … Continue reading &rarr;"
 categories:
   - "Current"

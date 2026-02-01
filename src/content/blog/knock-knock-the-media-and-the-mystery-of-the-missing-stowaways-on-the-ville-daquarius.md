@@ -1,7 +1,7 @@
 ---
 title: "Knock, Knock – the Media and the Mystery of the Missing Stowaways on the Ville D’Aquarius"
 date: 2012-06-29T09:08:26
-slug: knock-knock-the-media-and-the-mystery-of-the-missing-stowaways-on-the-ville-daquarius
+slug: "knock-knock-the-media-and-the-mystery-of-the-missing-stowaways-on-the-ville-daquarius"
 excerpt: "The story began around 3AM Wednesday morning, when a US Coast Guard boarding team, conducting a random sweep on the container ship Ville D’Aquarius, near Sandy Hook, just outside New York harbor, heard a knocking sound which appeared to be coming from somewhere in the ship’s … Continue reading &rarr;"
 categories:
   - "Current"

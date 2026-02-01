@@ -1,7 +1,7 @@
 ---
 title: "Chinese Global Fishing Fleet Growing Aggressively, Chinese Fishing Vessel Tries to Ram USCG Cutter James"
 date: 2022-11-18T18:00:02
-slug: chinese-global-fishing-fleet-growing-aggressively-chinese-fishing-vessel-tries-to-ram-uscg-cutter-james
+slug: "chinese-global-fishing-fleet-growing-aggressively-chinese-fishing-vessel-tries-to-ram-uscg-cutter-james"
 excerpt: "Having overfished its own coastal waters, China is aggressively deploying a global fishing fleet to exploit fishing grounds thousands of miles from its shores. The New York Times reports that over the last two decades, China has built the world’s … Continue reading &rarr;"
 categories:
   - "Current"

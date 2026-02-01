@@ -1,7 +1,7 @@
 ---
 title: "A Wealth of Overlapping Tall Ships and Harbor Festivals In New London, Newport, Providence and New Bedford"
 date: 2012-07-06T17:07:46
-slug: a-wealth-of-overlapping-tall-ships-and-harbor-festivals-in-new-london-newport-providence-and-new-bedford
+slug: "a-wealth-of-overlapping-tall-ships-and-harbor-festivals-in-new-london-newport-providence-and-new-bedford"
 excerpt: "To say that this will be a busy weekend on the New England waterfront may be an understatement. Following the 4th of July festivities in Boston, OpSail 2012 CT starts today in New London, CT, with an impressive fleet of ships.  Only about 50 … Continue reading &rarr;"
 categories:
   - "Current"

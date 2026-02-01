@@ -1,7 +1,7 @@
 ---
 title: "MBARI Finds Mammoth Tusk on a Pacific Seamount"
 date: 2021-12-02T16:30:49
-slug: mbari-finds-mammoth-tusk-on-a-pacific-seamount
+slug: "mbari-finds-mammoth-tusk-on-a-pacific-seamount"
 excerpt: "Interesting news from the Monterey Bay Aquarium Research Institute (MBARI). While exploring a seamount by ROV from aboard the R/V Western Flyer in 2019 the MBARI team spotted what looked like an elephant’s tusk. The seamount is located 300 kilometers … Continue reading &rarr;"
 categories:
   - "Current"

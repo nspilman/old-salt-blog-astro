@@ -1,8 +1,8 @@
 ---
-title: "Repost: Saint Nicholas, Patron Saint of Sailors – “May St. Nicholas Hold the Tiller”"
+title: "Repost: Saint Nicholas, Patron Saint of Sailors – \"May St. Nicholas Hold the Tiller\""
 date: 2016-12-22T08:38:58
-slug: repost-saint-nicholas-patron-saint-sailors-may-st-nicholas-hold-tiller
-excerpt: "In honor of the holiday season, a repost from 2012. We recently learned that good Saint Nicholas, long associated with Christmas and gift-giving, is also the patron saint of ships and sailors. The St. Nicholas Center notes: “Many ports, most … Continue reading &rarr;"
+slug: "repost-saint-nicholas-patron-saint-sailors-may-st-nicholas-hold-tiller"
+excerpt: "In honor of the holiday season, a repost from 2012. We recently learned that good Saint Nicholas, long associated with Christmas and gift-giving, is also the patron saint of ships and sailors. The St. Nicholas Center notes: \"Many ports, most … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Saint Nicholas"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/stnick.jpg"
 author: "Rick Spilman"
-description: "In honor of the holiday season, a repost from 2012. We recently learned that good Saint Nicholas, long associated with Christmas and gift-giving, is also the patron saint of ships and sailors. The St. Nicholas Center notes: “Many ports, most … Continue reading &rarr;"
+description: "In honor of the holiday season, a repost from 2012. We recently learned that good Saint Nicholas, long associated with Christmas and gift-giving, is also the patron saint of ships and sailors. The St. Nicholas Center notes: \"Many ports, most … Continue reading &rarr;"
 ---
 
 ![st-nicholas-patron-saint-of-sailors](http://www.oldsaltblog.com/wp-content/uploads/2012/12/st-nicholas-patron-saint-of-sailors.jpg)In honor of the holiday season, a repost from 2012.

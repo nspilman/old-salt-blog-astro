@@ -1,7 +1,7 @@
 ---
 title: "Trump Cancels Protection of Whales and Sea Turtles Proposed by Fishing Industry"
 date: 2018-07-08T11:09:34
-slug: trump-cancels-protection-of-whales-and-sea-turtles-proposed-by-fishing-industry
+slug: "trump-cancels-protection-of-whales-and-sea-turtles-proposed-by-fishing-industry"
 excerpt: "The Trump administration announced that it would cancel a rule designed to protect whales and turtles, which was first implemented in 2016, at the request of the fishing industry. The rule helped limit the number of endangered whales and turtles … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

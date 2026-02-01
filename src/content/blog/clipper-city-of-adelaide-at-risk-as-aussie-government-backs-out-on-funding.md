@@ -1,7 +1,7 @@
 ---
 title: "Clipper City of Adelaide at Risk as Aussie Government Backs Out On Funding"
 date: 2011-10-14T12:00:41
-slug: clipper-city-of-adelaide-at-risk-as-aussie-government-backs-out-on-funding
+slug: "clipper-city-of-adelaide-at-risk-as-aussie-government-backs-out-on-funding"
 excerpt: "The future of the oldest, just barely surviving, composite clipper ship in the world, the City of Adelaide, is again in question. Shortly before it was due to be scrapped in Scotland last August, an agreement was reached to send … Continue reading &rarr;"
 categories:
   - "Current"

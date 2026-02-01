@@ -1,7 +1,7 @@
 ---
 title: "Hokulea, First Voyaging Canoe in 600 Years, Completes Three Year Circumnavigation"
 date: 2017-06-22T09:21:54
-slug: hokulea-first-voyaging-canoe-600-years-completes-three-year-circumnavigation
+slug: "hokulea-first-voyaging-canoe-600-years-completes-three-year-circumnavigation"
 excerpt: "Hokulea, the first voyaging canoe in 600 years, sailed back to Hawaii last week, completing an epic three year 40,000 mile circumnavigation. Hokulea and her crew were greeted by fellow voyaging canoes, hundreds of other water craft and an estimated … Continue reading &rarr;"
 categories:
   - "Current"

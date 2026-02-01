@@ -1,7 +1,7 @@
 ---
 title: "Iceland Fin Whaling Season Cancelled for Second Year in a Row"
 date: 2025-04-15T17:14:19
-slug: iceland-fin-whaling-season-cancelled-for-second-year-in-a-row
+slug: "iceland-fin-whaling-season-cancelled-for-second-year-in-a-row"
 excerpt: "Iceland’s only active whaling company, Hvalur hf. is reportedly canceling this summer’s fin whale hunt. This marks the second consecutive year the company has opted out of whaling during the summer season. Another whaling company, Tjaldtangi ehf., was granted permits … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Is the AC72 the Boat That Could Sink the America’s Cup?"
 date: 2013-05-10T09:00:34
-slug: is-the-ac72-the-boat-that-will-kill-the-americas-cup
-excerpt: "Wired Magazine ran a weirdly prophetic article that appears to have been published almost immediately before the tragic death of British Olympian, Andrew Simpson, in the capsize of the Swedish Artemis Racing AC72 catamaran yesterday in San Francisco Bay.  In the article, titled “The Boat That Could … Continue reading &rarr;"
+slug: "is-the-ac72-the-boat-that-will-kill-the-americas-cup"
+excerpt: "Wired Magazine ran a weirdly prophetic article that appears to have been published almost immediately before the tragic death of British Olympian, Andrew Simpson, in the capsize of the Swedish Artemis Racing AC72 catamaran yesterday in San Francisco Bay.  In the article, titled \"The Boat That Could … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "San Francisco Bay"
   - "Wired Magazine"
 author: "Rick Spilman"
-description: "Wired Magazine ran a weirdly prophetic article that appears to have been published almost immediately before the tragic death of British Olympian, Andrew Simpson, in the capsize of the Swedish Artemis Racing AC72 catamaran yesterday in San Francisco Bay.  In the article, titled “The Boat That Could … Continue reading &rarr;"
+description: "Wired Magazine ran a weirdly prophetic article that appears to have been published almost immediately before the tragic death of British Olympian, Andrew Simpson, in the capsize of the Swedish Artemis Racing AC72 catamaran yesterday in San Francisco Bay.  In the article, titled \"The Boat That Could … Continue reading &rarr;"
 ---
 
 [![artemis](http://www.oldsaltblog.com/wp-content/uploads/2013/05/artemis.jpg)Wired Magazine](http://www.wired.com/autopia/2013/05/americas-cup-boat-crash/) ran a weirdly prophetic article that appears to have been published almost immediately before the tragic death of British Olympian, Andrew Simpson, in the capsize of the Swedish [Artemis Racin](http://artemis-racing.americascup.com/)g AC72 catamaran yesterday in San Francisco Bay.  In the article, titled “[*The Boat That Could Sink the America’s Cup*](http://www.wired.com/autopia/2013/05/americas-cup-boat-crash/)” Adam Fisher suggests that the AC72 catamarans, in which the race will be sailed and on which Simpson died, may be too expensive, too dangerous and too fragile.

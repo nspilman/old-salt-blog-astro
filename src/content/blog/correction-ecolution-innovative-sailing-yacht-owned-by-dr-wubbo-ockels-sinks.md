@@ -1,8 +1,8 @@
 ---
 title: "Correction: Ecolution, Innovative Sailing Yacht Owned by Dr. Wubbo Ockels, Sinks"
 date: 2010-12-02T10:21:57
-slug: correction-ecolution-innovative-sailing-yacht-owned-by-dr-wubbo-ockels-sinks
-excerpt: "CORRECTION: The early news reports translated roughly from Dutch to English reported that the sailing vessel Ecolution was “sunk by demolitions.”  We interpreted that to mean explosives.  It appears however that no structural damage was done to the hull itself and that the vessel has been … Continue reading &rarr;"
+slug: "correction-ecolution-innovative-sailing-yacht-owned-by-dr-wubbo-ockels-sinks"
+excerpt: "CORRECTION: The early news reports translated roughly from Dutch to English reported that the sailing vessel Ecolution was \"sunk by demolitions.\"  We interpreted that to mean explosives.  It appears however that no structural damage was done to the hull itself and that the vessel has been … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "schooner"
   - "Wubbo Ockles"
 author: "Rick Spilman"
-description: "CORRECTION: The early news reports translated roughly from Dutch to English reported that the sailing vessel Ecolution was “sunk by demolitions.”  We interpreted that to mean explosives.  It appears however that no structural damage was done to the hull itself and that the vessel has been … Continue reading &rarr;"
+description: "CORRECTION: The early news reports translated roughly from Dutch to English reported that the sailing vessel Ecolution was \"sunk by demolitions.\"  We interpreted that to mean explosives.  It appears however that no structural damage was done to the hull itself and that the vessel has been … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/ecolution-1.jpg)***CORRECTION:*** The [early news reports](http://translate.google.com/translate?hl=en&sl=nl&tl=en&u=http://nieuws.nl.msn.com/algemeen/article.aspx%3Fcp-documentid%3D155410019%26utm_medium%3Dtwitter%26utm_source%3Dtwitterfeed) translated roughly from Dutch to English reported that the sailing vessel *Ecolution* was “sunk by demolitions.”  We interpreted that to mean explosives.  It appears however that no structural damage was done to the hull itself and that the vessel has been pumped out and is afloat, which would suggest that we were wrong in our interpretation of the phrase “sunk by demolitions.”   The error was entirely ours.  Thanks to Martin Römer of the *[Tres Hombres Packet Company](http://svtreshombres.homestead.com/Index.html)* for alerting us to the  mistake.

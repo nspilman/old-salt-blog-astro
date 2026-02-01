@@ -1,7 +1,7 @@
 ---
 title: "Hywind – the First Full-scale Floating Wind Turbine"
 date: 2009-09-21T08:20:04
-slug: hywind-%e2%80%93-the-first-full-scale-floating-wind-turbine
+slug: "hywind-%e2%80%93-the-first-full-scale-floating-wind-turbine"
 excerpt: "Last week, StatoilHydro inaugurated Hywind in the North Sea off South-west Norway. Hywind is the first full scale floating wind turbine and is a research pilot program to develop a new generation of offshore wind mills. StatoilHydro inaugurates floating wind … Continue reading &rarr;"
 categories:
   - "Current"

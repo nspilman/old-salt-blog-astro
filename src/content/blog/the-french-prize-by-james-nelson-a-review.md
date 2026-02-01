@@ -1,8 +1,8 @@
 ---
 title: "The French Prize by James Nelson — a Review"
 date: 2015-07-29T10:15:19
-slug: the-french-prize-by-james-nelson-a-review
-excerpt: "For fans of his “Revolution at Sea Saga,” Jame’s Nelson’s The French Prize is an introduction to the next generation. Isaac Biddlecombe, the Revolutionary War naval hero of the previous saga, has a son, Jack, coming of age in the … Continue reading &rarr;"
+slug: "the-french-prize-by-james-nelson-a-review"
+excerpt: "For fans of his \"Revolution at Sea Saga,\" Jame’s Nelson’s The French Prize is an introduction to the next generation. Isaac Biddlecombe, the Revolutionary War naval hero of the previous saga, has a son, Jack, coming of age in the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Newbooks"

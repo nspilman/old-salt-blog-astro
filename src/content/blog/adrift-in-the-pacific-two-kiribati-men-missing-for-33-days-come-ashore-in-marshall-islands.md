@@ -1,7 +1,7 @@
 ---
 title: "Adrift in the Pacific – Two Kiribati Men Missing for 33 Days Come Ashore in Marshall Islands"
 date: 2011-11-30T09:29:00
-slug: adrift-in-the-pacific-two-kiribati-men-missing-for-33-days-come-ashore-in-marshall-islands
+slug: "adrift-in-the-pacific-two-kiribati-men-missing-for-33-days-come-ashore-in-marshall-islands"
 excerpt: "Two men, aged 53 and 26, from the Pacific Ocean island nation of Kiribati, who had been missing for 33 days, came ashore over 300 miles away on the on Namorik Atoll, in the Marshall Islands. The men were reported … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Theo Jansen’s Strandbeests Cross the Atlantic"
 date: 2014-12-05T13:22:30
-slug: theo-jansens-strandbeests
-excerpt: "Since 1990, strange and wondrous new forms of life have been wandering the beaches of the Netherlands, walking on the wind. They are Theo Jenson’s “strandbeests,” self propelled kinetic skeletal sculptures of PVC and fabric. Now for the first time, … Continue reading &rarr;"
+slug: "theo-jansens-strandbeests"
+excerpt: "Since 1990, strange and wondrous new forms of life have been wandering the beaches of the Netherlands, walking on the wind. They are Theo Jenson’s \"strandbeests,\" self propelled kinetic skeletal sculptures of PVC and fabric. Now for the first time, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

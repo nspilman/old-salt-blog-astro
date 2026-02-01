@@ -1,7 +1,7 @@
 ---
 title: "Whales Returning to New York — Dead & Alive"
 date: 2016-08-02T16:15:42
-slug: whales-returning-new-york-dead-alive
+slug: "whales-returning-new-york-dead-alive"
 excerpt: "After decades of absence, whales are returning to the waters around New York City. Competing whale watching cruises depart New York docks in the warmer months to see humpback, fin whales and dolphins, often within site of the city skyline. … Continue reading &rarr;"
 categories:
   - "Current"

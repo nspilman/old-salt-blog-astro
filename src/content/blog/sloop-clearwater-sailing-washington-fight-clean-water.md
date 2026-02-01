@@ -1,7 +1,7 @@
 ---
 title: "Sloop Clearwater Sailing to Washington to Fight for Clean Water"
 date: 2017-04-25T09:33:54
-slug: sloop-clearwater-sailing-washington-fight-clean-water
+slug: "sloop-clearwater-sailing-washington-fight-clean-water"
 excerpt: "The sloop Clearwater has been sailing since 1969, spreading a message of caring for the environment and for restoring clean water to our rivers, streams and oceans. Now that clean water is again under attack by the new administration, the … Continue reading &rarr;"
 categories:
   - "Current"

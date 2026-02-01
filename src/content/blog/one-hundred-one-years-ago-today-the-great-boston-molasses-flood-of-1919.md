@@ -1,7 +1,7 @@
 ---
 title: "One Hundred & One Years Ago Today — The Great Boston Molasses Flood of 1919"
 date: 2020-01-15T16:48:19
-slug: one-hundred-one-years-ago-today-the-great-boston-molasses-flood-of-1919
+slug: "one-hundred-one-years-ago-today-the-great-boston-molasses-flood-of-1919"
 excerpt: "We are having a relatively warm January with significantly fluctuating temperatures. Similar weather conditions 101 years ago, coupled with a shoddily built storage tank, caused the Great Boston Molasses Flood, which inundated Boston’s North End sending a wall of molasses, … Continue reading &rarr;"
 categories:
   - "History"

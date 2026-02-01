@@ -1,8 +1,8 @@
 ---
 title: "Louis Jordan, Sixty Six Days Adrift — What Really Happened?"
 date: 2015-04-03T10:20:01
-slug: louis-jordan-sixty-six-days-adrift-what-really-happened
-excerpt: "Reading about sailing in the media is often like reading a mystery story. The question is not, however, “who done it?” but “what really happened?”  The reports of Louis Jordan who was found adrift in his disabled sailboat off Cape … Continue reading &rarr;"
+slug: "louis-jordan-sixty-six-days-adrift-what-really-happened"
+excerpt: "Reading about sailing in the media is often like reading a mystery story. The question is not, however, \"who done it?\" but \"what really happened?\"  The reports of Louis Jordan who was found adrift in his disabled sailboat off Cape … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

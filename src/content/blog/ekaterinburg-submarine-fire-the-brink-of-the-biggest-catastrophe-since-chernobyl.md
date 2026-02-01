@@ -1,8 +1,8 @@
 ---
-title: "Ekaterinburg Submarine Fire -“On the Brink of the Biggest Catastrophe Since Chernobyl”"
+title: "Ekaterinburg Submarine Fire -\"On the Brink of the Biggest Catastrophe Since Chernobyl\""
 date: 2012-02-14T19:26:31
-slug: ekaterinburg-submarine-fire-the-brink-of-the-biggest-catastrophe-since-chernobyl
-excerpt: "According to the Russian magazine Vlast, “Russia [was] … on the verge of the largest man-made disaster since Chernobyl”  when a fire broke out on December 29th, 2011 on the K-84 Ekaterinburg, a Russian nuclear-powered ballistic missile submarine, in a dry-dock in Murmansk.  Sparks … Continue reading &rarr;"
+slug: "ekaterinburg-submarine-fire-the-brink-of-the-biggest-catastrophe-since-chernobyl"
+excerpt: "According to the Russian magazine Vlast, \"Russia [was] … on the verge of the largest man-made disaster since Chernobyl\"  when a fire broke out on December 29th, 2011 on the K-84 Ekaterinburg, a Russian nuclear-powered ballistic missile submarine, in a dry-dock in Murmansk.  Sparks … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Murmansk"
   - "R-29 intercontinental ballistic missiles"
 author: "Rick Spilman"
-description: "According to the Russian magazine Vlast, “Russia [was] … on the verge of the largest man-made disaster since Chernobyl”  when a fire broke out on December 29th, 2011 on the K-84 Ekaterinburg, a Russian nuclear-powered ballistic missile submarine, in a dry-dock in Murmansk.  Sparks … Continue reading &rarr;"
+description: "According to the Russian magazine Vlast, \"Russia [was] … on the verge of the largest man-made disaster since Chernobyl\"  when a fire broke out on December 29th, 2011 on the K-84 Ekaterinburg, a Russian nuclear-powered ballistic missile submarine, in a dry-dock in Murmansk.  Sparks … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/Yekaterinburg.jpg)According to the Russian magazine [*Vlast*,](http://www.kommersant.ru/doc/1867264) “*Russia \[was\] … on the verge of the largest man-made disaster since Chernobyl”*  when a fire broke out on December 29th, 2011 on the K-84 *Ekaterinburg*, a Russian nuclear-powered ballistic missile submarine, in a dry-dock in Murmansk.  Sparks from welding were reported to have set fire to wooden scaffolding which spread to the rubber acoustic coating on the submarine’s hull. After several hours of fire fighting the sub was partially sunk to control the fire. At the time the damage to the submarine was played down. As reported by the BBC, “*The Russian defense ministry said the nuclear reactors on the vessel were already shut down when the fire broke out. All weapons had also been removed from the submarine before it entered the dock, the ministry said*.”  According to *Vlast*, however, “*K-84 was in the dock with missiles and torpedoes on board.”*     

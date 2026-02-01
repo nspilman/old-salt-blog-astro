@@ -1,7 +1,7 @@
 ---
 title: "Tragedy on Christmas Island –  Asylum Seekers Die in Shipwreck"
 date: 2010-12-15T11:31:31
-slug: tragedy-on-christmas-island-asylum-seekers-die-in-shipwreck
+slug: "tragedy-on-christmas-island-asylum-seekers-die-in-shipwreck"
 excerpt: "A horrific story from Australia’s Christmas Island where a boat carrying asylum-seekers believed to be from Iraq and Iran broke up in rough after striking rocks offshore.  Forty two people were been rescued and twenty seven have been confirmed dead, though that … Continue reading &rarr;"
 categories:
   - "Current"

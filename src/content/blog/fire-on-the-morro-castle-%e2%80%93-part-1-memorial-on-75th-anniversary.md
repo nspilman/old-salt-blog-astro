@@ -1,7 +1,7 @@
 ---
 title: "Fire on the Morro Castle – Part 1: Memorial on 75th Anniversary"
 date: 2009-09-08T07:42:29
-slug: fire-on-the-morro-castle-%e2%80%93-part-1-memorial-on-75th-anniversary
+slug: "fire-on-the-morro-castle-%e2%80%93-part-1-memorial-on-75th-anniversary"
 excerpt: "Seventy five years ago today, the passenger liner Morro Castle was steaming off the Jersey shore, bound for New York from Havana, when she caught fire.   Of the 549 passengers and crew aboard, 135 died either in the fire or  by drowning.   An … Continue reading &rarr;"
 categories:
   - "Current"

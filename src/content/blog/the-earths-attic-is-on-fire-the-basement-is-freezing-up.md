@@ -1,7 +1,7 @@
 ---
 title: "The Earth’s Attic is on Fire & the Basement is Freezing Up"
 date: 2012-09-21T16:59:44
-slug: the-earths-attic-is-on-fire-the-basement-is-freezing-up
+slug: "the-earths-attic-is-on-fire-the-basement-is-freezing-up"
 excerpt: "Scientists have said that global climate change will bring us severe and unusual weather.   That would be a hard point to argue. Here are two recent, apparently somewhat contradictory or perhaps merely odd, news stories about the sea and the global climate. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "NYC’s South Street Seaport Museum Kicks off 50th Year!"
 date: 2017-04-24T09:09:24
-slug: nycs-south-street-seaport-museum-kicks-off-50th-year
+slug: "nycs-south-street-seaport-museum-kicks-off-50th-year"
 excerpt: "New York can be a tough town. Despite rough and tumble struggles over real estate, the vagaries of city politics, economic downturns, and not the least, being struck head-on my a monster hurricane which sent a 10′ storm surge through its … Continue reading &rarr;"
 categories:
   - "Current"

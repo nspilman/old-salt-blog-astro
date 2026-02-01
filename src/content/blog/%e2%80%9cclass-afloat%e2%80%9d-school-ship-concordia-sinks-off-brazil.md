@@ -1,8 +1,8 @@
 ---
-title: "“Class Afloat” School Ship Concordia Sinks Off Brazil"
+title: "\"Class Afloat\" School Ship Concordia Sinks Off Brazil"
 date: 2010-02-19T13:35:10
-slug: %e2%80%9cclass-afloat%e2%80%9d-school-ship-concordia-sinks-off-brazil
-excerpt: "The West Island College “Class Afloat” school ship Concordia, en route between Recife, Brazil and Montevideo, Uruguay,  is reported to have sunk last night off the coast of Brazil.   All 64 passengers and crew were reported safe after being  rescued by the Brazilian Navy and Air Force. … Continue reading &rarr;"
+slug: "%e2%80%9cclass-afloat%e2%80%9d-school-ship-concordia-sinks-off-brazil"
+excerpt: "The West Island College \"Class Afloat\" school ship Concordia, en route between Recife, Brazil and Montevideo, Uruguay,  is reported to have sunk last night off the coast of Brazil.   All 64 passengers and crew were reported safe after being  rescued by the Brazilian Navy and Air Force. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,9 +11,9 @@ tags:
   - "Brazil"
   - "Canadian sailing ship"
   - "School Ship Concordia"
-  - "West Island College “Class Afloat” school ship"
+  - "West Island College \"Class Afloat\" school ship"
 author: "Rick Spilman"
-description: "The West Island College “Class Afloat” school ship Concordia, en route between Recife, Brazil and Montevideo, Uruguay,  is reported to have sunk last night off the coast of Brazil.   All 64 passengers and crew were reported safe after being  rescued by the Brazilian Navy and Air Force. … Continue reading &rarr;"
+description: "The West Island College \"Class Afloat\" school ship Concordia, en route between Recife, Brazil and Montevideo, Uruguay,  is reported to have sunk last night off the coast of Brazil.   All 64 passengers and crew were reported safe after being  rescued by the Brazilian Navy and Air Force. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/Concordia3.jpg)The [West Island College “Class Afloat”](http://www.classafloat.com/) school ship *Concordia, en route between Recife, Brazil and Montevideo, Uruguay,  is reported to have sunk last night off the coast of Brazil.   All 64 passengers and crew were reported safe after being  rescued by the Brazilian Navy and Air Force.*

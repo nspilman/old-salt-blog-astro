@@ -1,8 +1,8 @@
 ---
 title: "Who are Jonathan & Mary?  A Mystery from a 28 Year Old Letter in a Bottle"
 date: 2013-04-18T17:32:06
-slug: who-are-jonathan-mary-a-mystery-from-a-28-year-old-letter-in-a-bottle
-excerpt: "A 23 year old Croatian kite surfer, Matea Medak Rezic, found a letter in a broken bottle on a beach at the mouth of the Neretva River in the southern Adriatic. The letter was brief: “Mary, you really are a great person. … Continue reading &rarr;"
+slug: "who-are-jonathan-mary-a-mystery-from-a-28-year-old-letter-in-a-bottle"
+excerpt: "A 23 year old Croatian kite surfer, Matea Medak Rezic, found a letter in a broken bottle on a beach at the mouth of the Neretva River in the southern Adriatic. The letter was brief: \"Mary, you really are a great person. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Neretva River"
   - "Nova Scotia"
 author: "Rick Spilman"
-description: "A 23 year old Croatian kite surfer, Matea Medak Rezic, found a letter in a broken bottle on a beach at the mouth of the Neretva River in the southern Adriatic. The letter was brief: “Mary, you really are a great person. … Continue reading &rarr;"
+description: "A 23 year old Croatian kite surfer, Matea Medak Rezic, found a letter in a broken bottle on a beach at the mouth of the Neretva River in the southern Adriatic. The letter was brief: \"Mary, you really are a great person. … Continue reading &rarr;"
 ---
 
 ![ns-letter-320](http://www.oldsaltblog.com/wp-content/uploads/2013/04/ns-letter-320.jpg)A 23 year old Croatian kite surfer, Matea Medak Rezic, [found a letter in a broken bottle](http://www.cbc.ca/news/canada/nova-scotia/story/2013/04/17/ns-bottle-message-arrives.html) on a beach at the mouth of the Neretva River in the southern Adriatic. The letter was brief:

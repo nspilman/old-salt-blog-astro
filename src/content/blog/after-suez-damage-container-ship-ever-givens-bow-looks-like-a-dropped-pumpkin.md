@@ -1,7 +1,7 @@
 ---
 title: "After Suez Damage, Container Ship Ever Given’s Bow Looks like a Dropped Pumpkin"
 date: 2021-11-05T11:54:07
-slug: after-suez-damage-container-ship-ever-givens-bow-looks-like-a-dropped-pumpkin
+slug: "after-suez-damage-container-ship-ever-givens-bow-looks-like-a-dropped-pumpkin"
 excerpt: "Photographs have come out of the bow damage to the container ship Ever Given after she ran hard aground in the Suez Canal, blocking the critical waterway for six days last March. The images were taken in Qingdao, China, where … Continue reading &rarr;"
 categories:
   - "Current"

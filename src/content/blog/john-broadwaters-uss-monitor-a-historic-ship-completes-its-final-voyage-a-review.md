@@ -1,7 +1,7 @@
 ---
 title: "John Broadwater’s USS Monitor – A Historic Ship Completes Its Final Voyage, a Review"
 date: 2014-08-27T18:25:22
-slug: john-broadwaters-uss-monitor-a-historic-ship-completes-its-final-voyage-a-review
+slug: "john-broadwaters-uss-monitor-a-historic-ship-completes-its-final-voyage-a-review"
 excerpt: "On December 31, 1862 while under tow in a gale off Cape Hatteras, USS Monitor sank. The Monitor had been in service for only ten months and yet in that brief time had revolutionized naval warfare. The wreck of the … Continue reading &rarr;"
 categories:
   - "Current"

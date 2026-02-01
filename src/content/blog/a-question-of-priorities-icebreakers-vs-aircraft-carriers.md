@@ -1,7 +1,7 @@
 ---
 title: "A Question of Priorities — Icebreakers vs Aircraft Carriers"
 date: 2015-09-03T19:16:07
-slug: a-question-of-priorities-icebreakers-vs-aircraft-carriers
+slug: "a-question-of-priorities-icebreakers-vs-aircraft-carriers"
 excerpt: "Paradoxically, the decreasing polar ice cap has increased the need for icebreakers. As the ice diminishes, traffic has increased above the Arctic Circle, making the need for icebreaking to assist in transit or respond to emergencies ever more important.  On his … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Maersk Invests in Prometheus, Start-up Electrofuels Company"
 date: 2021-09-24T15:03:14
-slug: maersk-invests-in-prometheus-start-up-electrofuels-company
+slug: "maersk-invests-in-prometheus-start-up-electrofuels-company"
 excerpt: "A.P. Moller – Maersk has announced that Maersk Growth, its venture capital arm, has made a leading investment in Prometheus Fuels, a Silicon Valley-based startup with a promising direct air capture technology to enable cost-efficient, carbon-neutral e-fuels for shipping. From … Continue reading &rarr;"
 categories:
   - "Current"

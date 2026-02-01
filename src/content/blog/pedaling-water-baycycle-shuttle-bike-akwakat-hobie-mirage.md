@@ -1,7 +1,7 @@
 ---
 title: "Pedaling on the Water – BayCycle, Shuttle-Bike, Akwakat, Hobie Mirage and More"
 date: 2013-10-05T07:10:45
-slug: pedaling-water-baycycle-shuttle-bike-akwakat-hobie-mirage
+slug: "pedaling-water-baycycle-shuttle-bike-akwakat-hobie-mirage"
 excerpt: "Recently, a young designer, Judah Schiller, generated considerable attention by riding his bike first across San Francisco Bay and then across the Hudson River in New York City.  He didn’t sink during either trip because his bike was clamped to … Continue reading &rarr;"
 categories:
   - "Current"

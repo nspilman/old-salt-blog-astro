@@ -1,7 +1,7 @@
 ---
 title: "The Bowhead Whale, the Longest Living Mammal"
 date: 2019-12-14T10:40:06
-slug: the-bowhead-whale-the-longest-living-mammal
+slug: "the-bowhead-whale-the-longest-living-mammal"
 excerpt: "Australian researchers using a genetic ‘clock’ to predict animals’ lifespans have determined that bowhead whales may live for an average of 268 years. They came to this conclusion from studying 42 genes and a chemical process they undergo called methylation … Continue reading &rarr;"
 categories:
   - "Current"

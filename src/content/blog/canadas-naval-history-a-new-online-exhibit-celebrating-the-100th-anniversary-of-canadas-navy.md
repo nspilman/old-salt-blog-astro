@@ -1,8 +1,8 @@
 ---
 title: "Canada’s Naval History – a New Online Exhibit Celebrating the 100th Anniversary of Canada’s Navy"
 date: 2010-11-11T16:53:31
-slug: canadas-naval-history-a-new-online-exhibit-celebrating-the-100th-anniversary-of-canadas-navy
-excerpt: "The Canadian War Museum is marking the 100th anniversary of Canada’s navy with a fascinating new online exhibit – Canada’s Naval History. Canadian War Museum launches online naval history exhibition “Canada’s Naval History explores the wide range of this country’s … Continue reading &rarr;"
+slug: "canadas-naval-history-a-new-online-exhibit-celebrating-the-100th-anniversary-of-canadas-navy"
+excerpt: "The Canadian War Museum is marking the 100th anniversary of Canada’s navy with a fascinating new online exhibit – Canada’s Naval History. Canadian War Museum launches online naval history exhibition \"Canada’s Naval History explores the wide range of this country’s … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -11,7 +11,7 @@ tags:
   - "Canada's Naval History"
   - "Canadian War Museum"
 author: "Rick Spilman"
-description: "The Canadian War Museum is marking the 100th anniversary of Canada’s navy with a fascinating new online exhibit – Canada’s Naval History. Canadian War Museum launches online naval history exhibition “Canada’s Naval History explores the wide range of this country’s … Continue reading &rarr;"
+description: "The Canadian War Museum is marking the 100th anniversary of Canada’s navy with a fascinating new online exhibit – Canada’s Naval History. Canadian War Museum launches online naval history exhibition \"Canada’s Naval History explores the wide range of this country’s … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/canadanavy.jpg)The Canadian War Museum is marking the 100th anniversary of Canada’s navy with a fascinating new online exhibit – [Canada’s Naval History](http://www.warmuseum.ca/cwm/exhibitions/navy/home-e.aspx).

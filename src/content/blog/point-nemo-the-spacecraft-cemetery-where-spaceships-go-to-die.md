@@ -1,7 +1,7 @@
 ---
 title: "Point Nemo & the Spacecraft Cemetery — Where Spaceships Go to Die"
 date: 2015-05-29T18:26:01
-slug: point-nemo-the-spacecraft-cemetery-where-spaceships-go-to-die
+slug: "point-nemo-the-spacecraft-cemetery-where-spaceships-go-to-die"
 excerpt: "First of all, notwithstanding the name, there is no point, as in point of land, to Point Nemo.  Which may be exactly the point.  Point Nemo is the point in the ocean furthest from any land mass. Named for Captain Nemo … Continue reading &rarr;"
 categories:
   - "Current"

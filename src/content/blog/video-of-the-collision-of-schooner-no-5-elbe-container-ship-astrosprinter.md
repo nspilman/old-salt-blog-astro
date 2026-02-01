@@ -1,7 +1,7 @@
 ---
 title: "Video of the Collision of Schooner No 5. Elbe & Container Ship Astrosprinter"
 date: 2019-06-15T08:17:01
-slug: video-of-the-collision-of-schooner-no-5-elbe-container-ship-astrosprinter
+slug: "video-of-the-collision-of-schooner-no-5-elbe-container-ship-astrosprinter"
 excerpt: "Disturbing video shot from the deck of the pilot schooner No. 5 Elbe immediately before her collision with the container ship Astrosprinter. It appears that the helmsman made the wrong maneuver at exactly the wrong time. Kurz vor der Kollision … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "UN Court Orders ARA Libertad Released from Ghana"
 date: 2012-12-15T12:27:05
-slug: un-court-orders-ara-libertad-released-from-ghana
+slug: "un-court-orders-ara-libertad-released-from-ghana"
 excerpt: "On October 2, the government of Ghana seized the Argentine navy sail training ship Libertad in the port of Tema on behalf of US billionaire Paul Singer.  The government of Argentina appealed the seizure to the U.N. International Sea Tribunal in Hamburg, Germany.  Today the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

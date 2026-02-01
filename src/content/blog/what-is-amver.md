@@ -1,7 +1,7 @@
 ---
 title: "What is AMVER?"
 date: 2010-12-17T09:56:13
-slug: what-is-amver
+slug: "what-is-amver"
 excerpt: "What is AMVER?  They are the most amazing world-wide maritime search and rescue network that you probably have never heard of.  AMVER stands for the Automated Mutual Assistance Vessel Rescue System. It was founded over fifty years ago, in 1958, and currently over 19,000 ships … Continue reading &rarr;"
 categories:
   - "Current"

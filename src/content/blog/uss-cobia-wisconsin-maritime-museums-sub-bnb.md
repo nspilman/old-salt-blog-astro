@@ -1,7 +1,7 @@
 ---
 title: "USS Cobia — Wisconsin Maritime Museum’s Sub BnB"
 date: 2020-10-05T08:20:49
-slug: uss-cobia-wisconsin-maritime-museums-sub-bnb
+slug: "uss-cobia-wisconsin-maritime-museums-sub-bnb"
 excerpt: "An interesting bit of news from the Sea History Today, the National Maritime Historical Society’s newsletter. One of the more popular programs at the Wisconsin Maritime Museum (WMM) in Manitowoc involves arranging for youth groups to spend the night in … Continue reading &rarr;"
 categories:
   - "Current"

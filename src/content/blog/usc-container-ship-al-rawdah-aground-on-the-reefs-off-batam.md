@@ -1,7 +1,7 @@
 ---
 title: "USC Container Ship Al Rawdah Aground on the Reefs off Batam"
 date: 2011-06-21T11:07:56
-slug: usc-container-ship-al-rawdah-aground-on-the-reefs-off-batam
+slug: "usc-container-ship-al-rawdah-aground-on-the-reefs-off-batam"
 excerpt: "Just in case you think you had a bad Monday, yesterday the USC container ship Al Rawdah ran aground on a reef in the waters of Pulau Sambu Stone Chain, Rear Padang, Batam, not long after leaving Port Klang, Selangor, Malaysia. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: MSC Flaminia Under Tow with Fire Under Control Approaches UK Coast"
 date: 2012-07-25T07:11:45
-slug: update-msc-flaminia-under-tow-with-fire-under-control-approaches-uk-coast
+slug: "update-msc-flaminia-under-tow-with-fire-under-control-approaches-uk-coast"
 excerpt: "The fire on the containership MSC Flaminia, abandoned in the mid-Atlantic after a fire and explosion on July 15th, is reported now to be under control. The ship is under by the Smit salvage tug Fairmount Expedition at five knots and is roughly … Continue reading &rarr;"
 categories:
   - "Current"

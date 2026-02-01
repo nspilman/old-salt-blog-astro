@@ -1,7 +1,7 @@
 ---
 title: "Burial at Sea in a Bed-Sheet?  Really?"
 date: 2014-04-12T09:44:44
-slug: burial-at-sea-in-a-bed-sheet-really-i-dont-think-so
+slug: "burial-at-sea-in-a-bed-sheet-really-i-dont-think-so"
 excerpt: "As part of a new exhibit, Rough Medicine: Life and Death in the Age of Sail, at the South Australia Maritime Museum, sail maker Don Lucas was asked to sew a shroud for a child, actually a child-sized manikin, fortunately, to … Continue reading &rarr;"
 categories:
   - "Current"

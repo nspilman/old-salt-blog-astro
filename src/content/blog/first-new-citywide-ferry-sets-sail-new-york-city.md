@@ -1,7 +1,7 @@
 ---
 title: "First New Citywide Ferry Sets Sail For New York City"
 date: 2017-03-22T16:28:57
-slug: first-new-citywide-ferry-sets-sail-new-york-city
+slug: "first-new-citywide-ferry-sets-sail-new-york-city"
 excerpt: "The first of twenty new ferryboats has begun the 1,700 mile voyage from the Gulf Coast to its new home in the waters of New York harbor.  The new ferry is the first of a new fleet of aluminum catamaran ferries to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

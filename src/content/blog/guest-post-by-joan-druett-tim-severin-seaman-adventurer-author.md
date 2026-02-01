@@ -1,7 +1,7 @@
 ---
 title: "Guest Post by Joan Druett — Tim Severin, Seaman, Adventurer, Author"
 date: 2021-01-17T16:36:03
-slug: guest-post-by-joan-druett-tim-severin-seaman-adventurer-author
+slug: "guest-post-by-joan-druett-tim-severin-seaman-adventurer-author"
 excerpt: "Originally posted in award-winning maritime historian Joan Druett’s World of the Written Word. Reposted with permission. I was saddened to learn that Tim Severin, a truly remarkable man who was a living inspiration, passed away last month. The Irish Times has a … Continue reading &rarr;"
 categories:
   - "Current"

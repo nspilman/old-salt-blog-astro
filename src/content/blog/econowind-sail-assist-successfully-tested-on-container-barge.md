@@ -1,7 +1,7 @@
 ---
 title: "eConowind Sail Assist Successfully Tested on Container Barge"
 date: 2020-12-14T20:15:59
-slug: econowind-sail-assist-successfully-tested-on-container-barge
+slug: "econowind-sail-assist-successfully-tested-on-container-barge"
 excerpt: "A year ago we posted about the innovative ideas and products developed by the Dutch firm, eConowind. They have developed a Ventfoil, a fixed airfoil-shaped spar with an internal fan that uses boundary layer suction to generate thrust.  Ventfoils can … Continue reading &rarr;"
 categories:
   - "Current"

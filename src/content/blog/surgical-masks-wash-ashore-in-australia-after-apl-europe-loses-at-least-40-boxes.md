@@ -1,7 +1,7 @@
 ---
 title: "Surgical Masks Wash Ashore In Australia After APL Europe Loses At Least 40 Boxes"
 date: 2020-05-27T10:37:25
-slug: surgical-masks-wash-ashore-in-australia-after-apl-europe-loses-at-least-40-boxes
+slug: "surgical-masks-wash-ashore-in-australia-after-apl-europe-loses-at-least-40-boxes"
 excerpt: "It would appear to be a sign of times. Surgical masks have been washing ashore on the beaches of New South Wales, Australia. Not pandemic aid from King Neptune, but the result of containers of medical supplies among the at … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

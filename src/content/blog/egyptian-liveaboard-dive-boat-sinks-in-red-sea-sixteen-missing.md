@@ -1,7 +1,7 @@
 ---
 title: "Egyptian Liveaboard Dive Boat Sinks in Red Sea, Sixteen Missing"
 date: 2024-11-25T22:39:34
-slug: egyptian-liveaboard-dive-boat-sinks-in-red-sea-sixteen-missing
+slug: "egyptian-liveaboard-dive-boat-sinks-in-red-sea-sixteen-missing"
 excerpt: "The Sea Story, a 44m Egyptian tourist liveaboard dive boat, sank in the Red Sea early this morning. Of the 44 aboard, including 13 crew, 28 were rescued while 16 remain missing. The crew was all Egyptian, while the tourists … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "World’s oldest aircraft carrier?  Well literally yes, sort off"
 date: 2011-03-02T09:39:07
-slug: worlds-oldest-aircraft-carrier-well-literally-yes-sort-off
-excerpt: "The headline is great – World’s oldest aircraft carrier discovered rusting by the River Thames.  So is the first sentence: “The worlds’ oldest aircraft carrier which was a precursor to today’s giant Navy vessels has been discovered – rusting by a … Continue reading &rarr;"
+slug: "worlds-oldest-aircraft-carrier-well-literally-yes-sort-off"
+excerpt: "The headline is great – World’s oldest aircraft carrier discovered rusting by the River Thames.  So is the first sentence: \"The worlds’ oldest aircraft carrier which was a precursor to today’s giant Navy vessels has been discovered – rusting by a … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "Thorneycroft Seaplane Lighter"
   - "World's oldest aircraft carrier"
 author: "Rick Spilman"
-description: "The headline is great – World’s oldest aircraft carrier discovered rusting by the River Thames.  So is the first sentence: “The worlds’ oldest aircraft carrier which was a precursor to today’s giant Navy vessels has been discovered – rusting by a … Continue reading &rarr;"
+description: "The headline is great – World’s oldest aircraft carrier discovered rusting by the River Thames.  So is the first sentence: \"The worlds’ oldest aircraft carrier which was a precursor to today’s giant Navy vessels has been discovered – rusting by a … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/UK-aircraft-carrier-2.jpg)

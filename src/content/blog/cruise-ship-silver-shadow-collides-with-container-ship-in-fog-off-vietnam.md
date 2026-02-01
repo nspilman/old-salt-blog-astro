@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ship Silver Shadow Collides with Container Ship in Fog off Vietnam"
 date: 2012-03-19T20:21:00
-slug: cruise-ship-silver-shadow-collides-with-container-ship-in-fog-off-vietnam
+slug: "cruise-ship-silver-shadow-collides-with-container-ship-in-fog-off-vietnam"
 excerpt: "The luxury cruise ship Silver Shadow  may have lived up to its name on Friday morning when it collided with a container ship in Ha Long Bay, Vietnam.  There were no reported injuries on the cruise ship, though passengers reported being knocked off their … Continue reading &rarr;"
 categories:
   - "Current"

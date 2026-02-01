@@ -1,8 +1,8 @@
 ---
 title: "Update: Akademik Lomonosov — Russia’s First Floating Nuclear Power Plant Sets Sail"
 date: 2019-09-13T09:56:03
-slug: update-akademik-lomonosov-russias-first-floating-nuclear-power-plant-sets-sail
-excerpt: "In May of last year, we posted about the Russians’ first floating nuclear power plant, “Akademik Lomonosov — Floating Chernobyl or Nuclear Titanic?.” At the time, the barge-mounted power plant was essentially completed but needed to be loaded with fuel. … Continue reading &rarr;"
+slug: "update-akademik-lomonosov-russias-first-floating-nuclear-power-plant-sets-sail"
+excerpt: "In May of last year, we posted about the Russians’ first floating nuclear power plant, \"Akademik Lomonosov — Floating Chernobyl or Nuclear Titanic?.\" At the time, the barge-mounted power plant was essentially completed but needed to be loaded with fuel. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Pevek"
   - "Russia"
 author: "Rick Spilman"
-description: "In May of last year, we posted about the Russians’ first floating nuclear power plant, “Akademik Lomonosov — Floating Chernobyl or Nuclear Titanic?.” At the time, the barge-mounted power plant was essentially completed but needed to be loaded with fuel. … Continue reading &rarr;"
+description: "In May of last year, we posted about the Russians’ first floating nuclear power plant, \"Akademik Lomonosov — Floating Chernobyl or Nuclear Titanic?.\" At the time, the barge-mounted power plant was essentially completed but needed to be loaded with fuel. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/Akademik-Lomonosov1.jpg)In May of last year, we posted about the Russians’ first floating nuclear power plant, “[Akademik Lomonosov — Floating Chernobyl or Nuclear Titanic?](http://www.oldsaltblog.com/2018/05/akademik-lomonosov-floating-chernobyl-or-nuclear-titanic/).” At the time, the barge-mounted power plant was essentially completed but needed to be loaded with fuel. Now the reactor, capable of generating 70 Megawatts of power, is being towed to the Arctic, a more than 3,000-mile voyage.

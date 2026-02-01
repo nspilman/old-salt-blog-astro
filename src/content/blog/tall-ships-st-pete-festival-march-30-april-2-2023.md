@@ -1,7 +1,7 @@
 ---
 title: "Tall Ships St. Pete Festival, March 30 — April 2, 2023"
 date: 2023-03-29T18:17:42
-slug: tall-ships-st-pete-festival-march-30-april-2-2023
+slug: "tall-ships-st-pete-festival-march-30-april-2-2023"
 excerpt: "The city of St. Petersburg, FL is hosting Tallships® St.Pete, a four-day maritime festival from March 30 to April 2, 2023.  The city is partnering with Tall Ships America to co-host a fleet of tall ships along the St Petersburg … Continue reading &rarr;"
 categories:
   - "Current"

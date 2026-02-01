@@ -1,8 +1,8 @@
 ---
 title: "Moby Dick with Dragons?  This Can’t Be Good"
 date: 2010-09-02T08:10:32
-slug: moby-dick-with-dragons-this-cant-be-good
-excerpt: "This can’t be good unless it is so bad that it is good. A new movie is coming out whose high concept pitch had to be, “It is Moby Dick but with dragons, instead of whales.”  The trailer is below … Continue reading &rarr;"
+slug: "moby-dick-with-dragons-this-cant-be-good"
+excerpt: "This can’t be good unless it is so bad that it is good. A new movie is coming out whose high concept pitch had to be, \"It is Moby Dick but with dragons, instead of whales.\"  The trailer is below … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Moby Dick"
   - "Sofia Pernas"
 author: "Rick Spilman"
-description: "This can’t be good unless it is so bad that it is good. A new movie is coming out whose high concept pitch had to be, “It is Moby Dick but with dragons, instead of whales.”  The trailer is below … Continue reading &rarr;"
+description: "This can’t be good unless it is so bad that it is good. A new movie is coming out whose high concept pitch had to be, \"It is Moby Dick but with dragons, instead of whales.\"  The trailer is below … Continue reading &rarr;"
 ---
 
 This can’t be good unless it is so bad that it is good. A new movie is coming out whose high concept pitch had to be, “It is *Moby Dick* but with dragons, instead of whales.”  The trailer is below and the plot summary from IMDB is after the jump.  Notice that whaleship *Rachel* in the book has morphed into Ahab’s beautiful daughter and love interest for Ishmael.  Danny Glover plays Ahab and while the lovely newcomer Sofia Pernas plays Rachel.  

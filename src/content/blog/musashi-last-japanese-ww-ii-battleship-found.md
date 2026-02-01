@@ -1,7 +1,7 @@
 ---
 title: "Musashi, Last Japanese WW II Battleship Found"
 date: 2015-03-05T23:12:27
-slug: musashi-last-japanese-ww-ii-battleship-found
+slug: "musashi-last-japanese-ww-ii-battleship-found"
 excerpt: "After eight years of searching, a team lead by Microsoft founder and billionaire, Paul Allen, has discovered the wreck of the Japanese battleship Musashi, over 70 years after she was sunk in the Battle of Leyte Gulf. The wreck was … Continue reading &rarr;"
 categories:
   - "Current"

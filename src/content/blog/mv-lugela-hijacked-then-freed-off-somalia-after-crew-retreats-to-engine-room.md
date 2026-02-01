@@ -1,7 +1,7 @@
 ---
 title: "MV Lugela Hijacked then Freed off Somalia after Crew Retreats to Engine Room"
 date: 2010-09-27T09:41:13
-slug: mv-lugela-hijacked-then-freed-off-somalia-after-crew-retreats-to-engine-room
+slug: "mv-lugela-hijacked-then-freed-off-somalia-after-crew-retreats-to-engine-room"
 excerpt: "Well planned passive resistance proved to be an effective tactic for the crew of the MV Lugela this weekend.  Earlier this month we posted about the hijacking and subsequent recapture of the M/V Magellan Star from Somali pirates by US Marine commandos, after … Continue reading &rarr;"
 categories:
   - "Current"

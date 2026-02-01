@@ -1,7 +1,7 @@
 ---
 title: "Invasion of the Sea Pickles — Pyrosome Bloom in the North Pacific"
 date: 2017-11-14T18:21:43
-slug: invasion-sea-pickles-pyrosome-bloom-north-pacific
+slug: "invasion-sea-pickles-pyrosome-bloom-north-pacific"
 excerpt: "The Pacific Ocean appears to under attack by a horde of sea-pickles. The bumpy, translucent, pickle-shaped organisms called pyrosomes are filling fishing nets, clogging hooks and washing up on beaches along the coast of the Pacific Northwest of the US and … Continue reading &rarr;"
 categories:
   - "Current"

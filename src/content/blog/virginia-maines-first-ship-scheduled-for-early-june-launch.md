@@ -1,7 +1,7 @@
 ---
 title: "Virginia, Maine’s First Ship, Scheduled For Early June Launch"
 date: 2022-04-09T10:19:27
-slug: virginia-maines-first-ship-scheduled-for-early-june-launch
+slug: "virginia-maines-first-ship-scheduled-for-early-june-launch"
 excerpt: "A reconstruction of the pinnace Virginia is nearing completion after being under construction for over a decade in Bath, Maine. The original 51-foot pinnace, built in 1607 by the Popham Colony at its settlement at the mouth of the Kennebec … Continue reading &rarr;"
 categories:
   - "Current"

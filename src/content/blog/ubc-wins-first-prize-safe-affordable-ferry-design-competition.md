@@ -1,7 +1,7 @@
 ---
 title: "UBC Wins First Prize in Safe Affordable Ferry Design Competition"
 date: 2013-09-20T14:28:26
-slug: ubc-wins-first-prize-safe-affordable-ferry-design-competition
+slug: "ubc-wins-first-prize-safe-affordable-ferry-design-competition"
 excerpt: "In June, we posted about the Safe Affordable Ferry Design Competition, sponsored by the World Ferry Safety Association, in which student teams from six maritime universities competed to develop a ferry design for a 500 passenger ferry for Bangladesh. Recently the … Continue reading &rarr;"
 categories:
   - "Current"

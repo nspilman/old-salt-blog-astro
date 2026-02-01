@@ -1,7 +1,7 @@
 ---
 title: "Researcher Solves Mystery of Ancient Mediterranean Trade Routes Sailing Replica Ship"
 date: 2022-09-20T17:13:01
-slug: researcher-solves-mystery-of-ancient-mediterranean-trade-routes-sailing-replica-ship
+slug: "researcher-solves-mystery-of-ancient-mediterranean-trade-routes-sailing-replica-ship"
 excerpt: "Ancient trade routes in the Mediterranean have long been a mystery. How was it that sailing ships of antiquity, that could not sail well to weather, succeeded in carrying grain and other cargoes from the east to Rome against the … Continue reading &rarr;"
 categories:
   - "Current"

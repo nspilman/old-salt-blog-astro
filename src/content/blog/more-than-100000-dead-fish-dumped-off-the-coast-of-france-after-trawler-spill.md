@@ -1,7 +1,7 @@
 ---
 title: "More Than 100,000 Dead Fish Dumped Off The Coast Of France After Trawler Spill"
 date: 2022-02-06T18:41:41
-slug: more-than-100000-dead-fish-dumped-off-the-coast-of-france-after-trawler-spill
+slug: "more-than-100000-dead-fish-dumped-off-the-coast-of-france-after-trawler-spill"
 excerpt: "The Dutch-owned Margiris supertrawler, the second largest fishing vessel in the world, dumped more than 100,000 dead blue whiting in the Bay of Biscay off France’s Atlantic coast near La Rochelle, last Thursday. The Pelagic Freeze-Trawler Association (PFA) — which … Continue reading &rarr;"
 categories:
   - "Current"

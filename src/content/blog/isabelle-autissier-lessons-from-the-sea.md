@@ -1,7 +1,7 @@
 ---
 title: "Isabelle Autissier: Lessons from the Sea"
 date: 2014-07-20T09:00:55
-slug: isabelle-autissier-lessons-from-the-sea
+slug: "isabelle-autissier-lessons-from-the-sea"
 excerpt: "Isabelle Autissier is a French sailor who has sailed around the world four times. In this TED talk, she shares some of what she has learned about life and living from the sailing the world’s oceans. She speaks of the … Continue reading &rarr;"
 categories:
   - "Current"

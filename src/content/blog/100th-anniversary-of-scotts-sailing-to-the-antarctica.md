@@ -1,7 +1,7 @@
 ---
 title: "100th Anniversary of Scott’s Sailing to Antarctica"
 date: 2010-06-16T09:39:18
-slug: 100th-anniversary-of-scotts-sailing-to-the-antarctica
+slug: "100th-anniversary-of-scotts-sailing-to-the-antarctica"
 excerpt: "Yesterday was the 100th anniversary of Captain Scott‘s departure from Cardiff on his ill-fated expedition to reach the South Pole.    The tall ship Stavros S Niarchos sailed across Cardiff Bay, reenacting the departure of Scott’s ship, the Terra Nova.   The Royal Navy’s HMS … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Norwegian Breakaway Delayed Docking in NY – Pod Problems, Currents & Reports of Chaos"
 date: 2014-05-05T06:42:07
-slug: norwegian-breakaway-delayed-docking-in-ny-pod-problems-currents-reports-of-chaos
+slug: "norwegian-breakaway-delayed-docking-in-ny-pod-problems-currents-reports-of-chaos"
 excerpt: "The Norwegian Breakway is one year old this week. Unfortunately, it wasn’t a particularly auspicious birthday.  As the cruise ship  entered New York harbor yesterday, after a seven day cruise, the captain reported some sort of problem related to the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

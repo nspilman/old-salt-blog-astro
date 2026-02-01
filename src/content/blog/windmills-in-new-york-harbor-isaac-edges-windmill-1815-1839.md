@@ -1,7 +1,7 @@
 ---
 title: "Windmills in New York Harbor – Isaac Edge’s Windmill 1815-1839"
 date: 2010-05-20T14:03:59
-slug: windmills-in-new-york-harbor-isaac-edges-windmill-1815-1839
+slug: "windmills-in-new-york-harbor-isaac-edges-windmill-1815-1839"
 excerpt: "Yesterday we posted about a proposed wind farm on New York harbor between Jersey City and Bayonne.  These will not be the first windmills on the harbor, of course.  In 1815 Isaac Edge finished a windmill on the banks of … Continue reading &rarr;"
 categories:
   - "History"

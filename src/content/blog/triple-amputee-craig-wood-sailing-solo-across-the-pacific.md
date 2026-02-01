@@ -1,7 +1,7 @@
 ---
 title: "Triple Amputee, Craig Wood, Sailing Solo Across the Pacific"
 date: 2025-04-08T20:58:12
-slug: triple-amputee-craig-wood-sailing-solo-across-the-pacific
+slug: "triple-amputee-craig-wood-sailing-solo-across-the-pacific"
 excerpt: "A wonderful story reported by the BBC. Craig Wood, a British Army veteran who lost both his legs and his left arm while serving in Afghanistan set sail late last month in an attempt to become the first triple amputee … Continue reading &rarr;"
 categories:
   - "Current"

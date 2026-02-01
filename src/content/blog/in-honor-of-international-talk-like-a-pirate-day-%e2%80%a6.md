@@ -1,15 +1,15 @@
 ---
 title: "In honor of International Talk Like a Pirate Day …."
 date: 2009-09-19T12:51:27
-slug: in-honor-of-international-talk-like-a-pirate-day-%e2%80%a6
-excerpt: "Well it is that time of year again. In honor of International Talk Like a Pirate Day …. Somali-English dictionary Spare me the lame” arrgghs” and “shiver me timbers”.   If you want to talk like a budhcad badeed (Somali for pirate) … Continue reading &rarr;"
+slug: "in-honor-of-international-talk-like-a-pirate-day-%e2%80%a6"
+excerpt: "Well it is that time of year again. In honor of International Talk Like a Pirate Day …. Somali-English dictionary Spare me the lame\" arrgghs\" and \"shiver me timbers\".   If you want to talk like a budhcad badeed (Somali for pirate) … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
   - "International Talk Like a Pirate Day"
 author: "Rick Spilman"
-description: "Well it is that time of year again. In honor of International Talk Like a Pirate Day …. Somali-English dictionary Spare me the lame” arrgghs” and “shiver me timbers”.   If you want to talk like a budhcad badeed (Somali for pirate) … Continue reading &rarr;"
+description: "Well it is that time of year again. In honor of International Talk Like a Pirate Day …. Somali-English dictionary Spare me the lame\" arrgghs\" and \"shiver me timbers\".   If you want to talk like a budhcad badeed (Somali for pirate) … Continue reading &rarr;"
 ---
 
 Well it is that time of year again. In honor of International Talk Like a Pirate Day ….

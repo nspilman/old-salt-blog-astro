@@ -1,7 +1,7 @@
 ---
 title: "Black History Month Repost  — William Tillman and the Privateer Jefferson Davis"
 date: 2024-02-08T18:01:15
-slug: black-history-month-repost-william-tillman-and-the-privateer-jefferson-davis-3
+slug: "black-history-month-repost-william-tillman-and-the-privateer-jefferson-davis-3"
 excerpt: "An updated repost in honor of Black History Month.  William Tillman was one of the first black heroes of the American Civil War. He was not a soldier but rather a 27-year-old  cook-steward on the schooner S.J. Waring.  On July … Continue reading &rarr;"
 categories:
   - "History"

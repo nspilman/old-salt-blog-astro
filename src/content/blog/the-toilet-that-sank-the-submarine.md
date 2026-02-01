@@ -1,8 +1,8 @@
 ---
 title: "The Toilet that Sank the Submarine"
 date: 2011-04-14T17:19:11
-slug: the-toilet-that-sank-the-submarine
-excerpt: "On April 14, 1945, the German submarine U-1206, on its first war patrol,  had its mission go down the toilet.   U-1206 “was one of the late war boats fitted with the new deepwater high-pressure toilets which allowed them to be … Continue reading &rarr;"
+slug: "the-toilet-that-sank-the-submarine"
+excerpt: "On April 14, 1945, the German submarine U-1206, on its first war patrol,  had its mission go down the toilet.   U-1206 \"was one of the late war boats fitted with the new deepwater high-pressure toilets which allowed them to be … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "German submarine"
   - "U-1206"
 author: "Rick Spilman"
-description: "On April 14, 1945, the German submarine U-1206, on its first war patrol,  had its mission go down the toilet.   U-1206 “was one of the late war boats fitted with the new deepwater high-pressure toilets which allowed them to be … Continue reading &rarr;"
+description: "On April 14, 1945, the German submarine U-1206, on its first war patrol,  had its mission go down the toilet.   U-1206 \"was one of the late war boats fitted with the new deepwater high-pressure toilets which allowed them to be … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/sub_full.jpg)

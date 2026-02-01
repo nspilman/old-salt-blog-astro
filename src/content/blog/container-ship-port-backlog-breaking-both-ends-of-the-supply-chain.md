@@ -1,7 +1,7 @@
 ---
 title: "Container Ship Port Backlog Breaking Both Ends of the Supply Chain"
 date: 2021-09-14T16:32:53
-slug: container-ship-port-backlog-breaking-both-ends-of-the-supply-chain
+slug: "container-ship-port-backlog-breaking-both-ends-of-the-supply-chain"
 excerpt: "The Marine Exchange of Southern California reports a new record for congestion in the ports of Los Angeles and Long Beach. As of Monday, of 140 ships in the ports, 85 are container ships. Only 31 containerships are alongside the … Continue reading &rarr;"
 categories:
   - "Current"

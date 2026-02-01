@@ -1,7 +1,7 @@
 ---
 title: "Ancient treasures set for auction in Indonesia"
 date: 2010-05-07T16:25:05
-slug: ancient-treasures-set-for-auction-in-indonesia
+slug: "ancient-treasures-set-for-auction-in-indonesia"
 excerpt: "Ancient treasures set for auction in Indonesia An ancient treasure trove salvaged from a 1,000-year-old shipwreck found by Indonesian fishermen is set to go under the hammer in Jakarta Wednesday with a minimum price of 80 million dollars.  Belgian treasure-hunter … Continue reading &rarr;"
 categories:
   - "Current"

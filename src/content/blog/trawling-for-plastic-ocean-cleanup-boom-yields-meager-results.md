@@ -1,7 +1,7 @@
 ---
 title: "Trawling For Plastic — Ocean Cleanup Boom Yields Meager Results"
 date: 2021-09-23T17:54:00
-slug: trawling-for-plastic-ocean-cleanup-boom-yields-meager-results
+slug: "trawling-for-plastic-ocean-cleanup-boom-yields-meager-results"
 excerpt: "The Ocean Cleanup‘s latest attempt to clean plastic from the Northern Pacific has proven to be unimpressive.  After two offshore supply vessels, donated by Maersk, towed a 520-meter wide boom for 120 hours, they succeeded in collecting around 8 tonnes … Continue reading &rarr;"
 categories:
   - "Current"

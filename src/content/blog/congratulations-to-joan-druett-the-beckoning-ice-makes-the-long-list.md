@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Joan Druett — The Beckoning Ice Makes the Long List"
 date: 2014-07-15T13:00:35
-slug: congratulations-to-joan-druett-the-beckoning-ice-makes-the-long-list
+slug: "congratulations-to-joan-druett-the-beckoning-ice-makes-the-long-list"
 excerpt: "Congratulations to Joan Druett! Her crime thriller, The Beckoning Ice, the fifth of her Wiki Coffin series of maritime mysteries, is one of the longlisted titles for the 2014 Ngaio Marsh Award.   We reviewed The Beckoning Ice in December 2012. … Continue reading &rarr;"
 categories:
   - "Critiques"

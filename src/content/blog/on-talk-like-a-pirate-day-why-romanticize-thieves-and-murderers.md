@@ -1,8 +1,8 @@
 ---
-title: "On “Talk Like a Pirate Day,” Why Romanticize Thieves and Murderers?"
+title: "On \"Talk Like a Pirate Day,\" Why Romanticize Thieves and Murderers?"
 date: 2014-09-19T19:19:25
-slug: on-talk-like-a-pirate-day-why-romanticize-thieves-and-murderers
-excerpt: "On this the official “Talk Like A Pirate Day,” all I can say is, “No, thank you. I would rather not.”  The problem is that there are still real pirates plying their trade around the globe, abusing and and too often … Continue reading &rarr;"
+slug: "on-talk-like-a-pirate-day-why-romanticize-thieves-and-murderers"
+excerpt: "On this the official \"Talk Like A Pirate Day,\" all I can say is, \"No, thank you. I would rather not.\"  The problem is that there are still real pirates plying their trade around the globe, abusing and and too often … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"

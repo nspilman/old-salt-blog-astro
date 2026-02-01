@@ -1,8 +1,8 @@
 ---
 title: "Weekend Round-up – Chicago Maritime Festival, New England Boat Show, and Big U Fundraiser"
 date: 2011-02-23T16:07:54
-slug: weekend-round-up-chicago-maritime-festival-new-england-boat-show-and-big-u-fundraiser
-excerpt: "For a late winter weekend, this one is busy with maritime events.   The Chicago Maritime Festival this weekend sounds fantastic.  “Daytime activities include maritime history, lighthouses, shipwrecks, model boats for kids, life raft demonstrations, marine art, songs for younger sailors, knot tying and … Continue reading &rarr;"
+slug: "weekend-round-up-chicago-maritime-festival-new-england-boat-show-and-big-u-fundraiser"
+excerpt: "For a late winter weekend, this one is busy with maritime events.   The Chicago Maritime Festival this weekend sounds fantastic.  \"Daytime activities include maritime history, lighthouses, shipwrecks, model boats for kids, life raft demonstrations, marine art, songs for younger sailors, knot tying and … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "New England Boat Show"
   - "SS United States Conservancy"
 author: "Rick Spilman"
-description: "For a late winter weekend, this one is busy with maritime events.   The Chicago Maritime Festival this weekend sounds fantastic.  “Daytime activities include maritime history, lighthouses, shipwrecks, model boats for kids, life raft demonstrations, marine art, songs for younger sailors, knot tying and … Continue reading &rarr;"
+description: "For a late winter weekend, this one is busy with maritime events.   The Chicago Maritime Festival this weekend sounds fantastic.  \"Daytime activities include maritime history, lighthouses, shipwrecks, model boats for kids, life raft demonstrations, marine art, songs for younger sailors, knot tying and … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/chicago1.jpg)

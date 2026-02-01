@@ -1,7 +1,7 @@
 ---
 title: "The Return of Commercial Sail – UT Wind Challenger & Retracting Rigid Wing Sails"
 date: 2012-07-10T05:55:49
-slug: the-return-of-commercial-sail-ut-wind-challenger-retracting-rigid-wing-sails
+slug: "the-return-of-commercial-sail-ut-wind-challenger-retracting-rigid-wing-sails"
 excerpt: "Early airplane wings were built of canvas stretched over a wooden frame, held together with wire rigging.  Modern airplane wings are built of aluminum and other metals.  The comparison to sails, masts and rigging on ships may not apply directly.  Nevertheless, the … Continue reading &rarr;"
 categories:
   - "Current"

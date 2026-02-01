@@ -1,7 +1,7 @@
 ---
 title: "Tuvalu — Tiny Pacific Island Nation in the Age of the Internet"
 date: 2014-09-03T10:50:21
-slug: tuvalu-tiny-pacific-island-nation-in-the-age-of-the-internet
+slug: "tuvalu-tiny-pacific-island-nation-in-the-age-of-the-internet"
 excerpt: "Tuvalu is a tiny Polynesian island nation in roughly the geometric center of the Pacific Ocean.  The CIA World Factbook describes the nation’s economy as follows: Tuvalu consists of a densely populated, scattered group of nine coral atolls with poor soil. … Continue reading &rarr;"
 categories:
   - "Current"

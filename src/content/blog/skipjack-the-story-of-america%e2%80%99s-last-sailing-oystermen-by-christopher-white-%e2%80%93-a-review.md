@@ -1,7 +1,7 @@
 ---
 title: "Skipjack: The Story of America’s Last Sailing Oystermen by Christopher White – A Review"
 date: 2010-02-01T17:37:10
-slug: skipjack-the-story-of-america%e2%80%99s-last-sailing-oystermen-by-christopher-white-%e2%80%93-a-review
+slug: "skipjack-the-story-of-america%e2%80%99s-last-sailing-oystermen-by-christopher-white-%e2%80%93-a-review"
 excerpt: "A review by Steven Toby, written for the Maritime History Listserv, included here with his kind permission.  Sounds like a fascinating book. Skipjack: The Story of America’s Last Sailing Oystermen by Christopher White is an excellent book on the last commercial fishing craft … Continue reading &rarr;"
 categories:
   - "Newbooks"

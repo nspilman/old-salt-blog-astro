@@ -1,7 +1,7 @@
 ---
 title: "Help Kitsap Maritime & Fiddler’s Dream — 110% Matching on May 5th"
 date: 2015-04-16T11:27:07
-slug: help-kitsap-maritime-fiddlers-green-110-matching-on-may-5th
+slug: "help-kitsap-maritime-fiddlers-green-110-matching-on-may-5th"
 excerpt: "Last May we posted about the donation of the schooner 64’5″ Fiddler’s Dream to the Kitsap Maritime Heritage Foundation.  The foundation’s mission is to celebrate the Puget Sound’s maritime heritage through exhibition, education, and helping people of all ages and abilities to … Continue reading &rarr;"
 categories:
   - "Current"

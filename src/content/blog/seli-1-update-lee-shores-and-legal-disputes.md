@@ -1,7 +1,7 @@
 ---
 title: "SELI 1 Update: Lee Shores and Legal Disputes"
 date: 2009-09-17T15:36:00
-slug: seli-1-update-lee-shores-and-legal-disputes
+slug: "seli-1-update-lee-shores-and-legal-disputes"
 excerpt: "Lee shores were long the bane of sailing ships. They are no better for motor vessels who lose their engines or drag their anchors.   Table Bay where the SELI 1 grounded is just such a lee shore and has been a … Continue reading &rarr;"
 categories:
   - "Current"

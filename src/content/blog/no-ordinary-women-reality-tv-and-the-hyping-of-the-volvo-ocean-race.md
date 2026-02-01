@@ -1,8 +1,8 @@
 ---
-title: "“No Ordinary Women” — Reality TV and the Hyping of the Volvo Ocean Race"
+title: "\"No Ordinary Women\" — Reality TV and the Hyping of the Volvo Ocean Race"
 date: 2014-07-18T10:11:54
-slug: no-ordinary-women-reality-tv-and-the-hyping-of-the-volvo-ocean-race
-excerpt: "A few days ago, a trailer was posted on the internet for a four part documentary television series called, “No Ordinary Women.”   The voice over for the trailer begins, “‘No Ordinary Women’ is the story about eleven women ready … Continue reading &rarr;"
+slug: "no-ordinary-women-reality-tv-and-the-hyping-of-the-volvo-ocean-race"
+excerpt: "A few days ago, a trailer was posted on the internet for a four part documentary television series called, \"No Ordinary Women.\"   The voice over for the trailer begins, \"‘No Ordinary Women’ is the story about eleven women ready … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "TeamSCA"
   - "Volvo Ocean Race"
 author: "Rick Spilman"
-description: "A few days ago, a trailer was posted on the internet for a four part documentary television series called, “No Ordinary Women.”   The voice over for the trailer begins, “‘No Ordinary Women’ is the story about eleven women ready … Continue reading &rarr;"
+description: "A few days ago, a trailer was posted on the internet for a four part documentary television series called, \"No Ordinary Women.\"   The voice over for the trailer begins, \"‘No Ordinary Women’ is the story about eleven women ready … Continue reading &rarr;"
 ---
 
 A few days ago, a trailer was posted on the internet for a four part documentary television series called, “[No Ordinary Women](https://www.youtube.com/watch?v=JEdhEdkQ7qk).”   The voice over for the trailer begins, “‘*No Ordinary Women’ is the story about eleven women ready to do something that has never been done before. They will sail around the world in the [Volvo Ocean Race,](http://www.volvooceanrace.com/en/home.html) the toughest race there is*.”

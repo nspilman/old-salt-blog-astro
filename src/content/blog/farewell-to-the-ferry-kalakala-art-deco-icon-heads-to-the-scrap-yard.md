@@ -1,7 +1,7 @@
 ---
 title: "Farewell to the Ferry Kalakala, Art Deco Icon Heads to the Scrap Yard"
 date: 2015-01-22T11:34:11
-slug: farewell-to-the-ferry-kalakala-art-deco-icon-heads-to-the-scrap-yard
+slug: "farewell-to-the-ferry-kalakala-art-deco-icon-heads-to-the-scrap-yard"
 excerpt: "The ferry MV Kalaka is making its last voyage today, a short trip to the scrap yard. The 276′ ferry carried millions of cars in the Puget Sound between Seattle and Bremerton between 1935 and 1967 and was notable for her streamlined … Continue reading &rarr;"
 categories:
   - "Current"

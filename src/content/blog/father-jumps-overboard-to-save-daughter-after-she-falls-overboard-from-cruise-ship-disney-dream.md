@@ -1,7 +1,7 @@
 ---
 title: "Father Jumps Overboard to Save Daughter After She Falls Overboard From Cruise Ship Disney Dream"
 date: 2025-06-30T10:23:43
-slug: father-jumps-overboard-to-save-daughter-after-she-falls-overboard-from-cruise-ship-disney-dream
+slug: "father-jumps-overboard-to-save-daughter-after-she-falls-overboard-from-cruise-ship-disney-dream"
 excerpt: "An odd story with a distinctly happy ending. On Sunday, a young girl fell overboard from the Disney Dream cruise ship in the Atlantic Ocean.  Her father immediately jumped overboard to rescue his daughter. Both were rescued by the ship’s … Continue reading &rarr;"
 categories:
   - "Current"

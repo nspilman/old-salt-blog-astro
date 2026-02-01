@@ -1,14 +1,14 @@
 ---
-title: "Dorade’s “Return to Blue Water” Campaign a Rousing Success"
+title: "Dorade’s \"Return to Blue Water\" Campaign a Rousing Success"
 date: 2015-09-12T09:37:23
-slug: dorades-return-to-blue-water-campaign-a-rousing-success
+slug: "dorades-return-to-blue-water-campaign-a-rousing-success"
 excerpt: "When Matt Brooks and his wife Pam Rorke Levy bought the 52ft yawl Dorade in 2010, they decided to attempt to repeat all of the races the S&S designed yacht had won in the 1930s, including the Transpac, Rolex Fastnet and the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - ""Return to Blue Water" campaign"
+  - "\"Return to Blue Water\" campaign"
   - "Dorade"
 author: "Rick Spilman"
 description: "When Matt Brooks and his wife Pam Rorke Levy bought the 52ft yawl Dorade in 2010, they decided to attempt to repeat all of the races the S&S designed yacht had won in the 1930s, including the Transpac, Rolex Fastnet and the … Continue reading &rarr;"

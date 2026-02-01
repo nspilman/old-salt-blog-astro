@@ -1,8 +1,8 @@
 ---
 title: "Seventeen Fathoms Deep: The Saga of the Submarine S-4 Disaster by Joseph A. Williams — a Review"
 date: 2016-09-22T17:36:42
-slug: seventeen-fathoms-deep-saga-submarine-s-4-disaster-joseph-williams-review
-excerpt: "On the afternoon of December 17th, 1927, the US Navy submarine S-4 was surfacing near Provincetown, MA, when it was run down by US Coast Guard destroyer Pauling, sending the submarine to the bottom. Joseph William’s latest book, “Seventeen Fathoms … Continue reading &rarr;"
+slug: "seventeen-fathoms-deep-saga-submarine-s-4-disaster-joseph-williams-review"
+excerpt: "On the afternoon of December 17th, 1927, the US Navy submarine S-4 was surfacing near Provincetown, MA, when it was run down by US Coast Guard destroyer Pauling, sending the submarine to the bottom. Joseph William’s latest book, \"Seventeen Fathoms … Continue reading &rarr;"
 categories:
   - "Newbooks"
   - "Reviews"
@@ -12,7 +12,7 @@ tags:
   - "Seventeen Fathoms Deep"
   - "submarine S-4"
 author: "Rick Spilman"
-description: "On the afternoon of December 17th, 1927, the US Navy submarine S-4 was surfacing near Provincetown, MA, when it was run down by US Coast Guard destroyer Pauling, sending the submarine to the bottom. Joseph William’s latest book, “Seventeen Fathoms … Continue reading &rarr;"
+description: "On the afternoon of December 17th, 1927, the US Navy submarine S-4 was surfacing near Provincetown, MA, when it was run down by US Coast Guard destroyer Pauling, sending the submarine to the bottom. Joseph William’s latest book, \"Seventeen Fathoms … Continue reading &rarr;"
 ---
 
 ![seventeenfathoms](http://www.oldsaltblog.com/wp-content/uploads/2016/09/seventeenfathoms.jpg)On the afternoon of December 17th, 1927, the US Navy submarine *S-4* was surfacing near Provincetown, MA, when it was run down by US Coast Guard destroyer *Pauling*, sending the submarine to the bottom. Joseph William’s latest book, “[Seventeen Fathoms Deep: The Saga of the Submarine S-4 Disaster](https://www.amazon.com/Seventeen-Fathoms-Deep-Submarine-Disaster/dp/1613731388/ref=sr_1_1?ie=UTF8&qid=1473981620&sr=8-1&keywords=seventeen+fathoms+deep),” is a gripping account of the US Navy divers and salvors who raced against time and the weather in a vain attempt to save at least some of the 40 men trapped inside the sunken submarine.

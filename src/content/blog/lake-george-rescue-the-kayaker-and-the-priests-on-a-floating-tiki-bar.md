@@ -1,7 +1,7 @@
 ---
 title: "Lake George Rescue — The Kayaker and the Priests on a Floating Tiki Bar"
 date: 2020-09-21T15:10:14
-slug: lake-george-rescue-the-kayaker-and-the-priests-on-a-floating-tiki-bar
+slug: "lake-george-rescue-the-kayaker-and-the-priests-on-a-floating-tiki-bar"
 excerpt: "Here is the story of a very lucky kayaker saved by unexpected rescuers on Lake George. It seems a kayaker got into trouble and was rescued by a group of priests out for an afternoon excursion on a floating Tiki … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

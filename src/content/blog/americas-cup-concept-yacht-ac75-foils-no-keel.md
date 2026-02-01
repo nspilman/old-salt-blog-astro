@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup Concept Yacht AC75 — Foils But no Keel"
 date: 2017-11-21T16:44:14
-slug: americas-cup-concept-yacht-ac75-foils-no-keel
+slug: "americas-cup-concept-yacht-ac75-foils-no-keel"
 excerpt: "The Emirates Team New Zealand and Luna Rossa design teams have unveiled the AC75, a concept design for the 36th America’s Cup in 2021. The design is a 75 foot long foiling monohull. Most notably, the AC75 lacks a keel.  … Continue reading &rarr;"
 categories:
   - "Current"

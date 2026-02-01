@@ -1,7 +1,7 @@
 ---
 title: "Tanker Silver Muna Picks Up Overdue Sailors Off Delaware Coast"
 date: 2022-12-14T18:46:01
-slug: tanker-silver-muna-picks-up-overdue-sailors-off-delaware-coast
+slug: "tanker-silver-muna-picks-up-overdue-sailors-off-delaware-coast"
 excerpt: "On Sunday, the US Coast Guard Fifth District command center in Virginia was notified that the Atrevida II, a 30’ Catalina sloop, on a passage from Cape May, N.J. to Marathon, FL, was overdue. Onboard were Kevin Hyde, 65, and … Continue reading &rarr;"
 categories:
   - "Current"

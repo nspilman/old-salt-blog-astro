@@ -1,14 +1,14 @@
 ---
 title: "OMG ! Admiral Jacky Fischer was Ahead of His Time!"
 date: 2012-08-08T11:59:56
-slug: omg-admiral-jacky-fischer-was-ahead-of-his-time
-excerpt: "Admiral of the Fleet John Arbuthnot “Jacky” Fisher, 1st Baron Fisher of Kilverstone, is considered by some to be the second most important figure in British naval history, after Lord Nelson.  An innovator and a strategist who played a key role … Continue reading &rarr;"
+slug: "omg-admiral-jacky-fischer-was-ahead-of-his-time"
+excerpt: "Admiral of the Fleet John Arbuthnot \"Jacky\" Fisher, 1st Baron Fisher of Kilverstone, is considered by some to be the second most important figure in British naval history, after Lord Nelson.  An innovator and a strategist who played a key role … Continue reading &rarr;"
 categories:
   - "Current"
   - "Language"
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "Admiral of the Fleet John Arbuthnot “Jacky” Fisher, 1st Baron Fisher of Kilverstone, is considered by some to be the second most important figure in British naval history, after Lord Nelson.  An innovator and a strategist who played a key role … Continue reading &rarr;"
+description: "Admiral of the Fleet John Arbuthnot \"Jacky\" Fisher, 1st Baron Fisher of Kilverstone, is considered by some to be the second most important figure in British naval history, after Lord Nelson.  An innovator and a strategist who played a key role … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/AdmJohnFisher.jpg)

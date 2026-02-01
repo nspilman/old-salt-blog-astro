@@ -1,7 +1,7 @@
 ---
 title: "Update: Saildrones in the Bering Sea"
 date: 2015-10-06T09:09:27
-slug: update-saildrones-in-the-bering-sea
+slug: "update-saildrones-in-the-bering-sea"
 excerpt: "In January 2014, we posted Saildrone Sails the Pacific, about a 19′ long by 7′ wide autonomous trimaran sailing drone capable of carrying an oceanographic sensor payload of 220 pounds.  In October of 2013, Saildrone-1 set off from San Francisco and arrived 34 days … Continue reading &rarr;"
 categories:
   - "Current"

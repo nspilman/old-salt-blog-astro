@@ -1,8 +1,8 @@
 ---
 title: "The Unsinkable Hugh Williams –  Truth Behind the Legend?"
 date: 2012-07-16T13:53:27
-slug: the-unsinkable-hugh-williams-truth-behind-the-legend
-excerpt: "There is a video bouncing around the web these days called “The Strangest Coincidence Ever Recorded?”   (The video is embedded at the bottom of the post.) It tells the story of a ship which sank in the Menai Strait … Continue reading &rarr;"
+slug: "the-unsinkable-hugh-williams-truth-behind-the-legend"
+excerpt: "There is a video bouncing around the web these days called \"The Strangest Coincidence Ever Recorded?\"   (The video is embedded at the bottom of the post.) It tells the story of a ship which sank in the Menai Strait … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -11,7 +11,7 @@ tags:
   - "The Strangest Coincidence Ever Recorded"
   - "Wales"
 author: "Rick Spilman"
-description: "There is a video bouncing around the web these days called “The Strangest Coincidence Ever Recorded?”   (The video is embedded at the bottom of the post.) It tells the story of a ship which sank in the Menai Strait … Continue reading &rarr;"
+description: "There is a video bouncing around the web these days called \"The Strangest Coincidence Ever Recorded?\"   (The video is embedded at the bottom of the post.) It tells the story of a ship which sank in the Menai Strait … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/hughwilliam.jpg)There is a video bouncing around the web these days called “[The Strangest Coincidence Ever Recorded?](http://youtu.be/m29PQBLwF4E)”   (The video is embedded at the bottom of the post.) It tells the story of a ship which sank in the Menai Strait off the coast of Wales on December 5, 1664. All 81 passengers died, except one. His name was Hugh Williams.  Then on December 5th, 1785 another ship with 60 aboard sank in the Menai Strait. The only survivor – a man named Hugh Williams.   In 1820 on December 5th, a third vessel sank in the Menai Strait. All 25 aboard were drowned except, you guessed it, a man named Hugh Williams.

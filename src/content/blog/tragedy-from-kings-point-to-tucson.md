@@ -1,7 +1,7 @@
 ---
 title: "Tragedy from King’s Point to Tucson"
 date: 2011-01-10T12:42:32
-slug: tragedy-from-kings-point-to-tucson
+slug: "tragedy-from-kings-point-to-tucson"
 excerpt: "Maritime Reporter points out the connection between the US Merchant Maritime Academy and this weekend’s tragic shooting of Congresswoman  Gabrielle Giffords and nineteen others at a supermarket in northwest Tucson, Arizona, which left six dead and Representative Giffords in critical condition with a gunshot wound to the … Continue reading &rarr;"
 categories:
   - "Current"

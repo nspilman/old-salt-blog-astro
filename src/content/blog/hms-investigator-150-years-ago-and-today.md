@@ -1,7 +1,7 @@
 ---
 title: "HMS Investigator – 150 years ago and Today"
 date: 2010-07-30T09:02:07
-slug: hms-investigator-150-years-ago-and-today
+slug: "hms-investigator-150-years-ago-and-today"
 excerpt: "The HMS Investigator was found in remarkably good shape in only 11 meters of water in Mercy Bay along the northern coast of Banks Island in Canada’s western Arctic.  The image to the left is from a  lithograph of the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Archaeologists Discover 200 Ancient Roman Amphorae in Underwater Cave"
 date: 2020-02-26T19:25:54
-slug: archaeologists-discover-200-ancient-roman-amphorae-in-underwater-cave
-excerpt: "Over the years, we have posted about the “world’s oldest beer” and the “world’s oldest champagne” found in shipwrecks dating from the 1700s. Recently, divers have located roughly 200 ancient Roman amphorae, believed to originally have stored wine, in an … Continue reading &rarr;"
+slug: "archaeologists-discover-200-ancient-roman-amphorae-in-underwater-cave"
+excerpt: "Over the years, we have posted about the \"world’s oldest beer\" and the \"world’s oldest champagne\" found in shipwrecks dating from the 1700s. Recently, divers have located roughly 200 ancient Roman amphorae, believed to originally have stored wine, in an … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Underwater Cave"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/amphoraecave.jpg"
 author: "Rick Spilman"
-description: "Over the years, we have posted about the “world’s oldest beer” and the “world’s oldest champagne” found in shipwrecks dating from the 1700s. Recently, divers have located roughly 200 ancient Roman amphorae, believed to originally have stored wine, in an … Continue reading &rarr;"
+description: "Over the years, we have posted about the \"world’s oldest beer\" and the \"world’s oldest champagne\" found in shipwrecks dating from the 1700s. Recently, divers have located roughly 200 ancient Roman amphorae, believed to originally have stored wine, in an … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/amphoraecave.jpg)Over the years, we have posted about the “[world’s oldest beer](http://www.oldsaltblog.com/2010/09/baltic-shipwreck-with-worlds-oldest-champagne-and-now-the-worlds-oldest-beer/)” and the “[world’s oldest champagne](http://www.oldsaltblog.com/2010/07/worlds-oldest-champagne-found-on-baltic-seabed/)” found in shipwrecks dating from the 1700s. Recently, divers have located roughly [200 ancient Roman amphorae](https://www.dailymail.co.uk/sciencetech/article-8019835/Around-200-ancient-Roman-amphora-used-store-wine-discovered-underwater-cave.html), believed to originally have stored wine, in an underwater cave off the coast of Majorca.

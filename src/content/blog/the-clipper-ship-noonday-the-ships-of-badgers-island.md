@@ -1,7 +1,7 @@
 ---
 title: "The Clipper Ship Noonday & the Ships of Badger’s Island"
 date: 2015-08-19T20:21:31
-slug: the-clipper-ship-noonday-the-ships-of-badgers-island
+slug: "the-clipper-ship-noonday-the-ships-of-badgers-island"
 excerpt: "Last year, the wreck of a the clipper ship, Noonday, was located just west of San Francisco. There was no great mystery where the ship sank in 1863, as the submerged rock where she struck has been known as Noonday Rock ever since. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The End of Smoking on Navy submarines"
 date: 2010-04-27T12:27:27
-slug: the-end-of-smoking-on-navy-submarines
+slug: "the-end-of-smoking-on-navy-submarines"
 excerpt: "The prospect of women serving aboard Navy submarines will no doubt pose challenges in logistics and procedures.   These may be minor, however, compared to the problems caused by banning smoking aboard subs, which the Navy will do starting December … Continue reading &rarr;"
 categories:
   - "Current"

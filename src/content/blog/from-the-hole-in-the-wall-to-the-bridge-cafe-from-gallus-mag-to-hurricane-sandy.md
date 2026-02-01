@@ -1,8 +1,8 @@
 ---
-title: "From the “Hole-in-the-Wall” to the Bridge Café — Gallus Mag to Hurricane Sandy"
+title: "From the \"Hole-in-the-Wall\" to the Bridge Café — Gallus Mag to Hurricane Sandy"
 date: 2014-04-14T09:46:22
-slug: from-the-hole-in-the-wall-to-the-bridge-cafe-from-gallus-mag-to-hurricane-sandy
-excerpt: "In March, we posted about “The Captain Rose House of 1773 & Kit Burns Rat Pit of 1870,” at 273 Water Street in Lower Manhattan. In addition to being the third oldest building in Manhattan, the building has a rich … Continue reading &rarr;"
+slug: "from-the-hole-in-the-wall-to-the-bridge-cafe-from-gallus-mag-to-hurricane-sandy"
+excerpt: "In March, we posted about \"The Captain Rose House of 1773 & Kit Burns Rat Pit of 1870,\" at 273 Water Street in Lower Manhattan. In addition to being the third oldest building in Manhattan, the building has a rich … Continue reading &rarr;"
 categories:
   - "City of Ships"
   - "Current"
@@ -14,7 +14,7 @@ tags:
   - "Hole-in-the-Wall"
   - "Slobbery Jim"
 author: "Rick Spilman"
-description: "In March, we posted about “The Captain Rose House of 1773 & Kit Burns Rat Pit of 1870,” at 273 Water Street in Lower Manhattan. In addition to being the third oldest building in Manhattan, the building has a rich … Continue reading &rarr;"
+description: "In March, we posted about \"The Captain Rose House of 1773 & Kit Burns Rat Pit of 1870,\" at 273 Water Street in Lower Manhattan. In addition to being the third oldest building in Manhattan, the building has a rich … Continue reading &rarr;"
 ---
 
 ![Photo: R. Spilman](http://www.oldsaltblog.com/wp-content/uploads/2014/04/bridgecafe.jpg)

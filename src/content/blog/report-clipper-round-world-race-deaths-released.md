@@ -1,7 +1,7 @@
 ---
 title: "Report on Clipper Round the World Race Deaths Released"
 date: 2017-04-18T17:52:10
-slug: report-clipper-round-world-race-deaths-released
+slug: "report-clipper-round-world-race-deaths-released"
 excerpt: "The Clipper Round the World Race is a race around the world held every two years sailed with a professional captain and paying amateur crews. In nine races starting in 1996, the contests were sailed without loss of life. That tragically changed … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "The A.J. Meerwald, Official Tall Ship of the State of New Jersey, Completes 10-Month Restoration"
 date: 2022-07-14T18:24:26
-slug: the-a-j-meerwald-official-tall-ship-of-the-state-of-new-jersey-completes-10-month-restoration
-excerpt: "The A.J. Meerwald, a Delaware Bay oyster schooner launched in 1928, is back in the water after an extensive 10-month restoration and refurbishment at Clark & Eisele Traditional Boatbuilding of Lincolnville, Maine. The Meerwald is also the “Official Tall Ship” … Continue reading &rarr;"
+slug: "the-a-j-meerwald-official-tall-ship-of-the-state-of-new-jersey-completes-10-month-restoration"
+excerpt: "The A.J. Meerwald, a Delaware Bay oyster schooner launched in 1928, is back in the water after an extensive 10-month restoration and refurbishment at Clark & Eisele Traditional Boatbuilding of Lincolnville, Maine. The Meerwald is also the \"Official Tall Ship\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "official tall ship of the State of New Jersey"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/07/ajmeerwald.jpg"
 author: "Rick Spilman"
-description: "The A.J. Meerwald, a Delaware Bay oyster schooner launched in 1928, is back in the water after an extensive 10-month restoration and refurbishment at Clark & Eisele Traditional Boatbuilding of Lincolnville, Maine. The Meerwald is also the “Official Tall Ship” … Continue reading &rarr;"
+description: "The A.J. Meerwald, a Delaware Bay oyster schooner launched in 1928, is back in the water after an extensive 10-month restoration and refurbishment at Clark & Eisele Traditional Boatbuilding of Lincolnville, Maine. The Meerwald is also the \"Official Tall Ship\" … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/07/ajmeerwald.jpg)The [*A.J. Meerwald*](https://www.bayshorecenter.org/our-ship/), a Delaware Bay oyster schooner launched in 1928, is back in the water after an extensive 10-month restoration and refurbishment at [Clark & Eisele Traditional Boatbuilding](https://www.facebook.com/clarkandeisele) of Lincolnville, Maine. The *Meerwald* is also the “Official Tall Ship” of the State of New Jersey and was included in the National Register of Historic Places on November 7, 1995.

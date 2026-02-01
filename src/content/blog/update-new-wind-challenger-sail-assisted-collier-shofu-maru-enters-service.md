@@ -1,7 +1,7 @@
 ---
 title: "Update: New Wind Challenger Sail Assisted Collier Shofu Maru Enters Service"
 date: 2022-10-10T17:49:55
-slug: update-new-wind-challenger-sail-assisted-collier-shofu-maru-enters-service
+slug: "update-new-wind-challenger-sail-assisted-collier-shofu-maru-enters-service"
 excerpt: "We have been following the development of the Wind Challenger Project since it first was unveiled in 2012. Initially developed by the University of Toyko with the support of Mitsui O.S.K. Lines and Oshima-shipbuilding, the concept is for a sail-assisted ship with retractable … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Bill King – Oldest Submarine Commander & Solo Circumnavigator Dies at 102"
 date: 2012-09-22T08:09:25
-slug: bill-king-oldest-submarine-commander-solo-circumnavigator-dies-at-102
-excerpt: "Bill King, one of the last surviving World War II submarine commanders and a single-handed circumnavigator, died yesterday at his home at Oranmore Castle in County Galway, Ireland.  His family issued a statement which reads, “Commander Bill DSO, DSC submariner and … Continue reading &rarr;"
+slug: "bill-king-oldest-submarine-commander-solo-circumnavigator-dies-at-102"
+excerpt: "Bill King, one of the last surviving World War II submarine commanders and a single-handed circumnavigator, died yesterday at his home at Oranmore Castle in County Galway, Ireland.  His family issued a statement which reads, \"Commander Bill DSO, DSC submariner and … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "single-handed circumnavigator"
   - "World war II submarine commander"
 author: "Rick Spilman"
-description: "Bill King, one of the last surviving World War II submarine commanders and a single-handed circumnavigator, died yesterday at his home at Oranmore Castle in County Galway, Ireland.  His family issued a statement which reads, “Commander Bill DSO, DSC submariner and … Continue reading &rarr;"
+description: "Bill King, one of the last surviving World War II submarine commanders and a single-handed circumnavigator, died yesterday at his home at Oranmore Castle in County Galway, Ireland.  His family issued a statement which reads, \"Commander Bill DSO, DSC submariner and … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/bking1.jpg)Bill King](http://en.wikipedia.org/wiki/Bill_King_\(Royal_Navy_officer\)), one of the last surviving World War II submarine commanders and a single-handed circumnavigator, died yesterday at his home at Oranmore Castle in County Galway, Ireland.  His family issued a statement which reads, “*Commander Bill DSO, DSC submariner and yachtsman set off on a new voyage on September 21st, 2012 aged 102 years*.  *He was surrounded by the loving care of his daughter Leonie and son Tarka…”*

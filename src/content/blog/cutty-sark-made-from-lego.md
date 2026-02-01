@@ -1,7 +1,7 @@
 ---
 title: "Cutty Sark Made From LEGO"
 date: 2011-01-11T09:34:18
-slug: cutty-sark-made-from-lego
+slug: "cutty-sark-made-from-lego"
 excerpt: "What is it about model ships made of LEGOs?  The little plastic blocks are such an unlikely raw material for model shipbuilding.  Here is a lovely 1:50 scale reproduction of the Cutty Sark created by Henrik Hoexbroe.  Click the photo for  a larger … Continue reading &rarr;"
 categories:
   - "Current"

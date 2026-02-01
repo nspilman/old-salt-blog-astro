@@ -1,7 +1,7 @@
 ---
 title: "Gilded Age Yacht Coronet Being Moved to Mystic to Complete Restoration"
 date: 2022-11-08T17:48:02
-slug: gilded-age-yacht-coronet-being-moved-to-mystic-to-complete-restoration
+slug: "gilded-age-yacht-coronet-being-moved-to-mystic-to-complete-restoration"
 excerpt: "Coronet is a 131′ wooden-hull schooner yacht built for oil tycoon Rufus T. Bush in 1885. It is one of the oldest and largest vessels of its type in the world, and one of the last surviving grand sailing yachts … Continue reading &rarr;"
 categories:
   - "Current"

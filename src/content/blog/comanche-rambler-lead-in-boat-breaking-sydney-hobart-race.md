@@ -1,7 +1,7 @@
 ---
 title: "Comanche & Rambler Lead in Boat-Breaking Sydney-Hobart Race"
 date: 2015-12-27T10:13:40
-slug: comanche-rambler-lead-in-boat-breaking-sydney-hobart-race
+slug: "comanche-rambler-lead-in-boat-breaking-sydney-hobart-race"
 excerpt: "The American yachts Comanche and Rambler are battling over the lead in the Rolex Sydney-Hobart Race, which has turned into a major boat-breaker. Twenty-nine boats, representing a quarter of the fleet, have retired from the race, most with damage from … Continue reading &rarr;"
 categories:
   - "Current"

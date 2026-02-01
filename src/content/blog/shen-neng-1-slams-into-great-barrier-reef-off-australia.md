@@ -1,7 +1,7 @@
 ---
 title: "Shen Neng 1 Slams into Great Barrier Reef off Australia"
 date: 2010-04-04T17:37:42
-slug: shen-neng-1-slams-into-great-barrier-reef-off-australia
+slug: "shen-neng-1-slams-into-great-barrier-reef-off-australia"
 excerpt: "Chinese Freighter Slams Into Great Barrier Reef The Shen Neng 1 crashed into the reef at full speed a few hours after leaving the port of Gladstone, the Australian authorities said. The ship, which was nine miles outside its authorized … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

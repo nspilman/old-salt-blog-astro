@@ -1,7 +1,7 @@
 ---
 title: "Sylvia Earle — LEGO Aquanaut"
 date: 2014-03-23T17:02:41
-slug: sylvia-earle-lego-aquanaut
+slug: "sylvia-earle-lego-aquanaut"
 excerpt: "Sylvia Earle is an American marine biologist, explorer, author, and lecturer.  In her illustrious career she has earned many honors, including being named by Time Magazine as as its first Hero for the Planet in 1998. She is National Geographic’s explorer-in-residence, as well … Continue reading &rarr;"
 categories:
   - "Current"

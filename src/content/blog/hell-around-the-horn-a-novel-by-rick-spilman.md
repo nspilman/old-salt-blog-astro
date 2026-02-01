@@ -1,7 +1,7 @@
 ---
 title: "Hell Around the Horn, a Novel by Rick Spilman"
 date: 2012-08-23T11:17:39
-slug: hell-around-the-horn-a-novel-by-rick-spilman
+slug: "hell-around-the-horn-a-novel-by-rick-spilman"
 excerpt: "I am pleased to announce that my novel, Hell Around the Horn, is now available on Amazon around the world. The print edition will be out shortly. About the novel: In 1905, a young ship’s captain and his family set … Continue reading &rarr;"
 categories:
   - "Newbooks"

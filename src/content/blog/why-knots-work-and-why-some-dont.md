@@ -1,7 +1,7 @@
 ---
 title: "Why Knots Work and Why Some Don’t"
 date: 2020-01-05T21:35:35
-slug: why-knots-work-and-why-some-dont
+slug: "why-knots-work-and-why-some-dont"
 excerpt: "An interesting new technology, involving special fibers that change color when they are under strain, is allowing scientists to analyze the efficiency of knots. The technology is described in a recent paper by a team lead Vishal P. Patil in … Continue reading &rarr;"
 categories:
   - "Current"

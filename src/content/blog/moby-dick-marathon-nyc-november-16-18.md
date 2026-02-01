@@ -1,8 +1,8 @@
 ---
 title: "Moby Dick Marathon NYC November 16–18"
 date: 2012-11-15T16:17:10
-slug: moby-dick-marathon-nyc-november-16-18
-excerpt: "The New York Marathon was cancelled after Superstorm Sandy swept through New York two weeks ago. The New York Moby Dick Marathon is on, however. What is a Moby Dick Marathon, you might ask?  It is ” the first-ever marathon-style reading … Continue reading &rarr;"
+slug: "moby-dick-marathon-nyc-november-16-18"
+excerpt: "The New York Marathon was cancelled after Superstorm Sandy swept through New York two weeks ago. The New York Moby Dick Marathon is on, however. What is a Moby Dick Marathon, you might ask?  It is \" the first-ever marathon-style reading … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Moby Dick Big Read"
   - "Moby Dick Marathon NYC"
 author: "Rick Spilman"
-description: "The New York Marathon was cancelled after Superstorm Sandy swept through New York two weeks ago. The New York Moby Dick Marathon is on, however. What is a Moby Dick Marathon, you might ask?  It is ” the first-ever marathon-style reading … Continue reading &rarr;"
+description: "The New York Marathon was cancelled after Superstorm Sandy swept through New York two weeks ago. The New York Moby Dick Marathon is on, however. What is a Moby Dick Marathon, you might ask?  It is \" the first-ever marathon-style reading … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/11/moby-dick-full-3.jpg)The New York Marathon was cancelled after Superstorm Sandy swept through New York two weeks ago. The New York Moby Dick Marathon is on, however.

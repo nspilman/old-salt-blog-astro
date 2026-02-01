@@ -1,7 +1,7 @@
 ---
 title: "Henry Morgan’s Cannons Found in Panama"
 date: 2011-03-04T09:35:05
-slug: henry-morgans-cannons-found-in-panama
+slug: "henry-morgans-cannons-found-in-panama"
 excerpt: "Six guns from the ships of privateer Admiral Sir Henry Morgan are believed to have been found in the Chagres River in Panama. Henry Morgan’s cannons found in Panama, archaeologists say Archaeologists have recovered six cannons from the ships of Welsh privateer … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

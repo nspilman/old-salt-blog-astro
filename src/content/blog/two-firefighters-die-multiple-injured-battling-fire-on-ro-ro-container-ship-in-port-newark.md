@@ -1,7 +1,7 @@
 ---
 title: "Two Firefighters Die, Multiple Injured, Battling Fire on Ro-Ro/Container Ship in Port Newark"
 date: 2023-07-06T09:31:56
-slug: two-firefighters-die-multiple-injured-battling-fire-on-ro-ro-container-ship-in-port-newark
+slug: "two-firefighters-die-multiple-injured-battling-fire-on-ro-ro-container-ship-in-port-newark"
 excerpt: "Two firefighters were killed on Wednesday night after they became trapped while fighting a fire on the ro-ro/container ship, Grande Costa D’Avorio, docked at Port Newark. Approximately a dozen other firefighters were reported to be injured. The fire broke out … Continue reading &rarr;"
 categories:
   - "Current"

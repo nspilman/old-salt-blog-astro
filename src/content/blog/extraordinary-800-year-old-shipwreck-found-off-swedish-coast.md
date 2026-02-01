@@ -1,7 +1,7 @@
 ---
 title: "‘Extraordinary’ 800 Year Old  Shipwreck Found off Swedish Coast"
 date: 2012-06-19T12:39:32
-slug: extraordinary-800-year-old-shipwreck-found-off-swedish-coast
+slug: "extraordinary-800-year-old-shipwreck-found-off-swedish-coast"
 excerpt: "This is a busy time for underwater explorers in the waters off Sweden. Yesterday, we posted about an unidentified object on the Baltic Sea floor which the media has been referring to as the Millennium Falcon.   Recently, divers off the south coast of Sweden … Continue reading &rarr;"
 categories:
   - "Current"

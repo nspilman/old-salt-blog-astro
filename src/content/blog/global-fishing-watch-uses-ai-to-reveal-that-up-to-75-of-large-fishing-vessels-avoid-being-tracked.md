@@ -1,7 +1,7 @@
 ---
 title: "Global Fishing Watch Uses AI to Reveal That Up to 75% of Large Fishing Vessels Avoid Being Tracked"
 date: 2024-01-06T18:32:54
-slug: global-fishing-watch-uses-ai-to-reveal-that-up-to-75-of-large-fishing-vessels-avoid-being-tracked
+slug: "global-fishing-watch-uses-ai-to-reveal-that-up-to-75-of-large-fishing-vessels-avoid-being-tracked"
 excerpt: "Way back in 2015, we posted – Can Big Data Stop Overfishing? Will Google’s Global Fishing Watch Succeed? The post described a new project in which Google partnered with SkyTruth and Oceana to produce a tool to track global fishing … Continue reading &rarr;"
 categories:
   - "Current"

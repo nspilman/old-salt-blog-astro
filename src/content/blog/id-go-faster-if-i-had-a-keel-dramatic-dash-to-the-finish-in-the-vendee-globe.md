@@ -1,7 +1,7 @@
 ---
 title: "‘I’d Go Faster if I Had a Keel’ – Dramatic Dash to the Finish in the Vendée Globe"
 date: 2013-01-25T18:06:25
-slug: id-go-faster-if-i-had-a-keel-dramatic-dash-to-the-finish-in-the-vendee-globe
+slug: "id-go-faster-if-i-had-a-keel-dramatic-dash-to-the-finish-in-the-vendee-globe"
 excerpt: "François Gabart sailing MCIF in the Vendée Globe is less than 700 miles from the finish line, 76 days after setting out in the singled-handed around-the-world race. Armel Le Cléac´h sailing Banque Populaire is roughly one hundred miles behind Gabart.  The third place contender, Jean-Pierre Dick … Continue reading &rarr;"
 categories:
   - "Current"

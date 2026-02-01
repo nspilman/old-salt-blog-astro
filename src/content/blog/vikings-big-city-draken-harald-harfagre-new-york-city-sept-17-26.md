@@ -1,7 +1,7 @@
 ---
 title: "Vikings in the Big City — Draken Harald Hårfagre in New York City Sept. 17-26"
 date: 2016-09-12T13:01:20
-slug: vikings-big-city-draken-harald-harfagre-new-york-city-sept-17-26
+slug: "vikings-big-city-draken-harald-harfagre-new-york-city-sept-17-26"
 excerpt: "Draken Harald Hårfagre, the largest Viking longship built in modern times, will be visiting New York harbor from September 17 — 28.  On September 17th, the Viking longship will sail past the Statue of Liberty around 11AM and arrive at North … Continue reading &rarr;"
 categories:
   - "Current"

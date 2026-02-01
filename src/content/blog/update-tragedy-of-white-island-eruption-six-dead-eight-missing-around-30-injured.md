@@ -1,8 +1,8 @@
 ---
 title: "Update: White Island Eruption — Six Dead, Eight Missing, Around 30 Injured"
 date: 2019-12-10T12:12:53
-slug: update-tragedy-of-white-island-eruption-six-dead-eight-missing-around-30-injured
-excerpt: "The most up to date information we have now is that there were 47 people on New Zealand’s White Island when the volcano billed as “one of the world’s most active volcano” erupted. There are now six confirmed dead, five … Continue reading &rarr;"
+slug: "update-tragedy-of-white-island-eruption-six-dead-eight-missing-around-30-injured"
+excerpt: "The most up to date information we have now is that there were 47 people on New Zealand’s White Island when the volcano billed as \"one of the world’s most active volcano\" erupted. There are now six confirmed dead, five … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "White Island"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/whiteisland2.jpg"
 author: "Rick Spilman"
-description: "The most up to date information we have now is that there were 47 people on New Zealand’s White Island when the volcano billed as “one of the world’s most active volcano” erupted. There are now six confirmed dead, five … Continue reading &rarr;"
+description: "The most up to date information we have now is that there were 47 people on New Zealand’s White Island when the volcano billed as \"one of the world’s most active volcano\" erupted. There are now six confirmed dead, five … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/whiteisland2.jpg)The most up to date information we have now is that there were 47 people on New Zealand’s White Island when the [volcano billed as “one of the world’s most active volcano” erupted.](http://www.oldsaltblog.com/2019/12/deadly-volcanic-eruption-on-new-zealands-white-island-5-dead-and-more-than-20-missing/) There are now six confirmed dead, five who died on the island and one person who died on the way to the hospital. Early reports suggested that over 20 people were missing. Fortunately, that number has fallen to eight. The bad news is that all of the missing are presumed to be dead, bringing the current death toll to a likely 14. 

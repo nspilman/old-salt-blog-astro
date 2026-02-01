@@ -1,7 +1,7 @@
 ---
 title: "Sailing the Schooner Denis Sullivan — A Proud Heritage and Uncertain Future"
 date: 2021-03-04T17:59:54
-slug: sailing-the-schooner-denis-sullivan-a-proud-heritage-and-uncertain-future
+slug: "sailing-the-schooner-denis-sullivan-a-proud-heritage-and-uncertain-future"
 excerpt: "A short and lovely video from two years ago about sailing from Milwaukee on the three-masted, wooden schooner Denis Sullivan. Like so many other vessels, the schooner’s 2020 sailing season was canceled due to the pandemic and sadly, her future … Continue reading &rarr;"
 categories:
   - "Current"

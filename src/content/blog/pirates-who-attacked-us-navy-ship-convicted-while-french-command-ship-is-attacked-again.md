@@ -1,7 +1,7 @@
 ---
 title: "Pirates Who Attacked US Navy Ship Convicted, While French Command Ship is Attacked Again"
 date: 2010-11-26T08:29:11
-slug: pirates-who-attacked-us-navy-ship-convicted-while-french-command-ship-is-attacked-again
+slug: "pirates-who-attacked-us-navy-ship-convicted-while-french-command-ship-is-attacked-again"
 excerpt: "Five Somali pirates who attacked the USS Nicholas, an Oliver Hazard Perry-class frigate,  in a wildly misguided attempt to hijack the ship in a late night attack last April, were convicted of piracy in a court in Virginia.  The prosecution … Continue reading &rarr;"
 categories:
   - "Current"

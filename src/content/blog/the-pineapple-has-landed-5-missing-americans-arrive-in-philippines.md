@@ -1,7 +1,7 @@
 ---
 title: "The Pineapple has landed – 5 missing Americans arrive in Philippines"
 date: 2011-01-24T14:23:34
-slug: the-pineapple-has-landed-5-missing-americans-arrive-in-philippines
+slug: "the-pineapple-has-landed-5-missing-americans-arrive-in-philippines"
 excerpt: "Five sailors aboard the catamaran Pineapple, which had been reported missing last Tuesday have arrived in the port of Maasin on Leyte Island, in the Philippines after being escorted in by the Philippines Coast Guard.   The 38 foot catamaran suffered rudder damage in … Continue reading &rarr;"
 categories:
   - "Current"

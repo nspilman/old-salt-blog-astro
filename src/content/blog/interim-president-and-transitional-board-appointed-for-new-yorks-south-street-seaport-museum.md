@@ -1,7 +1,7 @@
 ---
 title: "Interim President and Transitional Board Appointed for New York’s South Street Seaport Museum"
 date: 2013-07-09T15:35:06
-slug: interim-president-and-transitional-board-appointed-for-new-yorks-south-street-seaport-museum
+slug: "interim-president-and-transitional-board-appointed-for-new-yorks-south-street-seaport-museum"
 excerpt: "At the end of last October, the South Street Museum’s Waterfront Director, Captain Jonathan Boulware, and his crew of staff and volunteers scrambled to secure the museum’s historic ships, including two aged windjammers, moored on the East River, before they were … Continue reading &rarr;"
 categories:
   - "Current"

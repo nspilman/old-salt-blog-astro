@@ -1,7 +1,7 @@
 ---
 title: "Navy Fires Three Commanding Officers in One Week"
 date: 2011-05-04T12:27:54
-slug: navy-fires-three-commanding-officers-in-one-week
+slug: "navy-fires-three-commanding-officers-in-one-week"
 excerpt: "Last week the Navy relieved the commanding officers – Commander Jay Wylie of the guided missle destroyer, USS Momsen; Commander Etta Jones of the amphibious transport dock ship, USS Ponce; and Captain Donald Hornbeck in command of Destroyer Squadron 1. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Oyster Apocalypse –Louisiana Oyster Harvest Wiped Out by Flooding"
 date: 2019-10-23T10:21:58
-slug: oyster-apocalypse-louisiana-oyster-harvest-wiped-out-by-flooding
+slug: "oyster-apocalypse-louisiana-oyster-harvest-wiped-out-by-flooding"
 excerpt: "Acme Oyster House has been a New Orleans icon since 1910. My first memory of oysters on the half shell was slurping down a dozen at Acme more than a half-century ago. So, I was alarmed to read that Acme … Continue reading &rarr;"
 categories:
   - "Current"

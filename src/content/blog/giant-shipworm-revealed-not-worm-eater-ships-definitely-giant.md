@@ -1,7 +1,7 @@
 ---
 title: "The Giant Shipworm Revealed — Not a Worm or an Eater of Ships, but Definitely a Giant"
 date: 2018-02-23T16:12:57
-slug: giant-shipworm-revealed-not-worm-eater-ships-definitely-giant
+slug: "giant-shipworm-revealed-not-worm-eater-ships-definitely-giant"
 excerpt: "For years, naturalists have found the shells of giant shipworms, but have not located the giant shipworm itself. Last spring, that changed. Giant shipworms were discovered buried in the mud in a Philippine mangrove swamp.  Two important facts about the giant shipworm, whose scientific name … Continue reading &rarr;"
 categories:
   - "Current"

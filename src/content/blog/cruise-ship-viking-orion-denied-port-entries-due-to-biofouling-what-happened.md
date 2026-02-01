@@ -1,7 +1,7 @@
 ---
-title: "Cruise Ship Viking Orion Denied Port Entries Due to “Biofouling” — What Happened?"
+title: "Cruise Ship Viking Orion Denied Port Entries Due to \"Biofouling\" — What Happened?"
 date: 2023-01-02T16:41:05
-slug: cruise-ship-viking-orion-denied-port-entries-due-to-biofouling-what-happened
+slug: "cruise-ship-viking-orion-denied-port-entries-due-to-biofouling-what-happened"
 excerpt: "Eight hundred passengers, reported to be mostly Americans, found themselves stranded on the cruise ship Viking Orion off South Australia for seven days after the ship was denied permission to dock in Adelaide, Christchurch, Dunedin, and Hobart, due to marine growth … Continue reading &rarr;"
 categories:
   - "Current"

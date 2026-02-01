@@ -1,7 +1,7 @@
 ---
 title: "Cruiser Olympia to Stay Open, At Least For Now"
 date: 2010-11-19T09:55:19
-slug: cruiser-olympia-to-stay-open-at-least-for-now
+slug: "cruiser-olympia-to-stay-open-at-least-for-now"
 excerpt: "The troubled Independence Seaport Museum in Philadelphia announced on Monday that it would continue to keep the cruiser ex USS Olympia open though the end of the year and shift to a three day schedule through the end of March. … Continue reading &rarr;"
 categories:
   - "Current"

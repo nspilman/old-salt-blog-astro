@@ -1,7 +1,7 @@
 ---
 title: "Nigerian Tug Cook Survives Three Days in Sunken Tug 100 Feet Below the Atlantic"
 date: 2013-12-04T17:01:57
-slug: nigerian-tug-cook-survives-three-days-in-sunken-tug-100-feet-below-the-atlantic
+slug: "nigerian-tug-cook-survives-three-days-in-sunken-tug-100-feet-below-the-atlantic"
 excerpt: "At the end of last May, the Jascon 4 sank in about 100 feet of water off the coast of Nigeria.  All twelve of the crew were believed to have drowned.  Three days later, divers were sent into the sunken tug … Continue reading &rarr;"
 categories:
   - "Current"

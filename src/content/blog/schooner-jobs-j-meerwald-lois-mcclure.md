@@ -1,7 +1,7 @@
 ---
 title: "Schooner Jobs — A.J. Meerwald & Lois McClure"
 date: 2017-02-08T14:55:50
-slug: schooner-jobs-j-meerwald-lois-mcclure
+slug: "schooner-jobs-j-meerwald-lois-mcclure"
 excerpt: "Two fine schooners are looking for crew. The A.J. Meerwald is looking for various crew and staff positions.  A.J. Meerwald was built in 1928 as a Delaware Bay oyster schooner and is New Jersey’s official Tall Ship. A.J. Meerwald is operated by the … Continue reading &rarr;"
 categories:
   - "Current"

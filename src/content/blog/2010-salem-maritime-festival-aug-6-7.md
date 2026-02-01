@@ -1,7 +1,7 @@
 ---
 title: "2010 Salem Maritime Festival Aug. 6-7"
 date: 2010-08-05T08:30:40
-slug: 2010-salem-maritime-festival-aug-6-7
+slug: "2010-salem-maritime-festival-aug-6-7"
 excerpt: "The Salem Maritime Festival starts this Friday.  The tall ship Friendship of Salem will be joined in port by Schooner Thomas E. Lannon and Schooner Fame of Salem.   The Friendship is a replica of an 1797 East Indiaman.    The Thomas E. Lannon is … Continue reading &rarr;"
 categories:
   - "Current"

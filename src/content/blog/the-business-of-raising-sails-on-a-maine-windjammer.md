@@ -1,8 +1,8 @@
 ---
 title: "The Business of Raising Sails on a Maine Windjammer"
 date: 2008-10-24T15:12:35
-slug: the-business-of-raising-sails-on-a-maine-windjammer
-excerpt: "There are two Maine “Windjammers” currently for sale.  This may not be terribly useful information for those of us feeling more than usually penurious in the current economic downturn. Nevertheless there are moments when the idea of chucking it all and making … Continue reading &rarr;"
+slug: "the-business-of-raising-sails-on-a-maine-windjammer"
+excerpt: "There are two Maine \"Windjammers\" currently for sale.  This may not be terribly useful information for those of us feeling more than usually penurious in the current economic downturn. Nevertheless there are moments when the idea of chucking it all and making … Continue reading &rarr;"
 categories:
   - "Current"
   - "Ships"
@@ -13,7 +13,7 @@ tags:
   - "Rachel B. Jackson"
   - "Victory Chimes"
 author: "Rick Spilman"
-description: "There are two Maine “Windjammers” currently for sale.  This may not be terribly useful information for those of us feeling more than usually penurious in the current economic downturn. Nevertheless there are moments when the idea of chucking it all and making … Continue reading &rarr;"
+description: "There are two Maine \"Windjammers\" currently for sale.  This may not be terribly useful information for those of us feeling more than usually penurious in the current economic downturn. Nevertheless there are moments when the idea of chucking it all and making … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2008/10/rachel1.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2008/10/rachel1.jpg)There are two Maine “Windjammers” currently for sale.  This may not be terribly useful information for those of us feeling more than usually penurious in the current economic downturn. Nevertheless there are moments when the idea of chucking it all and making a living on a sailboat or saling ship does have a certain appeal.

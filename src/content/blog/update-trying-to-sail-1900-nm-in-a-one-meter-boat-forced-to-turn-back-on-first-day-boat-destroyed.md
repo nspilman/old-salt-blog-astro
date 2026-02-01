@@ -1,7 +1,7 @@
 ---
 title: "Update: Trying to Sail 1,900 NM in a One Meter Boat —  Forced to Turn Back on First Day, Boat Destroyed"
 date: 2023-05-29T13:56:29
-slug: update-trying-to-sail-1900-nm-in-a-one-meter-boat-forced-to-turn-back-on-first-day-boat-destroyed
+slug: "update-trying-to-sail-1900-nm-in-a-one-meter-boat-forced-to-turn-back-on-first-day-boat-destroyed"
 excerpt: "A year ago, we posted about Andrew Bedwell, who planned on attempting to set a new world record for sailing the smallest boat to cross the Atlantic. His vessel, Big C is just over 1m/3.2ft long. On Saturday, Bedwell set … Continue reading &rarr;"
 categories:
   - "Current"

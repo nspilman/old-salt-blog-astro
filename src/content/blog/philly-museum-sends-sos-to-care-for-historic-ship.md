@@ -1,7 +1,7 @@
 ---
 title: "Philly Museum Sends SOS to Care for Historic Ship"
 date: 2010-02-27T06:25:44
-slug: philly-museum-sends-sos-to-care-for-historic-ship
+slug: "philly-museum-sends-sos-to-care-for-historic-ship"
 excerpt: "Terrible news from Phildelphia. Philadelphia maritime museum says it can’t afford to care for historic USS Olympia A Philadelphia maritime museum says it can no longer afford to care for a historic ship that served in the Spanish-American War. … Continue reading &rarr;"
 categories:
   - "Current"

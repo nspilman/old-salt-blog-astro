@@ -1,7 +1,7 @@
 ---
 title: "Relaunching of the Thames Sailing Barge Cambria"
 date: 2011-03-20T20:48:14
-slug: relaunching-of-the-thames-sailing-barge-cambria
+slug: "relaunching-of-the-thames-sailing-barge-cambria"
 excerpt: "Last November, we posted about the rebuilding of the last commercial Thames sailing barge, Cambria. The reconstruction is nearing its completion. Tomorrow, Monday 21st March, 2011, the Cambria will be relaunched into Faversham Creek, and move downstream to Iron Wharf … Continue reading &rarr;"
 categories:
   - "Current"

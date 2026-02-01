@@ -1,7 +1,7 @@
 ---
 title: "Blue 52  — Which May or May Not Be the Loneliest Whale"
 date: 2017-01-31T17:30:23
-slug: blue-52-may-may-not-loneliest-whale
+slug: "blue-52-may-may-not-loneliest-whale"
 excerpt: "Somewhere in the vast North Pacific Ocean, there is a singular whale singing a unique song, which was first recorded in 1989. For close to thirty years, researchers monitoring anti-submarine hydrophone arrays have heard a whale call which is much higher than the calls … Continue reading &rarr;"
 categories:
   - "Current"

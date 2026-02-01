@@ -1,7 +1,7 @@
 ---
 title: "Duck Boat Capsizes Near Branson, MO — 11 Dead, 6 Missing"
 date: 2018-07-20T08:12:28
-slug: duck-boat-capsizes-near-branson-mo-11-dead-6-missing
+slug: "duck-boat-capsizes-near-branson-mo-11-dead-6-missing"
 excerpt: "At least 11 people died on Thursday when an amphibious duck boat capsized in Table Rock Lake near Branson, Mo. Six people are still missing. The boat capsized in a thunderstorm in winds reported to be 70 or 80 mph. … Continue reading &rarr;"
 categories:
   - "Current"

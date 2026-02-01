@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Spirit, World’s Largest Ship Without the Nazi Name"
 date: 2015-02-13T22:15:30
-slug: pioneering-spirit-worlds-largest-ship-without-the-nazi-name
+slug: "pioneering-spirit-worlds-largest-ship-without-the-nazi-name"
 excerpt: "Edward Heerema, the president of Swiss-based Allseas Group S.A., had decided to name their newest and largest ship, Pieter Schelte, after his father, Pieter Schelte Heerema, who was an accomplished marine engineer. Unfortunately, that is not the only thing that his … Continue reading &rarr;"
 categories:
   - "Current"

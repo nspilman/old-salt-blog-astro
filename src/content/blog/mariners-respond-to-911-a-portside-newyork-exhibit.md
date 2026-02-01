@@ -1,7 +1,7 @@
 ---
 title: "Mariners Respond to 9/11- a PortSide NewYork Exhibit"
 date: 2011-12-21T11:24:20
-slug: mariners-respond-to-911-a-portside-newyork-exhibit
+slug: "mariners-respond-to-911-a-portside-newyork-exhibit"
 excerpt: "Last September, PortSide New York mounted a multi-media exhibit on the historic buoy tender, Lilac,  about the extraordinary and little-known maritime role played in the recovery from the attacks of 9/11, from the evacuation to refuse removal and rebuilding.  A video … Continue reading &rarr;"
 categories:
   - "Current"

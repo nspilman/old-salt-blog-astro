@@ -1,7 +1,7 @@
 ---
 title: "Safely Visit the Ocean Pursuit Shipwreck – Milky Way Time Lapse"
 date: 2020-04-15T11:15:34
-slug: safely-visit-the-ocean-pursuit-shipwreck-milky-way-time-lapse
+slug: "safely-visit-the-ocean-pursuit-shipwreck-milky-way-time-lapse"
 excerpt: "On March 1st, the 72′ scallop fishing vessel Ocean Pursuit came ashore on Bodie Island, part of the Cape Hatteras National Seashore, on North Carolina’s Outer Banks. Since then the boat has been settling into the sand as well as … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

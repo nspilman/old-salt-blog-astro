@@ -1,7 +1,7 @@
 ---
 title: "Man Rescued After Going Overboard on Carnival Valor — Thanksgiving Mystery or Miracle?"
 date: 2022-11-25T13:51:52
-slug: man-rescued-after-going-overboard-on-carnival-valor-thanksgiving-mystery-or-miracle
+slug: "man-rescued-after-going-overboard-on-carnival-valor-thanksgiving-mystery-or-miracle"
 excerpt: "Yesterday, the US Coast Guard rescued an unidentified passenger who had gone overboard in the Gulf of  Mexico from the cruise ship Carnival Valor on a voyage from New Orleans to Cozumel.  While most cases of passengers who fall or … Continue reading &rarr;"
 categories:
   - "Current"

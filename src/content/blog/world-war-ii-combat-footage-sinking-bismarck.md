@@ -1,7 +1,7 @@
 ---
 title: "World War II Combat Footage – Sinking of the Bismarck"
 date: 2016-05-27T10:47:54
-slug: world-war-ii-combat-footage-sinking-bismarck
+slug: "world-war-ii-combat-footage-sinking-bismarck"
 excerpt: "Seventy-five years today, the Royal Navy sank the German battleship Bismark in a three-day running battle in which the Bismark sunk the British battle cruiser HMS Hood.  Ultimately, the German battleship was disabled when her rudder was damaged in a … Continue reading &rarr;"
 categories:
   - "History"

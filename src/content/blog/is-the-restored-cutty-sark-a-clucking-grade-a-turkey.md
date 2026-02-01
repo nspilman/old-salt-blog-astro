@@ -1,7 +1,7 @@
 ---
 title: "Is the Restored Cutty Sark a Clucking, Grade A Turkey?"
 date: 2012-04-23T09:51:09
-slug: is-the-restored-cutty-sark-a-clucking-grade-a-turkey
+slug: "is-the-restored-cutty-sark-a-clucking-grade-a-turkey"
 excerpt: "After a long commercial career, the 1869 composite clipper ship Cutty Sark became a museum ship in a drydock in Greenwich in 1954.  Then in May 21, 2007, a fire broke out that burned a significant portion of the ship.  After a 5 … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Pacific Nation of Kiribati Considers Relocating to Fiji to Avoid Rising Ocean"
 date: 2012-03-12T14:26:24
-slug: pacific-nation-of-kiribati-considers-relocating-to-fiji-to-avoid-rising-ocean
+slug: "pacific-nation-of-kiribati-considers-relocating-to-fiji-to-avoid-rising-ocean"
 excerpt: "The Pacific nation of Kiribati is sinking. Or, more accurately, the ocean is rising, which from a practical perspective amounts to the same thing. The nation of 33 tiny atolls and coral islands, scattered across an area of the Pacific Ocean more than … Continue reading &rarr;"
 categories:
   - "Current"

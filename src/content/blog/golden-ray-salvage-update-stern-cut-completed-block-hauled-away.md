@@ -1,7 +1,7 @@
 ---
 title: "Golden Ray Salvage Update: Stern Cut Completed, Block Hauled Away"
 date: 2021-01-06T12:58:23
-slug: golden-ray-salvage-update-stern-cut-completed-block-hauled-away
+slug: "golden-ray-salvage-update-stern-cut-completed-block-hauled-away"
 excerpt: "The salvage of the stranded car carrier Golden Ray is accelerating. Salvors on the heavy-lift barge VB-10,000 are using a heavy chain to cut the ship into sections to be carried away by barge. The recently completed the second cut, separating … Continue reading &rarr;"
 categories:
   - "Current"

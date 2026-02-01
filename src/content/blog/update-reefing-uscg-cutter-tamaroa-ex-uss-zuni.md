@@ -1,7 +1,7 @@
 ---
 title: "Update: Reefing the USCG Cutter Tamaroa, ex-USS Zuni"
 date: 2017-04-12T14:32:14
-slug: update-reefing-uscg-cutter-tamaroa-ex-uss-zuni
+slug: "update-reefing-uscg-cutter-tamaroa-ex-uss-zuni"
 excerpt: "Last October, we posted that the USCG Cutter Tamaroa, ex-USS Zuni, was to be reefed by the end of the month. The 205-foot ex-fleet ocean/salvage tug and ex-Coast Guard Cutter was to be sunk as part of an artificial reef … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Tourist Complains of Fish in the Harbor – Too Smelly & Disturbing to Children"
 date: 2011-09-07T09:10:16
-slug: tourist-complains-of-fish-in-the-harbor-too-smelly-disturbing-to-children
-excerpt: "Oh well. I guess there is nothing surprising about this news report.  It seems that David Copp, a tourist visiting  Ilfracombe Harbour, west of Bristol, in the UK, complained to the harbor-master that the fish being landed on the quayside had a “disgusting smell.”  Nor, … Continue reading &rarr;"
+slug: "tourist-complains-of-fish-in-the-harbor-too-smelly-disturbing-to-children"
+excerpt: "Oh well. I guess there is nothing surprising about this news report.  It seems that David Copp, a tourist visiting  Ilfracombe Harbour, west of Bristol, in the UK, complained to the harbor-master that the fish being landed on the quayside had a \"disgusting smell.\"  Nor, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "smell"
   - "tourist"
 author: "Rick Spilman"
-description: "Oh well. I guess there is nothing surprising about this news report.  It seems that David Copp, a tourist visiting  Ilfracombe Harbour, west of Bristol, in the UK, complained to the harbor-master that the fish being landed on the quayside had a “disgusting smell.”  Nor, … Continue reading &rarr;"
+description: "Oh well. I guess there is nothing surprising about this news report.  It seems that David Copp, a tourist visiting  Ilfracombe Harbour, west of Bristol, in the UK, complained to the harbor-master that the fish being landed on the quayside had a \"disgusting smell.\"  Nor, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/fishdock.jpg)Oh well. I guess there is nothing surprising about this news report.  It seems that David Copp, a tourist visiting  Ilfracombe Harbour, west of Bristol, in the UK, complained to the harbor-master that the fish being landed on the quayside had a “disgusting smell.”  Nor, for that matter, were the fish pleasent to look at.  [As reported by the Telegraph, via Yahoo](http://uk.travel.yahoo.com/p-promo-3361576):

@@ -1,7 +1,7 @@
 ---
 title: "Black History Month: Absalom Boston, Whaling Ship Captain & Merchant"
 date: 2025-02-07T11:25:55
-slug: black-history-month-absalom-boston-whaling-ship-captain-merchant-4
+slug: "black-history-month-absalom-boston-whaling-ship-captain-merchant-4"
 excerpt: "Over nearly three centuries of whaling, some 175,000 men went to sea in 2,700 ships. Of the 2,500 masters who captained these ships, at least 52 were men of color. In honor of Black History Month, here is an updated … Continue reading &rarr;"
 categories:
   - "History"

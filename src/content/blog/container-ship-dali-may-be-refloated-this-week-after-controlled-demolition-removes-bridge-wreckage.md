@@ -1,8 +1,8 @@
 ---
 title: "Container Ship Dali May be Refloated This Week After Controlled Demolition Removes Bridge Wreckage"
 date: 2024-05-14T16:41:28
-slug: container-ship-dali-may-be-refloated-this-week-after-controlled-demolition-removes-bridge-wreckage
-excerpt: "The trapped container ship Dali will “hopefully” be refloated this week after authorities set off charges at a key portion of the collapsed Francis Scott Key Bridge in Baltimore on Monday evening, an official said. The charges helped demolish a portion of … Continue reading &rarr;"
+slug: "container-ship-dali-may-be-refloated-this-week-after-controlled-demolition-removes-bridge-wreckage"
+excerpt: "The trapped container ship Dali will \"hopefully\" be refloated this week after authorities set off charges at a key portion of the collapsed Francis Scott Key Bridge in Baltimore on Monday evening, an official said. The charges helped demolish a portion of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "U.S. Army Corps of Engineers"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/05/keybridgedali.jpg"
 author: "Rick Spilman"
-description: "The trapped container ship Dali will “hopefully” be refloated this week after authorities set off charges at a key portion of the collapsed Francis Scott Key Bridge in Baltimore on Monday evening, an official said. The charges helped demolish a portion of … Continue reading &rarr;"
+description: "The trapped container ship Dali will \"hopefully\" be refloated this week after authorities set off charges at a key portion of the collapsed Francis Scott Key Bridge in Baltimore on Monday evening, an official said. The charges helped demolish a portion of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/05/keybridgedali.jpg)The trapped container ship *Dali* will “hopefully” be refloated this week after authorities set off charges at a [key portion of the collapsed Francis Scott Key Bridge in Baltimore](https://www.oldsaltblog.com/2024/03/baltimore-key-bridge-collapses-after-being-struck-by-container-ship-mv-dali/) on Monday evening, an official said.

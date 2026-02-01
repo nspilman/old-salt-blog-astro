@@ -1,7 +1,7 @@
 ---
 title: "Fisher Poets Gathering Underway This Weekend in Astoria"
 date: 2012-02-25T14:02:59
-slug: fisher-poets-gathering-of-astoria-underway-this-weekend
+slug: "fisher-poets-gathering-of-astoria-underway-this-weekend"
 excerpt: "The 15th Annual Fisher Poets Gathering is underway in Astoria, Oregon.  As the name suggests, it is a gathering where poets of the sea swap verse, music and stories.  Men and women tied to the fishing industry share original poems, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Hinckley Yachts Acquires Morris Yachts"
 date: 2016-01-07T09:17:00
-slug: hinckely-yachts-acquires-morris
+slug: "hinckely-yachts-acquires-morris"
 excerpt: "Hinckley Yachts announced that it has acquired Morris Yachts. Both are high-end boat builders and the boatyards are within a quarter mile of each other in Trenton, Maine. Hinckley says it plans to continue the Morris boatbuilding and service operations … Continue reading &rarr;"
 categories:
   - "Current"

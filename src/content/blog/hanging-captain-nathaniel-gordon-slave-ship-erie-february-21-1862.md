@@ -1,7 +1,7 @@
 ---
 title: "The Hanging of Captain Nathaniel Gordon of the Slave Ship Erie — February 21, 1862"
 date: 2016-02-21T14:30:45
-slug: hanging-captain-nathaniel-gordon-slave-ship-erie-february-21-1862
+slug: "hanging-captain-nathaniel-gordon-slave-ship-erie-february-21-1862"
 excerpt: "On February 21, 1862, Nathaniel Gordon, captain of the slave ship, Erie, was executed by hanging in New York City. Under the Piracy Law of 1820, slave trading was considered to be an act of piracy punishable by death. He was … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Salvaging Pilot Schooner No. 5 Elbe"
 date: 2019-06-21T14:22:51
-slug: salvaging-pilot-schooner-no-5-elbe
+slug: "salvaging-pilot-schooner-no-5-elbe"
 excerpt: "On June 8th, the restored 1883 built pilot schooner No.5 Elbe sank following a collision with the container ship Astrosprinter.  Salvors have now refloated the historic schooner using airbags and pumps and will now assess the extent of the damage. … Continue reading &rarr;"
 categories:
   - "Current"

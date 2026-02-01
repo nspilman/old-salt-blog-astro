@@ -1,7 +1,7 @@
 ---
 title: "Letters from the Titanic – Note Returning to Belfast & Accusation of Drinking by Captain Smith"
 date: 2012-04-12T08:31:46
-slug: letters-from-the-titanic-note-returning-to-belfast-accusation-of-drinking-by-captain-smith
+slug: "letters-from-the-titanic-note-returning-to-belfast-accusation-of-drinking-by-captain-smith"
 excerpt: "Two letters from the Titanic are in the news.  One is a letter from Dr. John Edward Simpson, who died when the ship sank,   He wrote to his mother on April 11, 1912, on notepaper headed RMS Titanic, and had it … Continue reading &rarr;"
 categories:
   - "Current"

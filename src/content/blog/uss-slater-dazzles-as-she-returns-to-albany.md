@@ -1,7 +1,7 @@
 ---
 title: "USS Slater Dazzles as She Returns to Albany"
 date: 2014-07-01T08:24:50
-slug: uss-slater-dazzles-as-she-returns-to-albany
+slug: "uss-slater-dazzles-as-she-returns-to-albany"
 excerpt: "In April we posted about the drydocking of USS Slater, the last World War II destroyer escort still afloat in the United States, at  Caddell Dry Dock in Staten Island.  Yesterday, her repairs completed, newly cleaned, and painted, she returned to her … Continue reading &rarr;"
 categories:
   - "Current"

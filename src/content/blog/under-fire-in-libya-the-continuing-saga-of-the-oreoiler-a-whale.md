@@ -1,8 +1,8 @@
 ---
-title: "Under Fire in Libya – the Continuing Saga of the Ore/Oiler “A Whale”"
+title: "Under Fire in Libya – the Continuing Saga of the Ore/Oiler \"A Whale\""
 date: 2013-08-31T09:51:16
-slug: under-fire-in-libya-the-continuing-saga-of-the-oreoiler-a-whale
-excerpt: "The strange saga of “A Whale” continues. The ship is reported to have recently come under fire by a Libyan Navy patrol boat, as it attempted to enter the Es Sider terminal in Northern Libya, apparently without clearance. The ship … Continue reading &rarr;"
+slug: "under-fire-in-libya-the-continuing-saga-of-the-oreoiler-a-whale"
+excerpt: "The strange saga of \"A Whale\" continues. The ship is reported to have recently come under fire by a Libyan Navy patrol boat, as it attempted to enter the Es Sider terminal in Northern Libya, apparently without clearance. The ship … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Libya"
   - "TMT group"
 author: "Rick Spilman"
-description: "The strange saga of “A Whale” continues. The ship is reported to have recently come under fire by a Libyan Navy patrol boat, as it attempted to enter the Es Sider terminal in Northern Libya, apparently without clearance. The ship … Continue reading &rarr;"
+description: "The strange saga of \"A Whale\" continues. The ship is reported to have recently come under fire by a Libyan Navy patrol boat, as it attempted to enter the Es Sider terminal in Northern Libya, apparently without clearance. The ship … Continue reading &rarr;"
 ---
 
 The strange saga of “[*A Whale*](http://www.marinetraffic.com/ais/shipdetails.aspx?MMSI=636014465)” continues. The ship is reported to have recently come under fire by a Libyan Navy patrol boat, as it attempted to enter the Es Sider terminal in Northern Libya, apparently without clearance. The ship turned away from the port and no significant damage was reported.  Libya has warned that it will attack and destroy any tanker illegally exporting oil, which the defense forces believe the charterers of “*A Whale*” were attempting to do.  This is only the most recent mis-adventure for this misbegotten ship.

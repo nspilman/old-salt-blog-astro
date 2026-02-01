@@ -1,7 +1,7 @@
 ---
 title: "Spanish Navy To Build New Rescue Ship for Submarines, Planes & Shipwrecks"
 date: 2020-11-15T11:38:25
-slug: spanish-navy-to-build-new-rescue-ship-for-submarines-planes-shipwrecks
+slug: "spanish-navy-to-build-new-rescue-ship-for-submarines-planes-shipwrecks"
 excerpt: "Spain’s new S-80 submarines, under construction, will be able to operate at depths of at least 350 meters. If one gets into trouble, however, the Spanish Navy’s only ship set up for rescue and recovery can only hold its position … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

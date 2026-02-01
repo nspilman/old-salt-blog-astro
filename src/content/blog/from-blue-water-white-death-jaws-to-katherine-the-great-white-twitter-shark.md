@@ -1,7 +1,7 @@
 ---
 title: "From Blue Water, White Death & Jaws to Katherine the Great White Twitter Shark"
 date: 2014-09-17T10:57:29
-slug: from-blue-water-white-death-jaws-to-katherine-the-great-white-twitter-shark
+slug: "from-blue-water-white-death-jaws-to-katherine-the-great-white-twitter-shark"
 excerpt: "In 1971, Blue Water, White Death,  a documentary about great white sharks hit the big screens. I recall the documentary as thrilling and absolutely terrifying.  White sharks were portrayed as monstrous killing machines, swimming in every ocean, ready to gobble us … Continue reading &rarr;"
 categories:
   - "Current"

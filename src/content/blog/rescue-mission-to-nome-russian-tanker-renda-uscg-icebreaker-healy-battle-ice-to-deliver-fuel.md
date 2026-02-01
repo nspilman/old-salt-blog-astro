@@ -1,7 +1,7 @@
 ---
 title: "Rescue Mission to Nome – Russian Tanker Renda & USCG Icebreaker Healy Battle Ice to Deliver Fuel"
 date: 2012-01-08T15:38:55
-slug: rescue-mission-to-nome-russian-tanker-renda-uscg-icebreaker-healy-battle-ice-to-deliver-fuel
+slug: "rescue-mission-to-nome-russian-tanker-renda-uscg-icebreaker-healy-battle-ice-to-deliver-fuel"
 excerpt: "The Russian tanker Renda and the USCG icebreaking cutter Healy are on a rescue mission to the Alaskan city of Nome. After a major storm prevented a pre-winter fuel delivery by barge, the Russian tanker Renda was chartered to deliver 1.3 … Continue reading &rarr;"
 categories:
   - "Current"

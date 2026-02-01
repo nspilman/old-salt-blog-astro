@@ -1,7 +1,7 @@
 ---
-title: "Joseph Hewes – First “Secretary of the Navy” and Signer of the Declaration of Independence"
+title: "Joseph Hewes – First \"Secretary of the Navy\" and Signer of the Declaration of Independence"
 date: 2019-07-04T09:24:21
-slug: joseph-hewes-first-secretary-of-the-navy-and-signer-of-the-declaration-of-independence-2
+slug: "joseph-hewes-first-secretary-of-the-navy-and-signer-of-the-declaration-of-independence-2"
 excerpt: "Happy 4th of July to all.  Here is lightly updated repost appropriate for the day. On July 4th, Americans celebrate the signing of the Declaration of Independence from Great Britain in 1776.  Joseph Hewes was one of the lesser-known signatories … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

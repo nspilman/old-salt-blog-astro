@@ -1,7 +1,7 @@
 ---
 title: "16th Century Books with Rare Map of the World Sells at Auction for £365,000"
 date: 2021-12-16T18:34:48
-slug: 16th-century-books-with-rare-map-of-the-world-sells-at-auction-for-365000
+slug: "16th-century-books-with-rare-map-of-the-world-sells-at-auction-for-365000"
 excerpt: "The three-volume The Principall Navigations, Voiages, Traffiques and Discoueries of the English Nation, written by Richard Hakluyt in 1599, and published bound as two books, were only expected to sell for between £3,000 and £5,000. Instead, they sold at an … Continue reading &rarr;"
 categories:
   - "Current"

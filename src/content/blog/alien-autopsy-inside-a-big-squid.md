@@ -1,7 +1,7 @@
 ---
 title: "Alien Autopsy: Inside a Big Squid"
 date: 2010-04-07T09:32:42
-slug: alien-autopsy-inside-a-big-squid
+slug: "alien-autopsy-inside-a-big-squid"
 excerpt: "This isn’t a new, but I find it fascinating nevertheless.   Larger than the giant squid, the colossal squid has never been seen alive. Two years ago an autopsy was performed in New Zealand on the biggest intact colossal squid ever … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

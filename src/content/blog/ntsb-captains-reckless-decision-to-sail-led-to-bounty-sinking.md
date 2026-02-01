@@ -1,7 +1,7 @@
 ---
-title: "NTSB: “Captain’s Reckless Decision to Sail” Led to Bounty Sinking"
+title: "NTSB: \"Captain’s Reckless Decision to Sail\" Led to Bounty Sinking"
 date: 2014-02-10T18:35:24
-slug: ntsb-captains-reckless-decision-to-sail-led-to-bounty-sinking
+slug: "ntsb-captains-reckless-decision-to-sail-led-to-bounty-sinking"
 excerpt: "The NTSB Report conclusion came as no real surprise. Captain Robin Walbridge; who was lost along with a crew member, Claudene Christian, in the sinking of the replica of the HMS Bounty; should never have taken the ship to sea with … Continue reading &rarr;"
 categories:
   - "Current"

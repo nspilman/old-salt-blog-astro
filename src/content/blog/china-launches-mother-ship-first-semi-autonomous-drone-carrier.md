@@ -1,8 +1,8 @@
 ---
-title: "China Launches “Mother Ship” — First Semi-Autonomous Drone Carrier"
+title: "China Launches \"Mother Ship\" — First Semi-Autonomous Drone Carrier"
 date: 2022-06-16T19:29:13
-slug: china-launches-mother-ship-first-semi-autonomous-drone-carrier
-excerpt: "China has launched a semi-autonomous unmanned research vessel designed to serve as a “mother ship” for more than 50 unmanned aircraft, surface vessels, and submersible drones. The 290-foot Zhu Hai Yun is intended to deploy unmanned devices en masse for … Continue reading &rarr;"
+slug: "china-launches-mother-ship-first-semi-autonomous-drone-carrier"
+excerpt: "China has launched a semi-autonomous unmanned research vessel designed to serve as a \"mother ship\" for more than 50 unmanned aircraft, surface vessels, and submersible drones. The 290-foot Zhu Hai Yun is intended to deploy unmanned devices en masse for … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Zhu Hai Yun"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/drone-mother-ship.jpg"
 author: "Rick Spilman"
-description: "China has launched a semi-autonomous unmanned research vessel designed to serve as a “mother ship” for more than 50 unmanned aircraft, surface vessels, and submersible drones. The 290-foot Zhu Hai Yun is intended to deploy unmanned devices en masse for … Continue reading &rarr;"
+description: "China has launched a semi-autonomous unmanned research vessel designed to serve as a \"mother ship\" for more than 50 unmanned aircraft, surface vessels, and submersible drones. The 290-foot Zhu Hai Yun is intended to deploy unmanned devices en masse for … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/drone-mother-ship.jpg)China has launched a semi-autonomous unmanned research vessel designed to serve as a “mother ship” for more than 50 unmanned aircraft, surface vessels, and submersible drones.

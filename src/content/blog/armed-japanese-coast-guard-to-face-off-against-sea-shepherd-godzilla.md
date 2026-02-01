@@ -1,7 +1,7 @@
 ---
-title: "Armed Japanese Coast Guard to Face off against Sea Shepherd “Godzilla”"
+title: "Armed Japanese Coast Guard to Face off against Sea Shepherd \"Godzilla\""
 date: 2010-12-15T09:22:47
-slug: armed-japanese-coast-guard-to-face-off-against-sea-shepherd-godzilla
+slug: "armed-japanese-coast-guard-to-face-off-against-sea-shepherd-godzilla"
 excerpt: "It sounds like like a joke, and indeed it has many elements of farce, but nevertheless when the TV reality-show pirates of Animal Planet’s Whale Wars, the Sea Shepherds, meet the Japanese whalers this season in the Southern Ocean, matters could … Continue reading &rarr;"
 categories:
   - "Current"

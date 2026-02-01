@@ -1,7 +1,7 @@
 ---
 title: "The Mighty Windjammer Preussen — Animation From Mariner’s Mirror Podcast"
 date: 2024-04-05T16:23:46
-slug: the-mighty-windjammer-preussen-animation-from-mariners-mirror-podcast-2
+slug: "the-mighty-windjammer-preussen-animation-from-mariners-mirror-podcast-2"
 excerpt: "My wife and I are currently sailing as passengers on the cruise ship Royal Clipper, the second of only two five-masted full-rigged steel ships ever built. The first such ship was the mighty windjammer, Preussen, of 1902. The Royal Clipper, launched … Continue reading &rarr;"
 categories:
   - "Current"

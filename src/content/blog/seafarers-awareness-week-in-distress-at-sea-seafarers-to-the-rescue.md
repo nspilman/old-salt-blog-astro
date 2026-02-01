@@ -1,7 +1,7 @@
 ---
 title: "Seafarers Awareness Week – In Distress at Sea, Seafarers to the Rescue"
 date: 2012-06-30T10:37:56
-slug: seafarers-awareness-week-in-distress-at-sea-seafarers-to-the-rescue
+slug: "seafarers-awareness-week-in-distress-at-sea-seafarers-to-the-rescue"
 excerpt: "For those in trouble at sea, technology has dramatically increased the chances of survival. Satellite phones, GPS transducers, EPIRBs and the like have made it possible to call for help across the vastness of the world’s oceans.  Some things haven’t changed however.  When help arrives, chances are, it will … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

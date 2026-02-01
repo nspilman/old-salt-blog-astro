@@ -1,8 +1,8 @@
 ---
 title: "Dr. Edith Widder  – Using Bioluminescence to Fight Pollution"
 date: 2011-12-20T13:23:32
-slug: using-bioluminescence-to-fight-pollution
-excerpt: "A fascinating glimpse in today’s New York Times at the work of Dr. Edith Widder who is using bioluminescence to measure the level of pollution in coastal sediments. Illuminating the Perils of Pollution, Nature’s Way [iframe: width=”480″ height=”373″ frameborder=”0″ scrolling=”no” … Continue reading &rarr;"
+slug: "using-bioluminescence-to-fight-pollution"
+excerpt: "A fascinating glimpse in today’s New York Times at the work of Dr. Edith Widder who is using bioluminescence to measure the level of pollution in coastal sediments. Illuminating the Perils of Pollution, Nature’s Way [iframe: width=\"480″ height=\"373″ frameborder=\"0″ scrolling=\"no\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Dr. Edith Widder"
   - "pollution"
 author: "Rick Spilman"
-description: "A fascinating glimpse in today’s New York Times at the work of Dr. Edith Widder who is using bioluminescence to measure the level of pollution in coastal sediments. Illuminating the Perils of Pollution, Nature’s Way [iframe: width=”480″ height=”373″ frameborder=”0″ scrolling=”no” … Continue reading &rarr;"
+description: "A fascinating glimpse in today’s New York Times at the work of Dr. Edith Widder who is using bioluminescence to measure the level of pollution in coastal sediments. Illuminating the Perils of Pollution, Nature’s Way [iframe: width=\"480″ height=\"373″ frameborder=\"0″ scrolling=\"no\" … Continue reading &rarr;"
 ---
 
 A fascinating glimpse in today’s New York Times at the work of [Dr. Edith Widder](http://oceanexplorer.noaa.gov/edu/oceanage/04widder/welcome.html) who is using bioluminescence to measure the level of pollution in coastal sediments.

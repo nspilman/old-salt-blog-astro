@@ -1,8 +1,8 @@
 ---
 title: "Vampire Lampreys Falling From the Sky in Alaska?"
 date: 2015-06-14T15:51:52
-slug: vampire-arctic-lampreys-falling-from-the-sky-in-alaska
-excerpt: "The headlines are great. CBS News reports: Terrifying “vampire fish” falling from the sky in Alaska.  Huffington Post chimes in: Hellacious Eel-Like Fish Are Dropping From The Sky In Alaska. The Washington Post offered, Why these mysterious, blood-sucking fish fell from the Alaskan sky. … Continue reading &rarr;"
+slug: "vampire-arctic-lampreys-falling-from-the-sky-in-alaska"
+excerpt: "The headlines are great. CBS News reports: Terrifying \"vampire fish\" falling from the sky in Alaska.  Huffington Post chimes in: Hellacious Eel-Like Fish Are Dropping From The Sky In Alaska. The Washington Post offered, Why these mysterious, blood-sucking fish fell from the Alaskan sky. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

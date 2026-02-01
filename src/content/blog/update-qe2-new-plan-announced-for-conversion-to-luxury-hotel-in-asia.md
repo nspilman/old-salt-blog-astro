@@ -1,7 +1,7 @@
 ---
 title: "Update: QE2 – New Plan Announced for Conversion to Luxury Hotel in Asia"
 date: 2013-01-18T09:00:36
-slug: update-qe2-new-plan-announced-for-conversion-to-luxury-hotel-in-asia
+slug: "update-qe2-new-plan-announced-for-conversion-to-luxury-hotel-in-asia"
 excerpt: "Four years ago, the luxury liner Queen Elizabeth 2 was sold to financial interests in Dubai who planned on converting her to a luxury hotel. Unfortunately, the arrival of the ship coincided with a credit crunch and near financial melt-down in the emirate.  Last July, … Continue reading &rarr;"
 categories:
   - "Current"

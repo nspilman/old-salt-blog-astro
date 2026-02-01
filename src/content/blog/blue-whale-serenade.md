@@ -1,7 +1,7 @@
 ---
 title: "Blue Whale Serenade"
 date: 2011-09-15T20:50:27
-slug: blue-whale-serenade
+slug: "blue-whale-serenade"
 excerpt: "Remarkable footage of blue whales from MSNBC.  Thanks to Thomas Armstrong for pointing it out on Facebook. Visit msnbc.com for breaking news, world news, and news about the economy … Continue reading &rarr;"
 categories:
   - "Current"

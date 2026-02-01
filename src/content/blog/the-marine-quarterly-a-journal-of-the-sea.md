@@ -1,7 +1,7 @@
 ---
 title: "The Marine Quarterly –  A Journal of the Sea"
 date: 2011-03-02T10:29:23
-slug: the-marine-quarterly-a-journal-of-the-sea
+slug: "the-marine-quarterly-a-journal-of-the-sea"
 excerpt: "The Maritime Quarterly, a new maritime journal, was launched on the first of this month.  Looks very interesting.   Extracts are available on its website.  About the journal: The Marine Quarterly is a new kind of sea journal, reporting subjects of strong interest to everyone … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

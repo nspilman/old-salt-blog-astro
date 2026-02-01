@@ -1,7 +1,7 @@
 ---
 title: "Brig Niagara Brings Unwelcome Stowaways to Isle Royale National Park"
 date: 2010-08-29T07:42:35
-slug: brig-niagara-brings-unwelcome-stowaways-to-isle-royale-national-park
+slug: "brig-niagara-brings-unwelcome-stowaways-to-isle-royale-national-park"
 excerpt: "Another article about stowaways, though of a completely different sort – zebra mussels on the Brig Niagara.  Earlier this month, the Niagara, a historically accurate reconstruction of Commodore Oliver Hazard Perry’s victorious 1813 flagship,  visited Isle Royale, an island National Park in northwestern Lake … Continue reading &rarr;"
 categories:
   - "Current"

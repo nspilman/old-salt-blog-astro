@@ -1,7 +1,7 @@
 ---
 title: "Navy SEALS Kill Osama Bin Laden"
 date: 2011-05-02T11:05:47
-slug: navy-seals-kill-bin-laden
+slug: "navy-seals-kill-bin-laden"
 excerpt: "US naval special forces commandos are called SEALs, referring to their ability to operate at SEa, in the Air and on Land.   Yesterday Navy SEALs were called upon to capture or kill Osama Bin Laden who was hiding in … Continue reading &rarr;"
 categories:
   - "Current"

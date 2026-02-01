@@ -1,7 +1,7 @@
 ---
 title: "Remembering George Cuthbertson — Designer, Boatbuilder, & Entrepreneur"
 date: 2017-10-09T16:40:14
-slug: remembering-george-cuthbertson-designer-boatbuilder-entrepreneur
+slug: "remembering-george-cuthbertson-designer-boatbuilder-entrepreneur"
 excerpt: "Yacht designer, boatbuilder, and entrepreneur George Cuthberston died on October 3, age 88. Cuthbertson was one of the founders of the Canadian yacht builder, C & C Yachts, which was a major player in the world of sailing in the 1970s and … Continue reading &rarr;"
 categories:
   - "Current"

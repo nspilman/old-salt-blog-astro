@@ -1,7 +1,7 @@
 ---
 title: "Global Sea Ice at Record Lows as Temperatures Set New Record for Third Year"
 date: 2017-01-20T10:57:00
-slug: global-sea-ice-record-lows-temperatures-set-new-record-third-year
+slug: "global-sea-ice-record-lows-temperatures-set-new-record-third-year"
 excerpt: "The latest observations from the US National Snow & Ice Data Center in Boulder, say that the extent of global sea is now as low as it has been since satellite monitoring began in the 1970s.  It is also likely that it … Continue reading &rarr;"
 categories:
   - "Current"

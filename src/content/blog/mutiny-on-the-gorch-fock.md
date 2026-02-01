@@ -1,7 +1,7 @@
 ---
 title: "Mutiny on the Gorch Fock ?"
 date: 2011-01-21T16:08:11
-slug: mutiny-on-the-gorch-fock
+slug: "mutiny-on-the-gorch-fock"
 excerpt: "Last November, Sarah Schmidt, a 25 year old cadet fell to her death from the rigging of the German sailing training ship, Gorch Fock.   It is now being reported that shortly after Schmidt’s death the cadets aboard the ship mutinied and … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "M/Y Eclipse, the World’s Largest Yacht, in New York Harbor"
 date: 2013-02-15T11:17:33
-slug: my-eclipse-the-worlds-largest-yacht-in-new-york-harbor
-excerpt: "In October 2009, we posted “Rich Men’s Toys – Battleships, Helipads & Submarines,” about several mega-yachts, including the world’s largest, Roman Abramovich’s 557 feet (170 meters) M/Y Eclipse.  The yacht arrived in New York harbor this week and is now tied up … Continue reading &rarr;"
+slug: "my-eclipse-the-worlds-largest-yacht-in-new-york-harbor"
+excerpt: "In October 2009, we posted \"Rich Men’s Toys – Battleships, Helipads & Submarines,\" about several mega-yachts, including the world’s largest, Roman Abramovich’s 557 feet (170 meters) M/Y Eclipse.  The yacht arrived in New York harbor this week and is now tied up … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Roman Abramovich"
   - "world's largest yacht"
 author: "Rick Spilman"
-description: "In October 2009, we posted “Rich Men’s Toys – Battleships, Helipads & Submarines,” about several mega-yachts, including the world’s largest, Roman Abramovich’s 557 feet (170 meters) M/Y Eclipse.  The yacht arrived in New York harbor this week and is now tied up … Continue reading &rarr;"
+description: "In October 2009, we posted \"Rich Men’s Toys – Battleships, Helipads & Submarines,\" about several mega-yachts, including the world’s largest, Roman Abramovich’s 557 feet (170 meters) M/Y Eclipse.  The yacht arrived in New York harbor this week and is now tied up … Continue reading &rarr;"
 ---
 
 In October 2009, we posted “[Rich Men’s Toys – Battleships, Helipads & Submarines](http://www.oldsaltblog.com/2009/10/rich-men%e2%80%99s-toys-%e2%80%93-battleships-helipads-submarines/ "Permalink to Rich Men’s Toys – Battleships, Helipads & Submarines"),” about several mega-yachts, including the world’s largest, Roman Abramovich’s 557 feet (170 meters) M/Y *Eclipse.*  The yacht arrived in New York harbor this week and is now tied up on the Hudson River in mid-town.

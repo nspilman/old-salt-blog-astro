@@ -1,8 +1,8 @@
 ---
 title: "Myths of the Titanic – Did White Star Line Claim the Ship was Unsinkable?"
 date: 2012-04-14T11:06:49
-slug: myths-of-the-titanic-did-white-star-line-claim-the-ship-was-unsinkable
-excerpt: "The BBC recently published an article titled “Five Titanic myths spread by films.”  The first alleged myth is that the White Star Line never claimed that the Titanic was “unsinkable.”   The article asserts: ” The White Star Line never made … Continue reading &rarr;"
+slug: "myths-of-the-titanic-did-white-star-line-claim-the-ship-was-unsinkable"
+excerpt: "The BBC recently published an article titled \"Five Titanic myths spread by films.\"  The first alleged myth is that the White Star Line never claimed that the Titanic was \"unsinkable.\"   The article asserts: \" The White Star Line never made … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "unsinkable"
   - "White Star Line"
 author: "Rick Spilman"
-description: "The BBC recently published an article titled “Five Titanic myths spread by films.”  The first alleged myth is that the White Star Line never claimed that the Titanic was “unsinkable.”   The article asserts: ” The White Star Line never made … Continue reading &rarr;"
+description: "The BBC recently published an article titled \"Five Titanic myths spread by films.\"  The first alleged myth is that the White Star Line never claimed that the Titanic was \"unsinkable.\"   The article asserts: \" The White Star Line never made … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/titanicsinking.jpg)The BBC recently published an article titled “[Five Titanic myths spread by films](http://www.bbc.co.uk/news/magazine-17515305).”  The first alleged myth is that the White Star Line never claimed that the *Titanic* was “unsinkable.”   The article asserts: ” *The White Star Line never made any substantive claims that the Titanic was unsinkable – and nobody really talked about the ship’s unsinkability until after the event..*”   One hears this claim over and over.  White Star Line never claimed that the Titanic was unsinkable.  But is it accurate?

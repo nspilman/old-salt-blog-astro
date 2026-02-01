@@ -1,7 +1,7 @@
 ---
 title: "Will Combi Dock 1 Take Windjammer Peking Home to Hamburg?"
 date: 2017-04-27T08:42:48
-slug: will-combi-dock-1-take-windjammer-peking-home-hamburg
+slug: "will-combi-dock-1-take-windjammer-peking-home-hamburg"
 excerpt: "In early April, the Hamburger Abendblatt newspaper reported that the heavy-lift ship Combi Dock 1 will carry windjammer Peking home to Germany to restored in its original home-port of Hamburg for restoration. Last Friday, Will Van Dorp posted photos on his Tugster … Continue reading &rarr;"
 categories:
   - "Current"

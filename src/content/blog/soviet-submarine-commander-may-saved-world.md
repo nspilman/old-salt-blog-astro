@@ -1,7 +1,7 @@
 ---
 title: "Vasili Arkhipov, Soviet Submarine Commander Who May Have Saved the World"
 date: 2016-10-27T08:45:33
-slug: soviet-submarine-commander-may-saved-world
+slug: "soviet-submarine-commander-may-saved-world"
 excerpt: "Fifty two years ago today, the world came perilously close to being destroyed in a nuclear World War III. Fortunately, one brave Soviet naval officer stood in the way. Imagine — a Soviet submarine is trapped by an American destroyer … Continue reading &rarr;"
 categories:
   - "History"

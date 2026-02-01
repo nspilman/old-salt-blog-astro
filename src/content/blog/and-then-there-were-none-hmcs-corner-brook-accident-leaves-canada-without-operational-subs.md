@@ -1,7 +1,7 @@
 ---
 title: "And Then There were None –  HMCS Corner Brook Accident Leaves Canada without Operational Subs"
 date: 2011-06-10T16:37:09
-slug: and-then-there-were-none-hmcs-corner-brook-accident-leaves-canada-without-operational-subs
+slug: "and-then-there-were-none-hmcs-corner-brook-accident-leaves-canada-without-operational-subs"
 excerpt: "Canada’s hunter killer submarine, HMCS Corner Brook, limped back to base last weekend after running aground during a  training exercise in the waters of Nootka Sound off the central east coast of Vancouver Island.  The accident leaves Canada without an operational submarine.  Canada’s … Continue reading &rarr;"
 categories:
   - "Current"

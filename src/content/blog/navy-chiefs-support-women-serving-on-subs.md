@@ -1,8 +1,8 @@
 ---
 title: "Navy Chiefs Support Women Serving on Subs"
 date: 2009-10-01T07:54:11
-slug: navy-chiefs-support-women-serving-on-subs
-excerpt: "Let women work on subs, Navy secretary says Women should be allowed to serve aboard submarines, and the Navy is “moving out aggressively” to make it happen, according to the service’s top civilian. “I believe women should have every opportunity … Continue reading &rarr;"
+slug: "navy-chiefs-support-women-serving-on-subs"
+excerpt: "Let women work on subs, Navy secretary says Women should be allowed to serve aboard submarines, and the Navy is \"moving out aggressively\" to make it happen, according to the service’s top civilian. \"I believe women should have every opportunity … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "submarines"
   - "women"
 author: "Rick Spilman"
-description: "Let women work on subs, Navy secretary says Women should be allowed to serve aboard submarines, and the Navy is “moving out aggressively” to make it happen, according to the service’s top civilian. “I believe women should have every opportunity … Continue reading &rarr;"
+description: "Let women work on subs, Navy secretary says Women should be allowed to serve aboard submarines, and the Navy is \"moving out aggressively\" to make it happen, according to the service’s top civilian. \"I believe women should have every opportunity … Continue reading &rarr;"
 ---
 
 ![submarine2](http://www.oldsaltblog.com/wp-content/uploads/2009/09/submarine2.jpg)[Let women work on subs, Navy secretary says](http://www.usatoday.com/news/military/2009-09-24-women-submarines_N.htm)

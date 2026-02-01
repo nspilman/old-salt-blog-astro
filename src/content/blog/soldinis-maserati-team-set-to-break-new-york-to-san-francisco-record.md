@@ -1,7 +1,7 @@
 ---
 title: "Soldini’s Maserati Team Set to Break New York to San Francisco Record"
 date: 2013-02-15T17:07:08
-slug: soldinis-maserati-team-set-to-break-new-york-to-san-francisco-record
+slug: "soldinis-maserati-team-set-to-break-new-york-to-san-francisco-record"
 excerpt: "UPDATE:  The Soldini Maserati team set a new New York to San Francisco sailing record of 47 days, 2 hours and 33 minutes, breaking the previous record by ten days. Sometime Saturday, the Soldini team sailing the 70′ Maserati is expected … Continue reading &rarr;"
 categories:
   - "Current"

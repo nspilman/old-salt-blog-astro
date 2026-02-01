@@ -1,7 +1,7 @@
 ---
 title: "Silent Yachts  —  Are Electric Motor Yachts the Future?"
 date: 2019-09-10T15:12:32
-slug: silent-yachts-are-electric-motor-yachts-the-future
+slug: "silent-yachts-are-electric-motor-yachts-the-future"
 excerpt: "Imagine a yacht that is almost completely silent, with a close to unlimited range, and that doesn’t pollute. While it may sound too good to be true, this is what Silent Yachts is aiming for in its line of electrically-powered … Continue reading &rarr;"
 categories:
   - "Current"

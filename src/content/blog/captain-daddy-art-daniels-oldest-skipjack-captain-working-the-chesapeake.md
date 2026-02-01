@@ -1,14 +1,14 @@
 ---
-title: "Captain “Daddy Art” Daniels — Oldest Skipjack Captain Working the Chesapeake"
+title: "Captain \"Daddy Art\" Daniels — Oldest Skipjack Captain Working the Chesapeake"
 date: 2014-12-12T09:32:53
-slug: captain-daddy-art-daniels-oldest-skipjack-captain-working-the-chesapeake
-excerpt: "We recently posted about the retired oyster dredging schooners A.J. Meerwald  and the Ada C. Lore.  Here is a wonderful short video featuring an interview with Arthur “Daddy Art” Daniels, a 93 year old skipjack captain, who is still dredging oysters … Continue reading &rarr;"
+slug: "captain-daddy-art-daniels-oldest-skipjack-captain-working-the-chesapeake"
+excerpt: "We recently posted about the retired oyster dredging schooners A.J. Meerwald  and the Ada C. Lore.  Here is a wonderful short video featuring an interview with Arthur \"Daddy Art\" Daniels, a 93 year old skipjack captain, who is still dredging oysters … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - "Captain "Daddy Art" Daniels"
+  - "Captain \"Daddy Art\" Daniels"
   - "City of Crisfield"
   - "oldest skipjack captain"
 author: "Rick Spilman"

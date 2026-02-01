@@ -1,8 +1,8 @@
 ---
 title: "A Year After His Death, Steve Job’s Yacht, Venus, Delivered"
 date: 2012-10-31T08:03:02
-slug: a-year-after-his-death-steve-jobs-yacht-venus-delivered
-excerpt: "More than six years ago, Steve Jobs commissioned a custom yacht from the Dutch shipbuilder Feadship.  Designed by French designer Philippe Starck, the 250-foot yacht, Venus, has been delivered, a year after Job’s death.  Jobs told biographer Walter Issacson, “I know that it’s … Continue reading &rarr;"
+slug: "a-year-after-his-death-steve-jobs-yacht-venus-delivered"
+excerpt: "More than six years ago, Steve Jobs commissioned a custom yacht from the Dutch shipbuilder Feadship.  Designed by French designer Philippe Starck, the 250-foot yacht, Venus, has been delivered, a year after Job’s death.  Jobs told biographer Walter Issacson, \"I know that it’s … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Venus"
   - "yacht"
 author: "Rick Spilman"
-description: "More than six years ago, Steve Jobs commissioned a custom yacht from the Dutch shipbuilder Feadship.  Designed by French designer Philippe Starck, the 250-foot yacht, Venus, has been delivered, a year after Job’s death.  Jobs told biographer Walter Issacson, “I know that it’s … Continue reading &rarr;"
+description: "More than six years ago, Steve Jobs commissioned a custom yacht from the Dutch shipbuilder Feadship.  Designed by French designer Philippe Starck, the 250-foot yacht, Venus, has been delivered, a year after Job’s death.  Jobs told biographer Walter Issacson, \"I know that it’s … Continue reading &rarr;"
 ---
 
 More than six years ago, Steve Jobs commissioned a custom yacht from the Dutch shipbuilder Feadship.  Designed by French designer Philippe Starck, the 250-foot yacht, *Venus*, has been delivered, a year after Job’s death.  Jobs told biographer Walter Issacson, “I know that it’s possible that I will die and leave \[wife\] Laurene with a half-built boat. But I have to keep going on it. If I don’t it’s an admission that I’m about to die.”

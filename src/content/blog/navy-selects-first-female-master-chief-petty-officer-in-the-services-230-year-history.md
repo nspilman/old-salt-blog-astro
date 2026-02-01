@@ -1,7 +1,7 @@
 ---
 title: "Navy Selects First Female Master Chief Petty Officer in the Service’s 230-Year History"
 date: 2023-06-04T17:47:51
-slug: navy-selects-first-female-master-chief-petty-officer-in-the-services-230-year-history
+slug: "navy-selects-first-female-master-chief-petty-officer-in-the-services-230-year-history"
 excerpt: "The Navy has selected an active-duty female gunner’s mate for promotion to master chief petty officer for the first time in the service’s 230-year history. Senior Chief Gunner’s Mate Jessica Saunders, who joined the Navy in 2002, was slated for … Continue reading &rarr;"
 categories:
   - "Current"

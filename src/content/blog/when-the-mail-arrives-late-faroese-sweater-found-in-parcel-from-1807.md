@@ -1,7 +1,7 @@
 ---
 title: "When the Mail Arrives Late — Faroese Sweater Found in Parcel from 1807"
 date: 2024-03-04T18:30:03
-slug: when-the-mail-arrives-late-faroese-sweater-found-in-parcel-from-1807
+slug: "when-the-mail-arrives-late-faroese-sweater-found-in-parcel-from-1807"
 excerpt: "A red traditional Faroese knit sweater was recently found in a stash of 19th-century letters at the British National Archives in their Prize Papers collection. The sweater, or jumper in British parlance, handknitted in vibrantly colored fine wool, was intended … Continue reading &rarr;"
 categories:
   - "Current"

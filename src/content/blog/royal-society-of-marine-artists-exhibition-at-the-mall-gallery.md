@@ -1,7 +1,7 @@
 ---
 title: "Royal Society of Marine Artists Exhibition at the Mall Gallery"
 date: 2010-10-12T08:21:34
-slug: royal-society-of-marine-artists-exhibition-at-the-mall-gallery
+slug: "royal-society-of-marine-artists-exhibition-at-the-mall-gallery"
 excerpt: "The Mall Gallery in London has a show of work by the Royal Society of Marine Artists from Wed October 13 to Sat October 23, 2010. Royal Society of Marine Artists … Continue reading &rarr;"
 categories:
   - "Current"

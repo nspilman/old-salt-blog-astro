@@ -1,7 +1,7 @@
 ---
 title: "Second Refugee Boat Bound for Christmas Island Capsizes, Merchant Ships Rescue 136"
 date: 2012-06-27T03:17:01
-slug: second-refugee-boat-bound-for-christmas-island-capsizes-merchant-ships-rescue-136
+slug: "second-refugee-boat-bound-for-christmas-island-capsizes-merchant-ships-rescue-136"
 excerpt: "A  boat loaded with asylum seekers has capsized in Indonesian waters about 107 nautical miles north of Australia’s Christmas Island. The boat is reported to have had 150 passengers and crew aboard.  CNN is reporting that 136 have been rescued by two merchants ships. … Continue reading &rarr;"
 categories:
   - "Current"

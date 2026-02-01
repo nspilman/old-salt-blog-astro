@@ -1,7 +1,7 @@
 ---
 title: "Norwegian Jarle Andhøy Arrested by Chilean Navy"
 date: 2012-04-02T08:10:00
-slug: norwegian-jarle-andhoy-arrested-by-chilean-navy
+slug: "norwegian-jarle-andhoy-arrested-by-chilean-navy"
 excerpt: "Norwegian rogue adventurer Jarle Andhøy, 34, along with four other crew members on the 54-foot yacht, Nilaya have been arrested by the Chilean Navy.  Andhøy is returning from his second Antarctic voyage, both of which he has undertook without permission, permits or insurance. His first voyage ended … Continue reading &rarr;"
 categories:
   - "Current"

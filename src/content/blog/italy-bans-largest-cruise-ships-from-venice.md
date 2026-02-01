@@ -1,7 +1,7 @@
 ---
 title: "Italy Bans Largest Cruise Ships from Venice"
 date: 2014-08-14T09:25:49
-slug: italy-bans-largest-cruise-ships-from-venice
+slug: "italy-bans-largest-cruise-ships-from-venice"
 excerpt: "We posted in June 2012 about protests over the docking of large cruise ships in Venice, Italy.  The arrival of the MSC Davina at 139,400 GT, almost 1,100 feet long, about 125 feet wide and carries up to 5,329 passengers and crew, … Continue reading &rarr;"
 categories:
   - "Current"

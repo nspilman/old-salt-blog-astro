@@ -1,7 +1,7 @@
 ---
 title: "USS Gerald R. Ford Deployment and the SecNav’s Promise"
 date: 2019-10-24T09:12:56
-slug: uss-gerald-r-ford-deployment-and-the-secnavs-promise
+slug: "uss-gerald-r-ford-deployment-and-the-secnavs-promise"
 excerpt: "Back in January, Richard V. Spencer, Secretary of the Navy, made a promise to President Trump that the advanced weapons elevators on the new carrier USS Gerald R. Ford would be operational by the end of the summer or the … Continue reading &rarr;"
 categories:
   - "Current"

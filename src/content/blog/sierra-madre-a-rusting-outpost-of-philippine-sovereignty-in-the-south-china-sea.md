@@ -1,7 +1,7 @@
 ---
 title: "Sierra Madre, a Rusting Outpost of Philippine Sovereignty in the South China Sea"
 date: 2023-08-24T17:27:47
-slug: sierra-madre-a-rusting-outpost-of-philippine-sovereignty-in-the-south-china-sea
+slug: "sierra-madre-a-rusting-outpost-of-philippine-sovereignty-in-the-south-china-sea"
 excerpt: "An unlikely nautical relic of World War II, the BRP Sierra Madre, sits hard aground on Second Thomas Shoal, an atoll in the Spratly Islands in the South China Sea. Manned by a handful of Philippine marines, the rusting hulk … Continue reading &rarr;"
 categories:
   - "Current"

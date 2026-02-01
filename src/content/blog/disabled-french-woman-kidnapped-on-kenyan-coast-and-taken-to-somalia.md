@@ -1,7 +1,7 @@
 ---
 title: "Disabled French Woman Kidnapped on Kenyan Coast and Taken to Somalia"
 date: 2011-10-02T09:43:36
-slug: disabled-french-woman-kidnapped-on-kenyan-coast-and-taken-to-somalia
+slug: "disabled-french-woman-kidnapped-on-kenyan-coast-and-taken-to-somalia"
 excerpt: "Marie Didieu, a disabled  66-year-old French woman, was kidnapped yesterday from her vacation home on Manda Island, part of the Lamu archipelago, not far from where a British tourist was killed and his wife abducted three weeks ago.  The kidnappers arrived and departed by … Continue reading &rarr;"
 categories:
   - "Current"

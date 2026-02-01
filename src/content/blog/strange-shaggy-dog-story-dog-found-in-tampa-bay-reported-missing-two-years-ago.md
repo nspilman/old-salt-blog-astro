@@ -1,7 +1,7 @@
 ---
 title: "Strange Shaggy Dog Story — Dog Found in Tampa Bay Reported Missing Two Years Ago"
 date: 2014-01-08T10:07:50
-slug: strange-shaggy-dog-story-dog-found-in-tampa-bay-reported-missing-two-years-ago
+slug: "strange-shaggy-dog-story-dog-found-in-tampa-bay-reported-missing-two-years-ago"
 excerpt: "OK, this is odd.  A few days after New Years, a fisherman spotted a small dog treading water several miles from shore in Tampa Bay, on the west coast of Florida.  The dog, which was wearing a red collar and a pink … Continue reading &rarr;"
 categories:
   - "Current"

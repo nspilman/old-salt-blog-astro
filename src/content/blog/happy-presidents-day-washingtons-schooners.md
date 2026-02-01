@@ -1,7 +1,7 @@
 ---
 title: "Happy Presidents Day – George Washington’s Schooners"
 date: 2012-02-20T18:41:28
-slug: happy-presidents-day-washingtons-schooners
+slug: "happy-presidents-day-washingtons-schooners"
 excerpt: "In the United States, today is celebrated as Washington’s Birthday, also widely known as Presidents Day.  On this the official day of celebration of his birthday, it seems worthwhile to  look back on General George Washington’s navy of 1775 and … Continue reading &rarr;"
 categories:
   - "History"

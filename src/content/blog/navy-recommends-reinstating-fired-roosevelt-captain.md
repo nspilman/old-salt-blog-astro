@@ -1,7 +1,7 @@
 ---
 title: "Navy Recommends Reinstating Fired Roosevelt Captain"
 date: 2020-04-25T09:29:10
-slug: navy-recommends-reinstating-fired-roosevelt-captain
+slug: "navy-recommends-reinstating-fired-roosevelt-captain"
 excerpt: "Yesterday, senior Navy officials recommended that Captain Brett Crozier be reinstated as commander of the aircraft carrier USS Theodore Roosevelt. Captain Crozier was fired after a letter expressing concern about the health and safety of his crew in a shipboard … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Celebrating the 180th Anniversary of the Launch of SS Great Britain With a Model Cake"
 date: 2023-08-04T20:32:30
-slug: celebrating-the-180th-anniversary-of-the-launch-of-ss-great-britain-with-a-model-cake
+slug: "celebrating-the-180th-anniversary-of-the-launch-of-ss-great-britain-with-a-model-cake"
 excerpt: "One hundred and eighty years ago last month, Isambard Kingdom Brunel’s SS Great Britain was launched by Prince Albert in Bristol Harbour. To celebrate the anniversary, Giuseppe Dell’Anno, a winner of the Great British Bake Off unveiled a cake replica … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

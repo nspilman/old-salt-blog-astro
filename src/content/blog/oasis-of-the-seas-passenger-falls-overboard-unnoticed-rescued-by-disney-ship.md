@@ -1,7 +1,7 @@
 ---
 title: "Oasis of the Seas Passenger Falls Overboard Unnoticed, Rescued by Disney Ship"
 date: 2015-01-11T09:42:37
-slug: oasis-of-the-seas-passenger-falls-overboard-unnoticed-rescued-by-disney-ship
+slug: "oasis-of-the-seas-passenger-falls-overboard-unnoticed-rescued-by-disney-ship"
 excerpt: "Frank Jade was a passenger on the Royal Caribbean cruise ship Oasis of the Seas until Thursday morning when he said that a large wave knocked him off an open deck and into the sea, approximately eight miles from Cozumel, Mexico. Reportedly, no … Continue reading &rarr;"
 categories:
   - "Current"

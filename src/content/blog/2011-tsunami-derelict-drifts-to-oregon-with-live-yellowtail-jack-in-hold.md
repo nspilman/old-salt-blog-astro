@@ -1,7 +1,7 @@
 ---
 title: "2011 Tsunami Derelict Drifts to Oregon with Live Yellowtail Jack in Hold"
 date: 2015-04-11T10:33:42
-slug: 2011-tsunami-derelict-drifts-to-oregon-with-live-yellowtail-jack-in-hold
+slug: "2011-tsunami-derelict-drifts-to-oregon-with-live-yellowtail-jack-in-hold"
 excerpt: "Given the recent discussion about where a derelict might drift in the Atlantic, here is an interesting news item from the Pacific. Four years after a 9.0-magnitude earthquake triggered a devastating tsunami which hit Japan and washed an estimated 5 … Continue reading &rarr;"
 categories:
   - "Current"

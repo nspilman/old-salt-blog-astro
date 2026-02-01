@@ -1,7 +1,7 @@
 ---
 title: "Shark Oil Barometers"
 date: 2017-05-23T09:35:26
-slug: shark-oil-barometers
+slug: "shark-oil-barometers"
 excerpt: "One of the earliest and best ways of predicting the weather was the barometer.  The first to measure changes in atmospheric pressure was developed by Evangelista Torricelli in 1643. By 1668 Robert Hooke recognized that a barometer could foretell storms at sea. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

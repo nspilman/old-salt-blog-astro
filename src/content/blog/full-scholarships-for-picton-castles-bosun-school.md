@@ -1,7 +1,7 @@
 ---
 title: "Full Scholarships for Picton Castle’s Bosun School"
 date: 2021-06-16T15:15:18
-slug: full-scholarships-for-picton-castles-bosun-school
+slug: "full-scholarships-for-picton-castles-bosun-school"
 excerpt: "Exciting news from the crew of the Barque Picton Castle.  Full scholarships are now being offered to those accepted in the highly regarded Picton Castle’s Bosun School. From their announcement:  Bosun School is going ahead this summer! We’re thrilled to … Continue reading &rarr;"
 categories:
   - "Current"

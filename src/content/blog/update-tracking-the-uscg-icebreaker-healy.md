@@ -1,7 +1,7 @@
 ---
 title: "Update: Tracking the USCG Icebreaker Healy"
 date: 2012-01-12T14:46:24
-slug: update-tracking-the-uscg-icebreaker-healy
+slug: "update-tracking-the-uscg-icebreaker-healy"
 excerpt: "The internet  is a wonderful thing. I am sitting in my office, which is around 70 degrees F (21 degrees C), drinking a hot cup of coffee, while tracking the painfully slow progress of the USCG Icebreaker Healy as it … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,8 +1,8 @@
 ---
-title: "“The Dig” & Recreating the Sutton Hoo Burial Ship"
+title: "\"The Dig\" & Recreating the Sutton Hoo Burial Ship"
 date: 2021-01-31T16:46:04
-slug: the-dig-recreating-the-sutton-hoo-burial-ship
-excerpt: "I recently watched “The Dig,” a new movie on Netflix, starring Carey Mulligan and Ralph Fiennes about the excavation of the Sutton Hoo ship-burial in Suffolk, England.  Now the Sutton Hoo Ship’s Company is undertaking to recreate the great king’s ship … Continue reading &rarr;"
+slug: "the-dig-recreating-the-sutton-hoo-burial-ship"
+excerpt: "I recently watched \"The Dig,\" a new movie on Netflix, starring Carey Mulligan and Ralph Fiennes about the excavation of the Sutton Hoo ship-burial in Suffolk, England.  Now the Sutton Hoo Ship’s Company is undertaking to recreate the great king’s ship … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -16,7 +16,7 @@ tags:
   - "The Dig"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/suttonhooship.jpg"
 author: "Rick Spilman"
-description: "I recently watched “The Dig,” a new movie on Netflix, starring Carey Mulligan and Ralph Fiennes about the excavation of the Sutton Hoo ship-burial in Suffolk, England.  Now the Sutton Hoo Ship’s Company is undertaking to recreate the great king’s ship … Continue reading &rarr;"
+description: "I recently watched \"The Dig,\" a new movie on Netflix, starring Carey Mulligan and Ralph Fiennes about the excavation of the Sutton Hoo ship-burial in Suffolk, England.  Now the Sutton Hoo Ship’s Company is undertaking to recreate the great king’s ship … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/suttonhooship.jpg)

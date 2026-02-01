@@ -1,8 +1,8 @@
 ---
 title: "Sail On: The Story of Lettie G Howard"
 date: 2015-01-31T19:30:25
-slug: sail-on-the-story-of-lettie-g-howard
-excerpt: "Here is a short video by the Harbor School, a public high school located on Governors Island in New York harbor.  The school’s mission is to “provide a college-preparatory education built upon New York City’s maritime experience that instills in students … Continue reading &rarr;"
+slug: "sail-on-the-story-of-lettie-g-howard"
+excerpt: "Here is a short video by the Harbor School, a public high school located on Governors Island in New York harbor.  The school’s mission is to \"provide a college-preparatory education built upon New York City’s maritime experience that instills in students … Continue reading &rarr;"
 categories:
   - "City of Ships"
   - "Current"

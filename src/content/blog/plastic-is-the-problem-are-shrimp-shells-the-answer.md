@@ -1,7 +1,7 @@
 ---
 title: "Plastic is the Problem. Are Shrimp Shells the Answer?"
 date: 2014-06-02T11:14:18
-slug: plastic-is-the-problem-are-shrimp-shells-the-answer
+slug: "plastic-is-the-problem-are-shrimp-shells-the-answer"
 excerpt: "Discarded plastic is a major problem in today’s oceans. Plastics leach toxic chemicals into the seawater while otherwise not degrading.  Recently researchers at Harvard University have announced they have created a new bio-degrable plastic based on, of all things, shrimp shells. We have posted … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Black History Month: Remembering Jesse L. Brown, First African-American Naval Pilot"
 date: 2022-02-11T17:00:45
-slug: black-history-month-remembering-jesse-l-brown-first-african-american-naval-pilot
+slug: "black-history-month-remembering-jesse-l-brown-first-african-american-naval-pilot"
 excerpt: "In honor of Black History Month, an updated repost about the first African-American pilot in the US Navy, Jesse L. Brown. The story goes that when young Jesse Leroy Brown worked in the cotton fields of Mississippi beside his sharecropper … Continue reading &rarr;"
 categories:
   - "History"

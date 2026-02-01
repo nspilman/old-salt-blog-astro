@@ -1,7 +1,7 @@
 ---
 title: "New Masts for the Schooner Virginia"
 date: 2011-12-29T09:20:49
-slug: new-masts-for-the-schooner-virginia
+slug: "new-masts-for-the-schooner-virginia"
 excerpt: "In 2009, the non profit foundation that owns the schooner Virginia, the Virginia Maritime Heritage Foundation, ran out of cash. Burdened with $1.6 million of debt, they were forced to lay up the schooner. Now, the outlook for the schooner … Continue reading &rarr;"
 categories:
   - "Current"

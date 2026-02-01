@@ -1,7 +1,7 @@
 ---
 title: "Sail Tampa Bay 2010"
 date: 2010-07-09T08:42:30
-slug: sail-tampa-bay-2010
+slug: "sail-tampa-bay-2010"
 excerpt: "Sail Tampa Bay 2010 is a five day festival, which starts today, celebrating Tampa Bay’s rich maritime history. The festival centerpiece is a visit by three sail training ships – the U.S. Coast Guard cutter Eagle, three-masted Columbian training barque Gloria … Continue reading &rarr;"
 categories:
   - "Current"

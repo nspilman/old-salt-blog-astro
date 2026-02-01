@@ -1,7 +1,7 @@
 ---
 title: "70th Anniversary of the Battle of the Coral Sea"
 date: 2012-05-05T08:14:13
-slug: 70th-anniversary-of-the-battle-of-the-coral-sea
+slug: "70th-anniversary-of-the-battle-of-the-coral-sea"
 excerpt: "Seventy yeas ago, the Japanese and navies of the United States and Australia fought the Battle of the Coral Sea in the waters southwest of the Solomon Islands and eastward from New Guinea in a series of naval battles from May … Continue reading &rarr;"
 categories:
   - "History"

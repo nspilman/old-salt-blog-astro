@@ -1,7 +1,7 @@
 ---
 title: "Russian Priest, 67, Rows Across Southern Ocean"
 date: 2019-05-20T15:13:05
-slug: russian-priest-67-rows-across-southern-ocean
+slug: "russian-priest-67-rows-across-southern-ocean"
 excerpt: "Fedor Konyukhov, a 67-year-old Russian Orthodox priest, recently arrived in the Chilean town of Puerto Williams, after rowing 11,500 kilometers from Dunedin, New Zealand to Cape Horn. He thanks Saint Nicholas the Miracle Worker for helping him survive the 154-day … Continue reading &rarr;"
 categories:
   - "Current"

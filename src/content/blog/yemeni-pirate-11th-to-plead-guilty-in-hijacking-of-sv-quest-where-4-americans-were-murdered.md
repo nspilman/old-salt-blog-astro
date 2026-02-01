@@ -1,7 +1,7 @@
 ---
 title: "Yemeni Pirate 11th to Plead Guilty in Hijacking of SV Quest Where 4 Americans were Murdered"
 date: 2011-07-07T18:45:58
-slug: yemeni-pirate-11th-to-plead-guilty-in-hijacking-of-sv-quest-where-4-americans-were-murdered
+slug: "yemeni-pirate-11th-to-plead-guilty-in-hijacking-of-sv-quest-where-4-americans-were-murdered"
 excerpt: "In February, the sailing vessel Quest was hijacked by pirates 240 nautical miles off the coast of Oman in the Indian Ocean.  The yacht’s crew of four Americans were taken hostage.  The pirates were finally captured by US forces but not before they killed … Continue reading &rarr;"
 categories:
   - "Current"

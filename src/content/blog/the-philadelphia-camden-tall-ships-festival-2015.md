@@ -1,8 +1,8 @@
 ---
 title: "The Philadelphia-Camden Tall Ships Festival 2015"
 date: 2015-06-23T17:22:04
-slug: the-philadelphia-camden-tall-ships-festival-2015
-excerpt: "The Philadelphia-Camden Tall Ships Festival running from June 25-28th, promises to be something special. I am sorry that I will be out of town and will miss the festivities. The events begin on Thursday, June 25, with a “Parade of Ships” up … Continue reading &rarr;"
+slug: "the-philadelphia-camden-tall-ships-festival-2015"
+excerpt: "The Philadelphia-Camden Tall Ships Festival running from June 25-28th, promises to be something special. I am sorry that I will be out of town and will miss the festivities. The events begin on Thursday, June 25, with a \"Parade of Ships\" up … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

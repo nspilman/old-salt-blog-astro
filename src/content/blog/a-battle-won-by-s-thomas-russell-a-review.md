@@ -1,7 +1,7 @@
 ---
 title: "A Battle Won by S. Thomas Russell – A Review"
 date: 2010-08-11T18:58:46
-slug: a-battle-won-by-s-thomas-russell-a-review
+slug: "a-battle-won-by-s-thomas-russell-a-review"
 excerpt: "The just released, A Battle Won by S. Thomas Russell, is classic nautical fiction – vivid, fast paced and full of drama, both on sea and land.  Master and Commander Charles Hayden is a gifted naval commander with extremely bad … Continue reading &rarr;"
 categories:
   - "Newbooks"

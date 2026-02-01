@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Cmdr. Billie J. Farrell, First Woman to Command USS Constitution"
 date: 2022-01-07T18:43:14
-slug: congratulations-to-cmdr-billie-j-farrell-first-woman-to-command-uss-constitution
+slug: "congratulations-to-cmdr-billie-j-farrell-first-woman-to-command-uss-constitution"
 excerpt: "Congratulations to Commander Billie J. Farrell who will be the 77th commanding officer and the first woman in the 224-year ship’s history to command the USS Constitution. She will assume command of the ship, known as Old Ironsides, during a … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "US Marines Recapture M/V Magellan Star from Somali Pirates"
 date: 2010-09-09T12:41:12
-slug: us-marines-recapture-mv-magellan-star-from-somali-pirates
+slug: "us-marines-recapture-mv-magellan-star-from-somali-pirates"
 excerpt: "Twenty-four U.S. Marines from the 15th Marine Expeditionary Unit’s Maritime Raid Force stormed the German-owned containership M/V Magellan Star today, capturing the pirates that had seized control of the ship in the Gulf of Aden off the coast of Somalia.   No … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Four Columbian Suspects Rescued & Arrested Off Spanish Coast After Scuttling Intercepted Narco Sub"
 date: 2024-06-27T16:29:42
-slug: four-columbian-suspects-rescued-arrested-off-spanish-coast-after-scuttling-intercepted-narco-sub
-excerpt: "Spanish Customs has intercepted another semi-submersible transoceanic “narco sub” off the Atlantic coast of Spain, rescuing and arresting four suspects, who scuttled their vessel as authorities approached. On June 24, the Spanish Customs Surveillance Service and the US DEA detected … Continue reading &rarr;"
+slug: "four-columbian-suspects-rescued-arrested-off-spanish-coast-after-scuttling-intercepted-narco-sub"
+excerpt: "Spanish Customs has intercepted another semi-submersible transoceanic \"narco sub\" off the Atlantic coast of Spain, rescuing and arresting four suspects, who scuttled their vessel as authorities approached. On June 24, the Spanish Customs Surveillance Service and the US DEA detected … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "US DEA"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/fulmar.jpg"
 author: "Rick Spilman"
-description: "Spanish Customs has intercepted another semi-submersible transoceanic “narco sub” off the Atlantic coast of Spain, rescuing and arresting four suspects, who scuttled their vessel as authorities approached. On June 24, the Spanish Customs Surveillance Service and the US DEA detected … Continue reading &rarr;"
+description: "Spanish Customs has intercepted another semi-submersible transoceanic \"narco sub\" off the Atlantic coast of Spain, rescuing and arresting four suspects, who scuttled their vessel as authorities approached. On June 24, the Spanish Customs Surveillance Service and the US DEA detected … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/fulmar.jpg)

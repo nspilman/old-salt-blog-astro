@@ -1,7 +1,7 @@
 ---
 title: "Fire on Coast Guard Cutter Healy Disables Half of US Icebreaker Fleet"
 date: 2020-08-26T11:36:45
-slug: fire-on-coast-guard-cutter-healy-disables-half-of-us-icebreaker-fleet
+slug: "fire-on-coast-guard-cutter-healy-disables-half-of-us-icebreaker-fleet"
 excerpt: "US Coast Guard Cutter Healy, a medium icebreaker, is limping back to its homeport in Seattle after suffering a machinery space fire on Aug. 18, the Coast Guard announced on Tuesday. When the fire broke out, Healy was underway on a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

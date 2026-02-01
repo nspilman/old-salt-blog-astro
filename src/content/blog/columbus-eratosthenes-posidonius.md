@@ -1,7 +1,7 @@
 ---
 title: "Columbus, Eratosthenes & Posidonius"
 date: 2011-10-10T08:57:19
-slug: columbus-eratosthenes-posidonius
+slug: "columbus-eratosthenes-posidonius"
 excerpt: "Happy Columbus Day to those in the United States and Happy Thanksgiving to those in Canada. On Columbus Day, it seems appropriate to consider the role of  error in discovery.  While many of us were taught in school that Columbus proved that … Continue reading &rarr;"
 categories:
   - "History"

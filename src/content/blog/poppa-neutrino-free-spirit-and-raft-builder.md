@@ -1,8 +1,8 @@
 ---
 title: "Poppa Neutrino – Free Spirit and Raft Builder"
 date: 2011-02-27T12:31:38
-slug: poppa-neutrino-free-spirit-and-raft-builder
-excerpt: "David Pearlman, widely known as Papa Neutrino, died last month at 77 of congestive heart failure in New Orleans.   His remarkable life was summarized in an obituary in the Telegraph: “Poppa Neutrino, who died on January 23 aged 77, was … Continue reading &rarr;"
+slug: "poppa-neutrino-free-spirit-and-raft-builder"
+excerpt: "David Pearlman, widely known as Papa Neutrino, died last month at 77 of congestive heart failure in New Orleans.   His remarkable life was summarized in an obituary in the Telegraph: \"Poppa Neutrino, who died on January 23 aged 77, was … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "rafts"
   - "Son of Town Hall"
 author: "Rick Spilman"
-description: "David Pearlman, widely known as Papa Neutrino, died last month at 77 of congestive heart failure in New Orleans.   His remarkable life was summarized in an obituary in the Telegraph: “Poppa Neutrino, who died on January 23 aged 77, was … Continue reading &rarr;"
+description: "David Pearlman, widely known as Papa Neutrino, died last month at 77 of congestive heart failure in New Orleans.   His remarkable life was summarized in an obituary in the Telegraph: \"Poppa Neutrino, who died on January 23 aged 77, was … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/neutrino_1835547b.jpg)

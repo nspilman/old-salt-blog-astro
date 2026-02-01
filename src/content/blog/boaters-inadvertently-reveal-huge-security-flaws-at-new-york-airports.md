@@ -1,7 +1,7 @@
 ---
 title: "Bumbling Boaters Reveal Huge Security Flaws at New York Airports"
 date: 2014-07-30T09:30:31
-slug: boaters-inadvertently-reveal-huge-security-flaws-at-new-york-airports
+slug: "boaters-inadvertently-reveal-huge-security-flaws-at-new-york-airports"
 excerpt: "The Port Authority of New York and New Jersey reportedly spent more than $100 million on a Perimeter Intrusion Detection System, which was intended to protect the local airports from terrorist attack. (Some sources put the cost at $300 million.) How … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

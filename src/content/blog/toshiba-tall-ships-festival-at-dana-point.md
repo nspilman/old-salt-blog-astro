@@ -1,7 +1,7 @@
 ---
 title: "Toshiba Tall Ships Festival at Dana Point"
 date: 2013-09-05T17:22:58
-slug: toshiba-tall-ships-festival-at-dana-point
+slug: "toshiba-tall-ships-festival-at-dana-point"
 excerpt: "The Ocean Institute is celebrating its 29th year hosting the Toshiba Tall Ships Festival at Dana Point, CA.  The festival kicks off with a tall ships parade at sunset tomorrow, September 6th with festivities continuing through the weekend.  Participating ships include … Continue reading &rarr;"
 categories:
   - "Current"

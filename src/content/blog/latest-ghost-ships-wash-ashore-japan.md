@@ -1,7 +1,7 @@
 ---
 title: "Latest Ghost Ships Wash Ashore in Japan"
 date: 2017-11-28T10:32:49
-slug: latest-ghost-ships-wash-ashore-japan
+slug: "latest-ghost-ships-wash-ashore-japan"
 excerpt: "A derelict wooden boat washed ashore on Monday on Miyazawa beach in the northwest of Japan’s main island Honshu. The boat’s only cargo was eight skeletons. Evidence suggests that the boat and the bones came from North Korea. This boat is … Continue reading &rarr;"
 categories:
   - "Current"

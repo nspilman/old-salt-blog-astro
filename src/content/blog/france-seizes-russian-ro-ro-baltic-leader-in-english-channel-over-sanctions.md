@@ -1,7 +1,7 @@
 ---
 title: "France Seizes Russian Ro/Ro Baltic Leader in English Channel Over Sanctions"
 date: 2022-02-26T17:40:17
-slug: france-seizes-russian-ro-ro-baltic-leader-in-english-channel-over-sanctions
+slug: "france-seizes-russian-ro-ro-baltic-leader-in-english-channel-over-sanctions"
 excerpt: "France seized a Russian-flagged ro/ro cargo ship, Baltic Leader, on Saturday, in the English Channel, in accordance with recent sanctions put in place following the Russian invasion of Ukraine. The ship was bound for St. Petersburg, Russia, but was diverted … Continue reading &rarr;"
 categories:
   - "Current"

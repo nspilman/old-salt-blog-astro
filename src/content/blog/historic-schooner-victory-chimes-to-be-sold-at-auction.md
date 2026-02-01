@@ -1,7 +1,7 @@
 ---
 title: "Historic Schooner Victory Chimes to be Sold at Auction"
 date: 2023-04-13T16:23:08
-slug: historic-schooner-victory-chimes-to-be-sold-at-auction
+slug: "historic-schooner-victory-chimes-to-be-sold-at-auction"
 excerpt: "The three-masted schooner Victory Chimes, based in Rockland, Maine, will soon be sold at public auction. The 128-foot schooner will be auctioned through online bidding that begins at 9 a.m. on April 23 and continues until 1 p.m. on May … Continue reading &rarr;"
 categories:
   - "Current"

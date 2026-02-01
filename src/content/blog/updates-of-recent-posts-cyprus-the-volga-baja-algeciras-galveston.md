@@ -1,8 +1,8 @@
 ---
 title: "Updates of Recent Posts : Cyprus, the Volga, Baja, Algeciras & Galveston"
 date: 2011-07-13T14:39:45
-slug: updates-of-recent-posts-cyprus-the-volga-baja-algeciras-galveston
-excerpt: "A few updates of recent posts: Posted July 11th: Death on the Volga – Cruise Vessel Bulgaria Sinks, More than 100 Dead – From CNN: “Four people face criminal charges in connection with the sinking of a Russian ship Sunday in which … Continue reading &rarr;"
+slug: "updates-of-recent-posts-cyprus-the-volga-baja-algeciras-galveston"
+excerpt: "A few updates of recent posts: Posted July 11th: Death on the Volga – Cruise Vessel Bulgaria Sinks, More than 100 Dead – From CNN: \"Four people face criminal charges in connection with the sinking of a Russian ship Sunday in which … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -17,7 +17,7 @@ tags:
   - "galveston"
   - "the Volga"
 author: "Rick Spilman"
-description: "A few updates of recent posts: Posted July 11th: Death on the Volga – Cruise Vessel Bulgaria Sinks, More than 100 Dead – From CNN: “Four people face criminal charges in connection with the sinking of a Russian ship Sunday in which … Continue reading &rarr;"
+description: "A few updates of recent posts: Posted July 11th: Death on the Volga – Cruise Vessel Bulgaria Sinks, More than 100 Dead – From CNN: \"Four people face criminal charges in connection with the sinking of a Russian ship Sunday in which … Continue reading &rarr;"
 ---
 
 A few updates of recent posts:

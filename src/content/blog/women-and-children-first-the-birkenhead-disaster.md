@@ -1,7 +1,7 @@
 ---
 title: "Women and Children First — The Birkenhead Disaster"
 date: 2018-10-15T17:06:12
-slug: women-and-children-first-the-birkenhead-disaster
+slug: "women-and-children-first-the-birkenhead-disaster"
 excerpt: "Where did the rule of loading women and children first into the lifeboats in an emergency come from? It is actually more of a guideline than a rule as it is not explicitly called out in admiralty law. It all … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

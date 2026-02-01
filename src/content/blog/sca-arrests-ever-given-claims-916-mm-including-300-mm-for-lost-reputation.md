@@ -1,7 +1,7 @@
 ---
-title: "SCA Arrests Ever Given, Claims $916 MM, Including $300 MM for “Lost Reputation”"
+title: "SCA Arrests Ever Given, Claims $916 MM, Including $300 MM for \"Lost Reputation\""
 date: 2021-04-17T08:37:32
-slug: sca-arrests-ever-given-claims-916-mm-including-300-mm-for-lost-reputation
+slug: "sca-arrests-ever-given-claims-916-mm-including-300-mm-for-lost-reputation"
 excerpt: "The American Bureau of Shipping completed its survey and concluded that the ultra-large container ship Ever Given, which had blocked the Suez Canal for almost a week at the end of March, was fit for onward passage. Unfortunately, the ship … Continue reading &rarr;"
 categories:
   - "Current"

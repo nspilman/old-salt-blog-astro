@@ -1,7 +1,7 @@
 ---
 title: "Coast Guard Cutter Anacapa Sinks the Ryou-Un Maru, Tsunami Ghost Ship"
 date: 2012-04-06T08:27:37
-slug: coast-guard-cutter-anacapa-sinks-the-ryou-un-maru-tsunami-ghost-ship
+slug: "coast-guard-cutter-anacapa-sinks-the-ryou-un-maru-tsunami-ghost-ship"
 excerpt: "We posted recently about the discovery of the 164′ Japanese fishing vessel, Ryou-Un Maru, which had been carried out to sea from the port of Hachinohe, a year ago by the Japanese earthquake and tsunami. The ship was found drifting 120 miles off Haida Gwaii, British … Continue reading &rarr;"
 categories:
   - "Current"

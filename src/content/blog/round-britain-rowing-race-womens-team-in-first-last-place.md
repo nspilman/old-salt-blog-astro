@@ -1,7 +1,7 @@
 ---
 title: "Round Britain Rowing Race – Women’s Team in First & Last Place"
 date: 2010-06-18T09:00:05
-slug: round-britain-rowing-race-womens-team-in-first-last-place
+slug: "round-britain-rowing-race-womens-team-in-first-last-place"
 excerpt: "The Virgin GB Row 2010 is one of  strangest and most challenging rowing races in the world.    As described on the Virgin GB Row 2010 website: It’s 2,010 miles non-stop and unassisted rowing around Great Britain in some of … Continue reading &rarr;"
 categories:
   - "Current"

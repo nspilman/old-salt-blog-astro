@@ -147,6 +147,19 @@ function convertHtmlToMarkdown(html: string): string {
 }
 
 /**
+ * Escape characters for YAML double-quoted strings
+ * In YAML double-quoted strings, only backslash and double quotes need escaping
+ * Single quotes do NOT need escaping inside double quotes
+ */
+function escapeYamlString(text: string): string {
+  return text
+    .replace(/\\/g, '\\\\')     // Escape backslashes first
+    .replace(/"/g, '\\"')       // Escape straight double quotes
+    .replace(/\u201C/g, '\\"')  // Escape smart opening quotes (")
+    .replace(/\u201D/g, '\\"'); // Escape smart closing quotes (")
+}
+
+/**
  * Generate YAML frontmatter for a post
  */
 function generatePostFrontmatter(
@@ -157,13 +170,13 @@ function generatePostFrontmatter(
 
   // Title (decode HTML entities)
   const title = decodeHtmlEntities(post.title.rendered);
-  lines.push(`title: "${title.replace(/"/g, '\\"')}"`);
+  lines.push(`title: "${escapeYamlString(title)}"`);
 
   // Date
   lines.push(`date: ${post.date}`);
 
-  // Slug
-  lines.push(`slug: ${post.slug}`);
+  // Slug (quote it to handle special characters like %)
+  lines.push(`slug: "${post.slug}"`);
 
   // Excerpt (decode HTML entities, strip HTML tags)
   if (post.excerpt.rendered) {
@@ -171,7 +184,7 @@ function generatePostFrontmatter(
       post.excerpt.rendered.replace(/<[^>]*>/g, '')
     ).trim();
     if (excerpt) {
-      lines.push(`excerpt: "${excerpt.replace(/"/g, '\\"')}"`);
+      lines.push(`excerpt: "${escapeYamlString(excerpt)}"`);
     }
   }
 
@@ -183,7 +196,7 @@ function generatePostFrontmatter(
     if (categoryNames.length > 0) {
       lines.push('categories:');
       categoryNames.forEach((name) => {
-        lines.push(`  - "${name}"`);
+        lines.push(`  - "${escapeYamlString(name || '')}"`);
       });
     }
   }
@@ -196,7 +209,7 @@ function generatePostFrontmatter(
     if (tagNames.length > 0) {
       lines.push('tags:');
       tagNames.forEach((name) => {
-        lines.push(`  - "${name}"`);
+        lines.push(`  - "${escapeYamlString(name || '')}"`);
       });
     }
   }
@@ -212,13 +225,13 @@ function generatePostFrontmatter(
   // Author
   const author = lookups.users.get(post.author);
   if (author) {
-    lines.push(`author: "${author.name}"`);
+    lines.push(`author: "${escapeYamlString(author.name)}"`);
   }
 
   // Description (from Yoast SEO if available)
   if (post.yoast_head_json?.og_description) {
     const description = decodeHtmlEntities(post.yoast_head_json.og_description);
-    lines.push(`description: "${description.replace(/"/g, '\\"')}"`);
+    lines.push(`description: "${escapeYamlString(description)}"`);
   }
 
   lines.push('---');
@@ -236,13 +249,13 @@ function generatePageFrontmatter(
 
   // Title (decode HTML entities)
   const title = decodeHtmlEntities(page.title.rendered);
-  lines.push(`title: "${title.replace(/"/g, '\\"')}"`);
+  lines.push(`title: "${escapeYamlString(title)}"`);
 
   // Date
   lines.push(`date: ${page.date}`);
 
-  // Slug
-  lines.push(`slug: ${page.slug}`);
+  // Slug (quote it to handle special characters like %)
+  lines.push(`slug: "${page.slug}"`);
 
   // Featured Image (keep original WordPress URL)
   if (page.featured_media) {
@@ -255,13 +268,13 @@ function generatePageFrontmatter(
   // Author
   const author = lookups.users.get(page.author);
   if (author) {
-    lines.push(`author: "${author.name}"`);
+    lines.push(`author: "${escapeYamlString(author.name)}"`);
   }
 
   // Description (from Yoast SEO if available)
   if (page.yoast_head_json?.og_description) {
     const description = decodeHtmlEntities(page.yoast_head_json.og_description);
-    lines.push(`description: "${description.replace(/"/g, '\\"')}"`);
+    lines.push(`description: "${escapeYamlString(description)}"`);
   }
 
   lines.push('---');

@@ -1,7 +1,7 @@
 ---
 title: "Mystery Longshoremen Walkout Briefly Shuts Down N.J. & N.Y. Piers"
 date: 2016-01-30T16:51:17
-slug: mystery-longshoremen-walkout-shuts-n-j-n-y-piers
+slug: "mystery-longshoremen-walkout-shuts-n-j-n-y-piers"
 excerpt: "On Friday, more 4,000 longshoremen walked off the job shutting down piers and container terminals in New York and New Jersey. By Saturday, the most longshoreman had returned to work. Strangely, no one seems to know why the wildcat strike … Continue reading &rarr;"
 categories:
   - "Current"

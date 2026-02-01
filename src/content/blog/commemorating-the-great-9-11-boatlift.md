@@ -1,7 +1,7 @@
 ---
 title: "Commemorating the Great 9/11 Boatlift"
 date: 2021-09-05T15:51:52
-slug: commemorating-the-great-9-11-boatlift
+slug: "commemorating-the-great-9-11-boatlift"
 excerpt: "In honor of 9/11 and in commemoration of the 20th anniversary of Great Boatlift, the largest water evacuation in history, a Flotilla and Blessing of the Fleet is being organized on Friday, September 10. Passage aboard the Classic Harbor Line … Continue reading &rarr;"
 categories:
   - "Current"

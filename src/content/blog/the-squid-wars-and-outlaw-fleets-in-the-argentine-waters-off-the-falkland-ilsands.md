@@ -1,7 +1,7 @@
 ---
 title: "The Squid Wars and Outlaw Fleets in the Argentine Waters Off the Falkland Ilsands"
 date: 2013-03-30T09:11:37
-slug: the-squid-wars-and-outlaw-fleets-in-the-argentine-waters-off-the-falkland-ilsands
+slug: "the-squid-wars-and-outlaw-fleets-in-the-argentine-waters-off-the-falkland-ilsands"
 excerpt: "The ongoing dispute over the Falkland/Malvinas Islands and adjoining waters, has created an opportunity for an outlaw fleet of industrial fishing trawlers to fish, and over-fish, the rich stocks of squid in Argentine waters near the islands. Illegal fishing is estimated to be … Continue reading &rarr;"
 categories:
   - "Current"

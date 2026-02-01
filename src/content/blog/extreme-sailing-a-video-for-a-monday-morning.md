@@ -1,8 +1,8 @@
 ---
 title: "Extreme Sailing – A Video for a Monday Morning"
 date: 2011-04-18T09:46:17
-slug: extreme-sailing-a-video-for-a-monday-morning
-excerpt: "Day 3 of the Extreme Sailing Series in Qingdao, China provided more than a few thrills and spills among the eleven “eXtreme 40” catamarans engaged in what has been described as “close combat racing.” DAY 3: EXTREME! A major collision, … Continue reading &rarr;"
+slug: "extreme-sailing-a-video-for-a-monday-morning"
+excerpt: "Day 3 of the Extreme Sailing Series in Qingdao, China provided more than a few thrills and spills among the eleven \"eXtreme 40\" catamarans engaged in what has been described as \"close combat racing.\" DAY 3: EXTREME! A major collision, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Extreme Sailing Series"
   - "Qingdao"
 author: "Rick Spilman"
-description: "Day 3 of the Extreme Sailing Series in Qingdao, China provided more than a few thrills and spills among the eleven “eXtreme 40” catamarans engaged in what has been described as “close combat racing.” DAY 3: EXTREME! A major collision, … Continue reading &rarr;"
+description: "Day 3 of the Extreme Sailing Series in Qingdao, China provided more than a few thrills and spills among the eleven \"eXtreme 40\" catamarans engaged in what has been described as \"close combat racing.\" DAY 3: EXTREME! A major collision, … Continue reading &rarr;"
 ---
 
 Day 3 of the [Extreme Sailing Series in Qingdao, China](http://www.sailing.org/35798.php) provided more than a few thrills and spills among the eleven [“eXtreme 40” catamarans](http://www.extreme40.org/) engaged in what has been described as “close combat racing.”

@@ -1,7 +1,7 @@
 ---
-title: "Wreck of “Chile’s Titanic,” SS Itata,  Located"
+title: "Wreck of \"Chile’s Titanic,\" SS Itata,  Located"
 date: 2017-11-16T21:21:16
-slug: wreck-chiles-titanic-ss-itata-located
+slug: "wreck-chiles-titanic-ss-itata-located"
 excerpt: "The wreck of the Chilean steamship, SS Itata, has been located in 650 feet of water off the port of Coquimbo, in Elqui Province, in northern Chile. The ship sank in a storm on August 28, 1922 with an estimated loss of … Continue reading &rarr;"
 categories:
   - "Current"

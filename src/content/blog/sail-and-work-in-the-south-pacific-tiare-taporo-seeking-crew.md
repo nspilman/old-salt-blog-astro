@@ -1,7 +1,7 @@
 ---
 title: "Sail and Work in the South Pacific — Tiare Taporo Seeking Crew"
 date: 2018-06-14T18:22:14
-slug: sail-and-work-in-the-south-pacific-tiare-taporo-seeking-crew
+slug: "sail-and-work-in-the-south-pacific-tiare-taporo-seeking-crew"
 excerpt: "Ever dream of sailing the Pacific on an inter-island trading ship? Well, the Auxiliary-Sail Trading Vessel Tiare Taporo, based in the Cook Islands is looking for crew.  This sounds like a fascinating opportunity for the right individuals.  From a notice by Pacific … Continue reading &rarr;"
 categories:
   - "Current"

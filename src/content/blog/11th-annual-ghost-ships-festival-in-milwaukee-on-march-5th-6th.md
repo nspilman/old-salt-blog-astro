@@ -1,7 +1,7 @@
 ---
 title: "11th Annual Ghost Ships Festival in Milwaukee on March 5th & 6th"
 date: 2010-03-04T11:27:22
-slug: 11th-annual-ghost-ships-festival-in-milwaukee-on-march-5th-6th
+slug: "11th-annual-ghost-ships-festival-in-milwaukee-on-march-5th-6th"
 excerpt: "11th Annual Ghost Ships Festival 2010 The Ghost Ships Festival is Wisconsin’s largest trade show devoted to Scuba Diving and Great Lakes Maritime History. Exhibits, workshops, and presentations cover just about every aspect of Great Lakes maritime history and scuba diving. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Video for a Sunday Morning – Below Koh Tao 2012 – HD Underwater Video"
 date: 2013-01-20T09:57:41
-slug: video-for-a-sunday-morning-below-koh-tao-2012-hd-underwater-video
+slug: "video-for-a-sunday-morning-below-koh-tao-2012-hd-underwater-video"
 excerpt: "It is a cold winter’s morning here on the western shore of New York Harbor. On such a morning, it is great to just sit back and get lost in images of a crystal clear ocean teaming with sea life. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

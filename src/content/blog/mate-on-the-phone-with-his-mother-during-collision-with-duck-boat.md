@@ -1,8 +1,8 @@
 ---
 title: "Mate on the Phone With his Mother During Collision with Duck Boat"
 date: 2011-03-08T09:00:47
-slug: mate-on-the-phone-with-his-mother-during-collision-with-duck-boat
-excerpt: "Last July, there was a collision involving the tug Caribbean Sea pushing a barge and a disabled “Duck boat” DUKW 34 at anchor in the Delaware River off Philadelphia. Two of the 35 passengers on the duck boat drowned in … Continue reading &rarr;"
+slug: "mate-on-the-phone-with-his-mother-during-collision-with-duck-boat"
+excerpt: "Last July, there was a collision involving the tug Caribbean Sea pushing a barge and a disabled \"Duck boat\" DUKW 34 at anchor in the Delaware River off Philadelphia. Two of the 35 passengers on the duck boat drowned in … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "DUKW 34"
   - "Philadelphia"
 author: "Rick Spilman"
-description: "Last July, there was a collision involving the tug Caribbean Sea pushing a barge and a disabled “Duck boat” DUKW 34 at anchor in the Delaware River off Philadelphia. Two of the 35 passengers on the duck boat drowned in … Continue reading &rarr;"
+description: "Last July, there was a collision involving the tug Caribbean Sea pushing a barge and a disabled \"Duck boat\" DUKW 34 at anchor in the Delaware River off Philadelphia. Two of the 35 passengers on the duck boat drowned in … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/duck1.jpg)

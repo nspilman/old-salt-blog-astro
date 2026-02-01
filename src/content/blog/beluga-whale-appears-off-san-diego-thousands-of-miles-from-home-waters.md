@@ -1,7 +1,7 @@
 ---
 title: "Beluga Whale Appears Off San Diego, Thousands of Miles From Home Waters"
 date: 2020-06-30T12:12:14
-slug: beluga-whale-appears-off-san-diego-thousands-of-miles-from-home-waters
+slug: "beluga-whale-appears-off-san-diego-thousands-of-miles-from-home-waters"
 excerpt: "Whale watchers off San Diego were shocked to see what appeared to be a beluga whale in southern Californian waters. Video shot from a drone confirmed the sighting. Belugas typically live in the waters of the Arctic and sub-Arctic. This … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

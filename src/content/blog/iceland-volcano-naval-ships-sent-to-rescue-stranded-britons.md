@@ -1,7 +1,7 @@
 ---
 title: "Iceland volcano: Naval ships sent to rescue stranded Britons"
 date: 2010-04-19T20:33:26
-slug: iceland-volcano-naval-ships-sent-to-rescue-stranded-britons
+slug: "iceland-volcano-naval-ships-sent-to-rescue-stranded-britons"
 excerpt: "Iceland volcano: Naval ships sent to rescue stranded Britons Three Royal Navy ships are on their way to help repatriate up to 200,000 Britons stranded by five days of flight restrictions following the Icelandic volcano eruption. The aircraft carrier Ark … Continue reading &rarr;"
 categories:
   - "Current"

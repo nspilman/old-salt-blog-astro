@@ -1,7 +1,7 @@
 ---
 title: "Belfast Tall Ship’s Festival"
 date: 2015-07-12T15:40:32
-slug: belfast-tall-ships-festival
+slug: "belfast-tall-ships-festival"
 excerpt: "Belfast hosted the Tall Ships Belfast 2015 from July 2-5. It sounds like a great success. As reported by the Belfast Telegraph: The fleet of 46 sailing vessels drew record crowds to Belfast, making it one of the biggest events … Continue reading &rarr;"
 categories:
   - "Current"

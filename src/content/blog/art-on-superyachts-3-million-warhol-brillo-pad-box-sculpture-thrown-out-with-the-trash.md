@@ -1,7 +1,7 @@
 ---
-title: "Art on Superyachts — $3 Million Warhol “Brillo Pad Box” Sculpture Thrown Out With the Trash"
+title: "Art on Superyachts — $3 Million Warhol \"Brillo Pad Box\" Sculpture Thrown Out With the Trash"
 date: 2024-11-09T22:15:54
-slug: art-on-superyachts-3-million-warhol-brillo-pad-box-sculpture-thrown-out-with-the-trash
+slug: "art-on-superyachts-3-million-warhol-brillo-pad-box-sculpture-thrown-out-with-the-trash"
 excerpt: "In 1964, pop-artist Andy Warhol shocked the art world by making hundreds of replicas of supermarket cartons and presenting them as art. He painted screenprints of soup cans, then sculptures of packaging for Kellogg’s cornﬂakes and Heinz ketchup. Among the … Continue reading &rarr;"
 categories:
   - "Current"

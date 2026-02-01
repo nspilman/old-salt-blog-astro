@@ -1,7 +1,7 @@
 ---
 title: "Will US Regime’s Cuts in Science Funding Surrender Antarctica to the Russians and Chinese?"
 date: 2025-08-10T21:23:13
-slug: will-us-regimes-cuts-in-science-funding-surrender-antarctica-to-the-russians-and-chinese
+slug: "will-us-regimes-cuts-in-science-funding-surrender-antarctica-to-the-russians-and-chinese"
 excerpt: "Under one of the most successful treaties in the world, Antarctica has been a refuge for peace and science. Military activity has been prohibited, and the environment has been protected. The Antarctic Treaty, in force since 1961, promotes international collaboration … Continue reading &rarr;"
 categories:
   - "Current"

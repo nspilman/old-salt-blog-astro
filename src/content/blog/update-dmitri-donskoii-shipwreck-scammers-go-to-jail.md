@@ -1,7 +1,7 @@
 ---
 title: "Update: Dmitri Donskoii Shipwreck Scammers Go to Jail"
 date: 2019-05-06T14:07:20
-slug: update-dmitri-donskoii-shipwreck-scammers-go-to-jail
+slug: "update-dmitri-donskoii-shipwreck-scammers-go-to-jail"
 excerpt: "In July of last year, we posted about a Korean maritime salvage company which claimed to have found the wreck of the Russian armored cruiser, Dmitrii Donskoi, which sank during the 1905 Battle of Tsushima. They also claimed that the wreck … Continue reading &rarr;"
 categories:
   - "Current"

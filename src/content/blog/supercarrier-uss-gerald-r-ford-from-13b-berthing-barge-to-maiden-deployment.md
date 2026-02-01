@@ -1,7 +1,7 @@
 ---
 title: "Supercarrier USS Gerald R. Ford — From $13B Berthing Barge to Maiden Deployment"
 date: 2022-10-03T18:04:19
-slug: supercarrier-uss-gerald-r-ford-from-13b-berthing-barge-to-maiden-deployment
+slug: "supercarrier-uss-gerald-r-ford-from-13b-berthing-barge-to-maiden-deployment"
 excerpt: "The USS Gerald R. Ford, the first of the US Navy’s newest generation of aircraft carriers and the largest and most expensive warship ever built, is ready to begin her maiden deployment after years of delay and cost overruns. The … Continue reading &rarr;"
 categories:
   - "Current"

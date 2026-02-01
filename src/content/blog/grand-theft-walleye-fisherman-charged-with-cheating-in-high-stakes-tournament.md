@@ -1,7 +1,7 @@
 ---
 title: "Grand Theft Walleye — Fisherman Charged With Cheating in High Stakes Tournament"
 date: 2022-10-13T17:28:41
-slug: grand-theft-walleye-fisherman-charged-with-cheating-in-high-stakes-tournament
+slug: "grand-theft-walleye-fisherman-charged-with-cheating-in-high-stakes-tournament"
 excerpt: "On Sept. 30, two fishermen, Jacob Runyan, 42, of Ashtabula, Ohio, and Chase Cominsky, 35, of Hermitage, Pa., participated in the Lake Erie Walleye Trail tournament in Cleveland. The stakes were high. If the fish landed by the pair weighed … Continue reading &rarr;"
 categories:
   - "Current"

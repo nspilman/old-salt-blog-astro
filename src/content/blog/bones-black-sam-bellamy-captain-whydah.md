@@ -1,7 +1,7 @@
 ---
 title: "The Bones of Black Sam Bellamy — Captain of the Whydah?"
 date: 2018-02-09T16:53:57
-slug: bones-black-sam-bellamy-captain-whydah
+slug: "bones-black-sam-bellamy-captain-whydah"
 excerpt: "The Whydah Pirate Museum announced this week, that last year human bones were found near the wreck of the pirate ship Whydah  on Cape Cod, Massachusetts.  The bones were located in an area close to where a pistol, which possibly belonged to … Continue reading &rarr;"
 categories:
   - "Current"

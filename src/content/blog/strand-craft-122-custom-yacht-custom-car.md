@@ -1,7 +1,7 @@
 ---
 title: "STRAND CRAFT 122 – Custom Yacht & Custom Car"
 date: 2010-06-12T14:15:18
-slug: strand-craft-122-custom-yacht-custom-car
+slug: "strand-craft-122-custom-yacht-custom-car"
 excerpt: "It is such a relief that we never really have to worry about the very wealthy among us running out of places to spend their money.   Here may be but the latests example of where those with more money than sense can drop … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Jet Pack Demonstration in New York Harbor From Royal Navy Flagship HMS Queen Elizabeth"
 date: 2022-10-14T16:21:00
-slug: jet-pack-demonstration-in-new-york-harbor-from-royal-navy-flagship-hms-queen-elizabeth
+slug: "jet-pack-demonstration-in-new-york-harbor-from-royal-navy-flagship-hms-queen-elizabeth"
 excerpt: "During her recent visit to New York to host a two-day Anglo-American defense conference, the Royal Navy flagship HMS Queen Elizabeth was used in a training demonstration in the harbor using jet packs. The BBC reports that the Sussex-based jet … Continue reading &rarr;"
 categories:
   - "Current"

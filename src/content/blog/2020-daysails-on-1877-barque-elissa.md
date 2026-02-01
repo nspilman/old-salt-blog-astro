@@ -1,7 +1,7 @@
 ---
 title: "2020 Daysails on 1877 Barque Elissa"
 date: 2019-12-21T13:57:17
-slug: 2020-daysails-on-1877-barque-elissa
+slug: "2020-daysails-on-1877-barque-elissa"
 excerpt: "The Galveston Historical Foundation has announced its yearly daysails on the 1877 Barque Elissa. The day sails will be on April 3rd, 4th, and 5th. From the announcement: Join us for a one of a kind outdoor adventure aboard the … Continue reading &rarr;"
 categories:
   - "Current"

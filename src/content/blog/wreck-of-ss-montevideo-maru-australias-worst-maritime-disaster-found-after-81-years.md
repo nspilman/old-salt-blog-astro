@@ -1,7 +1,7 @@
 ---
 title: "Wreck of SS Montevideo Maru, Australia’s Worst Maritime Disaster, Found After 81 Years"
 date: 2023-04-22T20:02:49
-slug: wreck-of-ss-montevideo-maru-australias-worst-maritime-disaster-found-after-81-years
+slug: "wreck-of-ss-montevideo-maru-australias-worst-maritime-disaster-found-after-81-years"
 excerpt: "On July 1, 1942, the submarine USS Sturgeon was on its fifth war patrol in the South China Sea off the northwest coast of the Philippines’ Luzon Island, when it sighted a Japanese troop transport, SS Montevideo Maru.  The submarine … Continue reading &rarr;"
 categories:
   - "Current"

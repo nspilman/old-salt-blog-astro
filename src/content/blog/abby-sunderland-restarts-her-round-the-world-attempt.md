@@ -1,7 +1,7 @@
 ---
 title: "Abby Sunderland Restarts her Round the World Attempt"
 date: 2010-02-02T06:44:30
-slug: abby-sunderland-restarts-her-round-the-world-attempt
+slug: "abby-sunderland-restarts-her-round-the-world-attempt"
 excerpt: "Abby Sunderland is putting into Cabo San Lucas, Mexico, interrupting her round the world attempt,  because of a power problem aboard her yacht, Wild Eyes. The yacht’s solar panels and wind generators were not providing enough power and the yacht … Continue reading &rarr;"
 categories:
   - "Current"

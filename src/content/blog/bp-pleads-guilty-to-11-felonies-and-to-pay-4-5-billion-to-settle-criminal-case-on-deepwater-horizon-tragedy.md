@@ -1,7 +1,7 @@
 ---
 title: "BP Pleads Guilty to 11 Felonies and Agrees to Pay $4.5 Billion to Settle Criminal Case on Deepwater Horizon Tragedy"
 date: 2012-11-15T15:47:32
-slug: bp-pleads-guilty-to-11-felonies-and-to-pay-4-5-billion-to-settle-criminal-case-on-deepwater-horizon-tragedy
+slug: "bp-pleads-guilty-to-11-felonies-and-to-pay-4-5-billion-to-settle-criminal-case-on-deepwater-horizon-tragedy"
 excerpt: "On April 20, 2010, the Deepwater Horizon drilling rig exploded and sank in the Gulf of Mexico, killing 11 platform workers and resulting in the largest accidental marine oil spill in the history of the petroleum industry. Today BP, the … Continue reading &rarr;"
 categories:
   - "Current"

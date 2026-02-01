@@ -1,7 +1,7 @@
 ---
 title: "11 Million New Oysters in New York Harbor & the Sewage Bomb"
 date: 2021-12-12T18:27:35
-slug: 11-million-new-oysters-in-new-york-harbor-the-sewage-bomb
+slug: "11-million-new-oysters-in-new-york-harbor-the-sewage-bomb"
 excerpt: "The good news, as reported by the New York Times, is that 11.2 million juvenile oysters have been added in the past six months to a section of the Hudson River off the coast of Lower Manhattan, where they are … Continue reading &rarr;"
 categories:
   - "Current"

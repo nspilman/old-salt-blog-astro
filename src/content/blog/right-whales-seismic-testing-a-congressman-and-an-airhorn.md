@@ -1,7 +1,7 @@
 ---
 title: "Right Whales, Seismic Testing, & a Congressman and an Air Horn"
 date: 2019-03-09T17:04:29
-slug: right-whales-seismic-testing-a-congressman-and-an-airhorn
+slug: "right-whales-seismic-testing-a-congressman-and-an-airhorn"
 excerpt: "Recently, an official with the Trump administration testified repeatedly at a hearing of the House Natural Resources subcommittee that the firing of commercial air guns under water every 10 seconds over a period of months in search of oil and … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Thieves Steal Lord Nelson’s Personal Items from Norwich Castle"
 date: 2012-03-05T21:39:59
-slug: thieves-steal-lord-nelsons-personal-items-from-norwich-castle
+slug: "thieves-steal-lord-nelsons-personal-items-from-norwich-castle"
 excerpt: "Personal items owned by Lord Nelson, valued at £37,800, were stolen from a display case at Norwich Castle in a daylight robbery. Plundered! £37,800 worth of Lord Nelson’s personal artefacts stolen from Norwich Castle The items stolen, which have been … Continue reading &rarr;"
 categories:
   - "Current"

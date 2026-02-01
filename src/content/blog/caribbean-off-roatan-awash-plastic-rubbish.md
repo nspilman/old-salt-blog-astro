@@ -1,7 +1,7 @@
 ---
 title: "Caribbean off Roatán Awash in Plastic and Rubbish"
 date: 2017-11-08T20:53:02
-slug: caribbean-off-roatan-awash-plastic-rubbish
+slug: "caribbean-off-roatan-awash-plastic-rubbish"
 excerpt: "I was recently shocked and disturbed to see photos of a significant quantity of floating plastics and trash in the Caribbean near the Honduran Island of Roatán. Roatán is the largest of the Bay Islands of Honduras.  It is a beautiful island with incredible diving. My … Continue reading &rarr;"
 categories:
   - "Current"

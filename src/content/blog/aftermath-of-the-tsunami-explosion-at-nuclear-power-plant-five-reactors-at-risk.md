@@ -1,7 +1,7 @@
 ---
 title: "Aftermath of the Tsunami – Explosion at Nuclear Power Plant, Five Reactors at Risk"
 date: 2011-03-12T09:21:19
-slug: aftermath-of-the-tsunami-explosion-at-nuclear-power-plant-five-reactors-at-risk
+slug: "aftermath-of-the-tsunami-explosion-at-nuclear-power-plant-five-reactors-at-risk"
 excerpt: "Friday’s 8.9 magnitude earthquake and 10-meter high tsunami on the  coast of northeast Japan devastated cities and villages, killing as many as 1,300.   It also significantly damaged at least five nuclear reactors at two power plants. Yesterday afternoon, a massive explosion … Continue reading &rarr;"
 categories:
   - "Current"

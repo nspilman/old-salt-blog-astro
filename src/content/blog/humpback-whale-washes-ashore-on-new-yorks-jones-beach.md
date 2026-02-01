@@ -1,7 +1,7 @@
 ---
 title: "Humpback Whale Washes Ashore on New York’s Jones Beach"
 date: 2010-06-11T09:24:28
-slug: humpback-whale-washes-ashore-on-new-yorks-jones-beach
+slug: "humpback-whale-washes-ashore-on-new-yorks-jones-beach"
 excerpt: "A 25 foot long baby humpback whale washed ashore on Jones Beach, on Long Island, New York yesterday morning.  There were no immediate signs of injury.  A necropsy will be performed today to determine what killed the whale.  In April, another … Continue reading &rarr;"
 categories:
   - "Current"

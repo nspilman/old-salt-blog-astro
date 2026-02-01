@@ -1,7 +1,7 @@
 ---
-title: "“North Into the Mist” — A Hovercraft on the Arctic Ice"
+title: "\"North Into the Mist\" — A Hovercraft on the Arctic Ice"
 date: 2017-02-22T14:13:32
-slug: north-mist-hovercraft-arctic-ice
+slug: "north-mist-hovercraft-arctic-ice"
 excerpt: "Between 1893 and 1896, the Norwegian explorer Fridtjof Nansen allowed his ship Fram to freeze into the Arctic icepack and attempted to drift with the ice across the North Pole. He came close but ultimately failed in the attempt. Recently, … Continue reading &rarr;"
 categories:
   - "Current"

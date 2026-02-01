@@ -1,14 +1,14 @@
 ---
 title: "Joseph Conrad, the Tusitala, the Three Hours for Lunch Club and James Farrell"
 date: 2011-05-18T17:05:36
-slug: joseph-conrad-the-tusitala-the-three-hours-for-lunch-club-and-james-farrell
-excerpt: "On May 25th, in addition to other items in their collection, the Seaman’s Church Institute is auctioning off a letter written by Joseph Conrad in 1923 to the “owners and ship’s company of the Tusitala, ” in which he sends … Continue reading &rarr;"
+slug: "joseph-conrad-the-tusitala-the-three-hours-for-lunch-club-and-james-farrell"
+excerpt: "On May 25th, in addition to other items in their collection, the Seaman’s Church Institute is auctioning off a letter written by Joseph Conrad in 1923 to the \"owners and ship’s company of the Tusitala, \" in which he sends … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
 author: "Rick Spilman"
-description: "On May 25th, in addition to other items in their collection, the Seaman’s Church Institute is auctioning off a letter written by Joseph Conrad in 1923 to the “owners and ship’s company of the Tusitala, ” in which he sends … Continue reading &rarr;"
+description: "On May 25th, in addition to other items in their collection, the Seaman’s Church Institute is auctioning off a letter written by Joseph Conrad in 1923 to the \"owners and ship’s company of the Tusitala, \" in which he sends … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/tusitala.jpg)

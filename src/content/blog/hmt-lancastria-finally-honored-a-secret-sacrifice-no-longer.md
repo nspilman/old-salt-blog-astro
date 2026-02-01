@@ -1,7 +1,7 @@
 ---
-title: "HMT Lancastria – A “Secret Sacrifice” No Longer"
+title: "HMT Lancastria – A \"Secret Sacrifice\" No Longer"
 date: 2015-06-17T14:32:45
-slug: hmt-lancastria-finally-honored-a-secret-sacrifice-no-longer
+slug: "hmt-lancastria-finally-honored-a-secret-sacrifice-no-longer"
 excerpt: "The tragic loss of an estimated 6,500 men, women and children on the Lancastria was covered up for more than seventy years. It was the greatest loss of life in the sinking of a single British ship, claiming more lives than … Continue reading &rarr;"
 categories:
   - "History"

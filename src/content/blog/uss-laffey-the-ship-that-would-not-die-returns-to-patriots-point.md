@@ -1,7 +1,7 @@
 ---
 title: "USS Laffey, the Ship That Would Not Die, Returns to Patriot’s Point"
 date: 2012-01-27T09:26:42
-slug: uss-laffey-the-ship-that-would-not-die-returns-to-patriots-point
+slug: "uss-laffey-the-ship-that-would-not-die-returns-to-patriots-point"
 excerpt: "The World War II destroyer, USS Laffey, has returned home to Patriots Point Naval and Maritime Museum, near Charleston, South Carolina after a two year $9 million dollar shipyard period to repair her hull plating. The USS Laffey was commissioned … Continue reading &rarr;"
 categories:
   - "Current"

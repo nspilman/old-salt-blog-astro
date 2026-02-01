@@ -1,7 +1,7 @@
 ---
 title: "New High Tech Zumwalt-Class Destroyer — Is it Seaworthy?"
 date: 2015-12-01T17:00:53
-slug: new-high-tech-zumawalt-class-destroyer-is-it-seaworthy
+slug: "new-high-tech-zumawalt-class-destroyer-is-it-seaworthy"
 excerpt: "The new $7.5 billion DDG-1000 destroyer, USS Zumwalt, expected to be delivered by Bath Iron Works sometime in 2016, is incredibly high tech and innovative. It features advanced weapons and propulsion systems as well as an inward sloping hull with a ram bow … Continue reading &rarr;"
 categories:
   - "Current"

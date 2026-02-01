@@ -1,7 +1,7 @@
 ---
 title: "Bad News and Slightly Less Bad News about Somali Piracy"
 date: 2010-03-13T07:44:33
-slug: bad-news-and-slightly-less-bad-news-about-somali-piracy
+slug: "bad-news-and-slightly-less-bad-news-about-somali-piracy"
 excerpt: "The monsoons have ended which means that it is pirate season again off the coast of Somalia and in the Gulf of Aden.  The bad news is that it is now estimated that piracy off  Somalia is costing the international … Continue reading &rarr;"
 categories:
   - "Current"

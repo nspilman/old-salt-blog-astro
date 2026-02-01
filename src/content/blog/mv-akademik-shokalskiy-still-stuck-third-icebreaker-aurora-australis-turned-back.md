@@ -1,7 +1,7 @@
 ---
 title: "MV Akademik Shokalskiy Still Stuck — Third Icebreaker, Aurora Australis, Turns Back"
 date: 2013-12-30T12:53:44
-slug: mv-akademik-shokalskiy-still-stuck-third-icebreaker-aurora-australis-turned-back
+slug: "mv-akademik-shokalskiy-still-stuck-third-icebreaker-aurora-australis-turned-back"
 excerpt: "We posted recently about the Chinese icebreaker,  Xue Long, or Snow Dragon, which came within about 6 miles of the expedition cruise ship, MV Akademik Shokalskiy, before being forced to turn back. MV Akademik Shokalskiy has been trapped in pack ice off Antarctica south … Continue reading &rarr;"
 categories:
   - "Current"

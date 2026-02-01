@@ -1,7 +1,7 @@
 ---
 title: "Ancient Seafarers & Crete, What Again?"
 date: 2011-01-03T21:30:49
-slug: ancients-seafarers-crete-what-again
+slug: "ancients-seafarers-crete-what-again"
 excerpt: "An interesting if odd news item today: Cretan Tools Point To 130,000-Year-Old Sea Travel Archaeologists on the island of Crete have discovered what may be evidence of one of the world’s first sea voyages by human ancestors, the Greek Culture … Continue reading &rarr;"
 categories:
   - "History"

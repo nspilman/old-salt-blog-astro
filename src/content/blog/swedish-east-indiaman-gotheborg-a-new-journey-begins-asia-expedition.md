@@ -1,7 +1,7 @@
 ---
 title: "Swedish East Indiaman Götheborg : A New Journey Begins – Asia Expedition"
 date: 2021-10-10T09:45:00
-slug: swedish-east-indiaman-gotheborg-a-new-journey-begins-asia-expedition
+slug: "swedish-east-indiaman-gotheborg-a-new-journey-begins-asia-expedition"
 excerpt: "As we posted in September, the replica Swedish East Indiaman Götheborg is preparing to sail for Asia in April of 2022. The expedition is intended to promote and open new trade opportunities for Swedish and Asian companies. The nearly 60-meter … Continue reading &rarr;"
 categories:
   - "Current"

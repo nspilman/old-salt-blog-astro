@@ -1,7 +1,7 @@
 ---
 title: "Pod of Dolphins Lead a Lost Humpback Whale Mother and Calf to Safety"
 date: 2023-11-06T17:02:27
-slug: pod-of-dolphins-lead-a-lost-humpback-whale-mother-and-calf-to-safety
+slug: "pod-of-dolphins-lead-a-lost-humpback-whale-mother-and-calf-to-safety"
 excerpt: "A wonderful story from Robyn White writing for Newsweek.  A pod of dolphins led a whale and her calf back to their migration route after they became lost and distressed, a heartwarming video shows. The albino mother humpback whale was … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Collision in the North-East Passage – Two Arctic Tankers Collide"
 date: 2010-07-20T09:46:57
-slug: collision-in-the-north-east-passage-two-arctic-tankers-collide
+slug: "collision-in-the-north-east-passage-two-arctic-tankers-collide"
 excerpt: "With the onset of limited trans-arctic navigation environmentalists have voiced concern about the potential for pollution due to increased ship traffic.   The recent collision  between two arctic tankers, the Indiga and Varzuga, on the Russian Northern Sea route, demonstrates the basis for these concerns. … Continue reading &rarr;"
 categories:
   - "Current"

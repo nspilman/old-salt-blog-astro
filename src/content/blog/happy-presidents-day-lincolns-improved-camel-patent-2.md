@@ -1,8 +1,8 @@
 ---
 title: "Happy Presidents’ Day – Lincoln’s Improved Camel Patent"
 date: 2021-02-15T10:04:48
-slug: happy-presidents-day-lincolns-improved-camel-patent-2
-excerpt: "In the United States, today is “Presidents’ Day,”  a national holiday on the third Monday of February, falling between Lincoln’s (February 12th) and Washington’s (February 22) birthdays.  Here is an updated repost of the tale of a patent granted to … Continue reading &rarr;"
+slug: "happy-presidents-day-lincolns-improved-camel-patent-2"
+excerpt: "In the United States, today is \"Presidents’ Day,\"  a national holiday on the third Monday of February, falling between Lincoln’s (February 12th) and Washington’s (February 22) birthdays.  Here is an updated repost of the tale of a patent granted to … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "whaling ship"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/nantucketcamel2.jpg"
 author: "Rick Spilman"
-description: "In the United States, today is “Presidents’ Day,”  a national holiday on the third Monday of February, falling between Lincoln’s (February 12th) and Washington’s (February 22) birthdays.  Here is an updated repost of the tale of a patent granted to … Continue reading &rarr;"
+description: "In the United States, today is \"Presidents’ Day,\"  a national holiday on the third Monday of February, falling between Lincoln’s (February 12th) and Washington’s (February 22) birthdays.  Here is an updated repost of the tale of a patent granted to … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/nantucketcamel2.jpg)

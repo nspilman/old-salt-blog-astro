@@ -1,7 +1,7 @@
 ---
 title: "A Monday Morning Sea Story — Woman Falls off Sailboat, Husband Doesn’t Notice"
 date: 2018-08-20T09:57:50
-slug: a-monday-morning-sea-story-woman-falls-off-sailboat-husband-doesnt-notice
+slug: "a-monday-morning-sea-story-woman-falls-off-sailboat-husband-doesnt-notice"
 excerpt: "Hope your Monday is going well. If not, you are still probably having a better time than one sailing couple had in Narragansett Bay last Friday and Saturday. A husband and wife were sailing their 38-foot sailboat Alegria from Newport, RI to … Continue reading &rarr;"
 categories:
   - "Current"

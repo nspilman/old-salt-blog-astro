@@ -1,8 +1,8 @@
 ---
 title: "Did a 100,000 Year Old Iceberg Sink the Titanic? Or Perhaps a 4 Year Old Iceberg?"
 date: 2016-03-12T09:33:12
-slug: 100000-year-old-iceberg-sink-titanic-maybe-4-years-old
-excerpt: "The headlines are great. “Iceberg that Sank the Titanic 100,000 years old” and “Titanic iceberg was a 100,000-year-old giant” and “Iceberg that sank the Titanic was 100,000-years-old and of monstrous size” and so and so on. Dozens of headlines and … Continue reading &rarr;"
+slug: "100000-year-old-iceberg-sink-titanic-maybe-4-years-old"
+excerpt: "The headlines are great. \"Iceberg that Sank the Titanic 100,000 years old\" and \"Titanic iceberg was a 100,000-year-old giant\" and \"Iceberg that sank the Titanic was 100,000-years-old and of monstrous size\" and so and so on. Dozens of headlines and … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -12,7 +12,7 @@ tags:
   - "iceberg"
   - "Titanic"
 author: "Rick Spilman"
-description: "The headlines are great. “Iceberg that Sank the Titanic 100,000 years old” and “Titanic iceberg was a 100,000-year-old giant” and “Iceberg that sank the Titanic was 100,000-years-old and of monstrous size” and so and so on. Dozens of headlines and … Continue reading &rarr;"
+description: "The headlines are great. \"Iceberg that Sank the Titanic 100,000 years old\" and \"Titanic iceberg was a 100,000-year-old giant\" and \"Iceberg that sank the Titanic was 100,000-years-old and of monstrous size\" and so and so on. Dozens of headlines and … Continue reading &rarr;"
 ---
 
 ![Tberg](http://www.oldsaltblog.com/wp-content/uploads/2016/03/Tberg.jpg)The headlines are great. “[Iceberg that Sank the Titanic 100,000 years old](http://www.techtimes.com/articles/139051/20160307/iceberg-that-sank-titanic-was-100-000-year-old.htm)” and “[Titanic iceberg was a 100,000-year-old giant](http://www.thesundaytimes.co.uk/sto/news/uk_news/Science/article1675467.ece)” and “[Iceberg that sank the Titanic was 100,000-years-old and of monstrous size”](http://www.ibtimes.co.uk/iceberg-that-sank-titanic-was-100000-years-old-monstrous-size-1547844) and so and so on. Dozens of headlines and all are variations on the same theme. It must be true because so many news outlets are repeating it!  Or maybe not.

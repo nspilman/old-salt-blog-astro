@@ -1,7 +1,7 @@
 ---
 title: "Passengers Airlifted from Icebound MV Akademik Shokalskiy"
 date: 2014-01-02T09:07:46
-slug: passengers-airlifted-from-icebound-mv-akademik-shokalskiy
+slug: "passengers-airlifted-from-icebound-mv-akademik-shokalskiy"
 excerpt: "All 52 passengers have been airlifted from the MV Akademik Shokalskiy by a helicopter from the Chinese Icebreaker Xue Long or Snow Dragon.  The passengers were ferried to the Australian ice breaker Aurora Australis.  Both icebreakers had attempted, but failed, to break through the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Help Keep Hawaiian Chieftain Afloat"
 date: 2015-04-09T17:01:00
-slug: help-keep-hawaiian-chieftain-afloat
+slug: "help-keep-hawaiian-chieftain-afloat"
 excerpt: "Grays Harbor Historical Seaport Authority of Washington State, owns and operates two tall ships, Lady Washington and Hawaiian Chieftain. In the past five years they have introduced over 42,000 school children to tall ship sailing and program up and down the entire … Continue reading &rarr;"
 categories:
   - "Current"

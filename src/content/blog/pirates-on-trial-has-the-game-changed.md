@@ -1,7 +1,7 @@
 ---
 title: "Pirates on Trial – Has the Game Changed?"
 date: 2011-03-14T07:50:41
-slug: pirates-on-trial-has-the-game-changed
+slug: "pirates-on-trial-has-the-game-changed"
 excerpt: "The battle against piracy in the Indian Ocean and Arabian Sea may be changing.   This week Japan announced that  it would try four suspected pirates being held by the US Navy after they were captured attempting to hijack the Japanese owned tanker MV … Continue reading &rarr;"
 categories:
   - "Current"

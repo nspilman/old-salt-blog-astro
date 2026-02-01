@@ -1,7 +1,7 @@
 ---
 title: "Australian Rides Dead Humpback Whale"
 date: 2014-11-15T09:09:57
-slug: australian-rides-dead-humpback-whale
+slug: "australian-rides-dead-humpback-whale"
 excerpt: "Let’s hope this sort of stupidity doesn’t become popular. Recently, 26-year old Australian, Harrison Williams, thought that it would be a good idea to jump onto the back of a dead and decomposing humpback whale, drifting in the ocean off … Continue reading &rarr;"
 categories:
   - "Current"

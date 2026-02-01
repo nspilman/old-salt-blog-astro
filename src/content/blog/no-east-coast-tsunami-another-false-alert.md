@@ -1,8 +1,8 @@
 ---
 title: "No East Coast Tsunami — Another False Alert"
 date: 2018-02-06T14:03:54
-slug: no-east-coast-tsunami-another-false-alert
-excerpt: "This morning around 8:32 a.m. an alert went out over an AccuWeather app to cell phones from the Gulf Coast to Maine — “Severe Weather Alert: Tsunami Warning … in Effect Until 9:48 AM ET. ”  Fortunately, no massive wave was … Continue reading &rarr;"
+slug: "no-east-coast-tsunami-another-false-alert"
+excerpt: "This morning around 8:32 a.m. an alert went out over an AccuWeather app to cell phones from the Gulf Coast to Maine — \"Severe Weather Alert: Tsunami Warning … in Effect Until 9:48 AM ET. \"  Fortunately, no massive wave was … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "tsunami test"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/02/eastcoasttsunami.jpg"
 author: "Rick Spilman"
-description: "This morning around 8:32 a.m. an alert went out over an AccuWeather app to cell phones from the Gulf Coast to Maine — “Severe Weather Alert: Tsunami Warning … in Effect Until 9:48 AM ET. ”  Fortunately, no massive wave was … Continue reading &rarr;"
+description: "This morning around 8:32 a.m. an alert went out over an AccuWeather app to cell phones from the Gulf Coast to Maine — \"Severe Weather Alert: Tsunami Warning … in Effect Until 9:48 AM ET. \"  Fortunately, no massive wave was … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/eastcoasttsunami.jpg)This morning around 8:32 a.m. an alert went out over an AccuWeather app to cell phones from the Gulf Coast to Maine — “Severe Weather Alert: Tsunami Warning … in Effect Until 9:48 AM ET. ”  Fortunately, no massive wave was inbound for the East Coast.  

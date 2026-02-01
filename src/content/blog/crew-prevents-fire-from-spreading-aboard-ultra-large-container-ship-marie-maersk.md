@@ -1,7 +1,7 @@
 ---
 title: "Crew Prevents Fire From Spreading Aboard Ultra Large Container Ship Marie Maersk"
 date: 2025-08-18T17:30:10
-slug: crew-prevents-fire-from-spreading-aboard-ultra-large-container-ship-marie-maersk
+slug: "crew-prevents-fire-from-spreading-aboard-ultra-large-container-ship-marie-maersk"
 excerpt: "On the morning of Wednesday, August 13, a serious fire broke out on board AP Moller-Maersk’s ultra-large container ship Marie Maersk while sailing off the coast of Liberia. It was reported that the crew initially observed smoke from containers on … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Russian Navy Corvette Collides with Refrigerated Ship in Fog Near Entrance to Baltic Sea"
 date: 2020-09-23T16:43:10
-slug: russian-navy-corvette-collides-with-refrigerated-ship-in-fog-near-entrance-to-baltic-sea
+slug: "russian-navy-corvette-collides-with-refrigerated-ship-in-fog-near-entrance-to-baltic-sea"
 excerpt: "The Danish Ministry of Defense has confirmed that the Russian Navy corvette, Kazanets, collided with the refrigerated cargo vessel, Ice Rose, in dense fog, near the Øresund Bridge, which spans the entrance to the Baltic.   The Russian ship, a Parchim-class … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

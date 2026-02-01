@@ -1,8 +1,8 @@
 ---
 title: "Chasing Icebergs in Iceberg Alley"
 date: 2023-08-03T21:10:12
-slug: chasing-icebergs-in-iceberg-alley
-excerpt: "Every year, in “Iceberg Alley“, a stretch of water curving along the eastern coast of Newfoundland and Labrador, hundreds of icebergs drift by. Recently, one such iceberg was caught on video and posted on X (ex-Twitter) where it quickly went … Continue reading &rarr;"
+slug: "chasing-icebergs-in-iceberg-alley"
+excerpt: "Every year, in \"Iceberg Alley\", a stretch of water curving along the eastern coast of Newfoundland and Labrador, hundreds of icebergs drift by. Recently, one such iceberg was caught on video and posted on X (ex-Twitter) where it quickly went … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Newfoundland"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/08/icebergalley.jpg"
 author: "Rick Spilman"
-description: "Every year, in “Iceberg Alley“, a stretch of water curving along the eastern coast of Newfoundland and Labrador, hundreds of icebergs drift by. Recently, one such iceberg was caught on video and posted on X (ex-Twitter) where it quickly went … Continue reading &rarr;"
+description: "Every year, in \"Iceberg Alley\", a stretch of water curving along the eastern coast of Newfoundland and Labrador, hundreds of icebergs drift by. Recently, one such iceberg was caught on video and posted on X (ex-Twitter) where it quickly went … Continue reading &rarr;"
 ---
 
 Every year, in “[Iceberg Alley](https://www.nationalgeographic.com/travel/article/newfoundland-coast-iceberg-alley)“, a stretch of water curving along the eastern coast of Newfoundland and Labrador, hundreds of icebergs drift by.

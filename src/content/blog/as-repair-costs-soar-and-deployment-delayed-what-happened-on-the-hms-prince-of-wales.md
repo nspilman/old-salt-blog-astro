@@ -1,7 +1,7 @@
 ---
 title: "As Repair Costs Soar and Deployment Delayed, What Happened on the HMS Prince of Wales?"
 date: 2023-03-24T17:12:13
-slug: as-repair-costs-soar-and-deployment-delayed-what-happened-on-the-hms-prince-of-wales
+slug: "as-repair-costs-soar-and-deployment-delayed-what-happened-on-the-hms-prince-of-wales"
 excerpt: "Late in August 2022, the Royal Navy’s newest aircraft carrier, HMS Prince of Wales, sailed from Portsmouth, UK bound for training exercises in the United States. She didn’t get very far. Two days after departing, the carrier broke down off … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Bulk Carrier Cape Apricot Takes Out Largest Berth at North America’s Largest Coal Exporter"
 date: 2012-12-09T22:09:09
-slug: bulk-carrier-cape-apricot-takes-out-largest-berth-at-north-americas-largest-coal-exporter
+slug: "bulk-carrier-cape-apricot-takes-out-largest-berth-at-north-americas-largest-coal-exporter"
 excerpt: "At around 1 AM on Friday morning, the Cape Apricot, a cape-sized bulk carrier, chartered to K Line, smashed through a coal conveyor serving the largest of two berths at Westshore Terminals in Vancouver, Canada.  An undetermined amount of coal … Continue reading &rarr;"
 categories:
   - "Current"

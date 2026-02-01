@@ -1,8 +1,8 @@
 ---
 title: "Cameron Diving to the Bottom of the Mariana Trench"
 date: 2012-03-09T16:20:23
-slug: cameron-diving-to-the-bottom-of-the-mariana-trench
-excerpt: "We posted recently about the “race” to dive to the deepest spot in the ocean, the Challenger Deep in the Mariana Trench, almost 36,000 feet below the surface.  The first and last time that anyone ever ventured to the bottom of the … Continue reading &rarr;"
+slug: "cameron-diving-to-the-bottom-of-the-mariana-trench"
+excerpt: "We posted recently about the \"race\" to dive to the deepest spot in the ocean, the Challenger Deep in the Mariana Trench, almost 36,000 feet below the surface.  The first and last time that anyone ever ventured to the bottom of the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "James Cameron"
   - "Mariana Trench"
 author: "Rick Spilman"
-description: "We posted recently about the “race” to dive to the deepest spot in the ocean, the Challenger Deep in the Mariana Trench, almost 36,000 feet below the surface.  The first and last time that anyone ever ventured to the bottom of the … Continue reading &rarr;"
+description: "We posted recently about the \"race\" to dive to the deepest spot in the ocean, the Challenger Deep in the Mariana Trench, almost 36,000 feet below the surface.  The first and last time that anyone ever ventured to the bottom of the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/cameron.jpg)We [posted recently about the “race” to dive to the deepest spot in the ocean](http://www.oldsaltblog.com/2012/02/24/return-to-the-mariana-trench-teams-racing-to-dive-6-miles-down/), the Challenger Deep in the [Mariana Trench](http://en.wikipedia.org/wiki/Mariana_Trench), almost 36,000 feet below the surface.  The first and last time that anyone ever ventured to the bottom of the trench was over fifty years ago. We posted, “Now three and possibly four teams are preparing to return to the depths of the Mariana Trench….  Hollywood director James Cameron is … understood to be preparing for a descent.”

@@ -1,7 +1,7 @@
 ---
 title: "A Busy October at the Penobscot Marine Museum"
 date: 2010-10-05T08:01:10
-slug: a-busy-october-at-the-penobscot-marine-museum
+slug: "a-busy-october-at-the-penobscot-marine-museum"
 excerpt: "The Penobscot Marine Museum, Maine’s oldest maritime museum, is having a busy October, full of events and exhibitions.  This Friday and Saturday,  October 8th and 9th, the museum offers a range of free events as part as part of  Searsport’s annual Fling … Continue reading &rarr;"
 categories:
   - "Current"

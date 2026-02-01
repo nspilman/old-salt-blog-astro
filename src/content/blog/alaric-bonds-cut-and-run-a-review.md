@@ -1,7 +1,7 @@
 ---
 title: "Alaric Bond’s Cut and Run – A Review"
 date: 2011-07-12T14:18:52
-slug: alaric-bonds-cut-and-run-a-review
+slug: "alaric-bonds-cut-and-run-a-review"
 excerpt: "Alaric Bond’s wonderful new book, Cut and Run, the fourth in his Fighting Sail series, steps away from the Royal Navy and takes us onto the decks of a merchantman – a ship of the Honorable East India Company. The ships of … Continue reading &rarr;"
 categories:
   - "Newbooks"

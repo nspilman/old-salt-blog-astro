@@ -1,7 +1,7 @@
 ---
 title: "Russian Naval Blockade of Ukraine Called Attack on Global Food Supply"
 date: 2022-05-25T18:04:35
-slug: russian-naval-blockade-of-ukraine-called-attack-on-global-food-supply
+slug: "russian-naval-blockade-of-ukraine-called-attack-on-global-food-supply"
 excerpt: "As the Russian invasion of Ukraine grinds to a bloody stalemate, the Russian navy is effectively blockading the northern Black Sea, cutting off maritime trade at Ukrainian ports, in what world leaders call a deliberate attack on the global food … Continue reading &rarr;"
 categories:
   - "Current"

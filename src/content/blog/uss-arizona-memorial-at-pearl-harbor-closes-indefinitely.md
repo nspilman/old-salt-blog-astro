@@ -1,7 +1,7 @@
 ---
 title: "USS Arizona Memorial At Pearl Harbor Closes Indefinitely"
 date: 2018-06-04T09:06:27
-slug: uss-arizona-memorial-at-pearl-harbor-closes-indefinitely
+slug: "uss-arizona-memorial-at-pearl-harbor-closes-indefinitely"
 excerpt: "The USS Arizona Memorial at Pearl Harbor has been closed indefinitely after serious structural cracks were discovered.  The memorial was built in 1962 and is positioned athwartship over the wreckage of the sunken battleship USS Arizona. The monument is only accessible by shuttle … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

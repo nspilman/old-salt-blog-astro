@@ -1,7 +1,7 @@
 ---
 title: "Three British Tourists Missing After Fire on Dive Boat in Egyptian Red Sea"
 date: 2023-06-11T14:19:31
-slug: three-british-tourists-missing-after-fire-on-dive-boat-in-egyptian-red-sea
+slug: "three-british-tourists-missing-after-fire-on-dive-boat-in-egyptian-red-sea"
 excerpt: "The BBC reports that three British tourists are missing after a fire broke out on board a dive boat on the Egyptian Red Sea.   Twenty-six other people, including 12 Britons, were rescued from the boat, called Hurricane. Initial reports suggested the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "UPDATE: Captain Reports that Microburst Sank SV Concordia"
 date: 2010-02-21T11:51:43
-slug: update-captain-reports-that-microburst-sank-sv-concordia
+slug: "update-captain-reports-that-microburst-sank-sv-concordia"
 excerpt: "Captain William Curry of the SV Concordia is reporting that the school ship was struck by a microburst, also referred to a white squall, which knocked down the 188′ three masted schooner,  rolling the ship 90 degrees. She sank in … Continue reading &rarr;"
 categories:
   - "Current"

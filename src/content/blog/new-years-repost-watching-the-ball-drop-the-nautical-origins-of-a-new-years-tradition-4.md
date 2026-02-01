@@ -1,7 +1,7 @@
 ---
 title: "New Year’s Repost: Watching the Ball Drop — the Nautical Origins of a New Year’s Tradition"
 date: 2023-12-31T16:30:10
-slug: new-years-repost-watching-the-ball-drop-the-nautical-origins-of-a-new-years-tradition-4
+slug: "new-years-repost-watching-the-ball-drop-the-nautical-origins-of-a-new-years-tradition-4"
 excerpt: "Tonight, millions will watch in person, online, or on television, as a jeweled ball drops in Times Square in New York City at exactly midnight to mark the arrival of the New Year, 2024. After several years in which the … Continue reading &rarr;"
 categories:
   - "Current"

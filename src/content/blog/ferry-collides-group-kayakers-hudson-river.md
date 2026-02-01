@@ -1,7 +1,7 @@
 ---
 title: "Ferry Collides with a Group of Kayakers on Hudson River"
 date: 2016-08-31T12:13:47
-slug: ferry-collides-group-kayakers-hudson-river
+slug: "ferry-collides-group-kayakers-hudson-river"
 excerpt: "Yesterday, just before 6PM, a commuter ferry collided with a group of kayaks carrying ten kayakers, shortly after departing from the NY Waterway terminal at 39th Street on the Hudson River in Manhattan. The kayakers were part of a group organized by … Continue reading &rarr;"
 categories:
   - "Current"

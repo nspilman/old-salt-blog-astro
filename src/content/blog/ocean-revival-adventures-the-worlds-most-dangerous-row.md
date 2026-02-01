@@ -1,7 +1,7 @@
 ---
 title: "Ocean Revival Adventures – the World’s Most Dangerous Row"
 date: 2021-05-22T09:33:27
-slug: ocean-revival-adventures-the-worlds-most-dangerous-row
+slug: "ocean-revival-adventures-the-worlds-most-dangerous-row"
 excerpt: "While getting our boat ready to move to her summer mooring, I had the good fortune to meet Ian Clinton and Simon Chalk, members of the Ocean Revival Adventures crew, waiting with their ocean rowing boats at Liberty Landing in … Continue reading &rarr;"
 categories:
   - "Current"

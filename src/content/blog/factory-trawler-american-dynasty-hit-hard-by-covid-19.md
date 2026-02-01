@@ -1,7 +1,7 @@
 ---
 title: "Factory Trawler American Dynasty Hit Hard by COVID-19"
 date: 2020-06-02T15:17:30
-slug: factory-trawler-american-dynasty-hit-hard-by-covid-19
+slug: "factory-trawler-american-dynasty-hit-hard-by-covid-19"
 excerpt: "The Seattle-based factory trawler, American Dynasty, cut short its fishing season off the Washington coast after most of the 126 crew tested positive for COVID-19. A statement by American Seafoods, which owns the ship, reported that a crew member tested … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

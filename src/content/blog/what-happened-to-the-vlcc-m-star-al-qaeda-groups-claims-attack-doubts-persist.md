@@ -1,7 +1,7 @@
 ---
 title: "What Happened to the VLCC M. Star? Al Qaeda Group Claims Attack, Doubts Persist"
 date: 2010-08-04T10:17:24
-slug: what-happened-to-the-vlcc-m-star-al-qaeda-groups-claims-attack-doubts-persist
+slug: "what-happened-to-the-vlcc-m-star-al-qaeda-groups-claims-attack-doubts-persist"
 excerpt: "Over the last week, there have been no shortage of theories and often contradictory claims about what caused the damage to the hull and deck house of the MOL tanker M. Star while transiting the Straits of Hormuz.   The initial … Continue reading &rarr;"
 categories:
   - "Current"

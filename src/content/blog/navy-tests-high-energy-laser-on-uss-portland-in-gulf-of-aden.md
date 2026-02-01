@@ -1,7 +1,7 @@
 ---
 title: "Navy Tests High Energy Laser on USS Portland in Gulf of Aden"
 date: 2021-12-19T18:31:17
-slug: navy-tests-high-energy-laser-on-uss-portland-in-gulf-of-aden
+slug: "navy-tests-high-energy-laser-on-uss-portland-in-gulf-of-aden"
 excerpt: "In 2014, we posted about the deployment of a prototype 30-kilowatt-class Laser Weapon System (LAWS) on the USS Ponce, an Austin-class amphibious transport dock, for field testing in the Persian Gulf. Last week, the Navy announced that the amphibious transport … Continue reading &rarr;"
 categories:
   - "Current"

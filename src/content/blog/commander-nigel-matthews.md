@@ -1,7 +1,7 @@
 ---
 title: "Commander Nigel Matthews"
 date: 2011-03-06T15:50:09
-slug: commander-nigel-matthews
+slug: "commander-nigel-matthews"
 excerpt: "Commander Nigel Matthews Commander Nigel Matthews, who has died aged 89, survived being run over by an aircraft carrier and flew again the same day. Nigel Matthews died on December 19. His first wife died in 1977; he married, secondly, … Continue reading &rarr;"
 categories:
   - "Current"

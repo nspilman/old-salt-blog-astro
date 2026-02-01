@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship Elissa Still Sailing at 144 Years Old"
 date: 2021-04-12T09:48:29
-slug: tall-ship-elissa-still-sailing-at-144-years-old
+slug: "tall-ship-elissa-still-sailing-at-144-years-old"
 excerpt: "Here is a short video from a 2021 day sail out of Galveston on the 1877-built square-rigged iron barque Elissa.  The Elissa Sail Out of Galveston April 2021 Galveston Historical Foundation … Continue reading &rarr;"
 categories:
   - "Current"

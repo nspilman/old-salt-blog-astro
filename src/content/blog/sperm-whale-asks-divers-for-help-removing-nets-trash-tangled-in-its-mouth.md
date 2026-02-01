@@ -1,7 +1,7 @@
 ---
 title: "Sperm Whale Asks Divers For Help Removing Nets & Trash Tangled In Its Mouth"
 date: 2024-06-17T20:21:09
-slug: sperm-whale-asks-divers-for-help-removing-nets-trash-tangled-in-its-mouth
+slug: "sperm-whale-asks-divers-for-help-removing-nets-trash-tangled-in-its-mouth"
 excerpt: "A heartwarming story for a Monday.  Here is a short video of a sperm whale in the Indian Ocean that approached a group of divers, seemingly asking for help. The whale swam directly up to them, mouth agape and dragging … Continue reading &rarr;"
 categories:
   - "Current"

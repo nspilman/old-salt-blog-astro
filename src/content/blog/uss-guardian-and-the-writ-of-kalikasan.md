@@ -1,7 +1,7 @@
 ---
 title: "USS Guardian and the Writ of Kalikasan"
 date: 2013-04-21T09:43:19
-slug: uss-guardian-and-the-writ-of-kalikasan
+slug: "uss-guardian-and-the-writ-of-kalikasan"
 excerpt: "Last week, high level representatives of the Philippine Coast Guard met with the representatives of the US Navy in their investigation of the grounding of the mine sweeper USS Guardian on Tubbataha Reef on January 17, 2013.  At roughly the same time, a group … Continue reading &rarr;"
 categories:
   - "Current"

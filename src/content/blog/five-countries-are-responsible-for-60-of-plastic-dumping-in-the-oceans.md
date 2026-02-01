@@ -1,7 +1,7 @@
 ---
 title: "Five Countries are Responsible for 60% of Plastic Dumped in the Oceans"
 date: 2015-10-25T16:58:18
-slug: five-countries-are-responsible-for-60-of-plastic-dumping-in-the-oceans
+slug: "five-countries-are-responsible-for-60-of-plastic-dumping-in-the-oceans"
 excerpt: "For several years now, we have posted about the so-called ocean garbage patches, the great swaths of the oceans where plastic and other floating debris accumulate while riding on vast circular currents. The problem is that an estimated 8 million … Continue reading &rarr;"
 categories:
   - "Current"

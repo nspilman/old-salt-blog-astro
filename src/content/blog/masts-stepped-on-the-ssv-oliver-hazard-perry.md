@@ -1,7 +1,7 @@
 ---
 title: "Masts Stepped on the SSV Oliver Hazard Perry"
 date: 2014-09-26T17:19:13
-slug: masts-stepped-on-the-ssv-oliver-hazard-perry
+slug: "masts-stepped-on-the-ssv-oliver-hazard-perry"
 excerpt: "The main mast on the SSV Oliver Hazard Perry was stepped in a dockside ceremony on Wednesday at the Hinckley Company in Portsmouth, R.I.  The 200′ tall ship is the first full-rigged ocean-going ship to be built in the United States in … Continue reading &rarr;"
 categories:
   - "Current"

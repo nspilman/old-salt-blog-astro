@@ -1,7 +1,7 @@
 ---
 title: "How Did a Cannon from HMS Bounty End Up in Scotland ?"
 date: 2018-05-21T15:51:42
-slug: how-did-a-cannon-from-hms-bounty-end-up-in-scotland
+slug: "how-did-a-cannon-from-hms-bounty-end-up-in-scotland"
 excerpt: "Thanks to Alaric Bond for passing on an intriguing news item. A cannon said to be from HMS Bounty, the ship made famous by a mutiny in 1789, is being put up for sale at an upcoming auction. According to … Continue reading &rarr;"
 categories:
   - "Current"

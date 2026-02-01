@@ -1,7 +1,7 @@
 ---
 title: "100 Knot Wind Gusts Rock Cruise Ship Norwegian Escape, Several Passengers Injured"
 date: 2019-03-05T21:09:36
-slug: 100-knot-wind-gusts-rock-cruise-ship-norwegian-escape-several-passengers-injured
+slug: "100-knot-wind-gusts-rock-cruise-ship-norwegian-escape-several-passengers-injured"
 excerpt: "The Norwegian Escape was struck by extreme wind gusts of around 100 knots, eight hours after the ship sailed from New York on a seven-night cruise to the Bahamas.  The ship heeled to the port side in the high winds. … Continue reading &rarr;"
 categories:
   - "Current"

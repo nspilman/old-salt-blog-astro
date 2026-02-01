@@ -1,7 +1,7 @@
 ---
 title: "Leopard Seal Poop, the USB Drive, and Kayaking Video"
 date: 2019-02-07T09:06:12
-slug: leopard-seal-poop-the-usb-drive-and-kayaking-video
+slug: "leopard-seal-poop-the-usb-drive-and-kayaking-video"
 excerpt: "Did you, by any chance, lose a USB memory stick while kayaking sometime before November 2017, near Oreti Beach in Invercargill, a city on the southern tip of New Zealand’s southern island? If you did, the memory stick has been … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

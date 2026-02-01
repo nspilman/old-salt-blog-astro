@@ -1,8 +1,8 @@
 ---
 title: "Cetacean Morbillivirus : Like Covid For Dolphins"
 date: 2022-05-23T17:51:18
-slug: cetacean-morbillivirus-like-covid-for-dolphins
-excerpt: "“Social distancing” during an outbreak of a contagious disease is difficult for dolphins as well as for humans. Researchers are now investigating how dolphin social interactions may help spread the virus that has resulted in significant dolphin strandings and die-offs … Continue reading &rarr;"
+slug: "cetacean-morbillivirus-like-covid-for-dolphins"
+excerpt: "\"Social distancing\" during an outbreak of a contagious disease is difficult for dolphins as well as for humans. Researchers are now investigating how dolphin social interactions may help spread the virus that has resulted in significant dolphin strandings and die-offs … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "marine mammals"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/05/dolphinspod.jpg"
 author: "Rick Spilman"
-description: "“Social distancing” during an outbreak of a contagious disease is difficult for dolphins as well as for humans. Researchers are now investigating how dolphin social interactions may help spread the virus that has resulted in significant dolphin strandings and die-offs … Continue reading &rarr;"
+description: "\"Social distancing\" during an outbreak of a contagious disease is difficult for dolphins as well as for humans. Researchers are now investigating how dolphin social interactions may help spread the virus that has resulted in significant dolphin strandings and die-offs … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/05/dolphinspod.jpg)“Social distancing” during an outbreak of a contagious disease is difficult for dolphins as well as for humans. Researchers are now investigating how dolphin social interactions may help spread the virus that has resulted in significant dolphin strandings and die-offs in recent years. 

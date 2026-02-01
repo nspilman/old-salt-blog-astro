@@ -1,7 +1,7 @@
 ---
-title: "Remembering the MS St. Louis and the “Voyage of the Damned”"
+title: "Remembering the MS St. Louis and the \"Voyage of the Damned\""
 date: 2017-03-16T13:39:42
-slug: remembering-ms-st-louis-voyage-damned
+slug: "remembering-ms-st-louis-voyage-damned"
 excerpt: "Given the current heated debate over immigration and refugees, this seems like a good time to remember the consequences of when the United States slammed the door on refugees. On Throwback Thursday, here is a revised and updated post from … Continue reading &rarr;"
 categories:
   - "History"

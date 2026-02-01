@@ -1,7 +1,7 @@
 ---
 title: "Heavy-Lift Ship Blue Marlin Freed After Attempted Hijacking Off Equatorial Guinea"
 date: 2019-05-08T09:31:35
-slug: heavy-lift-ship-blue-marlin-freed-after-attempted-hijacking-off-equatorial-guinea
+slug: "heavy-lift-ship-blue-marlin-freed-after-attempted-hijacking-off-equatorial-guinea"
 excerpt: "On Sunday, May 5th, armed pirates boarded the semi-submersible heavy-lift vessel Blue Marlin, 80 nautical miles offshore of Equatorial Guinea on the west coast of Africa. The ship, operated by the Dutch firm Boskalis, had unloaded cargo near Luba port, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "EcoClipper Raising Capital to Fund Sailing Cargo Fleet"
 date: 2022-01-13T18:50:38
-slug: ecoclipper-raising-capital-to-fund-sailing-cargo-fleet
+slug: "ecoclipper-raising-capital-to-fund-sailing-cargo-fleet"
 excerpt: "The Dutch firm EcoClipper has plans to launch retrofitted and purpose-built sailing vessels to carry cargo and passengers on a variety of international routes. Today, they announced that they have started to raise capital in cooperation with blockchain partner Bondex, … Continue reading &rarr;"
 categories:
   - "Current"

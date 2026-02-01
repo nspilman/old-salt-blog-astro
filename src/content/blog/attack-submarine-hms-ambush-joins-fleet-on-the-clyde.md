@@ -1,7 +1,7 @@
 ---
 title: "Attack Submarine HMS Ambush Joins Fleet on the Clyde"
 date: 2013-03-02T22:04:51
-slug: attack-submarine-hms-ambush-joins-fleet-on-the-clyde
+slug: "attack-submarine-hms-ambush-joins-fleet-on-the-clyde"
 excerpt: "HMS Ambush, the second of the Astute Class of Royal Navy attack submarines, has officially joined its fleet on the Clyde.. The £1.6bn nuclear-powered 7,400-tonne vessel has been undergoing sea trials since arriving at its home port at Faslane in September … Continue reading &rarr;"
 categories:
   - "Current"

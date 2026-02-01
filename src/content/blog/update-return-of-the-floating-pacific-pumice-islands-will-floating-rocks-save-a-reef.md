@@ -1,7 +1,7 @@
 ---
 title: "Update: Return of the Floating Pacific Pumice Islands — Will Floating Rocks Save a Reef?"
 date: 2019-09-11T09:46:11
-slug: update-return-of-the-floating-pacific-pumice-islands-will-floating-rocks-save-a-reef
+slug: "update-return-of-the-floating-pacific-pumice-islands-will-floating-rocks-save-a-reef"
 excerpt: "Back in 2012, we posted about a series of photos that were floating around the internet. The photos were taken from a yacht that had encountered what appeared to be a beach, stretching as far as the eye could see … Continue reading &rarr;"
 categories:
   - "Current"

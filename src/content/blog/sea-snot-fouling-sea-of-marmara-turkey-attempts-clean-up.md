@@ -1,8 +1,8 @@
 ---
 title: "Sea Snot Fouling Sea of Marmara, Turkey Attempts Clean Up"
 date: 2021-06-12T10:16:49
-slug: sea-snot-fouling-sea-of-marmara-turkey-attempts-clean-up
-excerpt: "A thick, slimy layer of so-called “sea snot” has spread in Turkey’s Sea of Marmara to the south of Istanbul, posing a threat to marine life and the fishing industry.  Reuters reports that scientists say climate change and pollution have … Continue reading &rarr;"
+slug: "sea-snot-fouling-sea-of-marmara-turkey-attempts-clean-up"
+excerpt: "A thick, slimy layer of so-called \"sea snot\" has spread in Turkey’s Sea of Marmara to the south of Istanbul, posing a threat to marine life and the fishing industry.  Reuters reports that scientists say climate change and pollution have … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Turkey"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/06/seasnotturkey.jpg"
 author: "Rick Spilman"
-description: "A thick, slimy layer of so-called “sea snot” has spread in Turkey’s Sea of Marmara to the south of Istanbul, posing a threat to marine life and the fishing industry.  Reuters reports that scientists say climate change and pollution have … Continue reading &rarr;"
+description: "A thick, slimy layer of so-called \"sea snot\" has spread in Turkey’s Sea of Marmara to the south of Istanbul, posing a threat to marine life and the fishing industry.  Reuters reports that scientists say climate change and pollution have … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/seasnotturkey.jpg)A thick, slimy layer of so-called “sea snot” has spread in Turkey’s [Sea of Marmara](https://en.wikipedia.org/wiki/Sea_of_Marmara) to the south of Istanbul, posing a threat to marine life and the fishing industry. 

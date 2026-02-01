@@ -1,7 +1,7 @@
 ---
 title: "Aussie Sailor and His Dog Rescued after Nearly Three Months Adrift in the Pacific"
 date: 2023-07-19T17:36:17
-slug: aussie-sailor-and-his-dog-rescued-after-nearly-three-months-adrift-in-the-pacific
+slug: "aussie-sailor-and-his-dog-rescued-after-nearly-three-months-adrift-in-the-pacific"
 excerpt: "An Australian sailor and his dog were recently rescued by a Mexican tuna trawler after surviving for almost three months at sea. Before setting sail in April from the Mexican city of La Paz on his catamaran, Aloha Toa, bound … Continue reading &rarr;"
 categories:
   - "Current"

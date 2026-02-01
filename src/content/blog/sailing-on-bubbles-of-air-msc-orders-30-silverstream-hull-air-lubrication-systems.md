@@ -1,7 +1,7 @@
 ---
 title: "Sailing on Bubbles of Air —  MSC Orders 30 Silverstream Hull Air Lubrication Systems"
 date: 2021-09-22T15:08:52
-slug: sailing-on-bubbles-of-air-msc-orders-30-silverstream-hull-air-lubrication-systems
+slug: "sailing-on-bubbles-of-air-msc-orders-30-silverstream-hull-air-lubrication-systems"
 excerpt: "Mediterranean Shipping Company (MSC) has ordered more than 30 hull air lubrication systems from UK firm Silverstream Technologies to be installed on current orders of newbuild large container ships. The vessels applying the air lubrication systems are expected to be delivered … Continue reading &rarr;"
 categories:
   - "Current"

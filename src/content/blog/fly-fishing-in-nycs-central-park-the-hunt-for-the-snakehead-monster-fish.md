@@ -1,7 +1,7 @@
 ---
-title: "Fly Fishing in NYC’s Central Park & the Hunt for the Snakehead “Monster” Fish"
+title: "Fly Fishing in NYC’s Central Park & the Hunt for the Snakehead \"Monster\" Fish"
 date: 2013-05-05T14:47:41
-slug: fly-fishing-in-nycs-central-park-the-hunt-for-the-snakehead-monster-fish
+slug: "fly-fishing-in-nycs-central-park-the-hunt-for-the-snakehead-monster-fish"
 excerpt: "When I think of fly fishing, the wilder rivers of North Carolina come to mind, or even Hemingway’s Big Two Hearted River, in Michigan.  I don’t think of Central Park, which is literally the center of New York City, a … Continue reading &rarr;"
 categories:
   - "Current"

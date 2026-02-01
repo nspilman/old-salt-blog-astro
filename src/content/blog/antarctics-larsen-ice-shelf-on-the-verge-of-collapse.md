@@ -1,7 +1,7 @@
 ---
 title: "Antarctic’s Larsen Ice Shelf on the Verge of Collapse"
 date: 2017-01-13T15:58:46
-slug: antarctics-larsen-ice-shelf-on-the-verge-of-collapse
+slug: "antarctics-larsen-ice-shelf-on-the-verge-of-collapse"
 excerpt: "In December of 1893, Captain Carl Anton Larsen, the master of the Norwegian whaling ship Jason, sailed along a vast Antarctic ice shelf in the northwest part of the Weddell Sea on the east coast of the Antarctic Peninsula. Now, just over 120 … Continue reading &rarr;"
 categories:
   - "Current"

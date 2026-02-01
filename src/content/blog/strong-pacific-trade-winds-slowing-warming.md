@@ -1,7 +1,7 @@
 ---
 title: "Strong Pacific Trade Winds Slowing Warming"
 date: 2014-02-10T18:11:35
-slug: strong-pacific-trade-winds-slowing-warming
+slug: "strong-pacific-trade-winds-slowing-warming"
 excerpt: "Joseph Conrad, who claimed not to be a sentimentalist when came to the life at sea, waxed poetic when writing of the trade winds:  In the middle belt of the earth the Trade Winds reign supreme, undisputed, like monarchs of … Continue reading &rarr;"
 categories:
   - "Current"

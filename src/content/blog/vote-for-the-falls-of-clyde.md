@@ -1,7 +1,7 @@
 ---
 title: "Vote for the Falls of Clyde !!!"
 date: 2010-10-30T08:31:35
-slug: vote-for-the-falls-of-clyde
+slug: "vote-for-the-falls-of-clyde"
 excerpt: "The Falls of Clyde, built in 1878, is the only surviving iron-hulled four-masted full rigged ship and the only surviving sail-driven oil tanker in the world.  After years of neglect by the Bishop Museum, the ship has been taken over … Continue reading &rarr;"
 categories:
   - "Current"
@@ -9,7 +9,7 @@ categories:
   - "Ships"
 tags:
   - "Falls of Clyde"
-  - "Hampton Hotels "Save-A-Landmark" program"
+  - "Hampton Hotels \"Save-A-Landmark\" program"
   - "only surviving iron-hulled four-masted full rigged ship"
   - "only surviving sail-driven oil tanker"
 author: "Rick Spilman"

@@ -1,12 +1,12 @@
 ---
 title: "Cunard Employee Admits to Molesting Children on Queen Mary 2, Queen Elizabeth & Queen Victoria"
 date: 2012-04-21T15:15:05
-slug: cunard-employee-admits-to-molesting-children-on-queen-mary-ii-queen-elizabeth-queen-victoria
-excerpt: "One of the pleasures of cruising with a family can be leaving children with the shipboard children’s program.  On Cunard’s Queen Mary 2 for example, the Cunard website boasts: “Younger members of the family will not want to leave The Play Zone … Continue reading &rarr;"
+slug: "cunard-employee-admits-to-molesting-children-on-queen-mary-ii-queen-elizabeth-queen-victoria"
+excerpt: "One of the pleasures of cruising with a family can be leaving children with the shipboard children’s program.  On Cunard’s Queen Mary 2 for example, the Cunard website boasts: \"Younger members of the family will not want to leave The Play Zone … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "One of the pleasures of cruising with a family can be leaving children with the shipboard children’s program.  On Cunard’s Queen Mary 2 for example, the Cunard website boasts: “Younger members of the family will not want to leave The Play Zone … Continue reading &rarr;"
+description: "One of the pleasures of cruising with a family can be leaving children with the shipboard children’s program.  On Cunard’s Queen Mary 2 for example, the Cunard website boasts: \"Younger members of the family will not want to leave The Play Zone … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/58494077_010085236-1.jpg)One of the pleasures of cruising with a family can be leaving children with the shipboard children’s program.  On [Cunard’s *Queen Mary 2*](http://www.cunard.com/Ships/Queen-Mary-2/Leisure--Entertainment-/Childrens-Activities/) for example, the Cunard website boasts: “*Younger members of the family will not want to leave The Play Zone filled with toys, games and activities. As the younger children delight in the soft play area and ball pool you can be certain that they are in the best of care with our certified Early Years staff.*”

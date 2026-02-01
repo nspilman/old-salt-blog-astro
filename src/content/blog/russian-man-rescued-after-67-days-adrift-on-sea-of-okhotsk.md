@@ -1,7 +1,7 @@
 ---
 title: "Russian Man Rescued After 67 Days Adrift on Sea of Okhotsk"
 date: 2024-10-17T07:01:21
-slug: russian-man-rescued-after-67-days-adrift-on-sea-of-okhotsk
+slug: "russian-man-rescued-after-67-days-adrift-on-sea-of-okhotsk"
 excerpt: "In early August, Mikhail Pichugin, 46, set off in a small inflatable boat to watch whales in the stormy Sea of Okhotsk with his 49-year-old brother and 15-year-old nephew. They went missing after departing from Cape Perovsky bound for Sakhalin … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Gold and Ivory Shipwreck on a Beach of Diamonds"
 date: 2009-09-19T07:06:50
-slug: gold-and-ivory-shipwreck-on-a-beach-of-diamonds
+slug: "gold-and-ivory-shipwreck-on-a-beach-of-diamonds"
 excerpt: "The October 2009 National Geographic magazine has a fascinating story of a 16th century shipwreck on a beach in southern Namibia.  In 1533 a  Portuguese trading ship carrying a fortune in gold and ivory, bound for the famed spice ports of India, was swept ashore and wrecked … Continue reading &rarr;"
 categories:
   - "Current"

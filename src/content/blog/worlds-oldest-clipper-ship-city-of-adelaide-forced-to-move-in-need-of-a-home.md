@@ -1,7 +1,7 @@
 ---
 title: "World’s Oldest Clipper Ship, City Of Adelaide – Forced to Move, In Need of a Home"
 date: 2019-03-04T18:57:40
-slug: worlds-oldest-clipper-ship-city-of-adelaide-forced-to-move-in-need-of-a-home
+slug: "worlds-oldest-clipper-ship-city-of-adelaide-forced-to-move-in-need-of-a-home"
 excerpt: "It has been a long and difficult journey for the world’s oldest surviving clipper ship, the City of Adelaide. The ship has still not quite found a home. In 2014, the ship was rescued from likely scrapping and carried by … Continue reading &rarr;"
 categories:
   - "Current"

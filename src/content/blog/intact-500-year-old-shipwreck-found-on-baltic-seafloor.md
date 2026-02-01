@@ -1,7 +1,7 @@
 ---
 title: "Intact 500 Year Old Shipwreck Found on Baltic Seafloor"
 date: 2019-07-22T18:27:49
-slug: intact-500-year-old-shipwreck-found-on-baltic-seafloor
+slug: "intact-500-year-old-shipwreck-found-on-baltic-seafloor"
 excerpt: "Earlier this year, technicians operating a robotic camera surveying a route for a natural gas pipeline in the Baltic Sea, were surprised to find a 500-year-old shipwreck virtually intact on the seafloor. The ship was found at a depth of … Continue reading &rarr;"
 categories:
   - "Current"

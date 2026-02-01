@@ -1,7 +1,7 @@
 ---
 title: "Discomfort on the USNS Comfort As it Deploys on Continuing Promise 2015"
 date: 2015-04-10T09:10:16
-slug: discomfort-on-the-usns-comfort-as-it-deploys-on-continuing-promise-2015
+slug: "discomfort-on-the-usns-comfort-as-it-deploys-on-continuing-promise-2015"
 excerpt: "The hospital ship USNS Comfort recently deployed on a five month mission to Central and South America and the Caribbean. The ship will call on eleven nations in support of Continuing Promise 2015. The ship sailed with a new captain, the third, … Continue reading &rarr;"
 categories:
   - "Current"

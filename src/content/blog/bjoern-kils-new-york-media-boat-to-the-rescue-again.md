@@ -1,7 +1,7 @@
 ---
 title: "Bjoern Kils & New York Media Boat to the Rescue, Again"
 date: 2014-08-07T08:47:50
-slug: bjoern-kils-new-york-media-boat-to-the-rescue-again
+slug: "bjoern-kils-new-york-media-boat-to-the-rescue-again"
 excerpt: "On Tuesday, the New York Media Boat‘s 2pm Adventure Sightseeing Tour was interrupted just off South Street Seaport, when the boat captain, Bjoern Kils, spotted three people in the water near Pier 15.  They immediatey went to help.  Bjoern describes what happened next in … Continue reading &rarr;"
 categories:
   - "Current"

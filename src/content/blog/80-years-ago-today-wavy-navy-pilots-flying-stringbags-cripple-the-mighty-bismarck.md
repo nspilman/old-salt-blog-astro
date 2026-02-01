@@ -1,7 +1,7 @@
 ---
 title: "80 Years Ago Today, Wavy Navy Pilots Flying Stringbags Cripple the Mighty Bismarck"
 date: 2021-05-26T14:18:51
-slug: 80-years-ago-today-wavy-navy-pilots-flying-stringbags-cripple-the-mighty-bismarck
+slug: "80-years-ago-today-wavy-navy-pilots-flying-stringbags-cripple-the-mighty-bismarck"
 excerpt: "On the evening of May 26, 1941, eighty years ago today, a squadron of obsolete biplanes flown by volunteer pilots succeeded in crippling the Bismarck, the mightiest battleship in the German Kriegsmarine. A revised repost. The Bismarck was about to … Continue reading &rarr;"
 categories:
   - "History"

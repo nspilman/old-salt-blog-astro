@@ -1,7 +1,7 @@
 ---
 title: "Sign of the Times — Sperm Whale Killed by Plastic Garbage"
 date: 2013-03-08T09:19:41
-slug: sign-of-the-times-sperm-whale-killed-by-plastic-garbage
+slug: "sign-of-the-times-sperm-whale-killed-by-plastic-garbage"
 excerpt: "You might call it the greenhouse effect, though it is not directly related to climate change. A dead sperm whale which washed ashore last year in Andalusia, in southern Spain, was found to have died from ingesting plastic sheets used in the construction of greenhouses in that region.  The whale … Continue reading &rarr;"
 categories:
   - "Current"

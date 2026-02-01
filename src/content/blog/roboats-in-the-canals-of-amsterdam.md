@@ -1,7 +1,7 @@
 ---
 title: "Roboats in the Canals of Amsterdam"
 date: 2018-03-18T12:21:55
-slug: roboats-in-the-canals-of-amsterdam
+slug: "roboats-in-the-canals-of-amsterdam"
 excerpt: "Autonomous barges may soon be carrying cargo and passengers on Amsterdam’s 100 km of canals. Referred to as roboats (as in robot boats, not rowboats) they can also be linked together to create bridges and performance stages and platforms. The … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

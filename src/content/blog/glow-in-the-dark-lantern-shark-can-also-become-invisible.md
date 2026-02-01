@@ -1,7 +1,7 @@
 ---
 title: "Glow-in-the-Dark Lantern Shark Can Also Become Invisible"
 date: 2011-10-12T18:01:09
-slug: glow-in-the-dark-lantern-shark-can-also-become-invisible
+slug: "glow-in-the-dark-lantern-shark-can-also-become-invisible"
 excerpt: "Lantern sharks, a type of small dogfish sharks, are well known for their bioluminescence, indeed that is how they were given their name.  Researchers have recently discovered that the rare splendid lantern shark can adjust its coloration and lighting so as to … Continue reading &rarr;"
 categories:
   - "Current"

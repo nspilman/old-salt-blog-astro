@@ -1,7 +1,7 @@
 ---
 title: "Ukrainian Sea Drones Sink Russian Missile Corvette Ivanovets"
 date: 2024-02-01T17:59:33
-slug: ukrainian-sea-drones-sink-russian-missile-corvette-ivanovets
+slug: "ukrainian-sea-drones-sink-russian-missile-corvette-ivanovets"
 excerpt: "The Defense Blog reports that a Ukrainian drone attack on a Russian missile corvette Ivanovets appears to have caused a massive explosion in Kyiv’s largest strike against Russia’s navy since December. The Ukrainian Defense Intelligence Directorate (GUR) has released footage … Continue reading &rarr;"
 categories:
   - "Current"

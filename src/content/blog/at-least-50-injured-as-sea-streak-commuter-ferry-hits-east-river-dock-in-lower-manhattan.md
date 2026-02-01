@@ -1,7 +1,7 @@
 ---
 title: "At Least 50 Injured as Seastreak Commuter Ferry Slams East River Dock in Lower Manhattan"
 date: 2013-01-09T12:18:10
-slug: at-least-50-injured-as-sea-streak-commuter-ferry-hits-east-river-dock-in-lower-manhattan
+slug: "at-least-50-injured-as-sea-streak-commuter-ferry-hits-east-river-dock-in-lower-manhattan"
 excerpt: "This morning around 8:45 local time, a Seastreak catamaran ferry carrying approximately 300 commuters slammed into a loading barge at Pier 11 in New York City’s East River, in Lower Manhattan, injuring at least 50 passengers. At least one was reported to be in … Continue reading &rarr;"
 categories:
   - "Current"

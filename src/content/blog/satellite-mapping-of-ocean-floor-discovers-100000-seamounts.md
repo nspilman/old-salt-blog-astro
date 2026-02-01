@@ -1,7 +1,7 @@
 ---
 title: "Satellite Mapping of Ocean Floor Discovers 100,000 Seamounts"
 date: 2025-04-12T17:32:02
-slug: satellite-mapping-of-ocean-floor-discovers-100000-seamounts
+slug: "satellite-mapping-of-ocean-floor-discovers-100000-seamounts"
 excerpt: "For decades, we have more detailed maps of the Moon’s surface than Earth’s ocean floor. Although ships equipped with sonar can capture highly detailed images of the seafloor, only about 25 percent of the ocean has been mapped this way. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Columbus, Eratosthenes & Posidonius"
 date: 2024-10-14T18:09:42
-slug: columbus-eratosthenes-posidonius-2
+slug: "columbus-eratosthenes-posidonius-2"
 excerpt: "Happy Columbus Day to those who celebrate in the United States and Happy Thanksgiving to those in Canada. On Columbus Day, it seems appropriate to consider the role of error in discovery. An updated repost. While many of us were … Continue reading &rarr;"
 categories:
   - "History"

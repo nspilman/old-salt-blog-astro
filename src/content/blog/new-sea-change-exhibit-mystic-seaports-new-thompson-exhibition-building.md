@@ -1,8 +1,8 @@
 ---
 title: "New SeaChange Exhibit in Mystic Seaport’s New Thompson Exhibition Building"
 date: 2016-12-31T14:21:42
-slug: new-sea-change-exhibit-mystic-seaports-new-thompson-exhibition-building
-excerpt: "The Hartford Courant describes the new Thompson Exhibition Building, on the northern end of the 19-acre Mystic Seaport Museum as sitting “like a piece of 21st-century abstract sculpture in the midst of a 19th-century fishing village.” Chad Floyd, one of the architect … Continue reading &rarr;"
+slug: "new-sea-change-exhibit-mystic-seaports-new-thompson-exhibition-building"
+excerpt: "The Hartford Courant describes the new Thompson Exhibition Building, on the northern end of the 19-acre Mystic Seaport Museum as sitting \"like a piece of 21st-century abstract sculpture in the midst of a 19th-century fishing village.\" Chad Floyd, one of the architect … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Thompson Exhibition Building"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/mysticthompson.jpg"
 author: "Rick Spilman"
-description: "The Hartford Courant describes the new Thompson Exhibition Building, on the northern end of the 19-acre Mystic Seaport Museum as sitting “like a piece of 21st-century abstract sculpture in the midst of a 19th-century fishing village.” Chad Floyd, one of the architect … Continue reading &rarr;"
+description: "The Hartford Courant describes the new Thompson Exhibition Building, on the northern end of the 19-acre Mystic Seaport Museum as sitting \"like a piece of 21st-century abstract sculpture in the midst of a 19th-century fishing village.\" Chad Floyd, one of the architect … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2016/12/mysticthompson.jpg)

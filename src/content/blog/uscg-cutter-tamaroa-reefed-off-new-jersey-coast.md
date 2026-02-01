@@ -1,7 +1,7 @@
 ---
 title: "USCG Cutter Tamaroa Reefed off New Jersey Coast"
 date: 2017-05-15T07:59:40
-slug: uscg-cutter-tamaroa-reefed-off-new-jersey-coast
+slug: "uscg-cutter-tamaroa-reefed-off-new-jersey-coast"
 excerpt: "On May 10th, the U.S. Coast Guard Cutter Tamaroa was sunk approximately 26 miles off shore from Cape May, NJ to help develop an artificial reef.  ; Sinking of the USCGC Tamaroa Built in 1943 as USS Zuni, the 205-foot fleet ocean/salvage … Continue reading &rarr;"
 categories:
   - "Current"

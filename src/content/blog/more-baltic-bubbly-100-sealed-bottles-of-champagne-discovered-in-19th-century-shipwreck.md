@@ -1,7 +1,7 @@
 ---
 title: "More Baltic Bubbly — 100 Sealed Bottles of Champagne Discovered in 19th Century Shipwreck"
 date: 2024-08-01T21:03:23
-slug: more-baltic-bubbly-100-sealed-bottles-of-champagne-discovered-in-19th-century-shipwreck
+slug: "more-baltic-bubbly-100-sealed-bottles-of-champagne-discovered-in-19th-century-shipwreck"
 excerpt: "A team of Polish divers discovered the wreck of a 19th-century vessel laden with about 100 sealed bottles of champagne.  The shipwreck is in the Baltic Sea in 60 meters of water about 20 nautical miles south of the Swedish … Continue reading &rarr;"
 categories:
   - "Current"

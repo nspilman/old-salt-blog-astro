@@ -1,7 +1,7 @@
 ---
 title: "SS Robin, World’s Oldest Steamship Returns to London"
 date: 2010-09-27T07:58:41
-slug: ss-robin-worlds-oldest-steamship-returns-to-london
+slug: "ss-robin-worlds-oldest-steamship-returns-to-london"
 excerpt: "An update on our post from last June on the SS Robin, an 1890 built steam coaster, the last of her kind and the oldest complete steamship in the world.  She arrived in Tillbury last week aboard a a custom built pontoon barge in … Continue reading &rarr;"
 categories:
   - "Current"

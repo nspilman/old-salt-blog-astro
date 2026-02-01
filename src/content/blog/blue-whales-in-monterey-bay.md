@@ -1,7 +1,7 @@
 ---
 title: "Blue Whales in Monterey Bay"
 date: 2010-07-12T16:17:41
-slug: blue-whales-in-monterey-bay
+slug: "blue-whales-in-monterey-bay"
 excerpt: "Whale watchers were stunned last week to see 28 blue whales feeding on krill in Monterey Bay. Blue whales are the largest animal ever to live on earth and are also highly endangered with an estimated population of only 10,000 … Continue reading &rarr;"
 categories:
   - "Current"

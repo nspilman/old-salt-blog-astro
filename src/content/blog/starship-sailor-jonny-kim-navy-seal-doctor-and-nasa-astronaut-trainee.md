@@ -1,8 +1,8 @@
 ---
-title: "“Starship Sailor” Jonny Kim — Navy SEAL, Doctor and NASA Astronaut Trainee"
+title: "\"Starship Sailor\" Jonny Kim — Navy SEAL, Doctor and NASA Astronaut Trainee"
 date: 2019-02-20T16:46:15
-slug: starship-sailor-jonny-kim-navy-seal-doctor-and-nasa-astronaut-trainee
-excerpt: "We have been following the careers of the “starship sailors” Mark and Scott Kelly for several years now. The twin brothers from New Jersey are both graduates of merchant maritime academies, both became Captains in the Navy, and both subsequently became NASA astronauts … Continue reading &rarr;"
+slug: "starship-sailor-jonny-kim-navy-seal-doctor-and-nasa-astronaut-trainee"
+excerpt: "We have been following the careers of the \"starship sailors\" Mark and Scott Kelly for several years now. The twin brothers from New Jersey are both graduates of merchant maritime academies, both became Captains in the Navy, and both subsequently became NASA astronauts … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "physician"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/jonnykim.jpg"
 author: "Rick Spilman"
-description: "We have been following the careers of the “starship sailors” Mark and Scott Kelly for several years now. The twin brothers from New Jersey are both graduates of merchant maritime academies, both became Captains in the Navy, and both subsequently became NASA astronauts … Continue reading &rarr;"
+description: "We have been following the careers of the \"starship sailors\" Mark and Scott Kelly for several years now. The twin brothers from New Jersey are both graduates of merchant maritime academies, both became Captains in the Navy, and both subsequently became NASA astronauts … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/jonnykim-180x200.jpg)We have been following the careers of the “starship sailors” [Mark and Scott Kelly](http://www.oldsaltblog.com/?s=kelly+brothers) for several years now. The twin brothers from New Jersey are both graduates of merchant maritime academies, both became Captains in the Navy, and both subsequently became NASA astronauts and spent time in space. 

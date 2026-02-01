@@ -1,7 +1,7 @@
 ---
 title: "FSO Safer — Environmental Disaster Waiting to Happen in the Red Sea off Yemen"
 date: 2021-10-16T17:49:45
-slug: fso-safer-environmental-disaster-waiting-to-happen-in-the-red-sea-off-yemen
+slug: "fso-safer-environmental-disaster-waiting-to-happen-in-the-red-sea-off-yemen"
 excerpt: "For several years, the FSO Safer, a floating oil storage and offloading vessel, moored in the Red Sea north of the Yemeni city of Al Hudaydah, may be an environmental disaster waiting to happen. The ship has been held as … Continue reading &rarr;"
 categories:
   - "Current"

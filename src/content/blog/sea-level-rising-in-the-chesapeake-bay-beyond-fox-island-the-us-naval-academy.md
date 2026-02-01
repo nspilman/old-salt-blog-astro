@@ -1,7 +1,7 @@
 ---
 title: "Sea Level Rising in the Chesapeake Bay & Beyond — Fox Island & the US Naval Academy"
 date: 2019-10-26T08:12:02
-slug: sea-level-rising-in-the-chesapeake-bay-beyond-fox-island-the-us-naval-academy
+slug: "sea-level-rising-in-the-chesapeake-bay-beyond-fox-island-the-us-naval-academy"
 excerpt: "Climate change deniers can choose to ignore the overwhelming scientific consensus of man-made climate change all they want. How long they will continue to deny the evidence before their own eyes? Two immediate examples — Fox Island and the US … Continue reading &rarr;"
 categories:
   - "Current"

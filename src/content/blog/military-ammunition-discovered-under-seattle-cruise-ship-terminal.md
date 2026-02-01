@@ -1,7 +1,7 @@
 ---
 title: "Military ammunition discovered under Seattle cruise ship terminal"
 date: 2010-10-28T15:19:32
-slug: military-ammunition-discovered-under-seattle-cruise-ship-terminal
+slug: "military-ammunition-discovered-under-seattle-cruise-ship-terminal"
 excerpt: "The new cruise ship terminal at Pier 91 in the Port of Seattle appears to have been built over an old munitions terminal. Live high explosive ammunition dating back to World War II, and possibly earlier, has been found beneath the … Continue reading &rarr;"
 categories:
   - "Current"

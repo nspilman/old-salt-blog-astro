@@ -1,7 +1,7 @@
 ---
 title: "Blackbeard’s Medicine Chest & the Media"
 date: 2015-02-19T19:43:05
-slug: blackbeards-medicine-chest-the-media
+slug: "blackbeards-medicine-chest-the-media"
 excerpt: "Sometimes the way the media reports a story about nautical history can be almost as interesting as the story itself. Near the end of last month, archaeologists examining artifacts discovered on the wreck of the pirate Blackbeard’s flag ship, the … Continue reading &rarr;"
 categories:
   - "Current"

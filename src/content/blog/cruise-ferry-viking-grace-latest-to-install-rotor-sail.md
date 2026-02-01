@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ferry Viking Grace Latest to Install Rotor Sail"
 date: 2018-04-16T15:57:29
-slug: cruise-ferry-viking-grace-latest-to-install-rotor-sail
+slug: "cruise-ferry-viking-grace-latest-to-install-rotor-sail"
 excerpt: "The Flettner fleet is growing slowly but steadily. The LNG powered cruise ferry Viking Grace has become the latest commercial ship and the first passenger vessel to install a modern Flettner rotor sail. The 80-foot-tall rotor is expected to save … Continue reading &rarr;"
 categories:
   - "Current"

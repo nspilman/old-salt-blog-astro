@@ -1,7 +1,7 @@
 ---
 title: "Duyfken Replica Commemorates Dirk Hartog’s Voyage 400 Years Ago"
 date: 2016-10-23T20:31:29
-slug: duyfken-replica-commemorates-dirk-hartogs-voyage-400-years-ago
+slug: "duyfken-replica-commemorates-dirk-hartogs-voyage-400-years-ago"
 excerpt: "In 1606, Captain Willem Janszoon, in command of the Dutch ship Duyfken, became the first European to discover Australia. Now a replica of the Duyfken has completed a voyage to commemorate the 400th anniversary of Dutchman Dirk Hartog and his crew, the first Europeans to … Continue reading &rarr;"
 categories:
   - "Current"

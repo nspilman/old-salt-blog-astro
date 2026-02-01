@@ -1,7 +1,7 @@
 ---
 title: "Philadelphia Duck Boat Overturns in Collision with Barge in Delaware River"
 date: 2010-07-07T19:02:17
-slug: philadelphia-duck-boat-overturns-in-collision-with-barge-in-delaware-river
+slug: "philadelphia-duck-boat-overturns-in-collision-with-barge-in-delaware-river"
 excerpt: "A tourist amphibious duck boat overturned after colliding with a barge in the Delaware River this after noon.   Of the 37 aboard the duck boat, two are still reported missing. Philadelphia Duck Boat Overturns; Dozens Rescued … Continue reading &rarr;"
 categories:
   - "Current"

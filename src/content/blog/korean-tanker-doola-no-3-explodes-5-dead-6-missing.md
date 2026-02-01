@@ -1,7 +1,7 @@
 ---
 title: "Korean Tanker Doola No. 3  Explodes, 5 dead, 6 missing"
 date: 2012-01-16T08:48:02
-slug: korean-tanker-doola-no-3-explodes-5-dead-6-missing
+slug: "korean-tanker-doola-no-3-explodes-5-dead-6-missing"
 excerpt: "On Sunday, the 6535 dwt  South Korean tanker, Doola No. 3, exploded in the Yellow Sea near the port of Incheon.  Of the crew of 16, 5 are confirmed dead while 6 are missing.  The explosion ripped the tanker in half.  The … Continue reading &rarr;"
 categories:
   - "Current"

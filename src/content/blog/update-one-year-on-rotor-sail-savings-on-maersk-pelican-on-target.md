@@ -1,7 +1,7 @@
 ---
 title: "Update: One Year On, Rotor Sail Savings on Maersk Pelican on Target"
 date: 2019-11-06T09:19:45
-slug: update-one-year-on-rotor-sail-savings-on-maersk-pelican-on-target
+slug: "update-one-year-on-rotor-sail-savings-on-maersk-pelican-on-target"
 excerpt: "A year ago we posted about the testing of two modern Rotor Sails installed on the MV Maersk Pelican, a 110,000 DWT  Long Range 2 product tanker. The 30-meter tall and 5-meter diameter rotors were predicted to reduce fuel consumption … Continue reading &rarr;"
 categories:
   - "Current"

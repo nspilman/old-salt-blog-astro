@@ -1,7 +1,7 @@
 ---
 title: "Sailing the Star of India"
 date: 2018-11-19T17:23:16
-slug: sailing-the-star-of-india
+slug: "sailing-the-star-of-india"
 excerpt: "As we posted yesterday, over last weekend, the Maritime Museum of San Diego celebrated the 155th birthday of the Star of India by taking her for a sail. Here is nicely done, roughly ten-minute, video by Barrett Canfield of Sunday’s sail on the grand old ship.  The museum’s other … Continue reading &rarr;"
 categories:
   - "Current"

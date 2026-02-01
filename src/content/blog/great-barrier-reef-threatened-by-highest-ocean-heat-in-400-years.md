@@ -1,7 +1,7 @@
 ---
 title: "Great Barrier Reef Threatened by Highest Ocean Heat in 400 Years"
 date: 2024-08-08T19:39:59
-slug: great-barrier-reef-threatened-by-highest-ocean-heat-in-400-years
+slug: "great-barrier-reef-threatened-by-highest-ocean-heat-in-400-years"
 excerpt: "In a new study, published in the journal Nature, scientists say that sea surface temperatures over the past decade in and around Australia’s Great Barrier Reef are the highest on record for 400 years. The study concludes that these increased temperatures, … Continue reading &rarr;"
 categories:
   - "Current"

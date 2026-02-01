@@ -1,7 +1,7 @@
 ---
 title: "Figureheads – Nannie Dee and the Cutty Sark"
 date: 2012-10-06T09:16:22
-slug: figureheads-nannie-dee-and-the-cutty-sark
+slug: "figureheads-nannie-dee-and-the-cutty-sark"
 excerpt: "The figurehead on the Cutty Sark is dramatic – a woman, all in white, wearing a flowing robe which leaves her upper body uncovered.  He face is fixed in a scowl or grimace and she is reaching out with one … Continue reading &rarr;"
 categories:
   - "Current"

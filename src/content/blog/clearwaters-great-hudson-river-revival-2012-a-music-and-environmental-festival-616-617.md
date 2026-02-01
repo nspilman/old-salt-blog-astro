@@ -1,7 +1,7 @@
 ---
 title: "Clearwater’s Great Hudson River Revival 2012 – A Music and Environmental Festival, 6/16 – 6/17"
 date: 2012-06-13T10:38:21
-slug: clearwaters-great-hudson-river-revival-2012-a-music-and-environmental-festival-616-617
+slug: "clearwaters-great-hudson-river-revival-2012-a-music-and-environmental-festival-616-617"
 excerpt: "If you are anywhere near the the village of Croton-on-Hudson, NY (about 30 miles north of New York City), Clearwater’s Great Hudson River Revival 2012 promises to be a great weekend of music, storytelling and sailing. Over forty years ago, the folk singer, Pete … Continue reading &rarr;"
 categories:
   - "Current"

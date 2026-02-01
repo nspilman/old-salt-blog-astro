@@ -1,7 +1,7 @@
 ---
 title: "Nautical Blog Hop & A Week of Windjammers – Remembering the Pamir, Last Cargo Carrying Windjammer"
 date: 2013-09-21T11:14:28
-slug: nautical-blog-hop-week-windjammers-remembering-pamir-last-cargo-carrying-windjammer
+slug: "nautical-blog-hop-week-windjammers-remembering-pamir-last-cargo-carrying-windjammer"
 excerpt: "When did the great age of sail finally end?  (Some would argue that it is not yet over.)  If one was to pick a single date when it finally came to a close,  I would choose today, fifty six years … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

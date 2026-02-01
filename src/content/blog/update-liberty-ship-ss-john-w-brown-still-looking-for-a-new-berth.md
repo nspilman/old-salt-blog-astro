@@ -1,7 +1,7 @@
 ---
 title: "Update: Liberty Ship SS John W. Brown Still Looking For a New Berth"
 date: 2019-11-15T15:51:54
-slug: update-liberty-ship-ss-john-w-brown-still-looking-for-a-new-berth
+slug: "update-liberty-ship-ss-john-w-brown-still-looking-for-a-new-berth"
 excerpt: "A year ago, we posted about the search for a berth for the Liberty ship John W. Brown. Now, the ship, the last surviving troopship from World War II, must find a new home by the end of the year … Continue reading &rarr;"
 categories:
   - "Current"

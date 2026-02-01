@@ -1,7 +1,7 @@
 ---
 title: "Update: Anthem of the Seas Returning to New York Harbor After Severe Storm"
 date: 2016-02-08T15:34:55
-slug: update-anthem-of-the-seas-returning-to-new-york-harbor
+slug: "update-anthem-of-the-seas-returning-to-new-york-harbor"
 excerpt: "We posted this morning about the severe storm encountered by the Royal Caribbean cruise ship, Anthem of the Seas, off Cape Hatteras. As of this morning, the ship was bound for Port Canaveral but was being delayed by weather according … Continue reading &rarr;"
 categories:
   - "Current"

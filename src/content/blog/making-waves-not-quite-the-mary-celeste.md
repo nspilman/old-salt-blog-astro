@@ -1,7 +1,7 @@
 ---
-title: "“Making Waves”, Not Quite the Mary Celeste"
+title: "\"Making Waves\", Not Quite the Mary Celeste"
 date: 2010-08-31T08:20:42
-slug: making-waves-not-quite-the-mary-celeste
+slug: "making-waves-not-quite-the-mary-celeste"
 excerpt: "Last week the yacht, Making Waves, a 48 foot Sea Ray Sundancer, with its engine running and the autopilot engaged, came ashore on Redding Beach, FL, on the Gulf of Mexico, with no one aboard.  The boat is estimated to be … Continue reading &rarr;"
 categories:
   - "Current"

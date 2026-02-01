@@ -1,7 +1,7 @@
 ---
 title: "Draken Harald Hårfagre — First Day at Sea and Detour to Lerwick"
 date: 2016-05-01T11:28:14
-slug: draken-harald-harfagre-first-day-sea-detour-lerwick
+slug: "draken-harald-harfagre-first-day-sea-detour-lerwick"
 excerpt: "The Draken Harald Hårfagre, the largest Viking longship in the world, is on her way, hopscotching across the Atlantic, to raid and plunder visit the United States this summer.  After departing Haugesund, Norway and sailing for a day at sea, the longship … Continue reading &rarr;"
 categories:
   - "Current"

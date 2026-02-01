@@ -1,7 +1,7 @@
 ---
 title: "American Archeologist Dies in Reenactment of Viking Voyage"
 date: 2024-08-29T19:34:19
-slug: american-archeologis-dies-in-reenactment-of-viking-voyage
+slug: "american-archeologis-dies-in-reenactment-of-viking-voyage"
 excerpt: "A crew of 6 adventurers set sail on a 500-nautical-mile voyage in the North Sea from Tvøroyri on the Faroe Islands bound for Trondheim, Norway aboard Naddoddur, a 33′ long Faroese Viking ship replica. The voyage, expected to take 3-5 … Continue reading &rarr;"
 categories:
   - "Current"

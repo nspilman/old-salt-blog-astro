@@ -1,8 +1,8 @@
 ---
 title: "The Return of Commercial Sail?  Dyna-Rig Design in the News"
 date: 2012-07-02T15:14:44
-slug: the-return-of-commercial-sail-dyna-rig-design-in-the-news
-excerpt: "Arthur Sewall, a shipbuilder, shipowner and industrialist from Bath Maine, is quoted near the turn of the 20th century, saying, “As long as the wind blows and water flows there will be sailing ships built and business to keep them … Continue reading &rarr;"
+slug: "the-return-of-commercial-sail-dyna-rig-design-in-the-news"
+excerpt: "Arthur Sewall, a shipbuilder, shipowner and industrialist from Bath Maine, is quoted near the turn of the 20th century, saying, \"As long as the wind blows and water flows there will be sailing ships built and business to keep them … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -17,7 +17,7 @@ tags:
   - "Tres Hombres"
   - "William Prölss"
 author: "Rick Spilman"
-description: "Arthur Sewall, a shipbuilder, shipowner and industrialist from Bath Maine, is quoted near the turn of the 20th century, saying, “As long as the wind blows and water flows there will be sailing ships built and business to keep them … Continue reading &rarr;"
+description: "Arthur Sewall, a shipbuilder, shipowner and industrialist from Bath Maine, is quoted near the turn of the 20th century, saying, \"As long as the wind blows and water flows there will be sailing ships built and business to keep them … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/ship_flags.jpg)Arthur Sewall, a shipbuilder, shipowner and industrialist from Bath Maine, is quoted near the turn of the 20th century, saying, “As long as the wind blows and water flows there will be sailing ships built and business to keep them busy.”   Is the great age of commercial sail now just part of history, or are we merely passing through a short-lived era of fossil fuels, which will be brought to a close by scarcity and concerns about pollution and climate change?

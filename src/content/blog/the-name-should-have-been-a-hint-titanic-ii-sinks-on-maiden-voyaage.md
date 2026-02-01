@@ -1,7 +1,7 @@
 ---
 title: "The Name Should Have been a Hint – Titanic II Sinks on Maiden Voyage"
 date: 2011-06-17T09:43:28
-slug: the-name-should-have-been-a-hint-titanic-ii-sinks-on-maiden-voyaage
+slug: "the-name-should-have-been-a-hint-titanic-ii-sinks-on-maiden-voyaage"
 excerpt: "Who in their right mind would name a boat Titanic II in the first place?   Fortunately there was no loss of life.   Prophetically enough, there is already a movie, Titanic II.  It sank at the box office over a year … Continue reading &rarr;"
 categories:
   - "Current"

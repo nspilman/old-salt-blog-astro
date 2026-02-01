@@ -1,8 +1,8 @@
 ---
 title: "The Power of Water – A Town Swept Away and Reactors Melting Down"
 date: 2011-03-13T13:11:56
-slug: the-power-of-water-a-town-swept-away-and-reactors-melting-down
-excerpt: "The New York Times published an article this morning, The Destructive Power of Water, where it compares the force of a ten meter high tsunami wave to “a hundred tanks coming across you. Even though it’s a fluid, it operates like a solid hammer.” … Continue reading &rarr;"
+slug: "the-power-of-water-a-town-swept-away-and-reactors-melting-down"
+excerpt: "The New York Times published an article this morning, The Destructive Power of Water, where it compares the force of a ten meter high tsunami wave to \"a hundred tanks coming across you. Even though it’s a fluid, it operates like a solid hammer.\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "partial meltdown"
   - "tsunami"
 author: "Rick Spilman"
-description: "The New York Times published an article this morning, The Destructive Power of Water, where it compares the force of a ten meter high tsunami wave to “a hundred tanks coming across you. Even though it’s a fluid, it operates like a solid hammer.” … Continue reading &rarr;"
+description: "The New York Times published an article this morning, The Destructive Power of Water, where it compares the force of a ten meter high tsunami wave to \"a hundred tanks coming across you. Even though it’s a fluid, it operates like a solid hammer.\" … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/slide_18213_252854_splash.jpg)

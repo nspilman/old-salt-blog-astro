@@ -1,7 +1,7 @@
 ---
 title: "Nautical Blog Hop and A Week Of Windjammers – The Wave No One Believed"
 date: 2013-09-20T18:01:05
-slug: nautical-blog-hop-week-windjammers-unbelievable-wave
+slug: "nautical-blog-hop-week-windjammers-unbelievable-wave"
 excerpt: "On Wednesday I raised the question – is history just a sea story? I found in researching my novel, Hell Around the Horn, that two memoirs written about the voyage of the British windjammer, British Isles, on which the novel … Continue reading &rarr;"
 categories:
   - "Current"

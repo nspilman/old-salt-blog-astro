@@ -1,8 +1,8 @@
 ---
 title: "Spotted Dick Off the Menu"
 date: 2009-09-14T09:04:50
-slug: spotted-dick-off-the-menu
-excerpt: "The Aubrey/Maturin series of novels by Patrick O’Brian introduced the world to, among other things,  a range of obscure traditional British cuisine, which notably included suet puddings such as “Floating Island”, the unappetizing “Drowned Baby” and the perennial favorite “Spotted Dick”.   This … Continue reading &rarr;"
+slug: "spotted-dick-off-the-menu"
+excerpt: "The Aubrey/Maturin series of novels by Patrick O’Brian introduced the world to, among other things,  a range of obscure traditional British cuisine, which notably included suet puddings such as \"Floating Island\", the unappetizing \"Drowned Baby\" and the perennial favorite \"Spotted Dick\".   This … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Pudding Club"
   - "Spotted Dick"
 author: "Rick Spilman"
-description: "The Aubrey/Maturin series of novels by Patrick O’Brian introduced the world to, among other things,  a range of obscure traditional British cuisine, which notably included suet puddings such as “Floating Island”, the unappetizing “Drowned Baby” and the perennial favorite “Spotted Dick”.   This … Continue reading &rarr;"
+description: "The Aubrey/Maturin series of novels by Patrick O’Brian introduced the world to, among other things,  a range of obscure traditional British cuisine, which notably included suet puddings such as \"Floating Island\", the unappetizing \"Drowned Baby\" and the perennial favorite \"Spotted Dick\".   This … Continue reading &rarr;"
 ---
 
 ![Spotted Dick](http://www.oldsaltblog.com/wp-content/uploads/2009/09/Spotted_Dick_Wikimeet_Londo.jpg)

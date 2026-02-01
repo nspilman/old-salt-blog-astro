@@ -1,8 +1,8 @@
 ---
 title: "Putin Claims Russia Successfully Tests a Drone Submarine Tsunami Superweapon"
 date: 2025-10-29T20:12:43
-slug: putin-claims-russia-successfully-tests-a-drone-submarine-tsunami-superweapon
-excerpt: "Russian President Vladimir Putin  announced that Russia had successfully tested a nuclear-powered drone submarine, claimed to be a “superweapon.” The drone, known as Poseidon, is capable of delivering a thermonuclear cobalt bomb to create a 500-meter tsunami that could contaminate a … Continue reading &rarr;"
+slug: "putin-claims-russia-successfully-tests-a-drone-submarine-tsunami-superweapon"
+excerpt: "Russian President Vladimir Putin  announced that Russia had successfully tested a nuclear-powered drone submarine, claimed to be a \"superweapon.\" The drone, known as Poseidon, is capable of delivering a thermonuclear cobalt bomb to create a 500-meter tsunami that could contaminate a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Vladimir Putin"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/10/poseidonputin.jpg"
 author: "Rick Spilman"
-description: "Russian President Vladimir Putin  announced that Russia had successfully tested a nuclear-powered drone submarine, claimed to be a “superweapon.” The drone, known as Poseidon, is capable of delivering a thermonuclear cobalt bomb to create a 500-meter tsunami that could contaminate a … Continue reading &rarr;"
+description: "Russian President Vladimir Putin  announced that Russia had successfully tested a nuclear-powered drone submarine, claimed to be a \"superweapon.\" The drone, known as Poseidon, is capable of delivering a thermonuclear cobalt bomb to create a 500-meter tsunami that could contaminate a … Continue reading &rarr;"
 ---
 
 ![](https://www.oldsaltblog.com/wp-content/uploads/2025/10/poseidonputin.jpg)Russian President Vladimir Putin  announced that Russia had successfully tested a nuclear-powered drone submarine, claimed to be a “superweapon.” The drone, known as *Poseidon,* is capable of delivering a thermonuclear cobalt bomb to create a 500-meter tsunami that could contaminate a large section of coastline, making the area unlivable for up to a century. 

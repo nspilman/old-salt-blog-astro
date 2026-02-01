@@ -1,7 +1,7 @@
 ---
 title: "Schooner Bessie A. White – Hide & Seek Beneath the Sands of Fire Island"
 date: 2012-11-17T13:01:12
-slug: schooner-bessie-a-white-hide-seek-beneath-the-sands-of-fire-island
+slug: "schooner-bessie-a-white-hide-seek-beneath-the-sands-of-fire-island"
 excerpt: "Last Wednesday, we posted about the wreck of a wooden ship uncovered by Superstorm Sandy beneath the dunes of Fire Island, east of Davis Park.  The remains are thought to be the Bessie A. White, more than 90 years old, said Paula Valentine, public affairs specialist for … Continue reading &rarr;"
 categories:
   - "Current"
@@ -9,7 +9,7 @@ categories:
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - ""superstorm" Sandy"
+  - "\"superstorm\" Sandy"
   - "Bessie A. White"
   - "Fire Island"
   - "three masted Canadian schooner"

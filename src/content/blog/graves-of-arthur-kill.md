@@ -1,7 +1,7 @@
 ---
 title: "Graves of Arthur Kill"
 date: 2013-10-31T09:00:48
-slug: graves-of-arthur-kill
+slug: "graves-of-arthur-kill"
 excerpt: "Just a few miles from the gleaming glass towers of lower Manhattan is the old Witte yard, a graveyard of ships, a little known, slightly surreal assemblage of ghostly remains along the waterway known as Arthur Kill.  Gary Kane and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

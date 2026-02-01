@@ -1,7 +1,7 @@
 ---
 title: "eNotated Edition of Joshua Slocum’s Sailing Alone Around the World – A Review"
 date: 2011-03-06T13:42:45
-slug: enotated-edition-of-joshua-slocums-sailing-alone-around-the-world-a-review
+slug: "enotated-edition-of-joshua-slocums-sailing-alone-around-the-world-a-review"
 excerpt: "I was recently sent  The eNotated Sailing Alone Around the World by Joshua Slocum. Enotation is electronic annotation, where instead of footnotes or endnotes, there are embedded links in the text of an e-book. A book like Slocum’s which contains … Continue reading &rarr;"
 categories:
   - "Critiques"

@@ -1,7 +1,7 @@
 ---
 title: "Joan Druett’s The Elephant Voyage – A Review"
 date: 2013-07-31T16:44:50
-slug: joan-druetts-the-elephant-voyage-a-review
+slug: "joan-druetts-the-elephant-voyage-a-review"
 excerpt: "Joan Druett’s The Elephant Voyage is a fascinating historical account of sailors who find themselves castaway on a desolate, wind-swept sub-Antarctic island, while on an ill-fated voyage to hunt elephant seals in the late 19th century.  Their rescue and at least partial redemption also … Continue reading &rarr;"
 categories:
   - "Newbooks"

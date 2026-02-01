@@ -1,7 +1,7 @@
 ---
 title: "Alaskan Sails 8′ Walker Bay Dinghy Across the Bering Sea"
 date: 2019-06-23T17:08:50
-slug: alaskan-sails-8-walker-bay-dinghy-across-the-bering-sea
+slug: "alaskan-sails-8-walker-bay-dinghy-across-the-bering-sea"
 excerpt: "I have been looking for a rigid dinghy for my sailboat. I have an inflatable but I like to row and inflatable dinghies just don’t row well, or sometimes at all. One of the dinghies that has caught my eye … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Falls of Clyde, Last Four-Masted Full-Rigged Iron Ship, Needs Volunteers & Funds"
 date: 2012-07-16T18:32:37
-slug: falls-of-clyde-last-four-masted-full-rigged-iron-ship-needs-volunteers-funds
+slug: "falls-of-clyde-last-four-masted-full-rigged-iron-ship-needs-volunteers-funds"
 excerpt: "Falls of Clyde is the last four-masted full-rigged iron ship and the only surviving sailing oil tanker. The ship was launched in 1878 in Port Glasgow, Scotland, for the Fall Line.  She became a museum ship in Honolulu, Hawaii in 1971, but was … Continue reading &rarr;"
 categories:
   - "Current"

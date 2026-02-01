@@ -1,7 +1,7 @@
 ---
 title: "Is the Aircraft Carrier USS John F. Kennedy too big for Portland?"
 date: 2010-09-19T08:57:51
-slug: is-the-aircraft-carrier-uss-john-f-kennedy-too-big-for-portland
+slug: "is-the-aircraft-carrier-uss-john-f-kennedy-too-big-for-portland"
 excerpt: "We have previously posted about efforts to permanently moor the decommissioned aircraft carrier USS John F. Kennedy in Portland, Maine.   The Navy is is considering proposals from Portland and Rhode Island.  Many in Portland are not happy at the prospect … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Not the First Time – Costa Concordia Took the Same Route Near Giglo in the Past"
 date: 2012-01-18T13:10:36
-slug: not-the-first-time-costa-concordia-took-the-same-route-near-giglo-in-the-past
+slug: "not-the-first-time-costa-concordia-took-the-same-route-near-giglo-in-the-past"
 excerpt: "MSNBC is quoting Adam Smallman, editor of Lloyd’s List, as saying that the Costa Concordia took close to the same route in August, based on satellite tracking, as it took when it ran aground last Friday night. He also is … Continue reading &rarr;"
 categories:
   - "Current"

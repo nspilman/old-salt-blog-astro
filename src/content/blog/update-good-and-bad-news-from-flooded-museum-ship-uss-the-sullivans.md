@@ -1,7 +1,7 @@
 ---
 title: "Update: Good and Bad News From Flooded Museum Ship USS The Sullivans"
 date: 2022-05-17T19:39:50
-slug: update-good-and-bad-news-from-flooded-museum-ship-uss-the-sullivans
+slug: "update-good-and-bad-news-from-flooded-museum-ship-uss-the-sullivans"
 excerpt: "The museum ship, the retired United States Navy Fletcher-class destroyer USS The Sullivans,  partially sank after taking on water at its berth in the Buffalo and Erie County Naval & Military Park, in mid-April. Now that the historic ship has … Continue reading &rarr;"
 categories:
   - "Current"

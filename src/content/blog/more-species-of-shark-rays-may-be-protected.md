@@ -1,7 +1,7 @@
 ---
 title: "More Species of Shark & Rays May be Protected"
 date: 2013-03-12T18:42:43
-slug: more-species-of-shark-rays-may-be-protected
+slug: "more-species-of-shark-rays-may-be-protected"
 excerpt: "We recently posted about a report by the journal Marine Policy which estimated that around 100 million sharks are being killed each year in the commercial fisheries, a rate far higher than is sustainable for most shark species.  On Monday, delegates to the Convention on the … Continue reading &rarr;"
 categories:
   - "Current"

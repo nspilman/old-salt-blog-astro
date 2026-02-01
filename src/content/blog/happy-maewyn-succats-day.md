@@ -1,7 +1,7 @@
 ---
 title: "Happy Maewyn Succat’s Day"
 date: 2011-03-17T13:45:50
-slug: happy-maewyn-succats-day
+slug: "happy-maewyn-succats-day"
 excerpt: "We have been posting a lot about piracy and kidnapping recently.  Today is a reminder about how little things change over the centuries.  Somewhere around the year 400 AD, a lad of 16, named Maewyn Succat, was kidnapped by pirates from his home in Britain … Continue reading &rarr;"
 categories:
   - "Current"

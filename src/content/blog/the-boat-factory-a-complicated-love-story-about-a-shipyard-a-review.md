@@ -1,8 +1,8 @@
 ---
 title: "The Boat Factory – A Complicated Love Story about a Shipyard: A Review"
 date: 2013-07-01T11:41:37
-slug: the-boat-factory-a-complicated-love-story-about-a-shipyard-a-review
-excerpt: "My wife and I recently saw “The Boat Factory” a two actor play, starring Dan Gordon and Michael Condron, which celebrates the sprawling Harland & Wolff shipyard in Belfast, Northern Ireland.  That’s right, a play about a shipyard. But not just any … Continue reading &rarr;"
+slug: "the-boat-factory-a-complicated-love-story-about-a-shipyard-a-review"
+excerpt: "My wife and I recently saw \"The Boat Factory\" a two actor play, starring Dan Gordon and Michael Condron, which celebrates the sprawling Harland & Wolff shipyard in Belfast, Northern Ireland.  That’s right, a play about a shipyard. But not just any … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "The Boat Factory"
   - "Titanic"
 author: "Rick Spilman"
-description: "My wife and I recently saw “The Boat Factory” a two actor play, starring Dan Gordon and Michael Condron, which celebrates the sprawling Harland & Wolff shipyard in Belfast, Northern Ireland.  That’s right, a play about a shipyard. But not just any … Continue reading &rarr;"
+description: "My wife and I recently saw \"The Boat Factory\" a two actor play, starring Dan Gordon and Michael Condron, which celebrates the sprawling Harland & Wolff shipyard in Belfast, Northern Ireland.  That’s right, a play about a shipyard. But not just any … Continue reading &rarr;"
 ---
 
 My wife and I recently saw “[The Boat Factory](http://www.happenstancetheatre.co.uk/index.php/current-production/4-the-boat-factory)” a two actor play, starring [Dan Gordon](http://en.wikipedia.org/wiki/Dan_Gordon_\(actor\)) and [Michael Condron](http://www.castingcallpro.com/uk/view.php?uid=483114), which celebrates the sprawling [Harland & Wolff](http://en.wikipedia.org/wiki/Harland_and_Wolff) shipyard in Belfast, Northern Ireland.  That’s right, a play about a shipyard. But not just any shipyard.  Harland & Wolff is best remembered as the yard that built the *Titanic*, but the yard also built something like 1,700 other ships and at its peak employed 35,000 people.  It was a city within the city of Belfast.

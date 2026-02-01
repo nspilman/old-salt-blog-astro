@@ -1,8 +1,8 @@
 ---
 title: "Before Caitlyn Jenner, Louisa Jo Killen, Folk Song and Shanty Singer"
 date: 2015-06-16T09:53:06
-slug: before-caitlyn-jenner-louisa-jo-killen-folk-song-and-shanty-singer
-excerpt: "Not quite two years so, we posted about the death of the British folk and shanty singer who as born as Louis Killen.  The post title was “Lou Killen, British Folk Song and Shanty Singer, Dies at 79.”  Now after the … Continue reading &rarr;"
+slug: "before-caitlyn-jenner-louisa-jo-killen-folk-song-and-shanty-singer"
+excerpt: "Not quite two years so, we posted about the death of the British folk and shanty singer who as born as Louis Killen.  The post title was \"Lou Killen, British Folk Song and Shanty Singer, Dies at 79.\"  Now after the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

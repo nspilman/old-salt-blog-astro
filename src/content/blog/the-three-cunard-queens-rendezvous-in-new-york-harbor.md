@@ -1,8 +1,8 @@
 ---
 title: "The Three Cunard Queens Rendezvous in New York Harbor"
 date: 2011-01-10T11:41:02
-slug: the-three-cunard-queens-rendezvous-in-new-york-harbor
-excerpt: "This Thursday, January 13th, the three ships of the Cunard fleet – the Queen Mary II, the Queen Elizabeth and the recently delivered Queen Victoria –  will rendezvous in New York harbor near the Statue of Liberty around 6:45 PM.   A fireworks display will help to celebrate the “Cunard … Continue reading &rarr;"
+slug: "the-three-cunard-queens-rendezvous-in-new-york-harbor"
+excerpt: "This Thursday, January 13th, the three ships of the Cunard fleet – the Queen Mary II, the Queen Elizabeth and the recently delivered Queen Victoria –  will rendezvous in New York harbor near the Statue of Liberty around 6:45 PM.   A fireworks display will help to celebrate the \"Cunard … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Queen Mary II"
   - "Queen Victoria"
 author: "Rick Spilman"
-description: "This Thursday, January 13th, the three ships of the Cunard fleet – the Queen Mary II, the Queen Elizabeth and the recently delivered Queen Victoria –  will rendezvous in New York harbor near the Statue of Liberty around 6:45 PM.   A fireworks display will help to celebrate the “Cunard … Continue reading &rarr;"
+description: "This Thursday, January 13th, the three ships of the Cunard fleet – the Queen Mary II, the Queen Elizabeth and the recently delivered Queen Victoria –  will rendezvous in New York harbor near the Statue of Liberty around 6:45 PM.   A fireworks display will help to celebrate the \"Cunard … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/0108F_THREEQUEENSEI.jpg)This Thursday, January 13th, the three ships of the [Cunard fleet](http://www.cunard.com/Ships/) – the *Queen Mary II*, the *Queen Elizabeth* and the recently delivered *Queen Victoria* –  will rendezvous in New York harbor near the Statue of Liberty around 6:45 PM.   A fireworks display will help to celebrate the “Cunard Royal Rendezvous.”   The [last time that three Cunard liners were together in New York harbor](http://cruises.about.com/b/2008/01/14/three-cunard-line-queens-to-meet-for-royal-rendezvous-in-new-york-harbor-on-january-13.htm) was 2008 when the fleet assembled for the retirement of the Queen Elizabeth II.

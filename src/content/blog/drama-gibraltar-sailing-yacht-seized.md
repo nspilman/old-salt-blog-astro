@@ -1,7 +1,7 @@
 ---
 title: "Drama in Gibraltar — Sailing Yacht A Seized"
 date: 2017-02-20T10:43:14
-slug: drama-gibraltar-sailing-yacht-seized
+slug: "drama-gibraltar-sailing-yacht-seized"
 excerpt: "Sailing Yacht A, one of the largest, most technologically advanced and, to my eyes at least, the ugliest, sailing yacht in the world, arrived in Gibraltar recently to be turned over to its owner, Andrey Melnichenko, following extensive sea trials. … Continue reading &rarr;"
 categories:
   - "Current"

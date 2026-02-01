@@ -1,7 +1,7 @@
 ---
 title: "Troubled Sisters — Russian Carrier Admiral Kuznetsov & Chinese Liaoning"
 date: 2014-10-25T20:34:39
-slug: russian-carrier-admiral-kuznetsov-chinese-liaoning
+slug: "russian-carrier-admiral-kuznetsov-chinese-liaoning"
 excerpt: "The Russians and the Chinese each have only one aircraft carrier in service. They happen to be sister ships and both have major problems in staying afloat and keeping the propellers turning.  Both ships were built in the Black Sea Shipyard … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Star of India, 150 Years Old & Still Sailing"
 date: 2013-11-07T16:14:59
-slug: star-of-india-150-years-old-still-sailing
+slug: "star-of-india-150-years-old-still-sailing"
 excerpt: "On November 14th, 1863, on the Isle of Man in Great Britain, the shipyard of Gibson, McDonald & Arnold, Ramsey launched the 1,200 tonne full rigged iron ship, Euterpe, for the firm of Wakefield Nash & Co., Liverpool. The ship … Continue reading &rarr;"
 categories:
   - "Current"

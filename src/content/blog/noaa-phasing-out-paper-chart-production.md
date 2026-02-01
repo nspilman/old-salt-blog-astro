@@ -1,7 +1,7 @@
 ---
 title: "NOAA Phasing Out Paper Chart Production"
 date: 2019-11-19T16:25:49
-slug: noaa-phasing-out-paper-chart-production
+slug: "noaa-phasing-out-paper-chart-production"
 excerpt: "When I bought my new-to-me old boat, I bought several booklets of paper charts covering the waters from the Chesapeake to Maine. Over the last few years, I have never used them. Never, not once. Instead, I have chart plotters … Continue reading &rarr;"
 categories:
   - "Current"

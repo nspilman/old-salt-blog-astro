@@ -1,8 +1,8 @@
 ---
-title: "“Sisters Under Sail” – Schooner Unicorn at Tall Ships Chicago"
+title: "\"Sisters Under Sail\" – Schooner Unicorn at Tall Ships Chicago"
 date: 2010-08-27T09:44:21
-slug: sisters-under-sail-schooner-unicorn-at-tall-ships-chicago
-excerpt: "Earlier this week we posted about Tall Ships Chicago 2010.   Among the roughly 20 tall ships participating is the 118-foot topsail schooner Unicorn whose crew includes six Chicago-area girls from the “Sisters Under Sail” program. “Adventure of a Lifetime” is About … Continue reading &rarr;"
+slug: "sisters-under-sail-schooner-unicorn-at-tall-ships-chicago"
+excerpt: "Earlier this week we posted about Tall Ships Chicago 2010.   Among the roughly 20 tall ships participating is the 118-foot topsail schooner Unicorn whose crew includes six Chicago-area girls from the \"Sisters Under Sail\" program. \"Adventure of a Lifetime\" is About … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Topsail Schooner"
   - "unicorn"
 author: "Rick Spilman"
-description: "Earlier this week we posted about Tall Ships Chicago 2010.   Among the roughly 20 tall ships participating is the 118-foot topsail schooner Unicorn whose crew includes six Chicago-area girls from the “Sisters Under Sail” program. “Adventure of a Lifetime” is About … Continue reading &rarr;"
+description: "Earlier this week we posted about Tall Ships Chicago 2010.   Among the roughly 20 tall ships participating is the 118-foot topsail schooner Unicorn whose crew includes six Chicago-area girls from the \"Sisters Under Sail\" program. \"Adventure of a Lifetime\" is About … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/unicorn1.jpg)

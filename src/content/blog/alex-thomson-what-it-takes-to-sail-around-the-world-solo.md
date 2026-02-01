@@ -1,7 +1,7 @@
 ---
 title: "Alex Thomson — What Does It Take to Sail Around the World Solo"
 date: 2018-09-10T17:21:44
-slug: alex-thomson-what-it-takes-to-sail-around-the-world-solo
+slug: "alex-thomson-what-it-takes-to-sail-around-the-world-solo"
 excerpt: "More than 4,000 people have climbed Mount Everest. More than 600 people have been in outer space. Yet fewer than 100 people have sailed solo non-stop around the world. What does it take to race around the globe alone? Skill, obviously. Physical … Continue reading &rarr;"
 categories:
   - "Current"

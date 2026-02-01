@@ -1,7 +1,7 @@
 ---
 title: "Transoceanic Sailboat Race Kicking Off in NYC"
 date: 2010-04-03T08:41:34
-slug: transoceanic-sailboat-race-kicking-off-in-nyc
+slug: "transoceanic-sailboat-race-kicking-off-in-nyc"
 excerpt: "Transoceanic Sailboat Race Kicking Off in NYC Six sailors are looking to make history.    Two sailboats, the W Hotels and Estrella Damm, docked in New York harbor will set off for Barcelona, Spain, early next month. They are racing … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

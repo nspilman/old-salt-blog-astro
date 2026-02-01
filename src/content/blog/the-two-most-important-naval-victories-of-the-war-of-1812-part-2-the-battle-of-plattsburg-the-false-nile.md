@@ -1,7 +1,7 @@
 ---
-title: "The Two Most Important Naval Victories of the War of 1812 – Part 2 : The Battle of Plattsburg – the “False Nile”"
+title: "The Two Most Important Naval Victories of the War of 1812 – Part 2 : The Battle of Plattsburg – the \"False Nile\""
 date: 2012-09-11T09:54:54
-slug: the-two-most-important-naval-victories-of-the-war-of-1812-part-2-the-battle-of-plattsburg-the-false-nile
+slug: "the-two-most-important-naval-victories-of-the-war-of-1812-part-2-the-battle-of-plattsburg-the-false-nile"
 excerpt: "One year and one day after the Battle of Lake Erie, an American squadron, under the command of Master Commandant Thomas Macdonough, defeated the Royal Navy on Lake Champlain in a bloody battle at Plattsburgh Bay.  The Battle of Plattsburgh turned back an invasion … Continue reading &rarr;"
 categories:
   - "History"

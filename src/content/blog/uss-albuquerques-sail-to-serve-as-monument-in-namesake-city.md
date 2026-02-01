@@ -1,7 +1,7 @@
 ---
 title: "USS Albuquerque’s Sail to Serve as Monument in Namesake City"
 date: 2022-08-31T10:02:11
-slug: uss-albuquerques-sail-to-serve-as-monument-in-namesake-city
+slug: "uss-albuquerques-sail-to-serve-as-monument-in-namesake-city"
 excerpt: "In its 34 years of service, the Los Angeles-class attack submarine USS Albuquerque never visited its namesake city. Albuquerque, New Mexico sits in the high desert almost one thousand miles from the nearest ocean. Now, however, as the 362-foot-long submarine … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

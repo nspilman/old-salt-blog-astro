@@ -1,7 +1,7 @@
 ---
 title: "San Francisco Capsize Echoes Past Tragedy — Kandi Won & Khaleesi"
 date: 2016-10-13T15:18:42
-slug: san-francisco-capsize-echoes-past-tragedy-kandi-won-khaleesi
+slug: "san-francisco-capsize-echoes-past-tragedy-kandi-won-khaleesi"
 excerpt: "Originally posted by gCaptain. Reposted with permission. Last Saturday, the 30 passengers aboard Khaleesi, a Silverton 34 power boat, were watching the Navy Blue Angels over San Francisco Bay as part of Fleet Week.  On the way back to the dock,  Khaleesi capsized and … Continue reading &rarr;"
 categories:
   - "Current"

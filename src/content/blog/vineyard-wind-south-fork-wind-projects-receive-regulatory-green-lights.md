@@ -1,7 +1,7 @@
 ---
 title: "Vineyard Wind & South Fork Wind Projects Receive Regulatory Green Lights"
 date: 2021-03-22T12:58:25
-slug: vineyard-wind-south-fork-wind-projects-receive-regulatory-green-lights
+slug: "vineyard-wind-south-fork-wind-projects-receive-regulatory-green-lights"
 excerpt: "Two offshore wind energy projects off the US Northeast coast have received new approvals from regulators. Vineyard Wind Vineyard Wind, an 800 megawatt (MW) wind farm to be built 15 miles off the coast of Martha’s Vineyard, was advised that … Continue reading &rarr;"
 categories:
   - "Current"

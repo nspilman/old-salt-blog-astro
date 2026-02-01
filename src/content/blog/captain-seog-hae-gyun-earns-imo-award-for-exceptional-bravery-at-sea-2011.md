@@ -1,8 +1,8 @@
 ---
 title: "Captain Seog Hae-gyun Earns IMO Award for Exceptional Bravery at Sea 2011"
 date: 2011-11-29T09:23:45
-slug: captain-seog-hae-gyun-earns-imo-award-for-exceptional-bravery-at-sea-2011
-excerpt: "On November 21st, at IMO Headquarters in London, Captain Seog Hae-gyun was awarded the IMO Award for Exceptional Bravery at Sea for 2011 “for his decisive, brave and courageous actions to protect his ship and crew during a vicious pirate attack … Continue reading &rarr;"
+slug: "captain-seog-hae-gyun-earns-imo-award-for-exceptional-bravery-at-sea-2011"
+excerpt: "On November 21st, at IMO Headquarters in London, Captain Seog Hae-gyun was awarded the IMO Award for Exceptional Bravery at Sea for 2011 \"for his decisive, brave and courageous actions to protect his ship and crew during a vicious pirate attack … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Samho Jewelry"
   - "Somali pirates"
 author: "Rick Spilman"
-description: "On November 21st, at IMO Headquarters in London, Captain Seog Hae-gyun was awarded the IMO Award for Exceptional Bravery at Sea for 2011 “for his decisive, brave and courageous actions to protect his ship and crew during a vicious pirate attack … Continue reading &rarr;"
+description: "On November 21st, at IMO Headquarters in London, Captain Seog Hae-gyun was awarded the IMO Award for Exceptional Bravery at Sea for 2011 \"for his decisive, brave and courageous actions to protect his ship and crew during a vicious pirate attack … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/IMO_Bravery2011.jpg)

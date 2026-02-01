@@ -1,7 +1,7 @@
 ---
-title: "Ukrainian Engineer Attempts to Sink Oligarch’s Yacht — “My Boss is a Criminal”"
+title: "Ukrainian Engineer Attempts to Sink Oligarch’s Yacht — \"My Boss is a Criminal\""
 date: 2022-02-28T18:03:28
-slug: ukrainian-engineer-attempts-to-sink-oligarchs-yacht-my-boss-is-a-criminal
+slug: "ukrainian-engineer-attempts-to-sink-oligarchs-yacht-my-boss-is-a-criminal"
 excerpt: "A Ukrainian marine engineer was detained after attempting to sink the Lady Anastasia, a 48-meter-long $7 million superyacht owned by Russian oligarch and arms tycoon, Alexander Mijeev. The attempt took place on Saturday at Port Adriano in Mallorca. The 55-year-old … Continue reading &rarr;"
 categories:
   - "Current"

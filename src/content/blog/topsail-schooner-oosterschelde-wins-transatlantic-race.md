@@ -1,7 +1,7 @@
 ---
 title: "Topsail Schooner Oosterschelde Wins Transatlantic Race"
 date: 2017-08-19T09:04:48
-slug: topsail-schooner-oosterschelde-wins-transatlantic-race
+slug: "topsail-schooner-oosterschelde-wins-transatlantic-race"
 excerpt: "The Dutch three-masted topsail schooner Oosterschelde will be 100 years old next year, but she is still fast. She just finished first in the trans-Atlantic race from Halifax to Le Havre. After a voyage of 2,500 nautical miles (4,500 km) the ship … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Old Man of the Lake — Crater Lake’s Ancient Wanderer"
 date: 2018-02-20T20:48:03
-slug: old-man-lake-crater-lakes-ancient-wanderer
+slug: "old-man-lake-crater-lakes-ancient-wanderer"
 excerpt: "A 30′ long stump of what is probably a hemlock tree has been floating vertically, bobbing up and down, in Crater Lake, in south-central Oregon in the western United States, for more than 120 years. How much longer it has been floating, … Continue reading &rarr;"
 categories:
   - "Current"

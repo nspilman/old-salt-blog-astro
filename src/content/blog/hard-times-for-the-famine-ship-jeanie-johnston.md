@@ -1,8 +1,8 @@
 ---
 title: "Hard Times for the Famine Ship Jeanie Johnston"
 date: 2015-03-28T20:02:17
-slug: hard-times-for-the-famine-ship-jeanie-johnston
-excerpt: "Here is a reminder just how difficult it is to fund, build, operate and maintain historic or replica ships.  Those who do so successfully, deserve more credit than they receive. The Irish Examiner recently described how the replica “famine ship” Jeanie Johnson has … Continue reading &rarr;"
+slug: "hard-times-for-the-famine-ship-jeanie-johnston"
+excerpt: "Here is a reminder just how difficult it is to fund, build, operate and maintain historic or replica ships.  Those who do so successfully, deserve more credit than they receive. The Irish Examiner recently described how the replica \"famine ship\" Jeanie Johnson has … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

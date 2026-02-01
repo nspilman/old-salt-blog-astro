@@ -1,7 +1,7 @@
 ---
 title: "On Crete, New Evidence of Very Ancient Mariners"
 date: 2010-02-16T09:18:53
-slug: on-crete-new-evidence-of-very-ancient-mariners
+slug: "on-crete-new-evidence-of-very-ancient-mariners"
 excerpt: "Here is an intriguing article suggesting that we humans have been taking to the sea for far longer than had been previously recorded. Recently stone tools have been found on the island of Crete which date back at least 130,000 … Continue reading &rarr;"
 categories:
   - "Current"

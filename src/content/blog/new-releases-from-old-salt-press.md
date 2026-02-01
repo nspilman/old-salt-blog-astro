@@ -1,7 +1,7 @@
 ---
 title: "New Releases From Old Salt Press"
 date: 2015-02-02T18:11:31
-slug: new-releases-from-old-salt-press
+slug: "new-releases-from-old-salt-press"
 excerpt: "I am very excited about the new releases from Old Salt Press. They include Antione Vanner’s Britannia’s Shark, V.E. Ulett’s  Blackwell’s Homecoming, Joan Druett’s Eleanor’s Odyssey and Lady Castaways, Alaric Bond’s The Guinea Boat and my own new novel, The Shantyman, which … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Blind Japanese Sailor Sails Non-Stop Across the Pacific"
 date: 2019-04-25T09:12:14
-slug: blind-japanese-sailor-sails-non-stop-across-the-pacific
+slug: "blind-japanese-sailor-sails-non-stop-across-the-pacific"
 excerpt: "Mitsuhiro Iwamoto, 52, sailed 8,700-miles across the Pacific non-stop, becoming the first visually impaired person to do so. He was assisted by his sighted navigator, Doug Smith.  The two left California in late February on a 12m (40 ft) sailboat and … Continue reading &rarr;"
 categories:
   - "Current"

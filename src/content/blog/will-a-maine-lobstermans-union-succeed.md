@@ -1,7 +1,7 @@
 ---
 title: "Will a Maine Lobsterman’s Union Succeed?"
 date: 2013-11-03T09:34:19
-slug: will-a-maine-lobstermans-union-succeed
+slug: "will-a-maine-lobstermans-union-succeed"
 excerpt: "In August we posted about the current boom in the lobster catch in Maine and about concerns that it could end in a bust.  After years of averages catches of around 20 million pounds of lobster per year, Maine’s 5,500 lobster-men … Continue reading &rarr;"
 categories:
   - "Current"

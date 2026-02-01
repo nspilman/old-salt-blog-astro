@@ -1,7 +1,7 @@
 ---
 title: "San Diego’s Foxtrot-Class Sub B-39 Heading to Scrap Yard"
 date: 2021-10-07T14:15:07
-slug: san-diegos-foxtrot-class-sub-b-39-heading-to-scrap-yard
+slug: "san-diegos-foxtrot-class-sub-b-39-heading-to-scrap-yard"
 excerpt: "For the last 15 years, the Soviet-era Foxtrot-class diesel-electric submarine B-39 has been a museum ship at the Maritime Museum of San Diego. Now, with its outer hull deteriorating, the museum has decided to scrap the retired attack submarine.  Stars … Continue reading &rarr;"
 categories:
   - "Current"

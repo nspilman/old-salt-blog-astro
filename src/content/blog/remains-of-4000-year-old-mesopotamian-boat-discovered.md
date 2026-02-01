@@ -1,7 +1,7 @@
 ---
 title: "Remains of 4,000-Year-Old Mesopotamian Boat Discovered"
 date: 2022-04-25T10:04:20
-slug: remains-of-4000-year-old-mesopotamian-boat-discovered
+slug: "remains-of-4000-year-old-mesopotamian-boat-discovered"
 excerpt: "When the burial ship at Sutton Hoo in the UK was uncovered in 1939, the ship itself was missing. The wooden planks and frames of the ship, dating from around 600 AD, had rotted away. Nevertheless, an almost intact impression … Continue reading &rarr;"
 categories:
   - "Current"

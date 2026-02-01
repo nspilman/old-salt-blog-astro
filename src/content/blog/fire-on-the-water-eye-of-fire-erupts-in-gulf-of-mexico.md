@@ -1,8 +1,8 @@
 ---
-title: "Fire on the Water — “Eye of Fire” Erupts in Gulf of Mexico"
+title: "Fire on the Water — \"Eye of Fire\" Erupts in Gulf of Mexico"
 date: 2021-07-03T10:00:26
-slug: fire-on-the-water-eye-of-fire-erupts-in-gulf-of-mexico
-excerpt: "Early Friday, bright orange flames boiled from the Gulf of Mexico off the Yucatan peninsula caused by a gas leak in an underwater pipeline. Resembling molten lava, the eruption of flames was dubbed an “eye of fire” on social media. … Continue reading &rarr;"
+slug: "fire-on-the-water-eye-of-fire-erupts-in-gulf-of-mexico"
+excerpt: "Early Friday, bright orange flames boiled from the Gulf of Mexico off the Yucatan peninsula caused by a gas leak in an underwater pipeline. Resembling molten lava, the eruption of flames was dubbed an \"eye of fire\" on social media. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "underwater pipeline"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/eyeoffire.jpg"
 author: "Rick Spilman"
-description: "Early Friday, bright orange flames boiled from the Gulf of Mexico off the Yucatan peninsula caused by a gas leak in an underwater pipeline. Resembling molten lava, the eruption of flames was dubbed an “eye of fire” on social media. … Continue reading &rarr;"
+description: "Early Friday, bright orange flames boiled from the Gulf of Mexico off the Yucatan peninsula caused by a gas leak in an underwater pipeline. Resembling molten lava, the eruption of flames was dubbed an \"eye of fire\" on social media. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/eyeoffire.jpg)Early Friday, bright orange flames boiled from the Gulf of Mexico off the Yucatan peninsula caused by a gas leak in an underwater pipeline. Resembling molten lava, the eruption of flames was dubbed an “eye of fire” on social media. The fire, near a Mexican state oil company Pemex drilling platform, burned for five hours before being fully extinguished.

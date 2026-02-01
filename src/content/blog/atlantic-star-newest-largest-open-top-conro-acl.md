@@ -1,7 +1,7 @@
 ---
 title: "Atlantic Star –Newest & Largest Open-Top ConRo for ACL"
 date: 2016-01-12T19:10:59
-slug: atlantic-star-newest-largest-open-top-conro-acl
+slug: "atlantic-star-newest-largest-open-top-conro-acl"
 excerpt: "Atlantic Container Lines’ (ACL) Atlantic Star, the newest and world’s largest Container/Roll-on Roll-off ship, has arrived on the North American East Coast, calling at Halifax and on Saturday, in New York. Notwithstanding its name, the ships of Atlantic Container Lines … Continue reading &rarr;"
 categories:
   - "Current"

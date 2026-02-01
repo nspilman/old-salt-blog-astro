@@ -1,7 +1,7 @@
 ---
 title: "Timelapse – Sailing Down the Expanded Suez Canal"
 date: 2015-10-07T09:01:15
-slug: timelapse-sailing-down-the-expanded-suez-canal
+slug: "timelapse-sailing-down-the-expanded-suez-canal"
 excerpt: "Maersk Line has posted a 3-minute time lapse of the M/V Adrian Maersk, 6,000 TEUs, passing through the newly expanded New Suez Canal. As reported in Maritime Executive: The New Suez Canal was inaugurated by Egypt’s President Abdel Fattah Al-Sisi in a ceremony … Continue reading &rarr;"
 categories:
   - "Current"

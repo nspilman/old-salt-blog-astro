@@ -1,8 +1,8 @@
 ---
 title: "Britain’s Atlanti? Scientists Mapping the Sunken Landscapes of One Atlantis or Another"
 date: 2013-05-23T20:17:24
-slug: britians-atlanti-scientists-mapping-sunken-landscapes
-excerpt: "What is the plural of Atlantis? Atlanti? Atlantises?  Recently two different underwater areas have been in the news, both of which are referred to as  “Britain’s Atlantis.”   One is called Doggerland, a huge undersea region swallowed by the sea … Continue reading &rarr;"
+slug: "britians-atlanti-scientists-mapping-sunken-landscapes"
+excerpt: "What is the plural of Atlantis? Atlanti? Atlantises?  Recently two different underwater areas have been in the news, both of which are referred to as  \"Britain’s Atlantis.\"   One is called Doggerland, a huge undersea region swallowed by the sea … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "Dunwich"
   - "lost medieval town"
 author: "Rick Spilman"
-description: "What is the plural of Atlantis? Atlanti? Atlantises?  Recently two different underwater areas have been in the news, both of which are referred to as  “Britain’s Atlantis.”   One is called Doggerland, a huge undersea region swallowed by the sea … Continue reading &rarr;"
+description: "What is the plural of Atlantis? Atlanti? Atlantises?  Recently two different underwater areas have been in the news, both of which are referred to as  \"Britain’s Atlantis.\"   One is called Doggerland, a huge undersea region swallowed by the sea … Continue reading &rarr;"
 ---
 
 ![doggerland](http://www.oldsaltblog.com/wp-content/uploads/2013/05/doggerland.jpg)

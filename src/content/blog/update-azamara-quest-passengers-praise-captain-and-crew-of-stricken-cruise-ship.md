@@ -1,7 +1,7 @@
 ---
 title: "Update: Azamara Quest – Passengers Praise Captain and Crew of Stricken Cruise Ship"
 date: 2012-04-02T08:00:07
-slug: update-azamara-quest-passengers-praise-captain-and-crew-of-stricken-cruise-ship
+slug: "update-azamara-quest-passengers-praise-captain-and-crew-of-stricken-cruise-ship"
 excerpt: "In a pleasant contrast to events surrounding the sinking of the Costa Concordia, the passengers aboard the  fire damaged cruise ship Azamara Quest are reported to have high praise for the actions of the captain and crew. A fire broke out in one of the ship’s engine … Continue reading &rarr;"
 categories:
   - "Current"

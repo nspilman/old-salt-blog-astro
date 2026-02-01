@@ -1,7 +1,7 @@
 ---
 title: "Three Stowaways Found Perched on Tanker’s Rudder on 11 Day Voyage"
 date: 2022-11-30T18:26:09
-slug: three-stowaways-found-riding-perched-on-tankers-rudder-on-11-day-voyage
+slug: "three-stowaways-found-riding-perched-on-tankers-rudder-on-11-day-voyage"
 excerpt: "When the 51,000 DWT Maltese-flagged tanker Alithina II sailed in ballast from Nigeria to Las Palmas, Gran Canaria she carried a most unusual cargo. Because she sailed in ballast and was riding high in the water, three stowaways were found … Continue reading &rarr;"
 categories:
   - "Current"

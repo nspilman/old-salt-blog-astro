@@ -1,7 +1,7 @@
 ---
 title: "Schooner Sultana Downrigging Weekend & Tall Ship and Wooden Boat Festival 2011"
 date: 2011-10-18T15:50:14
-slug: schooner-sultana-downrigging-weekend-tall-ship-and-wooden-boat-festival-2011
+slug: "schooner-sultana-downrigging-weekend-tall-ship-and-wooden-boat-festival-2011"
 excerpt: "Usually downrigging a schooner involves lots of coiling, carrying, hauling, the breaking down of shackles and turnbuckles, and depending on the rig, attempting to free up the top mast so that it can be lowered gently to the deck, rather than dropping it like an unguided … Continue reading &rarr;"
 categories:
   - "Current"

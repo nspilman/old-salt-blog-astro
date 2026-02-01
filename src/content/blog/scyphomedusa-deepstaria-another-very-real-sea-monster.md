@@ -1,8 +1,8 @@
 ---
 title: "Scyphomedusa Deepstaria – Another Very Real Sea Monster"
 date: 2013-11-13T11:25:58
-slug: scyphomedusa-deepstaria-another-very-real-sea-monster
-excerpt: "There are indeed creatures in the oceans which could be called “sea monsters.”   At the end of last month we posted about two very real “sea serpents” – oar fish that washed up on the coast of Southern California. … Continue reading &rarr;"
+slug: "scyphomedusa-deepstaria-another-very-real-sea-monster"
+excerpt: "There are indeed creatures in the oceans which could be called \"sea monsters.\"   At the end of last month we posted about two very real \"sea serpents\" – oar fish that washed up on the coast of Southern California. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "oil rig"
   - "Scyphomedusa Deepstaria"
 author: "Rick Spilman"
-description: "There are indeed creatures in the oceans which could be called “sea monsters.”   At the end of last month we posted about two very real “sea serpents” – oar fish that washed up on the coast of Southern California. … Continue reading &rarr;"
+description: "There are indeed creatures in the oceans which could be called \"sea monsters.\"   At the end of last month we posted about two very real \"sea serpents\" – oar fish that washed up on the coast of Southern California. … Continue reading &rarr;"
 ---
 
 There are indeed creatures in the oceans which could be called “sea monsters.”   At the end of last month we posted about [two very real “sea serpents”](http://www.oldsaltblog.com/2013/10/if-oarfish-predict-earthquakes-they-are-doing-a-really-lousy-job/) – oar fish that washed up on the coast of Southern California. Here is an account of another very real, if rarely seen, “sea monster,” the [scyphomedusa Deepstaria](http://youtu.be/EwCgcwuFsBk).  Recently a video from April 2012 has washed up onto the surface of cyberspace with the headline, “[Massive Unidentified Sea Monster caught on Oil-Rig Cam](http://www.liveleak.com/view?i=193_1379475235).”

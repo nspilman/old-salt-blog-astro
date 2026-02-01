@@ -1,7 +1,7 @@
 ---
 title: "Trash In the Trench — Record Dive Find Plastics in Challenger Deep"
 date: 2019-05-14T09:51:18
-slug: trash-in-the-trench-record-dive-find-plastics-in-challenger-deep
+slug: "trash-in-the-trench-record-dive-find-plastics-in-challenger-deep"
 excerpt: "American diver breaks record with journey to the Mariana Trench American adventurer Victor Vesco broke the record for deepest submarine dive ever in the Challenger Deep in the Pacific Ocean’s Mariana Trench. In his four hours at the bottom, he … Continue reading &rarr;"
 categories:
   - "Current"

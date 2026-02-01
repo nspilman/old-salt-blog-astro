@@ -1,7 +1,7 @@
 ---
 title: "Remains of Two Sailors Found in Inflatable Washes Ashore on Sable Island, Nova Scotia"
 date: 2024-07-15T18:29:00
-slug: remains-of-two-sailors-found-in-inflatable-washes-ashore-on-sable-island-nova-scotia
+slug: "remains-of-two-sailors-found-in-inflatable-washes-ashore-on-sable-island-nova-scotia"
 excerpt: "Last week, a 10-foot inflatable boat with two bodies on board was discovered washed ashore on Sable Island, Nova Scotia. The remains are believed to be of Brett Clibbery, 70, and Sarah Packwood, 60, from British Columbia, who were reported … Continue reading &rarr;"
 categories:
   - "Current"

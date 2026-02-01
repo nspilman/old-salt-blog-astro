@@ -1,7 +1,7 @@
 ---
 title: "The Mulberries Battle the Storm — June 19, 1944"
 date: 2016-06-19T10:20:29
-slug: mulberries-battle-storm-1944
+slug: "mulberries-battle-storm-1944"
 excerpt: "Seventy-two years ago today, during the early days of the Allied invasion of Europe, the sea would prove to be as formidable an enemy as the Germans. A storm, the worst in 80 years, came close to wiping out the … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Engine-less Merchant Sailing Ship Tres Hombres Rescues 70 Year Old German Sailor in Rudderless Sailboat"
 date: 2013-01-02T09:26:26
-slug: engine-less-merchant-sailing-ship-tres-hombres-rescues-70-year-old-german-sailor-in-rudderless-sailboat
+slug: "engine-less-merchant-sailing-ship-tres-hombres-rescues-70-year-old-german-sailor-in-rudderless-sailboat"
 excerpt: "The Dutch merchant sailing ship, Tres Hombres, rescued a 70 year old German sailor who had been adrift in the Atlantic for two weeks after the rudder broke on his sailboat, Fidel.  The German sailor was exhausted and dehydrated and was incapable of taking the … Continue reading &rarr;"
 categories:
   - "Current"

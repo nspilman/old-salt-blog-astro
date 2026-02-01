@@ -1,7 +1,7 @@
 ---
 title: "Busy Weekend in New York Harbor – Mermaids, Sloops & Song"
 date: 2011-06-17T12:06:02
-slug: busy-weekend-in-new-york-harbor-mermaids-sloops-song
+slug: "busy-weekend-in-new-york-harbor-mermaids-sloops-song"
 excerpt: "This will be  busy weekend around the Hudson River and New York harbor.     At Croton Point Park,  on the east bank of the Hudson River, just north of New York City, the Clearwater’s Great Hudson River Revival – … Continue reading &rarr;"
 categories:
   - "Current"

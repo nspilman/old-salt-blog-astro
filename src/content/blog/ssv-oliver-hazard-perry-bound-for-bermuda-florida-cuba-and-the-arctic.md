@@ -1,7 +1,7 @@
 ---
 title: "SSV Oliver Hazard Perry Bound for Bermuda, Florida, Cuba and the Arctic"
 date: 2017-01-11T10:54:11
-slug: ssv-oliver-hazard-perry-bound-for-bermuda-florida-cuba-and-the-arctic
+slug: "ssv-oliver-hazard-perry-bound-for-bermuda-florida-cuba-and-the-arctic"
 excerpt: "After a successful first season sailing New England waters, SSV Oliver Hazard Perry has an exciting 2017 ahead.  Toward the end of January, the sailing school ship will depart Newport, RI bound for Bermuda, then to Florida where the ship will be … Continue reading &rarr;"
 categories:
   - "Current"

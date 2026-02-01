@@ -1,7 +1,7 @@
 ---
 title: "Fukushima Radiation Found in Tuna Off California Coast"
 date: 2012-05-29T09:27:07
-slug: fuskushima-radiation-found-in-tuna-off-california-coast
+slug: "fuskushima-radiation-found-in-tuna-off-california-coast"
 excerpt: "It is really all just one big ocean. Low levels of nuclear radiation from the tsunami-damaged Fukushima power plant have turned up in bluefin tuna off the California coast, 6,000 miles from the damaged Japanese nuclear reactors.  Small amounts of cesium-137 and cesium-134 … Continue reading &rarr;"
 categories:
   - "Current"

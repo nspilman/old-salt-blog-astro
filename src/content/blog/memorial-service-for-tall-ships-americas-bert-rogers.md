@@ -1,7 +1,7 @@
 ---
 title: "Memorial Service for Tall Ships America’s Bert Rogers"
 date: 2018-09-03T08:41:10
-slug: memorial-service-for-tall-ships-americas-bert-rogers
+slug: "memorial-service-for-tall-ships-americas-bert-rogers"
 excerpt: "Tomorrow, September 4th, a memorial service honoring the life of Bert Rogers will be held at 2PM on the North lawn at Fort Adams in Newport, RI.  Bert Rogers was the long-time Executive Director of Tall Ships America and an … Continue reading &rarr;"
 categories:
   - "Current"

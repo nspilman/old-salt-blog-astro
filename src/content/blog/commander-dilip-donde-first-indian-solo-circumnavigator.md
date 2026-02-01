@@ -1,7 +1,7 @@
 ---
 title: "Commander Dilip Donde – First Indian Solo Circumnavigator"
 date: 2010-05-26T09:31:20
-slug: commander-dilip-donde-first-indian-solo-circumnavigator
+slug: "commander-dilip-donde-first-indian-solo-circumnavigator"
 excerpt: "The teenagers have been getting more press, but Zach, Mike, Jessica and Abby are not the only intrepid solo circumnavigators out there.  On Saturday,  Commander Dilip Donde sailed into Mumbai,  completing the first recorded solo circumnavigation by an Indian. Navy commander … Continue reading &rarr;"
 categories:
   - "Current"

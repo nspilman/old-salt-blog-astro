@@ -1,7 +1,7 @@
 ---
 title: "Sixty Miles per Hour under Sail – the Mighty (and Tiny) DN Iceboat"
 date: 2010-02-13T09:29:33
-slug: sixty-miles-per-hour-under-sail-%e2%80%93-the-mighty-and-tiny-dn-iceboat
+slug: "sixty-miles-per-hour-under-sail-%e2%80%93-the-mighty-and-tiny-dn-iceboat"
 excerpt: "As truly awe inspiring as the huge and high tech America’s Cup boats are,  we shouldn’t forget that iceboats are the real speed demons on the water (even if it is frozen.)   Will at the Tugster blog has some great photos … Continue reading &rarr;"
 categories:
   - "Current"

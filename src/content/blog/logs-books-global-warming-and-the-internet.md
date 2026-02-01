@@ -1,7 +1,7 @@
 ---
 title: "Log Books, Global Warming and the Internet"
 date: 2010-02-12T17:35:41
-slug: logs-books-global-warming-and-the-internet
+slug: "logs-books-global-warming-and-the-internet"
 excerpt: "Last October, we wrote about how researchers are using eighteenth century Royal Navy ship logs to study climate change.  (See Logbooks may yield climate bounty.)  Now, through the wonder of the internet, many of these log books are on-line.  The … Continue reading &rarr;"
 categories:
   - "Current"

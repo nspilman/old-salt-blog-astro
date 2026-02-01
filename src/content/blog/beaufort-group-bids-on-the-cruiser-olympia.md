@@ -1,7 +1,7 @@
 ---
 title: "Beaufort Group Bids on the Cruiser Olympia"
 date: 2011-04-28T20:40:45
-slug: beaufort-group-bids-on-the-cruiser-olympia
+slug: "beaufort-group-bids-on-the-cruiser-olympia"
 excerpt: "A group in Beaufort, SC is bidding on acquiring the Cruiser Olympia. Beaufort group bids on century-old ship A Beaufort organization is bidding to become the next home of the ship Commodore George Dewey used as his flagship at the Battle of … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Shantyman — Now Available in Print"
 date: 2015-02-23T18:02:15
-slug: the-shantyman-now-available-in-print
+slug: "the-shantyman-now-available-in-print"
 excerpt: "My new novel, The Shantyman, is now available as a paperback on Amazon and Barnes & Noble.   It is also available as an ebook on Amazon.   About The Shantyman: He can save the ship and the crew, but can he save himself? … Continue reading &rarr;"
 categories:
   - "Newbooks"

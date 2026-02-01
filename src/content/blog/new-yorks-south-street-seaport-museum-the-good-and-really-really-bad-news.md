@@ -1,7 +1,7 @@
 ---
 title: "New York’s South Street Seaport Museum – the Good and Really, Really Bad News"
 date: 2012-11-02T12:21:23
-slug: new-yorks-south-street-seaport-museum-the-good-and-really-really-bad-news
+slug: "new-yorks-south-street-seaport-museum-the-good-and-really-really-bad-news"
 excerpt: "The area around the South Street Seaport on the East River in lower Manhattan was particularly hard hit by the storm surge from Hurricane Sandy.  The rising water reached the first floor eaves, devastating homes and businesses. The only good news was that the seven historic vessels at … Continue reading &rarr;"
 categories:
   - "Current"

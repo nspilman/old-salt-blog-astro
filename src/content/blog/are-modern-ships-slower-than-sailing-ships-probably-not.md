@@ -1,8 +1,8 @@
 ---
 title: "Are Modern Ships Slower Than Sailing Ships? Probably not."
 date: 2012-09-17T11:40:48
-slug: are-modern-ships-slower-than-sailing-ships-probably-not
-excerpt: "In 2010, the headline read,  Modern cargo ships slow to the speed of the sailing clippers. The article was subtitled, “Container ships are taking longer to cross the oceans than the Cutty Sark did as owners adopt ‘super-slow steaming’ to … Continue reading &rarr;"
+slug: "are-modern-ships-slower-than-sailing-ships-probably-not"
+excerpt: "In 2010, the headline read,  Modern cargo ships slow to the speed of the sailing clippers. The article was subtitled, \"Container ships are taking longer to cross the oceans than the Cutty Sark did as owners adopt ‘super-slow steaming’ to … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -17,7 +17,7 @@ tags:
   - "Sovereign of the Seas"
   - "windjammers"
 author: "Rick Spilman"
-description: "In 2010, the headline read,  Modern cargo ships slow to the speed of the sailing clippers. The article was subtitled, “Container ships are taking longer to cross the oceans than the Cutty Sark did as owners adopt ‘super-slow steaming’ to … Continue reading &rarr;"
+description: "In 2010, the headline read,  Modern cargo ships slow to the speed of the sailing clippers. The article was subtitled, \"Container ships are taking longer to cross the oceans than the Cutty Sark did as owners adopt ‘super-slow steaming’ to … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/Sovereignoftheseasclipper2.jpg)

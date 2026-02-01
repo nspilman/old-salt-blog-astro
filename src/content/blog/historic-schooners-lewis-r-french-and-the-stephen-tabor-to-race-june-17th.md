@@ -1,8 +1,8 @@
 ---
 title: "1871 Schooner Showdown – Historic Schooners Lewis R. French and the Stephen Taber to Race June 17th"
 date: 2011-06-15T20:32:27
-slug: historic-schooners-lewis-r-french-and-the-stephen-tabor-to-race-june-17th
-excerpt: "Both the schooners  Lewis R. French and the Stephen Taber were built in 1871.  To celebrate  their 140th birthdays, these grand old ladies will be racing from Camden to Rockland this Friday June 17 in an “1871 Schooner Showdown.” A race of two historic … Continue reading &rarr;"
+slug: "historic-schooners-lewis-r-french-and-the-stephen-tabor-to-race-june-17th"
+excerpt: "Both the schooners  Lewis R. French and the Stephen Taber were built in 1871.  To celebrate  their 140th birthdays, these grand old ladies will be racing from Camden to Rockland this Friday June 17 in an \"1871 Schooner Showdown.\" A race of two historic … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "schooners"
   - "Stephen Tabor"
 author: "Rick Spilman"
-description: "Both the schooners  Lewis R. French and the Stephen Taber were built in 1871.  To celebrate  their 140th birthdays, these grand old ladies will be racing from Camden to Rockland this Friday June 17 in an “1871 Schooner Showdown.” A race of two historic … Continue reading &rarr;"
+description: "Both the schooners  Lewis R. French and the Stephen Taber were built in 1871.  To celebrate  their 140th birthdays, these grand old ladies will be racing from Camden to Rockland this Friday June 17 in an \"1871 Schooner Showdown.\" A race of two historic … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/9234105.jpg)

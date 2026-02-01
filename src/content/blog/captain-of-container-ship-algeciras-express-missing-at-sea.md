@@ -1,7 +1,7 @@
 ---
 title: "Captain of Container Ship Algeciras Express Missing at Sea"
 date: 2022-07-15T10:33:55
-slug: captain-of-container-ship-algeciras-express-missing-at-sea
+slug: "captain-of-container-ship-algeciras-express-missing-at-sea"
 excerpt: "The first officer of the 4,250 TEU container ship Algeciras Express, chartered by Hapag Lloyd, reported that the ship’s captain was missing on a voyage from Turkey to Spain. The crew had noticed the captain’s absence on July 3. They … Continue reading &rarr;"
 categories:
   - "Current"

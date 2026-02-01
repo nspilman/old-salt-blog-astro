@@ -1,7 +1,7 @@
 ---
 title: "Nuclear Leak Forces Russian Icebreaker Taimyr Back to Port"
 date: 2011-05-05T18:12:25
-slug: nuclear-leak-forces-russian-icebreaker-taimyr-back-to-port
+slug: "nuclear-leak-forces-russian-icebreaker-taimyr-back-to-port"
 excerpt: "A nuclear leak on the Russian icebreaker Taimyr forced it to attempt to return to the port of Murmansk. Nuclear leak in Russian icebreaker RUSSIA launched an urgent rescue mission overnight after one of its atomic-powered icebreakers developed a nuclear leak … Continue reading &rarr;"
 categories:
   - "Current"

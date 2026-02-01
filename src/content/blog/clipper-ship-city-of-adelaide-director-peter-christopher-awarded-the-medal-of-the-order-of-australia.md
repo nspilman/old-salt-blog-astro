@@ -1,7 +1,7 @@
 ---
 title: "Clipper Ship City of Adelaide Director Peter Christopher Awarded the Medal of the Order of Australia"
 date: 2024-01-26T17:10:21
-slug: clipper-ship-city-of-adelaide-director-peter-christopher-awarded-the-medal-of-the-order-of-australia
+slug: "clipper-ship-city-of-adelaide-director-peter-christopher-awarded-the-medal-of-the-order-of-australia"
 excerpt: "Congratulations to Clipper Ship City of Adelaide Director Peter Christopher, on being awarded the  Medal of the Order of Australia for his services to Maritime History. Peter Christopher convened the first meeting of Adelaide volunteers to save the City of … Continue reading &rarr;"
 categories:
   - "Current"

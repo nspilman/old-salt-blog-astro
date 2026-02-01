@@ -1,8 +1,8 @@
 ---
 title: "70th Anniversary Celebration of the Charles W Morgan at Mystic Seaport"
 date: 2011-10-25T10:08:42
-slug: 70th-anniversary-celebration-of-the-charles-w-morgan-at-mystic-seaport
-excerpt: "Sail the Morgan 2014 is hosting a week-long celebration of the arrival of the last American wooden whaleship, the Charles W. Morgan, in Mystic, Connecticut.  The celebration running from  “October 28 to November 5 will feature a restaurant week, shopping … Continue reading &rarr;"
+slug: "70th-anniversary-celebration-of-the-charles-w-morgan-at-mystic-seaport"
+excerpt: "Sail the Morgan 2014 is hosting a week-long celebration of the arrival of the last American wooden whaleship, the Charles W. Morgan, in Mystic, Connecticut.  The celebration running from  \"October 28 to November 5 will feature a restaurant week, shopping … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Ships"
@@ -13,7 +13,7 @@ tags:
   - "Mystic"
   - "mystic seaport"
 author: "Rick Spilman"
-description: "Sail the Morgan 2014 is hosting a week-long celebration of the arrival of the last American wooden whaleship, the Charles W. Morgan, in Mystic, Connecticut.  The celebration running from  “October 28 to November 5 will feature a restaurant week, shopping … Continue reading &rarr;"
+description: "Sail the Morgan 2014 is hosting a week-long celebration of the arrival of the last American wooden whaleship, the Charles W. Morgan, in Mystic, Connecticut.  The celebration running from  \"October 28 to November 5 will feature a restaurant week, shopping … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/cwm_celebration-1.jpg)Sail the Morgan 2014](http://www.sailthemorgan.org/) is hosting a week-long celebration of the arrival of the last American wooden whaleship, the *[Charles W. Morgan](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewpage&page_id=B3E63C64-B3CA-45AE-A83D72C303A9C6BF)*, in Mystic, Connecticut.  The celebration running from  “*October 28 to November 5 will feature a restaurant week, shopping events, evening concerts, and art and photography exhibits focusing on 1941, the year the Morgan came upriver to the Marine Historical Association, which later became Mystic Seaport. Additionally, the Museum will offer free admission on Saturday, November 5.*”  A [free fireworks display](http://www.mysticseaport.org/index.cfm?fuseaction=home.viewPage&page_id=B1658572-1E4F-379B-60E9D84F9D06C113) on the evening of  October 28th will kick off the event.

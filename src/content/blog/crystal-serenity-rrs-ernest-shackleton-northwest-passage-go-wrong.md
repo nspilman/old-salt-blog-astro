@@ -1,7 +1,7 @@
 ---
 title: "Crystal Serenity, RRS Ernest Shackleton & the Northwest Passage — What Could Go Wrong?"
 date: 2016-08-19T09:35:52
-slug: crystal-serenity-rrs-ernest-shackleton-northwest-passage-go-wrong
+slug: "crystal-serenity-rrs-ernest-shackleton-northwest-passage-go-wrong"
 excerpt: "The 1,070 passenger 68,870 GT cruise ship Crystal Serenity is arriving in Nome, Alaska on Sunday, August 21st, before continuing on in a 1,500 km voyage to transit the Northwest Passage via Canadian and Greenland. The 32 day voyage, which began … Continue reading &rarr;"
 categories:
   - "Current"

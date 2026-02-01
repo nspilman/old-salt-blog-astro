@@ -1,7 +1,7 @@
 ---
 title: "Sting’s ‘The Last Ship’ — A Tribute to a Shipyard and a Way of Life"
 date: 2014-02-26T07:25:50
-slug: stings-last-ship
+slug: "stings-last-ship"
 excerpt: "Last July, I was pleased, and more than a bit surprised, to see a play in New York City about a shipyard.  It was Off-Broadway and only a two man play, but nevertheless, it was about a shipyard.  The play, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

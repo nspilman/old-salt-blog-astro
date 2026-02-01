@@ -1,7 +1,7 @@
 ---
 title: "On Armistice Day, the German Sailors’ Mutinies That Brought Down the Kaiser"
 date: 2020-11-11T15:52:24
-slug: on-armistice-day-the-german-sailors-mutinies-that-brought-down-the-kaiser
+slug: "on-armistice-day-the-german-sailors-mutinies-that-brought-down-the-kaiser"
 excerpt: "In the US, today is Veteran’s Day, when we honor those who have served in the military.  It coincides with Armistice Day, the anniversary of the signing of the armistice which ended World War I, on the 11th hour of the 11th day, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

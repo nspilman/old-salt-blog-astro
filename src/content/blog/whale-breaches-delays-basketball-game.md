@@ -1,7 +1,7 @@
 ---
 title: "Whale Breaches, Delays Basketball Game"
 date: 2019-04-01T14:34:50
-slug: whale-breaches-delays-basketball-game
+slug: "whale-breaches-delays-basketball-game"
 excerpt: "A repost that seems appropriate for the day. They probably shouldn’t have built the gym over the water. Whale Breaches Before a Basketball Game Happy April Fool’s Day. … Continue reading &rarr;"
 categories:
   - "Current"

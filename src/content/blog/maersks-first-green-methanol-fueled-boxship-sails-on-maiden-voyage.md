@@ -1,7 +1,7 @@
 ---
 title: "Maersk’s First Green Methanol-Fueled Boxship Sails on Maiden Voyage"
 date: 2023-07-21T10:38:34
-slug: maersks-first-green-methanol-fueled-boxship-sails-on-maiden-voyage
+slug: "maersks-first-green-methanol-fueled-boxship-sails-on-maiden-voyage"
 excerpt: "Back in 2021, we posted about a pledge made by Maersk that it would launch the world’s first carbon-neutral cargo liner vessel in 2023 – seven years ahead of its initial 2030 target. This week, Maersk fulfilled that pledge, when … Continue reading &rarr;"
 categories:
   - "Current"

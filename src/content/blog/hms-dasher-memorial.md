@@ -1,7 +1,7 @@
 ---
 title: "HMS Dasher Memorial"
 date: 2010-12-03T09:34:43
-slug: hms-dasher-memorial
+slug: "hms-dasher-memorial"
 excerpt: "Last week, we posted about a new book which examines the causes of the tragic explosion and sinking of the HMS Dasher, in which 379 out of 528 crewmen died  and ranks as one of Britain’s worst naval disasters during … Continue reading &rarr;"
 categories:
   - "History"

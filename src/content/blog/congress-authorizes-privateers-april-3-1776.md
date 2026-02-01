@@ -1,7 +1,7 @@
 ---
 title: "Congress Authorizes Privateers April 3, 1776"
 date: 2016-04-03T12:49:26
-slug: congress-authorizes-privateers-april-3-1776
+slug: "congress-authorizes-privateers-april-3-1776"
 excerpt: "Two hundred and forty years ago today, the Continental Congress authorized the commissioning of privateers to attack British ships. It was still three months before the Declaration of Independence from Great Britain.  The legislation was in many respects simply catching up … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

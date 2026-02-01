@@ -1,8 +1,8 @@
 ---
-title: "CDC Modifies & Extends “No Sail Order” for All Cruise Ships"
+title: "CDC Modifies & Extends \"No Sail Order\" for All Cruise Ships"
 date: 2020-04-13T15:47:09
-slug: cdc-modifies-extends-no-sail-order-for-all-cruise-ships
-excerpt: "Last Thursday, the Center for Disease Control (CDC) extended its “No Sail Order” for cruise ships calling on the United States. The CDC announced that “this Order shall continue in operation until the earliest of three situations. First, the expiration … Continue reading &rarr;"
+slug: "cdc-modifies-extends-no-sail-order-for-all-cruise-ships"
+excerpt: "Last Thursday, the Center for Disease Control (CDC) extended its \"No Sail Order\" for cruise ships calling on the United States. The CDC announced that \"this Order shall continue in operation until the earliest of three situations. First, the expiration … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "No Sail Order"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/03/ncl1.jpg"
 author: "Rick Spilman"
-description: "Last Thursday, the Center for Disease Control (CDC) extended its “No Sail Order” for cruise ships calling on the United States. The CDC announced that “this Order shall continue in operation until the earliest of three situations. First, the expiration … Continue reading &rarr;"
+description: "Last Thursday, the Center for Disease Control (CDC) extended its \"No Sail Order\" for cruise ships calling on the United States. The CDC announced that \"this Order shall continue in operation until the earliest of three situations. First, the expiration … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/03/ncl1.jpg)Last Thursday, the [Center for Disease Control (CDC) extended its “No Sail Order”](https://www.cdc.gov/media/releases/2020/s0409-modifications-extension-no-sail-ships.html) for cruise ships calling on the United States. The CDC announced that “this Order shall continue in operation until the earliest of three situations. First, the expiration of the Secretary of Health and Human Services’ declaration that COVID-19 constitutes a public health emergency.  Second, the CDC Director rescinds or modifies the order based on specific public health or other considerations. Or third, 100 days from the date of publication in the Federal Register.” 

@@ -1,7 +1,7 @@
 ---
 title: "Hudson River Sloop Clearwater & the Indian Point Nuclear Power Plant"
 date: 2017-01-12T09:11:32
-slug: hudson-river-sloop-clearwater-the-indian-point-nuclear-power-plant
+slug: "hudson-river-sloop-clearwater-the-indian-point-nuclear-power-plant"
 excerpt: "It was announced this week that the Indian Point nuclear power facility will close by 2021. The Indian River plant is about 25 miles north of New York City. It sits on, not one, but two geological fault lines. A core breach … Continue reading &rarr;"
 categories:
   - "Current"

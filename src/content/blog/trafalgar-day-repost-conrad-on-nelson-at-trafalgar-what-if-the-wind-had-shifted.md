@@ -1,7 +1,7 @@
 ---
 title: "Trafalgar Day Repost: Conrad on Nelson at Trafalgar — What if the Wind Had Shifted?"
 date: 2019-10-21T19:27:46
-slug: trafalgar-day-repost-conrad-on-nelson-at-trafalgar-what-if-the-wind-had-shifted
+slug: "trafalgar-day-repost-conrad-on-nelson-at-trafalgar-what-if-the-wind-had-shifted"
 excerpt: "A repost from 2010 in honor of Trafalgar Day, commemorating Nelson’s great victory over the combined French and Spanish fleets on this day in 1805.  I have always been struck that of all the commentary I have read on the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

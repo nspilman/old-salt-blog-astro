@@ -1,7 +1,7 @@
 ---
 title: "Hawaii Superferries, Marad, Title XI and the US Navy – Taxpayers Still Foot the Bill"
 date: 2012-02-07T10:07:26
-slug: hawaii-superferries-marad-title-xi-and-the-us-navy-taxpayers-still-foot-the-bill
+slug: "hawaii-superferries-marad-title-xi-and-the-us-navy-taxpayers-still-foot-the-bill"
 excerpt: "Pity the poor taxpayer.  The headline was short and simple – U.S. Navy Buys Hawaii Superferries.  For only $35 million dollars, the US Navy is buying two aluminum, high-speed, ro/ro ferries built for Hawaii Superferry for inter-island service in Hawaii.  The ferries were … Continue reading &rarr;"
 categories:
   - "Current"

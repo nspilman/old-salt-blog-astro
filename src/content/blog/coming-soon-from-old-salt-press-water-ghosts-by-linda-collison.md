@@ -1,7 +1,7 @@
 ---
 title: "Coming Soon — Water Ghosts by Linda Collison"
 date: 2015-05-02T09:55:10
-slug: coming-soon-from-old-salt-press-water-ghosts-by-linda-collison
+slug: "coming-soon-from-old-salt-press-water-ghosts-by-linda-collison"
 excerpt: "I am very excited about Linda Collison‘s new book, Water Ghosts. Coming soon from Old Salt Press.  A teenaged boy on a summer adventure sailing aboard a traditional Chinese junk, believes the ship to be controlled by ghosts from the … Continue reading &rarr;"
 categories:
   - "Newbooks"

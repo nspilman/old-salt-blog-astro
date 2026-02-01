@@ -1,7 +1,7 @@
 ---
 title: "China’s First New-Old Aircraft Carrier Returns from Second Sea Trial"
 date: 2011-12-15T12:11:22
-slug: chinas-first-new-old-aircraft-carrier-returns-from-second-sea-trial
+slug: "chinas-first-new-old-aircraft-carrier-returns-from-second-sea-trial"
 excerpt: "Last Sunday the first Chinese aircraft carrier returned from its second round of sea trials. The as of yet unnamed carrier, which reports suggest will be christened Shi Lang, was originally the unfinished Russian aircraft carrier Varyag whose keel was laid … Continue reading &rarr;"
 categories:
   - "Current"

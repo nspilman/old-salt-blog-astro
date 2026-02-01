@@ -1,7 +1,7 @@
 ---
 title: "4th Mumbai International Match Race Begins Today"
 date: 2010-11-01T08:34:52
-slug: 4th-mumbai-international-match-race-begins-today
+slug: "4th-mumbai-international-match-race-begins-today"
 excerpt: "4th Mumbai International Match Race Begins Today The city of Mumbai with its great maritime history adds an exciting new event – the West Coast Marine 4th Mumbai International Match Race 2010. … Continue reading &rarr;"
 categories:
   - "Current"

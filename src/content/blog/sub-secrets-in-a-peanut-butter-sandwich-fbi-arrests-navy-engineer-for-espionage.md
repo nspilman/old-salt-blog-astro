@@ -1,7 +1,7 @@
 ---
 title: "Sub Secrets in a Peanut Butter Sandwich — FBI Arrests Navy Engineer for Espionage"
 date: 2021-10-11T09:35:32
-slug: sub-secrets-in-a-peanut-butter-sandwich-fbi-arrests-navy-engineer-for-espionage
+slug: "sub-secrets-in-a-peanut-butter-sandwich-fbi-arrests-navy-engineer-for-espionage"
 excerpt: "Half of a peanut butter sandwich in a plastic bag was left at an agreed location in West Virginia by a Navy nuclear engineer. Inside the sandwich, wrapped in plastic, was a 16 GB memory card containing detailed secret information … Continue reading &rarr;"
 categories:
   - "Current"

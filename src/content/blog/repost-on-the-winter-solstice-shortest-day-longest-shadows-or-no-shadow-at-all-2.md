@@ -1,7 +1,7 @@
 ---
 title: "Repost on the Winter Solstice — Shortest Day & Longest Shadows, or No Shadow At All"
 date: 2023-12-21T18:31:41
-slug: repost-on-the-winter-solstice-shortest-day-longest-shadows-or-no-shadow-at-all-2
+slug: "repost-on-the-winter-solstice-shortest-day-longest-shadows-or-no-shadow-at-all-2"
 excerpt: "Happy Winter Solstice to all! In the northern hemisphere, today is the shortest day and the longest night of the year. The sun is at its southernmost point of travel, over the imaginary circle on the globe we refer to … Continue reading &rarr;"
 categories:
   - "Current"

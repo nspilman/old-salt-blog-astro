@@ -1,7 +1,7 @@
 ---
 title: "Submarines Lost and Found, Part 4 – Russian WWI Sub Gepard May Be Found"
 date: 2009-09-27T13:09:41
-slug: submarines-lost-and-found-part-4-%e2%80%93-russian-wwi-sub-gepard-may-be-found
+slug: "submarines-lost-and-found-part-4-%e2%80%93-russian-wwi-sub-gepard-may-be-found"
 excerpt: "As reported by the Stockholm News – WW1 Russian submarine found The submarine wreck was discovered by a research ship of the Swedish Maritime Administration the 10 September. A closer study with a radio-controlled underwater vessel indicate that the submarine … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Building the Viking Longship Dragon Harald Fairhair"
 date: 2011-12-14T10:39:09
-slug: building-the-viking-longboat-dragon-harald-fairhair
+slug: "building-the-viking-longboat-dragon-harald-fairhair"
 excerpt: "In western Norway, an ocean going Viking longship is taking shape. Named the Dragon Harald Fairhair, (or in Norwegian Draken Harald Hårfagre) she is the largest Viking longship to have been built in modern times and is due to be … Continue reading &rarr;"
 categories:
   - "Current"

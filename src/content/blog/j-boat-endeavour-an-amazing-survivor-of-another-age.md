@@ -1,8 +1,8 @@
 ---
 title: "J-Boat Endeavour, an Amazing Survivor of Another Age"
 date: 2015-02-10T16:48:38
-slug: j-boat-endeavour-an-amazing-survivor-of-another-age
-excerpt: "I recently saw an ad titled, “Endeavour Yacht for Sale,” from a high-end yacht broker. It caught my attention because I owned, sailed and lived aboard an Endeavour 32 sloop, a few decades ago. It seemed unlikely, however, that the … Continue reading &rarr;"
+slug: "j-boat-endeavour-an-amazing-survivor-of-another-age"
+excerpt: "I recently saw an ad titled, \"Endeavour Yacht for Sale,\" from a high-end yacht broker. It caught my attention because I owned, sailed and lived aboard an Endeavour 32 sloop, a few decades ago. It seemed unlikely, however, that the … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"

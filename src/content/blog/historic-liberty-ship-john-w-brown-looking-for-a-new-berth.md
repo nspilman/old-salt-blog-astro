@@ -1,7 +1,7 @@
 ---
 title: "Historic Liberty Ship John W. Brown Looking for a New Berth"
 date: 2018-11-20T20:57:53
-slug: historic-liberty-ship-john-w-brown-looking-for-a-new-berth
+slug: "historic-liberty-ship-john-w-brown-looking-for-a-new-berth"
 excerpt: "Of the more than 2,700 Liberty ships built during World War II, only two are still operational in the United States. One, the John W. Brown, now docked in Baltimore, may become homeless when its five-year agreement for free berthing at Rukert … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The World is in Hot Water — Ocean Warming Accelerating"
 date: 2019-01-12T23:19:58
-slug: the-world-is-in-hot-water-ocean-warming-accelerating
+slug: "the-world-is-in-hot-water-ocean-warming-accelerating"
 excerpt: "A new analysis published in the journal Science has concluded that the oceans are warming four times faster than had been previously predicted by a United Nations panel five years ago. The research found that ocean temperatures had broken records … Continue reading &rarr;"
 categories:
   - "Current"

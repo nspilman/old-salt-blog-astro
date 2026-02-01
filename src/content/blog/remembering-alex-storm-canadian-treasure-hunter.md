@@ -1,7 +1,7 @@
 ---
 title: "Remembering Alex Storm, Canadian Treasure Hunter"
 date: 2018-09-08T18:25:18
-slug: remembering-alex-storm-canadian-treasure-hunter
+slug: "remembering-alex-storm-canadian-treasure-hunter"
 excerpt: "Alex Storm, a Canadian treasure hunter who discovered two valuable 18th-century shipwrecks off the shores of Nova Scotia, died last month at the age of 80.   In 1965, Storm and two associates discovered the wreck of Le Chameau, a French Navy ship … Continue reading &rarr;"
 categories:
   - "Current"

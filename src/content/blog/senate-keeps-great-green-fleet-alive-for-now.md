@@ -1,8 +1,8 @@
 ---
-title: "Senate Keeps “Great Green Fleet” Alive, for Now"
+title: "Senate Keeps \"Great Green Fleet\" Alive, for Now"
 date: 2012-08-07T13:34:49
-slug: senate-keeps-great-green-fleet-alive-for-now
-excerpt: "After being threatened the by Republican cost-cutters, the Senate defense appropriations subcommittee recently voted to continue funding the Navy’s “Great green Fleet” alternative energy program. In 2009, Secretary of the Navy Ray Mabus announced the Navy’s “Great Green Fleet” initiative with the goals … Continue reading &rarr;"
+slug: "senate-keeps-great-green-fleet-alive-for-now"
+excerpt: "After being threatened the by Republican cost-cutters, the Senate defense appropriations subcommittee recently voted to continue funding the Navy’s \"Great green Fleet\" alternative energy program. In 2009, Secretary of the Navy Ray Mabus announced the Navy’s \"Great Green Fleet\" initiative with the goals … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Secretary of the Navy"
   - "Senate defense appropriations subcommittee"
 author: "Rick Spilman"
-description: "After being threatened the by Republican cost-cutters, the Senate defense appropriations subcommittee recently voted to continue funding the Navy’s “Great green Fleet” alternative energy program. In 2009, Secretary of the Navy Ray Mabus announced the Navy’s “Great Green Fleet” initiative with the goals … Continue reading &rarr;"
+description: "After being threatened the by Republican cost-cutters, the Senate defense appropriations subcommittee recently voted to continue funding the Navy’s \"Great green Fleet\" alternative energy program. In 2009, Secretary of the Navy Ray Mabus announced the Navy’s \"Great Green Fleet\" initiative with the goals … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/greatgreenfleet.jpg)After being threatened the by Republican cost-cutters, the [Senate defense appropriations subcommittee recently voted to continue funding the Navy’s “Great green Fleet” alternative energy program](http://www.wired.com/dangerroom/2012/08/biofuels/).

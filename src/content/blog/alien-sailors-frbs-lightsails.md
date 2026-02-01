@@ -1,7 +1,7 @@
 ---
 title: "Alien Sailors, FRBs & LightSails"
 date: 2017-03-27T15:06:18
-slug: alien-sailors-frbs-lightsails
+slug: "alien-sailors-frbs-lightsails"
 excerpt: "Theorists at the Harvard-Smithsonian Center for Astrophysics have a intriguing idea as to what might be the nature of FRBs (fast radio bursts), an unexplained phenomenon first observed about ten years ago. FRBs are very short but incredibly powerful bursts of radio activity that … Continue reading &rarr;"
 categories:
   - "Current"

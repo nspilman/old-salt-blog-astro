@@ -1,7 +1,7 @@
 ---
 title: "Pinnace Virginia, Maine’s First Ship, Launched in Kennebec River"
 date: 2022-06-06T20:36:02
-slug: pinnace-virginia-maines-first-ship-launched-in-kennebec-river
+slug: "pinnace-virginia-maines-first-ship-launched-in-kennebec-river"
 excerpt: "Twenty-seven years ago, a plan was conceived to reconstruct Maine’s first ship, Virginia, built by in 1607 by settlers of the Popham Colony at the mouth of the Kennebec River. The original 51′ pinnace was the first English ocean-going ship … Continue reading &rarr;"
 categories:
   - "Current"

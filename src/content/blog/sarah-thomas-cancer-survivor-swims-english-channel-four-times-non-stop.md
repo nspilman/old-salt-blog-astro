@@ -1,7 +1,7 @@
 ---
 title: "Sarah Thomas, Cancer Survivor, Swims English Channel Four Times Non-Stop"
 date: 2019-09-19T16:14:27
-slug: sarah-thomas-cancer-survivor-swims-english-channel-four-times-non-stop
+slug: "sarah-thomas-cancer-survivor-swims-english-channel-four-times-non-stop"
 excerpt: "In November 2017, Sarah Thomas, a marathon swimmer from Colorado, was diagnosed with an aggressive form of breast cancer. She underwent chemotherapy, surgery, and radiation to fight the disease. One of the ways she coped was by continuing to swim. … Continue reading &rarr;"
 categories:
   - "Current"

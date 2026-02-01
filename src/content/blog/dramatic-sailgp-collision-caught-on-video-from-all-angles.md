@@ -1,7 +1,7 @@
 ---
 title: "Dramatic SailGP Collision Caught on Video From All Angles"
 date: 2021-12-23T17:29:21
-slug: dramatic-sailgp-collision-caught-on-video-from-all-angles
+slug: "dramatic-sailgp-collision-caught-on-video-from-all-angles"
 excerpt: "Last week, just before the start of the third race in the SailGP Australian Sail Grand Prix in Sydney, Ben Ainslie’s Great Britain Team collided with Nathan Outteridge’s Japan Team. The crew onboard the British F50 were focussing on closing … Continue reading &rarr;"
 categories:
   - "Current"

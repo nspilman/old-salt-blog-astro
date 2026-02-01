@@ -1,8 +1,8 @@
 ---
-title: "New Chatham “Command of the Oceans” Exhibit Features Timbers From HMS Namur"
+title: "New Chatham \"Command of the Oceans\" Exhibit Features Timbers From HMS Namur"
 date: 2016-05-28T09:21:48
-slug: new-chatham-dockyard-display-includes-timbers-h
-excerpt: "On Thursday, the Chatham Historic Dockyard opened its new exhibit “Command of the Oceans” to the public. The centerpiece of the display are timbers from the 90-gun second-rate ship of the line, HMS Namur.  The ship was built in the … Continue reading &rarr;"
+slug: "new-chatham-dockyard-display-includes-timbers-h"
+excerpt: "On Thursday, the Chatham Historic Dockyard opened its new exhibit \"Command of the Oceans\" to the public. The centerpiece of the display are timbers from the 90-gun second-rate ship of the line, HMS Namur.  The ship was built in the … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "HMS Namur"
   - "Jane Austen"
 author: "Rick Spilman"
-description: "On Thursday, the Chatham Historic Dockyard opened its new exhibit “Command of the Oceans” to the public. The centerpiece of the display are timbers from the 90-gun second-rate ship of the line, HMS Namur.  The ship was built in the … Continue reading &rarr;"
+description: "On Thursday, the Chatham Historic Dockyard opened its new exhibit \"Command of the Oceans\" to the public. The centerpiece of the display are timbers from the 90-gun second-rate ship of the line, HMS Namur.  The ship was built in the … Continue reading &rarr;"
 ---
 
 ![Timbers from HMS Namur](http://www.oldsaltblog.com/wp-content/uploads/2016/05/namur2.jpg)

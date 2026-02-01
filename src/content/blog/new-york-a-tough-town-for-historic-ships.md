@@ -1,8 +1,8 @@
 ---
 title: "New York — A Tough Town for Historic Ships"
 date: 2015-03-01T16:20:09
-slug: new-york-a-tough-town-for-historic-ships
-excerpt: "A recent article in the TribecaTribOnline was titled, “Two Historic Sailing Ships Could Dock at Seaport This Summer.” The story is that Jonathan Boulware, the South Street Seaport Museum’s interim president, is working very hard to arrange dock space for … Continue reading &rarr;"
+slug: "new-york-a-tough-town-for-historic-ships"
+excerpt: "A recent article in the TribecaTribOnline was titled, \"Two Historic Sailing Ships Could Dock at Seaport This Summer.\" The story is that Jonathan Boulware, the South Street Seaport Museum’s interim president, is working very hard to arrange dock space for … Continue reading &rarr;"
 categories:
   - "City of Ships"
   - "Current"

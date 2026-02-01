@@ -1,7 +1,7 @@
 ---
 title: "Video Piracy and the Pirate Ship Queen Anne’s Revenge"
 date: 2017-04-05T10:27:08
-slug: video-piracy-pirate-ship-queen-annes-revenge
+slug: "video-piracy-pirate-ship-queen-annes-revenge"
 excerpt: "A video producer who produced video of the excavation of a pirate ship is now suing the State of North Carolina and others for piracy. Nautilus Productions, which served as a videographer for the Queen Anne’s Revenge shipwreck project, is charging … Continue reading &rarr;"
 categories:
   - "Current"

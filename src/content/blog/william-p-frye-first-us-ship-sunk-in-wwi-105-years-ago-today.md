@@ -1,7 +1,7 @@
 ---
 title: "William P. Frye, First US Ship Sunk in WWI, 105 Years Ago Today"
 date: 2020-01-28T17:49:02
-slug: william-p-frye-first-us-ship-sunk-in-wwi-105-years-ago-today
+slug: "william-p-frye-first-us-ship-sunk-in-wwi-105-years-ago-today"
 excerpt: "On January 28, 1915, the US flag four-masted bark William P. Frye was sunk off the coast of Brazil by the Imperial German Navy raider SMS Prinz Eitel Friedrich. As a US-owned vessel, William P. Frye was a neutral ship. The US would … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

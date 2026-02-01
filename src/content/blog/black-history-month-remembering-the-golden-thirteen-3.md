@@ -1,7 +1,7 @@
 ---
 title: "Black History Month — Remembering the Golden Thirteen"
 date: 2024-02-28T19:51:18
-slug: black-history-month-remembering-the-golden-thirteen-3
+slug: "black-history-month-remembering-the-golden-thirteen-3"
 excerpt: "As Black History Month winds to a close, here is a repost of a wonderful bit of history from the Naval History and Heritage Command — the story of the Golden Thirteen. In January 1944, there were nearly 100,000 Black … Continue reading &rarr;"
 categories:
   - "History"

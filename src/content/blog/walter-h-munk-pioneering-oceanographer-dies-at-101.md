@@ -1,8 +1,8 @@
 ---
 title: "Walter H. Munk — Pioneering Oceanographer Dies at 101"
 date: 2019-02-11T12:19:49
-slug: walter-h-munk-pioneering-oceanographer-dies-at-101
-excerpt: "Walter H. Munk, world-renowned oceanographer and geophysicist, has died at 101 at his home in San Diego. Referred to by many as “Einstein of the sea“, Dr. Munk’s work ranged from predicting wave heights on beaches for an amphibious landing in … Continue reading &rarr;"
+slug: "walter-h-munk-pioneering-oceanographer-dies-at-101"
+excerpt: "Walter H. Munk, world-renowned oceanographer and geophysicist, has died at 101 at his home in San Diego. Referred to by many as \"Einstein of the sea\", Dr. Munk’s work ranged from predicting wave heights on beaches for an amphibious landing in … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Walter H. Munk"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/wmunk.jpg"
 author: "Rick Spilman"
-description: "Walter H. Munk, world-renowned oceanographer and geophysicist, has died at 101 at his home in San Diego. Referred to by many as “Einstein of the sea“, Dr. Munk’s work ranged from predicting wave heights on beaches for an amphibious landing in … Continue reading &rarr;"
+description: "Walter H. Munk, world-renowned oceanographer and geophysicist, has died at 101 at his home in San Diego. Referred to by many as \"Einstein of the sea\", Dr. Munk’s work ranged from predicting wave heights on beaches for an amphibious landing in … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/wmunk-190x200.jpg)[Walter H. Munk](https://en.wikipedia.org/wiki/Walter_Munk), world-renowned oceanographer and geophysicist, has died at 101 at his home in San Diego. Referred to by many as “[Einstein of the sea](https://www.nytimes.com/2019/02/09/obituaries/walter-h-munk-scientist-explorer-who-illuminated-the-deep-dies-at-101.html)“, Dr. Munk’s work ranged from predicting wave heights on beaches for an amphibious landing in World War II to pioneering research on oceanic sound transmission to measure changes in water temperatures, forecast waves and seek signs of global warming.  

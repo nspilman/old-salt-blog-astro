@@ -1,8 +1,8 @@
 ---
 title: "Sailing Ships at Work – Then and Now, Working Harbor Committee Presentation April 10th"
 date: 2013-03-11T12:03:42
-slug: sailing-ships-at-work-then-and-now-working-harbor-committee-presentation-april-10th
-excerpt: "I am very pleased and excited to be speaking with Norman Brouwer and Captain Margaret Flanagan at the Working Harbor Committee of New York and New Jersey program “Sailing Ships at Work – Then and Now.”   The presentation is on April … Continue reading &rarr;"
+slug: "sailing-ships-at-work-then-and-now-working-harbor-committee-presentation-april-10th"
+excerpt: "I am very pleased and excited to be speaking with Norman Brouwer and Captain Margaret Flanagan at the Working Harbor Committee of New York and New Jersey program \"Sailing Ships at Work – Then and Now.\"   The presentation is on April … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Sailing Ships at Work - Then and Now"
   - "Working Harbor Committee"
 author: "Rick Spilman"
-description: "I am very pleased and excited to be speaking with Norman Brouwer and Captain Margaret Flanagan at the Working Harbor Committee of New York and New Jersey program “Sailing Ships at Work – Then and Now.”   The presentation is on April … Continue reading &rarr;"
+description: "I am very pleased and excited to be speaking with Norman Brouwer and Captain Margaret Flanagan at the Working Harbor Committee of New York and New Jersey program \"Sailing Ships at Work – Then and Now.\"   The presentation is on April … Continue reading &rarr;"
 ---
 
 ![sailing-ships-at-work](http://www.oldsaltblog.com/wp-content/uploads/2013/03/sailing-ships-at-work.jpg)I am very pleased and excited to be speaking with [Norman Brouwer](http://www.amazon.com/s?ie=UTF8&field-author=Norman%20Brouwer&page=1&rh=n%3A283155%2Cp_27%3ANorman%20Brouwer) and [Captain Margaret Flanagan](http://www.zoominfo.com/#!search/profile/person?personId=599618915&targetid=profile) at the [Working Harbor Committee](http://workingharbor.com/) of New York and New Jersey program ***“Sailing Ships at Work – Then and Now.”***   The presentation is on April 10th at the [Community Church of New York](http://www.ccny.org/), 40 E. 35th Street, in New York City.  It is shaping up to be quite a program.  If you are in the area be sure to stop by and say hello.

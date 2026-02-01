@@ -1,7 +1,7 @@
 ---
 title: "Barquentine Gazela Arrives in New York Harbor"
 date: 2010-08-19T08:41:02
-slug: barquentine-gazela-arrives-in-new-york-harbor
+slug: "barquentine-gazela-arrives-in-new-york-harbor"
 excerpt: "Philadelphia’s tall ship, the barquentine Gazela Primeiro, arrived in New York harbor yesterday, on her way to PortSide New York.  (See our previous post – The Gazela at Portside with Vaudeville and Pirates – Oh My!)   The classic ship will … Continue reading &rarr;"
 categories:
   - "Galleries"

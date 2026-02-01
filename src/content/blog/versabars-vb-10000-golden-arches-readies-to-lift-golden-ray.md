@@ -1,7 +1,7 @@
 ---
 title: "Versabar’s VB-10,000, Golden Arches, Readies to Lift Golden Ray"
 date: 2020-07-06T17:21:48
-slug: versabars-vb-10000-golden-arches-readies-to-lift-golden-ray
+slug: "versabars-vb-10000-golden-arches-readies-to-lift-golden-ray"
 excerpt: "In September 2019, the car carrier Golden Ray lost stability and partially capsized as it departed the Port of Brunswick, GA, carrying about 4,200 vehicles. In October 2019, the Golden Ray was declared a total loss, and it was announced … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

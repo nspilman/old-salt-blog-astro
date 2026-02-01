@@ -1,7 +1,7 @@
 ---
 title: "Jupiter making closest approach in nearly 50 years"
 date: 2010-09-19T15:41:14
-slug: jupiter-making-closest-approach-in-nearly-50-years
+slug: "jupiter-making-closest-approach-in-nearly-50-years"
 excerpt: "For sailors who still watch the skies, Jupiter will be passing the earth on Monday at its closest approach since 1963. The planet will not appear as big or as bright again until 2022. Jupiter making closest approach in nearly … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Halcyon Days – Not So Peaceful This Year"
 date: 2011-12-22T09:50:29
-slug: the-halcyon-days-not-so-peaceful-this-year
+slug: "the-halcyon-days-not-so-peaceful-this-year"
 excerpt: "According to an ancient sailors’ legend, we are in the middle of the Halcyon days – seven days of calm on either side of the winter solstice. The legend says that the halycon bird lays its eggs on the winter … Continue reading &rarr;"
 categories:
   - "Current"

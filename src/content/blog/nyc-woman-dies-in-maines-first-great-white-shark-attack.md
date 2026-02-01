@@ -1,7 +1,7 @@
 ---
 title: "NYC Woman Dies in Maine’s First Fatal Shark Attack"
 date: 2020-07-29T13:27:48
-slug: nyc-woman-dies-in-maines-first-great-white-shark-attack
+slug: "nyc-woman-dies-in-maines-first-great-white-shark-attack"
 excerpt: "Julie Dimperio Holowach, 63, from New York City died Monday after being bitten by a great white shark while she was swimming approximately 20 yards off the western shore of Bailey Island, near the city of Portland, according to Maine … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

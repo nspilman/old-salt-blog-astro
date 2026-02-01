@@ -1,7 +1,7 @@
 ---
 title: "Update: Weddell Sea Expedition 2019 Abandons Search for Shackleton’s Endurance"
 date: 2019-02-15T15:40:03
-slug: update-weddell-sea-expedition-2019-abandons-search-for-shackletons-endurance
+slug: "update-weddell-sea-expedition-2019-abandons-search-for-shackletons-endurance"
 excerpt: "It was a long-shot from the beginning. The Weddell Sea Expedition 2019 had dispatched the icebreaking polar-supply and research-vessel SA Agulhas II to study Antarctica’s Larsen C ice sheet. While in the area, the expedition attempted to locate Sir Ernest … Continue reading &rarr;"
 categories:
   - "Current"

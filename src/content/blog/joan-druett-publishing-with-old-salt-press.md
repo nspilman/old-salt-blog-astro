@@ -1,7 +1,7 @@
 ---
 title: "Joan Druett Publishing with Old Salt Press"
 date: 2013-05-15T07:37:06
-slug: joan-druett-publishing-with-old-salt-press
+slug: "joan-druett-publishing-with-old-salt-press"
 excerpt: "Joan Druett, the award winning maritime historian and novelist, will be publishing her Promise of Gold trilogy with Old Salt Press.  The three novels; Judas Island, Calafia’s Kingdom, and Dearest Enemy; will be be published as e-books on Amazon in the next few days.   Joan’s A … Continue reading &rarr;"
 categories:
   - "Newbooks"

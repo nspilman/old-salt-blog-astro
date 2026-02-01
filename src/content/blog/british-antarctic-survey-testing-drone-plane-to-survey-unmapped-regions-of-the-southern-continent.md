@@ -1,7 +1,7 @@
 ---
 title: "British Antarctic Survey Testing Drone Plane to Survey Unmapped Regions of the Southern Continent"
 date: 2024-02-06T18:18:32
-slug: british-antarctic-survey-testing-drone-plane-to-survey-unmapped-regions-of-the-southern-continent
+slug: "british-antarctic-survey-testing-drone-plane-to-survey-unmapped-regions-of-the-southern-continent"
 excerpt: "This week, a team arrived at Rothera Research Station, on Adelaide Island to the west of the Antarctic Peninsula, ready to start testing the new Windracers ULTRA autonomous drone in Antarctica. If successful, the new drone platform could represent a … Continue reading &rarr;"
 categories:
   - "Current"

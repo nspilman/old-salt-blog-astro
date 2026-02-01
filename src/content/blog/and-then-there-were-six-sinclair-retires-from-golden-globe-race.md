@@ -1,7 +1,7 @@
 ---
 title: "And Then There Were Six — Sinclair Retires From Golden Globe Race"
 date: 2018-12-14T09:00:08
-slug: and-then-there-were-six-sinclair-retires-from-golden-globe-race
+slug: "and-then-there-were-six-sinclair-retires-from-golden-globe-race"
 excerpt: "Last week we posted about the rescue of Golden Globe racer Susie Goodall, whose boat pitchpoled and was dismasted in the Southern Ocean. Goodall was the eleventh of the original eighteen sailors in the race to either withdraw or require rescue.  … Continue reading &rarr;"
 categories:
   - "Current"

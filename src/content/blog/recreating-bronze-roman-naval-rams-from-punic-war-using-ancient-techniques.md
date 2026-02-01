@@ -1,7 +1,7 @@
 ---
 title: "Recreating Bronze Roman Naval Rams from Punic War Using Ancient Techniques"
 date: 2025-04-21T17:22:39
-slug: recreating-bronze-roman-naval-rams-from-punic-war-using-ancient-techniques
+slug: "recreating-bronze-roman-naval-rams-from-punic-war-using-ancient-techniques"
 excerpt: "A team of archaeologists has just recreated a bronze Roman naval ram using ancient fabrication techniques. The ram design was critical in the establishment of Roman naval superiority in the Mediterranean. The primary weapon used on naval galleys in the … Continue reading &rarr;"
 categories:
   - "History"

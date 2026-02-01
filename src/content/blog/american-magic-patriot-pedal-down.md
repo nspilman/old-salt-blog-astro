@@ -1,7 +1,7 @@
 ---
 title: "American Magic, Patriot : Pedal Down"
 date: 2020-11-04T15:51:26
-slug: american-magic-patriot-pedal-down
+slug: "american-magic-patriot-pedal-down"
 excerpt: "New York Yacht Club American Magic, the U.S. Challenger for the 36th America’s Cup, completed their first week of training on the brand-new AC75 racing yacht Patriot. PATRIOT: PEDAL DOWN – America’s Cup AC75 … Continue reading &rarr;"
 categories:
   - "Current"

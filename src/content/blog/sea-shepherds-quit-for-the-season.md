@@ -1,7 +1,7 @@
 ---
 title: "Sea Shepherds Quit for the Season"
 date: 2010-02-27T07:45:57
-slug: sea-shepherds-quit-for-the-season
+slug: "sea-shepherds-quit-for-the-season"
 excerpt: "After having their toy racing boat, Ady Gil sunk in a collision with a whaling ship; after experiencing engine problems as well as having the registration of their converted whaler, the B0b Barker, pulled by the Togolese; after having the captain … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Iran Accidentally Sinks Fake Aircraft Carrier"
 date: 2020-08-03T13:01:44
-slug: iran-accidentally-sinks-fake-aircraft-carrier
-excerpt: "This seems like a good story for a Monday. Forbes reports that Iran accidentally sank its fake aircraft carrier and did so in a very inconvenient place.  The “fake carrier” is actually a targeting barge, a scaled-down mockup of a … Continue reading &rarr;"
+slug: "iran-accidentally-sinks-fake-aircraft-carrier"
+excerpt: "This seems like a good story for a Monday. Forbes reports that Iran accidentally sank its fake aircraft carrier and did so in a very inconvenient place.  The \"fake carrier\" is actually a targeting barge, a scaled-down mockup of a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "scaled-down mockup"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/iraniancarrier.jpg"
 author: "Rick Spilman"
-description: "This seems like a good story for a Monday. Forbes reports that Iran accidentally sank its fake aircraft carrier and did so in a very inconvenient place.  The “fake carrier” is actually a targeting barge, a scaled-down mockup of a … Continue reading &rarr;"
+description: "This seems like a good story for a Monday. Forbes reports that Iran accidentally sank its fake aircraft carrier and did so in a very inconvenient place.  The \"fake carrier\" is actually a targeting barge, a scaled-down mockup of a … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/iraniancarrier.jpg)

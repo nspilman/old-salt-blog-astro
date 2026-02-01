@@ -1,7 +1,7 @@
 ---
 title: "Laura Dekker Arrives in St. Maarten"
 date: 2010-12-20T08:17:32
-slug: laura-dekker-arrives-in-st-maarten
+slug: "laura-dekker-arrives-in-st-maarten"
 excerpt: "Fifteen-year-old Dutch sailor, Laura Dekker, arrived in St. Maarten after a 2,200 nautical-mile voyage from the Cape Verde Islands off West Africa. She sailed from Gibraltar on August 21 and spent two months in the Canary Islands waiting for the hurricane … Continue reading &rarr;"
 categories:
   - "Current"

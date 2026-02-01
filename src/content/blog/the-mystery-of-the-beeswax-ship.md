@@ -1,7 +1,7 @@
 ---
 title: "The Mystery of the Beeswax Ship"
 date: 2010-05-04T19:08:13
-slug: the-mystery-of-the-beeswax-ship
+slug: "the-mystery-of-the-beeswax-ship"
 excerpt: "An intriguing item from Jim Klein on the Marine History List.     They are now filming the search for the cannons from the Beeswax wreck.   From the Beeswax Wreck Project site: One of the most popular mysteries of the Oregon Coast … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Ship’s Bell from Franklin’s HMS Erebus Recovered"
 date: 2014-11-08T19:46:59
-slug: ships-bell-from-franklins-hms-erebus-recovered
+slug: "ships-bell-from-franklins-hms-erebus-recovered"
 excerpt: "In September, the wreck of one of the two ships in Franklin’s lost  expedition of 1845 was located near the the Victoria Strait in Canada. As both ships in the expedition were similar sized bomb vessels, modified for exploration, it was initially unclear whether … Continue reading &rarr;"
 categories:
   - "Current"

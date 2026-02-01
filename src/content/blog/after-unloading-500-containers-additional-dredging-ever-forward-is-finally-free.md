@@ -1,7 +1,7 @@
 ---
 title: "After Unloading 500 Containers & Additional Dredging Ever Forward is Finally Free"
 date: 2022-04-18T09:38:55
-slug: after-unloading-500-containers-additional-dredging-ever-forward-is-finally-free
+slug: "after-unloading-500-containers-additional-dredging-ever-forward-is-finally-free"
 excerpt: "Stuck in Chesapeake Bay mud for more than five weeks, the container ship Ever Forward is finally free. Refloating the 1,100-foot long ship required discharging 500 containers and additional dredging but she was dragged by seven tugs from the mudbank … Continue reading &rarr;"
 categories:
   - "Current"

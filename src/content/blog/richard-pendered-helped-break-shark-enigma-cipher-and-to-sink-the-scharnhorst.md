@@ -1,8 +1,8 @@
 ---
-title: "Richard Pendered – Helped Break “Shark” Enigma Cipher And to Sink the Scharnhorst"
+title: "Richard Pendered – Helped Break \"Shark\" Enigma Cipher And to Sink the Scharnhorst"
 date: 2010-12-18T11:32:35
-slug: richard-pendered-helped-break-shark-enigma-cipher-and-to-sink-the-scharnhorst
-excerpt: "Perhaps foreshadowing our own information age, World War II’s “Battle of the Atlantic” between German submarine wolf-packs and Allied convoys was largely won and nearly lost by the code breakers of Bletchley Park.   In 1940, Alan Turing had begun to … Continue reading &rarr;"
+slug: "richard-pendered-helped-break-shark-enigma-cipher-and-to-sink-the-scharnhorst"
+excerpt: "Perhaps foreshadowing our own information age, World War II’s \"Battle of the Atlantic\" between German submarine wolf-packs and Allied convoys was largely won and nearly lost by the code breakers of Bletchley Park.   In 1940, Alan Turing had begun to … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "Richard Pendered"
   - "Scharnhorst"
 author: "Rick Spilman"
-description: "Perhaps foreshadowing our own information age, World War II’s “Battle of the Atlantic” between German submarine wolf-packs and Allied convoys was largely won and nearly lost by the code breakers of Bletchley Park.   In 1940, Alan Turing had begun to … Continue reading &rarr;"
+description: "Perhaps foreshadowing our own information age, World War II’s \"Battle of the Atlantic\" between German submarine wolf-packs and Allied convoys was largely won and nearly lost by the code breakers of Bletchley Park.   In 1940, Alan Turing had begun to … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/pendered_1788247f.jpg)Perhaps foreshadowing our own information age, World War II’s “[Battle of the Atlantic](http://en.wikipedia.org/wiki/Battle_of_the_Atlantic_\(1939%E2%80%931945\))” between German submarine wolf-packs and Allied convoys was largely won and nearly lost by the code breakers of [Bletchley Park](http://www.bletchleypark.org.uk/).   In 1940, [Alan Turing](http://en.wikipedia.org/wiki/Alan_Turing) had begun to break the German Navy’s “Dolphin” cipher which was based on an [Engima code machine](http://en.wikipedia.org/wiki/Enigma_machine) with three encoding rotors.  Within a little over a year the German wolf-packs were  temporarily  withdrawn due to mounting  submarine losses.   In 1942, however the Germans  introduced a new four rotor Engima machine using what was termed the “Shark” cipher.  Richard Pendered and a small team of codebreakers would finally break the “Shark” cipher ending a ten month period of major Allied convoy losses in what those in Bletchely Park referred to as the “Shark blackout.”

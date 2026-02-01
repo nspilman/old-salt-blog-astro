@@ -1,8 +1,8 @@
 ---
-title: "A Virtual Visit to the Republic of Null Island — “Like No Place on Earth”"
+title: "A Virtual Visit to the Republic of Null Island — \"Like No Place on Earth\""
 date: 2016-05-21T09:08:09
-slug: virtual-visit-republic-null-island-like-no-place-earth
-excerpt: "The website for the Republic of Null Island reads: “Welcome to Null Island! The Republic of Null Island is one of the smallest and least-visited nations on Earth. Situated where the Prime Meridian crosses the Equator, Null Island sits 1600 … Continue reading &rarr;"
+slug: "virtual-visit-republic-null-island-like-no-place-earth"
+excerpt: "The website for the Republic of Null Island reads: \"Welcome to Null Island! The Republic of Null Island is one of the smallest and least-visited nations on Earth. Situated where the Prime Meridian crosses the Equator, Null Island sits 1600 … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Prime Meridian"
   - "Republic of Null Island"
 author: "Rick Spilman"
-description: "The website for the Republic of Null Island reads: “Welcome to Null Island! The Republic of Null Island is one of the smallest and least-visited nations on Earth. Situated where the Prime Meridian crosses the Equator, Null Island sits 1600 … Continue reading &rarr;"
+description: "The website for the Republic of Null Island reads: \"Welcome to Null Island! The Republic of Null Island is one of the smallest and least-visited nations on Earth. Situated where the Prime Meridian crosses the Equator, Null Island sits 1600 … Continue reading &rarr;"
 ---
 
 ![nullislandbanner](http://www.oldsaltblog.com/wp-content/uploads/2016/05/nullislandbanner.jpg)The website for the [Republic of Null Island](http://www.nullisland.com/) reads: “*Welcome to Null Island! The Republic of Null Island is one of the smallest and least-visited nations on Earth. Situated where the Prime Meridian crosses the Equator, Null Island sits 1600 kilometres off the western coast of Africa.*” The website goes on to describe the geography, the people and the history of this “least-visited nation.”

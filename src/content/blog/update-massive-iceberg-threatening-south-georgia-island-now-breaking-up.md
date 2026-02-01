@@ -1,7 +1,7 @@
 ---
 title: "Update: Massive Iceberg Threatening South Georgia Island Now Breaking Up"
 date: 2020-12-23T17:22:15
-slug: update-massive-iceberg-threatening-south-georgia-island-now-breaking-up
+slug: "update-massive-iceberg-threatening-south-georgia-island-now-breaking-up"
 excerpt: "In November we posted that the world’s largest iceberg, dubbed A68a, was drifting on a collision course with the island of South Georgia. The iceberg calved from Antarctica’s Larsen C ice-shelf in 2017. The berg weighed roughly one trillion tons … Continue reading &rarr;"
 categories:
   - "Current"

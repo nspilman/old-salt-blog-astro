@@ -1,7 +1,7 @@
 ---
 title: "Happy Trafalgar Day!"
 date: 2013-10-21T09:09:14
-slug: happy-trafalgar-day
+slug: "happy-trafalgar-day"
 excerpt: "Happy Trafalgar Day – the celebration of the victory won by the Royal Navy, commanded by Vice-Admiral Horatio Nelson, over the combined French and Spanish fleets at the Battle of Trafalgar on October 21, 1805.  Nelson died in his greatest victory. … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Toshiba Tall Ships Festival at Dana Point – Squareriggers, Schooners and Giant Squid"
 date: 2010-09-10T14:17:13
-slug: toshiba-tall-ships-festival-at-dana-point-squareriggers-schooners-and-giant-squid
+slug: "toshiba-tall-ships-festival-at-dana-point-squareriggers-schooners-and-giant-squid"
 excerpt: "The Toshiba Tall Ships Festival at Dana Point this weekend offers a wide range of attractions and activities.  It all starts with a parade of ships and schooners at sunset this evening.  The Brig Pilgrim, the replica of the ship made famous by Richard Henry Dana, has … Continue reading &rarr;"
 categories:
   - "Current"

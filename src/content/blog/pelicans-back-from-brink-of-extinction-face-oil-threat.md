@@ -1,7 +1,7 @@
 ---
 title: "Pelicans, Back From Brink of Extinction, Face Oil Threat"
 date: 2010-06-05T07:38:10
-slug: pelicans-back-from-brink-of-extinction-face-oil-threat
+slug: "pelicans-back-from-brink-of-extinction-face-oil-threat"
 excerpt: "Though the pelican is featured on the state flag, by the early 1960s, brown pelicans had been pushed to extinction along the Louisiana Gulf Coast by DDT and other pesticides. In 1968 pelicans were reintroduction to Louisiana from colonies in … Continue reading &rarr;"
 categories:
   - "Current"

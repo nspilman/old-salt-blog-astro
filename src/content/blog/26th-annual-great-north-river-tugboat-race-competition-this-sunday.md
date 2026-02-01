@@ -1,7 +1,7 @@
 ---
 title: "26th Annual Great North River Tugboat Race & Competition This Sunday"
 date: 2018-09-05T15:28:48
-slug: 26th-annual-great-north-river-tugboat-race-competition-this-sunday
+slug: "26th-annual-great-north-river-tugboat-race-competition-this-sunday"
 excerpt: "If you are near New York harbor this Sunday, swing by Manhattan’s Pier 84 (at W. 44th St.) on the Hudson River to catch the 26th Annual Great North River Tugboat Race and Competition, sponsored by the Working Harbor Committee. More than 15 tugboats … Continue reading &rarr;"
 categories:
   - "Current"

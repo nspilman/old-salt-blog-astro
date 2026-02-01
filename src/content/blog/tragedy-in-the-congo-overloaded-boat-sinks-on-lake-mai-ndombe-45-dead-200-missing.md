@@ -1,7 +1,7 @@
 ---
 title: "Tragedy in the Congo — Overloaded Boat Sinks on Lake Mai-Ndombe, 45 Dead, 200 Missing"
 date: 2019-05-31T13:12:38
-slug: tragedy-in-the-congo-overloaded-boat-sinks-on-lake-mai-ndombe-45-dead-200-missing
+slug: "tragedy-in-the-congo-overloaded-boat-sinks-on-lake-mai-ndombe-45-dead-200-missing"
 excerpt: "Sadly, the sinking of overloaded ferry boats in the developing world is not new news. It happens with a great enough frequency that it is easy to overlook. Which may be why these tragedies are worth noting. Last weekend, an … Continue reading &rarr;"
 categories:
   - "Current"

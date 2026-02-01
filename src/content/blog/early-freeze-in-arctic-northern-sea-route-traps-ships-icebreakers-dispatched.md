@@ -1,7 +1,7 @@
 ---
 title: "Early Freeze in Arctic Northern Sea Route Traps Ships, Icebreakers Dispatched"
 date: 2021-11-14T16:59:07
-slug: early-freeze-in-arctic-northern-sea-route-traps-ships-icebreakers-dispatched
+slug: "early-freeze-in-arctic-northern-sea-route-traps-ships-icebreakers-dispatched"
 excerpt: "The Barents Observer reports that more than 20 ships are either stuck or struggling to make it through increasingly thick sea-ice on the Arctic Northern Sea Route. They report that over the past several years, shipping along the Russian northern … Continue reading &rarr;"
 categories:
   - "Current"

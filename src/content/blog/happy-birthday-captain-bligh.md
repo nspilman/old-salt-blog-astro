@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday Captain Bligh !"
 date: 2011-09-09T09:37:29
-slug: happy-birthday-captain-bligh
+slug: "happy-birthday-captain-bligh"
 excerpt: "On this day in 1754, William Bligh was born. Following the famous mutiny on HMS Bounty, his name would become synonymous with harsh discipline bordering on tyranny.   The mutiny on the Bounty would be only one of four mutinies that Bligh would live … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Do Octopus Change Color As They Dream?"
 date: 2019-09-27T14:39:57
-slug: do-octopus-change-color-as-they-dream
+slug: "do-octopus-change-color-as-they-dream"
 excerpt: "In an upcoming PBS documentary, Octopus: Making Contact, a scientist observes an octopus changing color while sleeping upside down in a tank. Is it dreaming? Marine biologist Dr. David Scheel speculates what the dream might be in accordance with the … Continue reading &rarr;"
 categories:
   - "Current"

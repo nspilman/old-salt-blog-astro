@@ -1,7 +1,7 @@
 ---
 title: "Welcome Back, Donna Lange: Solo Sailor Finishes Second Circumnavigation"
 date: 2016-05-29T13:25:28
-slug: welcome-back-donna-lange-solo-sailor-finishes-second-circumnavigation
+slug: "welcome-back-donna-lange-solo-sailor-finishes-second-circumnavigation"
 excerpt: "A few days ago, Donna Lange returned home to Narragansett Bay after completing her second solo circumnavigation on Inspired Insanity, her Southern Cross 28.  An event was held in her honor at the Herreshoff Museum in Bristol, RI for family and … Continue reading &rarr;"
 categories:
   - "Current"

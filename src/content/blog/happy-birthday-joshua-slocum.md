@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday, Joshua Slocum"
 date: 2014-02-20T16:25:02
-slug: happy-birthday-joshua-slocum
+slug: "happy-birthday-joshua-slocum"
 excerpt: "Joshua Slocum was born on February 20, 1844.  After a career at sea, he rebuilt a 36′ 9″ (11.2 m) gaff rigged oyster boat, which he named Spray.   Between 1895 and 1898, he sailed the Spray singlehanded around the world, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

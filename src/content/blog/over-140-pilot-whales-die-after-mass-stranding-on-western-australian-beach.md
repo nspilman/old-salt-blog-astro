@@ -1,7 +1,7 @@
 ---
 title: "Over 140 Pilot Whales Die After Mass Stranding on Western Australian Beach"
 date: 2018-03-24T08:19:27
-slug: over-140-pilot-whales-die-after-mass-stranding-on-western-australian-beach
+slug: "over-140-pilot-whales-die-after-mass-stranding-on-western-australian-beach"
 excerpt: "More than 150 short-finned pilot whales were found stranded early Friday in Hamelin Bay, Western Australia.  Despite the best effort of more than 100 volunteer rescuers, only 6 survived to be returned to the sea. Hamelin Bay is located about 192 … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Salt and Cabotage — Is the Jones Act Being Blamed for Poor Planning?"
 date: 2014-02-19T10:44:03
-slug: salt-and-cabotage-is-the-jones-acts-being-blamed-for-poor-planning
+slug: "salt-and-cabotage-is-the-jones-acts-being-blamed-for-poor-planning"
 excerpt: "International Salt, a major salt company, has just about run out of salt to supply the State of New Jersey.  The salt is used to control ice on the roads, and to run out in the middle of a very … Continue reading &rarr;"
 categories:
   - "Current"

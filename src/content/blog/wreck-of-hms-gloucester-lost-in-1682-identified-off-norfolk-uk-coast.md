@@ -1,7 +1,7 @@
 ---
 title: "Wreck of HMS Gloucester, Lost in 1682, Identified Off Norfolk, UK Coast"
 date: 2022-06-10T15:57:27
-slug: wreck-of-hms-gloucester-lost-in-1682-identified-off-norfolk-uk-coast
+slug: "wreck-of-hms-gloucester-lost-in-1682-identified-off-norfolk-uk-coast"
 excerpt: "The wreck of HMS Gloucester, a 50-gun, third-rate, Royal Navy warship, which sank in 1682 while carrying the future king James Stuart, has been identified off the coast of Norfolk. According to Prof Claire Jowitt, a specialist in maritime history … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Inside the Costa Concordia — New Video, Days Before Refloating"
 date: 2014-07-04T10:14:35
-slug: inside-the-costa-concordia-new-video-days-before-refloating
+slug: "inside-the-costa-concordia-new-video-days-before-refloating"
 excerpt: "In just over a week, salvors expect to  start pumping air into sponson tanks welded along the hull of the Costa Concordia to refloat the ship.   Prior to the refloating, Italian police have released footage showing the underwater interior of the wrecked … Continue reading &rarr;"
 categories:
   - "Current"

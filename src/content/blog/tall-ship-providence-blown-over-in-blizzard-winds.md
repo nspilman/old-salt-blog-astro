@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship Providence Blown Over in Blizzard Winds"
 date: 2015-01-27T17:59:09
-slug: tall-ship-providence-blown-over-in-blizzard-winds
+slug: "tall-ship-providence-blown-over-in-blizzard-winds"
 excerpt: "The sloop Providence, a 1976 built replica of the Continental Navy sloop of the same name, was blown off her jack stands while on shore at Newport Shipyard in Newport, Rhode Island on Tuesday in blizzard conditions.  The ship was dis-masted … Continue reading &rarr;"
 categories:
   - "Current"

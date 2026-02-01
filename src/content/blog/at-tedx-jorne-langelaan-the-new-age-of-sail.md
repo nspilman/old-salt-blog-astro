@@ -1,8 +1,8 @@
 ---
 title: "At TEDX: Jorne Langelaan, The new age of sail"
 date: 2010-11-25T08:32:19
-slug: at-tedx-jorne-langelaan-the-new-age-of-sail
-excerpt: "TED (Technology Entertainment and Design) is a global series of conferences focusing on “Ideas Worth Spreading.”   An upcoming TEDxAmsterdam conference will feature Jorne Langelaan, one of  the founders of Fair Transport Shipping. With their brigantine Tres Hombres, they are attempting to demonstrate … Continue reading &rarr;"
+slug: "at-tedx-jorne-langelaan-the-new-age-of-sail"
+excerpt: "TED (Technology Entertainment and Design) is a global series of conferences focusing on \"Ideas Worth Spreading.\"   An upcoming TEDxAmsterdam conference will feature Jorne Langelaan, one of  the founders of Fair Transport Shipping. With their brigantine Tres Hombres, they are attempting to demonstrate … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "TEDxAmsterdam"
   - "Tres Hombres"
 author: "Rick Spilman"
-description: "TED (Technology Entertainment and Design) is a global series of conferences focusing on “Ideas Worth Spreading.”   An upcoming TEDxAmsterdam conference will feature Jorne Langelaan, one of  the founders of Fair Transport Shipping. With their brigantine Tres Hombres, they are attempting to demonstrate … Continue reading &rarr;"
+description: "TED (Technology Entertainment and Design) is a global series of conferences focusing on \"Ideas Worth Spreading.\"   An upcoming TEDxAmsterdam conference will feature Jorne Langelaan, one of  the founders of Fair Transport Shipping. With their brigantine Tres Hombres, they are attempting to demonstrate … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/Jorne-Langelaan-234x300.jpg)[TED](http://www.ted.com/) (Technology Entertainment and Design) is a global series of conferences focusing on “Ideas Worth Spreading.”   An upcoming [TEDxAmsterdam conference](http://www.tedxamsterdam.com/2010/tedxamsterdam-2010-to-be-held-in-stadsschouwburg-amsterdam/) will feature Jorne Langelaan, one of  the founders of Fair Transport Shipping. With their brigantine *[Tres Hombres](http://svtreshombres.homestead.com/Index.html)*, they are attempting to demonstrate that windpower may be a solution to sustainable cargo shipping.  Lagelaan will be speaking at the conference on November 30th.

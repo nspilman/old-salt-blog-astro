@@ -1,7 +1,7 @@
 ---
 title: "Bernard Cornwell’s The Fort – A Review"
 date: 2010-11-12T10:44:07
-slug: bernard-cornwells-the-fort-a-review
+slug: "bernard-cornwells-the-fort-a-review"
 excerpt: "Bernard Cornwell’s The Fort: A Novel of the Revolutionary War is not strictly speaking nautical fiction but does focus on an ill-fated expedition that ended as the worst American naval defeat prior to Pear Harbor. At first glance, The Fort … Continue reading &rarr;"
 categories:
   - "History"

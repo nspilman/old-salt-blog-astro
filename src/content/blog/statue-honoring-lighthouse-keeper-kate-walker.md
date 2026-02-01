@@ -1,8 +1,8 @@
 ---
 title: "Statue Honoring Lighthouse Keeper Kate Walker"
 date: 2019-03-08T20:40:55
-slug: statue-honoring-lighthouse-keeper-kate-walker
-excerpt: "New York City has announced a new statue of the late Robbins Reef Lighthouse keeper Katherine Walker which will be installed at the Staten Island Ferry landing. Though standing only 4’10” tall and weighing around 100 pounds, Katherine Walker served … Continue reading &rarr;"
+slug: "statue-honoring-lighthouse-keeper-kate-walker"
+excerpt: "New York City has announced a new statue of the late Robbins Reef Lighthouse keeper Katherine Walker which will be installed at the Staten Island Ferry landing. Though standing only 4’10\" tall and weighing around 100 pounds, Katherine Walker served … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "Staten Island Ferry landing"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/katewalker.jpg"
 author: "Rick Spilman"
-description: "New York City has announced a new statue of the late Robbins Reef Lighthouse keeper Katherine Walker which will be installed at the Staten Island Ferry landing. Though standing only 4’10” tall and weighing around 100 pounds, Katherine Walker served … Continue reading &rarr;"
+description: "New York City has announced a new statue of the late Robbins Reef Lighthouse keeper Katherine Walker which will be installed at the Staten Island Ferry landing. Though standing only 4’10\" tall and weighing around 100 pounds, Katherine Walker served … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/katewalker.jpg)[New York City has announced a new statue](https://www.silive.com/news/2019/03/city-to-construct-statue-of-late-lighthouse-keeper-katherine-walker-at-ferry-landing.html) of the late [Robbins Reef Lighthouse](http://www.noblemaritime.org/robbins-reef) keeper [Katherine Walker](https://en.wikipedia.org/wiki/Katherine_Walker) which will be installed at the Staten Island Ferry landing.

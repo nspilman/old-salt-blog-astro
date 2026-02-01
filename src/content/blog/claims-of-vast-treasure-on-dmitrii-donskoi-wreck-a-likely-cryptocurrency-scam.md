@@ -1,7 +1,7 @@
 ---
 title: "Claims of Vast Treasure on Dmitrii Donskoi Wreck a Likely Cryptocurrency Scam"
 date: 2018-08-21T08:41:57
-slug: claims-of-vast-treasure-on-dmitrii-donskoi-wreck-a-likely-cryptocurrency-scam
+slug: "claims-of-vast-treasure-on-dmitrii-donskoi-wreck-a-likely-cryptocurrency-scam"
 excerpt: "In July we posted about the discovery of the wreck of the Russian armored cruiser, Dmitrii Donskoi, off South Korea. The salvors claimed that the ship may contain 200 tons of gold, which would they said may be worth around $133.4 billion (£102bn) in … Continue reading &rarr;"
 categories:
   - "Current"

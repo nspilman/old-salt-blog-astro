@@ -1,7 +1,7 @@
 ---
 title: "Are There Whales Alive Today Who Were Born Before Moby Dick Was Written ?"
 date: 2013-01-14T10:47:01
-slug: are-there-whales-alive-today-who-were-born-before-moby-dick-was-written
+slug: "are-there-whales-alive-today-who-were-born-before-moby-dick-was-written"
 excerpt: "A recent article in the Alaska Dispatch celebrated the recent population rebound of bowhead whales off Alaska’s North Slope.  The bowheads had been hunted to near extinction. A whale count in 1978 estimated that only 1,200 bowhead whales remained in the region. … Continue reading &rarr;"
 categories:
   - "Current"

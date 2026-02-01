@@ -1,7 +1,7 @@
 ---
 title: "Video of Humpback Capsizing Fishing Boat Off the New Hampshire Coast"
 date: 2024-07-24T16:53:18
-slug: video-of-humpback-capsizing-fishing-boat-off-the-new-hampshire-coast
+slug: "video-of-humpback-capsizing-fishing-boat-off-the-new-hampshire-coast"
 excerpt: "A humpback whale that appeared to be lunge feeding breached the water and landed on a recreational boat near Portsmouth, New Hampshire, on Tuesday, capsizing the vessel and tossing two occupants into the water, the United States Coast Guard said. … Continue reading &rarr;"
 categories:
   - "Current"

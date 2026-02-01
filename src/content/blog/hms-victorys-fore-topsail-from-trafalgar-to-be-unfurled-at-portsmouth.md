@@ -1,7 +1,7 @@
 ---
 title: "HMS Victory’s Fore Topsail From Trafalgar to be Unfurled at Portsmouth"
 date: 2018-07-13T09:02:14
-slug: hms-victorys-fore-topsail-from-trafalgar-to-be-unfurled-at-portsmouth
+slug: "hms-victorys-fore-topsail-from-trafalgar-to-be-unfurled-at-portsmouth"
 excerpt: "On July 21, the fore topsail set on HMS Victory at the Battle of Trafalgar of 1805 will go on display in all its perforated glory. The sail has 90 shot holes and will be displayed for a limited time … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

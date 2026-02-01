@@ -1,7 +1,7 @@
 ---
 title: "The Wreck of El Faro — NTSB Video from 60 Minutes"
 date: 2016-01-04T08:48:28
-slug: el-faro-video-from-60-minutes
+slug: "el-faro-video-from-60-minutes"
 excerpt: "The news program 60 Minutes broadcast National Transportation and Safety Board (NTSB) footage of the wreck of El Faro last night. The TOTE Ro/Ro was lost with all 33 aboard in Hurricane Joaquin in October. The footage is striking and … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: Jubilee Sailing Trust Crisis Averted — £1M Raised in Five Days"
 date: 2019-07-08T11:14:54
-slug: update-jubilee-sailing-trust-crisis-averted-1m-raised-in-five-days
+slug: "update-jubilee-sailing-trust-crisis-averted-1m-raised-in-five-days"
 excerpt: "The financial crisis that threatened to shut down the Jubilee Sailing Trust (JST) has been averted. The sailing charity says that its emergency fundraising appeal raised more than £1m in five days. The charity had warned that if it did … Continue reading &rarr;"
 categories:
   - "Current"

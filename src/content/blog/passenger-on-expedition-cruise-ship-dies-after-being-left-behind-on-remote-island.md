@@ -1,7 +1,7 @@
 ---
 title: "Passenger on Expedition Cruise Ship Dies After Being Left Behind on Remote  Island"
 date: 2025-11-02T17:47:53
-slug: passenger-on-expedition-cruise-ship-dies-after-being-left-behind-on-remote-island
+slug: "passenger-on-expedition-cruise-ship-dies-after-being-left-behind-on-remote-island"
 excerpt: "On October 24, the expedition cruise ship Coral Adventurer set sail from Cairns on a 60-day luxury voyage around Australia. One day later, at the ship’s first stop, at Lizard Island on the Great Barrier Reef, things went tragically wrong. … Continue reading &rarr;"
 categories:
   - "Current"

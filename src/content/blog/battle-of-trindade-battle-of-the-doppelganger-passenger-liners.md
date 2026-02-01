@@ -1,7 +1,7 @@
 ---
 title: "Battle of Trindade — Battle of the Doppelgänger Passenger Liners"
 date: 2014-09-14T17:12:10
-slug: battle-of-trindade-battle-of-the-doppelganger-passenger-liners
+slug: "battle-of-trindade-battle-of-the-doppelganger-passenger-liners"
 excerpt: "On September 14th, 1914, one hundred years ago today, off the Brazilian island of Trindale, one of the stranger naval battles of World War I was fought between two converted passenger liners, one of which was disguised to look like … Continue reading &rarr;"
 categories:
   - "Current"

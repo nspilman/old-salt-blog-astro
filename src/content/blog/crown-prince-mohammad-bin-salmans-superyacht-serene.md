@@ -1,7 +1,7 @@
 ---
 title: "Crown Prince Mohammad bin Salman’s Superyacht Serene"
 date: 2017-12-17T18:05:03
-slug: crown-prince-mohammad-bin-salmans-superyacht-serene
+slug: "crown-prince-mohammad-bin-salmans-superyacht-serene"
 excerpt: "Crown Prince Mohammad bin Salman, the heir to the Saudi throne, has notionally been leading a sweeping crackdown on corruption and self-enrichment.  This has not stopped him from making some rather impressive purchases himself. Two years ago, the prince purchased, through intermediaries, Chateau Louis … Continue reading &rarr;"
 categories:
   - "Current"

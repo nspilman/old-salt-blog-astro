@@ -1,7 +1,7 @@
 ---
 title: "Drone Footage of Viking Longship Draken Harald Hårfagre Departing Plymouth"
 date: 2018-07-22T14:58:49
-slug: drone-footage-of-viking-longship-draken-harald-harfagre-departing-plymouth
+slug: "drone-footage-of-viking-longship-draken-harald-harfagre-departing-plymouth"
 excerpt: "We have been posting about the ongoing East Coast tour by the Viking longship Draken Harald Hårfagre. Here is a lovely drone video by Ryan Smith of the longship as she departs Plymouth, MA bound for Rockland, ME. The 115 … Continue reading &rarr;"
 categories:
   - "Current"

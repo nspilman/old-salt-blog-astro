@@ -1,7 +1,7 @@
 ---
 title: "Rediscovered Fossil of 10 Armed Vampire Squid Named after President Biden"
 date: 2022-03-22T18:16:37
-slug: rediscovered-fossil-of-10-armed-vampire-squid-named-after-president-biden
+slug: "rediscovered-fossil-of-10-armed-vampire-squid-named-after-president-biden"
 excerpt: "NPR reports that researchers say they have found the oldest known relative of octopuses and vampire squids, in a fossil dug up decades ago in Montana. The official name of the newly discovered species is Syllipsimopodi bideni, named after President Joe … Continue reading &rarr;"
 categories:
   - "Current"

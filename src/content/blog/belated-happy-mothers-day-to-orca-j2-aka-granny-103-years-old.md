@@ -1,8 +1,8 @@
 ---
 title: "Belated Happy Mother’s Day to Orca J2, aka Granny, 103 Years Old"
 date: 2014-05-13T10:52:44
-slug: belated-happy-mothers-day-to-orca-j2-aka-granny-103-years-old
-excerpt: "A belated happy Mother’s day to the matriarch of the J pod, known as J2, but nicknamed “Granny,” by orca researchers who is believed to be 103 years old this year, and still swimming strong. The J pod is a … Continue reading &rarr;"
+slug: "belated-happy-mothers-day-to-orca-j2-aka-granny-103-years-old"
+excerpt: "A belated happy Mother’s day to the matriarch of the J pod, known as J2, but nicknamed \"Granny,\" by orca researchers who is believed to be 103 years old this year, and still swimming strong. The J pod is a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "orca. J2"
   - "southern resident group"
 author: "Rick Spilman"
-description: "A belated happy Mother’s day to the matriarch of the J pod, known as J2, but nicknamed “Granny,” by orca researchers who is believed to be 103 years old this year, and still swimming strong. The J pod is a … Continue reading &rarr;"
+description: "A belated happy Mother’s day to the matriarch of the J pod, known as J2, but nicknamed \"Granny,\" by orca researchers who is believed to be 103 years old this year, and still swimming strong. The J pod is a … Continue reading &rarr;"
 ---
 
 ![Photo:  Capt. Simon Pidcock / Ocean EcoVentures](http://www.oldsaltblog.com/wp-content/uploads/2014/05/dsc_4903.jpg)

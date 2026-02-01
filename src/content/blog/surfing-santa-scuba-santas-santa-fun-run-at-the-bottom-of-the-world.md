@@ -1,7 +1,7 @@
 ---
 title: "Surfing Santa, Scuba Santas & Santa Fun Run at the Bottom of the World"
 date: 2012-12-19T14:32:35
-slug: surfing-santa-scuba-santas-santa-fun-run-at-the-bottom-of-the-world
+slug: "surfing-santa-scuba-santas-santa-fun-run-at-the-bottom-of-the-world"
 excerpt: "Tis’ the season when Santa shows up in the most unusual places. A small ship-load of Santas was recently observed running across the ice at the bottom of the world. Twenty crew members dressed as Santa (with at least one reindeer) from … Continue reading &rarr;"
 categories:
   - "Current"

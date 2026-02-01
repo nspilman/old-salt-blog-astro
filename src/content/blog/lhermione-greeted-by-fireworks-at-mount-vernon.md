@@ -1,7 +1,7 @@
 ---
 title: "l’Hermione Greeted by Fireworks at Mount Vernon"
 date: 2015-06-11T17:25:52
-slug: lhermione-greeted-by-fireworks-at-mount-vernon
+slug: "lhermione-greeted-by-fireworks-at-mount-vernon"
 excerpt: "The French frigate l‘Hermione was greeted by a dramatic fireworks display on its arrival at Mount Vernon, Virginia, George Washington’s plantation home. In 1780, the original frigate L’Hermione, carried the 23 year old Gilbert du Motier, better known as the Marquis … Continue reading &rarr;"
 categories:
   - "Current"

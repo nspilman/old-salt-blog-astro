@@ -1,7 +1,7 @@
 ---
 title: "Eighty Years Ago Today — Sinking of the HMT Lancastria, the Worst Maritime Disaster in British History"
 date: 2020-06-17T14:52:25
-slug: eighty-years-ago-today-sinking-of-the-hmt-lancastria-the-worst-maritime-disaster-in-british-history
+slug: "eighty-years-ago-today-sinking-of-the-hmt-lancastria-the-worst-maritime-disaster-in-british-history"
 excerpt: "On June 17, 1940, the HMT Lancastria was sunk by German bombers near the French port of Saint-Nazaire. An estimated 4,000 people died in the sinking. Fewer than 2,500 survived. It was the worst maritime disaster in British history, worse … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

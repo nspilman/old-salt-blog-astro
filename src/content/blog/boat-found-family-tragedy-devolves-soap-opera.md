@@ -1,7 +1,7 @@
 ---
 title: "Missing Boys’ Boat Found, Restarting Tragic Family Saga"
 date: 2016-04-30T15:07:13
-slug: boat-found-family-tragedy-devolves-soap-opera
+slug: "boat-found-family-tragedy-devolves-soap-opera"
 excerpt: "A 19-foot boat, which has been missing since last July, has been recovered in the Atlantic, restarting the saga of two families’ tragedy involving their two missing sons, lawyers, lawsuits, and suggestions of abduction and foul play. On Friday, July … Continue reading &rarr;"
 categories:
   - "Current"

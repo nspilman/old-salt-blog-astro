@@ -1,8 +1,8 @@
 ---
 title: "The Charles W. Morgan and the Synchrolift"
 date: 2013-07-22T17:12:41
-slug: the-charles-w-morgan-and-the-synchrolift
-excerpt: "The Synchrolift is a wonderful invention. It is a shiplift and transfer system which according to Rolls Royce, the Synchrolift firm’s owner, is “used to increase efficiency and reduce drying-docking times at many of the world’s leading shipyards.”  Mystic Seaport Museum … Continue reading &rarr;"
+slug: "the-charles-w-morgan-and-the-synchrolift"
+excerpt: "The Synchrolift is a wonderful invention. It is a shiplift and transfer system which according to Rolls Royce, the Synchrolift firm’s owner, is \"used to increase efficiency and reduce drying-docking times at many of the world’s leading shipyards.\"  Mystic Seaport Museum … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Charles W. Morgan"
   - "Synchrolift"
 author: "Rick Spilman"
-description: "The Synchrolift is a wonderful invention. It is a shiplift and transfer system which according to Rolls Royce, the Synchrolift firm’s owner, is “used to increase efficiency and reduce drying-docking times at many of the world’s leading shipyards.”  Mystic Seaport Museum … Continue reading &rarr;"
+description: "The Synchrolift is a wonderful invention. It is a shiplift and transfer system which according to Rolls Royce, the Synchrolift firm’s owner, is \"used to increase efficiency and reduce drying-docking times at many of the world’s leading shipyards.\"  Mystic Seaport Museum … Continue reading &rarr;"
 ---
 
 ![morganlaunch](http://www.oldsaltblog.com/wp-content/uploads/2013/07/morganlaunch.jpg)

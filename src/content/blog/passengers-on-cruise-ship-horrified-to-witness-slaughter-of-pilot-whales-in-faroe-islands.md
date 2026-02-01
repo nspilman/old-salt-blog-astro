@@ -1,7 +1,7 @@
 ---
 title: "Passengers on Cruise Ship Horrified to Witness Slaughter of Pilot Whales in Faroe Islands"
 date: 2023-07-14T19:20:59
-slug: passengers-on-cruise-ship-horrified-to-witness-slaughter-of-pilot-whales-in-faroe-islands
+slug: "passengers-on-cruise-ship-horrified-to-witness-slaughter-of-pilot-whales-in-faroe-islands"
 excerpt: "When the Ambassador Cruise Line cruise ship Ambition arrived recently in the port of Tórshavn, the capital of the Faroe Islands, its passengers admired the rugged coastline and the breathtaking views of the surrounding mountains. For many, however, the sense … Continue reading &rarr;"
 categories:
   - "Current"

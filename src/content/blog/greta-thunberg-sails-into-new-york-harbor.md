@@ -1,7 +1,7 @@
 ---
 title: "Greta Thunberg Sails into New York Harbor"
 date: 2019-08-28T15:41:55
-slug: greta-thunberg-sails-into-new-york-harbor
+slug: "greta-thunberg-sails-into-new-york-harbor"
 excerpt: "Accompanied by a flotilla of well-wishers, 16-year-old Swedish climate activist, Greta Thunberg, sailed into New York harbor today on the foiling monohull IMOCA 60, Malizia II. Greta is on her way to UN climate talks being held in September. To avoid … Continue reading &rarr;"
 categories:
   - "Current"

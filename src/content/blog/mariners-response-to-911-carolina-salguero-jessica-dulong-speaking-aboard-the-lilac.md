@@ -1,7 +1,7 @@
 ---
 title: "Mariners’ Response to 9/11 – Carolina Salguero & Jessica DuLong Speaking Aboard the Lilac"
 date: 2011-09-13T16:25:10
-slug: mariners-response-to-911-carolina-salguero-jessica-dulong-speaking-aboard-the-lilac
+slug: "mariners-response-to-911-carolina-salguero-jessica-dulong-speaking-aboard-the-lilac"
 excerpt: "If you are in the vicinity tomorrow evening be sure to stop by the historic buoy tender LILAC at the Hudson River Park’s Pier 25 at North Moore Street, Tribeca, Manhattan, where Carolina Salguero & Jessica DuLong will speak on the Mariners’ Response … Continue reading &rarr;"
 categories:
   - "Current"

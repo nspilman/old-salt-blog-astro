@@ -1,7 +1,7 @@
 ---
 title: "Memorial and Dedication of New Visitors Center at Pearl Harbor"
 date: 2010-12-07T09:28:36
-slug: memorial-and-dedication-of-new-visitors-center-at-pearl-harbor
+slug: "memorial-and-dedication-of-new-visitors-center-at-pearl-harbor"
 excerpt: "The attack on the Pearl Harbor Naval Base, on Oʻahu, Hawaii by Japan on December 7th 1941 still resonates with Americans as evidenced by the literally hundreds of  Pearl  Harbor  memorials  scheduled around the country  in remembrance of what President Franklin Delano Roosevelt referred to … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Last of the Caballito de Totora, the Little Reed Horses of Peru"
 date: 2014-08-13T11:26:38
-slug: the-last-of-the-caballito-de-totora-the-little-reed-horses-of-peru
+slug: "the-last-of-the-caballito-de-totora-the-little-reed-horses-of-peru"
 excerpt: "For the last thirty five hundred years, Peruvian fisherman have paddled boats called caballito de totora, the little reed horses, out through the surf to cast their nets offshore.  At the end of the day, they ride the waves back to shore … Continue reading &rarr;"
 categories:
   - "Current"

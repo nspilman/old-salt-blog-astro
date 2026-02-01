@@ -1,7 +1,7 @@
 ---
 title: "Voyage Data Recorder from El Faro Recovered from 15,000′"
 date: 2016-08-09T14:08:21
-slug: voyage-data-recorder-el-faro-recovered
+slug: "voyage-data-recorder-el-faro-recovered"
 excerpt: "A National Transportation Safety Board (NTSB) press release announced today that the voyage data recorder (VDR) from El Faro, the US flagged cargo ship that sank during Hurricane Joaquin in October 2015 with the loss of all 33 aboard, was successfully recovered … Continue reading &rarr;"
 categories:
   - "Current"

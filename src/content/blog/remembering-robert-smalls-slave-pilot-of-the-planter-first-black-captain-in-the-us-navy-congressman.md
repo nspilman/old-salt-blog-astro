@@ -1,7 +1,7 @@
 ---
 title: "Remembering Robert Smalls –  Slave, Pilot of the Planter, First Black Captain in the US Navy & Congressman"
 date: 2020-02-19T16:23:07
-slug: remembering-robert-smalls-slave-pilot-of-the-planter-first-black-captain-in-the-us-navy-congressman
+slug: "remembering-robert-smalls-slave-pilot-of-the-planter-first-black-captain-in-the-us-navy-congressman"
 excerpt: "Robert Smalls is an unsung American hero. If all goes well, he may soon get some of the recognition that he deserves. Last year, it was announced that Charles Burnett is directing a movie about Robert Smalls for Amazon Studios. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

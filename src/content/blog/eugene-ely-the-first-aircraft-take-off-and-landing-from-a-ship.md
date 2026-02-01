@@ -1,7 +1,7 @@
 ---
 title: "Eugene Ely & the First Aircraft Take-Off and Landing From a Ship"
 date: 2019-11-14T16:54:55
-slug: eugene-ely-the-first-aircraft-take-off-and-landing-from-a-ship
+slug: "eugene-ely-the-first-aircraft-take-off-and-landing-from-a-ship"
 excerpt: "On November 14, 1910, one hundred and nine years ago today, pilot Eugene Burton Ely successfully took off in a biplane from the deck of the light cruiser USS Birmingham in the waters off Norfolk, Virginia, becoming the first pilot … Continue reading &rarr;"
 categories:
   - "History"

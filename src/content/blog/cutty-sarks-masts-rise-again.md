@@ -1,7 +1,7 @@
 ---
 title: "Cutty Sark’s Masts Rise Again"
 date: 2011-12-11T11:58:55
-slug: cutty-sarks-masts-rise-again
+slug: "cutty-sarks-masts-rise-again"
 excerpt: "After being gutted by fire in 2007, the 1869 composite tea clipper Cutty Sark has been undergoing a methodical reconstruction.  She reached a milestone recently when her foremast was restepped in the ship.  The main and mizzen masts are expected to be … Continue reading &rarr;"
 categories:
   - "Current"

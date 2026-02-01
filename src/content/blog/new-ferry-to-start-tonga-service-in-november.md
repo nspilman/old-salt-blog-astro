@@ -1,7 +1,7 @@
 ---
 title: "New ferry to start Tonga service in November"
 date: 2010-03-09T08:11:08
-slug: new-ferry-to-start-tonga-service-in-november
+slug: "new-ferry-to-start-tonga-service-in-november"
 excerpt: "Early last August the Tongan ferry, Princess Ashika, sank with a presumed loss over seventy lives.  See our previous posts  – Princess Akisha.   A new ferry, the Olovaha, for the route is being built in Japan, with Japanese funding and is … Continue reading &rarr;"
 categories:
   - "Current"

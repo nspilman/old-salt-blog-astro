@@ -1,7 +1,7 @@
 ---
 title: "Sailing the Around the World on Kamana — Five Years in Five Minutes"
 date: 2019-06-16T09:00:51
-slug: sailing-the-around-the-world-on-kamana-five-years-in-five-minutes
+slug: "sailing-the-around-the-world-on-kamana-five-years-in-five-minutes"
 excerpt: "Here is an incredibly beautiful video shot by Enrico Tettamanti and his wife Giulia Azzalli who spent over five years exploring the globe aboard their Solaris 72 Kamana.  Truly amazing footage. Well worth just over 5 minutes of your time. … Continue reading &rarr;"
 categories:
   - "Current"

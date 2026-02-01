@@ -1,7 +1,7 @@
 ---
 title: "Freedom Schooner Amistad at PortSide NewYork"
 date: 2018-07-21T14:21:22
-slug: freedom-schooner-amistad-at-portside-newyork
+slug: "freedom-schooner-amistad-at-portside-newyork"
 excerpt: "The schooner Amistad is coming to PortSide NewYork, at Pier 11 in the Atlantic Basin, in Red Hook, Brooklyn. Amistad will tie up alongside the historic tanker, Mary A. Whalen, and will be available for free public tours on Tuesday, … Continue reading &rarr;"
 categories:
   - "History"

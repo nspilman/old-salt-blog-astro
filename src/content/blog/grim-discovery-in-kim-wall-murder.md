@@ -1,7 +1,7 @@
 ---
 title: "Grim Discovery in Kim Wall Murder"
 date: 2017-10-07T09:07:38
-slug: grim-discovery-in-kim-wall-murder
+slug: "grim-discovery-in-kim-wall-murder"
 excerpt: "The Danish police made a grim discovery in the murder of Kim Wall. On Friday, divers discovered the severed head, legs and arms of the Swedish journalist, as well as some of her clothing and a knife. The body parts … Continue reading &rarr;"
 categories:
   - "Current"

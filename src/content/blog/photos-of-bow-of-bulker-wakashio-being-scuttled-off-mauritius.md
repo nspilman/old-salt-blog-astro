@@ -1,8 +1,8 @@
 ---
 title: "Photos of Bow of Bulker Wakashio Being Scuttled Off Mauritius"
 date: 2020-08-28T09:57:17
-slug: photos-of-bow-of-bulker-wakashio-being-scuttled-off-mauritius
-excerpt: "The government of Mauritius announced last Monday that “the planned sinking of the stem (forward) section of the [bulk carrier Wakashio] has been completed and at around 3.30pm was no longer visible on the sea surface. While some sources referred … Continue reading &rarr;"
+slug: "photos-of-bow-of-bulker-wakashio-being-scuttled-off-mauritius"
+excerpt: "The government of Mauritius announced last Monday that \"the planned sinking of the stem (forward) section of the [bulk carrier Wakashio] has been completed and at around 3.30pm was no longer visible on the sea surface. While some sources referred … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Wakashio"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/08/bulkerscuttled1.jpg"
 author: "Rick Spilman"
-description: "The government of Mauritius announced last Monday that “the planned sinking of the stem (forward) section of the [bulk carrier Wakashio] has been completed and at around 3.30pm was no longer visible on the sea surface. While some sources referred … Continue reading &rarr;"
+description: "The government of Mauritius announced last Monday that \"the planned sinking of the stem (forward) section of the [bulk carrier Wakashio] has been completed and at around 3.30pm was no longer visible on the sea surface. While some sources referred … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/08/bulkerscuttled1.jpg)

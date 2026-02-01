@@ -1,7 +1,7 @@
 ---
 title: "Fire in Tampa, Lightning in the Gulf and the Battleship Texas Still Afloat"
 date: 2010-06-16T16:11:06
-slug: fire-in-tampa-lightning-in-the-gulf-and-the-battleship-texas-still-afloat
+slug: "fire-in-tampa-lightning-in-the-gulf-and-the-battleship-texas-still-afloat"
 excerpt: "Busy days in the Gulf of Mexico.  On the surface above the continuing Deepwater Horizon disaster yesterday, a drill  ship attempting to contain the oil was struck by lightning and caught on fire shutting down containment operations.  Reportedly, operations resumed today.   BP: Oil … Continue reading &rarr;"
 categories:
   - "Current"

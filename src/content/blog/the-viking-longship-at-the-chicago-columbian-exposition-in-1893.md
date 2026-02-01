@@ -1,7 +1,7 @@
 ---
 title: "The Viking Longship at the Chicago Columbian Exposition in 1893"
 date: 2020-10-12T17:05:38
-slug: the-viking-longship-at-the-chicago-columbian-exposition-in-1893
+slug: "the-viking-longship-at-the-chicago-columbian-exposition-in-1893"
 excerpt: "Happy Columbus Day, or Indigenous People’s Day, if you prefer. And if you are in Canada, Happy Thanksgiving! Here is an updated repost of when a Viking longship arrived at the World’s Columbian Exposition in Chicago in 1893. The Exposition … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

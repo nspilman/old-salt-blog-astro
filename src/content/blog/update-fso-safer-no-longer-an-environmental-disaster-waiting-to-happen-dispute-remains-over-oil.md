@@ -1,7 +1,7 @@
 ---
 title: "Update: FSO Safer No Longer an Environmental Disaster Waiting to Happen, Dispute Remains Over Oil"
 date: 2023-08-13T21:12:09
-slug: update-fso-safer-no-longer-an-environmental-disaster-waiting-to-happen-dispute-remains-over-oil
+slug: "update-fso-safer-no-longer-an-environmental-disaster-waiting-to-happen-dispute-remains-over-oil"
 excerpt: "The FSO Safer is now considerably safer. A United Nations operation to transfer more than one million barrels of oil from the decaying floating oil storage vessel into another ship off the coast of Yemen has been completed.  Removal of … Continue reading &rarr;"
 categories:
   - "Current"

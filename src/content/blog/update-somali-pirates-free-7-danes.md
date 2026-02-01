@@ -1,7 +1,7 @@
 ---
 title: "Update: Somali Pirates Free 7 Danes"
 date: 2011-09-07T10:01:37
-slug: update-somali-pirates-free-7-danes
+slug: "update-somali-pirates-free-7-danes"
 excerpt: "Last February we posted that Somali pirates had hijacked a Danish sailboat with four adults and three children aboard.   Yesterday, the Danish Foreign Ministry announced seven Danish citizens, including a family with three children had been released. It has been reported that the pirates were … Continue reading &rarr;"
 categories:
   - "Current"

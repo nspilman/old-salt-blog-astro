@@ -1,7 +1,7 @@
 ---
 title: "Flagship Niagara to Sail Again in 2022"
 date: 2022-02-09T18:27:18
-slug: flagship-niagara-to-sail-again-in-2022
+slug: "flagship-niagara-to-sail-again-in-2022"
 excerpt: "Officials from the Pennsylvania Historical and Museum Commission (PHMC) have confirmed that Brig Niagara, Pennsylvania’s Flagship, will sail the Great Lakes again this summer. Erie News Now reports that because of concerns over COVID-19, Niagara hasn’t sailed since 2019 — … Continue reading &rarr;"
 categories:
   - "Current"

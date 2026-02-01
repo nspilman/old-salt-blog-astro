@@ -1,7 +1,7 @@
 ---
 title: "Media Announces Discovery of Cook’s HMS Endeavour — Again"
 date: 2016-05-03T16:55:52
-slug: process-discovery-cooks-hms-endeavour
+slug: "process-discovery-cooks-hms-endeavour"
 excerpt: "The news has been full of announcements about the discovery of Captain Cook’s HMS Endeavour by the Rhode Island Marine Archaeology Project (RIMAP) near the harbor at Newport, Rhode, Island. Much of the reporting has been somewhat confused. The Daily Mail, for … Continue reading &rarr;"
 categories:
   - "Current"

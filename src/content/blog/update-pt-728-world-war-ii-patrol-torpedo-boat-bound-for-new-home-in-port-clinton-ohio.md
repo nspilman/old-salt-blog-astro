@@ -1,7 +1,7 @@
 ---
 title: "Update: PT-728, World War II Patrol Torpedo Boat, Bound for New Home in Port Clinton, Ohio"
 date: 2012-06-27T08:43:12
-slug: update-pt-728-world-war-ii-patrol-torpedo-boat-bound-for-new-home-in-port-clinton-ohio
+slug: "update-pt-728-world-war-ii-patrol-torpedo-boat-bound-for-new-home-in-port-clinton-ohio"
 excerpt: "Last April, we posted that PT-728, a World War II Patrol Torpedo boat, was listed as for sale in the Hammacher Schlemmer catalog.   The vintage PT boat has now been purchased by the newly opened Liberty Aviation Museum in Port Clinton … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

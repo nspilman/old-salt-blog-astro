@@ -1,7 +1,7 @@
 ---
 title: "The Typical Powerboat is Not Seaworthy"
 date: 2011-11-25T10:57:05
-slug: the-typical-powerboat-is-not-seaworthy
+slug: "the-typical-powerboat-is-not-seaworthy"
 excerpt: "Last year, I went to the New York Boat Show, held yearly at the Javits Center in Manhattan. I found the visit to be frankly depressing. The endless rows of cookie cutter power boats, that often seemed as tall as they … Continue reading &rarr;"
 categories:
   - "Current"

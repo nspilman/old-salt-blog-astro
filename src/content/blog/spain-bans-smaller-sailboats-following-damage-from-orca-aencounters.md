@@ -1,8 +1,8 @@
 ---
 title: "Spain Bans Smaller Sailboats Following Damage From Orca Encounters"
 date: 2020-09-24T15:47:25
-slug: spain-bans-smaller-sailboats-following-damage-from-orca-aencounters
-excerpt: "Some sailors along Spain’s Galician coast must be saying “we’re gonna need a bigger boat.” There have been reports of up to 30 attacks by orcas directed at sailboats on the northwestern coast of Spain and Portugal. Now, the Spanish … Continue reading &rarr;"
+slug: "spain-bans-smaller-sailboats-following-damage-from-orca-aencounters"
+excerpt: "Some sailors along Spain’s Galician coast must be saying \"we’re gonna need a bigger boat.\" There have been reports of up to 30 attacks by orcas directed at sailboats on the northwestern coast of Spain and Portugal. Now, the Spanish … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Spanish Coast Guard"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/orcasurge.jpg"
 author: "Rick Spilman"
-description: "Some sailors along Spain’s Galician coast must be saying “we’re gonna need a bigger boat.” There have been reports of up to 30 attacks by orcas directed at sailboats on the northwestern coast of Spain and Portugal. Now, the Spanish … Continue reading &rarr;"
+description: "Some sailors along Spain’s Galician coast must be saying \"we’re gonna need a bigger boat.\" There have been reports of up to 30 attacks by orcas directed at sailboats on the northwestern coast of Spain and Portugal. Now, the Spanish … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/09/orcasurge.jpg)Some sailors along Spain’s Galician coast must be saying “we’re gonna need a bigger boat.” There have been reports of up to 30 attacks by orcas directed at sailboats on the northwestern coast of Spain and Portugal.

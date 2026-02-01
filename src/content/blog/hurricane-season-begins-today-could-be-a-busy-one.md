@@ -1,7 +1,7 @@
 ---
 title: "Hurricane Season Begins Today"
 date: 2010-06-01T13:57:07
-slug: hurricane-season-begins-today-could-be-a-busy-one
+slug: "hurricane-season-begins-today-could-be-a-busy-one"
 excerpt: "Hurricane season officially begins today, though Tropical Storm Agatha blew in from the Pacific a day or two early and killed 150 people in Guatemala and opened up a huge sink hole in Guatemala City.   Scientists with the National Oceanic … Continue reading &rarr;"
 categories:
   - "Current"

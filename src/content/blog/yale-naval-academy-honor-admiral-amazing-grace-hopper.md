@@ -1,7 +1,7 @@
 ---
-title: "Yale & Naval Academy Honor Admiral “Amazing Grace” Hopper"
+title: "Yale & Naval Academy Honor Admiral \"Amazing Grace\" Hopper"
 date: 2017-02-12T12:48:53
-slug: yale-naval-academy-honor-admiral-amazing-grace-hopper
+slug: "yale-naval-academy-honor-admiral-amazing-grace-hopper"
 excerpt: "Yale University has announced that it is renaming Calhoun College the Grace Hopper College in honor of Grace Murray Hopper. The University decided to change the name of the residential college which had been named after John C. Calhoun, who attended Yale in 1804 … Continue reading &rarr;"
 categories:
   - "Current"

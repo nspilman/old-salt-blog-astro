@@ -1,7 +1,7 @@
 ---
 title: "Museum Ship USS The Sullivans Floods at Dock in Lake Erie"
 date: 2022-04-15T10:39:36
-slug: museum-ship-uss-the-sullivans-floods-at-dock-in-lake-erie
+slug: "museum-ship-uss-the-sullivans-floods-at-dock-in-lake-erie"
 excerpt: "Sad news. The museum ship, the USS The Sullivans in the Buffalo and Erie County Naval & Military Park was taking on water Thursday morning.  Buffalo News reports that Paul Marzello, park president and CEO, said the park staff realized … Continue reading &rarr;"
 categories:
   - "Current"

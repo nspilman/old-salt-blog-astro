@@ -1,7 +1,7 @@
 ---
-title: "“Hasan Reis” sinks, 22 Afghan immigrants die near Corfu"
+title: "\"Hasan Reis\" sinks, 22 Afghan immigrants die near Corfu"
 date: 2011-01-17T13:56:51
-slug: hasan-reis-sinksank-22-afghan-immigrants-die-near-corfu
+slug: "hasan-reis-sinksank-22-afghan-immigrants-die-near-corfu"
 excerpt: "Grim news.  Late Saturday night, the wooden vessel  Hasan Reis in the Mediterranean, carrying over 260 passengers, reported to be illegal immigrants from Afghanistan, began to leak in heavy seas and subsequently sank.  The Dutch ship Momentum Scan rescued the survivors … Continue reading &rarr;"
 categories:
   - "Current"

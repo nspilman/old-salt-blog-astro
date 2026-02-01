@@ -1,7 +1,7 @@
 ---
 title: "The Incredible Journey of Belugas Little White and Little Grey"
 date: 2020-05-14T15:51:36
-slug: the-incredible-journey-of-belugas-little-white-and-little-grey
+slug: "the-incredible-journey-of-belugas-little-white-and-little-grey"
 excerpt: "Almost a year ago, two beluga whales, Little White and Little Grey, traveled 6,000 miles from an aquarium in Shanghai around the globe to Iceland to a new home in the world’s first beluga whale sanctuary. If all goes well, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

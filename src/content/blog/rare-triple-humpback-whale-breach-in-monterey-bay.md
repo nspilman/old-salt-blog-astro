@@ -1,7 +1,7 @@
 ---
 title: "Rare Triple Humpback Whale Breach in Monterey Bay"
 date: 2020-10-14T08:26:46
-slug: rare-triple-humpback-whale-breach-in-monterey-bay
+slug: "rare-triple-humpback-whale-breach-in-monterey-bay"
 excerpt: "Whale-watchers aboard the Atlantic Monterey witnessed an amazing show on Sunday when three humpback whales performed an extremely rare triple breach in Monterey Bay, CA.  And it was caught on video (see after the page break.) SFGate reports that the … Continue reading &rarr;"
 categories:
   - "Current"

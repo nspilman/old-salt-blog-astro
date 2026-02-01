@@ -1,7 +1,7 @@
 ---
 title: "Keith Jessop: Salvage Diver Who Recovered the Gold from HMS Edinburgh"
 date: 2010-05-31T13:47:49
-slug: keith-jessop-salvage-diver-who-recovered-the-hms-edinburgh-gold
+slug: "keith-jessop-salvage-diver-who-recovered-the-hms-edinburgh-gold"
 excerpt: "Keith Jessop, the salvage diver who recovered the gold from the HMS Edinburgh, died on May 22, 2010, aged 77. Keith Jessop: salvage diver On May 2, 1942, after three days of attacks by German submarines, destroyers and aircraft in … Continue reading &rarr;"
 categories:
   - "Current"

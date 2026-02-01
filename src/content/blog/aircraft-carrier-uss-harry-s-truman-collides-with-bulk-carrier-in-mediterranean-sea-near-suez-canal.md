@@ -1,7 +1,7 @@
 ---
 title: "Aircraft Carrier USS Harry S. Truman Collides with Bulk Carrier in Mediterranean Sea Near Suez Canal"
 date: 2025-02-13T17:11:01
-slug: aircraft-carrier-uss-harry-s-truman-collides-with-bulk-carrier-in-mediterranean-sea-near-suez-canal
+slug: "aircraft-carrier-uss-harry-s-truman-collides-with-bulk-carrier-in-mediterranean-sea-near-suez-canal"
 excerpt: "USS Harry S. Truman (CVN-75), flagship of the Harry S. Truman Carrier Strike Group, collided with M/V Besiktas-M, a 53,00 DWT bulk carrier, on Wednesday evening near Port Said, Egypt, in the Mediterranean Sea, the Navy said Thursday. The incident … Continue reading &rarr;"
 categories:
   - "Current"

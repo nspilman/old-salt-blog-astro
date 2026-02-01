@@ -1,7 +1,7 @@
 ---
 title: "Navy SEALs Seize the Morning Glory — the Mystery Tanker and the Struggle to Control Libyan Oil"
 date: 2014-03-17T10:20:53
-slug: navy-seals-seize-the-morning-glory-the-mystery-tanker-and-the-struggle-to-control-libyan-oil
+slug: "navy-seals-seize-the-morning-glory-the-mystery-tanker-and-the-struggle-to-control-libyan-oil"
 excerpt: "This morning, the press was abuzz with reports that last Monday, in the Mediterranean off Cyprus, US Navy SEALS boarded and took control of an oil tanker, Morning Glory, which had recently loaded a cargo of Libyan oil in the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

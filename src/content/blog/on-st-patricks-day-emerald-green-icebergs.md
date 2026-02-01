@@ -1,8 +1,8 @@
 ---
 title: "On St. Patrick’s Day — Emerald Green Icebergs"
 date: 2019-03-17T11:56:13
-slug: on-st-patricks-day-emerald-green-icebergs
-excerpt: "While most icebergs are whiteish-blue, they can be a range of colors, including emerald green. Indeed, in Samuel Coleridge’s Rime of the Ancient Mariner, the mariner describes how “ice, mast-high, came floating by, as green as emerald.” Why are some … Continue reading &rarr;"
+slug: "on-st-patricks-day-emerald-green-icebergs"
+excerpt: "While most icebergs are whiteish-blue, they can be a range of colors, including emerald green. Indeed, in Samuel Coleridge’s Rime of the Ancient Mariner, the mariner describes how \"ice, mast-high, came floating by, as green as emerald.\" Why are some … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Samuel Coleridge"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/greenburg.jpg"
 author: "Rick Spilman"
-description: "While most icebergs are whiteish-blue, they can be a range of colors, including emerald green. Indeed, in Samuel Coleridge’s Rime of the Ancient Mariner, the mariner describes how “ice, mast-high, came floating by, as green as emerald.” Why are some … Continue reading &rarr;"
+description: "While most icebergs are whiteish-blue, they can be a range of colors, including emerald green. Indeed, in Samuel Coleridge’s Rime of the Ancient Mariner, the mariner describes how \"ice, mast-high, came floating by, as green as emerald.\" Why are some … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/greenburg.jpg)While most icebergs are whiteish-blue, they can be a range of colors, including emerald green. Indeed, in Samuel Coleridge’s [Rime of the Ancient Mariner](https://www.poetryfoundation.org/poems/43997/the-rime-of-the-ancient-mariner-text-of-1834), the mariner describes how “ice, mast-high, came floating by, as green as emerald.”

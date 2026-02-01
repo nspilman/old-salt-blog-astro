@@ -1,7 +1,7 @@
 ---
 title: "Death on the Great Barrier Reef — Laws of Chance or Deadly Jellyfish?"
 date: 2017-02-03T13:42:44
-slug: death-great-barrier-reef-laws-chance-deadly-jellyfish
+slug: "death-great-barrier-reef-laws-chance-deadly-jellyfish"
 excerpt: "Recently, a 63 year old British tourist died suddenly while snorkelling on Australia’s Great Barrier Reef.  He is the fifth tourist to die in the last three months. In November, a 60-year-old British man and two French tourists, aged 74 and … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Container Ship ONE Apus Sets Record for Boxes Lost Over the Side at Over 1,900"
 date: 2020-12-06T17:07:17
-slug: container-ship-one-apus-sets-record-for-boxes-lost-over-the-side-at-over-1900
+slug: "container-ship-one-apus-sets-record-for-boxes-lost-over-the-side-at-over-1900"
 excerpt: "The one-year-old, 14,000 TEU capacity container ship, ONE Apus, has set a dubious new record. It encountered severe weather about 1,600 nautical miles northwest of Hawaii while sailing from Yantian in China to Long Beach, California. In the violent storm, … Continue reading &rarr;"
 categories:
   - "Current"

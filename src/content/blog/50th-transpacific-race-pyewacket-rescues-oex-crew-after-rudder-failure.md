@@ -1,7 +1,7 @@
 ---
 title: "50th Transpacific Race — Pyewacket Rescues OEX Crew After Rudder Failure"
 date: 2019-07-17T15:06:02
-slug: 50th-transpacific-race-pyewacket-rescues-oex-crew-after-rudder-failure
+slug: "50th-transpacific-race-pyewacket-rescues-oex-crew-after-rudder-failure"
 excerpt: "At around 2AM on Monday, OEX, a Santa Cruz 70, owned by John Sangmeister, suffered a catastrophic rudder failure while sailing in the 50th Transpacific Yacht Race. Sangmeister reported that the lower rudder bearing had blown off and the rudder … Continue reading &rarr;"
 categories:
   - "Current"

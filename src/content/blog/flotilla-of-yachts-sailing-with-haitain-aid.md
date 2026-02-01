@@ -1,7 +1,7 @@
 ---
 title: "Flotilla of Yachts Sailing with Haitain Aid"
 date: 2010-01-26T19:50:03
-slug: flotilla-of-yachts-sailing-with-haitain-aid
+slug: "flotilla-of-yachts-sailing-with-haitain-aid"
 excerpt: "A great story from the Yachtpals blog.   Organized by the non-profit group Oceans Watch, a flotilla of at least a dozen yachts loaded with aid for Haiti, led by the 74 foot schooner Wolf, will set sail from Key West on February … Continue reading &rarr;"
 categories:
   - "Current"

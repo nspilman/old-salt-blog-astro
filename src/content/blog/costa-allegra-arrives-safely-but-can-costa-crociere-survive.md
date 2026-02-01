@@ -1,7 +1,7 @@
 ---
 title: "Costa Allegra Arrives Safely, but Can Costa Crociere Survive?"
 date: 2012-03-01T13:17:41
-slug: costa-allegra-arrives-safely-but-can-costa-crociere-survive
+slug: "costa-allegra-arrives-safely-but-can-costa-crociere-survive"
 excerpt: "After 72 hours without power,lights, air conditioning or hot food, the disabled Costa Allegra was towed safely to the island of Mahe in the Seychelles this morning. The fire in the engine room was extinguished by the ship’s force and despite being  inconvenienced and made … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

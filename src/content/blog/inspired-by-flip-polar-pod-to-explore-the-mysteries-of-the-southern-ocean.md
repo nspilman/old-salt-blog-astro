@@ -1,7 +1,7 @@
 ---
 title: "Inspired by FLIP, Polar Pod to Explore the Mysteries of the Southern Ocean"
 date: 2023-09-02T10:00:04
-slug: inspired-by-flip-polar-pod-to-explore-the-mysteries-of-the-southern-ocean
+slug: "inspired-by-flip-polar-pod-to-explore-the-mysteries-of-the-southern-ocean"
 excerpt: "We recently posted about the remarkable 61-year career of the one-of-a-kind research vessel FLoating Instrument Platform, known as FLIP. FLIP was essentially a massive 355-foot-long spar buoy used to study oceanic wave height, acoustic signals, water temperature, and density. Now, … Continue reading &rarr;"
 categories:
   - "Current"

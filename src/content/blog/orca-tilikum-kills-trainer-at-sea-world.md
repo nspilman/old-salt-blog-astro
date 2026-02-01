@@ -1,7 +1,7 @@
 ---
 title: "Orca Tilikum Kills Trainer at Sea World"
 date: 2010-02-24T17:37:51
-slug: orca-tilikum-kills-trainer-at-sea-world
+slug: "orca-tilikum-kills-trainer-at-sea-world"
 excerpt: "Orcas, commonly known as killer whales, have never been known to kill a human in the wild.  The same is not true of orcas in captivity. Today Tilikum, a 12,300 pound bull orca,  the largest whale in captivity, attacked and drowned a female … Continue reading &rarr;"
 categories:
   - "Current"

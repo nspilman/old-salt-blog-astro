@@ -1,7 +1,7 @@
 ---
 title: "Coast Guard Cutter Morro Bay Rescues Man on an Ice Flow on His Birthday"
 date: 2011-02-02T17:51:20
-slug: coast-guard-cutter-morro-bay-rescues-man-on-an-ice-flow-on-his-birthday
+slug: "coast-guard-cutter-morro-bay-rescues-man-on-an-ice-flow-on-his-birthday"
 excerpt: "Jim Turton, from Colchester, Ontario, turned 45 years old today.  Because of the efforts of the officers and crew of the U.S. Coast Guard Cutter Morro Bay, a 140 foot Bay class icebreaker, he just may have a shot at … Continue reading &rarr;"
 categories:
   - "Current"

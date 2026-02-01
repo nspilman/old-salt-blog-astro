@@ -1,7 +1,7 @@
 ---
 title: "Redbird Reef — Subway Cars, Fish and Hurricanes"
 date: 2015-01-23T19:36:01
-slug: redbird-reef-subway-cars-fish-and-hurricanes
+slug: "redbird-reef-subway-cars-fish-and-hurricanes"
 excerpt: "Redbird Reef lies sixteen miles out in the Atlantic Ocean from the Indian River inlet, near the ominously named Slaughter Beach, Delaware.  One of three explanations for the town’s name is that the first postmaster was William Slaughter. Likewise, while many … Continue reading &rarr;"
 categories:
   - "Current"

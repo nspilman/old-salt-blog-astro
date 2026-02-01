@@ -1,7 +1,7 @@
 ---
 title: "Over 90 Dead In Yemen Migrant Shipwreck"
 date: 2025-08-06T17:08:05
-slug: over-90-dead-in-yemen-migrant-shipwreck
+slug: "over-90-dead-in-yemen-migrant-shipwreck"
 excerpt: "On Tuesday, Yemeni officials said that at least 96 people died when a migrant boat sank in the Gulf of Aden off Yemen’s coast. Officials said that 32 people were rescued and dozens were still missing in what a senior … Continue reading &rarr;"
 categories:
   - "Current"

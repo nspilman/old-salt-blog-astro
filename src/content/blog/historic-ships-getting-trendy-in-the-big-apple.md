@@ -1,8 +1,8 @@
 ---
 title: "Historic Ships Getting Trendy in the Big Apple?"
 date: 2011-08-25T09:08:13
-slug: historic-ships-getting-trendy-in-the-big-apple
-excerpt: "Two articles within two days are making me wonder if re-purposed historic vessels might be becoming  trendy in design circles around New York City.   Curbed, a New York real estate blog featured the 1907 Yankee Ferry in “Hudson River’s Coolest, Oldest Floating Home”  – “Taking … Continue reading &rarr;"
+slug: "historic-ships-getting-trendy-in-the-big-apple"
+excerpt: "Two articles within two days are making me wonder if re-purposed historic vessels might be becoming  trendy in design circles around New York City.   Curbed, a New York real estate blog featured the 1907 Yankee Ferry in \"Hudson River’s Coolest, Oldest Floating Home\"  – \"Taking … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Mary Whalen"
   - "Yankee Ferry"
 author: "Rick Spilman"
-description: "Two articles within two days are making me wonder if re-purposed historic vessels might be becoming  trendy in design circles around New York City.   Curbed, a New York real estate blog featured the 1907 Yankee Ferry in “Hudson River’s Coolest, Oldest Floating Home”  – “Taking … Continue reading &rarr;"
+description: "Two articles within two days are making me wonder if re-purposed historic vessels might be becoming  trendy in design circles around New York City.   Curbed, a New York real estate blog featured the 1907 Yankee Ferry in \"Hudson River’s Coolest, Oldest Floating Home\"  – \"Taking … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/yankeemary.jpg)

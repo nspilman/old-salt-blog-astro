@@ -1,7 +1,7 @@
 ---
 title: "Aegis Cruiser USS San Jacinto Collides with Nuclear Sub USS Montpelier in Atlantic off Florida"
 date: 2012-10-14T10:21:23
-slug: aegis-cruiser-uss-san-jacinto-collides-with-nuclear-sub-uss-montpelier-in-atlantic-off-florida
+slug: "aegis-cruiser-uss-san-jacinto-collides-with-nuclear-sub-uss-montpelier-in-atlantic-off-florida"
 excerpt: "This has not been a good few months for Aegis missile cruisers.  In August, USS Porter collided with a VLCC (a large tanker) near the Strait of Hormuz. Yesterday at around 3:30 PM, during routine operations, the Aegis cruiser USS … Continue reading &rarr;"
 categories:
   - "Current"

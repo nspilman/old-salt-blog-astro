@@ -1,13 +1,13 @@
 ---
 title: "Surge Barriers for New York — the Best or Worst of Solutions?"
 date: 2018-10-16T09:01:06
-slug: surge-barriers-for-new-york-the-best-or-worst-of-solutions
+slug: "surge-barriers-for-new-york-the-best-or-worst-of-solutions"
 excerpt: "After the flooding caused by Superstorm Sandy in 2012, a proposal was developed to build storm surge barriers to protect New York City and nearby municipalities. Given the rising sea levels and increasingly violent storms associated with climate change, many … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - ""superstorm" Sandy"
+  - "\"superstorm\" Sandy"
   - "hudson river"
   - "New York harobr"
   - "surge barrier"

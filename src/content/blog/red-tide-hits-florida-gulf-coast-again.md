@@ -1,8 +1,8 @@
 ---
 title: "Red Tide Hits Florida Gulf Coast Again"
 date: 2021-07-15T13:04:55
-slug: red-tide-hits-florida-gulf-coast-again
-excerpt: "A recent editorial headline in the Tampa Bay Times read “In St. Petersburg, climate change smells like rotting fish” and was subtitled “A massive fish kill reminds us how climate change can suddenly wash up on our shores.” The latest … Continue reading &rarr;"
+slug: "red-tide-hits-florida-gulf-coast-again"
+excerpt: "A recent editorial headline in the Tampa Bay Times read \"In St. Petersburg, climate change smells like rotting fish\" and was subtitled \"A massive fish kill reminds us how climate change can suddenly wash up on our shores.\" The latest … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Tampa Bay"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/redtide.jpg"
 author: "Rick Spilman"
-description: "A recent editorial headline in the Tampa Bay Times read “In St. Petersburg, climate change smells like rotting fish” and was subtitled “A massive fish kill reminds us how climate change can suddenly wash up on our shores.” The latest … Continue reading &rarr;"
+description: "A recent editorial headline in the Tampa Bay Times read \"In St. Petersburg, climate change smells like rotting fish\" and was subtitled \"A massive fish kill reminds us how climate change can suddenly wash up on our shores.\" The latest … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/redtide.jpg)A recent editorial headline in the Tampa Bay Times read [“In St. Petersburg, climate change smells like rotting fish”](https://www.tampabay.com/opinion/2021/07/13/in-st-petersburg-climate-change-smells-like-rotting-fish-editorial/) and was subtitled “A massive fish kill reminds us how climate change can suddenly wash up on our shores.”

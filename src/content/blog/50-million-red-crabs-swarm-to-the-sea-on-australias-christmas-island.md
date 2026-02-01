@@ -1,7 +1,7 @@
 ---
 title: "50 Million Red Crabs Swarm to the Sea on Australia’s Christmas Island"
 date: 2021-11-19T15:40:16
-slug: 50-million-red-crabs-swarm-to-the-sea-on-australias-christmas-island
+slug: "50-million-red-crabs-swarm-to-the-sea-on-australias-christmas-island"
 excerpt: "Millions of bright red crabs have begun their yearly mating migration from the forest to the sea on Australia’s Christmas Island. The scarlet crabs are marching from the jungle toward the Indian Ocean, swarming roadways, parks, and residential neighborhoods, so … Continue reading &rarr;"
 categories:
   - "Current"

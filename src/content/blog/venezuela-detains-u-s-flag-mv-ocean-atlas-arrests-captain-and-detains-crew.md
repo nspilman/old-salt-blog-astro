@@ -1,7 +1,7 @@
 ---
 title: "Venezuela Holds U.S. Flag Cargo Ship, M/V Ocean Atlas, Arrests Captain and Detains Crew"
 date: 2012-09-07T11:55:01
-slug: venezuela-detains-u-s-flag-mv-ocean-atlas-arrests-captain-and-detains-crew
+slug: "venezuela-detains-u-s-flag-mv-ocean-atlas-arrests-captain-and-detains-crew"
 excerpt: "On August 29, the multipurpose US flag cargo ship, M/V Ocean Atlas, arrived in Maracaibo, Venezuela. Not long after, the ship was detained by Venezuelan security forces and was repeatedly searched by agents from Interpol and the Venezuelan drug enforcement agency, reportedly based on a tip that … Continue reading &rarr;"
 categories:
   - "Current"

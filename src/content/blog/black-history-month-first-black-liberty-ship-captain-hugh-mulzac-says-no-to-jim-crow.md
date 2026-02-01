@@ -1,7 +1,7 @@
 ---
 title: "Black History Month — First Black Liberty Ship Captain, Hugh Mulzac, Says No To Jim Crow"
 date: 2022-02-20T17:11:34
-slug: black-history-month-first-black-liberty-ship-captain-hugh-mulzac-says-no-to-jim-crow
+slug: "black-history-month-first-black-liberty-ship-captain-hugh-mulzac-says-no-to-jim-crow"
 excerpt: "Hugh Mulzak served as the first Black Liberty ship captain in World War II. When offered the command, he refused to sail with a segregated crew. An updated repost in honor of Black History Month. Born in 1886 on Union … Continue reading &rarr;"
 categories:
   - "History"

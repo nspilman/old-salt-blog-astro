@@ -1,7 +1,7 @@
 ---
 title: "On World Ocean Day, Attack on Atlantic Ocean Marine Sanctuary"
 date: 2020-06-08T14:39:44
-slug: on-world-ocean-day-attack-on-atlantic-ocean-marine-sanctuary
+slug: "on-world-ocean-day-attack-on-atlantic-ocean-marine-sanctuary"
 excerpt: "Happy World Ocean Day, held every year on the 8th of June to celebrate the oceans and to take action to restore and protect them. This year the day’s theme is ‘Innovation for a sustainable ocean.’ Unfortunately, the current US … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

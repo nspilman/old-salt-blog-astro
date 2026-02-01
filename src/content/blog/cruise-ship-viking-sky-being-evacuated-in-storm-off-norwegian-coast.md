@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ship Viking Sky Being Evacuated in Storm off Norwegian Coast"
 date: 2019-03-23T13:57:45
-slug: cruise-ship-viking-sky-being-evacuated-in-storm-off-norwegian-coast
+slug: "cruise-ship-viking-sky-being-evacuated-in-storm-off-norwegian-coast"
 excerpt: "According to Norwegian authorities, roughly 1,300 people are being evacuated from the cruise ship Viking Sky. The ship suffered engine problems and sent out a distress call and was drifting toward shore in high winds and rough seas off the … Continue reading &rarr;"
 categories:
   - "Current"

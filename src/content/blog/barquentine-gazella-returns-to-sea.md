@@ -1,7 +1,7 @@
 ---
 title: "Barquentine Gazela Returns To Sea"
 date: 2010-08-02T09:02:03
-slug: barquentine-gazella-returns-to-sea
+slug: "barquentine-gazella-returns-to-sea"
 excerpt: "Philadelphia’s tall ship, the barquentine Gazela has returned to to sea after five years of being limited to protected water sailing due to a damaged rudder.  With a new rudder, the turn-of-the-century Portuguese-built barquentine set sail from Philadelphia bound where she … Continue reading &rarr;"
 categories:
   - "Current"

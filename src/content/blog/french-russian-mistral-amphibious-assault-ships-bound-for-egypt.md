@@ -1,8 +1,8 @@
 ---
-title: "French “Russian” Mistral Amphibious Assault Ships Bound for Egypt"
+title: "French \"Russian\" Mistral Amphibious Assault Ships Bound for Egypt"
 date: 2015-09-27T17:17:57
-slug: french-russian-mistral-amphibious-assault-ships-bound-for-egypt
-excerpt: "For the last five years we have followed the construction of two Mistral-class amphibious assault ships which were built in France under contract to Russia. If the wind named Mistral is said to “drive men and horses mad,” these ships … Continue reading &rarr;"
+slug: "french-russian-mistral-amphibious-assault-ships-bound-for-egypt"
+excerpt: "For the last five years we have followed the construction of two Mistral-class amphibious assault ships which were built in France under contract to Russia. If the wind named Mistral is said to \"drive men and horses mad,\" these ships … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Mistral-class amphibious assault ships"
   - "Russia"
 author: "Rick Spilman"
-description: "For the last five years we have followed the construction of two Mistral-class amphibious assault ships which were built in France under contract to Russia. If the wind named Mistral is said to “drive men and horses mad,” these ships … Continue reading &rarr;"
+description: "For the last five years we have followed the construction of two Mistral-class amphibious assault ships which were built in France under contract to Russia. If the wind named Mistral is said to \"drive men and horses mad,\" these ships … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2014/12/mistral-class.jpg)For the last five years we have followed the construction of two Mistral-class amphibious assault ships which were built in France under contract to Russia. If the wind named Mistral is said to “[drive men and horses mad](http://www.frenchpropertylinks.com/essential/winds-france.html),” these ships may be a nautical analogue. When they were ordered by the Russians in 2010, France’s NATO allies were openly critical fo providing the ships to Russia. As reportd by the Economist: *The Mistral is a mighty, 199-metre-long vessel that carries tanks and helicopters, and can conduct and manage amphibious landings. Kaarel Kaas, of the International Centre for Defence Studies, a think-tank in Tallinn, says that such ships would “transform the power balance” on Russia’s borders.*

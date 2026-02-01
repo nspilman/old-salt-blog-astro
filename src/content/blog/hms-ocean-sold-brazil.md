@@ -1,7 +1,7 @@
 ---
 title: "HMS Ocean to be Sold to Brazil"
 date: 2018-01-03T20:33:12
-slug: hms-ocean-sold-brazil
+slug: "hms-ocean-sold-brazil"
 excerpt: "HMS Ocean, amphibious assault ship and flagship of the Royal Navy has reportedly been sold to Brazil for £84.3million. HMS Ocean is the last British warship capable of launching aircraft.  The Ocean carries 18 helicopters. Britain has lacked the capacity to launch and land … Continue reading &rarr;"
 categories:
   - "Current"

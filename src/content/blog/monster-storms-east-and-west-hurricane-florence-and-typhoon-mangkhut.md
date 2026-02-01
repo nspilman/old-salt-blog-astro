@@ -1,7 +1,7 @@
 ---
 title: "Monster Storms East and West — Hurricane Florence and Typhoon Mangkhut"
 date: 2018-09-13T14:19:43
-slug: monster-storms-east-and-west-hurricane-florence-and-typhoon-mangkhut
+slug: "monster-storms-east-and-west-hurricane-florence-and-typhoon-mangkhut"
 excerpt: "Two monster storms are bearing down on vulnerable coastlines on opposite sides of the globe. In the Atlantic,  Hurricane Florence, now a Category 2 storm, is sending lashing winds, powerful rains and the threat of major flooding as it approaches the … Continue reading &rarr;"
 categories:
   - "Current"

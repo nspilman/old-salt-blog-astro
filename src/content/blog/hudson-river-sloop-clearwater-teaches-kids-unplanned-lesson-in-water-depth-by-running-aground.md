@@ -1,7 +1,7 @@
 ---
 title: "Hudson River Sloop Clearwater Teaches Kids Unplanned Lesson in Water Depth by Running Aground"
 date: 2012-10-17T08:49:49
-slug: hudson-river-sloop-clearwater-teaches-kids-unplanned-lesson-in-water-depth-by-running-aground
+slug: "hudson-river-sloop-clearwater-teaches-kids-unplanned-lesson-in-water-depth-by-running-aground"
 excerpt: "I have chaperoned my son’s class on a trip on the Hudson River Sloop Clearwater. They have a wonderful program for school groups – teaching kids history, ecology, and a bit of seamanship while also having great fun on a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

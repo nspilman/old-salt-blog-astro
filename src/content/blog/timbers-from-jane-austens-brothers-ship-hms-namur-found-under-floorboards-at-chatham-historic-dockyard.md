@@ -1,8 +1,8 @@
 ---
 title: "Timbers from Jane Austen’s Brother’s Ship, HMS Namur, Found under Floorboards at Chatham Historic Dockyard"
 date: 2012-08-20T16:59:09
-slug: timbers-from-jane-austens-brothers-ship-hms-namur-found-under-floorboards-at-chatham-historic-dockyard
-excerpt: "I am very fond of William Faulkner’s maxim, “The past isn’t dead. It isn’t even past.”  What brought this to mind was recent news from the Chatham Historic Dockyard in Kent. Back in 1995, parts of a ship’s framing was found … Continue reading &rarr;"
+slug: "timbers-from-jane-austens-brothers-ship-hms-namur-found-under-floorboards-at-chatham-historic-dockyard"
+excerpt: "I am very fond of William Faulkner’s maxim, \"The past isn’t dead. It isn’t even past.\"  What brought this to mind was recent news from the Chatham Historic Dockyard in Kent. Back in 1995, parts of a ship’s framing was found … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "Olaudah Equiano"
   - "Sir Charles John Austen"
 author: "Rick Spilman"
-description: "I am very fond of William Faulkner’s maxim, “The past isn’t dead. It isn’t even past.”  What brought this to mind was recent news from the Chatham Historic Dockyard in Kent. Back in 1995, parts of a ship’s framing was found … Continue reading &rarr;"
+description: "I am very fond of William Faulkner’s maxim, \"The past isn’t dead. It isn’t even past.\"  What brought this to mind was recent news from the Chatham Historic Dockyard in Kent. Back in 1995, parts of a ship’s framing was found … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/ZZ_1345026719_Command2.jpg)I am very fond of William Faulkner’s maxim, “The past isn’t dead. It isn’t even past.”  What brought this to mind was [recent news](http://www.guardian.co.uk/culture/2012/aug/16/experts-identify-18th-century-warship?newsfeed=true) from the [Chatham Historic Dockyard](http://www.thedockyard.co.uk/Home) in Kent. Back in 1995, parts of a ship’s framing was found beneath six layers of floorboards in the wheelwright’s workshop.  After more than a decade of investigation the frames have now been identified as belonging to [*HMS Namur*](http://en.wikipedia.org/wiki/HMS_Namur_\(1756\)), a 90-gun second rate ship of the line, built at Chatham Dockyard and launched in 1756. She served the Royal Navy in various capacities until she was broken up in 1833.  The frames were identified by builder’s marks.  *[HMS Namur](http://en.wikipedia.org/wiki/HMS_Namur_\(1756\))*  took part in nine fleet actions – often as the flagship – in three campaigns.  The discovery of the timbers from the *Namur* is described on the [dockyard website](http://www.thedockyard.co.uk/NetsiteCMS/pageid/1127/The%20Ship%20Beneath%20the%20Floor.html) as “t*he single most important warship discovery in Northern Europe since that of the MARY ROSE*”

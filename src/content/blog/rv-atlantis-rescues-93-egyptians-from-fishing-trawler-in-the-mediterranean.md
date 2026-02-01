@@ -1,7 +1,7 @@
 ---
 title: "RV Atlantis Rescues 93 Egyptians from Fishing Trawler in the Mediterranean"
 date: 2011-11-28T17:11:22
-slug: rv-atlantis-rescues-93-egyptians-from-fishing-trawler-in-the-mediterranean
+slug: "rv-atlantis-rescues-93-egyptians-from-fishing-trawler-in-the-mediterranean"
 excerpt: "Last Friday night, only twelve hours into a 15 day Mediterranean voyage, the research vessel Atlantis received a mayday call, relayed by the Greek Coast Guard reporting a fishing boat in distress about 40 miles away, near the island of … Continue reading &rarr;"
 categories:
   - "Current"

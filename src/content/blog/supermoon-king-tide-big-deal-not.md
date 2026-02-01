@@ -1,8 +1,8 @@
 ---
 title: "The Supermoon and King Tide — Big Deal or Not?"
 date: 2016-11-14T10:54:32
-slug: supermoon-king-tide-big-deal-not
-excerpt: "The media has been full of stories about tonight’s “supermoon,” which is the largest in 68 years. Supermoon is the popular term for what astronomers call a moon perigee–syzygy. This means that the moon is at its closest point to … Continue reading &rarr;"
+slug: "supermoon-king-tide-big-deal-not"
+excerpt: "The media has been full of stories about tonight’s \"supermoon,\" which is the largest in 68 years. Supermoon is the popular term for what astronomers call a moon perigee–syzygy. This means that the moon is at its closest point to … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "supermoon"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/supernormmoon200.jpg"
 author: "Rick Spilman"
-description: "The media has been full of stories about tonight’s “supermoon,” which is the largest in 68 years. Supermoon is the popular term for what astronomers call a moon perigee–syzygy. This means that the moon is at its closest point to … Continue reading &rarr;"
+description: "The media has been full of stories about tonight’s \"supermoon,\" which is the largest in 68 years. Supermoon is the popular term for what astronomers call a moon perigee–syzygy. This means that the moon is at its closest point to … Continue reading &rarr;"
 ---
 
 ![Not so big a difference --supermoon vs normal full moon](http://www.oldsaltblog.com/wp-content/uploads/2016/11/supernormmoon1.jpg)

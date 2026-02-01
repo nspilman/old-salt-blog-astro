@@ -1,7 +1,7 @@
 ---
 title: "Yacht Designer Frans Maas & One Crew Drowned, One Sailor Missing"
 date: 2017-07-05T09:34:54
-slug: yacht-designer-frans-maas-one-crew-drowned-one-sailor-missing
+slug: "yacht-designer-frans-maas-one-crew-drowned-one-sailor-missing"
 excerpt: "On July 1, Dutch yacht designer Frans Maas and his friend and crew, Freddy Franssens died when the yacht, Capella, capsized after losing her keel during the Genisol Light Vessel Race off Ostend, Belgium. Crew member Hannes Goegebeur is still missing and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

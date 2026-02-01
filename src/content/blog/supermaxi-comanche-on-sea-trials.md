@@ -1,7 +1,7 @@
 ---
 title: "Supermaxi Comanche on Sea Trials"
 date: 2014-11-07T12:50:39
-slug: supermaxi-comanche-on-sea-trials
+slug: "supermaxi-comanche-on-sea-trials"
 excerpt: "I have mixed feeling about modern supermaxi monohulls. They are complicated, expensive sailing wedges — pointy in the bow and broad and flat on the stern.  But they are really fast, and watching Jim Clark‘s new 100’ carbon fiber speed-demon … Continue reading &rarr;"
 categories:
   - "Current"

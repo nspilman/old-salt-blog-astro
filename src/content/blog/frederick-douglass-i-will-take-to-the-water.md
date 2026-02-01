@@ -1,7 +1,7 @@
 ---
-title: "Frederick Douglass — “I Will Take to the Water”"
+title: "Frederick Douglass — \"I Will Take to the Water\""
 date: 2019-02-18T17:10:18
-slug: frederick-douglass-i-will-take-to-the-water
+slug: "frederick-douglass-i-will-take-to-the-water"
 excerpt: "An updated repost in honor of Black History Month. We are a few days late celebrating Frederick Douglass‘ birthday or at least the day that he celebrated as his birthday. As a slave, he never knew the date of his birth … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Jean-Luc Van Den Heede Wins Golden Globe Race After 221 Days at Sea"
 date: 2019-01-29T11:37:29
-slug: jean-luc-van-den-heede-wins-golden-globe-race-after-221-days-at-sea
+slug: "jean-luc-van-den-heede-wins-golden-globe-race-after-221-days-at-sea"
 excerpt: "After 221 days alone at sea, 73-year-old French sailor, Jean-Luc Van Den Heede, returned to where he started, Les Sables d’Olonne, France, winning the Golden Globe Race. He crossed the finish line at 0900 local time this morning aboard his Rustler 36, Matmut.  The … Continue reading &rarr;"
 categories:
   - "Current"

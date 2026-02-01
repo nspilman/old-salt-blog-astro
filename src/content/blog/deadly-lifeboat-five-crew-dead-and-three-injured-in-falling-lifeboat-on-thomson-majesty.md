@@ -1,7 +1,7 @@
 ---
 title: "Deadly Lifeboat – Five Crew Dead and Three Injured in Falling Lifeboat on Thomson Majesty"
 date: 2013-02-10T16:11:23
-slug: deadly-lifeboat-five-crew-dead-and-three-injured-in-falling-lifeboat-on-thomson-majesty
+slug: "deadly-lifeboat-five-crew-dead-and-three-injured-in-falling-lifeboat-on-thomson-majesty"
 excerpt: "Five crew members on the cruise ship Thomson Majesty are reported to have died and three others were injured after a lifeboat fell 65 feet into the water during a safety drill at the port of Santa Cruz in La Palma, in Spain’s … Continue reading &rarr;"
 categories:
   - "Current"

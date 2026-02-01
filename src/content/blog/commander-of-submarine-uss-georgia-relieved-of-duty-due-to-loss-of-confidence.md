@@ -1,8 +1,8 @@
 ---
 title: "Commander of Submarine USS Georgia Relieved of Duty Due to ‘Loss of Confidence’"
 date: 2024-01-17T20:52:21
-slug: commander-of-submarine-uss-georgia-relieved-of-duty-due-to-loss-of-confidence
-excerpt: "The US Navy announced in a statement that on January 12, 2024, Commander, Submarine Group Ten, Rear Adm. Thomas “T.R.” Buchanan, relieved Capt. Geoffry Patterson as commanding officer of USS Georgia (SSGN 729) Blue Crew due to loss of confidence … Continue reading &rarr;"
+slug: "commander-of-submarine-uss-georgia-relieved-of-duty-due-to-loss-of-confidence"
+excerpt: "The US Navy announced in a statement that on January 12, 2024, Commander, Submarine Group Ten, Rear Adm. Thomas \"T.R.\" Buchanan, relieved Capt. Geoffry Patterson as commanding officer of USS Georgia (SSGN 729) Blue Crew due to loss of confidence … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "USS Georgia"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/ussgeorgia.jpg"
 author: "Rick Spilman"
-description: "The US Navy announced in a statement that on January 12, 2024, Commander, Submarine Group Ten, Rear Adm. Thomas “T.R.” Buchanan, relieved Capt. Geoffry Patterson as commanding officer of USS Georgia (SSGN 729) Blue Crew due to loss of confidence … Continue reading &rarr;"
+description: "The US Navy announced in a statement that on January 12, 2024, Commander, Submarine Group Ten, Rear Adm. Thomas \"T.R.\" Buchanan, relieved Capt. Geoffry Patterson as commanding officer of USS Georgia (SSGN 729) Blue Crew due to loss of confidence … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/ussgeorgia.jpg)

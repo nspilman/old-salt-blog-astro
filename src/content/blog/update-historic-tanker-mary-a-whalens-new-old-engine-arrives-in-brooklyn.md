@@ -1,7 +1,7 @@
 ---
 title: "Update: Historic Tanker Mary A. Whalen’s New/Old Engine Arrives in Brooklyn"
 date: 2020-08-17T16:18:47
-slug: update-historic-tanker-mary-a-whalens-new-old-engine-arrives-in-brooklyn
+slug: "update-historic-tanker-mary-a-whalens-new-old-engine-arrives-in-brooklyn"
 excerpt: "In May of this year, we posted Scrambling to Save an Engine for the Historic Tanker Mary A. Whalen. The post described how the historic tanker Mary A. Whalen was in dire need of parts to restore its diesel engine. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
-title: "US Navy Moving Toward Drone “Ghost Fleet”"
+title: "US Navy Moving Toward Drone \"Ghost Fleet\""
 date: 2019-03-21T14:45:43
-slug: us-navy-wants-drone-ghost-fleet
+slug: "us-navy-wants-drone-ghost-fleet"
 excerpt: "Last month we posted about the successful voyage of the Sea Hunter, a 132′ long autonomous drone trimaran from San Diego to Pearl Harbor, Hawaii, and back.  Now USNI News is reporting that the Navy is moving quickly to field … Continue reading &rarr;"
 categories:
   - "Current"

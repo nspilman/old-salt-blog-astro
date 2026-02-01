@@ -1,8 +1,8 @@
 ---
 title: "LEGO Love Boat – LEGO Mania at its Finest"
 date: 2011-01-24T08:55:46
-slug: lego-love-boat-lego-mania-at-its-finest
-excerpt: "A quarter of a million LEGO blocks!   That is what it took to build the model of the Pacific Princess “Love Boat”  in LEGOs. The model took six months to construct, is 10.5 feet long and 5 feet high.   … Continue reading &rarr;"
+slug: "lego-love-boat-lego-mania-at-its-finest"
+excerpt: "A quarter of a million LEGO blocks!   That is what it took to build the model of the Pacific Princess \"Love Boat\"  in LEGOs. The model took six months to construct, is 10.5 feet long and 5 feet high.   … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Love Boat"
   - "Pacific Princess"
 author: "Rick Spilman"
-description: "A quarter of a million LEGO blocks!   That is what it took to build the model of the Pacific Princess “Love Boat”  in LEGOs. The model took six months to construct, is 10.5 feet long and 5 feet high.   … Continue reading &rarr;"
+description: "A quarter of a million LEGO blocks!   That is what it took to build the model of the Pacific Princess \"Love Boat\"  in LEGOs. The model took six months to construct, is 10.5 feet long and 5 feet high.   … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/lovelego1.jpg)](http://www.flickr.com/photos/ryanmcnaught/5364414007/)

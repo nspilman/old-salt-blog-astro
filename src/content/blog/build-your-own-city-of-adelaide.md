@@ -1,7 +1,7 @@
 ---
 title: "Build your Own City of Adelaide"
 date: 2010-08-11T09:30:34
-slug: build-your-own-city-of-adelaide
+slug: "build-your-own-city-of-adelaide"
 excerpt: "The fate of the oldest composite clipper ship in the world, the City of Adelaide, has yet to b determined.  In the mean time, former TV host and science educator, Dr. Rob Morrison, has designed a simple paper pattern that … Continue reading &rarr;"
 categories:
   - "Current"

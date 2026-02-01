@@ -1,7 +1,7 @@
 ---
 title: "Off Arromanches, a Drone over the Mulberry"
 date: 2016-12-11T14:55:53
-slug: off-arromanches-drone-mulberry
+slug: "off-arromanches-drone-mulberry"
 excerpt: "Here is a lovely drone video by François Monier of what is left of Mulberry B just offshore near the French village of Arromanches. One of the reasons that the Germans were skeptical of an Allied invasion of Normandy was … Continue reading &rarr;"
 categories:
   - "Current"

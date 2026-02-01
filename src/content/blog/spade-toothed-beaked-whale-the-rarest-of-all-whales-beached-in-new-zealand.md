@@ -1,7 +1,7 @@
 ---
 title: "Spade-toothed Beaked Whale, the Rarest of All Whales, Beached in New Zealand"
 date: 2012-11-06T13:28:08
-slug: spade-toothed-beaked-whale-the-rarest-of-all-whales-beached-in-new-zealand
+slug: "spade-toothed-beaked-whale-the-rarest-of-all-whales-beached-in-new-zealand"
 excerpt: "Spade-toothed beaked whales (Mesoplodon traversii) are so rare that they had never been seen alive.  Until recently, the only evidence of their existence were portions of three skulls found in 1872 and in the 1950s in New Zealand  and in 1986 … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Sea Lions Surfing Huge Waves Off Santa Barbara"
 date: 2021-01-19T12:09:02
-slug: sea-lions-surfing-huge-waves-off-santa-barbara
+slug: "sea-lions-surfing-huge-waves-off-santa-barbara"
 excerpt: "After a stressful week or two, here is something that is just fun. A documentary crew on a Pacific Offshore Expeditions outing last week, caught some amazing footage of sea lions surfing huge waves off Santa Barbara Island, California. The … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Freeze-Dried Shipwreck – Preserving La Salle’s La Belle"
 date: 2012-08-16T08:33:56
-slug: freeze-dried-shipwreck-preserving-la-salles-la-belle
+slug: "freeze-dried-shipwreck-preserving-la-salles-la-belle"
 excerpt: "When the Swedish warship Vasa was raised from the seabed in 1961, to prevent her her waterlogged timbers from shrinking and cracking, the hull was sprayed, inside and out, continuously with polyethylene glycol for 17 years, followed by 9 years of slow drying.  The British … Continue reading &rarr;"
 categories:
   - "Current"

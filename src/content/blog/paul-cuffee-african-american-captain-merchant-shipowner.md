@@ -1,7 +1,7 @@
 ---
 title: "Paul Cuffee, African-American Captain, Merchant & Shipowner"
 date: 2019-02-27T13:52:20
-slug: paul-cuffee-african-american-captain-merchant-shipowner
+slug: "paul-cuffee-african-american-captain-merchant-shipowner"
 excerpt: "As Black History Month comes to a close, it is worthwhile to remember early African-American shipmasters. Who was the first? That is hard to say. Paul Cuffe is a good candidate.  Paul Cuffe was born on Cuttyhunk Island, MA on January 17, 1759, … Continue reading &rarr;"
 categories:
   - "History"

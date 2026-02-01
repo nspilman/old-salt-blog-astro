@@ -1,7 +1,7 @@
 ---
 title: "Manchester Ship Canal Container Barge Service – Saving Money and Cutting Carbon Emmissions"
 date: 2011-08-17T18:51:05
-slug: manchester-ship-canal-container-barge-service-saving-money-and-cutting-carbon-emmissions
+slug: "manchester-ship-canal-container-barge-service-saving-money-and-cutting-carbon-emmissions"
 excerpt: "The Manchester Ship Canal, from Liverpool to Manchester, was built in 1894 and was once large enough to serve any ocean-going ship.  Now a new container barge service is operating on the canal, saving on costs and cutting carbon emissions. … Continue reading &rarr;"
 categories:
   - "Current"

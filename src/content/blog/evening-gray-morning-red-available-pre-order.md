@@ -1,7 +1,7 @@
 ---
 title: "Evening Gray Morning Red Available for Pre-Order"
 date: 2017-09-17T08:33:51
-slug: evening-gray-morning-red-available-pre-order
+slug: "evening-gray-morning-red-available-pre-order"
 excerpt: "My latest novel, Evening Gray Morning Red, will be published on October 15th in print and as an ebook. The Kindle ebook is available for pre-order on Amazon. About the novel: In Evening Gray Morning Red, a young American sailor must escape … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

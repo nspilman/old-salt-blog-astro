@@ -1,8 +1,8 @@
 ---
 title: "Did Bling Doom Nelson?"
 date: 2010-09-14T11:01:01
-slug: did-bling-doom-nelson
-excerpt: "“Lord Nelson’s love of bling may be the reason he was shot dead at the Battle of Trafalgar, a medal expert claimed yesterday.” Whether or not Nelson’s fondness for wearing his medals made him an easier target at Trafalgar, one of those … Continue reading &rarr;"
+slug: "did-bling-doom-nelson"
+excerpt: "\"Lord Nelson’s love of bling may be the reason he was shot dead at the Battle of Trafalgar, a medal expert claimed yesterday.\" Whether or not Nelson’s fondness for wearing his medals made him an easier target at Trafalgar, one of those … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -12,7 +12,7 @@ tags:
   - "Lord Nelson"
   - "Trafalgar"
 author: "Rick Spilman"
-description: "“Lord Nelson’s love of bling may be the reason he was shot dead at the Battle of Trafalgar, a medal expert claimed yesterday.” Whether or not Nelson’s fondness for wearing his medals made him an easier target at Trafalgar, one of those … Continue reading &rarr;"
+description: "\"Lord Nelson’s love of bling may be the reason he was shot dead at the Battle of Trafalgar, a medal expert claimed yesterday.\" Whether or not Nelson’s fondness for wearing his medals made him an easier target at Trafalgar, one of those … Continue reading &rarr;"
 ---
 
 *![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/nmedal.jpg)“Lord Nelson’s love of bling may be the reason he was shot dead at the Battle of Trafalgar, a medal expert claimed yesterday.”*

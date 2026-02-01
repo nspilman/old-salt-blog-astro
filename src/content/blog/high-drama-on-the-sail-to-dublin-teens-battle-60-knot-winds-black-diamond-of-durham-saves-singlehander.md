@@ -1,7 +1,7 @@
 ---
 title: "High Drama on the Sail to Dublin – Teens Battle 60 Knot Winds & Black Diamond of Durham Saves Singlehander"
 date: 2012-08-25T14:16:46
-slug: high-drama-on-the-sail-to-dublin-teens-battle-60-knot-winds-black-diamond-of-durham-saves-singlehander
+slug: "high-drama-on-the-sail-to-dublin-teens-battle-60-knot-winds-black-diamond-of-durham-saves-singlehander"
 excerpt: "The Dublin Tall Ship Festival is well underway this weekend in Ireland, with 40 tall ships and at least a dozen accompanying vessels.  A million vistitors are expected to throng the docks.  There was already considerable drama prior to the … Continue reading &rarr;"
 categories:
   - "Current"

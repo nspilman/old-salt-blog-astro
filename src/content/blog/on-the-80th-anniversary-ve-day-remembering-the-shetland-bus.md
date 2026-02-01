@@ -1,7 +1,7 @@
 ---
-title: "On the 80th Anniversary VE Day, Remembering the “Shetland Bus”"
+title: "On the 80th Anniversary VE Day, Remembering the \"Shetland Bus\""
 date: 2025-05-08T10:21:50
-slug: on-the-80th-anniversary-ve-day-remembering-the-shetland-bus
+slug: "on-the-80th-anniversary-ve-day-remembering-the-shetland-bus"
 excerpt: "On this, the 80th Anniversary of VE (Victory in Europe) Day,  the Liberation Convoy 2025 of five historic Norwegian veteran vessels, alongside partners from both Norway and the United Kingdom, is commemorating Anglo-Norwegian heroism on the North Sea during the … Continue reading &rarr;"
 categories:
   - "Current"

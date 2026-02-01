@@ -1,7 +1,7 @@
 ---
 title: "Today in History – Herman Melville, Sailor’s Snug Harbor & Nelson at Aboukir Bay"
 date: 2012-08-01T13:13:42
-slug: today-in-history-herman-melville-sailors-snug-harbor-nelson-at-aboukir-bay
+slug: "today-in-history-herman-melville-sailors-snug-harbor-nelson-at-aboukir-bay"
 excerpt: "Today is the birthday of Herman Melville, one of the greatest American writers. He was born in 1819 on Pearl Street in downtown Manhattan, almost directly across the Hudson from where I am now writing this post. He will always … Continue reading &rarr;"
 categories:
   - "History"

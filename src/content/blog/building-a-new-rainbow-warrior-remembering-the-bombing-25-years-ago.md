@@ -1,7 +1,7 @@
 ---
 title: "Building a New Rainbow Warrior – Remembering the Bombing 25 Years Ago"
 date: 2010-07-14T11:47:52
-slug: building-a-new-rainbow-warrior-remembering-the-bombing-25-years-ago
+slug: "building-a-new-rainbow-warrior-remembering-the-bombing-25-years-ago"
 excerpt: "Twenty five years ago this week, French government agents attached limpit mines to the hull of the Greenpeace ship Rainbow Warrior, in Auckland harbor in New Zealand to stop the ship from protesting French nuclear testing in Moruroa. The exploding mines sank the Rainbow Warrior, killing Fernando Pereira, … Continue reading &rarr;"
 categories:
   - "Current"

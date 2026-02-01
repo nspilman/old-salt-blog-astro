@@ -1,7 +1,7 @@
 ---
 title: "A Whale of An Escort – Minke Swims along on Marathon Paddle"
 date: 2010-04-03T08:39:17
-slug: a-whale-of-an-escort-%e2%80%93-minke-swims-along-on-marathon-paddle
+slug: "a-whale-of-an-escort-%e2%80%93-minke-swims-along-on-marathon-paddle"
 excerpt: "Professional surfer and Stand Up Paddleboard (SUP) ambassador Jodie Nelson became the first woman to paddle 39.8 grueling miles from the island of Catalina to Dana Point in an effort to raise awareness and funds for breast cancer research and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

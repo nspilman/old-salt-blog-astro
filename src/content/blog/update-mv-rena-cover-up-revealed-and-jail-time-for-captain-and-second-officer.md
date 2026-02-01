@@ -1,7 +1,7 @@
 ---
 title: "Update: MV Rena – Cover-up Revealed and Jail Time for Captain and Second Officer"
 date: 2012-05-26T08:00:35
-slug: update-mv-rena-cover-up-revealed-and-jail-time-for-captain-and-second-officer
+slug: "update-mv-rena-cover-up-revealed-and-jail-time-for-captain-and-second-officer"
 excerpt: "On October 5, 2011, the containership MV Rena ran aground on Astrolabe Reef off Tauranga, resulting in one of the worst maritime environmental disasters in New Zealand history.  Yesterday, in a New Zealand court, the captain, Mauro Balomaga, and second officer, Leonil Relon, were … Continue reading &rarr;"
 categories:
   - "Current"

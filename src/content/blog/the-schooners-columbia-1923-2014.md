@@ -1,7 +1,7 @@
 ---
 title: "The Schooners Columbia — 1923 & 2014"
 date: 2014-09-16T17:16:09
-slug: the-schooners-columbia-1923-2014
+slug: "the-schooners-columbia-1923-2014"
 excerpt: "The Columbia of 1923 was a fishing schooner built at the Arthur Dana Story shipyard in Essex, MA, from a design by Starling Burgess. She was famous for her speed and seaworthiness and for winning international schooner races, including one against … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

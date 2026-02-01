@@ -1,7 +1,7 @@
 ---
 title: "Orcas Acting Strangely, Part 1 — Dissecting Great White Sharks"
 date: 2017-07-18T09:46:13
-slug: orcas-acting-strangely-part-1-dissecting-great-white-sharks
+slug: "orcas-acting-strangely-part-1-dissecting-great-white-sharks"
 excerpt: "Along the shore of South Africa, at least four great white sharks have washed ashore with their livers almost surgically removed.  Two were also missing their hearts.  The culprit appears not to be human. All indications seem to suggest that … Continue reading &rarr;"
 categories:
   - "Current"

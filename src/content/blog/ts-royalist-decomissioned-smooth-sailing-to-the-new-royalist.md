@@ -1,7 +1,7 @@
 ---
 title: "TS Royalist Decomissioned, Smooth Sailing to the New Royalist"
 date: 2014-11-20T12:46:53
-slug: ts-royalist-decomissioned-smooth-sailing-to-the-new-royalist
+slug: "ts-royalist-decomissioned-smooth-sailing-to-the-new-royalist"
 excerpt: "The TS Royalist has sailed into Portsmouth for the final time. The 43 year old sail training ship owned by the UK Marine Society & Sea Cadets is being decommissioned. Since her delivery in 1971, TS Royalist has taken 30,000 … Continue reading &rarr;"
 categories:
   - "Current"

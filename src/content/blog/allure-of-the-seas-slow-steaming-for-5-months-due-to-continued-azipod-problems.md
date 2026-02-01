@@ -1,7 +1,7 @@
 ---
 title: "Allure of the Seas Slow Steaming for 5 Months Due to Continued Azipod Problems"
 date: 2019-05-07T09:49:12
-slug: allure-of-the-seas-slow-steaming-for-5-months-due-to-continued-azipod-problems
+slug: "allure-of-the-seas-slow-steaming-for-5-months-due-to-continued-azipod-problems"
 excerpt: "Cruise Fever is reporting that Royal Caribbean is having to rearrange the itineraries for the Allure of the Seas for the next five months due to mechanical issues with one of the three Azipods, the pod propulsion units which drive … Continue reading &rarr;"
 categories:
   - "Current"

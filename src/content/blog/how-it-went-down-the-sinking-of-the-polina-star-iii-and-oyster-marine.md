@@ -1,7 +1,7 @@
 ---
 title: "How It Went Down: The Sinking of the Polina Star III and Oyster Marine"
 date: 2018-03-01T17:02:57
-slug: how-it-went-down-the-sinking-of-the-polina-star-iii-and-oyster-marine
+slug: "how-it-went-down-the-sinking-of-the-polina-star-iii-and-oyster-marine"
 excerpt: "Alexander V. Ezhkov, the owner of the ill-fated Polina Star III, has a story to tell about his experience with the yacht builder Oyster Marine.  Ezhkov has put up a website to detail what took place from when in 2012, he ordered … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Remora ROV fishes out Air France Black Box"
 date: 2011-05-04T16:51:55
-slug: remora-rov-fishes-out-air-france-black-box
+slug: "remora-rov-fishes-out-air-france-black-box"
 excerpt: "My first thought was if that is a remora there must be quite a shark out there someplace. Obviously a different type of remora.  The Remora 6000 is a Remotely Operated Vehicle (ROV) that can operate at depths up to 6,000 meters.   … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Return of the Humpback Whales — the Case for Cautious Optimism"
 date: 2016-11-17T16:57:41
-slug: return-humpback-whales-case-cautious-optimism
+slug: "return-humpback-whales-case-cautious-optimism"
 excerpt: "Humpback whales are back, or, at the very least, there seems to be a good case for cautious optimism. In 1986, at the beginning of the moratorium on commercial whaling, the global population of humpback whales had dropped by 90% … Continue reading &rarr;"
 categories:
   - "Current"

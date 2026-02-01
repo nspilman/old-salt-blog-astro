@@ -1,7 +1,7 @@
 ---
 title: "Ever Given Still Blocking the Suez Canal — Tides, Dredging & Detours"
 date: 2021-03-27T15:12:50
-slug: ever-given-still-blocking-the-suez-canal-tides-dredging-detours
+slug: "ever-given-still-blocking-the-suez-canal-tides-dredging-detours"
 excerpt: "The saying goes that the tide floats all boats. The current hope is that a peak high tide on Monday may allow salvors to refloat the ultra-large container ship Ever Given that has been blocking all traffic in the Suez … Continue reading &rarr;"
 categories:
   - "Current"

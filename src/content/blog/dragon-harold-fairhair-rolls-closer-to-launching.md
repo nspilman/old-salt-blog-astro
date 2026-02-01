@@ -1,7 +1,7 @@
 ---
 title: "Viking Longship Dragon Harold Fairhair Rolls Closer to Launching"
 date: 2012-05-20T09:54:27
-slug: dragon-harold-fairhair-rolls-closer-to-launching
+slug: "dragon-harold-fairhair-rolls-closer-to-launching"
 excerpt: "The Dragon Harald Fairhair is the largest Viking longship to be built in modern times. (See our previous post: Building the Viking Longboat Dragon Harald Fairhair)  Built of oak, in the town of Haugesund in Western Norway, the ship is hundred and fourteen … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Container Ship ASL Bauhinia Ablaze, Abandoned & Adrift in Red Sea — Houthi Attack or Hazardous Cargo?"
 date: 2025-01-29T18:58:06
-slug: container-ship-asl-bauhinia-ablaze-abandoned-adrift-in-red-sea-houthi-attack-or-hazardous-cargo
+slug: "container-ship-asl-bauhinia-ablaze-abandoned-adrift-in-red-sea-houthi-attack-or-hazardous-cargo"
 excerpt: "Following an explosion and fire onboard the container ship, ASL Bauhinia, in the Red Sea early Tuesday morning, the 22 crew abandoned the ship. The crew was subsequently rescued unharmed by a passing vessel.  The 1,930-teu containership, owned by Shanghai-based … Continue reading &rarr;"
 categories:
   - "Current"

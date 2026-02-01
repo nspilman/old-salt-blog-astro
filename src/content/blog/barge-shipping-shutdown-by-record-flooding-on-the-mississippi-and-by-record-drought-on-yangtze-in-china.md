@@ -1,7 +1,7 @@
 ---
 title: "Barge Shipping Shutdown by Record Flooding on the Mississippi and by Record Drought on China’s Yangtze"
 date: 2011-05-10T09:30:27
-slug: barge-shipping-shutdown-by-record-flooding-on-the-mississippi-and-by-record-drought-on-yangtze-in-china
+slug: "barge-shipping-shutdown-by-record-flooding-on-the-mississippi-and-by-record-drought-on-yangtze-in-china"
 excerpt: "Water transportation on two of the world’s longest river systems have been disrupted by extremes in water levels. On the Ohio and Mississippi Rivers record  flooding  has  disrupted  or halted barge traffic while on China’s Yangtze River a record drought has snarled … Continue reading &rarr;"
 categories:
   - "Current"

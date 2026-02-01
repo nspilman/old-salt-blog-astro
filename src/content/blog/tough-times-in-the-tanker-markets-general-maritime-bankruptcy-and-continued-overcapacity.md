@@ -1,7 +1,7 @@
 ---
 title: "Tough Times in the Tanker Markets – General Maritime Bankruptcy and Continued Overcapacity"
 date: 2011-11-19T11:50:37
-slug: tough-times-in-the-tanker-markets-general-maritime-bankruptcy-and-continued-overcapacity
+slug: "tough-times-in-the-tanker-markets-general-maritime-bankruptcy-and-continued-overcapacity"
 excerpt: "Last month we posted that tanker charter rates  were at the lowest they have been in 14 years and that the number of large tankers in lay up was approaching levels similar to those during the slump in the 1980′s.  This … Continue reading &rarr;"
 categories:
   - "Current"

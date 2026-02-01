@@ -1,7 +1,7 @@
 ---
 title: "Sailing on the SSV Oliver Hazard Perry this Fall"
 date: 2014-03-18T07:49:49
-slug: sailing-on-the-ssv-oliver-hazard-perry-this-fall
+slug: "sailing-on-the-ssv-oliver-hazard-perry-this-fall"
 excerpt: "I recently booked a berth on the SSV Oliver Hazard Perry  on a passage next September from Newport to Bermuda under the command of Captain Richard Bailey.  I find it hard to believe that it was so long ago, but nevertheless, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

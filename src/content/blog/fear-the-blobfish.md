@@ -1,7 +1,7 @@
 ---
 title: "Fear the Blobfish"
 date: 2010-02-20T18:32:27
-slug: fear-the-blobfish
+slug: "fear-the-blobfish"
 excerpt: "An intriguing if slightly disturbing article and photo from the LA Times: Fear the blobfish As scary as the jumping Asian carp may be, there’s something even scarier  –  the blobfish. As you can see from the accompanying photograph, the … Continue reading &rarr;"
 categories:
   - "Current"

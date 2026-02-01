@@ -1,8 +1,8 @@
 ---
-title: "85 year old, Anthony Smith, Crosses the Atlantic on Raft “An-Tiki”"
+title: "85 year old, Anthony Smith, Crosses the Atlantic on Raft \"An-Tiki\""
 date: 2011-04-07T13:29:26
-slug: 85-year-old-anthony-smith-crosses-the-atlantic-on-raft-an-tiki
-excerpt: "After 66 days at sea, Anthony Smith and a crew of three friends arrived in St. Maarten on a voyage from the Canary Islands on the raft “An-Tiki“.   Smith celebrated  his 85th birthday during the voyage.  The crew of the An-Tiki … Continue reading &rarr;"
+slug: "85-year-old-anthony-smith-crosses-the-atlantic-on-raft-an-tiki"
+excerpt: "After 66 days at sea, Anthony Smith and a crew of three friends arrived in St. Maarten on a voyage from the Canary Islands on the raft \"An-Tiki\".   Smith celebrated  his 85th birthday during the voyage.  The crew of the An-Tiki … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Atlantic"
   - "raft"
 author: "Rick Spilman"
-description: "After 66 days at sea, Anthony Smith and a crew of three friends arrived in St. Maarten on a voyage from the Canary Islands on the raft “An-Tiki“.   Smith celebrated  his 85th birthday during the voyage.  The crew of the An-Tiki … Continue reading &rarr;"
+description: "After 66 days at sea, Anthony Smith and a crew of three friends arrived in St. Maarten on a voyage from the Canary Islands on the raft \"An-Tiki\".   Smith celebrated  his 85th birthday during the voyage.  The crew of the An-Tiki … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/st-maarten-ocean-crossing.jpg)After 66 days at sea, Anthony Smith and a crew of three friends arrived in St. Maarten on a voyage from the Canary Islands on the raft “*An-Tiki*“.   Smith celebrated  his 85th birthday during the voyage.  The crew of the *An-Tiki* included John Russell, David Hildred, and Andrew Bainbridge.

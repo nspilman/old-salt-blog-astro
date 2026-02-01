@@ -1,7 +1,7 @@
 ---
 title: "The Floating Chapels of the Seamen’s Church Institute"
 date: 2009-09-13T09:40:09
-slug: the-floating-chapels-of-the-seamen%e2%80%99s-church-institute
+slug: "the-floating-chapels-of-the-seamen%e2%80%99s-church-institute"
 excerpt: "If you can’t get sailors to church, bring the church to the sailors.  That was the strategy used in 1844 by the Protestant Church Missionary Society for Seamen, which was renamed the Seamen’s Church Institute. As they celebrate their 175th … Continue reading &rarr;"
 categories:
   - "City of Ships"

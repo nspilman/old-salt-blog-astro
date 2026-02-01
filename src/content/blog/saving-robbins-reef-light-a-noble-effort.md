@@ -1,7 +1,7 @@
 ---
 title: "Saving Robbins Reef Light – a Noble Effort"
 date: 2013-02-04T15:37:13
-slug: saving-robbins-reef-light-a-noble-effort
+slug: "saving-robbins-reef-light-a-noble-effort"
 excerpt: "In November we posted about the Old Orchard Shoals Light, off Staten Island, NY, which was completely destroyed on October 30th by Hurricane Sandy.  The 130-year-old Robbins Reef Lighthouse, on the other side of the island   survived the storm, but still suffered significant damage.  As reported by the Staten Island … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Container Ship MSC Luciana Aground on Sand Bank Southwest of Amsterdam"
 date: 2011-09-19T11:37:25
-slug: container-ship-msc-luciana-aground-on-sand-bank-southwest-of-amsterdam
+slug: "container-ship-msc-luciana-aground-on-sand-bank-southwest-of-amsterdam"
 excerpt: "If you think that you are having a bad Monday morning, consider the plight of the master of the container ship MSC Luciana. The ship was bound from Antwerp to Felixstowe when it ran aground on a sand bar in the Westerschelde, … Continue reading &rarr;"
 categories:
   - "Current"

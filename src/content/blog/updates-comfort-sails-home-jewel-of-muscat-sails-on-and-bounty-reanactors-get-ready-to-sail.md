@@ -1,7 +1,7 @@
 ---
 title: "Updates: Comfort Sails Home, Jewel of Muscat Sails on, and Bounty Reanactors get Ready to Sail"
 date: 2010-03-13T07:38:59
-slug: updates-comfort-sails-home-jewel-of-muscat-sails-on-and-bounty-reanactors-get-ready-to-sail
+slug: "updates-comfort-sails-home-jewel-of-muscat-sails-on-and-bounty-reanactors-get-ready-to-sail"
 excerpt: "A few updates on previous posts:  The USNS Comfort, the Navy hospital ship deployed to Haiti after the earthquake is on her way home:   Navy hospital ship to begin journey home from Haiti The Jewel of Muscat, the replica of … Continue reading &rarr;"
 categories:
   - "Current"

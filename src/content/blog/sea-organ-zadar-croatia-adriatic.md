@@ -1,7 +1,7 @@
 ---
 title: "The Sea Organ of Zadar"
 date: 2016-07-03T10:46:26
-slug: sea-organ-zadar-croatia-adriatic
+slug: "sea-organ-zadar-croatia-adriatic"
 excerpt: "In Zadar, the oldest city in Croatia on the Dalmatian Coast of the Adriatic, there is an sea organ which plays the timeless music of the waves.  The sea itself is the composer and performer of the music. Waves force air … Continue reading &rarr;"
 categories:
   - "Current"

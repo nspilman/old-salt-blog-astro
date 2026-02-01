@@ -1,7 +1,7 @@
 ---
 title: "Bicentenial of the Battle of Plattsburgh — the False Nile & Defeat of the Royal Navy"
 date: 2014-09-11T19:35:11
-slug: bicentenial-of-the-battle-of-plattsburgh
+slug: "bicentenial-of-the-battle-of-plattsburgh"
 excerpt: "We may always associate September 11th with the tragic attacks of 2001. September 11th of 1814, however, 200 years ago today, saw a significant naval victory by the young American Navy at the Battle of Plattsburgh that may have changed … Continue reading &rarr;"
 categories:
   - "Current"

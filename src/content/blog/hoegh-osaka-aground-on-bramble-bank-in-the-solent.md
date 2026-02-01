@@ -1,7 +1,7 @@
 ---
 title: "Car Carrier Hoegh Osaka Aground on Bramble Bank in the Solent"
 date: 2015-01-04T09:31:37
-slug: hoegh-osaka-aground-on-bramble-bank-in-the-solent
+slug: "hoegh-osaka-aground-on-bramble-bank-in-the-solent"
 excerpt: "The car carrier MV Hoegh Osaka ran aground on Bramble Bank in the Solent around 21:30 GMT on Saturday.  The crew of 28 was rescued and there are currently no reports of pollution. The ship was bound for Germany when she … Continue reading &rarr;"
 categories:
   - "Current"

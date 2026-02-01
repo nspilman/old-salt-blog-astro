@@ -1,7 +1,7 @@
 ---
 title: "Will Titanic II Be Built or Just Sink Again?"
 date: 2019-01-24T14:41:42
-slug: will-titanic-ii-be-built-or-just-sink-again
+slug: "will-titanic-ii-be-built-or-just-sink-again"
 excerpt: "Excentric Australian billionaire Clive Palmer made quite a splash in 2012 when he announced his plans to build a 21st-century almost a replica of theTitanic and sail it from England to New York by the end of 2016. That didn’t happen. In fact, … Continue reading &rarr;"
 categories:
   - "Current"

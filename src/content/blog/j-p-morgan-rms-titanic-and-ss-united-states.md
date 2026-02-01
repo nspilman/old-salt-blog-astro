@@ -1,7 +1,7 @@
 ---
 title: "J.P. Morgan, RMS Titanic and SS United States"
 date: 2012-04-14T09:14:54
-slug: j-p-morgan-rms-titanic-and-ss-united-states
+slug: "j-p-morgan-rms-titanic-and-ss-united-states"
 excerpt: "What does J.P. Morgan, the American financier, and the passenger ships, RMS Titanic and SS United States have in common? Everyone knows that White Star Line, the owner of the RMS Titanic, was a British Company. Fewer are aware that White … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "NYC City of Water Day 2019 — Free Fun at the Waterfront"
 date: 2019-07-12T09:01:50
-slug: nyc-city-of-water-day-2019-free-fun-at-the-waterfront
+slug: "nyc-city-of-water-day-2019-free-fun-at-the-waterfront"
 excerpt: "If you are near New York harbor on Saturday, July 13th, stop by the South Street Seaport, Piers 16 and 17, from 10AM to 4PM, to help celebrate City of Water Day 2019. In its 12th year, City of Water … Continue reading &rarr;"
 categories:
   - "Current"

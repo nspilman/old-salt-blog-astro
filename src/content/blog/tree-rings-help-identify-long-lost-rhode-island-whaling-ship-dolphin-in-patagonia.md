@@ -1,7 +1,7 @@
 ---
 title: "Tree Rings Help Identify Long Lost Rhode Island Whaling Ship Dolphin in Patagonia"
 date: 2022-10-20T17:08:06
-slug: tree-rings-help-identify-long-lost-rhode-island-whaling-ship-dolphin-in-patagonia
+slug: "tree-rings-help-identify-long-lost-rhode-island-whaling-ship-dolphin-in-patagonia"
 excerpt: "In 1858, the whaling ship Dolphin sailed from Warren, Rhode Island, and never returned. The New York Times notes that the ship’s 42-person crew was rescued the following year from the waters of the southern Atlantic Ocean by an Argentine mariner, … Continue reading &rarr;"
 categories:
   - "Current"

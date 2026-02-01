@@ -1,7 +1,7 @@
 ---
 title: "Queen Elizabeth 2 Sold for Scrap – Dubai Hotel Plans Fall Apart"
 date: 2012-12-24T11:12:48
-slug: queen-elizabeth-2-sold-for-scrap-dubai-hotel-plans-fall-apart
+slug: "queen-elizabeth-2-sold-for-scrap-dubai-hotel-plans-fall-apart"
 excerpt: "The MS Queen Elizabeth 2, which was purchased back in 2008 for conversion to a luxury hotel in Dubai, has reportedly been sold for scrap to Chinese interests for £20 million.  The original conversion plans were scuttled by a credit crunch in Dubai shortly … Continue reading &rarr;"
 categories:
   - "Current"

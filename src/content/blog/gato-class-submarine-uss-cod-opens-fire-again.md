@@ -1,7 +1,7 @@
 ---
 title: "Gato Class Submarine USS Cod Opens Fire Again"
 date: 2011-07-17T07:01:47
-slug: gato-class-submarine-uss-cod-opens-fire-again
+slug: "gato-class-submarine-uss-cod-opens-fire-again"
 excerpt: "In July 1945, the Dutch submarine O-19 ran hard aground on Ladd Reef in the South China Sea deep in enemy waters.  The Gato class submarine USS Cod was sent to rescue the Dutch sub. After  two days of attempting to … Continue reading &rarr;"
 categories:
   - "Current"

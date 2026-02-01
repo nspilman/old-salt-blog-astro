@@ -1,7 +1,7 @@
 ---
 title: "Wakashio Grounding — the Birthday Party & the Search for Wi-Fi"
 date: 2020-08-14T16:32:00
-slug: wakashio-grounding-the-birthday-party-the-search-for-wi-fi
+slug: "wakashio-grounding-the-birthday-party-the-search-for-wi-fi"
 excerpt: "How does a modern ship with radar and GPS manage to run hard aground on a well-marked reef?  In the case of the Capesize bulker Wakashio that ran aground on the reef at Pointe-d’Esny off Mauritius on the evening of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

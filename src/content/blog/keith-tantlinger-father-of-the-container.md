@@ -1,8 +1,8 @@
 ---
 title: "Keith Tantlinger – Father of the Container"
 date: 2011-09-10T09:35:57
-slug: keith-tantlinger-father-of-the-container
-excerpt: "If Malcom McLean was the father of containerization, then Keith Tantlinger, who died recently at the age of 92,  was the father of the shipping container. Tantlinger’s container designs spurred the containerization revolution that forever changed both shipping and world trade. The idea of “containerizing” … Continue reading &rarr;"
+slug: "keith-tantlinger-father-of-the-container"
+excerpt: "If Malcom McLean was the father of containerization, then Keith Tantlinger, who died recently at the age of 92,  was the father of the shipping container. Tantlinger’s container designs spurred the containerization revolution that forever changed both shipping and world trade. The idea of \"containerizing\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "shipping container"
   - "twist lock"
 author: "Rick Spilman"
-description: "If Malcom McLean was the father of containerization, then Keith Tantlinger, who died recently at the age of 92,  was the father of the shipping container. Tantlinger’s container designs spurred the containerization revolution that forever changed both shipping and world trade. The idea of “containerizing” … Continue reading &rarr;"
+description: "If Malcom McLean was the father of containerization, then Keith Tantlinger, who died recently at the age of 92,  was the father of the shipping container. Tantlinger’s container designs spurred the containerization revolution that forever changed both shipping and world trade. The idea of \"containerizing\" … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/TANTLINGER1.jpg)If [Malcom McLean](http://en.wikipedia.org/wiki/Malcom_McLean) was the father of containerization, then [Keith Tantlinger](http://en.wikipedia.org/wiki/Keith_Tantlinger), who died recently at the age of 92,  was the father of the shipping container. Tantlinger’s container designs spurred the containerization revolution that forever changed both shipping and world trade.

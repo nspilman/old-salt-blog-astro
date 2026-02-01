@@ -1,7 +1,7 @@
 ---
 title: "l’Hermione at NYC’s South Street Seaport, Open to the Public Thursday"
 date: 2015-07-01T16:48:34
-slug: lhermione-at-nycs-south-street-seaport-open-to-the-public-thursday
+slug: "lhermione-at-nycs-south-street-seaport-open-to-the-public-thursday"
 excerpt: "This morning, the replica French frigate l’Hermione arrived in New York harbor and was welcomed  by American and French officials, led by French Minister Ségolène Royal and Mayor of Rochefort Hervé Blanché at Pier 15  at the South Street Seaport on the … Continue reading &rarr;"
 categories:
   - "Current"

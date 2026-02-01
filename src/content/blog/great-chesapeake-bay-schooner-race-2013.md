@@ -1,7 +1,7 @@
 ---
 title: "Great Chesapeake Bay Schooner Race 2013"
 date: 2013-10-16T16:45:06
-slug: great-chesapeake-bay-schooner-race-2013
+slug: "great-chesapeake-bay-schooner-race-2013"
 excerpt: "The Parade of Sail in the 2013 Great Chesapeake Bay Schooner Race starts in a few minutes from Canton, MD in Baltimore harbor.  The race begins tomorrow at 1330 just south of the Chesapeake Bay Bridge near Annapolis and ends 127 nautical miles … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Rescue Underway on Remote South Atlantic Gough Island"
 date: 2020-10-19T13:00:40
-slug: rescue-underway-on-remote-south-atlantic-gough-island
+slug: "rescue-underway-on-remote-south-atlantic-gough-island"
 excerpt: "A rescue is underway to save 62 seafarers stranded on Gough Island in the South Atlantic, one of the most remote islands in the world. The fishing/research vessel, Geo Searcher, is reported to have sunk after hitting rocks about a … Continue reading &rarr;"
 categories:
   - "Current"

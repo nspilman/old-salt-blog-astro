@@ -1,7 +1,7 @@
 ---
 title: "Update: WHC Movie Night — MV Liemba"
 date: 2015-03-30T17:21:20
-slug: update-whc-movie-night-mv-liemba
+slug: "update-whc-movie-night-mv-liemba"
 excerpt: "Last week we posted that the Working Harbor Committee is sponsoring the showing of a wonderful documentary on the MV Liemba, an ex-German warship, a minor movie star, and also, at one hundred years old, the world’s oldest passenger ferry in service. The documentary … Continue reading &rarr;"
 categories:
   - "Current"

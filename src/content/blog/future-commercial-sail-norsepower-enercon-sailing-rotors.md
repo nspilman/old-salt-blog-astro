@@ -1,7 +1,7 @@
 ---
 title: "Norsepower & Enercon Sailing on Rotors — Future of Commercial Sail?"
 date: 2016-08-28T20:42:09
-slug: future-commercial-sail-norsepower-enercon-sailing-rotors
+slug: "future-commercial-sail-norsepower-enercon-sailing-rotors"
 excerpt: "Last week, the Finnish marine engineering company, Norsepower Oy Ltd, was awarded €2.6M in funding to further its research and development of the Norsepower Rotor Sail Solution technology. The new models of the technology will include the world’s largest ever Flettner … Continue reading &rarr;"
 categories:
   - "Current"

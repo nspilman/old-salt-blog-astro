@@ -1,7 +1,7 @@
 ---
 title: "Black Moon on the Rise"
 date: 2025-08-22T14:22:44
-slug: black-moon-on-the-rise
+slug: "black-moon-on-the-rise"
 excerpt: "On Saturday, August 23, a black moon will rise in the night sky. Of course, you won’t be able to see it, but weather permitting, the stargazing should be phenomenal all the same. A black moon is defined as the … Continue reading &rarr;"
 categories:
   - "Current"

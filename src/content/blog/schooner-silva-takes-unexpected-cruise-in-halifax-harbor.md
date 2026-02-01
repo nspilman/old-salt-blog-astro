@@ -1,7 +1,7 @@
 ---
 title: "Schooner Silva Takes Unexpected Cruise in Halifax Harbor"
 date: 2012-10-09T16:38:24
-slug: schooner-silva-takes-unexpected-cruise-in-halifax-harbor
+slug: "schooner-silva-takes-unexpected-cruise-in-halifax-harbor"
 excerpt: "Video surveillance footage on the dock shows a group of people boarding the 130′ three masted schooner Silva in Halifax harbor at about 1:30 am, early Monday morning. They raised one sail and untied all but one mooring line.  Around 5am, the remaining line parted and the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "India Joins the Nuclear Sub Club –  INS Arihant, First Indian Built Nuclear Sub Ready for Sea Trials"
 date: 2013-08-10T11:30:15
-slug: india-joins-the-nuclear-sub-club-ins-arihant-first-indian-built-nuclear-sub-ready-for-sea-trials
+slug: "india-joins-the-nuclear-sub-club-ins-arihant-first-indian-built-nuclear-sub-ready-for-sea-trials"
 excerpt: "Until recently only China, France, the United States, Britain and Russia have built and operated nuclear submarines. With the 6,000-ton INS Arihant ready for sea trials, India has joined this elite club.  The submarine will be the first Indian-built nuclear submarine to … Continue reading &rarr;"
 categories:
   - "Current"

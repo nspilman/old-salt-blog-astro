@@ -1,7 +1,7 @@
 ---
 title: "Juna, the Beluga – Internet Mariachi Sensation & Irene Survivor at the Mystic Aquarium"
 date: 2011-08-31T18:38:13
-slug: juna-the-beluga-internet-mariachi-sensation-irene-survivor-at-the-mystic-aquarium
+slug: "juna-the-beluga-internet-mariachi-sensation-irene-survivor-at-the-mystic-aquarium"
 excerpt: "I love the odd confluence of elements in this story. It seems a young couple, Kim & Kevin, decided to get married at Mystic Aquarium, in Mystic,Connecticut. They decided that the service would be held directly in front of the beluga tank.   For … Continue reading &rarr;"
 categories:
   - "Current"

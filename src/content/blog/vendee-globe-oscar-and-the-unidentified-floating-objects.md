@@ -1,7 +1,7 @@
 ---
 title: "Vendee Globe: Oscar and the Unidentified Floating Objects"
 date: 2020-12-17T18:13:56
-slug: vendee-globe-oscar-and-the-unidentified-floating-objects
+slug: "vendee-globe-oscar-and-the-unidentified-floating-objects"
 excerpt: "At roughly this point in the last sailing of the Vendee Globe in 2016-2017, 5 boats had been forced to retire after being damaged by collisions with UFOs, unidentified floating objects. In this year’s race, 18 of the 33 boats … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

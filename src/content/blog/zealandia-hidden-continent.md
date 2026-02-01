@@ -1,7 +1,7 @@
 ---
 title: "Zealandia — the Hidden Continent"
 date: 2017-11-03T09:23:52
-slug: zealandia-hidden-continent
+slug: "zealandia-hidden-continent"
 excerpt: "Researchers have identified a 2 million square miles continent hidden beneath the Pacific Ocean. They have named it Zealandia. The highest peaks of the continent which rise above the surface are the islands of New Zealand and New Caledonia. The … Continue reading &rarr;"
 categories:
   - "Current"

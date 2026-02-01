@@ -1,7 +1,7 @@
 ---
 title: "Underwater Volcanic Eruption Near Tonga Triggers Tsunami"
 date: 2022-01-15T10:45:47
-slug: underwater-volcanic-eruption-near-tonga-triggers-tsunami
+slug: "underwater-volcanic-eruption-near-tonga-triggers-tsunami"
 excerpt: "Tsunami waves caused by a major underwater eruption of the Hunga Tonga-Hunga Haʻapai volcano have hit the Pacific country of Tonga. A tsunami warning sent residents scrambling to higher ground. Tonga’s capital lies just 65km north of the volcano, on … Continue reading &rarr;"
 categories:
   - "Current"

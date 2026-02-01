@@ -1,7 +1,7 @@
 ---
 title: "John Masefield and Sea Fever"
 date: 2011-11-05T14:35:03
-slug: john-masefield-and-sea-fever
+slug: "john-masefield-and-sea-fever"
 excerpt: "I can’t decide whether I love or hate John Masefield‘s poem Sea Fever.  I lean strongly towards love, though the poem has been repeated so many times and in so many places, that it is hard not to groan every time it … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

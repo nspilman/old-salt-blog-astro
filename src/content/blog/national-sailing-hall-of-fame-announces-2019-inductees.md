@@ -1,7 +1,7 @@
 ---
 title: "National Sailing Hall of Fame Announces 2019 Inductees"
 date: 2019-08-12T12:09:45
-slug: national-sailing-hall-of-fame-announces-2019-inductees
+slug: "national-sailing-hall-of-fame-announces-2019-inductees"
 excerpt: "The National Sailing Hall of Fame (NSHOF) announced 10 individuals in its 2019 class of inductees. It is an eclectic mix. The recipients include Sailmaker Robbie Doyle; Olympic Gold Medalist Buddy Friedrichs; sailing’s first-ever Women’s Olympic Gold Medalist Allison Jolly; … Continue reading &rarr;"
 categories:
   - "Current"

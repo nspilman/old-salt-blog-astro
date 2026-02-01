@@ -1,7 +1,7 @@
 ---
 title: "Jubilee Sailing Trust’s Tall Ship Lord Nelson to be Auctioned to Pay Off Charity’s Debts"
 date: 2023-06-23T17:53:59
-slug: jubilee-sailing-trusts-tall-ship-lord-nelson-to-be-auctioned-to-pay-off-charitys-debts
+slug: "jubilee-sailing-trusts-tall-ship-lord-nelson-to-be-auctioned-to-pay-off-charitys-debts"
 excerpt: "The tall ship Lord Nelson is being offered for sale at an online auction by the global advisory and investment firm Gordon Brothers, acting on behalf of Richard Lewis and Sarah O’Toole, the joint administrators of Jubilee Sailing Trust Limited. … Continue reading &rarr;"
 categories:
   - "Current"

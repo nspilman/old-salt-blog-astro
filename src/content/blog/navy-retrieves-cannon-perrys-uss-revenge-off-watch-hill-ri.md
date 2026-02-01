@@ -1,7 +1,7 @@
 ---
 title: "Navy Retrieves Cannon from Perry’s USS Revenge off Watch Hill, RI"
 date: 2017-06-09T11:42:55
-slug: navy-retrieves-cannon-perrys-uss-revenge-off-watch-hill-ri
+slug: "navy-retrieves-cannon-perrys-uss-revenge-off-watch-hill-ri"
 excerpt: "US Navy archaeologists have retrieved a cannon which they believe came from USS Revenge, a schooner commanded by Oliver Hazard Perry in 1811. The schooner struck a reef and sank off Watch Hill in Westerly, RI in 1811.  Navy divers … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

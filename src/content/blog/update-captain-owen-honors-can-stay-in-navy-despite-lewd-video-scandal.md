@@ -1,7 +1,7 @@
 ---
 title: "Update: Captain Owen Honors Can Stay in Navy Despite Lewd Video Scandal"
 date: 2011-08-24T19:57:09
-slug: update-captain-owen-honors-can-stay-in-navy-despite-lewd-video-scandal
+slug: "update-captain-owen-honors-can-stay-in-navy-despite-lewd-video-scandal"
 excerpt: "Last January we posted that Captain Owen Honors had been relieved of duty on USS Enterprise after it was revealed that he produced a series of lewd videos when he was XO (Executive Officer) on the nuclear powered aircraft carrier.  Today a Navy panel voted … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

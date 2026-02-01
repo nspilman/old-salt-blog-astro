@@ -1,7 +1,7 @@
 ---
 title: "Dockside Ship Fires, From the Normandie to the USS Bonhomme Richard"
 date: 2020-07-14T16:54:13
-slug: dockside-ship-fires-from-the-normandie-to-the-uss-bonhomme-richard
+slug: "dockside-ship-fires-from-the-normandie-to-the-uss-bonhomme-richard"
 excerpt: "For a third day, the USS Bonhomme Richard continues to burn at the dock, despite the best efforts of hundreds of Navy and civilian firefighters to quench the inferno. The casualty raises the question, are dockside fires on ships worse … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

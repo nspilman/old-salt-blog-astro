@@ -1,7 +1,7 @@
 ---
 title: "The 35th America’s Cup Begins — Is it Still Relevant?"
 date: 2017-05-27T11:24:33
-slug: 35th-americas-cup-begins-still-relevant
+slug: "35th-americas-cup-begins-still-relevant"
 excerpt: "After being postponed for two days by high winds, the 35th America’s Cup is scheduled to start this morning. Many consider the races to be the greatest show on the water — a thrilling, high-stakes extravaganza featuring cutting-edge technology and … Continue reading &rarr;"
 categories:
   - "Current"

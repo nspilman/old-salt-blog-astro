@@ -1,7 +1,7 @@
 ---
 title: "Photo for a Monday Morning – the bow of the NIRINT PRIDE"
 date: 2009-09-28T08:16:11
-slug: photo-for-a-monday-morning-%e2%80%93-the-bow-of-the-nirint-pride
+slug: "photo-for-a-monday-morning-%e2%80%93-the-bow-of-the-nirint-pride"
 excerpt: "Some Monday mornings feel like I was in a head on collision with a containership.  Here is a photo of the bow of the  Nirit Pride which did indeed collide earlier this month with the MSC vessel Nikita in shipping lanes near … Continue reading &rarr;"
 categories:
   - "Current"

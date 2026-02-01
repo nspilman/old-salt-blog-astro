@@ -1,7 +1,7 @@
 ---
 title: "Women Making Music with the Sea"
 date: 2011-05-08T07:44:08
-slug: making-music-with-the-sea
+slug: "making-music-with-the-sea"
 excerpt: "This is not specifically a Mother’s Day post, but somehow, it feels right to post today. Women of the Banks Islands, a group of islands in northern Vanuatu, in the Pacific stand waist deep in the ocean and literally play the water … Continue reading &rarr;"
 categories:
   - "Current"

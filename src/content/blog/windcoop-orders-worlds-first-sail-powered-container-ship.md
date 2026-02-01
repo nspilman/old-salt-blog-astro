@@ -1,7 +1,7 @@
 ---
 title: "Windcoop Orders World’s First Sail-Powered Container Ship"
 date: 2025-04-04T20:24:39
-slug: windcoop-orders-worlds-first-sail-powered-container-ship
+slug: "windcoop-orders-worlds-first-sail-powered-container-ship"
 excerpt: "In February, we posted about the world’s first commercial sailing ro/ro, the Neoliner Origin. Launched by Turkish shipyard RMK Marine, the ship is expected to enter service in mid-2025. This week, it was announced that Windcoop, a French maritime cooperative based … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Northwest Pacific Orcas Wearing Dead Salmon Hats, Again"
 date: 2024-12-02T21:28:56
-slug: northwest-pacific-orcas-wearing-dead-salmon-hats-again
+slug: "northwest-pacific-orcas-wearing-dead-salmon-hats-again"
 excerpt: "Here is yet another story to remind us how little we understand about orcas, also known as killer whales. We are still scratching our heads over why Iberian orcas attack sailboats near Gibraltar or why orcas off South Africa attack … Continue reading &rarr;"
 categories:
   - "Current"

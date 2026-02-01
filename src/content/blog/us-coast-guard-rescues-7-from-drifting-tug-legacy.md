@@ -1,7 +1,7 @@
 ---
 title: "US Coast Guard Rescues 7 From Drifting Tug Legacy"
 date: 2023-01-16T09:55:28
-slug: us-coast-guard-rescues-7-from-drifting-tug-legacy
+slug: "us-coast-guard-rescues-7-from-drifting-tug-legacy"
 excerpt: "On Saturday, January 14, the US Coast Guard rescued seven crewmembers from the tug Legacy, disabled and drifting about 30 miles off the coast of Ocean City, New Jersey. The Coast Guard reports that the tug Legacy notified watchstanders at Coast … Continue reading &rarr;"
 categories:
   - "Current"

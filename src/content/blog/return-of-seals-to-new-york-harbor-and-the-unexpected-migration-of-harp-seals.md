@@ -1,8 +1,8 @@
 ---
 title: "Return of Seals to New York Harbor and the Unexpected Migration of Harp Seals"
 date: 2011-03-22T08:31:18
-slug: return-of-seals-to-new-york-harbor-and-the-unexpected-migration-of-harp-seals
-excerpt: "When I first came to New York  thirty five years ago, the closest thing to wildlife in the waters of the harbor were what we referred to as “Hudson River trout” – condoms that had been flushed through the New York … Continue reading &rarr;"
+slug: "return-of-seals-to-new-york-harbor-and-the-unexpected-migration-of-harp-seals"
+excerpt: "When I first came to New York  thirty five years ago, the closest thing to wildlife in the waters of the harbor were what we referred to as \"Hudson River trout\" – condoms that had been flushed through the New York … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "new york harbor"
   - "seals"
 author: "Rick Spilman"
-description: "When I first came to New York  thirty five years ago, the closest thing to wildlife in the waters of the harbor were what we referred to as “Hudson River trout” – condoms that had been flushed through the New York … Continue reading &rarr;"
+description: "When I first came to New York  thirty five years ago, the closest thing to wildlife in the waters of the harbor were what we referred to as \"Hudson River trout\" – condoms that had been flushed through the New York … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/6.jpg)

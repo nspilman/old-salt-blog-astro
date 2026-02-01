@@ -1,7 +1,7 @@
 ---
 title: "US Coast Guard Sets Record for Drug Seizures at Sea Again"
 date: 2017-09-26T09:35:46
-slug: coast-guard-sets-record-drug-seizures-sea
+slug: "coast-guard-sets-record-drug-seizures-sea"
 excerpt: "The United States Coast Guard has set a new record for cocaine seizures at sea for the second year in a row.  The Washington Post reports that the Coast Guard has seized more than 455,000 pounds of cocaine through Sept. 11 … Continue reading &rarr;"
 categories:
   - "Current"

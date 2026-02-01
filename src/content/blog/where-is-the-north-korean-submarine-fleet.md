@@ -1,7 +1,7 @@
 ---
 title: "Where is the North Korean Submarine Fleet?"
 date: 2015-08-26T17:23:01
-slug: where-is-the-north-korean-submarine-fleet
+slug: "where-is-the-north-korean-submarine-fleet"
 excerpt: "Something very strange has happened on the Korean peninsula.  More than 50 North Korean submarines — about 70% of the country’s known fleet — have reportedly left their bases and disappeared from South Korea’s military radar.  They also represent most … Continue reading &rarr;"
 categories:
   - "Current"

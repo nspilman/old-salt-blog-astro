@@ -1,7 +1,7 @@
 ---
 title: "Norovirus Outbreak on the Crown Princess"
 date: 2014-11-17T17:15:20
-slug: norovirus-outbreak-on-the-crown-princess
+slug: "norovirus-outbreak-on-the-crown-princess"
 excerpt: "A month long Pacific cruise on the Princess Cruise Line Crown Princess has been disrupted by a norovirus outbreak.  158 of 3,009 passengers were sickened by highly contagious stomach virus, while 14 of 1,160 crew members were affected.  The ship will return … Continue reading &rarr;"
 categories:
   - "Current"

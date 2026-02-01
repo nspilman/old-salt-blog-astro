@@ -1,7 +1,7 @@
 ---
 title: "A Video for a Monday Morning — Orcas and Humpbacks"
 date: 2015-09-21T08:00:29
-slug: a-video-for-a-monday-morning-orcas-and-humpbacks
+slug: "a-video-for-a-monday-morning-orcas-and-humpbacks"
 excerpt: "However your Monday may be going, this over one minute video can’t but help make it better. Beautiful Orcas and Humpback Whales Breach in Front on The Explore Camera – Live Camera Highlight To see more go to Explore.org. … Continue reading &rarr;"
 categories:
   - "Current"

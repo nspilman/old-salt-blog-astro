@@ -1,7 +1,7 @@
 ---
 title: "Costly Carrier Without Working Elevators & Destroyer Without Ammo"
 date: 2018-11-05T13:50:24
-slug: costly-carrier-without-working-elevators-destroyers-without-ammo
+slug: "costly-carrier-without-working-elevators-destroyers-without-ammo"
 excerpt: "As a naval architect in commercial shipping for several decades, I will admit to that I really do not understand the way the US Navy designs and builds ships. In the world of commercial shipping, the process is to design … Continue reading &rarr;"
 categories:
   - "Current"

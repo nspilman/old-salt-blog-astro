@@ -1,7 +1,7 @@
 ---
 title: "Wreck of the S.S. Gairsoppa with 240 Tonnes of Silver Aboard Found Three Miles Down"
 date: 2011-09-26T21:43:00
-slug: wreck-of-the-s-s-gairsoppa-located-with-240-tonnes-of-silver-aboard-three-miles-deep
+slug: "wreck-of-the-s-s-gairsoppa-located-with-240-tonnes-of-silver-aboard-three-miles-deep"
 excerpt: "Almost three miles beneath the surface of the Atlantic, deeper than the Titanic,  Odyssey Marine has located the wreck of the S.S. Gairsoppa, which was torpedoed in February of 1941 by a German U-boat.  When she sank, the ship was loaded with silver, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

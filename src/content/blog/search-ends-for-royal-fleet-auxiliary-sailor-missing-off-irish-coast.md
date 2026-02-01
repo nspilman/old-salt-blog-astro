@@ -1,7 +1,7 @@
 ---
 title: "Search Ends for Royal Fleet Auxiliary Sailor Missing Off Irish Coast"
 date: 2025-11-16T20:36:30
-slug: search-ends-for-royal-fleet-auxiliary-sailor-missing-off-irish-coast
+slug: "search-ends-for-royal-fleet-auxiliary-sailor-missing-off-irish-coast"
 excerpt: "The search for a crew member who was lost overboard from the Royal Fleet Auxiliary (RFA) tanker Tidesurge, off the north-west coast of the Republic of Ireland, has ended without finding any sign of the missing sailor. First Sea Lord … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: MS Veendam’s New Nose"
 date: 2011-05-01T17:56:32
-slug: update-ms-veendams-new-nose
+slug: "update-ms-veendams-new-nose"
 excerpt: "In early January we posted about Holland America Lines’ MS Veendam hitting a Southern Ocean storm, encountering waves of over 30 meters and winds of 70 knots. At the time there was no reported to the ship or injuries to passengers or crew. … Continue reading &rarr;"
 categories:
   - "Current"

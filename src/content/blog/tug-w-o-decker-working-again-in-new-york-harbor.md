@@ -1,7 +1,7 @@
 ---
 title: "Tug W.O. Decker Working Again In New York Harbor"
 date: 2019-07-31T16:41:33
-slug: tug-w-o-decker-working-again-in-new-york-harbor
+slug: "tug-w-o-decker-working-again-in-new-york-harbor"
 excerpt: "The W.O. Decker, the last wooden tug in New York harbor, is back at work. The 52′ tug, built in 1930 in Long Island City, is now offering harbor tours from the South Street Seaport on New York’s East River. … Continue reading &rarr;"
 categories:
   - "Current"

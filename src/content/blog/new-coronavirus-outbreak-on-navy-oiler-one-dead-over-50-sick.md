@@ -1,7 +1,7 @@
 ---
 title: "New Coronavirus Outbreak on Navy Oiler — One Dead, Over 50 Sick"
 date: 2020-05-21T15:39:36
-slug: new-coronavirus-outbreak-on-navy-oiler-one-dead-over-50-sick
+slug: "new-coronavirus-outbreak-on-navy-oiler-one-dead-over-50-sick"
 excerpt: "The latest coronavirus outbreak on a Navy ship is on the Military Sealift Command’s (MSC) fleet replenishment oiler, USNS Leroy Grumman. The Project On Government Oversight (POGO) is reporting that the outbreak occurred late last month, barely a week after … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Transit of Venus – A Final Transit for 105 Years"
 date: 2012-06-04T21:41:25
-slug: transit-of-venus-a-final-transit-for-105-years
+slug: "transit-of-venus-a-final-transit-for-105-years"
 excerpt: "On June 5th and 6th, depending on where you are in the world, there will be the last transit of Venus, where the planet Venus visibly passes between the earth and the Sun, until the year 2017.  The previous transit of Venus … Continue reading &rarr;"
 categories:
   - "Current"

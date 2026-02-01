@@ -1,7 +1,7 @@
 ---
 title: "Groundbreaking Captain Paul Cuffe Park  March 26, New Bedford"
 date: 2018-03-13T15:43:50
-slug: groundbreaking-captain-paul-cuffe-park-march-26-new-bedford
+slug: "groundbreaking-captain-paul-cuffe-park-march-26-new-bedford"
 excerpt: "In the beginning of February, we posted about Paul Cuffee, one of the first African-American ship captains and ship owners.  In honor of Captain Cuffee, the New Bedford Whaling Museum will be breaking ground on the Captain Paul Cuffe Park, on March … Continue reading &rarr;"
 categories:
   - "Current"

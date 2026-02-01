@@ -1,7 +1,7 @@
 ---
 title: "Cargo Ship Kwai Collects 40 Tons of Ghost Nets from Pacific Garbage Patch"
 date: 2019-06-24T18:10:40
-slug: cargo-ship-kwai-collects-40-tons-of-ghost-nets-from-pacific-garbage-patch
+slug: "cargo-ship-kwai-collects-40-tons-of-ghost-nets-from-pacific-garbage-patch"
 excerpt: "The sailing auxiliary cargo ship Kwai arrived in Hawaii recently.  The ship usually sails a regular route carrying cargo and passengers between Hawaii and the islands of Kiritimati (Christmas Island), Tabuaeran (Fanning) and Teraina, (Washington Island) as well as the … Continue reading &rarr;"
 categories:
   - "Current"

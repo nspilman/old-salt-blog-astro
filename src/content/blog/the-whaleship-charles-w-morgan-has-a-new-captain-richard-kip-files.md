@@ -1,14 +1,14 @@
 ---
-title: "The Whaleship Charles W. Morgan Has a New Captain — Richard “Kip” Files"
+title: "The Whaleship Charles W. Morgan Has a New Captain — Richard \"Kip\" Files"
 date: 2013-11-06T14:19:28
-slug: the-whaleship-charles-w-morgan-has-a-new-captain-richard-kip-files
+slug: "the-whaleship-charles-w-morgan-has-a-new-captain-richard-kip-files"
 excerpt: "In September we posted about the search for a new captain for the historic whaleship Charles W. Morgan.  The whaler, which recently underwent a major reconstruction, first sailed in 1841 and is scheduled to sail again on a three month voyage … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
   - "Charles W. Morgan"
   - "Mystic Seaport Museum"
-  - "Richard “Kip” Files"
+  - "Richard \"Kip\" Files"
   - "whaleship"
 author: "Rick Spilman"
 description: "In September we posted about the search for a new captain for the historic whaleship Charles W. Morgan.  The whaler, which recently underwent a major reconstruction, first sailed in 1841 and is scheduled to sail again on a three month voyage … Continue reading &rarr;"

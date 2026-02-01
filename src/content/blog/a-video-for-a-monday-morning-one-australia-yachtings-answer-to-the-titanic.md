@@ -1,7 +1,7 @@
 ---
 title: "A Video for a Monday Morning — One Australia, Yachting’s Answer to the Titanic"
 date: 2013-11-04T09:39:20
-slug: a-video-for-a-monday-morning-one-australia-yachtings-answer-to-the-titanic
+slug: "a-video-for-a-monday-morning-one-australia-yachtings-answer-to-the-titanic"
 excerpt: "A short video reminder of how quickly things can change. One Australia’s AUS-35 boat was racing in the Louis Vuitton qualifying matches in the America’s Cup of March 1995, when it suddenly broke in half and sank, in less than two minutes … Continue reading &rarr;"
 categories:
   - "Current"

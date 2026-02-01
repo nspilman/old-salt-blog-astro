@@ -1,8 +1,8 @@
 ---
 title: "Hyundai/NorsePower Eco-Tanker Design — VLCC Powered by LNG, the Wind, and Cargo Vapor"
 date: 2019-06-14T15:17:12
-slug: hyundai-norsepower-eco-tanker-design-vlcc-powered-by-lng-the-wind-and-cargo-vapor
-excerpt: "Hyundai Heavy Industries, in a collaboration with Lloyd’s Register and Norsepower, has developed the design of an “Eco-Tanker,” a Very Large Crude Carrier (VLCC) with a unique propulsion system combining wind power with natural gas. The design also includes a … Continue reading &rarr;"
+slug: "hyundai-norsepower-eco-tanker-design-vlcc-powered-by-lng-the-wind-and-cargo-vapor"
+excerpt: "Hyundai Heavy Industries, in a collaboration with Lloyd’s Register and Norsepower, has developed the design of an \"Eco-Tanker,\" a Very Large Crude Carrier (VLCC) with a unique propulsion system combining wind power with natural gas. The design also includes a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "VLCC"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/06/hhiecotanker.jpg"
 author: "Rick Spilman"
-description: "Hyundai Heavy Industries, in a collaboration with Lloyd’s Register and Norsepower, has developed the design of an “Eco-Tanker,” a Very Large Crude Carrier (VLCC) with a unique propulsion system combining wind power with natural gas. The design also includes a … Continue reading &rarr;"
+description: "Hyundai Heavy Industries, in a collaboration with Lloyd’s Register and Norsepower, has developed the design of an \"Eco-Tanker,\" a Very Large Crude Carrier (VLCC) with a unique propulsion system combining wind power with natural gas. The design also includes a … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/06/hhiecotanker.jpg)[Hyundai Heavy Industries](https://english.hhi.co.kr/), in a collaboration with [Lloyd’s Register](https://www.lr.org/en-us/) and [Norsepower](https://www.norsepower.com/), has developed the design of an “Eco-Tanker,” a Very Large Crude Carrier (VLCC) with a unique propulsion system combining wind power with natural gas. The design also includes a volatile organic compound (VOC) recovery system which mixes the VOC with the natural gas as fuel. VOC is naturally-occurring vapor from the cargo tank during operation. Wind-assist propulsion is provided by four Norsepower modern Flettner rotors.

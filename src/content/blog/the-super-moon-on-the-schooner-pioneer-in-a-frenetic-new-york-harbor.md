@@ -1,8 +1,8 @@
 ---
 title: "The Super Moon on the Schooner Pioneer in a Frenetic New York Harbor"
 date: 2014-08-11T18:05:25
-slug: the-super-moon-on-the-schooner-pioneer-in-a-frenetic-new-york-harbor
-excerpt: "Last night, my wife and I took to a two hour sail on the schooner Pioneer to watch the “super moon” rise over New York harbor.   The “super moon,” is in scientific terms referred to as a “perigee moon,” a … Continue reading &rarr;"
+slug: "the-super-moon-on-the-schooner-pioneer-in-a-frenetic-new-york-harbor"
+excerpt: "Last night, my wife and I took to a two hour sail on the schooner Pioneer to watch the \"super moon\" rise over New York harbor.   The \"super moon,\" is in scientific terms referred to as a \"perigee moon,\" a … Continue reading &rarr;"
 categories:
   - "City of Ships"
   - "Current"
@@ -14,7 +14,7 @@ tags:
   - "schooner Pioneer"
   - "Shearwater"
 author: "Rick Spilman"
-description: "Last night, my wife and I took to a two hour sail on the schooner Pioneer to watch the “super moon” rise over New York harbor.   The “super moon,” is in scientific terms referred to as a “perigee moon,” a … Continue reading &rarr;"
+description: "Last night, my wife and I took to a two hour sail on the schooner Pioneer to watch the \"super moon\" rise over New York harbor.   The \"super moon,\" is in scientific terms referred to as a \"perigee moon,\" a … Continue reading &rarr;"
 ---
 
 [!["Supermoon" over the bow of Clipper City.  Click for a larger image.](http://www.oldsaltblog.com/wp-content/uploads/2014/08/clippercitybowmoon-200x112.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2014/08/clippercitybowmoon.jpg)

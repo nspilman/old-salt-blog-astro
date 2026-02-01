@@ -1,7 +1,7 @@
 ---
 title: "Timelapse Cruise Ship Under Construction"
 date: 2015-08-06T16:31:36
-slug: timelapse-cruise-ship-under-construction
+slug: "timelapse-cruise-ship-under-construction"
 excerpt: "A time lapse of the construction of a cruise ship for the German cruise operator AIDA Cruises at the Mitsubishi Heavy Industries (MHI) Nagasaki Shipyard & Machinery Works.
  Continue reading &rarr;"
 categories:

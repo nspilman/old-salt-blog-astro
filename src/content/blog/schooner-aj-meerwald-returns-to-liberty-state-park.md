@@ -1,7 +1,7 @@
 ---
 title: "Schooner AJ Meerwald Returns to Liberty State Park"
 date: 2011-07-01T10:32:57
-slug: schooner-aj-meerwald-returns-to-liberty-state-park
+slug: "schooner-aj-meerwald-returns-to-liberty-state-park"
 excerpt: "New Jersey’s Official  Tall Ship, the A.J. MEERWALD, is returning to New York  harbor.   She is docking at Liberty State Park in Jersey City today and will be staying through July 6th.   The Meerwald will be offering New York harbor … Continue reading &rarr;"
 categories:
   - "Current"

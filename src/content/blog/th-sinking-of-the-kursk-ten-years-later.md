@@ -1,7 +1,7 @@
 ---
 title: "The Sinking of the Kursk – Ten Years Later"
 date: 2010-08-13T13:21:27
-slug: th-sinking-of-the-kursk-ten-years-later
+slug: "th-sinking-of-the-kursk-ten-years-later"
 excerpt: "The Russian Oscar-II class nuclear-powered cruise missile submarine Kursk sank ten years ago yesterday with a loss of all aboard.  One hundred and sixteen crew members and two weapons experts died in what is believed to have been the explosion of a faulty torpedo.  At 154m … Continue reading &rarr;"
 categories:
   - "Current"

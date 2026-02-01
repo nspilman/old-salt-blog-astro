@@ -1,7 +1,7 @@
 ---
 title: "RN Officer Denies Steering Yacht Too Close to Tanker — Really?"
 date: 2013-10-10T08:30:48
-slug: rn-officer-denies-steering-yacht-close-tanker-really
+slug: "rn-officer-denies-steering-yacht-close-tanker-really"
 excerpt: "Two years ago during Cowes Race Week, the skipper of a 33′ sailboat cut across the bow of the 120,000 dwt tanker, Hanne Knutson, traveling down channel.  It did not end well. The boat was dismasted. Fortunately, no one died, … Continue reading &rarr;"
 categories:
   - "Current"

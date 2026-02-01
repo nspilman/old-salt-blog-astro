@@ -1,7 +1,7 @@
 ---
 title: "Three Bitten in Two Shark Attacks on Florida Gulf Coast Within Hours of Each Other"
 date: 2024-06-10T16:14:30
-slug: three-bitten-in-two-shark-attacks-on-florida-gulf-coast-within-hours-of-each-other
+slug: "three-bitten-in-two-shark-attacks-on-florida-gulf-coast-within-hours-of-each-other"
 excerpt: "A woman was attacked by a shark on Friday afternoon while swimming in the Gulf of Mexico near Watersound Beach in Walton County, Florida. The victim, a woman in her 40s, sustained critical injuries on her midsection and left arm, … Continue reading &rarr;"
 categories:
   - "Current"

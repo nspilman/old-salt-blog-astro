@@ -1,7 +1,7 @@
 ---
 title: "The WoodenBoat Show at Mystic Seaport"
 date: 2017-07-01T14:02:33
-slug: woodenboat-show-mystic-seaport
+slug: "woodenboat-show-mystic-seaport"
 excerpt: "A wonderful video promoting the Mystic Seaport Museum‘s Annual WoodenBoat Show, which began yesterday and runs through Sunday, July 2nd. There are more than 100 traditional and classic wooden boats of every type on display on the historic museum waterfront. … Continue reading &rarr;"
 categories:
   - "Current"

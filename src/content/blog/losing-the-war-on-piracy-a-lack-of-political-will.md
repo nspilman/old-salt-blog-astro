@@ -1,7 +1,7 @@
 ---
 title: "Losing the War on Piracy – A Lack of Political Will"
 date: 2011-02-18T18:55:10
-slug: losing-the-war-on-piracy-a-lack-of-political-will
+slug: "losing-the-war-on-piracy-a-lack-of-political-will"
 excerpt: "Last week the  Danish warship Esbern Snare captured a hijacked fishing vessel and freed two Yemeni hostages.  In addition to 16 pirates aboard the ship, the Danes  found rocket launchers, assault rifles, ammunition, large quantities of fuel and two skiffs. … Continue reading &rarr;"
 categories:
   - "Current"

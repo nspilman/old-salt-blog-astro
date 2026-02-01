@@ -1,7 +1,7 @@
 ---
 title: "Waterford, Ireland Welcomes the Tall Ship Racers with a Quayside Festival"
 date: 2011-06-29T09:33:12
-slug: waterford-ireland-welcomes-the-tall-ship-racers-with-a-festival
+slug: "waterford-ireland-welcomes-the-tall-ship-racers-with-a-festival"
 excerpt: "Starting tomorrow, upwards of 50 tall ships will sail up the River Suir and berth along Waterford’s famous quayside, before setting sail for the first leg of the famous Tall Ships Races on Sunday, July 3rd.  During their stay, they … Continue reading &rarr;"
 categories:
   - "Current"

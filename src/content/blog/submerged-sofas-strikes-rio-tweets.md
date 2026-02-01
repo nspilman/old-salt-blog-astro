@@ -1,7 +1,7 @@
 ---
 title: "Submerged Sofa Strikes Again in Rio, Then Tweets About It"
 date: 2016-08-08T13:20:37
-slug: submerged-sofas-strikes-rio-tweets
+slug: "submerged-sofas-strikes-rio-tweets"
 excerpt: "A story for all the Olympic couch-potatoes out there.  A few days ago, Paul Kelso, a Sky news reporter tweeted: Hearing an Olympic kayaker may have capsized after hitting a submerged sofa. Story of day & possibly the week if … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Start to the Finishline — Schooner Virginia"
 date: 2016-12-01T19:27:24
-slug: start-finishline-schooner-virginia
+slug: "start-finishline-schooner-virginia"
 excerpt: "For Throwback-Thursday, here is a video beginning with the construction of the schooner Virginia in 2005 through to the sailing of the Gloucester Schooner race of 2007, which the Virginia won. Start to the Finishline from Mike Goodwin on Vimeo. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

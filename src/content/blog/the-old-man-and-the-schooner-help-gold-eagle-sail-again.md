@@ -1,7 +1,7 @@
 ---
 title: "The Old Man and the Schooner — Help Gold Eagle Sail Again"
 date: 2014-10-29T16:39:25
-slug: the-old-man-and-the-schooner-help-gold-eagle-sail-again
+slug: "the-old-man-and-the-schooner-help-gold-eagle-sail-again"
 excerpt: "Captain Ron Strathman has cruised the Sea of Cortez for the last 6 years in his 1977 wooden schooner Gold Eagle.  Last month, Hurricane Odile slammed into Mexico’s Baja peninsula with reported winds reaching 100 knots.  At least five died in the storm … Continue reading &rarr;"
 categories:
   - "Current"

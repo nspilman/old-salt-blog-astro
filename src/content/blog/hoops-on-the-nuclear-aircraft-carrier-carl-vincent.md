@@ -1,8 +1,8 @@
 ---
 title: "Hoops on the Nuclear Aircraft Carrier Carl Vincent"
 date: 2011-11-11T09:39:25
-slug: hoops-on-the-nuclear-aircraft-carrier-carl-vincent
-excerpt: "Happy Veterans Day. Sadly the “war to end all wars” that ended on the eleventh hour of the eleventh day of the eleventh month of 1918 did not not live up to its billing. Nevertheless, we celebrate the sacrifices made … Continue reading &rarr;"
+slug: "hoops-on-the-nuclear-aircraft-carrier-carl-vincent"
+excerpt: "Happy Veterans Day. Sadly the \"war to end all wars\" that ended on the eleventh hour of the eleventh day of the eleventh month of 1918 did not not live up to its billing. Nevertheless, we celebrate the sacrifices made … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "USS Carl Vincent"
   - "Veterans Day"
 author: "Rick Spilman"
-description: "Happy Veterans Day. Sadly the “war to end all wars” that ended on the eleventh hour of the eleventh day of the eleventh month of 1918 did not not live up to its billing. Nevertheless, we celebrate the sacrifices made … Continue reading &rarr;"
+description: "Happy Veterans Day. Sadly the \"war to end all wars\" that ended on the eleventh hour of the eleventh day of the eleventh month of 1918 did not not live up to its billing. Nevertheless, we celebrate the sacrifices made … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/66005368.jpg)

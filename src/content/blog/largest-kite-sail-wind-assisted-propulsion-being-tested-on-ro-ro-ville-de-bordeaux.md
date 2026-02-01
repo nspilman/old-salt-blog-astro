@@ -1,7 +1,7 @@
 ---
 title: "Largest Kite Sail Wind-Assisted Propulsion Being Tested on Ro/Ro Ville de Bordeaux"
 date: 2021-12-28T17:38:04
-slug: largest-kite-sail-wind-assisted-propulsion-being-tested-on-ro-ro-ville-de-bordeaux
+slug: "largest-kite-sail-wind-assisted-propulsion-being-tested-on-ro-ro-ville-de-bordeaux"
 excerpt: "Kites may be returning to provide wind-assisted propulsion to commercial ships. In January of next year, the 5,200 dwt Ro/Ro Ville de Bordeaux, chartered by Airbus and operated by Louis Dreyfus Armateurs, will begin testing a 500-square-meter half-size demonstration version … Continue reading &rarr;"
 categories:
   - "Current"

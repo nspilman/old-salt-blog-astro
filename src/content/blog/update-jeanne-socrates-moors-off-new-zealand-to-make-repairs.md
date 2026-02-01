@@ -1,7 +1,7 @@
 ---
 title: "Update: Jeanne Socrates Moors Off New Zealand To Make Repairs"
 date: 2019-06-09T09:59:00
-slug: update-jeanne-socrates-moors-off-new-zealand-to-make-repairs
+slug: "update-jeanne-socrates-moors-off-new-zealand-to-make-repairs"
 excerpt: "On May 18th, we posted that singlehander Jeanne Socrates, 76, on her fourth circumnavigation, suffered a knockdown on S/V Nereida off the South Island of New Zealand. Despite the loss of solar panels and damage to the wind generator system, Socrates … Continue reading &rarr;"
 categories:
   - "Current"

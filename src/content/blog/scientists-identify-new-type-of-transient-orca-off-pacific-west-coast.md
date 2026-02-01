@@ -1,7 +1,7 @@
 ---
 title: "Scientists Identify New Type of Transient Orca Off Pacific West Coast"
 date: 2021-10-12T09:30:07
-slug: scientists-identify-new-type-of-transient-orca-off-pacific-west-coast
+slug: "scientists-identify-new-type-of-transient-orca-off-pacific-west-coast"
 excerpt: "Another reminder of how little we know and understand about orca whales. Scientists have identified a new type of orca, also known as killer whales, off the US and Canadian Pacific West Coast. Termed ‘outer coast transient whales,‘ the newly … Continue reading &rarr;"
 categories:
   - "Current"

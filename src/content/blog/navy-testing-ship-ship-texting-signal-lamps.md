@@ -1,7 +1,7 @@
 ---
 title: "Navy Testing Ship to Ship Texting with Signal Lamps"
 date: 2017-07-22T08:40:37
-slug: navy-testing-ship-ship-texting-signal-lamps
+slug: "navy-testing-ship-ship-texting-signal-lamps"
 excerpt: "In 1867, Royal Navy Captain, and later Admiral, Philip Colomb, worked out a system to send signals by a code of dots and dashed using signal lamps. Since then, navies around the world have used only slightly improved versions of signal lamps … Continue reading &rarr;"
 categories:
   - "Current"

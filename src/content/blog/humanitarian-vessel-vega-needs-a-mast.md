@@ -1,7 +1,7 @@
 ---
 title: "Humanitarian Vessel Vega Needs a Mast!"
 date: 2014-01-26T12:03:48
-slug: humanitarian-vessel-vega-needs-a-mast
+slug: "humanitarian-vessel-vega-needs-a-mast"
 excerpt: "The Vega desperately needs a mizzen mast. Specifically, they are looking for a fir or spruce to shape the 10m x 26cm mast and a shipping company able to transport the wood from either Brisbane, Australia, or Vancouver, Canada, to Singapore.  If they … Continue reading &rarr;"
 categories:
   - "Current"

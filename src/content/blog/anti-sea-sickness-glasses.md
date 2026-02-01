@@ -1,8 +1,8 @@
 ---
 title: "Anti-Sea Sickness Glasses?"
 date: 2017-04-17T09:10:38
-slug: anti-sea-sickness-glasses
-excerpt: "Charles Darwin once wrote, “If it was not for sea-sickness, the whole world would be sailors.” Some of us are more susceptible to mal de mer than others. Apparently, Darwin was very prone to sea sickness. From my own experience, I … Continue reading &rarr;"
+slug: "anti-sea-sickness-glasses"
+excerpt: "Charles Darwin once wrote, \"If it was not for sea-sickness, the whole world would be sailors.\" Some of us are more susceptible to mal de mer than others. Apparently, Darwin was very prone to sea sickness. From my own experience, I … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "sea sickness"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/04/brg200.jpg"
 author: "Rick Spilman"
-description: "Charles Darwin once wrote, “If it was not for sea-sickness, the whole world would be sailors.” Some of us are more susceptible to mal de mer than others. Apparently, Darwin was very prone to sea sickness. From my own experience, I … Continue reading &rarr;"
+description: "Charles Darwin once wrote, \"If it was not for sea-sickness, the whole world would be sailors.\" Some of us are more susceptible to mal de mer than others. Apparently, Darwin was very prone to sea sickness. From my own experience, I … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/04/brg2.jpg)Charles Darwin once wrote, “If it was not for sea-sickness, the whole world would be sailors.” Some of us are more susceptible to mal de mer than others. Apparently, Darwin was very prone to [sea sickness](https://www.theatlantic.com/health/archive/2015/02/the-mysterious-science-of-motion-sickness/385469/). From my own experience, I am fairly lucky, falling somewhere about the middle of the misery spectrum — neither quite immune nor wholly incapacitated by sea sickness. In a few weeks, I will be setting off an a five day delivery trip on my new/old boat with a new crew, so I will be sure that we have all the standard anti-sea-sickness “remedies” — a stock of saltine crackers, apples, ginger-ale and, if need be, Bonine. Often the best defense against motion sickness is just keeping an eye on the horizon. I wonder, however, if I am being too old-school in my approach. Perhaps, we should consider anti-sea sickness googles and glasses.

@@ -1,7 +1,7 @@
 ---
 title: "Public Auction in Hawaii Fails — No Successful Bids on Falls of Clyde"
 date: 2019-03-01T11:31:22
-slug: no-successful-bids-on-falls-of-clyde-at-public-auction-in-hawaii
+slug: "no-successful-bids-on-falls-of-clyde-at-public-auction-in-hawaii"
 excerpt: "Earlier this month we posted that the State of Hawaii Department of Transportation (HDOT) Harbors Division had filed a public notification that the historic windjammer, Falls of Clyde, was being offered for sale by auction. The auction ended yesterday with no successful … Continue reading &rarr;"
 categories:
   - "Current"

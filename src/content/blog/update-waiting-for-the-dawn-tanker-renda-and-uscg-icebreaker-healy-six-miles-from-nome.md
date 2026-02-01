@@ -1,7 +1,7 @@
 ---
 title: "Update: Waiting for the Dawn – Tanker Renda and USCG Icebreaker Healy Six Miles From Nome"
 date: 2012-01-13T09:57:00
-slug: update-waiting-for-the-dawn-tanker-renda-and-uscg-icebreaker-healy-six-miles-from-nome
+slug: "update-waiting-for-the-dawn-tanker-renda-and-uscg-icebreaker-healy-six-miles-from-nome"
 excerpt: "The Russian tanker Renda, carrying 1.3 million gallons of emergency fuel, escorted by the USCG icebreaker Healy are within 6 NM of Nome, Alaska  on Friday morning.  They are waiting for sunrise before advancing closer. Daylight will make moving though the ice safer and will help to … Continue reading &rarr;"
 categories:
   - "Current"

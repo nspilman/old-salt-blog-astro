@@ -1,8 +1,8 @@
 ---
 title: "Cruising on Foils? Gunboat’s New G4 Flying Cruiser"
 date: 2014-12-02T19:13:28
-slug: cruising-on-foils-gunboats-new-g4-flying-cruiser
-excerpt: "Very interesting news. Gunboat, builder of high-end racing/cruising catamarans, has promised the G4, a new all carbon fiber 40 foot long catamaran, in early 2015.  The drawings and video have shown C-foil daggerboards and T-foil rudders. C-foils allow “foil-assisted” sailing. The C-foils … Continue reading &rarr;"
+slug: "cruising-on-foils-gunboats-new-g4-flying-cruiser"
+excerpt: "Very interesting news. Gunboat, builder of high-end racing/cruising catamarans, has promised the G4, a new all carbon fiber 40 foot long catamaran, in early 2015.  The drawings and video have shown C-foil daggerboards and T-foil rudders. C-foils allow \"foil-assisted\" sailing. The C-foils … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

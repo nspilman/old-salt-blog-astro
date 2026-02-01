@@ -1,7 +1,7 @@
 ---
 title: "The Mysteries of the Octopus"
 date: 2020-01-12T17:08:07
-slug: the-mysteries-of-the-octopus
+slug: "the-mysteries-of-the-octopus"
 excerpt: "This morning’s CBS Sunday Morning news program had an intriguing featuring the octopus, in particular, and cephalopods, in general. Both unworldly and highly intelligent they are as close to alien life forms as one can find on the planet. CBS’s … Continue reading &rarr;"
 categories:
   - "Current"

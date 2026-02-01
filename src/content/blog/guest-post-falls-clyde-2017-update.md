@@ -1,7 +1,7 @@
 ---
 title: "Guest Post : Falls of Clyde –  2017 Update"
 date: 2017-07-03T09:21:11
-slug: guest-post-falls-clyde-2017-update
+slug: "guest-post-falls-clyde-2017-update"
 excerpt: "A guest post by Susan Yamamoto from her new and wonderful blog, Maritime Hawai‘i, on the latest developments to help save the four masted sailing ship, Falls of Clyde.   David O’Neill is leading the ‎Save The Tall Ship Falls of … Continue reading &rarr;"
 categories:
   - "Current"

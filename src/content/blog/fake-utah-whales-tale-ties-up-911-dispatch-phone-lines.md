@@ -1,8 +1,8 @@
 ---
 title: "Fake Utah Whale’s Tale Ties Up 911 Dispatch Phone Lines"
 date: 2014-12-13T08:04:19
-slug: fake-utah-whales-tale-ties-up-911-dispatch-phone-lines
-excerpt: "Another case of “I read it on the internet so it must be true.” The Internet spoof site, World News Daily Report posted “Mysterious Remains of A Whale Found in a Field in Utah” in which it claims dairy farmer, … Continue reading &rarr;"
+slug: "fake-utah-whales-tale-ties-up-911-dispatch-phone-lines"
+excerpt: "Another case of \"I read it on the internet so it must be true.\" The Internet spoof site, World News Daily Report posted \"Mysterious Remains of A Whale Found in a Field in Utah\" in which it claims dairy farmer, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

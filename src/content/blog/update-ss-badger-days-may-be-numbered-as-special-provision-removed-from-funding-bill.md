@@ -1,7 +1,7 @@
 ---
 title: "Update: SS Badger – Days May Be Numbered as Special Provision Removed from Funding Bill"
 date: 2012-12-12T18:57:32
-slug: update-ss-badger-days-may-be-numbered-as-special-provision-removed-from-funding-bill
+slug: "update-ss-badger-days-may-be-numbered-as-special-provision-removed-from-funding-bill"
 excerpt: "We recently posted about the SS Badger, a 410-foot long coal-fired passenger and vehicle ferry operating in Lake Michigan and the last coal-fired passenger vessel operating on the Great Lakes. Her supporters call her a national treasure, while to her … Continue reading &rarr;"
 categories:
   - "Current"

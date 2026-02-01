@@ -1,7 +1,7 @@
 ---
 title: "Drone Capture of First Ever Video of Newborn Great White Shark?"
 date: 2024-01-29T19:19:12
-slug: drone-capture-of-first-video-of-newborn-great-white-shark
+slug: "drone-capture-of-first-video-of-newborn-great-white-shark"
 excerpt: "Carlos Gauna is a filmmaker and professional photographer based in Southern California who has shot an impressive portfolio of drone videos of sharks for his YouTube channel TheMalibuArtist. On July 9, 2023, Carlos captured some truly remarkable video and photos … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "No, Offshore Wind Farms Are Not Harming Whales, But Risks Remain"
 date: 2024-05-30T22:07:24
-slug: no-offshore-wind-farms-are-not-harming-whales-but-risks-remain
-excerpt: "A recent article in the journal Oceanus, hosted by the Woods Hole Oceanographic Institution (WHOI), raises the question, “Are offshore wind farms harming whales?” The short answer is “no.” They write: A collection of seemingly grass-roots organizations claim that offshore … Continue reading &rarr;"
+slug: "no-offshore-wind-farms-are-not-harming-whales-but-risks-remain"
+excerpt: "A recent article in the journal Oceanus, hosted by the Woods Hole Oceanographic Institution (WHOI), raises the question, \"Are offshore wind farms harming whales?\" The short answer is \"no.\" They write: A collection of seemingly grass-roots organizations claim that offshore … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -20,7 +20,7 @@ tags:
   - "Woods Hole Oceanographic Institution"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/01/atlanticcityhumpback.jpg"
 author: "Rick Spilman"
-description: "A recent article in the journal Oceanus, hosted by the Woods Hole Oceanographic Institution (WHOI), raises the question, “Are offshore wind farms harming whales?” The short answer is “no.” They write: A collection of seemingly grass-roots organizations claim that offshore … Continue reading &rarr;"
+description: "A recent article in the journal Oceanus, hosted by the Woods Hole Oceanographic Institution (WHOI), raises the question, \"Are offshore wind farms harming whales?\" The short answer is \"no.\" They write: A collection of seemingly grass-roots organizations claim that offshore … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/01/atlanticcityhumpback.jpg)A recent article in the journal [Oceanus](https://www.whoi.edu/oceanus/), hosted by the [Woods Hole Oceanographic Institution](https://www.whoi.edu/) (WHOI), raises the question, “[Are offshore wind farms harming whales?”](https://www.whoi.edu/oceanus/feature/are-offshore-wind-farms-harming-right-whales/)

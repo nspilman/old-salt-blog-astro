@@ -1,7 +1,7 @@
 ---
 title: "No Joke — SNL Comedians Buy Staten Island Ferry"
 date: 2022-01-22T18:54:58
-slug: no-joke-snl-comedians-buy-staten-island-ferry
+slug: "no-joke-snl-comedians-buy-staten-island-ferry"
 excerpt: "It sounds like the setup to a joke or a late-night skit — two comedians from NBC’s Saturday Night Live, Pete Davidson and Colin Jost, along with comedy club owner Paul Italia, just bought a decommissioned Staten Island Ferry boat. … Continue reading &rarr;"
 categories:
   - "Current"

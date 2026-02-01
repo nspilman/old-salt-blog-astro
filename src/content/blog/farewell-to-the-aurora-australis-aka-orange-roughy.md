@@ -1,7 +1,7 @@
 ---
 title: "Farewell to the Aurora Australis, AKA Orange Roughy"
 date: 2020-10-18T17:10:14
-slug: farewell-to-the-aurora-australis-aka-orange-roughy
+slug: "farewell-to-the-aurora-australis-aka-orange-roughy"
 excerpt: "Australia’s only home-built icebreaker will soon leave their shores. The icebreaker Aurora Australis, affectionately nicknamed Orange Roughy, is ending her more than thirty-year career serving Australia. Launched at Carrington Slipways in New South Wales in 1989, the ship helped Australia … Continue reading &rarr;"
 categories:
   - "Current"

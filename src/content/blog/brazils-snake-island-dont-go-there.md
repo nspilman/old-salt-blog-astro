@@ -1,7 +1,7 @@
 ---
 title: "Brazil’s Snake Island  — Don’t Go There"
 date: 2015-11-06T18:50:48
-slug: brazils-snake-island-dont-go-there
+slug: "brazils-snake-island-dont-go-there"
 excerpt: "Queimada Grande is a Brazilian island in the Atlantic Ocean roughly 90 miles from São Paulo. It is off limits to most visitors, not because it harbors secrets or treasure, but rather because it has more snakes, between one and … Continue reading &rarr;"
 categories:
   - "Current"

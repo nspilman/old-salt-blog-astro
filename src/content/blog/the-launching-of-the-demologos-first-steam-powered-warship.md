@@ -1,7 +1,7 @@
 ---
 title: "The Launching of the Demologos, First Steam Powered Warship"
 date: 2020-10-30T10:30:46
-slug: the-launching-of-the-demologos-first-steam-powered-warship
+slug: "the-launching-of-the-demologos-first-steam-powered-warship"
 excerpt: "On October 29, 1815, 205 years ago yesterday, the Demologos, the first steam-powered warship, was launched from Adam and Noah Brown‘s shipyard on New York’s East River. It was a steam-powered floating battery designed by steamboat pioneer Robert Fulton to … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "The Herreshoff Legacy"
 date: 2015-10-11T10:00:13
-slug: the-herreshoff-legacy
+slug: "the-herreshoff-legacy"
 excerpt: "For the next five days, we will be posting about the amazing legacy of the Herreshoff family on American yacht design and construction. Today we begin with the restoration of the yacht Doris, the first yacht built to the Universal … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

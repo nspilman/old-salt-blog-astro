@@ -1,7 +1,7 @@
 ---
 title: "Heritage Wins Honors in Maine’s 42nd Annual Great Schooner Race"
 date: 2018-07-09T15:45:49
-slug: heritage-wins-honors-in-maines-42nd-annual-great-schooner-race
+slug: "heritage-wins-honors-in-maines-42nd-annual-great-schooner-race"
 excerpt: "On July 6th, 11 schooners raced from Gilkey Harbor in Islesboro, Maine on Penobscot Bay to the finish line at the Rockland Breakwater Lighthouse in the 42nd Annual Great Schooner Race, sponsored by the Maine Windjammer Association.  The race honors, as reported … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

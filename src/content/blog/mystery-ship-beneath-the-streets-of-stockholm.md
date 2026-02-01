@@ -1,7 +1,7 @@
 ---
 title: "Mystery Ship Beneath the Streets of Stockholm"
 date: 2010-11-28T07:36:54
-slug: mystery-ship-beneath-the-streets-of-stockholm
+slug: "mystery-ship-beneath-the-streets-of-stockholm"
 excerpt: "This summer we posted about an 18th century ship found buried beneath the streets of Manhattan near Ground Zero.  Recently,  while excavating in front of Stockholm’s Grand Hotel during renovation work to a nearby quay, workers discovered a most unusual ship. … Continue reading &rarr;"
 categories:
   - "Current"

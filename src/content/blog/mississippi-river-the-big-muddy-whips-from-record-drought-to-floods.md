@@ -1,7 +1,7 @@
 ---
 title: "Mississippi River – the Big Muddy Whips From Record Drought to Floods"
 date: 2013-04-23T08:46:48
-slug: mississippi-river-the-big-muddy-whips-from-record-drought-to-floods
+slug: "mississippi-river-the-big-muddy-whips-from-record-drought-to-floods"
 excerpt: "A few months ago, the Mississippi River was showing the effects of a near record drought. There was talk in December of shutting down barge traffic on key sections of the river due to the low water levels. In January, … Continue reading &rarr;"
 categories:
   - "Current"

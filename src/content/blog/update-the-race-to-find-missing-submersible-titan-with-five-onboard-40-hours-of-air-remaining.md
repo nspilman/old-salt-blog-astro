@@ -1,7 +1,7 @@
 ---
 title: "Update: the Race to Find Missing Submersible Titan With Five Onboard — 40 Hours of Air Remaining"
 date: 2023-06-20T15:43:54
-slug: update-the-race-to-find-missing-submersible-titan-with-five-onboard-40-hours-of-air-remaining
+slug: "update-the-race-to-find-missing-submersible-titan-with-five-onboard-40-hours-of-air-remaining"
 excerpt: "The US Coast Guard is racing against time to locate and rescue a submersible with five people onboard that went missing on Sunday morning in the North Atlantic while attempting to dive on the wreck of the Titanic. The area … Continue reading &rarr;"
 categories:
   - "Current"

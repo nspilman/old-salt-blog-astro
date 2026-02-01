@@ -1,7 +1,7 @@
 ---
 title: "Spanish Divers Find Wreck of World War II Submarine U-966"
 date: 2018-07-07T16:38:07
-slug: spanish-divers-find-wreck-of-world-war-ii-submarine-u-966
+slug: "spanish-divers-find-wreck-of-world-war-ii-submarine-u-966"
 excerpt: "In June, three Spanish divers located the wreck of the German World War II submarine U-966 near the coast of Galicia in north-west Spain. The BBC reports that the submarine’s wreckage is spread widely in a very rocky area where rough weather often makes diving … Continue reading &rarr;"
 categories:
   - "Current"

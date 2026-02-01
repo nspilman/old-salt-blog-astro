@@ -1,7 +1,7 @@
 ---
 title: "Brad Van Liew Arriving Charleston Today, Winning Fourth Leg of Velux Five Oceans"
 date: 2011-04-19T10:59:54
-slug: brad-van-liew-arriving-charleston-today-winning-fourth-leg-of-velux-five-oceans
+slug: "brad-van-liew-arriving-charleston-today-winning-fourth-leg-of-velux-five-oceans"
 excerpt: "Brad Van Liew sailing  Le Pingouin is expected to cross the finish line in Charleston, SC, his adopted home town, some time today, continuing to dominate the Velux Five Oceans singlehanded around the world race.  Thus far, he has won all four legs of the around the world race thus far. … Continue reading &rarr;"
 categories:
   - "Current"

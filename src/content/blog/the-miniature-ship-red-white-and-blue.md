@@ -1,8 +1,8 @@
 ---
 title: "The Miniature Ship Red, White, and Blue"
 date: 2013-12-23T09:05:58
-slug: the-miniature-ship-red-white-and-blue
-excerpt: "On July 9, 1866, Captains Hudson and Fitch with their dog, Fanny, sailed from New York in  a three masted full-rigged 26 foot long boat named “Red, White, and Blue.” They arrived in Margate in in East Kent, UK on August … Continue reading &rarr;"
+slug: "the-miniature-ship-red-white-and-blue"
+excerpt: "On July 9, 1866, Captains Hudson and Fitch with their dog, Fanny, sailed from New York in  a three masted full-rigged 26 foot long boat named \"Red, White, and Blue.\" They arrived in Margate in in East Kent, UK on August … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "Red"
   - "White"
 author: "Rick Spilman"
-description: "On July 9, 1866, Captains Hudson and Fitch with their dog, Fanny, sailed from New York in  a three masted full-rigged 26 foot long boat named “Red, White, and Blue.” They arrived in Margate in in East Kent, UK on August … Continue reading &rarr;"
+description: "On July 9, 1866, Captains Hudson and Fitch with their dog, Fanny, sailed from New York in  a three masted full-rigged 26 foot long boat named \"Red, White, and Blue.\" They arrived in Margate in in East Kent, UK on August … Continue reading &rarr;"
 ---
 
 ![2004-D03-120](http://www.oldsaltblog.com/wp-content/uploads/2013/12/2004-D03-120.jpg)On July 9, 1866, Captains Hudson and Fitch with their dog, Fanny, sailed from New York in  a three masted full-rigged 26 foot long boat named “Red, White, and Blue.” They arrived in Margate in in East Kent, UK on August 16th.  While the rigging was conventional, if diminutive,  “Red, White, and Blue’s” hull was a galvanized metal lifeboat. The trip was intended to publicize a new metal lifeboat design by New York boat builder, O.K. Ingersoll.  The words “Ingersoll’s Improved Metallic Life Boat” were written on both sides of the hull.

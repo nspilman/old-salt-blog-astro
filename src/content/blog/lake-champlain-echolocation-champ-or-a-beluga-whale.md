@@ -1,7 +1,7 @@
 ---
 title: "Lake Champlain Echolocation — Champ or a Beluga Whale?"
 date: 2014-11-06T17:02:29
-slug: lake-champlain-echolocation-champ-or-a-beluga-whale
+slug: "lake-champlain-echolocation-champ-or-a-beluga-whale"
 excerpt: "In Lake Champlain this summer, on July 31, near Scotch Bonnet, cryptozoology enthusiasts Katy Elizabeth and Dennis Hall recorded underwater audio which sounds remarkably like echolocation of a marine mammal. They say that it sounds like a beluga whale. Beluga … Continue reading &rarr;"
 categories:
   - "Current"

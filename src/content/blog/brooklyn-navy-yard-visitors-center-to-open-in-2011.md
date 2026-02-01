@@ -1,7 +1,7 @@
 ---
 title: "Brooklyn Navy Yard Visitors Center to Open in 2011"
 date: 2010-10-18T12:50:40
-slug: brooklyn-navy-yard-visitors-center-to-open-in-2011
+slug: "brooklyn-navy-yard-visitors-center-to-open-in-2011"
 excerpt: "The Brooklyn Navy Yard, in New York on the East River in Wallabout Basin,  has always seemed to me to be equal parts working industrial park, living museum, and ghost town.   The land was purchased by the Federal government in 1801 … Continue reading &rarr;"
 categories:
   - "Current"

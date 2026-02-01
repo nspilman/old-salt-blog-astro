@@ -1,8 +1,8 @@
 ---
 title: "New Owner Sought for Cruiser Olympia"
 date: 2011-03-08T09:04:34
-slug: new-owner-sought-for-cruiser-olympia
-excerpt: "Yesterday the Independence Seaport Museum posted a “NOTICE OF AVAILABILITY OF TRANSFER APPLICATION PROCESS FOR CRUISER, OLYMPIA” to formally begin the process of seeking a new owner for the historic cruiser launched in 1892.  From the notice: The Olympia, Admiral Dewey’s flagship and … Continue reading &rarr;"
+slug: "new-owner-sought-for-cruiser-olympia"
+excerpt: "Yesterday the Independence Seaport Museum posted a \"NOTICE OF AVAILABILITY OF TRANSFER APPLICATION PROCESS FOR CRUISER, OLYMPIA\" to formally begin the process of seeking a new owner for the historic cruiser launched in 1892.  From the notice: The Olympia, Admiral Dewey’s flagship and … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Independence Seaport Museum"
   - "Olympia"
 author: "Rick Spilman"
-description: "Yesterday the Independence Seaport Museum posted a “NOTICE OF AVAILABILITY OF TRANSFER APPLICATION PROCESS FOR CRUISER, OLYMPIA” to formally begin the process of seeking a new owner for the historic cruiser launched in 1892.  From the notice: The Olympia, Admiral Dewey’s flagship and … Continue reading &rarr;"
+description: "Yesterday the Independence Seaport Museum posted a \"NOTICE OF AVAILABILITY OF TRANSFER APPLICATION PROCESS FOR CRUISER, OLYMPIA\" to formally begin the process of seeking a new owner for the historic cruiser launched in 1892.  From the notice: The Olympia, Admiral Dewey’s flagship and … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/olympia2e.jpg)Yesterday the [Independence Seaport Museum](http://www.phillyseaport.org/) posted a “[NOTICE OF AVAILABILITY OF TRANSFER APPLICATION PROCESS FOR CRUISER, OLYMPIA](http://www.phillyseaport.org/olympia_transfer/wp-content/uploads/2011/02/press_release.pdf)” to formally begin the process of seeking a new owner for the historic cruiser launched in 1892.  From the notice:

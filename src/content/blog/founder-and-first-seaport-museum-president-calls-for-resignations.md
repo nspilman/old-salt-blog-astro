@@ -1,7 +1,7 @@
 ---
 title: "Founder and First Seaport Museum President Calls for Resignations"
 date: 2011-02-25T10:44:44
-slug: founder-and-first-seaport-museum-president-calls-for-resignations
+slug: "founder-and-first-seaport-museum-president-calls-for-resignations"
 excerpt: "Peter Stanford, a founder and first president of the South Street Seaport Museum has written a letter calling for the resignation of the museum’s current chairman, Frank J. Sciame,  and its president, Mary Pelzer.  The museum recently laid of most of its … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "First Tsunami Flotsam Arrives on West Coast  & Perfect Storm Flotsam Discovery in Ireland"
 date: 2011-12-15T12:43:00
-slug: first-tsunami-flotsam-arrives-on-west-coast-perfect-storm-flotsam-discovery-in-ireland
+slug: "first-tsunami-flotsam-arrives-on-west-coast-perfect-storm-flotsam-discovery-in-ireland"
 excerpt: "Two stories about flotsam and ocean currents. The first flotsam from the earthquake and tsunami, which struck Japan on March 11, is beginning to arrive on the West Coast of the United States. A large black float, believed to have floated from Japan, was … Continue reading &rarr;"
 categories:
   - "Current"

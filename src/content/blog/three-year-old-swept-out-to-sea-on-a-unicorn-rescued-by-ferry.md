@@ -1,7 +1,7 @@
 ---
 title: "Three Year Old Swept Out to Sea on a Unicorn, Rescued by Ferry"
 date: 2020-08-31T11:44:19
-slug: three-year-old-swept-out-to-sea-on-a-unicorn-rescued-by-ferry
+slug: "three-year-old-swept-out-to-sea-on-a-unicorn-rescued-by-ferry"
 excerpt: "This seems like a suitable post for an overcast Monday morning. In the town of Antirrio in southern Greece, a three-year-old girl climbed aboard a unicorn at the beach. The unicorn’s wings caught the wind and soon the little girl … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
-title: "Penguin on “Field Trip” Meets Beluga Whales"
+title: "Penguin on \"Field Trip\" Meets Beluga Whales"
 date: 2020-04-08T16:56:08
-slug: penguin-on-field-trip-meets-beluga-whales
+slug: "penguin-on-field-trip-meets-beluga-whales"
 excerpt: "And now, for something completely different. While Chicago’s Shedd Aquarium has been closed to visitors, the aquarium has allowed its penguins to take ‘field trips’ inside the facility. Here is a short video of Wellington, a rockhopper penguin, coming face … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Update: XO Movie Night on the Enterprise – the Admiral’s Report"
 date: 2011-03-06T18:00:14
-slug: update-xo-movie-night-on-the-enterprise
+slug: "update-xo-movie-night-on-the-enterprise"
 excerpt: "On Thursday Adm. John C. Harvey Jr., the head of Fleet Forces Command, announced the results of the investigation of the aircraft carrier Enterprise videos and recommended punishment for 40 officers and senior enlisted sailors. Lewd Navy Video Report Lewd Navy Videos … Continue reading &rarr;"
 categories:
   - "Current"

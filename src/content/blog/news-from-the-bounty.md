@@ -1,8 +1,8 @@
 ---
 title: "News from the Bounty"
 date: 2011-11-11T15:31:04
-slug: news-from-the-bounty
-excerpt: "“HMS” Bounty, the replica of the ship of the mutiny fame, built for the Marlon Brando movie of 1965, is on her way home from her European Summer cruise.  Doug Faunt, with whom I briefly sailed on the Rose, has been … Continue reading &rarr;"
+slug: "news-from-the-bounty"
+excerpt: "\"HMS\" Bounty, the replica of the ship of the mutiny fame, built for the Marlon Brando movie of 1965, is on her way home from her European Summer cruise.  Doug Faunt, with whom I briefly sailed on the Rose, has been … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Doug Faunt"
   - "HMS Bounty"
 author: "Rick Spilman"
-description: "“HMS” Bounty, the replica of the ship of the mutiny fame, built for the Marlon Brando movie of 1965, is on her way home from her European Summer cruise.  Doug Faunt, with whom I briefly sailed on the Rose, has been … Continue reading &rarr;"
+description: "\"HMS\" Bounty, the replica of the ship of the mutiny fame, built for the Marlon Brando movie of 1965, is on her way home from her European Summer cruise.  Doug Faunt, with whom I briefly sailed on the Rose, has been … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/bbird.jpg)](http://www.tallshipbounty.org/)

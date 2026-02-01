@@ -1,7 +1,7 @@
 ---
 title: "After 1,152 Days at Sea, Reid Stowe Returns on the Schooner Anne"
 date: 2010-06-16T17:35:30
-slug: after-1151-days-at-sea-reid-stowe-returns-on-the-schooner-anne
+slug: "after-1151-days-at-sea-reid-stowe-returns-on-the-schooner-anne"
 excerpt: "On April 21, 2007,  Reid Stowe sailed from the Hudson River on the schooner Anne. His goal was to stay at sea for 1,000 days without touching a port or being resupplied.   It would be the the longest sea … Continue reading &rarr;"
 categories:
   - "Current"

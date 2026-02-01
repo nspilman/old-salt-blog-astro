@@ -1,7 +1,7 @@
 ---
 title: "Fighting Red Tide By Spraying a Clay Slurry"
 date: 2021-07-26T10:25:28
-slug: fighting-red-tide-by-spraying-a-clay-slurry
+slug: "fighting-red-tide-by-spraying-a-clay-slurry"
 excerpt: "We recently posted about the latest round of red tide to hit the Gulf Coast of Florida. Florida red tide is caused by the blooming of the dinoflagellate Karenia brevis. K. brevis produces neurotoxins that can cause respiratory problems in … Continue reading &rarr;"
 categories:
   - "Current"

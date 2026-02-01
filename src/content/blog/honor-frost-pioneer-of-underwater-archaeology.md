@@ -1,7 +1,7 @@
 ---
 title: "Honor Frost – Pioneer of Underwater Archaeology"
 date: 2010-10-27T21:34:20
-slug: honor-frost-pioneer-of-underwater-archaeology
+slug: "honor-frost-pioneer-of-underwater-archaeology"
 excerpt: "Honor Frost had many talents – as artist, ballet designer, scholar, writer and publicist, to name a few – but her consuming passion was the world beneath the oceans. Honor, who has died aged 92, initiated underwater archaeology as a … Continue reading &rarr;"
 categories:
   - "Current"

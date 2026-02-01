@@ -1,7 +1,7 @@
 ---
 title: "Google Spotlight Stories: Age of Sail"
 date: 2019-07-27T09:33:02
-slug: google-spotlight-stories-age-of-sail
+slug: "google-spotlight-stories-age-of-sail"
 excerpt: "Here is a visually stunning twelve-minute animation, Age of Sail by Google Spotlight Stories. The story itself is a bit anemic, but the visuals largely make up for it.  The producers describe the video as follows: Set on the open … Continue reading &rarr;"
 categories:
   - "Current"

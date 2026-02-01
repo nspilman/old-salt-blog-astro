@@ -1,7 +1,7 @@
 ---
 title: "Three Years Later, Raising the Sewol Ferry — the Tragedy Which Helped Bring Down Korea’s President"
 date: 2017-03-26T13:07:27
-slug: three-years-later-raising-sewol-ferry-tragedy-helped-bring-koreas-president
+slug: "three-years-later-raising-sewol-ferry-tragedy-helped-bring-koreas-president"
 excerpt: "On April 16, 2014, the cargo/passenger ferry Sewol capsized off the southwestern coast of Korea. Of the 476 passengers and crew aboard, 304 died, the majority of which were high school students on a school field trip. Now, almost three … Continue reading &rarr;"
 categories:
   - "Current"

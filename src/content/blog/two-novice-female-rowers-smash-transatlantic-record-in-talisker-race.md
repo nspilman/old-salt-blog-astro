@@ -1,7 +1,7 @@
 ---
 title: "Two Novice Female Rowers Smash Transatlantic Record in Talisker Race"
 date: 2022-02-03T18:06:18
-slug: two-novice-female-rowers-smash-transatlantic-record-in-talisker-race
+slug: "two-novice-female-rowers-smash-transatlantic-record-in-talisker-race"
 excerpt: "Congratulations to rowers Jessica Oliver and Charlotte Harris who finished five days ahead of their nearest rivals in the pairs category of the Talisker Whisky Atlantic Challenge when they rowed into Antigua on January 26 after starting from La Gomera … Continue reading &rarr;"
 categories:
   - "Current"

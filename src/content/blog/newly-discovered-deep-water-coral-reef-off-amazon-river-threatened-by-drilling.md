@@ -1,7 +1,7 @@
 ---
 title: "Newly Discovered Deep Water Coral Reef off Amazon River Threatened by Drilling"
 date: 2017-02-05T18:57:33
-slug: newly-discovered-deep-water-coral-reef-off-amazon-river-threatened-by-drilling
+slug: "newly-discovered-deep-water-coral-reef-off-amazon-river-threatened-by-drilling"
 excerpt: "A 3,600 sq mile (9,300 sq km) coral reef has been discovered off the mouth of the Amazon River. Stretching for over 600 miles, from French Guiana to Brazil’s Maranhão state, the reef is in water from 160 to over 320 … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "One Hundred and Fifty Years Ago – William Tillman and the Privateer Jefferson Davis"
 date: 2011-07-10T17:54:51
-slug: one-hundred-and-fifty-years-ago-william-tillman-and-the-privateer-jefferson-davis
+slug: "one-hundred-and-fifty-years-ago-william-tillman-and-the-privateer-jefferson-davis"
 excerpt: "William Tillman was the first black hero of the American Civil War. He was not a soldier but rather a 27-year-old  cook/steward on the schooner S.J. Waring.  One hundred and fifty years ago last Thursday, the schooner was captured by … Continue reading &rarr;"
 categories:
   - "Current"

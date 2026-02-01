@@ -1,8 +1,8 @@
 ---
 title: "China Building Fleet of ‘Invasion Barges’ Suitable For Taiwan Landings"
 date: 2025-03-14T18:00:45
-slug: china-building-fleet-of-invasion-barges-suitable-for-taiwan-landings
-excerpt: "Many have dismissed Chinese threats to invade Taiwan as saber-rattling. Recent imagery, however, suggests that the risk of invasion is very real.  The images show that the Chinese are building a fleet of “invasion barges” apparently designed to facilitate an … Continue reading &rarr;"
+slug: "china-building-fleet-of-invasion-barges-suitable-for-taiwan-landings"
+excerpt: "Many have dismissed Chinese threats to invade Taiwan as saber-rattling. Recent imagery, however, suggests that the risk of invasion is very real.  The images show that the Chinese are building a fleet of \"invasion barges\" apparently designed to facilitate an … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Taiwan"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/03/chineseinvasionbarge-2.jpg"
 author: "Rick Spilman"
-description: "Many have dismissed Chinese threats to invade Taiwan as saber-rattling. Recent imagery, however, suggests that the risk of invasion is very real.  The images show that the Chinese are building a fleet of “invasion barges” apparently designed to facilitate an … Continue reading &rarr;"
+description: "Many have dismissed Chinese threats to invade Taiwan as saber-rattling. Recent imagery, however, suggests that the risk of invasion is very real.  The images show that the Chinese are building a fleet of \"invasion barges\" apparently designed to facilitate an … Continue reading &rarr;"
 ---
 
 ![](https://www.oldsaltblog.com/wp-content/uploads/2025/03/chineseinvasionbarge-2.jpg)Many have dismissed [Chinese threats to invade Taiwan as saber-rattling.](https://asiatimes.com/2024/01/xis-taiwan-saber-rattling-all-about-self-preservation/#) Recent imagery, however, suggests that the risk of invasion is very real.  The images show that the Chinese are building [a fleet of “invasion barges”](http://www.hisutton.com/Chinese-Invasion-Barge-OSINT.html) apparently designed to facilitate an amphibious assault on Taiwan. The self-propelled barges, built in several sizes and configurations, feature jack-up cylinder legs and long “[Bailey Bridge](https://en.wikipedia.org/wiki/Bailey_bridge)” style bow ramps.

@@ -1,7 +1,7 @@
 ---
 title: "About The Shantyman, a New Novel by Rick Spilman"
 date: 2015-02-04T17:40:55
-slug: about-the-shantyman-a-new-novel-by-rick-spilman
+slug: "about-the-shantyman-a-new-novel-by-rick-spilman"
 excerpt: "My new novel, The Shantyman, is now available as a Kindle ebook and will soon be available in print.  The book is based on the true story of a most unusual shantyman with a troubled past. Many years ago, I read Frederick … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

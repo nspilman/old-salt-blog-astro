@@ -1,7 +1,7 @@
 ---
 title: "Standoff in the South China Sea – Philippine and Chinese Ships Face-off at Scarborough Shoal"
 date: 2012-04-12T10:57:01
-slug: standoff-in-the-south-china-sea-philippine-and-chinese-ships-face-off-at-scarborough-shoal
+slug: "standoff-in-the-south-china-sea-philippine-and-chinese-ships-face-off-at-scarborough-shoal"
 excerpt: "The South China Sea is home to a myriad of competing claims for territory, fishing, oil and mineral rights by China, the Philippines, Vietnam, Brunei, Malaysia and Taiwan.  There is currently a stand-off between Chinese ships and the Philippine navy … Continue reading &rarr;"
 categories:
   - "Current"

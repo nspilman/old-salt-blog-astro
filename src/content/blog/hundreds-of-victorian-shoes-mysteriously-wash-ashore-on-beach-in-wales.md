@@ -1,7 +1,7 @@
 ---
 title: "Hundreds of Victorian Shoes Mysteriously Wash Ashore on Beach In Wales"
 date: 2025-12-24T21:13:59
-slug: hundreds-of-victorian-shoes-mysteriously-wash-ashore-on-beach-in-wales
+slug: "hundreds-of-victorian-shoes-mysteriously-wash-ashore-on-beach-in-wales"
 excerpt: "Hundreds of Victorian hobnailed shoes have washed ashore on the UK’s Ogmore By Sea Beach in the Vale of Glamorgan, South Wales. The remarkable trove of footwear was discovered by volunteers from the Beach Academy cleaning up rock pools on the … Continue reading &rarr;"
 categories:
   - "Current"

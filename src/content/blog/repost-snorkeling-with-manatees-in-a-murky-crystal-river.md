@@ -1,7 +1,7 @@
 ---
 title: "Repost: Snorkeling With Manatees in a Murky Crystal River"
 date: 2022-04-10T09:45:55
-slug: repost-snorkeling-with-manatees-in-a-murky-crystal-river
+slug: "repost-snorkeling-with-manatees-in-a-murky-crystal-river"
 excerpt: "Yesterday, we posted about Florida manatees that are starving because pollution in Florida waterways has decimated the sea grass that manatees rely on as food during the winter months.  I was reminded of a post from 2017 about snorkeling with … Continue reading &rarr;"
 categories:
   - "Current"

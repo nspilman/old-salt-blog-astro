@@ -1,7 +1,7 @@
 ---
 title: "Some See Irony in Pandemic During Mayflower Anniversary"
 date: 2020-10-06T12:58:17
-slug: some-see-irony-in-pandemic-during-mayflower-anniversary
+slug: "some-see-irony-in-pandemic-during-mayflower-anniversary"
 excerpt: "On the upcoming 400th anniversary of the arrival of the Pilgrims on the Mayflower, the ongoing pandemic has seriously disrupted plans for the commemoration. The replica ship Mayflower II has returned to its homeport in Plymouth, MA, after completing an … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "World Superyacht of the Year, My Song, Falls Off Ship"
 date: 2019-05-28T18:07:45
-slug: world-superyacht-of-the-year-my-song-falls-off-ship
+slug: "world-superyacht-of-the-year-my-song-falls-off-ship"
 excerpt: "How is our week going so far? Probably better than Pier Luigi Loro Piana and also no doubt better than the captain of the general cargo ship Brattingsborg. The ship was carrying the 130′ (39.9 meter) yacht, My Song, owned … Continue reading &rarr;"
 categories:
   - "Current"

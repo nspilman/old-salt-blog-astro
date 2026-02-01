@@ -1,8 +1,8 @@
 ---
 title: "On Guerriere Day, USS Constitution Sails Again, Briefly"
 date: 2012-08-18T08:10:28
-slug: on-guerriere-day-uss-constitution-sails-again-briefly
-excerpt: "On August 19, 1812, the 44-gun USS Constitution met the 38 gun HMS Guerriere in single ship combat off the coast of Nova Scotia.  During the battle the Constitution earned her nickname “Old Ironsides” when the British 18 pound shot was seen to bounce off … Continue reading &rarr;"
+slug: "on-guerriere-day-uss-constitution-sails-again-briefly"
+excerpt: "On August 19, 1812, the 44-gun USS Constitution met the 38 gun HMS Guerriere in single ship combat off the coast of Nova Scotia.  During the battle the Constitution earned her nickname \"Old Ironsides\" when the British 18 pound shot was seen to bounce off … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "Old Ironsides"
   - "USS Constitution"
 author: "Rick Spilman"
-description: "On August 19, 1812, the 44-gun USS Constitution met the 38 gun HMS Guerriere in single ship combat off the coast of Nova Scotia.  During the battle the Constitution earned her nickname “Old Ironsides” when the British 18 pound shot was seen to bounce off … Continue reading &rarr;"
+description: "On August 19, 1812, the 44-gun USS Constitution met the 38 gun HMS Guerriere in single ship combat off the coast of Nova Scotia.  During the battle the Constitution earned her nickname \"Old Ironsides\" when the British 18 pound shot was seen to bounce off … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/USS_Constitution_vs_Guerriere.jpg)

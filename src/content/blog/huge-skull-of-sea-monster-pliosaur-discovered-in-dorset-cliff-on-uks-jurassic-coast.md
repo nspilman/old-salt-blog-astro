@@ -1,7 +1,7 @@
 ---
 title: "Huge Skull of Sea Monster Pliosaur Discovered in Dorset Cliff on UK’s Jurassic Coast"
 date: 2023-12-11T19:37:05
-slug: huge-skull-of-sea-monster-pliosaur-discovered-in-dorset-cliff-on-uks-jurassic-coast
+slug: "huge-skull-of-sea-monster-pliosaur-discovered-in-dorset-cliff-on-uks-jurassic-coast"
 excerpt: "The BBC reports that the skull of a pliosaur, a colossal sea monster has been extracted from the cliffs of Dorset’s Jurassic Coast. The ferocious marine reptile terrorized the oceans about 150 million years ago. The 2m (6ft 5in)-long fossil … Continue reading &rarr;"
 categories:
   - "Current"

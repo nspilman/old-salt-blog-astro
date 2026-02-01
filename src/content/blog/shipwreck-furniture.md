@@ -1,7 +1,7 @@
 ---
 title: "Shipwreck Furniture"
 date: 2011-03-18T16:14:35
-slug: shipwreck-furniture
+slug: "shipwreck-furniture"
 excerpt: "Just reading in Treehugger about Nic Kruger, a furniture designer, in Knysna, South Africa, who runs Shipwreck Furniture, which makes  tables, benches and shelves from timber recovered from shipwrecked boats.  Very interesting stuff.   Not sure that it goes with … Continue reading &rarr;"
 categories:
   - "Current"

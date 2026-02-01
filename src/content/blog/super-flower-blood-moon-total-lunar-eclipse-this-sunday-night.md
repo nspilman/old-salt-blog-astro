@@ -1,7 +1,7 @@
 ---
 title: "Super Flower Blood Moon Total Lunar Eclipse This Sunday Night"
 date: 2022-05-14T10:00:51
-slug: super-flower-blood-moon-total-lunar-eclipse-this-sunday-night
+slug: "super-flower-blood-moon-total-lunar-eclipse-this-sunday-night"
 excerpt: "Skywatchers in portions of the Americas, Antarctica, Europe, Africa, and the East Pacific will see a Super Flower Blood Moon total lunar eclipse this Sunday night and into Monday morning, weather permitting. May’s full moon is traditionally called the Flower … Continue reading &rarr;"
 categories:
   - "Current"

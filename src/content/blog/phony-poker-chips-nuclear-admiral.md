@@ -1,7 +1,7 @@
 ---
 title: "Phony Poker Chips and the Nuclear Admiral"
 date: 2013-10-03T09:53:21
-slug: phony-poker-chips-nuclear-admiral
+slug: "phony-poker-chips-nuclear-admiral"
 excerpt: "In the beginning of September, Vice Admiral Timothy M. Giardina, was secretly suspended from his job as second in command of the United States Strategic Command or USSTRATCOM, as it is known.  He is being investigated for attempting to pass counterfeit poker chips at the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

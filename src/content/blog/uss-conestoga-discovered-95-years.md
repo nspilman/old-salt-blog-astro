@@ -1,7 +1,7 @@
 ---
 title: "Lost US Navy Tug USS Conestoga Discovered After 95 Years"
 date: 2016-03-24T19:57:46
-slug: uss-conestoga-discovered-95-years
+slug: "uss-conestoga-discovered-95-years"
 excerpt: "On March 25th, 1921, the US Navy ocean-going tug, USS Conestoga, with a coal barge in tow, steamed out of Mare Island, California, bound for Tutuila, American Samoa, by way of Pearl Harbor, Hawaii. The tug, barge and crew disappeared. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "At 95 years old, Newport News-built MV Doulos again avoids scrapyard"
 date: 2010-03-14T09:51:18
-slug: at-95-years-old-newport-news-built-mv-doulos-again-avoids-scrapyard
+slug: "at-95-years-old-newport-news-built-mv-doulos-again-avoids-scrapyard"
 excerpt: "The 58 year old, SS United States, built at Newport News, may be at risk of being scrapped but it now appears that the MV Doulos, the world’s oldest ocean-going passenger vessel, may not be making a trip to the … Continue reading &rarr;"
 categories:
   - "Current"

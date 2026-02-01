@@ -1,7 +1,7 @@
 ---
 title: "Evening Gray Morning Red on gCaptain’s Best Nautical Books Of 2017 List"
 date: 2017-12-08T11:49:39
-slug: evening-gray-morning-red-makes-gcaptains-best-nautical-books-2017-list
+slug: "evening-gray-morning-red-makes-gcaptains-best-nautical-books-2017-list"
 excerpt: "I am very pleased and grateful that my new novel, Evening Gray Morning Red, has been selected to be on gCaptain‘s list of the Best Nautical Books Of 2017.   About the novel: In Evening Gray Morning Red a young American … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
-title: "What is Italian for “Chutzpah”? Schettino Sues to Get His Job Back"
+title: "What is Italian for \"Chutzpah\"? Schettino Sues to Get His Job Back"
 date: 2012-10-12T11:49:50
-slug: what-is-italian-for-chutzpah-schettino-sues-to-get-his-job-back
+slug: "what-is-italian-for-chutzpah-schettino-sues-to-get-his-job-back"
 excerpt: "Francesco Schettino, captain of the Costa Concordia, who steered his ship into a reef off the island of Giglio and then delayed the order to evacuate the sinking ship, resulting in or contributing to the deaths of 32 passengers and crew, was … Continue reading &rarr;"
 categories:
   - "Current"

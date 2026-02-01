@@ -1,7 +1,7 @@
 ---
 title: "Exploding Reefer Containers? 8,000 Boxes Serviced in Vietnam Believed at Risk"
 date: 2011-11-03T10:03:52
-slug: exploding-reefer-containers-8000-boxes-serviced-in-vietnam-believed-at-risk
+slug: "exploding-reefer-containers-8000-boxes-serviced-in-vietnam-believed-at-risk"
 excerpt: "Two workers in Vietnam and one in Brazil have died recently in explosions of refrigerated containers.  Faulty coolant is believed to have caused the explosions.  The containers were among an estimated 8,000 reefer boxes serviced in 2011 in Vietnam. The explosions have caused worldwide concern and … Continue reading &rarr;"
 categories:
   - "Current"

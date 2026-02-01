@@ -1,7 +1,7 @@
 ---
 title: "Wreckage of USS Harder, Famous World War II Submarine, Lost for 80 Years, Found in the South China Sea"
 date: 2024-05-27T16:14:13
-slug: wreckage-of-uss-harder-famous-world-war-ii-submarine-lost-for-80-years-found-in-the-south-china-sea
+slug: "wreckage-of-uss-harder-famous-world-war-ii-submarine-lost-for-80-years-found-in-the-south-china-sea"
 excerpt: "The  USS Harder, said to be the US Navy submarine that sank the most Japanese warships during World War Two, has been found in the South China Sea, some 80 years after it was sunk.  The Harder, a Gato class … Continue reading &rarr;"
 categories:
   - "Current"

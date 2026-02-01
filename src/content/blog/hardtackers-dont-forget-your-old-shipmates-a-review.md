@@ -1,7 +1,7 @@
 ---
 title: "Hardtackers’  Don’t Forget Your Old Shipmates – A Review"
 date: 2013-08-04T15:33:34
-slug: hardtackers-dont-forget-your-old-shipmates-a-review
+slug: "hardtackers-dont-forget-your-old-shipmates-a-review"
 excerpt: "The Hardtacker Shanty Crew, a seven-man shanty crew based in Columbus, Ohio, released a great new CD a few months ago, Don’t Forget Your Old Shipmates, which features a wonderful mix of shanties and sea songs, old and new.  The twenty one songs … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

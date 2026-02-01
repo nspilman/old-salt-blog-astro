@@ -1,7 +1,7 @@
 ---
 title: "USS Arizona Memorial Remains Closed, Expected to Reopen Late March 2019"
 date: 2018-12-07T08:15:50
-slug: uss-arizona-memorial-remains-closed-expected-to-reopen-late-march-2019
+slug: "uss-arizona-memorial-remains-closed-expected-to-reopen-late-march-2019"
 excerpt: "On National Pearl Harbor Remembrance Day, the iconic USS Arizona Memorial remains closed to the public. As we posted last June, the memorial close indefinitely after structural cracks in the memorial dock were reported in early May. The National Park Service (NPS) … Continue reading &rarr;"
 categories:
   - "Current"

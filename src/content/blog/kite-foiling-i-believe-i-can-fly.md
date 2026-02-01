@@ -1,7 +1,7 @@
 ---
 title: "Kite Foiling — I Believe I Can Fly"
 date: 2014-03-17T09:31:17
-slug: kite-foiling-i-believe-i-can-fly
+slug: "kite-foiling-i-believe-i-can-fly"
 excerpt: "Here is a good video to start the week. Kite foiling is an amazing new niche in the world of sailing.  To be fair, kite boarders have sticking foils on the the bottom of their boards for years. Now, however, … Continue reading &rarr;"
 categories:
   - "Current"

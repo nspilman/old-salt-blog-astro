@@ -1,8 +1,8 @@
 ---
 title: "Linda Collison’s Barbados Bound, a Review"
 date: 2012-08-30T17:14:12
-slug: linda-collisions-barbados-bound-a-review
-excerpt: "Linda Collison’s recently released “Barbados Bound,” begins provocatively, “I came aboard with the prostitutes the night before the ship set sail.” The year is 1760 and not yet 17 year old Patricia Kelley is, quite literally, seeking to find her … Continue reading &rarr;"
+slug: "linda-collisions-barbados-bound-a-review"
+excerpt: "Linda Collison’s recently released \"Barbados Bound,\" begins provocatively, \"I came aboard with the prostitutes the night before the ship set sail.\" The year is 1760 and not yet 17 year old Patricia Kelley is, quite literally, seeking to find her … Continue reading &rarr;"
 categories:
   - "Reviews"
   - "Seastories"
@@ -10,7 +10,7 @@ tags:
   - "Barbados Bound"
   - "Linda Collision"
 author: "Rick Spilman"
-description: "Linda Collison’s recently released “Barbados Bound,” begins provocatively, “I came aboard with the prostitutes the night before the ship set sail.” The year is 1760 and not yet 17 year old Patricia Kelley is, quite literally, seeking to find her … Continue reading &rarr;"
+description: "Linda Collison’s recently released \"Barbados Bound,\" begins provocatively, \"I came aboard with the prostitutes the night before the ship set sail.\" The year is 1760 and not yet 17 year old Patricia Kelley is, quite literally, seeking to find her … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/lindabb.jpg)](http://www.amazon.com/Barbados-Bound-Linda-Collison/dp/1611792290/ref=sr_1_1?ie=UTF8&qid=1346359725&sr=8-1&keywords=barbados+)Linda Collison’s recently released “[*Barbados Bound*](http://www.amazon.com/Barbados-Bound-Linda-Collison/dp/1611792290/ref=sr_1_1?ie=UTF8&qid=1346359725&sr=8-1&keywords=barbados+bound),” begins provocatively, “*I came aboard with the prostitutes the night before the ship set sail*.”

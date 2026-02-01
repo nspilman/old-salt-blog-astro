@@ -1,8 +1,8 @@
 ---
 title: "MV Liemba — the World’s Oldest Passenger/Cargo Steamer at 100"
 date: 2014-11-10T17:53:37
-slug: mv-liemba-the-worlds-oldest-passengercargo-steamer-at-100
-excerpt: "Recently, the BBC published an article titled WW1: The indestructible warship. The article refers to the Graf Goetzen. Calling her the “indestructible warship” seems to be a bit of an exaggeration. As warships go, she was not very impressive and … Continue reading &rarr;"
+slug: "mv-liemba-the-worlds-oldest-passengercargo-steamer-at-100"
+excerpt: "Recently, the BBC published an article titled WW1: The indestructible warship. The article refers to the Graf Goetzen. Calling her the \"indestructible warship\" seems to be a bit of an exaggeration. As warships go, she was not very impressive and … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"

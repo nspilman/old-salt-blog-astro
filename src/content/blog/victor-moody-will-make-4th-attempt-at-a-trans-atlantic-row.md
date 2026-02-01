@@ -1,7 +1,7 @@
 ---
 title: "Victor Mooney will make 4th Attempt at a Trans-Atlantic Row"
 date: 2011-06-11T08:22:04
-slug: victor-moody-will-make-4th-attempt-at-a-trans-atlantic-row
+slug: "victor-moody-will-make-4th-attempt-at-a-trans-atlantic-row"
 excerpt: "Last February we posted about Victor Mooney’s third attempt to row alone across the Atlantic.   While Mooney, 45 of Forest Hills, New York, has attempted the voyage three times, he has not come close to succeeding thus far.  His first attempt in 2006 lasted only three … Continue reading &rarr;"
 categories:
   - "Current"

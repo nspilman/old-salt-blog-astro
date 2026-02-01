@@ -1,7 +1,7 @@
 ---
 title: "Ferry Capsizes and Sinks in Bali Strait, at Least Four Dead & 30 Missing"
 date: 2025-07-03T09:22:49
-slug: ferry-capsizes-and-sinks-in-bali-strait-at-least-four-dead-30-missing
+slug: "ferry-capsizes-and-sinks-in-bali-strait-at-least-four-dead-30-missing"
 excerpt: "The roll-on/roll-off passenger ferry MV Tunu Pratama Jaya capsized and sank in rough seas late Wednesday on its way to the resort island of Bali, Indonesia. At least four people died, at least 30 are missing, and 31 survivors were … Continue reading &rarr;"
 categories:
   - "Current"

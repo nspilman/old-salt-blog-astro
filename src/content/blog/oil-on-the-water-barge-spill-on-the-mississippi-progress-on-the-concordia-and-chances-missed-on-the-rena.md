@@ -1,7 +1,7 @@
 ---
 title: "Oil on the Water – Barge Spill on the Mississippi, Progress on the Concordia and Chances Missed on the Rena"
 date: 2012-02-18T11:01:45
-slug: oil-on-the-water-barge-spill-on-the-mississippi-progress-on-the-concordia-and-chances-missed-on-the-rena
+slug: "oil-on-the-water-barge-spill-on-the-mississippi-progress-on-the-concordia-and-chances-missed-on-the-rena"
 excerpt: "Three stories this weekend of oil spills, a successful oil transfer and opportunities lost in mitigating a spill.  Two barges collided on the Mississippi River on Friday upriver from New Orleans.  A roughly 3,500 barrel capacity double hulled tank barge suffered damage … Continue reading &rarr;"
 categories:
   - "Current"

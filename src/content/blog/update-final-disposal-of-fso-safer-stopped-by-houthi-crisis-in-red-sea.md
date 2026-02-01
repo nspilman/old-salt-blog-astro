@@ -1,7 +1,7 @@
 ---
 title: "Update: Final Disposal of FSO Safer Stopped by Houthi Crisis in Red Sea"
 date: 2024-01-31T19:42:53
-slug: update-final-disposal-of-fso-safer-stopped-by-houthi-crisis-in-red-sea
+slug: "update-final-disposal-of-fso-safer-stopped-by-houthi-crisis-in-red-sea"
 excerpt: "The current shipping crisis in the Red Sea, precipitated by Houthi drone and missile attacks, has stopped the final disposal of the decrepit FSO Safer, a floating oil storage and offloading vessel, moored in the Red Sea north of the … Continue reading &rarr;"
 categories:
   - "Current"

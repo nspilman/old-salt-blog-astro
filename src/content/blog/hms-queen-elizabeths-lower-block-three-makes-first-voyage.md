@@ -1,7 +1,7 @@
 ---
 title: "HMS Queen Elizabeth’s Lower Block Three Makes First Voyage"
 date: 2011-08-16T19:00:18
-slug: hms-queen-elizabeths-lower-block-three-makes-first-voyage
+slug: "hms-queen-elizabeths-lower-block-three-makes-first-voyage"
 excerpt: "I am glad that I am of the age to have seen ships constructed the old fashioned way. Not all that long ago, shipyards still built ships from the bottom up.  The shipyard first fabricated the double bottom sub-assemblies and then … Continue reading &rarr;"
 categories:
   - "Current"

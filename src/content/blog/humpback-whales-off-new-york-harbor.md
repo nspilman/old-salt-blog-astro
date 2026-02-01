@@ -1,7 +1,7 @@
 ---
 title: "Humpback Whales off New York Harbor"
 date: 2014-06-28T06:51:45
-slug: humpback-whales-off-new-york-harbor
+slug: "humpback-whales-off-new-york-harbor"
 excerpt: "In recent years, there has been a significant increase in the number of whales off New York harbor. In 2011, researchers from Cornell recorded the sounds of fin whale, blue whale, humpback whale, minke whale, sei whale, and the North … Continue reading &rarr;"
 categories:
   - "Current"

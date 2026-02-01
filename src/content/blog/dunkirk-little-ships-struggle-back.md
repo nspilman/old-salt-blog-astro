@@ -1,8 +1,8 @@
 ---
 title: "Dunkirk Little Ships struggle back"
 date: 2010-06-02T08:25:10
-slug: dunkirk-little-ships-struggle-back
-excerpt: "The English Channel is still the Channel and the 60 or so “little ships” of Dunkirk haven’t gotten any younger.  The flotilla of some 60 of the original “little ships” were delayed in their return to Ramsgate after reinacting the crossing to … Continue reading &rarr;"
+slug: "dunkirk-little-ships-struggle-back"
+excerpt: "The English Channel is still the Channel and the 60 or so \"little ships\" of Dunkirk haven’t gotten any younger.  The flotilla of some 60 of the original \"little ships\" were delayed in their return to Ramsgate after reinacting the crossing to … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "Little Ships"
   - "Ramsgate"
 author: "Rick Spilman"
-description: "The English Channel is still the Channel and the 60 or so “little ships” of Dunkirk haven’t gotten any younger.  The flotilla of some 60 of the original “little ships” were delayed in their return to Ramsgate after reinacting the crossing to … Continue reading &rarr;"
+description: "The English Channel is still the Channel and the 60 or so \"little ships\" of Dunkirk haven’t gotten any younger.  The flotilla of some 60 of the original \"little ships\" were delayed in their return to Ramsgate after reinacting the crossing to … Continue reading &rarr;"
 ---
 
 ![Mary Scott under tow](http://www.oldsaltblog.com/wp-content/uploads/2010/06/Mary_Scott_under_tow_AR.jpg)

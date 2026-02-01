@@ -1,7 +1,7 @@
 ---
 title: "Australia on the Move — Adjusting the Charts to Agree with GPS"
 date: 2016-10-14T16:07:56
-slug: australia-on-the-move-adjusting-the-charts-to-agree-with-gps
+slug: "australia-on-the-move-adjusting-the-charts-to-agree-with-gps"
 excerpt: "Australia is, literally, on the move.  A year ago, we posted about how the Prime Meridian, the arbitrary line in Greenwich, UK, marking 0 degrees of longitude, had to be adjusted by slightly over 100 meters after the discrepancy was … Continue reading &rarr;"
 categories:
   - "Current"

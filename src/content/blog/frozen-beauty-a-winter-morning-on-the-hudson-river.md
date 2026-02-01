@@ -1,7 +1,7 @@
 ---
 title: "Frozen Beauty – A Winter Morning on the Hudson River"
 date: 2015-02-15T13:03:15
-slug: frozen-beauty-a-winter-morning-on-the-hudson-river
+slug: "frozen-beauty-a-winter-morning-on-the-hudson-river"
 excerpt: "It is currently around 18 degrees F on the west bank of the Hudson River, but with the wind chill the figures are somewhere in the negative numbers. It seems appropriate, therefore, to post this wonderful video, shot by an … Continue reading &rarr;"
 categories:
   - "Current"

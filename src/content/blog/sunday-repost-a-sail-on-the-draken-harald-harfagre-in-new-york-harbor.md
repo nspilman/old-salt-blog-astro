@@ -1,7 +1,7 @@
 ---
 title: "Sunday Repost : A Sail on the Draken Harald Hårfagre in New York Harbor"
 date: 2021-11-07T09:43:45
-slug: sunday-repost-a-sail-on-the-draken-harald-harfagre-in-new-york-harbor
+slug: "sunday-repost-a-sail-on-the-draken-harald-harfagre-in-new-york-harbor"
 excerpt: "What could be more gloriously incongruous than sailing on a replica 9th-century Viking longship and sipping whisky on a blustery Autumn day in New York harbor? Here is an updated repost:  In late October 2018, I was fortunate enough to … Continue reading &rarr;"
 categories:
   - "Current"

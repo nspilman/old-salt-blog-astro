@@ -1,7 +1,7 @@
 ---
 title: "Pristine Wrecks in Great Lakes, Baltic & Black Sea While Bacteria Devours the Titanic"
 date: 2016-12-09T19:15:20
-slug: pristine-wrecks-in-great-lakes-baltic-black-sea-while-bacteria-devours-the-titanic
+slug: "pristine-wrecks-in-great-lakes-baltic-black-sea-while-bacteria-devours-the-titanic"
 excerpt: "Recently, the New York Times featured an article on 40 recently discovered wooden shipwrecks located deep in the Black Sea off the Bulgarian coast. In age, the wrecks span a millennium, from the ninth to the 19th centuries. What is … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Pods Strike Again — Norwegian Star Breaks Down in Tasman Sea"
 date: 2017-02-13T17:24:42
-slug: pods-strike-norwegian-star-breaks-tasman-sea
+slug: "pods-strike-norwegian-star-breaks-tasman-sea"
 excerpt: "Azipods strike again. The Norwegian Star, operated by Norwegian Cruise Lines, was towed into Melbourne, Australia over the weekend after losing propulsion when the ship’s azipods failed, leaving the ship adrift last Friday. In the latest round of failures, the … Continue reading &rarr;"
 categories:
   - "Current"

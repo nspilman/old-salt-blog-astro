@@ -1,7 +1,7 @@
 ---
 title: "Wrens set to serve on Royal Navy submarines"
 date: 2010-12-09T09:04:22
-slug: wrens-set-to-serve-on-royal-navy-submarines
+slug: "wrens-set-to-serve-on-royal-navy-submarines"
 excerpt: "What I found surprising about the headline in the Mail Online was not that women would be serving on Royal Navy submarines but that they were still being called Wrens.   Demonstrating my own ignorance, I thought that designation had been phased out … Continue reading &rarr;"
 categories:
   - "Current"

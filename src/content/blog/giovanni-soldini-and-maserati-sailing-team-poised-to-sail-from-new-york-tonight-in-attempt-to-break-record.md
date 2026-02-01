@@ -1,7 +1,7 @@
 ---
 title: "Giovanni Soldini and Maserati Sailing Team Poised to Sail from New York Tonight in Attempt to Break Record"
 date: 2012-05-08T18:14:12
-slug: giovanni-soldini-and-maserati-sailing-team-poised-to-sail-from-new-york-tonight-in-attempt-to-break-record
+slug: "giovanni-soldini-and-maserati-sailing-team-poised-to-sail-from-new-york-tonight-in-attempt-to-break-record"
 excerpt: "Giovanni Soldini and the Maserati Sailing Team have announced that they expect to set sail from the North Cove Marina in New York City between 10:00 p.m. this evening and 3:00 a.m. tomorrow morning in their attempt to break the … Continue reading &rarr;"
 categories:
   - "Current"

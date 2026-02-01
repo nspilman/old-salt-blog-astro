@@ -1,7 +1,7 @@
 ---
 title: "Bon Voyage to the Jubille Sailing Trust’s Barque Lord Nelson on Her Round the World Voyage"
 date: 2012-10-21T08:06:52
-slug: bon-voyage-to-the-jubille-sailing-trusts-barque-lord-nelson-on-her-round-the-world-voyage
+slug: "bon-voyage-to-the-jubille-sailing-trusts-barque-lord-nelson-on-her-round-the-world-voyage"
 excerpt: "Today, on the 207th anniversary of Lord Nelson’s victory at Trafalgar, the Jubilee Sailing Trust‘s 55-meter three masted barque, Lord Nelson, sets sail from Southhampton, UK on a 23-month 50,000 mile journey around the world.  The ship will visit more than 30 countries on all seven continents and cross … Continue reading &rarr;"
 categories:
   - "Current"

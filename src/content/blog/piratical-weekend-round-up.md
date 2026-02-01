@@ -1,7 +1,7 @@
 ---
 title: "Piratical Weekend Round Up"
 date: 2011-09-09T15:40:38
-slug: piratical-weekend-round-up
+slug: "piratical-weekend-round-up"
 excerpt: "The good folks in Eastport, Maine have seen fit to once again hold their annual Eastport Pirate Festival this weekend, featuring lots of fun activities including a lobster boat race. (Who knew pirates had lobster boats?)   The Treasure Coast … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "The Leaving of Liverpool"
 date: 2009-09-29T13:47:13
-slug: the-leaving-of-liverpool
-excerpt: "“The Leaving of Liverpool” is a wonderful sea song,  capturing both the promise of a new voyage and the sadness of leaving loved ones behind.   It was “collected” by William Main Doerflinger in 1951 from Dick Maitland, an old sailor at New York’s … Continue reading &rarr;"
+slug: "the-leaving-of-liverpool"
+excerpt: "\"The Leaving of Liverpool\" is a wonderful sea song,  capturing both the promise of a new voyage and the sadness of leaving loved ones behind.   It was \"collected\" by William Main Doerflinger in 1951 from Dick Maitland, an old sailor at New York’s … Continue reading &rarr;"
 categories:
   - "History"
   - "Ships"
@@ -14,7 +14,7 @@ tags:
   - "Snug Harbor"
   - "William Main Doerflinger"
 author: "Rick Spilman"
-description: "“The Leaving of Liverpool” is a wonderful sea song,  capturing both the promise of a new voyage and the sadness of leaving loved ones behind.   It was “collected” by William Main Doerflinger in 1951 from Dick Maitland, an old sailor at New York’s … Continue reading &rarr;"
+description: "\"The Leaving of Liverpool\" is a wonderful sea song,  capturing both the promise of a new voyage and the sadness of leaving loved ones behind.   It was \"collected\" by William Main Doerflinger in 1951 from Dick Maitland, an old sailor at New York’s … Continue reading &rarr;"
 ---
 
 ![davidcrockett](http://www.oldsaltblog.com/wp-content/uploads/2009/09/davidcrockett.jpg)“The Leaving of Liverpool” is a wonderful sea song,  capturing both the promise of a new voyage and the sadness of leaving loved ones behind.   It was “collected” by [William Main Doerflinger](http://pages.prodigy.net/folkmusic/wmdoerflinger.htm) in 1951 from Dick Maitland, an old sailor at New York’s [Snug Harbor](http://www.snug-harbor.org/history.html), who while bosun on the *General Knox* around 1885, had learned it one night from a Liverpool man.

@@ -1,7 +1,7 @@
 ---
 title: "Michelin’s Wing Sail Mobility (WISAMO) Project Features Inflatable Wing Sails"
 date: 2021-06-07T18:00:56
-slug: michelins-wing-sail-mobility-wisamo-project-features-inflatable-wing-sails
+slug: "michelins-wing-sail-mobility-wisamo-project-features-inflatable-wing-sails"
 excerpt: "Back in 2017, we posted Inflated Wing Sail — Rig of the Future? The post showed a prototype daysailer with a single inflatable wing sail (IWS) without winches, halyards, shrouds, or complex deck gear. Now French tire manufacturer Michelin has … Continue reading &rarr;"
 categories:
   - "Current"

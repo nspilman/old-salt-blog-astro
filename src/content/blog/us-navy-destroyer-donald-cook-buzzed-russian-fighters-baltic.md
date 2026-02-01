@@ -1,7 +1,7 @@
 ---
 title: "US Navy Destroyer Donald Cook Buzzed Again by Russian Fighters in Baltic"
 date: 2016-04-14T10:16:03
-slug: us-navy-destroyer-donald-cook-buzzed-russian-fighters-baltic
+slug: "us-navy-destroyer-donald-cook-buzzed-russian-fighters-baltic"
 excerpt: "The Russians do not appear to like the US Navy operating ships in the Baltic Sea.  On Aprill 11, two unarmed Russian SU24 fighter jets made low attitude passes at the US Navy destroyer USS Donald Cook.  Then, on April 12, two Russian … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

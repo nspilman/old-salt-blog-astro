@@ -1,7 +1,7 @@
 ---
 title: "Tugs, Tugs and More Tugs – Photos from the Race and the Waterford Tugboat Roundup"
 date: 2013-09-05T16:41:37
-slug: tugs-and-more-tugs-photos-from-the-race-and-the-waterford-tugboat-roundup
+slug: "tugs-and-more-tugs-photos-from-the-race-and-the-waterford-tugboat-roundup"
 excerpt: "These are good times for tug boat fanatics in the North East.  On Labor Day, there was the running of the 21st Annual Great North River Tug Boat Race on the Hudson River in New York City, sponsored by the Working … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

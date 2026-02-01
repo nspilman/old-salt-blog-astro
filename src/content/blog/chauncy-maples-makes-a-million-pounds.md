@@ -1,7 +1,7 @@
 ---
 title: "Chauncy Maples Makes a Million Pounds"
 date: 2010-10-06T08:10:35
-slug: chauncy-maples-makes-a-million-pounds
+slug: "chauncy-maples-makes-a-million-pounds"
 excerpt: "In June we posted about the missionary/hospital steamer, the Chauncy Maples.   Launched in 1901, she is the oldest ship in Africa.   She is being restored to return to duty as a traveling clinic on the 560 kilometer long Lake … Continue reading &rarr;"
 categories:
   - "Current"

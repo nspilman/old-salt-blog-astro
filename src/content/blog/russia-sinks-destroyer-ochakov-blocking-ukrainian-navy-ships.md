@@ -1,7 +1,7 @@
 ---
 title: "Russia Scuttles Destroyer Ochakov, Blocking Ukrainian Navy Ships in Donuzlav Lake, Western Crimea"
 date: 2014-03-06T15:07:10
-slug: russia-sinks-destroyer-ochakov-blocking-ukrainian-navy-ships
+slug: "russia-sinks-destroyer-ochakov-blocking-ukrainian-navy-ships"
 excerpt: "Ochakov, a Russian Kara-class cruiser, was decommissioned in 2011 and had been scheduled to be scrapped.  Instead, the Russian Navy scuttled the ship late Wednesday in the navigation channel in the approach to Donuzlav Lake, in Novoozerne, in the Western Crimea. … Continue reading &rarr;"
 categories:
   - "Current"

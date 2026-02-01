@@ -1,7 +1,7 @@
 ---
 title: "New York City Investing in Offshore Wind"
 date: 2021-09-29T10:43:16
-slug: new-york-city-investing-in-offshore-wind
+slug: "new-york-city-investing-in-offshore-wind"
 excerpt: "Last week Mayor Bill de Blasio and the New York City Economic Development Corporation (NYCEDC) committed to a plan called Offshore Wind NYC that will invest more than $191 million to make New York City a hub for the offshore … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
-title: "Polar Ship “Boaty McBoatface” to be named RRS Sir David Attenborough"
+title: "Polar Ship \"Boaty McBoatface\" to be named RRS Sir David Attenborough"
 date: 2016-05-06T08:56:50
-slug: polar-ship-boaty-mcboatface-named-rrs-sir-david-attenborough
+slug: "polar-ship-boaty-mcboatface-named-rrs-sir-david-attenborough"
 excerpt: "It is official. The polar research ship formerly known as Boaty McBoatface will be named RRS Sir David Attenborough.  Despite an overwhelming number of suggestions that the UK’s new polar research ship be named Boaty McBoatface, the ship will be named after the … Continue reading &rarr;"
 categories:
   - "Current"

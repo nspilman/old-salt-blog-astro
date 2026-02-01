@@ -1,7 +1,7 @@
 ---
 title: "Women Serving on Submarines — US & Royal Navies & Soon the French"
 date: 2014-05-11T09:56:25
-slug: women-serving-on-submarines-us-royal-navy-soon-the-french
+slug: "women-serving-on-submarines-us-royal-navy-soon-the-french"
 excerpt: "Like many milestones, once it is past, it doesn’t seem like quite as big a deal.  Last week, three women made history by becoming the first female submariners to serve in the Royal Navy. Female officers have served on US … Continue reading &rarr;"
 categories:
   - "Current"

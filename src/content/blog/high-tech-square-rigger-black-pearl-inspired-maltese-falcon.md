@@ -1,7 +1,7 @@
 ---
 title: "High Tech Square Rigger Black Pearl, Inspired by Maltese Falcon"
 date: 2017-12-06T20:48:38
-slug: high-tech-square-rigger-black-pearl-inspired-maltese-falcon
+slug: "high-tech-square-rigger-black-pearl-inspired-maltese-falcon"
 excerpt: "Russian billionaire oligarch Oleg Burlakov recently spent around $200 million to purchase the Black Pearl, a new sailing yacht built by Oceanco Yachts.  The yacht has three free-standing DynaRig masts and is strongly reminiscent of the three-masted Dynarig Maltese Falcon, launched in 1990. The … Continue reading &rarr;"
 categories:
   - "Current"

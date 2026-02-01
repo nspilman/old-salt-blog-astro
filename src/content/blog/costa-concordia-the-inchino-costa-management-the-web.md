@@ -1,8 +1,8 @@
 ---
 title: "Costa Concordia – the Inchino, Costa Management & the Web"
 date: 2012-01-23T11:24:25
-slug: costa-concordia-the-inchino-costa-management-the-web
-excerpt: "The dangerous practice of the “inchino,” Italian for “bow” and often translated as “salute,”  appears to be widespread and not limited to Costa.  The “inchino” is performed by sailing a ship close to an island or port and blowing the ship’s horn, figuratively bowing … Continue reading &rarr;"
+slug: "costa-concordia-the-inchino-costa-management-the-web"
+excerpt: "The dangerous practice of the \"inchino,\" Italian for \"bow\" and often translated as \"salute,\"  appears to be widespread and not limited to Costa.  The \"inchino\" is performed by sailing a ship close to an island or port and blowing the ship’s horn, figuratively bowing … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Giglio"
   - "inchino"
 author: "Rick Spilman"
-description: "The dangerous practice of the “inchino,” Italian for “bow” and often translated as “salute,”  appears to be widespread and not limited to Costa.  The “inchino” is performed by sailing a ship close to an island or port and blowing the ship’s horn, figuratively bowing … Continue reading &rarr;"
+description: "The dangerous practice of the \"inchino,\" Italian for \"bow\" and often translated as \"salute,\"  appears to be widespread and not limited to Costa.  The \"inchino\" is performed by sailing a ship close to an island or port and blowing the ship’s horn, figuratively bowing … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/capriincho.jpg)

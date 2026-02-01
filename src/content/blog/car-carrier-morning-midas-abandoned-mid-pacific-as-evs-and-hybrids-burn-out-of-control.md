@@ -1,7 +1,7 @@
 ---
 title: "Car Carrier Morning Midas Abandoned Mid-Pacific as EVs and Hybrids Burn Out of Control"
 date: 2025-06-06T17:51:30
-slug: car-carrier-morning-midas-abandoned-mid-pacific-as-evs-and-hybrids-burn-out-of-control
+slug: "car-carrier-morning-midas-abandoned-mid-pacific-as-evs-and-hybrids-burn-out-of-control"
 excerpt: "The car carrier Morning Midas was on a voyage from China to Mexico when it caught fire on Tuesday in the mid-Pacific, some 300 miles southwest of Alaska’s Aleutian Islands. The ship was carrying 3,048 vehicles, including over 700 fully … Continue reading &rarr;"
 categories:
   - "Current"

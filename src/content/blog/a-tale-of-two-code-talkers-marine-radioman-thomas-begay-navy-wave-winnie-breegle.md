@@ -1,7 +1,7 @@
 ---
-title: "A Tale of Two “Code Talkers” — Marine Radioman Thomas Begay & Navy Wave Winnie Breegle"
+title: "A Tale of Two \"Code Talkers\" — Marine Radioman Thomas Begay & Navy Wave Winnie Breegle"
 date: 2025-03-25T23:42:08
-slug: a-tale-of-two-code-talkers-marine-radioman-thomas-begay-navy-wave-winnie-breegle
+slug: "a-tale-of-two-code-talkers-marine-radioman-thomas-begay-navy-wave-winnie-breegle"
 excerpt: "Last week, Trump’s Defense Department removed articles about Navajo code talkers from its websites amid an ongoing campaign to rid the military of diversity, equity, and inclusion (DEI) programs. Once again, under Trump, opposition to DEI was used as a … Continue reading &rarr;"
 categories:
   - "Current"

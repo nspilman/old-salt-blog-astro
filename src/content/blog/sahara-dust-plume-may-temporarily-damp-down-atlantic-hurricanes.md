@@ -1,7 +1,7 @@
 ---
 title: "Sahara Dust Plume May Temporarily Damp Down Atlantic Hurricanes"
 date: 2020-06-24T17:31:41
-slug: sahara-dust-plume-may-temporarily-damp-down-atlantic-hurricanes
+slug: "sahara-dust-plume-may-temporarily-damp-down-atlantic-hurricanes"
 excerpt: "A huge cloud of desert dust has blown off the Sahara and is bound across the Atlantic Ocean heading toward the United States. While dust plumes are not uncommon, this plume is exceptionally large and dense with the highest concentration … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

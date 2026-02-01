@@ -1,8 +1,8 @@
 ---
 title: "USS Bonhomme Richard’s Destruction by Fire ‘Completely Preventable,’ Navy Finds"
 date: 2021-10-21T13:54:33
-slug: uss-bonhomme-richards-destruction-by-fire-completely-preventable-navy-finds
-excerpt: "Following an investigation of the fire that destroyed the US Navy amphibious assault ship USS Bonhomme Richard, Admiral Bill Lescher, the Navy’s No. 2 officer said, “The loss of this ship was completely preventable.” USNI News reported that a cascade … Continue reading &rarr;"
+slug: "uss-bonhomme-richards-destruction-by-fire-completely-preventable-navy-finds"
+excerpt: "Following an investigation of the fire that destroyed the US Navy amphibious assault ship USS Bonhomme Richard, Admiral Bill Lescher, the Navy’s No. 2 officer said, \"The loss of this ship was completely preventable.\" USNI News reported that a cascade … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Vice Adm. Scott Conn"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/07/firebhr.jpg"
 author: "Rick Spilman"
-description: "Following an investigation of the fire that destroyed the US Navy amphibious assault ship USS Bonhomme Richard, Admiral Bill Lescher, the Navy’s No. 2 officer said, “The loss of this ship was completely preventable.” USNI News reported that a cascade … Continue reading &rarr;"
+description: "Following an investigation of the fire that destroyed the US Navy amphibious assault ship USS Bonhomme Richard, Admiral Bill Lescher, the Navy’s No. 2 officer said, \"The loss of this ship was completely preventable.\" USNI News reported that a cascade … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/07/firebhr.jpg)Following an [investigation of the fire that destroyed the US Navy amphibious assault ship](https://news.usni.org/2021/10/20/navy-investigation-into-uss-bonhomme-richard-fire-major-fires-review) [USS *Bonhomme Richard*](https://en.wikipedia.org/wiki/USS_Bonhomme_Richard_\(LHD-6\)#July_2020_fire), Admiral Bill Lescher, the Navy’s No. 2 officer said, [“The loss of this ship was completely preventable.”](https://www.washingtonpost.com/national-security/2021/10/20/bonhomme-richard-fire-investigation/)

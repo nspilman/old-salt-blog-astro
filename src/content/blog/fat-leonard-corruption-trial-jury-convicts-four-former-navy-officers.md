@@ -1,8 +1,8 @@
 ---
-title: "“Fat Leonard” Corruption Trial — Jury Convicts Four Former Navy Officers"
+title: "\"Fat Leonard\" Corruption Trial — Jury Convicts Four Former Navy Officers"
 date: 2022-07-01T13:17:35
-slug: fat-leonard-corruption-trial-jury-convicts-four-former-navy-officers
-excerpt: "We recently posted about how the “Fat Leonard” Navy corruption scandal is being dramatized in a new television series, based on an award-winning podcast. In the real world, the decade-long investigation and years-long trials are wrapping up.  The San Diego … Continue reading &rarr;"
+slug: "fat-leonard-corruption-trial-jury-convicts-four-former-navy-officers"
+excerpt: "We recently posted about how the \"Fat Leonard\" Navy corruption scandal is being dramatized in a new television series, based on an award-winning podcast. In the real world, the decade-long investigation and years-long trials are wrapping up.  The San Diego … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "san diego"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg"
 author: "Rick Spilman"
-description: "We recently posted about how the “Fat Leonard” Navy corruption scandal is being dramatized in a new television series, based on an award-winning podcast. In the real world, the decade-long investigation and years-long trials are wrapping up.  The San Diego … Continue reading &rarr;"
+description: "We recently posted about how the \"Fat Leonard\" Navy corruption scandal is being dramatized in a new television series, based on an award-winning podcast. In the real world, the decade-long investigation and years-long trials are wrapping up.  The San Diego … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg)

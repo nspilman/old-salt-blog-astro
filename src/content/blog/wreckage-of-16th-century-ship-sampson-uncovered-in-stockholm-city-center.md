@@ -1,7 +1,7 @@
 ---
 title: "Wreckage of 16th Century Ship Samson Uncovered in Stockholm City Center"
 date: 2019-12-24T17:52:34
-slug: wreckage-of-16th-century-ship-sampson-uncovered-in-stockholm-city-center
+slug: "wreckage-of-16th-century-ship-sampson-uncovered-in-stockholm-city-center"
 excerpt: "Like so many coastal cities, Stockholm has grown larger and its harbor smaller over time as landfill and buildings have replaced waterways and docks. The Local reports that over the past year, work has been going on in the Kungsträdgården … Continue reading &rarr;"
 categories:
   - "Current"

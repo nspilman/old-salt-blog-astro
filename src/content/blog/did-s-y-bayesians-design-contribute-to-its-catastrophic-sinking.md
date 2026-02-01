@@ -1,7 +1,7 @@
 ---
 title: "Did S/Y Bayesian’s Design Contribute to its Catastrophic Sinking?"
 date: 2024-08-20T21:17:54
-slug: did-s-y-bayesians-design-contribute-to-its-catastrophic-sinking
+slug: "did-s-y-bayesians-design-contribute-to-its-catastrophic-sinking"
 excerpt: "The 56-meter-long sailing yacht Bayesian sank at anchor of Sicily in extreme weather early Monday morning, with the loss of one dead and six missing. Among the missing are British tech tycoon Mike Lynch and his 18-year-old daughter, Hannah. Following the … Continue reading &rarr;"
 categories:
   - "Current"

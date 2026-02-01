@@ -1,7 +1,7 @@
 ---
-title: "Sunday’s “Super-Blood Moon” Eclipse — Probably Not the End of the World"
+title: "Sunday’s \"Super-Blood Moon\" Eclipse — Probably Not the End of the World"
 date: 2015-09-25T09:00:27
-slug: sundays-super-blood-moon-eclipse-probably-not-the-end-of-the-world
+slug: "sundays-super-blood-moon-eclipse-probably-not-the-end-of-the-world"
 excerpt: "On Sunday, September 27th, sailors, as well as landsmen and women who happen to be looking up, will see a total lunar eclipse where the moon will turn a coppery red as it passes through the shadow of the earth. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "US Navy Punishes Over Two Dozen Officers and Sailors Over Fire on USS Bonhomme Richard"
 date: 2022-07-18T17:24:27
-slug: us-navy-punishes-over-two-dozen-officers-and-sailors-over-fire-on-uss-bonhomme-richard
+slug: "us-navy-punishes-over-two-dozen-officers-and-sailors-over-fire-on-uss-bonhomme-richard"
 excerpt: "In July 2020 an explosion and fire broke out aboard the amphibious assault ship USS Bonhomme Richard dockside at the Naval Base San Diego. The fire would burn for four days, injuring 60 firefighters and ultimately resulting in the total loss … Continue reading &rarr;"
 categories:
   - "Current"

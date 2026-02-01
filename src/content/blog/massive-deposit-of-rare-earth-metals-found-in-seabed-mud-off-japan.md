@@ -1,7 +1,7 @@
 ---
 title: "Massive Deposit of Rare Earth Metals Found in Seabed Mud Off Japan"
 date: 2018-04-18T09:30:22
-slug: massive-deposit-of-rare-earth-metals-found-in-seabed-mud-off-japan
+slug: "massive-deposit-of-rare-earth-metals-found-in-seabed-mud-off-japan"
 excerpt: "Researchers have located huge deposits of rare-earth metals in seabed mud off the Japanese island Minamitorishima, located 1,150 miles southeast of Tokyo. The discovery could have a major impact on both the Japanese and the world economy. Rare-earth metals are … Continue reading &rarr;"
 categories:
   - "Current"

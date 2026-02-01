@@ -1,7 +1,7 @@
 ---
 title: "On Friday the 13th, the Unlikely Story of HMS Friday"
 date: 2016-05-13T08:25:42
-slug: friday-13th-unlikely-story-hms-friday
+slug: "friday-13th-unlikely-story-hms-friday"
 excerpt: "Sailors have long considered Friday to be an unlucky day and Friday the 13th, particularly so. On this Friday the 13th, it seems appropriate to remember the unlikely tale of HMS Friday. Sometime in the 1800s, it is said that … Continue reading &rarr;"
 categories:
   - "Current"

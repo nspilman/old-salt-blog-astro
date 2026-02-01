@@ -1,7 +1,7 @@
 ---
 title: "The Fate of HMS Beagle After Darwin´s Voyage to the Galapagos Islands"
 date: 2011-03-05T14:33:57
-slug: the-fate-of-hms-beagle-after-darwin%c2%b4s-voyage-to-the-galapagos-islands
+slug: "the-fate-of-hms-beagle-after-darwin%c2%b4s-voyage-to-the-galapagos-islands"
 excerpt: "Robert Prescott, a marine archeologist, believes that he has located the final resting place HMS Beagle. The Fate of HMS Beagle After Darwin´s Voyage to the Galapagos Islands HMS Beagle was the ship that sailed around the world with … Continue reading &rarr;"
 categories:
   - "Current"

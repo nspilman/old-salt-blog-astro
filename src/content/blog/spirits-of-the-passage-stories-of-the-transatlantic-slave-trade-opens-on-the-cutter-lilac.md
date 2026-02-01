@@ -1,7 +1,7 @@
 ---
 title: "Spirits of the Passage: Stories of the Transatlantic Slave Trade Opens on the Cutter Lilac"
 date: 2015-08-21T17:05:26
-slug: spirits-of-the-passage-stories-of-the-transatlantic-slave-trade-opens-on-the-cutter-lilac
+slug: "spirits-of-the-passage-stories-of-the-transatlantic-slave-trade-opens-on-the-cutter-lilac"
 excerpt: "Spirits of the Passage: Stories of the Transatlantic Slave Trade opened yesterday on board the ex-USCG cutter Lilac at Hudson River Park’s Pier 25.  The exhibit explores the transatlantic slave trade through a display of nearly 150 historical objects, many salvaged from sunken … Continue reading &rarr;"
 categories:
   - "Current"

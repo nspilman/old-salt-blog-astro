@@ -1,7 +1,7 @@
 ---
 title: "Iranian Navy Ships Dock in Syria and US Chartered Ferry Finally Reaches Malta"
 date: 2011-02-25T18:34:03
-slug: iranian-navy-ships-dock-in-syria-and-us-chartered-ferry-finally-reaches-malta
+slug: "iranian-navy-ships-dock-in-syria-and-us-chartered-ferry-finally-reaches-malta"
 excerpt: "On Tuesday, we posted about the first northbound transit by two Iranian Navy ships through the Suez Canal since 1979.  Yesterday these ships docked in Syria on a training mission.  Thanks to Phil Leon for passing the article along. Iran … Continue reading &rarr;"
 categories:
   - "Current"

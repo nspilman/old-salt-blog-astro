@@ -1,7 +1,7 @@
 ---
 title: "Fire on Norwegian Cruise Ship, MS Nordlys, Kills Two and Injures Nine"
 date: 2011-09-15T17:26:22
-slug: fire-on-norwegian-cruise-ship-ms-nordlys-kills-two-and-injures-nine
+slug: "fire-on-norwegian-cruise-ship-ms-nordlys-kills-two-and-injures-nine"
 excerpt: "A fast burning fire in the engine room of the Norwegian cruise ship, MS Nordlys, killed two crew members and injured nine others.  The more than 200 passengers aboard the ship were safely evacuated to the town of Aalesund, 230 miles (375 kilometers) northwest of … Continue reading &rarr;"
 categories:
   - "Current"

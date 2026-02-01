@@ -1,7 +1,7 @@
 ---
 title: "Iceberg and the White Orcas of the Western North Pacific"
 date: 2018-08-06T12:45:34
-slug: iceberg-and-the-white-orcas-of-the-western-north-pacific
+slug: "iceberg-and-the-white-orcas-of-the-western-north-pacific"
 excerpt: "In 2012, we posted about a sighting one of the first adult all white orca whales in the western North Pacific near the Kamchatka Peninsula. The observation was reported by Erich Hoyt, co-founder of the Far East Russia Orca Project. The rare … Continue reading &rarr;"
 categories:
   - "Current"

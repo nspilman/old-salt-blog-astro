@@ -1,7 +1,7 @@
 ---
 title: "Adjust Your Compass Now: the North Pole is Migrating to Russia"
 date: 2011-03-07T10:16:35
-slug: adjust-your-compass-now-the-north-pole-is-migrating-to-russia
+slug: "adjust-your-compass-now-the-north-pole-is-migrating-to-russia"
 excerpt: "In June of last year, we posted about the Quest for the South Magnetic Pole.  Recently the Independent featured an article describing how the magnetic north pole is  moving faster than at any time in human history, apparently shifting from Canada … Continue reading &rarr;"
 categories:
   - "Current"

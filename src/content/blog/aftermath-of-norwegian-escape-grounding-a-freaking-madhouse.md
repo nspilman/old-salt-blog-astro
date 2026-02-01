@@ -1,7 +1,7 @@
 ---
 title: "Aftermath of Norwegian Escape Grounding — ‘a Freaking Madhouse’"
 date: 2022-03-19T17:24:15
-slug: aftermath-of-norwegian-escape-grounding-a-freaking-madhouse
+slug: "aftermath-of-norwegian-escape-grounding-a-freaking-madhouse"
 excerpt: "A cruise on the Norwegian Escape that sailed from Port Canaveral, Florida last Monday didn’t go well, and for a change, had little to do with Covid 19. On the second day of the cruise, the ship ran aground in … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Who Blew Up the Nord Stream Pipelines — Ukraine, US or Russia?"
 date: 2023-03-28T17:10:00
-slug: who-blew-up-the-nord-stream-pipelines-ukraine-us-or-russia
+slug: "who-blew-up-the-nord-stream-pipelines-ukraine-us-or-russia"
 excerpt: "On September 26, 2022, a series of clandestine bombings resulted in underwater gas leaks from the Nord Stream 1 and Nord Stream 2 natural gas pipelines. Both pipelines were built to transport natural gas from Russia to Germany through the Baltic Sea, and are … Continue reading &rarr;"
 categories:
   - "Current"

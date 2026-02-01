@@ -1,8 +1,8 @@
 ---
 title: "The Truly Tall Ship Oliver Hazard Perry"
 date: 2015-04-07T14:04:54
-slug: the-truly-tall-ship-oliver-hazard-perry
-excerpt: "These days just about anything with a mast or two is called a “tall ship.”  Some are and many are not.  One ship that definitely qualifies is Rhode Island’s Oliver Hazard Perry.   A dedicated team of riggers has just about … Continue reading &rarr;"
+slug: "the-truly-tall-ship-oliver-hazard-perry"
+excerpt: "These days just about anything with a mast or two is called a \"tall ship.\"  Some are and many are not.  One ship that definitely qualifies is Rhode Island’s Oliver Hazard Perry.   A dedicated team of riggers has just about … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

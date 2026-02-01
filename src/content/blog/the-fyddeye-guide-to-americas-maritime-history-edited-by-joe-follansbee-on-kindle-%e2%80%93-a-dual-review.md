@@ -1,7 +1,7 @@
 ---
 title: "The Fyddeye Guide to America’s Maritime History edited by Joe Follansbee, on Kindle – A Dual Review"
 date: 2011-03-05T08:34:07
-slug: the-fyddeye-guide-to-americas-maritime-history-edited-by-joe-follansbee-on-kindle-%e2%80%93-a-dual-review
+slug: "the-fyddeye-guide-to-americas-maritime-history-edited-by-joe-follansbee-on-kindle-%e2%80%93-a-dual-review"
 excerpt: "I recently purchased Joe Follansbee’s The Fyddeye Guide to America’s Maritime History – 2,000+ Tall Ships, Lighthouses, Historic Ships, Maritime Museums, and More. Rather than purchasing a dead-tree version, I bought the guide as an e-book for Kindle. This is, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

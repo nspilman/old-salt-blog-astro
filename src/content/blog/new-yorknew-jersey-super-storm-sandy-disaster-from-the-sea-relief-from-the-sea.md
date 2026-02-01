@@ -1,7 +1,7 @@
 ---
 title: "New York/New Jersey & Super-storm Sandy – Disaster from the Sea & Relief from the Sea"
 date: 2012-11-03T16:08:20
-slug: new-yorknew-jersey-super-storm-sandy-disaster-from-the-sea-relief-from-the-sea
+slug: "new-yorknew-jersey-super-storm-sandy-disaster-from-the-sea-relief-from-the-sea"
 excerpt: "The super-storm Sandy swept in from the Atlantic on Monday night, leaving millions without power, destroying thousands of homes, killing scores and dramatically rearranging the landscape of the Jersey shore. Many New York subways went underwater. Fuel supplies are extremely … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Large Model of H.M.S. Leviathan to be Sold in Maritime Sale"
 date: 2010-04-08T10:25:50
-slug: large-model-of-h-m-s-leviathan-to-be-sold-in-maritime-sale
+slug: "large-model-of-h-m-s-leviathan-to-be-sold-in-maritime-sale"
 excerpt: "Large Model of H.M.S. Leviathan to be Sold in Aid of Rotherham Sea Cadet Corps in Maritime Sale A monumental model of H.M.S. Leviathan will be offered by Charles Miller Ltd on Wednesday, April 28, 2010 in his sale of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Clocks from the Monitor’s Engine Room and the Lusitania’s Captain"
 date: 2010-05-03T19:13:21
-slug: clocks-from-the-monitors-engine-room-and-the-lusitania-s-captain
+slug: "clocks-from-the-monitors-engine-room-and-the-lusitania-s-captain"
 excerpt: "Thanks to Alaric Bond for passing along two articles about historic maritime clocks.   The conservators at the Mariner’s Museum have restored the engine room clock from the USS Monitor which sank in 1862.   On the other side of the Atlantic, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Ultra-Large Container Ship, Ever Given, Blocks Suez Canal"
 date: 2021-03-24T10:16:44
-slug: ultra-large-container-ship-ever-given-blocks-suez-canal
+slug: "ultra-large-container-ship-ever-given-blocks-suez-canal"
 excerpt: "On Tuesday morning, Ever Given, an ultra-large container ship capable of carrying 20,000 TEU, ran aground in the Suez Canal suffering a blackout in high winds during a dust storm. The ship became stuck sideways in the canal blocking both … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "World Oceans Day on the Lilac — Answering the Ocean’s Call: Stewardship of Our Ocean, Our Future"
 date: 2017-06-06T09:05:26
-slug: world-oceans-day-lilac-answering-oceans-call-stewardship-ocean-future
+slug: "world-oceans-day-lilac-answering-oceans-call-stewardship-ocean-future"
 excerpt: "If you are around New York harbor on Thursday, June 8th, from 6 — 7:45 PM, stop by the historic USCG Cutter Lilac at Pier 25 on the Hudson River to celebrate World Oceans Day. The Lilac Preservation Project is hosting … Continue reading &rarr;"
 categories:
   - "Current"

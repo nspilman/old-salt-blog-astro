@@ -1,8 +1,8 @@
 ---
 title: "Admiral James Holloway III Dies at 97"
 date: 2019-11-29T14:04:41
-slug: admiral-james-holloway-iii-dies-at-97
-excerpt: "Admiral James Holloway III has died at the age of 97. He had dementia, said his daughter Jane Holloway, and “finally got to landing on that great big carrier in the sky.” Seventy-five years ago, on October 25, 1944, Holloway … Continue reading &rarr;"
+slug: "admiral-james-holloway-iii-dies-at-97"
+excerpt: "Admiral James Holloway III has died at the age of 97. He had dementia, said his daughter Jane Holloway, and \"finally got to landing on that great big carrier in the sky.\" Seventy-five years ago, on October 25, 1944, Holloway … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -10,7 +10,7 @@ categories:
 tags:
   - "Admiral James Holloway III"
 author: "Rick Spilman"
-description: "Admiral James Holloway III has died at the age of 97. He had dementia, said his daughter Jane Holloway, and “finally got to landing on that great big carrier in the sky.” Seventy-five years ago, on October 25, 1944, Holloway … Continue reading &rarr;"
+description: "Admiral James Holloway III has died at the age of 97. He had dementia, said his daughter Jane Holloway, and \"finally got to landing on that great big carrier in the sky.\" Seventy-five years ago, on October 25, 1944, Holloway … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/11/admholloway.jpg)[Admiral James Holloway III](https://www.history.navy.mil/content/history/nhhc/research/histories/biographies-list/bios-h/holloway-james-l.html) has died at the age of 97. He had dementia, said his daughter Jane Holloway, and “finally got to landing on that great big carrier in the sky.”

@@ -1,7 +1,7 @@
 ---
 title: "Engine Room Fire on Carnival Liberty Cuts Short Trip — Chronic Cruise Ship Problem Continues"
 date: 2015-09-10T20:47:16
-slug: engine-room-on-carnival-liberty-cuts-short-trip-chronic-cruise-ship-problem-continues
+slug: "engine-room-on-carnival-liberty-cuts-short-trip-chronic-cruise-ship-problem-continues"
 excerpt: "Last Sunday, a fire broke out in the engine room of the 3,299 passenger Carnival Liberty after docking in Saint Thomas.  The passengers were disembarked and the fire was extinguished with the ship’s automated fire fighting system.  No injuries were reported. The damage was … Continue reading &rarr;"
 categories:
   - "Current"

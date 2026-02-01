@@ -1,8 +1,8 @@
 ---
 title: "Update: The Junk Free China on Her Way Back to Taiwan"
 date: 2012-04-25T11:42:00
-slug: update-the-junk-free-china-on-her-way-back-to-taiwan
-excerpt: "In December, 2008, we posted about “A Junk at Risk.” The Free China, a historic century-old Fujian sailing junk, was on the verge of being scrapped. The junk made international headlines in 1955 when an inexperienced crew of five Chinese … Continue reading &rarr;"
+slug: "update-the-junk-free-china-on-her-way-back-to-taiwan"
+excerpt: "In December, 2008, we posted about \"A Junk at Risk.\" The Free China, a historic century-old Fujian sailing junk, was on the verge of being scrapped. The junk made international headlines in 1955 when an inexperienced crew of five Chinese … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Dione Chen"
   - "Free China"
 author: "Rick Spilman"
-description: "In December, 2008, we posted about “A Junk at Risk.” The Free China, a historic century-old Fujian sailing junk, was on the verge of being scrapped. The junk made international headlines in 1955 when an inexperienced crew of five Chinese … Continue reading &rarr;"
+description: "In December, 2008, we posted about \"A Junk at Risk.\" The Free China, a historic century-old Fujian sailing junk, was on the verge of being scrapped. The junk made international headlines in 1955 when an inexperienced crew of five Chinese … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2008/12/freechina11.jpg)In December, 2008, we posted about “[A Junk at Risk.](http://www.oldsaltblog.com/2008/12/03/a-junk-at-risk/)” The *Free China*, a historic century-old Fujian sailing junk, was on the verge of being scrapped. The junk made international headlines in 1955 when an inexperienced crew of five Chinese fishermen and one American diplomat beat the odds to make a transpacific voyage from Taiwan to San Francisco. In our post we quoted [Dione Chen](http://sanfrancisco.cbslocal.com/tag/dione-chen/), who was spearheading the effort to save the old 80-foot long fishing vessel. Her connection with the junk was personal. Her father had been one of the sailors on the momentous voyage across the Pacific.

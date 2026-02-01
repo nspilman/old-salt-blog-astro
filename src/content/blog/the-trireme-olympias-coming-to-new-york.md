@@ -1,8 +1,8 @@
 ---
 title: "The Trireme Olympias Coming to New York ?"
 date: 2010-07-18T08:35:42
-slug: the-trireme-olympias-coming-to-new-york
-excerpt: "There are plans to bring the trimere Olympias to New York harbor in 2012 coincide with the Tall Ships “OpSail” and July 4th celebrations. The Trireme Olympias Coming Soon to New York The H.N. Olympias is a full-scale, working replica … Continue reading &rarr;"
+slug: "the-trireme-olympias-coming-to-new-york"
+excerpt: "There are plans to bring the trimere Olympias to New York harbor in 2012 coincide with the Tall Ships \"OpSail\" and July 4th celebrations. The Trireme Olympias Coming Soon to New York The H.N. Olympias is a full-scale, working replica … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,9 +11,9 @@ tags:
   - "Athenian trireme"
   - "new york harbor"
   - "Olympias"
-  - "Tall Ships "OpSail""
+  - "Tall Ships \"OpSail\""
 author: "Rick Spilman"
-description: "There are plans to bring the trimere Olympias to New York harbor in 2012 coincide with the Tall Ships “OpSail” and July 4th celebrations. The Trireme Olympias Coming Soon to New York The H.N. Olympias is a full-scale, working replica … Continue reading &rarr;"
+description: "There are plans to bring the trimere Olympias to New York harbor in 2012 coincide with the Tall Ships \"OpSail\" and July 4th celebrations. The Trireme Olympias Coming Soon to New York The H.N. Olympias is a full-scale, working replica … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/olympias1.jpg)There are plans to bring the trimere *Olympias* to New York harbor in 2012 coincide with the Tall Ships “OpSail” and July 4th celebrations.

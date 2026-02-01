@@ -1,7 +1,7 @@
 ---
 title: "Pride of the Ladies’ Gunboat Association — CSS Georgia Artifacts Recovered"
 date: 2015-08-23T08:01:37
-slug: pride-of-the-ladies-gunboat-association-css-georgia-artifacts-recovered
+slug: "pride-of-the-ladies-gunboat-association-css-georgia-artifacts-recovered"
 excerpt: "Navy divers, working with the United States Army Corps of Engineers, are attempting to raise what is left of the 250′ long CSS Georgia, an ironclad warship from the Civil War, in preparation for dredging the Savannah River.  The river is … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "The Hidden Harbors of Staten Island — October 15th"
 date: 2017-10-02T17:14:11
-slug: hidden-harbors-staten-island-october-15th
-excerpt: "On Sunday, October 15, the Working Waterfront Committee is presenting “The Hidden Harbors of Staten Island,” a behind the scenes tour of a fascinating island led by Mitch Waxman of the Newtown Creek Alliance and Gordon Cooper, WHC Board Member … Continue reading &rarr;"
+slug: "hidden-harbors-staten-island-october-15th"
+excerpt: "On Sunday, October 15, the Working Waterfront Committee is presenting \"The Hidden Harbors of Staten Island,\" a behind the scenes tour of a fascinating island led by Mitch Waxman of the Newtown Creek Alliance and Gordon Cooper, WHC Board Member … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Staten Island"
   - "Working Waterfront Committee"
 author: "Rick Spilman"
-description: "On Sunday, October 15, the Working Waterfront Committee is presenting “The Hidden Harbors of Staten Island,” a behind the scenes tour of a fascinating island led by Mitch Waxman of the Newtown Creek Alliance and Gordon Cooper, WHC Board Member … Continue reading &rarr;"
+description: "On Sunday, October 15, the Working Waterfront Committee is presenting \"The Hidden Harbors of Staten Island,\" a behind the scenes tour of a fascinating island led by Mitch Waxman of the Newtown Creek Alliance and Gordon Cooper, WHC Board Member … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/10/SIHiddenharbor.jpg)On Sunday, October 15, the [Working Waterfront Committee](http://workingharbor.org/) is presenting “[The Hidden Harbors of Staten Island](https://www.nycharities.org/events/EventLevels.aspx?ETID=10142),” a behind the scenes tour of a fascinating island led by Mitch Waxman of the Newtown Creek Alliance and Gordon Cooper, WHC Board Member and maritime consultant. From the WHC Hidden Harbor Tour press release:

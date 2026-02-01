@@ -1,7 +1,7 @@
 ---
 title: "Commander Etta Jones Found Guilty of Cruelty and Other Charges"
 date: 2011-12-08T16:23:19
-slug: commander-etta-jones-found-guilty-of-cruelty-and-other-charges
+slug: "commander-etta-jones-found-guilty-of-cruelty-and-other-charges"
 excerpt: "Last April, Commander Etta Jones was relieved of duty as captain of the amphibious transport dock ship USS Ponce. The Ponce‘s executive officer, Lt. Cmdr. Kurt Boenisch, was also relieved. A Navy report examining allegations made against Commander Jones substantiated … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "SV Kwai — Cargo and Passenger Service Under Sail in the South Pacific"
 date: 2018-06-29T09:45:37
-slug: sv-kwai-cargo-and-passenger-service-under-sail-in-the-south-pacific
+slug: "sv-kwai-cargo-and-passenger-service-under-sail-in-the-south-pacific"
 excerpt: "We recently posted about crewing opportunities for the auxiliary-sail trading vessel Tiare Taporo operating from the Cook Islands. The Tiare Taporo is, however, not the only commercial sailing vessel serving the Cook islands. The SV Kwai will soon be departing on its 45th voyage from Hawaii calling … Continue reading &rarr;"
 categories:
   - "Current"

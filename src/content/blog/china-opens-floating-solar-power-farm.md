@@ -1,7 +1,7 @@
 ---
 title: "China Opens Floating Solar Power Farm"
 date: 2017-06-08T19:46:08
-slug: china-opens-floating-solar-power-farm
+slug: "china-opens-floating-solar-power-farm"
 excerpt: "This is only slightly nautical, but I find it interesting, nevertheless. China has opened a floating solar power farm.  Unlike offshore wind power, the facility is not at sea.  The 40-megawatt solar power plant is floating over what was once an … Continue reading &rarr;"
 categories:
   - "Current"

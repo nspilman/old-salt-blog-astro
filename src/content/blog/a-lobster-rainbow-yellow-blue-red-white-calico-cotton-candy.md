@@ -1,8 +1,8 @@
 ---
 title: "A Lobster Rainbow — Yellow, Blue, Red, White, Calico, & Cotton Candy"
 date: 2021-11-17T17:59:21
-slug: a-lobster-rainbow-yellow-blue-red-white-calico-cotton-candy
-excerpt: "Recently, the media has been reporting the capture by lobsterman Billy Coppersmith of a rare “cotton candy” colored lobster. The speckled iridescent blue lobster, said to be a one in a 100 million catch, will not be sold or cooked. … Continue reading &rarr;"
+slug: "a-lobster-rainbow-yellow-blue-red-white-calico-cotton-candy"
+excerpt: "Recently, the media has been reporting the capture by lobsterman Billy Coppersmith of a rare \"cotton candy\" colored lobster. The speckled iridescent blue lobster, said to be a one in a 100 million catch, will not be sold or cooked. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Seacoast Science Center"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/cottonclob.jpg"
 author: "Rick Spilman"
-description: "Recently, the media has been reporting the capture by lobsterman Billy Coppersmith of a rare “cotton candy” colored lobster. The speckled iridescent blue lobster, said to be a one in a 100 million catch, will not be sold or cooked. … Continue reading &rarr;"
+description: "Recently, the media has been reporting the capture by lobsterman Billy Coppersmith of a rare \"cotton candy\" colored lobster. The speckled iridescent blue lobster, said to be a one in a 100 million catch, will not be sold or cooked. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/cottonclob.jpg)Recently, the [media has been reporting](https://www.washingtonpost.com/lifestyle/2021/11/15/cotton-candy-lobster-maine-aquarium/) the capture by lobsterman Billy Coppersmith of a rare “cotton candy” colored lobster. The speckled iridescent blue lobster, said to be a one in a 100 million catch, will not be sold or cooked. She will be on display later this week at the [Seacoast Science Center in Rye, N.H.](https://www.seacoastsciencecenter.org/) where she should live out her days in relative comfort in the aquarium.

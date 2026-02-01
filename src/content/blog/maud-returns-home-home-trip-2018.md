@@ -1,7 +1,7 @@
 ---
 title: "Maud Returns Home — Home Trip 2018"
 date: 2018-06-23T09:50:07
-slug: maud-returns-home-home-trip-2018
+slug: "maud-returns-home-home-trip-2018"
 excerpt: "For several years, we have been following the attempts to raise Arctic explorer Roald Amundsen‘s research ship Maud from where it has been sitting in ice and mud for close to 90 years. To say that the conditions in Cambridge Bay off the Nunavut … Continue reading &rarr;"
 categories:
   - "Current"

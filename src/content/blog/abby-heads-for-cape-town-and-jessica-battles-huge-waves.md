@@ -1,7 +1,7 @@
 ---
 title: "Abby Heads for Cape Town and Jessica Battles Huge Waves"
 date: 2010-04-25T10:00:31
-slug: abby-heads-for-cape-town-and-jessica-battles-huge-waves
+slug: "abby-heads-for-cape-town-and-jessica-battles-huge-waves"
 excerpt: "Abby Sunderland’s attempt to become the youngest sailor to sail around the world non-stop ended as she decided to put into Cape Town due to mechanical failures.  The boat’s main autopilot has been giving her problems during the voyage recently … Continue reading &rarr;"
 categories:
   - "Current"

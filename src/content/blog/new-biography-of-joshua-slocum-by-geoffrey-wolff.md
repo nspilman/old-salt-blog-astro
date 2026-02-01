@@ -1,7 +1,7 @@
 ---
 title: "New Biography of Joshua Slocum by Geoffrey Wolff"
 date: 2010-11-03T07:36:02
-slug: new-biography-of-joshua-slocum-by-geoffrey-wolff
+slug: "new-biography-of-joshua-slocum-by-geoffrey-wolff"
 excerpt: "The Boston Globe has an interesting interview with Geoffrey Wolff, who has written a new biography of Joshua Slocum, The Hard Way Around: The Passages of Joshua Slocum. The book also got a rave review by Nathaniel Phibrick in the New York … Continue reading &rarr;"
 categories:
   - "Newbooks"

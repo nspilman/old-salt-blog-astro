@@ -1,7 +1,7 @@
 ---
 title: "Update: Grim Conditions Aboard Carnival Triumph Under Tow to Mobile"
 date: 2013-02-12T12:53:37
-slug: update-grim-conditions-aboard-carnival-triumph-under-tow-to-mobile
+slug: "update-grim-conditions-aboard-carnival-triumph-under-tow-to-mobile"
 excerpt: "Conditions aboard the Carnival Triumph are reported to be growing increasingly grim. Since the ship was disabled by an engine room fire on Sunday off the coast of Mexico with over 4,000 passengers and crew aboard, there has no hot food, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

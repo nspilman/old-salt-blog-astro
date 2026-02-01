@@ -1,7 +1,7 @@
 ---
 title: "Charles W. Morgan Day at Mystic Seaport"
 date: 2012-11-07T15:55:29
-slug: charles-w-morgan-day-at-mystic-seaport
+slug: "charles-w-morgan-day-at-mystic-seaport"
 excerpt: "This Saturday November 10, 2012, from 10 a.m. – 7:30 p.m,, the Mystic Seaport Museum is celebrating the 71st anniversary of the arrival in Mystic of the whale ship Charles W. Morgan.  The Morgan was launched in 1841 and is … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,8 +1,8 @@
 ---
 title: "First Large Tanker to Transit Russia’s Northeast Passage"
 date: 2010-08-20T09:55:42
-slug: first-large-tanker-to-transit-russias-northeast-passage
-excerpt: "Interesting news from various sources on the first large tanker to transit Russia’s Northeast Passage through the Arctic.  The Barents Observer reports that the “100,000 tons tanker Baltica left Murmansk on Saturday loaded with gas condensate for China. This is … Continue reading &rarr;"
+slug: "first-large-tanker-to-transit-russias-northeast-passage"
+excerpt: "Interesting news from various sources on the first large tanker to transit Russia’s Northeast Passage through the Arctic.  The Barents Observer reports that the \"100,000 tons tanker Baltica left Murmansk on Saturday loaded with gas condensate for China. This is … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Baltica"
   - "Northern Sea Route"
 author: "Rick Spilman"
-description: "Interesting news from various sources on the first large tanker to transit Russia’s Northeast Passage through the Arctic.  The Barents Observer reports that the “100,000 tons tanker Baltica left Murmansk on Saturday loaded with gas condensate for China. This is … Continue reading &rarr;"
+description: "Interesting news from various sources on the first large tanker to transit Russia’s Northeast Passage through the Arctic.  The Barents Observer reports that the \"100,000 tons tanker Baltica left Murmansk on Saturday loaded with gas condensate for China. This is … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/baltica.jpg)Interesting news from various sources on the first large tanker to transit Russia’s Northeast Passage through the Arctic.  The [Barents Observer](http://www.barentsobserver.com/first-high-tonnage-tanker-through-northeast-passage.4809756-16175.html) reports that the “*100,000 tons tanker Baltica left Murmansk on Saturday loaded with gas condensate for China. This is the first time a high-tonnage tanker takes the Northern Sea Route from Europe to Asia.”* The Barents Observer also reports, *” The tanker will be followed by the nuclear ice breakers “Rossiya”, “Taymyr” and “50 years of Victory”. The latter will have divers and specialists on oil spill clean-up as well as necessary equipment. “*  

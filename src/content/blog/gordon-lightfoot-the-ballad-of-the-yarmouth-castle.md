@@ -1,7 +1,7 @@
 ---
 title: "Gordon Lightfoot & the Ballad of the Yarmouth Castle"
 date: 2022-11-19T18:40:40
-slug: gordon-lightfoot-the-ballad-of-the-yarmouth-castle
+slug: "gordon-lightfoot-the-ballad-of-the-yarmouth-castle"
 excerpt: "A belated happy birthday to Canadian singer/songwriter Gordon Lightfoot, who turned 84 the day before yesterday. Often referred to as Canada’s greatest songwriter, Lightfoot is also a sailor, having owned and sailed the 39′ Sundown and the 45′ Golden Goose. … Continue reading &rarr;"
 categories:
   - "History"

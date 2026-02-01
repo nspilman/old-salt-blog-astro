@@ -1,7 +1,7 @@
 ---
 title: "Journey to Restoration: Mayflower II at Mystic Seaport DuPont Shipyard"
 date: 2016-05-20T12:49:41
-slug: journey-restoration-mayflower-ii-mystic-seaport-mystic-seaport-mystic-seaport
+slug: "journey-restoration-mayflower-ii-mystic-seaport-mystic-seaport-mystic-seaport"
 excerpt: "Mystic Seaport’s Henry B. duPont Preservation Shipyard is working in partnership with Plimoth Plantation to restore Mayflower II. Mayflower II will move back to its berth at the Plimouth Plantation for the summer and then return to Mystic for an extended … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

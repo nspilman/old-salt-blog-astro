@@ -1,7 +1,7 @@
 ---
 title: "Manta Ray Camera Thief"
 date: 2010-09-15T07:59:27
-slug: manta-ray-camera-thief
+slug: "manta-ray-camera-thief"
 excerpt: "On an exhilarating manta ray night dive off Kailua-Kona, Hawaii in August, a manta ray steals a cameraman’s rig.  Thanks to Bill Nyden for pointing this out. Manta Ray Absconds With $5,000 Camera The once-in-a-lifetime encounter between an underwater cameraman and a larceny-minded manta ray … Continue reading &rarr;"
 categories:
   - "Current"

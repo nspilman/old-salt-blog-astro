@@ -1,8 +1,8 @@
 ---
 title: "The Great Chesapeake Schooner Race 2017 — Racing to Save the Bay"
 date: 2017-10-08T11:40:34
-slug: great-chesapeake-schooner-race-2017-racing-save-bay
-excerpt: "The festivities associated with the Great Chesapeake Schooner Race 2017 kick off tomorrow at 10 AM with a  “Salute to Schooners,” where schooners and other vessels will “fire” cannons, horns, etc. On land, students from Baltimore City schools will sing … Continue reading &rarr;"
+slug: "great-chesapeake-schooner-race-2017-racing-save-bay"
+excerpt: "The festivities associated with the Great Chesapeake Schooner Race 2017 kick off tomorrow at 10 AM with a  \"Salute to Schooners,\" where schooners and other vessels will \"fire\" cannons, horns, etc. On land, students from Baltimore City schools will sing … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Great Chesapeake Schooner Race"
   - "Racing to Save the Bay"
 author: "Rick Spilman"
-description: "The festivities associated with the Great Chesapeake Schooner Race 2017 kick off tomorrow at 10 AM with a  “Salute to Schooners,” where schooners and other vessels will “fire” cannons, horns, etc. On land, students from Baltimore City schools will sing … Continue reading &rarr;"
+description: "The festivities associated with the Great Chesapeake Schooner Race 2017 kick off tomorrow at 10 AM with a  \"Salute to Schooners,\" where schooners and other vessels will \"fire\" cannons, horns, etc. On land, students from Baltimore City schools will sing … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/10/gcsrbanner1.jpg)The festivities associated with the [Great Chesapeake Schooner Race 2017](http://www.gcbsr.org/) kick off tomorrow at 10 AM with a  “Salute to Schooners,” where schooners and other vessels will “fire” cannons, horns, etc. On land, students from Baltimore City schools will sing and play a musical tribute to the USA. From 1700-1900 hours, (5PM  – 7 PM) the schooners will be available for viewing dockside in Canton at the Baltimore Marine Center at Lighthouse Point. 

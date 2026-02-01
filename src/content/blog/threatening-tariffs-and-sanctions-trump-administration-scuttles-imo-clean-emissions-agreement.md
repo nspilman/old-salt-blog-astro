@@ -1,7 +1,7 @@
 ---
 title: "Threatening Tariffs and Sanctions, Trump Administration Scuttles IMO Clean Emissions Agreement"
 date: 2025-10-17T16:54:51
-slug: threatening-tariffs-and-sanctions-trump-administration-scuttles-imo-clean-emissions-agreement
+slug: "threatening-tariffs-and-sanctions-trump-administration-scuttles-imo-clean-emissions-agreement"
 excerpt: "During a meeting of the International Maritime Organization (IMO) in London, the Trump administration issued a torrent of threats of tariffs and other sanctions to block a landmark deal to cut global shipping emissions. The IMO plan was intended to … Continue reading &rarr;"
 categories:
   - "Current"

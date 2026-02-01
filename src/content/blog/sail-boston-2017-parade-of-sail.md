@@ -1,7 +1,7 @@
 ---
 title: "Sail Boston 2017 — Parade of Sail"
 date: 2017-06-18T11:22:58
-slug: sail-boston-2017-parade-of-sail
+slug: "sail-boston-2017-parade-of-sail"
 excerpt: "Delayed for an hour by fog, the Parade of Sail at Sail Boston 2017 was still breathtaking even if the weather did not cooperate.  The Sail Boston 2017 festival continues through Thursday, June 22. Click here for a list of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

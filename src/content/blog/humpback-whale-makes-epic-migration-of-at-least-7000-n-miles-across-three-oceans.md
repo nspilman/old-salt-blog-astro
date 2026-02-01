@@ -1,7 +1,7 @@
 ---
 title: "Humpback Whale Makes Epic Migration of at Least 7,000 N Miles Across Three Oceans"
 date: 2024-12-11T13:34:50
-slug: humpback-whale-makes-epic-migration-of-at-least-7000-n-miles-across-three-oceans
+slug: "humpback-whale-makes-epic-migration-of-at-least-7000-n-miles-across-three-oceans"
 excerpt: "The BBC reports that a humpback whale has made one of the longest and most unusual migrations ever recorded, possibly driven by climate change, scientists say. It was seen in the Pacific Ocean off Colombia in 2017 and then popped up … Continue reading &rarr;"
 categories:
   - "Current"

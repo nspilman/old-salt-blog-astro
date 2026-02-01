@@ -1,7 +1,7 @@
 ---
 title: "Sailing-Time Warp in Bermuda — AC50 Foiling Cats and J Boats"
 date: 2017-06-21T15:00:09
-slug: sailing-time-warp-bermuda-ac50-foiling-cats-j-boats
+slug: "sailing-time-warp-bermuda-ac50-foiling-cats-j-boats"
 excerpt: "While the big show at the America’s Cup races in Bermuda are the AC50s, the high-tech foiling catamarans literally flying across the courses, one might be excused for a sense of falling into a time warp, as just off the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

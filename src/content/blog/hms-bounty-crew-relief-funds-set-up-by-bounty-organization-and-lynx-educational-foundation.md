@@ -1,7 +1,7 @@
 ---
 title: "HMS Bounty Crew Relief Funds Set up by Bounty Organization and Lynx Educational Foundation"
 date: 2012-11-02T13:42:16
-slug: hms-bounty-crew-relief-funds-set-up-by-bounty-organization-and-lynx-educational-foundation
+slug: "hms-bounty-crew-relief-funds-set-up-by-bounty-organization-and-lynx-educational-foundation"
 excerpt: "Following the tragic sinking of HMS Bounty, both the HMS Bounty organization and the Lynx Educational Foundation have set up relief funds for the crews and families of those lost on the ship. From the Bounty Facebook page: A Relief … Continue reading &rarr;"
 categories:
   - "Current"

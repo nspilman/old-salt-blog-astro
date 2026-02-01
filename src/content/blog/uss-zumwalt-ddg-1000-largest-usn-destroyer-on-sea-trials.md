@@ -1,7 +1,7 @@
 ---
 title: "USS Zumwalt, DDG 1000, Largest USN Destroyer on Sea Trials"
 date: 2015-12-08T10:17:28
-slug: uss-zumwalt-ddg-1000-largest-usn-destroyer-on-sea-trials
+slug: "uss-zumwalt-ddg-1000-largest-usn-destroyer-on-sea-trials"
 excerpt: "The USS Zumwalt, DDG 1000, the largest and most expensive destroyer ever built for the US Navy, headed down the Kennebeck River from Bath Iron Works, in Bath, Maine yesterday, on its way to sea trials in the open Atlantic. Depending … Continue reading &rarr;"
 categories:
   - "Current"

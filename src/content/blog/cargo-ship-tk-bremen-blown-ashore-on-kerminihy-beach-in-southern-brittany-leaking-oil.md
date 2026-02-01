@@ -1,7 +1,7 @@
 ---
 title: "Cargo Ship TK Bremen Blown Ashore on Kerminihy Beach  in Southern Brittany, Leaking Oil"
 date: 2011-12-16T16:12:43
-slug: cargo-ship-tk-bremen-blown-ashore-on-kerminihy-beach-in-southern-brittany-leaking-oil
+slug: "cargo-ship-tk-bremen-blown-ashore-on-kerminihy-beach-in-southern-brittany-leaking-oil"
 excerpt: "The Maltese flagged 6,600 DWT dry cargo ship, TK Bremen, was stranded this morning in high winds on Kerminihy beach at Erdeven, in southern Brittany, near the port of Lorient, France. Some of the 220 tons of fuel on board … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

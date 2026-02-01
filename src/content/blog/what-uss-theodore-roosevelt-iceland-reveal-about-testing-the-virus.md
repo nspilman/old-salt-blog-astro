@@ -1,7 +1,7 @@
 ---
 title: "What USS Theodore Roosevelt & Iceland Reveal About Testing & the Virus"
 date: 2020-04-19T10:22:03
-slug: what-uss-theodore-roosevelt-iceland-reveal-about-testing-the-virus
+slug: "what-uss-theodore-roosevelt-iceland-reveal-about-testing-the-virus"
 excerpt: "When the COVID-19 infection broke out on the aircraft carrier USS Theodore Roosevelt, the decision was made to test all the 4,865 sailors aboard the ship. As of today, the Navy says that 94% of the crew has been tested. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "In the Absence, Academy Award Nominated Short Documentary on the MV Sewol Sinking"
 date: 2020-01-31T17:52:40
-slug: in-the-absence-academy-award-nominated-short-documentary-on-the-mv-sewol-sinking
+slug: "in-the-absence-academy-award-nominated-short-documentary-on-the-mv-sewol-sinking"
 excerpt: "On the morning of April 16, 2014, the ro-ro/passenger ferry MV Sewol, traveling from Incheon to Jeju in South Korea, capsized and sank. Of the 476 passengers and crew, 304 died, including 250 students on a class trip. Questions as … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

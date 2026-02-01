@@ -1,7 +1,7 @@
 ---
 title: "Playing the East River Piano Under the Brooklyn Bridge"
 date: 2014-06-01T14:42:25
-slug: playing-the-east-river-piano-under-the-brooklyn-bridge
+slug: "playing-the-east-river-piano-under-the-brooklyn-bridge"
 excerpt: "A few years ago we posted about a grand piano which rather mysteriously showed up on a sandbar in Biscayne Bay near Miami.   A few days ago, a grand piano showed up on a sand beach beneath the Brooklyn Bridge … Continue reading &rarr;"
 categories:
   - "Current"

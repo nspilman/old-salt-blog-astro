@@ -1,7 +1,7 @@
 ---
 title: "In Transatlantic Race, Can Dorade Repeat the Magic of 84 Years Ago?"
 date: 2015-06-10T19:06:32
-slug: in-transatlantic-race-can-dorade-repeat-the-magic-of-84-years-ago
+slug: "in-transatlantic-race-can-dorade-repeat-the-magic-of-84-years-ago"
 excerpt: "Toward the end of June, the 52′ yawl Dorade will be joining 40 other yachts to race 2,800 nautical miles in the Transatlantic Race 2015, which starts in Newport, R.I., and finishes off the southwestern coast of England. This is not the … Continue reading &rarr;"
 categories:
   - "Current"

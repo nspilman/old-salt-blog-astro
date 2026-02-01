@@ -1,7 +1,7 @@
 ---
 title: "The Sewol Tragedy: Death Toll Rising, Possible Overloading"
 date: 2014-04-24T16:26:39
-slug: the-sewol-tragedy-death-toll-rising-possible-overloading
+slug: "the-sewol-tragedy-death-toll-rising-possible-overloading"
 excerpt: "The death toll in the sinking of the Korean passenger ro-ro ferry Sewol  has risen to 171 with 130 still missing.  The ferry capsized and sank in the Yellow Sea last Wednesday, April 16th, on a voyage from Incheon to … Continue reading &rarr;"
 categories:
   - "Current"

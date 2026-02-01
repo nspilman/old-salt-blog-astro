@@ -1,8 +1,8 @@
 ---
-title: "“Mind the Light , Kate” — Remembering New York’s Robbins Reef Lighthouse Keeper Kate Walker"
+title: "\"Mind the Light , Kate\" — Remembering New York’s Robbins Reef Lighthouse Keeper Kate Walker"
 date: 2024-03-16T13:12:52
-slug: mind-the-light-kate-remembering-new-yorks-robbins-reef-lighthouse-keeper-kate-walker
-excerpt: "An updated repost in honor of Women’s History Month. In 1886, lighthouse keeper John Walker’s last words to his wife Kate as he died from pneumonia, were “Mind the light, Kate.” Kate, then 38 with two teenage children, took his … Continue reading &rarr;"
+slug: "mind-the-light-kate-remembering-new-yorks-robbins-reef-lighthouse-keeper-kate-walker"
+excerpt: "An updated repost in honor of Women’s History Month. In 1886, lighthouse keeper John Walker’s last words to his wife Kate as he died from pneumonia, were \"Mind the light, Kate.\" Kate, then 38 with two teenage children, took his … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "USCGS Katherine Walker"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/katewalker.jpg"
 author: "Rick Spilman"
-description: "An updated repost in honor of Women’s History Month. In 1886, lighthouse keeper John Walker’s last words to his wife Kate as he died from pneumonia, were “Mind the light, Kate.” Kate, then 38 with two teenage children, took his … Continue reading &rarr;"
+description: "An updated repost in honor of Women’s History Month. In 1886, lighthouse keeper John Walker’s last words to his wife Kate as he died from pneumonia, were \"Mind the light, Kate.\" Kate, then 38 with two teenage children, took his … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/katewalker.jpg)An updated repost in honor of Women’s History Month. In 1886, lighthouse keeper John Walker’s last words to his wife Kate as he died from pneumonia, were “Mind the light, Kate.” Kate, then 38 with two teenage children, took his final wish to heart. She minded the light — from that day on, every single day, for more than three decades.

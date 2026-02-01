@@ -1,7 +1,7 @@
 ---
 title: "The Final Journey of the Willis Avenue Bridge"
 date: 2011-04-12T16:27:26
-slug: the-final-journey-of-the-willis-avenue-bridge
+slug: "the-final-journey-of-the-willis-avenue-bridge"
 excerpt: "It is amazing what you can see passing through New York harbor.   Those awake in the hours before dawn this morning may have seen a highway bridge under tow down the East River around the Battery and across the … Continue reading &rarr;"
 categories:
   - "Current"

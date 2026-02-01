@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Ferry Collision Kills at Least 36"
 date: 2012-10-02T02:52:58
-slug: hong-kong-ferry-collision-kills-at-least-36
+slug: "hong-kong-ferry-collision-kills-at-least-36"
 excerpt: "At least 36 people drowned when a ferry carrying more than 120 collided with another vessel and sank last night around 8:30 pm local time near Lamma island off Hong Kong.   The ferry was taking staff and family members of … Continue reading &rarr;"
 categories:
   - "Current"

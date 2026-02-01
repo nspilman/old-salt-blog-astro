@@ -1,7 +1,7 @@
 ---
 title: "Miami Marlins Pitcher Jose Fernandez Dies in Boating Accident"
 date: 2016-09-26T11:31:46
-slug: miami-marlins-pitcher-jose-fernandez-dies-boating-accident
+slug: "miami-marlins-pitcher-jose-fernandez-dies-boating-accident"
 excerpt: "On Sunday morning, some time around 3AM, a 32′ powerboat slammed into the rocks at high speed at the Governor’s Cut jetty off South Beach, Miami, FL. The three men aboard, including Miami Marlins ace pitcher Jose Fernandez, 24, were … Continue reading &rarr;"
 categories:
   - "Current"

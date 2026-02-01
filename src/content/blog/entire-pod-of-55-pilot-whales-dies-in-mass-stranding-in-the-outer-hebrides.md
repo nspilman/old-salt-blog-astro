@@ -1,7 +1,7 @@
 ---
 title: "Entire Pod of 55 Pilot Whales Dies in Mass Stranding in the Outer Hebrides"
 date: 2023-07-16T19:48:18
-slug: entire-pod-of-55-pilot-whales-dies-in-mass-stranding-in-the-outer-hebrides
+slug: "entire-pod-of-55-pilot-whales-dies-in-mass-stranding-in-the-outer-hebrides"
 excerpt: "The BBC reports that an entire pod of 55 pilot whales died after a mass stranding on a beach in the Outer Hebrides. Only 15 were alive after they washed onto Traigh Mhor beach at North Tolsta on the Isle … Continue reading &rarr;"
 categories:
   - "Current"

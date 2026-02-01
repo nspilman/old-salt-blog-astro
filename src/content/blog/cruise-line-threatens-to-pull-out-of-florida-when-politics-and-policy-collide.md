@@ -1,7 +1,7 @@
 ---
 title: "Cruise Line Threatens to Pull Out of Florida — When Politics and Policy Collide"
 date: 2021-05-11T09:21:42
-slug: cruise-line-threatens-to-pull-out-of-florida-when-politics-and-policy-collide
+slug: "cruise-line-threatens-to-pull-out-of-florida-when-politics-and-policy-collide"
 excerpt: "Florida politics on Covid-19 vaccinations threatens to disrupt the cruise industry restart in Florida. The Centers for Disease Control and Prevention (CDC) recently announced guidelines for trial cruises with volunteer passengers to test safety measures, which will be required for … Continue reading &rarr;"
 categories:
   - "Current"

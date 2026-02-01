@@ -1,7 +1,7 @@
 ---
 title: "First Annual Fundraiser & Restoring Steam to the Lilac, America’s Only Steam-Powered Lighthouse Tender"
 date: 2014-10-27T21:15:23
-slug: first-annual-fundraiser-restoring-steam-to-the-lilac-americas-only-steam-powered-lighthouse-tender
+slug: "first-annual-fundraiser-restoring-steam-to-the-lilac-americas-only-steam-powered-lighthouse-tender"
 excerpt: "If you are in the neighborhood, this is a most worthwhile event.  There is also exiting news. At the fundraiser, the Lilac Preservation Project will announce the launching of a campaign to restore steam to the Lilac, a 1933 lighthouse tender that once carried … Continue reading &rarr;"
 categories:
   - "Current"

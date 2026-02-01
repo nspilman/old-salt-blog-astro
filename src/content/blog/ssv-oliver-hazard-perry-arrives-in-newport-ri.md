@@ -1,7 +1,7 @@
 ---
 title: "SSV Oliver Hazard Perry Arrives in Newport, RI"
 date: 2013-06-23T09:46:49
-slug: ssv-oliver-hazard-perry-arrives-in-newport-ri
+slug: "ssv-oliver-hazard-perry-arrives-in-newport-ri"
 excerpt: "The SSV Oliver Hazard Perry, still not quite finished but nicely taking shape, has arrived in Newport RI to be hauled and to get a fresh coat of paint. She will then will be dockside at the Newport Shipyard for … Continue reading &rarr;"
 categories:
   - "Current"

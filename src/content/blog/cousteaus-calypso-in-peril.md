@@ -1,7 +1,7 @@
 ---
 title: "Cousteau’s Calypso in Peril"
 date: 2015-03-14T08:09:05
-slug: cousteaus-calypso-in-peril
+slug: "cousteaus-calypso-in-peril"
 excerpt: "After a long legal battle, a French court has ordered Francine Cousteau, the second wife of the late Jacques Cousteau, to settle outstanding yard bills of €273,000 and remove the RV Calypso from a Brittany shipyard or the shipyard will … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

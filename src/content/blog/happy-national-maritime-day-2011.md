@@ -1,7 +1,7 @@
 ---
 title: "Happy National Maritime Day 2011"
 date: 2011-05-22T08:51:20
-slug: happy-national-maritime-day-2011
+slug: "happy-national-maritime-day-2011"
 excerpt: "Happy National Maritime Day!  The day has been celebrated in the US since 1933.  After World War II US flag shipping accounted for over 40% of the world’s total fleet.  Currently the US ranks around 10th in the world by … Continue reading &rarr;"
 categories:
   - "Current"

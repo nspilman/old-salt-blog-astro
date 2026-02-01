@@ -1,7 +1,7 @@
 ---
 title: "Irish Fishermen Threaten To Disrupt Russian Naval Exercises, Russia Backs Down"
 date: 2022-01-31T18:33:10
-slug: irish-fishermen-threaten-to-disrupt-russian-naval-exercises-russia-backs-down
+slug: "irish-fishermen-threaten-to-disrupt-russian-naval-exercises-russia-backs-down"
 excerpt: "Russia planned on holding naval exercises off the coast of Ireland. Fishermen from County Cork on Ireland’s southern coast saw the exercises as a threat to their livelihood and threatened to continue fishing as usual, despite the threatened use of … Continue reading &rarr;"
 categories:
   - "Current"

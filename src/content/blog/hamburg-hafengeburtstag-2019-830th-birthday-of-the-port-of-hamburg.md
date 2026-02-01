@@ -1,7 +1,7 @@
 ---
 title: "Hamburg Hafengeburtstag 2019, 830th Birthday of the Port of Hamburg"
 date: 2019-05-13T09:11:24
-slug: hamburg-hafengeburtstag-2019-830th-birthday-of-the-port-of-hamburg
+slug: "hamburg-hafengeburtstag-2019-830th-birthday-of-the-port-of-hamburg"
 excerpt: "This weekend Hamburg celebrated its Hafengeburtstag 2019, the 830th anniversary of the founding of the Port of Hamburg, established in 1189 by Frederick I. And celebrate they did. An estimated 300 ships participated and were greeted by over one million … Continue reading &rarr;"
 categories:
   - "Current"

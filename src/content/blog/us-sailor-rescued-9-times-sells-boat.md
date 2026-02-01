@@ -1,7 +1,7 @@
 ---
 title: "US Sailor Rescued 9 Times Sells Sloop Nora"
 date: 2016-04-17T10:33:05
-slug: us-sailor-rescued-9-times-sells-boat
+slug: "us-sailor-rescued-9-times-sells-boat"
 excerpt: "Steve Shapiro’s frequently rescued sailboat Nora, has been sold. In January, we posted about a pair of American sailors who had been rescued nine times in sailing from Norwalk to Cornwell in the UK on a 40′ gaff rigged sloop named Nora. … Continue reading &rarr;"
 categories:
   - "Current"

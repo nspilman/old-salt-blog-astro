@@ -1,8 +1,8 @@
 ---
 title: "Back From the Dead: Snake Island Border Guards & the Russian Warship"
 date: 2022-04-04T16:58:47
-slug: back-from-the-dead-snake-island-border-guards-the-russian-warship
-excerpt: "On February 24, 2022, the first day of the Russian invasion of Ukraine, the Russian naval vessel Vasily Bykov ordered the 13 Ukrainian border guards on Snake Island in the Black Sea to surrender. The border guards replied, “Russian warship, go f*** yourself“. … Continue reading &rarr;"
+slug: "back-from-the-dead-snake-island-border-guards-the-russian-warship"
+excerpt: "On February 24, 2022, the first day of the Russian invasion of Ukraine, the Russian naval vessel Vasily Bykov ordered the 13 Ukrainian border guards on Snake Island in the Black Sea to surrender. The border guards replied, \"Russian warship, go f*** yourself\". … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -14,7 +14,7 @@ tags:
   - "Ukraine"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/03/Vasily-Bykov-1.jpg"
 author: "Rick Spilman"
-description: "On February 24, 2022, the first day of the Russian invasion of Ukraine, the Russian naval vessel Vasily Bykov ordered the 13 Ukrainian border guards on Snake Island in the Black Sea to surrender. The border guards replied, “Russian warship, go f*** yourself“. … Continue reading &rarr;"
+description: "On February 24, 2022, the first day of the Russian invasion of Ukraine, the Russian naval vessel Vasily Bykov ordered the 13 Ukrainian border guards on Snake Island in the Black Sea to surrender. The border guards replied, \"Russian warship, go f*** yourself\". … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/03/Vasily-Bykov-1.jpg)On February 24, 2022, the first day of the Russian invasion of Ukraine, the Russian naval vessel [*Vasily Bykov*](https://en.wikipedia.org/wiki/Russian_patrol_boat_Vasily_Bykov) ordered the 13 Ukrainian border guards on [Snake Island in the Black Sea](https://en.wikipedia.org/wiki/Attack_on_Snake_Island) to surrender. The border guards replied, “[Russian warship, go f\*\*\* yourself](https://www.cnn.com/2022/02/25/europe/ukraine-russia-snake-island-attack-intl-hnk-ml/index.html)“. The warship shelled the island in response and the soldiers were reported to have been killed. Ukrainian President [Volodymyr Zelenskyy](https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy) announced he would “posthumously” award the soldiers on Snake Island with the highest Ukrainian honor, the [Hero of Ukraine](https://en.wikipedia.org/wiki/Hero_of_Ukraine).

@@ -1,7 +1,7 @@
 ---
 title: "One-Day Ship Model Exhibit at National Lighthouse Museum"
 date: 2016-11-13T08:54:46
-slug: one-day-ship-model-exhibit-national-lighthouse-museum
+slug: "one-day-ship-model-exhibit-national-lighthouse-museum"
 excerpt: "The National Lighthouse Museum on Staten Island is having a one-day model ship exhibit on Saturday, November 19th from 11:00 am to 4:00pm, featuring models and demonstrations by members of the Ship Model Society of New Jersey. From the NLM … Continue reading &rarr;"
 categories:
   - "Current"

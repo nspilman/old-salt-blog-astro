@@ -1,7 +1,7 @@
 ---
 title: "South Street Seaport Spring Revival at Pier 16 on April 26th"
 date: 2014-04-19T11:50:06
-slug: south-street-seaport-spring-revival-at-pier-16-on-april-26th
+slug: "south-street-seaport-spring-revival-at-pier-16-on-april-26th"
 excerpt: "If you are in the New York area on Saturday, April 26th, be sure to stop by the South Street Seaport to celebrate a Spring revival with the grand reopening of Pier 16 and the Street of Ships. Capt. Jonathan Boulware, … Continue reading &rarr;"
 categories:
   - "Current"

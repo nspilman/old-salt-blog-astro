@@ -1,7 +1,7 @@
 ---
 title: "Brigadier General Dick Lord – Top Gun"
 date: 2011-11-09T12:29:58
-slug: brigadier-general-dick-lord-top-gun
+slug: "brigadier-general-dick-lord-top-gun"
 excerpt: "The American movie, Top Gun, starring Tom Cruise, won 8 Academy Awards and earned over $300 million at the box office. The movie was inaccurate in several ways, not the least of which was the addition of a sexy female … Continue reading &rarr;"
 categories:
   - "Current"

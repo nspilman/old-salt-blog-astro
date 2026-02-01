@@ -1,7 +1,7 @@
 ---
 title: "On New Year’s Day — RMS Warrimoo, In Several Places and Times at Once"
 date: 2024-01-01T16:25:54
-slug: on-new-years-day-rms-warrimoo-in-several-places-and-times-at-once
+slug: "on-new-years-day-rms-warrimoo-in-several-places-and-times-at-once"
 excerpt: "Here is a repost of wonderful sea story suitable for New Year’s Day. It also appears to be more or less true. RMS Warrimoo was an Australian/New Zealand passenger ship, launched in 1892. The ship is best remembered for crossing the intersection … Continue reading &rarr;"
 categories:
   - "Current"

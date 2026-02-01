@@ -1,7 +1,7 @@
 ---
 title: "Rediscovering USS Independence — From WWII to Bikini to the Depths off San Francisco"
 date: 2016-11-11T10:48:32
-slug: rediscovering-uss-independence-wwii-bimini-depths-off-san-francisco
+slug: "rediscovering-uss-independence-wwii-bimini-depths-off-san-francisco"
 excerpt: "On Veteran’s Day, a post about a veteran ship, USS Independence, a light aircraft carrier that served in key battles at the Pacific toward the end of World War II. After the war, she was used as a target in … Continue reading &rarr;"
 categories:
   - "Current"

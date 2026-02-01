@@ -1,14 +1,14 @@
 ---
 title: "Superstorm Sandy Reveals Shipwrecks and Shuts Down the Statue of Liberty"
 date: 2012-11-14T13:16:04
-slug: superstorm-sandy-reveals-shipwrecks-and-shuts-down-the-statue-of-liberty
+slug: "superstorm-sandy-reveals-shipwrecks-and-shuts-down-the-statue-of-liberty"
 excerpt: "When Superstorm Sandy came ashore roughly two weeks ago, she uncovered at least two shipwrecks.  On Fire Island, New York, the storm washed away dunes east of Davis Park revealing the remains of a wooden ship believed to be a post-Civil War cargo … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - ""superstorm" Sandy"
+  - "\"superstorm\" Sandy"
   - "Ellis Island"
   - "Fire Island"
   - "shipwreck"

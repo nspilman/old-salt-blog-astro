@@ -1,7 +1,7 @@
 ---
 title: "Roboship Unveiled in Virginia"
 date: 2011-08-09T09:00:58
-slug: roboship-unveiled-in-virginia
+slug: "roboship-unveiled-in-virginia"
 excerpt: "I am not sure that this is necessarily a good idea. The US Navy is developing unmanned robotic guard ships which could be used to patrol coastal waters. An interesting idea, but getting the deployment right will be a real … Continue reading &rarr;"
 categories:
   - "Current"

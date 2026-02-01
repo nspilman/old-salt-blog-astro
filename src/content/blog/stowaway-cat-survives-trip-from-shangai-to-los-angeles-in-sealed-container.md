@@ -1,7 +1,7 @@
 ---
 title: "Stowaway Cat Survives Trip From Shangai to Los Angeles in Sealed Container"
 date: 2012-07-15T08:01:03
-slug: stowaway-cat-survives-trip-from-shangai-to-los-angeles-in-sealed-container
+slug: "stowaway-cat-survives-trip-from-shangai-to-los-angeles-in-sealed-container"
 excerpt: "Toward the end of June, we posted about the minor media circus that grew out of a report of possible stowaways on the container ship, Ville D’Aquarius, bound for Port Newark. After a multi-agency task force swung into action to investigate, the media … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
-title: "Imperial Shag – Deep Diving Cormorant “Superbird”"
+title: "Imperial Shag – Deep Diving Cormorant \"Superbird\""
 date: 2012-08-18T17:33:42
-slug: imperial-shag-deep-diving-cormorant-superbird
+slug: "imperial-shag-deep-diving-cormorant-superbird"
 excerpt: "I am a big fan of cormorants. The ones I am most familiar with are the double crested cormorants common in North America.  The imperial shag cormorant, the double crested cormorants’ larger South American and Antarctic cousin, has been causing quite … Continue reading &rarr;"
 categories:
   - "Current"

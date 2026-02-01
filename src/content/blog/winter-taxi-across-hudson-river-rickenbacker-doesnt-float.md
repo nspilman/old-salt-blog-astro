@@ -1,7 +1,7 @@
 ---
 title: "A Winter Taxi Across the Hudson River, or a Rickenbacker Doesn’t Float"
 date: 2018-01-28T15:14:12
-slug: winter-taxi-across-hudson-river-rickenbacker-doesnt-float
+slug: "winter-taxi-across-hudson-river-rickenbacker-doesnt-float"
 excerpt: "Recently, we posted about the times when New York harbor froze solid. While that is a very unusual occurrence in New York City, a bit farther up the Hudson River, the river freezing over is a yearly event. In the summertime, before … Continue reading &rarr;"
 categories:
   - "History"

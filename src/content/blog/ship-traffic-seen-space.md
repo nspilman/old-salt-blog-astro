@@ -1,7 +1,7 @@
 ---
 title: "Ship Traffic as Seen From Space"
 date: 2016-05-04T16:33:32
-slug: ship-traffic-seen-space
+slug: "ship-traffic-seen-space"
 excerpt: "Here is an animation of global ship traffic as seen from space. Mesmerizing and beautiful. Global ship traffic seen from space – FleetMon Satellite AIS and FleetMon Explorer Two thoughts immediately come to mind. … Continue reading &rarr;"
 categories:
   - "Current"

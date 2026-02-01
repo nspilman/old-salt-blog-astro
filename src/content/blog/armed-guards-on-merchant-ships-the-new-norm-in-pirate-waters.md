@@ -1,7 +1,7 @@
 ---
 title: "Armed Guards on Merchant Ships, the New Norm in Pirate Waters?"
 date: 2011-10-30T08:17:47
-slug: armed-guards-on-merchant-ships-the-new-norm-in-pirate-waters
+slug: "armed-guards-on-merchant-ships-the-new-norm-in-pirate-waters"
 excerpt: "British Prime Minister David Cameron recently announced that armed guards would be allowed to be carried on British merchant ships transiting off the coast of Somalia.   Shipping firms will now be able to apply for a license to carry guards armed with automatic weapons, … Continue reading &rarr;"
 categories:
   - "Current"

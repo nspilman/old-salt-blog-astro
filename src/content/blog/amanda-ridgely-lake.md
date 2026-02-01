@@ -1,7 +1,7 @@
 ---
 title: "Amanda Ridgely Lake"
 date: 2009-09-18T10:18:20
-slug: amanda-ridgely-lake
+slug: "amanda-ridgely-lake"
 excerpt: "Sad news regarding a a remarkable woman and sailor. Amanda Ridgely Lake Amanda Ridgely Lake died in her home in Fairhaven, MA on August 19. Ms. Lake was 44.  Ms. Lake was only one of a handful of women to … Continue reading &rarr;"
 categories:
   - "Current"

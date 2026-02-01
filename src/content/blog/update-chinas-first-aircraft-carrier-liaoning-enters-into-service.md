@@ -1,7 +1,7 @@
 ---
 title: "Update: China’s First Aircraft Carrier, Liaoning, Enters into Service"
 date: 2012-09-25T09:17:48
-slug: update-chinas-first-aircraft-carrier-liaoning-enters-into-service
+slug: "update-chinas-first-aircraft-carrier-liaoning-enters-into-service"
 excerpt: "After ten sea trials and over 25 years of construction and refitting, China has put its first aircraft carrier into service.  Long rumored to be named Shi Lang, the carrier has instead been named Liaoning, after the province where it was rebuilt and refitted. … Continue reading &rarr;"
 categories:
   - "Current"

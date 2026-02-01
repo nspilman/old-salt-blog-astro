@@ -1,7 +1,7 @@
 ---
 title: "British Navy Borrowing a Billionaire’s Octopus to Find A Battlecruiser’s Bell"
 date: 2012-07-30T14:42:26
-slug: british-navy-borrowing-a-billionaires-octopus-to-find-a-battlecruisers-bell
+slug: "british-navy-borrowing-a-billionaires-octopus-to-find-a-battlecruisers-bell"
 excerpt: "Billionaire and philanthropist, Microsoft co-founder Paul Allen is loaning his 126 metre superyacht Octopus to the British Royal Navy to mount an expedition to locate and raise the bell from the battle cruiser HMS Hood (51) sunk by the German battleship Bismark in the Denmark … Continue reading &rarr;"
 categories:
   - "Current"

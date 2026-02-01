@@ -1,7 +1,7 @@
 ---
 title: "Carcass of Endangered Sei Whale Arrives at Brooklyn Cruise Terminal Pinned to Bow of MSC Meraviglia"
 date: 2024-05-09T19:56:23
-slug: carcass-of-endangered-sei-whale-arrives-at-brooklyn-cruise-terminal-pinned-to-bow-of-msc-meraviglia
+slug: "carcass-of-endangered-sei-whale-arrives-at-brooklyn-cruise-terminal-pinned-to-bow-of-msc-meraviglia"
 excerpt: "On Saturday, May 4, the cruise ship MSC Meraviglia arrived at the Brooklyn Cruise Terminal in New York Harbor dragging the carcass of a 44-foot-long endangered sei whale, caught on the ship’s bulbous bow. Sei whales are endangered and are … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Collisions at Sea and Allisions in Port – Navy Ships Collide in the Pacifc & Stena Ferry Wrecks a Container Terminal"
 date: 2012-05-17T15:27:11
-slug: collisions-at-sea-and-allisions-in-port-part-1-navy-ships-collide-in-the-pacifc-stena-ferry-wrecks-a-container-terminal
+slug: "collisions-at-sea-and-allisions-in-port-part-1-navy-ships-collide-in-the-pacifc-stena-ferry-wrecks-a-container-terminal"
 excerpt: "It has been a busy couple of days for ship collisions and allisions.  Yesterday, the USS Essex, a Wasp-class amphibious assault ship, collided with the USNS Yukon, a Navy Oiler, during underway replenishment operations about 120 miles off the coast of Southern California. In Poland, … Continue reading &rarr;"
 categories:
   - "Current"

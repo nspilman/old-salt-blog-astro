@@ -1,7 +1,7 @@
 ---
 title: "Fire on Nuclear Submarine USS Miami in Maine Shipyard"
 date: 2012-05-24T07:29:06
-slug: fire-on-nuclear-submarine-uss-miami-in-maine-shipyard
+slug: "fire-on-nuclear-submarine-uss-miami-in-maine-shipyard"
 excerpt: "Crew responded to a fire on the nuclear submarine, USS Miami,  at around 5:40 PM last night at the Portsmouth Naval Shipyard in Kittery, Maine.  This morning, the Navy reports that the fire has been put put. Three shipyard firefighters, two civilian firefighters … Continue reading &rarr;"
 categories:
   - "Current"

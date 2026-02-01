@@ -1,7 +1,7 @@
 ---
 title: "Location of HMS Erebus and HMS Terror Still A Mystery"
 date: 2011-08-29T09:19:33
-slug: location-of-hms-erebus-and-hms-terror-still-a-mystery
+slug: "location-of-hms-erebus-and-hms-terror-still-a-mystery"
 excerpt: "For the third year of a three year program, Parks Canada archaeologists have failed in their attempt at finding the wrecks of the HMS Erebus and HMS Terror.  This year they searched an area west of King William Island, where Sir John Franklin and his expedition became … Continue reading &rarr;"
 categories:
   - "History"

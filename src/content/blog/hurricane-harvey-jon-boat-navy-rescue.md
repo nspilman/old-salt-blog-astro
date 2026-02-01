@@ -1,8 +1,8 @@
 ---
 title: "Hurricane Harvey — Jon-Boat Navy to the Rescue"
 date: 2017-08-30T07:57:25
-slug: hurricane-harvey-jon-boat-navy-rescue
-excerpt: "The boats and the circumstances are all different and yet each in its way is the same, from the “little ships” of Dunkirk, to the Manhattan Boat-Lift of 9/11, to the jon-boat navy of the Texas Gulf coast. When people … Continue reading &rarr;"
+slug: "hurricane-harvey-jon-boat-navy-rescue"
+excerpt: "The boats and the circumstances are all different and yet each in its way is the same, from the \"little ships\" of Dunkirk, to the Manhattan Boat-Lift of 9/11, to the jon-boat navy of the Texas Gulf coast. When people … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Texas Navy"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/jonboat1.png"
 author: "Rick Spilman"
-description: "The boats and the circumstances are all different and yet each in its way is the same, from the “little ships” of Dunkirk, to the Manhattan Boat-Lift of 9/11, to the jon-boat navy of the Texas Gulf coast. When people … Continue reading &rarr;"
+description: "The boats and the circumstances are all different and yet each in its way is the same, from the \"little ships\" of Dunkirk, to the Manhattan Boat-Lift of 9/11, to the jon-boat navy of the Texas Gulf coast. When people … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/jonboat1.png)The boats and the circumstances are all different and yet each in its way is the same, from the “little ships” of Dunkirk, to the Manhattan Boat-Lift of 9/11, to the jon-boat navy of the Texas Gulf coast. When people need help, mariners of every stripe come to the rescue. 

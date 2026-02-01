@@ -1,7 +1,7 @@
 ---
 title: "A Rainbow of Lobsters — from Blue to Calico to Striped"
 date: 2014-08-31T09:47:37
-slug: a-rainbow-of-lobsters-from-blue-to-calico-to-striped
+slug: "a-rainbow-of-lobsters-from-blue-to-calico-to-striped"
 excerpt: "Recently, Meghan LaPlante, 14, and her father Jay, caught a blue lobster in one of their traps. Not a blueish lobster or blue tinted lobster but a extremely bright blue, cerulean lobster.  Said to be a 1 in 2 million catch, the … Continue reading &rarr;"
 categories:
   - "Current"

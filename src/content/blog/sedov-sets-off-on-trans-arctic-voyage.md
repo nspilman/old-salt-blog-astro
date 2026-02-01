@@ -1,7 +1,7 @@
 ---
 title: "Sedov Sets Off On Trans-Arctic Voyage"
 date: 2020-08-20T10:02:15
-slug: sedov-sets-off-on-trans-arctic-voyage
+slug: "sedov-sets-off-on-trans-arctic-voyage"
 excerpt: "The 99-year-old four-masted steel bark Sedov is sailing home by an unusual route. She is sailing North from Vladivostok  and transiting the Arctic by the Northern Sea Route to reach her home port of Kaliningrad. Crossing the Arctic will be … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Update: EPA Consent Decree Allows SS Badger to Keep Sailing and Dumping Coal Ash for Two More Years"
 date: 2013-04-02T09:51:01
-slug: update-epa-consent-decree-allows-ss-badger-to-keep-sailing-and-dumping-coal-ash-for-two-more-years
+slug: "update-epa-consent-decree-allows-ss-badger-to-keep-sailing-and-dumping-coal-ash-for-two-more-years"
 excerpt: "Toward the end of last year, we posted about the the battle over the continued operation of the SS Badger, the last coal-fired passenger vessel operating on the Great Lakes.  To her admirers she is a national treasure.  To her detractors she … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

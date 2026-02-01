@@ -1,7 +1,7 @@
 ---
 title: "Sharks – Photobombing and Posting on Twitter"
 date: 2013-12-30T10:51:44
-slug: sharks-photobombing-and-posting-on-twitter
+slug: "sharks-photobombing-and-posting-on-twitter"
 excerpt: "Two recent items on sharks in the news — a photobombing shark off the coast of California and Australian sharks posting warnings on Twitter. Off Manhattan Beach, California, June Emerson took a photograph of her son and a friend playing in … Continue reading &rarr;"
 categories:
   - "Current"

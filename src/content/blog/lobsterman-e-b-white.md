@@ -1,7 +1,7 @@
 ---
 title: "Lobsterman by E.B. White"
 date: 2016-03-26T16:07:03
-slug: lobsterman-e-b-white
+slug: "lobsterman-e-b-white"
 excerpt: "When I think of E.B. White I think of the classic children’s books, Stuart Little, Charlotte’s Web, and The Trumpet of the Swan, among others. He was also the co-author of the English language style guide The Elements of Style. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

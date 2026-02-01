@@ -1,7 +1,7 @@
 ---
 title: "Half Moon, Replica of Henry Hudson’s ship, open for tours in Kingston, NY until June"
 date: 2011-05-27T10:27:38
-slug: half-moon-replica-of-henry-hudsons-ship-open-for-tours-in-kingston-ny-until-june
+slug: "half-moon-replica-of-henry-hudsons-ship-open-for-tours-in-kingston-ny-until-june"
 excerpt: "The Half Moon, a replica of Henry Hudson’s ship, will be open for dockside tours at the Hudson River Maritime Museum through June 16th. Replica of Henry Hudson’s ship open for tours until June 16 The ship, a replica of the … Continue reading &rarr;"
 categories:
   - "Current"

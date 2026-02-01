@@ -1,7 +1,7 @@
 ---
 title: "Vaccinations at the USS Juneau Center, Remembering Federal Shipbuilding & Drydock"
 date: 2021-02-20T16:25:39
-slug: vaccinations-at-the-uss-juneau-center-remembering-federal-shipbuilding-drydock
+slug: "vaccinations-at-the-uss-juneau-center-remembering-federal-shipbuilding-drydock"
 excerpt: "My wife and I recently received the second of two shots of Covid-19 vaccine at a drive-through vaccination state set up at the USS Juneau Center, on the site of the old Federal Shipbuilding & Drydock Company in Kearny, NJ. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "World’s Largest Oyster Restoration Project Completed on Piankatank River"
 date: 2022-05-12T19:28:13
-slug: worlds-largest-oyster-restoration-project-completed-on-piankatank-river
+slug: "worlds-largest-oyster-restoration-project-completed-on-piankatank-river"
 excerpt: "We recently posted about the dire conditions of Texas and Gulf Coast oyster beds that have been devastated by floods, droughts, and hurricanes. In contrast, here is good news about oyster bed restoration in the Chesapeake Bay. The Virginia Mercury … Continue reading &rarr;"
 categories:
   - "Current"

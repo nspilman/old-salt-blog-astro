@@ -1,7 +1,7 @@
 ---
 title: "The Sardine Run — Gannetts, Sharks, Dolphins & Divers"
 date: 2014-08-10T09:00:22
-slug: the-sardine-run-gannetts-sharks-dolphins-divers
+slug: "the-sardine-run-gannetts-sharks-dolphins-divers"
 excerpt: "A remarkable video of gannetts, sharks, dolphins & divers diving on the sardine run on the Agulhas Bank off South Africa. Shark Explorers – Sardine Run 2013 From Scuba Diver Life — Gearing Up For South Africa’s Sardine Run Exactly … Continue reading &rarr;"
 categories:
   - "Current"

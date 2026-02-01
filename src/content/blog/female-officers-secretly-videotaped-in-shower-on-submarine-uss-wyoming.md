@@ -1,8 +1,8 @@
 ---
 title: "Female Officers Secretly Videotaped in Shower on Submarine USS Wyoming"
 date: 2014-12-08T09:46:56
-slug: female-officers-secretly-videotaped-in-shower-on-submarine-uss-wyoming
-excerpt: "This feels like a bad joke, but sadly, it isn’t. In May of 2010, we posted about “Women Submariners – Pioneers Facing Many Challenges.” Of the various challenges we expected women on submarines would have to face, secret shower videos … Continue reading &rarr;"
+slug: "female-officers-secretly-videotaped-in-shower-on-submarine-uss-wyoming"
+excerpt: "This feels like a bad joke, but sadly, it isn’t. In May of 2010, we posted about \"Women Submariners – Pioneers Facing Many Challenges.\" Of the various challenges we expected women on submarines would have to face, secret shower videos … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

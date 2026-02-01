@@ -1,7 +1,7 @@
 ---
-title: "Farewell to Newtown Creek, New York’s Lovely “Honey Tanker”"
+title: "Farewell to Newtown Creek, New York’s Lovely \"Honey Tanker\""
 date: 2015-04-17T19:18:09
-slug: farewell-to-newtown-creek-new-yorks-lovely-honey-tanker
+slug: "farewell-to-newtown-creek-new-yorks-lovely-honey-tanker"
 excerpt: "The Newtown Creek was recently sold at auction. At 324′ long and 49.6′ wide, she is a lovely coastal tanker that traversed New York harbor’s waters for close to a half century.  For a vessel of her size and type, I always found … Continue reading &rarr;"
 categories:
   - "Current"

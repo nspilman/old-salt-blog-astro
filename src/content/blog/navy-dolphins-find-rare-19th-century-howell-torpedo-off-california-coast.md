@@ -1,7 +1,7 @@
 ---
 title: "Navy Dolphins Find Rare 19th Century Howell Torpedo off California Coast"
 date: 2013-05-20T11:16:50
-slug: navy-dolphins-find-rare-19th-century-howell-torpedo-off-california-coast
+slug: "navy-dolphins-find-rare-19th-century-howell-torpedo-off-california-coast"
 excerpt: "The Howell Automobile Torpedo of 1889 was the first self-propelled torpedo in United States Navy service. Only fifty were built and until recently, only one was known to have survived. Then in late April, Navy dolphins located a lost Howell … Continue reading &rarr;"
 categories:
   - "Current"

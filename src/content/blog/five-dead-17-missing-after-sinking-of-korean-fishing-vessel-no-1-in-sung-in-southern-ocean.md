@@ -1,7 +1,7 @@
 ---
 title: "Five dead, 17 missing after Korean fishing vessel, No.1 In Sung, sinks in Southern Ocean"
 date: 2010-12-13T08:44:14
-slug: five-dead-17-missing-after-sinking-of-korean-fishing-vessel-no-1-in-sung-in-southern-ocean
+slug: "five-dead-17-missing-after-sinking-of-korean-fishing-vessel-no-1-in-sung-in-southern-ocean"
 excerpt: "Another ship down.  Speculation is that the Korean fishing vessel No.1 In Sung either struck an iceberg or was hit by a large wave off Antarctica.   Twenty surviving crew  members  were  rescued and taken aboard the fishing vessel No. 707 … Continue reading &rarr;"
 categories:
   - "Current"

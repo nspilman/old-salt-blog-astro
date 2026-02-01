@@ -1,8 +1,8 @@
 ---
-title: "Update: Hudson River Kayaking “Accident” Was Homicide After All"
+title: "Update: Hudson River Kayaking \"Accident\" Was Homicide After All"
 date: 2017-07-25T10:23:06
-slug: update-hudson-river-kayaking-accident-was-homicide-after-all
-excerpt: "In May, 2015, we posted, Was a Kayaking “Accident” Really Murder on the Hudson? The question raised by that post has been answered. Angelika Graswald, 37, who had been accused of murdering her fiancée, Vincent Viafore, 46, while on an … Continue reading &rarr;"
+slug: "update-hudson-river-kayaking-accident-was-homicide-after-all"
+excerpt: "In May, 2015, we posted, Was a Kayaking \"Accident\" Really Murder on the Hudson? The question raised by that post has been answered. Angelika Graswald, 37, who had been accused of murdering her fiancée, Vincent Viafore, 46, while on an … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "murder"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/graswald1.jpg"
 author: "Rick Spilman"
-description: "In May, 2015, we posted, Was a Kayaking “Accident” Really Murder on the Hudson? The question raised by that post has been answered. Angelika Graswald, 37, who had been accused of murdering her fiancée, Vincent Viafore, 46, while on an … Continue reading &rarr;"
+description: "In May, 2015, we posted, Was a Kayaking \"Accident\" Really Murder on the Hudson? The question raised by that post has been answered. Angelika Graswald, 37, who had been accused of murdering her fiancée, Vincent Viafore, 46, while on an … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/graswald1-200x187.jpg)

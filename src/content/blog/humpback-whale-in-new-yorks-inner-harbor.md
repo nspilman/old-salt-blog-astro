@@ -1,7 +1,7 @@
 ---
 title: "Humpback Whale in New York’s Inner Harbor"
 date: 2020-12-09T10:49:05
-slug: humpback-whale-in-new-yorks-inner-harbor
+slug: "humpback-whale-in-new-yorks-inner-harbor"
 excerpt: "Yesterday afternoon saw unusual traffic on the Hudson River in New York’s inner harbor.  A humpback whale was seen swimming in the Hudson, off Pier 84, on Monday afternoon. The whale is no stranger to New York waters. Gotham Whale‘s … Continue reading &rarr;"
 categories:
   - "Current"

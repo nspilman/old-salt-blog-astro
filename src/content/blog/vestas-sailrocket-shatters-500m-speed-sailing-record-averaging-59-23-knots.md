@@ -1,7 +1,7 @@
 ---
 title: "Update: VESTAS Sailrocket 2 Shatters 500M Speed Sailing Record Averaging 59.38 Knots!"
 date: 2012-11-20T09:05:38
-slug: vestas-sailrocket-shatters-500m-speed-sailing-record-averaging-59-23-knots
+slug: "vestas-sailrocket-shatters-500m-speed-sailing-record-averaging-59-23-knots"
 excerpt: "Update: On Sunday, the VESTAS Sailrocket 2 set a new speed record for 500M of 59.38 knots and a new one nautical mile record of an average of 55.32 knots. Both records are subject to confirmed by the WSSRC.  The … Continue reading &rarr;"
 categories:
   - "Current"

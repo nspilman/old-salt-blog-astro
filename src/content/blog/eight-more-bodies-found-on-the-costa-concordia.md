@@ -1,7 +1,7 @@
 ---
 title: "Eight More Bodies Found on the Costa Concordia"
 date: 2012-02-22T18:05:30
-slug: eight-more-bodies-found-on-the-costa-concordia
+slug: "eight-more-bodies-found-on-the-costa-concordia"
 excerpt: "The presumed death toll remains at 32 in the sinking of the Costa Concordia.  Today divers located eight more bodies, bringing the number of known dead to 25 while the number of missing and presumed dead dropped to 7.  Only … Continue reading &rarr;"
 categories:
   - "Current"

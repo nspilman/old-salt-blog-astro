@@ -1,7 +1,7 @@
 ---
 title: "Australian Salt Water Crocodiles – Kayaker Trapped on Remote Island & Swimmer Who Wasn’t As Lucky"
 date: 2013-09-04T10:37:54
-slug: australian-salt-water-crocodiles-kayaker-trapped-on-remote-island-swimmer-who-wasnt-as-lucky
+slug: "australian-salt-water-crocodiles-kayaker-trapped-on-remote-island-swimmer-who-wasnt-as-lucky"
 excerpt: "Saltwater crocodiles are close enough to living, breathing, terrifying sea monsters. Capable of growing to over 20 feet long and weighing a tonne, they are the the largest of all living reptiles and the largest riparian predator in the world.  Saltwater … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

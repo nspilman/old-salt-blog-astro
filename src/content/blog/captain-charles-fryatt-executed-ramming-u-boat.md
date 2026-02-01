@@ -1,7 +1,7 @@
 ---
 title: "Captain Charles Fryatt: Executed for Ramming a U-Boat"
 date: 2017-07-27T09:15:21
-slug: captain-charles-fryatt-executed-ramming-u-boat
+slug: "captain-charles-fryatt-executed-ramming-u-boat"
 excerpt: "One hundred and one years ago today, on July 27th, 1916, Captain Charles Fryatt was executed by the Imperial German Navy for attempting to ram the German U-boat, U33, with the 1902-built passenger ferry, SS Brussels, owned by the Great Eastern Railway. … Continue reading &rarr;"
 categories:
   - "History"

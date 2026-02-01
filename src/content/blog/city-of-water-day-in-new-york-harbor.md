@@ -1,7 +1,7 @@
 ---
 title: "City of Water Day in New York Harbor!"
 date: 2012-07-09T07:44:21
-slug: city-of-water-day-in-new-york-harbor
+slug: "city-of-water-day-in-new-york-harbor"
 excerpt: "The City of New York is a city of islands, large and small, floating in a vast harbor and waterway. Only one of the five boroughs is on the mainland and that even borough, the Bronx, is on a peninsula, with water on three sides. … Continue reading &rarr;"
 categories:
   - "Current"

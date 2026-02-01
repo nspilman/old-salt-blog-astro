@@ -1,7 +1,7 @@
 ---
 title: "Halfway Around the World, Powered Only by the Sun – Solar Yacht Turanor Arrives in Brisbane"
 date: 2011-06-05T10:25:08
-slug: halfway-around-the-world-powered-only-by-the-sun-solar-yacht-turanor-arrives-in-brisbane
+slug: "halfway-around-the-world-powered-only-by-the-sun-solar-yacht-turanor-arrives-in-brisbane"
 excerpt: "The 31-meter Turanor, a catamaran yacht fitted with 536 square meters of photovoltaic panels, has successfully sailed halfway around the world, from Monaco to Brisbane, Australia, powered solely by the sun.   The Turanor‘s captain and crew are half way toward … Continue reading &rarr;"
 categories:
   - "Current"

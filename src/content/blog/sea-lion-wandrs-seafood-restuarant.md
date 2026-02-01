@@ -1,7 +1,7 @@
 ---
 title: "A Sea Lion Pup Wanders into a Seafood Restuarant"
 date: 2016-04-10T09:48:48
-slug: sea-lion-wandrs-seafood-restuarant
+slug: "sea-lion-wandrs-seafood-restuarant"
 excerpt: "So, a sea lion pup wanders into a seafood restaurant and settles down in a booth ….. It sounds like the beginning of a bad joke, but last February, a malnourished 8-month old sea lion pup appeared in a booth in The … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

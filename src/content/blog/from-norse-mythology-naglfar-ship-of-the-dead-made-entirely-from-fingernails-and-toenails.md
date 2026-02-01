@@ -1,7 +1,7 @@
 ---
 title: "From Norse Mythology: Naglfar, Ship of the Dead, Made Entirely From Fingernails and Toenails"
 date: 2023-11-01T12:19:55
-slug: from-norse-mythology-naglfar-ship-of-the-dead-made-entirely-from-fingernails-and-toenails
+slug: "from-norse-mythology-naglfar-ship-of-the-dead-made-entirely-from-fingernails-and-toenails"
 excerpt: "A second post suitable for Halloween week. In Norse mythology, there were two great ships. Skidbladnir, was a ship that could carry Odin and his followers in Asgard, which also could be folded into a cloth that would fit in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

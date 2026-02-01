@@ -1,7 +1,7 @@
 ---
 title: "Amazing Video – Kayaking and Swimming with Blue Whales"
 date: 2011-10-20T14:53:44
-slug: amazing-video-kayaking-and-swimming-with-blue-whales
+slug: "amazing-video-kayaking-and-swimming-with-blue-whales"
 excerpt: "I have kayaked with killer whales. It was many years ago and the memories are still vivid.  I can only imagine how awe inspiring it must be to kayak next to a blue whale, the largest creature ever to live on the … Continue reading &rarr;"
 categories:
   - "Current"

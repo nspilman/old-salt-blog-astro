@@ -1,7 +1,7 @@
 ---
 title: "William Main Dorflinger Virtual Shanty Sing — Sunday, September 20th"
 date: 2020-09-17T11:46:45
-slug: william-main-dorflinger-virtual-shanty-sing-sunday-september-20th
+slug: "william-main-dorflinger-virtual-shanty-sing-sunday-september-20th"
 excerpt: "Earlier this month, we posted about the virtual return of the San Francisco Maritime Association’s Hyde Street Pier Sea Chantey Sing series beginning this Saturday on September 19, 2020. Click here for details. For even more maritime music, on Sunday, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

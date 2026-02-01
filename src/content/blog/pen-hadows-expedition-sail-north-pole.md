@@ -1,7 +1,7 @@
 ---
 title: "Pen Hadow’s Expedition to Sail to the North Pole"
 date: 2017-08-11T11:09:10
-slug: pen-hadows-expedition-sail-north-pole
+slug: "pen-hadows-expedition-sail-north-pole"
 excerpt: "In 2003, Pen Hadow walked to the North Pole. He became the first person to trek to the Pole solo without being resupplied. Now, Pen Hadow is returning to the North Pole, but he won’t be able to walk. The … Continue reading &rarr;"
 categories:
   - "Current"

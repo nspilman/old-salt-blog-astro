@@ -1,8 +1,8 @@
 ---
 title: "The Wave Glider of 2011 and Matthew Fontaine Maury of 1850"
 date: 2011-11-04T10:04:49
-slug: the-wave-glider-of-2011-and-matthew-fontaine-maury-of-1850
-excerpt: "The New York Times recently featured an article, Catching a Wave, and Measuring It, about a project to send a “fleet of robots that move out in the ocean to measure everything from weather to oil slicks, sharply reducing many … Continue reading &rarr;"
+slug: "the-wave-glider-of-2011-and-matthew-fontaine-maury-of-1850"
+excerpt: "The New York Times recently featured an article, Catching a Wave, and Measuring It, about a project to send a \"fleet of robots that move out in the ocean to measure everything from weather to oil slicks, sharply reducing many … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "Wave Glider"
   - "Wind and Current Charts"
 author: "Rick Spilman"
-description: "The New York Times recently featured an article, Catching a Wave, and Measuring It, about a project to send a “fleet of robots that move out in the ocean to measure everything from weather to oil slicks, sharply reducing many … Continue reading &rarr;"
+description: "The New York Times recently featured an article, Catching a Wave, and Measuring It, about a project to send a \"fleet of robots that move out in the ocean to measure everything from weather to oil slicks, sharply reducing many … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/220px-Matthew_Fontaine_Maur.jpg)

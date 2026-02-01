@@ -1,7 +1,7 @@
 ---
 title: "Of Tsunamis and Seawalls"
 date: 2011-04-05T07:53:36
-slug: of-tsunamis-and-seawalls
+slug: "of-tsunamis-and-seawalls"
 excerpt: "Recent articles on the power of the tsunami that recently struck Japan say a lot about  both the power of the tsunami waves and the challenges of trying to cope with a constant threat from the ocean.   Japan’s first line … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Two Beluga Whales Rescued From Ukraine Arrive in Spain"
 date: 2024-06-23T19:30:47
-slug: two-beluga-whales-rescued-from-ukraine-arrive-in-spain
+slug: "two-beluga-whales-rescued-from-ukraine-arrive-in-spain"
 excerpt: "CNN reports that two beluga whales have been rescued from the besieged city of Kharkiv in Ukraine and taken to an aquarium in Valencia, Spain, in a complex operation. A multinational team involving marine mammal care experts from Oceanogràfic de Valencia, the largest oceanarium … Continue reading &rarr;"
 categories:
   - "Current"

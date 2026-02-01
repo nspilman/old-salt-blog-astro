@@ -1,7 +1,7 @@
 ---
 title: "Virtual Whale Watching with American Princess Off New York Harbor"
 date: 2020-07-19T13:25:53
-slug: virtual-whale-watching-with-american-princess-off-new-york-harbor
+slug: "virtual-whale-watching-with-american-princess-off-new-york-harbor"
 excerpt: "Here is a wonderful short virtual tour from yesterday of New York whale watching from American Princess Cruises. https://www.facebook.com/americanprincesscruises/videos/2699750606968413/ … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

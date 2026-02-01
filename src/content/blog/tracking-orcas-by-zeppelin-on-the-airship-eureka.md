@@ -1,7 +1,7 @@
 ---
 title: "Tracking Orcas by Zeppelin on the Airship Eureka"
 date: 2010-10-13T07:46:06
-slug: tracking-orcas-by-zeppelin-on-the-airship-eureka
+slug: "tracking-orcas-by-zeppelin-on-the-airship-eureka"
 excerpt: "The Center for Whale Research is using a novel approach to tracking orca whales.  They are using the only operational zeppelin in the United States,  the Airship Eureka, on loan from Farmers’ Insurance, the company that sponsors the zeppelin, which donated … Continue reading &rarr;"
 categories:
   - "Current"

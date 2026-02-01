@@ -1,7 +1,7 @@
 ---
 title: "Talking Like a Somali and Update on the MV Faina"
 date: 2008-10-26T12:32:49
-slug: talking-like-a-somali-and-update-on-the-mv-faina
+slug: "talking-like-a-somali-and-update-on-the-mv-faina"
 excerpt: "An update on the MV Faina – still being held hostage by Somali pirates. Somali pirates hold whip hand in standoff And a comment by my 12 year old son, Ted. He suggested that he would like to learn some … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Strange Saga of the Mountain Submarine"
 date: 2015-05-30T10:50:29
-slug: the-strange-saga-of-the-mountain-submarine
+slug: "the-strange-saga-of-the-mountain-submarine"
 excerpt: "In 1881, John Holland designed and had built at the Delamater Iron Company in Manhattan a working submarine. Funded by the Fenian Brotherhood and intended to sink British shipping, the submarines was in all reepcts successful, notwithstanding that it never … Continue reading &rarr;"
 categories:
   - "Current"

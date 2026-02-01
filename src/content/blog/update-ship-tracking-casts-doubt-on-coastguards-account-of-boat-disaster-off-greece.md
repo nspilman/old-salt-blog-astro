@@ -1,7 +1,7 @@
 ---
 title: "Update: Ship Tracking Casts Doubt on Coastguard’s Account of Boat Disaster Off Greece"
 date: 2023-06-18T19:50:53
-slug: update-ship-tracking-casts-doubt-on-coastguards-account-of-boat-disaster-off-greece
+slug: "update-ship-tracking-casts-doubt-on-coastguards-account-of-boat-disaster-off-greece"
 excerpt: "We recently posted about an overloaded fishing boat carrying migrants that capsized and sank early on Wednesday morning in deep waters about 50 miles (80 km) from the southern Greek coastal town of Pylos. The BBC reports on evidence casting … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship Unicorn for Sale"
 date: 2013-09-02T08:24:43
-slug: tall-ship-unicorn-for-sale-2
+slug: "tall-ship-unicorn-for-sale-2"
 excerpt: "One of our favorites, the topsail schooner Unicorn is for sale. Tall Ship Unicorn For more information contact Dawn Santamaria, Co-Owner/Operator of STV Unicorn & Founder of Sisters Under Sail at dawn@tallshipunicorn.com. Asking price: $950,000 USD. … Continue reading &rarr;"
 categories:
   - "Current"

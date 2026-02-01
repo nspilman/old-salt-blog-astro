@@ -1,7 +1,7 @@
 ---
 title: "Two Museums, Two Coasts, Very Different Prospects"
 date: 2011-03-06T08:44:35
-slug: two-museums-two-coasts-very-different-prospects
+slug: "two-museums-two-coasts-very-different-prospects"
 excerpt: "News from both the Seaport Museum in New York and the Maritime Museum of San Diego.  The Seaport Museum, until recently the South Street Seaport Museum, is shutting down its exhibits and shops. The ships will still be open for tours. We … Continue reading &rarr;"
 categories:
   - "Current"

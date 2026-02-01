@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Australian Bill Hatfield, 81, the Oldest, Non-Stop, Unassisted Circumnavigator"
 date: 2020-03-02T18:03:43
-slug: congratulations-to-australian-bill-hatfield-81-the-oldest-non-stop-unassisted-circumnavigator
+slug: "congratulations-to-australian-bill-hatfield-81-the-oldest-non-stop-unassisted-circumnavigator"
 excerpt: "Congratulations to Australian Bill Hatfield, who at 81, recently completed a solo, non-stop, unassisted circumnavigation of the globe. His almost nine-month voyage on his 38-foot yacht L’Eau Commotion, was all the more remarkable because he sailed westward against the prevailing winds … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

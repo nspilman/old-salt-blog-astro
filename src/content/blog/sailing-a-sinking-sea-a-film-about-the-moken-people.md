@@ -1,7 +1,7 @@
 ---
 title: "Sailing A Sinking Sea, a Film about the Moken People"
 date: 2015-03-15T17:31:25
-slug: sailing-a-sinking-sea-a-film-about-the-moken-people
+slug: "sailing-a-sinking-sea-a-film-about-the-moken-people"
 excerpt: "A trailer of Sailing A Sinking Sea, a feature length film by Olivia Wyatt which recently premiered at the SXSW festival in Austin, Texas.  It explores the lives of the Moken people, a small group of seafarers have kept their nomadic culture … Continue reading &rarr;"
 categories:
   - "Current"

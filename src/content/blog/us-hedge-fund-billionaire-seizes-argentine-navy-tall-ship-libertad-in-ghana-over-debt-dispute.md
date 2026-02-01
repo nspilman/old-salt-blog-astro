@@ -1,7 +1,7 @@
 ---
 title: "US Hedge Fund Billionaire Seizes Argentine Navy Tall Ship Libertad in Ghana Over Debt Dispute"
 date: 2012-10-04T09:33:31
-slug: us-hedge-fund-billionaire-seizes-argentine-navy-tall-ship-libertad-in-ghana-over-debt-dispute
+slug: "us-hedge-fund-billionaire-seizes-argentine-navy-tall-ship-libertad-in-ghana-over-debt-dispute"
 excerpt: "The Argentine Navy training ship Libertad and her crew of over 200, docked in port of Tema, Ghana, were seized by a court order obtained by NML Capital Ltd., a subsidiary of Elliot Capital Management, a hedge fund run by the US billionaire Paul Singer. … Continue reading &rarr;"
 categories:
   - "Current"

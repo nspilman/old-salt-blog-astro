@@ -1,7 +1,7 @@
 ---
-title: "Berge Bulk Launches 21st Century “Windjammer” with 4 WindWings"
+title: "Berge Bulk Launches 21st Century \"Windjammer\" with 4 WindWings"
 date: 2023-10-18T10:12:14
-slug: berge-bulk-launches-21st-century-windjammer-with-4-windwings
+slug: "berge-bulk-launches-21st-century-windjammer-with-4-windwings"
 excerpt: "In a press release on Tuesday, Berge Bulk, one the world’s leading dry bulk ship owners, announced the launch of its 211,153 DWT Newcastlemax bulker, Berge Olympus, with four retrofitted BARTech WindWings by Yara Marine Technologies. The WindWings installation is … Continue reading &rarr;"
 categories:
   - "Current"

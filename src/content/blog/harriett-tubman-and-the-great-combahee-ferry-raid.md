@@ -1,12 +1,12 @@
 ---
 title: "Harriett Tubman and the Great Combahee Ferry Raid"
 date: 2014-02-01T12:23:54
-slug: harriett-tubman-and-the-great-combahee-ferry-raid
-excerpt: "Today’s Google Doodle is of Harriet Tubman.   Born a slave, Harriet Tubman escaped and would become a leading “conductor” on the “Underground Railroad” which helped slaves escape from  bondage in the South to freedom in the North and in Canada, … Continue reading &rarr;"
+slug: "harriett-tubman-and-the-great-combahee-ferry-raid"
+excerpt: "Today’s Google Doodle is of Harriet Tubman.   Born a slave, Harriet Tubman escaped and would become a leading \"conductor\" on the \"Underground Railroad\" which helped slaves escape from  bondage in the South to freedom in the North and in Canada, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "Today’s Google Doodle is of Harriet Tubman.   Born a slave, Harriet Tubman escaped and would become a leading “conductor” on the “Underground Railroad” which helped slaves escape from  bondage in the South to freedom in the North and in Canada, … Continue reading &rarr;"
+description: "Today’s Google Doodle is of Harriet Tubman.   Born a slave, Harriet Tubman escaped and would become a leading \"conductor\" on the \"Underground Railroad\" which helped slaves escape from  bondage in the South to freedom in the North and in Canada, … Continue reading &rarr;"
 ---
 
 ![Harriet Tubman](http://www.oldsaltblog.com/wp-content/uploads/2014/02/Harriet-Tubman.jpg)Today’s [Google Doodle is of Harriet Tubman](http://www.baltimoresun.com/news/maryland/bs-md-harriett-tubman-google-doodle-20140201,0,2377698.story).   Born a slave, [Harriet Tubman](http://en.wikipedia.org/wiki/Harriet_Tubman) escaped and would become a leading “conductor” on the “[Underground Railroad](http://en.wikipedia.org/wiki/Underground_Railroad)” which helped slaves escape from  bondage in the South to freedom in the North and in Canada, prior to the Civil War.  Nicknamed “Moses,” she took made more than nineteen trips back into the slave-holding South to rescue more than 300 slaves.  Her greatest rescue mission, however, came during the Civil War, when she planned and help lead a [Union riverboat raid at Combahee Ferry](http://en.wikipedia.org/wiki/Raid_at_Combahee_Ferry) in South Carolina on the first of June, 1863, freeing 724 slaves.

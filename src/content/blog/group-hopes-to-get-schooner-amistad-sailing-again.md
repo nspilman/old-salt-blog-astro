@@ -1,7 +1,7 @@
 ---
 title: "Group Hopes to get Schooner Amistad Sailing Again"
 date: 2012-01-24T14:03:09
-slug: group-hopes-to-get-schooner-amistad-sailing-again
+slug: "group-hopes-to-get-schooner-amistad-sailing-again"
 excerpt: "In May of 2010, we posted about a serious rigging failure suffered by the schooner Amistad while in heavy seas off the Florida coast.  The schooner limped back to Mystic, CT, where she built,  to undergo $100,000 in repairs.  She has not sailed … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Tall Ships 2011 Calendar by Thad Koza"
 date: 2010-10-31T08:37:49
-slug: tall-ships-2011-calendar-by-thad-koza
+slug: "tall-ships-2011-calendar-by-thad-koza"
 excerpt: "The calendar has been out since July, but I only got around to ordering mine yesterday. Thad Koza’s Tall Ships 2011 calendar features  SAGRESs II, JOLIE BRISE, PICTON CASTLE, WESTWARD, BOUNTY, EUROPA, the schooner THOMAS E LANNON, and five other tall ships. … Continue reading &rarr;"
 categories:
   - "Current"

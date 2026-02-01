@@ -1,8 +1,8 @@
 ---
-title: "“To Seek a Northwest Passage” – Clipper Adventurer Hits Uncharted Rock"
+title: "\"To Seek a Northwest Passage\" – Clipper Adventurer Hits Uncharted Rock"
 date: 2010-08-30T09:41:00
-slug: to-seek-a-northwest-passage-clipper-adventurer-hits-uncharted-rock
-excerpt: "Stan Roger‘s classic song begins, “Ah, for just one time I would take the Northwest Passage; to find the hand of Franklin reaching for the Beaufort Sea.”   Stan died in 1983, but his son, Nathan Rogers, also a singer, recently set … Continue reading &rarr;"
+slug: "to-seek-a-northwest-passage-clipper-adventurer-hits-uncharted-rock"
+excerpt: "Stan Roger‘s classic song begins, \"Ah, for just one time I would take the Northwest Passage; to find the hand of Franklin reaching for the Beaufort Sea.\"   Stan died in 1983, but his son, Nathan Rogers, also a singer, recently set … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Northwest Passage"
   - "Nunavut"
 author: "Rick Spilman"
-description: "Stan Roger‘s classic song begins, “Ah, for just one time I would take the Northwest Passage; to find the hand of Franklin reaching for the Beaufort Sea.”   Stan died in 1983, but his son, Nathan Rogers, also a singer, recently set … Continue reading &rarr;"
+description: "Stan Roger‘s classic song begins, \"Ah, for just one time I would take the Northwest Passage; to find the hand of Franklin reaching for the Beaufort Sea.\"   Stan died in 1983, but his son, Nathan Rogers, also a singer, recently set … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/3457622.bin_.jpg)

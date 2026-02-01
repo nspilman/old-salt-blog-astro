@@ -1,7 +1,7 @@
 ---
 title: "1841 Whaleship Charles W. Morgan Launching July 21st – Watch it Live on Webcam!"
 date: 2013-07-20T11:47:34
-slug: 1841-whaleship-charles-w-morgan-launching-july-21st-watch-it-live-on-webcam
+slug: "1841-whaleship-charles-w-morgan-launching-july-21st-watch-it-live-on-webcam"
 excerpt: "After a five year restoration, the 1841 built whaleship Charles W. Morgan is returning to the water at the Mystic Seaport Museum, tomorrow at 2 PM. The museum has set up a live web cam for those of us who … Continue reading &rarr;"
 categories:
   - "Current"

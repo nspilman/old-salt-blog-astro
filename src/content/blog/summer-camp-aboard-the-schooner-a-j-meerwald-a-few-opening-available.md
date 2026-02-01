@@ -1,7 +1,7 @@
 ---
 title: "Summer Camp Aboard the Schooner A. J. Meerwald –  Openings Still Available"
 date: 2013-06-22T07:10:22
-slug: summer-camp-aboard-the-schooner-a-j-meerwald-a-few-opening-available
+slug: "summer-camp-aboard-the-schooner-a-j-meerwald-a-few-opening-available"
 excerpt: "I wished that I could have sailed aboard a classic schooner when I was a kid.  For those in the New York/New Jersey Area, The Bayshore Discovery Project is sponsoring two five-day summer sailing camps aboard the classic oyster schooner … Continue reading &rarr;"
 categories:
   - "Current"

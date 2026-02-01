@@ -1,7 +1,7 @@
 ---
 title: "Explosion at the Gibraltar Cruise Ship Docks"
 date: 2011-05-31T20:01:26
-slug: explosion-at-the-gibraltar-cruise-ship-docks
+slug: "explosion-at-the-gibraltar-cruise-ship-docks"
 excerpt: "An explosion in a fuel tank on  the  cruise ship docks in Gibraltar today injured several on the dock and over twelve passengers on the 3,634-passenger Royal Caribbean   cruise  ship,  Independence of the Seas.  The injuries to passengers were all reported to be minor. … Continue reading &rarr;"
 categories:
   - "Current"

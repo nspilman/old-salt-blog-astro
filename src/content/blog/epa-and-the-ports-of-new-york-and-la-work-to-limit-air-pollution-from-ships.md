@@ -1,7 +1,7 @@
 ---
 title: "EPA and the Ports of New York and LA Work to Limit Air Pollution from Ships"
 date: 2012-08-09T15:40:51
-slug: epa-and-the-ports-of-new-york-and-la-work-to-limit-air-pollution-from-ships
+slug: "epa-and-the-ports-of-new-york-and-la-work-to-limit-air-pollution-from-ships"
 excerpt: "Consider these two statements: Ships are the most energy efficient way to transport goods.  They also have the smallest carbon footprint per ton of any means of transport. Ships are major polluters. One large container ship emits as much sulfur-oxide as fifty million … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Update: Dolphin Dies in New York’s Gowanus Canal"
 date: 2013-01-25T17:45:14
-slug: injured-dolphin-stuck-in-new-yorks-gowanus-canal
+slug: "injured-dolphin-stuck-in-new-yorks-gowanus-canal"
 excerpt: "Update: Dolphin Dies in Gowanus Canal Crowds of onlookers gathered today in the bitter cold on the Union Street Bridge to see an apparently injured dolphin stuck in shallow water in New York’s Gowanus Canal.  The canal is one of the … Continue reading &rarr;"
 categories:
   - "Current"

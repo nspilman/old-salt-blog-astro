@@ -1,7 +1,7 @@
 ---
 title: "On International Women’s Day — Remembering Mary Patten, Clipper Ship Captain"
 date: 2018-03-08T12:50:03
-slug: on-international-womens-day-remembering-mary-patten-clipper-ship-captain
+slug: "on-international-womens-day-remembering-mary-patten-clipper-ship-captain"
 excerpt: "On International Women’s Day, it seems a good time to remember Mary Ann Brown Patten, the first woman to command an American merchant ship. The year was 1856. The ship was the clipper ship Neptune’s Car, bound for San Francisco from New … Continue reading &rarr;"
 categories:
   - "History"

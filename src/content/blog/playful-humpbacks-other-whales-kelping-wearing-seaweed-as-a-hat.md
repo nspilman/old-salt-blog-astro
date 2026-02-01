@@ -1,7 +1,7 @@
 ---
-title: "Playful Humpbacks & Other Whales “Kelping” — Wearing Seaweed as a Hat"
+title: "Playful Humpbacks & Other Whales \"Kelping\" — Wearing Seaweed as a Hat"
 date: 2023-09-27T17:41:02
-slug: playful-humpbacks-other-whales-kelping-wearing-seaweed-as-a-hat
+slug: "playful-humpbacks-other-whales-kelping-wearing-seaweed-as-a-hat"
 excerpt: "There is so much that we do not understand about the social behaviors of whales and dolphins. Dolphins off the Australian coast, for example, have been observed wearing sponges as hats in what is believed to be an attempt, though … Continue reading &rarr;"
 categories:
   - "Current"

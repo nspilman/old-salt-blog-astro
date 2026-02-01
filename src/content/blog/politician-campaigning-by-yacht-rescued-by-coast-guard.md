@@ -1,8 +1,8 @@
 ---
 title: "Politician Campaigning by Yacht Rescued by Coast Guard"
 date: 2018-07-10T16:52:15
-slug: politician-campaigning-by-yacht-rescued-by-coast-guard
-excerpt: "At one point in her long and storied career, the 1885 built, 131-foot schooner yacht Coronet was owned by a rather dodgy religious group which called itself “The Kingdom.” The group was led by Frank Sandford who circumnavigated the globe on the yacht in 1905. … Continue reading &rarr;"
+slug: "politician-campaigning-by-yacht-rescued-by-coast-guard"
+excerpt: "At one point in her long and storied career, the 1885 built, 131-foot schooner yacht Coronet was owned by a rather dodgy religious group which called itself \"The Kingdom.\" The group was led by Frank Sandford who circumnavigated the globe on the yacht in 1905. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "Joe Trillo"
   - "Rhode Island"
 author: "Rick Spilman"
-description: "At one point in her long and storied career, the 1885 built, 131-foot schooner yacht Coronet was owned by a rather dodgy religious group which called itself “The Kingdom.” The group was led by Frank Sandford who circumnavigated the globe on the yacht in 1905. … Continue reading &rarr;"
+description: "At one point in her long and storied career, the 1885 built, 131-foot schooner yacht Coronet was owned by a rather dodgy religious group which called itself \"The Kingdom.\" The group was led by Frank Sandford who circumnavigated the globe on the yacht in 1905. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/07/trillo.jpg)At one point in her long and storied career, the 1885 built, 131-foot schooner yacht [*Coronet*](https://iyrs.edu/our-boats/coronet/) was owned by a rather dodgy religious group which called itself “The Kingdom.” The group was led by [Frank Sandford](https://en.wikipedia.org/wiki/Frank_Sandford) who circumnavigated the globe on the yacht in 1905. What was odd about the voyage was that no one ever went ashore. Instead, Sanford claimed to “subdue the world for Christ” through prayer and by sounding brass instruments as they passed by the various continents. He was not notably successful and on a subsequent voyage, several of his crew died of scurvy. The *Coronet,* however, has survived and is now being restored by the [IYRS School of Technology and Trades](https://iyrs.edu/) in Newport, Rhode Island.  

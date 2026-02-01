@@ -1,8 +1,8 @@
 ---
-title: "“New Nessie” on New Brighton Beach — Basking Shark or Plesiosaur?"
+title: "\"New Nessie\" on New Brighton Beach — Basking Shark or Plesiosaur?"
 date: 2024-01-12T21:31:23
-slug: new-nessie-on-new-brighton-beach-basking-shark-or-plesiosaur
-excerpt: "On January 5th, Stephen Davies was out on his daily run at New Brighton Beach near Liverpool, UK when he came across what appeared to be the carcass of a sea monster that had washed ashore.   He said: “I was … Continue reading &rarr;"
+slug: "new-nessie-on-new-brighton-beach-basking-shark-or-plesiosaur"
+excerpt: "On January 5th, Stephen Davies was out on his daily run at New Brighton Beach near Liverpool, UK when he came across what appeared to be the carcass of a sea monster that had washed ashore.   He said: \"I was … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -17,7 +17,7 @@ tags:
   - "Zuiyō Maru"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/01/baskingsharkdecomp.jpg"
 author: "Rick Spilman"
-description: "On January 5th, Stephen Davies was out on his daily run at New Brighton Beach near Liverpool, UK when he came across what appeared to be the carcass of a sea monster that had washed ashore.   He said: “I was … Continue reading &rarr;"
+description: "On January 5th, Stephen Davies was out on his daily run at New Brighton Beach near Liverpool, UK when he came across what appeared to be the carcass of a sea monster that had washed ashore.   He said: \"I was … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/01/baskingsharkdecomp.jpg)

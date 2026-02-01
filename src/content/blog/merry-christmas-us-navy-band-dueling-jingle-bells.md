@@ -1,7 +1,7 @@
 ---
 title: "Merry Christmas — US Navy Band Dueling Jingle Bells"
 date: 2015-12-25T09:44:31
-slug: merry-christmas-us-navy-band-dueling-jingle-bells
+slug: "merry-christmas-us-navy-band-dueling-jingle-bells"
 excerpt: "We hope everyone is having a wonderful holiday season. Here is a slightly different take on Jingle Bells by members of the US Navy band. Dueling Jingle BellsHere’s one of our favorites from this year’s holiday concerts, with a bit … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Grain de Sail to Deliver Medical Supplies to Dominican Republic by Sail"
 date: 2021-11-27T17:21:18
-slug: grain-de-sail-to-deliver-medical-supplies-to-dominican-republic-by-sail
+slug: "grain-de-sail-to-deliver-medical-supplies-to-dominican-republic-by-sail"
 excerpt: "In what is described as the first carbon-free humanitarian logistics effort, Grain de Sail has announced that it is partnering with two non-profits to deliver unused medical supplies from New York to the Dominican Republic by sail. Grain de Sail … Continue reading &rarr;"
 categories:
   - "Current"

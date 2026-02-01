@@ -1,7 +1,7 @@
 ---
 title: "NOAA Expands Thunder Bay’s Shipwreck Alley Sanctuary Tenfold"
 date: 2014-09-12T08:31:48
-slug: noaa-expands-thunder-bays-shipwreck-alley-sanctuary-tenfold
+slug: "noaa-expands-thunder-bays-shipwreck-alley-sanctuary-tenfold"
 excerpt: "The National Oceanic and Atmospheric Administration (NOAA) is increasing the size of the Thunder Bay National Marine Sanctuary in Lake Huron from 448 square miles to 4,300 square miles, doubling the number the number of shipwrecks protected to 200. Located in … Continue reading &rarr;"
 categories:
   - "Current"

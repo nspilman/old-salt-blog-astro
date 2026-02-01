@@ -1,7 +1,7 @@
 ---
 title: "Titanic’s Unsinkable Survivors — Arthur John Priest & Violet Jessop"
 date: 2016-04-15T07:27:21
-slug: titanics-unsinkable-survivors-arthur-john-priest-violet-jessop
+slug: "titanics-unsinkable-survivors-arthur-john-priest-violet-jessop"
 excerpt: "In observance of the anniversary of the sinking of the Titanic on April 15, 1912, here is a repost from 2012, about two hardy souls who survived not only the sinking of the RMS Titanic but also the RMS Britannic when she was … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

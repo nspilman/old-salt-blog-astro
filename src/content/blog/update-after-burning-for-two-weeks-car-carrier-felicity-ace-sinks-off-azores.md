@@ -1,7 +1,7 @@
 ---
 title: "Update: After Burning For Two Weeks, Car Carrier Felicity Ace Sinks Off Azores"
 date: 2022-03-02T13:51:42
-slug: update-after-burning-for-two-weeks-car-carrier-felicity-ace-sinks-off-azores
+slug: "update-after-burning-for-two-weeks-car-carrier-felicity-ace-sinks-off-azores"
 excerpt: "The car carrier Felicity Ace, carrying upwards of 4,000 vehicles, including more than 1,000 Porsches and 200 Bentleys, caught fire in the Atlantic off the Azores on February 16. After almost two weeks ablaze, the fire appeared to be under … Continue reading &rarr;"
 categories:
   - "Current"

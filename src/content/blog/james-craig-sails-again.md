@@ -1,7 +1,7 @@
 ---
 title: "James Craig Sails Again"
 date: 2010-12-14T15:05:01
-slug: james-craig-sails-again
+slug: "james-craig-sails-again"
 excerpt: "The almost 30 year restoration of the James Craig is a wonderful story of volunteers rescuing an old windjammer, rusting away on a Tasmanian beach.  The three masted iron barque, James Craig, originally named Clan Macleod, was built by Bartram, … Continue reading &rarr;"
 categories:
   - "Current"

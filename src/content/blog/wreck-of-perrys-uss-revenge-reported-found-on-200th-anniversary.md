@@ -1,7 +1,7 @@
 ---
 title: "Wreck of Perry’s USS Revenge reported found on 200th anniversary"
 date: 2011-01-09T11:49:40
-slug: wreck-of-perrys-uss-revenge-reported-found-on-200th-anniversary
+slug: "wreck-of-perrys-uss-revenge-reported-found-on-200th-anniversary"
 excerpt: "Two hundred years ago today the USS Revenge, under the command of  Oliver Hazard Perry, sank in the waters off  Rhode Island.   On Friday, divers, Charles Buffum, Mike Fournier and Craig Harger, announced that they believe that they have  located the wreck.   In … Continue reading &rarr;"
 categories:
   - "Current"

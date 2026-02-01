@@ -1,7 +1,7 @@
 ---
 title: "On Memorial Day – the Last Mission of the USS Olympia"
 date: 2011-05-30T07:54:53
-slug: on-memorial-day-the-last-mission-of-the-uss-olympia
+slug: "on-memorial-day-the-last-mission-of-the-uss-olympia"
 excerpt: "We have recently posted about attempts to find a home for the USS Olympia, the oldest steel-hulled American warship afloat and Commodore George Dewey’s flagship during the Battle of Manila Bay on May 1, 1898.  On Memorial Day it seems worthwhile … Continue reading &rarr;"
 categories:
   - "History"

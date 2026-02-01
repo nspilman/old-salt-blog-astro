@@ -1,7 +1,7 @@
 ---
 title: "Latest US Attempt to Invade Canada Fails Again"
 date: 2016-08-24T14:12:03
-slug: latest-us-attempt-to-invade-canada-fails-again
+slug: "latest-us-attempt-to-invade-canada-fails-again"
 excerpt: "On July 12, 1812, General William Hull led a force of roughly 1,800 US militia across the Detroit River to invade Canada. It did not go well. Within days Hull and his forces were driven out by British, Canadian and … Continue reading &rarr;"
 categories:
   - "Current"

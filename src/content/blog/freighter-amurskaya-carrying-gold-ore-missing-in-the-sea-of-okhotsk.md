@@ -1,7 +1,7 @@
 ---
 title: "Freighter Amurskaya Carrying Gold Ore Missing in the Sea of Okhotsk"
 date: 2012-10-30T08:09:26
-slug: freighter-amurskaya-carrying-gold-ore-missing-in-the-sea-of-okhotsk
+slug: "freighter-amurskaya-carrying-gold-ore-missing-in-the-sea-of-okhotsk"
 excerpt: "The freighter Amurskaya, with a crew of of between 8 and 11, and carrying 700 tons of gold ore has been reported missing in stormy seas near the Shantar Islands, in the Sea of Okhotsk, on Russia’s Pacific Coast.   The gold ore … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "How Will a Pedal-Powered Party Boat Do in the Hudson River?"
 date: 2019-04-23T05:20:48
-slug: how-will-a-pedal-powered-party-boat-do-in-the-hudson-river
-excerpt: "A few years ago I was walking down a street in Austin Texas when I saw a group of folks sitting at a bar pedal by. Apparently, they were peddling a “Pedal Pub” on a PubCrawler tour. The Pedal Pub … Continue reading &rarr;"
+slug: "how-will-a-pedal-powered-party-boat-do-in-the-hudson-river"
+excerpt: "A few years ago I was walking down a street in Austin Texas when I saw a group of folks sitting at a bar pedal by. Apparently, they were peddling a \"Pedal Pub\" on a PubCrawler tour. The Pedal Pub … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Pedal Pub"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/cycleboat.jpg"
 author: "Rick Spilman"
-description: "A few years ago I was walking down a street in Austin Texas when I saw a group of folks sitting at a bar pedal by. Apparently, they were peddling a “Pedal Pub” on a PubCrawler tour. The Pedal Pub … Continue reading &rarr;"
+description: "A few years ago I was walking down a street in Austin Texas when I saw a group of folks sitting at a bar pedal by. Apparently, they were peddling a \"Pedal Pub\" on a PubCrawler tour. The Pedal Pub … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/cycleboat.jpg)

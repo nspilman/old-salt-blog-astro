@@ -1,7 +1,7 @@
 ---
 title: "Captain Brett Crozier — A Hero Villainized By The Navy, Praised By His Colleagues"
 date: 2021-04-02T16:41:42
-slug: captain-brett-crozier-a-hero-villainized-by-the-navy-praised-by-his-colleagues
+slug: "captain-brett-crozier-a-hero-villainized-by-the-navy-praised-by-his-colleagues"
 excerpt: "One year ago today, Captain Brett Crozier walked down the gangway of the aircraft carrier USS Theodore Roosevelt. He had been relieved of command after the San Francisco Chronicle reported the contents of a leaked letter he wrote to his … Continue reading &rarr;"
 categories:
   - "Current"

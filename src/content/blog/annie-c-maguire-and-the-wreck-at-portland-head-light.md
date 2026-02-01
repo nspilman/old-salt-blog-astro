@@ -1,7 +1,7 @@
 ---
 title: "Annie C. Maguire and the Wreck at Portland Head Light"
 date: 2015-07-16T08:03:09
-slug: annie-c-maguire-and-the-wreck-at-portland-head-light
+slug: "annie-c-maguire-and-the-wreck-at-portland-head-light"
 excerpt: "Was the wreck of three-masted bark, Annie C. Maguire, which very conveniently wrecked at Portland Head Light on Christmas Eve 1886, simply an insurance scam? It is said that the ship wrecked so close to the light that the lighthouse … Continue reading &rarr;"
 categories:
   - "History"

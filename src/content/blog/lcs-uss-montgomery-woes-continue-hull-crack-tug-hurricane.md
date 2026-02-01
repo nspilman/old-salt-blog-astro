@@ -1,7 +1,7 @@
 ---
 title: "LCS USS Montgomery Woes Continue — Hull Crack, a Tug and a Hurricane"
 date: 2016-10-09T09:27:39
-slug: lcs-uss-montgomery-woes-continue-hull-crack-tug-hurricane
+slug: "lcs-uss-montgomery-woes-continue-hull-crack-tug-hurricane"
 excerpt: "When Hurricane Matthew approached, the Littoral Combat Ship (LCS) USS Montgomery and several other Navy ships were ordered out of port in Mayport, FL. Unfortunately, in the process of leaving port, the USS Montgomery took a hard knock from a tug, which … Continue reading &rarr;"
 categories:
   - "Current"

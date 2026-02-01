@@ -1,7 +1,7 @@
 ---
 title: "Queen’s Diamond Jubilee Royal Barge Design Unveiled"
 date: 2011-12-12T17:15:18
-slug: queens-diamond-jubilee-royal-barge-design-unveiled
+slug: "queens-diamond-jubilee-royal-barge-design-unveiled"
 excerpt: "The first images of the design of the royal barge that will carry the Queen of England down the Thames during her Diamond Jubilee celebrations next year have been published. With no disrespect implied to the Queen, I am a … Continue reading &rarr;"
 categories:
   - "Current"

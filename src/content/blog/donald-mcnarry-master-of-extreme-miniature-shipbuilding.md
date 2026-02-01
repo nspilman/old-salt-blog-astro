@@ -1,17 +1,17 @@
 ---
-title: "Donald McNarry – Master of “Extreme” Miniature Shipbuilding"
+title: "Donald McNarry – Master of \"Extreme\" Miniature Shipbuilding"
 date: 2010-11-15T20:30:45
-slug: donald-mcnarry-master-of-extreme-miniature-shipbuilding
-excerpt: "Donald McNarry Donald McNarry, who has died aged 89, was considered by model ship enthusiasts to be the master of “extreme” miniature shipbuilding. He took up model making as a hobby when he was a boy and built model ships … Continue reading &rarr;"
+slug: "donald-mcnarry-master-of-extreme-miniature-shipbuilding"
+excerpt: "Donald McNarry Donald McNarry, who has died aged 89, was considered by model ship enthusiasts to be the master of \"extreme\" miniature shipbuilding. He took up model making as a hobby when he was a boy and built model ships … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - ""extreme" miniature shipbuildin"
+  - "\"extreme\" miniature shipbuildin"
   - "Donald McNarry"
   - "model making"
 author: "Rick Spilman"
-description: "Donald McNarry Donald McNarry, who has died aged 89, was considered by model ship enthusiasts to be the master of “extreme” miniature shipbuilding. He took up model making as a hobby when he was a boy and built model ships … Continue reading &rarr;"
+description: "Donald McNarry Donald McNarry, who has died aged 89, was considered by model ship enthusiasts to be the master of \"extreme\" miniature shipbuilding. He took up model making as a hobby when he was a boy and built model ships … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/mcnarry1_1761425i.jpg)[Donald McNarry](http://www.telegraph.co.uk/news/obituaries/8132685/Donald-McNarry.html)

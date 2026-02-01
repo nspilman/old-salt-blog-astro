@@ -1,7 +1,7 @@
 ---
 title: "Summer Camps for Teens Aboard the Oliver Hazard Perry"
 date: 2015-01-15T21:11:20
-slug: summer-camps-for-teens-aboard-the-oliver-hazard-perry
+slug: "summer-camps-for-teens-aboard-the-oliver-hazard-perry"
 excerpt: "It doesn’t feel very much like summer right now, but at least we are on the far side of the winter solstice, so each day brings spring a bit closer.  And this spring, the Oliver Hazard Perry, the first ocean-going … Continue reading &rarr;"
 categories:
   - "Current"

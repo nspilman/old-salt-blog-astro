@@ -1,7 +1,7 @@
 ---
 title: "Hundreds of ships stuck as Rhine still blocked by Waldhof shipwreck"
 date: 2011-01-30T12:51:31
-slug: hundreds-of-ships-stuck-as-rhine-still-blocked-by-waldhof-shipwreck
+slug: "hundreds-of-ships-stuck-as-rhine-still-blocked-by-waldhof-shipwreck"
 excerpt: "An update to a post from last week:   A backlog of close to 400 ships is still bottled up on the Rhine River following the capsizing of the 110M chemical tank barge, Waldhof, on January 13th  near the Lorelei … Continue reading &rarr;"
 categories:
   - "Current"

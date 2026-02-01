@@ -1,7 +1,7 @@
 ---
 title: "Greetings from the North Pole"
 date: 2010-12-26T09:47:05
-slug: greetings-from-the-north-pole
+slug: "greetings-from-the-north-pole"
 excerpt: "Of all the various holiday greeting from shipping ventures this season this has to be my favorite.  A Moss Rosenberg design LNG ship transformed to a Christmas ball carrier.  From the Maasmond Maritime. … Continue reading &rarr;"
 categories:
   - "Current"

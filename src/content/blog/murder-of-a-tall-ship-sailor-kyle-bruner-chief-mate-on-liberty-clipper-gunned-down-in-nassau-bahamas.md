@@ -1,7 +1,7 @@
 ---
 title: "Murder of a Tall Ship Sailor – Kyle Bruner, Chief Mate on Liberty Clipper, Gunned Down in Nassau, Bahamas"
 date: 2013-05-14T12:27:48
-slug: murder-of-a-tall-ship-sailor-kyle-bruner-chief-mate-on-liberty-clipper-gunned-down-in-nassau-bahamas
+slug: "murder-of-a-tall-ship-sailor-kyle-bruner-chief-mate-on-liberty-clipper-gunned-down-in-nassau-bahamas"
 excerpt: "Sadly, the world is a dangerous place, both at sea and ashore. Over the weekend, Kyle Bruner, chief mate on the schooner Liberty Clipper  was murdered in Nassau, Bahamas while attempting to stop a mugging.  As reported by NBC Chicago: Kyle … Continue reading &rarr;"
 categories:
   - "Current"

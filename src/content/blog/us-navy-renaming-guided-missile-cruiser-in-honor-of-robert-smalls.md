@@ -1,7 +1,7 @@
 ---
 title: "US Navy Renaming Guided Missile Cruiser in Honor of Robert Smalls"
 date: 2023-02-28T18:15:34
-slug: us-navy-renaming-guided-missile-cruiser-in-honor-of-robert-smalls
+slug: "us-navy-renaming-guided-missile-cruiser-in-honor-of-robert-smalls"
 excerpt: "Yesterday, the Secretary of the Navy Carlos Del Toro announced that the Ticonderoga-class guided-missile cruiser formerly named USS Chancellorsville (CG 62) will be renamed USS Robert Smalls. Earlier this month, we posted Remembering Robert Smalls – Former Slave, Pilot of the … Continue reading &rarr;"
 categories:
   - "Current"

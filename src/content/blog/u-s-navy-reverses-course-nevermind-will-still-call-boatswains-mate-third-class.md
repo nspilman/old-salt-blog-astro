@@ -1,7 +1,7 @@
 ---
 title: "U.S. Navy Reverses Course– Nevermind, You Are Still a Boatswain’s Mate Third Class"
 date: 2016-12-23T09:19:07
-slug: u-s-navy-reverses-course-nevermind-will-still-call-boatswains-mate-third-class
+slug: "u-s-navy-reverses-course-nevermind-will-still-call-boatswains-mate-third-class"
 excerpt: "In the end of September, the U.S. Navy announced that it would be eliminating the rating system that they had used for the past 241 years in the ranks of enlisted sailors.  The old system, which used 91 ratings, would … Continue reading &rarr;"
 categories:
   - "Current"

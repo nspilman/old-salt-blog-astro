@@ -1,8 +1,8 @@
 ---
 title: "Candela’s Electric Hydrofoil Ferries to Fly in Sweden & Saudi Arabia"
 date: 2024-09-05T21:00:20
-slug: candelas-electric-hydrofoil-ferries-to-fly-in-sweden-saudi-arabia
-excerpt: "Three years ago, we posted about all-electric hydrofoil runabouts designed and built by Candela that succeeded in combining high speed with substantial range. Bloomberg referred to the company as “Sweden’s Tesla of the Sea” for challenging the conventional internal-combustion-powered leisure-craft … Continue reading &rarr;"
+slug: "candelas-electric-hydrofoil-ferries-to-fly-in-sweden-saudi-arabia"
+excerpt: "Three years ago, we posted about all-electric hydrofoil runabouts designed and built by Candela that succeeded in combining high speed with substantial range. Bloomberg referred to the company as \"Sweden’s Tesla of the Sea\" for challenging the conventional internal-combustion-powered leisure-craft … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -17,7 +17,7 @@ tags:
   - "Sweden’s Tesla of the Sea"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/09/candelaP12.jpg"
 author: "Rick Spilman"
-description: "Three years ago, we posted about all-electric hydrofoil runabouts designed and built by Candela that succeeded in combining high speed with substantial range. Bloomberg referred to the company as “Sweden’s Tesla of the Sea” for challenging the conventional internal-combustion-powered leisure-craft … Continue reading &rarr;"
+description: "Three years ago, we posted about all-electric hydrofoil runabouts designed and built by Candela that succeeded in combining high speed with substantial range. Bloomberg referred to the company as \"Sweden’s Tesla of the Sea\" for challenging the conventional internal-combustion-powered leisure-craft … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/09/candelaP12.jpg)Three years ago, we [posted about all-electric hydrofoil runabouts](https://www.oldsaltblog.com/2021/11/flying-on-a-candela-c7-electric-hydrofoil-boat/) designed and built by [Candela](https://candela.com/) that succeeded in combining high speed with substantial range. Bloomberg referred to the company as “[Sweden’s Tesla of the Sea](https://www.bloomberg.com/news/articles/2021-08-26/sweden-s-tesla-of-the-sea-challenges-fossil-fueled-speedboats)” for challenging the conventional internal-combustion-powered leisure-craft industry.

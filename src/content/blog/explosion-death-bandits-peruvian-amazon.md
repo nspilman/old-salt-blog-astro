@@ -1,7 +1,7 @@
 ---
 title: "Explosion, Death and Bandits on the Peruvian Amazon"
 date: 2016-07-22T09:14:50
-slug: explosion-death-bandits-peruvian-amazon
+slug: "explosion-death-bandits-peruvian-amazon"
 excerpt: "Last October, we took a five day cruise on the Amazon from Iquitos, Peru.  It was a fascinating trip. Iquitos is 2,000 nautical miles up the Amazon and yet is a deep water port with a controlling draft of around … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "What Could the Captain of the ACX Crystal See? Container Ship Visibility & Maneuvering"
 date: 2017-07-23T08:49:33
-slug: container-ship-visibility-manuevering
+slug: "container-ship-visibility-manuevering"
 excerpt: "One recurring comment related to the collision between the USS Fitzgerald and the container ship ACX Crystal was that the container ship might not have been able to see the destroyer over the containers stacked on deck. There are photographs … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

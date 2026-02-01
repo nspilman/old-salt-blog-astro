@@ -1,7 +1,7 @@
 ---
 title: "Voyage of the Sloop Experiment"
 date: 2008-11-12T16:29:27
-slug: voyage-of-the-sloop-experiment
+slug: "voyage-of-the-sloop-experiment"
 excerpt: "Having sailed last week on the Hudson River sloop, Clearwater, a voyage by another Hudson River sloop came to mind.  In 1785 the Hudson River sloop Experiment was only the second ship from the young American republic to sail to China. … Continue reading &rarr;"
 categories:
   - "History"

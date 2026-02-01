@@ -1,8 +1,8 @@
 ---
 title: "Swimming the Gowanus Canal on Earth Day?  Don’t Drink the Water!"
 date: 2015-04-24T15:03:25
-slug: happen-drank-water-gowanus-canal
-excerpt: "Christopher Swain, an environmental activist, spent about an hour swimming in New York’s Gowanus Canal earlier this week on Earth Day.  He said he made his swim as a “call for an accelerated cleanup of the Canal.”  The Gowanus Canal … Continue reading &rarr;"
+slug: "happen-drank-water-gowanus-canal"
+excerpt: "Christopher Swain, an environmental activist, spent about an hour swimming in New York’s Gowanus Canal earlier this week on Earth Day.  He said he made his swim as a \"call for an accelerated cleanup of the Canal.\"  The Gowanus Canal … Continue reading &rarr;"
 categories:
   - "City of Ships"
   - "Current"

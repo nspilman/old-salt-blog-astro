@@ -1,7 +1,7 @@
 ---
 title: "Moby, Mocha and the Whale Ship Essex"
 date: 2010-05-11T15:35:09
-slug: moby-mocha-and-the-whale-ship-essex
+slug: "moby-mocha-and-the-whale-ship-essex"
 excerpt: "People are often surprised to hear that Herman Melville’s masterpiece, Moby Dick, was inspired, at least in part, by the sinking of the whale ship Essex by a sperm whale.  By all accounts the sinking of the Essex  haunted  Melville  and  unquestionably supplied him with … Continue reading &rarr;"
 categories:
   - "History"

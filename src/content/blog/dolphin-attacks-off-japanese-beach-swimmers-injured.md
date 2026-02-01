@@ -1,7 +1,7 @@
 ---
 title: "Dolphin Attacks Off Japanese Beach, Swimmers Injured"
 date: 2023-07-20T16:14:02
-slug: dolphin-attacks-off-japanese-beach-swimmers-injured
+slug: "dolphin-attacks-off-japanese-beach-swimmers-injured"
 excerpt: "We have posted about orcas attacking and even sinking sailboats off the Iberian peninsula. Recently, we posted about a surfboard-stealing otter.  Now, officials say that four swimmers were injured in dolphin attacks on a beach in central Japan. The BBC … Continue reading &rarr;"
 categories:
   - "Current"

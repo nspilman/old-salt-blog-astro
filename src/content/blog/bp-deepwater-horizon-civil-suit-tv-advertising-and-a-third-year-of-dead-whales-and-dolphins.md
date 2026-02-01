@@ -1,7 +1,7 @@
 ---
 title: "BP Deepwater Horizon Civil Suit, TV Advertising, and A Third Year of Dead Whales and Dolphins"
 date: 2013-03-02T17:35:52
-slug: bp-deepwater-horizon-civil-suit-tv-advertising-and-a-third-year-of-dead-whales-and-dolphins
+slug: "bp-deepwater-horizon-civil-suit-tv-advertising-and-a-third-year-of-dead-whales-and-dolphins"
 excerpt: "I don’t watch a lot of television, though it seems every time that I turn the set on I see another commercial touting how wonderful things are on the Gulf of Mexico. The sun is shining, the beaches are beautiful, … Continue reading &rarr;"
 categories:
   - "Current"

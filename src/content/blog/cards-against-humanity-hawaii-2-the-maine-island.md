@@ -1,7 +1,7 @@
 ---
 title: "Cards Against Humanity & Hawaii 2, the Maine Island"
 date: 2016-02-01T21:29:12
-slug: cards-against-humanity-hawaii-2-the-maine-island
+slug: "cards-against-humanity-hawaii-2-the-maine-island"
 excerpt: "Hawaii 2 is an island in St. George lake, near the town of Liberty in Maine. It was known as Birch Island until it was renamed by its new owners, who purchased it in October 2014. The new owners are … Continue reading &rarr;"
 categories:
   - "Current"

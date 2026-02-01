@@ -1,7 +1,7 @@
 ---
 title: "Christmas Night by C. Fox Smith, Adapted for Singing by Charlie Ipcar"
 date: 2017-12-25T09:28:58
-slug: christmas-night-c-fox-smith-adapted-singing-charlie-ipcar
+slug: "christmas-night-c-fox-smith-adapted-singing-charlie-ipcar"
 excerpt: "We hope that everyone is having a most merry Christmas. Here is a repost from 2014 of a poem by C. Fox Smith adapted for song by Charlie Ipcar.  Cecily Fox Smith was a Victorian poet best remembered for her poems about … Continue reading &rarr;"
 categories:
   - "History"

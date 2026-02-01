@@ -1,7 +1,7 @@
 ---
 title: "Update: ARA Libertad – Standoff Intensifies as Sailors Brandish Weapons"
 date: 2012-11-12T11:39:32
-slug: update-ara-libertad-standoff-intensifies-as-sailors-brandish-weapons
+slug: "update-ara-libertad-standoff-intensifies-as-sailors-brandish-weapons"
 excerpt: "In early October, we posted about the Argentine Navy training ship Libertad, a 300′ three masted full rigged ship, that had been seized in the port of Tema, Ghana as a result of a court order obtained by NML Capital Ltd., a … Continue reading &rarr;"
 categories:
   - "Current"

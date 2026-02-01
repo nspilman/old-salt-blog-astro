@@ -1,7 +1,7 @@
 ---
 title: "First New Polar Icebreaker Delivery Delayed Until 2025"
 date: 2022-05-02T17:53:33
-slug: first-new-polar-icebreaker-delivery-delayed-until-2025
+slug: "first-new-polar-icebreaker-delivery-delayed-until-2025"
 excerpt: "In 2019, we posted that US Coast Guard was finally getting an appropriation to build three new heavy polar icebreakers, followed by the construction of three new medium polar icebreakers. The Coast Guard currently has one heavy icebreaker, USCGC Polar Star, which … Continue reading &rarr;"
 categories:
   - "Current"

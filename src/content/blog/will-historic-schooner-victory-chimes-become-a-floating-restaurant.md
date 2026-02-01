@@ -1,7 +1,7 @@
 ---
 title: "Will Historic Schooner Victory Chimes Become a Floating Restaurant?"
 date: 2023-05-11T13:33:29
-slug: will-historic-schooner-victory-chimes-become-a-floating-restaurant
+slug: "will-historic-schooner-victory-chimes-become-a-floating-restaurant"
 excerpt: "The three-masted, gaff-rigged Chesapeake ram schooner Victory Chimes was recently sold at auction to Miles and Alex Pincus, who currently own two restaurants aboard historic schooners in New York harbor, as well as several shore-based establishments.  While it had been … Continue reading &rarr;"
 categories:
   - "Current"

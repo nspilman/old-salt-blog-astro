@@ -1,7 +1,7 @@
 ---
 title: "Commodore David Hughes, Royal Navy’s Oldest Veteran, Dies at 106"
 date: 2021-06-25T11:30:11
-slug: commodore-david-hughes-royal-navys-oldest-veteran-dies-at-106
+slug: "commodore-david-hughes-royal-navys-oldest-veteran-dies-at-106"
 excerpt: "Commodore David Hughes, believed to be the Royal Navy’s oldest veteran, has died, just shy of his 107th birthday. An excerpt from the obituary on the Royal Navy website: The New Zealand-born officer was one of the last survivors of … Continue reading &rarr;"
 categories:
   - "History"

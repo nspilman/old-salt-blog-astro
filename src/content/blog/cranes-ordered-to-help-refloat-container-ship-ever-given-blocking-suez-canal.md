@@ -1,7 +1,7 @@
 ---
 title: "Cranes Ordered to Help Refloat Container Ship Ever Given Blocking Suez Canal"
 date: 2021-03-28T16:05:30
-slug: cranes-ordered-to-help-refloat-container-ship-ever-given-blocking-suez-canal
+slug: "cranes-ordered-to-help-refloat-container-ship-ever-given-blocking-suez-canal"
 excerpt: "Tugs and dredgers have been making some progress in refloated the stranded ultra-large container ship, Ever Given, that has blocked traffic in the Suez Canal since last Tuesday.  The next best hope of freeing the stranded ship will come on … Continue reading &rarr;"
 categories:
   - "Current"

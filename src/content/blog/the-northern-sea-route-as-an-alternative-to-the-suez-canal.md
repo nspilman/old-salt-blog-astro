@@ -1,7 +1,7 @@
 ---
 title: "The Northern Sea Route as an Alternative to the Suez Canal"
 date: 2021-04-04T16:06:02
-slug: the-northern-sea-route-as-an-alternative-to-the-suez-canal
+slug: "the-northern-sea-route-as-an-alternative-to-the-suez-canal"
 excerpt: "When the ultra-large container ship Ever Given blocked traffic in the Suez Canal recently, Russia’s energy ministry saw an opportunity. The ministry suggested that the shutdown of the canal highlighted the safety and sustainability of its Northern Sea Route (NSR). … Continue reading &rarr;"
 categories:
   - "Current"

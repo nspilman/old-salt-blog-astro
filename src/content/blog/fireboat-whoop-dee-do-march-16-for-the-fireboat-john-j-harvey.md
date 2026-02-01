@@ -1,7 +1,7 @@
 ---
 title: "Fireboat Whoop-Dee-Do March 16 for the  Fireboat John J. Harvey"
 date: 2015-02-22T17:24:29
-slug: fireboat-whoop-dee-do-march-16-for-the-fireboat-john-j-harvey
+slug: "fireboat-whoop-dee-do-march-16-for-the-fireboat-john-j-harvey"
 excerpt: "What’s a Fireboat Whoop-Dee-Do? I am not entirely sure but it sounds like fun. It is a fundraiser for the historic fireboat John J Harvey  on Monday, Mar. 16th, 6:00-9:00 at Tribeca 360, 10 Desbrosses Street, just south of Canal Street in Mahnhattan. It … Continue reading &rarr;"
 categories:
   - "Current"

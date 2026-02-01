@@ -1,7 +1,7 @@
 ---
 title: "The Mystery of  Beluga Whales in Narragansset Bay"
 date: 2015-05-17T16:40:02
-slug: the-mystery-of-beluga-whales-in-narragansset-bay
+slug: "the-mystery-of-beluga-whales-in-narragansset-bay"
 excerpt: "Almost a week ago, three beluga whales were spotted in Rhode Island’s Narraganset Bay. Normally the white whales would be expected to stay much farther north.  Teams of scientists from the Mystic Aquarium & Institute for Exploration watched video of … Continue reading &rarr;"
 categories:
   - "Current"

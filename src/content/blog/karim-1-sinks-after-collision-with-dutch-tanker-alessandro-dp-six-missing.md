@@ -1,7 +1,7 @@
 ---
 title: "Karim-1 Sinks after Collision with Dutch Tanker Alessandro DP, Six Missing"
 date: 2010-11-30T13:15:02
-slug: karim-1-sinks-after-collision-with-dutch-tanker-alessandro-dp-six-missing
+slug: "karim-1-sinks-after-collision-with-dutch-tanker-alessandro-dp-six-missing"
 excerpt: "Six missing after Dutch and Sierra Leone-flagged vessels collide in the Black Sea Two Dutch and Sierra Leone-flagged vessels collided during bad weather in the Black Sea on late Monday afternoon, the government confirmed. Six people are missing. The Bulgarian … Continue reading &rarr;"
 categories:
   - "Current"

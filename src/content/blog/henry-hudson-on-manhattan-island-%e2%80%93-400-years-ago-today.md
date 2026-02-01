@@ -1,7 +1,7 @@
 ---
 title: "Henry Hudson on Manhattan Island – 400 Years Ago Today"
 date: 2009-09-12T07:22:08
-slug: henry-hudson-on-manhattan-island-%e2%80%93-400-years-ago-today
+slug: "henry-hudson-on-manhattan-island-%e2%80%93-400-years-ago-today"
 excerpt: "Today there are 1.6 million or so residents on the island of Manhattan.  How things have changed. Four hundred years ago on September 12th, 1609, when Henry Hudson first stepped onto the island, there were roughly 600 Lenape Indians living … Continue reading &rarr;"
 categories:
   - "History"

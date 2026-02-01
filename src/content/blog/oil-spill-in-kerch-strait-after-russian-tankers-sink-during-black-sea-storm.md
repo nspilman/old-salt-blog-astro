@@ -1,7 +1,7 @@
 ---
 title: "Oil Spill in Kerch Strait After Russian Tankers Sink During Black Sea Storm"
 date: 2024-12-15T13:19:06
-slug: oil-spill-in-kerch-strait-after-russian-tankers-sink-during-black-sea-storm
+slug: "oil-spill-in-kerch-strait-after-russian-tankers-sink-during-black-sea-storm"
 excerpt: "Authorities in Russia have said two small Russian oil tankers sank or were seriously damaged in the Black Sea on Sunday, resulting in an oil spill in the Kerch Strait.  The two tankers, Volgoneft-212 and Volgoneft-239, each with cargo deadweights … Continue reading &rarr;"
 categories:
   - "Current"

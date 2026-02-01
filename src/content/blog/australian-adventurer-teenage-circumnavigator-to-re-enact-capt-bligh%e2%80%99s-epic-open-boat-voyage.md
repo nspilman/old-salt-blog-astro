@@ -1,7 +1,7 @@
 ---
 title: "Australian adventurer & teenage circumnavigator to re-enact Capt. Bligh’s epic open boat voyage"
 date: 2009-09-18T10:20:27
-slug: australian-adventurer-teenage-circumnavigator-to-re-enact-capt-bligh%e2%80%99s-epic-open-boat-voyage
+slug: "australian-adventurer-teenage-circumnavigator-to-re-enact-capt-bligh%e2%80%99s-epic-open-boat-voyage"
 excerpt: "Australian adventurer Don McIntyre and teenage circumnavigator Mike Perham to re-enact Capt William Bligh’s epic mutiny on the Bounty open boat voyage Australian adventurer and solo round the world sailor, Don McIntyre announced today that Mike Perham, the world’s youngest … Continue reading &rarr;"
 categories:
   - "Current"

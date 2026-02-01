@@ -1,7 +1,7 @@
 ---
 title: "Update: MV Wisdom off Juhu Beach and Now On-Line"
 date: 2011-07-04T08:40:04
-slug: update-mv-wisdom-off-juhu-beach-and-now-on-line
+slug: "update-mv-wisdom-off-juhu-beach-and-now-on-line"
 excerpt: "Three weeks ago we posted about the MV Wisdom, which had been on her way to a Gujarat scrapyard when the tow line parted. The drifting ship nearly hit a major bridge near Mumbai before finally grounding on Juhu Beach, where … Continue reading &rarr;"
 categories:
   - "Current"

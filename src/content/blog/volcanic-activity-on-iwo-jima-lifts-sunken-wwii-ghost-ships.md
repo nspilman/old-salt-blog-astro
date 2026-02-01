@@ -1,7 +1,7 @@
 ---
 title: "Volcanic Activity on Iwo Jima Lifts Sunken WWII Ghost Ships"
 date: 2021-11-20T13:50:42
-slug: volcanic-activity-on-iwo-jima-lifts-sunken-wwii-ghost-ships
+slug: "volcanic-activity-on-iwo-jima-lifts-sunken-wwii-ghost-ships"
 excerpt: "A number of small Pacific island nations, including Tuvalu, Kiribati and the Marshal Islands, are facing an existential threat from rising sea levels. According to the United States Geological Survey (USGS), sea level in the western Pacific Ocean has been … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

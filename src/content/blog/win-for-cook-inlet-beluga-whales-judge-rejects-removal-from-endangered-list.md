@@ -1,7 +1,7 @@
 ---
 title: "Win for Cook Inlet Beluga Whales – Judge Rejects Removal from Endangered List"
 date: 2011-11-26T09:18:51
-slug: win-for-cook-inlet-beluga-whales-judge-rejects-removal-from-endangered-list
+slug: "win-for-cook-inlet-beluga-whales-judge-rejects-removal-from-endangered-list"
 excerpt: "The beluga whale population in Alaska’s Cook Inlet has been declining since the 1980s.  Hunting by Alaska Natives killed nearly half the remaining 650 whales in only four years between 1994 and 1998. Native hunting of the belugas has since been … Continue reading &rarr;"
 categories:
   - "Current"

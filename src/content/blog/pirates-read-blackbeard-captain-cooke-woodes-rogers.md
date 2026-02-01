@@ -1,7 +1,7 @@
 ---
 title: "What Did Pirates Read? Blackbeard, Captain Cooke, and Woodes Rogers"
 date: 2018-01-18T18:18:49
-slug: pirates-read-blackbeard-captain-cooke-woodes-rogers
+slug: "pirates-read-blackbeard-captain-cooke-woodes-rogers"
 excerpt: "A lump of paper wadding found in a cannon from the pirate Blackbeard‘s ship Queen Anne’s Revenge has been identified as containing scraps of paper from a book by Captain Edward Cooke written in 1712.  Researchers were able to identify … Continue reading &rarr;"
 categories:
   - "Current"

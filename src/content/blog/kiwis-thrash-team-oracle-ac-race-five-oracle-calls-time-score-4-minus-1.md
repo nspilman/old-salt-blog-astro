@@ -1,7 +1,7 @@
 ---
 title: "Kiwis Thrash Team Oracle in AC Race Five, Oracle Calls Time Out, Score: 4 to Minus 1"
 date: 2013-09-12T09:31:41
-slug: kiwis-thrash-team-oracle-ac-race-five-oracle-calls-time-score-4-minus-1
+slug: "kiwis-thrash-team-oracle-ac-race-five-oracle-calls-time-score-4-minus-1"
 excerpt: "On Tuesday the Emirates Team New Zealand beat the defending Oracle Team USA in the fifth race of the America’s Cup finals with a victory of 1 minute, 5 seconds on San Francisco Bay. This is the fourth Kiwi victory. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to the Schooner Spirit of South Carolina and All Who Sail Her!"
 date: 2016-06-22T16:36:56
-slug: congratulations-schooner-spirit-south-carolina-sail
+slug: "congratulations-schooner-spirit-south-carolina-sail"
 excerpt: "Congratulations to the schooner Spirit of South Carolina and all who sail and support her! After languishing for years, the schooner has new owners, a new captain and officers and was recently re-certified to carry passengers by the US Coast … Continue reading &rarr;"
 categories:
   - "Current"

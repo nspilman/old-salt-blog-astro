@@ -1,7 +1,7 @@
 ---
 title: "Gordon Bok: Hearth and Fire"
 date: 2014-01-09T11:03:44
-slug: gordon-bok-hearth-and-fire
+slug: "gordon-bok-hearth-and-fire"
 excerpt: "This has been a season of extreme weather. While Australia is suffering a record heat wave, the US and Europe have been battered by a series of ugly winter storms and frigid temperatures. Here is a song with an appropriate … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

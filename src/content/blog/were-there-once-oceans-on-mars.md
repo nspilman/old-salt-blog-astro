@@ -1,7 +1,7 @@
 ---
 title: "Were There Once Oceans on Mars?"
 date: 2013-07-18T06:37:32
-slug: were-there-once-oceans-on-mars
+slug: "were-there-once-oceans-on-mars"
 excerpt: "Were there once oceans on Mars? Scientists have found what they believe to have been a vast Martian coastline. From Slate Magazine: Was This Once a Vast Martian Coastline? Red Planet Riviera: Ancient Mars Ocean Found? … Continue reading &rarr;"
 categories:
   - "Current"

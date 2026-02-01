@@ -1,15 +1,15 @@
 ---
 title: "Delta King, the Delta Queen’s Shorebound Sister"
 date: 2016-10-11T09:43:12
-slug: delta-king-delta-queens-shorebound-sister
-excerpt: "We recently posted that the National Trust for Historic Preservation has named the 1926 built sternwheel steamboat Delta Queen as one of America’s 11-Most Endangered Historic Places.  In researching the post, I learned several new things. The first was that the “Delta” … Continue reading &rarr;"
+slug: "delta-king-delta-queens-shorebound-sister"
+excerpt: "We recently posted that the National Trust for Historic Preservation has named the 1926 built sternwheel steamboat Delta Queen as one of America’s 11-Most Endangered Historic Places.  In researching the post, I learned several new things. The first was that the \"Delta\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
   - "Lore of the Sea"
   - "Ships"
 author: "Rick Spilman"
-description: "We recently posted that the National Trust for Historic Preservation has named the 1926 built sternwheel steamboat Delta Queen as one of America’s 11-Most Endangered Historic Places.  In researching the post, I learned several new things. The first was that the “Delta” … Continue reading &rarr;"
+description: "We recently posted that the National Trust for Historic Preservation has named the 1926 built sternwheel steamboat Delta Queen as one of America’s 11-Most Endangered Historic Places.  In researching the post, I learned several new things. The first was that the \"Delta\" … Continue reading &rarr;"
 ---
 
 ![Photo: J.Smith](http://www.oldsaltblog.com/wp-content/uploads/2016/10/deltaking.jpg)

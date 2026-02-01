@@ -1,7 +1,7 @@
 ---
 title: "‘Sea Slaves’: the Human Misery that Feeds Pets and Livestock"
 date: 2015-07-27T13:27:12
-slug: sea-slaves-the-human-misery-that-feeds-pets-and-livestock
+slug: "sea-slaves-the-human-misery-that-feeds-pets-and-livestock"
 excerpt: "Slave labor on fishing boats, particularity in Asia, has been a serious problem for many years. In 2011, we posted about reports that the crews of of chartered fishing vessels operating in New Zealand waters were being systematically abused and … Continue reading &rarr;"
 categories:
   - "Current"

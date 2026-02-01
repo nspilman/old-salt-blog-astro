@@ -1,7 +1,7 @@
 ---
 title: "Bark Europa Falls Over in Cape Town Drydock"
 date: 2023-05-20T13:57:41
-slug: bark-europa-falls-over-in-cape-town-drydock
+slug: "bark-europa-falls-over-in-cape-town-drydock"
 excerpt: "The 112-year-old steel-hulled bark Europa slipped on her side while attempting to be placed back into the water from a drydock at the V&A Waterfront in Cape Town, South Africa on Saturday morning. One crew member was injured, but is … Continue reading &rarr;"
 categories:
   - "Current"

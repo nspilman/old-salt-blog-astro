@@ -1,7 +1,7 @@
 ---
 title: "A New Generation of High-Tech Sailing Ships?"
 date: 2010-10-09T09:38:51
-slug: a-new-generation-of-high-tech-sailing-ships
+slug: "a-new-generation-of-high-tech-sailing-ships"
 excerpt: "B9 Shipping and the Greenheart Project are both working to develop new high-tech sailing coasters.  B9 has in mind a 3,000 DWT three masted bulk carrier with automated square sails whereas the Greenheart Project envisions a much smaller fore and … Continue reading &rarr;"
 categories:
   - "Current"

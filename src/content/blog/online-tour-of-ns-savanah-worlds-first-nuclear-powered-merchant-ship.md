@@ -1,7 +1,7 @@
 ---
 title: "Online Tour of NS Savanah – World’s first nuclear powered merchant ship"
 date: 2010-08-23T08:30:45
-slug: online-tour-of-ns-savanah-worlds-first-nuclear-powered-merchant-ship
+slug: "online-tour-of-ns-savanah-worlds-first-nuclear-powered-merchant-ship"
 excerpt: "In 1819, the SS Savannah was first steamship in the world to cross the Atlantic Ocean.   Despite this accomplishment, the Savannah was a commercial failure and was converted back to sail shortly after returning from Europe.   It is somehow fitting that … Continue reading &rarr;"
 categories:
   - "Current"

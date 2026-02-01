@@ -1,15 +1,15 @@
 ---
 title: "USNS Lewis B. Puller, First  Expeditionary Sea Base on Maiden Deployment"
 date: 2017-07-20T09:27:34
-slug: usns-lewis-b-puller-first-expeditionary-sea-base-maiden-deployment
-excerpt: "The USNS Lewis B. Puller has sailed from Norfolk on its maiden voyage as an expeditionary sea base supporting the U.S. Fifth Fleet.  The Puller is the first of two expeditionary sea bases. A sister vessel, the USNS Hershel “Woody” Williams  is expected … Continue reading &rarr;"
+slug: "usns-lewis-b-puller-first-expeditionary-sea-base-maiden-deployment"
+excerpt: "The USNS Lewis B. Puller has sailed from Norfolk on its maiden voyage as an expeditionary sea base supporting the U.S. Fifth Fleet.  The Puller is the first of two expeditionary sea bases. A sister vessel, the USNS Hershel \"Woody\" Williams  is expected … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/puller1.jpg"
 author: "Rick Spilman"
-description: "The USNS Lewis B. Puller has sailed from Norfolk on its maiden voyage as an expeditionary sea base supporting the U.S. Fifth Fleet.  The Puller is the first of two expeditionary sea bases. A sister vessel, the USNS Hershel “Woody” Williams  is expected … Continue reading &rarr;"
+description: "The USNS Lewis B. Puller has sailed from Norfolk on its maiden voyage as an expeditionary sea base supporting the U.S. Fifth Fleet.  The Puller is the first of two expeditionary sea bases. A sister vessel, the USNS Hershel \"Woody\" Williams  is expected … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/puller1.jpg)The USNS [*Lewis B. Puller*](https://en.wikipedia.org/wiki/USNS_Lewis_B._Puller_\(T-ESB-3\)) has sailed from Norfolk on its maiden voyage as an expeditionary sea base supporting the U.S. Fifth Fleet.  The *Puller* is the first of two expeditionary sea bases. A sister vessel, the USNS [*Hershel “Woody” Williams*](https://en.wikipedia.org/wiki/USNS_Hershel_%22Woody%22_Williams_\(T-ESB-4\))  is expected to enter service in 2018. 

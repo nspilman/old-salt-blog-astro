@@ -1,7 +1,7 @@
 ---
 title: "Search for the Lost Ships of Cortés Finds Ancient Anchor"
 date: 2019-04-07T19:25:48
-slug: search-for-the-lost-ships-of-cortes-finds-ancient-anchor
+slug: "search-for-the-lost-ships-of-cortes-finds-ancient-anchor"
 excerpt: "Cortés ordering his fleet to be destroyed may be one of the iconic moments in history. In 1519, Hernán Cortés led an expedition of 11 ships from Cuba to Mexico. On arriving in Mexico, the crews found themselves vastly outnumbered … Continue reading &rarr;"
 categories:
   - "Current"

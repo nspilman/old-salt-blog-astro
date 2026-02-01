@@ -1,8 +1,8 @@
 ---
 title: "Belugas Little White and Little Grey Closer to Release Into Open Water Sanctuary"
 date: 2020-08-16T11:50:03
-slug: belugas-little-white-and-little-grey-closer-to-release-into-open-water-sanctuary
-excerpt: "Earlier this year, we posted  “The Incredible Journey of Belugas Little White and Little Grey,”  about the 6,000-mile transport in June 2019 of the two whales by air, land, and sea from an aquarium in Shanghai to a new home … Continue reading &rarr;"
+slug: "belugas-little-white-and-little-grey-closer-to-release-into-open-water-sanctuary"
+excerpt: "Earlier this year, we posted  \"The Incredible Journey of Belugas Little White and Little Grey,\"  about the 6,000-mile transport in June 2019 of the two whales by air, land, and sea from an aquarium in Shanghai to a new home … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -15,7 +15,7 @@ tags:
   - "whales"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/LWLGBeluga.jpg"
 author: "Rick Spilman"
-description: "Earlier this year, we posted  “The Incredible Journey of Belugas Little White and Little Grey,”  about the 6,000-mile transport in June 2019 of the two whales by air, land, and sea from an aquarium in Shanghai to a new home … Continue reading &rarr;"
+description: "Earlier this year, we posted  \"The Incredible Journey of Belugas Little White and Little Grey,\"  about the 6,000-mile transport in June 2019 of the two whales by air, land, and sea from an aquarium in Shanghai to a new home … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/LWLGBeluga.jpg)Earlier this year, we posted  “[The Incredible Journey of Belugas Little White and Little Grey,](http://www.oldsaltblog.com/2020/05/the-incredible-journey-of-belugas-little-white-and-little-grey/)”  about the 6,000-mile transport in June 2019 of the two whales by air, land, and sea from an aquarium in Shanghai to a new home in Iceland in the [world’s first beluga whale sanctuary](https://belugasanctuary.sealifetrust.org/en/).

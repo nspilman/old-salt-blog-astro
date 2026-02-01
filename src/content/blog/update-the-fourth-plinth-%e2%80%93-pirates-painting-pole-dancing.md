@@ -1,7 +1,7 @@
 ---
 title: "Update: The Fourth Plinth – Pirates, Painting & Pole Dancing"
 date: 2009-10-02T08:11:30
-slug: update-the-fourth-plinth-%e2%80%93-pirates-painting-pole-dancing
+slug: "update-the-fourth-plinth-%e2%80%93-pirates-painting-pole-dancing"
 excerpt: "In July we posted about the exhibition of Yinka Shonibare’s Nelson’s Ship in a Bottle on the Fourth Plinth in Trafalgar Square.  There was an interesting symmetry in the display of Nelson’s ship, Victory, in a bottle, on a plinth, in … Continue reading &rarr;"
 categories:
   - "Current"

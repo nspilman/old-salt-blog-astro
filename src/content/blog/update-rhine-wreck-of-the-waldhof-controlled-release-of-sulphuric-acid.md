@@ -1,7 +1,7 @@
 ---
 title: "Update: Wreck of the Waldhof – Controlled Release of Sulphuric Acid into the Rhine"
 date: 2011-02-09T22:12:45
-slug: update-rhine-wreck-of-the-waldhof-controlled-release-of-sulphuric-acid
+slug: "update-rhine-wreck-of-the-waldhof-controlled-release-of-sulphuric-acid"
 excerpt: "Salvors are now reported to be beginning a slow release of sulphuric acid from the capsized tank barge, Waldhof, which capsized in the Rhine on January 13th near the infamous Lorelei Rock, in hope of averting a larger uncontrolled acid spill on … Continue reading &rarr;"
 categories:
   - "Current"

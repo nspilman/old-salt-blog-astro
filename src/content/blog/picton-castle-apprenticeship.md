@@ -1,7 +1,7 @@
 ---
 title: "Picton Castle Apprenticeship"
 date: 2013-09-12T13:27:16
-slug: picton-castle-apprenticeship
+slug: "picton-castle-apprenticeship"
 excerpt: "A very interesting opportunity posted on the Tall Ship Challenge Official Blog: Looking for more sea time and experience? Picton Castle is looking for apprentices to join them in the Pacific. For the cost of room and board, you can … Continue reading &rarr;"
 categories:
   - "Current"

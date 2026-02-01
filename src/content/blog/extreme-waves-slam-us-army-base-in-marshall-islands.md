@@ -1,7 +1,7 @@
 ---
 title: "Extreme Waves Slam US Army Base in Marshall Islands"
 date: 2024-01-24T16:49:33
-slug: extreme-waves-slam-us-army-base-in-marshall-islands
+slug: "extreme-waves-slam-us-army-base-in-marshall-islands"
 excerpt: "Last Saturday, January 20, a series of massive storm-driven waves struck the island of Roi-Namur in the Marshall Islands causing considerable flooding and damage to the US Army Garrison Kwajalein Atoll (USAG–KA).   A video circulating on social media showed … Continue reading &rarr;"
 categories:
   - "Current"

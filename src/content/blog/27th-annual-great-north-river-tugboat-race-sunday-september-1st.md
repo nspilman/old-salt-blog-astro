@@ -1,7 +1,7 @@
 ---
 title: "27th Annual Great North River Tugboat Race Sunday, September 1st"
 date: 2019-08-06T14:36:08
-slug: 27th-annual-great-north-river-tugboat-race-sunday-september-1st
+slug: "27th-annual-great-north-river-tugboat-race-sunday-september-1st"
 excerpt: "The 27th Annual Great North River Tugboat Race, sponsored by the Working Harbor Committee, will be held on the Hudson River near Pier 84  starting at 11 a.m. on September 1st.  Watch from shore or get onboard the Spectator Boat … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
-title: "SS Great Britain — “The Greatest Experiment Since the Creation”"
+title: "SS Great Britain — \"The Greatest Experiment Since the Creation\""
 date: 2016-04-24T09:59:22
-slug: ss-great-britain
-excerpt: "[tribulant_slideshow gallery_id=”4″]   I recently visited the museum ship SS Great Britain, in Bristol, UK.  When she was launched in 1843, the iron-hulled luxury passenger steamship SS Great Britain was described as “the greatest experiment since the Creation.” … Continue reading &rarr;"
+slug: "ss-great-britain"
+excerpt: "[tribulant_slideshow gallery_id=\"4″]   I recently visited the museum ship SS Great Britain, in Bristol, UK.  When she was launched in 1843, the iron-hulled luxury passenger steamship SS Great Britain was described as \"the greatest experiment since the Creation.\" … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "SS Great Britain"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/04/brunelsgreatbritain-1.jpg"
 author: "Rick Spilman"
-description: "[tribulant_slideshow gallery_id=”4″]   I recently visited the museum ship SS Great Britain, in Bristol, UK.  When she was launched in 1843, the iron-hulled luxury passenger steamship SS Great Britain was described as “the greatest experiment since the Creation.” … Continue reading &rarr;"
+description: "[tribulant_slideshow gallery_id=\"4″]   I recently visited the museum ship SS Great Britain, in Bristol, UK.  When she was launched in 1843, the iron-hulled luxury passenger steamship SS Great Britain was described as \"the greatest experiment since the Creation.\" … Continue reading &rarr;"
 ---
 
 \[tribulant\_slideshow gallery\_id=”4″\]

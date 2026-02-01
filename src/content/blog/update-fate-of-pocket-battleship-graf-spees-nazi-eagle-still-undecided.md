@@ -1,7 +1,7 @@
 ---
 title: "Update: Fate of Pocket Battleship Graf Spee’s Nazi Eagle Still Undecided"
 date: 2023-06-27T18:36:52
-slug: update-fate-of-pocket-battleship-graf-spees-nazi-eagle-still-undecided
+slug: "update-fate-of-pocket-battleship-graf-spees-nazi-eagle-still-undecided"
 excerpt: "The Battle of the River Plate, fought in the South Atlantic in December 1939 was the first naval battle of the Second World War and ended with the scuttling of the German pocket battleship Admiral Graf Spee. While the battle … Continue reading &rarr;"
 categories:
   - "History"

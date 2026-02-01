@@ -1,7 +1,7 @@
 ---
 title: "NTSB Video on the Investigation of the Sinking of US Cargo Vessel El Faro"
 date: 2018-10-04T09:00:07
-slug: ntsb-digest-7-video-on-the-investigation-of-the-sinking-of-us-cargo-vessel-el-faro
+slug: "ntsb-digest-7-video-on-the-investigation-of-the-sinking-of-us-cargo-vessel-el-faro"
 excerpt: "Three years ago this week, the ro/ro container ship El Faro sank with all hands in Hurricane Joaquin northeast of Crooked Island in the Bahamas. The 28 American crew and 5 Polish repair technicians died.  Recently the  National Transportation Safety Board … Continue reading &rarr;"
 categories:
   - "Current"

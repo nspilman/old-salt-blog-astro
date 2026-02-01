@@ -1,8 +1,8 @@
 ---
 title: "Two Ships from the River Clyde — Glennlee & Falls of Clyde"
 date: 2014-08-05T18:14:19
-slug: two-ships-from-the-river-clyde-glennlee-falls-of-clyde
-excerpt: "In the press, they have been described as “sister ships” which is not literally true. Falls of Clyde, an iron-hulled four masted ship built in 1878 in Port Glasgow, is older and larger than Glennlee, a three masted steel-hulled barque, also built in … Continue reading &rarr;"
+slug: "two-ships-from-the-river-clyde-glennlee-falls-of-clyde"
+excerpt: "In the press, they have been described as \"sister ships\" which is not literally true. Falls of Clyde, an iron-hulled four masted ship built in 1878 in Port Glasgow, is older and larger than Glennlee, a three masted steel-hulled barque, also built in … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Hawaii"
   - "Port Glasgow"
 author: "Rick Spilman"
-description: "In the press, they have been described as “sister ships” which is not literally true. Falls of Clyde, an iron-hulled four masted ship built in 1878 in Port Glasgow, is older and larger than Glennlee, a three masted steel-hulled barque, also built in … Continue reading &rarr;"
+description: "In the press, they have been described as \"sister ships\" which is not literally true. Falls of Clyde, an iron-hulled four masted ship built in 1878 in Port Glasgow, is older and larger than Glennlee, a three masted steel-hulled barque, also built in … Continue reading &rarr;"
 ---
 
 ![Glennlee](http://www.oldsaltblog.com/wp-content/uploads/2014/08/glenlee.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "A Vision to Save the South Street Seaport"
 date: 2015-03-11T18:45:51
-slug: a-vision-to-save-the-south-street-seaport
+slug: "a-vision-to-save-the-south-street-seaport"
 excerpt: "The Howard Hughes Corporation, a real-estate firm based in Dallas, TX, is proposing a $1.5 billion redevelopment of the historic South Street Seaport in New York City. Their plan includes destroying several historic buildings and erecting a controversial 494-foot residential tower … Continue reading &rarr;"
 categories:
   - "City of Ships"

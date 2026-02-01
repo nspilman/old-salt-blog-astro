@@ -1,7 +1,7 @@
 ---
 title: "The Star of India — 160 Years Old & Still Sailing"
 date: 2023-11-17T16:36:28
-slug: the-star-of-india-160-years-old-still-sailing
+slug: "the-star-of-india-160-years-old-still-sailing"
 excerpt: "Over the Veterans’ Day weekend, the iron-hulled sailing ship Star of India left her dock at the Maritime Museum of San Diego, setting sail, for the first time in five years, to celebrate her 160th birthday.  A short news video: … Continue reading &rarr;"
 categories:
   - "Current"

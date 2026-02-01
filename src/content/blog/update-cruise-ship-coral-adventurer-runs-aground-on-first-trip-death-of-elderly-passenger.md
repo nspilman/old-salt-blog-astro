@@ -1,7 +1,7 @@
 ---
 title: "Update: Cruise Ship Coral Adventurer Runs Aground on First Trip Death of Elderly Passenger"
 date: 2025-12-29T18:23:00
-slug: update-cruise-ship-coral-adventurer-runs-aground-on-first-trip-death-of-elderly-passenger
+slug: "update-cruise-ship-coral-adventurer-runs-aground-on-first-trip-death-of-elderly-passenger"
 excerpt: "The last time the expedition cruise ship Coral Adventurer was in the news was in October, when the ship sailed from Lizard Island on the Great Barrier Reef, leaving Suzanne Rees, an 80-year-old passenger, behind on the remote island, where she … Continue reading &rarr;"
 categories:
   - "Current"

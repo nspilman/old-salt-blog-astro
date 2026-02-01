@@ -1,7 +1,7 @@
 ---
 title: "Apple, Microsoft and the Dutch East India Company"
 date: 2015-02-18T18:52:36
-slug: apple-microsoft-and-the-dutch-east-india-company
+slug: "apple-microsoft-and-the-dutch-east-india-company"
 excerpt: "A recent article in Atlantic Monthly pointed out that Apple, the technology company, not the fruit, is now, in economic terms, the size of a small country. The world’s largest company with a market capitalization of $700 billion, it is … Continue reading &rarr;"
 categories:
   - "History"

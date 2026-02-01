@@ -1,7 +1,7 @@
 ---
 title: "Against All Odds, Cruise Passenger Survives 20 Hours in the Gulf of Mexico After Going Overboard From Carnival Valor"
 date: 2022-12-02T18:32:53
-slug: against-all-odds-cruise-passenger-survives-20-hours-in-the-gulf-of-mexico-after-going-overboard-from-carnival-valor
+slug: "against-all-odds-cruise-passenger-survives-20-hours-in-the-gulf-of-mexico-after-going-overboard-from-carnival-valor"
 excerpt: "When we posted about a man who had been rescued in the Gulf of Mexico by the US Coast Guard after apparently falling off the cruise ship Carnival Valor, we were convinced that there was more to the story. It … Continue reading &rarr;"
 categories:
   - "Current"

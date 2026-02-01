@@ -1,7 +1,7 @@
 ---
 title: "NYC Hidden Harbor Tour — Forgotten Harbor, Found in Art"
 date: 2016-04-08T14:00:05
-slug: nyc-hidden-harbor-tour-art-water
+slug: "nyc-hidden-harbor-tour-art-water"
 excerpt: "A sure sign that Spring has finally arrived in New York harbor is the return of the Working Harbor Committee‘s Hidden Harbor Tours. The first, scheduled for May 1st, is Forgotten Harbor, Found in Art.  Here is the description of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

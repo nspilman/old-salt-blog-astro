@@ -1,7 +1,7 @@
 ---
 title: "Shipping Out, the Story of America’s Seafaring Women"
 date: 2011-03-24T08:00:45
-slug: shipping-out-the-story-of-americas-seafaring-women
+slug: "shipping-out-the-story-of-americas-seafaring-women"
 excerpt: "For those in New York there is a special program, Women At Sea: Screening, Conversation, Reception, next Wednesday, March 30th, at the Community Church of New York, 40 East 35th Street, New York, NY at 6:00 PM.    The program features a … Continue reading &rarr;"
 categories:
   - "Current"

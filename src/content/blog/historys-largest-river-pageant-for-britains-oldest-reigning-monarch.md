@@ -1,7 +1,7 @@
 ---
 title: "History’s Largest River Pageant for Britain’s Oldest Reigning Monarch"
 date: 2012-06-03T20:54:15
-slug: historys-largest-river-pageant-for-britains-oldest-reigning-monarch
+slug: "historys-largest-river-pageant-for-britains-oldest-reigning-monarch"
 excerpt: "An estimated million spectators lined the Thames to watch what has been described as the largest river pageant in history to celebrate the 60th anniversary of the reign of Queen Elizabeth, who, at 86, is England’s oldest reigning monarch.  Over 1,000 … Continue reading &rarr;"
 categories:
   - "Current"

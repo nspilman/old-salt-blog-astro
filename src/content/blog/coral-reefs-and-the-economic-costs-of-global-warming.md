@@ -1,7 +1,7 @@
 ---
 title: "Coral Reefs and the Economic Costs of Global Warming"
 date: 2017-06-28T15:24:44
-slug: coral-reefs-and-the-economic-costs-of-global-warming
+slug: "coral-reefs-and-the-economic-costs-of-global-warming"
 excerpt: "Some complain that responding to climate change will damage the economy and cost jobs. Others counter that not responding effectively to climate change will do even greater economic damage. Recently an analysis of the social and economic value of the … Continue reading &rarr;"
 categories:
   - "Current"

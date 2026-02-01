@@ -1,8 +1,8 @@
 ---
 title: "George Bass, Father of Underwater Archaeology, Dies at 88"
 date: 2021-03-20T10:59:13
-slug: george-bass-father-of-underwater-archaeology-dies-at-88
-excerpt: "George Bass died earlier this month at the age of 88. He was an American archaeologist, often referred to as the “father of underwater archeology”. He co-directed the first expedition to entirely excavate an ancient shipwreck at Cape Gelidonya in … Continue reading &rarr;"
+slug: "george-bass-father-of-underwater-archaeology-dies-at-88"
+excerpt: "George Bass died earlier this month at the age of 88. He was an American archaeologist, often referred to as the \"father of underwater archeology\". He co-directed the first expedition to entirely excavate an ancient shipwreck at Cape Gelidonya in … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Institute of Nautical Archaeology"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/03/bass.jpg"
 author: "Rick Spilman"
-description: "George Bass died earlier this month at the age of 88. He was an American archaeologist, often referred to as the “father of underwater archeology”. He co-directed the first expedition to entirely excavate an ancient shipwreck at Cape Gelidonya in … Continue reading &rarr;"
+description: "George Bass died earlier this month at the age of 88. He was an American archaeologist, often referred to as the \"father of underwater archeology\". He co-directed the first expedition to entirely excavate an ancient shipwreck at Cape Gelidonya in … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/03/bass.jpg)[George Bass](https://en.wikipedia.org/wiki/George_Bass_\(archaeologist\)) died earlier this month at the age of 88. He was an American archaeologist, often referred to as the “father of underwater archeology”. He co-directed the first expedition to entirely excavate an ancient shipwreck at Cape Gelidonya in 1960 and founded the Institute of Nautical Archaeology in 1972.

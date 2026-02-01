@@ -1,7 +1,7 @@
 ---
 title: "Videos from the Clipper-Brig Morgenster"
 date: 2015-12-29T10:09:11
-slug: drone-videos-from-the-clipper-brig-morgenster
+slug: "drone-videos-from-the-clipper-brig-morgenster"
 excerpt: "Two wonderful drone videos of the Clipper-Brig Morgenster shot last November.  Thanks to Joost for passing them along. Ocean Tall Ship Morgenster sailing on the Ocean on her way to the Cape Verdes. Full square rig and stunsails set. With a … Continue reading &rarr;"
 categories:
   - "Current"

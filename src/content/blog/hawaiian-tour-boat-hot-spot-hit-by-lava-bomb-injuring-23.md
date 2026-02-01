@@ -1,8 +1,8 @@
 ---
-title: "Hawaiian Tour Boat “Hot Spot” Hit by Lava Bomb, Injuring 23"
+title: "Hawaiian Tour Boat \"Hot Spot\" Hit by Lava Bomb, Injuring 23"
 date: 2018-07-18T12:31:47
-slug: hawaiian-tour-boat-hot-spot-hit-by-lava-bomb-injuring-23
-excerpt: "On Monday, the name “Hot Spot“ proved dangerously prophetic for a tour boat operating in waters off the coast of Kapoho on the Big Island of Hawaii.  The tour boat was carrying about 49 passengers at around 6 AM, observing … Continue reading &rarr;"
+slug: "hawaiian-tour-boat-hot-spot-hit-by-lava-bomb-injuring-23"
+excerpt: "On Monday, the name \"Hot Spot\" proved dangerously prophetic for a tour boat operating in waters off the coast of Kapoho on the Big Island of Hawaii.  The tour boat was carrying about 49 passengers at around 6 AM, observing … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "lava bomb"
   - "tour boat"
 author: "Rick Spilman"
-description: "On Monday, the name “Hot Spot“ proved dangerously prophetic for a tour boat operating in waters off the coast of Kapoho on the Big Island of Hawaii.  The tour boat was carrying about 49 passengers at around 6 AM, observing … Continue reading &rarr;"
+description: "On Monday, the name \"Hot Spot\" proved dangerously prophetic for a tour boat operating in waters off the coast of Kapoho on the Big Island of Hawaii.  The tour boat was carrying about 49 passengers at around 6 AM, observing … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/07/lavabomb.jpg)On Monday, the name [“*Hot Spot*“](https://www.reuters.com/article/us-hawaii-volcano-tours/hawaii-tour-boats-return-to-volcano-zone-after-lava-bomb-idUSKBN1K711G) proved dangerously prophetic for a tour boat operating in waters off the coast of Kapoho on the Big Island of Hawaii.  The tour boat was carrying about 49 passengers at around 6 AM, observing the flow of lava into the sea from the Kilauea volcano, when the boat was struck by a lava explosion.

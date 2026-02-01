@@ -1,7 +1,7 @@
 ---
 title: "Shell’s Alaska Drilling Rigs – Towlines, Taxes and Engine Failures"
 date: 2013-01-05T09:00:49
-slug: shells-alaska-drilling-rigs-towlines-taxes-and-engine-failures
+slug: "shells-alaska-drilling-rigs-towlines-taxes-and-engine-failures"
 excerpt: "The plan was to move Shell’s two drilling rigs from Alaska to Seattle Washington for maintenance and repair.  Shell’s tax bill, however, may have also played a role in the timing of the move. Things have definitely not gone according to plan. … Continue reading &rarr;"
 categories:
   - "Current"

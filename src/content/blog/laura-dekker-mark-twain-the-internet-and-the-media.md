@@ -1,8 +1,8 @@
 ---
 title: "Laura Dekker, Mark Twain, the Internet and the Media"
 date: 2012-01-13T09:35:53
-slug: laura-dekker-mark-twain-the-internet-and-the-media
-excerpt: "We recently posted about a minor kerfuffle involving Dutch bureaucrats who were unhappy over 16 year old Laura Dekker not keeping up with her school work while sailing alone around the world.   It brought to mind the old adage from Mark Twain, “Don’t … Continue reading &rarr;"
+slug: "laura-dekker-mark-twain-the-internet-and-the-media"
+excerpt: "We recently posted about a minor kerfuffle involving Dutch bureaucrats who were unhappy over 16 year old Laura Dekker not keeping up with her school work while sailing alone around the world.   It brought to mind the old adage from Mark Twain, \"Don’t … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Mark Twain"
   - "St. Maartin"
 author: "Rick Spilman"
-description: "We recently posted about a minor kerfuffle involving Dutch bureaucrats who were unhappy over 16 year old Laura Dekker not keeping up with her school work while sailing alone around the world.   It brought to mind the old adage from Mark Twain, “Don’t … Continue reading &rarr;"
+description: "We recently posted about a minor kerfuffle involving Dutch bureaucrats who were unhappy over 16 year old Laura Dekker not keeping up with her school work while sailing alone around the world.   It brought to mind the old adage from Mark Twain, \"Don’t … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/ldekker.jpg)We recently posted about a minor kerfuffle involving [Dutch bureaucrats who were unhappy over 16 year old Laura Dekker not keeping up with her school work](http://www.oldsaltblog.com/2012/01/11/the-return-of-the-bureaucrats-laura-dekker-strikes-the-dutch-flag/) while sailing alone around the world.   It brought to mind the old adage from Mark Twain, “Don’t let schooling interfere with your education.”   Laura recently seemed to be making almost the same point, without directly addressing schooling:

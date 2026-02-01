@@ -1,7 +1,7 @@
 ---
 title: "Suiso Frontier, World’s First Liquefied Hydrogen Carrier Readies to Sail From Japanese Shipyard"
 date: 2021-12-04T16:27:01
-slug: suiso-frontier-worlds-first-liquefied-hydrogen-carrier-readies-to-sail-from-japanese-shipyard
+slug: "suiso-frontier-worlds-first-liquefied-hydrogen-carrier-readies-to-sail-from-japanese-shipyard"
 excerpt: "Reuters is reporting that Suiso Frontier, the world’s first liquefied hydrogen carrier could leave Japan for Australia to pick up its first cargo of hydrogen late this month. The ship will carry 1,250 m3 of liquefied hydrogen cooled to –253°C, … Continue reading &rarr;"
 categories:
   - "Current"

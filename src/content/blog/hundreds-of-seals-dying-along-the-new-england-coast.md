@@ -1,7 +1,7 @@
 ---
 title: "Hundreds of Seals Dying Along the New England Coast"
 date: 2018-09-01T12:19:43
-slug: hundreds-of-seals-dying-along-the-new-england-coast
+slug: "hundreds-of-seals-dying-along-the-new-england-coast"
 excerpt: "While many have been focused on the massive die-offs of fish and sea life off the South Florida coastline triggered by a combined outbreak of red tide and blue-green algae, all is not well along the New England coast either. … Continue reading &rarr;"
 categories:
   - "Current"

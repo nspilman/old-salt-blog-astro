@@ -1,7 +1,7 @@
 ---
 title: "Bouchard at 100 — Remembering Captain Fred and the Attack on Black Tom"
 date: 2018-09-20T16:06:44
-slug: bouchard-at-100-remembering-captain-fred-and-the-black-tom-attack
+slug: "bouchard-at-100-remembering-captain-fred-and-the-black-tom-attack"
 excerpt: "This year the East Coast tug and barge operator, Bouchard Transportation Company, turned 100 years old. The company’s origin, however, dates back to 1916, and to Captain Frederick Bouchard’s heroism during the worst attack on New York harbor prior to … Continue reading &rarr;"
 categories:
   - "Current"

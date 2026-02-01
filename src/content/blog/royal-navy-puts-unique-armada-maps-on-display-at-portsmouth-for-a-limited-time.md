@@ -1,7 +1,7 @@
 ---
 title: "Royal Navy Puts Unique Armada Maps on Display at Portsmouth for a Limited Time"
 date: 2023-07-01T10:35:08
-slug: royal-navy-puts-unique-armada-maps-on-display-at-portsmouth-for-a-limited-time
+slug: "royal-navy-puts-unique-armada-maps-on-display-at-portsmouth-for-a-limited-time"
 excerpt: "The Royal Navy has announced that it is putting on display one of the greatest treasures in British naval history before they return to storage for months, perhaps years, to protect them. The Armada Maps chart the Royal Navy’s defeat … Continue reading &rarr;"
 categories:
   - "Current"

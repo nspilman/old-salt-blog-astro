@@ -1,7 +1,7 @@
 ---
 title: "Update: Investigating the World Trade Center Ship Using Rings and Worms"
 date: 2011-07-22T09:40:26
-slug: update-investigating-the-world-trade-center-ship-using-rings-and-worms
+slug: "update-investigating-the-world-trade-center-ship-using-rings-and-worms"
 excerpt: "Last July, workers excavating at the new World Trade Center site in lower Manhattan uncovered the remains of an 18th century wooden merchant ship 20 feet below street level.  See our previous posts – here and here. Now researchers have been able to identify where … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Coffee, second only to oil?"
 date: 2010-10-02T09:05:20
-slug: coffee-second-only-to-oil
+slug: "coffee-second-only-to-oil"
 excerpt: "A comment on our  post, Happy National Coffee Day – Coffee, Edward Lloyd, Ships and Shipping, by Barista Uno host of the excellent Marine Cafe blog raised two interesting points.  He commented: There ought to be an International Coffee Day. Coffee, after … Continue reading &rarr;"
 categories:
   - "Current"

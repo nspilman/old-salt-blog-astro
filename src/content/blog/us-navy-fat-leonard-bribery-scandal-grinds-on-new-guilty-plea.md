@@ -1,8 +1,8 @@
 ---
-title: "US Navy “Fat Leonard” Bribery Scandal Grinds On — New Guilty Plea"
+title: "US Navy \"Fat Leonard\" Bribery Scandal Grinds On — New Guilty Plea"
 date: 2021-09-01T15:53:12
-slug: us-navy-fat-leonard-bribery-scandal-grinds-on-new-guilty-plea
-excerpt: "The “Fat Leonard” Navy bribery and corruption scandal keeps grinding inexorably onward. One might say that the pace is glacial, except in an age of climate change, glaciers appear to be moving faster. There has been a recent guilty plea … Continue reading &rarr;"
+slug: "us-navy-fat-leonard-bribery-scandal-grinds-on-new-guilty-plea"
+excerpt: "The \"Fat Leonard\" Navy bribery and corruption scandal keeps grinding inexorably onward. One might say that the pace is glacial, except in an age of climate change, glaciers appear to be moving faster. There has been a recent guilty plea … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "US Navy"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg"
 author: "Rick Spilman"
-description: "The “Fat Leonard” Navy bribery and corruption scandal keeps grinding inexorably onward. One might say that the pace is glacial, except in an age of climate change, glaciers appear to be moving faster. There has been a recent guilty plea … Continue reading &rarr;"
+description: "The \"Fat Leonard\" Navy bribery and corruption scandal keeps grinding inexorably onward. One might say that the pace is glacial, except in an age of climate change, glaciers appear to be moving faster. There has been a recent guilty plea … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg)

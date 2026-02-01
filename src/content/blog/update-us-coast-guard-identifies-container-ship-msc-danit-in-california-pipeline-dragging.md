@@ -1,7 +1,7 @@
 ---
 title: "Update: US Coast Guard Identifies Container Ship MSC Danit in California Pipeline Dragging"
 date: 2021-10-18T15:47:33
-slug: update-us-coast-guard-identifies-container-ship-msc-danit-in-california-pipeline-dragging
+slug: "update-us-coast-guard-identifies-container-ship-msc-danit-in-california-pipeline-dragging"
 excerpt: "In early October, a crack in a pipeline off the coast of Huntington Beach, California spilled some 3,000 barrels (126,000 gallons) of crude oil into the Pacific Ocean. On Saturday, the US Coast Guard announced that it had determined that … Continue reading &rarr;"
 categories:
   - "Current"

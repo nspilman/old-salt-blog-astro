@@ -1,7 +1,7 @@
 ---
 title: "Update: Shackleton’s Ship Endurance Given Extra Protection"
 date: 2024-07-11T15:54:36
-slug: update-shackletons-ship-endurance-given-extra-protection
+slug: "update-shackletons-ship-endurance-given-extra-protection"
 excerpt: "In March of 2022, we posted about the discovery of the remarkably intact remains of Sir Ernest Shackleton’s ship Endurance, which was crushed by pack ice and sank off Antarctica in 1915. Using undersea drones, the shipwreck was located 10,000 … Continue reading &rarr;"
 categories:
   - "Current"

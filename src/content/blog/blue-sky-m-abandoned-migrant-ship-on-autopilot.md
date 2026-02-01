@@ -1,7 +1,7 @@
 ---
 title: "Blue Sky M — Abandoned Migrant Ship on Autopilot"
 date: 2014-12-31T09:51:16
-slug: blue-sky-m-abandoned-migrant-ship-on-autopilot
+slug: "blue-sky-m-abandoned-migrant-ship-on-autopilot"
 excerpt: "Straight from rescue operations on the ro/ro ferry Norman Atlantic, the Italian navy and coast guard rushed to intercept the Blue Sky M, a 3,500 DWT Moldavian freighter, which was reported to be carrying 700–1,000 migrants.  A distress call had been received … Continue reading &rarr;"
 categories:
   - "Current"

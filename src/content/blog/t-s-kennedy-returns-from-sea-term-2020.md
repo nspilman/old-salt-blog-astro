@@ -1,7 +1,7 @@
 ---
 title: "T.S Kennedy Returns to Mass. Maritime from Sea Term 2020!"
 date: 2020-03-15T12:31:08
-slug: t-s-kennedy-returns-from-sea-term-2020
+slug: "t-s-kennedy-returns-from-sea-term-2020"
 excerpt: "After all the stress of the past week, some beauty and tranquility feels appropriate. Here is some absolutely breathtaking drone footage, shot by Ryan Smith, of the Training Ship Kennedy returning to Massachusetts Maritime Academy from Sea Term 2020. A … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,8 +1,8 @@
 ---
-title: "US Court: Sea Shepherds are “the Very Embodiment of Piracy”"
+title: "US Court: Sea Shepherds are \"the Very Embodiment of Piracy\""
 date: 2013-02-27T09:54:55
-slug: us-court-sea-shepherds-are-the-very-embodiment-of-piracy
-excerpt: "Late Monday, the 9th U.S. Circuit Court of Appeals ruled that the anti-whaling extremists and reality TV show stars, the Sea Shepherds, are indeed pirates.  In his ruling, Judge Alex Kozinski wrote: ” When you ram ships, hurl glass containers of acid, drag … Continue reading &rarr;"
+slug: "us-court-sea-shepherds-are-the-very-embodiment-of-piracy"
+excerpt: "Late Monday, the 9th U.S. Circuit Court of Appeals ruled that the anti-whaling extremists and reality TV show stars, the Sea Shepherds, are indeed pirates.  In his ruling, Judge Alex Kozinski wrote: \" When you ram ships, hurl glass containers of acid, drag … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Sea Shepherds"
   - "TV show"
 author: "Rick Spilman"
-description: "Late Monday, the 9th U.S. Circuit Court of Appeals ruled that the anti-whaling extremists and reality TV show stars, the Sea Shepherds, are indeed pirates.  In his ruling, Judge Alex Kozinski wrote: ” When you ram ships, hurl glass containers of acid, drag … Continue reading &rarr;"
+description: "Late Monday, the 9th U.S. Circuit Court of Appeals ruled that the anti-whaling extremists and reality TV show stars, the Sea Shepherds, are indeed pirates.  In his ruling, Judge Alex Kozinski wrote: \" When you ram ships, hurl glass containers of acid, drag … Continue reading &rarr;"
 ---
 
 ![sea-shepherd](http://www.oldsaltblog.com/wp-content/uploads/2013/02/sea-shepherd.jpg)Late Monday, the 9th U.S. Circuit Court of Appeals ruled that the anti-whaling extremists and reality TV show stars, the [Sea Shepherds](http://www.seashepherd.org/), are indeed pirates.  In his ruling, Judge Alex Kozinski wrote: ” *When you ram ships, hurl glass containers of acid, drag metal-reinforced ropes in the water to damage propellers and rudders, launch smoke bombs and flares with hooks; and point high-powered lasers at other ships, you are, without a doubt, a pirate…  The activities that Cetacean \[the Japanese whalers\] alleges Sea Shepherd has engaged in are clear instances of violent acts for private ends, the very embodiment of piracy.”*

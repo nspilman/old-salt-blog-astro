@@ -1,7 +1,7 @@
 ---
 title: "William H Sumner Shipwreck from 1919 Reappears Off NC’s Surf City"
 date: 2019-04-26T09:51:11
-slug: william-h-sumner-shipwreck-from-1919-reappears-off-ncs-surf-city
+slug: "william-h-sumner-shipwreck-from-1919-reappears-off-ncs-surf-city"
 excerpt: "In 1919, the three-masted schooner William H. Sumner was wrecked on the North Carolina shore near New Topsail Inlet, after a mutiny by its crew. Since then the wreck has played hide and seek, disappearing beneath the sand and emerging … Continue reading &rarr;"
 categories:
   - "Current"

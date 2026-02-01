@@ -1,7 +1,7 @@
 ---
 title: "MV Yara Birkeland, Autonomous Container Ship — Is This Really a Good Idea?"
 date: 2017-10-15T11:25:46
-slug: mv-yara-birkeland-autonomous-container-ship-really-good-idea
+slug: "mv-yara-birkeland-autonomous-container-ship-really-good-idea"
 excerpt: "The first autonomous container ship, the 120 TEU feeder vessel, MV Yara Birkeland, will be launched in 2018. The ship will also be battery-powered and emissions-free. After a period of testing with a crew, the ship is expected to go … Continue reading &rarr;"
 categories:
   - "Current"

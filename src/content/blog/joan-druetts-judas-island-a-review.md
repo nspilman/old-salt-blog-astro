@@ -1,7 +1,7 @@
 ---
 title: "Judas Island by Joan Druett – a Review"
 date: 2013-06-21T13:41:02
-slug: joan-druetts-judas-island-a-review
+slug: "joan-druetts-judas-island-a-review"
 excerpt: "Joan Druett’s Judas Island, the first book of her Promise of Gold trilogy, is a delightful mix of nautical adventure, romance and droll comedy. In the novel, Harriet Gray, an eighteen year old British actress, finds herself abandoned on the deck … Continue reading &rarr;"
 categories:
   - "Newbooks"

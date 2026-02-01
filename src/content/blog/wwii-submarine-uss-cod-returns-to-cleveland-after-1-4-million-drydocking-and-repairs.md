@@ -1,7 +1,7 @@
 ---
 title: "WWII Submarine USS Cod Returns to Cleveland After $1.4 Million Drydocking and Repairs"
 date: 2021-08-17T16:41:12
-slug: wwii-submarine-uss-cod-returns-to-cleveland-after-1-4-million-drydocking-and-repairs
+slug: "wwii-submarine-uss-cod-returns-to-cleveland-after-1-4-million-drydocking-and-repairs"
 excerpt: "Tomorrow, the Gato Class submarine USS Cod commissioned in 1943, will be towed back to its dock in Cleveland, OH following a $1.4 million drydocking at Donjon Shipbuilding in Erie, PA. While on dock, the 78-year old submarine had ballast … Continue reading &rarr;"
 categories:
   - "Current"

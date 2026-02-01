@@ -1,7 +1,7 @@
 ---
 title: "Carnival Spirit Delayed Off Sydney in High Seas"
 date: 2015-04-22T16:08:40
-slug: carnival-spirit-delayed-off-sydney-in-high-seas
+slug: "carnival-spirit-delayed-off-sydney-in-high-seas"
 excerpt: "The cruise ship Carnival Spirit docked this morning in Sydney Australia after being held offshore for a day due to high winds and seas which closed the port. The ship had been on a 12 day cruise. A serious storm … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

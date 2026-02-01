@@ -1,8 +1,8 @@
 ---
 title: "Throttle Stuck at Full Ahead on Container Ship MSC Michigan VII in Charleston Harbor, Bridge Shutdown"
 date: 2024-06-07T17:39:16
-slug: throttle-stuck-at-full-ahead-on-container-ship-msc-michigan-vii-in-charleston-harbor-bridge-shutdown
-excerpt: "On Wednesday morning at 11:46 a.m. the container ship MSC Michigan VII departed the North Charleston Container Terminal in Charleston, South Carolina, with its engine set to “dead slow ahead” as it moved down the Cooper River toward the Arthur … Continue reading &rarr;"
+slug: "throttle-stuck-at-full-ahead-on-container-ship-msc-michigan-vii-in-charleston-harbor-bridge-shutdown"
+excerpt: "On Wednesday morning at 11:46 a.m. the container ship MSC Michigan VII departed the North Charleston Container Terminal in Charleston, South Carolina, with its engine set to \"dead slow ahead\" as it moved down the Cooper River toward the Arthur … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "South Carolina"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/06/michigan-VII.jpg"
 author: "Rick Spilman"
-description: "On Wednesday morning at 11:46 a.m. the container ship MSC Michigan VII departed the North Charleston Container Terminal in Charleston, South Carolina, with its engine set to “dead slow ahead” as it moved down the Cooper River toward the Arthur … Continue reading &rarr;"
+description: "On Wednesday morning at 11:46 a.m. the container ship MSC Michigan VII departed the North Charleston Container Terminal in Charleston, South Carolina, with its engine set to \"dead slow ahead\" as it moved down the Cooper River toward the Arthur … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/06/michigan-VII.jpg)

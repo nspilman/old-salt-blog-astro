@@ -1,7 +1,7 @@
 ---
 title: "Last Titanic Menu Fetches £76,000, Meal Not Included"
 date: 2012-04-13T07:26:19
-slug: last-titanic-menu-fetches-76000
+slug: "last-titanic-menu-fetches-76000"
 excerpt: "A menu of the last meal served to first-class passengers on board the Titanic has sold at auction for £76,000.  The menu was dated April 14, 1912 and featured several courses, such as eggs Argenteuil, consomme fermier and chicken a la … Continue reading &rarr;"
 categories:
   - "History"

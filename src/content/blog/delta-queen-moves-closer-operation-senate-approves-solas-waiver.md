@@ -1,7 +1,7 @@
 ---
 title: "Delta Queen Moves Closer to Operation as Senate Approves SOLAS Waiver"
 date: 2017-04-04T09:43:11
-slug: delta-queen-moves-closer-operation-senate-approves-solas-waiver
+slug: "delta-queen-moves-closer-operation-senate-approves-solas-waiver"
 excerpt: "Great news. The Senate has passed a waiver for the historic riverboat steamer Delta Queen from the Safety of Life at Sea (SOLAS) regulations, moving it one step closer to returning to service. For several years now, we have been posting … Continue reading &rarr;"
 categories:
   - "Current"

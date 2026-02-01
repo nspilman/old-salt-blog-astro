@@ -1,7 +1,7 @@
 ---
 title: "Wandering Rock Star of Great White Sharks – Mary Lee Returns to the North-East"
 date: 2013-02-02T09:00:54
-slug: wandering-rock-star-of-great-white-sharks-mary-lee-returns-to-the-north-east
+slug: "wandering-rock-star-of-great-white-sharks-mary-lee-returns-to-the-north-east"
 excerpt: "In September, a 16 foot long 3,500-pound female great white shark was tagged by researchers off Cape Cod.   The shark was nicknamed Mary Lee.  Since then Ocearch, the group tracking the shark, have followed Mary Lee on a remarkable journey. … Continue reading &rarr;"
 categories:
   - "Current"

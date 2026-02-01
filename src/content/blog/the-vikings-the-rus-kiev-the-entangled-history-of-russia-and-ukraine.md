@@ -1,7 +1,7 @@
 ---
 title: "The Vikings, the Rus’ & Kiev — the Entangled History of Russia and Ukraine"
 date: 2014-03-05T08:58:17
-slug: the-vikings-the-rus-kiev-the-entangled-history-of-russia-and-ukraine
+slug: "the-vikings-the-rus-kiev-the-entangled-history-of-russia-and-ukraine"
 excerpt: "Stepping away for a moment from the unfolding current events in the Ukraine and Russia,  it might be worthwhile to look at the history of the region, which was shaped by the arrival of merchant adventurers rowing long ships.  As … Continue reading &rarr;"
 categories:
   - "History"

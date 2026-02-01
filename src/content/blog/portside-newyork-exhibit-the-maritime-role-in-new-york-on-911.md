@@ -1,7 +1,7 @@
 ---
 title: "Portside NewYork Exhibit – The Maritime Role in New York on 9/11"
 date: 2011-08-24T11:52:47
-slug: portside-newyork-exhibit-the-maritime-role-in-new-york-on-911
+slug: "portside-newyork-exhibit-the-maritime-role-in-new-york-on-911"
 excerpt: "Two years ago we posted about the largely overlooked maritime evacuation of lower Manhattan on 9/11.  With the bridges and tunnels shut down, between 350,000 and 500,000 people were evacuated by water in just a few hours. It was the largest maritime evacuation since … Continue reading &rarr;"
 categories:
   - "Current"

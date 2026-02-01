@@ -1,7 +1,7 @@
 ---
 title: "Arlene — Only Second Named April Tropical Storm in History"
 date: 2017-04-21T08:42:38
-slug: arlene-second-named-april-tropical-storm-history
+slug: "arlene-second-named-april-tropical-storm-history"
 excerpt: "Tropical Storm Arlene has formed in the mid-Atlantic between Bermuda and the Azores, becoming only the second named tropical storm in history to form in the month of April. The only previous tropical to form so early was Anna in … Continue reading &rarr;"
 categories:
   - "Current"

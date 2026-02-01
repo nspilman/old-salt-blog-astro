@@ -1,7 +1,7 @@
 ---
 title: "Costa Concordia: Underwater Video of Divers’ Inspection"
 date: 2012-02-01T14:05:20
-slug: costa-concordia-underwater-footage-of-divers-inspection
+slug: "costa-concordia-underwater-footage-of-divers-inspection"
 excerpt: "Thanks to BobK for pointing out this footage from the Telegraph of divers inspecting the hull and debris field nearby. The ship recently shifted about 3.8 cm (roughly 1.5″.) Costa Concordia: underwater footage shows divers’ inspection … Continue reading &rarr;"
 categories:
   - "Current"

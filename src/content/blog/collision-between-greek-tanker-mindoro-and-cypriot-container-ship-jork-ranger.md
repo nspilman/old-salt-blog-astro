@@ -1,7 +1,7 @@
 ---
 title: "Collision between Greek tanker Mindoro and Cypriot container ship Jork Ranger"
 date: 2010-10-12T09:33:17
-slug: collision-between-greek-tanker-mindoro-and-cypriot-container-ship-jork-ranger
+slug: "collision-between-greek-tanker-mindoro-and-cypriot-container-ship-jork-ranger"
 excerpt: "This morning around 4:56 UTC the Cypriot container ship Jork Ranger collided with the Greek tanker Mindoro, carrying  jet fuel off the Scheveningen coast in the North Sea.  The collision caused a fuel spill from a five-meter wide puncture in the … Continue reading &rarr;"
 categories:
   - "Current"

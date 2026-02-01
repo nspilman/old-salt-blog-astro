@@ -1,7 +1,7 @@
 ---
 title: "PETITION: Challenge Japan to END Taiji Dolphin Hunt for Tokyo 2020 Olympic Bid"
 date: 2013-01-31T21:19:27
-slug: petition-challenge-japan-to-end-taiji-dolphin-hunt-for-tokyo-2020-olympic-bid
+slug: "petition-challenge-japan-to-end-taiji-dolphin-hunt-for-tokyo-2020-olympic-bid"
 excerpt: "Every year in the village of Taiji, Japan there is a yearly hunt which results in the slaughter of over a thousand dolphins.  Despite international protest including a 2009 documentary film, the Cove, which graphically displayed the mass dolphin killing, and won … Continue reading &rarr;"
 categories:
   - "Current"

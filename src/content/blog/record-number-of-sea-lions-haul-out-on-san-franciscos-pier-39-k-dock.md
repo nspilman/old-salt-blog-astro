@@ -1,7 +1,7 @@
 ---
 title: "Record Number of Sea Lions Haul-Out on San Francisco’s Pier 39, K-Dock"
 date: 2024-05-06T17:10:26
-slug: record-number-of-sea-lions-haul-out-on-san-franciscos-pier-39-k-dock
+slug: "record-number-of-sea-lions-haul-out-on-san-franciscos-pier-39-k-dock"
 excerpt: "In the last week or so, over 1,000 sea lions have hauled out on San Francisco’s Pier 39, K-Dock, the largest assembly of the boisterous pinnipeds in roughly 15 years. As noted on the Pier 39 website: A few California … Continue reading &rarr;"
 categories:
   - "Current"

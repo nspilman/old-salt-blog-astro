@@ -1,7 +1,7 @@
 ---
 title: "Hawaii Accepts Falls of Clyde International’s Bid to Remove Historic Ship From Honolulu"
 date: 2021-11-16T09:51:37
-slug: hawaii-accepts-falls-of-clyde-internationals-bid-to-remove-historic-ship-from-honolulu
+slug: "hawaii-accepts-falls-of-clyde-internationals-bid-to-remove-historic-ship-from-honolulu"
 excerpt: "Great news! David O’Neill, director of the Falls of Clyde International, announced yesterday on Facebook that their bid to remove the historic tall ship Falls of Clyde, from Honolulu harbor, has been accepted by the state officials at the Department … Continue reading &rarr;"
 categories:
   - "Current"

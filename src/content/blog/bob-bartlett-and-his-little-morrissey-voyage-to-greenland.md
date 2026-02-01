@@ -1,7 +1,7 @@
 ---
-title: "Bob Bartlett and His “Little Morrissey” — Voyage to Greenland"
+title: "Bob Bartlett and His \"Little Morrissey\" — Voyage to Greenland"
 date: 2021-04-29T09:27:05
-slug: bob-bartlett-and-his-little-morrissey-voyage-to-greenland
+slug: "bob-bartlett-and-his-little-morrissey-voyage-to-greenland"
 excerpt: "We recently posted about the schooner Ernestina-Morrissey, ex Ernestina, ex Effie M. Morrissey, beginning a new chapter as a sail training vessel for the Massachusetts Maritime Academy. Here is a repost of a documentary, narrated by the polar explorer, Captain … Continue reading &rarr;"
 categories:
   - "History"

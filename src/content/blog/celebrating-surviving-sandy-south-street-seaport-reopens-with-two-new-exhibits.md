@@ -1,14 +1,14 @@
 ---
 title: "Celebrating Surviving Sandy – South Street Seaport Reopens with Two New Exhibits"
 date: 2013-01-16T18:02:01
-slug: celebrating-surviving-sandy-south-street-seaport-reopens-with-two-new-exhibits
+slug: "celebrating-surviving-sandy-south-street-seaport-reopens-with-two-new-exhibits"
 excerpt: "When I first visited New York’s South Street Seaport in the early 70s, it was a fairly lonely place. There was no shopping mall on Pier 17 and the high-end chain-stores like Guess, Abecrombe and Fitch and Brookstone had not yet been … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - ""superstorm" Sandy"
+  - "\"superstorm\" Sandy"
   - "Bowne and Company"
   - "Opening Party"
   - "South Street Seaport Museum"

@@ -1,7 +1,7 @@
 ---
 title: "New Year Onboard the MV Akademik Shokalskiy – Stuck in Antarctic Ice"
 date: 2014-01-01T02:01:26
-slug: new-year-onboard-the-mv-akademik-shokalskiy-stuck-in-antarctic-ice
+slug: "new-year-onboard-the-mv-akademik-shokalskiy-stuck-in-antarctic-ice"
 excerpt: "Fortunately, the stranded scientists and tourists appear to be bearing up well under the strain on the MV Akademik Shokalskiy. New Year’s festivities on the ship, courtesy of the Guardian. New year on board the Akademik Shokalskiy – video … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "103 Year Old MV Doulos — on the Beach at Bintan"
 date: 2017-11-29T18:37:09
-slug: 103-year-old-mv-doulos-beach-bintan
+slug: "103-year-old-mv-doulos-beach-bintan"
 excerpt: "MV Doulos once held the title of the oldest operating passenger liner. Now 103 years old, the historic ship may be close to beginning a new life as a shoreside hotel in the resort town of Bintan, Indonesia.  When the refurbished ship … Continue reading &rarr;"
 categories:
   - "Current"

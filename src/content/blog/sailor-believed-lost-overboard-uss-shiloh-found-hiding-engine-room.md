@@ -1,7 +1,7 @@
 ---
 title: "Sailor Believed Lost Overboard from USS Shiloh Found Hiding in the Engine Room"
 date: 2017-06-15T17:16:22
-slug: sailor-believed-lost-overboard-uss-shiloh-found-hiding-engine-room
+slug: "sailor-believed-lost-overboard-uss-shiloh-found-hiding-engine-room"
 excerpt: "Better a court martial than a funeral.  On June 8th, Gas Turbine Systems Technician (Mechanical) 3rd Class Peter Mims was reported missing on the Ticonderoga-class guided missile cruiser USS Shiloh, and presumed to have fallen overboard.  His disappearance triggered a a massive, 50-hour … Continue reading &rarr;"
 categories:
   - "Current"

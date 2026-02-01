@@ -1,7 +1,7 @@
 ---
 title: "Diver Gulped Up Then Spat Out By Humpback Whale Off Cape Cod"
 date: 2021-06-14T14:37:25
-slug: diver-gulped-up-then-spat-out-by-humpback-whale-off-cape-cod
+slug: "diver-gulped-up-then-spat-out-by-humpback-whale-off-cape-cod"
 excerpt: "A diver from Cape Cod, Massachusetts was gulped up and then spat out by a humpback whale feeding off the coast of Provincetown early Friday morning.  The diver, Michael Packard, 56, of Wellfleet, was hunting for lobsters while about 45 … Continue reading &rarr;"
 categories:
   - "Current"

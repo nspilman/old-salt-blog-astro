@@ -1,7 +1,7 @@
 ---
 title: "Mysterious Gray Whale Die-Off On West Coast Continues"
 date: 2021-05-08T09:25:40
-slug: mysterious-gray-whale-die-off-on-west-coast-continues
+slug: "mysterious-gray-whale-die-off-on-west-coast-continues"
 excerpt: "In early April, four gray whales were found dead in the San Francisco Bay area in a span of eight days. Last week another three dead gray whales washed ashore in the Bay area. Further north, a dead gray whale … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

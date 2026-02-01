@@ -1,7 +1,7 @@
 ---
 title: "Australian Navy Ship to be Named After Last WWI Vet, Claude Choules"
 date: 2011-08-14T17:13:31
-slug: australian-navy-ship-to-be-named-after-last-wwi-vet-claude-choules
+slug: "australian-navy-ship-to-be-named-after-last-wwi-vet-claude-choules"
 excerpt: "In May, we posted about the death of Claude Choules at 110.  Choules was the last surviving veteran of World War I.   Yesterday, Australian Prime Minister Julia Gillard announced that the ex-Royal Navy Largs Bay, a Bay class landing ship dock, would be commissioned as … Continue reading &rarr;"
 categories:
   - "Current"

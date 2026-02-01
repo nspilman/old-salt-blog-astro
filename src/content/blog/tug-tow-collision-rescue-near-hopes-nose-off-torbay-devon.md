@@ -1,7 +1,7 @@
 ---
 title: "Tug & Tow Collision & Rescue Near Hope’s Nose, off Torbay, Devon"
 date: 2013-01-14T17:59:25
-slug: tug-tow-collision-rescue-near-hopes-nose-off-torbay-devon
+slug: "tug-tow-collision-rescue-near-hopes-nose-off-torbay-devon"
 excerpt: "Something things just don’t go as planned. The tug, Christos 22, was towing the decommissioned former German Naval training ship, MV Emsstrom, from Germany to Turkey.  On Sunday night, the tug slowed to check a problem with the tow off Hope’s Nose near Torbay, … Continue reading &rarr;"
 categories:
   - "Current"

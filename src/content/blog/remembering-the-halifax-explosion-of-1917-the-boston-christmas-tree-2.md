@@ -1,7 +1,7 @@
 ---
 title: "Remembering the Halifax Explosion of 1917 & the Boston Christmas Tree"
 date: 2024-12-06T17:18:09
-slug: remembering-the-halifax-explosion-of-1917-the-boston-christmas-tree-2
+slug: "remembering-the-halifax-explosion-of-1917-the-boston-christmas-tree-2"
 excerpt: "One hundred and seven years ago today, on the morning of December 6, 1917, the French freighter SS Mont-Blanc and the SS Imo, a Norwegian ship chartered to carry relief supplies to Belgium, collided in the Narrows, a strait connecting … Continue reading &rarr;"
 categories:
   - "Current"

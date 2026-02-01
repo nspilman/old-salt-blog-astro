@@ -1,7 +1,7 @@
 ---
 title: "Picton Castle’s Seventh World Voyage"
 date: 2017-10-14T09:13:17
-slug: picton-castles-seventh-world-voyage
+slug: "picton-castles-seventh-world-voyage"
 excerpt: "In March of 2018, the barque Picton Castle will set off on its seventh world voyage — an epic year-long voyage under sail.  Berths are available for trainees for the full year-long voyage or for individual voyage legs. Beginning in Lunenburg, Nova Scotia, Canada, Picton … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Divers close in on lost fortune of Ann Cargill, a scandalous star"
 date: 2008-10-16T19:32:24
-slug: divers-close-in-on-lost-fortune-of-ann-cargill-a-scandalous-star
-excerpt: "An intriguing news story. (Thanks to LizMc on the Horatians forum.) According to the BBC, Ann Carghill was “was the Britney Spears of her day.”  I think they slight poor Ms Cargill. A Scandalous Star  “When the packet ship, The Nancy, … Continue reading &rarr;"
+slug: "divers-close-in-on-lost-fortune-of-ann-cargill-a-scandalous-star"
+excerpt: "An intriguing news story. (Thanks to LizMc on the Horatians forum.) According to the BBC, Ann Carghill was \"was the Britney Spears of her day.\"  I think they slight poor Ms Cargill. A Scandalous Star  \"When the packet ship, The Nancy, … Continue reading &rarr;"
 categories:
   - "History"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Scilly"
   - "shipwreck"
 author: "Rick Spilman"
-description: "An intriguing news story. (Thanks to LizMc on the Horatians forum.) According to the BBC, Ann Carghill was “was the Britney Spears of her day.”  I think they slight poor Ms Cargill. A Scandalous Star  “When the packet ship, The Nancy, … Continue reading &rarr;"
+description: "An intriguing news story. (Thanks to LizMc on the Horatians forum.) According to the BBC, Ann Carghill was \"was the Britney Spears of her day.\"  I think they slight poor Ms Cargill. A Scandalous Star  \"When the packet ship, The Nancy, … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2008/10/ann_cargill_203_203x1521.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2008/10/ann_cargill_203_203x1521.jpg)An intriguing news story. (Thanks to LizMc on the [Horatians](http://www.horatians.org/forum/index.php) forum.) According to the [BBC](http://www.bbc.co.uk/cornwall/content/articles/2008/09/18/history_ann_cargill_feature.shtml), Ann Carghill was **“**was the Britney Spears of her day.”  I think they slight poor Ms Cargill.

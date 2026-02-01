@@ -1,7 +1,7 @@
 ---
 title: "Too Much of an Ocean View? Caravans Left Hanging Over A Cliff in Wales"
 date: 2011-11-01T16:16:24
-slug: too-much-of-an-ocean-view-caravans-left-hanging-over-a-cliff-in-wales
+slug: "too-much-of-an-ocean-view-caravans-left-hanging-over-a-cliff-in-wales"
 excerpt: "The Porthkerry Leisure Park, a caravan park in the Vale of Glamorgan in Wales, (what would be called a trailer park in the United States), must have had lovely ocean views even before 40 feet of cliff fell into the ocean near the mouth … Continue reading &rarr;"
 categories:
   - "Current"

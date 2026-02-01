@@ -1,8 +1,8 @@
 ---
 title: "Killer Dolphins Looking for Love, or Maybe Not – a Look at Military Marine Mammals"
 date: 2013-03-23T19:25:54
-slug: killer-dolphins-looking-for-love-or-maybe-not-a-look-at-military-marine-mammals
-excerpt: "A bit over a week ago there were news reports with headlines that sounded like the  plot of a low-budget sc-fi thriller. Huffington Post posted: “Ukrainian ‘Killer’ Dolphins Escape Naval Training Base In Search Of Love, Report Says.” Killer Dolphins … Continue reading &rarr;"
+slug: "killer-dolphins-looking-for-love-or-maybe-not-a-look-at-military-marine-mammals"
+excerpt: "A bit over a week ago there were news reports with headlines that sounded like the  plot of a low-budget sc-fi thriller. Huffington Post posted: \"Ukrainian ‘Killer’ Dolphins Escape Naval Training Base In Search Of Love, Report Says.\" Killer Dolphins … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Navy Marine Mammal Program"
   - "Ukrainian Navy"
 author: "Rick Spilman"
-description: "A bit over a week ago there were news reports with headlines that sounded like the  plot of a low-budget sc-fi thriller. Huffington Post posted: “Ukrainian ‘Killer’ Dolphins Escape Naval Training Base In Search Of Love, Report Says.” Killer Dolphins … Continue reading &rarr;"
+description: "A bit over a week ago there were news reports with headlines that sounded like the  plot of a low-budget sc-fi thriller. Huffington Post posted: \"Ukrainian ‘Killer’ Dolphins Escape Naval Training Base In Search Of Love, Report Says.\" Killer Dolphins … Continue reading &rarr;"
 ---
 
 ![dolph3](http://www.oldsaltblog.com/wp-content/uploads/2013/03/dolph3.jpg)A bit over a week ago there were news reports with headlines that sounded like the  plot of a low-budget sc-fi thriller. Huffington Post posted: “[Ukrainian ‘Killer’ Dolphins Escape Naval Training Base In Search Of Love, Report Says.](http://www.huffingtonpost.com/2013/03/12/ukraine-navy-killer-dolphins-escape-lovesick_n_2862644.html)” Killer Dolphins Looking for Love! Terror with just the right mix of pathos. Great!

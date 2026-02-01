@@ -1,7 +1,7 @@
 ---
 title: "Replica Stern-Wheeler  MV Oliver Cromwell Sinks in Irish Sea"
 date: 2018-05-29T14:00:33
-slug: replica-stern-wheeler-mv-oliver-cromwell-sinks-in-irish-sea
+slug: "replica-stern-wheeler-mv-oliver-cromwell-sinks-in-irish-sea"
 excerpt: "The replica stern-wheeler MV Oliver Cromwell sank in the Irish Sea while under tow from Gloucester to Northern Ireland. The vessel was reported to have started taking on water 10 miles west of South Stack near Holyhead, Anglesey, on Friday, sinking within three … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

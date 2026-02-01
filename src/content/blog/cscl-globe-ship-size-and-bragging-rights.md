@@ -1,14 +1,14 @@
 ---
-title: "CSCL Globe — the World’s “Largest Container Ship” & Bragging Rights"
+title: "CSCL Globe — the World’s \"Largest Container Ship\" & Bragging Rights"
 date: 2015-01-12T19:46:08
-slug: cscl-globe-ship-size-and-bragging-rights
+slug: "cscl-globe-ship-size-and-bragging-rights"
 excerpt: "The new generation of VLCC has arrived.  The acronym usually refers to tankers, specifically, Very Large Crude Carriers, but in this case I am referring to Very Large Container Carriers. Perhaps they should be designated VLCS, for Very Large Container … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - ""Triple E" Class"
+  - "\"Triple E\" Class"
   - "China Shipping Container Lines"
   - "CSCL Globe"
   - "Maersk"

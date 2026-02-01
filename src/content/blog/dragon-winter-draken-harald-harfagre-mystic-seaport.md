@@ -1,7 +1,7 @@
 ---
 title: "The Dragon in Winter — Draken Harald Hårfagre at Mystic Seaport"
 date: 2017-02-21T14:55:06
-slug: dragon-winter-draken-harald-harfagre-mystic-seaport
+slug: "dragon-winter-draken-harald-harfagre-mystic-seaport"
 excerpt: "On a recent visit to the Mystic Seaport Museum in Mystic CT, I came across the Viking longship, Draken Harald Hårfagre, tied up alongside a wharf, wrapped in glistening white plastic shrink-wrap, its single mast piercing what looked almost like … Continue reading &rarr;"
 categories:
   - "Current"

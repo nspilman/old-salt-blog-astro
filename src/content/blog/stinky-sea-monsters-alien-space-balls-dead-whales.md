@@ -1,7 +1,7 @@
 ---
 title: "Of Stinky Sea Monsters, Alien Space Balls & Dead Whales"
 date: 2017-07-02T16:01:04
-slug: stinky-sea-monsters-alien-space-balls-dead-whales
+slug: "stinky-sea-monsters-alien-space-balls-dead-whales"
 excerpt: "Every now and then, the stories of sea monsters take a physical form when a huge, decaying carcass of what appears to be a monster from the deep washes ashore. Such a creature came ashore on Seram Island in Indonesia’s … Continue reading &rarr;"
 categories:
   - "Current"

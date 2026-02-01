@@ -1,7 +1,7 @@
 ---
 title: "Visualizing Sea-Lanes"
 date: 2009-09-28T08:22:33
-slug: visualizing-sea-lanes
+slug: "visualizing-sea-lanes"
 excerpt: "From New Scientist:  As new ways of analysing the world around us are developed, new ways to visualise that information are needed.  At the recent Eurographics Symposium, held in Berlin, traffic in shipping traffic near Rotterdam was mapped on both calm and … Continue reading &rarr;"
 categories:
   - "Current"

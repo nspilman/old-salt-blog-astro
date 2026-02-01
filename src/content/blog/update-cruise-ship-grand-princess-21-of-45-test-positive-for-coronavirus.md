@@ -1,7 +1,7 @@
 ---
 title: "Update: Cruise Ship Grand Princess — 21 of 45 Test Positive for Coronavirus"
 date: 2020-03-07T14:37:53
-slug: update-cruise-ship-grand-princess-21-of-45-test-positive-for-coronavirus
+slug: "update-cruise-ship-grand-princess-21-of-45-test-positive-for-coronavirus"
 excerpt: "In a press conference yesterday, Vice President Pence announced that of the 45 people tested on the cruise ship Grand Princess, 21 has been found to be infected with the coronavirus Covid-19. Of the 21, 19 were ship’s crew and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

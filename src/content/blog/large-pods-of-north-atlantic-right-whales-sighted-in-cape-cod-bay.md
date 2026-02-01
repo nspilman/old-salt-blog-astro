@@ -1,7 +1,7 @@
 ---
 title: "Large Pods of North Atlantic Right Whales Sighted in Cape Cod Bay"
 date: 2021-05-03T18:13:02
-slug: large-pods-of-north-atlantic-right-whales-sighted-in-cape-cod-bay
+slug: "large-pods-of-north-atlantic-right-whales-sighted-in-cape-cod-bay"
 excerpt: "WWLP-22News reports that at least 160 North Atlantic right whales were spotted in Cape Cod Bay and along South Shore at the end of last week. Given that the highly endangered species are estimated to number fewer than 400 animals, … Continue reading &rarr;"
 categories:
   - "Current"

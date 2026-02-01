@@ -1,8 +1,8 @@
 ---
 title: "Diving Pigs Join Dock Dogs and Diving Horses"
 date: 2015-05-12T17:43:20
-slug: diving-pigs-join-dock-dogs-and-diving-horses
-excerpt: "A few years ago, we posted about a new competitive sport in which dogs compete by jumping off docks. Apparently, the competitions are continuing. The DockDogs website describes it as the “The World’s Premier Canine Aquatics Competition.” As no other canine … Continue reading &rarr;"
+slug: "diving-pigs-join-dock-dogs-and-diving-horses"
+excerpt: "A few years ago, we posted about a new competitive sport in which dogs compete by jumping off docks. Apparently, the competitions are continuing. The DockDogs website describes it as the \"The World’s Premier Canine Aquatics Competition.\" As no other canine … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

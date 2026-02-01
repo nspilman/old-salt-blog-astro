@@ -1,7 +1,7 @@
 ---
 title: "The Two Frigates Hermione – Part 1: HMS Hermione, 1797 – Brutality, Murder and Mutiny"
 date: 2012-03-22T10:38:59
-slug: the-two-frigates-hermoine-part-1-hms-hermoine-1797-brutality-murder-and-mutiny
+slug: "the-two-frigates-hermoine-part-1-hms-hermoine-1797-brutality-murder-and-mutiny"
 excerpt: "There were two frigates, both named Hermione, both launched within a few years of each other.  The British HMS Hermione would become a symbol of cruelty and bloody mutiny, whereas the French Hermione would carry the young Gilbert Motier, better known as … Continue reading &rarr;"
 categories:
   - "History"

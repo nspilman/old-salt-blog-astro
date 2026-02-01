@@ -1,7 +1,7 @@
 ---
 title: "MSC Opera – Blackout & Mutiny, High Drama on the Baltic"
 date: 2011-06-01T09:07:05
-slug: the-voyage-of-the-msc-opera-blackout-mutiny-high-drama-on-the-baltic
+slug: "the-voyage-of-the-msc-opera-blackout-mutiny-high-drama-on-the-baltic"
 excerpt: "The good news is that the events were more like the Carnival Splendor than the Titanic.  No one died. No ships were lost to icebergs.  Nevertheless, there was high drama, bordering on the operatic, on the cruise ship MSC Opera on its … Continue reading &rarr;"
 categories:
   - "Current"

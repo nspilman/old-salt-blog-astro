@@ -1,7 +1,7 @@
 ---
 title: "Underwater Volcano Shuts El Hierro Island Port in Canary Islands"
 date: 2011-11-07T09:36:49
-slug: underwater-volcano-shuts-el-hierro-island-port-in-canary-islands
+slug: "underwater-volcano-shuts-el-hierro-island-port-in-canary-islands"
 excerpt: "Last month we posted about Kick’em Jenny, an active underwater volcano off Grenada in the Caribbean, which was last active in 2001. Now the eruption of an active underwater volcano off El Hierro Island, in the Canary Islands off the … Continue reading &rarr;"
 categories:
   - "Current"

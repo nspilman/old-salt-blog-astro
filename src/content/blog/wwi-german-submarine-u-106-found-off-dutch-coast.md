@@ -1,7 +1,7 @@
 ---
 title: "WWI German Submarine U-106 found off Dutch coast"
 date: 2011-03-16T12:25:49
-slug: wwi-german-submarine-u-106-found-off-dutch-coast
+slug: "wwi-german-submarine-u-106-found-off-dutch-coast"
 excerpt: "The German submarine U-106 was believed to have hit a British mine when it sank on October 7, 1917 off the coast of the Netherlands. WWI submarine found off Dutch coast … Continue reading &rarr;"
 categories:
   - "Current"

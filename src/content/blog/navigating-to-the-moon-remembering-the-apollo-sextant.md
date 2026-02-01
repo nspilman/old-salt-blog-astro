@@ -1,7 +1,7 @@
 ---
 title: "Navigating to the Moon — Remembering the Apollo Sextant"
 date: 2019-07-21T11:40:03
-slug: navigating-to-the-moon-remembering-the-apollo-sextant
+slug: "navigating-to-the-moon-remembering-the-apollo-sextant"
 excerpt: "Sailors have navigated by the stars since the dawn of time. Now, fifty years after Neil Armstrong first set foot on the Moon in the Apollo 11 mission, we shouldn’t forget that even the Apollo astronauts relied on sextants to … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Trireme Olympias Stricken from London Olympics – Fears of Popularity and Bridge Jumpers"
 date: 2012-04-20T10:13:45
-slug: trireme-olympias-stricken-from-london-olympics-fears-of-popularity-and-bridge-jumpers
+slug: "trireme-olympias-stricken-from-london-olympics-fears-of-popularity-and-bridge-jumpers"
 excerpt: "The image is wonderful to think about. At the start of the London Olympics, the trireme Olympias, with 170 of Britain’s finest rowers at the oars, was to proceed down the Thames bearing the Olympic flame.  But it is not to be. As … Continue reading &rarr;"
 categories:
   - "Current"

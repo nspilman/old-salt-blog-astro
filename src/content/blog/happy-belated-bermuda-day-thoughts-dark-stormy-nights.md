@@ -1,7 +1,7 @@
 ---
 title: "The Morning After Bermuda Day — Thoughts on Dark & Stormy Nights"
 date: 2016-05-25T10:18:36
-slug: happy-belated-bermuda-day-thoughts-dark-stormy-nights
+slug: "happy-belated-bermuda-day-thoughts-dark-stormy-nights"
 excerpt: "May 24th was not only the 75th anniversary of the tragic sinking of HMS Hood. It was also Bermuda Day.  On this, the morning after Bermuda Day, it seems worthwhile to think of the Dark and Stormy nights spent on … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "German Bomb Dredged up in Portsmouth Harbor"
 date: 2017-02-24T18:31:10
-slug: german-bomb-dredged-up-in-portsmouth-harbor
+slug: "german-bomb-dredged-up-in-portsmouth-harbor"
 excerpt: "In 2011, a drought lowered the levels of the Rhine River, revealing unexploded munitions from World War II partially buried in the river banks exposed by the falling waters. Now, in Portsmouth harbor in the UK, World War II bombs are also being uncovered, not due … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Mermaid Monday — Professional Mermaids,  the World by the Tail!"
 date: 2014-06-30T07:18:43
-slug: mermaid-monday-professional-mermaids-the-world-by-the-tail
+slug: "mermaid-monday-professional-mermaids-the-world-by-the-tail"
 excerpt: "I have recently discovered that mermaids are indeed real, well, after a fashion, though not in the sense suggested by cheesy fake documentaries shown on the Discovery Channel.   There is a small cadre of women who perform as mermaids … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

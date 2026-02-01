@@ -1,8 +1,8 @@
 ---
 title: "The End of Falls of Clyde? Too Many Broken Promises?"
 date: 2015-05-11T09:10:17
-slug: the-end-of-falls-of-clyde-too-many-broken-promises
-excerpt: "The State of Hawaii has notified the Friends of Falls of Clyde, the organization responsible for rescuing the historic ship of the same name, that the state plans to terminate its permit which allows the ship to be docked for free.  “They … Continue reading &rarr;"
+slug: "the-end-of-falls-of-clyde-too-many-broken-promises"
+excerpt: "The State of Hawaii has notified the Friends of Falls of Clyde, the organization responsible for rescuing the historic ship of the same name, that the state plans to terminate its permit which allows the ship to be docked for free.  \"They … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

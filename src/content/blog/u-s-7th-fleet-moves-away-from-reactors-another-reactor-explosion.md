@@ -1,8 +1,8 @@
 ---
 title: "U.S. 7th Fleet Moves Away from Stricken Nuclear Plants; Another Reactor Explosion"
 date: 2011-03-14T10:48:47
-slug: u-s-7th-fleet-moves-away-from-reactors-another-reactor-explosion
-excerpt: "The US 7th fleet has moved away from the Fukushima nuclear power plants after helicopters from the carrier Ronald Reagan were exposed to an airborne radioactive plume.  Seventeen Navy personnel are being treated for what is described as “low levels of contamination.”   … Continue reading &rarr;"
+slug: "u-s-7th-fleet-moves-away-from-reactors-another-reactor-explosion"
+excerpt: "The US 7th fleet has moved away from the Fukushima nuclear power plants after helicopters from the carrier Ronald Reagan were exposed to an airborne radioactive plume.  Seventeen Navy personnel are being treated for what is described as \"low levels of contamination.\"   … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -17,7 +17,7 @@ tags:
   - "US 7th fleet"
   - "USS Ronald Reagan"
 author: "Rick Spilman"
-description: "The US 7th fleet has moved away from the Fukushima nuclear power plants after helicopters from the carrier Ronald Reagan were exposed to an airborne radioactive plume.  Seventeen Navy personnel are being treated for what is described as “low levels of contamination.”   … Continue reading &rarr;"
+description: "The US 7th fleet has moved away from the Fukushima nuclear power plants after helicopters from the carrier Ronald Reagan were exposed to an airborne radioactive plume.  Seventeen Navy personnel are being treated for what is described as \"low levels of contamination.\"   … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/Bow-aircraft.jpg)

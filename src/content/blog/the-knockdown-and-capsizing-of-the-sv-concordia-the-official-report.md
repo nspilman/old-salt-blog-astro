@@ -1,7 +1,7 @@
 ---
 title: "The Knockdown and Capsizing of the SV Concordia – the Official Report"
 date: 2011-10-01T16:15:21
-slug: the-knockdown-and-capsizing-of-the-sv-concordia-the-official-report
+slug: "the-knockdown-and-capsizing-of-the-sv-concordia-the-official-report"
 excerpt: "We recently posted that Transportation Safety Board of Canada has concluded that poor training played a role in the knockdown and capsizing of SV Concordia.  The official Marine Investigation Report examines the events leading up to the capsize in some detail.  It … Continue reading &rarr;"
 categories:
   - "Current"

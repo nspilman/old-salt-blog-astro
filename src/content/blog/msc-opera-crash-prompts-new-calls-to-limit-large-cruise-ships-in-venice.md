@@ -1,7 +1,7 @@
 ---
 title: "MSC Opera Crash Prompts New Calls to Limit Large Cruise Ships in Venice"
 date: 2019-06-04T04:32:49
-slug: msc-opera-crash-prompts-new-calls-to-limit-large-cruise-ships-in-venice
+slug: "msc-opera-crash-prompts-new-calls-to-limit-large-cruise-ships-in-venice"
 excerpt: "The crash of the MSC Opera into the dock and a river tour boat while docking on the Giudecca Canal on Sunday in Venice Italy, has prompted new calls for limits or an outright ban of large cruise ships in … Continue reading &rarr;"
 categories:
   - "Current"

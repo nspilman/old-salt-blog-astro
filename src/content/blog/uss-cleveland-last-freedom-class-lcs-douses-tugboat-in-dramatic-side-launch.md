@@ -1,7 +1,7 @@
 ---
 title: "USS Cleveland, Last Freedom Class LCS, Douses Tugboat in Dramatic Side Launch"
 date: 2023-04-18T17:18:05
-slug: uss-cleveland-last-freedom-class-lcs-douses-tugboat-in-dramatic-side-launch
+slug: "uss-cleveland-last-freedom-class-lcs-douses-tugboat-in-dramatic-side-launch"
 excerpt: "The side-launching of the Litoral Combat Ship (LCS) USS Cleveland last Saturday in the Fincantieri Marinette Marine shipyard in Marinette, Wisconsin was at the very least dramatic. When the ship slid sideways into the water it narrowly missed striking a … Continue reading &rarr;"
 categories:
   - "Current"

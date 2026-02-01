@@ -1,7 +1,7 @@
 ---
 title: "Suspected Niger River Delta Pirates Kidnap 13 Sailors From Two Ships"
 date: 2019-11-05T10:04:00
-slug: suspected-niger-river-delta-pirates-kidnap-13-sailors-from-2-ships
+slug: "suspected-niger-river-delta-pirates-kidnap-13-sailors-from-2-ships"
 excerpt: "Suspected Niger River Delta pirates operating in the Gulf of Guinea have kidnapped 13 sailors from two ships in the last several days.  The first abductions took place early Saturday morning at the port of Cotonou in Benin. Pirates kidnapped … Continue reading &rarr;"
 categories:
   - "Current"

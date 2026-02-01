@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup Test Sessions: a Brave New World"
 date: 2011-05-07T07:27:21
-slug: americas-cup-test-sessions-a-brave-new-world
+slug: "americas-cup-test-sessions-a-brave-new-world"
 excerpt: "I remember when America’s Cup racing was fairly tame –  beautiful 12M yachts gliding in light air in the waters of Rhode Island Sound.   Times have indeed changed.  The new AC45 wing-sailed catamarans recently underwent two weeks of testing in Auckland, New Zealand. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Project Azorian – The CIA’s Declassified History of the Glomar Explorer"
 date: 2010-02-13T08:05:01
-slug: project-azorian-%e2%80%93-the-cia%e2%80%99s-declassified-history-of-the-glomar-explorer
+slug: "project-azorian-%e2%80%93-the-cia%e2%80%99s-declassified-history-of-the-glomar-explorer"
 excerpt: "Over thirty years ago when I was in college studying naval architecture,  a classmate of mine got a summer job working as a naval architect for Sun Shipyard helping to design some part of the new deep sea mining ship, … Continue reading &rarr;"
 categories:
   - "Current"

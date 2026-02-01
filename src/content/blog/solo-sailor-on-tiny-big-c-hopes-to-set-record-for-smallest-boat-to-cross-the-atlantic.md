@@ -1,7 +1,7 @@
 ---
 title: "Solo Sailor on Tiny Big C Hopes to Set Record For Smallest Boat to Cross the Atlantic"
 date: 2022-05-21T10:41:52
-slug: solo-sailor-on-tiny-big-c-hopes-to-set-record-for-smallest-boat-to-cross-the-atlantic
+slug: "solo-sailor-on-tiny-big-c-hopes-to-set-record-for-smallest-boat-to-cross-the-atlantic"
 excerpt: "Andrew Bedwell hopes to set a new world record for sailing the smallest boat to cross the Atlantic. His vessel, Big C is just over 1m/3.2ft long. If all goes according to plan he will set off in May 2023 … Continue reading &rarr;"
 categories:
   - "Current"

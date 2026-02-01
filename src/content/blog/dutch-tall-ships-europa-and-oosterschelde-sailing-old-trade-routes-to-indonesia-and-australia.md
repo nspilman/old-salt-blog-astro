@@ -1,7 +1,7 @@
 ---
 title: "Dutch Tall Ships Europa and Oosterschelde Sailing Old Trade Routes to Indonesia and Australia"
 date: 2012-02-07T20:22:03
-slug: dutch-tall-ships-europa-and-oosterschelde-sailing-old-trade-routes-to-indonesia-and-australia
+slug: "dutch-tall-ships-europa-and-oosterschelde-sailing-old-trade-routes-to-indonesia-and-australia"
 excerpt: "The first documented European to land on Australia was the Dutch navigator Willem Janszoon aboard the Duyfken in March 1606.   Duyfken was also one of the first Dutch ships to got directly to the East Indies to load spices.  The Dutch would long … Continue reading &rarr;"
 categories:
   - "Current"

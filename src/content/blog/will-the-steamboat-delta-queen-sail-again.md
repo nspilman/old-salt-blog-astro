@@ -1,7 +1,7 @@
 ---
 title: "Will the Steamboat Delta Queen Sail Again?"
 date: 2015-03-18T17:49:27
-slug: will-the-steamboat-delta-queen-sail-again
+slug: "will-the-steamboat-delta-queen-sail-again"
 excerpt: "Since 2008, the 1927 built sternwheel steamboat Delta Queen has been tied to a dock in Chattanooga, Tennessee, serving as a hotel.  Now, with luck and a considerable investment, the old steamboat may be returning to the rivers to carry passengers once … Continue reading &rarr;"
 categories:
   - "Current"

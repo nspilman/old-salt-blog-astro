@@ -1,7 +1,7 @@
 ---
 title: "SS United States Plans for Floating Hotel Moves Forward"
 date: 2020-03-10T16:10:22
-slug: ss-united-states-plans-for-floating-hotel-moves-forward
+slug: "ss-united-states-plans-for-floating-hotel-moves-forward"
 excerpt: "The once-grand passenger liner SS United States may be moving closer to conversion and restoration to a floating hotel, hospitality space, and museum.  RXR Realty, a real estate owner, operator, and developer in the New York Tri-State area, has partnered … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

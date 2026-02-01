@@ -1,7 +1,7 @@
 ---
 title: "Hoboken’s Loss is Brooklyn’s Gain as Historic Ferry Yankee Crosses New York Harbor to Red Hook"
 date: 2013-07-15T18:24:59
-slug: hobokens-loss-is-brooklyns-gain-as-historic-ferry-yankee-crosses-new-york-harbor
+slug: "hobokens-loss-is-brooklyns-gain-as-historic-ferry-yankee-crosses-new-york-harbor"
 excerpt: "About two years, ago we posted about two historic vessels in New York harbor, the ferry Yankee and the tanker Mary Whalen.  In the space of two days, two different real estate and design publications featured articles about the grand … Continue reading &rarr;"
 categories:
   - "Current"

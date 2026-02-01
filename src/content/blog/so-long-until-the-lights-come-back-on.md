@@ -1,7 +1,7 @@
 ---
 title: "So Long Until the Lights Come Back On"
 date: 2012-10-30T15:19:50
-slug: so-long-until-the-lights-come-back-on
+slug: "so-long-until-the-lights-come-back-on"
 excerpt: "Here on the west bank of the Hudson, we were in the path of Hurricane Sandy’s storm surge and winds. Though we came very close to flooding we didn’t quite go under. (We were very lucky.) We are have food, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

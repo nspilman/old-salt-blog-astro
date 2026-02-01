@@ -1,7 +1,7 @@
 ---
 title: "Update: Submarine Owner Peter Madsen Given Life Sentence in Murder of Kim Wall"
 date: 2018-04-25T09:30:52
-slug: update-submarine-owner-peter-madsen-given-life-sentence-in-murder-of-kim-wall
+slug: "update-submarine-owner-peter-madsen-given-life-sentence-in-murder-of-kim-wall"
 excerpt: "We have been following the grim saga of the murder of Swedish journalist Kim Wall since last August.  Ms. Wall disappeared after going on a trip in Copenhagen harbor onboard Peter Madsen’s private submarine, UC3 Nautulis, as part of an interview. The … Continue reading &rarr;"
 categories:
   - "Current"

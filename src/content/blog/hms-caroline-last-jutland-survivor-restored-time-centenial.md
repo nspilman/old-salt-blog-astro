@@ -1,7 +1,7 @@
 ---
 title: "HMS Caroline, Last Jutland Survivor, Restored in Time for Centenial"
 date: 2016-05-05T09:12:30
-slug: hms-caroline-last-jutland-survivor-restored-time-centenial
+slug: "hms-caroline-last-jutland-survivor-restored-time-centenial"
 excerpt: "HMS Caroline, a decommissioned Royal Navy C-class light cruiser, is the last survivor of the Battle of Jutland, and one of only three surviving Royal Navy warships of the First World War. Now in Belfast, she has undergone a many … Continue reading &rarr;"
 categories:
   - "Current"

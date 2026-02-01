@@ -1,7 +1,7 @@
 ---
 title: "Repost: BOATLIFT, An Untold Tale of 9/11 Resilience"
 date: 2014-09-11T07:59:28
-slug: repost-boatlift-an-untold-tale-of-911-resilience
+slug: "repost-boatlift-an-untold-tale-of-911-resilience"
 excerpt: "On the thirteenth anniversary of the attacks 9/11, it seems worthwhile to revisit the amazing story of the spontaneous maritime evacuation of somewhere between 300,000 and one million people who were trapped in lower Manhattan on the afternoon of September … Continue reading &rarr;"
 categories:
   - "Current"

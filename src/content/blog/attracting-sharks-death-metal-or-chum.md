@@ -1,7 +1,7 @@
 ---
 title: "Attracting Sharks, Death Metal or Chum?"
 date: 2019-03-02T19:04:29
-slug: attracting-sharks-death-metal-or-chum
+slug: "attracting-sharks-death-metal-or-chum"
 excerpt: "What does death metal music sound like to you? Apparently to sharks, death metal sounds like struggling fish. (Funny, that is kind of what it sounds like to me too.) Recently a documentary crew for the Discovery Channel experimented with … Continue reading &rarr;"
 categories:
   - "Current"

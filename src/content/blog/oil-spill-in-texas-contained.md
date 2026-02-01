@@ -1,7 +1,7 @@
 ---
 title: "Oil Spill in Texas Contained"
 date: 2010-01-24T08:41:04
-slug: oil-spill-in-texas-contained
+slug: "oil-spill-in-texas-contained"
 excerpt: "An Aframax tanker, the Eagle Otome,  collided with an oil barge in the Sabine Neches Waterway at Port Arthur, Texas on Saturday.  Initial reports suggested 12, 000 barrels of crude oil were unaccounted for, though local officials are now estimating that approximately 1,000 barrels … Continue reading &rarr;"
 categories:
   - "Current"

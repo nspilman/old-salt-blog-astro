@@ -1,8 +1,8 @@
 ---
 title: "NASA’s NGC 2264 — Twinkling Christmas Tree Cluster 2,500 Light Years From Earth"
 date: 2023-12-25T18:54:51
-slug: nasas-ngc-2264-twinkling-christmas-tree-cluster-2500-light-years-from-earth
-excerpt: "Merry Christmas! Here is a composite image and video of NGC 2264, also known as the “Christmas Tree Cluster,” that shows the shape of a cosmic tree with the glow of stellar lights. According to NASA:  NGC 2264 is, in … Continue reading &rarr;"
+slug: "nasas-ngc-2264-twinkling-christmas-tree-cluster-2500-light-years-from-earth"
+excerpt: "Merry Christmas! Here is a composite image and video of NGC 2264, also known as the \"Christmas Tree Cluster,\" that shows the shape of a cosmic tree with the glow of stellar lights. According to NASA:  NGC 2264 is, in … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "NGC 2264"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/12/christmastreecluster.jpg"
 author: "Rick Spilman"
-description: "Merry Christmas! Here is a composite image and video of NGC 2264, also known as the “Christmas Tree Cluster,” that shows the shape of a cosmic tree with the glow of stellar lights. According to NASA:  NGC 2264 is, in … Continue reading &rarr;"
+description: "Merry Christmas! Here is a composite image and video of NGC 2264, also known as the \"Christmas Tree Cluster,\" that shows the shape of a cosmic tree with the glow of stellar lights. According to NASA:  NGC 2264 is, in … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/12/christmastreecluster.jpg)Merry Christmas! Here is a composite image and video of NGC 2264, also known as the “[Christmas Tree Cluster](https://www.space.com/christmas-tree-cluster-twinkling-lights-chandra-x-ray-observatory),” that shows the shape of a cosmic tree with the glow of stellar lights.

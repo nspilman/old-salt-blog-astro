@@ -1,7 +1,7 @@
 ---
 title: "On the 100th Anniversary — Jellicoe & the Battle of Jutland"
 date: 2016-05-31T13:19:58
-slug: 100th-anniversary-jellico-battle-jutland
+slug: "100th-anniversary-jellico-battle-jutland"
 excerpt: "The Battle of Jutland, which was fought 100 years ago today, was one of the greatest modern sea battles and arguably, changed the course of World War I.  In the battle, 250 ships, manned by 10,000 sailors fought for 12 … Continue reading &rarr;"
 categories:
   - "Current"

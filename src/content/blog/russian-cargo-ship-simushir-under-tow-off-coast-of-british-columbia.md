@@ -1,7 +1,7 @@
 ---
 title: "Russian Cargo Ship Simushir Under Tow Off Coast of British Columbia"
 date: 2014-10-18T16:15:45
-slug: russian-cargo-ship-simushir-under-tow-off-coast-of-british-columbia
+slug: "russian-cargo-ship-simushir-under-tow-off-coast-of-british-columbia"
 excerpt: "Late Thursday night, the 9,405 DWT Russian general cargo ship Simushir lost power while in a gale off Haida Gwaii, also known as the Queen Charlotte Islands, on the coast of British Columbia, Canada. By Friday morning, the ship was drifting in … Continue reading &rarr;"
 categories:
   - "Current"

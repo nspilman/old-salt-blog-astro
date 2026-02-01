@@ -1,7 +1,7 @@
 ---
-title: "“A Whale” – World’s Largest Oil Skimmer Waiting on EPA and Coast Guard Approval"
+title: "\"A Whale\" – World’s Largest Oil Skimmer Waiting on EPA and Coast Guard Approval"
 date: 2010-06-29T18:09:25
-slug: a-whale-worlds-largest-oil-skimmer-waiting-on-epa-and-coast-guard-approval
+slug: "a-whale-worlds-largest-oil-skimmer-waiting-on-epa-and-coast-guard-approval"
 excerpt: "Update:  According to her AIS (Automatic Identification System) the A Whale is now off Louisiana.  Thanks to Buck for pointing it out. Click here to see per position on the chart. A Taiwanese-owned, Liberian-flagged tanker,  the A Whale, has been modified … Continue reading &rarr;"
 categories:
   - "Current"

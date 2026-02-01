@@ -1,7 +1,7 @@
 ---
 title: "NYC Sues Digital Billboard Barge Cruising City Rivers"
 date: 2019-03-28T16:26:33
-slug: nyc-sues-digital-billboard-barge-cruising-city-rivers
+slug: "nyc-sues-digital-billboard-barge-cruising-city-rivers"
 excerpt: "If you happen to have been on the Hudson or East River waterfront in Manhattan recently, there is a good chance that you might have seen a 60′ illuminated digital billboard on a barge passing by close to shore. The … Continue reading &rarr;"
 categories:
   - "Current"

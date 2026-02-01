@@ -1,7 +1,7 @@
 ---
 title: "Spiders on a Ship – Infested Ship, MV Altavia, Turned Away from Guam"
 date: 2010-07-23T10:12:00
-slug: spiders-on-a-ship-infested-ship-mv-altavia-turned-away-from-guam
+slug: "spiders-on-a-ship-infested-ship-mv-altavia-turned-away-from-guam"
 excerpt: "This news story sounds like a bad sequel to the movie Snakes on Plane. Ship turned away after spiders started ‘pouring’ from cargo hold A South Korean cargo ship had to be turned away last week after an infestation of spiders was discovered … Continue reading &rarr;"
 categories:
   - "Current"

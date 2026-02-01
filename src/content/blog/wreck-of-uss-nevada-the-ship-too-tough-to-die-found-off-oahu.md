@@ -1,7 +1,7 @@
 ---
 title: "Wreck of USS Nevada, the Ship Too Tough to Die, Found Off Oahu"
 date: 2020-05-12T15:06:28
-slug: wreck-of-uss-nevada-the-ship-too-tough-to-die-found-off-oahu
+slug: "wreck-of-uss-nevada-the-ship-too-tough-to-die-found-off-oahu"
 excerpt: "The wreck of the USS Nevada, deliberately sunk by the US Navy in 1948, has been located in water nearly three miles deep, 65 nautical miles southwest of the Hawaiian island of Oahu.  The old battlewagon has been called the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

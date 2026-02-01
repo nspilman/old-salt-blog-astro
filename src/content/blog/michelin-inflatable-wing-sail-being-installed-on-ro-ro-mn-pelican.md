@@ -1,7 +1,7 @@
 ---
 title: "Michelin Inflatable Wing Sail Being Installed on Ro/Ro MN Pelican"
 date: 2022-11-03T10:45:10
-slug: michelin-inflatable-wing-sail-being-installed-on-ro-ro-mn-pelican
+slug: "michelin-inflatable-wing-sail-being-installed-on-ro-ro-mn-pelican"
 excerpt: "Last year, we posted about French tire manufacturer Michelin’s Wing Sail Mobility (WISAMO) project design that features an automated, telescopic, inflatable wing sail system, which is expected to reduce fuel consumption by up to 20%. The project is taking a … Continue reading &rarr;"
 categories:
   - "Current"

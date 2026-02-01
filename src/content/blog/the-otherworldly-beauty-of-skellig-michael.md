@@ -1,15 +1,15 @@
 ---
 title: "The Otherworldly Beauty of Skellig Michael"
 date: 2016-01-15T09:02:21
-slug: the-otherworldly-beauty-of-skellig-michael
-excerpt: "A long time ago, on an island far, far away….  In the final scene of the new movie, “Star Wars: The Force Awakens,” the young heroes finally track down Luke Skywalker, the Jedi master who has gone into hiding. They … Continue reading &rarr;"
+slug: "the-otherworldly-beauty-of-skellig-michael"
+excerpt: "A long time ago, on an island far, far away….  In the final scene of the new movie, \"Star Wars: The Force Awakens,\" the young heroes finally track down Luke Skywalker, the Jedi master who has gone into hiding. They … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
   - "Skellig Michael"
   - "Star Wars: The Force Awakens"
 author: "Rick Spilman"
-description: "A long time ago, on an island far, far away….  In the final scene of the new movie, “Star Wars: The Force Awakens,” the young heroes finally track down Luke Skywalker, the Jedi master who has gone into hiding. They … Continue reading &rarr;"
+description: "A long time ago, on an island far, far away….  In the final scene of the new movie, \"Star Wars: The Force Awakens,\" the young heroes finally track down Luke Skywalker, the Jedi master who has gone into hiding. They … Continue reading &rarr;"
 ---
 
 ![skelligmichael](http://www.oldsaltblog.com/wp-content/uploads/2016/01/skelligmichael.jpg)A long time ago, on an island far, far away….  In the final scene of the new movie, “[Star Wars: The Force Awakens,](https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens)” the young heroes finally track down Luke Skywalker, the Jedi master who has gone into hiding. They find him on the windswept peak of an island far out to sea on a distant planet. By this point in the movie, I could not have cared less whether they found the missing Skywalker, but I was captivated by the setting. I recognized the island as [Skellig Michael](https://en.wikipedia.org/wiki/Skellig_Michael).

@@ -1,7 +1,7 @@
 ---
 title: "Videos that didn’t get the Captain fired"
 date: 2011-01-07T10:52:51
-slug: videos-that-didnt-get-the-captain-fired
+slug: "videos-that-didnt-get-the-captain-fired"
 excerpt: "Despite the implication that nobody in the Navy brass has a sense of humor, there are lots of of fun videos floating around the ‘net made on US Navy ships that suggest otherwise.    My personal favorites all tend to be lip-sincing … Continue reading &rarr;"
 categories:
   - "Current"

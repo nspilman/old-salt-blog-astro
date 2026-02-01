@@ -1,8 +1,8 @@
 ---
 title: "Blue Dragon Sea Slug — Tiny, Beautiful and Dangerous"
 date: 2015-11-27T09:31:57
-slug: blue-dragon-sea-slug-tiny-beautiful-and-dangerous
-excerpt: "The words “blue dragon” and “sea slug” do not seem to go together. The image of a dragon, of any color, and a slug just do not seem to overlap. Nevertheless, the sea slug glaucus atlanticus known as the blue … Continue reading &rarr;"
+slug: "blue-dragon-sea-slug-tiny-beautiful-and-dangerous"
+excerpt: "The words \"blue dragon\" and \"sea slug\" do not seem to go together. The image of a dragon, of any color, and a slug just do not seem to overlap. Nevertheless, the sea slug glaucus atlanticus known as the blue … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Portuguese Man o' War"
   - "Sea Slug"
 author: "Rick Spilman"
-description: "The words “blue dragon” and “sea slug” do not seem to go together. The image of a dragon, of any color, and a slug just do not seem to overlap. Nevertheless, the sea slug glaucus atlanticus known as the blue … Continue reading &rarr;"
+description: "The words \"blue dragon\" and \"sea slug\" do not seem to go together. The image of a dragon, of any color, and a slug just do not seem to overlap. Nevertheless, the sea slug glaucus atlanticus known as the blue … Continue reading &rarr;"
 ---
 
 ![bluedragon](http://www.oldsaltblog.com/wp-content/uploads/2015/11/bluedragon.jpg)The words “blue dragon” and “sea slug” do not seem to go together. The image of a dragon, of any color, and a slug just do not seem to overlap. Nevertheless, the sea slug [glaucus atlanticus](https://en.wikipedia.org/wiki/Glaucus_atlanticus) known as the blue dragon (as well as the sea swallow, blue angel, and the blue ocean slug) does look and act more ferociously than its size or designation might suggest.

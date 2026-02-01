@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ships Blocked from Ports Around the World Over Coronavirus Fears"
 date: 2020-03-18T11:11:10
-slug: cruise-ships-blocked-from-ports-around-the-world-over-coronavirus-fears
+slug: "cruise-ships-blocked-from-ports-around-the-world-over-coronavirus-fears"
 excerpt: "More that one hundred Australian doctors and dentists on a medical conference cruise have found themselves stranded onboard the cruise ship Roald Amundsen off Punta Arenas, Chile after the country after the country banned cruise ships from docking in response … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

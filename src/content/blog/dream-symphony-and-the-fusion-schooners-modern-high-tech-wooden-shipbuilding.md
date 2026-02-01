@@ -1,7 +1,7 @@
 ---
 title: "Dream Symphony and the Fusion Schooners:  Modern High-Tech Wooden Shipbuilding"
 date: 2011-11-13T23:15:21
-slug: dream-symphony-and-the-fusion-schooners-modern-high-tech-wooden-shipbuilding
+slug: "dream-symphony-and-the-fusion-schooners-modern-high-tech-wooden-shipbuilding"
 excerpt: "Yesterday, we looked at the Bugis phisini, a modern sailing ship built using traditional wood ship building methods that date back a thousand years or so. Today, a look at the other end of spectrum – wood sailing ships that … Continue reading &rarr;"
 categories:
   - "Current"

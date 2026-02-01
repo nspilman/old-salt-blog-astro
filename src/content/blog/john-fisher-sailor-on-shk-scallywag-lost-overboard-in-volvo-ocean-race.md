@@ -1,7 +1,7 @@
 ---
 title: "John Fisher, Sailor on SHK/Scallywag, Lost Overboard in Volvo Ocean Race"
 date: 2018-03-27T08:04:42
-slug: john-fisher-sailor-on-shk-scallywag-lost-overboard-in-volvo-ocean-race
+slug: "john-fisher-sailor-on-shk-scallywag-lost-overboard-in-volvo-ocean-race"
 excerpt: "British sailor, John Fisher, crew on the Volvo Ocean 65 Team Sun Hung Kai / Scallywag, went overboard on Monday and is presumed lost. Fisher went missing while on watch approximately 1,400 miles west of Cape Horn, in high seas, with winds at 35 … Continue reading &rarr;"
 categories:
   - "Current"

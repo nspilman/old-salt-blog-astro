@@ -1,7 +1,7 @@
 ---
 title: "Indonesian Earthquake & Tsunami — Over 400 Killed or Missing"
 date: 2018-09-29T08:06:50
-slug: indonesian-earthquake-tsunami-over-400-killed-or-missing
+slug: "indonesian-earthquake-tsunami-over-400-killed-or-missing"
 excerpt: "A 7.5 magnitude earthquake triggered a tsunami which struck the city of Palu on the island of Sulawesi, Indonesia. At least 384 have been reported to be killed and 29 are missing. 540 are being treated in local hospitals. The wall of … Continue reading &rarr;"
 categories:
   - "Current"

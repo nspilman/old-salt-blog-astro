@@ -1,7 +1,7 @@
 ---
 title: "Schooner Larinda Sails into Halifax 9 Years After Sinking"
 date: 2012-07-20T08:06:39
-slug: schooner-larinda-sails-into-halifax-9-years-after-sinking
+slug: "schooner-larinda-sails-into-halifax-9-years-after-sinking"
 excerpt: "The 86′ schooner Larinda sank in Halifax harbor during Hurricane Juan on September 29, 2003.   She was raised from the harbor bottom and following a nine year restoration has returned to Halifax for this year’s Tall Ship Festival. The design and construction of the … Continue reading &rarr;"
 categories:
   - "Current"

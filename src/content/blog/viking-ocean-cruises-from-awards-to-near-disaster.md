@@ -1,8 +1,8 @@
 ---
 title: "Viking Ocean Cruises — From Awards to Near Disaster"
 date: 2019-03-25T15:20:43
-slug: viking-ocean-cruises-from-awards-to-near-disaster
-excerpt: "In early March, a press release announced, “Viking Dominates Cruise Critic’s 2019 Cruisers’ Choice Awards.” Viking’s five 930 passenger ships won ten awards. The Viking Sky received First Place in six award categories within the small to mid-size ship group: … Continue reading &rarr;"
+slug: "viking-ocean-cruises-from-awards-to-near-disaster"
+excerpt: "In early March, a press release announced, \"Viking Dominates Cruise Critic’s 2019 Cruisers’ Choice Awards.\" Viking’s five 930 passenger ships won ten awards. The Viking Sky received First Place in six award categories within the small to mid-size ship group: … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Viking Sun"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/vikingskydock.jpg"
 author: "Rick Spilman"
-description: "In early March, a press release announced, “Viking Dominates Cruise Critic’s 2019 Cruisers’ Choice Awards.” Viking’s five 930 passenger ships won ten awards. The Viking Sky received First Place in six award categories within the small to mid-size ship group: … Continue reading &rarr;"
+description: "In early March, a press release announced, \"Viking Dominates Cruise Critic’s 2019 Cruisers’ Choice Awards.\" Viking’s five 930 passenger ships won ten awards. The Viking Sky received First Place in six award categories within the small to mid-size ship group: … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/vikingskydock.jpg)

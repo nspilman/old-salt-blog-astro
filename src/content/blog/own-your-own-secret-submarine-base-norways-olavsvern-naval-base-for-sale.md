@@ -1,7 +1,7 @@
 ---
 title: "Own Your Own Secret Submarine Base – Norway’s Olavsvern Naval Base For Sale"
 date: 2012-05-31T08:22:47
-slug: own-your-own-secret-submarine-base-norways-olavsvern-naval-base-for-sale
+slug: "own-your-own-secret-submarine-base-norways-olavsvern-naval-base-for-sale"
 excerpt: "For only 105 million Norwegian krona (thats € 14 million or roughly US$17.5 million) you too can own an Arctic submarine base.  Norway’s Olavsvern Naval Base just outside the city of Tromsø, has been on the market since January 2011, but for the last … Continue reading &rarr;"
 categories:
   - "Current"

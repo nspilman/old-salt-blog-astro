@@ -1,8 +1,8 @@
 ---
 title: "Sting — Christmas At Sea, Live from Durham Cathedral"
 date: 2025-12-25T09:39:23
-slug: sting-christmas-at-sea-live-from-durham-cathedral-5
-excerpt: "We hope everyone is having a joyous holiday season.  Here is a repost of a beautiful version of Robert Louis Stevenson’s poem “Christmas at Sea,” performed by Gordon Matthew Thomas Sumner, better known as Sting. Sting – Christmas At Sea … Continue reading &rarr;"
+slug: "sting-christmas-at-sea-live-from-durham-cathedral-5"
+excerpt: "We hope everyone is having a joyous holiday season.  Here is a repost of a beautiful version of Robert Louis Stevenson’s poem \"Christmas at Sea,\" performed by Gordon Matthew Thomas Sumner, better known as Sting. Sting – Christmas At Sea … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Seastories"
@@ -13,7 +13,7 @@ tags:
   - "Sting"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/12/Stingchristmas25.jpg"
 author: "Rick Spilman"
-description: "We hope everyone is having a joyous holiday season.  Here is a repost of a beautiful version of Robert Louis Stevenson’s poem “Christmas at Sea,” performed by Gordon Matthew Thomas Sumner, better known as Sting. Sting – Christmas At Sea … Continue reading &rarr;"
+description: "We hope everyone is having a joyous holiday season.  Here is a repost of a beautiful version of Robert Louis Stevenson’s poem \"Christmas at Sea,\" performed by Gordon Matthew Thomas Sumner, better known as Sting. Sting – Christmas At Sea … Continue reading &rarr;"
 ---
 
 We hope everyone is having a joyous holiday season.  Here is a repost of a beautiful version of Robert Louis Stevenson’s poem “*[Christmas at Sea,](http://classiclit.about.com/library/bl-etexts/rlstevenson/bl-rlstevenson-chratsea.htm)*” performed by [Gordon Matthew Thomas Sumner, better known as Sting](https://en.wikipedia.org/wiki/Sting_\(musician\)).

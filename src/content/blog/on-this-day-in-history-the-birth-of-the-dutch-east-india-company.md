@@ -1,7 +1,7 @@
 ---
 title: "On this day in History – the Birth of the Dutch East India Company"
 date: 2011-03-21T17:02:37
-slug: on-this-day-in-history-the-birth-of-the-dutch-east-india-company
+slug: "on-this-day-in-history-the-birth-of-the-dutch-east-india-company"
 excerpt: "On March 20th, 1602 the Vereenigde Oost-Indische Compagnie, the VOC, or in English, the United Dutch East India Company was established as a chartered company.   It would dominate European trade with Asia for almost 200 years. Dutch East India Company … Continue reading &rarr;"
 categories:
   - "History"

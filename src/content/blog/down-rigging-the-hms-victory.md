@@ -1,7 +1,7 @@
 ---
 title: "Down-Rigging HMS Victory"
 date: 2011-09-02T09:21:46
-slug: down-rigging-the-hms-victory
+slug: "down-rigging-the-hms-victory"
 excerpt: "Recent surveys have indicated that Nelson’s flagship, HMS Victory, was leaking, suffering from rot and being pulled apart by her own weight.   Now, as the first part of a major restoration project, the ship is being down-rigged. Twenty six miles of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

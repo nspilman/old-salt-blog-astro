@@ -1,7 +1,7 @@
 ---
 title: "Strictly Scottish Dance ‘Battle of Trafalgar’ Medley"
 date: 2024-04-13T10:18:25
-slug: strictly-scottish-dance-battle-of-trafalgar-medley
+slug: "strictly-scottish-dance-battle-of-trafalgar-medley"
 excerpt: "I like it, even if I am not sure I understand it. Here is the Strictly Scottish dance team dancing a ‘Battle of Trafalgar’ medley at the BC Highland Games of 2023. Thanks to Frank Hanavan for pointing it out. … Continue reading &rarr;"
 categories:
   - "Current"

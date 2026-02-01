@@ -1,7 +1,7 @@
 ---
 title: "Container Ship Nose Jobs – Maersk Retrofits Bulbous Bows for Slow Steaming"
 date: 2013-03-17T10:58:09
-slug: container-ship-nose-jobs-maersk-retrofits-bulbous-bows-for-slow-steaming
+slug: "container-ship-nose-jobs-maersk-retrofits-bulbous-bows-for-slow-steaming"
 excerpt: "Over the next several months, Maersk Lines will be giving ten container ships in its fleet nose jobs. They will be cutting off the existing bulbous bows and retrofitting them with new more energy-efficient designs. It all has to do with slow … Continue reading &rarr;"
 categories:
   - "Current"

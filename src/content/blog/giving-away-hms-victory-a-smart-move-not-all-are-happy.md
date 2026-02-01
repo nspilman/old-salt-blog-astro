@@ -1,7 +1,7 @@
 ---
 title: "Giving Away HMS Victory?  A Smart Move? Not All Are Happy"
 date: 2012-03-02T18:05:17
-slug: giving-away-hms-victory-a-smart-move-not-all-are-happy
+slug: "giving-away-hms-victory-a-smart-move-not-all-are-happy"
 excerpt: "The British Ministry of Defense (MoD) is giving Admiral Lord Nelson’s flagship at the Battle of Trafalgar,  HMS Victory to the National Museum of the Royal Navy (NMRN) in Portsmouth.  The ship would stay a commissioned warship and thus will be able to retain bragging … Continue reading &rarr;"
 categories:
   - "Current"

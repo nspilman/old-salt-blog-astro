@@ -1,7 +1,7 @@
 ---
 title: "Cousteau’s Calypso Set to Sail Again?"
 date: 2016-01-08T09:17:12
-slug: calypso-set-to-sail-again
+slug: "calypso-set-to-sail-again"
 excerpt: "Big news from the Cousteau Society. They have announced: As 2016 begins, Calypso will be getting a whole new life, 20 years after its accident in Singapore! After having explored the possibility of a future for Captain Cousteau’s iconic ship in … Continue reading &rarr;"
 categories:
   - "Current"

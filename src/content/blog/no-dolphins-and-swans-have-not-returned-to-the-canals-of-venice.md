@@ -1,7 +1,7 @@
 ---
 title: "No, Dolphins and Swans Have Not Returned to the Canals of Venice"
 date: 2020-03-23T10:21:24
-slug: no-dolphins-and-swans-have-not-returned-to-the-canals-of-venice
+slug: "no-dolphins-and-swans-have-not-returned-to-the-canals-of-venice"
 excerpt: "Social and the mainstream press have been running stories showing swans and dolphins returning to the canals of Venice in the wake of the shutdowns to limit the coronavirus.  The possible silver lining to the overwhelming tragedy in Italy appears, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

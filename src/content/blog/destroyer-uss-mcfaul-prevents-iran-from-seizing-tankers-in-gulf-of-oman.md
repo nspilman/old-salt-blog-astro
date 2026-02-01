@@ -1,7 +1,7 @@
 ---
 title: "Destroyer USS McFaul Prevents Iran From Seizing Tankers in Gulf of Oman"
 date: 2023-07-05T15:34:43
-slug: destroyer-uss-mcfaul-prevents-iran-from-seizing-tankers-in-gulf-of-oman
+slug: "destroyer-uss-mcfaul-prevents-iran-from-seizing-tankers-in-gulf-of-oman"
 excerpt: "US Naval Forces Central Command Public Affairs reports that on July 5, the Arleigh Burke-class guided-missile destroyer USS McFaul prevented two attempted commercial tanker seizures by the Iranian Navy. The Iranians opened fire in one of the incidents near the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Bom Jesus — More Gold From Shipwreck on a Beach of Diamonds"
 date: 2016-06-10T15:02:23
-slug: bom-jesus-gold-shipwreck-beach-diamonds
-excerpt: "Once again, the media is reporting a story of the discovery of a shipwreck which sounds very familiar. Recently, the Independent reported: “The wreckage of a 500-year-old Portuguese ship filled with gold coins has been unearthed by miners in a … Continue reading &rarr;"
+slug: "bom-jesus-gold-shipwreck-beach-diamonds"
+excerpt: "Once again, the media is reporting a story of the discovery of a shipwreck which sounds very familiar. Recently, the Independent reported: \"The wreckage of a 500-year-old Portuguese ship filled with gold coins has been unearthed by miners in a … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Namibia"
   - "Portuguese ship"
 author: "Rick Spilman"
-description: "Once again, the media is reporting a story of the discovery of a shipwreck which sounds very familiar. Recently, the Independent reported: “The wreckage of a 500-year-old Portuguese ship filled with gold coins has been unearthed by miners in a … Continue reading &rarr;"
+description: "Once again, the media is reporting a story of the discovery of a shipwreck which sounds very familiar. Recently, the Independent reported: \"The wreckage of a 500-year-old Portuguese ship filled with gold coins has been unearthed by miners in a … Continue reading &rarr;"
 ---
 
 ![goldbomjesus](http://www.oldsaltblog.com/wp-content/uploads/2016/06/goldbomjesus.jpg)Once again, the media is reporting a story of the discovery of a shipwreck which sounds very familiar. Recently, the [Independent reported](http://www.independent.co.uk/news/world/africa/miners-find-500-year-old-shipwreck-filled-with-gold-coins-in-namibian-desert-a7072221.html): “*The wreckage of a 500-year-old Portuguese ship filled with gold coins has been unearthed by miners in a Namibian desert. The haul was discovered by diggers from diamond company De Beers and is believed to be worth upwards of £9m.*” The ship was quickly identified as the Portuguese trader *Bom Jesus,* which vanished in 1533.

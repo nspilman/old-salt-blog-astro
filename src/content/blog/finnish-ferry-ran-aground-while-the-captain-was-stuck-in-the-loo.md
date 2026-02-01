@@ -1,7 +1,7 @@
 ---
 title: "Finnish Ferry Runs Aground While the Captain Stuck in Loo"
 date: 2011-08-23T21:28:38
-slug: finnish-ferry-ran-aground-while-the-captain-was-stuck-in-the-loo
+slug: "finnish-ferry-ran-aground-while-the-captain-was-stuck-in-the-loo"
 excerpt: "I am trying to decide whether this story is more funny or scary. As there were no serious injuries, I am leaning toward funny.  Thanks to Dirk Bal for passing it along. Finnish ferry ran aground while the captain was stuck in the … Continue reading &rarr;"
 categories:
   - "Current"

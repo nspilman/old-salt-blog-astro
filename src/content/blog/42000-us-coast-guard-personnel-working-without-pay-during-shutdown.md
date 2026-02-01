@@ -1,8 +1,8 @@
 ---
 title: "42,000 US Coast Guard Personnel Working Without Pay During Shutdown"
 date: 2018-12-27T18:39:54
-slug: 42000-us-coast-guard-personnel-working-without-pay-during-shutdown
-excerpt: "Approximately 42,000 active-duty military members of the Coast Guard remain on duty during the partial government shutdown that began Saturday, but they will work without pay until further notice, according to a statement from a Coast Guard spokeswoman. “Unless legislation … Continue reading &rarr;"
+slug: "42000-us-coast-guard-personnel-working-without-pay-during-shutdown"
+excerpt: "Approximately 42,000 active-duty military members of the Coast Guard remain on duty during the partial government shutdown that began Saturday, but they will work without pay until further notice, according to a statement from a Coast Guard spokeswoman. \"Unless legislation … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "shutdown"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2012/08/US-CoastGuard.jpg"
 author: "Rick Spilman"
-description: "Approximately 42,000 active-duty military members of the Coast Guard remain on duty during the partial government shutdown that began Saturday, but they will work without pay until further notice, according to a statement from a Coast Guard spokeswoman. “Unless legislation … Continue reading &rarr;"
+description: "Approximately 42,000 active-duty military members of the Coast Guard remain on duty during the partial government shutdown that began Saturday, but they will work without pay until further notice, according to a statement from a Coast Guard spokeswoman. \"Unless legislation … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/US-CoastGuard.jpg)Approximately 42,000 active-duty military members of the Coast Guard remain on duty during the partial government shutdown that began Saturday, but they will work without pay until further notice, according to a statement from a Coast Guard spokeswoman.

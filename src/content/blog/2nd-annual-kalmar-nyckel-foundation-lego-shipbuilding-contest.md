@@ -1,7 +1,7 @@
 ---
 title: "2nd Annual Kalmar Nyckel Foundation LEGO Shipbuilding Contest"
 date: 2017-02-26T09:39:19
-slug: 2nd-annual-kalmar-nyckel-foundation-lego-shipbuilding-contest
+slug: "2nd-annual-kalmar-nyckel-foundation-lego-shipbuilding-contest"
 excerpt: "I do not not immediately associate a replica of a 17th century Dutch pinnace with LEGOs, which may only reflect the limits of my imagination.  The Kalmar Nyckel Foundation is hosting their Second Annual LEGO Shipbuilding Contest. It sounds like a lot … Continue reading &rarr;"
 categories:
   - "Current"

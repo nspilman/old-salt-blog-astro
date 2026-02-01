@@ -1,7 +1,7 @@
 ---
 title: "Volvo Ocean Race Sets off From Alicante, Spain"
 date: 2017-10-22T18:20:41
-slug: volvo-ocean-race-sets-off-alicante-spain
+slug: "volvo-ocean-race-sets-off-alicante-spain"
 excerpt: "A fleet of seven teams of racers set off this morning from Alicante, Spain bound for Lisbon, on the first leg of the Volvo Ocean Race 2017-2018.  The eleven leg race will visit 12 cities in six continents, ending next July in The Hague, Netherlands. The teams … Continue reading &rarr;"
 categories:
   - "Current"

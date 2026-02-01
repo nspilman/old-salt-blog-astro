@@ -1,7 +1,7 @@
 ---
 title: "A Drone Visit to Gradually Reopening Mystic Seaport Museum"
 date: 2020-06-11T16:31:46
-slug: a-drone-visit-to-gradually-reopening-mystic-seaport-museum
+slug: "a-drone-visit-to-gradually-reopening-mystic-seaport-museum"
 excerpt: "The Mystic Seaport Museum in Mystic, Connecticut is a magical place to visit, particularly in the Spring and early Summer. Unfortunately, the museum was shut down by the pandemic since the beginning of April. The great news is that as … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

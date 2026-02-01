@@ -1,7 +1,7 @@
 ---
 title: "The PBY Seaplanes of Pearl Harbor — Rare Images from 74 Years Later"
 date: 2015-12-07T14:11:59
-slug: the-pby-seaplanes-of-pearl-harbor-rare-photos-from-74-years-later
+slug: "the-pby-seaplanes-of-pearl-harbor-rare-photos-from-74-years-later"
 excerpt: "Minutes before the beginning of the attack on the warships of Pearl Harbor on December 7, 1941, Japanese Imperial Navy planes bombed the nearby U.S. Naval Air Station on the east coast of Oahu, destroying twenty-seven Catalina PBY seaplanes on … Continue reading &rarr;"
 categories:
   - "Current"

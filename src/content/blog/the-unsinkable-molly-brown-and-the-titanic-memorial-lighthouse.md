@@ -1,8 +1,8 @@
 ---
 title: "The Unsinkable Molly Brown and the Titanic Memorial Lighthouse"
 date: 2021-01-05T16:16:05
-slug: the-unsinkable-molly-brown-and-the-titanic-memorial-lighthouse
-excerpt: "Thanks to Captain Richard Bailey for mentioning the time ball on the Titanic Memorial in the Financial District of downtown New York City. We neglected to mention it in our post “Watching the Ball Drop — the Nautical Origins of … Continue reading &rarr;"
+slug: "the-unsinkable-molly-brown-and-the-titanic-memorial-lighthouse"
+excerpt: "Thanks to Captain Richard Bailey for mentioning the time ball on the Titanic Memorial in the Financial District of downtown New York City. We neglected to mention it in our post \"Watching the Ball Drop — the Nautical Origins of … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Unsinkable Molly Brown"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/titanticmem.jpg"
 author: "Rick Spilman"
-description: "Thanks to Captain Richard Bailey for mentioning the time ball on the Titanic Memorial in the Financial District of downtown New York City. We neglected to mention it in our post “Watching the Ball Drop — the Nautical Origins of … Continue reading &rarr;"
+description: "Thanks to Captain Richard Bailey for mentioning the time ball on the Titanic Memorial in the Financial District of downtown New York City. We neglected to mention it in our post \"Watching the Ball Drop — the Nautical Origins of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/titanticmem.jpg)Thanks to Captain Richard Bailey for mentioning the time ball on the [Titanic Memorial](https://en.wikipedia.org/wiki/Titanic_Memorial_\(New_York_City\)) in the Financial District of downtown New York City. We neglected to mention it in our post “[Watching the Ball Drop — the Nautical Origins of a New Year’s Tradition](http://www.oldsaltblog.com/2021/01/new-years-repost-watching-the-ball-drop-the-nautical-origins-of-a-new-years-tradition/).”

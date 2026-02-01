@@ -1,7 +1,7 @@
 ---
 title: "Update: Terminally Ill Sailor, Jazz Turner, Plans to Compete in Round the World Race"
 date: 2025-08-08T20:27:23
-slug: update-terminally-ill-sailor-jazz-turner-plan-to-compete-in-round-the-world-race
+slug: "update-terminally-ill-sailor-jazz-turner-plan-to-compete-in-round-the-world-race"
 excerpt: "We recently posted about Jazz Turner, a terminally ill sailor, who became the first disabled person to circumnavigate the British Isles non-stop and unassisted. Now, the 27-year-old engineer, a full-time wheelchair user, has a new goal.  She has set her … Continue reading &rarr;"
 categories:
   - "Current"

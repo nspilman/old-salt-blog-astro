@@ -1,7 +1,7 @@
 ---
 title: "Henderson Island — Pristine, Most Polluted, or Both?"
 date: 2017-06-02T16:00:21
-slug: henderson-island-pristine-polluted
+slug: "henderson-island-pristine-polluted"
 excerpt: "Henderson Island is an uninhabited island in the south Pacific Ocean, the largest of the four islands of the Pitcairn Island group and a part of the South Pacific British Overseas Territory.  It is also a UNESCO World Heritage Site.  UNESCO describes … Continue reading &rarr;"
 categories:
   - "Current"

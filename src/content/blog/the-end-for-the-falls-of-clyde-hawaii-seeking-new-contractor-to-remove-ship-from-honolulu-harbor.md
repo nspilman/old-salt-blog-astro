@@ -1,7 +1,7 @@
 ---
 title: "The End for the Falls of Clyde? Hawaii Seeking New Contractor to Remove Ship From Honolulu Harbor"
 date: 2024-01-04T21:30:44
-slug: the-end-for-the-falls-of-clyde-hawaii-seeking-new-contractor-to-remove-ship-from-honolulu-harbor
+slug: "the-end-for-the-falls-of-clyde-hawaii-seeking-new-contractor-to-remove-ship-from-honolulu-harbor"
 excerpt: "The State of Hawaii is moving closer to removing the historic four-masted iron-hulled ship Falls of Clyde from Honolulu harbor, where it has languished since 2008.  Though owned by the nonprofit Friends of the Falls of Clyde, the state government … Continue reading &rarr;"
 categories:
   - "Current"

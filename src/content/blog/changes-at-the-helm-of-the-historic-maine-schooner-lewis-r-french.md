@@ -1,7 +1,7 @@
 ---
 title: "Changes at the Helm of the Historic Maine Schooner Lewis R. French"
 date: 2022-04-07T16:26:22
-slug: changes-at-the-helm-of-the-historic-maine-schooner-lewis-r-french
+slug: "changes-at-the-helm-of-the-historic-maine-schooner-lewis-r-french"
 excerpt: "Congratulations to Captain Becky Wright and Nathan Sigouin who have taken over the helm and the stewardship of the historic Maine schooner Lewis R. French. Launched in April 1871, the French is a National Historic Landmark and the oldest commercial sailing vessel … Continue reading &rarr;"
 categories:
   - "Current"

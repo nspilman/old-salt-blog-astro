@@ -1,12 +1,12 @@
 ---
-title: "HMS Victory Paint-Scheme a “20th Century Invention”?"
+title: "HMS Victory Paint-Scheme a \"20th Century Invention\"?"
 date: 2014-03-19T09:15:12
-slug: hms-victory-paint-scheme-a-20th-century-invention
-excerpt: "According to the historic coating specialists, Michael Crick-Smith and Ian Crick-Smith, the current black and orange-yellow color scheme of Nelson’s flagship HMS Victory is “an early 20th century invention of what an 18th century warship looked like.”  Based on their study … Continue reading &rarr;"
+slug: "hms-victory-paint-scheme-a-20th-century-invention"
+excerpt: "According to the historic coating specialists, Michael Crick-Smith and Ian Crick-Smith, the current black and orange-yellow color scheme of Nelson’s flagship HMS Victory is \"an early 20th century invention of what an 18th century warship looked like.\"  Based on their study … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "According to the historic coating specialists, Michael Crick-Smith and Ian Crick-Smith, the current black and orange-yellow color scheme of Nelson’s flagship HMS Victory is “an early 20th century invention of what an 18th century warship looked like.”  Based on their study … Continue reading &rarr;"
+description: "According to the historic coating specialists, Michael Crick-Smith and Ian Crick-Smith, the current black and orange-yellow color scheme of Nelson’s flagship HMS Victory is \"an early 20th century invention of what an 18th century warship looked like.\"  Based on their study … Continue reading &rarr;"
 ---
 
 ![hms-victory-011](http://www.oldsaltblog.com/wp-content/uploads/2014/03/hms-victory-011.jpg)According to the historic coating specialists, Michael Crick-Smith and Ian Crick-Smith, the current black and orange-yellow color scheme of Nelson’s flagship HMS Victory is “*an early 20th century invention of what an 18th century warship looked like.*”  Based on their study of hundreds of fragments of the original paint surfaces, they have concluded that the original ochre was a much paler yellow instead of what they refer to as “that hideous orange.” Many interior spaces were also said to be less elaborately and brightly colored than they are now on the famous ship.

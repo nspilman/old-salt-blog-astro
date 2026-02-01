@@ -1,7 +1,7 @@
 ---
 title: "Dolphins as Toolmakers — Spongers vs Non-Spongers"
 date: 2014-06-15T20:55:05
-slug: dolphins-as-toolmakers-spongers-vs-non-spongers
+slug: "dolphins-as-toolmakers-spongers-vs-non-spongers"
 excerpt: "While it was long thought that only humans made and used tools, we now know that a variety of apes and monkeys are toolmakers.  Elephants, crows, sea otters and octopus have also been observed making tools.  Now, we can add dolphins … Continue reading &rarr;"
 categories:
   - "Current"

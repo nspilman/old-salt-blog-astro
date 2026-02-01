@@ -1,7 +1,7 @@
 ---
 title: "Remembering Weymouth History at the Weymouth Leviathan"
 date: 2016-03-13T09:35:02
-slug: remembering-weymouth-history-weymouth-leviathan
+slug: "remembering-weymouth-history-weymouth-leviathan"
 excerpt: "I am attending the Weymouth Leviathan, a maritime literary festival, in the lovely, historic port at the mouth of the River Wey in Dorset on the south-western coast of England. It is a fitting locale. Most of the writers attending … Continue reading &rarr;"
 categories:
   - "Current"

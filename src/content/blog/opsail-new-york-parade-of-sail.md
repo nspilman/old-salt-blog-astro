@@ -1,7 +1,7 @@
 ---
 title: "OpSail New York – Parade of Sail"
 date: 2012-05-23T21:30:01
-slug: opsail-new-york-parade-of-sail
+slug: "opsail-new-york-parade-of-sail"
 excerpt: "The fleet began to appear from the harbor haze around 9 AM and headed north up the inner harbor and the Hudson River. They were a mix of full rigged ships, barques, barquentines, topsail schooners and schooners.  Most were naval vessels, but … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Sea Chantey Festival on the Star of India"
 date: 2011-07-19T09:44:53
-slug: sea-chantey-festival-on-the-star-of-india
-excerpt: "What could possibly be a better venue for a sea chantey festival than the deck of a restored 1863-built iron windjammer?   The Maritime Museum of San Diego is holding its “Sea Shanty Festival 2011” on the deck of the … Continue reading &rarr;"
+slug: "sea-chantey-festival-on-the-star-of-india"
+excerpt: "What could possibly be a better venue for a sea chantey festival than the deck of a restored 1863-built iron windjammer?   The Maritime Museum of San Diego is holding its \"Sea Shanty Festival 2011\" on the deck of the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Sea Shanty Festival 2011"
   - "Star of India"
 author: "Rick Spilman"
-description: "What could possibly be a better venue for a sea chantey festival than the deck of a restored 1863-built iron windjammer?   The Maritime Museum of San Diego is holding its “Sea Shanty Festival 2011” on the deck of the … Continue reading &rarr;"
+description: "What could possibly be a better venue for a sea chantey festival than the deck of a restored 1863-built iron windjammer?   The Maritime Museum of San Diego is holding its \"Sea Shanty Festival 2011\" on the deck of the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/jackstraws-190.jpg)What could possibly be a better venue for a sea chantey festival than the deck of a restored 1863-built iron windjammer?   The [Maritime Museum of San Diego](http://www.sdmaritime.org/) is holding its “[Sea Shanty Festival 2011](http://www.sdmaritime.org/sea-chantey-festival/)” on the deck of the *[Star of India](http://www.sdmaritime.org/star-of-india/)* on July 24th.  They have some great talent lined up and the *Star of India*  will be a magnificent stage.

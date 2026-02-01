@@ -1,7 +1,7 @@
 ---
 title: "Today in Submarine History – the Short, Sorry Saga of the USS Lancefish"
 date: 2011-03-24T16:28:59
-slug: today-in-submarine-history-the-short-sorry-saga-of-the-uss-lancefish
+slug: "today-in-submarine-history-the-short-sorry-saga-of-the-uss-lancefish"
 excerpt: "On March 24th, 1945 the USS Lancetfish was decommissioned after less than thousand hours in service.  She never put to sea under her own power and never had a crew.  Delivered from the Cramp Shipbuilding Company of Philadelphia, she was towed to … Continue reading &rarr;"
 categories:
   - "History"

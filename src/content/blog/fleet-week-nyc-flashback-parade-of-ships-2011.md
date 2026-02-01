@@ -1,7 +1,7 @@
 ---
 title: "Fleet Week NYC Flashback –Parade of Ships 2011"
 date: 2020-05-25T12:28:55
-slug: fleet-week-nyc-flashback-parade-of-ships-2011
+slug: "fleet-week-nyc-flashback-parade-of-ships-2011"
 excerpt: "This year’s Fleet Week celebrations, traditionally held around the country over the Memorial Day weekend, have been canceled due to the pandemic. So, here is a Fleet Week New York flashback, the Parade of Ships from 2011. We hope that … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

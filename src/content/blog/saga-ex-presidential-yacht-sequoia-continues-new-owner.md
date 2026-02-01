@@ -1,8 +1,8 @@
 ---
 title: "Saga of ex-Presidential Yacht Sequoia Continues with New Owner"
 date: 2016-11-15T16:28:20
-slug: saga-ex-presidential-yacht-sequoia-continues-new-owner
-excerpt: "The National Historic Landmark and ex-presidential yacht Sequoia has fallen on hard times. In a recent ruling, Delaware judge Sam Glasscock describes her current condition. “The Sequoia, an elderly and vulnerable wooden yacht, is sitting on an inadequate cradle on an … Continue reading &rarr;"
+slug: "saga-ex-presidential-yacht-sequoia-continues-new-owner"
+excerpt: "The National Historic Landmark and ex-presidential yacht Sequoia has fallen on hard times. In a recent ruling, Delaware judge Sam Glasscock describes her current condition. \"The Sequoia, an elderly and vulnerable wooden yacht, is sitting on an inadequate cradle on an … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "Sequoia"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/sequoia200.jpg"
 author: "Rick Spilman"
-description: "The National Historic Landmark and ex-presidential yacht Sequoia has fallen on hard times. In a recent ruling, Delaware judge Sam Glasscock describes her current condition. “The Sequoia, an elderly and vulnerable wooden yacht, is sitting on an inadequate cradle on an … Continue reading &rarr;"
+description: "The National Historic Landmark and ex-presidential yacht Sequoia has fallen on hard times. In a recent ruling, Delaware judge Sam Glasscock describes her current condition. \"The Sequoia, an elderly and vulnerable wooden yacht, is sitting on an inadequate cradle on an … Continue reading &rarr;"
 ---
 
 ![sequoia1](http://www.oldsaltblog.com/wp-content/uploads/2016/11/sequoia1.jpg)The National Historic Landmark and ex-presidential yacht [*Sequoia*](https://en.wikipedia.org/wiki/USS_Sequoia_\(presidential_yacht\)) has fallen on hard times. [In a recent ruling,](http://www.nytimes.com/aponline/2016/11/14/us/ap-us-presidential-yacht-lawsuit.html?ref=news&_r=0) Delaware judge Sam Glasscock describes her current condition. “*The Sequoia, an elderly and vulnerable wooden yacht, is sitting on an inadequate cradle on an undersized marine railway in a moribund boatyard on the western shore of the Chesapeake, deteriorating and, lately, home to raccoons.*”  The judge awarded ownership of the yacht to [FE Partners](http://www.fepartnersllc.com/), a Washington based investment firm backed by an Indian investor.  

@@ -1,7 +1,7 @@
 ---
 title: "HMS Astute Towed Back to Port After Hydraulics Failure"
 date: 2011-05-09T15:37:53
-slug: hms-astute-towed-back-to-port-after-hydraulics-failure
+slug: "hms-astute-towed-back-to-port-after-hydraulics-failure"
 excerpt: "HMS Astute, the Royal Navy’s most advanced  nuclear submarine, was delivered 43 months behind schedule and £900 million over budget.   Then during trials in October,  it  ran aground off the Isle of Skye.   It was also in a collision … Continue reading &rarr;"
 categories:
   - "Current"

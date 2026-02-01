@@ -1,7 +1,7 @@
 ---
 title: "Captain Mary’s Story Hour on the Cutter Lilac & Rides on the Fireboat John J Harvey"
 date: 2015-08-07T16:45:16
-slug: captain-marys-story-hour-on-the-cutter-lilac-rides-on-the-fireboat-john-j-harvey
+slug: "captain-marys-story-hour-on-the-cutter-lilac-rides-on-the-fireboat-john-j-harvey"
 excerpt: "If you are anywhere near the lower Hudson River this Sunday, August 9th, be sure to stop by the Cutter Lilac for Captain Mary’s Story Hour, a family event for all ages, from 10:30 AM to 1:15 PM. Mary Habstritt, … Continue reading &rarr;"
 categories:
   - "City of Ships"

@@ -1,8 +1,8 @@
 ---
 title: "Berths Available on TS Pelican from Liverpool to the West Indies Next September"
 date: 2012-01-03T12:26:29
-slug: berths-available-on-ts-pelican-from-liverpool-to-the-west-indies-next-september
-excerpt: "The headline in the Liverpool Daily Post reads, “Places available on first Liverpool transatlantic tall ship voyage for more than 100 years.”   Whether this is literally true or not, the trip looks very interesting for a number of reasons. The three-masted barquentine Pelican … Continue reading &rarr;"
+slug: "berths-available-on-ts-pelican-from-liverpool-to-the-west-indies-next-september"
+excerpt: "The headline in the Liverpool Daily Post reads, \"Places available on first Liverpool transatlantic tall ship voyage for more than 100 years.\"   Whether this is literally true or not, the trip looks very interesting for a number of reasons. The three-masted barquentine Pelican … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "TS Pelican"
   - "West Indies"
 author: "Rick Spilman"
-description: "The headline in the Liverpool Daily Post reads, “Places available on first Liverpool transatlantic tall ship voyage for more than 100 years.”   Whether this is literally true or not, the trip looks very interesting for a number of reasons. The three-masted barquentine Pelican … Continue reading &rarr;"
+description: "The headline in the Liverpool Daily Post reads, \"Places available on first Liverpool transatlantic tall ship voyage for more than 100 years.\"   Whether this is literally true or not, the trip looks very interesting for a number of reasons. The three-masted barquentine Pelican … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/pelican1.jpg)The headline in the Liverpool Daily Post reads, “[Places available on first Liverpool transatlantic tall ship voyage for more than 100 years](http://www.liverpooldailypost.co.uk/liverpool-news/regional-news/2012/01/03/places-available-on-first-liverpool-transatlantic-tall-ship-voyage-for-more-than-100-years-92534-30049505/).”   Whether this is literally true or not, the trip looks very interesting for a number of reasons. The three-masted barquentine *[Pelican](http://www.adventureundersail.com/index.html)* will sail from the River Mersey with 28 passengers on a crossing from Liverpool to the West Indies on September 22.  *Pelican* is operated by [Adventure Under Sail Ltd.](http://www.adventureundersail.com/index.html)  

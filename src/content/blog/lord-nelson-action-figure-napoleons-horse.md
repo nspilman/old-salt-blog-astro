@@ -1,8 +1,8 @@
 ---
 title: "Lord Nelson Action Figure & Napoleon’s Horse"
 date: 2013-03-20T15:42:02
-slug: lord-nelson-action-figure-napoleons-horse
-excerpt: "Accomplished historian and archivist, Allan Janus has reviewed the Lord Nelson action figure now available on Amazon.  His review: “An excellent action figure of Horatio, Viscount Nelson – complete with sword, eyepatch, empty sleeve and chelengk. The one minor negative is that Nelson’s stance is quite … Continue reading &rarr;"
+slug: "lord-nelson-action-figure-napoleons-horse"
+excerpt: "Accomplished historian and archivist, Allan Janus has reviewed the Lord Nelson action figure now available on Amazon.  His review: \"An excellent action figure of Horatio, Viscount Nelson – complete with sword, eyepatch, empty sleeve and chelengk. The one minor negative is that Nelson’s stance is quite … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Lord Nelson action figure"
   - "Napoleon's Horse"
 author: "Rick Spilman"
-description: "Accomplished historian and archivist, Allan Janus has reviewed the Lord Nelson action figure now available on Amazon.  His review: “An excellent action figure of Horatio, Viscount Nelson – complete with sword, eyepatch, empty sleeve and chelengk. The one minor negative is that Nelson’s stance is quite … Continue reading &rarr;"
+description: "Accomplished historian and archivist, Allan Janus has reviewed the Lord Nelson action figure now available on Amazon.  His review: \"An excellent action figure of Horatio, Viscount Nelson – complete with sword, eyepatch, empty sleeve and chelengk. The one minor negative is that Nelson’s stance is quite … Continue reading &rarr;"
 ---
 
 ![lordnelson](http://www.oldsaltblog.com/wp-content/uploads/2013/03/lordnelson.jpg)Accomplished historian and archivist, Allan Janus has reviewed the [Lord Nelson action figure](http://www.amazon.com/Papo-39741-Lord-Nelson/dp/B000628130/ref=cm_cr_pr_product_top) now available on Amazon.  His review:

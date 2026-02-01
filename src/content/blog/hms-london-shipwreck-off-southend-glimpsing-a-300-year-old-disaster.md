@@ -1,7 +1,7 @@
 ---
 title: "HMS London Shipwreck — Glimpsing a 300 Year Old Disaster"
 date: 2014-07-26T15:21:27
-slug: hms-london-shipwreck-off-southend-glimpsing-a-300-year-old-disaster
+slug: "hms-london-shipwreck-off-southend-glimpsing-a-300-year-old-disaster"
 excerpt: "In 1665, HMS London, a 64-gun second-rate ship of the line of the English Royal Navy, exploded in the Thames Estuary off Southend.  Recent dives on the wreck have recovered a wide range of artifacts and remains.  As reported by the … Continue reading &rarr;"
 categories:
   - "Current"

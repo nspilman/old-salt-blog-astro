@@ -1,7 +1,7 @@
 ---
 title: "Japanese Tanker Shoko Maru Explodes and Burns, One Missing, Seven Injured"
 date: 2014-05-29T09:43:05
-slug: japanese-tanker-shoko-maru-explodes-and-burns-one-missing-seven-injured
+slug: "japanese-tanker-shoko-maru-explodes-and-burns-one-missing-seven-injured"
 excerpt: "UPDATE: Between the effects of the explosion, fire, and water put aboard in firefighting the Shoko Maru subsequently sank. The 2,242 DWT Japanese product tanker, Shoko Maru, exploded and caught fire Thursday morning, local time, while anchored about 5 kilometers off … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

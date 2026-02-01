@@ -1,7 +1,7 @@
 ---
 title: "Inflated Wing Sail — Rig of the Future?"
 date: 2017-09-04T08:00:12
-slug: inflated-wing-sail-rig-future
+slug: "inflated-wing-sail-rig-future"
 excerpt: "Here is a fascinating new approach to the design of a mast and sail. The developers at Next Technologies claim that their Inflated Wing Sail (IWS) is stable in every wind conditions and offers a smooth balanced new way of … Continue reading &rarr;"
 categories:
   - "Current"

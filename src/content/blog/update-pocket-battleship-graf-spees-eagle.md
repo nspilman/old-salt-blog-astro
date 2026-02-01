@@ -1,7 +1,7 @@
 ---
 title: "Update: Battle over the Pocket Battleship Graf Spee’s Nazi Eagle"
 date: 2016-02-26T11:33:03
-slug: update-pocket-battleship-graf-spees-eagle
+slug: "update-pocket-battleship-graf-spees-eagle"
 excerpt: "What has been referred to as the Second Battle of the River Platte, may be coming to an end. In 2010, we posted about a legal battle over the salvaging of the German pocket battleship Admiral Graf Spee which was scuttled … Continue reading &rarr;"
 categories:
   - "Current"

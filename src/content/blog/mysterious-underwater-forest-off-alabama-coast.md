@@ -1,7 +1,7 @@
 ---
 title: "Mysterious Underwater Forest off Alabama Coast"
 date: 2017-07-11T14:44:58
-slug: mysterious-underwater-forest-off-alabama-coast
+slug: "mysterious-underwater-forest-off-alabama-coast"
 excerpt: "In the Gulf of Mexico, off the coast of Alabama, divers have discovered an underwater forest rising out of the sediment, 60 feet below the surface. Ben Raines — an environmental reporter for the Mobile Press Register, told the Washington … Continue reading &rarr;"
 categories:
   - "Current"

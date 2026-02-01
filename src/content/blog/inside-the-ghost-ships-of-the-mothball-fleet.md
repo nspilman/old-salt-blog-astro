@@ -1,7 +1,7 @@
 ---
 title: "Inside the Ghost Ships of the Mothball Fleet"
 date: 2011-06-09T16:09:45
-slug: inside-the-ghost-ships-of-the-mothball-fleet
+slug: "inside-the-ghost-ships-of-the-mothball-fleet"
 excerpt: "Photographer Scott Haefner and a few of his friends snuck aboard ships in the Suisan Bay Reserve Fleet near San Francisco, CA and photographed and documented the rusting fleet.  Fascinating images.  The Mail Online ran an article today about his work.  For more images, see Haefner’s site: … Continue reading &rarr;"
 categories:
   - "Current"

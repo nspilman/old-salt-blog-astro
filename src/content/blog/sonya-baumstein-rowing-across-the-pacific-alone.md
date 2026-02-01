@@ -1,7 +1,7 @@
 ---
 title: "Sonya Baumstein Rowing Across the Pacific Alone"
 date: 2015-05-21T09:00:35
-slug: sonya-baumstein-rowing-across-the-pacific-alone
+slug: "sonya-baumstein-rowing-across-the-pacific-alone"
 excerpt: "In 2012, Sonya Baumstein, biked from Mexico to San Francisco. In 2013 she used a standup paddleboard to travel across the Bering Strait. In the winter of 2011, she rowed 2,600 miles with three male rowers from Spain to Barbados. She … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

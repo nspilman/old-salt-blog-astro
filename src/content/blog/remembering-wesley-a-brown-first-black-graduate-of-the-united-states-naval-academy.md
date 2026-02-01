@@ -1,7 +1,7 @@
 ---
 title: "Remembering Wesley A. Brown — First Black Graduate of the United States Naval Academy"
 date: 2025-02-24T22:42:20
-slug: remembering-wesley-a-brown-first-black-graduate-of-the-united-states-naval-academy
+slug: "remembering-wesley-a-brown-first-black-graduate-of-the-united-states-naval-academy"
 excerpt: "In honor of Black History Month and in light of current events, it seems especially worthwhile to remember the pioneering career of Wesley A. Brown, who endured intense racial harassment to become the first black graduate of the United States … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

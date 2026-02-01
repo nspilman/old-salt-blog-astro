@@ -1,7 +1,7 @@
 ---
 title: "Very Large Tankers Sailing on Wind and Bubbles of Air"
 date: 2020-05-23T11:39:09
-slug: very-large-tankers-sailing-on-wind-and-bubbles-of-air
+slug: "very-large-tankers-sailing-on-wind-and-bubbles-of-air"
 excerpt: "China Merchants Group has recently signed a contract with China Shipbuilding for two Very Large Crude Carriers (VLCCs) that will sail, powered, in part, by the wind while gliding on a cushion of air bubbles. The two 300,000 DWT tankers … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

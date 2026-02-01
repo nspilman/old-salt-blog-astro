@@ -1,7 +1,7 @@
 ---
 title: "Return to the Mariana Trench – Teams Racing to Dive 6 NM Down"
 date: 2012-02-24T17:00:30
-slug: return-to-the-mariana-trench-teams-racing-to-dive-6-miles-down
+slug: "return-to-the-mariana-trench-teams-racing-to-dive-6-miles-down"
 excerpt: "Fifty two years ago, U.S. Navy Lieutenant Don Walsh and oceanographer Jacques Piccard dove to the bottom of the Mariana Trench in the bathyscaphe Trieste. They were the first, and so far, the only humans to have ventured to the deepest … Continue reading &rarr;"
 categories:
   - "Current"

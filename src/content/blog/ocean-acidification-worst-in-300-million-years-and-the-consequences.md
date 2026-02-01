@@ -1,7 +1,7 @@
 ---
 title: "Ocean Acidification – Worst in 300 Million Years and the Consequences"
 date: 2012-03-02T15:04:20
-slug: ocean-acidification-worst-in-300-million-years-and-the-consequences
+slug: "ocean-acidification-worst-in-300-million-years-and-the-consequences"
 excerpt: "Two recent articles suggest a grim future if ocean acidification is allowed  to  continue  at current rates. Oceans absorb much of the carbon in the atmosphere and as we increase atmospheric CO2, the oceans grow progressively more acidic. A new study published in Science suggest that ocean acidification … Continue reading &rarr;"
 categories:
   - "Current"

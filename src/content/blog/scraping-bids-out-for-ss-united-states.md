@@ -1,7 +1,7 @@
 ---
 title: "Scraping bids out for SS United States"
 date: 2010-03-03T11:11:14
-slug: scraping-bids-out-for-ss-united-states
+slug: "scraping-bids-out-for-ss-united-states"
 excerpt: "Yesterday we posted that the Independence Seaport Museum doesn’t have the money to support the upkeep of the USS Olympia nor does it have the money to dredge the channel to tow her away.  On the other side of the … Continue reading &rarr;"
 categories:
   - "Current"

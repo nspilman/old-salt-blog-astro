@@ -1,7 +1,7 @@
 ---
 title: "Wakashio Oil Spill Off Mauritius Turns Deadly As Tug Sinks — 3 Dead, 1 Missing"
 date: 2020-09-02T09:42:49
-slug: wakashio-oil-spill-off-mauritius-turns-deadly-as-tug-sinks-3-dead-1-missing
+slug: "wakashio-oil-spill-off-mauritius-turns-deadly-as-tug-sinks-3-dead-1-missing"
 excerpt: "The ongoing cleanup following the fuel oil spill from the grounded bulk carrier Wakashio off Mauritius turned deadly when a tug assisting in the effort sank after colliding with an oil barge. The tug Sir Gaetan Duval had a crew … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

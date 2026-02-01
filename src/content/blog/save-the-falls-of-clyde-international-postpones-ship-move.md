@@ -1,7 +1,7 @@
 ---
 title: "Save the Falls of Clyde International Postpones Ship Move"
 date: 2019-01-07T15:57:41
-slug: save-the-falls-of-clyde-international-postpones-ship-move
+slug: "save-the-falls-of-clyde-international-postpones-ship-move"
 excerpt: "The effort to save the Falls of Clyde has suffered at least a temporary setback. Last November, we posted about an announcement by the Save the Falls of Clyde — International, a group endeavoring to move the Falls of Clyde, the last surviving iron-hulled, … Continue reading &rarr;"
 categories:
   - "Current"

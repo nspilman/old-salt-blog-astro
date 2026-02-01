@@ -1,7 +1,7 @@
 ---
 title: "Update: Matt Rutherford and the Wolfhound – Swan 48 Still Adrift Despite Salvage Attempt"
 date: 2013-09-10T08:00:38
-slug: update-matt-rutherford-and-the-wolfhound-swan-48-still-adrift-despite-salvage-attempt
+slug: "update-matt-rutherford-and-the-wolfhound-swan-48-still-adrift-despite-salvage-attempt"
 excerpt: "In April we posted about a drifting Nautor Swan 48 sailboat named Wolfhound which had been abandoned in a storm just north of Bermuda in February by her owner, Alan McGettigan, and a crew of three. Initially, the boat was … Continue reading &rarr;"
 categories:
   - "Current"

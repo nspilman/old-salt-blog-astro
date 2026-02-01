@@ -1,8 +1,8 @@
 ---
 title: "15-Year-Old Maya Merhige Swims 28.5 Miles Around the Island of Manhattan"
 date: 2023-07-24T17:06:02
-slug: 15-year-old-maya-merhige-swims-28-5-miles-around-the-island-of-manhattan
-excerpt: "CNBC reports that Maya Merhige, a 15-year-old from Berkeley, California, successfully swam around the entire island of Manhattan in eight hours and 43 minutes on July 15th,  becoming only the third person her age to complete the “20 Bridges Swim,” … Continue reading &rarr;"
+slug: "15-year-old-maya-merhige-swims-28-5-miles-around-the-island-of-manhattan"
+excerpt: "CNBC reports that Maya Merhige, a 15-year-old from Berkeley, California, successfully swam around the entire island of Manhattan in eight hours and 43 minutes on July 15th,  becoming only the third person her age to complete the \"20 Bridges Swim,\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Maya Merhige"
   - "Swim Across America"
 author: "Rick Spilman"
-description: "CNBC reports that Maya Merhige, a 15-year-old from Berkeley, California, successfully swam around the entire island of Manhattan in eight hours and 43 minutes on July 15th,  becoming only the third person her age to complete the “20 Bridges Swim,” … Continue reading &rarr;"
+description: "CNBC reports that Maya Merhige, a 15-year-old from Berkeley, California, successfully swam around the entire island of Manhattan in eight hours and 43 minutes on July 15th,  becoming only the third person her age to complete the \"20 Bridges Swim,\" … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/07/20bridges.jpg)[CNBC](https://www.cnbc.com/2023/07/20/15-year-old-swam-28-miles-around-manhattan-for-cancer-research.html) reports that Maya Merhige, a 15-year-old from Berkeley, California, successfully swam around the entire island of Manhattan in eight hours and 43 minutes on July 15th,  becoming only the third person her age to complete the “20 Bridges Swim,” named for the bridges that swimmers pass under during their journey.

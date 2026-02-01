@@ -1,7 +1,7 @@
 ---
 title: "The Defecating Dog as Compass"
 date: 2014-01-03T17:36:41
-slug: the-defecating-dog-as-compass
+slug: "the-defecating-dog-as-compass"
 excerpt: "I am surprised that the Vikings didn’t discover this first.  The Vikings did, after all, develop a sun compass for use on sunny days and used sunstones to find the direction of the sun when it was overcast.  One might … Continue reading &rarr;"
 categories:
   - "Current"

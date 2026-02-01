@@ -1,7 +1,7 @@
 ---
 title: "Russia May Finally Scrap its Smoking Aircraft Carrier with a Weak Heart, Admiral Kuznetsov"
 date: 2025-07-16T17:46:59
-slug: russia-may-finally-scrap-its-smoking-aircraft-carrier-with-a-weak-heart-admiral-kuznetsov
+slug: "russia-may-finally-scrap-its-smoking-aircraft-carrier-with-a-weak-heart-admiral-kuznetsov"
 excerpt: "There are reports that the Russian Navy may soon scrap its notional flagship, the aircraft carrier Admiral Kuznetsov. Since the 1990s, the Kuznetsov has been the only remaining aircraft carrier in the Russian fleet. Built in the final days of … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Perfect Wreck by Steven E. Maffeo – a review by Linda Collison"
 date: 2011-12-30T17:39:01
-slug: the-perfect-wreck-by-steven-e-maffeo-a-review-by-linda-collison
+slug: "the-perfect-wreck-by-steven-e-maffeo-a-review-by-linda-collison"
 excerpt: "Linda Collison, author of Surgeon’s Mate and Star-Crossed, recently reviewed Steven E. Maffeo‘s new book The Perfect Wreck – Old Ironsides and HMS Java: A Story of 1812 in her blog Sea of Words.  I enjoy reading Linda’s reviews almost as much … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

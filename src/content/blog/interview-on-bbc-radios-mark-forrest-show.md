@@ -1,7 +1,7 @@
 ---
 title: "Interview on BBC Radio’s Mark Forrest Show"
 date: 2015-04-15T18:57:12
-slug: interview-on-bbc-radios-mark-forrest-show
+slug: "interview-on-bbc-radios-mark-forrest-show"
 excerpt: "I was invited onto the Mark Forrest Show on BBC radio to discuss the history and importance of sea shanties. A quick five minute interview.   To hear more of the program, click here. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

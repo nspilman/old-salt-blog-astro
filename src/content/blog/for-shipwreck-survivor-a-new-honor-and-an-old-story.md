@@ -1,7 +1,7 @@
 ---
 title: "For shipwreck survivor, a new honor and an old story"
 date: 2010-09-17T11:49:10
-slug: for-shipwreck-survivor-a-new-honor-and-an-old-story
+slug: "for-shipwreck-survivor-a-new-honor-and-an-old-story"
 excerpt: "Lanier W. Phillips, comedian Bill Cosby and former Washington Redskins star and the Dallas Cowboys’ first starting quarterback, Eddie LeBaron, were honored Wednesday with the U.S. Navy Memorial’s Lone Sailor award.  I, of course,  know Bill Cosby and as a … Continue reading &rarr;"
 categories:
   - "Current"

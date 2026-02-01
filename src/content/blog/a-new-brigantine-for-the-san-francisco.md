@@ -1,7 +1,7 @@
 ---
 title: "A New Brigantine for San Francisco?"
 date: 2012-01-17T08:40:51
-slug: a-new-brigantine-for-the-san-francisco
+slug: "a-new-brigantine-for-the-san-francisco"
 excerpt: "Alan Olson, a Sausalito boat builder and founder of the educational sailing nonprofit Call of the Sea,  has some ambitious plans.  He wants to build a new 140-foot wood long brigantine to be used as a sail training ship for … Continue reading &rarr;"
 categories:
   - "Current"

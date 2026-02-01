@@ -1,7 +1,7 @@
 ---
 title: "NYC City of Water Day, July 15th"
 date: 2017-07-10T09:35:13
-slug: nyc-city-water-day-july-15th
+slug: "nyc-city-water-day-july-15th"
 excerpt: "This year’s City of Water Day hosted, by the Waterfront Alliance, will take place Saturday, July 15th, from 10 AM to 4 PM, on Governors Island in New York harbor as well as at neighborhood sites across the harbor. There will … Continue reading &rarr;"
 categories:
   - "City of Ships"

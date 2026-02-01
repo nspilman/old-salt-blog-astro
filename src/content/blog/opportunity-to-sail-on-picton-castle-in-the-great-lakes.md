@@ -1,7 +1,7 @@
 ---
 title: "Opportunity to Sail on Picton Castle in the Great Lakes"
 date: 2019-05-11T09:30:09
-slug: opportunity-to-sail-on-picton-castle-in-the-great-lakes
+slug: "opportunity-to-sail-on-picton-castle-in-the-great-lakes"
 excerpt: "Just returning from its seventh round the world voyage, the barque Picton Castle will set off again this summer bound for the Great Lakes to take part in the Tall Ships America’s Tall Ships Challenge — Great Lakes 2019.  The … Continue reading &rarr;"
 categories:
   - "Current"

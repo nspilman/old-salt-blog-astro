@@ -1,7 +1,7 @@
 ---
 title: "Update: SS Olympia – Stuck in Philadelphia by Sandbars and Scandal"
 date: 2010-03-02T08:24:50
-slug: update-ss-olympia-%e2%80%93-stuck-in-philadelphia-by-sandbars-and-scandal
+slug: "update-ss-olympia-%e2%80%93-stuck-in-philadelphia-by-sandbars-and-scandal"
 excerpt: "Recently we posted that the Independence Seaport Museum is seeking a new owner for the USS Olympia which it cannot afford to support.  See Philly Museum Sends SOS to Care for Historic Ship.   Sadly it appears that not only … Continue reading &rarr;"
 categories:
   - "Current"

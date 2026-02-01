@@ -1,7 +1,7 @@
 ---
 title: "In 1800s, Sperm Whales Learned to Avoid Whalers"
 date: 2021-04-06T17:34:49
-slug: in-1800s-sperm-whales-learned-to-avoid-whalers
+slug: "in-1800s-sperm-whales-learned-to-avoid-whalers"
 excerpt: "When American and British whaling ships hunted for sperm whales in the North Pacific in the early 1800s, they noted something disturbing. After initially good results, the whalers’ success in harpooning the whales fell by about 58% over the first … Continue reading &rarr;"
 categories:
   - "Current"

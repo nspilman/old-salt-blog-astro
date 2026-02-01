@@ -1,15 +1,15 @@
 ---
 title: "Why are the Big Boats Burning? More Than Just Superyachts at Risk"
 date: 2016-04-13T14:47:09
-slug: big-boats-burning
-excerpt: "The headlines in the UK Daily Mail and Bloomberg ask the same question — “Why Are All These Superyachts Catching on Fire?” This year has seen a string of fires on “superyachts.”  In early January, in the Mediterranean resort town … Continue reading &rarr;"
+slug: "big-boats-burning"
+excerpt: "The headlines in the UK Daily Mail and Bloomberg ask the same question — \"Why Are All These Superyachts Catching on Fire?\" This year has seen a string of fires on \"superyachts.\"  In early January, in the Mediterranean resort town … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
   - "fire"
   - "super yachts"
 author: "Rick Spilman"
-description: "The headlines in the UK Daily Mail and Bloomberg ask the same question — “Why Are All These Superyachts Catching on Fire?” This year has seen a string of fires on “superyachts.”  In early January, in the Mediterranean resort town … Continue reading &rarr;"
+description: "The headlines in the UK Daily Mail and Bloomberg ask the same question — \"Why Are All These Superyachts Catching on Fire?\" This year has seen a string of fires on \"superyachts.\"  In early January, in the Mediterranean resort town … Continue reading &rarr;"
 ---
 
 ![yachtfire](http://www.oldsaltblog.com/wp-content/uploads/2016/04/yachtfire.jpg)The headlines in the [UK Daily Mail](http://www.dailymail.co.uk/news/article-3535984/Why-super-yachts-catching-fire-Mystery-following-spate-luxury-vessels-erupting-flames-harbours-world.html) and [Bloomberg](http://www.bloomberg.com/news/articles/2016-04-11/why-are-all-these-superyachts-catching-on-fire) ask the same question — “Why Are All These Superyachts Catching on Fire?” This year has seen a string of fires on “superyachts.”  In early January, in the Mediterranean resort town of Marmaris, Turkey, a fire broke out on the [239′ yacht *The One* before spreading to the 170′ yacht *Barbie*](http://www.dailymail.co.uk/travel/travel_news/article-3385181/Superyachts-destroyed-fire-Marmaris-Turkey.html).  Later in January, the [95′ yacht *Queen Anna*](https://www.rt.com/news/329922-russian-yacht-fire-turkey/) was destroyed by fire at a marina in Fethiye, Turkey.  In early March, a [fire broke out at the Abu Dhabi Marina Yacht Club](http://www.superyachttimes.com/yacht-news/fire-destroys-yachts-in-abu-dhabi/), destroying eight yachts, three of which were over 90′ long, including the 101′ yacht *Asfar.* Also in March the [77′ yacht](http://www.dailymail.co.uk/news/article-3494953/2-5million-goes-flames-Shocking-video-shows-luxury-yacht-engulfed-massive-blaze-Virgin-Islands.html) *[Positive Energy](http://www.dailymail.co.uk/news/article-3494953/2-5million-goes-flames-Shocking-video-shows-luxury-yacht-engulfed-massive-blaze-Virgin-Islands.html)* went up in flames at Charlotte Amalie harbor on St Thomas, in the Virgin Islands.

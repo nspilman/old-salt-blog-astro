@@ -1,7 +1,7 @@
 ---
 title: "Sailing for Couch Potatoes – America’s Cup World Series Finale on NBC"
 date: 2012-06-28T08:24:21
-slug: sailing-for-couch-potatoes-americas-cup-world-series-finale-on-nbc
+slug: "sailing-for-couch-potatoes-americas-cup-world-series-finale-on-nbc"
 excerpt: "Back in the old days, the America’s Cup was sailed in 12 Meter yachts in the often misty light air of Rhode Island Sound.  It was a competition more suited to still photography than video.  How times have changed.  Now elimination matches are being sailed in … Continue reading &rarr;"
 categories:
   - "Current"

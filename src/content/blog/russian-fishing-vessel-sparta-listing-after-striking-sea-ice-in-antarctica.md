@@ -1,7 +1,7 @@
 ---
 title: "Russian Fishing Vessel Sparta Listing After Striking Sea Ice in Antarctica"
 date: 2011-12-16T10:28:48
-slug: russian-fishing-vessel-sparta-listing-after-striking-sea-ice-in-antarctica
+slug: "russian-fishing-vessel-sparta-listing-after-striking-sea-ice-in-antarctica"
 excerpt: "The 157 feet long Russian fishing vessel, Sparta, with a crew of 32 aboard, was holed below the waterline after striking sea ice in the Ross Sea off Antarctica early Friday morning.  The vessel is reporting have a one foot hole, five feet … Continue reading &rarr;"
 categories:
   - "Current"

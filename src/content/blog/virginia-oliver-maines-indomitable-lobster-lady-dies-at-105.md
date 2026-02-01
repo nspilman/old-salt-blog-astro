@@ -1,8 +1,8 @@
 ---
 title: "Virginia Oliver, Maine’s Indomitable Lobster Lady, Dies at 105"
 date: 2026-01-26T17:24:01
-slug: virginia-oliver-maines-indomitable-lobster-lady-dies-at-105
-excerpt: "Virginia ” Ginny” Oliver has hauled her last lobster pot. Widely known as  Maine’s “Lobster Lady,” she died quietly at age 105. Oliver began lobstering at age 8 alongside her father and older brother and spent over a century hauling … Continue reading &rarr;"
+slug: "virginia-oliver-maines-indomitable-lobster-lady-dies-at-105"
+excerpt: "Virginia \" Ginny\" Oliver has hauled her last lobster pot. Widely known as  Maine’s \"Lobster Lady,\" she died quietly at age 105. Oliver began lobstering at age 8 alongside her father and older brother and spent over a century hauling … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Virginia Oliver"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2026/01/Ginnyoliver.jpg"
 author: "Rick Spilman"
-description: "Virginia ” Ginny” Oliver has hauled her last lobster pot. Widely known as  Maine’s “Lobster Lady,” she died quietly at age 105. Oliver began lobstering at age 8 alongside her father and older brother and spent over a century hauling … Continue reading &rarr;"
+description: "Virginia \" Ginny\" Oliver has hauled her last lobster pot. Widely known as  Maine’s \"Lobster Lady,\" she died quietly at age 105. Oliver began lobstering at age 8 alongside her father and older brother and spent over a century hauling … Continue reading &rarr;"
 ---
 
 ![](https://oldsaltblog.com/wp-content/uploads/2026/01/Ginnyoliver.jpg)  

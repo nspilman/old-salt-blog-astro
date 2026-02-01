@@ -1,7 +1,7 @@
 ---
 title: "UK and Major Container Ship Lines Ban Russian Cargo and Ships Over Ukrainian Invasion"
 date: 2022-03-01T13:25:03
-slug: uk-and-major-container-ship-lines-ban-russian-cargo-and-ships-over-ukrainian-invasion
+slug: "uk-and-major-container-ship-lines-ban-russian-cargo-and-ships-over-ukrainian-invasion"
 excerpt: "The impact of Russian sanctions is spreading across the shipping industry. Yesterday, Britain announced that Russian ships would be banned from UK ports as part of a new package of sanctions against Russia. Transport Secretary Grant Shapps said that he … Continue reading &rarr;"
 categories:
   - "Current"

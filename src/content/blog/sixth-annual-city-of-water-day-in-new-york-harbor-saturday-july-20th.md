@@ -1,7 +1,7 @@
 ---
 title: "Sixth Annual City of Water Day in New York Harbor – Saturday July 20th"
 date: 2013-07-16T13:59:25
-slug: sixth-annual-city-of-water-day-in-new-york-harbor-saturday-july-20th
+slug: "sixth-annual-city-of-water-day-in-new-york-harbor-saturday-july-20th"
 excerpt: "This weekend, the Metropolitan Waterfront Alliance City of Water Day will be sponsoring celebrations and activities all around the harbor.  Festivities will be held at Governor’s Island, New York and in Liberty State Park on the New Jersey side as well at 25 … Continue reading &rarr;"
 categories:
   - "Current"

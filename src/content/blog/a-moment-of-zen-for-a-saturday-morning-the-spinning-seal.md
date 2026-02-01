@@ -1,7 +1,7 @@
 ---
 title: "A Moment of Zen for a Saturday Morning – the Spinning Seal"
 date: 2013-04-13T09:24:13
-slug: a-moment-of-zen-for-a-saturday-morning-the-spinning-seal
+slug: "a-moment-of-zen-for-a-saturday-morning-the-spinning-seal"
 excerpt: "A moment of zen for a Saturday morning.  Thanks to Steve Phelps for pointing it out on Facebook. Spinning Seal … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

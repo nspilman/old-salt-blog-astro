@@ -1,7 +1,7 @@
 ---
 title: "Another Container Ship Cracking – MSC Monterey Anchored off Newfoundland"
 date: 2013-12-30T12:30:12
-slug: another-container-ship-cracking-msc-monterey-anchored-off-newfoundland
+slug: "another-container-ship-cracking-msc-monterey-anchored-off-newfoundland"
 excerpt: "MSC Monterey, a 4,892 TEU container ship, was bound from the Belgium port of Antwerp to Newark, NJ, but diverted to Newfoundland after cracks in her hull were discovered. The ship is now at anchor south of Newfoundland, near Trepassey … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
-title: "A Virtual Visit to Null Island — “Like No Place on Earth”"
+title: "A Virtual Visit to Null Island — \"Like No Place on Earth\""
 date: 2019-01-01T18:00:07
-slug: a-virtual-visit-to-null-island-like-no-place-on-earth
+slug: "a-virtual-visit-to-null-island-like-no-place-on-earth"
 excerpt: "Yesterday, we posted about a ship which allegedly crossed the International Date Line and the equator at exactly the right time. Today, we will look at the other side of the globe, where the Prime Meridian crosses the equator, to the crowded, yet … Continue reading &rarr;"
 categories:
   - "Current"

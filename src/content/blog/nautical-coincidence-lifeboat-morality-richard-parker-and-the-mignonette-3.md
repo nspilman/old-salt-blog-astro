@@ -1,8 +1,8 @@
 ---
 title: "Nautical Coincidence & Lifeboat Morality – Richard Parker and the Mignonette"
 date: 2022-04-20T10:03:12
-slug: nautical-coincidence-lifeboat-morality-richard-parker-and-the-mignonette-3
-excerpt: "Here is another old favorite, a companion repost to yesterday’s repost of “The Unsinkable Hugh Williams – Truth Behind the Legend?” We recently posted in response to a video, “The Strangest Coincidence Ever Recorded?.”  It recounted how three men named Hugh … Continue reading &rarr;"
+slug: "nautical-coincidence-lifeboat-morality-richard-parker-and-the-mignonette-3"
+excerpt: "Here is another old favorite, a companion repost to yesterday’s repost of \"The Unsinkable Hugh Williams – Truth Behind the Legend?\" We recently posted in response to a video, \"The Strangest Coincidence Ever Recorded?.\"  It recounted how three men named Hugh … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -18,7 +18,7 @@ tags:
   - "Yann Martel"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/minionette.jpg"
 author: "Rick Spilman"
-description: "Here is another old favorite, a companion repost to yesterday’s repost of “The Unsinkable Hugh Williams – Truth Behind the Legend?” We recently posted in response to a video, “The Strangest Coincidence Ever Recorded?.”  It recounted how three men named Hugh … Continue reading &rarr;"
+description: "Here is another old favorite, a companion repost to yesterday’s repost of \"The Unsinkable Hugh Williams – Truth Behind the Legend?\" We recently posted in response to a video, \"The Strangest Coincidence Ever Recorded?.\"  It recounted how three men named Hugh … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/minionette.jpg)Here is another old favorite, a companion repost to yesterday’s repost of [“The Unsinkable Hugh Williams – Truth Behind the Legend?”](http://www.oldsaltblog.com/2018/10/the-unsinkable-hugh-williams-truth-behind-the-legend-2/)

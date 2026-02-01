@@ -1,13 +1,13 @@
 ---
 title: "Old Orchard Shoals Light Swept Away by Superstorm Sandy"
 date: 2012-11-09T08:58:24
-slug: old-orchard-shoals-light-swept-away-by-superstorm-sandy
+slug: "old-orchard-shoals-light-swept-away-by-superstorm-sandy"
 excerpt: "The United States Coast Guard Notice to Mariners reads simply – Old Orchard Shoals Light  STRUCT DEST. The Old Orchard Shoals Light was built in 1893 in New York’s outer harbor off Staten Island near Great Kills Beach. The 51-foot tall cast … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - ""superstorm" Sandy"
+  - "\"superstorm\" Sandy"
   - "new york harbor"
   - "Old Orchard Shoals Light"
 author: "Rick Spilman"

@@ -1,7 +1,7 @@
 ---
 title: "HMS Prince of Wales Crippled by Misaligned Propeller Shaft"
 date: 2023-05-21T18:09:36
-slug: hms-prince-of-wales-crippled-by-misaligned-propeller-shaft
+slug: "hms-prince-of-wales-crippled-by-misaligned-propeller-shaft"
 excerpt: "We now have the answer why the  Royal Navy’s newest aircraft carrier, HMS Prince of Wales, broke down off the Isle of Wight, in late August 2022.  The external shaft coupling on the starboard propeller shaft failed, resulting in serious damage … Continue reading &rarr;"
 categories:
   - "Current"

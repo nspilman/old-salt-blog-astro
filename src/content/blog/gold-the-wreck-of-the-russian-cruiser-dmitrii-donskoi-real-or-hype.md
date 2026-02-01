@@ -1,7 +1,7 @@
 ---
 title: "Gold & the Wreck of the Russian Cruiser Dmitrii Donskoi — Real or Hype?"
 date: 2018-07-19T14:40:51
-slug: gold-the-wreck-of-the-russian-cruiser-dmitrii-donskoi-real-or-hype
+slug: "gold-the-wreck-of-the-russian-cruiser-dmitrii-donskoi-real-or-hype"
 excerpt: "Salvors have announced the discovery of the wreck of the Russian armored cruiser, Dmitrii Donskoi, which was scuttled in 1905 during the Russo-Japanese War following the Battle of Tsushima. The wreck was found in 1,400 feet of water about one … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday US Navy, Not to be Confused with Navy Day or the Founding of the Navy"
 date: 2014-10-13T17:42:17
-slug: happy-birthday-us-navy-not-to-be-confused-with-navy-day-or-the-founding-of-the-navy
+slug: "happy-birthday-us-navy-not-to-be-confused-with-navy-day-or-the-founding-of-the-navy"
 excerpt: "Happy 239th birthday to the United States Navy! On Friday, October 13, 1775, the Continental Congress voted to fit out two armed sailing vessels to cruise to attempt to seize arms and stores from Royal Navy transports. The rebel forces were … Continue reading &rarr;"
 categories:
   - "Current"

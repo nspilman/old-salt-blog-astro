@@ -1,7 +1,7 @@
 ---
 title: "Tim Severin and the Voyage of St. Brendan"
 date: 2022-03-17T17:31:02
-slug: tim-severin-and-the-voyage-of-st-brendan
+slug: "tim-severin-and-the-voyage-of-st-brendan"
 excerpt: "On St. Patrick’s Day, a post about another Irish saint, St. Brendan the Navigator, and the adventurer who sought to replicate his epic voyage. Who was the first European to sail to North America? According to Irish tradition, it was … Continue reading &rarr;"
 categories:
   - "Current"

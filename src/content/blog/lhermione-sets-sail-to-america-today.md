@@ -1,7 +1,7 @@
 ---
 title: "l’Hermione Sets Sail To America Today"
 date: 2015-04-18T12:42:29
-slug: lhermione-sets-sail-to-america-today
+slug: "lhermione-sets-sail-to-america-today"
 excerpt: "Today the replica frigate l’Hermione will sail from its mooring off the small island of Aix on the west of France, and navigate up the Charente river to the historic naval town of Rochefort, before setting out across the Atlantic to … Continue reading &rarr;"
 categories:
   - "Current"

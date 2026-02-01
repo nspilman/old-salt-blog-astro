@@ -1,8 +1,8 @@
 ---
 title: "Containership Cruising?"
 date: 2011-03-01T16:10:17
-slug: containership-cruising
-excerpt: "I have seen this item a couple of times and am finally convinced that it is not a spoof.  Apparently CMA CGM, the world’s third largest container shipping group, is offering a “Cargo cruise” onboard their largest containerships. Travel Aboard One of the Largest … Continue reading &rarr;"
+slug: "containership-cruising"
+excerpt: "I have seen this item a couple of times and am finally convinced that it is not a spoof.  Apparently CMA CGM, the world’s third largest container shipping group, is offering a \"Cargo cruise\" onboard their largest containerships. Travel Aboard One of the Largest … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "CMA CGM Group"
   - "containership"
 author: "Rick Spilman"
-description: "I have seen this item a couple of times and am finally convinced that it is not a spoof.  Apparently CMA CGM, the world’s third largest container shipping group, is offering a “Cargo cruise” onboard their largest containerships. Travel Aboard One of the Largest … Continue reading &rarr;"
+description: "I have seen this item a couple of times and am finally convinced that it is not a spoof.  Apparently CMA CGM, the world’s third largest container shipping group, is offering a \"Cargo cruise\" onboard their largest containerships. Travel Aboard One of the Largest … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/cgmchristofor.jpg)

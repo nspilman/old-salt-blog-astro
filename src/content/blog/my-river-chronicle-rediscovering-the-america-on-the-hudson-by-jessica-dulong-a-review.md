@@ -1,7 +1,7 @@
 ---
 title: "My River Chronicle – Rediscovering the America on the Hudson by Jessica DuLong – a Review"
 date: 2009-11-09T11:17:40
-slug: my-river-chronicle-rediscovering-the-america-on-the-hudson-by-jessica-dulong-a-review
+slug: "my-river-chronicle-rediscovering-the-america-on-the-hudson-by-jessica-dulong-a-review"
 excerpt: "My River Chronicle – Rediscovering the America on the Hudson, is a fascinating voyage in the life of a young woman, who finds herself oddly quite at home in a most unlikely new job. It is also a journey through … Continue reading &rarr;"
 categories:
   - "Reviews"

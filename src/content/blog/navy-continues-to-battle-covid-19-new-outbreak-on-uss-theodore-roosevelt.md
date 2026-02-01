@@ -1,7 +1,7 @@
 ---
 title: "Navy Continues to Battle Covid-19, New Outbreak on USS Theodore Roosevelt"
 date: 2021-02-18T13:27:05
-slug: navy-continues-to-battle-covid-19-new-outbreak-on-uss-theodore-roosevelt
+slug: "navy-continues-to-battle-covid-19-new-outbreak-on-uss-theodore-roosevelt"
 excerpt: "Recently, three sailors aboard the aircraft carrier USS Theodore Roosevelt have tested positive for the coronavirus, marking the second outbreak at sea on the ship within a year.  In the spring of last year, the aircraft carrier USS Theodore Roosevelt … Continue reading &rarr;"
 categories:
   - "Current"

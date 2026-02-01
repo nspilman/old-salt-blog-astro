@@ -1,7 +1,7 @@
 ---
 title: "STS Leeuwin Dismasted, Crew Injured After Being Struck at Dock by Container Ship"
 date: 2024-08-30T17:17:57
-slug: sts-leeuwin-dismasted-crew-injured-after-being-struck-at-dock-by-container-ship
+slug: "sts-leeuwin-dismasted-crew-injured-after-being-struck-at-dock-by-container-ship"
 excerpt: "At about 6:15 this morning, local time, the Maersk Shekou, a 332 meter, 8,814 TEU container ship struck and dismasted the STS Leeuwin II berthed at Victoria Quay in Fremantle, Australia’s inner harbor. The container ship also hit the nearby … Continue reading &rarr;"
 categories:
   - "Current"

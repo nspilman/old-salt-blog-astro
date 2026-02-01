@@ -1,8 +1,8 @@
 ---
 title: "18′ Oar Fish Found Off Catalina Island"
 date: 2013-10-15T15:19:13
-slug: 18-oar-fish-found-catalina-island
-excerpt: "Oar fish are real “sea serpents.”  They can grow to be 50′ long and are the longest bony fish in the world.  As they live in deep water, they are rarely seen on the surface. Nevertheless, over the weekend, Jasmine Santana, … Continue reading &rarr;"
+slug: "18-oar-fish-found-catalina-island"
+excerpt: "Oar fish are real \"sea serpents.\"  They can grow to be 50′ long and are the longest bony fish in the world.  As they live in deep water, they are rarely seen on the surface. Nevertheless, over the weekend, Jasmine Santana, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Oar Fish"
   - "Tole Mour"
 author: "Rick Spilman"
-description: "Oar fish are real “sea serpents.”  They can grow to be 50′ long and are the longest bony fish in the world.  As they live in deep water, they are rarely seen on the surface. Nevertheless, over the weekend, Jasmine Santana, … Continue reading &rarr;"
+description: "Oar fish are real \"sea serpents.\"  They can grow to be 50′ long and are the longest bony fish in the world.  As they live in deep water, they are rarely seen on the surface. Nevertheless, over the weekend, Jasmine Santana, … Continue reading &rarr;"
 ---
 
 ![tolemour](http://www.oldsaltblog.com/wp-content/uploads/2013/10/tolemour.jpg)

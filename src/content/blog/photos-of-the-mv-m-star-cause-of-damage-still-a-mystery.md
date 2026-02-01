@@ -1,7 +1,7 @@
 ---
 title: "Photos of the MV M. Star – Cause of Damage Still a Mystery"
 date: 2010-07-30T13:02:44
-slug: photos-of-the-mv-m-star-cause-of-damage-still-a-mystery
+slug: "photos-of-the-mv-m-star-cause-of-damage-still-a-mystery"
 excerpt: "Photos of the damage to the VLCC MV M. Star. Click on the thumbnails above for larger images. Questions Swirl About Damaged Japanese Tanker … Continue reading &rarr;"
 categories:
   - "Current"

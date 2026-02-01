@@ -1,7 +1,7 @@
 ---
 title: "The Really, Really Ancient Mariners – Solutreans, Neanderthals & Hobbits"
 date: 2012-03-04T10:36:00
-slug: the-really-really-ancient-mariners-solutreans-neanderthals-hobbits
+slug: "the-really-really-ancient-mariners-solutreans-neanderthals-hobbits"
 excerpt: "For most, a river or an ocean is a boundary. For a sailor, each is a highway.  But, when did the first sailor set out across the water? Recent research suggests that the early man may have gone to sea, and indeed, … Continue reading &rarr;"
 categories:
   - "History"

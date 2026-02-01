@@ -1,7 +1,7 @@
 ---
 title: "Visiting Underwater Volcano Kick’em Jenny"
 date: 2014-03-28T11:09:02
-slug: visiting-underwater-volcano-kickem-jenny
+slug: "visiting-underwater-volcano-kickem-jenny"
 excerpt: "Back in 2011, we posted about Kick’em Jenny, which in addition to being the name of a rockabilly singer as well as a Dutch Celtic Symfo-Folk group, is an active underwater volcano in the Lesser Antilles about 5 miles north of … Continue reading &rarr;"
 categories:
   - "Current"

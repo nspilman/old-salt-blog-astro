@@ -1,7 +1,7 @@
 ---
 title: "Hunt is on for SS Gairsoppa’s £70m silver hoard"
 date: 2010-01-24T07:40:22
-slug: hunt-is-on-for-ss-gairsoppa%e2%80%99s-70m-silver-hoard
+slug: "hunt-is-on-for-ss-gairsoppa%e2%80%99s-70m-silver-hoard"
 excerpt: "An intriguing article from the Sunday Times: Hunt is on for SS Gairsoppa’s £70m silver hoard AN official attempt to find a ship containing £70m worth of silver, which was sunk during the second world war, is to be announced by … Continue reading &rarr;"
 categories:
   - "Current"

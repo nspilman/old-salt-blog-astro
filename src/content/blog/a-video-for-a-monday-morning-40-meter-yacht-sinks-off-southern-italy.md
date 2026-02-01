@@ -1,7 +1,7 @@
 ---
 title: "A Video for a Monday Morning  — 40 Meter Yacht Sinks Off Southern Italy"
 date: 2022-08-29T10:41:30
-slug: a-video-for-a-monday-morning-40-meter-yacht-sinks-off-southern-italy
+slug: "a-video-for-a-monday-morning-40-meter-yacht-sinks-off-southern-italy"
 excerpt: "How’s your Monday going so far? Odds are, it is probably better than the 40-meter superyacht MY Saga that sank rather dramatically last week off the coast of Catanzaro Marina, in southern Italy.  Fortunately, the Italian Coast Guard rescued nine … Continue reading &rarr;"
 categories:
   - "Current"

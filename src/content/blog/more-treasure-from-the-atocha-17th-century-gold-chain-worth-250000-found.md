@@ -1,7 +1,7 @@
 ---
 title: "More Treasure from the Atocha – 17th century gold chain worth $250,000"
 date: 2011-03-29T15:23:52
-slug: more-treasure-from-the-atocha-17th-century-gold-chain-worth-250000-found
+slug: "more-treasure-from-the-atocha-17th-century-gold-chain-worth-250000-found"
 excerpt: "Last week, while searching near the the wreck of  Nuestra Senora de Atocha, Bill Burt, a diver for Mel Fisher’s Treasures, found a 17th century gold chain worth $250,000. Deep sea treasure: 17th century gold chain worth $250,000 plucked from … Continue reading &rarr;"
 categories:
   - "Current"

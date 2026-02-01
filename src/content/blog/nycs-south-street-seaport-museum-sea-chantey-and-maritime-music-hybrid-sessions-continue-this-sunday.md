@@ -1,7 +1,7 @@
 ---
 title: "NYC’s South Street Seaport Museum Sea Chantey and Maritime Music Hybrid Sessions Continue This Sunday"
 date: 2023-02-02T16:29:19
-slug: nycs-south-street-seaport-museum-sea-chantey-and-maritime-music-hybrid-sessions-continue-this-sunday
+slug: "nycs-south-street-seaport-museum-sea-chantey-and-maritime-music-hybrid-sessions-continue-this-sunday"
 excerpt: "South Street Seaport Museum has announced that its monthly sea-music events Sea Chanteys and Maritime Music––the original NYC chantey sing–– will continue on the first Sunday of every month. The next session will take place in-person and virtually on Sunday, … Continue reading &rarr;"
 categories:
   - "Current"

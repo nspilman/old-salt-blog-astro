@@ -1,7 +1,7 @@
 ---
 title: "On National Donut Day — Captain Gregory & the Birth of the Modern Donut (& the Donut Hole)"
 date: 2023-06-02T16:26:16
-slug: on-national-donut-day-captain-gregory-the-birth-of-the-modern-donut-the-donut-hole
+slug: "on-national-donut-day-captain-gregory-the-birth-of-the-modern-donut-the-donut-hole"
 excerpt: "Today is National Donut Day. Why is there a national day for donuts? The day celebrates an event created by The Salvation Army in Chicago in 1938 to honor those of their members who served doughnuts to soldiers during World War I. But who invented … Continue reading &rarr;"
 categories:
   - "Current"

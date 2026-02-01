@@ -1,8 +1,8 @@
 ---
 title: "Rogue Wave, 1905, and the Squarerigger British Isles"
 date: 2010-10-16T11:08:47
-slug: rogue-wave-1905-on-squarerigger-british-isles
-excerpt: "We recently have had several posts regarding rogue waves – a review of Susan Casey’s new book The Wave and the BBC Documentary  Freak Waves.   Oceanographers generally dismissed reports of rogue waves as wild exaggerations or “sea stories,” until a rogue wave was documented … Continue reading &rarr;"
+slug: "rogue-wave-1905-on-squarerigger-british-isles"
+excerpt: "We recently have had several posts regarding rogue waves – a review of Susan Casey’s new book The Wave and the BBC Documentary  Freak Waves.   Oceanographers generally dismissed reports of rogue waves as wild exaggerations or \"sea stories,\" until a rogue wave was documented … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "rogue waves"
   - "Windjammer"
 author: "Rick Spilman"
-description: "We recently have had several posts regarding rogue waves – a review of Susan Casey’s new book The Wave and the BBC Documentary  Freak Waves.   Oceanographers generally dismissed reports of rogue waves as wild exaggerations or “sea stories,” until a rogue wave was documented … Continue reading &rarr;"
+description: "We recently have had several posts regarding rogue waves – a review of Susan Casey’s new book The Wave and the BBC Documentary  Freak Waves.   Oceanographers generally dismissed reports of rogue waves as wild exaggerations or \"sea stories,\" until a rogue wave was documented … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/britishisles.jpg)

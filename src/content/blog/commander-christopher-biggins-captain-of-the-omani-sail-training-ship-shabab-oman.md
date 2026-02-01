@@ -1,7 +1,7 @@
 ---
 title: "Commander Christopher Biggins – Captain of the Omani sail training ship SHABAB OMAN"
 date: 2011-03-04T11:01:27
-slug: commander-christopher-biggins-captain-of-the-omani-sail-training-ship-shabab-oman
+slug: "commander-christopher-biggins-captain-of-the-omani-sail-training-ship-shabab-oman"
 excerpt: "Christopher Biggins, captain of the Omani national sail training ship Shabab Oman, for over two decades, died recently.   An obituary by Frank Scott, author of A Square Rig Handbook, reposted with permission from the  Marine History List: Commander Christopher Biggins Chris Biggins who … Continue reading &rarr;"
 categories:
   - "Current"

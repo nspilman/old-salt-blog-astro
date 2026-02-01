@@ -1,7 +1,7 @@
 ---
 title: "New Volcanic Island Rises Off Japan"
 date: 2013-11-22T10:17:25
-slug: new-volcanic-island-rises-off-japan
+slug: "new-volcanic-island-rises-off-japan"
 excerpt: "An underwater volcano has creating a new island around 620 miles south of Toyko, Japan.  According to the Associated Press it is roughly 660 feet in diameter, off the coast of Nishinoshima, a small, uninhabited island in the Ogasawara chain, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

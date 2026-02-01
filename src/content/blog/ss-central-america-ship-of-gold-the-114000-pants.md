@@ -1,7 +1,7 @@
 ---
 title: "SS Central America — Ship of Gold & the $114,000 Pants"
 date: 2022-12-13T16:52:15
-slug: ss-central-america-ship-of-gold-the-114000-pants
+slug: "ss-central-america-ship-of-gold-the-114000-pants"
 excerpt: "On September 12, 1857, the 289-foot-long sidewheel steamer SS Central America sank in a hurricane off the US East Coast. When she sank, 425 of her 578 passengers and crew were drowned and 30,000 pounds (13,600 kg) of gold from … Continue reading &rarr;"
 categories:
   - "Current"

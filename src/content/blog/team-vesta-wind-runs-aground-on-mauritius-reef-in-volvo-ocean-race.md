@@ -1,7 +1,7 @@
 ---
 title: "Team Vesta Wind Runs Aground on Mauritius Reef in Volvo Ocean Race"
 date: 2014-11-30T07:56:47
-slug: team-vesta-wind-runs-aground-on-mauritius-reef-in-volvo-ocean-race
+slug: "team-vesta-wind-runs-aground-on-mauritius-reef-in-volvo-ocean-race"
 excerpt: "On Leg 2 of the Volvo Ocean Race, the Team Vesta Wind boat ran aground Saturday on a reef in the Cargados Carajos archipelago about 430 km to the northeast of Mauritius in the Indian Ocean. There are no reported injuries and the nine … Continue reading &rarr;"
 categories:
   - "Current"

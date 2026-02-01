@@ -1,7 +1,7 @@
 ---
 title: "MV Danio on the Rocks off Farne Islands, Salvage Delayed by Weather"
 date: 2013-03-18T17:12:59
-slug: mv-danio-on-the-rocks-off-farne-islands-salvage-delayed-by-weather
+slug: "mv-danio-on-the-rocks-off-farne-islands-salvage-delayed-by-weather"
 excerpt: "Early on Saturday, the 80 m coaster MV Danio hit the rocks on the Farne Islands off the Northumberland coast, after sailing from Perth, Scotland to Antwerp, Belgium with a cargo of timber.  The German-owned, Antigua-registered vessel is stuck near the Longstone Lighthouse, … Continue reading &rarr;"
 categories:
   - "Current"

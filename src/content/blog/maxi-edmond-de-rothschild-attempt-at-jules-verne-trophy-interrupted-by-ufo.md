@@ -1,7 +1,7 @@
 ---
 title: "Maxi Edmond de Rothschild Attempt at Jules Verne Trophy Interrupted by UFO"
 date: 2020-11-28T14:46:26
-slug: maxi-edmond-de-rothschild-attempt-at-jules-verne-trophy-interrupted-by-ufo
+slug: "maxi-edmond-de-rothschild-attempt-at-jules-verne-trophy-interrupted-by-ufo"
 excerpt: "Yesterday, we posted about a head to head race between trimarans  Sodebo and Maxi Edmond de Rothschild/Gitana 17 attempting to win the Jules Verne Trophy. While the race for the trophy is against the clock, the two boats that sailed within hours … Continue reading &rarr;"
 categories:
   - "Current"

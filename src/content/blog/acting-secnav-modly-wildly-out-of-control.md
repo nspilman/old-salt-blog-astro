@@ -1,7 +1,7 @@
 ---
 title: "Update: Acting SECNAV Modly Wildly Out of Control, Resigns"
 date: 2020-04-07T10:14:42
-slug: acting-secnav-modly-wildly-out-of-control
+slug: "acting-secnav-modly-wildly-out-of-control"
 excerpt: "Update: Thomas B. Modly has offered his resignation. When the Acting Secretary of the Navy Thomas B. Modly traveled to Guam on Sunday to speak to the sailors on the aircraft carrier USS Theodore Roosevelt, he needed to deliver a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Robert Bourne, Radioman in the Battle Between Navy Blimp and German sub"
 date: 2010-10-26T18:13:58
-slug: robert-bourne-radioman-in-the-battle-between-a-navy-blimp-and-german-sub
+slug: "robert-bourne-radioman-in-the-battle-between-a-navy-blimp-and-german-sub"
 excerpt: "Robert Bourne, who died on Oct. 13, at the age of 88, was the radioman on the Navy blimp, Airship K-74, on anti-submarine patrol off the southeast coast of Florida on the night of July 18, 1943.  The lookout spotted a German submarine … Continue reading &rarr;"
 categories:
   - "Current"

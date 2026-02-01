@@ -1,7 +1,7 @@
 ---
 title: "Talbot’s Image of SS Great Britain — First Ship Photograph"
 date: 2019-08-21T16:02:17
-slug: talbots-image-of-ss-great-britain-first-ship-photograph
+slug: "talbots-image-of-ss-great-britain-first-ship-photograph"
 excerpt: "Apparently, Monday was World Photography Day. In its honor, a bit belatedly, here is a photo of Brunel’s revolutionary ship, SS Great Britain, taken in 1844. Not only is it believed to be the first photograph of the Great Britain, but … Continue reading &rarr;"
 categories:
   - "History"

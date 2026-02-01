@@ -1,7 +1,7 @@
 ---
 title: "Does US Navy Can-Do, Never-Say-No Culture Promote Accidents?"
 date: 2017-11-13T19:39:29
-slug: us-navy-can-never-say-no-culture-promote-accidents
+slug: "us-navy-can-never-say-no-culture-promote-accidents"
 excerpt: "The US Navy has rightfully been undertaking a considerable review and revaluation of the problems that led to the recent ship collisions between the USS Fitzgerald and the USS John S. McCain with commercial vessels, resulting in the deaths of  17 sailors. … Continue reading &rarr;"
 categories:
   - "Current"

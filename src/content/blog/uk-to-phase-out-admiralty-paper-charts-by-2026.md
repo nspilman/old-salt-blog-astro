@@ -1,7 +1,7 @@
 ---
 title: "UK to Phase Out Admiralty Paper Charts by 2026"
 date: 2022-07-28T17:01:02
-slug: uk-to-phase-out-admiralty-paper-charts-by-2026
+slug: "uk-to-phase-out-admiralty-paper-charts-by-2026"
 excerpt: "In 2019, the US National Oceanic and Atmospheric Administration (NOAA ) announced that it was phasing out the production of traditional paper nautical charts over a five-year period. NOAA intends to focus on improving the fully electronic navigational charts (ENCs) … Continue reading &rarr;"
 categories:
   - "Current"

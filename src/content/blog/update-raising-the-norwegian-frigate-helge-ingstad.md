@@ -1,7 +1,7 @@
 ---
 title: "Update: Raising the Norwegian Frigate Helge Ingstad"
 date: 2019-02-28T18:14:03
-slug: update-raising-the-norwegian-frigate-helge-ingstad
+slug: "update-raising-the-norwegian-frigate-helge-ingstad"
 excerpt: "The Norwegian frigate Helge Ingstad, which collided with the tanker Sola TS  near Bergen, has now largely been raised from where it sank last November.  The ship has been moored to the two crane lifts Gulliver and Rambiz which were used … Continue reading &rarr;"
 categories:
   - "Current"

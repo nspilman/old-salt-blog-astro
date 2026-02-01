@@ -1,7 +1,7 @@
 ---
 title: "Susie Goodall Rescued by Cargo Ship Tian Fu"
 date: 2018-12-08T11:09:01
-slug: susie-goodall-rescued-by-cargo-ship-tian-fu
+slug: "susie-goodall-rescued-by-cargo-ship-tian-fu"
 excerpt: "After spending two days in heavy seas, snap-rolling in her dismasted, leaking, sailboat, Golden Globe racer Susie Goodall was rescued by the Hong Kong-flagged geared cargo ship, MVTian Fu, in the Southern Ocean approximately 2,000 miles west of Cape Horn.  Unable to … Continue reading &rarr;"
 categories:
   - "Current"

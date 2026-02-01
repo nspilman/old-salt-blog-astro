@@ -1,7 +1,7 @@
 ---
 title: "Volvo Ocean Race 20117-2018 Starting Soon, Future Races Uncertain"
 date: 2017-10-05T13:59:53
-slug: volvo-ocean-race-20117-2018-starting-soon-future-races-uncertain
+slug: "volvo-ocean-race-20117-2018-starting-soon-future-races-uncertain"
 excerpt: "Seven boats will be setting off on the 2017-2018 Volvo Ocean Race in 16 days. The race will start in Alicante on October 22, 2017 and finish in The Hague in June 2018, visiting 12 stopover ports– Alicante, Lisbon, Cape … Continue reading &rarr;"
 categories:
   - "Current"

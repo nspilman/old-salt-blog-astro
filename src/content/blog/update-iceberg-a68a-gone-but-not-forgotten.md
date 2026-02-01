@@ -1,7 +1,7 @@
 ---
 title: "Update: Iceberg A68a, Gone But Not Forgotten"
 date: 2022-01-29T18:59:16
-slug: update-iceberg-a68a-gone-but-not-forgotten
+slug: "update-iceberg-a68a-gone-but-not-forgotten"
 excerpt: "Iceberg A68a, once the world’s largest iceberg, is now gone, broken up into chunks too small to track. While the iceberg is recent history, scientists are still studying its impact. In 2017, a massive iceberg broke off from Antarctica’s Larsen … Continue reading &rarr;"
 categories:
   - "Current"

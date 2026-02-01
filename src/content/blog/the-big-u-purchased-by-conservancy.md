@@ -1,20 +1,20 @@
 ---
 title: "The Big U purchased by Conservancy"
 date: 2011-02-01T20:35:24
-slug: the-big-u-purchased-by-conservancy
-excerpt: "Today, the SS United States Conservancy purchased the S.S. United States from Norwegian Cruise Line.  As we posted last July, the sale was made possible by a reported $5.8 million pledge by Philadelphia philanthropist H.F. “Gerry” Lenfest.   The sale was delayed  when the … Continue reading &rarr;"
+slug: "the-big-u-purchased-by-conservancy"
+excerpt: "Today, the SS United States Conservancy purchased the S.S. United States from Norwegian Cruise Line.  As we posted last July, the sale was made possible by a reported $5.8 million pledge by Philadelphia philanthropist H.F. \"Gerry\" Lenfest.   The sale was delayed  when the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - "H.F. “Gerry” Lenfest"
+  - "H.F. \"Gerry\" Lenfest"
   - "Norwegian Cruise Line"
   - "Philadelphia philanthropist"
   - "S.S. United States"
   - "SS United States Conservancy"
 author: "Rick Spilman"
-description: "Today, the SS United States Conservancy purchased the S.S. United States from Norwegian Cruise Line.  As we posted last July, the sale was made possible by a reported $5.8 million pledge by Philadelphia philanthropist H.F. “Gerry” Lenfest.   The sale was delayed  when the … Continue reading &rarr;"
+description: "Today, the SS United States Conservancy purchased the S.S. United States from Norwegian Cruise Line.  As we posted last July, the sale was made possible by a reported $5.8 million pledge by Philadelphia philanthropist H.F. \"Gerry\" Lenfest.   The sale was delayed  when the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/SSUSSUNRAYSPS21.jpg)

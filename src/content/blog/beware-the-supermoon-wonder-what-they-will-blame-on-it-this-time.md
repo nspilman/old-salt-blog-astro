@@ -1,8 +1,8 @@
 ---
 title: "Beware the Supermoon! Wonder What They Will Blame on it This Time?"
 date: 2012-05-03T07:25:46
-slug: beware-the-supermoon-wonder-what-they-will-blame-on-it-this-time
-excerpt: "This Saturday, we will witness a perigee full moon, often called by the press, a “supermoon.”   The full moon at its perigee, or closest approach to earth, will appear 16% bigger and will exert 42% more tidal force than a more typical full moon.  Usually … Continue reading &rarr;"
+slug: "beware-the-supermoon-wonder-what-they-will-blame-on-it-this-time"
+excerpt: "This Saturday, we will witness a perigee full moon, often called by the press, a \"supermoon.\"   The full moon at its perigee, or closest approach to earth, will appear 16% bigger and will exert 42% more tidal force than a more typical full moon.  Usually … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "perigee full moon"
   - "supermoon"
 author: "Rick Spilman"
-description: "This Saturday, we will witness a perigee full moon, often called by the press, a “supermoon.”   The full moon at its perigee, or closest approach to earth, will appear 16% bigger and will exert 42% more tidal force than a more typical full moon.  Usually … Continue reading &rarr;"
+description: "This Saturday, we will witness a perigee full moon, often called by the press, a \"supermoon.\"   The full moon at its perigee, or closest approach to earth, will appear 16% bigger and will exert 42% more tidal force than a more typical full moon.  Usually … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/supermoon.jpg)This Saturday, we will witness a perigee full moon, often called by the press, a “supermoon.”   The full moon at its perigee, or closest approach to earth, will appear 16% bigger and will exert 42% more tidal force than a more typical full moon.  Usually these “perigean tides” are only an inch or so higher or lower than normal.  Local tidal conditions can amplify the effect, which is still usually no more than a 6″ change in high or low tide.

@@ -1,7 +1,7 @@
 ---
 title: "Happy 85th Birthday Schooner Brilliant!"
 date: 2017-04-23T09:43:31
-slug: happy-85th-birthday-schooner-brilliant
+slug: "happy-85th-birthday-schooner-brilliant"
 excerpt: "Happy birthday to Mystic Seaport‘s schooner Brilliant! On April 23, 1932, the 61′ schooner was launched from the yard of Henry B. Nevins at City Island, New York. Now 85 years later, she is still sailing and still a beauty. … Continue reading &rarr;"
 categories:
   - "Current"

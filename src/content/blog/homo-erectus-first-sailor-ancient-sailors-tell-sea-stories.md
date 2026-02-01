@@ -1,7 +1,7 @@
 ---
 title: "Was Homo Erectus the First Sailor? Did Ancient Sailors Tell Sea Stories?"
 date: 2018-02-21T14:06:56
-slug: homo-erectus-first-sailor-ancient-sailors-tell-sea-stories
+slug: "homo-erectus-first-sailor-ancient-sailors-tell-sea-stories"
 excerpt: "The timeline for when humans first took to the seas keeps getting moved back.  A few years ago, stone tools were found on the island of Crete which were dated to 130,000 years ago. Likewise, stone implements on the island of Flores … Continue reading &rarr;"
 categories:
   - "Current"

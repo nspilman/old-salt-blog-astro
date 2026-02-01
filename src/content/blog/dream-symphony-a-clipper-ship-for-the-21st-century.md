@@ -1,7 +1,7 @@
 ---
 title: "Dream Symphony — a Clipper Ship for the 21st Century"
 date: 2015-08-17T18:04:58
-slug: dream-symphony-a-clipper-ship-for-the-21st-century
+slug: "dream-symphony-a-clipper-ship-for-the-21st-century"
 excerpt: "When delivered sometime in 2016, Dream Symphony will be a clipper ship for the 21st century. Like the 19th century clippers, Dream Symphony will carry an impressive cloud of sail and like the clippers, it will be built of wood.  That alone is remarkable … Continue reading &rarr;"
 categories:
   - "Current"

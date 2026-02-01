@@ -1,8 +1,8 @@
 ---
 title: "The 14th (or 19th) Foot — the Floating Feet of the Salish Sea Continues"
 date: 2018-05-17T17:50:08
-slug: the-14th-or-19th-foot-the-floating-feet-of-the-salish-sea-continues
-excerpt: "A human foot in a hiking boot recently washed ashore on the banks of the Salish Sea in British Columbia. It is the 14th “disarticulated” foot that has washed ashore in a shoe or boot on the Salish Sea in Canada since … Continue reading &rarr;"
+slug: "the-14th-or-19th-foot-the-floating-feet-of-the-salish-sea-continues"
+excerpt: "A human foot in a hiking boot recently washed ashore on the banks of the Salish Sea in British Columbia. It is the 14th \"disarticulated\" foot that has washed ashore in a shoe or boot on the Salish Sea in Canada since … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "running shoe"
   - "Salish Sea"
 author: "Rick Spilman"
-description: "A human foot in a hiking boot recently washed ashore on the banks of the Salish Sea in British Columbia. It is the 14th “disarticulated” foot that has washed ashore in a shoe or boot on the Salish Sea in Canada since … Continue reading &rarr;"
+description: "A human foot in a hiking boot recently washed ashore on the banks of the Salish Sea in British Columbia. It is the 14th \"disarticulated\" foot that has washed ashore in a shoe or boot on the Salish Sea in Canada since … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/05/shoesalishsea.jpg)A [human foot in a hiking boot recently washed ashore](https://en.wikipedia.org/wiki/Salish_Sea_human_foot_discoveries) on the banks of the [Salish Sea](https://en.wikipedia.org/wiki/Salish_Sea) in British Columbia. It is the [14th “disarticulated” foot](https://www.washingtonpost.com/news/worldviews/wp/2018/05/13/a-14th-human-foot-this-one-in-a-hiking-boot-washes-ashore-in-canada/?utm_term=.93e7b2b359ee) that has washed ashore in a shoe or boot on the Salish Sea in Canada since 2007. If you include the shores of Washington State, the number of floating feet rises to 19. 

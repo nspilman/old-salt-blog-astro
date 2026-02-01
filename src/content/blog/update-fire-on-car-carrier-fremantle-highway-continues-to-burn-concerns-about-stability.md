@@ -1,7 +1,7 @@
 ---
 title: "Update: Fire on Car Carrier Fremantle Highway Continues to Burn, Concerns About Stability"
 date: 2023-07-27T17:26:17
-slug: update-fire-on-car-carrier-fremantle-highway-continues-to-burn-concerns-about-stability
+slug: "update-fire-on-car-carrier-fremantle-highway-continues-to-burn-concerns-about-stability"
 excerpt: "News reports are that salvors fighting the fire on the car carrier Fremantle Highway have been temporarily stopped in their attempt to cool the exterior of the stricken ship with water. There are serious concerns that water from the firefighting could … Continue reading &rarr;"
 categories:
   - "Current"

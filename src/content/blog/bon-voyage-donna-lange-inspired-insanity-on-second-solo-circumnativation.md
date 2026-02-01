@@ -1,7 +1,7 @@
 ---
 title: "Bon Voyage — Donna Lange & Inspired Insanity on Second Solo Circumnativation"
 date: 2015-07-31T16:31:09
-slug: bon-voyage-donna-lange-inspired-insanity-on-second-solo-circumnativation
+slug: "bon-voyage-donna-lange-inspired-insanity-on-second-solo-circumnativation"
 excerpt: "Today, Donna Lange set off today from Bristol, RI on her Southern Cross 28, Inspired Insanity, attempting to sail single-handed nonstop around the world. This will be her second circumnavigation, although the first non-stop. She made two post calls on … Continue reading &rarr;"
 categories:
   - "Current"

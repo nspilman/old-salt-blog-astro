@@ -1,7 +1,7 @@
 ---
 title: "Swedish Kayaker Catches Record-breaking Greenland Shark"
 date: 2014-12-19T09:28:47
-slug: swedish-kayaker-catches-record-breaking-greenland-shark
+slug: "swedish-kayaker-catches-record-breaking-greenland-shark"
 excerpt: "Joel Abrahamsson, from Gothenburg, Sweden, recently caught a 15′ long 1,247 pound Greenland shark while fishing from a kayak near the island of Andoria, in Norway.  The catch sets a new world record for a fish caught with a rod and reel from … Continue reading &rarr;"
 categories:
   - "Current"

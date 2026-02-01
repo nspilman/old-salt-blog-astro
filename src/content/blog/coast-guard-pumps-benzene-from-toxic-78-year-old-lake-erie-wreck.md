@@ -1,7 +1,7 @@
 ---
 title: "Coast Guard Pumps Benzene from Argo, 78 Year Old Lake Erie Toxic Wreck"
 date: 2015-11-25T17:12:16
-slug: coast-guard-pumps-benzene-from-toxic-78-year-old-lake-erie-wreck
+slug: "coast-guard-pumps-benzene-from-toxic-78-year-old-lake-erie-wreck"
 excerpt: "This weekend the US Coast Guard recovered 10,000 gallons of benzene from the wreck of a tank barge that sank 78 years ago in Lake Erie. The Coast Guard has pumped the first of 8 tanks on the wrecked barge. In … Continue reading &rarr;"
 categories:
   - "Current"

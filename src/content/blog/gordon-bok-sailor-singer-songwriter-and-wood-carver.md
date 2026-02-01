@@ -1,7 +1,7 @@
 ---
 title: "Gordon Bok — Sailor, Singer, Songwriter and Wood Carver"
 date: 2018-05-12T15:36:17
-slug: gordon-bok-sailor-singer-songwriter-and-wood-carver
+slug: "gordon-bok-sailor-singer-songwriter-and-wood-carver"
 excerpt: "If you are fond of songs of ships and the sea, you may already know Gordon Bok’s music. If not, you should definitely make his acquaintance. Bok is a particular favorite of mine — a sailor, songwriter, singer and a master … Continue reading &rarr;"
 categories:
   - "Current"

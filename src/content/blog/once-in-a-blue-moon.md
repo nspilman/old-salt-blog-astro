@@ -1,14 +1,14 @@
 ---
 title: "Once in a Blue Moon"
 date: 2012-08-31T11:53:41
-slug: once-in-a-blue-moon
-excerpt: "Tonight’s sky will be graced by a “blue moon.”  It is the first blue moon since New Year’s Eve 2009.  The next blue moon won’t appear until July 2015.  Tonight’s full moon won’t actually be blue for most of us. … Continue reading &rarr;"
+slug: "once-in-a-blue-moon"
+excerpt: "Tonight’s sky will be graced by a \"blue moon.\"  It is the first blue moon since New Year’s Eve 2009.  The next blue moon won’t appear until July 2015.  Tonight’s full moon won’t actually be blue for most of us. … Continue reading &rarr;"
 categories:
   - "Current"
 tags:
   - "blue moon"
 author: "Rick Spilman"
-description: "Tonight’s sky will be graced by a “blue moon.”  It is the first blue moon since New Year’s Eve 2009.  The next blue moon won’t appear until July 2015.  Tonight’s full moon won’t actually be blue for most of us. … Continue reading &rarr;"
+description: "Tonight’s sky will be graced by a \"blue moon.\"  It is the first blue moon since New Year’s Eve 2009.  The next blue moon won’t appear until July 2015.  Tonight’s full moon won’t actually be blue for most of us. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/Moon.jpg)Tonight’s sky will be graced by a “blue moon.”  It is the first blue moon since New Year’s Eve 2009.  The next blue moon won’t appear until July 2015.  Tonight’s full moon won’t actually be blue for most of us.  A “blue moon” is commonly defined as the second full moon in a calendar month.  It doesn’t happen often and so is the inspiration for the phrase, “once in a blue moon.”

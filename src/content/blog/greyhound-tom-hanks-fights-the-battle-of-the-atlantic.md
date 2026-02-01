@@ -1,7 +1,7 @@
 ---
 title: "Greyhound, Tom Hanks Fights the Battle of the Atlantic"
 date: 2020-07-23T14:47:19
-slug: greyhound-tom-hanks-fights-the-battle-of-the-atlantic
+slug: "greyhound-tom-hanks-fights-the-battle-of-the-atlantic"
 excerpt: "Greyhound, a movie that was written by and stars Tom Hanks, tells the story of a destroyer captain fighting a German U-boat wolf-pack that is attacking a convoy of Allied ships in the North Atlantic. The movie was inspired by … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

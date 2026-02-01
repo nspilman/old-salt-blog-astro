@@ -1,7 +1,7 @@
 ---
 title: "2011 Japanese Tsunami Sent Invasive Species to the US, But Not Radioactive Fish or Mutant Wasps"
 date: 2017-09-30T08:42:38
-slug: 2011-japanese-tsunami-sent-invasive-species-us-not-radioactive-fish-mutant-wasps
+slug: "2011-japanese-tsunami-sent-invasive-species-us-not-radioactive-fish-mutant-wasps"
 excerpt: "Since the Japanese tsunami of 2011 and the meltdown of the reactors at Fukushima, the Internet has been full of scary accounts of the Pacific Ocean becoming radioactive as well as stories of radioactive salmon and other fish. One widely … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

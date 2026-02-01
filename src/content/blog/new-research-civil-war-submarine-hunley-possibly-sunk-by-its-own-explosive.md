@@ -1,8 +1,8 @@
 ---
 title: "New Research – Civil War Submarine Hunley Possibly Sunk by its Own Explosive"
 date: 2013-01-29T08:17:58
-slug: new-research-civil-war-submarine-hunley-possibly-sunk-by-its-own-explosive
-excerpt: "The Confederate submarine H.L. Hunley is credited as the first successful submarine, in that it was the first submarine to sink an enemy warship in combat.  New findings, however, might cause some to reconsider this “success.”  The Hunley may have been sunk … Continue reading &rarr;"
+slug: "new-research-civil-war-submarine-hunley-possibly-sunk-by-its-own-explosive"
+excerpt: "The Confederate submarine H.L. Hunley is credited as the first successful submarine, in that it was the first submarine to sink an enemy warship in combat.  New findings, however, might cause some to reconsider this \"success.\"  The Hunley may have been sunk … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "spar"
   - "USS Housatonic"
 author: "Rick Spilman"
-description: "The Confederate submarine H.L. Hunley is credited as the first successful submarine, in that it was the first submarine to sink an enemy warship in combat.  New findings, however, might cause some to reconsider this “success.”  The Hunley may have been sunk … Continue reading &rarr;"
+description: "The Confederate submarine H.L. Hunley is credited as the first successful submarine, in that it was the first submarine to sink an enemy warship in combat.  New findings, however, might cause some to reconsider this \"success.\"  The Hunley may have been sunk … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/hunley.jpg)The Confederate submarine *H.L. Hunley* is credited as the first successful submarine, in that it was the first submarine to sink an enemy warship in combat.  New findings, however, might cause some to reconsider this “success.”  The *Hunley* may have been sunk by the force of its own explosive mine.

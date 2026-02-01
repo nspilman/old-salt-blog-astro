@@ -1,7 +1,7 @@
 ---
 title: "Container Ship Maersk Idaho Held Off Virginia Beach After Crew Test Positive for COVID-19"
 date: 2020-06-26T16:29:07
-slug: container-ship-maersk-idaho-held-off-virginia-beach-after-crew-test-positive-for-covid-19
+slug: "container-ship-maersk-idaho-held-off-virginia-beach-after-crew-test-positive-for-covid-19"
 excerpt: "The 958-foot long, US flag container ship, Maersk Idaho is anchored off the coast of Virginia after several crew members tested positive for COVID-19. Maersk is working on a plan to evacuate the ship, bring the crew to a quarantine … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

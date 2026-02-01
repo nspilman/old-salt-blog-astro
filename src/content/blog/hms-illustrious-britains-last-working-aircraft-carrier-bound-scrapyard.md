@@ -1,7 +1,7 @@
 ---
 title: "HMS Illustrious, UK’s Only Working Aircraft Carrier, Bound for Scrapyard"
 date: 2016-05-10T10:11:20
-slug: hms-illustrious-britains-last-working-aircraft-carrier-bound-scrapyard
+slug: "hms-illustrious-britains-last-working-aircraft-carrier-bound-scrapyard"
 excerpt: "HMS Illustrious, the UK’s only working aircraft carrier and the last surviving ship from the Falklands War is to be scrapped.  The 689 ft-long 22,000-tonne Invincible-class aircraft carrier traveled close to one million sea miles in her 32-year career with the Royal … Continue reading &rarr;"
 categories:
   - "Current"

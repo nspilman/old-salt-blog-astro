@@ -1,7 +1,7 @@
 ---
 title: "On Jules Verne’s Birthday – A Look at the Submarines named Nautilus"
 date: 2011-02-08T15:47:41
-slug: on-jules-vernes-birthday-a-look-at-the-submarines-named-nautilus
+slug: "on-jules-vernes-birthday-a-look-at-the-submarines-named-nautilus"
 excerpt: "On this the 183th anniversary of the birth of Jules Verne, it seems worthwhile to look at the submarines named Nautilus.    Click on any of the thumbnails for a larger image. … Continue reading &rarr;"
 categories:
   - "Current"

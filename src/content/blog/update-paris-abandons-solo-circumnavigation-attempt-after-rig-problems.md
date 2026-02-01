@@ -1,7 +1,7 @@
 ---
 title: "Update: Paris Abandons Solo Circumnavigation Attempt After Rig Problems"
 date: 2014-01-13T20:39:29
-slug: update-paris-abandons-solo-circumnavigation-attempt-after-rig-problems
+slug: "update-paris-abandons-solo-circumnavigation-attempt-after-rig-problems"
 excerpt: "In early December, we posted about Stanley Paris’ attempt at a solo circumnavigation in his 63′ Kiwi Spirit after suffering a variety failures to rigging and sails, Paris has decided to give up the attempt and sail for Cape Town.  Today, he … Continue reading &rarr;"
 categories:
   - "Current"

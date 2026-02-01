@@ -1,7 +1,7 @@
 ---
 title: "Recreating Sir Ernest Shackleton’s Epic Lifeboat Voyage"
 date: 2012-03-24T18:50:36
-slug: recreating-sir-ernest-shackletons-epic-lifeboat-voyage
+slug: "recreating-sir-ernest-shackletons-epic-lifeboat-voyage"
 excerpt: "In 1916, Ernest Shackleton and five sailors set off on an 1300 kilometer voyage to South Georgia Island, across some of roughest waters in the world, in the James Caird, a 6.9 meter lifeboat, in a desperate attempt to reach help and to arrange … Continue reading &rarr;"
 categories:
   - "Current"

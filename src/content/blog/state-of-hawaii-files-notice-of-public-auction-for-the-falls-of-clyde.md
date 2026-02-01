@@ -1,7 +1,7 @@
 ---
 title: "State of Hawaii Files Notice of Public Auction for the Falls of Clyde"
 date: 2019-02-08T12:34:54
-slug: state-of-hawaii-files-notice-of-public-auction-for-the-falls-of-clyde
+slug: "state-of-hawaii-files-notice-of-public-auction-for-the-falls-of-clyde"
 excerpt: "Even though it was expected, it still comes as a shock. Yesterday, the Hawaii Department of Transportation (HDOT) Harbors Division filed a public notification that the historic windjammer, Falls of Clyde, is being offered for sale by auction.  Those who … Continue reading &rarr;"
 categories:
   - "Current"

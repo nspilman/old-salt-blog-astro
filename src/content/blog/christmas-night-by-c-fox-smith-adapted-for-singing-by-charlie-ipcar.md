@@ -1,7 +1,7 @@
 ---
 title: "Christmas Night by C. Fox Smith, Adapted for Singing by Charlie Ipcar"
 date: 2014-12-25T10:26:39
-slug: christmas-night-by-c-fox-smith-adapted-for-singing-by-charlie-ipcar
+slug: "christmas-night-by-c-fox-smith-adapted-for-singing-by-charlie-ipcar"
 excerpt: "We hope that everyone is having a most merry Christmas. Here is a poem by C. Fox Smith adapted for song by Charlie Ipcar. As we posted last June, Cecily Fox Smith was a Victorian poet best remembered for her poems about … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

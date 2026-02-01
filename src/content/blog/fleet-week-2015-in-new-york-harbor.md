@@ -1,7 +1,7 @@
 ---
 title: "Fleet Week 2015 in New York Harbor"
 date: 2015-05-20T15:49:24
-slug: fleet-week-2015-in-new-york-harbor
+slug: "fleet-week-2015-in-new-york-harbor"
 excerpt: "Fleet Week 2015 kicked off with with a parade of three U.S. Navy ships, four U.S. Naval Academy yard patrol boats, and two U.S. Coast Guard cutters. More than 1,800 servicemen and women are participating, and activities and events will … Continue reading &rarr;"
 categories:
   - "Current"

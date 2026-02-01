@@ -1,7 +1,7 @@
 ---
 title: "Facing Up to Climate Change – A World Without Coral Reefs"
 date: 2012-07-27T07:15:10
-slug: facing-up-to-climate-change-a-world-without-coral-reefs
+slug: "facing-up-to-climate-change-a-world-without-coral-reefs"
 excerpt: "Earlier this month, we posted how the North Carolina legislature is considering legislating limits to sea level projections, even though recent studies suggest that sea levels are rising faster on the US East Coast than they are in the rest of the world. That hasn’t … Continue reading &rarr;"
 categories:
   - "Current"

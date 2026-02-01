@@ -1,7 +1,7 @@
 ---
 title: "Ships of the Future Past — the Demise of Commerical Hovercraft"
 date: 2016-01-31T12:33:47
-slug: ships-of-the-future-past-the-demise-of-commerical-hovercraft
+slug: "ships-of-the-future-past-the-demise-of-commerical-hovercraft"
 excerpt: "In the late 60s and early 70s, hovercraft ferries were the ships of the future. Hovercraft, flying on cushions of air, operated across the English Channel carrying passengers and cars at speeds of 40 to 60 knots. Some imagined that one-day hovercraft … Continue reading &rarr;"
 categories:
   - "Current"

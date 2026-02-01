@@ -1,7 +1,7 @@
 ---
-title: "Winter Storm Breaks Up SS Palo Alto — the Strange Career of the “Cement Boat,”"
+title: "Winter Storm Breaks Up SS Palo Alto — the Strange Career of the \"Cement Boat,\""
 date: 2017-01-25T09:00:56
-slug: winter-storm-breaks-ss-palo-alto-strange-career-cement-boat
+slug: "winter-storm-breaks-ss-palo-alto-strange-career-cement-boat"
 excerpt: "Over the weekend, winter storm Kori sent record high waves smashing into the California coast. The National Weather Service said a new wave record was set as the Monterey Bay buoy recorded 34-foot waves. At Seacliff State Beach in Aptos, … Continue reading &rarr;"
 categories:
   - "Current"

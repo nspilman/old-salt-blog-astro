@@ -1,7 +1,7 @@
 ---
 title: "Sometimes the Magic Doesn’t Happen — American Magic Eliminated From America’s Cup"
 date: 2021-02-01T12:13:57
-slug: sometimes-the-magic-doesnt-happen-american-magic-eliminated-from-americas-cup
+slug: "sometimes-the-magic-doesnt-happen-american-magic-eliminated-from-americas-cup"
 excerpt: "Sometimes the magic just doesn’t happen. The New York Yacht Club’s American Magic team, the U.S. Challenger was eliminated from competing in the 36th races for the America’s Cup.  The elimination follows four straight losses against the Challenger of Record, … Continue reading &rarr;"
 categories:
   - "Current"

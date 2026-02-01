@@ -1,7 +1,7 @@
 ---
 title: "10 years on, Mystery of the Confederate sub Hunley Remains"
 date: 2010-08-08T07:37:45
-slug: 10-years-on-mystery-of-the-confederate-sub-hunley-remains
+slug: "10-years-on-mystery-of-the-confederate-sub-hunley-remains"
 excerpt: "Ten years ago today, the Confederate Navy submarine H.L. Hunley was raised from the bottom of Charleston harbor in South Carolina, where it sank in 1864.  The Hunley was the first submarine to sink an enemy warship in combat.   … Continue reading &rarr;"
 categories:
   - "Current"

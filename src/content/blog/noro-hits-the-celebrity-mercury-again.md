@@ -1,7 +1,7 @@
 ---
 title: "Noro Hits the Celebrity Mercury again"
 date: 2010-03-19T09:08:28
-slug: noro-hits-the-celebrity-mercury-again
+slug: "noro-hits-the-celebrity-mercury-again"
 excerpt: "The norovirus has hit the Celebrity Mercury with a vengeance.    The Mercury returned to its home port of Charleston today, a day early, and the next cruise will be delayed by two days for an extensive top-to-bottom cleaning and sanitizing of the ship.  This … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

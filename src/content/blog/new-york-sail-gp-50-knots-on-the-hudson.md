@@ -1,7 +1,7 @@
 ---
 title: "New York Sail GP, 50 Knots on the Hudson"
 date: 2019-06-25T17:50:40
-slug: new-york-sail-gp-50-knots-on-the-hudson
+slug: "new-york-sail-gp-50-knots-on-the-hudson"
 excerpt: "On Friday afternoon, I headed over to North Cove in Lower Manhattan to watch the New York races of Sail GP. Sail GP is a global racing circuit of cutting edge one-design 15-meter-long foiling catamarans. The boats themselves are repurposed … Continue reading &rarr;"
 categories:
   - "Current"

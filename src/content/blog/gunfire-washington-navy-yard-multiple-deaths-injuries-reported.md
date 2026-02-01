@@ -1,7 +1,7 @@
 ---
 title: "Update: Gunfire at the Washington Navy Yard – At Least Twelve Dead"
 date: 2013-09-16T10:47:03
-slug: gunfire-washington-navy-yard-multiple-deaths-injuries-reported
+slug: "gunfire-washington-navy-yard-multiple-deaths-injuries-reported"
 excerpt: "Updated: 15:30 – The number of dead has risen to at least twelve. One shooter is dead and one may be still at large. Updated 13:02 – The Washington Post is reporting that as many as three gunmen opened fire … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

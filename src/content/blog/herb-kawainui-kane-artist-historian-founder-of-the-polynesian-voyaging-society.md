@@ -1,7 +1,7 @@
 ---
 title: "Herb Kawainui Kāne – Artist, Historian, Founder of the Polynesian Voyaging Society"
 date: 2011-06-19T12:35:28
-slug: herb-kawainui-kane-artist-historian-founder-of-the-polynesian-voyaging-society
+slug: "herb-kawainui-kane-artist-historian-founder-of-the-polynesian-voyaging-society"
 excerpt: "Yesterday we posted about the arrival of seven vaka, Polynesian voyaging canoes, in Hilo, Hawaii.    This seems an appropriate time to remember Herb Kawainui Kāne, an Hawaiian  artist, historian and one of the  founders of the Polynesian Voyaging Society, who died last March … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "JEROS, Terminator Robots Shred Jellyfish Hordes with Rotating Blades of Death"
 date: 2013-10-13T12:37:29
-slug: killer-robots-shred-jellyfish-swarm
+slug: "killer-robots-shred-jellyfish-swarm"
 excerpt: "This sounds like the title of a made-for-TV movie from the SyFy channel.  JEROS, Jellyfish Elimination Robotic Swarm, are jellyfish-shredding semi-autonomous robots designed by Korea Advanced Institute of Science and Technology (KAIST) to round up jellyfish in nets and shred thousands … Continue reading &rarr;"
 categories:
   - "Current"

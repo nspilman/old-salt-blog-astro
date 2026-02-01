@@ -1,7 +1,7 @@
 ---
 title: "Ancient Mariners — Homo Erectus in the Philippines 700,000 Years Ago?"
 date: 2018-05-06T14:02:09
-slug: ancient-mariners-homo-erectus-in-the-philippines-700000-years-ago
+slug: "ancient-mariners-homo-erectus-in-the-philippines-700000-years-ago"
 excerpt: "Researchers have dated stone tools and bones from a butchered rhinoceros and other ancient fauna found in the Philippines’ northern island of Luzon, that date back over 700,000 years, or several hundred thousand years before modern man evolved. So far no human bones have … Continue reading &rarr;"
 categories:
   - "Current"

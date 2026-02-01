@@ -1,7 +1,7 @@
 ---
 title: "Windjammer Peking Loaded on Combi Dock II for Voyage Home"
 date: 2017-07-15T13:56:51
-slug: windjammer-peking-loaded-combi-dock-ii-voyage-home
+slug: "windjammer-peking-loaded-combi-dock-ii-voyage-home"
 excerpt: "On an overcast Friday in New York’s inner harbor, the windjammer Peking, was gently slipped into the flooded well deck of the heavy-lift ship Combi Dock III.  Once in position, the heavy-lift’s ballast tanks were pumped out, lifting the historic … Continue reading &rarr;"
 categories:
   - "City of Ships"

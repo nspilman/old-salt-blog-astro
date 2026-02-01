@@ -1,7 +1,7 @@
 ---
 title: "All the Surfing Santas You Will Ever Need"
 date: 2016-12-25T09:32:49
-slug: surfing-santas-will-ever-need
+slug: "surfing-santas-will-ever-need"
 excerpt: "It is a brisk Christmas morning on the west bank of the Hudson River and I will admit that I wouldn’t mind being a warmer climate right now. So, in the spirit of the holidays, here is a compilation video … Continue reading &rarr;"
 categories:
   - "Current"

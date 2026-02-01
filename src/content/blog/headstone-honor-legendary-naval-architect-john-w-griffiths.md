@@ -1,7 +1,7 @@
 ---
 title: "Headstone To Honor Legendary Naval Architect John W. Griffiths"
 date: 2016-06-07T15:56:53
-slug: headstone-honor-legendary-naval-architect-john-w-griffiths
+slug: "headstone-honor-legendary-naval-architect-john-w-griffiths"
 excerpt: "On Saturday, July 23rd, the National Maritime Historical Society will unveil a headstone at the previously unmarked grave of legendary naval architect John W. Griffiths. The ceremony will take place in Queens at the Linden Hill United Methodist Cemetery at … Continue reading &rarr;"
 categories:
   - "Current"

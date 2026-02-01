@@ -1,7 +1,7 @@
 ---
 title: "Where Did Ancient Sailors Sail ? – Roman Shipwrecks Located in Deep Water off Corfu and Paxoi"
 date: 2012-05-31T15:32:09
-slug: where-did-ancient-sailors-sail-roman-shipwrecks-located-in-deep-water-off-corfu-and-paxoi
+slug: "where-did-ancient-sailors-sail-roman-shipwrecks-located-in-deep-water-off-corfu-and-paxoi"
 excerpt: "Two Roman-era shipwrecks have been found in water slightly less than a mile deep off the western Greek islands of Corfu and Paxoi. The two third-century wrecks were discovered earlier this month during a survey of an area where a Greek-Italian gas pipeline … Continue reading &rarr;"
 categories:
   - "Current"

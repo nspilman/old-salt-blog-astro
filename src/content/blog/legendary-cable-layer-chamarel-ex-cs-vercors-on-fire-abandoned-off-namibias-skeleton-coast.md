@@ -1,7 +1,7 @@
 ---
 title: "Legendary Cable Layer,  Chamarel (ex CS Vercors), On Fire & Abandoned Off Namibia’s Skeleton Coast"
 date: 2012-08-10T15:20:34
-slug: legendary-cable-layer-chamarel-ex-cs-vercors-on-fire-abandoned-off-namibias-skeleton-coast
+slug: "legendary-cable-layer-chamarel-ex-cs-vercors-on-fire-abandoned-off-namibias-skeleton-coast"
 excerpt: "France Telecom-Orange announced today that an unexplained fire had broken out on Thursday on the cable laying ship, the Chamarel, in the Atlantic Ocean off Namibia’s Skeleton Coast in the Atlantic Ocean.   The crew of 56 abandoned ship after attempts at firefighting … Continue reading &rarr;"
 categories:
   - "Current"

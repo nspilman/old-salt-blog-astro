@@ -1,7 +1,7 @@
 ---
 title: "South Street Seaport Hosts an Afternoon of Online Sea Chanteys,  Sunday, July 5, 202"
 date: 2020-07-03T09:13:50
-slug: south-street-seaport-hosts-an-afternoon-of-online-sea-chanteys-sunday-july-5-202
+slug: "south-street-seaport-hosts-an-afternoon-of-online-sea-chanteys-sunday-july-5-202"
 excerpt: "In May, we posted about the virtual return New York’s South Street Seaport Museum‘s monthly Chantey Sing.  It was great fun. The next Seaport Chantey sing is scheduled for this Sunday, July 5th. From the Seaport press release:  South Street … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

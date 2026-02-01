@@ -1,7 +1,7 @@
 ---
 title: "Update: Bulker Olivia Still Leaking Oil, Threatening Bird Life on Nightingale Island"
 date: 2011-03-22T19:11:10
-slug: update-bulker-olivia-still-leaking-oil-threatening-bird-life-on-nightingale-island
+slug: "update-bulker-olivia-still-leaking-oil-threatening-bird-life-on-nightingale-island"
 excerpt: "Last Wednesday the bulk carrier MV Olivia ran aground on Nightingale Island in the Tristan da Cuhna archipelago in the South Atlantic.  See our previous post. By Friday, she had broken up in heavy seas with 1,500 tonnes of heavy fuel … Continue reading &rarr;"
 categories:
   - "Current"

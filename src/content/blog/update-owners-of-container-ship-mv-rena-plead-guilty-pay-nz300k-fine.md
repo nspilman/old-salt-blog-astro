@@ -1,7 +1,7 @@
 ---
 title: "Update: Owners of Container Ship MV Rena Plead Guilty, Pay NZ$300K Fine"
 date: 2012-10-27T10:07:15
-slug: update-owners-of-container-ship-mv-rena-plead-guilty-pay-nz300k-fine
+slug: "update-owners-of-container-ship-mv-rena-plead-guilty-pay-nz300k-fine"
 excerpt: "Daina Shipping, owner of the container ship MV Rena, has been fined NZ $300,000 (US $246,000) for discharging harmful substances after the Liberian flagged ship, ran aground on the Astrolabe Reef off Tauranga, New Zealand in early October of last year. The ship subsequently broke up … Continue reading &rarr;"
 categories:
   - "Current"

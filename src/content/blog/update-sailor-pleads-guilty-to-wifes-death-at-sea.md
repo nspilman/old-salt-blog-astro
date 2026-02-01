@@ -1,7 +1,7 @@
 ---
 title: "Update: Sailor Pleads Guilty to Wife’s Death at Sea"
 date: 2018-11-07T12:44:48
-slug: update-sailor-pleads-guilty-to-wifes-death-at-sea
+slug: "update-sailor-pleads-guilty-to-wifes-death-at-sea"
 excerpt: "On May 14, 2017, Lewis Bennett was sailing with his wife, Isabella Hellman, from Cuba to Florida on their 37′ catamaran, Surf into Summer.  Sometime during the night, Hellman disappeared and the boat sank. Bennett was subsequently charged with second-degree murder in the death … Continue reading &rarr;"
 categories:
   - "Current"

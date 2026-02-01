@@ -1,7 +1,7 @@
 ---
 title: "World’s Oldest Message in a Bottle Bobs to the Surface"
 date: 2012-09-12T15:46:46
-slug: worlds-oldest-message-in-a-bottle-bobs-to-the-surface
+slug: "worlds-oldest-message-in-a-bottle-bobs-to-the-surface"
 excerpt: "Last year around this time, we posted about Harold Hackett of Prince Edward Island, who since 1996 has cast 4,800 bottles containing messages into the sea and has received 3,100 responses. Harold may hold the record for the most bottle … Continue reading &rarr;"
 categories:
   - "Current"

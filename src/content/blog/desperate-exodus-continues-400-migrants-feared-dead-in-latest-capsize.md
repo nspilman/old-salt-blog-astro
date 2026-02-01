@@ -1,7 +1,7 @@
 ---
 title: "Desperate Exodus Continues — 400 Migrants Feared Dead in Latest Capsize"
 date: 2015-04-15T14:08:06
-slug: desperate-exodus-continues-400-migrants-feared-dead-in-latest-capsize
+slug: "desperate-exodus-continues-400-migrants-feared-dead-in-latest-capsize"
 excerpt: "An estimated 400 migrants drowned in the Mediterranean when their boat capsized, 24 hours after leaving Libya.  Approximately 145 people were rescued.  Italian authorities say that around 8,500 migrants had been rescued at sea between Friday and Monday alone.  Nearly 3,500 migrants … Continue reading &rarr;"
 categories:
   - "Current"

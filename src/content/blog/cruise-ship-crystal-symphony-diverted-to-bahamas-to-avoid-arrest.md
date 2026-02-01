@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ship Crystal Symphony Diverted to Bahamas to Avoid Arrest"
 date: 2022-01-24T17:20:03
-slug: cruise-ship-crystal-symphony-diverted-to-bahamas-to-avoid-arrest
+slug: "cruise-ship-crystal-symphony-diverted-to-bahamas-to-avoid-arrest"
 excerpt: "The Crystal Symphony left from Miami on January 8 on a two-week cruise and was supposed to return to the same port on Saturday. After a United States federal judge ordered the ship seized over a lawsuit regarding unpaid fuel … Continue reading &rarr;"
 categories:
   - "Current"

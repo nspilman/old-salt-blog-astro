@@ -1,7 +1,7 @@
 ---
 title: "International Scurvy Awareness Day — Really?"
 date: 2015-05-02T10:38:41
-slug: international-scurvy-awareness-day-really
+slug: "international-scurvy-awareness-day-really"
 excerpt: "Once again, May 2nd is International Scurvy Awareness Day! The festivities appear to be sponsored by a group calling itself Lime Strong. I am not sure whether this is an individual or a marketing arm for lime growers. Nevertheless, there … Continue reading &rarr;"
 categories:
   - "Current"

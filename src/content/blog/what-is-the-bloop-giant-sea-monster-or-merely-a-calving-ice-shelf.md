@@ -1,8 +1,8 @@
 ---
 title: "What is the Bloop? Giant Sea Monster or Calving Ice Shelf?"
 date: 2014-07-24T09:06:44
-slug: what-is-the-bloop-giant-sea-monster-or-merely-a-calving-ice-shelf
-excerpt: "In 2009, we posted about the “bloop.”   What is the “bloop,” you well may ask?  The “bloop” was an mysterious ultra-low frequency underwater sound detected by the U.S. National Oceanic and Atmospheric Administration (NOAA) several times during the summer of 1997. NOAA … Continue reading &rarr;"
+slug: "what-is-the-bloop-giant-sea-monster-or-merely-a-calving-ice-shelf"
+excerpt: "In 2009, we posted about the \"bloop.\"   What is the \"bloop,\" you well may ask?  The \"bloop\" was an mysterious ultra-low frequency underwater sound detected by the U.S. National Oceanic and Atmospheric Administration (NOAA) several times during the summer of 1997. NOAA … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "calving ice shelf"
   - "sea monster"
 author: "Rick Spilman"
-description: "In 2009, we posted about the “bloop.”   What is the “bloop,” you well may ask?  The “bloop” was an mysterious ultra-low frequency underwater sound detected by the U.S. National Oceanic and Atmospheric Administration (NOAA) several times during the summer of 1997. NOAA … Continue reading &rarr;"
+description: "In 2009, we posted about the \"bloop.\"   What is the \"bloop,\" you well may ask?  The \"bloop\" was an mysterious ultra-low frequency underwater sound detected by the U.S. National Oceanic and Atmospheric Administration (NOAA) several times during the summer of 1997. NOAA … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2009/09/monster.jpg)In 2009, [we posted about the “bloop.”](http://www.oldsaltblog.com/2009/09/the-bloop-and-the-sea-serpent/)   What is the “bloop,” you well may ask?  The “[bloop](http://en.wikipedia.org/wiki/Bloop)” was an mysterious [ultra-low frequency underwater sound](http://www.pmel.noaa.gov/vents/acoustics/sounds/bloop.html) detected by the U.S. National Oceanic and Atmospheric Administration (NOAA) several times during the summer of 1997.

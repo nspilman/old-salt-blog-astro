@@ -1,7 +1,7 @@
 ---
 title: "Rowing Records Shattered in the Great Pacific Race"
 date: 2021-07-12T15:16:49
-slug: rowing-records-shattered-in-the-great-pacific-race
+slug: "rowing-records-shattered-in-the-great-pacific-race"
 excerpt: "The fourth rowing of the Great Pacific Race has shattered transPacific records. The race departed from the Golden Gate Bridge on May 30, bound for Honolulu. The teams are competing in identical boats, rowing entirely self-supported and unassisted across 2,400 miles … Continue reading &rarr;"
 categories:
   - "Current"

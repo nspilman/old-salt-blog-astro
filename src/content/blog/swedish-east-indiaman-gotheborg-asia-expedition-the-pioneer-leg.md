@@ -1,7 +1,7 @@
 ---
 title: "Swedish East Indiaman Götheborg Asia Expedition: The Pioneer Leg"
 date: 2022-06-28T17:57:51
-slug: swedish-east-indiaman-gotheborg-asia-expedition-the-pioneer-leg
+slug: "swedish-east-indiaman-gotheborg-asia-expedition-the-pioneer-leg"
 excerpt: "Last October, we posted about the Swedish East Indiaman Götheborg Asia Expedition, a voyage intended to promote and open new trade opportunities for Swedish and Asian companies. The expedition has now begun. Here is a short video of the first … Continue reading &rarr;"
 categories:
   - "Current"

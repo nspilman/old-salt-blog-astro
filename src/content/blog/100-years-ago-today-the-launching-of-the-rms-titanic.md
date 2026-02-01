@@ -1,7 +1,7 @@
 ---
 title: "100 Years Ago Today – the Launching of the RMS Titanic"
 date: 2011-05-31T12:33:18
-slug: 100-years-ago-today-the-launching-of-the-rms-titanic
+slug: "100-years-ago-today-the-launching-of-the-rms-titanic"
 excerpt: "On May 31, 1911, the RMS Titanic was launched at the Harland and Wolff shipyard in Belfast, Ireland.  After continued outfitting, the ship was delivered to White Star Line on March 30, 1912.  She set sail for New York City … Continue reading &rarr;"
 categories:
   - "Current"

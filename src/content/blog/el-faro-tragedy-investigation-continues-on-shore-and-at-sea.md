@@ -1,7 +1,7 @@
 ---
 title: "El Faro Tragedy — Investigation Continues on Shore and at Sea"
 date: 2016-02-16T12:53:11
-slug: el-faro-tragedy-investigation-continues-on-shore-and-at-sea
+slug: "el-faro-tragedy-investigation-continues-on-shore-and-at-sea"
 excerpt: "There are still almost as many questions as answers as to why the US flag ro/ro El Faro sank in Hurricane Joaquin last October with the loss of the 33 aboard. Today, the United States Coast Guard Marine Board of Investigation … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

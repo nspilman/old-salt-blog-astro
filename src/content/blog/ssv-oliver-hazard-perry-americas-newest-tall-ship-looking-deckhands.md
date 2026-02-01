@@ -1,7 +1,7 @@
 ---
 title: "SSV Oliver Hazard Perry:  America’s Newest Tall Ship Looking for Deckhands"
 date: 2016-06-11T13:51:56
-slug: ssv-oliver-hazard-perry-americas-newest-tall-ship-looking-deckhands
+slug: "ssv-oliver-hazard-perry-americas-newest-tall-ship-looking-deckhands"
 excerpt: "This sounds like a great opportunity for licensed deckhands.  The Sailing School Vessel (SSV) Oliver Hazard Perry is looking for crew.  From their recent announcement: Oliver Hazard Perry Rhode Island (OHPRI) is seeking to hire licensed deckhands for its brand new 200-foot … Continue reading &rarr;"
 categories:
   - "Current"

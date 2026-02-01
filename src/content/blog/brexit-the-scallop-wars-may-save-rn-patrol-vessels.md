@@ -1,7 +1,7 @@
 ---
 title: "Brexit & the Scallop Wars May Save RN Patrol Vessels"
 date: 2018-12-12T18:52:34
-slug: brexit-the-scallop-wars-may-save-rn-patrol-vessels
+slug: "brexit-the-scallop-wars-may-save-rn-patrol-vessels"
 excerpt: "The Royal Navy Offshore Patrol Vessels (OPVs), HMS Tyne, HMS Mersey, and HMS Severn had been scheduled to be decommissioned. Now, however, the three River Class patrol vessels, which support the Fishery Protection Squadron, have been given extended lives, potentially … Continue reading &rarr;"
 categories:
   - "Current"

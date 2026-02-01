@@ -1,7 +1,7 @@
 ---
 title: "Of Eleven Littoral Combat Ships Commissioned, Zero Deployed in 2108"
 date: 2018-05-01T09:07:50
-slug: of-eleven-littoral-combat-ships-commissioned-zero-deployed-in-2108
+slug: "of-eleven-littoral-combat-ships-commissioned-zero-deployed-in-2108"
 excerpt: "The saga of the US Navy’s Littoral Combat Ships (LCS) continues. The ships were intended to be small, versatile and relatively inexpensive. So far they have succeeded only in being small. The Navy intends to have around 30 of these ships … Continue reading &rarr;"
 categories:
   - "Current"

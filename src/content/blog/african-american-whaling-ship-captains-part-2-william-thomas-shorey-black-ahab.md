@@ -1,7 +1,7 @@
 ---
 title: "African American Whaling Ship Captains: Part 2 — William Thomas Shorey, the Black Ahab"
 date: 2017-02-28T09:59:37
-slug: african-american-whaling-ship-captains-part-2-william-thomas-shorey-black-ahab
+slug: "african-american-whaling-ship-captains-part-2-william-thomas-shorey-black-ahab"
 excerpt: "As we noted in our post yesterday, over nearly three centuries of whaling, some 175,000 men went to sea in 2,700 ships. Of the 2,500 masters who captained whaling ships, at least 63 were men of color. Many of the … Continue reading &rarr;"
 categories:
   - "History"

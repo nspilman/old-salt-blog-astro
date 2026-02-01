@@ -1,7 +1,7 @@
 ---
 title: "Great White Shark Cafe"
 date: 2018-06-15T18:09:14
-slug: great-white-shark-cafe
+slug: "great-white-shark-cafe"
 excerpt: "For many years, scientists had thought that great white sharks traveled north and south along the Pacific coast of America, feeding in waters close to shore. Then researchers at Stanford University’s Hopkins Marine Station began tagging white sharks with satellite tracking tags. Rather … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

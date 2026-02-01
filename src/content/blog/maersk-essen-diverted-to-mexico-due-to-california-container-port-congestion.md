@@ -1,7 +1,7 @@
 ---
 title: "Maersk Essen Diverted to Mexico Due to California Container Port Congestion"
 date: 2021-01-22T13:23:15
-slug: maersk-essen-diverted-to-mexico-due-to-california-container-port-congestion
+slug: "maersk-essen-diverted-to-mexico-due-to-california-container-port-congestion"
 excerpt: "Yesterday, we posted about the Maersk Essen that recently lost 750 containers over the side in a  storm in the North Pacific. An unknown number of containers still aboard the ship are believed to have been damaged during the storm. … Continue reading &rarr;"
 categories:
   - "Current"

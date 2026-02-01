@@ -1,7 +1,7 @@
 ---
 title: "2000 year-old Antikythera Mechanism made out of Legos?"
 date: 2010-12-12T08:15:14
-slug: 2000-year-old-antikythera-mechanism-made-out-of-legos
+slug: "2000-year-old-antikythera-mechanism-made-out-of-legos"
 excerpt: "In 1901, the Antiythera mechanism was pulled from a Roman shipwreck. It is believed to date from approximately 90 BC. For years no one knew what to make of the strange clock-like device until advanced digital radiographs revealed that it was … Continue reading &rarr;"
 categories:
   - "Current"

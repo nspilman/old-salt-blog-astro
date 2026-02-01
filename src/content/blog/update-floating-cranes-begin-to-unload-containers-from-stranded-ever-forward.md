@@ -1,7 +1,7 @@
 ---
 title: "Update: Floating Cranes Begin to Unload Containers from Stranded Ever Forward"
 date: 2022-04-11T17:18:42
-slug: update-floating-cranes-begin-to-unload-containers-from-stranded-ever-forward
+slug: "update-floating-cranes-begin-to-unload-containers-from-stranded-ever-forward"
 excerpt: "Container News is reporting that the unloading of containers from Ever Forward has begun. The plan is to unload 550 containers over the next few days to lighten the load of the ship before the next refloat attempt. Salvors are … Continue reading &rarr;"
 categories:
   - "Current"

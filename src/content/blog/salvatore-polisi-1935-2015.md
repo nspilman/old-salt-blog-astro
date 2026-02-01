@@ -1,7 +1,7 @@
 ---
 title: "Salvatore Polisi 1935 – 2015"
 date: 2015-01-21T09:41:42
-slug: salvatore-polisi-1935-2015
+slug: "salvatore-polisi-1935-2015"
 excerpt: "New York harbor has lost part of its living history with the passing of Sal Polisi, longtime volunteer and master carver at the South Street Seaport Museum. For three decades, Polisi carved everything from figureheads to wooden signs, using the time honored methods of … Continue reading &rarr;"
 categories:
   - "Current"

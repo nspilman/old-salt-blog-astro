@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Ship Sea Hunter Sails From California to Hawaii & Back"
 date: 2019-02-22T14:41:52
-slug: autonomous-ship-sea-hunter-sails-from-california-to-hawaii-back
+slug: "autonomous-ship-sea-hunter-sails-from-california-to-hawaii-back"
 excerpt: "Two years ago we posted about the ASW Continuous Trail Unmanned Vessel (ACTUV), Sea Hunter, a 132′ long autonomous drone trimaran designed to track enemy submarines, being developed by the US Navy. The unmanned ship reached a major milestone recently after sailing autonomously … Continue reading &rarr;"
 categories:
   - "Current"

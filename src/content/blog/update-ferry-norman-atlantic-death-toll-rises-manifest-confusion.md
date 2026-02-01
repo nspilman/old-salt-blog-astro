@@ -1,7 +1,7 @@
 ---
 title: "Update: Ferry Norman Atlantic, Death Toll Rises, Manifest Confusion"
 date: 2014-12-31T09:30:41
-slug: update-ferry-norman-atlantic-death-toll-rises-manifest-confusion
+slug: "update-ferry-norman-atlantic-death-toll-rises-manifest-confusion"
 excerpt: "The death toll among passengers and crew from the fire on the Norman Atlantic has risen to ten.  One man died when attempting to leave the ship and an additional nine bodies were found aboard.  The total death related to … Continue reading &rarr;"
 categories:
   - "Current"

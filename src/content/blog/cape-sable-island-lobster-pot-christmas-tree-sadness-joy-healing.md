@@ -1,7 +1,7 @@
 ---
 title: "Cape Sable Island Lobster Pot Christmas Tree — Sadness, Joy & Healing"
 date: 2016-12-24T08:05:12
-slug: cape-sable-island-lobster-pot-christmas-tree-sadness-joy-healing
+slug: "cape-sable-island-lobster-pot-christmas-tree-sadness-joy-healing"
 excerpt: "We have posted about lobster pot Christmas trees before, but this one is rather different. On Canada’s Cape Sable Island the lobster pot tree is decorated with pot buoys with the names of fishermen. Some are still going out to … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Pinky, the Albino Dolphin of the Calcasieu"
 date: 2015-09-16T13:37:15
-slug: pinky-the-albino-dolphin-of-the-calcasieu
+slug: "pinky-the-albino-dolphin-of-the-calcasieu"
 excerpt: "For several years we have followed; virtually, if not literally; the travels of Migaloo, an albino humpback whale that has migrated off Australia’s Queensland’s coast since at least 1991. In August we posted about a new young albino humpback which some … Continue reading &rarr;"
 categories:
   - "Current"

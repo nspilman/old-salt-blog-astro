@@ -1,7 +1,7 @@
 ---
 title: "Captain Boomer & the Cachalot Plastique"
 date: 2016-07-06T20:03:15
-slug: captain-boomer-cachalot-plastique
+slug: "captain-boomer-cachalot-plastique"
 excerpt: "I am not entirely sure that I get the joke.  In a year when sperm whales have been washing up dead on shores around the world; dying after ingesting plastic, fishing nets and auto parts; the arrival of a beached … Continue reading &rarr;"
 categories:
   - "Current"

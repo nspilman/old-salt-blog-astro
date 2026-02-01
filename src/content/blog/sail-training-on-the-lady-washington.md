@@ -1,7 +1,7 @@
 ---
 title: "Sail Training on the Lady Washington"
 date: 2014-03-13T10:30:21
-slug: sail-training-on-the-lady-washington
+slug: "sail-training-on-the-lady-washington"
 excerpt: "Safe Harbor Pictures recently released a short video about sail training on the Lady Washington.   The Lady Washington is a replica of the first American ship to round Cape Horn.  The original ship sailed from Boston Harbor on October 1, … Continue reading &rarr;"
 categories:
   - "Current"

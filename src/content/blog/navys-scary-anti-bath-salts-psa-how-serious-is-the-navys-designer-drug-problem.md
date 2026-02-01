@@ -1,8 +1,8 @@
 ---
 title: "Navy’s Scary Anti-Bath Salts PSA – How Serious is the Navy’s Designer Drug Problem?"
 date: 2013-01-21T10:00:26
-slug: navys-scary-anti-bath-salts-psa-how-serious-is-the-navys-designer-drug-problem
-excerpt: "In February 2001, we posted about the problem that the US Navy has been having with the “synthetic marijuana” often referred to as “spice.”  Since then the Navy has discharged over 200 sailors for use of the “spice.”  Earlier this month, … Continue reading &rarr;"
+slug: "navys-scary-anti-bath-salts-psa-how-serious-is-the-navys-designer-drug-problem"
+excerpt: "In February 2001, we posted about the problem that the US Navy has been having with the \"synthetic marijuana\" often referred to as \"spice.\"  Since then the Navy has discharged over 200 sailors for use of the \"spice.\"  Earlier this month, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Spice"
   - "US Navy"
 author: "Rick Spilman"
-description: "In February 2001, we posted about the problem that the US Navy has been having with the “synthetic marijuana” often referred to as “spice.”  Since then the Navy has discharged over 200 sailors for use of the “spice.”  Earlier this month, … Continue reading &rarr;"
+description: "In February 2001, we posted about the problem that the US Navy has been having with the \"synthetic marijuana\" often referred to as \"spice.\"  Since then the Navy has discharged over 200 sailors for use of the \"spice.\"  Earlier this month, … Continue reading &rarr;"
 ---
 
 In February 2001, we posted about the problem that the [US Navy has been having with the “synthetic marijuana” often referred to as “spice.”](http://www.oldsaltblog.com/wp-admin/post.php?post=29512&action=edit)  Since then the Navy has discharged over 200 sailors for use of the “spice.”  Earlier this month, the Navy issued a rather disturbing public service announcement warning about the danger of another, but very different, designer drug – “bath salts.”  Thanks to Phil Leon for contributing to the post.

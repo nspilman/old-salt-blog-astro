@@ -1,7 +1,7 @@
 ---
 title: "Oldest Puget Sound Orca, L25 May Be Nearing 100th Birthday — Why Do Orca Matriarchs Live So Long?"
 date: 2024-03-20T09:10:25
-slug: oldest-puget-sound-orca-l25-may-be-nearing-100th-birthday-why-do-orca-matriarchs-live-so-long
+slug: "oldest-puget-sound-orca-l25-may-be-nearing-100th-birthday-why-do-orca-matriarchs-live-so-long"
 excerpt: "Why do the matriarchs of orca pods often live such long lives? The average lifespan for male killer whales is about 30 years, but they can live up to at least 60 years. Females typically live about 50 years, but … Continue reading &rarr;"
 categories:
   - "Current"

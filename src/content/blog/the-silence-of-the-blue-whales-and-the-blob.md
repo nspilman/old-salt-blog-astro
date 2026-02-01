@@ -1,7 +1,7 @@
 ---
 title: "The Silence of the Blue Whales and the Blob"
 date: 2025-08-07T18:58:51
-slug: the-silence-of-the-blue-whales-and-the-blob
+slug: "the-silence-of-the-blue-whales-and-the-blob"
 excerpt: "A recent study by the Monterey Bay Aquarium Research Institute (MBARI) observed that blue whale vocalizations off the coast of Northern California decreased by 40% over a six-year period.  Blue whales are the largest animals to ever live on Earth. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Repost: Sailors’ Tattoos on Mother’s Day"
 date: 2023-05-14T16:50:51
-slug: repost-sailors-tattoos-on-mothers-day-2
-excerpt: "An updated repost appropriate for Mother’s Day. Sailors choose their tattoos for various reasons. Among the most popular sailor tattoos are anchors, hearts, and swallows.  Not infrequently, “Mom” also made an appearance as a reminder of loved ones and home. … Continue reading &rarr;"
+slug: "repost-sailors-tattoos-on-mothers-day-2"
+excerpt: "An updated repost appropriate for Mother’s Day. Sailors choose their tattoos for various reasons. Among the most popular sailor tattoos are anchors, hearts, and swallows.  Not infrequently, \"Mom\" also made an appearance as a reminder of loved ones and home. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Sailor’s Tattoos"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/momheart2.jpg"
 author: "Rick Spilman"
-description: "An updated repost appropriate for Mother’s Day. Sailors choose their tattoos for various reasons. Among the most popular sailor tattoos are anchors, hearts, and swallows.  Not infrequently, “Mom” also made an appearance as a reminder of loved ones and home. … Continue reading &rarr;"
+description: "An updated repost appropriate for Mother’s Day. Sailors choose their tattoos for various reasons. Among the most popular sailor tattoos are anchors, hearts, and swallows.  Not infrequently, \"Mom\" also made an appearance as a reminder of loved ones and home. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/05/momheart2.jpg)An updated repost appropriate for Mother’s Day.

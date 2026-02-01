@@ -1,7 +1,7 @@
 ---
 title: "Update: The 18th Century World Trade Center Ship May Have Been Built Near Philadelhia"
 date: 2014-08-01T07:45:29
-slug: update-the-18th-century-world-trade-center-ship-may-have-been-built-near-philadelhia
+slug: "update-the-18th-century-world-trade-center-ship-may-have-been-built-near-philadelhia"
 excerpt: "Four years ago, workers excavating at the new World Trade Center site in lower Manhattan uncovered the remains of an 18th century wooden merchant ship. The ship was found 20 feet below street level,  is roughly 30 feet in length and was probably buried intentionally as land … Continue reading &rarr;"
 categories:
   - "City of Ships"

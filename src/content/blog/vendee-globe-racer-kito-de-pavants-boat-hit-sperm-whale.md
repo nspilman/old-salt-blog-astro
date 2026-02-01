@@ -1,7 +1,7 @@
 ---
 title: "Vendee Globe Racer Kito de Pavant’s Boat Hit Sperm Whale"
 date: 2017-03-20T14:27:04
-slug: vendee-globe-racer-kito-de-pavants-boat-hit-sperm-whale
+slug: "vendee-globe-racer-kito-de-pavants-boat-hit-sperm-whale"
 excerpt: "Last December we posted — so far, of the original 29 competitors in the Vendee Globe singlehanded around the world race, 5 have been forced to retire after being damaged by collisions with UFOs, unidentified floating objects. One of the … Continue reading &rarr;"
 categories:
   - "Current"

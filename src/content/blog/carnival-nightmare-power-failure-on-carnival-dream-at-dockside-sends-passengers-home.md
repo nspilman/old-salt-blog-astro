@@ -1,7 +1,7 @@
 ---
 title: "Carnival Nightmare? Power Failure on Carnival Dream at Dockside Sends Passengers Home"
 date: 2013-03-14T15:42:21
-slug: carnival-nightmare-power-failure-on-carnival-dream-at-dockside-sends-passengers-home
+slug: "carnival-nightmare-power-failure-on-carnival-dream-at-dockside-sends-passengers-home"
 excerpt: "The story sounds disturbingly familiar – a Carnival cruise ship with generator problems, overflowing toilets and passengers sent home from an interrupted cruise. The good new is that the generator failure on the Carnival Dream, the largest cruise ship operated by Carnival … Continue reading &rarr;"
 categories:
   - "Current"

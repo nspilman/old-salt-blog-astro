@@ -1,7 +1,7 @@
 ---
 title: "Trump Admin Approves Seismic Testing Which Harms Whales and Dolphins"
 date: 2018-12-01T17:04:09
-slug: trump-admin-approves-seismic-testing-which-harms-whales-and-dolphins
+slug: "trump-admin-approves-seismic-testing-which-harms-whales-and-dolphins"
 excerpt: "The Trump administration has approved seismic testing related to oil and gas exploration off the US Atlantic coast. The testing could harm tens of thousands of dolphins, whales and other marine animals. The testing uses blasts from high-powered airguns to map the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Royal Greenwich Tall Ships Festival 2014"
 date: 2014-09-04T10:21:03
-slug: royal-greenwich-tall-ships-festival-2014
+slug: "royal-greenwich-tall-ships-festival-2014"
 excerpt: "Another great event that I wish I was attending.  Starting tomorrow September 5th and lasting through the 9th, the Royal Greenwich Tall Ships Festival will take place at three sites across Royal Greenwich and one in neighboring Canary Wharf.  The tall ships … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Women’s History Month — Honoring Winnie Breegle, WWII WAVE and Code Talker at 100"
 date: 2022-03-06T18:36:44
-slug: womens-history-month-honoring-winnie-breegle-wwii-wave-and-code-talker-at-100
+slug: "womens-history-month-honoring-winnie-breegle-wwii-wave-and-code-talker-at-100"
 excerpt: "During Women’s History Month, it is a good time to honor Winnie Breegle who celebrated her 100th birthday last month. She served in World War II as a WAVE (Woman Accepted for Volunteer Emergency Service) cryptographer and a Navajo code … Continue reading &rarr;"
 categories:
   - "History"

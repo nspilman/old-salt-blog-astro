@@ -1,7 +1,7 @@
 ---
 title: "Red Tide, Blue Waves"
 date: 2020-04-23T14:32:49
-slug: red-tide-blue-waves
+slug: "red-tide-blue-waves"
 excerpt: "Recently, an outbreak of red tide off Newport Beach, California discolored the Pacific waters during daylight and then, once the sun had set, put on an amazing show of bioluminescence which turned the ocean waves a vivid neon blue. Not … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Claude Choules – Last World War I Combat Veteran Celebrates 110th Birthday"
 date: 2011-03-21T14:26:34
-slug: claude-choules-last-world-war-i-combat-veteran-celebrates-110th-birthday
+slug: "claude-choules-last-world-war-i-combat-veteran-celebrates-110th-birthday"
 excerpt: "Claude Choules, the last surviving combat veteran of World War I celebrated his 110th birthday with family and friends in Perth earlier this month.   Though he served in two World Wars, the first in the Royal Navy and the second in … Continue reading &rarr;"
 categories:
   - "Current"

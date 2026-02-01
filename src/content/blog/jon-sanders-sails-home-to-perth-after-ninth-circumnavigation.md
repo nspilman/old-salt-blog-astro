@@ -1,7 +1,7 @@
 ---
 title: "Jon Sanders Sails Home to Perth After Ninth Circumnavigation"
 date: 2015-02-01T19:18:20
-slug: jon-sanders-sails-home-to-perth-after-ninth-circumnavigation
+slug: "jon-sanders-sails-home-to-perth-after-ninth-circumnavigation"
 excerpt: "75 year old Australian yachtsman Jon Sanders recently sailed into Perth after finishing his ninth circumnavigation. Yes, you read that correctly — his ninth circumnavigation. Sanders is best known for his incredible voyage in 1986 – 1988 in which he circumnavigated the world three … Continue reading &rarr;"
 categories:
   - "Current"

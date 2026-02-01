@@ -1,7 +1,7 @@
 ---
 title: "Crow’s Nests : Part 1 — Melville & Captain Scoresby"
 date: 2014-07-16T13:35:01
-slug: crows-nests-part-1-melville-captain-scoresby
+slug: "crows-nests-part-1-melville-captain-scoresby"
 excerpt: "The first of a two-part post on crows nests. Who would have thought that a crow’s nest deserves such attention? A reader commented on the lack of a crow’s nest in the video of the Charles W. Morgan under sail … Continue reading &rarr;"
 categories:
   - "History"

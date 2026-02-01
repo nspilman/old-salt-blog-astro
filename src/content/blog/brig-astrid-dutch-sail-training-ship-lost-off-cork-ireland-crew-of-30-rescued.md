@@ -1,7 +1,7 @@
 ---
 title: "Dutch Sail Training Ship, Astrid, Lost off Cork, Ireland – Crew of 30 Rescued"
 date: 2013-07-24T11:14:39
-slug: brig-astrid-dutch-sail-training-ship-lost-off-cork-ireland-crew-of-30-rescued
+slug: "brig-astrid-dutch-sail-training-ship-lost-off-cork-ireland-crew-of-30-rescued"
 excerpt: "The Dutch Sail Training Ship, Astrid, a 136′ (41.65 M) brig, was lost this morning after running aground on rocks on the western mouth of Oysterhaven, on the Cork, Ireland coast, shortly after leaving the anchorage this morning.  Thirty crew … Continue reading &rarr;"
 categories:
   - "Current"

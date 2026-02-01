@@ -1,7 +1,7 @@
 ---
 title: "Submersible Titan Debris Brought Ashore With Presumed Human Remains"
 date: 2023-06-29T15:53:16
-slug: submersible-titan-debris-brought-ashore-with-presumed-human-remains
+slug: "submersible-titan-debris-brought-ashore-with-presumed-human-remains"
 excerpt: "NPR reports that human remains have likely been recovered from the wreckage of the submersible that imploded during an underwater voyage to view the Titanic, the U.S. Coast Guard said Wednesday. The news came hours after the announcement that debris … Continue reading &rarr;"
 categories:
   - "Current"

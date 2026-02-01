@@ -1,7 +1,7 @@
 ---
 title: "First Female Captain of a P&O Cruise ship"
 date: 2010-04-22T08:01:12
-slug: first-female-captain-of-a-po-cruise-ship
+slug: "first-female-captain-of-a-po-cruise-ship"
 excerpt: "Sarah Breton, 45, from Essex, has been appointed as Captain of the 1,200 P&O cruise ship Artemis. As such she is the first female captain in P&O’s 173 year history and the first female captain of a cruise ship in … Continue reading &rarr;"
 categories:
   - "Current"

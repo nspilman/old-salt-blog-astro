@@ -1,7 +1,7 @@
 ---
 title: "Deepwater Wind, First US Offshore Wind Farm Goes Live off Block Island"
 date: 2016-12-19T17:27:35
-slug: deepwater-wind-first-us-offshore-wind-farm-goes-live-off-block-island
+slug: "deepwater-wind-first-us-offshore-wind-farm-goes-live-off-block-island"
 excerpt: "The great news is that the first US offshore wind farm is now online. Five 6 MW wind turbines installed by Deepwater Wind have begun commercial operation off Block Island, RI. The turbines should generate enough electricity for 17,000 homes. It … Continue reading &rarr;"
 categories:
   - "Current"

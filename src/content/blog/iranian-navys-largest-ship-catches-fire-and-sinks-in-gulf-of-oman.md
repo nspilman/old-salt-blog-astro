@@ -1,7 +1,7 @@
 ---
 title: "Iranian Navy’s Largest Ship Catches Fire and Sinks in Gulf of Oman"
 date: 2021-06-02T13:58:34
-slug: iranian-navys-largest-ship-catches-fire-and-sinks-in-gulf-of-oman
+slug: "iranian-navys-largest-ship-catches-fire-and-sinks-in-gulf-of-oman"
 excerpt: "Kharg, an Iranian Navy training and logistics ship, caught fire in the Gulf of Oman in the early hours of Wednesday local time. After more than 20 hours of firefighting and rescue operations, the ship subsequently sank near the port … Continue reading &rarr;"
 categories:
   - "Current"

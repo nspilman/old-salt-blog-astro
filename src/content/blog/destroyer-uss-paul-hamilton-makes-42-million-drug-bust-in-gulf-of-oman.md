@@ -1,7 +1,7 @@
 ---
 title: "Destroyer USS Paul Hamilton Makes $42 Million Drug Bust in Gulf of Oman"
 date: 2023-04-24T21:10:27
-slug: destroyer-uss-paul-hamilton-makes-42-million-drug-bust-in-gulf-of-oman
+slug: "destroyer-uss-paul-hamilton-makes-42-million-drug-bust-in-gulf-of-oman"
 excerpt: "The guided-missile destroyer USS Paul Hamilton recently intercepted a fishing boat in the Gulf of Oman carrying 802 kilograms of methamphetamines and 1,000 kilograms of hashish. Before being boarded, the five crewmembers on the fishing vessel – who identified themselves … Continue reading &rarr;"
 categories:
   - "Current"

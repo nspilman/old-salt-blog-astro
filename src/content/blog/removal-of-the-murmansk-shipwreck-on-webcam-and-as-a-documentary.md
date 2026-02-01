@@ -1,7 +1,7 @@
 ---
 title: "Removal of the Murmansk Shipwreck on Webcam and Documentary"
 date: 2010-08-13T21:52:59
-slug: removal-of-the-murmansk-shipwreck-on-webcam-and-as-a-documentary
+slug: "removal-of-the-murmansk-shipwreck-on-webcam-and-as-a-documentary"
 excerpt: "After a service life of almost 40 years, the Soviet light cruiser Murmansk was decommissioned and sold for scrap.  On Christmas Eve in 1994, the ship was under tow to India when the tug lost control of the ship in a storm. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Of Waves and Whales  –  Whaling and the Tsunami"
 date: 2011-12-09T08:37:11
-slug: of-waves-and-whales-whaling-and-the-tsunami
+slug: "of-waves-and-whales-whaling-and-the-tsunami"
 excerpt: "Within hours of the tsunami that struck northern Japan last March, the internet was abuzz with the somewhat bizarre suggestion that the earthquake and wave which followed might be some sort of cosmic retribution for Japanese whaling.  Regardless of what one thinks of that suggestion, … Continue reading &rarr;"
 categories:
   - "Current"

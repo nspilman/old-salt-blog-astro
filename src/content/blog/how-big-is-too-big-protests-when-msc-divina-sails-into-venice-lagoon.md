@@ -1,7 +1,7 @@
 ---
 title: "How Big is Too Big?  Protests on MSC Divina’s Arrival in Venice Lagoon"
 date: 2012-06-06T12:43:19
-slug: how-big-is-too-big-protests-when-msc-divina-sails-into-venice-lagoon
+slug: "how-big-is-too-big-protests-when-msc-divina-sails-into-venice-lagoon"
 excerpt: "MSC’s newest passenger ship, the MSC Davina, recently called at the Venice lagoon setting off a storm of protests. The protesters think that such a large ship creates too much pollution and could damage the fragile environment of the lagoon. The MSC Davina is 139,400 GT, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Captain John Moore – Submarine Commander and Editor of Jane’s Fighting Ships"
 date: 2010-08-24T15:31:43
-slug: captain-john-moore-submarine-captain-and-editor-of-janes-fighting-ships
+slug: "captain-john-moore-submarine-captain-and-editor-of-janes-fighting-ships"
 excerpt: "Captain John Moore, submarine captain, developer of covert landings techniques of the Special Boat Service and editor of Janes Fighting Ships, died last month at age 88. Captain John Moore Jane’s Fighting Ships, an annual publication which became the leading authority on … Continue reading &rarr;"
 categories:
   - "Current"

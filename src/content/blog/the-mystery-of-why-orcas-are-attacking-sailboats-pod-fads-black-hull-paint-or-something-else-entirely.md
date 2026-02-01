@@ -1,7 +1,7 @@
 ---
 title: "The Mystery of Why Orcas Are Attacking Sailboats — Pod Fads, Black Hull Paint, or Something Else Entirely"
 date: 2023-02-09T19:03:26
-slug: the-mystery-of-why-orcas-are-attacking-sailboats-pod-fads-black-hull-paint-or-something-else-entirely
+slug: "the-mystery-of-why-orcas-are-attacking-sailboats-pod-fads-black-hull-paint-or-something-else-entirely"
 excerpt: "Since 2020, juvenile orcas within pods that feed on migrating tuna traveling through the Strait of Gibraltar and around the Iberian Peninsula, have taken to bumping and ramming the hulls of small yachts and damaging rudders. In the last several … Continue reading &rarr;"
 categories:
   - "Current"

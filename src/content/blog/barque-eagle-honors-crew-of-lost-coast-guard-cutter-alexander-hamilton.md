@@ -1,7 +1,7 @@
 ---
 title: "Barque Eagle Honors Crew Of Lost Coast Guard Cutter Alexander Hamilton"
 date: 2011-07-04T07:44:41
-slug: barque-eagle-honors-crew-of-lost-coast-guard-cutter-alexander-hamilton
+slug: "barque-eagle-honors-crew-of-lost-coast-guard-cutter-alexander-hamilton"
 excerpt: "The US  Coast Guard Barque Eagle stopped on her way home from her cruise of European ports to honor the memory of the crew of the Coast Guard Cutter Alexander Hamilton, sunk by German submarine U-132 off Iceland in 1942.  On Friday, the … Continue reading &rarr;"
 categories:
   - "Current"

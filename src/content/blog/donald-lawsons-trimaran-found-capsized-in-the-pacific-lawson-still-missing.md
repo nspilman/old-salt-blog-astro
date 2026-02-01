@@ -1,7 +1,7 @@
 ---
 title: "Donald Lawson’s Trimaran Found Capsized in the Pacific, Lawson Still Missing"
 date: 2023-08-01T21:02:42
-slug: donald-lawsons-trimaran-found-capsized-in-the-pacific-lawson-still-missing
+slug: "donald-lawsons-trimaran-found-capsized-in-the-pacific-lawson-still-missing"
 excerpt: "Donald Lawson and his Dark Seas Project was nothing if not ambitious. Lawson, 41, was preparing to set out to break at least 35 sailing records on his ORMA 60 trimaran, Defiant.  Lawson is a professional sailor from Baltimore who … Continue reading &rarr;"
 categories:
   - "Current"

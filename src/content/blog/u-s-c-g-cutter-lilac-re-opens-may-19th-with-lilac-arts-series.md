@@ -1,7 +1,7 @@
 ---
 title: "U.S.C.G. Cutter Lilac Re-Opens May 19th with Lilac Arts Series"
 date: 2015-05-14T09:49:57
-slug: u-s-c-g-cutter-lilac-re-opens-may-19th-with-lilac-arts-series
+slug: "u-s-c-g-cutter-lilac-re-opens-may-19th-with-lilac-arts-series"
 excerpt: "The U.S.C.G. Cutter Lilac, America’s only steam-powered lighthouse tender, is reopening on May 19th at her berth on Hudson River Park’s Pier 25 at West Street and N. Moore Street in New York. This season, the historic ship will host … Continue reading &rarr;"
 categories:
   - "Current"

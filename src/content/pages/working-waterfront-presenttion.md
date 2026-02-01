@@ -1,7 +1,7 @@
 ---
 title: "Working Waterfront Presenttion"
 date: 2013-02-05T13:53:01
-slug: working-waterfront-presenttion
+slug: "working-waterfront-presenttion"
 author: "Rick Spilman"
 description: "What Sort of Presentation? Topic? Speakers? Length? Format? Videos Johnson Villiers Cutty Sark Silent Films Star Clipper Windjammers – Late 19th and 20th Century Characteristics Why Commercial Sail Disappeared Routes & Canals Schedules and Speed Oil Price Sail Training and Cruise Ships – 20th Century New Designs, New … Continue reading &rarr;"
 ---

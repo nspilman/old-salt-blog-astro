@@ -1,7 +1,7 @@
 ---
 title: "U.S. Coast Guard Barque Eagle begins 75th-anniversary Tour"
 date: 2011-03-19T07:43:58
-slug: u-s-coast-guard-barque-eagle-begins-75th-anniversary-tour
+slug: "u-s-coast-guard-barque-eagle-begins-75th-anniversary-tour"
 excerpt: "The US Coast Guard Barque Eagle,  built  in Hamburg, Germany, in 1936, arrived in Philadelphia on Friday, on the first stop of her 75th anniversary tour. The tall ship Eagle has landed _ in Philadelphia … Continue reading &rarr;"
 categories:
   - "Current"

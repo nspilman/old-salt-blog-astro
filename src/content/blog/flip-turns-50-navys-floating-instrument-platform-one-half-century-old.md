@@ -1,8 +1,8 @@
 ---
 title: "FLIP Turns 50 !  Navy’s Floating Instrument Platform One Half Century Old"
 date: 2012-07-06T15:41:57
-slug: flip-turns-50-navys-floating-instrument-platform-one-half-century-old
-excerpt: "The Navy’s Floating Instrument Platform, better known as FLIP, went into service fifty years ago, in 1962.  The 355-foot research vessel is capable of operating horizontally as a conventional, if somewhat odd-looking, ship. When on station, however, it “flips” vertically 90 degrees and becomes the … Continue reading &rarr;"
+slug: "flip-turns-50-navys-floating-instrument-platform-one-half-century-old"
+excerpt: "The Navy’s Floating Instrument Platform, better known as FLIP, went into service fifty years ago, in 1962.  The 355-foot research vessel is capable of operating horizontally as a conventional, if somewhat odd-looking, ship. When on station, however, it \"flips\" vertically 90 degrees and becomes the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "FLIP"
   - "Floating Instrument Platform"
 author: "Rick Spilman"
-description: "The Navy’s Floating Instrument Platform, better known as FLIP, went into service fifty years ago, in 1962.  The 355-foot research vessel is capable of operating horizontally as a conventional, if somewhat odd-looking, ship. When on station, however, it “flips” vertically 90 degrees and becomes the … Continue reading &rarr;"
+description: "The Navy’s Floating Instrument Platform, better known as FLIP, went into service fifty years ago, in 1962.  The 355-foot research vessel is capable of operating horizontally as a conventional, if somewhat odd-looking, ship. When on station, however, it \"flips\" vertically 90 degrees and becomes the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/croppedflip.3.jpg)The Navy’s Floating Instrument Platform, better known as FLIP, went into service fifty years ago, in 1962.  The 355-foot research vessel is capable of operating horizontally as a conventional, if somewhat odd-looking, ship. When on station, however, it “flips” vertically 90 degrees and becomes the equivalent of a massive spar buoy.   Because the hydrodynamic forces act primarily on the bottom of the vessel, which is far below the surface waves, the ship is highly stable in heavy seas and up to 80′ waves.

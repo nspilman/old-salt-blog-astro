@@ -1,7 +1,7 @@
 ---
 title: "‘Jaws’ Shark Hunted Down"
 date: 2010-06-22T09:45:21
-slug: jaws-shark-hunted-down
+slug: "jaws-shark-hunted-down"
 excerpt: "It says something about our society that a missing prop from a classic movie, specifically Bruce, the mechanical shark from Jaws, has its own Facebook page. I’m not exactly sure what it says, but it has to say something.   For those who might … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

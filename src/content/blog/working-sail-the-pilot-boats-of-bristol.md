@@ -1,7 +1,7 @@
 ---
 title: "Working Sail – the Pilot Boats of Bristol"
 date: 2013-11-17T16:52:28
-slug: working-sail-the-pilot-boats-of-bristol
+slug: "working-sail-the-pilot-boats-of-bristol"
 excerpt: "There is something truly magical about Bristol Pilot Cutters. A video by Stephen Morris about the pilot boats of Bristol. Working Sail Working Sail – Builders of Traditional Wooden Pilot Cutters Annabel J – Classic Sailing Holidays … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "German Sub UB-85 — Of Submarines and Sea Monsters"
 date: 2016-10-19T14:30:03
-slug: german-sub-ub-85-submarines-sea-monsters
+slug: "german-sub-ub-85-submarines-sea-monsters"
 excerpt: "Engineers laying subsea power cables off Stranraer, Scotland have discovered the wreck of a World War I German UBIII-Class submarine, which may be either the UB-85 or the UB-82, both of which were sunk in the area. The possibility that … Continue reading &rarr;"
 categories:
   - "Current"

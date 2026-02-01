@@ -1,7 +1,7 @@
 ---
 title: "Replica Viking Longship? Stop by the Gift Shop"
 date: 2015-12-02T17:44:47
-slug: replica-viking-longship-stop-gift-shop
+slug: "replica-viking-longship-stop-gift-shop"
 excerpt: "Looking for the perfect holiday gift?  How about an authentic replica Viking longship?  A great way to impress the relatives or perhaps get together with 60 close friends to raid a neighboring village.  You either can hire a team of researchers … Continue reading &rarr;"
 categories:
   - "Current"

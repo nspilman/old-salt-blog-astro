@@ -1,7 +1,7 @@
 ---
 title: "Party in the Harbor for Lady Liberty & Liberty Enlightening the World Wide Web"
 date: 2011-10-28T09:44:23
-slug: party-in-the-harbor-for-lady-liberty-liberty-enlightening-the-world-wide-web
+slug: "party-in-the-harbor-for-lady-liberty-liberty-enlightening-the-world-wide-web"
 excerpt: "Today is the 125th anniversary of the dedication of the Statue of Liberty.   The colossal neoclassical sculpture on Liberty Island in New York harbor was designed by Frédéric Bartholdi and dedicated on October 28, 1886 as a gift to America from … Continue reading &rarr;"
 categories:
   - "Current"

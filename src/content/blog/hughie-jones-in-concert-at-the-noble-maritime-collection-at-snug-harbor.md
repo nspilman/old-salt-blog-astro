@@ -1,7 +1,7 @@
 ---
 title: "Hughie Jones in Concert at the Noble Maritime Collection at Snug Harbor"
 date: 2014-05-08T17:47:07
-slug: hughie-jones-in-concert-at-the-noble-maritime-collection-at-snug-harbor
+slug: "hughie-jones-in-concert-at-the-noble-maritime-collection-at-snug-harbor"
 excerpt: "If you are in the area on Friday, May 9th, at 8PM, be sure to stop by the Noble Maritime Collection at the Snug Harbor Cultural Center at 1000 Richmond Terrace in Staten Island where the legendary British folk singer Hughie … Continue reading &rarr;"
 categories:
   - "Current"

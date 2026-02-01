@@ -1,7 +1,7 @@
 ---
 title: "Star of India – Still Sailing"
 date: 2011-11-15T16:09:15
-slug: star-of-india-still-sailing
+slug: "star-of-india-still-sailing"
 excerpt: "The Maritime Museum of San Diego brags that the Star of India is the oldest active sailing ship in the world. This weekend they demonstrated how they can make that claim. The Star of India, built at Ramsey Shipyard in … Continue reading &rarr;"
 categories:
   - "Current"

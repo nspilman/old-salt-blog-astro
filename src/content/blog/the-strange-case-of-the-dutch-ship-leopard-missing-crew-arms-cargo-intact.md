@@ -1,7 +1,7 @@
 ---
 title: "The Strange Case of the Dutch Ship Leopard – Missing Crew, Arms Cargo Intact"
 date: 2011-01-18T19:00:49
-slug: the-strange-case-of-the-dutch-ship-leopard-missing-crew-arms-cargo-intact
+slug: "the-strange-case-of-the-dutch-ship-leopard-missing-crew-arms-cargo-intact"
 excerpt: "This story is a few days old, but remains strange and disturbing.  The Dutch coaster Leopard, carrying a cargo of weapons, was reported to have been hijacked by pirates in the Indian Ocean off the coast of Oman last week, but when a Turkish naval … Continue reading &rarr;"
 categories:
   - "Current"

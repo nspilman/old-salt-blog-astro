@@ -1,7 +1,7 @@
 ---
 title: "Confirmation – Tanker M. Star Hit by Terrorist Bomb"
 date: 2010-08-06T12:00:49
-slug: confirmation-tanker-m-star-hit-by-terrorist-bomb
+slug: "confirmation-tanker-m-star-hit-by-terrorist-bomb"
 excerpt: "Inspectors have identified traces of  homemade explosives on the hull of the MOL tanker M. Star, confirming that it was the target of a terrorist attack.    The ship  was struck by an explosion just after midnight on July 28, as the vessel was traveling … Continue reading &rarr;"
 categories:
   - "Current"

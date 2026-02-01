@@ -1,8 +1,8 @@
 ---
 title: "John Konrad on Why UN’s Ukraine Grain Deal is Likely to Fail"
 date: 2022-08-30T10:36:05
-slug: john-konrad-on-why-uns-ukraine-grain-deal-is-likely-to-fail
-excerpt: "At the end of July, Ukraine and Russia signed “mirror” deals that allowed Kyiv to resume exports of grain through the Black Sea. The agreement was purported to allow millions of tonnes of grain, currently trapped in Ukraine by the … Continue reading &rarr;"
+slug: "john-konrad-on-why-uns-ukraine-grain-deal-is-likely-to-fail"
+excerpt: "At the end of July, Ukraine and Russia signed \"mirror\" deals that allowed Kyiv to resume exports of grain through the Black Sea. The agreement was purported to allow millions of tonnes of grain, currently trapped in Ukraine by the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Ukraine"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/gcaptain-video.jpg"
 author: "Rick Spilman"
-description: "At the end of July, Ukraine and Russia signed “mirror” deals that allowed Kyiv to resume exports of grain through the Black Sea. The agreement was purported to allow millions of tonnes of grain, currently trapped in Ukraine by the … Continue reading &rarr;"
+description: "At the end of July, Ukraine and Russia signed \"mirror\" deals that allowed Kyiv to resume exports of grain through the Black Sea. The agreement was purported to allow millions of tonnes of grain, currently trapped in Ukraine by the … Continue reading &rarr;"
 ---
 
 At the end of July, [Ukraine and Russia signed “mirror” deals that allowed Kyiv to resume exports of grain](https://www.bbc.com/news/world-europe-62268070) through the Black Sea. The agreement was purported to allow millions of tonnes of grain, currently trapped in Ukraine by the war, to be exported. 

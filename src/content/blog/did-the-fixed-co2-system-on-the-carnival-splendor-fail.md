@@ -1,7 +1,7 @@
 ---
 title: "Did the Fixed CO2 System on the Carnival Splendor Fail?"
 date: 2010-12-21T20:32:59
-slug: did-the-fixed-co2-system-on-the-carnival-splendor-fail
+slug: "did-the-fixed-co2-system-on-the-carnival-splendor-fail"
 excerpt: "The Maritime Blog and the Professional Mariner are pointing to two Marine Safety Alerts issued by the Coast Guard today which may suggest that the fixed CO2 system on the Carnival Splendor failed. The Safety Alerts do not identify the ship by … Continue reading &rarr;"
 categories:
   - "Current"

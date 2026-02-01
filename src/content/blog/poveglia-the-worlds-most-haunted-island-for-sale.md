@@ -1,7 +1,7 @@
 ---
 title: "Poveglia, the World’s Most Haunted Island for Sale"
 date: 2014-05-07T09:40:14
-slug: poveglia-the-worlds-most-haunted-island-for-sale
+slug: "poveglia-the-worlds-most-haunted-island-for-sale"
 excerpt: "Poveglia is a small island located between Venice and Lido in the Venetian Lagoon of northern Italy. Once a quarantine for plague victims, the island contains one or more pits where plague victims were buried en-masse. Some estimates suggest that … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Cable Car Ride Down Gibraltar"
 date: 2018-10-17T18:13:51
-slug: cable-care-ride-down-gibraltar
+slug: "cable-care-ride-down-gibraltar"
 excerpt: "As someone who has been reading Georgian naval fiction since I was a teenager, I am well acquainted with Gibraltar and the famous Rock. I recently had the opportunity to visit the British Overseas Territory, one half of the Pillars of Hercules, … Continue reading &rarr;"
 categories:
   - "Current"

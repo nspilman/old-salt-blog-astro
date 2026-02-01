@@ -1,7 +1,7 @@
 ---
 title: "Launching of the Mayflower II at Mystic Seaport"
 date: 2019-09-02T09:36:26
-slug: launching-of-the-mayflower-ii-at-mystic-seaport
+slug: "launching-of-the-mayflower-ii-at-mystic-seaport"
 excerpt: "On September 7th at 2PM, the Plimoth Plantation‘s Mayflower II will be launched and recommissioned at Mystic Seaport Museum. The replica of the ship which carried the Pilgrims to Plymouth, MA has undergone a major three-year restoration at the seaport’s … Continue reading &rarr;"
 categories:
   - "Current"

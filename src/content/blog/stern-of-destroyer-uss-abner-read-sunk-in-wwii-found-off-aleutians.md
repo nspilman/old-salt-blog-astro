@@ -1,7 +1,7 @@
 ---
 title: "Stern of Destroyer USS Abner Read, Sunk in WWII, Found Off Aleutians"
 date: 2018-08-16T18:23:45
-slug: stern-of-destroyer-uss-abner-read-sunk-in-wwii-found-off-aleutians
+slug: "stern-of-destroyer-uss-abner-read-sunk-in-wwii-found-off-aleutians"
 excerpt: "On Aug. 18, 1943,  the destroyer USS Abner Read was on anti-submarine patrol near Kiska Island, in Alaska’s Aleutian chain. The Japanese had just recently evacuated the island but had left behind a minefield. At 1:50 a.m.,  the destroyer struck … Continue reading &rarr;"
 categories:
   - "Current"

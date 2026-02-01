@@ -1,7 +1,7 @@
 ---
 title: "21st Annual Great Chesapeake Bay Schooner Race"
 date: 2010-10-13T16:41:26
-slug: 21st-annual-great-chesapeake-bay-schooner-race
+slug: "21st-annual-great-chesapeake-bay-schooner-race"
 excerpt: "Around Fells Point and Baltimore’s Inner Harbor will be a glorious place for any schooner lover to be this evening.   There will be a parade of sail of the over forty schooners who are participating the 21st Annual Great Chesapeake Bay … Continue reading &rarr;"
 categories:
   - "Current"

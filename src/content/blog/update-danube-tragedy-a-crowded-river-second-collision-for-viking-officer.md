@@ -1,7 +1,7 @@
 ---
 title: "Update: Danube Tragedy — A Crowded River & Second Collision for Viking Officer"
 date: 2019-06-12T13:11:12
-slug: update-danube-tragedy-a-crowded-river-second-collision-for-viking-officer
+slug: "update-danube-tragedy-a-crowded-river-second-collision-for-viking-officer"
 excerpt: "The New York Times is reporting that well before Hungary’s worst boating accident in at least six decades, Hungarian officials had been warned that traffic on the Danube had soared to dangerous levels around Budapest, but the government did not … Continue reading &rarr;"
 categories:
   - "Current"

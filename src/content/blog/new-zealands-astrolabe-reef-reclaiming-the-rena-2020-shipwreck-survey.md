@@ -1,7 +1,7 @@
 ---
 title: "New Zealand’s Astrolabe Reef Reclaiming the Rena — 2020 Shipwreck Survey"
 date: 2020-12-28T13:40:17
-slug: new-zealands-astrolabe-reef-reclaiming-the-rena-2020-shipwreck-survey
+slug: "new-zealands-astrolabe-reef-reclaiming-the-rena-2020-shipwreck-survey"
 excerpt: "Almost a decade ago, the container ship MV Rena ran hard aground on Astrolabe Reef off Tauranga on New Zealand’s Bay of Plenty. The ship, carrying 2,100 containers and 1,700 tonnes of heavy fuel, would break up resulting in New Zealand’s … Continue reading &rarr;"
 categories:
   - "Current"

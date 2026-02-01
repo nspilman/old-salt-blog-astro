@@ -1,7 +1,7 @@
 ---
-title: "US Border Patrol Boats Harrass Canadian Lobster Boats in the “Gray Zone”"
+title: "US Border Patrol Boats Harrass Canadian Lobster Boats in the \"Gray Zone\""
 date: 2018-08-12T16:45:32
-slug: us-border-patrol-boats-harrass-canadian-lobster-boats-in-the-gray-zone
+slug: "us-border-patrol-boats-harrass-canadian-lobster-boats-in-the-gray-zone"
 excerpt: "This summer, Canadian lobstermen are complaining of being harassed by US Border Patrol agents in speedboats as they fish in waters claimed by both Canada and the US off Machias Seal Island.  Since around 1733, the US and Canada have agreed … Continue reading &rarr;"
 categories:
   - "Current"

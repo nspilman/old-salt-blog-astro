@@ -1,7 +1,7 @@
 ---
 title: "Conspiracy Theories Spring Up Around the USS Fitzgerald — ACX Crystal Collision"
 date: 2017-06-19T17:19:49
-slug: conspiracy-theories-spring-around-uss-fitzgerald-acx-crystal-collision
+slug: "conspiracy-theories-spring-around-uss-fitzgerald-acx-crystal-collision"
 excerpt: "The one thing we can say for certain is that we do not have all the facts surrounding the collision between the guided-missile destroyer USS Fitzgerald  and the Philippine container ship ACX Crystal . The collision nearly sank the destroyer, killed seven … Continue reading &rarr;"
 categories:
   - "Current"

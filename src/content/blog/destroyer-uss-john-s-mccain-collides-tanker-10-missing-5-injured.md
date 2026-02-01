@@ -1,7 +1,7 @@
 ---
 title: "Destroyer USS John S. McCain Collides with Tanker — 10 Missing, 5 Injured"
 date: 2017-08-21T07:46:41
-slug: destroyer-uss-john-s-mccain-collides-tanker-10-missing-5-injured
+slug: "destroyer-uss-john-s-mccain-collides-tanker-10-missing-5-injured"
 excerpt: "In the second major collision between a US Navy destroyer and a merchant ship in the last three months, the USS John S. McCain was damaged in a collision with a tanker near Singapore. Five sailors were injured and 10 are missing. … Continue reading &rarr;"
 categories:
   - "Current"

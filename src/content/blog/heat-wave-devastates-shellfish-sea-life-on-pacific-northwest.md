@@ -1,7 +1,7 @@
 ---
 title: "Heat Wave Devastates Shellfish & Sea Life on Pacific Northwest"
 date: 2021-07-09T15:53:03
-slug: heat-wave-devastates-shellfish-sea-life-on-pacific-northwest
+slug: "heat-wave-devastates-shellfish-sea-life-on-pacific-northwest"
 excerpt: "The recent heat wave in the Pacific Northwest and Canada has proven deadly. The death toll from the record-breaking heatwave that struck the US Pacific Northwest last week has risen to nearly 200. British Columbia reported at least 719 people … Continue reading &rarr;"
 categories:
   - "Current"

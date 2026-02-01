@@ -1,7 +1,7 @@
 ---
 title: "What Big Eyes You Have, Mr. Giant Squid!"
 date: 2013-01-26T16:32:00
-slug: what-big-eyes-you-have-mr-giant-squid
+slug: "what-big-eyes-you-have-mr-giant-squid"
 excerpt: "Tomorrow, January 27th, at 8 PM ET & PT, the Discovery Channel is airing Monster Squid: The Giant is Real featuring the first video ever recorded of a  live giant squid in its natural habitat. (See our recent post Giant Squid Filmed for … Continue reading &rarr;"
 categories:
   - "Current"

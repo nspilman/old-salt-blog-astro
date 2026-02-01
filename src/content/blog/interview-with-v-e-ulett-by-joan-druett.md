@@ -1,7 +1,7 @@
 ---
 title: "Interview with V.E. Ulett by Joan Druett"
 date: 2015-02-09T21:58:07
-slug: interview-with-v-e-ulett-by-joan-druett
+slug: "interview-with-v-e-ulett-by-joan-druett"
 excerpt: "Award winning author Joan Druett recently interviewed V.E. Ulett, author of the Blackwell’s Adventure series, on her World of the Written Word blog.  Reposted with permission. The author of the rousing historical Blackwell series kindly consented to allow me to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

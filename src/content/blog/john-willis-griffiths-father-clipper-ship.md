@@ -1,7 +1,7 @@
 ---
 title: "John Willis Griffiths — Father of the Clipper Ship"
 date: 2016-07-20T09:49:53
-slug: john-willis-griffiths-father-clipper-ship
+slug: "john-willis-griffiths-father-clipper-ship"
 excerpt: "In June, we posted about the upcoming unveiling of a headstone for the brilliant, but largely forgotten, American naval architect John Willis Griffiths. This Saturday, July 23rd, the National Maritime Historical Society will unveil the headstone at Griffiths’ previously unmarked … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

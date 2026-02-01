@@ -1,8 +1,8 @@
 ---
 title: "Good News — State of Pennsylvania Commits $4.8 Million to Overhaul Brig Niagara"
 date: 2014-05-23T07:57:57
-slug: good-new-state-of-pennsylvania-commits-4-8-million-to-overhaul-brig-niagara
-excerpt: "Good News — the State of Pennsylvania has committed $4.8 million for a major overhaul of the Brig Niagara.  As reported by YourErie.com:  “Maintaining the Brig Niagara, a sea-going legacy of American freedom and the sacrifices of the men who sailed her … Continue reading &rarr;"
+slug: "good-new-state-of-pennsylvania-commits-4-8-million-to-overhaul-brig-niagara"
+excerpt: "Good News — the State of Pennsylvania has committed $4.8 million for a major overhaul of the Brig Niagara.  As reported by YourErie.com:  \"Maintaining the Brig Niagara, a sea-going legacy of American freedom and the sacrifices of the men who sailed her … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -12,7 +12,7 @@ tags:
   - "Brig Niagara"
   - "State of Pennsylvania"
 author: "Rick Spilman"
-description: "Good News — the State of Pennsylvania has committed $4.8 million for a major overhaul of the Brig Niagara.  As reported by YourErie.com:  “Maintaining the Brig Niagara, a sea-going legacy of American freedom and the sacrifices of the men who sailed her … Continue reading &rarr;"
+description: "Good News — the State of Pennsylvania has committed $4.8 million for a major overhaul of the Brig Niagara.  As reported by YourErie.com:  \"Maintaining the Brig Niagara, a sea-going legacy of American freedom and the sacrifices of the men who sailed her … Continue reading &rarr;"
 ---
 
 ![niagara-pg](http://www.oldsaltblog.com/wp-content/uploads/2010/09/niagara-pg.jpg)Good News — the State of Pennsylvania has committed $4.8 million for a major overhaul of the [Brig *Niagara*](http://www.flagshipniagara.org/).  As reported by [YourErie.com](http://www.yourerie.com/story/d/story/governor-announces-48-million-to-overhaul-brig-nia/49912/IEeTO1PaGE2UxPxQNvgEhg): 

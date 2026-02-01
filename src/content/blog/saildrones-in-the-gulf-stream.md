@@ -1,7 +1,7 @@
 ---
 title: "Saildrones in the Gulf Stream"
 date: 2021-04-19T10:30:29
-slug: saildrones-in-the-gulf-stream
+slug: "saildrones-in-the-gulf-stream"
 excerpt: "For several years now we have followed the progress of the autonomous sailing drones developed by the aptly name firm, Saildrone, in oceanographic service in the Pacific and Bering Seas. In January, we posted about Saildrone’s new 72’ long Surveyor, … Continue reading &rarr;"
 categories:
   - "Current"

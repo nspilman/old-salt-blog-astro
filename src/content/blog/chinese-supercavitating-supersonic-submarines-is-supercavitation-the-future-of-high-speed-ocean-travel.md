@@ -1,7 +1,7 @@
 ---
 title: "Chinese Supercavitating Supersonic Submarines? Is Supercavitation the Future of High Speed Ocean Travel?"
 date: 2014-09-07T20:30:26
-slug: chinese-supercavitating-supersonic-submarines-is-supercavitation-the-future-of-high-speed-ocean-travel
+slug: "chinese-supercavitating-supersonic-submarines-is-supercavitation-the-future-of-high-speed-ocean-travel"
 excerpt: "The headline in the South China Morning Post was, at the very least, eye catching — Shanghai to San Francisco in 100 minutes by Chinese supersonic submarine.   The article makes it clear that while the Chinese may be researching such … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

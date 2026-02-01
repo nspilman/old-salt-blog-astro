@@ -1,7 +1,7 @@
 ---
 title: "Halcyon Days in a Pandemic Year"
 date: 2020-12-21T18:09:37
-slug: halcyon-days-in-a-pandemic-year
+slug: "halcyon-days-in-a-pandemic-year"
 excerpt: "According to an ancient sailors’ legend, we are in the middle of the Halcyon days – seven days of calm on either side of the winter solstice. The legend says that the halcyon bird builds a floating nest on the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

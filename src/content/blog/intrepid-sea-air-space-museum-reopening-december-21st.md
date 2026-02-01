@@ -1,13 +1,13 @@
 ---
 title: "Intrepid Sea, Air & Space Museum Reopening December 21st"
 date: 2012-12-20T09:04:03
-slug: intrepid-sea-air-space-museum-reopening-december-21st
+slug: "intrepid-sea-air-space-museum-reopening-december-21st"
 excerpt: "The Intrepid Sea, Air and Space Museum was hit hard by Superstorm Sandy. This Friday, December 21, they will be reopening and are offering a special buy one general admission and get the second free coupon, to celebrate their return.  Click … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - ""superstorm" Sandy"
+  - "\"superstorm\" Sandy"
   - "Intrepid Sea Air and Space Museum"
 author: "Rick Spilman"
 description: "The Intrepid Sea, Air and Space Museum was hit hard by Superstorm Sandy. This Friday, December 21, they will be reopening and are offering a special buy one general admission and get the second free coupon, to celebrate their return.  Click … Continue reading &rarr;"

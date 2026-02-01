@@ -1,7 +1,7 @@
 ---
 title: "Three Rescued from Tug Bourbon Rhode Lost in Hurricane Lorenzo, Eleven Missing"
 date: 2019-09-28T16:39:03
-slug: three-rescued-from-tug-bourbon-rhode-lost-in-hurricane-lorenzo-eleven-missing
+slug: "three-rescued-from-tug-bourbon-rhode-lost-in-hurricane-lorenzo-eleven-missing"
 excerpt: "Three sailors have been rescued from a lifeboat following the sinking of the 164′ tug supply boat Bourbon Rhode in Hurricane Lorenzo. The remaining eleven crew members are missing. The tug had sent a distress signal on Thursday and a … Continue reading &rarr;"
 categories:
   - "Current"

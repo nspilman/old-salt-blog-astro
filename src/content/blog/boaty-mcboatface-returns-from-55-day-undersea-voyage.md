@@ -1,7 +1,7 @@
 ---
 title: "Boaty McBoatface Returns From 55 Day Undersea Voyage"
 date: 2024-08-11T19:53:52
-slug: boaty-mcboatface-returns-from-55-day-undersea-voyage
+slug: "boaty-mcboatface-returns-from-55-day-undersea-voyage"
 excerpt: "Boaty McBoatface, referred to as the UK’s most famous robot, recently returned to Scotland after 55 days on a more-than-2,000km undersea scientific odyssey from Iceland, studying the pace of climate change.  BBC reports that the autonomous underwater vehicle (AUV) was hunting … Continue reading &rarr;"
 categories:
   - "Current"

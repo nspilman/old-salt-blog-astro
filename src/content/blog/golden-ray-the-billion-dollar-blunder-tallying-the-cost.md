@@ -1,7 +1,7 @@
 ---
 title: "Golden Ray & the Billion Dollar Blunder — Tallying the Cost"
 date: 2021-09-18T13:09:21
-slug: golden-ray-the-billion-dollar-blunder-tallying-the-cost
+slug: "golden-ray-the-billion-dollar-blunder-tallying-the-cost"
 excerpt: "We recently posted about the NTSB determination that the car carrier Golden Ray capsized due to an error in a stability calculation prior to sailing. Now as the salvage operation is wrapping up and the costs are being tallied, the … Continue reading &rarr;"
 categories:
   - "Current"

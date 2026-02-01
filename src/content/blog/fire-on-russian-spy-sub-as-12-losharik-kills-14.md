@@ -1,7 +1,7 @@
 ---
-title: "Fire on Russian Spy Sub AS-12 “Losharik” Kills 14"
+title: "Fire on Russian Spy Sub AS-12 \"Losharik\" Kills 14"
 date: 2019-07-03T15:47:16
-slug: fire-on-russian-spy-sub-as-12-losharik-kills-14
+slug: "fire-on-russian-spy-sub-as-12-losharik-kills-14"
 excerpt: "On July 2, Russia’s Defense Ministry announced that a fire had broken out on a research submarine killing 14 sailors while the ship was operating in Russia’s territorial waters in the Barents Sea. Russian authorities declined to further identify the … Continue reading &rarr;"
 categories:
   - "Current"

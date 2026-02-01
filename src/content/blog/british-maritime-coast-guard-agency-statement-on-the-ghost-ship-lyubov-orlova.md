@@ -1,8 +1,8 @@
 ---
-title: "British Maritime & Coast Guard Agency Statement on the “Ghost Ship” Lyubov Orlova"
+title: "British Maritime & Coast Guard Agency Statement on the \"Ghost Ship\" Lyubov Orlova"
 date: 2014-01-24T11:22:45
-slug: british-maritime-coast-guard-agency-statement-on-the-ghost-ship-lyubov-orlova
-excerpt: "The Twitterverse has gone crazy (crazier?) over reports of the Ghost Ship Swarming With Cannibal Rats Bound for Britain. Dozens of newspaper websites have feaverishly picked up the story.  In all the foolishness, I was reminded of Evelyn Waugh’s satirical novel “Scoop” … Continue reading &rarr;"
+slug: "british-maritime-coast-guard-agency-statement-on-the-ghost-ship-lyubov-orlova"
+excerpt: "The Twitterverse has gone crazy (crazier?) over reports of the Ghost Ship Swarming With Cannibal Rats Bound for Britain. Dozens of newspaper websites have feaverishly picked up the story.  In all the foolishness, I was reminded of Evelyn Waugh’s satirical novel \"Scoop\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "ghost ship"
   - "Lyubov Orlova"
 author: "Rick Spilman"
-description: "The Twitterverse has gone crazy (crazier?) over reports of the Ghost Ship Swarming With Cannibal Rats Bound for Britain. Dozens of newspaper websites have feaverishly picked up the story.  In all the foolishness, I was reminded of Evelyn Waugh’s satirical novel “Scoop” … Continue reading &rarr;"
+description: "The Twitterverse has gone crazy (crazier?) over reports of the Ghost Ship Swarming With Cannibal Rats Bound for Britain. Dozens of newspaper websites have feaverishly picked up the story.  In all the foolishness, I was reminded of Evelyn Waugh’s satirical novel \"Scoop\" … Continue reading &rarr;"
 ---
 
 ![Lyubov-Orlova-_2799136b](http://www.oldsaltblog.com/wp-content/uploads/2014/01/Lyubov-Orlova-_2799136b.jpg)The [Twitterverse has gone crazy](http://www.nbcnews.com/science/ghost-ship-cannibal-rats-are-swarming-over-twitterverse-2D11985346) (crazier?) over reports of the [Ghost Ship Swarming With Cannibal Rats Bound for Britain](http://www.oldsaltblog.com/2014/01/lyubov-orlova-ghost-ship-crewed-by-cannibal-rats-drifting-toward-the-uk-slow-news-day/). Dozens of newspaper websites have feaverishly picked up the story.  In all the foolishness, I was reminded of Evelyn Waugh’s satirical novel “*[Scoop](http://en.wikipedia.org/wiki/Scoop_\(novel\))*” in which an unlikely journalist “scooped” the competition by reporting on fictitious battles in a civil war in an obscure African country. The story of the “Ghost Ship” *Lyubov Orlova*  is a bit like that — there appears to be no there there. All indications are that the ship sank many months ago and, even if didn’t, there aren’t likely to be many surviving rats on the ship, in the unlikely event that the ship is still afloat.  In all the hub-bub, the [British Maritime & Coast Guard Agency (MCA) saw fit to release a statement](http://hmcoastguard.blogspot.com/):

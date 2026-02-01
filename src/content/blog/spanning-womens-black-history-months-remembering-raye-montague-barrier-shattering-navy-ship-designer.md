@@ -1,7 +1,7 @@
 ---
 title: "Spanning Women’s & Black History Months: Remembering Raye Montague, Barrier-Shattering Navy Ship Designer"
 date: 2024-02-29T18:44:03
-slug: spanning-womens-black-history-months-remembering-raye-montague-barrier-shattering-navy-ship-designer
+slug: "spanning-womens-black-history-months-remembering-raye-montague-barrier-shattering-navy-ship-designer"
 excerpt: "Today, the 29th of February, is Leap Day, which seems to be a perfect opportunity to celebrate both February’s Black History Month and March’s Women’s History Month. As such, it is a good time to honor the memory of Raye … Continue reading &rarr;"
 categories:
   - "History"

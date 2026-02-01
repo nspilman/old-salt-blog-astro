@@ -1,8 +1,8 @@
 ---
-title: "“Superlapse” Video of Gloucester Schooner Festival Parade of Sail 2019"
+title: "\"Superlapse\" Video of Gloucester Schooner Festival Parade of Sail 2019"
 date: 2019-09-08T09:57:03
-slug: superlapse-video-of-gloucester-schooner-festival-parade-of-sail-2019
-excerpt: "Here is a fun “superlapse” video of last weekend’s Gloucester Schooner Festival Parade of Sail. Gloucester Schooner Festival Parade of Sail 2019 … Continue reading &rarr;"
+slug: "superlapse-video-of-gloucester-schooner-festival-parade-of-sail-2019"
+excerpt: "Here is a fun \"superlapse\" video of last weekend’s Gloucester Schooner Festival Parade of Sail. Gloucester Schooner Festival Parade of Sail 2019 … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Parade of Sail 2019"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/schoonerparadeof-sail.jpg"
 author: "Rick Spilman"
-description: "Here is a fun “superlapse” video of last weekend’s Gloucester Schooner Festival Parade of Sail. Gloucester Schooner Festival Parade of Sail 2019 … Continue reading &rarr;"
+description: "Here is a fun \"superlapse\" video of last weekend’s Gloucester Schooner Festival Parade of Sail. Gloucester Schooner Festival Parade of Sail 2019 … Continue reading &rarr;"
 ---
 
 Here is a fun “superlapse” video of last weekend’s Gloucester Schooner Festival Parade of Sail.

@@ -1,7 +1,7 @@
 ---
-title: "On International Women’s Day +1, Honoring Admiral “Amazing Grace” Hopper"
+title: "On International Women’s Day +1, Honoring Admiral \"Amazing Grace\" Hopper"
 date: 2021-03-09T10:56:14
-slug: on-international-womens-day-1-honoring-admiral-amazing-grace-hopper
+slug: "on-international-womens-day-1-honoring-admiral-amazing-grace-hopper"
 excerpt: "One day after the observance of International Women’s Day, there is still time to remember and honor Admiral Grace Hopper. Grace Hopper was a pioneering computer scientist and a United States Navy Rear Admiral. Hopper received a master’s degree and … Continue reading &rarr;"
 categories:
   - "Current"

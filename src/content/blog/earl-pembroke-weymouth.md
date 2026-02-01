@@ -1,7 +1,7 @@
 ---
 title: "Earl of Pembroke at Weymouth"
 date: 2016-03-15T09:26:18
-slug: earl-pembroke-weymouth
+slug: "earl-pembroke-weymouth"
 excerpt: "One celebrity at Weymouth during the Weymouth Leviathan was the tall ship Earl of Pembroke.  The barque has been featured in seventeen movies of TV shows. Unfortunately, like so many other movie stars, the ship was not accessible, behind locked … Continue reading &rarr;"
 categories:
   - "Current"

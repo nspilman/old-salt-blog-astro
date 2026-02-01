@@ -1,7 +1,7 @@
 ---
-title: "Update: Reza Baluchi Attempts to Run Across the Atlantic in His “Hamster Wheel of Doom,” Arrested By Coast Guard"
+title: "Update: Reza Baluchi Attempts to Run Across the Atlantic in His \"Hamster Wheel of Doom,\" Arrested By Coast Guard"
 date: 2023-09-06T20:16:58
-slug: update-reza-baluchi-attempts-to-run-across-the-atlantic-in-his-hamster-wheel-of-doom-arrested-by-coast-guard
+slug: "update-reza-baluchi-attempts-to-run-across-the-atlantic-in-his-hamster-wheel-of-doom-arrested-by-coast-guard"
 excerpt: "Reza Baluchi is at it again. The US Coast Guard intercepted Baluchi in the Atlantic about 70 miles (110km) off Tybee Island, Georgia on August 26 in his most recent attempt to run across the ocean, this time from the … Continue reading &rarr;"
 categories:
   - "Current"

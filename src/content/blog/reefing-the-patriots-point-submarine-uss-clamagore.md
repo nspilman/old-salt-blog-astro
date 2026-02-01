@@ -1,7 +1,7 @@
 ---
 title: "Reefing the Patriot’s Point Submarine USS Clamagore"
 date: 2019-04-10T17:29:10
-slug: reefing-the-patriots-point-submarine-uss-clamagore
+slug: "reefing-the-patriots-point-submarine-uss-clamagore"
 excerpt: "For several years, there has been an ongoing discussion at the Patriots Point Naval & Maritime Museum about what to do with the World War II era, USS Clamagore. The 1945 built Balao-class submarine has been an exhibit at the … Continue reading &rarr;"
 categories:
   - "Current"

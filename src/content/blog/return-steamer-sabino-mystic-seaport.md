@@ -1,7 +1,7 @@
 ---
 title: "Return of the Steamer Sabino at Mystic Seaport"
 date: 2017-07-07T07:32:24
-slug: return-steamer-sabino-mystic-seaport
+slug: "return-steamer-sabino-mystic-seaport"
 excerpt: "In January 2016, we posted about how during a major restoration of the 1908 coal-fired steamer Sabino at the Mystic Seaport Museum, it was determined that the boiler was beyond repair and would need to be replaced. Now with new decking … Continue reading &rarr;"
 categories:
   - "Current"

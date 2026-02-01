@@ -1,7 +1,7 @@
 ---
 title: "The Slinky — Created by a Naval Engineer Experimenting with Shipboard Torsion Sprigs"
 date: 2021-08-15T17:56:23
-slug: the-slinky-created-by-a-naval-engineer-experimenting-with-shipboard-torsion-sprigs
+slug: "the-slinky-created-by-a-naval-engineer-experimenting-with-shipboard-torsion-sprigs"
 excerpt: "It is amazing how many commonplace items are related to ships and the sea. Or perhaps not, given that over 70% of the globe is covered by water and 90% of all trade is moved by sea. Here is one … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Tall Ships Challenge Gulf Coast 2018 Begins With Tall Ships Galveston April 5 – 8"
 date: 2018-04-03T18:37:01
-slug: tall-ships-challenge-gulf-coast-2018-begins-with-tall-ships-galveston-april-5-8
+slug: "tall-ships-challenge-gulf-coast-2018-begins-with-tall-ships-galveston-april-5-8"
 excerpt: "A fleet of tall ships is sailing to Galveston Island, Texas which will host Tall Ships Galveston from April 5 – 8th to kick off the Tall Ships Challenge Gulf Coast 2018 tall ship race. Included in the fleet will be: Galveston’s … Continue reading &rarr;"
 categories:
   - "Current"

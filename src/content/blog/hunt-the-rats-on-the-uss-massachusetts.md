@@ -1,7 +1,7 @@
 ---
 title: "Hunt the Rats on the USS Massachusetts"
 date: 2011-04-14T12:01:49
-slug: hunt-the-rats-on-the-uss-massachusetts
+slug: "hunt-the-rats-on-the-uss-massachusetts"
 excerpt: "Rodents have always been a problem on ships, but things seem to be getting out of control.   Last week we posted (somewhat  facetiously) of a rodent problem on the Tall Ship Elissa after a rather large mouse named Minnie stopped by … Continue reading &rarr;"
 categories:
   - "Current"

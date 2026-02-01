@@ -1,7 +1,7 @@
 ---
 title: "The Return of Schooner Lettie G. Howard"
 date: 2014-06-08T09:04:38
-slug: the-return-of-lettie-g-howard
+slug: "the-return-of-lettie-g-howard"
 excerpt: "Yesterday, while maneuvering our 18′ catboat through the traffic in the Morris Canal on the West bank of the Hudson off Lower Manhattan, we had the pleasure of crossing paths with the schooner Lettie G. Howard. Lettie is an 1893 Fredonia-model fishing schooner owned and … Continue reading &rarr;"
 categories:
   - "Current"

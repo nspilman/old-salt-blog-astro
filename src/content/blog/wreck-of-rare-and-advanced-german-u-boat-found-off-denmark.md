@@ -1,7 +1,7 @@
 ---
 title: "Wreck of Rare Advanced German U-Boat Found Off Denmark."
 date: 2018-04-13T17:38:12
-slug: wreck-of-rare-and-advanced-german-u-boat-found-off-denmark
+slug: "wreck-of-rare-and-advanced-german-u-boat-found-off-denmark"
 excerpt: "The Sea War Museum Jutland made an amazing discovery while scanning the sea floor off Denmark. They have identified the wreckage of one of the most technologically advanced German submarines of World War II, the U-3523.  The submarine was found with its bow … Continue reading &rarr;"
 categories:
   - "Current"

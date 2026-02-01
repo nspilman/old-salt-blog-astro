@@ -1,7 +1,7 @@
 ---
 title: "Escaping Hurricane Irma by Sea on RCL’s Enchantment of the Seas"
 date: 2017-09-09T07:55:32
-slug: escaping-hurricane-irma-sea-rcls-enchantment-seas
+slug: "escaping-hurricane-irma-sea-rcls-enchantment-seas"
 excerpt: "As Hurricane Irma proceeds toward South Florida with apocalyptic fury, it is getting harder and harder to find a place of safety or a way to escape. Gasoline and supplies are in short supply. The few north-south roads out of … Continue reading &rarr;"
 categories:
   - "Current"

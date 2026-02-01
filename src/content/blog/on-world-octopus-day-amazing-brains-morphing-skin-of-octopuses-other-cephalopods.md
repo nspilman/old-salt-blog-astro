@@ -1,7 +1,7 @@
 ---
 title: "On World Octopus Day  — Amazing Brains & Morphing Skin of Octopuses & Other Cephalopods"
 date: 2022-10-08T16:23:01
-slug: on-world-octopus-day-amazing-brains-morphing-skin-of-octopuses-other-cephalopods
+slug: "on-world-octopus-day-amazing-brains-morphing-skin-of-octopuses-other-cephalopods"
 excerpt: "In observance of World Octopus Day, here is a short video of a TED talk by Roger Hanlon looking at the amazing brains and morphing skins of octopuses and other cephalopods. The amazing brains and morphing skin of octopuses and … Continue reading &rarr;"
 categories:
   - "Current"

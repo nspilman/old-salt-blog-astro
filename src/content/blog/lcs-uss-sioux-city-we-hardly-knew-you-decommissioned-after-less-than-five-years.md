@@ -1,7 +1,7 @@
 ---
 title: "LCS USS Sioux City, (We Hardly Knew You,) Decommissioned After Less Than Five Years"
 date: 2023-08-18T18:10:09
-slug: lcs-uss-sioux-city-we-hardly-knew-you-decommissioned-after-less-than-five-years
+slug: "lcs-uss-sioux-city-we-hardly-knew-you-decommissioned-after-less-than-five-years"
 excerpt: "The sad saga of the Littoral Combat Ships (LCS) is winding down. The small surface vessels, built in two classes, and designed for operations near shore, were intended to be inexpensive and flexible. Instead, they proved to be unreliable, relatively … Continue reading &rarr;"
 categories:
   - "Current"

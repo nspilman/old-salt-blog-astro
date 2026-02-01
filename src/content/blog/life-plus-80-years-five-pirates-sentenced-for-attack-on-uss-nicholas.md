@@ -1,7 +1,7 @@
 ---
 title: "Life Plus 80 Years – Five Pirates Sentenced for Attack on USS Nicholas"
 date: 2011-03-16T08:07:44
-slug: life-plus-80-years-five-pirates-sentenced-for-attack-on-uss-nicholas
+slug: "life-plus-80-years-five-pirates-sentenced-for-attack-on-uss-nicholas"
 excerpt: "On April 1st, last year, fittingly enough, April Fool’s Day, a group of Somali pirates in open boats decided to attack the 445-foot guided-missile frigate, USS Nicholas.  The outcome was predictable.   Five pirates were captured and their boats were sunk.   At the … Continue reading &rarr;"
 categories:
   - "Current"

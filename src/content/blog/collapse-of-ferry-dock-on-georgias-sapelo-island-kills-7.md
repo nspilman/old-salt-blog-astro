@@ -1,7 +1,7 @@
 ---
 title: "Collapse of Ferry Dock on Georgia’s Sapelo Island Kills 7"
 date: 2024-10-20T18:51:59
-slug: collapse-of-ferry-dock-on-georgias-sapelo-island-kills-7
+slug: "collapse-of-ferry-dock-on-georgias-sapelo-island-kills-7"
 excerpt: "At least seven people were killed yesterday when part of a ferry dock collapsed on Georgia’s Sapelo Island, where crowds had gathered for a fall celebration by the island’s tiny Gullah-Geechee community of Black slave descendants. The Georgia Department of … Continue reading &rarr;"
 categories:
   - "Current"

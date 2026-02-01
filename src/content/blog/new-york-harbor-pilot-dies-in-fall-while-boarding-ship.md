@@ -1,7 +1,7 @@
 ---
 title: "New York Harbor Pilot Dies in Fall While Boarding Ship"
 date: 2019-12-31T12:35:57
-slug: new-york-harbor-pilot-dies-in-fall-while-boarding-ship
+slug: "new-york-harbor-pilot-dies-in-fall-while-boarding-ship"
 excerpt: "Sandy Hook harbor pilots guide merchant ships in and out of New York harbor, all year round, day and night, in all weather. They are highly skilled professionals who routinely make a very difficult job look easy. It easy to … Continue reading &rarr;"
 categories:
   - "Current"

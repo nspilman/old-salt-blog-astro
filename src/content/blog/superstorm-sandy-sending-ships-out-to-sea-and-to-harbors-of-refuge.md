@@ -1,7 +1,7 @@
 ---
-title: "“Superstorm” Sandy Sending Ships out to Sea and to Harbors of Refuge"
+title: "\"Superstorm\" Sandy Sending Ships out to Sea and to Harbors of Refuge"
 date: 2012-10-27T11:13:19
-slug: superstorm-sandy-sending-ships-out-to-sea-and-to-harbors-of-refuge
+slug: "superstorm-sandy-sending-ships-out-to-sea-and-to-harbors-of-refuge"
 excerpt: "Tropical Storm Sandy returned to hurricane strength on Saturday morning as it heads toward the U.S. northeast coast.   The US Navy as ordered 24 of the larger ships in southeastern Virginia bases, including the aircraft carrier USS Harry S. Truman, out to sea to avoid the storm. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

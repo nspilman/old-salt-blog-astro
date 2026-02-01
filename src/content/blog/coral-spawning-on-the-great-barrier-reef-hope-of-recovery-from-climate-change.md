@@ -1,8 +1,8 @@
 ---
 title: "Coral Spawning on the Great Barrier Reef & Hope of Recovery From Climate Change"
 date: 2021-12-01T18:45:34
-slug: coral-spawning-on-the-great-barrier-reef-hope-of-recovery-from-climate-change
-excerpt: "Divers and scientists recorded the massive spawning of coral in Australia’s Great Barrier Reef last week in a yearly show of life that signals hope that the world’s biggest coral reef ecosystem can recover from climate change. “It’s a sign … Continue reading &rarr;"
+slug: "coral-spawning-on-the-great-barrier-reef-hope-of-recovery-from-climate-change"
+excerpt: "Divers and scientists recorded the massive spawning of coral in Australia’s Great Barrier Reef last week in a yearly show of life that signals hope that the world’s biggest coral reef ecosystem can recover from climate change. \"It’s a sign … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Great Barrier Reef"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/gbr-coralspawn.jpg"
 author: "Rick Spilman"
-description: "Divers and scientists recorded the massive spawning of coral in Australia’s Great Barrier Reef last week in a yearly show of life that signals hope that the world’s biggest coral reef ecosystem can recover from climate change. “It’s a sign … Continue reading &rarr;"
+description: "Divers and scientists recorded the massive spawning of coral in Australia’s Great Barrier Reef last week in a yearly show of life that signals hope that the world’s biggest coral reef ecosystem can recover from climate change. \"It’s a sign … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/gbr-coralspawn.jpg)Divers and scientists recorded the massive spawning of coral in Australia’s Great Barrier Reef last week in a yearly show of life that signals hope that the world’s biggest coral reef ecosystem can recover from climate change.

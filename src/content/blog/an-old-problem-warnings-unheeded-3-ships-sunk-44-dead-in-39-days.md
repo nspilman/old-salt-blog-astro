@@ -1,7 +1,7 @@
 ---
 title: "An Old Problem, Warnings Unheeded – 3 Ships Sunk, 44 Dead in 39 Days"
 date: 2010-12-08T08:08:53
-slug: an-old-problem-warnings-unheeded-3-ships-sunk-44-dead-in-39-days
+slug: "an-old-problem-warnings-unheeded-3-ships-sunk-44-dead-in-39-days"
 excerpt: "Ships carrying metallic ores should be the most stable ships on the ocean. These cargoes are dense and carried in low the ship. If improperly loaded, ore cargoes can indeed break a ship in half, but stability should not be an issue.  Nevertheless, three ships carrying nickel ore … Continue reading &rarr;"
 categories:
   - "Current"

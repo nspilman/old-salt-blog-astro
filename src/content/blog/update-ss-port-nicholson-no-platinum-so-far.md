@@ -1,8 +1,8 @@
 ---
 title: "Update: SS Port Nicholson — No Platinum So Far"
 date: 2014-05-16T09:22:24
-slug: update-ss-port-nicholson-no-platinum-so-far
-excerpt: "In early 2012, we posted about claims made by Greg Brooks of Sub Sea Research that they had found “the worlds richest shipwreck,” the British freighter, SS Port Nicholson, carrying a secret cargo of 71 tons of platinum, sunk by the … Continue reading &rarr;"
+slug: "update-ss-port-nicholson-no-platinum-so-far"
+excerpt: "In early 2012, we posted about claims made by Greg Brooks of Sub Sea Research that they had found \"the worlds richest shipwreck,\" the British freighter, SS Port Nicholson, carrying a secret cargo of 71 tons of platinum, sunk by the … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "platinum"
   - "SS Port Nicholson"
 author: "Rick Spilman"
-description: "In early 2012, we posted about claims made by Greg Brooks of Sub Sea Research that they had found “the worlds richest shipwreck,” the British freighter, SS Port Nicholson, carrying a secret cargo of 71 tons of platinum, sunk by the … Continue reading &rarr;"
+description: "In early 2012, we posted about claims made by Greg Brooks of Sub Sea Research that they had found \"the worlds richest shipwreck,\" the British freighter, SS Port Nicholson, carrying a secret cargo of 71 tons of platinum, sunk by the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/gI_99497_PN.jpg)In early 2012, we [posted about claims made by Greg Brooks](http://www.oldsaltblog.com/2012/01/ss-port-nicholson-sunk-off-cape-cod-in-1942-a-3-billion-shipwreck/) of [Sub Sea Research](http://subsearesearch.com/) that they had found “the worlds richest shipwreck,” the British freighter, SS *Port Nicholson*, carrying a secret cargo of 71 tons of platinum, sunk by the German submarine U-87 on June 16th, 1942, northeast of Cape  

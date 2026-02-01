@@ -1,7 +1,7 @@
 ---
 title: "Pyxis Ocean, Sail-Assisted 80,000 DWT Bulk Carrier Sets Sail on Maiden Voyage"
 date: 2023-08-21T20:17:42
-slug: pyxis-ocean-sail-assisted-80000-dwt-bulk-carrier-sets-sail-on-maiden-voyage
+slug: "pyxis-ocean-sail-assisted-80000-dwt-bulk-carrier-sets-sail-on-maiden-voyage"
 excerpt: "Pyxis Ocean, an 80,000 DWT bulk carrier, fitted with two WindWings, a pioneering rigid wing technology, has set sail on its maiden voyage from China to Brazil. The bulker, owned by Mitsubishi Corporation has been chartered by Cargill, one of … Continue reading &rarr;"
 categories:
   - "Current"

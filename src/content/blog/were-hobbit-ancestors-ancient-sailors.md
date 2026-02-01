@@ -1,7 +1,7 @@
 ---
 title: "Were Hobbit’s Ancestors Ancient Sailors?"
 date: 2014-01-17T10:54:16
-slug: were-hobbit-ancestors-ancient-sailors
+slug: "were-hobbit-ancestors-ancient-sailors"
 excerpt: "For the land-bound, the sea is a boundary. For sailors, it is a path to other shores. But how long have humans been sailing? We can be reasonably sure that humans have been sailing in rafts, boats or ships for … Continue reading &rarr;"
 categories:
   - "History"

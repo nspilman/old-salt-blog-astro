@@ -1,7 +1,7 @@
 ---
-title: "Trident Nuclear Sub HMS Vigilant “Stuck in the USA for Christmas”"
+title: "Trident Nuclear Sub HMS Vigilant \"Stuck in the USA for Christmas\""
 date: 2012-12-22T10:02:10
-slug: trident-nuclear-sub-hms-vigilant-stuck-in-the-usa-for-christmas
+slug: "trident-nuclear-sub-hms-vigilant-stuck-in-the-usa-for-christmas"
 excerpt: "The nuclear submarine HMS Vigilant will apparently be spending the holiday season in the USA after damaging a rudder when test-firing a Trident missile in the Atlantic off the coast of Florida on October 23.   The sub is reported to … Continue reading &rarr;"
 categories:
   - "Current"

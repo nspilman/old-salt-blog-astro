@@ -1,7 +1,7 @@
 ---
 title: "Hijacked MV Asphalt Venture – Ransom Paid, Hostages Kept"
 date: 2011-04-19T20:00:11
-slug: hijacked-mv-asphalt-venture-ransom-paid-hostages-kept
+slug: "hijacked-mv-asphalt-venture-ransom-paid-hostages-kept"
 excerpt: "The MV Asphalt Venture was hijacked by Somali pirates on September 28, 2010.  After negotiating and being paid a multi-million dollar ransom, the pirates released the ship and part of the crew yesterday,  but continued to hold seven Indian seafarers hostage, reportedly in retaliation … Continue reading &rarr;"
 categories:
   - "Current"

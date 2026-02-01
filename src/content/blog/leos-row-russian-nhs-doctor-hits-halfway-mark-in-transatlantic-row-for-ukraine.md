@@ -1,7 +1,7 @@
 ---
 title: "Leo’s Row : Russian NHS Doctor Hits Halfway Mark in Transatlantic Row for Ukraine"
 date: 2025-02-18T18:02:13
-slug: leos-row-russian-nhs-doctor-hits-halfway-mark-in-transatlantic-row-for-ukraine
+slug: "leos-row-russian-nhs-doctor-hits-halfway-mark-in-transatlantic-row-for-ukraine"
 excerpt: "Dr Leo Krivskiy, a doctor with the UK’s National Health Service, is rowing 2,630 nautical miles solo across the Atlantic to raise money for medics in Ukraine in a 6m (20ft) ocean rowing boat called Happy Socks. The BBC reports … Continue reading &rarr;"
 categories:
   - "Current"

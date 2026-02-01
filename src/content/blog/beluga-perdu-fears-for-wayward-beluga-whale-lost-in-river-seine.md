@@ -1,7 +1,7 @@
 ---
 title: "Béluga Perdu — Fears for Wayward Beluga Whale Lost in River Seine"
 date: 2022-08-07T11:15:27
-slug: beluga-perdu-fears-for-wayward-beluga-whale-lost-in-river-seine
+slug: "beluga-perdu-fears-for-wayward-beluga-whale-lost-in-river-seine"
 excerpt: "Thousands of miles from its natural habitat, a wayward beluga whale has been found swimming 160 km up the River Seine between the French capital Paris and the city of Rouen in Normandy. The dangerously thin whale is refusing food … Continue reading &rarr;"
 categories:
   - "Current"

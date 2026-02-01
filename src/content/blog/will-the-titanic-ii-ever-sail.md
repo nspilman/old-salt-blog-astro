@@ -1,8 +1,8 @@
 ---
 title: "Will the Titanic II Ever Sail?"
 date: 2020-01-17T14:53:39
-slug: will-the-titanic-ii-ever-sail
-excerpt: "Will the Titanic II ever be built? And if so, when will it sail? Back in 2012, billionaire Australian businessman Clive Palmer announced the construction of a modern “replica”  of the doomed passenger liner RMS Titanic which sank after striking … Continue reading &rarr;"
+slug: "will-the-titanic-ii-ever-sail"
+excerpt: "Will the Titanic II ever be built? And if so, when will it sail? Back in 2012, billionaire Australian businessman Clive Palmer announced the construction of a modern \"replica\"  of the doomed passenger liner RMS Titanic which sank after striking … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Titanic II"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2013/02/TitanicII.jpg"
 author: "Rick Spilman"
-description: "Will the Titanic II ever be built? And if so, when will it sail? Back in 2012, billionaire Australian businessman Clive Palmer announced the construction of a modern “replica”  of the doomed passenger liner RMS Titanic which sank after striking … Continue reading &rarr;"
+description: "Will the Titanic II ever be built? And if so, when will it sail? Back in 2012, billionaire Australian businessman Clive Palmer announced the construction of a modern \"replica\"  of the doomed passenger liner RMS Titanic which sank after striking … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2013/02/TitanicII.jpg)Will the *Titanic II* ever be built? And if so, when will it sail?

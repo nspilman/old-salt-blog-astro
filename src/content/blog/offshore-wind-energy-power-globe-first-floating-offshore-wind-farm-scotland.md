@@ -1,7 +1,7 @@
 ---
 title: "Offshore Wind Energy to Power the Globe — First Floating Offshore Wind Farm off Scotland"
 date: 2017-10-11T17:22:25
-slug: offshore-wind-energy-power-globe-first-floating-offshore-wind-farm-scotland
+slug: "offshore-wind-energy-power-globe-first-floating-offshore-wind-farm-scotland"
 excerpt: "A new study released this week suggests that offshore floating wind farms could generate enough energy to power the entire world. The study is not referring to the existing offshore wind farms in shallower waters but to deep-sea wind farms where the … Continue reading &rarr;"
 categories:
   - "Current"

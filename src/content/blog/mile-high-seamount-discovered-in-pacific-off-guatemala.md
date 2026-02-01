@@ -1,7 +1,7 @@
 ---
 title: "Mile-High Seamount Discovered in Pacific Off Guatemala"
 date: 2023-12-08T19:04:41
-slug: mile-high-seamount-discovered-in-pacific-off-guatemala
+slug: "mile-high-seamount-discovered-in-pacific-off-guatemala"
 excerpt: "There is an old saying that we know more about the Moon than we do about the deep ocean. Critics say that the notion, first recorded in 1954, is out of date. While that may be the case, it is … Continue reading &rarr;"
 categories:
   - "Current"

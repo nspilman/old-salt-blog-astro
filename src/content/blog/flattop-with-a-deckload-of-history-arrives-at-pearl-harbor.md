@@ -1,7 +1,7 @@
 ---
 title: "Flattop with a Deckload of History Arrives at Pearl Harbor"
 date: 2020-08-15T15:51:03
-slug: flattop-with-a-deckload-of-history-arrives-at-pearl-harbor
+slug: "flattop-with-a-deckload-of-history-arrives-at-pearl-harbor"
 excerpt: "USS Essex, a Wasp-class amphibious assault ship, recently arrived in Hawaii’s Pearl Harbor. Rather than carrying just helicopters, MV-22 Osprey tiltrotors, or even F-35B Lightning II fighter jets, the ship had a deck load of historic World War II warplanes. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

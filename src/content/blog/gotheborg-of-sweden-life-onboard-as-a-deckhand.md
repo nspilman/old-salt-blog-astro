@@ -1,7 +1,7 @@
 ---
 title: "Götheborg of Sweden: Life Onboard as a Deckhand"
 date: 2022-04-16T10:34:02
-slug: gotheborg-of-sweden-life-onboard-as-a-deckhand
+slug: "gotheborg-of-sweden-life-onboard-as-a-deckhand"
 excerpt: "A short video that seeks to answer the question, what is it like to sail onboard Götheborg of Sweden as a deckhand? Have a look at what happens onboard: From bringing your passport when you sign on, to rig training, … Continue reading &rarr;"
 categories:
   - "Current"

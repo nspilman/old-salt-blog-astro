@@ -1,7 +1,7 @@
 ---
 title: "Contaminated Water at Pearl Harbor Forces Over 1,000 Military Families from Their Homes"
 date: 2021-12-08T16:10:20
-slug: contaminated-water-at-pearl-harbor-forces-over-1000-military-families-from-their-homes
+slug: "contaminated-water-at-pearl-harbor-forces-over-1000-military-families-from-their-homes"
 excerpt: "On the 80th anniversary of the attack on Pearl Harbor, over 1,000 military families have been forced from their homes and suffered illness by drinking water apparently contaminated by petroleum from a leaking, World War II era, underground fuel storage … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Fifty Three Years Ago, the Exploding Whale or How Not To Remove a Whale Carcass"
 date: 2023-01-11T16:16:34
-slug: fifty-three-years-ago-the-exploding-whale-or-how-not-to-remove-a-whale-carcass
+slug: "fifty-three-years-ago-the-exploding-whale-or-how-not-to-remove-a-whale-carcass"
 excerpt: "Fifty years ago this November,  the residents of Florence, Oregon learned how not to dispose of a dead whale We recently posted about the burial of a dead humpback whale on the beach in Atlantic City. This was the correct … Continue reading &rarr;"
 categories:
   - "Current"

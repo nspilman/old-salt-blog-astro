@@ -1,8 +1,8 @@
 ---
 title: "Tug Caribbean Sea Never Responded to Duck Boat in Fatal Collision"
 date: 2010-09-12T11:44:05
-slug: tug-caribbean-sea-never-responded-to-duck-boat-in-fatal-collision
-excerpt: "On July 7th, we posted about a collision between a barge towed by the tug Caribbean Sea and a disabled “Duck boat” DUKW 34 at anchor in the Delaware River off Philadelphia.  Two of the 35 passengers on the duck … Continue reading &rarr;"
+slug: "tug-caribbean-sea-never-responded-to-duck-boat-in-fatal-collision"
+excerpt: "On July 7th, we posted about a collision between a barge towed by the tug Caribbean Sea and a disabled \"Duck boat\" DUKW 34 at anchor in the Delaware River off Philadelphia.  Two of the 35 passengers on the duck … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "NTSB"
   - "tug Caribbean Sea"
 author: "Rick Spilman"
-description: "On July 7th, we posted about a collision between a barge towed by the tug Caribbean Sea and a disabled “Duck boat” DUKW 34 at anchor in the Delaware River off Philadelphia.  Two of the 35 passengers on the duck … Continue reading &rarr;"
+description: "On July 7th, we posted about a collision between a barge towed by the tug Caribbean Sea and a disabled \"Duck boat\" DUKW 34 at anchor in the Delaware River off Philadelphia.  Two of the 35 passengers on the duck … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/duck1.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2010/09/duck1.jpg)

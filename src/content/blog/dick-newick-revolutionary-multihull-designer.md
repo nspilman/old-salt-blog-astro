@@ -1,7 +1,7 @@
 ---
 title: "Dick Newick – Revolutionary Multihull Designer"
 date: 2013-08-30T14:02:52
-slug: dick-newick-revolutionary-multihull-designer
+slug: "dick-newick-revolutionary-multihull-designer"
 excerpt: "Dick Newick, the brilliant multihull designer, has died at 87.  His designs, particularly his trimarans,  revolutionized the world of multihull sailing.  His designs are remarkably graceful, simple, light and astonishingly fast.  In a very real sense, the history of multihull … Continue reading &rarr;"
 categories:
   - "Current"

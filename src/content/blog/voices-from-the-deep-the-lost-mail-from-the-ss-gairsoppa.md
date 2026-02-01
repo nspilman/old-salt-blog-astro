@@ -1,7 +1,7 @@
 ---
 title: "Voices From the Deep — the Lost Mail from the SS Gairsoppa"
 date: 2018-04-04T10:47:23
-slug: voices-from-the-deep-the-lost-mail-from-the-ss-gairsoppa
+slug: "voices-from-the-deep-the-lost-mail-from-the-ss-gairsoppa"
 excerpt: "A new exhibit has recently opened at the Postal Museum in London — Voices from the Deep. The exhibit features undeliveredd letters retrieved from the wreck of the SS Gairsoppa, a British merchant ship which was sunk by a U-boat 300 miles southwest of Galway … Continue reading &rarr;"
 categories:
   - "Current"

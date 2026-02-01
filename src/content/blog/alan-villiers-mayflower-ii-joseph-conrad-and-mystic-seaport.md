@@ -1,7 +1,7 @@
 ---
 title: "Alan Villiers, Mayflower II,  Joseph Conrad and Mystic Seaport"
 date: 2014-12-26T21:52:57
-slug: alan-villiers-mayflower-ii-joseph-conrad-and-mystic-seaport
+slug: "alan-villiers-mayflower-ii-joseph-conrad-and-mystic-seaport"
 excerpt: "While not a particular believer in ghosts, if the ghost of Alan Villiers is about, I suspect that he must smiling.  The arrival of the Mayflower II at Mystic Seaport Museum is the reunion, of sorts, of two ships long … Continue reading &rarr;"
 categories:
   - "Current"

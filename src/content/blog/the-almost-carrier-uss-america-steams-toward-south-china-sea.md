@@ -1,8 +1,8 @@
 ---
 title: "The Almost Carrier, USS America, Steams Toward South China Sea"
 date: 2020-04-21T15:33:40
-slug: the-almost-carrier-uss-america-steams-toward-south-china-sea
-excerpt: "The UK Daily Mail’s headline, as shown on Google, read “USS America aircraft carrier steams to intercept Chinese ships…” The story behind the headline is that the USS America and the guided-missile destroyer USS Bunker Hill are being deployed to intercept … Continue reading &rarr;"
+slug: "the-almost-carrier-uss-america-steams-toward-south-china-sea"
+excerpt: "The UK Daily Mail’s headline, as shown on Google, read \"USS America aircraft carrier steams to intercept Chinese ships…\" The story behind the headline is that the USS America and the guided-missile destroyer USS Bunker Hill are being deployed to intercept … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "USS Theodore Roosevelt"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/ussamerica.jpg"
 author: "Rick Spilman"
-description: "The UK Daily Mail’s headline, as shown on Google, read “USS America aircraft carrier steams to intercept Chinese ships…” The story behind the headline is that the USS America and the guided-missile destroyer USS Bunker Hill are being deployed to intercept … Continue reading &rarr;"
+description: "The UK Daily Mail’s headline, as shown on Google, read \"USS America aircraft carrier steams to intercept Chinese ships…\" The story behind the headline is that the USS America and the guided-missile destroyer USS Bunker Hill are being deployed to intercept … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/ussamerica.jpg)The UK Daily Mail’s headline, as shown on Google, read “[USS *America* aircraft carrier steams to intercept Chinese ships…”](https://www.dailymail.co.uk/news/article-8238899/USS-America-aircraft-carrier-steams-intercept-Chinese-ships-disputed-waters-near-Malaysia.html)

@@ -1,7 +1,7 @@
 ---
 title: "Looking Back at President Jimmy Carter’s Naval Career"
 date: 2025-01-09T18:21:41
-slug: looking-back-at-president-jimmy-carters-naval-career
+slug: "looking-back-at-president-jimmy-carters-naval-career"
 excerpt: "Today was President Jimmy Carter‘s funeral. He was 100 years old when he died after a long and remarkable life of public service. He will, no doubt, be best remembered for his personal integrity and faith in his term as … Continue reading &rarr;"
 categories:
   - "Current"

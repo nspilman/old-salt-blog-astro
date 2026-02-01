@@ -1,7 +1,7 @@
 ---
 title: "Two Wounded in Mock Sea Battle at Toshiba Tall Ship Festival"
 date: 2012-09-12T15:30:35
-slug: two-wounded-in-mock-sea-battle-at-toshiba-tall-ship-festival
+slug: "two-wounded-in-mock-sea-battle-at-toshiba-tall-ship-festival"
 excerpt: "On Saturday, a passenger and a crew member on the schooner Bill of Rights were wounded by bird shot apparently fired from the topsail schooner Amazing Grace during a mock sea battle at the Tobisha Tall Ship Festival at Dana Point, … Continue reading &rarr;"
 categories:
   - "Current"

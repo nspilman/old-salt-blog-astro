@@ -1,8 +1,8 @@
 ---
 title: "Divers find £43million worth of Ming Dynasty pottery on shipwreck"
 date: 2011-07-01T09:53:51
-slug: divers-find-43million-worth-of-ming-dynasty-pottery-on-shipwreck
-excerpt: "Divers have found a huge “haul” of Ming Dynasty pottery on a ship that sank off the coast of Indonesia in 1580. What I find amazing about the discovery are the photos of the pottery on the bottom, still in … Continue reading &rarr;"
+slug: "divers-find-43million-worth-of-ming-dynasty-pottery-on-shipwreck"
+excerpt: "Divers have found a huge \"haul\" of Ming Dynasty pottery on a ship that sank off the coast of Indonesia in 1580. What I find amazing about the discovery are the photos of the pottery on the bottom, still in … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "Ming Dynasty pottery"
   - "ship wreck"
 author: "Rick Spilman"
-description: "Divers have found a huge “haul” of Ming Dynasty pottery on a ship that sank off the coast of Indonesia in 1580. What I find amazing about the discovery are the photos of the pottery on the bottom, still in … Continue reading &rarr;"
+description: "Divers have found a huge \"haul\" of Ming Dynasty pottery on a ship that sank off the coast of Indonesia in 1580. What I find amazing about the discovery are the photos of the pottery on the bottom, still in … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/mingporc.jpg)

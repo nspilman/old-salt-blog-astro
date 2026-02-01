@@ -1,7 +1,7 @@
 ---
 title: "Shipment of Next-Gen Container Cranes to Close Delaware Memorial Bridge"
 date: 2018-03-23T18:00:24
-slug: shipment-of-next-gen-container-cranes-to-close-delaware-memorial-bridge
+slug: "shipment-of-next-gen-container-cranes-to-close-delaware-memorial-bridge"
 excerpt: "For about 30 minutes early Saturday morning the Delaware Memorial Bridge will close as the heavy lift ship, Zhen Hua 16, with two large container cranes on deck, passes beneath it.  The distance from the water level to the top of the cranes … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Tupaia, Captain Cook’s Polynesian Navigator – A New Book by Joan Druett"
 date: 2010-05-13T17:34:46
-slug: tupaia-captain-cooks-polynesian-navigator-a-new-book-by-joan-druett
+slug: "tupaia-captain-cooks-polynesian-navigator-a-new-book-by-joan-druett"
 excerpt: "I love when an author shines a new light on history that we all thought we already knew. Joan Druett in her new book Tupaia, Captain Cook’s Polynesian Navigator, appears to do just that.    A sneak peak from Joan … Continue reading &rarr;"
 categories:
   - "Newbooks"

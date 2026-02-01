@@ -1,7 +1,7 @@
 ---
 title: "On this Day in History: John Glover’s Web-footed Marbleheaders Saved the Revolution"
 date: 2010-08-30T11:02:51
-slug: on-this-day-in-history-john-glovers-web-footed-marbleheaders-save-the-revolution
+slug: "on-this-day-in-history-john-glovers-web-footed-marbleheaders-save-the-revolution"
 excerpt: "On August 29th, 1776, George Washington faced certain defeat.  Howe had been able to flank the Americans in Brooklyn, turning the Battle of Long Island into a rout. Washington was left with the remnants of his army on Brooklyn Heights, with the East River … Continue reading &rarr;"
 categories:
   - "History"

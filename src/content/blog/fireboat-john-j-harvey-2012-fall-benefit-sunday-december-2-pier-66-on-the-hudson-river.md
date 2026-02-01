@@ -1,7 +1,7 @@
 ---
 title: "Fireboat John J. Harvey – 2012 Fall Benefit, Sunday December 2, Pier 66 on the Hudson River"
 date: 2012-11-30T15:34:46
-slug: fireboat-john-j-harvey-2012-fall-benefit-sunday-december-2-pier-66-on-the-hudson-river
+slug: "fireboat-john-j-harvey-2012-fall-benefit-sunday-december-2-pier-66-on-the-hudson-river"
 excerpt: "About a month ago, we posted about the Fireboat John J. Harvey – 2012 Fall Benefit which was originally scheduled for October 22nd.  Superstorm Sandy’s arrival the next day, however  made rescheduling necessary.  It is on again, this Sunday, December 2nd, and it sounds like a great … Continue reading &rarr;"
 categories:
   - "Current"

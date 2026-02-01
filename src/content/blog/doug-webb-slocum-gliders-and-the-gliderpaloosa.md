@@ -1,7 +1,7 @@
 ---
 title: "Doug Webb, Slocum Gliders and the GliderPaloosa"
 date: 2013-12-24T13:44:54
-slug: doug-webb-slocum-gliders-and-the-gliderpaloosa
+slug: "doug-webb-slocum-gliders-and-the-gliderpaloosa"
 excerpt: "Did you catch GliderPaloosa 2013? No? Neither did I. It was easy to miss as it was almost entirely underwater.   GliderPaloosa 2013 was an event held in September and October, sponsored by NOAA in cooperation with Dalhousie University, the University of Maine, … Continue reading &rarr;"
 categories:
   - "Current"

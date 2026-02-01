@@ -1,7 +1,7 @@
 ---
 title: "Schooner: Building a Wooden Boat on Martha’s Vineyard"
 date: 2010-05-25T16:45:26
-slug: schooner-building-a-wooden-boat-on-marthas-vineyard
+slug: "schooner-building-a-wooden-boat-on-marthas-vineyard"
 excerpt: "I haven’t seen it yet but Schooner: Building a Wooden Boat on Martha’s Vineyard by Tom Dunlop,  looks fascinating. From the publisher:   Schooner takes you through the construction of Rebecca of Vineyard Haven, a sixty-foot wooden schooner designed and built by … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

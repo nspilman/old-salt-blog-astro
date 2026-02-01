@@ -1,7 +1,7 @@
 ---
 title: "50 Million Years of Whale Animation in One Minute"
 date: 2018-05-30T20:52:33
-slug: 50-million-years-of-whale-animation-in-one-minute
+slug: "50-million-years-of-whale-animation-in-one-minute"
 excerpt: "Slate recently featured an animation of 50 million years of whale evolution represented in one minute. The animation is the work of Jordan Collver, an illustrator and science communicator in the U.K. Collver used a series of illustrations to show … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

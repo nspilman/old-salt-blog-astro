@@ -1,7 +1,7 @@
 ---
 title: "Hermione – Stopover in Brest"
 date: 2016-01-06T10:11:18
-slug: hermione-stopover-in-brest
+slug: "hermione-stopover-in-brest"
 excerpt: "Great video of the replica frigate l’Hermione calling in Brest. L’Hermione – Escale à Brest [Drone] from Nautimages on Vimeo. … Continue reading &rarr;"
 categories:
   - "Current"

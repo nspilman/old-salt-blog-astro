@@ -1,8 +1,8 @@
 ---
 title: "Joseph Conrad on the Titanic – On Experts, Icebergs, Lifeboats and Biscuit Tins"
 date: 2012-04-15T12:51:42
-slug: joseph-conrad-on-the-titanic-on-experts-icebergs-lifeboats-and-biscuit-tins
-excerpt: "In June of 1912, Joseph Conrad wrote “Some Reflections on the Loss of the Titanic” for the English Review.  While best known as a novelist, his comments reflect his years as a ship’s officer in both sail and steam.   He finds little … Continue reading &rarr;"
+slug: "joseph-conrad-on-the-titanic-on-experts-icebergs-lifeboats-and-biscuit-tins"
+excerpt: "In June of 1912, Joseph Conrad wrote \"Some Reflections on the Loss of the Titanic\" for the English Review.  While best known as a novelist, his comments reflect his years as a ship’s officer in both sail and steam.   He finds little … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "Some Reflections on the Loss of the Titanic"
   - "Titanic"
 author: "Rick Spilman"
-description: "In June of 1912, Joseph Conrad wrote “Some Reflections on the Loss of the Titanic” for the English Review.  While best known as a novelist, his comments reflect his years as a ship’s officer in both sail and steam.   He finds little … Continue reading &rarr;"
+description: "In June of 1912, Joseph Conrad wrote \"Some Reflections on the Loss of the Titanic\" for the English Review.  While best known as a novelist, his comments reflect his years as a ship’s officer in both sail and steam.   He finds little … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/220px-Joseph_Conrad_1904.jpg)In June of 1912, Joseph Conrad wrote “*[Some Reflections on the Loss of the Titanic](http://www.online-literature.com/conrad/notes-life-and-letters/23/)*” for the *English Review*.  While best known as a novelist, his comments reflect his years as a ship’s officer in both sail and steam.   He finds little to like in the events of that night in April, one hundred years ago today, or the events which followed. A few of Conrad’s thoughts on the media, icebergs, the design of unsinkable ships, biscuit tins and the romanticizing of needless death.

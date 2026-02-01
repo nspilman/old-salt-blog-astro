@@ -1,7 +1,7 @@
 ---
-title: "Skimmer “A Whale” Fails Second Round of Testing"
+title: "Skimmer \"A Whale\" Fails Second Round of Testing"
 date: 2010-07-17T07:48:50
-slug: skimmer-a-whale-fails-second-round-of-testing
+slug: "skimmer-a-whale-fails-second-round-of-testing"
 excerpt: "After a second round of testing, the converted O/B/O skimmer A Whale has been judged a failure in skimming oil from the Deepwater Horizon spill in the Gulf of Mexico. Giant oil skimmer ‘A Whale’ deemed a bust for Gulf … Continue reading &rarr;"
 categories:
   - "Current"

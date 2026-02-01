@@ -1,7 +1,7 @@
 ---
 title: "Piracy and Maritime Crime: Historical and Modern Case Studies"
 date: 2010-05-05T17:15:07
-slug: piracy-and-maritime-crime-historical-and-modern-case-studies
+slug: "piracy-and-maritime-crime-historical-and-modern-case-studies"
 excerpt: "The US Naval War College has published a collection of essays on Piracy and Maritime Crime: Historical and Modern Case Studies, edited by Bruce A. Elleman, Andrew Forbes, and David Rosenberg.  The essays look at piracy around the world and throughout history … Continue reading &rarr;"
 categories:
   - "Current"

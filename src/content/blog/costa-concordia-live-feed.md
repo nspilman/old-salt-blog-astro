@@ -1,7 +1,7 @@
 ---
 title: "Costa Concordia Salvage – Live Video Feed"
 date: 2013-09-16T09:41:46
-slug: costa-concordia-live-feed
+slug: "costa-concordia-live-feed"
 excerpt: "Watch live: Costa Concordia salvage operation – video … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

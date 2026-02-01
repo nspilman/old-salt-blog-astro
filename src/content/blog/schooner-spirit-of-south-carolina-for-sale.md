@@ -1,7 +1,7 @@
 ---
 title: "Schooner Spirit of South Carolina For Sale"
 date: 2011-12-13T12:08:57
-slug: schooner-spirit-of-south-carolina-for-sale
+slug: "schooner-spirit-of-south-carolina-for-sale"
 excerpt: "Sad news from the Palmetto State. The South Carolina Maritime Foundation plans to try to sell the schooner Spirit of South Carolina to pay off its mounting debts.  The foundation is reported to be being sued by a bank and a … Continue reading &rarr;"
 categories:
   - "Current"

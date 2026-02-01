@@ -1,8 +1,8 @@
 ---
 title: "Ocean Transportation – Beautifully Green or Murderously Dirty?"
 date: 2010-03-01T07:14:47
-slug: ocean-transportation-%e2%80%93-beautifully-green-or-murderously-dirty
-excerpt: "Is a ship the “greenest”, most efficient means of transportation or is the dirtiest? It is easy to be confused about hoe clean or dirty ocean transportation may be  from reading the newspapers. Transportation by water has always been the … Continue reading &rarr;"
+slug: "ocean-transportation-%e2%80%93-beautifully-green-or-murderously-dirty"
+excerpt: "Is a ship the \"greenest\", most efficient means of transportation or is the dirtiest? It is easy to be confused about hoe clean or dirty ocean transportation may be  from reading the newspapers. Transportation by water has always been the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Ships"
@@ -11,7 +11,7 @@ tags:
   - "pollution"
   - "Transportation by water"
 author: "Rick Spilman"
-description: "Is a ship the “greenest”, most efficient means of transportation or is the dirtiest? It is easy to be confused about hoe clean or dirty ocean transportation may be  from reading the newspapers. Transportation by water has always been the … Continue reading &rarr;"
+description: "Is a ship the \"greenest\", most efficient means of transportation or is the dirtiest? It is easy to be confused about hoe clean or dirty ocean transportation may be  from reading the newspapers. Transportation by water has always been the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/blast_image-150x173.jpg)Is a ship the “greenest”, most efficient means of transportation or is the dirtiest? It is easy to be confused about hoe clean or dirty ocean transportation may be  from reading the newspapers.

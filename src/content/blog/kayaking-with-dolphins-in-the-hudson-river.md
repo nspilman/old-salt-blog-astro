@@ -1,8 +1,8 @@
 ---
 title: "Kayaking With Dolphins in the Hudson River"
 date: 2022-09-03T10:05:33
-slug: kayaking-with-dolphins-in-the-hudson-river
-excerpt: "Seeing dolphins may not seem exceptional to non-New Yorkers. Nevertheless, the only thing I recall in the Hudson River when I arrived in New York some 40 years ago were the “Hudson River whitefish” that I saw that appeared to … Continue reading &rarr;"
+slug: "kayaking-with-dolphins-in-the-hudson-river"
+excerpt: "Seeing dolphins may not seem exceptional to non-New Yorkers. Nevertheless, the only thing I recall in the Hudson River when I arrived in New York some 40 years ago were the \"Hudson River whitefish\" that I saw that appeared to … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "new york"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/08/dolphinkayakersNYC.jpg"
 author: "Rick Spilman"
-description: "Seeing dolphins may not seem exceptional to non-New Yorkers. Nevertheless, the only thing I recall in the Hudson River when I arrived in New York some 40 years ago were the “Hudson River whitefish” that I saw that appeared to … Continue reading &rarr;"
+description: "Seeing dolphins may not seem exceptional to non-New Yorkers. Nevertheless, the only thing I recall in the Hudson River when I arrived in New York some 40 years ago were the \"Hudson River whitefish\" that I saw that appeared to … Continue reading &rarr;"
 ---
 
 Seeing dolphins may not seem exceptional to non-New Yorkers. Nevertheless, the only thing I recall in the Hudson River when I arrived in New York some 40 years ago were the “Hudson River whitefish” that I saw that appeared to swim in the currents off the Battery. (The “white fish” were the condoms flushed down city toilets and dumped with raw sewage directly in the river.) 

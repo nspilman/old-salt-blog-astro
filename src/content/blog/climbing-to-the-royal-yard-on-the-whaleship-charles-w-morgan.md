@@ -1,7 +1,7 @@
 ---
 title: "Climbing to the Royal Yard on the Whaleship Charles W. Morgan"
 date: 2014-06-24T08:57:24
-slug: climbing-to-the-royal-yard-on-the-whaleship-charles-w-morgan
+slug: "climbing-to-the-royal-yard-on-the-whaleship-charles-w-morgan"
 excerpt: "Great video of climbing to the royal yard on the Charles W. Morgan. Atop the world on the Charles W. Morgan … Continue reading &rarr;"
 categories:
   - "Current"

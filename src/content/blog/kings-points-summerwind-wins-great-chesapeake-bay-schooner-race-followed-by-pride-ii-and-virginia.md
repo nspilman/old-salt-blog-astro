@@ -1,7 +1,7 @@
 ---
 title: "Kings Point’s Summerwind Wins Great Chesapeake Bay Schooner Race Followed by Pride II and Virginia"
 date: 2012-10-15T08:59:42
-slug: kings-points-summerwind-wins-great-chesapeake-bay-schooner-race-followed-by-pride-ii-and-virginia
+slug: "kings-points-summerwind-wins-great-chesapeake-bay-schooner-race-followed-by-pride-ii-and-virginia"
 excerpt: "In the 22nd Great Chesapeake Bay Schooner Race, thirty nine schooner raced from 127 nautical miles down the Chesapeake Bay from Baltimore, Maryland to Portsmouth, Virginia.  Summerwind, the 100′ 1929 John Alden designed schooner owned by the United States Merchant Marine Academy at Kings Point, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "US Navy SEAL Commandos Rescue American and Danish Hostage in Raid on Somali Pirates"
 date: 2012-01-25T09:48:06
-slug: us-navy-seal-commandos-rescue-american-and-danish-hostage-in-raid-on-somali-pirates
+slug: "us-navy-seal-commandos-rescue-american-and-danish-hostage-in-raid-on-somali-pirates"
 excerpt: "In a pre-dawn raid, US Navy SEAL commandos freed two hostages; an American, Jessica Buchanan, 32, and a Dane, Poul Thisted, 60;  being held for ransom in a pirate compound 12 miles north of the Somali town of Adado.  Members of SEAL Team … Continue reading &rarr;"
 categories:
   - "Current"

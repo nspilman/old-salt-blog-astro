@@ -1,7 +1,7 @@
 ---
 title: "From Steamship to Sewer Vent – The Mast of the Malta and the Queen of the South"
 date: 2013-05-26T11:36:12
-slug: from-steamship-to-sewer-vent-the-mast-of-the-malta-and-the-queen-of-the-south
+slug: "from-steamship-to-sewer-vent-the-mast-of-the-malta-and-the-queen-of-the-south"
 excerpt: "Next to a 7-11 convenience store on 8th Avenue, about a half block from the beach, in the New Jersey shore community of Belmar, there is a tall sewer standpipe, a vertical vent designed to carry the noxious smells from … Continue reading &rarr;"
 categories:
   - "Current"

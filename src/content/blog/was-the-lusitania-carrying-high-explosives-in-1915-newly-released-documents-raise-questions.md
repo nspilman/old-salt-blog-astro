@@ -1,7 +1,7 @@
 ---
 title: "Was the Lusitania Carrying Munitions in 1915? Newly Released Documents Raise Questions"
 date: 2014-05-02T08:11:39
-slug: was-the-lusitania-carrying-high-explosives-in-1915-newly-released-documents-raise-questions
+slug: "was-the-lusitania-carrying-high-explosives-in-1915-newly-released-documents-raise-questions"
 excerpt: "When the Cunard liner RMS Lusitania was sunk by a German submarine during World War I, on May 7, 1915, with the loss of 1,198 passengers and crew, the Germans claimed that the ship was carrying high explosives, which the British … Continue reading &rarr;"
 categories:
   - "Current"

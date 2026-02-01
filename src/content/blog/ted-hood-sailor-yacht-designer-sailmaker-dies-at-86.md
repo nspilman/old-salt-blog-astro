@@ -1,7 +1,7 @@
 ---
 title: "Ted Hood – Sailor, Yacht Designer, Sailmaker Dies at 86"
 date: 2013-07-01T17:53:21
-slug: ted-hood-sailor-yacht-designer-sailmaker-dies-at-86
+slug: "ted-hood-sailor-yacht-designer-sailmaker-dies-at-86"
 excerpt: "In 1955, Ted Hood founded Hood Sailmakers at the back of Maddie’s Bar in Marblehead.   Hood Sailmakers would grow to be a premier sail maker in the 1960s and 1970s.   Hood was also a boatbuilder, designer and sailor. In … Continue reading &rarr;"
 categories:
   - "Current"

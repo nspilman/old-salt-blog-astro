@@ -1,8 +1,8 @@
 ---
 title: "The Olympias Trireme – 5th Century B.C Warship Reborn"
 date: 2010-07-17T10:46:53
-slug: the-olympias-trireme
-excerpt: "Many historians have long suspected that the performance of the Greek triremes as reported by Esculus and others, were overstated.  Some have referred to them as “mythological.”   The  Olympias trireme, built in 1987,  designed by the naval architect John Coates, who died last week, … Continue reading &rarr;"
+slug: "the-olympias-trireme"
+excerpt: "Many historians have long suspected that the performance of the Greek triremes as reported by Esculus and others, were overstated.  Some have referred to them as \"mythological.\"   The  Olympias trireme, built in 1987,  designed by the naval architect John Coates, who died last week, … Continue reading &rarr;"
 categories:
   - "Critiques"
   - "Current"
@@ -16,7 +16,7 @@ tags:
   - "Olympias"
   - "trireme"
 author: "Rick Spilman"
-description: "Many historians have long suspected that the performance of the Greek triremes as reported by Esculus and others, were overstated.  Some have referred to them as “mythological.”   The  Olympias trireme, built in 1987,  designed by the naval architect John Coates, who died last week, … Continue reading &rarr;"
+description: "Many historians have long suspected that the performance of the Greek triremes as reported by Esculus and others, were overstated.  Some have referred to them as \"mythological.\"   The  Olympias trireme, built in 1987,  designed by the naval architect John Coates, who died last week, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/trireme_.jpg)Many historians have long suspected that the performance of the Greek triremes as reported by Esculus and others, were overstated.  Some have referred to them as “mythological.”   The  *[Olympias](http://en.wikipedia.org/wiki/Olympias_\(trireme\))* [trireme](http://en.wikipedia.org/wiki/Olympias_\(trireme\)), built in 1987,  designed by the naval architect [John Coates](http://en.wikipedia.org/wiki/Olympias_\(trireme\)), who died last week,  has proven to be as fast and maneuverable as the [triremes](http://en.wikipedia.org/wiki/Trireme) described in the ancient texts.

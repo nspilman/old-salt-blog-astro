@@ -1,7 +1,7 @@
 ---
 title: "Model Mayflower Fashioned from Actual Ship’s Timber"
 date: 2010-10-14T08:40:37
-slug: model-mayflower-fashioned-from-actual-ships-timber
+slug: "model-mayflower-fashioned-from-actual-ships-timber"
 excerpt: "Today in the Bucks County Courthouse in Pennsylvania, a 20-inch-long and 22-inch-tall model of the Mayflower, the ship that carried English separatists, known as Pilgrims, to Massachusetts in 1620,  will go on public display for the first time in the United States.  The … Continue reading &rarr;"
 categories:
   - "Current"

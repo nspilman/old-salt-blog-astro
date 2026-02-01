@@ -1,7 +1,7 @@
 ---
 title: "New Zealand Navy Support Vessel Grounds & Sinks off Samoa, All Onboard Rescued"
 date: 2024-10-06T20:10:30
-slug: new-zealand-navy-support-vessel-grounds-sinks-off-samoa-all-onboard-rescued
+slug: "new-zealand-navy-support-vessel-grounds-sinks-off-samoa-all-onboard-rescued"
 excerpt: "HMNZS Manawanui, a multi-role offshore support vessel commissioned in the Royal New Zealand Navy, ran aground while surveying a reef off the island of Upolu in Samoa on Saturday night local time. The ship subsequently caught fire before capsizing and … Continue reading &rarr;"
 categories:
   - "Current"

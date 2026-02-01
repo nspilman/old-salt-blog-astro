@@ -1,7 +1,7 @@
 ---
 title: "Charles W. Morgan to Sail Again?"
 date: 2009-09-22T12:24:53
-slug: charles-w-morgan-to-sail-again
+slug: "charles-w-morgan-to-sail-again"
 excerpt: "Intriguing news about Charles W. Morgan, the last American sailing whale ship.  From Boston.com Mystic Seaport officials are now considering whether to make the ship seaworthy again so that it can tour New England’s coastline in the summer of 2012, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Great Unknowns in Gulf Oil Spill"
 date: 2010-05-29T10:53:21
-slug: the-great-unknowns-in-gulf-oil-spill
+slug: "the-great-unknowns-in-gulf-oil-spill"
 excerpt: "We haven’t posted about the Deepwater Horizon blow-out and spill.  The folks over at the Maritime Texas and the gCaptain blogs have been doing a great job of covering the environmental disaster as it continues to unfold and we have had nothing  to … Continue reading &rarr;"
 categories:
   - "Current"

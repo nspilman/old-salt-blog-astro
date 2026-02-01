@@ -1,7 +1,7 @@
 ---
 title: "Wind Shift Frees Cruise Ship and Icebreaker Trapped in Antarctic Ice"
 date: 2014-01-08T08:07:56
-slug: wind-shift-frees-cruise-ship-and-icebreaker-trapped-in-antarctic-ice
+slug: "wind-shift-frees-cruise-ship-and-icebreaker-trapped-in-antarctic-ice"
 excerpt: "What is more powerful than an icebreaker? The answer is: the wind. Following a wind shift, the expedition cruise ship, MV Akademik Shokalskiy, and Chinese icebreaker Xue Long or Snow Dragon have broken free from the pack ice off Antarctica. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

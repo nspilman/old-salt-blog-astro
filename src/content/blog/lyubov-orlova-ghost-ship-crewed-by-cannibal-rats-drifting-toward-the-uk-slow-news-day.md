@@ -1,7 +1,7 @@
 ---
 title: "Lyubov Orlova, Ghost Ship Crewed by Cannibal Rats Drifting Toward the UK — Phony Hysteria on a Slow News Day?"
 date: 2014-01-23T12:01:13
-slug: lyubov-orlova-ghost-ship-crewed-by-cannibal-rats-drifting-toward-the-uk-slow-news-day
+slug: "lyubov-orlova-ghost-ship-crewed-by-cannibal-rats-drifting-toward-the-uk-slow-news-day"
 excerpt: "A story has exploded across the UK press about the Lyubov Orlova, a cruise ship which broke free from its tow in a winter storm and was abandoned in the Atlantic in February of last year.  What evidence exists suggests … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

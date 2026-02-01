@@ -1,7 +1,7 @@
 ---
 title: "New Dory for Tall Ship Gazela"
 date: 2014-07-24T10:05:54
-slug: new-dory-for-tall-ship-gazela
+slug: "new-dory-for-tall-ship-gazela"
 excerpt: "Tall ship Gazela Primeiro, the official tall ship of Philadelphia, carried 30 dories when it fished the Grand Banks of the Atlantic Ocean. A dory is a small wooden boat used by a solo fisherman who tended a long line … Continue reading &rarr;"
 categories:
   - "Current"

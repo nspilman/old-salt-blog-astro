@@ -1,8 +1,8 @@
 ---
 title: "Why I’m Not a Pirate — A Sailor’s Perspective"
 date: 2016-09-19T09:43:18
-slug: im-not-pirate-sailors-perspective
-excerpt: "Some people choose to celebrate today as “Talk Like Pirate Day.”  They may walk around with funny hats, eye patches and/or plastic swords saying “Aargh” or “Shiver me timbers” or some other sort of nonsense. I have never quite understood the … Continue reading &rarr;"
+slug: "im-not-pirate-sailors-perspective"
+excerpt: "Some people choose to celebrate today as \"Talk Like Pirate Day.\"  They may walk around with funny hats, eye patches and/or plastic swords saying \"Aargh\" or \"Shiver me timbers\" or some other sort of nonsense. I have never quite understood the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "pirate"
   - "Talk Like Pirate Day"
 author: "Rick Spilman"
-description: "Some people choose to celebrate today as “Talk Like Pirate Day.”  They may walk around with funny hats, eye patches and/or plastic swords saying “Aargh” or “Shiver me timbers” or some other sort of nonsense. I have never quite understood the … Continue reading &rarr;"
+description: "Some people choose to celebrate today as \"Talk Like Pirate Day.\"  They may walk around with funny hats, eye patches and/or plastic swords saying \"Aargh\" or \"Shiver me timbers\" or some other sort of nonsense. I have never quite understood the … Continue reading &rarr;"
 ---
 
 ![nopirate](http://www.oldsaltblog.com/wp-content/uploads/2016/09/nopirate.jpg)Some people choose to celebrate today as “[Talk Like Pirate Day](http://talklikeapirate.com/wordpress/).”  They may walk around with funny hats, eye patches and/or plastic swords saying “Aargh” or “Shiver me timbers” or some other sort of nonsense. I have never quite understood the appeal of the Disney-fied glorification of 17th century murderers and rapists.

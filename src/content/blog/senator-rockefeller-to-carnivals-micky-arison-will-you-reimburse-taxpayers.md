@@ -1,7 +1,7 @@
 ---
 title: "Senator Rockefeller to Carnival’s Micky Arison –  Will You Reimburse Taxpayers?"
 date: 2013-03-19T08:46:31
-slug: senator-rockefeller-to-carnivals-micky-arison-will-you-reimburse-taxpayers
+slug: "senator-rockefeller-to-carnivals-micky-arison-will-you-reimburse-taxpayers"
 excerpt: "Carnival Cruise Line pays virtually no Federal taxes, yet without the docks, roads, and airports provided by local, state and the federal governments, it would be unable to operate its cruise line.  And, when one of its ships gets into trouble, Carnival … Continue reading &rarr;"
 categories:
   - "Current"

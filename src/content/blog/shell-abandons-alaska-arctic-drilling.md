@@ -1,7 +1,7 @@
 ---
 title: "Shell Abandons Alaska Arctic Drilling"
 date: 2015-09-28T13:30:57
-slug: shell-abandons-alaska-arctic-drilling
+slug: "shell-abandons-alaska-arctic-drilling"
 excerpt: "For several years, we have followed Shell Oil’s expensive, dangerous and almost farcical attempts to drill for oil in the Chukchi Sea in the Alaska’s Arctic. Shell has faced protests, multiple groundings, technical failures, and citations for safety and pollution violations. Worst … Continue reading &rarr;"
 categories:
   - "Current"

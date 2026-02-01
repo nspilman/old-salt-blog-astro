@@ -1,7 +1,7 @@
 ---
 title: "Lars Henning Hansen – Master Rigger"
 date: 2009-10-03T17:05:32
-slug: lars-henning-hansen-%e2%80%93-master-rigger
+slug: "lars-henning-hansen-%e2%80%93-master-rigger"
 excerpt: "I just read that Lars Hansen died the day before yesterday in a nursing home in Florida.  He was 86.  For three decades he had been the master rigger of the  historic vessels of the South Street Seaport until he suffered … Continue reading &rarr;"
 categories:
   - "Current"

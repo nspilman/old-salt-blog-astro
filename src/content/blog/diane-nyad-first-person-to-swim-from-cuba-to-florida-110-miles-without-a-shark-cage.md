@@ -1,7 +1,7 @@
 ---
 title: "Diane Nyad – First Person to Swim from Cuba to Florida, 110 Miles, Without a Shark Cage"
 date: 2013-09-02T15:01:45
-slug: diane-nyad-first-person-to-swim-from-cuba-to-florida-110-miles-without-a-shark-cage
+slug: "diane-nyad-first-person-to-swim-from-cuba-to-florida-110-miles-without-a-shark-cage"
 excerpt: "Diana Nyad has succeeded in swimming the 110 miles from Cuba to Key West, FL, across the Straits of Florida.  She is the first person ever to do so without a shark cage.  The swim took 53 hours and she … Continue reading &rarr;"
 categories:
   - "Current"

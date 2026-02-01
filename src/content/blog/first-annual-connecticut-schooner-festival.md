@@ -1,7 +1,7 @@
 ---
 title: "First Annual Connecticut Schooner Festival"
 date: 2013-09-11T15:36:52
-slug: first-annual-connecticut-schooner-festival
+slug: "first-annual-connecticut-schooner-festival"
 excerpt: "The first annual Connecticut Schooner Festival begins this today! Five days of fun in Mystic and New London, September 11 – September 15.  Click here to learn more. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

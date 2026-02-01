@@ -1,7 +1,7 @@
 ---
 title: "Summer Solstice – Moonlit Sailor"
 date: 2015-06-21T11:16:09
-slug: summer-solstice-moonlit-sailor
+slug: "summer-solstice-moonlit-sailor"
 excerpt: "In honor the summer solstice today, Summer Solstice by Moonlit Sailor, a Swedish post-rock instrumental group. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

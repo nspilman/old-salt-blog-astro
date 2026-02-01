@@ -1,7 +1,7 @@
 ---
 title: "John Fairfax, Pioneer of Ocean Rowing, Dies at 74"
 date: 2012-02-19T09:51:05
-slug: john-fairfax-pioneer-of-ocean-rowing-dies-at-74
+slug: "john-fairfax-pioneer-of-ocean-rowing-dies-at-74"
 excerpt: "These are busy days in ocean rowing. The Talisker Whisky Atlantic Challenge has finishing up and the Bouvet Guyane Solo Atlantic Rowing Race 2012 is well underway.  There have been races across the Indian Ocean and races are scheduled for the Pacific.  It … Continue reading &rarr;"
 categories:
   - "Current"

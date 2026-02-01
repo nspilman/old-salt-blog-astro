@@ -1,7 +1,7 @@
 ---
 title: "136 Year Old Steamer Jane Miller Found in Georgian Bay"
 date: 2017-12-09T17:17:58
-slug: 136-year-old-steamer-jane-miller-found-georgian-bay
+slug: "136-year-old-steamer-jane-miller-found-georgian-bay"
 excerpt: "On November 25, 1881, the steamer Jane Miller sank in the Georgian Bay off Lake Huron with the loss of 28 passengers and crew. This summer, American shipwreck hunters Jared Daniels, Jerry Eliason and Ken Merryman, located the wreck in Colpoys … Continue reading &rarr;"
 categories:
   - "Current"

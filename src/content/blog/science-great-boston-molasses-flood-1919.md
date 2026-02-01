@@ -1,7 +1,7 @@
 ---
 title: "Weird & Deadly Floods : The Great Boston Molasses Flood of 1919"
 date: 2013-09-29T12:41:58
-slug: science-great-boston-molasses-flood-1919
+slug: "science-great-boston-molasses-flood-1919"
 excerpt: "We recently posted about a serious molasses spill in Honolulu harbor which has killed 26,000 fish and may have longer term consequences for the harbor ecology.  Rick Austin was kind enough to forward an article about a far larger and … Continue reading &rarr;"
 categories:
   - "History"

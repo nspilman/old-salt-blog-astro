@@ -1,8 +1,8 @@
 ---
 title: "The El Estero Fire – the Greatest Nautical Disaster that Didn’t Happen"
 date: 2012-06-15T09:57:34
-slug: the-el-estero-fire-the-greatest-nautical-disaster-that-didnt-happen
-excerpt: "Bowsprite was kind enough to pass along this forgotten moment in history, which fits in well with recent posts.  Like the case of the Liberty ship SS Richard Montgomery, it involves a ship loaded with high explosives and like the apparent “Blind Date” hoax, … Continue reading &rarr;"
+slug: "the-el-estero-fire-the-greatest-nautical-disaster-that-didnt-happen"
+excerpt: "Bowsprite was kind enough to pass along this forgotten moment in history, which fits in well with recent posts.  Like the case of the Liberty ship SS Richard Montgomery, it involves a ship loaded with high explosives and like the apparent \"Blind Date\" hoax, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "new york harbor"
   - "world war II"
 author: "Rick Spilman"
-description: "Bowsprite was kind enough to pass along this forgotten moment in history, which fits in well with recent posts.  Like the case of the Liberty ship SS Richard Montgomery, it involves a ship loaded with high explosives and like the apparent “Blind Date” hoax, … Continue reading &rarr;"
+description: "Bowsprite was kind enough to pass along this forgotten moment in history, which fits in well with recent posts.  Like the case of the Liberty ship SS Richard Montgomery, it involves a ship loaded with high explosives and like the apparent \"Blind Date\" hoax, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/06/El_Estero_sunk_in_NY_Harbor_1943.jpg)

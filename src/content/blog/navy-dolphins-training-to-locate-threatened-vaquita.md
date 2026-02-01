@@ -1,7 +1,7 @@
 ---
 title: "Navy Dolphins Training to Locate Threatened Vaquita"
 date: 2017-01-06T09:00:30
-slug: navy-dolphins-training-to-locate-threatened-vaquita
+slug: "navy-dolphins-training-to-locate-threatened-vaquita"
 excerpt: "Vaquita, a small porpoise found only in the Gulf of California, is the world’s rarest marine mammal, and is in imminent danger of extinction. Now, US Navy dolphins are being trained to locate vaquita in a last-ditch effort to catch … Continue reading &rarr;"
 categories:
   - "Current"

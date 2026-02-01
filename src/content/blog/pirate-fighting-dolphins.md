@@ -1,8 +1,8 @@
 ---
 title: "Pirate Fighting Dolphins?"
 date: 2010-05-28T07:51:31
-slug: pirate-fighting-dolphins
-excerpt: "A wonderful, if odd, account reported by Robert Mackey in the NY Time Lede blog: China Reports Dolphins Foiled Pirate Attack According to a report from China’s official news agency Xinhua, “thousands of dolphins” recently prevented an attack on Chinese … Continue reading &rarr;"
+slug: "pirate-fighting-dolphins"
+excerpt: "A wonderful, if odd, account reported by Robert Mackey in the NY Time Lede blog: China Reports Dolphins Foiled Pirate Attack According to a report from China’s official news agency Xinhua, \"thousands of dolphins\" recently prevented an attack on Chinese … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "news agency Xinhua"
   - "Somali pirates"
 author: "Rick Spilman"
-description: "A wonderful, if odd, account reported by Robert Mackey in the NY Time Lede blog: China Reports Dolphins Foiled Pirate Attack According to a report from China’s official news agency Xinhua, “thousands of dolphins” recently prevented an attack on Chinese … Continue reading &rarr;"
+description: "A wonderful, if odd, account reported by Robert Mackey in the NY Time Lede blog: China Reports Dolphins Foiled Pirate Attack According to a report from China’s official news agency Xinhua, \"thousands of dolphins\" recently prevented an attack on Chinese … Continue reading &rarr;"
 ---
 
 A wonderful, if odd, account reported by [Robert Mackey in the NY Time Lede blog](http://thelede.blogs.nytimes.com/2009/04/15/china-reports-dolphins-foiled-pirate-attack/):

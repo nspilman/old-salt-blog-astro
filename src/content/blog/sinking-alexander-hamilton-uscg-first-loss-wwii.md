@@ -1,15 +1,15 @@
 ---
 title: "Sinking of the Cutter Alexander Hamilton — the USCG First Loss in WWII"
 date: 2017-01-29T09:16:52
-slug: sinking-alexander-hamilton-uscg-first-loss-wwii
-excerpt: "Seventy five years ago today, the USCG Cutter Alexander Hamilton was the first United States Coast Guard ship to be be lost in World War II. The cutter was named after the first Secretary of the Treasury, often referred to as the “Father of the … Continue reading &rarr;"
+slug: "sinking-alexander-hamilton-uscg-first-loss-wwii"
+excerpt: "Seventy five years ago today, the USCG Cutter Alexander Hamilton was the first United States Coast Guard ship to be be lost in World War II. The cutter was named after the first Secretary of the Treasury, often referred to as the \"Father of the … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/uscgalexh-1.jpg"
 author: "Rick Spilman"
-description: "Seventy five years ago today, the USCG Cutter Alexander Hamilton was the first United States Coast Guard ship to be be lost in World War II. The cutter was named after the first Secretary of the Treasury, often referred to as the “Father of the … Continue reading &rarr;"
+description: "Seventy five years ago today, the USCG Cutter Alexander Hamilton was the first United States Coast Guard ship to be be lost in World War II. The cutter was named after the first Secretary of the Treasury, often referred to as the \"Father of the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/uscgalexh.jpg)Seventy five years ago today, the USCG Cutter *[Alexander Hamilton](https://www.uscg.mil/history/articles/Hamiltonsinking.asp)* was the first United States Coast Guard ship to be be lost in World War II. The cutter was named after the first Secretary of the Treasury, often referred to as the “Father of the US Coast Guard.”

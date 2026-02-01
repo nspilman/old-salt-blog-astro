@@ -1,7 +1,7 @@
 ---
 title: "Celebrating Oysters in Brooklyn & Newport"
 date: 2016-05-16T07:47:31
-slug: celebrating-oysters-brooklyn-newport-may-19th-20th
+slug: "celebrating-oysters-brooklyn-newport-may-19th-20th"
 excerpt: "Next week is a great week for oysters if you are in the Northeast. Next Thursday is the Billion Oyster Party in Brooklyn, NY, while on Friday, the Newport Oyster Festival will be kicked off with an Opening Night Party at … Continue reading &rarr;"
 categories:
   - "Current"

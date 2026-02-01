@@ -1,7 +1,7 @@
 ---
 title: "Honoring the Coast Guard Heroes of Hurricane Harvey"
 date: 2019-12-27T17:52:52
-slug: honoring-the-coast-guard-heroes-of-hurricane-harvey
+slug: "honoring-the-coast-guard-heroes-of-hurricane-harvey"
 excerpt: "When Category 4 Hurricane Harvey devastated coastal Texas and Louisiana in August 2017, the US Coast Guard was there to assist in the rescue. Harvey was the wettest tropical cyclone on record in the United States and is tied as … Continue reading &rarr;"
 categories:
   - "Current"

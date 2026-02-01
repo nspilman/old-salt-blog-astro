@@ -1,7 +1,7 @@
 ---
 title: "Seafarers Held Hostage in Somalia – Invisible and Ignored"
 date: 2012-01-27T09:35:59
-slug: seafarers-held-hostage-in-somalia-invisible-and-ignored
+slug: "seafarers-held-hostage-in-somalia-invisible-and-ignored"
 excerpt: "The last paragraph of the Associated Press article Navy SEAL Raid in Somalia Shows Campaign Ahead, reads: Several hostages were still being held in Somalia, including a British tourist, two Spanish doctors seized from neighboring Kenya and an American journalist kidnapped on Saturday. Based … Continue reading &rarr;"
 categories:
   - "Current"

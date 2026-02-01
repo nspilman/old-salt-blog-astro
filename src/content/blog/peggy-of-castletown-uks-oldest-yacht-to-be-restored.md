@@ -1,7 +1,7 @@
 ---
 title: "Peggy of Castletown, UK’s Oldest Yacht, to be Restored"
 date: 2015-01-27T13:30:51
-slug: peggy-of-castletown-uks-oldest-yacht-to-be-restored
+slug: "peggy-of-castletown-uks-oldest-yacht-to-be-restored"
 excerpt: "Peggy, the oldest yacht in the UK and the oldest schooner in the world, is being restored. Sometime between 1786 and 1791, George Quayle of Castletown, on the Isle of Man, had a shallop built, which he named Peggy. A shallop is a … Continue reading &rarr;"
 categories:
   - "Current"

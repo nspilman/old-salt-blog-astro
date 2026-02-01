@@ -1,8 +1,8 @@
 ---
 title: "Three Italian Captains – the Costa Concordia and the Andrea Doria"
 date: 2012-01-19T09:56:31
-slug: three-italian-captains-the-costa-concordia-and-the-andrea-doria
-excerpt: "Reuters reports that Italy is enthralled by the tale of the “two captains,”  while on CNN another Italian captain, from another ship and another time, is remembered – In Andrea Doria wreck, a captain who shone. … Continue reading &rarr;"
+slug: "three-italian-captains-the-costa-concordia-and-the-andrea-doria"
+excerpt: "Reuters reports that Italy is enthralled by the tale of the \"two captains,\"  while on CNN another Italian captain, from another ship and another time, is remembered – In Andrea Doria wreck, a captain who shone. … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -17,7 +17,7 @@ tags:
   - "Piero Calamai"
   - "Samuel Pecota"
 author: "Rick Spilman"
-description: "Reuters reports that Italy is enthralled by the tale of the “two captains,”  while on CNN another Italian captain, from another ship and another time, is remembered – In Andrea Doria wreck, a captain who shone. … Continue reading &rarr;"
+description: "Reuters reports that Italy is enthralled by the tale of the \"two captains,\"  while on CNN another Italian captain, from another ship and another time, is remembered – In Andrea Doria wreck, a captain who shone. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/pecota-andrea-doria-story-t.jpg)

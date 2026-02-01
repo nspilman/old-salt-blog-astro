@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on a Broken Boom — No Simple Solution to Ocean Plastic"
 date: 2019-01-14T17:34:13
-slug: thoughts-on-a-broken-boom-no-simple-solution-to-ocean-plastic
+slug: "thoughts-on-a-broken-boom-no-simple-solution-to-ocean-plastic"
 excerpt: "Much of the media have taken the claims of Boyan Slat at face value. The young Dutch engineer has claimed that his design for a series of floating ocean booms will clean the oceans of plastic. The BBC headline in 2014 which … Continue reading &rarr;"
 categories:
   - "Current"

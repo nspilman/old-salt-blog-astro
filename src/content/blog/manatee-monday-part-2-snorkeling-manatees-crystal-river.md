@@ -1,7 +1,7 @@
 ---
 title: "Manatee Monday, Part 2 — Snorkeling with Manatees at Crystal River"
 date: 2017-01-09T15:53:19
-slug: manatee-monday-part-2-snorkeling-manatees-crystal-river
+slug: "manatee-monday-part-2-snorkeling-manatees-crystal-river"
 excerpt: "Last Friday, Crystal River did not live up to its name. It was murky and the crystal clear waters that I remembered had a visibility of only about six feet. In some respects, however, it added an element of mystery, when, as … Continue reading &rarr;"
 categories:
   - "Current"

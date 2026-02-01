@@ -1,7 +1,7 @@
 ---
 title: "A Virtual New York Fleet Week 2021"
 date: 2021-05-31T10:56:40
-slug: a-virtual-new-york-fleet-week-2021
+slug: "a-virtual-new-york-fleet-week-2021"
 excerpt: "For the second year running, in-person Fleet Week in New York, traditionally beginning in the week before and running through the Memorial Day Weekend, was canceled due to the Covid-19 pandemic. A virtual Fleet Week celebration has been ongoing, however, … Continue reading &rarr;"
 categories:
   - "Current"

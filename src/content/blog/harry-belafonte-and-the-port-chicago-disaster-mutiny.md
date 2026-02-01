@@ -1,7 +1,7 @@
 ---
 title: "Harry Belafonte and the Port Chicago Disaster & Mutiny"
 date: 2023-04-30T14:53:05
-slug: harry-belafonte-and-the-port-chicago-disaster-mutiny
+slug: "harry-belafonte-and-the-port-chicago-disaster-mutiny"
 excerpt: "Harry Belafonte, the multi-talented  American singer, actor, and activist, died last week at the age of 96. Born in Harlem to Jamaican immigrants, he shattered racial boundaries in the 1950s. During his career, Belafonte popularized calypso music with audiences around … Continue reading &rarr;"
 categories:
   - "Current"

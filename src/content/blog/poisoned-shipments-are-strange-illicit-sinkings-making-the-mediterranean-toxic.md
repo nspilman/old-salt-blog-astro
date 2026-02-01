@@ -1,7 +1,7 @@
 ---
 title: "Poisoned Shipments: Are Strange, Illicit Sinkings Making the Mediterranean Toxic?"
 date: 2010-02-22T15:30:12
-slug: poisoned-shipments-are-strange-illicit-sinkings-making-the-mediterranean-toxic
+slug: "poisoned-shipments-are-strange-illicit-sinkings-making-the-mediterranean-toxic"
 excerpt: "A very disturbing article in this months Scientific American suggesting that criminal groups have been scuttling ships containing chemical and pharmaceutical waste, effectively using the Mediterranean as a toxic dump site. Thanks to Steve Phelps for pointing it out. Poisoned Shipments: Are Strange, Illicit Sinkings Making … Continue reading &rarr;"
 categories:
   - "Current"

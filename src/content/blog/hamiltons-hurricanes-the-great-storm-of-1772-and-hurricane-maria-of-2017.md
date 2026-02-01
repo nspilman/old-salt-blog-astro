@@ -1,7 +1,7 @@
 ---
 title: "Hamilton’s Hurricanes — The Great Storm of 1772 and Hurricane Maria of 2017"
 date: 2019-01-11T12:06:18
-slug: hamiltons-hurricanes-the-great-storm-of-1772-and-hurricane-maria-of-2017
+slug: "hamiltons-hurricanes-the-great-storm-of-1772-and-hurricane-maria-of-2017"
 excerpt: "In August of 1772, a powerful hurricane devastated much of the Leeward Islands in the Caribbean. On the island of St. Croix, the town of Christiansted was virtually leveled. An impoverished 17-year-old clerk, who worked for a local merchant, wrote a letter to … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Problem with Boat Names & Double-Enders"
 date: 2015-07-31T16:50:08
-slug: the-problem-with-boat-names-double-enders
+slug: "the-problem-with-boat-names-double-enders"
 excerpt: "As we posted today, Donna Lange has just set off on her second solo circumnavigation on her Southern Cross 28, Inspired Insanity. A photo of the Donna and the boat points out one problem with painting a boat name on … Continue reading &rarr;"
 categories:
   - "Current"

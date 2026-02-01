@@ -1,7 +1,7 @@
 ---
 title: "Remembering Naval Aviator George H.W. Bush in WWII"
 date: 2018-12-03T20:35:40
-slug: remembering-naval-aviator-george-h-w-bush-in-wwii
+slug: "remembering-naval-aviator-george-h-w-bush-in-wwii"
 excerpt: "Regardless of what one may think of the political career of the late President George H.W. Bush , who died recently at the age of 94, it seems worthwhile to remember his service as one of the youngest pilots in the US Navy during … Continue reading &rarr;"
 categories:
   - "History"

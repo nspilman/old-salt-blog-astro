@@ -1,8 +1,8 @@
 ---
 title: "The Seven Deadly Seas and Dead Upon a Wind – Pirate Burlesque Returns to New York on the Barquentine Gazela"
 date: 2012-05-21T15:52:16
-slug: the-seven-deadly-seas-and-dead-upon-a-wind-pirate-burlesque-returns-the-new-york-on-the-barquentine-gazela
-excerpt: "On Wednesday, Philadelphia’s tall ship, the 112+ year old barquentine Gazela, will be among the seventeen tall ships in the “Parade of Sail” on the Hudson River. Once again, however, the Gazela will bringing more than just history and grace … Continue reading &rarr;"
+slug: "the-seven-deadly-seas-and-dead-upon-a-wind-pirate-burlesque-returns-the-new-york-on-the-barquentine-gazela"
+excerpt: "On Wednesday, Philadelphia’s tall ship, the 112+ year old barquentine Gazela, will be among the seventeen tall ships in the \"Parade of Sail\" on the Hudson River. Once again, however, the Gazela will bringing more than just history and grace … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Pirate Burlesque"
   - "Seven Deadly Seas"
 author: "Rick Spilman"
-description: "On Wednesday, Philadelphia’s tall ship, the 112+ year old barquentine Gazela, will be among the seventeen tall ships in the “Parade of Sail” on the Hudson River. Once again, however, the Gazela will bringing more than just history and grace … Continue reading &rarr;"
+description: "On Wednesday, Philadelphia’s tall ship, the 112+ year old barquentine Gazela, will be among the seventeen tall ships in the \"Parade of Sail\" on the Hudson River. Once again, however, the Gazela will bringing more than just history and grace … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/flyer-small.jpg)On Wednesday, Philadelphia’s tall ship, the 112+ year old [barquentine *Gazela*](http://www.gazela.org/), will be among the seventeen tall ships in the “Parade of Sail” on the Hudson River. Once again, however, the *Gazela* will bringing more than just history and grace to the harbor when she ties up alongside Pier 25. She will also bring the full troupe of “[Seven Deadly Seas](http://thesevendeadlyseas.com/)” performing “*[Dead upon a Wind, a Pirate Burlesque](http://thesevendeadlyseas.com/).”*  They will perform on the ship at Pier 25 on Friday, Saturday and Sunday nights, May 25, 26 and 27 at 8 and 10 PM each evening.   [Click here to learn more and/or buy tickets.](http://thesevendeadlyseas.com/)  

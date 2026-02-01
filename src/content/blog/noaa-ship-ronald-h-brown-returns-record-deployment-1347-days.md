@@ -1,7 +1,7 @@
 ---
 title: "NOAA Ship Ronald H. Brown Returns After Record Deployment — 1,347 Days"
 date: 2017-03-31T10:59:42
-slug: noaa-ship-ronald-h-brown-returns-record-deployment-1347-days
+slug: "noaa-ship-ronald-h-brown-returns-record-deployment-1347-days"
 excerpt: "NOAA’s largest oceanographic research vessel, Ronald H. Brown, is based in Charleston, SC, although if you haven’t seen her in her homeport for quite a while, you are not alone. She only recently returned from a record deployment of 1,347 … Continue reading &rarr;"
 categories:
   - "Current"

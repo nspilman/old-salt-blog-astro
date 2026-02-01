@@ -1,7 +1,7 @@
 ---
 title: "Murder on Kodiac Island. Alaska"
 date: 2012-04-20T18:10:50
-slug: murder-on-kodiac-island
+slug: "murder-on-kodiac-island"
 excerpt: "This sounds like the teaser from a thriller or murder mystery. Unfortunately, it is all too real.  Last Thursday, shortly after 7 AM, coworkers found the bodies of US Coast Guard Petty Officer 1st Class Jim Hopkins and retired Boatswain Mate Chief Rich Belisle, working as a civilian contractor, at … Continue reading &rarr;"
 categories:
   - "Current"

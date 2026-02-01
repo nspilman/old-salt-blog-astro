@@ -1,7 +1,7 @@
 ---
 title: "Study — Oceans Warming Faster Than Previously Thought"
 date: 2018-10-31T14:55:26
-slug: study-oceans-warming-faster-than-previously-thought
+slug: "study-oceans-warming-faster-than-previously-thought"
 excerpt: "A new study published in the journal Nature suggests that over the last quarter-century, the oceans have been retaining 60% more heat than scientists had previously thought.  If so, the Earth could be set to warm even faster than predicted.  The … Continue reading &rarr;"
 categories:
   - "Current"

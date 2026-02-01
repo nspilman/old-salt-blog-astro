@@ -1,8 +1,8 @@
 ---
 title: "Red Tide, Blue Waves"
 date: 2024-04-15T10:04:22
-slug: red-tide-blue-waves-2
-excerpt: "With the advent of climate change red tide outbreaks have grown more frequent. A red tide occurs when certain types of algae grow out of control. The name “red tide” comes from the fact that overgrowth of algae can cause … Continue reading &rarr;"
+slug: "red-tide-blue-waves-2"
+excerpt: "With the advent of climate change red tide outbreaks have grown more frequent. A red tide occurs when certain types of algae grow out of control. The name \"red tide\" comes from the fact that overgrowth of algae can cause … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "red tide"
   - "san diego"
 author: "Rick Spilman"
-description: "With the advent of climate change red tide outbreaks have grown more frequent. A red tide occurs when certain types of algae grow out of control. The name “red tide” comes from the fact that overgrowth of algae can cause … Continue reading &rarr;"
+description: "With the advent of climate change red tide outbreaks have grown more frequent. A red tide occurs when certain types of algae grow out of control. The name \"red tide\" comes from the fact that overgrowth of algae can cause … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/redtidebluewave.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Keels in the Air at Équihen Plage  — the Village of Overturned Boat-Houses"
 date: 2017-07-09T16:22:57
-slug: keels-air-equihen-plage-village-overturned-boat-houses
+slug: "keels-air-equihen-plage-village-overturned-boat-houses"
 excerpt: "Équihen Plage is a village on the Opal Coast, along the English Channel, in Pas-de-Calais, France. Until the early 20th century, it was a fishing village. Lacking a harbor, the fishing boats would be run aground on each tide and … Continue reading &rarr;"
 categories:
   - "Current"

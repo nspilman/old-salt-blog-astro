@@ -1,8 +1,8 @@
 ---
 title: "After 72 Years, Last Voyages of the MV Astoria, ex Stockholm?"
 date: 2020-02-04T18:46:13
-slug: after-72-years-last-voyage-of-the-mv-astoria-ex-stockholm
-excerpt: "Brittany Shammas of the Washington Post recently wrote that the ship originally built as MS Stockholm, just after World War II, is likely to be “nearing its final voyage.” The 72-year-old ship is one of the oldest cruise ships in … Continue reading &rarr;"
+slug: "after-72-years-last-voyage-of-the-mv-astoria-ex-stockholm"
+excerpt: "Brittany Shammas of the Washington Post recently wrote that the ship originally built as MS Stockholm, just after World War II, is likely to be \"nearing its final voyage.\" The 72-year-old ship is one of the oldest cruise ships in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "radar"
   - "Stockholm"
 author: "Rick Spilman"
-description: "Brittany Shammas of the Washington Post recently wrote that the ship originally built as MS Stockholm, just after World War II, is likely to be “nearing its final voyage.” The 72-year-old ship is one of the oldest cruise ships in … Continue reading &rarr;"
+description: "Brittany Shammas of the Washington Post recently wrote that the ship originally built as MS Stockholm, just after World War II, is likely to be \"nearing its final voyage.\" The 72-year-old ship is one of the oldest cruise ships in … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/stockholm.jpg)[Brittany Shammas](https://www.washingtonpost.com/history/2020/01/29/historic-cruise-ship/) of the Washington Post recently wrote that the ship originally built as MS *Stockholm,* just after World War II, is likely to be “nearing its final voyage.” The 72-year-old ship is one of the oldest cruise ships in service.

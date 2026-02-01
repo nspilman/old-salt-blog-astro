@@ -1,7 +1,7 @@
 ---
 title: "Update: Golden Ray Salvage Delayed by Fire"
 date: 2021-05-21T08:36:57
-slug: update-golden-ray-salvage-delayed-by-fire
+slug: "update-golden-ray-salvage-delayed-by-fire"
 excerpt: "The salvage job to remove the car carrier Golden Ray that rolled on its side as it departed the Port of Brunswick, GA, in September 2019 while carrying about 4,200 vehicles, was originally planned to take around eight weeks and … Continue reading &rarr;"
 categories:
   - "Current"

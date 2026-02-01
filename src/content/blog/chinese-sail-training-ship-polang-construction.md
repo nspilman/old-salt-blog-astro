@@ -1,7 +1,7 @@
 ---
 title: "Chinese Sail Training Ship Polang Under Construction"
 date: 2016-12-30T12:56:36
-slug: chinese-sail-training-ship-polang-construction
+slug: "chinese-sail-training-ship-polang-construction"
 excerpt: "There are roughly twenty sail training ships operated by navies around the world, to help prepare their officers for command at sea. Now China is adding to the fleet. China’s first modern sail training ship is an 85 meter long, 1,200 … Continue reading &rarr;"
 categories:
   - "Current"

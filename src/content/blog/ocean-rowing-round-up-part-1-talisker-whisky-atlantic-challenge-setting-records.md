@@ -1,8 +1,8 @@
 ---
 title: "Ocean Rowing Round-up, Part 1: Talisker Whisky Atlantic Challenge Setting Records"
 date: 2012-01-30T14:45:45
-slug: ocean-rowing-round-up-part-1-talisker-whisky-atlantic-challenge-setting-records
-excerpt: "The Talisker Whisky Atlantic Challenge, which bills itself as the “world’s toughest rowing race,” is winding down. Of the 17 boats which set out on December 4th, seven boats have crossed the finish line in Barbados, four are still rowing, … Continue reading &rarr;"
+slug: "ocean-rowing-round-up-part-1-talisker-whisky-atlantic-challenge-setting-records"
+excerpt: "The Talisker Whisky Atlantic Challenge, which bills itself as the \"world’s toughest rowing race,\" is winding down. Of the 17 boats which set out on December 4th, seven boats have crossed the finish line in Barbados, four are still rowing, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Row to Recovery team"
   - "Talisker Whisky Atlantic Challenge"
 author: "Rick Spilman"
-description: "The Talisker Whisky Atlantic Challenge, which bills itself as the “world’s toughest rowing race,” is winding down. Of the 17 boats which set out on December 4th, seven boats have crossed the finish line in Barbados, four are still rowing, … Continue reading &rarr;"
+description: "The Talisker Whisky Atlantic Challenge, which bills itself as the \"world’s toughest rowing race,\" is winding down. Of the 17 boats which set out on December 4th, seven boats have crossed the finish line in Barbados, four are still rowing, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/Row2Recovery_5015.jpg)

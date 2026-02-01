@@ -1,7 +1,7 @@
 ---
 title: "Un-Discovering Sandy Island : the Well-Charted Pacific Island That Isn’t There"
 date: 2012-11-23T13:07:38
-slug: un-discovering-sandy-island-the-well-charted-pacific-island-that-isnt-there
+slug: "un-discovering-sandy-island-the-well-charted-pacific-island-that-isnt-there"
 excerpt: "Scientists from Australia have just returned from a voyage of un-discovery.  They have proven that Sandy Island, which appears on many nautical charts and on Google Earth and Google Maps, does no exist. The island which is depicted on Google Earth as a dark oval, … Continue reading &rarr;"
 categories:
   - "Current"

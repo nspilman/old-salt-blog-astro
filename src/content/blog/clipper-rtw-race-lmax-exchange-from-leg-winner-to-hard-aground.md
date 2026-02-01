@@ -1,7 +1,7 @@
 ---
 title: "Clipper RTW Race — LMAX Exchange, From Winner to Hard Aground"
 date: 2015-10-01T07:58:02
-slug: clipper-rtw-race-lmax-exchange-from-leg-winner-to-hard-aground
+slug: "clipper-rtw-race-lmax-exchange-from-leg-winner-to-hard-aground"
 excerpt: "The Clipper Round the World racer CVA24 LMAX Exchange has suffered an unexpected reversal of fortune. The LMAX Exchange crew handily won the first leg of the race from London to Rio, 100 miles ahead of its closest competitor. Now the boat … Continue reading &rarr;"
 categories:
   - "Current"

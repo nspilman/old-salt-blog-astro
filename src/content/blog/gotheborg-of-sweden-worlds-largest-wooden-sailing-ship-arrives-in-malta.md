@@ -1,7 +1,7 @@
 ---
 title: "Götheborg of Sweden, World’s Largest Wooden Sailing Ship, Arrives In Malta"
 date: 2022-10-16T12:40:33
-slug: gotheborg-of-sweden-worlds-largest-wooden-sailing-ship-arrives-in-malta
+slug: "gotheborg-of-sweden-worlds-largest-wooden-sailing-ship-arrives-in-malta"
 excerpt: "The world’s largest ocean-going wooden sailing ship, a replica of an 18th-century Swedish East India Company ship, Götheborg of Sweden, arrived in Valletta, Malta this week. The Götheborg is on its way to Asia, and Malta is the 12th stopover … Continue reading &rarr;"
 categories:
   - "Current"

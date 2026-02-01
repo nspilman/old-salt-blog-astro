@@ -1,7 +1,7 @@
 ---
 title: "Fine Arts in Boston – Ship Models"
 date: 2010-03-05T08:05:36
-slug: fine-arts-in-boston-%e2%80%93-ship-models
+slug: "fine-arts-in-boston-%e2%80%93-ship-models"
 excerpt: "The first exhibit in the $500 expansion of the Boston Museum of Fine Arts new Art of the Americas Wing in currently being installed.   The first new exhibit –  ship models.  An excellent choice.   The new wing opens in November.  For those … Continue reading &rarr;"
 categories:
   - "Current"

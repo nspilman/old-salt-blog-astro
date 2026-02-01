@@ -1,7 +1,7 @@
 ---
 title: "Night Sky Timelapse Of Hatteras Island NC, Outer Banks"
 date: 2022-01-08T18:20:43
-slug: night-sky-timelapse-of-hatteras-island-nc-outer-banks
+slug: "night-sky-timelapse-of-hatteras-island-nc-outer-banks"
 excerpt: "On a cold winter’s day, here on the west bank of the Hudson River, the idea of sitting on a beach in a slightly warmer climate, watching the stars in their inexorable progression across the night sky, sounds absolutely glorious. … Continue reading &rarr;"
 categories:
   - "Current"

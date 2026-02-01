@@ -1,7 +1,7 @@
 ---
 title: "The Blob Shuts Down the Alaskan Cod Season"
 date: 2019-12-16T12:33:58
-slug: the-blob-shuts-down-the-alaskan-cod-season
+slug: "the-blob-shuts-down-the-alaskan-cod-season"
 excerpt: "In the 1958 sci-fi/horror film, the Blob is a gooey mass from outer space which eventually grows the size of a small building while devouring everyone it encounters. The Blob cannot stand cold and is finally stopped by being airlifted … Continue reading &rarr;"
 categories:
   - "Current"

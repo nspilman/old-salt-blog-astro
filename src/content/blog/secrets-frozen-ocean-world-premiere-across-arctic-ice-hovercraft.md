@@ -1,8 +1,8 @@
 ---
 title: "Secrets of a Frozen Ocean — World Premiere : Across Arctic Ice by Hovercraft"
 date: 2018-02-28T18:54:49
-slug: secrets-frozen-ocean-world-premiere-across-arctic-ice-hovercraft
-excerpt: "Next Wednesday, March 7th, at 6PM, Neil and Ariel Weisbrod‘s new documentary, “Secrets of a Frozen Ocean“, will have its world premiere at the New York City International Film Festival at the Producer’s Club 358 W 44th Street, NY, NY … Continue reading &rarr;"
+slug: "secrets-frozen-ocean-world-premiere-across-arctic-ice-hovercraft"
+excerpt: "Next Wednesday, March 7th, at 6PM, Neil and Ariel Weisbrod‘s new documentary, \"Secrets of a Frozen Ocean\", will have its world premiere at the New York City International Film Festival at the Producer’s Club 358 W 44th Street, NY, NY … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ categories:
 tags:
   - "Frozen Ocean"
 author: "Rick Spilman"
-description: "Next Wednesday, March 7th, at 6PM, Neil and Ariel Weisbrod‘s new documentary, “Secrets of a Frozen Ocean“, will have its world premiere at the New York City International Film Festival at the Producer’s Club 358 W 44th Street, NY, NY … Continue reading &rarr;"
+description: "Next Wednesday, March 7th, at 6PM, Neil and Ariel Weisbrod‘s new documentary, \"Secrets of a Frozen Ocean\", will have its world premiere at the New York City International Film Festival at the Producer’s Club 358 W 44th Street, NY, NY … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/02/hovercraft.jpg)Next Wednesday, March 7th, at 6PM, [Neil and Ariel Weisbrod](https://vimeo.com/user17331159)‘s new documentary, “[Secrets of a Frozen Ocean](http://www.nyciff.com/secrests-of-a-frozen-ocean-documentary)“, will have its world premiere at the New York City International Film Festival at the Producer’s Club 358 W 44th Street, NY, NY 10036.

@@ -1,7 +1,7 @@
 ---
 title: "New York Harbor Weekend – Racing Tug Boats and Red Tide"
 date: 2010-09-07T08:34:48
-slug: new-york-harbor-weekend-racing-tug-boats-and-red-tide
+slug: "new-york-harbor-weekend-racing-tug-boats-and-red-tide"
 excerpt: "It was a beautiful and busy weekend in New York harbor.  On Sunday, I missed the 18th Annual Running of the Great North River Tugboat Race & Competition but Will over at the Tugster blog has some great photos.   … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Draken Harald Hårfagre: A Viking Long Ship at Mystic Seaport"
 date: 2017-07-30T09:53:26
-slug: draken-harald-harfagre-a-viking-ship-at-mystic-seaport
+slug: "draken-harald-harfagre-a-viking-ship-at-mystic-seaport"
 excerpt: "Following its epic voyage across the Atlantic, with stops in visiting Iceland and Greenland, the Draken Harald Hårfagre, toured the Great Lakes, traveled down the Erie Canal, stopped by New York City and then wintered at Mystic Seaport Museum. This … Continue reading &rarr;"
 categories:
   - "Current"

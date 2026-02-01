@@ -1,7 +1,7 @@
 ---
 title: "Edmund Fitzgerald – 35 Years Later, the Mystery, the Song and the Survivors"
 date: 2010-11-10T08:25:03
-slug: edmund-fitzgerald-35-years-later-the-mystery-the-song-and-the-survivors
+slug: "edmund-fitzgerald-35-years-later-the-mystery-the-song-and-the-survivors"
 excerpt: "Thirty five years ago today the ore carrier Edmund Fitzgerald, loaded with more 26,000 tons of taconite pellets, sank in a November gale in Lake Superior. All 29 of her officers and crew were lost. The sinking was the greatest … Continue reading &rarr;"
 categories:
   - "Current"

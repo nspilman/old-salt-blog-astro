@@ -1,7 +1,7 @@
 ---
 title: "Will the SS United States Sail Again? Crystal Cruises Tosses a Life Line"
 date: 2016-02-04T13:52:25
-slug: will-the-ss-united-states-sail-again-crystal-cruises-tosses-a-life-line
+slug: "will-the-ss-united-states-sail-again-crystal-cruises-tosses-a-life-line"
 excerpt: "In October, the SS United States Conservancy announced that it had retained the services of a broker to explore selling the SS United States for scrap. Prospects for the ship looked dire. In a dramatic reversal of fortune, Crystal Cruises has … Continue reading &rarr;"
 categories:
   - "Current"

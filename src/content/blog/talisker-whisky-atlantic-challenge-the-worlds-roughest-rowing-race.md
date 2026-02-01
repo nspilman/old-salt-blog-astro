@@ -1,8 +1,8 @@
 ---
-title: "Talisker Whisky Atlantic Challenge – “The World’s Roughest Rowing Race”"
+title: "Talisker Whisky Atlantic Challenge – \"The World’s Roughest Rowing Race\""
 date: 2011-12-06T19:00:27
-slug: talisker-whisky-atlantic-challenge-the-worlds-roughest-rowing-race
-excerpt: "Seventeen teams from around the world have set off rowing from Spain’s San Sebastian de la Gomera in the Canary Islands in the Talisker Whisky Atlantic Challenge in what is billed as the “World’s Roughest Rowing Race.” The teams will … Continue reading &rarr;"
+slug: "talisker-whisky-atlantic-challenge-the-worlds-roughest-rowing-race"
+excerpt: "Seventeen teams from around the world have set off rowing from Spain’s San Sebastian de la Gomera in the Canary Islands in the Talisker Whisky Atlantic Challenge in what is billed as the \"World’s Roughest Rowing Race.\" The teams will … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "Talisker Whisky Atlantic Challenge"
   - "The World's Roughest Rowing Race"
 author: "Rick Spilman"
-description: "Seventeen teams from around the world have set off rowing from Spain’s San Sebastian de la Gomera in the Canary Islands in the Talisker Whisky Atlantic Challenge in what is billed as the “World’s Roughest Rowing Race.” The teams will … Continue reading &rarr;"
+description: "Seventeen teams from around the world have set off rowing from Spain’s San Sebastian de la Gomera in the Canary Islands in the Talisker Whisky Atlantic Challenge in what is billed as the \"World’s Roughest Rowing Race.\" The teams will … Continue reading &rarr;"
 ---
 
 Seventeen teams from around the world have set off rowing from Spain’s San Sebastian de la Gomera in the Canary Islands in the [Talisker Whisky Atlantic Challenge](http://www.taliskerwhiskyatlanticchallenge.com) in what is billed as the “World’s Roughest Rowing Race.” The teams will follow the ‘Columbus Route’ westbound across the mid-Atlantic to Port St Charles in Barbados, rowing an estimated 3,000 miles over roughly 50 days. There are two solo rowers and fifteen two, four or six person crews.

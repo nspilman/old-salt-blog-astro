@@ -1,8 +1,8 @@
 ---
 title: "32nd Annual Snow Row at the Hull Lifesaving Museum"
 date: 2011-03-11T10:09:37
-slug: 32nd-annual-snow-row-at-the-hull-lifesaving-museum
-excerpt: "The Hull Lifesaving Museum near Boston is sponsoring their 32nd Annual “Snow Row” this weekend. Festivities begin with the annual “Snow Ball” this evening at the Clarion Nantasket Beach Resort and Conference Center, followed by Saturday’s race at the Windmill … Continue reading &rarr;"
+slug: "32nd-annual-snow-row-at-the-hull-lifesaving-museum"
+excerpt: "The Hull Lifesaving Museum near Boston is sponsoring their 32nd Annual \"Snow Row\" this weekend. Festivities begin with the annual \"Snow Ball\" this evening at the Clarion Nantasket Beach Resort and Conference Center, followed by Saturday’s race at the Windmill … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Snow Row"
   - "Windmill Point Boathouse"
 author: "Rick Spilman"
-description: "The Hull Lifesaving Museum near Boston is sponsoring their 32nd Annual “Snow Row” this weekend. Festivities begin with the annual “Snow Ball” this evening at the Clarion Nantasket Beach Resort and Conference Center, followed by Saturday’s race at the Windmill … Continue reading &rarr;"
+description: "The Hull Lifesaving Museum near Boston is sponsoring their 32nd Annual \"Snow Row\" this weekend. Festivities begin with the annual \"Snow Ball\" this evening at the Clarion Nantasket Beach Resort and Conference Center, followed by Saturday’s race at the Windmill … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/Snow_Row_07_with_ferry.jpg)The [Hull Lifesaving Museum](http://www.lifesavingmuseum.org/) near Boston is sponsoring their 32nd Annual “Snow Row” this weekend. Festivities begin with the annual “[Snow Ball](http://www.lifesavingmuseum.org/calendarandevents.html#Specialevents)” this evening at the Clarion Nantasket Beach Resort and Conference Center, followed by Saturday’s race at the Windmill Point Boathouse, Hull.

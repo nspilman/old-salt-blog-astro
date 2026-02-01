@@ -1,7 +1,7 @@
 ---
 title: "The Collapse of Venezuela & the New Pirates of the Caribbean"
 date: 2018-08-13T13:10:04
-slug: the-collapse-of-venezuela-the-new-pirates-of-the-caribbean
+slug: "the-collapse-of-venezuela-the-new-pirates-of-the-caribbean"
 excerpt: "The southern Caribbean has seen a significant increase in piracy of late, at least partially related to the economic and political turmoil in nearby Venezuela. Commerical ships, local fishermen and visiting yachts have all fallen prey to attacks from pirates. Oceans Beyond Piracy (OBP), a … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Freight Expectations — 60 Minutes Looks at America’s Supply Chain Crunch"
 date: 2021-12-03T18:37:17
-slug: freight-expectations-60-minutes-looks-at-americas-supply-chain-crunch
+slug: "freight-expectations-60-minutes-looks-at-americas-supply-chain-crunch"
 excerpt: "When things are going well, the international shipping supply chain is largely invisible and can be taken for granted by most of us.  These days things are not going well. The pandemic has triggered massive trade imbalances. Critical links in … Continue reading &rarr;"
 categories:
   - "Current"

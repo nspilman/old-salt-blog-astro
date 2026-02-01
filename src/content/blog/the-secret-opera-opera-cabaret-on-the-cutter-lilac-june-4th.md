@@ -1,7 +1,7 @@
 ---
 title: "The Secret Opera — Opera Cabaret on the Cutter Lilac, June 4th"
 date: 2015-06-03T11:58:55
-slug: the-secret-opera-opera-cabaret-on-the-cutter-lilac-june-4th
+slug: "the-secret-opera-opera-cabaret-on-the-cutter-lilac-june-4th"
 excerpt: "If you are in the area tomorrow night, June 4th, be sure to stop by the Cutter Lilac at Pier 25 at N.Moore at West Streets on the Hudson River in Manhattan, for Opera Cabaret performed by The Secret Opera … Continue reading &rarr;"
 categories:
   - "Current"

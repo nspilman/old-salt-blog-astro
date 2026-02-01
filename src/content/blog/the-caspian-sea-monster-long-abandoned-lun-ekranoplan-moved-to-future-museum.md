@@ -1,7 +1,7 @@
 ---
 title: "The Caspian Sea Monster — Long Abandoned Lun Ekranoplan Moved to Future Museum"
 date: 2020-11-07T20:28:32
-slug: the-caspian-sea-monster-long-abandoned-lun-ekranoplan-moved-to-future-museum
+slug: "the-caspian-sea-monster-long-abandoned-lun-ekranoplan-moved-to-future-museum"
 excerpt: "It is often referred to as the Caspian Sea Monster.  To my eye, it looks more like a spacecraft from a sci-fi movie than a creature of cryptozoology.  It is, in fact, a huge vessel, part plane, and part ship, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

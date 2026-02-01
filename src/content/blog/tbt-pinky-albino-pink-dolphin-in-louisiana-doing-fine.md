@@ -1,14 +1,14 @@
 ---
 title: "TBT — Pinky, Albino Pink Dolphin in Louisiana, Doing Fine"
 date: 2017-08-10T10:53:35
-slug: tbt-pinky-albino-pink-dolphin-in-louisiana-doing-fine
-excerpt: "Updating a previous post for Throw-Back Thursday. Two years ago, we posted about “Pinky,” a pink dolphin that was seen swimming in the Calcasieu River in Louisianna. Pinky is believed to be an albino and was first sighted in the … Continue reading &rarr;"
+slug: "tbt-pinky-albino-pink-dolphin-in-louisiana-doing-fine"
+excerpt: "Updating a previous post for Throw-Back Thursday. Two years ago, we posted about \"Pinky,\" a pink dolphin that was seen swimming in the Calcasieu River in Louisianna. Pinky is believed to be an albino and was first sighted in the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/08/pinkyd2.jpg"
 author: "Rick Spilman"
-description: "Updating a previous post for Throw-Back Thursday. Two years ago, we posted about “Pinky,” a pink dolphin that was seen swimming in the Calcasieu River in Louisianna. Pinky is believed to be an albino and was first sighted in the … Continue reading &rarr;"
+description: "Updating a previous post for Throw-Back Thursday. Two years ago, we posted about \"Pinky,\" a pink dolphin that was seen swimming in the Calcasieu River in Louisianna. Pinky is believed to be an albino and was first sighted in the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/08/pinkyd2.jpg)Updating a previous post for Throw-Back Thursday. Two years ago, [we posted about “Pinky,”](http://www.oldsaltblog.com/2015/09/pinky-the-albino-dolphin-of-the-calcasieu/) a pink dolphin that was seen swimming in the Calcasieu River in Louisianna. Pinky is believed to be an albino and was first sighted in the area in 2007. We are pleased to have learned that [Pinky appears to be doing well](https://www.aol.com/article/news/2017/08/08/bright-pink-dolphin-swimming-in-louisiana/23070840/), having made a recent appearance again in the Calcasieu Ship Channel.  A second pink dolphin was also reported but not photographed.

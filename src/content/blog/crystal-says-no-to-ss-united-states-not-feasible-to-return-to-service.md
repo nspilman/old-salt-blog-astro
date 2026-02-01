@@ -1,8 +1,8 @@
 ---
 title: "Crystal Says No to SS United States — Not Feasible to Return to Service"
 date: 2016-08-05T15:47:55
-slug: crystal-says-no-to-ss-united-states-not-feasible-to-return-to-service
-excerpt: "Last February we posted “Will the SS United States Sail Again? Crystal Cruises Tosses a Life Line.”  Crystal Cruises had signed an option to purchase the ship and was undertaking a feasibility study to determine whether the ship could be economically … Continue reading &rarr;"
+slug: "crystal-says-no-to-ss-united-states-not-feasible-to-return-to-service"
+excerpt: "Last February we posted \"Will the SS United States Sail Again? Crystal Cruises Tosses a Life Line.\"  Crystal Cruises had signed an option to purchase the ship and was undertaking a feasibility study to determine whether the ship could be economically … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "SS United States"
   - "SS Unted States Conservancy"
 author: "Rick Spilman"
-description: "Last February we posted “Will the SS United States Sail Again? Crystal Cruises Tosses a Life Line.”  Crystal Cruises had signed an option to purchase the ship and was undertaking a feasibility study to determine whether the ship could be economically … Continue reading &rarr;"
+description: "Last February we posted \"Will the SS United States Sail Again? Crystal Cruises Tosses a Life Line.\"  Crystal Cruises had signed an option to purchase the ship and was undertaking a feasibility study to determine whether the ship could be economically … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2013/03/ssus2.jpg)Last February we posted “[Will the SS United States Sail Again? Crystal Cruises Tosses a Life Line.](http://www.oldsaltblog.com/2016/02/will-the-ss-united-states-sail-again-crystal-cruises-tosses-a-life-line/)”  [Crystal Cruises](http://www.crystalcruises.com/) had signed an [option to purchase the ship](http://www.nytimes.com/2016/02/04/business/ss-united-states-historic-ocean-liner-of-trans-atlantic-heyday-may-sail-again.html?_r=0) and was undertaking a feasibility study to determine whether the ship could be economically put back into service. In the mean time, Crystal Cruises would cover the ship expenses of $60,0000 per month for nine months. The feasibility study is now complete and Crystal Cruises has said, “Thank you, but no thank you.” From the press release: “*Crystal Cruises today determined that while the SS United States is structurally sound, the technical and commercial challenges associated with returning the historic liner to service as a modern cruise ship have unfortunately proven insurmountable.*”  While Crustal Cruises will not exercise their option to buy the ship, they will contribute $350,000 to aid in the [SS Unted States Conservancy](http://www.ssusc.org/)’s ongoing mission to save the ship.

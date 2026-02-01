@@ -1,7 +1,7 @@
 ---
 title: "Royal Caribbean Opens L’Ecole Nouvelle Royal Caribbean in Haiti"
 date: 2010-10-25T08:40:41
-slug: royal-caribbean-opens-lecole-nouvelle-royal-caribbean-in-haiti
+slug: "royal-caribbean-opens-lecole-nouvelle-royal-caribbean-in-haiti"
 excerpt: "The news from Haiti recently has been uniformly bad.  In addition to earthquake damage,  outbreaks of cholera are now sweeping the country. One bright spot is a new school, L’Ecole Nouvelle Royal Caribbean.  Built by Royal Caribbean Cruise Lines, it is one of the first … Continue reading &rarr;"
 categories:
   - "Current"

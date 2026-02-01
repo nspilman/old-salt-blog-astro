@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday to Admiral Lord Nelson and the Royal New Zealand Navy"
 date: 2011-09-29T13:52:55
-slug: happy-birthday-to-admiral-lord-nelson-and-the-royal-new-zealand-navy
+slug: "happy-birthday-to-admiral-lord-nelson-and-the-royal-new-zealand-navy"
 excerpt: "Two hundred and fifty three years ago today, Horatio Nelson was born in in Burnham Thorpe, Norfolk, the sixth of eleven children. He went to sea at 12 on a ship commanded by a maternal uncle.  He would become the … Continue reading &rarr;"
 categories:
   - "Current"

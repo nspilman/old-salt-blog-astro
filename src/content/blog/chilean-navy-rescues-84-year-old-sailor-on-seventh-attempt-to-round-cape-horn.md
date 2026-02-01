@@ -1,7 +1,7 @@
 ---
 title: "Chilean Navy Rescues 84 Year Old Sailor on Seventh Attempt to Round Cape Horn"
 date: 2012-01-10T21:06:45
-slug: chilean-navy-rescues-84-year-old-sailor-on-seventh-attempt-to-round-cape-horn
+slug: "chilean-navy-rescues-84-year-old-sailor-on-seventh-attempt-to-round-cape-horn"
 excerpt: "The good news is that the Chilean Navy, assisted by the Japanese merchant ship, White Kingdom, have rescued Thomas Louis Corogin, an 84-year-old American sailor, after his seventh failed attempt to round Cape Horn, single handed.  Corogin is now safely ashore after the mast on his Westsail … Continue reading &rarr;"
 categories:
   - "Current"

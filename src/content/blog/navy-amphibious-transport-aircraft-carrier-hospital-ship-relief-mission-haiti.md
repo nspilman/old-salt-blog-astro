@@ -1,7 +1,7 @@
 ---
 title: "Navy Amphibious Transport, Aircraft Carrier, & Hospital Ship in Relief Mission to Haiti"
 date: 2016-10-08T08:41:14
-slug: navy-amphibious-transport-aircraft-carrier-hospital-ship-relief-mission-haiti
+slug: "navy-amphibious-transport-aircraft-carrier-hospital-ship-relief-mission-haiti"
 excerpt: "The US Navy is sending a flotilla of ships to help the relief effort in the Haiti, devestated by Hurricane Matthew, the first Category 4 storm to hit the island nation in over 50 years. USS Mesa Verde, a San … Continue reading &rarr;"
 categories:
   - "Current"

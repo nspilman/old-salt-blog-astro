@@ -1,8 +1,8 @@
 ---
 title: "Gentleman Captain by J.D. Davies – A Review"
 date: 2011-06-13T14:51:10
-slug: gentleman-captain-by-j-d-davies-a-review
-excerpt: "Lord Macaulay wrote “There were gentlemen and there were seamen in the navy of Charles the Second. But the seamen were not gentlemen; and the gentlemen were not seaman.” Twenty one year old Matthew Quinton, captain of the Happy Restoration, … Continue reading &rarr;"
+slug: "gentleman-captain-by-j-d-davies-a-review"
+excerpt: "Lord Macaulay wrote \"There were gentlemen and there were seamen in the navy of Charles the Second. But the seamen were not gentlemen; and the gentlemen were not seaman.\" Twenty one year old Matthew Quinton, captain of the Happy Restoration, … Continue reading &rarr;"
 categories:
   - "Newbooks"
   - "Reviews"
@@ -14,7 +14,7 @@ tags:
   - "restoration"
   - "Royal Navy"
 author: "Rick Spilman"
-description: "Lord Macaulay wrote “There were gentlemen and there were seamen in the navy of Charles the Second. But the seamen were not gentlemen; and the gentlemen were not seaman.” Twenty one year old Matthew Quinton, captain of the Happy Restoration, … Continue reading &rarr;"
+description: "Lord Macaulay wrote \"There were gentlemen and there were seamen in the navy of Charles the Second. But the seamen were not gentlemen; and the gentlemen were not seaman.\" Twenty one year old Matthew Quinton, captain of the Happy Restoration, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/gentlemancaptain.jpg)Lord Macaulay wrote “*There were gentlemen and there were seamen in the navy of Charles the Second. But the seamen were not gentlemen; and the gentlemen were not seaman*.”

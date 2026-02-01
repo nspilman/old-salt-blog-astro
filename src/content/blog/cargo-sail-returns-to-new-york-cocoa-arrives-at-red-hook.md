@@ -1,7 +1,7 @@
 ---
 title: "Cargo Sail Returns to New York – Cocoa Arrives at Red Hook"
 date: 2011-06-15T08:43:52
-slug: cargo-sail-returns-to-new-york-cocoa-arrives-at-red-hook
+slug: "cargo-sail-returns-to-new-york-cocoa-arrives-at-red-hook"
 excerpt: "The last time that a commercial cargo was unloaded from a sailing vessels at the New York docks was 1939.  That is, at least, until yesterday, when the 70′ schooner Black Seal arrived in Red Hook, Brooklyn and began unloading a cargo … Continue reading &rarr;"
 categories:
   - "Current"

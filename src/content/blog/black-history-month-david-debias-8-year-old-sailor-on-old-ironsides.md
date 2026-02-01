@@ -1,8 +1,8 @@
 ---
 title: "Black History Month — David Debias, 8 Year Old Sailor on Old Ironsides"
 date: 2020-02-16T11:31:46
-slug: black-history-month-david-debias-8-year-old-sailor-on-old-ironsides
-excerpt: "David Debias, was a free black youth from the north side of Beacon Hill in Boston. In 1814, at only 8 years old, he signed aboard the USS Constitution, nicknamed “Old Ironsides.” He was rated as a ship’s boy and … Continue reading &rarr;"
+slug: "black-history-month-david-debias-8-year-old-sailor-on-old-ironsides"
+excerpt: "David Debias, was a free black youth from the north side of Beacon Hill in Boston. In 1814, at only 8 years old, he signed aboard the USS Constitution, nicknamed \"Old Ironsides.\" He was rated as a ship’s boy and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -14,7 +14,7 @@ tags:
   - "USS Constitution"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/02/constitutionlevant.jpg"
 author: "Rick Spilman"
-description: "David Debias, was a free black youth from the north side of Beacon Hill in Boston. In 1814, at only 8 years old, he signed aboard the USS Constitution, nicknamed “Old Ironsides.” He was rated as a ship’s boy and … Continue reading &rarr;"
+description: "David Debias, was a free black youth from the north side of Beacon Hill in Boston. In 1814, at only 8 years old, he signed aboard the USS Constitution, nicknamed \"Old Ironsides.\" He was rated as a ship’s boy and … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/02/constitutionlevant.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Norway’s $325 Million Stadt Ship Tunnel Gets Go-Ahead"
 date: 2021-03-21T09:27:16
-slug: norways-325-million-stadt-ship-tunnel-gets-go-ahead
+slug: "norways-325-million-stadt-ship-tunnel-gets-go-ahead"
 excerpt: "An update to a post from 2017: Norway’s Stad Peninsula divides the Norwegian Sea to the north and the North Sea to the south. The seas, winds, currents, and weather are extremely dangerous for any ship attempting to round the … Continue reading &rarr;"
 categories:
   - "Current"

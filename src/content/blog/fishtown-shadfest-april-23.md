@@ -1,7 +1,7 @@
 ---
 title: "Fishtown Shadfest"
 date: 2011-04-19T19:03:00
-slug: fishtown-shadfest-april-23
+slug: "fishtown-shadfest-april-23"
 excerpt: "Until fairly recently, every springtime, American shad made their annual runs up the Delaware, Hudson, Connecticut and other rivers of the East and Northeast to spawn.   The shad fishery in the Hudson lasted until the 1970s when their numbers dropped precipitously.  After dropping off … Continue reading &rarr;"
 categories:
   - "Current"

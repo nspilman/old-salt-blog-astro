@@ -1,7 +1,7 @@
 ---
 title: "Nine Humpback Whales Spotted in the Hudson River"
 date: 2022-09-09T10:21:42
-slug: nine-humpback-whales-spotted-in-the-hudson-river
+slug: "nine-humpback-whales-spotted-in-the-hudson-river"
 excerpt: "Over the last few years, we have been posting about the return of humpback whales to the waters around New York harbor.  Recently, nine humpbacks were sighted in the Hudson River. Several humpback whales spotted in Hudson River … Continue reading &rarr;"
 categories:
   - "Current"

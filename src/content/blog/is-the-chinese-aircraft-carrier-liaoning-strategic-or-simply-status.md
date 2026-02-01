@@ -1,7 +1,7 @@
 ---
 title: "Chinese Aircraft Carrier, Liaoning, Strategic or Simply Status?"
 date: 2012-09-26T10:11:41
-slug: is-the-chinese-aircraft-carrier-liaoning-strategic-or-simply-status
+slug: "is-the-chinese-aircraft-carrier-liaoning-strategic-or-simply-status"
 excerpt: "Now that China has finally commissioned  Liaoning, its first aircraft carrier, the discussion has focused on whether the ship is a meaningful addition to the Chinese Navy or merely a symbol of status and prestige. Some have pointed out that the … Continue reading &rarr;"
 categories:
   - "Current"

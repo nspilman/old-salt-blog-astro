@@ -1,7 +1,7 @@
 ---
 title: "Kalmar Nyckel – A Tall Ship with a Broad Reach"
 date: 2017-09-20T09:00:17
-slug: kalmar-nyckel-tall-ship-broad-reach
+slug: "kalmar-nyckel-tall-ship-broad-reach"
 excerpt: "Here is a short video about the Kalmar Nyckel, a replica of Dutch built pinnace purchased by Sweden in the mid-1600s. What makes the Kalmar Nyckel so fascinating for me is that while there are a goodly number of 18th … Continue reading &rarr;"
 categories:
   - "Current"

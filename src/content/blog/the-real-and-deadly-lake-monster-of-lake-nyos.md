@@ -1,8 +1,8 @@
 ---
 title: "The Real and Deadly Lake Monster of Lake Nyos"
 date: 2014-10-06T09:11:53
-slug: the-real-and-deadly-lake-monster-of-lake-nyos
-excerpt: "We recently posted about video of a “lake monster” in Lake Lagarfljót near Egilsstaðir in Iceland.  Notwithstanding that a local panel voted that the “monster” was real, the video has been generally debunked. In Lake Nyos, in the Northwest Region … Continue reading &rarr;"
+slug: "the-real-and-deadly-lake-monster-of-lake-nyos"
+excerpt: "We recently posted about video of a \"lake monster\" in Lake Lagarfljót near Egilsstaðir in Iceland.  Notwithstanding that a local panel voted that the \"monster\" was real, the video has been generally debunked. In Lake Nyos, in the Northwest Region … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Historic Clipper City of Adelaide’s Voyage Home in Limbo? Will New Government Write the Check?"
 date: 2013-10-01T07:40:24
-slug: historic-clipper-city-adelaides-voyage-home-limbo-will-new-government-write-check
+slug: "historic-clipper-city-adelaides-voyage-home-limbo-will-new-government-write-check"
 excerpt: "The clipper ship City of Adelaide is supposed to be transported by heavy-lift ship back to Australia in the near future. Scottish taxpayers have already chipped in $1.2 million.  The City of Adelaide Trust, however, has been unable to book … Continue reading &rarr;"
 categories:
   - "Current"

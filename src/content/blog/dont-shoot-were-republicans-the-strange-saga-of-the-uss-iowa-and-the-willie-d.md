@@ -1,8 +1,8 @@
 ---
-title: "Don’t Shoot, We’re Republicans!  –  The Strange Saga of the USS Iowa and the “Willie D”"
+title: "Don’t Shoot, We’re Republicans!  –  The Strange Saga of the USS Iowa and the \"Willie D\""
 date: 2011-09-09T07:37:05
-slug: dont-shoot-were-republicans-the-strange-saga-of-the-uss-iowa-and-the-willie-d
-excerpt: "The news that the battleship USS Iowa has found a new home brings to mind the story of the battleship and the destroyer USS William D Porter, nicknamed the “Willie D.”   The USS Iowa served in World War II as … Continue reading &rarr;"
+slug: "dont-shoot-were-republicans-the-strange-saga-of-the-uss-iowa-and-the-willie-d"
+excerpt: "The news that the battleship USS Iowa has found a new home brings to mind the story of the battleship and the destroyer USS William D Porter, nicknamed the \"Willie D.\"   The USS Iowa served in World War II as … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "USS William D Porter"
   - "Willie D"
 author: "Rick Spilman"
-description: "The news that the battleship USS Iowa has found a new home brings to mind the story of the battleship and the destroyer USS William D Porter, nicknamed the “Willie D.”   The USS Iowa served in World War II as … Continue reading &rarr;"
+description: "The news that the battleship USS Iowa has found a new home brings to mind the story of the battleship and the destroyer USS William D Porter, nicknamed the \"Willie D.\"   The USS Iowa served in World War II as … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/USS_William_D_Porter.jpg)

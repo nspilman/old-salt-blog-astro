@@ -1,7 +1,7 @@
 ---
 title: "One Hundred Million Sharks Killed Each Year – and Why it Matters"
 date: 2013-03-04T15:12:16
-slug: one-hundred-million-sharks-killed-each-year-and-why-it-matters
+slug: "one-hundred-million-sharks-killed-each-year-and-why-it-matters"
 excerpt: "A new report, published in the journal Marine Policy, assesses the the impact of commercial fishing on sharks and estimates that around 100 million sharks are being killed each year.  The rate is higher than sustainable for most shark species and is … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

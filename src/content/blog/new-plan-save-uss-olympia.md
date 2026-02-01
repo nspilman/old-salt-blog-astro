@@ -1,7 +1,7 @@
 ---
 title: "A New Plan to Save the USS Olympia"
 date: 2013-10-07T16:37:52
-slug: new-plan-save-uss-olympia
+slug: "new-plan-save-uss-olympia"
 excerpt: "John F. Lehman and Christopher M. Lehman have a new plan to save the historic but endangered USS Olympia in Philadelphia.  John John F. Lehman served as secretary of the Navy and Christopher M. Lehman served as special assistant for national … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

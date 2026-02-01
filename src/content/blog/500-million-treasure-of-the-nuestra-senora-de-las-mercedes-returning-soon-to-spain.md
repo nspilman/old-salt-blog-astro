@@ -1,7 +1,7 @@
 ---
 title: "$500 Million Treasure of the Nuestra Senora de las Mercedes Returning Soon to Spain"
 date: 2012-02-22T16:13:24
-slug: 500-million-treasure-of-the-nuestra-senora-de-las-mercedes-returning-soon-to-spain
+slug: "500-million-treasure-of-the-nuestra-senora-de-las-mercedes-returning-soon-to-spain"
 excerpt: "Within the next day or so, two Spanish Air Force C-130 transport planes will land at Tampa’s MacDill Air Force Base to load 17 tons of gold and silver coins and other artifacts recovered from the wreck of the Spanish Navy’s Nuestra … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "A Cat Makes History in the Sydney to Hobart Race"
 date: 2023-12-27T18:33:43
-slug: a-cat-makes-history-in-the-sydney-to-hobart-race
+slug: "a-cat-makes-history-in-the-sydney-to-hobart-race"
 excerpt: "The Rolex Sydney to Hobart Race is considered to be one of the premiere mixed-fleet yacht races in the world. Setting sail every year on Boxing Day, this year’s race attracted 103 yachts. This year, for the first time in … Continue reading &rarr;"
 categories:
   - "Current"

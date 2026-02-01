@@ -1,8 +1,8 @@
 ---
 title: "SS Port Nicholson – Sunk Off Cape Cod in 1942, a $3 Billion Shipwreck?"
 date: 2012-01-31T09:47:57
-slug: ss-port-nicholson-sunk-off-cape-cod-in-1942-a-3-billion-shipwreck
-excerpt: "The Portland, ME based, Sub Sea Research (SSR) recently sent out a press release announcing that they had located what they claim to be “the worlds richest shipwreck,”  the British freighter, SS Port Nicholson, carrying a secret cargo of 71 tons of platinum, … Continue reading &rarr;"
+slug: "ss-port-nicholson-sunk-off-cape-cod-in-1942-a-3-billion-shipwreck"
+excerpt: "The Portland, ME based, Sub Sea Research (SSR) recently sent out a press release announcing that they had located what they claim to be \"the worlds richest shipwreck,\"  the British freighter, SS Port Nicholson, carrying a secret cargo of 71 tons of platinum, … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -17,7 +17,7 @@ tags:
   - "Sub Sea Research"
   - "U-87"
 author: "Rick Spilman"
-description: "The Portland, ME based, Sub Sea Research (SSR) recently sent out a press release announcing that they had located what they claim to be “the worlds richest shipwreck,”  the British freighter, SS Port Nicholson, carrying a secret cargo of 71 tons of platinum, … Continue reading &rarr;"
+description: "The Portland, ME based, Sub Sea Research (SSR) recently sent out a press release announcing that they had located what they claim to be \"the worlds richest shipwreck,\"  the British freighter, SS Port Nicholson, carrying a secret cargo of 71 tons of platinum, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/gI_99497_PN.jpg)The Portland, ME based, [Sub Sea Research](http://subsearesearch.com/) (SSR) recently sent out a [press release](http://www.prweb.com/releases/2012/1/prweb9138097.htm#.TyOrdCyLQ3g.email) announcing that they had located what they claim to be “the worlds richest shipwreck,”  the British freighter, *[SS Port Nicholson](http://www.wrecksite.eu/wreck.aspx?58549),* carrying a secret cargo of 71 tons of platinum, sunk by the [German submarine U-87](http://en.wikipedia.org/wiki/German_submarine_U-87_\(1941\)) on June 16th, 1942 Northeast of Cape Cod, MS.  From the [press release](http://www.prweb.com/releases/2012/1/prweb9138097.htm#.TyOrdCyLQ3g.email): *SSR first discovered the Port Nicholson in 600-800 feet of water off Cape Cod in 2008. In 2009 SSR obtained legal recognition from the US Courts as the legal owner and salvager of the ship.*  The company also posted a [Youtube video documenting their discovery](http://youtu.be/oFf1TTcs8O0).  

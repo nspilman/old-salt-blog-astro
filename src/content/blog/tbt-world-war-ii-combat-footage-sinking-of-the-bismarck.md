@@ -1,7 +1,7 @@
 ---
 title: "TBT — World War II Combat Footage: Sinking of the Bismarck"
 date: 2020-05-28T17:14:30
-slug: tbt-world-war-ii-combat-footage-sinking-of-the-bismarck
+slug: "tbt-world-war-ii-combat-footage-sinking-of-the-bismarck"
 excerpt: "On Throw-Back-Thursday, here is footage of the sinking of the German battleship Bismark, 79 years ago yesterday, by the Royal Navy in a three-day running battle in which the Bismark sank the British battlecruiser HMS Hood.  Ultimately, the German battleship … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

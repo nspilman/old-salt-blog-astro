@@ -1,7 +1,7 @@
 ---
 title: "Mallows Bay ‘Ghost Fleet’ Made a National Marine Sanctuary"
 date: 2019-07-18T16:30:34
-slug: mallows-bay-ghost-fleet-made-a-national-marine-sanctuary
+slug: "mallows-bay-ghost-fleet-made-a-national-marine-sanctuary"
 excerpt: "Forty miles south of Washington, D.C., close to Nanjemoy, Maryland is a fleet of ghost ships — the wrecks of hundreds of ships in Mallows Bay, a shallow bay on the Potomac River. It is considered to be the largest … Continue reading &rarr;"
 categories:
   - "Current"

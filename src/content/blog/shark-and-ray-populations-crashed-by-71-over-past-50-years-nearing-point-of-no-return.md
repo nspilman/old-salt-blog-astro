@@ -1,7 +1,7 @@
 ---
 title: "Shark and Ray Populations Crashed by 71% Over Past 50 Years, Nearing Point of No Return"
 date: 2021-01-29T16:31:05
-slug: shark-and-ray-populations-crashed-by-71-over-past-50-years-nearing-point-of-no-return
+slug: "shark-and-ray-populations-crashed-by-71-over-past-50-years-nearing-point-of-no-return"
 excerpt: "A recent study, published in the journal Nature, reveals that oceanic shark and ray populations have declined by 71%, primarily due to overfishing. The New York Times quotes Nathan Pacoureau, a marine biologist at Simon Fraser University in Canada and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "US Navy — Take Bribes, Reveal Secrets, Get Caught & Convicted, Keep Your Pension, For Now"
 date: 2017-03-21T12:54:54
-slug: us-navy-take-bribes-reveal-secrets-get-caught-convicted-keep-pension-now
+slug: "us-navy-take-bribes-reveal-secrets-get-caught-convicted-keep-pension-now"
 excerpt: "Last June, Rear Admiral Robert Gilbeau became the first active duty admiral in modern times to plead guilty to a felony. He will be sentenced next month and faces up to five years in Federal prison for charges related the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Happy Shark Week!"
 date: 2010-08-03T08:10:19
-slug: happy-shark-week
-excerpt: "It is that time of year again. For twenty three of its twenty five years, the Discovery Channel, an American cable television channel,  has celebrated this week as “Shark Week” with programming about sharks meant to thrill, terrify and no doubt, even inform its viewers. … Continue reading &rarr;"
+slug: "happy-shark-week"
+excerpt: "It is that time of year again. For twenty three of its twenty five years, the Discovery Channel, an American cable television channel,  has celebrated this week as \"Shark Week\" with programming about sharks meant to thrill, terrify and no doubt, even inform its viewers. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "Discovery Channel"
   - "Shark Week"
 author: "Rick Spilman"
-description: "It is that time of year again. For twenty three of its twenty five years, the Discovery Channel, an American cable television channel,  has celebrated this week as “Shark Week” with programming about sharks meant to thrill, terrify and no doubt, even inform its viewers. … Continue reading &rarr;"
+description: "It is that time of year again. For twenty three of its twenty five years, the Discovery Channel, an American cable television channel,  has celebrated this week as \"Shark Week\" with programming about sharks meant to thrill, terrify and no doubt, even inform its viewers. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/shark_week_0730.jpg)It is that time of year again. For twenty three of its twenty five years, the [Discovery Channel,](http://dsc.discovery.com/tv/shark-week/) an American cable television channel,  has celebrated this week as [“Shark Week”](http://dsc.discovery.com/tv/shark-week/) with programming about sharks meant to thrill, terrify and no doubt, even inform its viewers.  In the summer season,  when viewership usually falls, “Shark Week” is consistently among the most popular programming on cable television.  Despite its popularity it has not been without its share of controversy.  *Time Magazine* recently published a history of “Shark Week:”

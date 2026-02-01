@@ -1,7 +1,7 @@
 ---
 title: "Review — Hellfire Corner by Alaric Bond, First of His Coastal Force Series"
 date: 2020-03-11T15:18:33
-slug: review-hellfire-corner-by-alaric-bond-first-of-his-coastal-force-series
+slug: "review-hellfire-corner-by-alaric-bond-first-of-his-coastal-force-series"
 excerpt: "The Strait of Dover, only 18 nautical miles wide between Britain and France, dividing the English Channel from the North Sea, is one of the world’s busiest seaways. While requiring careful navigation today, during World War II it was a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

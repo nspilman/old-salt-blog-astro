@@ -1,7 +1,7 @@
 ---
 title: "Decommissioned Staten Island Ferry Herbert H. Lehman Sinks in Hudson River"
 date: 2012-03-05T21:26:41
-slug: decommissioned-staten-island-ferry-herbert-h-lehman-sinks-in-hudson-river
+slug: "decommissioned-staten-island-ferry-herbert-h-lehman-sinks-in-hudson-river"
 excerpt: "The Staten Island ferry Herbert H. Lehman was decommissioned in 2007 and put up for sale last year on EBay for $500,000.  The 297′ foot Kennedy class ferry boat apparently sprang a leak on Friday at her berth in Newburg, N.Y. … Continue reading &rarr;"
 categories:
   - "Current"

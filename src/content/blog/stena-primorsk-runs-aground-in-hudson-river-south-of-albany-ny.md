@@ -1,7 +1,7 @@
 ---
 title: "Stena Primorsk Runs Aground in Hudson River South of Albany, NY, but That is Not the Interesting Part of the Story"
 date: 2012-12-21T12:25:49
-slug: stena-primorsk-runs-aground-in-hudson-river-south-of-albany-ny
+slug: "stena-primorsk-runs-aground-in-hudson-river-south-of-albany-ny"
 excerpt: "Yesterday morning, the tanker, Stena Primorsk, ran aground in the Hudson River about ten miles south of Albany, NY after suffering a steering gear failure.  No oil was reported to have been spilled. There are a whole range of interesting aspects … Continue reading &rarr;"
 categories:
   - "Current"

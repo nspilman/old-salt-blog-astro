@@ -1,7 +1,7 @@
 ---
 title: "Humpback Whale Super-Pods?"
 date: 2017-03-17T10:01:58
-slug: humpback-whale-super-pods
+slug: "humpback-whale-super-pods"
 excerpt: "Strange and interesting doings in the world of humpback whales. Over the past few years, scientists have observed large numbers of humpback whales feeding together off the southwestern tip of South Africa between St. Helena Bay and Cape Point. While … Continue reading &rarr;"
 categories:
   - "Current"

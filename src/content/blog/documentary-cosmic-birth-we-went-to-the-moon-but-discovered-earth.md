@@ -1,7 +1,7 @@
 ---
 title: "Documentary: Cosmic Birth — We Went to the Moon, But Discovered Earth"
 date: 2019-11-17T18:12:27
-slug: documentary-cosmic-birth-we-went-to-the-moon-but-discovered-earth
+slug: "documentary-cosmic-birth-we-went-to-the-moon-but-discovered-earth"
 excerpt: "Friday night I had the great pleasure to meet Orly Orlyson and to watch the US premiere of Cosmic Birth, the remarkable documentary that he co-directed, at the Explorer’s Club in Manhattan. Orly is an entrepreneur and the founder of … Continue reading &rarr;"
 categories:
   - "Current"

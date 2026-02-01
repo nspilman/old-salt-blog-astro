@@ -1,7 +1,7 @@
 ---
 title: "The Amazing and Painful Portuguese Man o’ War — An Organism or a Colony?"
 date: 2015-09-13T10:01:26
-slug: the-amazing-and-painful-portuguese-man-o-war-an-organism-or-a-colony
+slug: "the-amazing-and-painful-portuguese-man-o-war-an-organism-or-a-colony"
 excerpt: "I have a definite love-hate relationship with Portuguese Man o’ War. They are beautiful, delicate, exotic and extremely painful. I still remember being stung twice as a child over a half century ago. What I only came to understand recently … Continue reading &rarr;"
 categories:
   - "Current"

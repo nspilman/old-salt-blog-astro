@@ -1,8 +1,8 @@
 ---
 title: "Was the Carnival Triumph the Last Straw?  Trust in Cruise Lines Plummets According to Poll"
 date: 2013-06-12T10:36:56
-slug: was-the-carnival-triumph-the-last-straw-trust-in-cruise-lines-plummets-according-to-poll
-excerpt: "What a difference a blackout and overflowing toilets can make.  In September of last year the headline in the L.A. Times was “Cruise industry rebounding from ship accident, woes in Europe.”  The subtitle read, “Cruise reservations seem to be rising, … Continue reading &rarr;"
+slug: "was-the-carnival-triumph-the-last-straw-trust-in-cruise-lines-plummets-according-to-poll"
+excerpt: "What a difference a blackout and overflowing toilets can make.  In September of last year the headline in the L.A. Times was \"Cruise industry rebounding from ship accident, woes in Europe.\"  The subtitle read, \"Cruise reservations seem to be rising, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Harris poll"
   - "loss of trust"
 author: "Rick Spilman"
-description: "What a difference a blackout and overflowing toilets can make.  In September of last year the headline in the L.A. Times was “Cruise industry rebounding from ship accident, woes in Europe.”  The subtitle read, “Cruise reservations seem to be rising, … Continue reading &rarr;"
+description: "What a difference a blackout and overflowing toilets can make.  In September of last year the headline in the L.A. Times was \"Cruise industry rebounding from ship accident, woes in Europe.\"  The subtitle read, \"Cruise reservations seem to be rising, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2013/02/Nightmare-Cruise.jpg)What a difference a blackout and overflowing toilets can make.  In September of last year the headline in the L.A. Times was “[Cruise industry rebounding from ship accident, woes in Europe.](http://articles.latimes.com/2012/sep/21/business/la-fi-cruise-industry-20120921)”  The subtitle read, “*Cruise reservations seem to be rising, with the drop in European bookings offset by strong U.S. sales. The Costa Concordia disaster had only a short-term effect*.”

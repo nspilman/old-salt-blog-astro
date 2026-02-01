@@ -1,7 +1,7 @@
 ---
 title: "Update: Disabled bulker MV Golden Seas under tow to Dutch Harbor"
 date: 2010-12-05T19:34:30
-slug: update-disabled-bulker-mv-golden-seas-under-tow-to-dutch-harbor
+slug: "update-disabled-bulker-mv-golden-seas-under-tow-to-dutch-harbor"
 excerpt: "MV Golden Seas, a 74,475 DWT  bulk carrier, which suffered a turbocharger failure on its main engines and was in danger of drifting onto the Aleutian Islands, has been taken under tow by the tug/supply boat Tor Viking II.   The bulk carrier is … Continue reading &rarr;"
 categories:
   - "Current"

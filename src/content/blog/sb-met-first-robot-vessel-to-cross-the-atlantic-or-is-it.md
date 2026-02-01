@@ -1,7 +1,7 @@
 ---
 title: "SB Met, First Robot Vessel to Cross the Atlantic — Or Is It?"
 date: 2018-10-01T09:18:14
-slug: sb-met-first-robot-vessel-to-cross-the-atlantic-or-is-it
+slug: "sb-met-first-robot-vessel-to-cross-the-atlantic-or-is-it"
 excerpt: "Recent reports in the media have announced that the 2-meter long robot sailboat, SB Met, has become the first unmanned vessel to cross the Atlantic after completing a 1,800-mile (3,000 km) journey from Newfoundland in Canada to Ireland. The Daily Mail reports … Continue reading &rarr;"
 categories:
   - "Current"

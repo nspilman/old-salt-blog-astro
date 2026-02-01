@@ -1,7 +1,7 @@
 ---
 title: "Update: José Fernández Had Cocaine, Alcohol in System During Fatal Boat Crash"
 date: 2016-10-30T10:50:07
-slug: update-jose-fernandez-cocaine-alcohol-system-fatal-boat-crash
+slug: "update-jose-fernandez-cocaine-alcohol-system-fatal-boat-crash"
 excerpt: "Last month, we posted about the tragic death of Jose Fernandez and two of his friends who died when their 32′ open boat in slammed into a rock breakwater at high speed off South Beach, Miami, FL at around 3AM on … Continue reading &rarr;"
 categories:
   - "Current"

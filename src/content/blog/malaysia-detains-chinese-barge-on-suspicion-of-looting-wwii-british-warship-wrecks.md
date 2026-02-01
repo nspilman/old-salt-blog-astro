@@ -1,7 +1,7 @@
 ---
 title: "Malaysia Detains Chinese Barge on Suspicion of Looting WWII British Warship Wrecks"
 date: 2023-05-30T18:55:35
-slug: malaysia-detains-chinese-barge-on-suspicion-of-looting-wwii-british-warship-wrecks
+slug: "malaysia-detains-chinese-barge-on-suspicion-of-looting-wwii-british-warship-wrecks"
 excerpt: "For more than a decade, warships sunk in World War II have literally been disappearing from the ocean floor.  Illegal scrappers operating grabs from barges have been looting of Australian, American, British, Dutch, and Japanese warships for scrap metal in … Continue reading &rarr;"
 categories:
   - "Current"

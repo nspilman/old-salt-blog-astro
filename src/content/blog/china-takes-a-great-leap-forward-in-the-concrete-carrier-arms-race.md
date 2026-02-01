@@ -1,7 +1,7 @@
 ---
 title: "China takes a Great Leap Forward in the Concrete Carrier Arms Race"
 date: 2011-05-18T22:30:00
-slug: china-takes-a-great-leap-forward-in-the-concrete-carrier-arms-race
+slug: "china-takes-a-great-leap-forward-in-the-concrete-carrier-arms-race"
 excerpt: "As we posted last week, the US Navy has five times more aircraft carrier flight deck capacity than the rest of the world combined.   Nevertheless the Chinese have leapt ahead in the construction of a concrete air craft carrier on … Continue reading &rarr;"
 categories:
   - "Current"

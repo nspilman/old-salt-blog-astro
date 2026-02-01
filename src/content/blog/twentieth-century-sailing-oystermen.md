@@ -1,7 +1,7 @@
 ---
-title: "“The Twentieth Century”: The Sailing Oystermen"
+title: "\"The Twentieth Century\": The Sailing Oystermen"
 date: 2017-02-04T08:44:52
-slug: twentieth-century-sailing-oystermen
+slug: "twentieth-century-sailing-oystermen"
 excerpt: "At one time, 2,000 skipjacks dredged for oysters under sail. Now they number fewer than 40 and less than half are actively fishing. Walter Cronkite hosts this documentary that examines a disappearing way of life for Chesapeake Bay skipjack sailors, … Continue reading &rarr;"
 categories:
   - "History"

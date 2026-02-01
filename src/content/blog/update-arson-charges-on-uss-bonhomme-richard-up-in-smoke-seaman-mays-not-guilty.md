@@ -1,7 +1,7 @@
 ---
 title: "Update: Arson Charges on USS Bonhomme Richard Up in Smoke, Seaman Mays Not Guilty"
 date: 2022-09-30T16:30:53
-slug: update-arson-charges-on-uss-bonhomme-richard-up-in-smoke-seaman-mays-not-guilty
+slug: "update-arson-charges-on-uss-bonhomme-richard-up-in-smoke-seaman-mays-not-guilty"
 excerpt: "Yesterday, we posted Bonhomme Richard Arson Trial — Will the Case Go Up in Smoke? that discussed the end of the trial phase of the court martial of 21-year-old Seaman Ryan Mays, who was charged with deliberately setting the fire … Continue reading &rarr;"
 categories:
   - "Current"

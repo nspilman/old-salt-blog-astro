@@ -1,7 +1,7 @@
 ---
 title: "Can Big Data Stop Overfishing? Will Google’s Global Fishing Watch Succeed?"
 date: 2015-11-30T19:23:55
-slug: can-big-data-stop-overfishing-will-googles-global-fishing-watch-succeed
+slug: "can-big-data-stop-overfishing-will-googles-global-fishing-watch-succeed"
 excerpt: "Overfishing of the world’s oceans is a huge and immediate problem. Back in 2002, the nations participating in the World Summit on Sustainable Development agreed to end overfishing by 2015. Suffice it say, it didn’t happen.  Indeed, some scientists are predicting … Continue reading &rarr;"
 categories:
   - "Current"

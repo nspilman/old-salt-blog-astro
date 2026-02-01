@@ -1,7 +1,7 @@
 ---
 title: "Marvin Creamer, Dies at 104, Circumnavigated Without Navigational Instruments"
 date: 2020-08-18T11:40:48
-slug: marvin-creamer-dies-at-104-circumnavigated-without-navigational-instruments
+slug: "marvin-creamer-dies-at-104-circumnavigated-without-navigational-instruments"
 excerpt: "Martin Creamer, who died recently at the age of 104, was a retired professor of geography at Glassboro State College, now Rowan University, in Glassboro, N.J. He is best remembered, however, for sailing around the world on a 36-foot sailboat … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

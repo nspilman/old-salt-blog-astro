@@ -1,8 +1,8 @@
 ---
 title: "Update: Capsize of the Katherine G off Liberty Island in New York Harbor"
 date: 2012-04-08T07:27:46
-slug: update-capsize-of-the-katherine-g-off-liberty-island-in-new-york-harbor
-excerpt: "On Friday morning, we posted about the capsize of the “tugboat” Katherine G, off Liberty Island  in New York harbor.  It turns out that the Katherine G is not  tugboat in the conventional sense.  Will Van Dorp at the tugster blog calls it … Continue reading &rarr;"
+slug: "update-capsize-of-the-katherine-g-off-liberty-island-in-new-york-harbor"
+excerpt: "On Friday morning, we posted about the capsize of the \"tugboat\" Katherine G, off Liberty Island  in New York harbor.  It turns out that the Katherine G is not  tugboat in the conventional sense.  Will Van Dorp at the tugster blog calls it … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "lift-boat"
   - "new york harbor"
 author: "Rick Spilman"
-description: "On Friday morning, we posted about the capsize of the “tugboat” Katherine G, off Liberty Island  in New York harbor.  It turns out that the Katherine G is not  tugboat in the conventional sense.  Will Van Dorp at the tugster blog calls it … Continue reading &rarr;"
+description: "On Friday morning, we posted about the capsize of the \"tugboat\" Katherine G, off Liberty Island  in New York harbor.  It turns out that the Katherine G is not  tugboat in the conventional sense.  Will Van Dorp at the tugster blog calls it … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/0aaaaaakatg.jpg)

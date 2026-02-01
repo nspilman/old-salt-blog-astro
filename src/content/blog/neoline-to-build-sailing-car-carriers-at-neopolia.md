@@ -1,7 +1,7 @@
 ---
 title: "Neoline to Build Sailing Car Carriers at Neopolia"
 date: 2019-08-17T15:33:03
-slug: neoline-to-build-sailing-car-carriers-at-neopolia
+slug: "neoline-to-build-sailing-car-carriers-at-neopolia"
 excerpt: "Neoline, a French designer and operator of cargo sailing ships, is partnering with car manufacturer Groupe Renault, heavy equipment builder Manitou, and boat builder Groupe Beneteau, to build two 136-meter ro-ros, each with 4,200 square meters of sail area and … Continue reading &rarr;"
 categories:
   - "Current"

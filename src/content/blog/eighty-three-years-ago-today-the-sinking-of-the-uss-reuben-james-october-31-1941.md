@@ -1,7 +1,7 @@
 ---
 title: "Eighty Three Years Ago Today: The Sinking of the USS Reuben James – October 31, 1941"
 date: 2024-10-31T15:23:14
-slug: eighty-three-years-ago-today-the-sinking-of-the-uss-reuben-james-october-31-1941
+slug: "eighty-three-years-ago-today-the-sinking-of-the-uss-reuben-james-october-31-1941"
 excerpt: "The first American naval ship lost in World War II was not sunk in the attack on Pearl Harbor on December 7th, 1941.  Over a month before, on October 31, 1941, the destroyer USS Reuben James, escorting a convoy bound … Continue reading &rarr;"
 categories:
   - "History"

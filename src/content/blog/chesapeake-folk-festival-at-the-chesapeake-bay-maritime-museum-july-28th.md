@@ -1,7 +1,7 @@
 ---
 title: "Chesapeake Folk Festival at the Chesapeake Bay Maritime Museum July 28th"
 date: 2012-07-26T08:28:44
-slug: chesapeake-folk-festival-at-the-chesapeake-bay-maritime-museum-july-28th
+slug: "chesapeake-folk-festival-at-the-chesapeake-bay-maritime-museum-july-28th"
 excerpt: "The Chesapeake Bay Maritime Museum’s 5th Annual Chesapeake Folk Festival, this Saturday, July 28th, in St. Michaels, MD, celebrates the Bay’s people, arts, work, and bounty offers a full stage of live music all day long, regional foods, hands-on activities with … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

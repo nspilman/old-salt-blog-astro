@@ -1,7 +1,7 @@
 ---
 title: "Update: Fire on Car Carrier Felicity Ace, Adrift Off Azores, Burning Out"
 date: 2022-02-21T18:48:50
-slug: update-fire-on-car-carrier-felicity-ace-adrift-off-azores-burning-out
+slug: "update-fire-on-car-carrier-felicity-ace-adrift-off-azores-burning-out"
 excerpt: "Reuters is reporting that the fire, which swept through the car carrier Felicity Ace carrying thousands of luxury cars, leaving it adrift off Portugal’s Azores islands has lost its intensity, probably because there is little left to burn, a port … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Fifth Annual Remembering Fulton Fish Market Art Exhibit 2010"
 date: 2010-11-03T08:07:07
-slug: fifth-annual-remembering-fulton-fish-market-art-exhibit-2010
+slug: "fifth-annual-remembering-fulton-fish-market-art-exhibit-2010"
 excerpt: "A wonderful show by Naima Rauam.  It captures everything about the old market with the possible exception of the smell of fish. Fifth Annual Remembering Fulton Fish Market Art Exhibit 2010 … Continue reading &rarr;"
 categories:
   - "Galleries"

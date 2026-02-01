@@ -1,7 +1,7 @@
 ---
 title: "Welcome Home Wavertree !"
 date: 2016-09-25T14:19:33
-slug: welcome-home-wavertree
+slug: "welcome-home-wavertree"
 excerpt: "Yesterday the 1885 windjammer Wavertree returned home to New York’s South Street Seaport after a $13 million, sixteen month restoration in Caddell Drydock in Staten Island. She was escorted home by the 1885 schooner Pioneer, the 1893 schooner Lettie G … Continue reading &rarr;"
 categories:
   - "Current"

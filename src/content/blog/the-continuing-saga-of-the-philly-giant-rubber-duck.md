@@ -1,8 +1,8 @@
 ---
 title: "Droopy Duck — The Continuing Saga of the Philly Giant Rubber Duck"
 date: 2015-06-27T09:16:19
-slug: the-continuing-saga-of-the-philly-giant-rubber-duck
-excerpt: "The 61′ high 11 ton inflatable Giant Rubber Deck, featured in the Philadelphia-Camden Tall Ships Festival 2015, had some problems in the “Parade of Ships” on Thursday.  The duck was being towed on a pontoon, which was found to have holes … Continue reading &rarr;"
+slug: "the-continuing-saga-of-the-philly-giant-rubber-duck"
+excerpt: "The 61′ high 11 ton inflatable Giant Rubber Deck, featured in the Philadelphia-Camden Tall Ships Festival 2015, had some problems in the \"Parade of Ships\" on Thursday.  The duck was being towed on a pontoon, which was found to have holes … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:

@@ -1,7 +1,7 @@
 ---
 title: "Record Ransoms paid to Somali Pirates for MV Samho Dream & MV Golden Blessing"
 date: 2010-11-06T17:03:26
-slug: record-ransoms-paid-to-somali-pirates-for-mv-samho-dream-mv-golden-blessing
+slug: "record-ransoms-paid-to-somali-pirates-for-mv-samho-dream-mv-golden-blessing"
 excerpt: "The MV Samho Dream, a Korean VLCC,  and  its crew of five South Koreans and 19 Filipinos, was ransomed for $9.5 million dollars.  It had by hijacked by Somali pirates last April.    The MV Golden Blessing, a Singaporean chemical tanker, … Continue reading &rarr;"
 categories:
   - "Current"

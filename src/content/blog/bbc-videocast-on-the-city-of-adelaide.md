@@ -1,7 +1,7 @@
 ---
 title: "BBC videocast on the City of Adelaide"
 date: 2010-03-11T08:34:25
-slug: bbc-videocast-on-the-city-of-adelaide
+slug: "bbc-videocast-on-the-city-of-adelaide"
 excerpt: "We had previously posted about a BBC videocast of a documentary segment about attempts to save the composite clipper City of Adelaide.   The videocast was available to UK residents only. Thanks to David Hayes for pointing out that the … Continue reading &rarr;"
 categories:
   - "Current"

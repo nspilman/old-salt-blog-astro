@@ -1,7 +1,7 @@
 ---
 title: "Sail the Seven Seas — the Seven Seas for Sale"
 date: 2015-08-11T15:55:54
-slug: sail-the-seven-seas-the-seven-seas-for-sale
+slug: "sail-the-seven-seas-the-seven-seas-for-sale"
 excerpt: "Movie director Steven Spielberg is putting his $200 million, 282′ mega-yacht, Seven Seas, up for sale, reportedly because it is too small. He is having a new yacht built, costing roughly $250 million, which, oddly, at 300′, is only 18′ … Continue reading &rarr;"
 categories:
   - "Current"

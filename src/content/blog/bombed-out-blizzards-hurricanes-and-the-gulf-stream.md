@@ -1,7 +1,7 @@
 ---
 title: "Bombed Out Blizzards, Hurricanes and the Gulf Stream"
 date: 2015-01-26T11:01:43
-slug: bombed-out-blizzards-hurricanes-and-the-gulf-stream
+slug: "bombed-out-blizzards-hurricanes-and-the-gulf-stream"
 excerpt: "A major blizzard is heading for the US Northeast coast today. It has been given the name Winter Storm Juno.  If the prediction models are accurate, Juno may set a new record for snowfall in metropolitan New York City.  So, it … Continue reading &rarr;"
 categories:
   - "Current"

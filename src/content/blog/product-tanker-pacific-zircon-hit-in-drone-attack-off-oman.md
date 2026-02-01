@@ -1,7 +1,7 @@
 ---
 title: "Product Tanker Pacific Zircon Hit in Drone Attack Off Oman"
 date: 2022-11-16T18:38:59
-slug: product-tanker-pacific-zircon-hit-in-drone-attack-off-oman
+slug: "product-tanker-pacific-zircon-hit-in-drone-attack-off-oman"
 excerpt: "The 50,000 DWT product tanker Pacific Zircon was struck by a bomb-carrying drone off the coast of Oman on Tuesday night. The ship is operated by Singapore-based Eastern Pacific Shipping, a company ultimately owned by Israeli billionaire Idan Ofer. In a … Continue reading &rarr;"
 categories:
   - "Current"

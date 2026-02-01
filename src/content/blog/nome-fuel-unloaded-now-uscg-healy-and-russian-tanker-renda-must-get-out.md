@@ -1,7 +1,7 @@
 ---
 title: "Nome Fuel Unloaded, USCG Healy and Russian Tanker Renda Must Now Get Out"
 date: 2012-01-21T15:20:10
-slug: nome-fuel-unloaded-now-uscg-healy-and-russian-tanker-renda-must-get-out
+slug: "nome-fuel-unloaded-now-uscg-healy-and-russian-tanker-renda-must-get-out"
 excerpt: "After spending the better part of a month getting to Nome, Alaska to deliver an emergency supply of fuel to last the winter, the ice-strengthened Russian tanker Renda has finally off-loaded its cargo – 1.3 million gallons of diesel fuel and gasoline … Continue reading &rarr;"
 categories:
   - "Current"

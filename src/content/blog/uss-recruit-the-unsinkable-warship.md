@@ -1,7 +1,7 @@
 ---
 title: "USS Recruit — The Unsinkable Warship"
 date: 2015-05-09T19:55:26
-slug: uss-recruit-the-unsinkable-warship
+slug: "uss-recruit-the-unsinkable-warship"
 excerpt: "Perhaps no warship is unsinkable, but the several USS Recruits came close, primarily because they were based entirely on land.  In 1917, the 200′ USS Recruit, also known as the Landship Recruit, was built in Union Square, in the middle of … Continue reading &rarr;"
 categories:
   - "History"

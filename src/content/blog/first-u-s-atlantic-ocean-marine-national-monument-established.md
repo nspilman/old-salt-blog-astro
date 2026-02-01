@@ -1,7 +1,7 @@
 ---
 title: "First U.S. Atlantic Ocean Marine National Monument Established"
 date: 2016-09-16T09:20:59
-slug: first-u-s-atlantic-ocean-marine-national-monument-established
+slug: "first-u-s-atlantic-ocean-marine-national-monument-established"
 excerpt: "President Obama has designated 4,913 square miles of ocean, 130 miles off Cape Cod on the southern edge of George’s Bank, as the Northeast Canyons and Seamounts Marine National Monument, the nation’s first marine reserve in the Atlantic Ocean. Lee … Continue reading &rarr;"
 categories:
   - "Current"

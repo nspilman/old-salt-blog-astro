@@ -1,7 +1,7 @@
 ---
 title: "On Memorial Day — New Hope and Concerns for the Last Dreadnought, USS Texas"
 date: 2019-05-27T14:54:38
-slug: on-memorial-day-new-hope-and-concerns-for-the-last-dreadnought-uss-texas
+slug: "on-memorial-day-new-hope-and-concerns-for-the-last-dreadnought-uss-texas"
 excerpt: "For several years, we have followed the efforts to save the USS Texas, the last surviving dreadnought, as well as the only battleship in existence today that fought in both World War I and World War II. Since 1948, the … Continue reading &rarr;"
 categories:
   - "Current"

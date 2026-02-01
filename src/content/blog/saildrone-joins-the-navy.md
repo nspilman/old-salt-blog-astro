@@ -1,7 +1,7 @@
 ---
 title: "Saildrone Joins the Navy!"
 date: 2022-10-05T17:43:08
-slug: saildrone-joins-the-navy
+slug: "saildrone-joins-the-navy"
 excerpt: "We recently posted video footage shot by a Saildrone uncrewed surface vehicle (USV) from inside Hurricane Fiona, a Category 4 hurricane, barreling across the Atlantic Ocean.  For the second year, National Oceanic and Atmospheric Administration (NOAA) and Saildrone have sailed … Continue reading &rarr;"
 categories:
   - "Current"

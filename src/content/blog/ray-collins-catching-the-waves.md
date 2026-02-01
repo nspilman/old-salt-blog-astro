@@ -1,7 +1,7 @@
 ---
 title: "Ray Collins — Catching the Waves"
 date: 2015-03-29T22:38:59
-slug: ray-collins-catching-the-waves
+slug: "ray-collins-catching-the-waves"
 excerpt: "Surf photographer Ray Collins recently released a series of amazing photographs of ocean waves. Below is a short video of of the photographs and how he captured the amazing shots. … Continue reading &rarr;"
 categories:
   - "Current"

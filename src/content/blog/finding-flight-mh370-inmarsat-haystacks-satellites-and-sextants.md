@@ -1,7 +1,7 @@
 ---
 title: "Finding Flight MH370 — Inmarsat, Haystacks, Satellites and Sextants"
 date: 2014-03-25T08:38:06
-slug: finding-flight-mh370-inmarsat-haystacks-satellites-and-sextants
+slug: "finding-flight-mh370-inmarsat-haystacks-satellites-and-sextants"
 excerpt: "It appears that the British satellite firm, Inmarsat, combined high tech analysis with very basic navigation to estimate the flight path of MH370, after all other other searchers had failed to find the plane. The Prime Minister of Malaysia announced … Continue reading &rarr;"
 categories:
   - "Current"

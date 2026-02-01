@@ -1,7 +1,7 @@
 ---
 title: "The Long Goodbye of the HMS Hermes/INS Viraat"
 date: 2020-12-22T18:21:51
-slug: the-long-goodbye-of-the-hms-hermes-ins-viraat
+slug: "the-long-goodbye-of-the-hms-hermes-ins-viraat"
 excerpt: "Ship scrapping is a slow and methodical process. A ship is typically run up on the scrapping ways, which can be a concrete platform or a sloping sandy beach.  As burners cut away the upper sections of the ship, it … Continue reading &rarr;"
 categories:
   - "Current"

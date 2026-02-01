@@ -1,7 +1,7 @@
 ---
 title: "Tall Ships Festival at Greenock, Scotland"
 date: 2011-07-08T17:25:15
-slug: tall-ships-festival-at-greenock-scotland
+slug: "tall-ships-festival-at-greenock-scotland"
 excerpt: "If there are tall ships in port, there must be a party going on.  About 60 ships are expected at Greenock’s James Watt Dock from the first leg of the Tall Ships 2011 race from Waterford. Estimates range from 100,000 – … Continue reading &rarr;"
 categories:
   - "Current"

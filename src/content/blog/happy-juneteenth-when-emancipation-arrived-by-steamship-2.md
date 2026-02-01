@@ -1,7 +1,7 @@
 ---
 title: "Happy Juneteenth — When Emancipation Arrived by Steamship"
 date: 2023-06-19T10:33:35
-slug: happy-juneteenth-when-emancipation-arrived-by-steamship-2
+slug: "happy-juneteenth-when-emancipation-arrived-by-steamship-2"
 excerpt: "Happy Juneteenth, the oldest nationally celebrated commemoration of the ending of slavery in the United States. Juneteenth National Independence Day is also the newest Federal holiday. The legislation was signed into law by President Biden in 2020. The holiday commemorates when … Continue reading &rarr;"
 categories:
   - "History"

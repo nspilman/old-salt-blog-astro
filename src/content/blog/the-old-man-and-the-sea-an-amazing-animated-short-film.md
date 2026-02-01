@@ -1,7 +1,7 @@
 ---
 title: "The Old Man and the Sea – an Amazing Animated Short Film"
 date: 2013-11-26T11:11:25
-slug: the-old-man-and-the-sea-an-amazing-animated-short-film
+slug: "the-old-man-and-the-sea-an-amazing-animated-short-film"
 excerpt: "In 1951, Ernest Hemingway wrote The Old Man and the Sea.  Published in 1952, the novella won the Pulitzer Prize in 1953 and was cited by the Nobel Committee when it awarded the Nobel Prize in Literature to Hemingway in … Continue reading &rarr;"
 categories:
   - "Current"

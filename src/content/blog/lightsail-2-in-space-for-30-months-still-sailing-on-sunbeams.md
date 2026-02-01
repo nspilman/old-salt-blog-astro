@@ -1,7 +1,7 @@
 ---
 title: "LightSail 2 in Space for 30 Months & Still Sailing on Sunbeams"
 date: 2021-11-22T16:23:48
-slug: lightsail-2-in-space-for-30-months-still-sailing-on-sunbeams
+slug: "lightsail-2-in-space-for-30-months-still-sailing-on-sunbeams"
 excerpt: "For several years, we have followed the Planetary Society‘s efforts to launch a solar sail that would be propelled by the light radiating from the Sun. In July 2019, the society’s LightSail 2 deployed a 32-square-meter solar sail, about the … Continue reading &rarr;"
 categories:
   - "Current"

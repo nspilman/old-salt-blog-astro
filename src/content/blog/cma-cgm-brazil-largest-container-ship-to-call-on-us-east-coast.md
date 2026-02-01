@@ -1,7 +1,7 @@
 ---
 title: "CMA CGM Brazil, Largest Container Ship to Call on US East Coast"
 date: 2020-09-14T11:59:02
-slug: cma-cgm-brazil-largest-container-ship-to-call-on-us-east-coast
+slug: "cma-cgm-brazil-largest-container-ship-to-call-on-us-east-coast"
 excerpt: "Over the weekend, the container ship, CMA CGM Brazil, docked at the marine terminal in Port Elizabeth, NJ, part of the Port of New York and New Jersey on Newark Bay.  At 15,148 TEU, it is said to be the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

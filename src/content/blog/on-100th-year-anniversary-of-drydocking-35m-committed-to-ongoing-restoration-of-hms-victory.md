@@ -1,7 +1,7 @@
 ---
 title: "On 100th Year Anniversary of Drydocking: £35m Committed to Ongoing Restoration of HMS Victory"
 date: 2022-01-12T10:58:59
-slug: on-100th-year-anniversary-of-drydocking-35m-committed-to-ongoing-restoration-of-hms-victory
+slug: "on-100th-year-anniversary-of-drydocking-35m-committed-to-ongoing-restoration-of-hms-victory"
 excerpt: "One hundred years ago today, on January 12, 1922, Nelson’s flagship at the Battle of Trafalgar, HMS Victory was moved to Drydock No. 2 in Portsmouth Historic Dockyard for restoration and preservation. In honor of the anniversary, it was announced … Continue reading &rarr;"
 categories:
   - "Current"

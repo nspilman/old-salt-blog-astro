@@ -1,7 +1,7 @@
 ---
 title: "Operation Prosperity Guardian — Initiative to be Announced to Safeguard Shipping in the Red Sea"
 date: 2023-12-17T18:32:58
-slug: operation-prosperity-guardian-initiative-to-be-announced-to-safeguard-shipping-in-the-red-sea
+slug: "operation-prosperity-guardian-initiative-to-be-announced-to-safeguard-shipping-in-the-red-sea"
 excerpt: "During his visit to the Middle East next week, US Defense Secretary Lloyd Austin is expected to announce the formation of Operation Prosperity Guardian, a new international effort to deal with Houthi threats, a U.S. military official told The War … Continue reading &rarr;"
 categories:
   - "Current"

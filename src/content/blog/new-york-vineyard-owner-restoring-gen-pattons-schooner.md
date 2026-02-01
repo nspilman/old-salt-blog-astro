@@ -1,8 +1,8 @@
 ---
 title: "New York Vineyard Owner Restoring Gen. Patton’s Schooner, When and If"
 date: 2013-10-02T08:21:09
-slug: new-york-vineyard-owner-restoring-gen-pattons-schooner
-excerpt: "Back in 2010, we posted that “When and If“, a 1939 Alden schooner built for General George Patton, was for sale, as a result of the then current owner’s divorce. The 63’5” schooner was named “When and If” because Patton … Continue reading &rarr;"
+slug: "new-york-vineyard-owner-restoring-gen-pattons-schooner"
+excerpt: "Back in 2010, we posted that \"When and If\", a 1939 Alden schooner built for General George Patton, was for sale, as a result of the then current owner’s divorce. The 63’5\" schooner was named \"When and If\" because Patton … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "General George Patton"
   - "When and If"
 author: "Rick Spilman"
-description: "Back in 2010, we posted that “When and If“, a 1939 Alden schooner built for General George Patton, was for sale, as a result of the then current owner’s divorce. The 63’5” schooner was named “When and If” because Patton … Continue reading &rarr;"
+description: "Back in 2010, we posted that \"When and If\", a 1939 Alden schooner built for General George Patton, was for sale, as a result of the then current owner’s divorce. The 63’5\" schooner was named \"When and If\" because Patton … Continue reading &rarr;"
 ---
 
 [![wandi1](http://www.oldsaltblog.com/wp-content/uploads/2013/10/wandi1.jpg)Back in 2010, we posted](http://www.oldsaltblog.com/2010/10/pattons-schooner-when-and-if-to-be-sold/) that “[*When and If*](https://www.facebook.com/schoonerwhenandif)“, a 1939 Alden schooner built for General George Patton, was for sale, as a result of the then current owner’s divorce. The 63’5” schooner was named “*When and If*” because Patton said that he planned on sailing the world in the schooner, “when the war was over and if I survive.” Ironically, Patton survived the war but died in a traffic accident just as the fighting ended.

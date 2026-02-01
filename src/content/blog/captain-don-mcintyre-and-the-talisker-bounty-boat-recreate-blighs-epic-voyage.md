@@ -1,7 +1,7 @@
 ---
 title: "Captain Don McIntyre and the Talisker Bounty Boat Recreate Bligh’s Epic Voyage"
 date: 2010-07-15T13:28:34
-slug: captain-don-mcintyre-and-the-talisker-bounty-boat-recreate-blighs-epic-voyage
+slug: "captain-don-mcintyre-and-the-talisker-bounty-boat-recreate-blighs-epic-voyage"
 excerpt: "At the end of last April we posted about an expedition led by Australian Don McIntyre to recreate the epic 3,700 nautical mile voyage of Captain Bligh and his crew across the Pacific in an open boat in 1789 following the famous mutiny.   McIntyre … Continue reading &rarr;"
 categories:
   - "Current"

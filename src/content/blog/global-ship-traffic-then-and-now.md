@@ -1,7 +1,7 @@
 ---
 title: "Global Ship Traffic — Then and Now"
 date: 2013-12-29T09:10:50
-slug: global-ship-traffic-then-and-now
+slug: "global-ship-traffic-then-and-now"
 excerpt: "By definition, shipping is the ultimate offshore industry. For most, the business of shipping is largely invisible, literally beyond the horizon. I recently came across two representations of global shipping – a plot developed from ship’s logs from the 18th … Continue reading &rarr;"
 categories:
   - "History"

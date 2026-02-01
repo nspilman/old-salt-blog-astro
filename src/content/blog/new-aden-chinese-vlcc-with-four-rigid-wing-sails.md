@@ -1,7 +1,7 @@
 ---
 title: "New Aden, Chinese VLCC With Four Rigid Wing Sails"
 date: 2022-10-12T17:33:06
-slug: new-aden-chinese-vlcc-with-four-rigid-wing-sails
+slug: "new-aden-chinese-vlcc-with-four-rigid-wing-sails"
 excerpt: "In 2020, we posted that China Merchants Group had signed a contract with Dalian Shipbuilding Industry Company (DSIC) for two Very Large Crude Carriers (VLCCs) each with four rigid wing sails to provide wind-assisted propulsion. The first of the two … Continue reading &rarr;"
 categories:
   - "Current"

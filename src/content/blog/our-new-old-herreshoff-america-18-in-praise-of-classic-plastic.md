@@ -1,7 +1,7 @@
 ---
 title: "Our New 40 Year Old Herreshoff America 18 Catboat –  In Praise of Classic Plastic"
 date: 2013-07-08T19:06:08
-slug: our-new-old-herreshoff-america-18-in-praise-of-classic-plastic
+slug: "our-new-old-herreshoff-america-18-in-praise-of-classic-plastic"
 excerpt: "I will admit that I am not a lover of wooden vessels. An admirer from afar, perhaps.  The truth is that I am afraid of rot.  I don’t understand it, and, as is often the case, I fear what I … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Sailing Ship Photos from Life Magazine on Google"
 date: 2010-07-27T09:46:26
-slug: sailing-ship-photos-from-life-magazine-on-google
+slug: "sailing-ship-photos-from-life-magazine-on-google"
 excerpt: "Be warned.  If you are interested in sailing ships, do not click on the link below  if you have anything important to do  for the next fifteen or twenty minutes or possibly much longer.  Here is a absolutely fantastic archive of … Continue reading &rarr;"
 categories:
   - "Galleries"

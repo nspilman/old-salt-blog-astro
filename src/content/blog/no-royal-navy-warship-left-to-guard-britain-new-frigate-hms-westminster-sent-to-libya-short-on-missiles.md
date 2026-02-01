@@ -1,7 +1,7 @@
 ---
 title: "New Frigate HMS Westminster Sent to Libya Short on Missiles & No Royal Navy Warship Left to Guard Britain"
 date: 2011-11-28T15:07:57
-slug: no-royal-navy-warship-left-to-guard-britain-new-frigate-hms-westminster-sent-to-libya-short-on-missiles
+slug: "no-royal-navy-warship-left-to-guard-britain-new-frigate-hms-westminster-sent-to-libya-short-on-missiles"
 excerpt: "The impact of the ongoing budget crisis in Britain on the Royal Navy has been far reaching. Last week we posted about concerns that budget cuts would leave Britain with a shortage of attack submarines.  Recently, it was revealed that the … Continue reading &rarr;"
 categories:
   - "Current"

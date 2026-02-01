@@ -1,7 +1,7 @@
 ---
 title: "The Mysteries of the Lost City — Mid-Atlantic Hydrothermal Field"
 date: 2022-09-02T10:37:05
-slug: the-mysteries-of-the-lost-city-mid-atlantic-hydrothermal-field
+slug: "the-mysteries-of-the-lost-city-mid-atlantic-hydrothermal-field"
 excerpt: "Over two thousand feet beneath the surface of the North Atlantic, on the seamount Atlantis Massif, at the intersection between the Mid-Atlantic Ridge and the Atlantis Transform Fault, a jagged landscape of towers rises from the deep ocean gloom. Discovered … Continue reading &rarr;"
 categories:
   - "Current"

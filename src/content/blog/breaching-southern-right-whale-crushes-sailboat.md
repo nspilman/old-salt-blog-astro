@@ -1,7 +1,7 @@
 ---
 title: "Breaching Southern Right Whale Crushes Sailboat"
 date: 2010-07-21T21:16:54
-slug: breaching-southern-right-whale-crushes-sailboat
+slug: "breaching-southern-right-whale-crushes-sailboat"
 excerpt: "Update:  South African authorities are investigating whether the whale was harassed before breaching. A breaching Southern Right Whale landed on top of a ten meter long sail boat off the coast of South Africa on Sunday.   The remarkable photos below were shot by a passenger … Continue reading &rarr;"
 categories:
   - "Current"

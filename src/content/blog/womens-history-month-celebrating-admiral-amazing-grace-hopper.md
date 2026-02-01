@@ -1,7 +1,7 @@
 ---
-title: "Women’s History Month — Celebrating Admiral “Amazing Grace” Hopper"
+title: "Women’s History Month — Celebrating Admiral \"Amazing Grace\" Hopper"
 date: 2025-03-07T22:03:59
-slug: womens-history-month-celebrating-admiral-amazing-grace-hopper
+slug: "womens-history-month-celebrating-admiral-amazing-grace-hopper"
 excerpt: "As the current administration launches a frontal attack on diversity, equity, and inclusion, it is a good time to remember Admiral Grace Hopper. Grace Hopper was a pioneering computer scientist and a United States Navy Rear Admiral. Hopper received a … Continue reading &rarr;"
 categories:
   - "Current"

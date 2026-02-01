@@ -1,7 +1,7 @@
 ---
 title: "Mystery Oil Spill Tars Israel’s Mediterranean Shoreline"
 date: 2021-02-24T14:49:21
-slug: mystery-oil-spill-tars-israels-mediterranean-shoreline
+slug: "mystery-oil-spill-tars-israels-mediterranean-shoreline"
 excerpt: "The New York Times reports that a large oil spill from an unknown source has devastated sea life in the Mediterranean and spewed tons of tar across more than 100 miles of coastline from Israel to southern Lebanon in what Israeli … Continue reading &rarr;"
 categories:
   - "Current"

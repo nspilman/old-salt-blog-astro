@@ -1,7 +1,7 @@
 ---
 title: "Pacific Remote Islands Marine National Monument to be Vastly Expanded"
 date: 2014-06-17T20:22:21
-slug: pacific-remote-islands-marine-national-monument-to-be-vastly-expanded
+slug: "pacific-remote-islands-marine-national-monument-to-be-vastly-expanded"
 excerpt: "In 2006, President George W. Bush created three marine national monuments in the Pacific Ocean.  Today, President Obama announced the dramatic expansion of these marine preserves to form the world’s largest marine sanctuary.  Under the proposal, the Pacific Remote Island Marine … Continue reading &rarr;"
 categories:
   - "Current"

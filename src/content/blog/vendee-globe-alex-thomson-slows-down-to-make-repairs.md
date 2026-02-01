@@ -1,7 +1,7 @@
 ---
 title: "Vendee Globe — Alex Thomson Slows Down to Make Repairs"
 date: 2020-11-23T17:36:19
-slug: vendee-globe-alex-thomson-slows-down-to-make-repairs
+slug: "vendee-globe-alex-thomson-slows-down-to-make-repairs"
 excerpt: "Communication technology these days is an absolute marvel.  Alex Thomson, who led the fleet for most of the first two weeks of the Vendee Globe race, is now slowing down to make repairs to the damaged longitudinal structure in the … Continue reading &rarr;"
 categories:
   - "Current"

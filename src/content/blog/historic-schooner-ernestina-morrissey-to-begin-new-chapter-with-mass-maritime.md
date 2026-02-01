@@ -1,7 +1,7 @@
 ---
 title: "Historic Schooner Ernestina-Morrissey To Begin New Chapter With Mass. Maritime"
 date: 2021-04-21T08:09:47
-slug: historic-schooner-ernestina-morrissey-to-begin-new-chapter-with-mass-maritime
+slug: "historic-schooner-ernestina-morrissey-to-begin-new-chapter-with-mass-maritime"
 excerpt: "The schooner Ernestina-Morrissey, ex Ernestina, ex Effie M. Morrissey, will soon begin a new chapter in her long and storied career as a sail training vessel for the Massachusetts Maritime Academy. The schooner was built in 1894 at the James … Continue reading &rarr;"
 categories:
   - "Current"

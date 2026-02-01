@@ -1,7 +1,7 @@
 ---
 title: "Update: Navy Says Oahu Water Safe To Drink After Red Hill Fuel Cleanup; EPA and Residents Disagree"
 date: 2024-01-09T16:58:58
-slug: update-navy-says-oahu-water-safe-to-drink-after-red-hill-fuel-cleanup-epa-and-residents-disagree
+slug: "update-navy-says-oahu-water-safe-to-drink-after-red-hill-fuel-cleanup-epa-and-residents-disagree"
 excerpt: "Toward the end of December, the US Navy’s Red Hill Bulk Fuel Storage Facility at Pearl Harbor, Hawaii was drained of fuel, after chronic fuel oil leaks into Oahu’s sole drinking-water aquifer from the World War II era underground tanks. … Continue reading &rarr;"
 categories:
   - "Current"

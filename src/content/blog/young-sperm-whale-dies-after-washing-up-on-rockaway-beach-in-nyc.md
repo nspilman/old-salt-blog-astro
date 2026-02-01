@@ -1,7 +1,7 @@
 ---
 title: "Young Sperm Whale Dies After Washing Up on Rockaway Beach in NYC"
 date: 2022-12-15T18:23:05
-slug: young-sperm-whale-dies-after-washing-up-on-rockaway-beach-in-nyc
+slug: "young-sperm-whale-dies-after-washing-up-on-rockaway-beach-in-nyc"
 excerpt: "A sperm whale, estimated to be a female between three and five-years-old, died after washing up on Rockaway Beach in New York City on Tuesday. PIX11 reports that the Parks Department was told about the approximately 30-foot sperm whale near … Continue reading &rarr;"
 categories:
   - "Current"

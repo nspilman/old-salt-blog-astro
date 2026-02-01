@@ -1,7 +1,7 @@
 ---
 title: "Fire on Navy Amphib USS New Orleans Extinguished After 12 Hours,  2 Sailors Injured"
 date: 2025-08-21T15:58:29
-slug: fire-on-navy-amphib-uss-new-orleans-extinguished-after-12-hours-2-sailors-injured
+slug: "fire-on-navy-amphib-uss-new-orleans-extinguished-after-12-hours-2-sailors-injured"
 excerpt: "A fire broke out Wednesday afternoon, August 20, aboard the San Antonio-class amphibious transport dock ship USS New Orleans (LPD 18). The ship was anchored near White Beach Naval Facility, Okinawa, Japan. The fire was declared extinguished at 4 a.m., … Continue reading &rarr;"
 categories:
   - "Current"

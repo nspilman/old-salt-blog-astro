@@ -1,7 +1,7 @@
 ---
 title: "The Rise of the Mountain of Fire and the Birth of the Only Elephant in Iceland"
 date: 2018-08-27T18:18:34
-slug: the-rise-of-the-mountain-of-fire-and-the-birth-of-the-only-elephant-in-iceland
+slug: "the-rise-of-the-mountain-of-fire-and-the-birth-of-the-only-elephant-in-iceland"
 excerpt: "On the 21st of January, 1973, the island of Heimaey, four nautical miles off the south coast of Iceland, began to tremble. On the 23rd, a large fissure opened up on the eastern side of the island, barely a kilometer away … Continue reading &rarr;"
 categories:
   - "Current"

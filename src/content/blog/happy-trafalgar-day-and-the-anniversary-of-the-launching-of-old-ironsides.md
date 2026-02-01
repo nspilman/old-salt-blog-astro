@@ -1,7 +1,7 @@
 ---
-title: "Happy Trafalgar Day and the Anniversary of the Launching of “Old Ironsides”"
+title: "Happy Trafalgar Day and the Anniversary of the Launching of \"Old Ironsides\""
 date: 2011-10-21T18:35:16
-slug: happy-trafalgar-day-and-the-anniversary-of-the-launching-of-old-ironsides
+slug: "happy-trafalgar-day-and-the-anniversary-of-the-launching-of-old-ironsides"
 excerpt: "Thanks to Maritime Great Britain for reminding us that today is indeed Trafalgar Day, commemorating Nelson’s victory over the French and Spanish fleets and his tragic death at the Battle of Trafalgar on this day in 1805. They also reminded us that on this day in … Continue reading &rarr;"
 categories:
   - "Current"

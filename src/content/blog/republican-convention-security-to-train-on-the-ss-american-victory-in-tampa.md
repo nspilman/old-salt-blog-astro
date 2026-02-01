@@ -1,7 +1,7 @@
 ---
 title: "Republican Convention Security to Train on the SS American Victory in Tampa"
 date: 2012-05-14T16:26:58
-slug: republican-convention-security-to-train-on-the-ss-american-victory-in-tampa
+slug: "republican-convention-security-to-train-on-the-ss-american-victory-in-tampa"
 excerpt: "The museum ship SS American Victory will host the FBI, Transportation Security Administration and a half-dozen other law enforcement agencies in bomb detection and disposal training exercises later this month in preparation for the Republican National Convention to be held in … Continue reading &rarr;"
 categories:
   - "Current"

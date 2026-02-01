@@ -1,7 +1,7 @@
 ---
 title: "Update: Solar Sail Satellite LightSail 2 Deployed in Orbit"
 date: 2019-07-25T18:56:21
-slug: update-solar-sail-satellite-lightsail-2-deployed-in-orbit
+slug: "update-solar-sail-satellite-lightsail-2-deployed-in-orbit"
 excerpt: "For a number of years, we have followed the Planetary Society‘s efforts to launch a solar sail which would be propelled by light radiating from the sun. Yesterday, the society’s LightSail 2 deployed a 32-square-meter solar sail, about the size … Continue reading &rarr;"
 categories:
   - "Current"

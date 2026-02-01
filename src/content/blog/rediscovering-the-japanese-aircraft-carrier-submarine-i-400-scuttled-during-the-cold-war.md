@@ -1,7 +1,7 @@
 ---
 title: "Rediscovering the Japanese Aircraft-Carrier Submarine I-400 — Scuttled During the Cold War"
 date: 2013-12-05T07:36:53
-slug: rediscovering-the-japanese-aircraft-carrier-submarine-i-400-scuttled-during-the-cold-war
+slug: "rediscovering-the-japanese-aircraft-carrier-submarine-i-400-scuttled-during-the-cold-war"
 excerpt: "Recently, the crew of the the Hawaii Undersea Research Laboratory‘s submersible Pisces V  announced finding the hull of the Japanese mega-submarine I-400  at a depth of 2,300 feet on the sea floor off Hawaii.  The huge submarine survived World War II but … Continue reading &rarr;"
 categories:
   - "Current"

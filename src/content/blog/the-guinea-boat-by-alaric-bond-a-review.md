@@ -1,7 +1,7 @@
 ---
 title: "The Guinea Boat by Alaric Bond — a Review"
 date: 2015-02-06T22:53:54
-slug: the-guinea-boat-by-alaric-bond-a-review
+slug: "the-guinea-boat-by-alaric-bond-a-review"
 excerpt: "Alaric Bond’s latest novel, The Guinea Boat, is set in the south-east of England during the brief Peace of Amiens of 1803. Two young men, Nat and Alex, meet in the coastal village of Hastings and become friends. Both are outsiders. Nat … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

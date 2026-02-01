@@ -1,7 +1,7 @@
 ---
 title: "Ocean Rowing Round-up, Part 2: Bouvet Guyane Solo Atlantic Rowing Race 2012"
 date: 2012-01-30T15:11:41
-slug: ocean-rowing-round-up-part-2-bouvet-guyane-solo-atlantic-rowing-race-2012
+slug: "ocean-rowing-round-up-part-2-bouvet-guyane-solo-atlantic-rowing-race-2012"
 excerpt: "Twenty three boats set off this weekend in the the third Bouvet Guyane Solo Atlantic Rowing Race 2012 in a 2,600 mile race between between Senegal and Guyana.  All solo rowers are competing in identical 8 meter long boats.  One major challenge of … Continue reading &rarr;"
 categories:
   - "Current"

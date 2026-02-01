@@ -1,7 +1,7 @@
 ---
 title: "Delaware’s Tall Ship Kalmar Nyckel Seeks Volunteer Sailing Crew"
 date: 2015-01-07T09:11:59
-slug: delawares-tall-ship-kalmar-nyckel-seeks-volunteer-sailing-crew
+slug: "delawares-tall-ship-kalmar-nyckel-seeks-volunteer-sailing-crew"
 excerpt: "The Kalmar Nyckel Foundation is seeking recruits to train as volunteer crew for the replica ship Kalmar Nyckel.  The original ship of that name served as Peter Minuit’s flagship for the 1638 expedition that founded the colony of New Sweden, establishing the first … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

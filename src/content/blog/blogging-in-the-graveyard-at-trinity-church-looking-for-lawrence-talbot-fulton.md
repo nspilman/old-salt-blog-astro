@@ -1,7 +1,7 @@
 ---
 title: "Blogging in the Graveyard at Trinity Church – Looking for Lawrence, Talbot & Fulton"
 date: 2012-04-28T11:10:51
-slug: blogging-in-the-graveyard-at-trinity-church-looking-for-lawrence-talbot-fulton
+slug: "blogging-in-the-graveyard-at-trinity-church-looking-for-lawrence-talbot-fulton"
 excerpt: "Trinity Church  at the intersection of Wall Street and Broadway in Lower Manhattan, is one of the oldest congregations in the state.  Captain William Kidd was a church elder, in the years before he turned pirate. Captain Kidd donated a block and … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "The Future of Ship Fuel — Oil, LNG, Water or Wind?"
 date: 2014-04-26T11:16:39
-slug: the-future-of-ship-fuel-oil-lng-water-or-wind
+slug: "the-future-of-ship-fuel-oil-lng-water-or-wind"
 excerpt: "We have noted before the paradox of ocean shipping — it is simultaneously the most energy efficient means of transportation with the lowest carbon footprint while at the same time, it is a major polluter.  (See our post from back … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Weigh Anchor Nautical Blog Hop, Day 1:  Windjammers – Not Dead, Not Even Past"
 date: 2013-09-17T11:21:15
-slug: weigh-anchor-nautical-blog-hop-windjammers-dead-even-past
+slug: "weigh-anchor-nautical-blog-hop-windjammers-dead-even-past"
 excerpt: "My novel Hell around the Horn is set on a British windjammer on a voyage around Cape Horn in the particularly brutal winter of 1905.  I wanted to write the novel, in part, because the windjammers have been largely forgotten … Continue reading &rarr;"
 categories:
   - "Blog Hop"

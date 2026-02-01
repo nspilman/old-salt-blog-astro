@@ -1,7 +1,7 @@
 ---
 title: "A Swan Adrift – Abandoned Sailing Yachts Drifting on the Deep Blue Sea"
 date: 2013-04-17T14:01:12
-slug: a-swan-adrift-abandoned-sailing-yachts-drifting-on-the-deep-blue-sea
+slug: "a-swan-adrift-abandoned-sailing-yachts-drifting-on-the-deep-blue-sea"
 excerpt: "In February, Wolfhound, a 48′ Nautor Swan sailing yacht, was abandoned in a storm just north of Bermuda by her Irish owner, Alan McGettigan, and a crew of three. The sailors were rescued by a passing freighter. The boat was reported to have sunk. Instead, … Continue reading &rarr;"
 categories:
   - "Current"

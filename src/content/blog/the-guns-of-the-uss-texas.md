@@ -1,7 +1,7 @@
 ---
 title: "The Guns of the USS Texas"
 date: 2022-09-25T18:12:00
-slug: the-guns-of-the-uss-texas
+slug: "the-guns-of-the-uss-texas"
 excerpt: "We recently posted videos of the 110-year-old battleship USS Texas currently being repaired and refurbished in drydock at the Gulf Copper Shipyard in Galveston.  The Texas is the oldest remaining dreadnought battleship and only one of six surviving ships to have served … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Repost: Searching for the USS Thresher and USS Scorpion with the Titanic as Cover"
 date: 2013-04-09T10:32:45
-slug: repost-searching-for-the-uss-thresher-and-uss-scorpion-with-the-titanic-as-cover
+slug: "repost-searching-for-the-uss-thresher-and-uss-scorpion-with-the-titanic-as-cover"
 excerpt: "On this the fiftieth anniversary of the sinking of the USS Thresher, we are reposting an article from three years regarding the link between the discovery of the wreck of the Titanic and the US Navy’s secret search for the lost submarines, USS Thresher and the USS Scorpion. … Continue reading &rarr;"
 categories:
   - "History"

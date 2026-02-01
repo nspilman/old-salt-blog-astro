@@ -1,8 +1,8 @@
 ---
 title: "Ten Years of Cruise Ship Fires and Carnival Confetti"
 date: 2010-12-30T09:47:21
-slug: ten-years-of-cruise-ship-fires-and-carnival-confetti
-excerpt: "A weird dissonance between two cruise stories struck me recently.   On one hand, Carnival Cruise Lines is “the official confetti sponsor of the Times Square New Year’s Eve 2011 celebration.”   As reported by the the Maritime Executive “the sponsorship includes multiple opportunities to associate the … Continue reading &rarr;"
+slug: "ten-years-of-cruise-ship-fires-and-carnival-confetti"
+excerpt: "A weird dissonance between two cruise stories struck me recently.   On one hand, Carnival Cruise Lines is \"the official confetti sponsor of the Times Square New Year’s Eve 2011 celebration.\"   As reported by the the Maritime Executive \"the sponsorship includes multiple opportunities to associate the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Jim Walker"
   - "John Heald"
 author: "Rick Spilman"
-description: "A weird dissonance between two cruise stories struck me recently.   On one hand, Carnival Cruise Lines is “the official confetti sponsor of the Times Square New Year’s Eve 2011 celebration.”   As reported by the the Maritime Executive “the sponsorship includes multiple opportunities to associate the … Continue reading &rarr;"
+description: "A weird dissonance between two cruise stories struck me recently.   On one hand, Carnival Cruise Lines is \"the official confetti sponsor of the Times Square New Year’s Eve 2011 celebration.\"   As reported by the the Maritime Executive \"the sponsorship includes multiple opportunities to associate the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/ecstasy19981.jpg)A weird dissonance between two cruise stories struck me recently.   On one hand, [Carnival Cruise Lines](http://www.carnival.com/) is “the official confetti sponsor of the Times Square New Year’s Eve 2011 celebration.”   As reported by the the [Maritime Executive](http://www.maritime-executive.com/article/carnival-bringing-confetti-times-square-new-years-eve-2011/) “*the sponsorship includes multiple opportunities to associate the “Fun Ship” brand with the annual excitement.*”   A [You-tube video](http://www.youtube.com/watch?v=FfkQEA7irLE&feature=player_embedded) of Carnival’s Senior Cruise Director is also featured.  On the other hand several media sources have been quoting from an excellent and timely post from last March on Jim Walker’s [Cruise Law News](http://www.cruiselawnews.com/) blog,  [*Ten Years of Cruise Ship Fires – Has the Cruise Industry Learned Anything?*](http://www.cruiselawnews.com/2010/03/articles/fires-1/ten-years-of-cruise-ship-fires-has-the-cruise-industry-learned-anything/)  

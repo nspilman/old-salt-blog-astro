@@ -1,7 +1,7 @@
 ---
 title: "Second Fatality on IchorCoal in Clipper Round the World Race"
 date: 2016-04-02T08:18:13
-slug: second-fatality-clipper-round-world-race
+slug: "second-fatality-clipper-round-world-race"
 excerpt: "Terrible news. A second sailor has died in the Clipper Round the World Race. On 1127 UTC on Friday, Sarah Young, 40, was swept over the side of the IchorCoal boat (CV21) in the Pacific Ocean by a series of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

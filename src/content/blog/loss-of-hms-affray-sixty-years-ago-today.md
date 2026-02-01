@@ -1,8 +1,8 @@
 ---
 title: "Loss of HMS Affray – Sixty Years Ago Today"
 date: 2011-04-16T12:30:02
-slug: loss-of-hms-affray-sixty-years-ago-today
-excerpt: "Sixty years ago today, the  Royal Navy submarine HMS Affray sailed on a simulated war mission called “Exercise Spring Train” and never returned.   Despite an extensive search by 24 ships from four nations, the sunken submarine was not found until June 14, 1951. … Continue reading &rarr;"
+slug: "loss-of-hms-affray-sixty-years-ago-today"
+excerpt: "Sixty years ago today, the  Royal Navy submarine HMS Affray sailed on a simulated war mission called \"Exercise Spring Train\" and never returned.   Despite an extensive search by 24 ships from four nations, the sunken submarine was not found until June 14, 1951. … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Royal Navy"
   - "submarine"
 author: "Rick Spilman"
-description: "Sixty years ago today, the  Royal Navy submarine HMS Affray sailed on a simulated war mission called “Exercise Spring Train” and never returned.   Despite an extensive search by 24 ships from four nations, the sunken submarine was not found until June 14, 1951. … Continue reading &rarr;"
+description: "Sixty years ago today, the  Royal Navy submarine HMS Affray sailed on a simulated war mission called \"Exercise Spring Train\" and never returned.   Despite an extensive search by 24 ships from four nations, the sunken submarine was not found until June 14, 1951. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/52184356_52183481.jpg)Sixty years ago today, the  Royal Navy submarine [HMS *Affray*](http://en.wikipedia.org/wiki/HMS_Affray_\(P421\)) sailed on a simulated war mission called “Exercise Spring Train” and never returned.   Despite an extensive search by 24 ships from four nations, the sunken submarine was not found until June 14, 1951.  The cause of the sinking has never been determined.   Relatives of the 75 men lost on the submarine are planning to pay their respects on the 60th anniversary of the disaster.

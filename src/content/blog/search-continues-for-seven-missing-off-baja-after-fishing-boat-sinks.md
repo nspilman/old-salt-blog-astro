@@ -1,7 +1,7 @@
 ---
 title: "Search Continues for Seven Missing off Baja after Fishing Boat Sinks"
 date: 2011-07-05T16:23:06
-slug: search-continues-for-seven-missing-off-baja-after-fishing-boat-sinks
+slug: "search-continues-for-seven-missing-off-baja-after-fishing-boat-sinks"
 excerpt: "At roughly 2AM on Sunday morning, the chartered fishing boat Eric sank in a storm in the Sea of Cortez off Mexico’s Baja Peninsula.   Twenty seven American tourists and a crew of 16 were aboard were aboard the fishing boat … Continue reading &rarr;"
 categories:
   - "Current"

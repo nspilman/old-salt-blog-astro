@@ -1,8 +1,8 @@
 ---
 title: "Voyages of Discovery — Named What?"
 date: 2015-06-30T16:57:58
-slug: voyages-of-discovery-named-what
-excerpt: "A light-hearted look at who gets to name the new “discovery” by the British sketch comedy team, David Mitchell and Robert Webb. That Mitchell and Webb Look – Discoverer … Continue reading &rarr;"
+slug: "voyages-of-discovery-named-what"
+excerpt: "A light-hearted look at who gets to name the new \"discovery\" by the British sketch comedy team, David Mitchell and Robert Webb. That Mitchell and Webb Look – Discoverer … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:

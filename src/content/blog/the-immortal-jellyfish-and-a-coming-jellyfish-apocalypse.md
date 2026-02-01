@@ -1,8 +1,8 @@
 ---
 title: "The Immortal Jellyfish and a Coming Jellyfish Apocalypse ?"
 date: 2011-09-27T10:41:34
-slug: the-immortal-jellyfish-and-a-coming-jellyfish-apocalypse
-excerpt: "When Diana Nyad was stopped by repeated jellyfish stings in her most recent attempt to swim between Cuba and Florida, it brought to mind two articles, one about the discovery of the “immortal jellyfish” and another which raised the question … Continue reading &rarr;"
+slug: "the-immortal-jellyfish-and-a-coming-jellyfish-apocalypse"
+excerpt: "When Diana Nyad was stopped by repeated jellyfish stings in her most recent attempt to swim between Cuba and Florida, it brought to mind two articles, one about the discovery of the \"immortal jellyfish\" and another which raised the question … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "jellyfish"
   - "National Science Foundation"
 author: "Rick Spilman"
-description: "When Diana Nyad was stopped by repeated jellyfish stings in her most recent attempt to swim between Cuba and Florida, it brought to mind two articles, one about the discovery of the “immortal jellyfish” and another which raised the question … Continue reading &rarr;"
+description: "When Diana Nyad was stopped by repeated jellyfish stings in her most recent attempt to swim between Cuba and Florida, it brought to mind two articles, one about the discovery of the \"immortal jellyfish\" and another which raised the question … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/Northeast-Pacific-sea-nettl.jpg)

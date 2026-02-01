@@ -1,7 +1,7 @@
 ---
 title: "TALL SHIPS: THE PRIVATEER LYNX"
 date: 2011-04-10T15:22:28
-slug: tall-ships-the-privateer-lynx
+slug: "tall-ships-the-privateer-lynx"
 excerpt: "Great footage of the Lynx from TheSailingChannel.TV TALL SHIPS: THE PRIVATEER LYNX … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

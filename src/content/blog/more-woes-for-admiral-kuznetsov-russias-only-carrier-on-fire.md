@@ -1,7 +1,7 @@
 ---
 title: "More Woes for Admiral Kuznetsov, Russia’s Only Carrier, On Fire"
 date: 2019-12-13T11:58:45
-slug: more-woes-for-admiral-kuznetsov-russias-only-carrier-on-fire
+slug: "more-woes-for-admiral-kuznetsov-russias-only-carrier-on-fire"
 excerpt: "Perhaps we have been too hard on the USS Gerald R. Ford. Sure her weapons elevators don’t work and for tactical purposes the most expensive warship ever built may be little more than a $13 billion berthing barge. Nevertheless, at … Continue reading &rarr;"
 categories:
   - "Current"

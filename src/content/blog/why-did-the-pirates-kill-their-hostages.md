@@ -1,7 +1,7 @@
 ---
 title: "Why did the Pirates Kill their Hostages ?"
 date: 2011-02-22T20:00:41
-slug: why-did-the-pirates-kill-their-hostages
+slug: "why-did-the-pirates-kill-their-hostages"
 excerpt: "Why did the pirates kill their for American hostages aboard the sailing yacht Quest?   We may never know.  Naval officers are speculating  that the close approach of the destroyer USS Sterett may have panicked some of the pirates.  The Sterett reportedly drew closer … Continue reading &rarr;"
 categories:
   - "Current"

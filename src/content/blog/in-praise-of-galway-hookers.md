@@ -1,7 +1,7 @@
 ---
 title: "In Praise of Galway Hookers"
 date: 2015-09-02T08:26:48
-slug: in-praise-of-galway-hookers
+slug: "in-praise-of-galway-hookers"
 excerpt: "Recently, Travel + Leisure magazine rated Galway, Ireland the world’s friendliest city.  I wonder whether it has anything to do with the Galway hookers? But what is a Galway hooker? Is it: A Galway street-walker? A traditional single masted fishing boat? A … Continue reading &rarr;"
 categories:
   - "Current"

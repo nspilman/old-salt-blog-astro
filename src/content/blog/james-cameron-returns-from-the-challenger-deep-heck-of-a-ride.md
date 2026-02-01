@@ -1,7 +1,7 @@
 ---
-title: "James Cameron Returns From the Challenger Deep – “Heck of a Ride”"
+title: "James Cameron Returns From the Challenger Deep – \"Heck of a Ride\""
 date: 2012-03-26T08:03:11
-slug: james-cameron-returns-from-the-challenger-deep-heck-of-a-ride
+slug: "james-cameron-returns-from-the-challenger-deep-heck-of-a-ride"
 excerpt: "Last night, James Cameron became the first person ever to dive in a one man submarine to the very bottom of the ocean, the Challenger Deep in the Mariana Trench, 35,755 feet (5.8 nautical miles) below the surface.  He is only … Continue reading &rarr;"
 categories:
   - "Current"

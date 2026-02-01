@@ -1,7 +1,7 @@
 ---
 title: "The Big Oyster in the Big Apple — the Biggest Oyster in 100 Years"
 date: 2018-09-04T07:16:35
-slug: the-big-oyster-in-the-big-apple-the-biggest-oyster-in-100-years
+slug: "the-big-oyster-in-the-big-apple-the-biggest-oyster-in-100-years"
 excerpt: "A diver repairing Pier 40 on the Hudson River in Manhattan recently pried loose a large oyster. At 8.66 inches long and weighing in at close to two pounds, it is believed to be the largest oyster found in New York Harbor in … Continue reading &rarr;"
 categories:
   - "Current"

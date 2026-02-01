@@ -1,7 +1,7 @@
 ---
 title: "150-Year-Old Alligator Reef Light in Florida Keys Shines Again"
 date: 2023-10-11T20:53:20
-slug: 150-year-old-alligator-reef-light-in-florida-keys-shines-again
+slug: "150-year-old-alligator-reef-light-in-florida-keys-shines-again"
 excerpt: "After sitting dark for a decade, Alligator Reef Light in the Florida Keys is shining again. An Islamorada community group is spending $6 million to restore and preserve the 150-year-old lighthouse. The group turned on its new solar-powered lights last … Continue reading &rarr;"
 categories:
   - "Current"

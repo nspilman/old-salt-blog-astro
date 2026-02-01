@@ -1,7 +1,7 @@
 ---
 title: "Hannah Whiteley Kiteboarding — Life Simple & Good"
 date: 2014-07-06T09:23:24
-slug: hannah-whiteley-kiteboarding-life-simple-good
+slug: "hannah-whiteley-kiteboarding-life-simple-good"
 excerpt: "An amazing video of Hannah Whiteley kiteboarding in South Africa from Scuttlebutt Sailing News.  Enjoy. Hannah Whiteley ‘Essence’ Hannah Whiteley ‘Essence’ from Hannah Whiteley on Vimeo. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

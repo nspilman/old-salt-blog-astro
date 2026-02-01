@@ -1,7 +1,7 @@
 ---
 title: "HMS Victory, French Oak & the Ship of Theseus — Thoughts on Varied Lives of A Ship"
 date: 2024-12-14T10:51:02
-slug: hms-victory-french-oak-the-ship-of-theseus-thoughts-on-varied-lives-of-a-ship
+slug: "hms-victory-french-oak-the-ship-of-theseus-thoughts-on-varied-lives-of-a-ship"
 excerpt: "The BBC recently reported that HMS Victory, one of the most celebrated warships in British history, is being repaired using wood from France. The conservation work is part of a 10-year project titled The Big Repair, which will cost £40-£45m. … Continue reading &rarr;"
 categories:
   - "Current"

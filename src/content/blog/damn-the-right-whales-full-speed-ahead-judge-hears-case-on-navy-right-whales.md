@@ -1,7 +1,7 @@
 ---
 title: "Damn the Right Whales, Full Speed Ahead? Judge Hears Case on Navy & Right Whales"
 date: 2012-03-17T14:31:22
-slug: damn-the-right-whales-full-speed-ahead-judge-hears-case-on-navy-right-whales
+slug: "damn-the-right-whales-full-speed-ahead-judge-hears-case-on-navy-right-whales"
 excerpt: "The US Navy wants to install a $100 million offshore training range, which would include an undersea array of cables and sensors for training warships, submarines and aircraft about 50 miles off the Atlantic coast of southern Georgia and northern Florida.  Environmentalists … Continue reading &rarr;"
 categories:
   - "Current"

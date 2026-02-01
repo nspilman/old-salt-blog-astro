@@ -1,7 +1,7 @@
 ---
 title: "New York Fleet Week 2017"
 date: 2017-05-25T08:00:16
-slug: new-york-fleet-week-2017
+slug: "new-york-fleet-week-2017"
 excerpt: "It is Fleet Week in New York City. For a list of the ships participating and where they can be visited, click here. For a schedule of Fleet Week events and activities, click here. Fleet Week Kicks Off … Continue reading &rarr;"
 categories:
   - "Current"

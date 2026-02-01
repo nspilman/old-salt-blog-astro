@@ -1,7 +1,7 @@
 ---
 title: "Tanker Sanchi’s Condensate Cargo Still Burning — What is Condensate?"
 date: 2018-01-09T09:56:30
-slug: tanker-sanchis-condensate-cargo-still-burning-condensate
+slug: "tanker-sanchis-condensate-cargo-still-burning-condensate"
 excerpt: "An Iranian tanker, Sanchi, carrying 134,000 tonnes of cargo collided with the Chinese bulk, CF Crystal, on Saturday, in the East China Sea off Singapore. Sanchi’s crew of 32 were killed or are missing in the resulting fire. There has … Continue reading &rarr;"
 categories:
   - "Current"

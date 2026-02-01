@@ -1,7 +1,7 @@
 ---
 title: "The Threat of Russian Spy Ship Yantar in UK Waters"
 date: 2025-11-21T19:32:39
-slug: the-threat-of-russian-spy-ship-yantar-in-uk-waters
+slug: "the-threat-of-russian-spy-ship-yantar-in-uk-waters"
 excerpt: "The Russian ship Yantar has aimed lasers at the crews of UK Royal Air Force aircraft in waters off the north of Scotland. While the Yantar has been a worrying presence around critical undersea infrastructure for years now, this development represents … Continue reading &rarr;"
 categories:
   - "Current"

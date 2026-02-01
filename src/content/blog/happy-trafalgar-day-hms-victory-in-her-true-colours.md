@@ -1,7 +1,7 @@
 ---
 title: "Happy Trafalgar Day — HMS Victory in Her True Colours"
 date: 2015-10-21T15:57:19
-slug: happy-trafalgar-day-hms-victory-in-her-true-colours
+slug: "happy-trafalgar-day-hms-victory-in-her-true-colours"
 excerpt: "Happy Trafalgar Day! Today is the 210th anniversary of the overwhelming Royal Navy victory over the French and Spanish fleet off Cape Trafalgar on 21 October 1805.  After considerable research, Admiral Nelson’s flagship HMS Victory has now been repainted to more accurately … Continue reading &rarr;"
 categories:
   - "Current"

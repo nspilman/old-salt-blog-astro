@@ -1,8 +1,8 @@
 ---
-title: "“Love, Love” – Disaster, Art or Just Fun?"
+title: "\"Love, Love\" – Disaster, Art or Just Fun?"
 date: 2010-11-04T07:20:47
-slug: love-love-disaster-art-or-just-fun
-excerpt: "Julien Berthier is  a sculptor and a conceptual artist.  His work titled “Love, Love” is not in fact a sinking sailboat, appearances to the contrary notwithstanding.   Bertheir started with a 6.5 meter yacht which he cut in half and … Continue reading &rarr;"
+slug: "love-love-disaster-art-or-just-fun"
+excerpt: "Julien Berthier is  a sculptor and a conceptual artist.  His work titled \"Love, Love\" is not in fact a sinking sailboat, appearances to the contrary notwithstanding.   Bertheir started with a 6.5 meter yacht which he cut in half and … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Love Love"
   - "sinking sailboat"
 author: "Rick Spilman"
-description: "Julien Berthier is  a sculptor and a conceptual artist.  His work titled “Love, Love” is not in fact a sinking sailboat, appearances to the contrary notwithstanding.   Bertheir started with a 6.5 meter yacht which he cut in half and … Continue reading &rarr;"
+description: "Julien Berthier is  a sculptor and a conceptual artist.  His work titled \"Love, Love\" is not in fact a sinking sailboat, appearances to the contrary notwithstanding.   Bertheir started with a 6.5 meter yacht which he cut in half and … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/jb1.jpg)

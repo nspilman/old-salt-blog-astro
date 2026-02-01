@@ -1,7 +1,7 @@
 ---
 title: "MOL Signs Deal For New Wind Challenger Sail Assisted Collier"
 date: 2020-12-11T17:57:07
-slug: mol-signs-deal-for-new-wind-challenger-sail-assisted-collier
+slug: "mol-signs-deal-for-new-wind-challenger-sail-assisted-collier"
 excerpt: "Mitsui O.S.K. Lines, Ltd. (MOL) has reached a coal transport deal with Tohoku Electric Power Co., Inc., which will use a new 99,000 DWT collier equipped with a retractable wing sail propulsion system, known as the Wind Challenger. Construction of … Continue reading &rarr;"
 categories:
   - "Current"

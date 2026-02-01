@@ -1,7 +1,7 @@
 ---
 title: "Are the Chinese Still Haunted by HEIC Nemesis – the Devil Ship?"
 date: 2011-01-21T16:52:15
-slug: are-the-chinese-still-haunted-by-heic-nemesis-the-devil-ship
+slug: "are-the-chinese-still-haunted-by-heic-nemesis-the-devil-ship"
 excerpt: "In 1840, when she arrived off their coast,  the Chinese called the Honourable East India Company ship Nemesis, the devil ship.   She was the first British ocean-going iron warship.  In addition to two masts, she was powered by two two sixty … Continue reading &rarr;"
 categories:
   - "Current"

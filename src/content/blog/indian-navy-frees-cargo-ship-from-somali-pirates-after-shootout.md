@@ -1,7 +1,7 @@
 ---
 title: "Indian Navy Frees Cargo Ship From Somali Pirates After Shootout"
 date: 2024-03-19T19:13:22
-slug: indian-navy-frees-cargo-ship-from-somali-pirates-after-shootout
+slug: "indian-navy-frees-cargo-ship-from-somali-pirates-after-shootout"
 excerpt: "The Voice of America reports that the Indian navy freed the hijacked MV Ruen cargo ship in Somalia’s Puntland region Saturday after a 24-hour standoff and shootout, and it has detained 35 pirates, according to Puntland Ports Minister Ahmed Yasin Salah. … Continue reading &rarr;"
 categories:
   - "Current"

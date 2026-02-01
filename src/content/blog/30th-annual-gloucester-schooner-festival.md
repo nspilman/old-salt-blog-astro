@@ -1,7 +1,7 @@
 ---
 title: "30th Annual Gloucester Schooner Festival"
 date: 2014-08-28T11:01:12
-slug: 30th-annual-gloucester-schooner-festival
+slug: "30th-annual-gloucester-schooner-festival"
 excerpt: "The schooners start arriving in Gloucester, MA tomorrow for the 30th Annual Gloucester Schooner Festival.  Twenty three schooners are participating this year. The US Coast Guard barque Eagle, while definitely not a schooner, will also be visiting. On Saturday, the schooners will … Continue reading &rarr;"
 categories:
   - "Current"

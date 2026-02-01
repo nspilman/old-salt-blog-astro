@@ -1,7 +1,7 @@
 ---
 title: "Surfing Ducks From Around the World"
 date: 2021-01-30T12:41:10
-slug: surfing-ducks-around-the-world
+slug: "surfing-ducks-around-the-world"
 excerpt: "Here is a heartwarming video for a cold Saturday (at least cold here on the West bank of the Hudson River.)  A body surfing pet duck on Australia’s Gold Coast has become a local celebrity for riding the waves. Kate … Continue reading &rarr;"
 categories:
   - "Current"

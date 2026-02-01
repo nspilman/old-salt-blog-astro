@@ -1,7 +1,7 @@
 ---
 title: "1945 U.S. ARMY Battle Tug For Sale"
 date: 2009-09-02T07:05:05
-slug: 1945-u-s-army-battle-tug-for-sale
+slug: "1945-u-s-army-battle-tug-for-sale"
 excerpt: "Thanks to Dave Shirlaw on MARHST-L for pointing out a fascinating vessel for sale on E-Bay.  The vessel is a steel tug, ST 893, built by JK Welding of Brooklyn, NY in 1945.   The tug is said to have served in … Continue reading &rarr;"
 categories:
   - "Current"

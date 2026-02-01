@@ -1,7 +1,7 @@
 ---
 title: "Time Bomb in the Thames — Removing the Masts from the SS Richard Montgomery"
 date: 2020-05-30T15:40:13
-slug: timebomb-in-the-thames-removing-the-masts-from-the-ss-richard-montgomery
+slug: "timebomb-in-the-thames-removing-the-masts-from-the-ss-richard-montgomery"
 excerpt: "Three rusting masts rise from the Thames Estuary, off Sheppy Island, not far from Sheerness. They are the masts that once supported the swinging booms on the Liberty ship USS Richard Montgomery, which sank with a cargo of high explosive … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

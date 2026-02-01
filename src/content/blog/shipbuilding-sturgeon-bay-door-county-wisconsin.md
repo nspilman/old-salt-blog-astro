@@ -1,8 +1,8 @@
 ---
 title: "Shipbuilding in Sturgeon Bay, Door County, Wisconsin"
 date: 2018-01-20T17:57:08
-slug: shipbuilding-sturgeon-bay-door-county-wisconsin
-excerpt: "The Great Lakes are rightly referred to the United State’s “fourth coast.” Here is a fascinating short video about shipbuilding in Sturgeon Bay,  Wisconsin, off Lake Michigan. Historic Door County – Shipbuilding … Continue reading &rarr;"
+slug: "shipbuilding-sturgeon-bay-door-county-wisconsin"
+excerpt: "The Great Lakes are rightly referred to the United State’s \"fourth coast.\" Here is a fascinating short video about shipbuilding in Sturgeon Bay,  Wisconsin, off Lake Michigan. Historic Door County – Shipbuilding … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "Wisconsin"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/01/doorshipb.jpg"
 author: "Rick Spilman"
-description: "The Great Lakes are rightly referred to the United State’s “fourth coast.” Here is a fascinating short video about shipbuilding in Sturgeon Bay,  Wisconsin, off Lake Michigan. Historic Door County – Shipbuilding … Continue reading &rarr;"
+description: "The Great Lakes are rightly referred to the United State’s \"fourth coast.\" Here is a fascinating short video about shipbuilding in Sturgeon Bay,  Wisconsin, off Lake Michigan. Historic Door County – Shipbuilding … Continue reading &rarr;"
 ---
 
 The Great Lakes are rightly referred to the United State’s “fourth coast.” Here is a fascinating short video about shipbuilding in Sturgeon Bay,  Wisconsin, off Lake Michigan.

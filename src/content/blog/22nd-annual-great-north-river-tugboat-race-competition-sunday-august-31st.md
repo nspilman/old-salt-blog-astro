@@ -1,7 +1,7 @@
 ---
 title: "22nd Annual Great North River Tugboat Race & Competition, Sunday August 31st"
 date: 2014-08-26T12:45:50
-slug: 22nd-annual-great-north-river-tugboat-race-competition-sunday-august-31st
+slug: "22nd-annual-great-north-river-tugboat-race-competition-sunday-august-31st"
 excerpt: "The 22nd annual running of the Great North River Tugboat Race and Competition is coming up on Labor Day off Pier 84, which is at West 44th Street and the Hudson River in Manhattan.  The race is sponsored by the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Overhauling the Clipper Stad Amsterdam"
 date: 2013-02-26T13:16:13
-slug: overhauling-the-clipper-stad-amsterdam
+slug: "overhauling-the-clipper-stad-amsterdam"
 excerpt: "It is generally considered rude to look under a lady’s skirt, though when the lady is a ship in a drydock, it is usually OK.   The three masted steel clipper Stad Amsterdam was built in 2000 and now after 13 … Continue reading &rarr;"
 categories:
   - "Current"

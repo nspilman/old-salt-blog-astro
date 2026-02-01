@@ -1,7 +1,7 @@
 ---
 title: "Pyxis Ocean, Sail-Assisted 80,000 DWT Bulk Carrier, Demonstrates Potential of Wind Power"
 date: 2024-03-14T19:34:20
-slug: pyxis-ocean-sail-assisted-80000-dwt-bulk-carrier-demonstrates-potential-of-wind-power
+slug: "pyxis-ocean-sail-assisted-80000-dwt-bulk-carrier-demonstrates-potential-of-wind-power"
 excerpt: "In August, we posted about the Pyxis Ocean, an 80,000 DWT bulk carrier, fitted with two WindWings®, a pioneering rigid wing technology, that had set sail on its maiden voyage from China to Brazil. Now, six months later, Cargill announced the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Death on the Volendam in Lyttelton Harbour  – crew member killed in lifeboat accident"
 date: 2011-01-09T11:07:17
-slug: death-on-the-volendam-in-lyttelton-harbour-a-lifeboat-training-exercise-without-life-jackets
-excerpt: "Update: While originally reported that two crew members were knocked overboard during “a lifeboat training exercise,” it is now being reported that the sailors were performing lifeboat maintenance. The commenter (below) reports that both men were wearing safety harnesses which … Continue reading &rarr;"
+slug: "death-on-the-volendam-in-lyttelton-harbour-a-lifeboat-training-exercise-without-life-jackets"
+excerpt: "Update: While originally reported that two crew members were knocked overboard during \"a lifeboat training exercise,\" it is now being reported that the sailors were performing lifeboat maintenance. The commenter (below) reports that both men were wearing safety harnesses which … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "New Zealand"
   - "Volendam"
 author: "Rick Spilman"
-description: "Update: While originally reported that two crew members were knocked overboard during “a lifeboat training exercise,” it is now being reported that the sailors were performing lifeboat maintenance. The commenter (below) reports that both men were wearing safety harnesses which … Continue reading &rarr;"
+description: "Update: While originally reported that two crew members were knocked overboard during \"a lifeboat training exercise,\" it is now being reported that the sailors were performing lifeboat maintenance. The commenter (below) reports that both men were wearing safety harnesses which … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/lifeboat-1.jpg)

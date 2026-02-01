@@ -1,7 +1,7 @@
 ---
 title: "Plastiki arrives in Sydney after Pacific Crossing"
 date: 2010-07-26T14:22:38
-slug: plastiki-arrives-in-sydney-after-pacific-crossing
+slug: "plastiki-arrives-in-sydney-after-pacific-crossing"
 excerpt: "We have previously posted about the experimental sailboat Plastiki, built using  12,500 recycled soda bottles.  The craft sailed last March from San Francisco and has now arrived in Sydney, Australia after a voyage of 9,000 miles (15,000 km.) Boat made from plastic bottles completes Pacific voyage … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Submarine is Raised but the Mystery Deepens — Where is Kim Wall?"
 date: 2017-08-14T07:47:44
-slug: submarine-raised-mystery-deepens-kim-wall
+slug: "submarine-raised-mystery-deepens-kim-wall"
 excerpt: "On Saturday, we posted that the Danish inventor Peter Madsen has been held on suspicion of murder following the disappearance of Kim Wall, a Swedish journalist, and the sinking of the privately owned submarine UC3 Nautilus on Friday off Denmark. Madsen claimed that he … Continue reading &rarr;"
 categories:
   - "Current"

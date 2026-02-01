@@ -1,7 +1,7 @@
 ---
 title: "Lift Boat SEACOR Power Capsizes in Gulf — a Dozen Missing"
 date: 2021-04-14T10:35:24
-slug: lift-boat-seacor-power-capsizes-in-gulf-a-dozen-missing
+slug: "lift-boat-seacor-power-capsizes-in-gulf-a-dozen-missing"
 excerpt: "The lift boat SEACOR Power capsized in the Gulf of Mexico in high winds. The 129′ vessel, used in oil and gas exploration, capsized eight miles from Port Fourchon, Louisiana, on Tuesday afternoon. Eighteen were reported to be aboard the … Continue reading &rarr;"
 categories:
   - "Current"

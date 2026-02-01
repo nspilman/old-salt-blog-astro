@@ -1,7 +1,7 @@
 ---
 title: "Sailing on the Schooner A.J. Meerwald in New York Harbor"
 date: 2009-07-12T09:11:24
-slug: sailing-on-the-schooner-a-j-meerwald-in-new-york-harbor
+slug: "sailing-on-the-schooner-a-j-meerwald-in-new-york-harbor"
 excerpt: "A short video of sailing on the schooner A.J. Meerwald in New York harbor. The A. J. Meerwald is a Delaware Bay oyster schooner launched in 1928. Sailing on the Schooner A.J. Meerwald in New York Harbour … Continue reading &rarr;"
 categories:
   - "Current"

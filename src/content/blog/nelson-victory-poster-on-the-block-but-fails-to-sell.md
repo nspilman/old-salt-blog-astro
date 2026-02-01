@@ -1,7 +1,7 @@
 ---
 title: "Nelson Victory Poster on the Block but Fails to Sell"
 date: 2010-09-11T08:10:20
-slug: nelson-victory-poster-on-the-block-but-fails-to-sell
+slug: "nelson-victory-poster-on-the-block-but-fails-to-sell"
 excerpt: "An historic poster that originally sold for just a tuppence to celebrate Lord Nelson’s victory over the French and Spanish fleets at the Battle of Trafalgar went on the auction block this week. It was expected to fetch £40,000 but bids failed … Continue reading &rarr;"
 categories:
   - "History"

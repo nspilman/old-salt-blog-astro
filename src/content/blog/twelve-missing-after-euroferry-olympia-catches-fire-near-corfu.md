@@ -1,7 +1,7 @@
 ---
 title: "Twelve Missing After Euroferry Olympia Catches Fire Near Corfu"
 date: 2022-02-19T15:33:59
-slug: twelve-missing-after-euroferry-olympia-catches-fire-near-corfu
+slug: "twelve-missing-after-euroferry-olympia-catches-fire-near-corfu"
 excerpt: "This has been a bad week for shipboard fires. The car carrier Felicity Ace caught fire Wednesday in the Atlantic, off the Azores, and is still burning and adrift, awaiting salvage tugs. Fortunately, the 22 person crew was evacuated safely. … Continue reading &rarr;"
 categories:
   - "Current"

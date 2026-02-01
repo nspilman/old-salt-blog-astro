@@ -1,7 +1,7 @@
 ---
 title: "175th Australia Day Regatta"
 date: 2011-01-26T22:03:44
-slug: 175th-australia-day-regatta
+slug: "175th-australia-day-regatta"
 excerpt: "The Australia Day Regatta was held today in Sydney harbor and featured more than 50 classic wooden yachts, many gaff-rigged, and several built more than a century ago. The Australia Day Regatta is the oldest continuously-conducted annual sailing regatta in … Continue reading &rarr;"
 categories:
   - "Current"

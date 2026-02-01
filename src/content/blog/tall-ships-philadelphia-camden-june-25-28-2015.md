@@ -1,7 +1,7 @@
 ---
 title: "Tall Ships Philadelphia – Camden June 25-28, 2015"
 date: 2014-12-09T08:40:12
-slug: tall-ships-philadelphia-camden-june-25-28-2015
+slug: "tall-ships-philadelphia-camden-june-25-28-2015"
 excerpt: "Tall Ships Philadelphia – Camden is being held on June 25-28, 2015 on the Delaware River.  Normally I wouldn’t post about an event so far in the future, but the tickets for the event have now gone on sale.  So … Continue reading &rarr;"
 categories:
   - "Current"

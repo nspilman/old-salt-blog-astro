@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup — Will the Soap Opera Ruin the Race?"
 date: 2015-04-26T16:11:58
-slug: americas-cup-will-the-soap-opera-ruin-the-race
+slug: "americas-cup-will-the-soap-opera-ruin-the-race"
 excerpt: "The America’s Cup soap opera continues, with all the twists and turns one might expect and few that are a complete surprise.  As in any soap opera, it has its share of betrayals, broken promises, jilted lovers, illicit liaisons and the … Continue reading &rarr;"
 categories:
   - "Current"

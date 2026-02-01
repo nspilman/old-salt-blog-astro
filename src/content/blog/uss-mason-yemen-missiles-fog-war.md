@@ -1,8 +1,8 @@
 ---
-title: "USS Mason, Yemen, Missiles and the “Fog of War”"
+title: "USS Mason, Yemen, Missiles and the \"Fog of War\""
 date: 2016-10-17T14:03:57
-slug: uss-mason-yemen-missiles-fog-war
-excerpt: "Clausewitz wrote of the “fog of war.” Recent events in the Gulf of Yemen and the Red Sea are a good example of what he meant.  The USS Mason, an Arleigh Burke-class destroyer, may have been attacked on Saturday, October 8th, … Continue reading &rarr;"
+slug: "uss-mason-yemen-missiles-fog-war"
+excerpt: "Clausewitz wrote of the \"fog of war.\" Recent events in the Gulf of Yemen and the Red Sea are a good example of what he meant.  The USS Mason, an Arleigh Burke-class destroyer, may have been attacked on Saturday, October 8th, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Yemen"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/10/ussmason.jpg"
 author: "Rick Spilman"
-description: "Clausewitz wrote of the “fog of war.” Recent events in the Gulf of Yemen and the Red Sea are a good example of what he meant.  The USS Mason, an Arleigh Burke-class destroyer, may have been attacked on Saturday, October 8th, … Continue reading &rarr;"
+description: "Clausewitz wrote of the \"fog of war.\" Recent events in the Gulf of Yemen and the Red Sea are a good example of what he meant.  The USS Mason, an Arleigh Burke-class destroyer, may have been attacked on Saturday, October 8th, … Continue reading &rarr;"
 ---
 
 ![ussmason](http://www.oldsaltblog.com/wp-content/uploads/2016/10/ussmason.jpg)Clausewitz wrote of the “[fog of war](https://en.wikipedia.org/wiki/Fog_of_war).” Recent events in the Gulf of Yemen and the Red Sea are a good example of what he meant.  The [USS *Mason,*](https://en.wikipedia.org/wiki/USS_Mason_\(DDG-87\)) an Arleigh Burke-class destroyer, [may have been attacked](http://www.cnn.com/2016/10/15/politics/uss-mason-fired-on-again/) on Saturday, October 8th, off the coast of Yemen by anti-ship cruise missiles for the third time in a week. The ship was not hit.  In response to the possible attacks, the destroyer [USS *Nitze*](https://en.wikipedia.org/wiki/USS_Nitze) (DDG-94) fired Tomahawk missiles at three Houthi radar sites believed to have been used help target the anti-ship missiles. The Tomahawk strikes raised concerns that the US might be getting drawn into the Yemeni civil war. One critical question remains unanswered, however, — did the attacks actually take place?

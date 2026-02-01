@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ships and the Coronavirus — the Crews Pay the Price"
 date: 2020-03-16T17:16:27
-slug: cruise-ships-and-the-coronavirus-the-crews-pay-the-price
+slug: "cruise-ships-and-the-coronavirus-the-crews-pay-the-price"
 excerpt: "While there is an understandable concern for the passengers on cruise ships struck by the coronavirus, the crews are often overlooked. What challenges do they face and what happens to them when the last passengers leave the ships? Nowhere to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

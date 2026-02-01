@@ -1,7 +1,7 @@
 ---
 title: "Update: Liberty Ship John W. Brown May Find Home at Yard Where it Was Built"
 date: 2020-01-02T16:03:42
-slug: update-liberty-ship-john-w-brown-may-find-home-at-yard-where-it-was-built
+slug: "update-liberty-ship-john-w-brown-may-find-home-at-yard-where-it-was-built"
 excerpt: "As we have previously posted, the restored Liberty ship, John W. Brown, was at risk of becoming homeless when its five-year agreement for berthing at Rukert Terminals’ Pier C in Canton, Maryland expired last September. Now, if all goes well, … Continue reading &rarr;"
 categories:
   - "Current"

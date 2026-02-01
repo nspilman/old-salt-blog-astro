@@ -1,7 +1,7 @@
 ---
 title: "Liberty Ship SS John W. Brown Steaming Home to Baltimore"
 date: 2014-12-06T09:32:25
-slug: liberty-ship-ss-john-w-brown-steaming-home-to-baltimore
+slug: "liberty-ship-ss-john-w-brown-steaming-home-to-baltimore"
 excerpt: "After spending a month on dock at Colonna’s Shipyard in Norfolk, VA, the Liberty ship SS John W. Brown  is now steaming up the Elizabeth River on its way back home to Baltimore.  During World War II, eighteen American shipyards built … Continue reading &rarr;"
 categories:
   - "Current"

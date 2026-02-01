@@ -1,7 +1,7 @@
 ---
 title: "More Illegal Wreck Salvaging — Japanese WWII Shipwrecks off Borneo"
 date: 2017-02-09T14:08:17
-slug: illegal-wreck-salvaging-japanese-wwii-shipwrecks-off-borneo
+slug: "illegal-wreck-salvaging-japanese-wwii-shipwrecks-off-borneo"
 excerpt: "Last November, we posted about the wrecks of three Dutch World War IIship wrecks in the Java Sea that have apparently vanished.   The three ships; the HNLMS De Ruyter, HNLMS Java and HNLMS Kortenaer;  had been in waters 70 meters … Continue reading &rarr;"
 categories:
   - "Current"

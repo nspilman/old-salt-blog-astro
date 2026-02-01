@@ -1,7 +1,7 @@
 ---
 title: "Remembering the USS Narwhal, Once the Navy’s Stealthiest Submarine"
 date: 2021-01-08T20:18:12
-slug: remembering-the-uss-narwhal-once-the-navys-stealthiest-submarine
+slug: "remembering-the-uss-narwhal-once-the-navys-stealthiest-submarine"
 excerpt: "Last October, the Puget Sound Naval Shipyard completed the year-long dismantling of the US Navy nuclear-powered attack submarine USS Narwhal (SSN-671). Commissioned in 1969, the submarine was a one-of-a-kind, an experimental design that would become one of the most successful … Continue reading &rarr;"
 categories:
   - "History"

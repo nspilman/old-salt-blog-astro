@@ -1,7 +1,7 @@
 ---
 title: "One Hundred Ninety-Nine Years Ago Today – The London Beer Flood of 1814"
 date: 2013-10-17T09:53:46
-slug: weird-deadly-floods-part-2-london-beer-flood-1814
+slug: "weird-deadly-floods-part-2-london-beer-flood-1814"
 excerpt: "Toward the end of September, we posted about Matson’s molasses spill in Hawaii and then the Great Boston Molasses Flood of 1919. We would be remiss if we did not also post about the London Beer Flood which occurred on … Continue reading &rarr;"
 categories:
   - "History"

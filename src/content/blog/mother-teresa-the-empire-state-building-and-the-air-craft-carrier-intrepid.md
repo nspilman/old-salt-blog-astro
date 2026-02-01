@@ -1,7 +1,7 @@
 ---
 title: "Mother Teresa, the Empire State building, and the Aircraft Carrier Intrepid"
 date: 2010-06-16T09:16:33
-slug: mother-teresa-the-empire-state-building-and-the-air-craft-carrier-intrepid
+slug: "mother-teresa-the-empire-state-building-and-the-air-craft-carrier-intrepid"
 excerpt: "This August 26th will be the one hundredth anniversary of Mother Teresa‘s birth.  The Empire State Building in New York City changes its lighting for major holidays and special events.  The Catholic League has requested that the building be lit blue and … Continue reading &rarr;"
 categories:
   - "Current"

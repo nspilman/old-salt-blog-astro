@@ -1,7 +1,7 @@
 ---
 title: "New Zealand Model Fleets to do Battle"
 date: 2011-03-24T12:07:15
-slug: new-zealand-model-fleets-to-do-battle
+slug: "new-zealand-model-fleets-to-do-battle"
 excerpt: "This Sunday a grand of fleet of miniature ships will sail the lake at East Tamaki, a suburb of Auckland, New Zealand.  The event is being hosted by Task Force 48, a group of radio-controlled model ship enthusiasts. Model boats battle The 1:48 scale … Continue reading &rarr;"
 categories:
   - "Current"

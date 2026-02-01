@@ -1,8 +1,8 @@
 ---
-title: "The “Gresham Ship’’ –  Elizabethan Shipwreck on the Move"
+title: "The \"Gresham Ship’’ –  Elizabethan Shipwreck on the Move"
 date: 2012-05-25T10:11:08
-slug: the-gresham-ship-elizabethan-shipwreck-on-the-move
-excerpt: "Shipwrecks tend to be pretty stationary. They are not prone to wandering about.  Now, however, an Elizabethan shipwreck dating from 1574, which was recovered from the River Thames in 2003, is on the move.  The remains of  the 16th-century “Gresham … Continue reading &rarr;"
+slug: "the-gresham-ship-elizabethan-shipwreck-on-the-move"
+excerpt: "Shipwrecks tend to be pretty stationary. They are not prone to wandering about.  Now, however, an Elizabethan shipwreck dating from 1574, which was recovered from the River Thames in 2003, is on the move.  The remains of  the 16th-century \"Gresham … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "Princes Channel"
   - "River Thames"
 author: "Rick Spilman"
-description: "Shipwrecks tend to be pretty stationary. They are not prone to wandering about.  Now, however, an Elizabethan shipwreck dating from 1574, which was recovered from the River Thames in 2003, is on the move.  The remains of  the 16th-century “Gresham … Continue reading &rarr;"
+description: "Shipwrecks tend to be pretty stationary. They are not prone to wandering about.  Now, however, an Elizabethan shipwreck dating from 1574, which was recovered from the River Thames in 2003, is on the move.  The remains of  the 16th-century \"Gresham … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/cannon_marked_with_initials_of_Sir_Thomas_Gresham_tn.jpg)

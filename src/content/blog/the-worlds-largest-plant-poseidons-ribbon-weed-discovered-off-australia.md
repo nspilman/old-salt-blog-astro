@@ -1,7 +1,7 @@
 ---
 title: "The World’s Largest Plant, Poseidon’s Ribbon Weed, Discovered Off Australia"
 date: 2022-06-02T17:58:22
-slug: the-worlds-largest-plant-poseidons-ribbon-weed-discovered-off-australia
+slug: "the-worlds-largest-plant-poseidons-ribbon-weed-discovered-off-australia"
 excerpt: "Australian researchers were performing a genetic survey of Poseidon’s ribbon weed (Posidonia australis), a species of seagrass growing widely in Shark Bay, off the westernmost tip of Australia. Researchers collected shoots from across the bay and examined 18,000 genetic markers … Continue reading &rarr;"
 categories:
   - "Current"

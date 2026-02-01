@@ -1,7 +1,7 @@
 ---
 title: "Search for Lost Containers Reveals 16th Century Shipwreck"
 date: 2019-04-04T18:33:33
-slug: search-for-lost-containers-reveals-16th-century-shipwreck
+slug: "search-for-lost-containers-reveals-16th-century-shipwreck"
 excerpt: "In early January, we posted about the containership ship MSC Zoe which lost 350 containers over the side in a storm off the Frisian Islands of the Netherlands. Now, a Dutch salvage team, looking for lost containers from the Zoe, … Continue reading &rarr;"
 categories:
   - "Current"

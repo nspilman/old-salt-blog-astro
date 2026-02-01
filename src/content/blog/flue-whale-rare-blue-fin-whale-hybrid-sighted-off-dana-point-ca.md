@@ -1,8 +1,8 @@
 ---
 title: "Flue Whale: Rare Blue-Fin Whale Hybrid Sighted Off Dana Point, CA"
 date: 2021-06-10T17:47:48
-slug: flue-whale-rare-blue-fin-whale-hybrid-sighted-off-dana-point-ca
-excerpt: "The Orange County Register had an interesting article recently. They reported that last Saturday a whale-watching boat reported seeing what they believe to be a “flue” whale, a hybrid blue-fin whale, swimming off Dana Point, CA. The whale has been … Continue reading &rarr;"
+slug: "flue-whale-rare-blue-fin-whale-hybrid-sighted-off-dana-point-ca"
+excerpt: "The Orange County Register had an interesting article recently. They reported that last Saturday a whale-watching boat reported seeing what they believe to be a \"flue\" whale, a hybrid blue-fin whale, swimming off Dana Point, CA. The whale has been … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Flue Whale"
   - "hybrid"
 author: "Rick Spilman"
-description: "The Orange County Register had an interesting article recently. They reported that last Saturday a whale-watching boat reported seeing what they believe to be a “flue” whale, a hybrid blue-fin whale, swimming off Dana Point, CA. The whale has been … Continue reading &rarr;"
+description: "The Orange County Register had an interesting article recently. They reported that last Saturday a whale-watching boat reported seeing what they believe to be a \"flue\" whale, a hybrid blue-fin whale, swimming off Dana Point, CA. The whale has been … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/06/flue-whale.jpg)

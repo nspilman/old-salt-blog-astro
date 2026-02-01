@@ -1,7 +1,7 @@
 ---
 title: "Car Carrier Don Quijote <del>Tilting at Windmills</del> Knocks Over Bremerhaven Shipyard Crane"
 date: 2023-07-11T18:11:25
-slug: car-carrier-don-quijote-tilting-at-windmills-knocks-over-bremerhaven-shipyard-crane
+slug: "car-carrier-don-quijote-tilting-at-windmills-knocks-over-bremerhaven-shipyard-crane"
 excerpt: "In Miguel de Cervantes’ epic novel Don Quixote, the namesake hero mistakes a row of windmills for evil giants and launches a bold, if comically unsuccessful, attack.  The windmills win, as the errant knight is swatted from his steed by … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

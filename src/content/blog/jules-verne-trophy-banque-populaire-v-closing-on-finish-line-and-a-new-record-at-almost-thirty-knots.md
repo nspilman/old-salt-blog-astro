@@ -1,7 +1,7 @@
 ---
 title: "Jules Verne Trophy : Banque Populaire V – Closing on Finish Line and a New World Record at Almost Thirty Knots"
 date: 2012-01-06T16:57:24
-slug: jules-verne-trophy-banque-populaire-v-closing-on-finish-line-and-a-new-record-at-almost-thirty-knots
+slug: "jules-verne-trophy-banque-populaire-v-closing-on-finish-line-and-a-new-record-at-almost-thirty-knots"
 excerpt: "Update:  Banque Populaire V crossed the line at 45 days, 13 hours, 42 minutes, 53 seconds, beating the previous record by 2 days and 18 hours.  An amazing performance by Captain Loick Peyron and his crew. Our heartiest congratulations. The live satellite map shows the … Continue reading &rarr;"
 categories:
   - "Current"

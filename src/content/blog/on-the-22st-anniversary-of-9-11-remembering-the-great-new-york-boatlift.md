@@ -1,8 +1,8 @@
 ---
 title: "On the 22st Anniversary of 9/11, Remembering the Great New York Boatlift"
 date: 2023-09-11T11:42:17
-slug: on-the-22st-anniversary-of-9-11-remembering-the-great-new-york-boatlift
-excerpt: "An updated repost. There is a line from a Paul Simon song, “these are the days of miracle and wonder.” One might not think to apply that lyric to the events of 9/11, 22 years ago today. Yet for at … Continue reading &rarr;"
+slug: "on-the-22st-anniversary-of-9-11-remembering-the-great-new-york-boatlift"
+excerpt: "An updated repost. There is a line from a Paul Simon song, \"these are the days of miracle and wonder.\" One might not think to apply that lyric to the events of 9/11, 22 years ago today. Yet for at … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -17,7 +17,7 @@ tags:
   - "World Trade Center"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/boatlift1.jpg"
 author: "Rick Spilman"
-description: "An updated repost. There is a line from a Paul Simon song, “these are the days of miracle and wonder.” One might not think to apply that lyric to the events of 9/11, 22 years ago today. Yet for at … Continue reading &rarr;"
+description: "An updated repost. There is a line from a Paul Simon song, \"these are the days of miracle and wonder.\" One might not think to apply that lyric to the events of 9/11, 22 years ago today. Yet for at … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/boatlift1.jpg)An updated repost. There is a line from a Paul Simon song, “*these are the days of miracle and wonder.*” One might not think to apply that lyric to the events of 9/11, 22 years ago today. Yet for at least part of that strange and horrible day, they fit.

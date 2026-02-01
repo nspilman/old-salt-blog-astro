@@ -1,8 +1,8 @@
 ---
 title: "Update: Admiral Confirms Nuclear Submarine Ekaterinburg Fully Armed During Fire"
 date: 2012-02-26T09:14:00
-slug: update-admiral-confirms-nuclear-submarine-ekaterinburg-on-fire-was-armed
-excerpt: "Last week we posted about a report by to the Russian magazine Vlast  that claimed that “Russia [was] … on the verge of the largest man-made disaster since Chernobyl” when a fire broke out on December 29th, 2011 on the K-84 Ekaterinburg, a … Continue reading &rarr;"
+slug: "update-admiral-confirms-nuclear-submarine-ekaterinburg-on-fire-was-armed"
+excerpt: "Last week we posted about a report by to the Russian magazine Vlast  that claimed that \"Russia [was] … on the verge of the largest man-made disaster since Chernobyl\" when a fire broke out on December 29th, 2011 on the K-84 Ekaterinburg, a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Russian nuclear-powered ballistic missile submarine"
   - "Vice Admiral Aleksander Vitko"
 author: "Rick Spilman"
-description: "Last week we posted about a report by to the Russian magazine Vlast  that claimed that “Russia [was] … on the verge of the largest man-made disaster since Chernobyl” when a fire broke out on December 29th, 2011 on the K-84 Ekaterinburg, a … Continue reading &rarr;"
+description: "Last week we posted about a report by to the Russian magazine Vlast  that claimed that \"Russia [was] … on the verge of the largest man-made disaster since Chernobyl\" when a fire broke out on December 29th, 2011 on the K-84 Ekaterinburg, a … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/wd2.jpg)Last week [we posted about a report](http://www.oldsaltblog.com/2012/02/14/ekaterinburg-submarine-fire-the-brink-of-the-biggest-catastrophe-since-chernobyl/) by to the Russian magazine *[Vlast](http://www.kommersant.ru/doc/1867264)*  that claimed that “*Russia \[was\] … on the verge of the largest man-made disaster since Chernobyl”* when a fire broke out on December 29th, 2011 on the K-84 *Ekaterinburg*, a Russian nuclear-powered ballistic missile submarine, in a dry-dock in Murmansk.

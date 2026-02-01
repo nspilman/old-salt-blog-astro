@@ -1,7 +1,7 @@
 ---
 title: "Leviathan II & Ocean Thunderer — Death at Sea Lion Rocks"
 date: 2015-10-29T18:38:18
-slug: leviathan-ii-ocean-thunderer-death-at-sea-lion-rocks
+slug: "leviathan-ii-ocean-thunderer-death-at-sea-lion-rocks"
 excerpt: "In 1998, the whale-watching boat Ocean Thunderer was hit by a wave and swamped, throwing all on board — three passengers and one boat operator — into the waters near Sea Lion Rocks, also known as Plover Reefs, off the western … Continue reading &rarr;"
 categories:
   - "Current"

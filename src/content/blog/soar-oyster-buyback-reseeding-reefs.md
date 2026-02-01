@@ -1,7 +1,7 @@
 ---
 title: "SOAR Oyster Buyback Reseeding Reefs"
 date: 2020-12-30T18:16:38
-slug: soar-oyster-buyback-reseeding-reefs
+slug: "soar-oyster-buyback-reseeding-reefs"
 excerpt: "The pandemic has been brutal to the restaurant industry. Likewise, the small-scale oyster growers of Barnegat and Delaware bays have been extremely hard hit as restaurants cut back on their orders or shut down altogether.  One bit of good news, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

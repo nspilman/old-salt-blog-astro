@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Captain Belinda Bennett, First Black Female Cruise Ship Captain"
 date: 2019-08-24T08:55:08
-slug: congratulations-to-captain-belinda-bennett-first-black-female-cruise-ship-captain
+slug: "congratulations-to-captain-belinda-bennett-first-black-female-cruise-ship-captain"
 excerpt: "Congratulations to Captain Belinda Bennett, the first black female captain of a cruise ship.  Captain Bennett has sailed for Windstar Cruise Lines for 14 years and is now in command of the MSY Wind Star, operating in the Caribbean in winter … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Antarctica: Southern Ocean floor mapped in greatest ever detail"
 date: 2022-06-11T10:12:02
-slug: antarctica-southern-ocean-floor-mapped-in-greatest-ever-detail
+slug: "antarctica-southern-ocean-floor-mapped-in-greatest-ever-detail"
 excerpt: "The BBC is reporting that scientists have made the most precise map yet of the mountains, canyons and plains that make up the floor of Antarctica’s encircling Southern Ocean. Covering 48 million sq km (18.5 million sq miles), this chart … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Sailor Twain or the Mermaid in the Hudson by Mark Siegel"
 date: 2012-09-13T12:49:49
-slug: sailor-twain-or-the-mermaid-in-the-hudson-by-mark-siegel
+slug: "sailor-twain-or-the-mermaid-in-the-hudson-by-mark-siegel"
 excerpt: "I have been a fan of Sailor Twain for some time. Sailor Twain, or The Mermaid in the Hudson is a webcomic by Mark Siegel. He has been posting pages online every Monday, Wednesday and Friday, the tale unfolding in … Continue reading &rarr;"
 categories:
   - "Newbooks"

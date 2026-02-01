@@ -1,7 +1,7 @@
 ---
 title: "Historic Tall Ship Zebu Aground, Flooded, on Holyhead Breakwater"
 date: 2021-05-17T13:08:39
-slug: historic-tall-ship-zebu-aground-flooded-on-holyhead-breakwater
+slug: "historic-tall-ship-zebu-aground-flooded-on-holyhead-breakwater"
 excerpt: "This has been a terrible few days for the historic tall ship Zebu.  On Thursday, the 100′ long brigantine, built in Sweden in 1938, encountered unspecified difficulties and had to be towed out of shipping lanes off Wales by the … Continue reading &rarr;"
 categories:
   - "Current"

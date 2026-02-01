@@ -1,7 +1,7 @@
 ---
 title: "Arctic Warming Four Times Faster Than the Rest of the World"
 date: 2022-08-12T16:06:31
-slug: arctic-warming-four-times-faster-than-the-rest-of-the-world
+slug: "arctic-warming-four-times-faster-than-the-rest-of-the-world"
 excerpt: "The rapid warming of the Arctic, a definitive sign of climate change, is occurring even faster than previously described. A new report by the Finnish Meteorological Institute concludes that the Arctic has warmed at about four times the global average … Continue reading &rarr;"
 categories:
   - "Current"

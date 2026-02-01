@@ -1,7 +1,7 @@
 ---
 title: "Kite With the Wind – A Quest to Reclaim the World Speed Record"
 date: 2012-11-24T13:43:51
-slug: kite-with-the-wind-a-quest-to-reclaim-the-world-speed-record
+slug: "kite-with-the-wind-a-quest-to-reclaim-the-world-speed-record"
 excerpt: "When thinking of sailing speed records, the first vessels that come to mind are Alain Thébault’s hydrofoil trimaran, l’Hydroptere or the aptly named VESTAS Sailrocket 2. Both are highly engineered high tech craft which have been under developement for years. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

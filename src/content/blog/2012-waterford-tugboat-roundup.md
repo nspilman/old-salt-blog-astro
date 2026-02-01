@@ -1,7 +1,7 @@
 ---
 title: "2012 Waterford Tugboat Roundup"
 date: 2012-09-04T17:03:13
-slug: 2012-waterford-tugboat-roundup
+slug: "2012-waterford-tugboat-roundup"
 excerpt: "The 20th Annual Great North River Tugboat Race & Competition was again a great success. For full and complete coverage check out Will’s Tugster blog. Great photographs and commentary. For those in the area who still haven’t had your fill of tugboats, you may want to head … Continue reading &rarr;"
 categories:
   - "Current"

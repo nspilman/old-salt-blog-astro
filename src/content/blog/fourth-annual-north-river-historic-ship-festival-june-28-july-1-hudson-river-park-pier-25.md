@@ -1,7 +1,7 @@
 ---
 title: "Fourth Annual North River  Historic Ship Festival  June 28-July 1, Hudson River Park Pier 25"
 date: 2012-06-22T14:45:59
-slug: fourth-annual-north-river-historic-ship-festival-june-28-july-1-hudson-river-park-pier-25
+slug: "fourth-annual-north-river-historic-ship-festival-june-28-july-1-hudson-river-park-pier-25"
 excerpt: "If you are anywhere near New York City next week, the Fourth Annual North River Historic Ship Festival looks like lots of fun.  Hosted by the North River Historic Ship Society, the festival commences Thursday night, June 28th, with an opening party … Continue reading &rarr;"
 categories:
   - "Current"

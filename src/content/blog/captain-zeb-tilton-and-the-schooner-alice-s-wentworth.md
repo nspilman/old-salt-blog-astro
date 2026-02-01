@@ -1,7 +1,7 @@
 ---
 title: "Captain Zeb Tilton and the Schooner Alice S. Wentworth"
 date: 2020-01-27T17:52:43
-slug: captain-zeb-tilton-and-the-schooner-alice-s-wentworth
+slug: "captain-zeb-tilton-and-the-schooner-alice-s-wentworth"
 excerpt: "More than thirty years ago, I sat on the rotting planks of the old Pier 17 in the East River in Manhattan and listened to Bernie Clay and the X-Seaman’s Institute sing a song about the schooner Alice S. Wentworth. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Autonomous Mayflower, Technological Breakthrough or Hazard to Navigation?"
 date: 2020-09-16T16:05:41
-slug: autonomous-mayflower-technological-breakthrough-or-hazard-to-navigation
+slug: "autonomous-mayflower-technological-breakthrough-or-hazard-to-navigation"
 excerpt: "On September 16, 1620, four hundred years ago today, the merchant ship Mayflower set sail from Plymouth, England, bound for the New World with 102 passengers. The mix of religious separatists and entrepreneurs referred to today as Pilgrims would establish … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

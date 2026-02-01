@@ -1,7 +1,7 @@
 ---
 title: "Shell Drilling Rig Kulluk Refloated"
 date: 2013-01-07T09:31:46
-slug: shell-drilling-rig-kulluk-refloated
+slug: "shell-drilling-rig-kulluk-refloated"
 excerpt: "The Shell drilling rig, Kulluck, which broke its towline and was blown aground off Alaska’s Sitkalidak Island on New Year’s Eve, is reported to have been refloated and made ready for a thirty mile tow to the sheltered waters of Kodiak Island’s … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "The Queen Mary 2 – Dirtier than a Queen Ought to Be"
 date: 2011-06-25T08:00:26
-slug: oops-the-queen-mary-2-dirtier-than-a-queen-should-be
-excerpt: "The RMS Queen Mary 2,  flagship of the Cunard fleet,  recently failed a Centers for Disease Control and Prevention’s Vessel Sanitation Program inspection.  A scores of 86 or higher is considered “satisfactory.”  Anything below is considered “not satisfactory.”  The Queen Mary 2 … Continue reading &rarr;"
+slug: "oops-the-queen-mary-2-dirtier-than-a-queen-should-be"
+excerpt: "The RMS Queen Mary 2,  flagship of the Cunard fleet,  recently failed a Centers for Disease Control and Prevention’s Vessel Sanitation Program inspection.  A scores of 86 or higher is considered \"satisfactory.\"  Anything below is considered \"not satisfactory.\"  The Queen Mary 2 … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ categories:
 tags:
   - "RMS Queen Mary 2"
 author: "Rick Spilman"
-description: "The RMS Queen Mary 2,  flagship of the Cunard fleet,  recently failed a Centers for Disease Control and Prevention’s Vessel Sanitation Program inspection.  A scores of 86 or higher is considered “satisfactory.”  Anything below is considered “not satisfactory.”  The Queen Mary 2 … Continue reading &rarr;"
+description: "The RMS Queen Mary 2,  flagship of the Cunard fleet,  recently failed a Centers for Disease Control and Prevention’s Vessel Sanitation Program inspection.  A scores of 86 or higher is considered \"satisfactory.\"  Anything below is considered \"not satisfactory.\"  The Queen Mary 2 … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/06/story.queen_.mary2_.gi_.jpg)The [RMS *Queen Mary 2*](http://www.cunard.com/ships/queen-mary-2/),  flagship of the Cunard fleet,  recently failed a [Centers for Disease Control and Prevention’s Vessel Sanitation Program](http://www.cdc.gov/nceh/vsp/) inspection.  A scores of 86 or higher is considered “satisfactory.”  Anything below is considered “not satisfactory.”  The *Queen Mary 2* received a score of  84.

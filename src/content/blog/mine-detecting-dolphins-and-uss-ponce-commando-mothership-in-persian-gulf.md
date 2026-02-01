@@ -1,8 +1,8 @@
 ---
-title: "Mine-Detecting Dolphins and USS Ponce, Commando “Mothership” in  Persian Gulf?"
+title: "Mine-Detecting Dolphins and USS Ponce, Commando \"Mothership\" in  Persian Gulf?"
 date: 2012-02-03T10:43:50
-slug: mine-detecting-dolphins-and-uss-ponce-commando-mothership-in-persian-gulf
-excerpt: "As Iranian saber-rattling raises tensions around the Straits of Hormuz, the US Navy has cancelled plans to decommission the 40 year old USS Ponce (LPD-15), an Austin-class amphibious transport dock ship.  Instead the ship is reported to be being refitted to operate as a “mothership” … Continue reading &rarr;"
+slug: "mine-detecting-dolphins-and-uss-ponce-commando-mothership-in-persian-gulf"
+excerpt: "As Iranian saber-rattling raises tensions around the Straits of Hormuz, the US Navy has cancelled plans to decommission the 40 year old USS Ponce (LPD-15), an Austin-class amphibious transport dock ship.  Instead the ship is reported to be being refitted to operate as a \"mothership\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Mine-Detecting"
   - "USS Ponce"
 author: "Rick Spilman"
-description: "As Iranian saber-rattling raises tensions around the Straits of Hormuz, the US Navy has cancelled plans to decommission the 40 year old USS Ponce (LPD-15), an Austin-class amphibious transport dock ship.  Instead the ship is reported to be being refitted to operate as a “mothership” … Continue reading &rarr;"
+description: "As Iranian saber-rattling raises tensions around the Straits of Hormuz, the US Navy has cancelled plans to decommission the 40 year old USS Ponce (LPD-15), an Austin-class amphibious transport dock ship.  Instead the ship is reported to be being refitted to operate as a \"mothership\" … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/USS_Ponce_LPD_15.jpg)

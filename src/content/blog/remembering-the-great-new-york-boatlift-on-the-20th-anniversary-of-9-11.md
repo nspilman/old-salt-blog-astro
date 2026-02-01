@@ -1,8 +1,8 @@
 ---
 title: "Remembering the Great New York Boatlift on the 20th Anniversary of 9/11"
 date: 2021-09-11T10:26:14
-slug: remembering-the-great-new-york-boatlift-on-the-20th-anniversary-of-9-11
-excerpt: "An updated repost. There is a line from a Paul Simon song, “these are the days of miracle and wonder.” One might not think to apply that lyric to the events of 9/11, twenty years ago today, and yet for … Continue reading &rarr;"
+slug: "remembering-the-great-new-york-boatlift-on-the-20th-anniversary-of-9-11"
+excerpt: "An updated repost. There is a line from a Paul Simon song, \"these are the days of miracle and wonder.\" One might not think to apply that lyric to the events of 9/11, twenty years ago today, and yet for … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "New York Boatlift"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/boatlift1.jpg"
 author: "Rick Spilman"
-description: "An updated repost. There is a line from a Paul Simon song, “these are the days of miracle and wonder.” One might not think to apply that lyric to the events of 9/11, twenty years ago today, and yet for … Continue reading &rarr;"
+description: "An updated repost. There is a line from a Paul Simon song, \"these are the days of miracle and wonder.\" One might not think to apply that lyric to the events of 9/11, twenty years ago today, and yet for … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/boatlift1.jpg)An updated repost. There is a line from a Paul Simon song, “these are the days of miracle and wonder.” One might not think to apply that lyric to the events of 9/11, twenty years ago today, and yet for at least part of that strange and horrible day, they fit. The great [New York boatlift](https://news.usni.org/2014/07/23/coast-guard-led-9-11-water-evacuation-bigger-dunkirk) was part of the “miracle and wonder.” The wholly unplanned, boatlift was the spontaneous maritime evacuation of an estimated 500,000 people trapped in Lower Manhattan in less than 10 hours. The boatlift has been under-reported by the media, which is all the more reason to remember the mariners of New York who stepped up to perform what has been called the largest sea rescue in history.

@@ -1,7 +1,7 @@
 ---
 title: "World’s biggest wave energy site off Cornish coast set to go live"
 date: 2010-09-13T15:17:42
-slug: worlds-biggest-wave-energy-site-off-cornish-coast-set-to-go-live
+slug: "worlds-biggest-wave-energy-site-off-cornish-coast-set-to-go-live"
 excerpt: "Last week we posted about Ocean Power Technologies (OPT) installation of  offshore buoys off the coast of Oregon  to capture and convert wave energy into electricity.   It appears that they will also be playing a key role in the world’s largest wave energy … Continue reading &rarr;"
 categories:
   - "Current"

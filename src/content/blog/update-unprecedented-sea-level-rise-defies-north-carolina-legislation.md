@@ -1,7 +1,7 @@
 ---
-title: "Update: “Unprecedented” Sea Level Rise Defies North Carolina Legislation"
+title: "Update: \"Unprecedented\" Sea Level Rise Defies North Carolina Legislation"
 date: 2023-04-25T19:12:15
-slug: update-unprecedented-sea-level-rise-defies-north-carolina-legislation
+slug: "update-unprecedented-sea-level-rise-defies-north-carolina-legislation"
 excerpt: "Just over a decade ago, we posted about how legislators in North Carolina passed a law that banned the state from basing coastal policies on the latest scientific predictions of how much the sea level will rise. The law required … Continue reading &rarr;"
 categories:
   - "Current"

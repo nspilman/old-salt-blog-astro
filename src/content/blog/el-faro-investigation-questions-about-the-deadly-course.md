@@ -1,7 +1,7 @@
 ---
 title: "El Faro Investigation — Questions About the Deadly Course"
 date: 2016-02-18T19:09:23
-slug: el-faro-investigation-questions-about-the-deadly-course
+slug: "el-faro-investigation-questions-about-the-deadly-course"
 excerpt: "Why did Captain Michael Davidson set a course that brought his ship, El Faro, into the path of Hurricane Joaquin last October with tragic results? That question, for which we many never have a fully satisfactory answer, has been at the core … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

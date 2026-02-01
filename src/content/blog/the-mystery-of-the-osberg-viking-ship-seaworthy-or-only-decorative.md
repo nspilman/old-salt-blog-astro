@@ -1,7 +1,7 @@
 ---
 title: "The Mystery of the Osberg Viking Ship – Seaworthy or Only Decorative ?"
 date: 2012-03-19T09:20:01
-slug: the-mystery-of-the-osberg-viking-ship-seaworthy-or-only-decorative
+slug: "the-mystery-of-the-osberg-viking-ship-seaworthy-or-only-decorative"
 excerpt: "In 1904 and 1905, archaeologists Haakon Shetelig and Gabriel Gustafson excavated a burial mound at the Oseberg farm near Tønsberg in Vestfold county, Norway that contained a well-preserved Viking ship.   The Osberg ship was reconstructed and has became Norway’s largest tourist … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Sponges — Mother of Us All?"
 date: 2014-03-30T15:36:58
-slug: sponges-mother-of-us-all
-excerpt: "All terrestrial life came from the sea, but how did life develop in the ocean? Professor Tim Lenton of the University of Exeter, who led a new study, said: “There had been enough oxygen in ocean surface waters for over 1.5 … Continue reading &rarr;"
+slug: "sponges-mother-of-us-all"
+excerpt: "All terrestrial life came from the sea, but how did life develop in the ocean? Professor Tim Lenton of the University of Exeter, who led a new study, said: \"There had been enough oxygen in ocean surface waters for over 1.5 … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "Tim Lenton"
   - "University of Exeter"
 author: "Rick Spilman"
-description: "All terrestrial life came from the sea, but how did life develop in the ocean? Professor Tim Lenton of the University of Exeter, who led a new study, said: “There had been enough oxygen in ocean surface waters for over 1.5 … Continue reading &rarr;"
+description: "All terrestrial life came from the sea, but how did life develop in the ocean? Professor Tim Lenton of the University of Exeter, who led a new study, said: \"There had been enough oxygen in ocean surface waters for over 1.5 … Continue reading &rarr;"
 ---
 
 ![1sponge](http://www.oldsaltblog.com/wp-content/uploads/2014/03/1sponge.jpg)All terrestrial life came from the sea, but how did life develop in the ocean? [Professor Tim Lenton](http://geography.exeter.ac.uk/staff/index.php?web_id=Timothy_Lenton) of the University of Exeter, who led a new study, said: “*There had been enough oxygen in ocean surface waters for over 1.5 billion years before the first animals evolved, but the dark depths of the ocean remained devoid of oxygen. We argue that the evolution of the first animals could have played a key role in the widespread oxygenation of the deep oceans. This in turn may have facilitated the evolution of more complex, mobile animals.*”

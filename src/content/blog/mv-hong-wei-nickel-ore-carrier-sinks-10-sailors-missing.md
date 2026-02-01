@@ -1,7 +1,7 @@
 ---
 title: "MV Hong Wei, Nickel Ore Carrier Sinks, 10 Sailors Missing"
 date: 2010-12-04T23:17:23
-slug: mv-hong-wei-nickel-ore-carrier-sinks-10-sailors-missing
+slug: "mv-hong-wei-nickel-ore-carrier-sinks-10-sailors-missing"
 excerpt: "The MV Hong Wei with a cargo of 40,000 tons of nickel ore, sank Saturday off the northern Philippines. Fourteen crew were rescued and ten remain missing.   The ship was Panamanian flag and had a Chinese crew.   The … Continue reading &rarr;"
 categories:
   - "Current"

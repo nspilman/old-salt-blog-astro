@@ -1,7 +1,7 @@
 ---
 title: "World’s Biggest Iceberg on Collision Course with South Georgia"
 date: 2020-11-05T16:24:22
-slug: worlds-biggest-iceberg-on-collision-course-with-south-georgia
+slug: "worlds-biggest-iceberg-on-collision-course-with-south-georgia"
 excerpt: "In July 2017, we posted about the calving of a massive iceberg from Antarctica’s Larsen C ice-shelf. The iceberg, which would be designated as A68a, is the world’s biggest iceberg, weighing roughly one trillion tons and measuring 4,200 sq km, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

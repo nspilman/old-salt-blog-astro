@@ -1,7 +1,7 @@
 ---
 title: "Search Continues for 22 Crew Missing After VLOC Stellar Daisy Sinks off Uruguay"
 date: 2017-04-03T17:21:41
-slug: search-continues-22-crew-missing-vloc-stellar-daisy-sinks-off-uruguay
+slug: "search-continues-22-crew-missing-vloc-stellar-daisy-sinks-off-uruguay"
 excerpt: "So far, only two of the crew of 24 have been rescued after the Very Large Ore Carrier (VLOC) Stellar Daisy capsized and sank suddenly on Friday, March 31st. The 266,00 DWT Marshall Island registered  bulk carrier was reported to have … Continue reading &rarr;"
 categories:
   - "Current"

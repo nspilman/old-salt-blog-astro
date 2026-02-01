@@ -1,8 +1,8 @@
 ---
 title: "SeaWorld – Blackfish, Blackstone & the Fight Over a Documentary"
 date: 2013-07-19T14:19:12
-slug: seaworld-blackfish-blackstone-the-fight-over-a-documentary
-excerpt: "In February of 2010, the orca, Tilikum, attacked and drowned senior trainer, Dawn Brancheau, at SeaWorld Orlando.  This was the third human death that Tilikum has been involved in, in captivity.  Ironically, even though orcas are best know as “killer whales,” there … Continue reading &rarr;"
+slug: "seaworld-blackfish-blackstone-the-fight-over-a-documentary"
+excerpt: "In February of 2010, the orca, Tilikum, attacked and drowned senior trainer, Dawn Brancheau, at SeaWorld Orlando.  This was the third human death that Tilikum has been involved in, in captivity.  Ironically, even though orcas are best know as \"killer whales,\" there … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "SeaWorld"
   - "Tilikum"
 author: "Rick Spilman"
-description: "In February of 2010, the orca, Tilikum, attacked and drowned senior trainer, Dawn Brancheau, at SeaWorld Orlando.  This was the third human death that Tilikum has been involved in, in captivity.  Ironically, even though orcas are best know as “killer whales,” there … Continue reading &rarr;"
+description: "In February of 2010, the orca, Tilikum, attacked and drowned senior trainer, Dawn Brancheau, at SeaWorld Orlando.  This was the third human death that Tilikum has been involved in, in captivity.  Ironically, even though orcas are best know as \"killer whales,\" there … Continue reading &rarr;"
 ---
 
 ![Tilikum Photo: Suzanne Allee/Magnolia Pictures](http://www.oldsaltblog.com/wp-content/uploads/2013/07/BLACKFISH.jpg)

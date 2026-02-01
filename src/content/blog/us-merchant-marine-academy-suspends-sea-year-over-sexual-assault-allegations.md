@@ -1,7 +1,7 @@
 ---
 title: "US Merchant Marine Academy Pauses Sea Year Over Sexual Assault Allegations"
 date: 2021-11-04T17:00:11
-slug: us-merchant-marine-academy-suspends-sea-year-over-sexual-assault-allegations
+slug: "us-merchant-marine-academy-suspends-sea-year-over-sexual-assault-allegations"
 excerpt: "The United States Maritime Academy at King’s Point has paused Sea Year, a program that sends cadets to sea aboard commercial ships, after a female midshipman at the school shared an account in September of being raped by a crew … Continue reading &rarr;"
 categories:
   - "Current"

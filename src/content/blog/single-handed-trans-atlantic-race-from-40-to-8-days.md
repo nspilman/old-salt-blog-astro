@@ -1,7 +1,7 @@
 ---
 title: "Single Handed Trans-Atlantic Race — From 40 to 8 Days"
 date: 2016-05-15T08:20:59
-slug: single-handed-trans-atlantic-race-from-40-to-8-days
+slug: "single-handed-trans-atlantic-race-from-40-to-8-days"
 excerpt: "The finishers in the 2016 Transat bakerly single-handed trans-Atlantic race are now arriving in Brooklyn. This year’s winner, Francois Gabart on the 100′ trimaran MACIF, crossed the finish line on Wednesday, in the near record time of 8 days, 8 hours, 54-minutes and 39-seconds.  The Transat … Continue reading &rarr;"
 categories:
   - "Current"

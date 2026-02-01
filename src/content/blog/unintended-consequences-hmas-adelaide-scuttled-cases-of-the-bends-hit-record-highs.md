@@ -1,7 +1,7 @@
 ---
 title: "Unintended Consequences – HMAS Adelaide Scuttled & Cases of the Bends Hit Record Highs"
 date: 2012-12-08T10:58:47
-slug: unintended-consequences-hmas-adelaide-scuttled-cases-of-the-bends-hit-record-highs
+slug: "unintended-consequences-hmas-adelaide-scuttled-cases-of-the-bends-hit-record-highs"
 excerpt: "The transition from warship to artificial reef did not go smoothly for the HMAS Adelaide.  Now roughly 100 feet below the surface, the popularity of the reefed ship has created new problems – a dramatic increase in the cases of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

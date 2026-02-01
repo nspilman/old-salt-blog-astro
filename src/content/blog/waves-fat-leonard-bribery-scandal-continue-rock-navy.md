@@ -1,7 +1,7 @@
 ---
-title: "Waves from “Fat Leonard” Bribery Scandal Continue to Rock Navy"
+title: "Waves from \"Fat Leonard\" Bribery Scandal Continue to Rock Navy"
 date: 2016-12-28T18:17:52
-slug: waves-fat-leonard-bribery-scandal-continue-rock-navy
+slug: "waves-fat-leonard-bribery-scandal-continue-rock-navy"
 excerpt: "In a time of major cyber hacks and theft from data breaches, the Navy continues to be rocked by an old fashioned bribery scandal, the worst in Navy history. The scandal that has also revealed a massive national-security leak, which some … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Third Replica Maryland Dove Under Construction"
 date: 2021-08-14T16:22:54
-slug: third-replica-maryland-dove-under-construction
+slug: "third-replica-maryland-dove-under-construction"
 excerpt: "The Chesapeake Bay Maritime Museum is nearing the completion of the construction of a new Maryland Dove, a reproduction of the 17th-century trading ship that accompanied the first settlers to what is now Maryland in 1634. Maryland Dove is owned … Continue reading &rarr;"
 categories:
   - "Current"

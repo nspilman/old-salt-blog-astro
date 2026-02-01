@@ -1,7 +1,7 @@
 ---
 title: "Three Teenagers Found Alive after Fifty Days adrift in Pacific Ocean"
 date: 2010-11-25T08:30:14
-slug: three-teenagers-found-alive-after-fifty-days-adrift-in-pacific-ocean
+slug: "three-teenagers-found-alive-after-fifty-days-adrift-in-pacific-ocean"
 excerpt: "Three boys had attempted to row the sixty miles between two small Pacific islands. Instead they became lost at sea and drifted  for fifty days across nearly 1,000 miles of ocean in a small aluminum dinghy, surviving on raw seagull and … Continue reading &rarr;"
 categories:
   - "Current"

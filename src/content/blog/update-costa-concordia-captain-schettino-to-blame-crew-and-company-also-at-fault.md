@@ -1,8 +1,8 @@
 ---
 title: "Update: Costa Concordia – Report Says Captain Schettino to Blame, Crew and Company Also at Fault"
 date: 2012-09-15T12:37:35
-slug: update-costa-concordia-captain-schettino-to-blame-crew-and-company-also-at-fault
-excerpt: "Not long after the Costa Concordia struck Le Scole Rock off the island of Giglio, Italy at 9:45 pm on January 13, 2012, Captain Francesco Schettino’s voice can be heard on a voice-data recording muttering, “Madonna, what a mess I’ve … Continue reading &rarr;"
+slug: "update-costa-concordia-captain-schettino-to-blame-crew-and-company-also-at-fault"
+excerpt: "Not long after the Costa Concordia struck Le Scole Rock off the island of Giglio, Italy at 9:45 pm on January 13, 2012, Captain Francesco Schettino’s voice can be heard on a voice-data recording muttering, \"Madonna, what a mess I’ve … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Giglio"
   - "report"
 author: "Rick Spilman"
-description: "Not long after the Costa Concordia struck Le Scole Rock off the island of Giglio, Italy at 9:45 pm on January 13, 2012, Captain Francesco Schettino’s voice can be heard on a voice-data recording muttering, “Madonna, what a mess I’ve … Continue reading &rarr;"
+description: "Not long after the Costa Concordia struck Le Scole Rock off the island of Giglio, Italy at 9:45 pm on January 13, 2012, Captain Francesco Schettino’s voice can be heard on a voice-data recording muttering, \"Madonna, what a mess I’ve … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/concordia1.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Why Did Anthem of the Seas Sail Straight into the Storm?"
 date: 2016-02-09T11:51:05
-slug: why-did-anthem-of-the-seas-sail-straight-into-the-storm
+slug: "why-did-anthem-of-the-seas-sail-straight-into-the-storm"
 excerpt: "In a post yesterday, we raised the general question of why Royal Caribbean Line (RCL) would run winter cruises which passed off Cape Hatteras, an area known for bad weather, particularly in the winter months? Today many are asking the … Continue reading &rarr;"
 categories:
   - "Current"

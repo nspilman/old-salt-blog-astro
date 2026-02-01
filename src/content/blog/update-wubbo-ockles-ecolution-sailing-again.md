@@ -1,7 +1,7 @@
 ---
 title: "Update: Wubbo Ockles Ecolution Sailing Again"
 date: 2011-06-12T09:52:59
-slug: update-wubbo-ockles-ecolution-sailing-again
+slug: "update-wubbo-ockles-ecolution-sailing-again"
 excerpt: "Last December, we posted about the sinking of Dutch scientist, Dr. Wubbo Ockles’  high tech yacht Ecolution in Groningen.  The yacht was believed to have been sunk by vandals.  No arrests have been.  This week, the repaired Ecolution successfully  completed sea trials.  The Ecolution … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

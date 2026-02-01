@@ -1,7 +1,7 @@
 ---
 title: "VolturnUS 1:8 – Floating Wind Tower Launched in Maine"
 date: 2013-06-03T10:04:34
-slug: volturnus-18-floating-wind-tower-launched-in-maine
+slug: "volturnus-18-floating-wind-tower-launched-in-maine"
 excerpt: "Typically, modern offshore wind turbines come in only one size and shape – really big, rising up from the ocean floor.  The University of Maine, with support from the Department of Energy, has just launched a new test design, the first … Continue reading &rarr;"
 categories:
   - "Current"

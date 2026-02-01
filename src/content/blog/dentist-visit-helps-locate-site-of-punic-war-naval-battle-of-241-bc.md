@@ -1,7 +1,7 @@
 ---
 title: "Dentist Visit Helps Locate Site of Punic War Naval Battle of 241 BC"
 date: 2022-05-06T17:45:47
-slug: dentist-visit-helps-locate-site-of-punic-war-naval-battle-of-241-bc
+slug: "dentist-visit-helps-locate-site-of-punic-war-naval-battle-of-241-bc"
 excerpt: "An intriguing account by the BBC of archeological serendipity that began with a trip to the dentist.  The Battle of the Aegates was a naval battle fought on 10 March 241 BC between the fleets of Carthage and Rome during … Continue reading &rarr;"
 categories:
   - "Current"

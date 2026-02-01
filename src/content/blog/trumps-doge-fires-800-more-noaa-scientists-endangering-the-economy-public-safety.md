@@ -1,7 +1,7 @@
 ---
 title: "Trump’s DOGE Fires 800 More NOAA Scientists — Endangering the Economy & Public Safety"
 date: 2025-02-28T22:21:32
-slug: trumps-doge-fires-800-more-noaa-scientists-endangering-the-economy-public-safety
+slug: "trumps-doge-fires-800-more-noaa-scientists-endangering-the-economy-public-safety"
 excerpt: "Yesterday, hundreds of weather forecasters and other federal National Oceanic and Atmospheric Administration (NOAA) employees were fired, lawmakers and weather experts said.  Federal workers who were not let go said the afternoon layoffs included meteorologists who do crucial local forecasts … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "A Closer Look at the America 2.0 — Replica, Hybrid or High-Tech Schooner?"
 date: 2016-06-20T18:40:37
-slug: closer-look-america-2-0-replica-hybrid-high-tech-schooner
+slug: "closer-look-america-2-0-replica-hybrid-high-tech-schooner"
 excerpt: "Classic Harbor Line‘s schooner America 2.0 is a fascinating design. Designed and built by the Scarano brothers and delivered in 2011, the boat is, notionally, a replica of the schooner yacht America of 1851, after which the famous America’s Cup was … Continue reading &rarr;"
 categories:
   - "Current"

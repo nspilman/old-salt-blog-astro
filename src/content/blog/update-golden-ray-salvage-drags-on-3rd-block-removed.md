@@ -1,7 +1,7 @@
 ---
 title: "Update: Golden Ray Salvage Drags On, 3rd Block Removed"
 date: 2021-03-18T15:23:36
-slug: update-golden-ray-salvage-drags-on-3rd-block-removed
+slug: "update-golden-ray-salvage-drags-on-3rd-block-removed"
 excerpt: "Last November, salvors began cutting up the Golden Ray and predicted that the job would be completed by the New Year.  Now, five months later, the job is less than half-finished and the new target for completion looks more like … Continue reading &rarr;"
 categories:
   - "Current"

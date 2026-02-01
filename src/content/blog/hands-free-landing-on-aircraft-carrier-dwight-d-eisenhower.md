@@ -1,13 +1,13 @@
 ---
-title: "“Hands Free” Landing on Aircraft Carrier Dwight D. Eisenhower"
+title: "\"Hands Free\" Landing on Aircraft Carrier Dwight D. Eisenhower"
 date: 2011-07-09T16:40:53
-slug: hands-free-landing-on-aircraft-carrier-dwight-d-eisenhower
+slug: "hands-free-landing-on-aircraft-carrier-dwight-d-eisenhower"
 excerpt: "A modified F/A-18D Hornet fighter plane recently landed on the deck of the aircraft carrier USS Dwight D. Eisenhower controlled by linked computers on the ship and on the plane. A pilot and a flight engineer were on the plane … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - ""Hands Free" Landing"
+  - "\"Hands Free\" Landing"
   - "F/A-18D Hornet fighter plane"
   - "USS Dwight D. Eisenhower"
 author: "Rick Spilman"

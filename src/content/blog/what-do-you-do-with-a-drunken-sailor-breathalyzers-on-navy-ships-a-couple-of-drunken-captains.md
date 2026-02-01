@@ -1,7 +1,7 @@
 ---
 title: "What Do You Do With a Drunken Sailor ? Breathalyzers on Navy Ships & a Couple of Drunken Captains"
 date: 2012-03-07T17:42:32
-slug: what-do-you-do-with-a-drunken-sailor-breathalyzers-on-navy-ships-a-couple-of-drunken-captains
+slug: "what-do-you-do-with-a-drunken-sailor-breathalyzers-on-navy-ships-a-couple-of-drunken-captains"
 excerpt: "From 1655 to 1970, the Royal Navy issued daily rations of rum to their sailors.  In the US Navy, alcohol was prohibited in 1913.  Now almost 100 years later, the US Navy is going one step farther.  Ray Mabus, the Secretary of … Continue reading &rarr;"
 categories:
   - "Current"

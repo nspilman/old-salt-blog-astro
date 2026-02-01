@@ -1,7 +1,7 @@
 ---
 title: "Japan Take Sea Shepherds to Court over Violence"
 date: 2011-12-17T20:02:26
-slug: japan-take-sea-shepherds-to-court-over-violence
+slug: "japan-take-sea-shepherds-to-court-over-violence"
 excerpt: "Japan’s whaling authorities are suing the Sea Shepherds in US courts to attempt to stop the violence directed by the organization against the annual Japanese whale hunt.  The Sea Shepherds claim that the annual hunt is illegal, but prefer what they … Continue reading &rarr;"
 categories:
   - "Current"

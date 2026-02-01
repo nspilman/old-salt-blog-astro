@@ -1,8 +1,8 @@
 ---
 title: "Update: USS Guardian – Will Be Broken Up But Why Was it Near the Reef in the First Place?"
 date: 2013-01-31T18:34:20
-slug: update-uss-guardian-will-be-broken-up-but-why-was-it-near-the-reef-in-the-first-place
-excerpt: "The Navy has announced that the minesweeper, USS Guardian, which ran up on Tubbataha reef in the Philippines Sula Sea two weeks ago, will be cut up in place and hauled away.  The reason given is that the approach will “involve … Continue reading &rarr;"
+slug: "update-uss-guardian-will-be-broken-up-but-why-was-it-near-the-reef-in-the-first-place"
+excerpt: "The Navy has announced that the minesweeper, USS Guardian, which ran up on Tubbataha reef in the Philippines Sula Sea two weeks ago, will be cut up in place and hauled away.  The reason given is that the approach will \"involve … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "US Navy"
   - "USS Guardian"
 author: "Rick Spilman"
-description: "The Navy has announced that the minesweeper, USS Guardian, which ran up on Tubbataha reef in the Philippines Sula Sea two weeks ago, will be cut up in place and hauled away.  The reason given is that the approach will “involve … Continue reading &rarr;"
+description: "The Navy has announced that the minesweeper, USS Guardian, which ran up on Tubbataha reef in the Philippines Sula Sea two weeks ago, will be cut up in place and hauled away.  The reason given is that the approach will \"involve … Continue reading &rarr;"
 ---
 
 ![guardianreef1](http://www.oldsaltblog.com/wp-content/uploads/2013/01/guardianreef1.jpg)The Navy has announced that the minesweeper, [USS *Guardian*, which ran up on Tubbataha reef](http://www.oldsaltblog.com/2013/01/minesweeper-uss-guardian-runs-aground-on-reef-in-philippines-tubbataha-national-marine-park/) in the Philippines Sula Sea two weeks ago, will be cut up in place and hauled away.  The reason given is that the approach will “[involve the least damage to the Tubbataha Reef.](http://www.cbsnews.com/8301-202_162-57566611/navy-uss-guardian-to-be-dismantled-after-running-aground-on-philippines-tubbataha-reef/)”   They had previously determined that the fiberglass sheathed wooden ship was [too damaged to float if towed off the reef](http://news.msn.co.nz/worldnews/8598657/us-to-pump-fuel-from-stuck-minesweeper).  Depending on the availability of crane vessels, the Navy may have had no other choice.

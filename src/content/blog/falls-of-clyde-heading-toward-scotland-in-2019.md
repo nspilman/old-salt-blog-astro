@@ -1,7 +1,7 @@
 ---
 title: "Falls of Clyde Heading Toward Scotland in 2019?"
 date: 2018-11-06T09:28:16
-slug: falls-of-clyde-heading-toward-scotland-in-2019
+slug: "falls-of-clyde-heading-toward-scotland-in-2019"
 excerpt: "Save-the-Falls of Clyde International has made a dramatic announcement on their Facebook page suggesting that transport has been arranged to carry the four-masted, full-rigged, iron ship from Hawaii back to the Clyde River in Scotland, where it was built in 1878.   … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

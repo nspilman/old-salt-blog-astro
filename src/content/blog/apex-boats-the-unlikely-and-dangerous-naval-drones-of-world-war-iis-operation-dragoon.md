@@ -1,7 +1,7 @@
 ---
 title: "Apex Boats — the Unlikely and Dangerous Naval Drones of World War II’s Operation Dragoon"
 date: 2024-08-18T17:16:05
-slug: apex-boats-the-unlikely-and-dangerous-naval-drones-of-world-war-iis-operation-dragoon
+slug: "apex-boats-the-unlikely-and-dangerous-naval-drones-of-world-war-iis-operation-dragoon"
 excerpt: "Based on the recent conflicts in the Black Sea and the Red Sea, it appears highly likely that the future of maritime warfare will be shaped by the use of naval drones. This made me wonder when the first naval … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

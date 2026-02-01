@@ -1,8 +1,8 @@
 ---
-title: "Chief Boatswain’s Mate Joseph L. George, No Longer the “Unknown Sailor” on USS Vestal"
+title: "Chief Boatswain’s Mate Joseph L. George, No Longer the \"Unknown Sailor\" on USS Vestal"
 date: 2017-12-07T15:03:51
-slug: chief-boatswains-mate-joseph-l-george-no-longer-unknown-sailor-uss-vestal
-excerpt: "Joe George is no longer the “unknown sailor” on the USS Vestal. The Secretary of the Navy Richard V. Spencer has announced the posthumous award of the Bronze Star Medal with V device for valor to Chief Boatswain’s Mate Joseph L. George for … Continue reading &rarr;"
+slug: "chief-boatswains-mate-joseph-l-george-no-longer-unknown-sailor-uss-vestal"
+excerpt: "Joe George is no longer the \"unknown sailor\" on the USS Vestal. The Secretary of the Navy Richard V. Spencer has announced the posthumous award of the Bronze Star Medal with V device for valor to Chief Boatswain’s Mate Joseph L. George for … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "USS Arizona"
   - "USS Vestal"
 author: "Rick Spilman"
-description: "Joe George is no longer the “unknown sailor” on the USS Vestal. The Secretary of the Navy Richard V. Spencer has announced the posthumous award of the Bronze Star Medal with V device for valor to Chief Boatswain’s Mate Joseph L. George for … Continue reading &rarr;"
+description: "Joe George is no longer the \"unknown sailor\" on the USS Vestal. The Secretary of the Navy Richard V. Spencer has announced the posthumous award of the Bronze Star Medal with V device for valor to Chief Boatswain’s Mate Joseph L. George for … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/12/joegeorge.jpg)Joe George is no longer the “unknown sailor” on the USS *Vestal.* The Secretary of the Navy Richard V. Spencer has announced the [posthumous award of the Bronze Star Medal](http://www.navy.mil/submit/display.asp?story_id=103612) with V device for valor to Chief Boatswain’s Mate Joseph L. George for heroic achievement during the attack on Pearl Harbor.

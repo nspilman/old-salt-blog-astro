@@ -1,7 +1,7 @@
 ---
 title: "How to Help Victims of the Japanese Earthquake and Tsunami"
 date: 2011-03-13T13:58:57
-slug: how-to-help-victims-of-the-japanese-earthquake-and-tsunami
+slug: "how-to-help-victims-of-the-japanese-earthquake-and-tsunami"
 excerpt: "A few sources:  Japan earthquake and tsunami: How to help How to help the victims of the Japan earthquake Japan Earthquake and Tsunami: How to Help … Continue reading &rarr;"
 categories:
   - "Current"

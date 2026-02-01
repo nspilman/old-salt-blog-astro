@@ -1,15 +1,15 @@
 ---
-title: "Talisker Whisky Atlantic Challenge – “The World’s Roughest Rowing Race”  Living Up to Its Name"
+title: "Talisker Whisky Atlantic Challenge – \"The World’s Roughest Rowing Race\"  Living Up to Its Name"
 date: 2011-12-22T09:46:59
-slug: talisker-whisky-atlantic-challenge-%e2%80%9cthe-world%e2%80%99s-roughest-rowing-race%e2%80%9d-living-up-to-its-name
-excerpt: "The Talisker Whisky Atlantic Challenge  which bills itself as “The World’s Roughest Rowing Race” is living up to its name. As we posted previously, seventeen boats set off December 4th to row across the Atlantic from Spain’s San Sebastian de la Gomera … Continue reading &rarr;"
+slug: "talisker-whisky-atlantic-challenge-%e2%80%9cthe-world%e2%80%99s-roughest-rowing-race%e2%80%9d-living-up-to-its-name"
+excerpt: "The Talisker Whisky Atlantic Challenge  which bills itself as \"The World’s Roughest Rowing Race\" is living up to its name. As we posted previously, seventeen boats set off December 4th to row across the Atlantic from Spain’s San Sebastian de la Gomera … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
   - "Talisker Whisky Atlantic Challenge"
 author: "Rick Spilman"
-description: "The Talisker Whisky Atlantic Challenge  which bills itself as “The World’s Roughest Rowing Race” is living up to its name. As we posted previously, seventeen boats set off December 4th to row across the Atlantic from Spain’s San Sebastian de la Gomera … Continue reading &rarr;"
+description: "The Talisker Whisky Atlantic Challenge  which bills itself as \"The World’s Roughest Rowing Race\" is living up to its name. As we posted previously, seventeen boats set off December 4th to row across the Atlantic from Spain’s San Sebastian de la Gomera … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/talisker-1.jpg)The [Talisker Whisky Atlantic Challenge](http://www.taliskerwhiskyatlanticchallenge.com/)  which bills itself as “The World’s Roughest Rowing Race” is living up to its name. As [we posted previously, seventeen boats set off December 4th](http://www.oldsaltblog.com/2011/12/06/talisker-whisky-atlantic-challenge-the-worlds-roughest-rowing-race/) to row across the Atlantic from Spain’s San Sebastian de la Gomera in the Canary Islands, following the ‘Columbus Route’ westbound to Port St Charles in Barbados. That number has now fallen to 12 boats as five have withdrawn from the race. The two most recent, [H2Row](http://www.h2row.com/) and [Boogie Woogie](http://www.atlanticcampaigns.com/Site/Home.html) retired over the weekend.

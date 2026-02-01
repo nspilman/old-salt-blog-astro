@@ -1,8 +1,8 @@
 ---
 title: "The Vagina Kayak and Japanese Genital Politics"
 date: 2015-01-19T09:14:55
-slug: the-vagina-kayak-and-japanese-genital-politics
-excerpt: "Last May, Japanese artist Megumi Igarashi posted on her blog, Maybe you were thinking, “Hey, what happened to that vagina boat?” Well, good news: The vagina boat finally set sail.  (Honestly, the question hadn’t crossed my mind.) Igarashi, who goes by the … Continue reading &rarr;"
+slug: "the-vagina-kayak-and-japanese-genital-politics"
+excerpt: "Last May, Japanese artist Megumi Igarashi posted on her blog, Maybe you were thinking, \"Hey, what happened to that vagina boat?\" Well, good news: The vagina boat finally set sail.  (Honestly, the question hadn’t crossed my mind.) Igarashi, who goes by the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

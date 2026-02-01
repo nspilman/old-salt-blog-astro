@@ -1,7 +1,7 @@
 ---
 title: "Opening Oysters with a Marlinspike at the Deltaville Oyster Roast"
 date: 2017-04-30T07:17:07
-slug: opening-oysters-marlinspike-deltaville-oyster-roast
+slug: "opening-oysters-marlinspike-deltaville-oyster-roast"
 excerpt: "In the past year and a half, I have spent far more time in a boatyard in Deltaville, VA on the Rappahannock River than I would have imagined or intended. While I have not necessarily had great luck with repairs … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Ferries, Forgotten Bicycles and Search and Rescue"
 date: 2018-04-12T10:01:37
-slug: ferries-forgotten-bicycles-and-search-and-rescue
+slug: "ferries-forgotten-bicycles-and-search-and-rescue"
 excerpt: "Talk about unintended consequences. The Washington State Ferry system and the US Coast Guard have a problem with forgotten bicycles.  Over the last 18 months, 12 bicycles have been left aboard ferries, including three bike-share bikes. This turns out to be … Continue reading &rarr;"
 categories:
   - "Current"

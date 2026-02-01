@@ -1,8 +1,8 @@
 ---
 title: "Swedish Sailor Lost Overboard in ARC Ralley 2024"
 date: 2024-12-04T19:27:17
-slug: swedish-sailor-lost-overboard-in-arc-ralley-2024
-excerpt: "Yesterday, the World Cruising Club (WCC) released a statement regarding a Swedish sailor lost overboard in the mid-Atlantic from the Volvo 70 racing yacht Ocean Breeze on Monday while sailing with the Atlantic Rally for Cruisers (ARC). “It is with … Continue reading &rarr;"
+slug: "swedish-sailor-lost-overboard-in-arc-ralley-2024"
+excerpt: "Yesterday, the World Cruising Club (WCC) released a statement regarding a Swedish sailor lost overboard in the mid-Atlantic from the Volvo 70 racing yacht Ocean Breeze on Monday while sailing with the Atlantic Rally for Cruisers (ARC). \"It is with … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -19,7 +19,7 @@ tags:
   - "World Cruising Club"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/12/oceanbreeze.jpg"
 author: "Rick Spilman"
-description: "Yesterday, the World Cruising Club (WCC) released a statement regarding a Swedish sailor lost overboard in the mid-Atlantic from the Volvo 70 racing yacht Ocean Breeze on Monday while sailing with the Atlantic Rally for Cruisers (ARC). “It is with … Continue reading &rarr;"
+description: "Yesterday, the World Cruising Club (WCC) released a statement regarding a Swedish sailor lost overboard in the mid-Atlantic from the Volvo 70 racing yacht Ocean Breeze on Monday while sailing with the Atlantic Rally for Cruisers (ARC). \"It is with … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/12/oceanbreeze.jpg)Yesterday, the World Cruising Club (WCC) released a [statement](https://www.worldcruising.com/newsarticle.aspx?page=S638688128957866128&ArchiveID=1&CategoryID=190&ItemID=277954&src=) regarding a Swedish sailor lost overboard in the mid-Atlantic from the Volvo 70 racing yacht *Ocean Breeze* on Monday while sailing with the [Atlantic Rally for Cruisers](https://www.worldcruising.com/arc/event.aspx) (ARC).

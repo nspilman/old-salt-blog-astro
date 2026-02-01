@@ -1,7 +1,7 @@
 ---
 title: "Some of the Things the Coast Guard Has Been Doing While Not Getting Paid"
 date: 2019-01-18T16:06:40
-slug: some-of-the-things-the-coast-guard-has-been-doing-while-not-getting-paid
+slug: "some-of-the-things-the-coast-guard-has-been-doing-while-not-getting-paid"
 excerpt: "As the wholly unnecessary and reckless partial government shutdown rolls on, 41,000 active duty US Coast Guard personnel are still doing their jobs, without getting paid. Roughly 8,500 civilian support staff are furloughed, also without paychecks. Across the country, concerned citizens are trying … Continue reading &rarr;"
 categories:
   - "Current"

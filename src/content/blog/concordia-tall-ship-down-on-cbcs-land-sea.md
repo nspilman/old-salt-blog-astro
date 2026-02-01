@@ -1,20 +1,20 @@
 ---
 title: "Concordia: Tall Ship Down on CBC’s Land & Sea"
 date: 2010-11-07T18:43:24
-slug: concordia-tall-ship-down-on-cbcs-land-sea
-excerpt: "The CBC’s program “Land and Sea” broadcast their documentary “Concordia: Tall Ship Down” today, focusing on the knockdown and sinking of the SV Concordia.   It can be watched on-line at the link below.  The documentary doesn’t answer the outstanding questions about … Continue reading &rarr;"
+slug: "concordia-tall-ship-down-on-cbcs-land-sea"
+excerpt: "The CBC’s program \"Land and Sea\" broadcast their documentary \"Concordia: Tall Ship Down\" today, focusing on the knockdown and sinking of the SV Concordia.   It can be watched on-line at the link below.  The documentary doesn’t answer the outstanding questions about … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - ""Land and Sea""
+  - "\"Land and Sea\""
   - "CBC"
   - "documentary"
   - "sinking"
   - "SV Concordia"
 author: "Rick Spilman"
-description: "The CBC’s program “Land and Sea” broadcast their documentary “Concordia: Tall Ship Down” today, focusing on the knockdown and sinking of the SV Concordia.   It can be watched on-line at the link below.  The documentary doesn’t answer the outstanding questions about … Continue reading &rarr;"
+description: "The CBC’s program \"Land and Sea\" broadcast their documentary \"Concordia: Tall Ship Down\" today, focusing on the knockdown and sinking of the SV Concordia.   It can be watched on-line at the link below.  The documentary doesn’t answer the outstanding questions about … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/Concordia3-1.jpg)The CBC’s program “[Land and Sea](http://www.cbc.ca/landandsea/)” broadcast their documentary “[Concordia: Tall Ship Down](http://www.cbc.ca/landandsea/2010/11/concordia.html)” today, focusing on the knockdown and sinking of the *[SV Concordia](http://www.oldsaltblog.com/index.php?s=concordia)*.   It can be watched on-line at the link below.  The documentary doesn’t answer the outstanding questions about the sinking, but is a fascinating account by those onboard when the ship was hit by what many believe was a microburst.

@@ -1,7 +1,7 @@
 ---
 title: "Thad Koza – Tall Ships International"
 date: 2008-12-07T22:24:37
-slug: thad-koza-tall-ships-international
+slug: "thad-koza-tall-ships-international"
 excerpt: "This afternoon, at the 21st Annual Indie and Small Press Book Fair, I had the pleasure of meeting Thad Koza, a wonderful photographer of tall ships.   I bought a copy of his Tall Ships 2009 Calendar and plan on buying his book, Tall … Continue reading &rarr;"
 categories:
   - "Current"

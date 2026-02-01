@@ -1,7 +1,7 @@
 ---
 title: "First All White Adult Orca Whale"
 date: 2012-04-24T08:26:37
-slug: first-all-white-adult-orca-whale
+slug: "first-all-white-adult-orca-whale"
 excerpt: "Since around 1991, whale watchers in Australia have kept an eye out for an all-white humpback whale, which they have named Migaloo. Recently researchers have spotted an all-white male orca whale off the coast of Russia. The whales, which they … Continue reading &rarr;"
 categories:
   - "Current"

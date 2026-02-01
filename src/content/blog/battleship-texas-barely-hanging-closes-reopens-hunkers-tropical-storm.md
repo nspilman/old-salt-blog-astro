@@ -1,7 +1,7 @@
 ---
 title: "Battleship Texas, Barely Hanging on — Closes, Reopens, & Hunkers Down for Tropical Storm Cindy"
 date: 2017-06-23T18:04:24
-slug: battleship-texas-barely-hanging-closes-reopens-hunkers-tropical-storm
+slug: "battleship-texas-barely-hanging-closes-reopens-hunkers-tropical-storm"
 excerpt: "We have been following the continued slow disintegration of the historically rich, but budget poor, Battleship Texas for several years now. The over 100 year old battleship is the oldest remaining dreadnought battleship and only one of six surviving ships to have served … Continue reading &rarr;"
 categories:
   - "Current"

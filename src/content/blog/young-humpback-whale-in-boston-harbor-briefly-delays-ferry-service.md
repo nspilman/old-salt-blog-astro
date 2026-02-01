@@ -1,7 +1,7 @@
 ---
 title: "Young Humpback Whale in Boston Harbor Briefly Delays Ferry Service"
 date: 2024-08-15T15:33:02
-slug: young-humpback-whale-in-boston-harbor-briefly-delays-ferry-service
+slug: "young-humpback-whale-in-boston-harbor-briefly-delays-ferry-service"
 excerpt: "The  Massachusetts Bay Transportation Authority (MBTA) said Wednesday that a juvenile humpback whale swimming and breaching in Boston Harbor may cause minor delays to ferry service through Thursday, August 15. CBSNews reports that the 2-year-old whale, estimated to be between 35 … Continue reading &rarr;"
 categories:
   - "Current"

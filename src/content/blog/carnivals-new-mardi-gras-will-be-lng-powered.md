@@ -1,7 +1,7 @@
 ---
 title: "Carnival’s New Mardi Gras Will Be Powered by LNG"
 date: 2019-06-26T17:31:15
-slug: carnivals-new-mardi-gras-will-be-lng-powered
+slug: "carnivals-new-mardi-gras-will-be-lng-powered"
 excerpt: "Carnival Corporation is the world’s largest cruise line, operating over 100 ships across nine brands. Back in 1972, however, it owned only one ship, the TSS Mardi Gras, of 27,000 GRT and carrying roughly 1,000 passengers. Now, Carnival is building … Continue reading &rarr;"
 categories:
   - "Current"

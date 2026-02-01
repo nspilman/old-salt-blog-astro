@@ -1,7 +1,7 @@
 ---
 title: "USS George HW Bush – New $6 Billion Aircraft Carrier Without Working Toilets"
 date: 2011-11-16T09:00:38
-slug: uss-george-hw-bush-new-6-billion-aircraft-carrier-without-working-toilets
+slug: "uss-george-hw-bush-new-6-billion-aircraft-carrier-without-working-toilets"
 excerpt: "The USS George HW Bush, the tenth of the Nimitz class, is the US Navy’s newest aircraft carrier.  It cost $6.2 billion to build and is powered by two nuclear reactors which can develop 260,000 shaft horsepower.  The carrier can … Continue reading &rarr;"
 categories:
   - "Current"

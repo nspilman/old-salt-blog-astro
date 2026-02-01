@@ -1,7 +1,7 @@
 ---
 title: "Former Liberty Ship Converted to Nuclear Power Plant to be Scrapped"
 date: 2018-09-18T20:07:02
-slug: former-liberty-ship-converted-to-nuclear-power-plant-to-be-scrapped
+slug: "former-liberty-ship-converted-to-nuclear-power-plant-to-be-scrapped"
 excerpt: "Did you know that in the 1960s the US Army converted a World War II Liberty ship to a floating nuclear power plant? Neither did I. And as it is now heading for the scrap yard, will soon be no … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Would you prefer the Slimehead or the Orange Roughy?"
 date: 2009-08-04T08:27:52
-slug: would-you-prefer-the-slimehead-or-the-orange-roughy
+slug: "would-you-prefer-the-slimehead-or-the-orange-roughy"
 excerpt: "Which would you prefer to order from the menu  – slimehead or orange roughy?  Antarctic toothfish or Chilean sea bass?  Slimehead and orange roughy are the same fish, just as the Chilean sea bass is the Antarctic toothfish with a new … Continue reading &rarr;"
 categories:
   - "Current"

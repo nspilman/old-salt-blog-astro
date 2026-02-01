@@ -1,7 +1,7 @@
 ---
 title: "Indian Navy Captures 16 Pirates, Frees 16 Hostages"
 date: 2011-03-28T12:59:53
-slug: indian-navy-captures-16-pirates-frees-16-hostages
+slug: "indian-navy-captures-16-pirates-frees-16-hostages"
 excerpt: "On Sunday the MV Maersk Kensington reported an attempted boarding by pirates while underway off the southern coast of India.  The Indian navy ship Suvarna and Coast Guard ship Sangram responded, intercepting the Iranian fishing trawler Morteza which had been hijacked and was … Continue reading &rarr;"
 categories:
   - "Current"

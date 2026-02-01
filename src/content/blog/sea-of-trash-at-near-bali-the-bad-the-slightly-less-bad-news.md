@@ -1,7 +1,7 @@
 ---
 title: "Sea of Trash Near Bali, the Bad & the Slightly Less Bad News"
 date: 2018-06-11T13:49:09
-slug: sea-of-trash-at-near-bali-the-bad-the-slightly-less-bad-news
+slug: "sea-of-trash-at-near-bali-the-bad-the-slightly-less-bad-news"
 excerpt: "Manta Point is a popular dive spot off the southernmost shore of Nusa Penida Island, near Bali, Indonesia.  Divers are attracted by the large number of manta rays which congregate there. On March 3rd, a British diver, Rich Horner, found far more than mantas at … Continue reading &rarr;"
 categories:
   - "Current"

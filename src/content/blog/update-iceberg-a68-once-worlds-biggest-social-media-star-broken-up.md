@@ -1,7 +1,7 @@
 ---
 title: "Update: Iceberg A68, Once World’s Biggest & Social Media Star, Has Broken Up"
 date: 2021-04-18T10:50:28
-slug: update-iceberg-a68-once-worlds-biggest-social-media-star-broken-up
+slug: "update-iceberg-a68-once-worlds-biggest-social-media-star-broken-up"
 excerpt: "Antarctica’s iceberg A68 has broken up into a myriad of small pieces so that the US National Ice Center says are no longer worth tracking. Once the world’s biggest iceberg in existence, A68 became an unexpected social media star in … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Lightsail 2 — Sailing on an Ocean of Light"
 date: 2019-04-13T17:02:19
-slug: lightsail-2-sailing-on-an-ocean-of-light
+slug: "lightsail-2-sailing-on-an-ocean-of-light"
 excerpt: "A post not about the sea, but about sailing on the ocean of light from the sun. The idea for solar sailing dates back to 1610, when Johannes Kepler observed that comet tails point away from the sun as if … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

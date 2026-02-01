@@ -1,8 +1,8 @@
 ---
 title: "Cyber-Security at Sea — XP on Carriers, Hacking Tridents & Spoofing GPS"
 date: 2017-07-08T14:42:12
-slug: cyber-security-sea-xp-carriers-hacking-tridents-spoofing-gps
-excerpt: "Originally posted on gCaptain. Reposted with permission. When reporters were recently being given tours of the Royal Navy’s new “supercarrier,” HMS Queen Elizabeth, some were surprized to see a distinctive logo on several computer screens on the bridge and in … Continue reading &rarr;"
+slug: "cyber-security-sea-xp-carriers-hacking-tridents-spoofing-gps"
+excerpt: "Originally posted on gCaptain. Reposted with permission. When reporters were recently being given tours of the Royal Navy’s new \"supercarrier,\" HMS Queen Elizabeth, some were surprized to see a distinctive logo on several computer screens on the bridge and in … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Trident"
   - "Windows XP"
 author: "Rick Spilman"
-description: "Originally posted on gCaptain. Reposted with permission. When reporters were recently being given tours of the Royal Navy’s new “supercarrier,” HMS Queen Elizabeth, some were surprized to see a distinctive logo on several computer screens on the bridge and in … Continue reading &rarr;"
+description: "Originally posted on gCaptain. Reposted with permission. When reporters were recently being given tours of the Royal Navy’s new \"supercarrier,\" HMS Queen Elizabeth, some were surprized to see a distinctive logo on several computer screens on the bridge and in … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/06/hmsqueenmaryseatrial2.jpg)Originally posted on [gCaptain](http://gcaptain.com/cyber-security-sea-microsoft-xp-carriers-hacking-tridents-spoofing-gps/). Reposted with permission.

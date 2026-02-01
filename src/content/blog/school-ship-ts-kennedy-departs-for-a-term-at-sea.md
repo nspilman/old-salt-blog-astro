@@ -1,7 +1,7 @@
 ---
 title: "School Ship TS Kennedy Departs for a Term at Sea"
 date: 2020-01-19T15:04:41
-slug: school-ship-ts-kennedy-departs-for-a-term-at-sea
+slug: "school-ship-ts-kennedy-departs-for-a-term-at-sea"
 excerpt: "Here is wonderful drone footage by Ryan Smith of the Massachusetts Maritime Academy‘s school ship TS Kennedy as it departs for its Sea Term 2020. The ship sails down Buzzard’s Bay bound for Panama where it will transit the Canal. … Continue reading &rarr;"
 categories:
   - "Current"

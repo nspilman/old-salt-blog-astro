@@ -1,7 +1,7 @@
 ---
 title: "Gotham Whale Fundraiser Whale Watch, Saturday, September 21st"
 date: 2024-09-12T19:28:25
-slug: gotham-whale-fundraiser-whale-watch-saturday-september-21st
+slug: "gotham-whale-fundraiser-whale-watch-saturday-september-21st"
 excerpt: "How many whales and other marine mammals frequent the waters adjoining the New York Metropolitan Region? At last count, at least 400, which was news to me. This is according to Gotham Whale, the area’s preeminent civic organization that tracks, … Continue reading &rarr;"
 categories:
   - "Current"

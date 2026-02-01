@@ -1,7 +1,7 @@
 ---
 title: "Bloody Brawl on P&O Britannia, With or Without a Clown"
 date: 2019-07-30T10:26:29
-slug: bloody-brawl-on-po-britannia-with-or-without-a-clown-suit
+slug: "bloody-brawl-on-po-britannia-with-or-without-a-clown-suit"
 excerpt: "In the general category of you can’t make this stuff up, in early hours of Friday morning, a mass brawl broke out on the P&O Britannia, in which passengers used furniture and plates as weapons, according to witnesses. Six people—three … Continue reading &rarr;"
 categories:
   - "Current"

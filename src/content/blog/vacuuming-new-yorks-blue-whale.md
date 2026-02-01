@@ -1,7 +1,7 @@
 ---
 title: "Vacuuming New York’s Blue Whale"
 date: 2014-08-02T07:26:37
-slug: vacuuming-new-yorks-blue-whale
+slug: "vacuuming-new-yorks-blue-whale"
 excerpt: "My favorite place in New York’s American Museum of Natural History is the Milstein Hall of Ocean Life, where a 94 foot long blue whale appears to be swimming through space.  The whale is a 21,000-pound fiberglass model of a female blue … Continue reading &rarr;"
 categories:
   - "Current"

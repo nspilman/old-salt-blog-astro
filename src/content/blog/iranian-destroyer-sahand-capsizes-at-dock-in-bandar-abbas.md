@@ -1,7 +1,7 @@
 ---
 title: "Iranian Destroyer Sahand Capsizes at Dock in Bandar Abbas"
 date: 2024-07-09T15:12:18
-slug: iranian-destroyer-sahand-capsizes-at-dock-in-bandar-abbas
+slug: "iranian-destroyer-sahand-capsizes-at-dock-in-bandar-abbas"
 excerpt: "The Iranian Moudge-class destroyer Sahand capsized and sank in shallow water while undergoing dockside repairs in its home port of Bandar Abbas. The 1,300-tonne ship, commissioned in 2018, is one of the newest Iranian-built warships, fitted with surface-to-surface and surface-to-air … Continue reading &rarr;"
 categories:
   - "Current"

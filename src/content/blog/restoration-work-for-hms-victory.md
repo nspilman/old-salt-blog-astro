@@ -1,7 +1,7 @@
 ---
 title: "Restoration work for HMS Victory"
 date: 2011-01-28T17:16:30
-slug: restoration-work-for-hms-victory
+slug: "restoration-work-for-hms-victory"
 excerpt: "Earlier this month we posted about a report which features dire warnings about the condition of HMS Victory.     Thanks to David Hayes for passing along  an update on the restoration work planned for the old ship. Restoration work for HMS … Continue reading &rarr;"
 categories:
   - "Current"

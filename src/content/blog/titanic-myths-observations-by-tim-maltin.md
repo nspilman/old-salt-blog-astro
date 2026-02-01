@@ -1,7 +1,7 @@
 ---
 title: "Titanic Myths, observations by Tim Maltin"
 date: 2010-09-25T09:15:35
-slug: titanic-myths-observations-by-tim-maltin
+slug: "titanic-myths-observations-by-tim-maltin"
 excerpt: "In light of the recent claims in Louise Patten’s new book,  Good as Gold , which we posted about earlier this week, we are very pleased to welcome Tim Maltin,  author of  101 Things You Thought You Knew About the Titanic…But Didn’t, as guest … Continue reading &rarr;"
 categories:
   - "Current"

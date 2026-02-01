@@ -1,7 +1,7 @@
 ---
 title: "Update: Tanker Mattheos I and Crew Released Without Ransom – Why the Gulf Of Guinea is Not Somalia"
 date: 2011-09-27T16:26:40
-slug: update-tanker-mattheos-i-and-crew-released-without-ransom-why-the-gulf-of-guinea-is-not-somalia
+slug: "update-tanker-mattheos-i-and-crew-released-without-ransom-why-the-gulf-of-guinea-is-not-somalia"
 excerpt: "Just over a week ago we posted about the hijacking of the product tanker 45,000 DWT tanker,  Mattheos I, with a crew of 23, off Benin in the Gulf of Guinea.  Last Saturday, the ship and crew was released. No ransom … Continue reading &rarr;"
 categories:
   - "Current"

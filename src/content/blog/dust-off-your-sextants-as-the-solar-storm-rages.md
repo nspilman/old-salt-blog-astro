@@ -1,7 +1,7 @@
 ---
 title: "Dust Off Your Sextants as the Solar Storm Rages"
 date: 2012-03-08T10:24:21
-slug: dust-off-your-sextants-as-the-solar-storm-rages
+slug: "dust-off-your-sextants-as-the-solar-storm-rages"
 excerpt: "No need to shorten sail but putting down the GPS and dusting off the sextant might be a good idea as the largest solar storm in five years strikes the earth today. A massive cloud of charged particles moving at 4 … Continue reading &rarr;"
 categories:
   - "Current"

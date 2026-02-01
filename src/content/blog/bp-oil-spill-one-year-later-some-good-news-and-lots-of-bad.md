@@ -1,7 +1,7 @@
 ---
 title: "BP Oil Spill – One Year Later, Some Good News and Lots of Bad"
 date: 2011-04-20T11:39:49
-slug: bp-oil-spill-one-year-later-some-good-news-and-lots-of-bad
+slug: "bp-oil-spill-one-year-later-some-good-news-and-lots-of-bad"
 excerpt: "There appears to be both good and bad news exactly one year after the explosion and fire that sank the drilling rig Deepwater Horizon, killing eleven, and triggering the largest  accidental marine oil spill in the history of the petroleum … Continue reading &rarr;"
 categories:
   - "Current"

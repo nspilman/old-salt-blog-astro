@@ -1,8 +1,8 @@
 ---
 title: "Peacemaker & Coronet — Of Cults & Yachts"
 date: 2015-09-15T16:42:58
-slug: peacemaker-coronet-of-cults-yachts
-excerpt: "For the past fifteen years, the three masted barquentine motorsailer Peacemaker has been owned by the Twelve Tribes, a religious community, often referred to as a cult. The 158′ Class A “tall ship” served as floating ambassador for the fundamentalist group, which … Continue reading &rarr;"
+slug: "peacemaker-coronet-of-cults-yachts"
+excerpt: "For the past fifteen years, the three masted barquentine motorsailer Peacemaker has been owned by the Twelve Tribes, a religious community, often referred to as a cult. The 158′ Class A \"tall ship\" served as floating ambassador for the fundamentalist group, which … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -18,7 +18,7 @@ tags:
   - "Twelve Tribes"
   - "yacht"
 author: "Rick Spilman"
-description: "For the past fifteen years, the three masted barquentine motorsailer Peacemaker has been owned by the Twelve Tribes, a religious community, often referred to as a cult. The 158′ Class A “tall ship” served as floating ambassador for the fundamentalist group, which … Continue reading &rarr;"
+description: "For the past fifteen years, the three masted barquentine motorsailer Peacemaker has been owned by the Twelve Tribes, a religious community, often referred to as a cult. The 158′ Class A \"tall ship\" served as floating ambassador for the fundamentalist group, which … Continue reading &rarr;"
 ---
 
 [![peacemaker](http://www.oldsaltblog.com/wp-content/uploads/2015/09/peacemaker.jpg)](Peacemaker)For the past fifteen years, the three masted barquentine motorsailer *[Peacemaker](http://www.peacemakermarine.com/)* has been owned by the [Twelve Tribes](http://twelvetribes.com/), a religious community, often referred to as a cult. The 158′ Class A “tall ship” served as floating ambassador for the fundamentalist group, which has 50 or so communities in North and South America, Europe, and Australia. *Peacemaker* is now [for sale for around $3 million](http://www.northropandjohnson.com/yachts-for-sale/3122-peacemaker/). (Please, do not contact us. We have no involvement in the vessel. )

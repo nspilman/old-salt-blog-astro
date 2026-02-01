@@ -1,7 +1,7 @@
 ---
 title: "Captain and the Masseuse Escaped by Jetski — Lawsuit Over Sinking of Quest 1"
 date: 2017-05-04T09:54:33
-slug: captain-masseuse-escaped-jetski-lawsuit-sinking-quest-1
+slug: "captain-masseuse-escaped-jetski-lawsuit-sinking-quest-1"
 excerpt: "For affluent surfers, the ultimate escape is to take a luxury charter boat to surf perfect waves on distant islands. The Mentawai Islands of Indonesia are just such islands and the Quest 1 was just such a boat. Or it was … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

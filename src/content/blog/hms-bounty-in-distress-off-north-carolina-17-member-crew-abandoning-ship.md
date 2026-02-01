@@ -1,7 +1,7 @@
 ---
 title: "HMS Bounty Foundering off North Carolina, 17 Member Crew Abandoning Ship"
 date: 2012-10-29T06:55:31
-slug: hms-bounty-in-distress-off-north-carolina-17-member-crew-abandoning-ship
+slug: "hms-bounty-in-distress-off-north-carolina-17-member-crew-abandoning-ship"
 excerpt: "Update: from the Bounty Facebook page 7:10 AM –  At 0430 today the Captain ordered all hands to abandon ship. There are 17 Crew on board and at this moment all crew are accounted for and are in Life rafts.   The … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

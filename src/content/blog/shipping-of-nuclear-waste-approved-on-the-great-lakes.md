@@ -1,7 +1,7 @@
 ---
 title: "Shipping of Nuclear Waste Approved on the Great Lakes"
 date: 2011-02-08T21:44:24
-slug: shipping-of-nuclear-waste-approved-on-the-great-lakes
+slug: "shipping-of-nuclear-waste-approved-on-the-great-lakes"
 excerpt: "Last Friday, the Canadian Nuclear Safety Commission approved a plan for Bruce Power to ship 1,600 tonnes of radioactive waste,  in the form of 16 decommissioned nuclear reactors,  across the Great Lakes, though the St. Lawrence Seaway and across the Atlantic … Continue reading &rarr;"
 categories:
   - "Current"

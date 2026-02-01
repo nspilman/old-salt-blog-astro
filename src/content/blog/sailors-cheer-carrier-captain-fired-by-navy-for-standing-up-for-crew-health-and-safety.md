@@ -1,7 +1,7 @@
 ---
 title: "Sailors Cheer Carrier Captain Fired by Navy For Standing Up For Crew Health and Safety"
 date: 2020-04-03T13:13:03
-slug: sailors-cheer-carrier-captain-fired-by-navy-for-standing-up-for-crew-health-and-safety
+slug: "sailors-cheer-carrier-captain-fired-by-navy-for-standing-up-for-crew-health-and-safety"
 excerpt: "Sailors on the aircraft carrier USS Theodore Roosevelt cheered for Captain Brett Crozier as he departed the ship in Guam. Captain Crozier was removed from duty by the Navy after he raised concerns about the spreading coronavirus on his ship … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

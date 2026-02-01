@@ -1,7 +1,7 @@
 ---
 title: "White House Hotspot — Admiral, General, and Aides Test Positive for Covid-19"
 date: 2020-10-09T11:00:20
-slug: white-house-hotspot-admiral-general-and-aides-test-positive-for-covid-19
+slug: "white-house-hotspot-admiral-general-and-aides-test-positive-for-covid-19"
 excerpt: "If anyone doubts that the coronavirus pandemic is having a negative impact on the national defense of the United States, one need only look at the expanding Covid-19 hotspot in the White House itself. A recent leaked FEMA memo said … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Horrible News for New York’s South Street Seaport Museum"
 date: 2013-06-25T07:10:16
-slug: horrible-news-for-new-yorks-south-street-seaport-museum
+slug: "horrible-news-for-new-yorks-south-street-seaport-museum"
 excerpt: "Back in 2011, there was new hope for the New York’s South Street Seaport Museum when the struggling institution was rescued by the City Museum of New York.  A $2 million grant from the Lower Manhattan Development Corporation gave the City Museum … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Greece’s Corinth Canal Blocked Since January, Closed for Summer"
 date: 2021-06-27T10:43:53
-slug: greeces-corinth-canal-blocked-since-january-closed-for-summer
+slug: "greeces-corinth-canal-blocked-since-january-closed-for-summer"
 excerpt: "The Corinth Canal that connects the Gulf of Corinth in the Ionian Sea with the Saronic Gulf in the Aegean Sea, was closed by a landslide in January. It was recently announced that the canal will remain closed to marine … Continue reading &rarr;"
 categories:
   - "Current"

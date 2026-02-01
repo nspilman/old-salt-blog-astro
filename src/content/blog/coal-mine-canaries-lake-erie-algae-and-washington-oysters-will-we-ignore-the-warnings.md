@@ -1,7 +1,7 @@
 ---
 title: "Coal Mine Canaries, Lake Erie Algae and Washington Oysters — Will We Ignore the Warnings?"
 date: 2014-08-04T15:54:52
-slug: coal-mine-canaries-lake-erie-algae-and-washington-oysters-will-we-ignore-the-warnings
+slug: "coal-mine-canaries-lake-erie-algae-and-washington-oysters-will-we-ignore-the-warnings"
 excerpt: "Last Saturday, I was helping my son move to a new job in Wisconsin. We spent the night in a motel just outside Toledo and woke to find that we couldn’t take showers, brush our teeth or have a cup of … Continue reading &rarr;"
 categories:
   - "Current"

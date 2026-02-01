@@ -1,7 +1,7 @@
 ---
 title: "Derelicts & Ghost Ships — Are Catamarans the New Lumber Schooners?"
 date: 2017-05-18T10:32:12
-slug: derelicts-ghost-ships-catamarans-new-lumber-schooners
+slug: "derelicts-ghost-ships-catamarans-new-lumber-schooners"
 excerpt: "Derelicts, abandoned ships often waterlogged and just barely afloat, are fascinating ghosts which wander the seas according to the vagaries of the winds and the currents. They are also significant hazards to navigation. In the later half of the 19th … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

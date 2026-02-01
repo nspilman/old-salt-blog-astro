@@ -1,7 +1,7 @@
 ---
 title: "Murdoch McGregor, UK Sailor of the Year for 2021 at Age 82"
 date: 2022-01-02T18:47:03
-slug: murdoch-mcgregor-uk-sailor-of-the-year-for-2021-at-age-82
+slug: "murdoch-mcgregor-uk-sailor-of-the-year-for-2021-at-age-82"
 excerpt: "Congratulations to Murdoch McGregor, who was named Sailor of the Year 2021 at the British Yachting Awards. At the age of 82, Murdoch McGregor completed a 1,900-mile trip around the UK in June. The 80-day-long solo voyage in his 23-foot … Continue reading &rarr;"
 categories:
   - "Current"

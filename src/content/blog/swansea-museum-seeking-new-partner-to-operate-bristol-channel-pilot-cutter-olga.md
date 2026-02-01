@@ -1,7 +1,7 @@
 ---
 title: "Swansea Museum Seeking New Partner to Operate Bristol Channel Pilot Cutter Olga"
 date: 2023-08-14T19:52:07
-slug: swansea-museum-seeking-new-partner-to-operate-bristol-channel-pilot-cutter-olga
+slug: "swansea-museum-seeking-new-partner-to-operate-bristol-channel-pilot-cutter-olga"
 excerpt: "Swansea Museum, the oldest museum in Wales, is seeking a new partner to sail the 1909 Bristol Channel Pilot Cutter Olga.  Their 5-year loan agreement with Sailing Tectona comes to an end this year, and the vessel will return to … Continue reading &rarr;"
 categories:
   - "Current"

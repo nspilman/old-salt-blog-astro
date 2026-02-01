@@ -1,8 +1,8 @@
 ---
 title: "GAO Report on USS Zumwalt Debacle — Deficiencies, Delays and No Big Guns"
 date: 2019-05-19T13:41:09
-slug: gao-report-on-uss-zumwalt-debacle-deficiencies-delays-and-no-big-guns
-excerpt: "A new report by the Government Accountability Office (GAO) criticizes the Navy and the shipyard, Bath Iron Works, for serious deficiencies with the DDG 1000 Zumwalt-class destroyer program. The report found more than 320 “serious deficiencies” found upon inspection when … Continue reading &rarr;"
+slug: "gao-report-on-uss-zumwalt-debacle-deficiencies-delays-and-no-big-guns"
+excerpt: "A new report by the Government Accountability Office (GAO) criticizes the Navy and the shipyard, Bath Iron Works, for serious deficiencies with the DDG 1000 Zumwalt-class destroyer program. The report found more than 320 \"serious deficiencies\" found upon inspection when … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "USS Zumwalt"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/zumwalt3.jpg"
 author: "Rick Spilman"
-description: "A new report by the Government Accountability Office (GAO) criticizes the Navy and the shipyard, Bath Iron Works, for serious deficiencies with the DDG 1000 Zumwalt-class destroyer program. The report found more than 320 “serious deficiencies” found upon inspection when … Continue reading &rarr;"
+description: "A new report by the Government Accountability Office (GAO) criticizes the Navy and the shipyard, Bath Iron Works, for serious deficiencies with the DDG 1000 Zumwalt-class destroyer program. The report found more than 320 \"serious deficiencies\" found upon inspection when … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2016/11/zumwalt3.jpg)A [new report by the Government Accountability Office (GAO)](https://www.gao.gov/products/GAO-19-336SP) criticizes the Navy and the shipyard, Bath Iron Works, for serious deficiencies with the [DDG 1000 Zumwalt-class destroyer program](https://en.wikipedia.org/wiki/Zumwalt-class_destroyer). The report found more than 320 “serious deficiencies” found upon inspection when the shipyard delivered the first-in-class [USS *Zumwalt*](https://en.wikipedia.org/wiki/USS_Zumwalt)’s hull, mechanical and electrical systems in May 2016. Another 246 “serious deficiencies” were found after acceptance trials in January and February 2018 for the USS *Michael Monsoor*, the second of three “stealth” destroyers built in Maine.

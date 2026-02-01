@@ -1,8 +1,8 @@
 ---
-title: "Costa Concordia: Captain Schettino and the “Mystery Woman”"
+title: "Costa Concordia: Captain Schettino and the \"Mystery Woman\""
 date: 2012-02-04T12:07:02
-slug: costa-concordia-captain-schettino-and-the-mystery-woman
-excerpt: "If there is a moral of this story, I suppose it must be, “don’t leave your lingerie in the captain’s cabin.”  Not long after the Costa Concordia ran aground and sank off the island of Giglio on January 13th, there … Continue reading &rarr;"
+slug: "costa-concordia-captain-schettino-and-the-mystery-woman"
+excerpt: "If there is a moral of this story, I suppose it must be, \"don’t leave your lingerie in the captain’s cabin.\"  Not long after the Costa Concordia ran aground and sank off the island of Giglio on January 13th, there … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Francesco Schettino"
   - "Giglio"
 author: "Rick Spilman"
-description: "If there is a moral of this story, I suppose it must be, “don’t leave your lingerie in the captain’s cabin.”  Not long after the Costa Concordia ran aground and sank off the island of Giglio on January 13th, there … Continue reading &rarr;"
+description: "If there is a moral of this story, I suppose it must be, \"don’t leave your lingerie in the captain’s cabin.\"  Not long after the Costa Concordia ran aground and sank off the island of Giglio on January 13th, there … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/2467543.jpg)

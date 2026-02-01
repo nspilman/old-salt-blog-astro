@@ -1,7 +1,7 @@
 ---
 title: "Towing the Intrepid – a McAllister Tug Film by Jon Kane"
 date: 2009-08-01T08:53:23
-slug: towing-the-intrepid-a-mcallister-tug-film-by-jon-kane
+slug: "towing-the-intrepid-a-mcallister-tug-film-by-jon-kane"
 excerpt: "A beautifully shot and edited short video. Jon Kane’s comments: I did this film for my friend Buck McAllister who’s family owns McAllister Towing tug boat company. I shot the film with one camera, in real time, during the towing … Continue reading &rarr;"
 categories:
   - "Current"

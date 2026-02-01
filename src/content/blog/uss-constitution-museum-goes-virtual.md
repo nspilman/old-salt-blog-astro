@@ -1,7 +1,7 @@
 ---
 title: "USS Constitution Museum Goes Virtual"
 date: 2020-03-28T16:49:44
-slug: uss-constitution-museum-goes-virtual
+slug: "uss-constitution-museum-goes-virtual"
 excerpt: "We recently posted about two virtual tours available on the historic frigate USS Constitution. In these days of the coronavirus lockdown, the ship is closed as is the shoreside museum. Just as you can tour the ship virtually, the USS … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

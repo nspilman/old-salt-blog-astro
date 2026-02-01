@@ -1,7 +1,7 @@
 ---
 title: "From Varyag to Shi Lang – the Long Strange Voyage of China’s New Twenty Year Old Aircraft Carrier"
 date: 2011-08-10T16:34:17
-slug: from-varyag-to-shi-lang-the-long-strange-voyage-of-chinas-new-twenty-year-old-aircraft-carrier
+slug: "from-varyag-to-shi-lang-the-long-strange-voyage-of-chinas-new-twenty-year-old-aircraft-carrier"
 excerpt: "In May, we posted about what appears to be the deck of an aircraft carrier built onto the top of a government building in China (China takes a Great Leap Forward in the Concrete Carrier Arms Race.)  Some speculated that … Continue reading &rarr;"
 categories:
   - "Current"

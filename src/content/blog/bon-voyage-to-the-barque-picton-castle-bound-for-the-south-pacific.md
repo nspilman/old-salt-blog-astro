@@ -1,7 +1,7 @@
 ---
 title: "Bon Voyage to the Barque Picton Castle – Bound for the South Pacific"
 date: 2012-11-03T11:36:28
-slug: bon-voyage-to-the-barque-picton-castle-bound-for-the-south-pacific
+slug: "bon-voyage-to-the-barque-picton-castle-bound-for-the-south-pacific"
 excerpt: "The sail training ship, the barque Piction Castle, sailed from Lunenburg, Nova Scotia this morning, bound for Grenada, then through the Panama Canal on a voyage to the South Pacific.  To follow the Picton Castle on her voyage click here. The Picton Castle, captained by … Continue reading &rarr;"
 categories:
   - "Current"

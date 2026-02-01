@@ -1,7 +1,7 @@
 ---
 title: "The Barracuda Bites Back — Crew of Korean Bulker JS Comet Medevaced Off Florida Coast"
 date: 2014-07-05T08:26:04
-slug: the-barracuda-bites-back-crew-of-korean-bulker-js-comet-medevaced-off-florida-coast
+slug: "the-barracuda-bites-back-crew-of-korean-bulker-js-comet-medevaced-off-florida-coast"
 excerpt: "The US Coast Guard in Florida faced an unusual challenge earlier this week.  Virtually the entire crew, 19 out of 21, on the 35,362 dwt Korean bulk carrier JS Comet had become seriously ill with symptoms of food poisoning and needed to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

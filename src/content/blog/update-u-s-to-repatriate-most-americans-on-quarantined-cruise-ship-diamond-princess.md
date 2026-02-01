@@ -1,7 +1,7 @@
 ---
 title: "Update: U.S. To Repatriate Most Americans on Quarantined Cruise Ship Diamond Princess"
 date: 2020-02-15T12:52:09
-slug: update-u-s-to-repatriate-most-americans-on-quarantined-cruise-ship-diamond-princess
+slug: "update-u-s-to-repatriate-most-americans-on-quarantined-cruise-ship-diamond-princess"
 excerpt: "Is the quarantine of the cruise ship Diamond Princess in Japan an effective way to control the spread of the virus known as COVID-19 , or is it facilitating the spread of the virus to other passengers and crew aboard … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

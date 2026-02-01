@@ -1,8 +1,8 @@
 ---
-title: "Migaloo, “Rockstar” White Whale, Sighted Off New South Wales"
+title: "Migaloo, \"Rockstar\" White Whale, Sighted Off New South Wales"
 date: 2021-05-05T15:58:57
-slug: migaloo-rockstar-white-whale-sighted-off-new-south-wales
-excerpt: "There are reports that Migaloo, an all-white humpback whale, has been sighted off the South Coast of New South Wales, Australia, on his annual migration from Antarctica to Queensland. Migaloo is considered by many to be a “rockstar” and is … Continue reading &rarr;"
+slug: "migaloo-rockstar-white-whale-sighted-off-new-south-wales"
+excerpt: "There are reports that Migaloo, an all-white humpback whale, has been sighted off the South Coast of New South Wales, Australia, on his annual migration from Antarctica to Queensland. Migaloo is considered by many to be a \"rockstar\" and is … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "white humpback whale"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/05/migaloo.jpg"
 author: "Rick Spilman"
-description: "There are reports that Migaloo, an all-white humpback whale, has been sighted off the South Coast of New South Wales, Australia, on his annual migration from Antarctica to Queensland. Migaloo is considered by many to be a “rockstar” and is … Continue reading &rarr;"
+description: "There are reports that Migaloo, an all-white humpback whale, has been sighted off the South Coast of New South Wales, Australia, on his annual migration from Antarctica to Queensland. Migaloo is considered by many to be a \"rockstar\" and is … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/05/migaloo.jpg)There are reports that [Migaloo](https://www.migaloo.org.au/), an all-white humpback whale, has been sighted off the South Coast of New South Wales, Australia, on his annual migration from Antarctica to Queensland. Migaloo is considered by many to be a “rockstar” and is arguably the world’s [most famous living whale](https://twitter.com/Migaloo1).

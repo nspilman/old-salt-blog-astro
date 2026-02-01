@@ -1,7 +1,7 @@
 ---
 title: "Xenoturbella, the Mighty Purple Sock of the Sea"
 date: 2016-03-28T20:24:03
-slug: xenoturbella-the-mighty-purple-sock-of-the-sea
+slug: "xenoturbella-the-mighty-purple-sock-of-the-sea"
 excerpt: "For the last sixty years or so, scientists have been puzzled how to classify the xenoturbella, a mysterious sea creature which resembles a purple sock. The xenoturbella has no brains, guts or even eyes. It only has a gaping mouth … Continue reading &rarr;"
 categories:
   - "Current"

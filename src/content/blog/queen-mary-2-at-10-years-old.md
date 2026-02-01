@@ -1,7 +1,7 @@
 ---
 title: "Queen Mary 2 at 10 Years Old"
 date: 2014-03-08T14:28:21
-slug: queen-mary-2-at-10-years-old
+slug: "queen-mary-2-at-10-years-old"
 excerpt: "In publicity photos to celebrate the tenth year anniversary of the Queen Mary 2 going into service, Captain Kevin Oprey is seen standing on the ship’s bulbous bow.  The photos dramatically capture the size of the mighty ship. Click on the … Continue reading &rarr;"
 categories:
   - "Current"

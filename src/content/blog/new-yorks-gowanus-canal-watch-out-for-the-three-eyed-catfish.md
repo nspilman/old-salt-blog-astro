@@ -1,8 +1,8 @@
 ---
 title: "New York’s Gowanus Canal — Watch out for the Three-Eyed Catfish"
 date: 2015-11-11T13:07:37
-slug: new-yorks-gowanus-canal-watch-out-for-the-three-eyed-catfish
-excerpt: "A fisherman recently may or may not have caught a three-eyed catfish in New York’s Gowanus Canal.  Why anyone would fish in the canal is a question that immediately comes to mind, immediately followed by “what would you do with … Continue reading &rarr;"
+slug: "new-yorks-gowanus-canal-watch-out-for-the-three-eyed-catfish"
+excerpt: "A fisherman recently may or may not have caught a three-eyed catfish in New York’s Gowanus Canal.  Why anyone would fish in the canal is a question that immediately comes to mind, immediately followed by \"what would you do with … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

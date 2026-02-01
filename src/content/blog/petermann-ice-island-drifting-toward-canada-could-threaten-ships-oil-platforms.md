@@ -1,7 +1,7 @@
 ---
 title: "Petermann Ice Island Drifting Toward Canada could Threaten Ships, Oil Platforms"
 date: 2010-08-12T14:53:14
-slug: petermann-ice-island-drifting-toward-canada-could-threaten-ships-oil-platforms
+slug: "petermann-ice-island-drifting-toward-canada-could-threaten-ships-oil-platforms"
 excerpt: "Last Saturday we posted about a one hundred square mile ice island that broke off from the Petermann glacier in Greenland.   Experts from the Canadian government, with the aid of NASA , the European Space agency and numerous other academic institutions, are … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "22 knots of boat speed in 2 knots of wind?"
 date: 2010-02-11T09:56:47
-slug: 22-knots-of-boat-speed-in-2-knots-of-wind
-excerpt: "The physics here is fascinating.   How is it possible that the America’s Cup challenger ”USA” can sail at 22 knots in only two knots of wind?  Chuck Lantz of the Enquirer, explains how it is done. America’s Cup boatspeed – Making something out … Continue reading &rarr;"
+slug: "22-knots-of-boat-speed-in-2-knots-of-wind"
+excerpt: "The physics here is fascinating.   How is it possible that the America’s Cup challenger \"USA\" can sail at 22 knots in only two knots of wind?  Chuck Lantz of the Enquirer, explains how it is done. America’s Cup boatspeed – Making something out … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "America’s Cup challenger"
   - "apparent wind"
 author: "Rick Spilman"
-description: "The physics here is fascinating.   How is it possible that the America’s Cup challenger ”USA” can sail at 22 knots in only two knots of wind?  Chuck Lantz of the Enquirer, explains how it is done. America’s Cup boatspeed – Making something out … Continue reading &rarr;"
+description: "The physics here is fascinating.   How is it possible that the America’s Cup challenger \"USA\" can sail at 22 knots in only two knots of wind?  Chuck Lantz of the Enquirer, explains how it is done. America’s Cup boatspeed – Making something out … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/oracle-150x100.jpg)The physics here is fascinating.   How is it possible that the America’s Cup challenger ”USA” can sail at 22 knots in only two knots of wind?  [Chuck Lantz of the Enquirer](http://www.examiner.com/x-29731-Americas-Cup-Examiner~y2010m2d11-Americas-Cup-boatspeed--Making-something-out-of-nothing), explains how it is done.

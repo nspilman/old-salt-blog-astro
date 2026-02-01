@@ -1,8 +1,8 @@
 ---
 title: "Clipper Ship City of Adelaide Ready to Begin her Long Voyage Home to Australia"
 date: 2012-08-28T14:28:30
-slug: clipper-ship-city-of-adelaide-ready-to-begin-her-long-voyage-home-to-australia
-excerpt: "Last January we posted that the composite clipper ship City of Adelaide would begin her voyage by barge and then ship  to her namesake city in Australia by March, “if all goes well.”   As is not unusual is this sort of project, … Continue reading &rarr;"
+slug: "clipper-ship-city-of-adelaide-ready-to-begin-her-long-voyage-home-to-australia"
+excerpt: "Last January we posted that the composite clipper ship City of Adelaide would begin her voyage by barge and then ship  to her namesake city in Australia by March, \"if all goes well.\"   As is not unusual is this sort of project, … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "composite clipper ship"
   - "Scotland"
 author: "Rick Spilman"
-description: "Last January we posted that the composite clipper ship City of Adelaide would begin her voyage by barge and then ship  to her namesake city in Australia by March, “if all goes well.”   As is not unusual is this sort of project, … Continue reading &rarr;"
+description: "Last January we posted that the composite clipper ship City of Adelaide would begin her voyage by barge and then ship  to her namesake city in Australia by March, \"if all goes well.\"   As is not unusual is this sort of project, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/nov_2009_image.jpg)Last January [we posted](http://www.oldsaltblog.com/2012/01/19/the-clipper-ship-city-of-adelaide-ready-by-march-for-transport-to-australia/) that the composite clipper ship [*City of Adelaide*](http://cityofadelaide.org.au/) would begin her voyage by barge and then ship  to her namesake city in Australia by March, “if all goes well.”   As is not unusual is this sort of project, there have been delays.  The new departure date from Scotland is now October.  The ship, built in 1864, has been fumigated and is waiting on a barge to take her to Rotterdam, where she will be loaded onto a container ship for her return trip to Australia.

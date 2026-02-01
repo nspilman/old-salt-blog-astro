@@ -1,8 +1,8 @@
 ---
 title: "Congratulations to the Historic Vessel Vega"
 date: 2011-01-12T09:13:57
-slug: congratulations-to-the-historic-vessel-vega
-excerpt: "Congratulations to the Capt. Shane Granger, Meggi Macoun, Joanne Har and all the good folks on the historic vessel Vega for being honored with the Asia Pacific Laureate Foundation annual award for Social Services in recognition of “Humanitarian Services to Isolated Island … Continue reading &rarr;"
+slug: "congratulations-to-the-historic-vessel-vega"
+excerpt: "Congratulations to the Capt. Shane Granger, Meggi Macoun, Joanne Har and all the good folks on the historic vessel Vega for being honored with the Asia Pacific Laureate Foundation annual award for Social Services in recognition of \"Humanitarian Services to Isolated Island … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Meggi Macoun"
   - "VEGA"
 author: "Rick Spilman"
-description: "Congratulations to the Capt. Shane Granger, Meggi Macoun, Joanne Har and all the good folks on the historic vessel Vega for being honored with the Asia Pacific Laureate Foundation annual award for Social Services in recognition of “Humanitarian Services to Isolated Island … Continue reading &rarr;"
+description: "Congratulations to the Capt. Shane Granger, Meggi Macoun, Joanne Har and all the good folks on the historic vessel Vega for being honored with the Asia Pacific Laureate Foundation annual award for Social Services in recognition of \"Humanitarian Services to Isolated Island … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/vega_banner.jpg)](http://sailvega.wordpress.com/)

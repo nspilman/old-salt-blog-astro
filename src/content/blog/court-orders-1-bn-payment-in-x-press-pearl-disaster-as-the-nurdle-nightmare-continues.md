@@ -1,7 +1,7 @@
 ---
 title: "Court Orders $1 Bn Payment in X-Press Pearl Disaster as the Nurdle Nightmare Continues"
 date: 2025-07-29T17:13:56
-slug: court-orders-1-bn-payment-in-x-press-pearl-disaster-as-the-nurdle-nightmare-continues
+slug: "court-orders-1-bn-payment-in-x-press-pearl-disaster-as-the-nurdle-nightmare-continues"
 excerpt: "Sri Lanka’s Supreme Court has ordered the owners and operators of the container ship  X-Press Pearl to pay $1bn USD in compensation for the devastating environmental and economic damage caused when the ship caught fire and sank off Colombo in 2021. … Continue reading &rarr;"
 categories:
   - "Current"

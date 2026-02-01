@@ -1,7 +1,7 @@
 ---
 title: "Happy 221st Birthday US Coast Guard !"
 date: 2011-08-04T06:51:13
-slug: happy-221st-birthday-us-coast-guard
+slug: "happy-221st-birthday-us-coast-guard"
 excerpt: "On August 4, 1790, Alexander Hamilton founded the Revenue Cutter Service, the predecessor of the United States Coast Guard.   The anniversary is celebrated in various ways around the United States. Portsmouth, VA will host a celebration today through Saturday. In Alaska, August … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "First Ever Confirmed Image of a Colossal Squid in the Deep Ocean Happens to be Really, Really Small"
 date: 2025-04-18T11:39:34
-slug: first-ever-confirmed-image-of-a-colossal-squid-in-the-deep-ocean-happens-to-be-really-really-small
+slug: "first-ever-confirmed-image-of-a-colossal-squid-in-the-deep-ocean-happens-to-be-really-really-small"
 excerpt: "A colossal squid has been caught on camera for the first time in the deep sea by an international team of researchers steering a remotely operated submersible. Ironically, the first colossal squid caught on camera was anything but colossal. Adult … Continue reading &rarr;"
 categories:
   - "Current"

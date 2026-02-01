@@ -1,7 +1,7 @@
 ---
 title: "Factory Fishing Ship Athena on Fire in the Atlantic"
 date: 2010-10-27T07:40:49
-slug: factory-fishing-ship-athena-on-fire-in-the-atlantic
+slug: "factory-fishing-ship-athena-on-fire-in-the-atlantic"
 excerpt: "The factory fishing ship Athena caught fire early today in the Atlantic, 230 miles south-west of the Isles of Scilly. Eighty one non-essential personnel were evacuated to liferafts and subsequently rescued as the  remaining  30 aboard fought the fire, which is now reported … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "First US Offshore Wind Farm Off Block Island, an Island with a Long History of Wind Power"
 date: 2016-08-16T08:30:35
-slug: first-us-offshore-wind-farm-off-block-island-island-long-history-wind-power
+slug: "first-us-offshore-wind-farm-off-block-island-island-long-history-wind-power"
 excerpt: "Last November, we posted Wind Power Returns to Block Island about a planned offshore wind farm.  The installation of America’s first offshore wind farm has finally come to pass.  America’s very first offshore wind turbine was erected recently off the coast of … Continue reading &rarr;"
 categories:
   - "Current"

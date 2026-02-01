@@ -1,8 +1,8 @@
 ---
 title: "Beckoning Ice & Hell Around the Horn – Free Today and Tomorrow on Kindle"
 date: 2013-05-18T12:30:54
-slug: beckoning-ice-hell-around-the-horn-free-today-and-tomorrow-on-kindle
-excerpt: "Joan Druett’s Beckoning Ice, the fifth in her series of Wiki Coffin nautical mysteries, is free today and tomorrow on Kindle. Joan’s detective, Wiki Coffin, is a half-Maori, half-Yankee “linguister,” who is also the representative of American law and order with the … Continue reading &rarr;"
+slug: "beckoning-ice-hell-around-the-horn-free-today-and-tomorrow-on-kindle"
+excerpt: "Joan Druett’s Beckoning Ice, the fifth in her series of Wiki Coffin nautical mysteries, is free today and tomorrow on Kindle. Joan’s detective, Wiki Coffin, is a half-Maori, half-Yankee \"linguister,\" who is also the representative of American law and order with the … Continue reading &rarr;"
 categories:
   - "Newbooks"
   - "Seastories"
@@ -12,7 +12,7 @@ tags:
   - "Joan Druett"
   - "Old Salt Pres"
 author: "Rick Spilman"
-description: "Joan Druett’s Beckoning Ice, the fifth in her series of Wiki Coffin nautical mysteries, is free today and tomorrow on Kindle. Joan’s detective, Wiki Coffin, is a half-Maori, half-Yankee “linguister,” who is also the representative of American law and order with the … Continue reading &rarr;"
+description: "Joan Druett’s Beckoning Ice, the fifth in her series of Wiki Coffin nautical mysteries, is free today and tomorrow on Kindle. Joan’s detective, Wiki Coffin, is a half-Maori, half-Yankee \"linguister,\" who is also the representative of American law and order with the … Continue reading &rarr;"
 ---
 
 [![](http://oldsaltpress.com/wp-content/uploads/2013/05/Beckoning-Ice3thumb.jpg)](http://www.amazon.com/Beckoning-Wiki-Coffin-Mysteries-ebook/dp/B00AHJI8P8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1368894568&sr=1-1&keywords=beckoning+ice)Joan Druett’s [*Beckoning Ice*](http://www.amazon.com/Beckoning-Wiki-Coffin-Mysteries-ebook/dp/B00AHJI8P8/ref=sr_1_1?ie=UTF8&qid=1368892271&sr=8-1&keywords=beckoning+ice), the fifth in her series of Wiki Coffin nautical mysteries, is free today and tomorrow on Kindle. Joan’s detective, Wiki Coffin, is a half-Maori, half-Yankee “linguister,” who is also the representative of American law and order with the U.S. Exploring Expedition fleet in 1839. Against the backdrop of the treacherous Southern Ocean, Wiki is called upon to solve the murder of a young naval lieutenant, while avoiding the increasingly determined attempts on his own life.  A great mystery. (See our also [our review from last December](http://www.oldsaltblog.com/2012/12/joan-druetts-the-beckoning-ice-a-wiki-coffin-mystery-a-review/).)  [Click here to download a free copy of *Beckoning Ice.*](http://www.amazon.com/Beckoning-Wiki-Coffin-Mysteries-ebook/dp/B00AHJI8P8/ref=sr_1_1?ie=UTF8&qid=1368892271&sr=8-1&keywords=beckoning+ice)

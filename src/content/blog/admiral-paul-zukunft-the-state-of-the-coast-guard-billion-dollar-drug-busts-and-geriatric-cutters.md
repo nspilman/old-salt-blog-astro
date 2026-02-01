@@ -1,7 +1,7 @@
 ---
 title: "Admiral Paul Zukunft & the State of the Coast Guard — Billion Dollar Drug Busts and Geriatric Cutters"
 date: 2017-03-24T14:05:08
-slug: admiral-paul-zukunft-the-state-of-the-coast-guard-billion-dollar-drug-busts-and-geriatric-cutters
+slug: "admiral-paul-zukunft-the-state-of-the-coast-guard-billion-dollar-drug-busts-and-geriatric-cutters"
 excerpt: "We recently posted about a budget proposal by the current administration which would drastically cut the US Coast Guard’s budget. While the budget proposal is unlikely to survive in its current form, it does suggest a fundamental lack of an … Continue reading &rarr;"
 categories:
   - "Current"

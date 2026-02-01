@@ -1,8 +1,8 @@
 ---
 title: "Black Dog’s Shenandoah For Sale & Plans for Shenandoah 2.0"
 date: 2019-08-27T19:56:57
-slug: black-dogs-shenandoah-for-sale-plans-for-shenandoah-2-0
-excerpt: "I feel like beginning this post with the old cheer, “The King is dead! Long live the King!” But no. That is hardly apt. How about “the schooner Shenandoah is for Sale! Long Live Shenandoah 2.0!” That still is not … Continue reading &rarr;"
+slug: "black-dogs-shenandoah-for-sale-plans-for-shenandoah-2-0"
+excerpt: "I feel like beginning this post with the old cheer, \"The King is dead! Long live the King!\" But no. That is hardly apt. How about \"the schooner Shenandoah is for Sale! Long Live Shenandoah 2.0!\" That still is not … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Black Dog Tall Ships"
   - "Shenandoah"
 author: "Rick Spilman"
-description: "I feel like beginning this post with the old cheer, “The King is dead! Long live the King!” But no. That is hardly apt. How about “the schooner Shenandoah is for Sale! Long Live Shenandoah 2.0!” That still is not … Continue reading &rarr;"
+description: "I feel like beginning this post with the old cheer, \"The King is dead! Long live the King!\" But no. That is hardly apt. How about \"the schooner Shenandoah is for Sale! Long Live Shenandoah 2.0!\" That still is not … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/shenandoah.jpg)I feel like beginning this post with the old cheer, “The King is dead! Long live the King!” But no. That is hardly apt. How about “the schooner [*Shenandoah*](https://en.wikipedia.org/wiki/Shenandoah_\(schooner\)) is for Sale! Long Live *Shenandoah 2.0*!” That still is not quite right, but it is closer. Here is the story.

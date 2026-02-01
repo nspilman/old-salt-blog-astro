@@ -1,7 +1,7 @@
 ---
 title: "US Navy Sailor Convicted of Spying for China"
 date: 2025-08-24T16:56:38
-slug: us-navy-sailor-convicted-of-spying-for-china
+slug: "us-navy-sailor-convicted-of-spying-for-china"
 excerpt: "A Department of Justice statement announced that on Aug. 20, a federal jury convicted Jinchao Wei, also known as Patrick Wei, of espionage and export violations. Wei was an active-duty US Navy sailor stationed at Naval Base San Diego when … Continue reading &rarr;"
 categories:
   - "Current"

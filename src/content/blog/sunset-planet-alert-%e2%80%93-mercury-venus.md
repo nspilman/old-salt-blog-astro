@@ -1,7 +1,7 @@
 ---
 title: "Sunset Planet Alert – Mercury & Venus"
 date: 2010-04-01T09:39:34
-slug: sunset-planet-alert-%e2%80%93-mercury-venus
+slug: "sunset-planet-alert-%e2%80%93-mercury-venus"
 excerpt: "Sunset Planet Alert The solar system’s innermost planets are about to put on a beautiful show. This week, Mercury is emerging from the glare of the sun and making a beeline for Venus. By week’s end, the two planets will … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

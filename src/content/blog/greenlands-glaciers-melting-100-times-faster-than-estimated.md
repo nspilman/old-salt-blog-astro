@@ -1,7 +1,7 @@
 ---
 title: "Greenland’s Glaciers Melting 100 Times Faster Than Estimated"
 date: 2022-12-29T18:34:24
-slug: greenlands-glaciers-melting-100-times-faster-than-estimated
+slug: "greenlands-glaciers-melting-100-times-faster-than-estimated"
 excerpt: "A disturbing report from Phys.org. Greenland’s glaciers are melting 100 times faster than previously calculated, according to a new model that takes into account the unique interaction between ice and water at the island’s fjords.  Published in the journal Geophysical … Continue reading &rarr;"
 categories:
   - "Current"

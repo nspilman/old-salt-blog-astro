@@ -1,13 +1,13 @@
 ---
 title: "Remembering the Bounty and Superstorm Sandy — One Year Ago Today"
 date: 2013-10-29T13:31:16
-slug: a-year-later-the-bounty-and-superstorm-sandy
+slug: "a-year-later-the-bounty-and-superstorm-sandy"
 excerpt: "Today is the first anniversary of Superstorm Sandy hitting the Northeast. It is also the anniversary of the sinking the Bounty off Cape Hatteras on the coast of North Carolina.  Recently, survivors of the Bounty returned to the site of the sinking, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - ""superstorm" Sandy"
+  - "\"superstorm\" Sandy"
   - "bounty"
   - "St. Jude storm"
 author: "Rick Spilman"

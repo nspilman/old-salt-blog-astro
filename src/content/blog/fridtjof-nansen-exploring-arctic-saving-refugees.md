@@ -1,7 +1,7 @@
 ---
 title: "Fridtjof Nansen, Exploring the Arctic and Saving Refugees"
 date: 2017-10-10T16:55:13
-slug: fridtjof-nansen-exploring-arctic-saving-refugees
+slug: "fridtjof-nansen-exploring-arctic-saving-refugees"
 excerpt: "Today’s Google Doodle commemorates the 156th birthday of Fridtjof Nansen — arctic explorer, scientist, diplomat, humanitarian and winner of the Nobel Peace Prize. Nansen seems particularly relevant in these times as the polar ice cap continues to melt and as refugee … Continue reading &rarr;"
 categories:
   - "History"

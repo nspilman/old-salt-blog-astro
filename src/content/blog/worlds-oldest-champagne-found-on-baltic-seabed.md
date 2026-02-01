@@ -1,7 +1,7 @@
 ---
 title: "Baltic Bubbly – ‘World’s oldest champagne’"
 date: 2010-07-18T09:21:56
-slug: worlds-oldest-champagne-found-on-baltic-seabed
+slug: "worlds-oldest-champagne-found-on-baltic-seabed"
 excerpt: "Divers have found 30 bottles of champagne thought to pre-date the French Revolution on the Baltic seabed.  Reportedly, it was still highly drinkable. All I can say is that the seabed must be one hell of a wine cellar.   … Continue reading &rarr;"
 categories:
   - "Current"

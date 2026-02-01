@@ -1,7 +1,7 @@
 ---
 title: "Container Ship Maersk Tigris Diverted by Iran in Strait of Hormuz"
 date: 2015-04-28T15:33:31
-slug: container-ship-maersk-tigris-diverted-by-iran-in-strait-of-hormuz
+slug: "container-ship-maersk-tigris-diverted-by-iran-in-strait-of-hormuz"
 excerpt: "The Marshall Island flagged container ship Maersk Tigris sailing from the Saudi port of Jeddah, bound for the United Arab Emirates port of Jebel Ali, was intercepted by Iranian forces in the Strait of Hormuz. As reported by Bloomberg, the ship was … Continue reading &rarr;"
 categories:
   - "Current"

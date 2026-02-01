@@ -1,7 +1,7 @@
 ---
 title: "After Three Years, USS Fitzgerald Returns to Service"
 date: 2020-06-15T12:02:09
-slug: after-three-years-uss-fitzgerald-returns-to-service
+slug: "after-three-years-uss-fitzgerald-returns-to-service"
 excerpt: "On June 17, 2017, the Arleigh Burke-class destroyer, USS Fitzgerald, collided with the container ship  ACX Crystal near Toyko Bay off the coast of Japan. Seven US sailors died in the collision and at least three more were injured, including … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Transport Canada: Capsized Leviathan II Met Stability Requirements"
 date: 2015-11-03T16:11:44
-slug: transport-canada-capsized-leviathan-ii-passed-stability-test
+slug: "transport-canada-capsized-leviathan-ii-passed-stability-test"
 excerpt: "The first reports from accidents are often wrong. In the case of the capsizing of the whale-watching boat, Leviathan II, off Tofino on Vancouver Island with the loss of six passengers, the initial reports from CBC News said that the vessel … Continue reading &rarr;"
 categories:
   - "Current"

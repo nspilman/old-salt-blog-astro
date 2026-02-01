@@ -1,7 +1,7 @@
 ---
 title: "Tallship Oliver Hazard Perry in Drydock with Uncertain Future"
 date: 2019-02-12T09:41:40
-slug: tallship-oliver-hazard-perry-in-drydock-with-uncertain-future
+slug: "tallship-oliver-hazard-perry-in-drydock-with-uncertain-future"
 excerpt: "The Oliver Hazard Perry, the largest civilian Sailing School Vessel in the United States, has offered programs in New England in the Summer and headed south in colder months. Recently, however, the operation ran a deficit approaching $1 million. Rather than … Continue reading &rarr;"
 categories:
   - "Current"

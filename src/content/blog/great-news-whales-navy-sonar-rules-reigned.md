@@ -1,7 +1,7 @@
 ---
 title: "Great News for Whales — Navy Sonar Rules Reined In"
 date: 2016-07-17T09:02:48
-slug: great-news-whales-navy-sonar-rules-reigned
+slug: "great-news-whales-navy-sonar-rules-reigned"
 excerpt: "In 2012, we posted about how U.S Navy low frequency sonar training and testing could kill or deafen thousands of whales and dolphins.  Environmental groups, led by the Natural Resources Defense Council, filed a lawsuit in San Francisco arguing that actions violated … Continue reading &rarr;"
 categories:
   - "Current"

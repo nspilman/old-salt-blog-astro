@@ -1,7 +1,7 @@
 ---
 title: "Submarines to do Battle with Typhoons?"
 date: 2010-09-26T07:40:38
-slug: submarines-to-do-battle-with-typhoons
+slug: "submarines-to-do-battle-with-typhoons"
 excerpt: "This sounds completely nuts.  It might possibly work but there is the question of scale to be addressed.  Hurricanes, or typhoons in the Pacific,  need warm water to provide energy to the storm. The idea is to built a fleet of submarines to … Continue reading &rarr;"
 categories:
   - "Current"

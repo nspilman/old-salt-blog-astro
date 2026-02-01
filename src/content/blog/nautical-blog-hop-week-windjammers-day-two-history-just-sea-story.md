@@ -1,7 +1,7 @@
 ---
 title: "Nautical Blog Hop & a Week of Windjammers: Day Two – Is History Just a Sea Story?"
 date: 2013-09-18T10:20:49
-slug: nautical-blog-hop-week-windjammers-day-two-history-just-sea-story
+slug: "nautical-blog-hop-week-windjammers-day-two-history-just-sea-story"
 excerpt: "What is history? What is fiction?  These seem to be straightforward questions. The conventional answer would be that history is what happened and fiction are the stories that we make up.  In writing my recent novel I was faced with … Continue reading &rarr;"
 categories:
   - "Blog Hop"

@@ -1,14 +1,14 @@
 ---
 title: "Historical Novel Society Conference 2012 and Hell Around the Horn Available in Print"
 date: 2012-09-26T10:57:37
-slug: historical-novel-society-conference-2012-and-hell-around-the-horn-available-in-print
+slug: "historical-novel-society-conference-2012-and-hell-around-the-horn-available-in-print"
 excerpt: "The Internet is an odd place. There are writers who I feel that I know well and consider to be friends, and yet that I have never met in person.  This evening, I will be leaving to attend the Historical Novel Society Conference … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Newbooks"
   - "Seastories"
 tags:
-  - ""Ship's Ahoy" Workshop"
+  - "\"Ship's Ahoy\" Workshop"
   - "Helen Hollick"
   - "Hell Around the Horn"
   - "Historical Novel Society Conference"

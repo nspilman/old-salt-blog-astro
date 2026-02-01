@@ -1,7 +1,7 @@
 ---
 title: "The Drunk Guy, the Stolen Skiff, the Ferry Terminal & the Illusion of Security"
 date: 2017-10-24T11:48:38
-slug: drunk-guy-stolen-skiff-ferry-terminal-illusion-security
+slug: "drunk-guy-stolen-skiff-ferry-terminal-illusion-security"
 excerpt: "Last Thursday evening, a man described as being extremely drunk, stole a skiff in Bayonne, NJ, and drove it across New York harbor to Staten Island. He docked the boat in a slip at the St. George Staten Island Ferry … Continue reading &rarr;"
 categories:
   - "Current"

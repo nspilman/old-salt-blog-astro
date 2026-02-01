@@ -1,7 +1,7 @@
 ---
 title: "Maiden Voyage of the Morgawr  – Replica Bronze Age Boat Takes to the Water"
 date: 2013-03-09T08:13:55
-slug: maiden-voyage-of-the-morgawr-replica-bronze-age-boat-takes-to-the-water
+slug: "maiden-voyage-of-the-morgawr-replica-bronze-age-boat-takes-to-the-water"
 excerpt: "A brand new copy of a 4,000 year old craft was paddled out on a short maiden voyage in Falmouth, Cornwall on Wednesday. Christened the Morgawr after a mythical monster of Falmouth Bay, she is a 50 foot long, six-ton … Continue reading &rarr;"
 categories:
   - "Current"

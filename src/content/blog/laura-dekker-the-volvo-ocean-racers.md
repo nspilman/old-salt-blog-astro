@@ -1,7 +1,7 @@
 ---
 title: "Laura Dekker & the Volvo Ocean Racers"
 date: 2011-12-06T10:57:39
-slug: laura-dekker-the-volvo-ocean-racers
+slug: "laura-dekker-the-volvo-ocean-racers"
 excerpt: "I was struck by the juxtaposition.  Laura Dekker, the Dutch 16 year old who is sailing around the world alone, arrived in Cape Town at roughly the same times as the mega-racers of the Volvo Ocean Race.  Well, she arrived … Continue reading &rarr;"
 categories:
   - "Current"

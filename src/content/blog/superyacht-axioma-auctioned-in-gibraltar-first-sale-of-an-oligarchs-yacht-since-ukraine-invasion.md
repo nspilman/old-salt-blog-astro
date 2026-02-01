@@ -1,7 +1,7 @@
 ---
 title: "Superyacht Axioma Auctioned in Gibraltar — First Sale of an Oligarch’s Yacht Since Ukraine Invasion"
 date: 2022-08-25T14:21:48
-slug: superyacht-axioma-auctioned-in-gibraltar-first-sale-of-an-oligarchs-yacht-since-ukraine-invasion
+slug: "superyacht-axioma-auctioned-in-gibraltar-first-sale-of-an-oligarchs-yacht-since-ukraine-invasion"
 excerpt: "Axioma, a $75-million superyacht linked to a sanctioned Russian steel billionaire, was auctioned on Tuesday in Gibraltar, court sources said, in what is understood to be the first sale of its kind since Russia invaded Ukraine in February. The 72.5-meter … Continue reading &rarr;"
 categories:
   - "Current"

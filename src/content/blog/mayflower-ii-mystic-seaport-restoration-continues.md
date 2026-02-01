@@ -1,7 +1,7 @@
 ---
 title: "Mayflower II at Mystic Seaport — the Restoration Continues"
 date: 2017-05-28T09:55:12
-slug: mayflower-ii-mystic-seaport-restoration-continues
+slug: "mayflower-ii-mystic-seaport-restoration-continues"
 excerpt: "Here is a fascinating new video from Mystic Seaport Museum describing the restoration of Mayflower II  at the seaport’s Henry B. duPont Preservation Shipyard.  Mayflower II is a  reproduction of the original Mayflower  built from 1955-1957.   Restoration Continues: Mayflower II … Continue reading &rarr;"
 categories:
   - "Current"

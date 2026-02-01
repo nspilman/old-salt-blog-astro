@@ -1,7 +1,7 @@
 ---
 title: "Never Tailgate a Cutter — Mesabi Miner Runs into Cutter Hollyhock"
 date: 2014-01-07T09:26:25
-slug: never-tailgate-a-cutter-mesabi-miner-runs-into-cutter-hollyhock
+slug: "never-tailgate-a-cutter-mesabi-miner-runs-into-cutter-hollyhock"
 excerpt: "On Sunday, the USCG Cutter Hollyhock was conducting an ice escort for six Great Lakes ore boats.in Northern Lake Michigan.  The Hollyhock is a 225 feet long, Juniper Class Seagoing Buoy Tender displacing 2.000 long tons.  Following close behind, perhaps too … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

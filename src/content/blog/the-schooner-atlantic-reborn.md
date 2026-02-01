@@ -1,7 +1,7 @@
 ---
 title: "The Schooner Atlantic Reborn"
 date: 2010-08-14T09:52:35
-slug: the-schooner-atlantic-reborn
+slug: "the-schooner-atlantic-reborn"
 excerpt: "In 1905, the three masted schooner yacht Atlantic sailed 3006 miles in twelve days, four hours, one minute and nine seconds; winning the Kaiser’s Cup from New York to the Lizard and setting the record for the fastest transatlantic passage … Continue reading &rarr;"
 categories:
   - "Current"

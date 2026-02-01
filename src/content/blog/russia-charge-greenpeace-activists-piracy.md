@@ -1,8 +1,8 @@
 ---
 title: "Russia to Charge Greenpeace Activists with Piracy"
 date: 2013-09-24T13:11:27
-slug: russia-charge-greenpeace-activists-piracy
-excerpt: "For thirty years, Greenpeace has used “non-violent direct action” in their environmental protests.  In recent years, Greenpeace activists have boarded drilling platforms to disrupt operations. In most cases, the protesters involved were arrested, made to pay fines for trespass and were … Continue reading &rarr;"
+slug: "russia-charge-greenpeace-activists-piracy"
+excerpt: "For thirty years, Greenpeace has used \"non-violent direct action\" in their environmental protests.  In recent years, Greenpeace activists have boarded drilling platforms to disrupt operations. In most cases, the protesters involved were arrested, made to pay fines for trespass and were … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "piracy"
   - "Prirazlomnaya platform"
 author: "Rick Spilman"
-description: "For thirty years, Greenpeace has used “non-violent direct action” in their environmental protests.  In recent years, Greenpeace activists have boarded drilling platforms to disrupt operations. In most cases, the protesters involved were arrested, made to pay fines for trespass and were … Continue reading &rarr;"
+description: "For thirty years, Greenpeace has used \"non-violent direct action\" in their environmental protests.  In recent years, Greenpeace activists have boarded drilling platforms to disrupt operations. In most cases, the protesters involved were arrested, made to pay fines for trespass and were … Continue reading &rarr;"
 ---
 
 ![arcticsunrise](http://www.oldsaltblog.com/wp-content/uploads/2013/09/arcticsunrise.jpg)For thirty years, [Greenpeace](http://www.greenpeace.org/international/en/) has used “non-violent direct action” in their environmental protests.  In recent years, Greenpeace activists have boarded drilling platforms to disrupt operations. In most cases, the protesters involved were arrested, made to pay fines for trespass and were then let go.  The Greenpeace activists who boarded a Russian drilling rig last week, however, may be facing much more serious charges.

@@ -1,7 +1,7 @@
 ---
 title: "Concerns Over Radiation Spread Faster than the Currents"
 date: 2011-04-07T10:42:36
-slug: concerns-over-radiation-spread-faster-than-the-currents
+slug: "concerns-over-radiation-spread-faster-than-the-currents"
 excerpt: "My wife and I are celebrating our 25th wedding anniversary in a week by having dinner at Le Bernardin.  I had proposed in the Le Bernardin, when the restaurant was still in Paris, so it has always seemed a great place to celebrate anniversaries. … Continue reading &rarr;"
 categories:
   - "Current"

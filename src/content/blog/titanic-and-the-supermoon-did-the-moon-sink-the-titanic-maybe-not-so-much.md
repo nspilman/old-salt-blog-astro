@@ -1,8 +1,8 @@
 ---
-title: "Titanic and the “Supermoon” – Did the Moon Sink the Titanic? The Answer is No."
+title: "Titanic and the \"Supermoon\" – Did the Moon Sink the Titanic? The Answer is No."
 date: 2012-03-07T10:11:07
-slug: titanic-and-the-supermoon-did-the-moon-sink-the-titanic-maybe-not-so-much
-excerpt: "The headline writers have been having fun.  The Daily Beast headline reads – Moon to Blame for Titanic Sinking?  Reuters asks and answers its own question – “What sank the Titanic? Scientists point to the moon.”  The Times of India gets alliterative … Continue reading &rarr;"
+slug: "titanic-and-the-supermoon-did-the-moon-sink-the-titanic-maybe-not-so-much"
+excerpt: "The headline writers have been having fun.  The Daily Beast headline reads – Moon to Blame for Titanic Sinking?  Reuters asks and answers its own question – \"What sank the Titanic? Scientists point to the moon.\"  The Times of India gets alliterative … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "tides"
   - "Titanic"
 author: "Rick Spilman"
-description: "The headline writers have been having fun.  The Daily Beast headline reads – Moon to Blame for Titanic Sinking?  Reuters asks and answers its own question – “What sank the Titanic? Scientists point to the moon.”  The Times of India gets alliterative … Continue reading &rarr;"
+description: "The headline writers have been having fun.  The Daily Beast headline reads – Moon to Blame for Titanic Sinking?  Reuters asks and answers its own question – \"What sank the Titanic? Scientists point to the moon.\"  The Times of India gets alliterative … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/Moon.jpg)The headline writers have been having fun.  The Daily Beast headline reads – [Moon to Blame for Titanic Sinking?](http://www.thedailybeast.com/cheats/2012/03/07/moon-to-blame-for-titanic-sinking.html)  Reuters asks and answers its own question – “[What sank the Titanic? Scientists point to the moon](http://www.reuters.com/article/2012/03/07/uk-titanic-moon-idUSLNE82601520120307).”  The Times of India gets alliterative – “[Cosmic curse: Did the moon sink Titanic?](http://timesofindia.indiatimes.com/home/science/Cosmic-curse-Did-the-moon-sink-Titanic/articleshow/12170309.cms)”  National Geographic introduces the “supermoon” but hedges their bet with a question mark – “[Titanic Sunk by “Supermoon” and Celestial Alignment?](http://news.nationalgeographic.com/news/2012/03/120306-titanic-supermoon-moon-science-iceberg-sky-sink/)”  The Telegraph reverts to a simple declarative statement, “[Titanic disaster blamed on Moon](http://www.telegraph.co.uk/science/science-news/9126116/Titanic-disaster-blamed-on-Moon.html).”  And on and on.

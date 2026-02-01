@@ -1,7 +1,7 @@
 ---
 title: "Ever Given — No Longer Blocking Traffic, But Still Stuck in the Canal"
 date: 2021-04-13T09:49:21
-slug: ever-given-no-longer-blocking-traffic-but-still-stuck-in-the-canal
+slug: "ever-given-no-longer-blocking-traffic-but-still-stuck-in-the-canal"
 excerpt: "The Ever Given no longer blocks traffic in the Suez Canal but, in a very real sense, the ship is still stuck in the canal. The ultra-large container ship ran aground for about a week in late March, blocking ships transiting … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

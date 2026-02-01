@@ -1,8 +1,8 @@
 ---
 title: "Temporary Reprieve for SS United States"
 date: 2015-11-07T22:55:06
-slug: temporary-reprieve-for-ss-united-states
-excerpt: "At the beginning of October, the SS United States Conservancy announced that its board had retained the services of a broker to explore selling the SS United States for scrap “over concerns about the organization’s long-term ability to continue financing the … Continue reading &rarr;"
+slug: "temporary-reprieve-for-ss-united-states"
+excerpt: "At the beginning of October, the SS United States Conservancy announced that its board had retained the services of a broker to explore selling the SS United States for scrap \"over concerns about the organization’s long-term ability to continue financing the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

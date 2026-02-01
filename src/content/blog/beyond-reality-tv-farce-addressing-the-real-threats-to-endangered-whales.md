@@ -1,8 +1,8 @@
 ---
 title: "Beyond Reality TV Farce, Addressing the Real Threats to Endangered Whales"
 date: 2013-01-11T10:48:55
-slug: beyond-reality-tv-farce-addressing-the-real-threats-to-endangered-whales
-excerpt: "The New York Times, this morning, features in their “Room for Debate” section, a worthwhile discussion on the real threats to the survival of whale species, entitled, Did We Save the Whales?   In the discussion, Junichi Sato of Greenpeace Japan notes … Continue reading &rarr;"
+slug: "beyond-reality-tv-farce-addressing-the-real-threats-to-endangered-whales"
+excerpt: "The New York Times, this morning, features in their \"Room for Debate\" section, a worthwhile discussion on the real threats to the survival of whale species, entitled, Did We Save the Whales?   In the discussion, Junichi Sato of Greenpeace Japan notes … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -17,7 +17,7 @@ tags:
   - "Whale Wars"
   - "whales"
 author: "Rick Spilman"
-description: "The New York Times, this morning, features in their “Room for Debate” section, a worthwhile discussion on the real threats to the survival of whale species, entitled, Did We Save the Whales?   In the discussion, Junichi Sato of Greenpeace Japan notes … Continue reading &rarr;"
+description: "The New York Times, this morning, features in their \"Room for Debate\" section, a worthwhile discussion on the real threats to the survival of whale species, entitled, Did We Save the Whales?   In the discussion, Junichi Sato of Greenpeace Japan notes … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/40b8c1e72813af5d6afdc0870ef.jpg)The New York Times, this morning, features in their “[Room for Debate](http://www.nytimes.com/roomfordebate/2013/01/10/did-we-save-the-whales-19)” section, a worthwhile discussion on the real threats to the survival of whale species, entitled, [Did We Save the Whales?](http://www.nytimes.com/roomfordebate/2013/01/10/did-we-save-the-whales-19)   In the discussion, [Junichi Sato](http://www.nytimes.com/roomfordebate/2013/01/10/did-we-save-the-whales-19/overfishing-threatens-whales) of Greenpeace Japan notes that “*Our appetite for fish is exceeding the oceans’ ecological limits, and all this fishing kills 300,000 cetaceans a year.*”  [Darlene R. Ketten](http://www.nytimes.com/roomfordebate/2013/01/10/did-we-save-the-whales-19/ocean-noise-could-threaten-whales) of Woods Hole Oceanographic Institution discusses the complexities of noise pollution on whale populations.  [Douglas P. Nowacek](http://www.nytimes.com/roomfordebate/2013/01/10/did-we-save-the-whales-19/global-warming-affects-whales-in-the-short-and-long-terms) of Duke University discusses the impact of global warming on whales and acknowledges that “*we don’t know yet whether … threats \[of climate change\] will be more dangerous than a harpoon.*”  FInally, [Felix Marx](http://www.nytimes.com/roomfordebate/2013/01/10/did-we-save-the-whales-19/deciding-which-species-to-save) of the University of Otago in New Zealand discusses “*deciding which species to save*.”  Well worth reading.

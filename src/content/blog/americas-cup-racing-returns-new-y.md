@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup Racing Returns to New York, May 7 – 8th"
 date: 2016-03-30T16:06:36
-slug: americas-cup-racing-returns-new-y
+slug: "americas-cup-racing-returns-new-y"
 excerpt: "In early May, America’s Cup racing will return to New York City for the first time since 1920. The Louis Vuitton America’s Cup World Series regatta, one of a series of warm-up races sailed in AC 45s, 45′ foiling catamarans, … Continue reading &rarr;"
 categories:
   - "Current"

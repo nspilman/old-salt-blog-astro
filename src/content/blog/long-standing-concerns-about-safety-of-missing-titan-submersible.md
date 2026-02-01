@@ -1,7 +1,7 @@
 ---
 title: "Long-Standing Concerns About Safety of Missing Titan Submersible"
 date: 2023-06-21T17:19:39
-slug: long-standing-concerns-about-safety-of-missing-titan-submersible
+slug: "long-standing-concerns-about-safety-of-missing-titan-submersible"
 excerpt: "As frantic search and rescue efforts continue to attempt to locate the missing submersible Titan, which went missing on Sunday on an expedition to dive on the wreck of the Titanic, long-standing concerns about the safety of the submersible have … Continue reading &rarr;"
 categories:
   - "Current"

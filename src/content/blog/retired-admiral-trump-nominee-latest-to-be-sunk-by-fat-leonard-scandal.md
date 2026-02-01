@@ -1,7 +1,7 @@
 ---
 title: "Retired Admiral & Trump Nominee — Latest to be Sunk by Fat Leonard Scandal"
 date: 2018-11-27T16:49:50
-slug: retired-admiral-trump-nominee-latest-to-be-sunk-by-fat-leonard-scandal
+slug: "retired-admiral-trump-nominee-latest-to-be-sunk-by-fat-leonard-scandal"
 excerpt: "Recently retired  Rear Adm. Mark C. Montgomery, ex-U.S. Pacific Command Director of Operations, had been nominated by the current administration to be an assistant administrator with the U.S. Agency for International Development. His confirmation appeared to be assured after Senate Foreign Relations Committee … Continue reading &rarr;"
 categories:
   - "Current"

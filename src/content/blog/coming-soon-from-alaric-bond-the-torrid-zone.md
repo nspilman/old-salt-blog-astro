@@ -1,7 +1,7 @@
 ---
 title: "Coming Soon from Alaric Bond — The Torrid Zone"
 date: 2014-03-12T13:45:59
-slug: coming-soon-from-alaric-bond-the-torrid-zone
+slug: "coming-soon-from-alaric-bond-the-torrid-zone"
 excerpt: "I am very much looking forward to Alaric Bond’s latest, Torrid Zone, due out in April or May.  He recently posted about it on his blog. Background to a Book I’ve now finished the second draft of The Torrid Zone, … Continue reading &rarr;"
 categories:
   - "Newbooks"

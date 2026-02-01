@@ -1,8 +1,8 @@
 ---
 title: "Fire on the Cutty Sark! Again?"
 date: 2014-10-19T09:58:00
-slug: fire-on-the-cutty-sark-again
-excerpt: "There are reports of a “small fire” aboard the 19th-century composite clipper ship, Cutty Sark, in Greenwich, UK.  Firefighters managed to contain the blaze which is said to have damaged a small part of deck three and associated timbers.  The Cutty … Continue reading &rarr;"
+slug: "fire-on-the-cutty-sark-again"
+excerpt: "There are reports of a \"small fire\" aboard the 19th-century composite clipper ship, Cutty Sark, in Greenwich, UK.  Firefighters managed to contain the blaze which is said to have damaged a small part of deck three and associated timbers.  The Cutty … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "MV Delta Mariner in Wrong Channel in Bridge Collision, on a Long, Winding Voyage to the Gulf"
 date: 2012-01-29T12:33:48
-slug: mv-delta-mariner-in-wrong-channel-in-bridge-collision-on-a-long-winding-voyage-to-the-gulf
+slug: "mv-delta-mariner-in-wrong-channel-in-bridge-collision-on-a-long-winding-voyage-to-the-gulf"
 excerpt: "The investigation is ongoing as to why the MV Delta Mariner  collided with the Eggner Ferry Bridge on the Tennessee River in Kentucky last Thursday night, taking out over 300′ of the span, but reportedly, the ship was in the wrong channel. … Continue reading &rarr;"
 categories:
   - "Current"

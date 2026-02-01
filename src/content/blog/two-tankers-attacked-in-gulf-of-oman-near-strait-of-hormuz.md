@@ -1,7 +1,7 @@
 ---
 title: "Two Tankers Attacked in Gulf of Oman, Near Strait of Hormuz"
 date: 2019-06-13T17:13:03
-slug: two-tankers-attacked-in-gulf-of-oman-near-strait-of-hormuz
+slug: "two-tankers-attacked-in-gulf-of-oman-near-strait-of-hormuz"
 excerpt: "Early this morning, two tankers in the Gulf of Oman, not far from the Strait of Hormuz, were struck and disabled by explosions. The 110,000-dwt Front Altair, built in 2016 was carrying naphtha and broke out in flames following the … Continue reading &rarr;"
 categories:
   - "Current"

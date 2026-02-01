@@ -1,7 +1,7 @@
 ---
 title: "Ultrasonic Anti-Fouling — Better Than Paint?"
 date: 2017-04-10T14:58:08
-slug: ultrasonic-anti-fouling-better-paint
+slug: "ultrasonic-anti-fouling-better-paint"
 excerpt: "I am sure that I am not the only one who really does not like anti-fouling bottom paint. By definition, anti-fouling bottom paint is a biocide — it kills life — which is fine and dandy if that life is … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Sea Shepherd Farce Continues – Illegal Boarding and Foam Baby Crocodiles"
 date: 2010-02-16T09:47:20
-slug: sea-shepherd-farce-continues-%e2%80%93-illegal-boarding-and-foam-baby-crocodiles
+slug: "sea-shepherd-farce-continues-%e2%80%93-illegal-boarding-and-foam-baby-crocodiles"
 excerpt: "The Sea Shepherd farce continues.  The ex-captain of the Ady Gil cut through anti-boarding nets to board a Japanese whaler and was immediately arrested.   In related news, Sea Shepherd crew onboard the Steve Irwin, a vessel named for the television … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Innovative sails for container ships – in development ???  Maybe not."
 date: 2011-03-03T09:45:17
-slug: innovative-sails-for-container-ships-in-development-not-too-likely
+slug: "innovative-sails-for-container-ships-in-development-not-too-likely"
 excerpt: "I saw the headline and immediately shook my head.  There may indeed be an application for sails on bulk carriers, but containerships, well, not so much.  With a five high (or higher) stack of boxes on deck, containerships have exactly the stability they need – … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

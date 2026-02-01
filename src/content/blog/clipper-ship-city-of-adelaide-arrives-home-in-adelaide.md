@@ -1,7 +1,7 @@
 ---
 title: "Clipper Ship City of Adelaide Arrives Home in Adelaide"
 date: 2014-02-03T11:43:50
-slug: clipper-ship-city-of-adelaide-arrives-home-in-adelaide
+slug: "clipper-ship-city-of-adelaide-arrives-home-in-adelaide"
 excerpt: "The world’s oldest surviving clipper ship, the City of Adelaide, has arrived in her namesake port in Australia. City of Adelaide clipper ship – finally home City of Adelaide clipper ship finally arrives home in Adelaide … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

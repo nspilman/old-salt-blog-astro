@@ -1,7 +1,7 @@
 ---
 title: "Dardanelles Raider HMS E14 – British Submarine Found Intact After 94 Years"
 date: 2012-06-17T08:39:31
-slug: dardanelles-raider-hms-e14-british-submarine-found-intact-after-94-years
+slug: "dardanelles-raider-hms-e14-british-submarine-found-intact-after-94-years"
 excerpt: "On April 27, 1915, at the height of the the World War I Gallipoli campaign, Lt-Cdr Edward Courtney Boyle piloted the submarine HMS E14 beneath the minefields, guns and search lights of the the Narrows, the heavily defended entrance to the Dardanelles, the … Continue reading &rarr;"
 categories:
   - "History"

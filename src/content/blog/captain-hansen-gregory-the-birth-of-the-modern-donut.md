@@ -1,7 +1,7 @@
 ---
 title: "Captain Hansen Gregory & the Birth of the Modern Donut"
 date: 2015-06-22T15:36:49
-slug: captain-hansen-gregory-the-birth-of-the-modern-donut
+slug: "captain-hansen-gregory-the-birth-of-the-modern-donut"
 excerpt: "Some friends of mine think that I am crazy because I seem to find nautical connections in just about everything. (Other friends think I am crazy for other reasons.)  Take for example, the modern donut.  What about a donut could … Continue reading &rarr;"
 categories:
   - "History"

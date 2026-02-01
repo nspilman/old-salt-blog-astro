@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship Elissa Fundraising On Track  – Not So Endangered After All"
 date: 2012-01-02T20:00:59
-slug: tall-ship-elissa-fundraising-on-track-not-so-endangered-after-all
+slug: "tall-ship-elissa-fundraising-on-track-not-so-endangered-after-all"
 excerpt: "Last week we posted about America’s 10 Most Endangered Historic Ships of 2011, a list compiled by Joe Follansbee at the Fyddeye Guides.  This sort of list is interesting and useful in that it starts conversations about ships which require attention … Continue reading &rarr;"
 categories:
   - "Current"

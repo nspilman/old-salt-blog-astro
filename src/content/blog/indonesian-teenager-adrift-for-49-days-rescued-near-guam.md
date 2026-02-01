@@ -1,7 +1,7 @@
 ---
 title: "Indonesian Teenager Adrift for 49 Days Rescued Near Guam"
 date: 2018-09-25T07:19:24
-slug: indonesian-teenager-adrift-for-49-days-rescued-near-guam
+slug: "indonesian-teenager-adrift-for-49-days-rescued-near-guam"
 excerpt: "An Indonesian teenager working as a lamp keeper on a floating fish trap anchored off North Sulawesi was rescued off Guam after drifting for 49 days.  Aldi Novel Adilang, 19, had one of the loneliest jobs in the world. He worked on … Continue reading &rarr;"
 categories:
   - "Current"

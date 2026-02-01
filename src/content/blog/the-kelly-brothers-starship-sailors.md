@@ -1,7 +1,7 @@
 ---
 title: "The Kelly Brothers – Starship Sailors"
 date: 2011-01-25T07:21:12
-slug: the-kelly-brothers-starship-sailors
+slug: "the-kelly-brothers-starship-sailors"
 excerpt: "U.S. Navy Captain Mark Kelly, Congresswoman Gabby Giffords’ husband,  has been by her side since she was tragically shot in Tucson earlier this month.  We posted previously about how Captain Kelly, who is a NASA astronaut,  went to the United States Merchant … Continue reading &rarr;"
 categories:
   - "Current"

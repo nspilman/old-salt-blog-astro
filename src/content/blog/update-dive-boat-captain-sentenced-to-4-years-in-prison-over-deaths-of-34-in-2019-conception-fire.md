@@ -1,7 +1,7 @@
 ---
 title: "Update: Dive Boat Captain Sentenced to 4 Years in Prison Over Deaths of 34 in 2019 Conception Fire"
 date: 2024-05-03T16:45:08
-slug: update-dive-boat-captain-sentenced-to-4-years-in-prison-over-deaths-of-34-in-2019-conception-fire
+slug: "update-dive-boat-captain-sentenced-to-4-years-in-prison-over-deaths-of-34-in-2019-conception-fire"
 excerpt: "Over Labor Day weekend in 2019, a fire broke out in the early morning hours on the Conception, a 75-foot wood and fiberglass dive vessel in Santa Barbara Harbor, CA. All 33 passengers sleeping below decks and one of the … Continue reading &rarr;"
 categories:
   - "Current"

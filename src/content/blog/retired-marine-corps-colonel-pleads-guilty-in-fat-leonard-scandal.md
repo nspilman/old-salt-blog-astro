@@ -1,7 +1,7 @@
 ---
 title: "Retired Marine Corps Colonel Pleads Guilty in ‘Fat Leonard’ Scandal"
 date: 2021-09-08T16:30:37
-slug: retired-marine-corps-colonel-pleads-guilty-in-fat-leonard-scandal
+slug: "retired-marine-corps-colonel-pleads-guilty-in-fat-leonard-scandal"
 excerpt: "On March 14, 2017, The Department of Justice announced that retired U.S. Navy Rear Admiral Bruce Loveless and eight other high-ranking Navy officers had been indicted for accepting luxury travel, elaborate dinners, and services of prostitutes from foreign defense contractor … Continue reading &rarr;"
 categories:
   - "Current"

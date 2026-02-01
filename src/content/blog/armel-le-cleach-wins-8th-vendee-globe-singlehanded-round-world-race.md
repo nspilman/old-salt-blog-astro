@@ -1,7 +1,7 @@
 ---
 title: "Armel Le Cléac’h Wins the 8th Vendée Globe Singlehanded Round the World Race"
 date: 2017-01-19T12:33:45
-slug: armel-le-cleach-wins-8th-vendee-globe-singlehanded-round-world-race
+slug: "armel-le-cleach-wins-8th-vendee-globe-singlehanded-round-world-race"
 excerpt: "French sailor, Armel Le Cléac’h, 39, won the 8th Vendée Globe singlehanded round the world race today at 15:37:46 UTC after 74 days 3 hours 35 minutes and 46 seconds at sea on his 60ft racing yacht Banque Populaire VIII.  He … Continue reading &rarr;"
 categories:
   - "Current"

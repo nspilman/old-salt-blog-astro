@@ -1,8 +1,8 @@
 ---
-title: "Orca “Granny,” 105 Years Old, Still Swimming the Pacific"
+title: "Orca \"Granny,\" 105 Years Old, Still Swimming the Pacific"
 date: 2016-08-15T09:40:38
-slug: orca-granny-105-years-old-still-swimming-pacific
-excerpt: "Orcas live in complex multi-generational pods led by a matriarch.  In the pod that scientists have labeled as the “J pod,” the matriarchal orca, designated as J2, also-known-as “Granny” was recently sighted swimming with her pod off the coast of … Continue reading &rarr;"
+slug: "orca-granny-105-years-old-still-swimming-pacific"
+excerpt: "Orcas live in complex multi-generational pods led by a matriarch.  In the pod that scientists have labeled as the \"J pod,\" the matriarchal orca, designated as J2, also-known-as \"Granny\" was recently sighted swimming with her pod off the coast of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "J2"
   - "Orca"
 author: "Rick Spilman"
-description: "Orcas live in complex multi-generational pods led by a matriarch.  In the pod that scientists have labeled as the “J pod,” the matriarchal orca, designated as J2, also-known-as “Granny” was recently sighted swimming with her pod off the coast of … Continue reading &rarr;"
+description: "Orcas live in complex multi-generational pods led by a matriarch.  In the pod that scientists have labeled as the \"J pod,\" the matriarchal orca, designated as J2, also-known-as \"Granny\" was recently sighted swimming with her pod off the coast of … Continue reading &rarr;"
 ---
 
 ![Photo: Leigh Calvez](http://www.oldsaltblog.com/wp-content/uploads/2016/08/grannyj2.jpg)

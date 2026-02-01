@@ -1,8 +1,8 @@
 ---
 title: "MSC Fabiola, Largest Containership Ever in a US Port, Calls at Long Beach"
 date: 2012-03-18T11:58:04
-slug: msc-fabiola-largest-containership-ever-in-a-us-port-calls-at-long-beach
-excerpt: "Way back in 1984, I worked for Malcom McLean’s United States Lines, when the 4,400 TEU (Twenty-foot Equivalent Unit) containership, the American New York, was delivered. She was this first of McLean’s fleet of “Jumbo Econships.”   In those days, he … Continue reading &rarr;"
+slug: "msc-fabiola-largest-containership-ever-in-a-us-port-calls-at-long-beach"
+excerpt: "Way back in 1984, I worked for Malcom McLean’s United States Lines, when the 4,400 TEU (Twenty-foot Equivalent Unit) containership, the American New York, was delivered. She was this first of McLean’s fleet of \"Jumbo Econships.\"   In those days, he … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "MSC Fabiola"
   - "Port of Long Beach"
 author: "Rick Spilman"
-description: "Way back in 1984, I worked for Malcom McLean’s United States Lines, when the 4,400 TEU (Twenty-foot Equivalent Unit) containership, the American New York, was delivered. She was this first of McLean’s fleet of “Jumbo Econships.”   In those days, he … Continue reading &rarr;"
+description: "Way back in 1984, I worked for Malcom McLean’s United States Lines, when the 4,400 TEU (Twenty-foot Equivalent Unit) containership, the American New York, was delivered. She was this first of McLean’s fleet of \"Jumbo Econships.\"   In those days, he … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/68868966.jpg)

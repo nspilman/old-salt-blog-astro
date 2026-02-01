@@ -1,7 +1,7 @@
 ---
 title: "Remembering Howard Slotnick (1930-2020)"
 date: 2020-04-09T17:45:08
-slug: remembering-howard-slotnick-1930-2020
+slug: "remembering-howard-slotnick-1930-2020"
 excerpt: "The maritime community has lost a great friend, shipmate, and leader in the passing of Howard Slotnick. A treasurer and chairman emeritus of National Maritime Historical Society, he served on the Coast Guard Foundation board and was an advisor to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

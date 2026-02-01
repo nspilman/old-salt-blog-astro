@@ -1,7 +1,7 @@
 ---
 title: "A Belaying Pin from Frigate l’Hermione"
 date: 2015-04-19T10:41:46
-slug: a-belaying-pin-from-frigate-lhermione
+slug: "a-belaying-pin-from-frigate-lhermione"
 excerpt: "Within a few hours after the replica French frigate l’Hermione set sail on her maiden voyage to the United States, friends stopped by our house on the west side of the Hudson River for drinks and brought an unexpected gift. … Continue reading &rarr;"
 categories:
   - "Current"

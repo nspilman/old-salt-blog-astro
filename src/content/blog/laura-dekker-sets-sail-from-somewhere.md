@@ -1,7 +1,7 @@
 ---
 title: "Laura Dekker Sets Sail from Somewhere"
 date: 2010-08-22T08:45:53
-slug: laura-dekker-sets-sail-from-somewhere
+slug: "laura-dekker-sets-sail-from-somewhere"
 excerpt: "Laura Dekker, the Dutch 14 year old, reportedly set sail on Saturday on her attempt to sail around the world alone, at least according to her manager.   Ms. Dekker was originally reported to have departed from Portugal but is now believed to have left via Gibraltar on her 38′ yacht, … Continue reading &rarr;"
 categories:
   - "Current"

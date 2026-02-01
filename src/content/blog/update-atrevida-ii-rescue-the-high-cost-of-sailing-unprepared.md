@@ -1,7 +1,7 @@
 ---
 title: "Update: Atrevida II Rescue & the High Cost of Sailing Unprepared"
 date: 2022-12-16T11:12:41
-slug: update-atrevida-ii-rescue-the-high-cost-of-sailing-unprepared
+slug: "update-atrevida-ii-rescue-the-high-cost-of-sailing-unprepared"
 excerpt: "We recently posted about the rescue of two sailors and a dog from a 30′ sailboat, Atrevida II, off Cape Hatteras by the tanker Silver Muna. While the initial Coast Guard report was accurate, it was also incomplete. The initial … Continue reading &rarr;"
 categories:
   - "Current"

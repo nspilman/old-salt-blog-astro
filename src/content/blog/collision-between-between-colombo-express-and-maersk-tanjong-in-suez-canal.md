@@ -1,7 +1,7 @@
 ---
 title: "Collision Between between Colombo Express and Maersk Tanjong in Suez Canal"
 date: 2014-09-29T15:59:59
-slug: collision-between-between-colombo-express-and-maersk-tanjong-in-suez-canal
+slug: "collision-between-between-colombo-express-and-maersk-tanjong-in-suez-canal"
 excerpt: "This isn’t supposed to happen. The Hapag-Lloyd 8,749-teu MV Colombo Express and the 8,112-teu MV Maersk Tanjong collided today at the northern end of Egypt’s Suez Canal, near Port Said.  No casualties were reported.  MV Colombo Express suffered a 20-meter dent on her … Continue reading &rarr;"
 categories:
   - "Current"

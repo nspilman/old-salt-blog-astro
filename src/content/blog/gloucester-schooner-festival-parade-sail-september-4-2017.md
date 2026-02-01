@@ -1,7 +1,7 @@
 ---
 title: "Gloucester Schooner Festival Parade of Sail, September 4, 2017"
 date: 2017-09-05T09:49:13
-slug: gloucester-schooner-festival-parade-sail-september-4-2017
+slug: "gloucester-schooner-festival-parade-sail-september-4-2017"
 excerpt: "One day, I really want to make it to Gloucester, MA for the yearly schooner festival held over the Labor Day weekend. Perhaps one year I will sail there in my own boat, which is definitely not a schooner.  In … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Questions Raised by the Tragic Port Newark Fire on the Ro-Ro/Container Ship Grande Costa D’Avorio"
 date: 2023-07-10T20:22:26
-slug: questions-raised-by-the-tragic-port-newark-fire-on-the-ro-ro-container-ship-grande-costa-davorio
+slug: "questions-raised-by-the-tragic-port-newark-fire-on-the-ro-ro-container-ship-grande-costa-davorio"
 excerpt: "Last Wednesday night at 9:38 PM, a fire broke out on the 10th deck of the ro-ro/container ship, Grande Costa D’Avorio, docked at Port Newark, as vehicle loading operations were underway. The fire broke out in five to seven cars and … Continue reading &rarr;"
 categories:
   - "Current"

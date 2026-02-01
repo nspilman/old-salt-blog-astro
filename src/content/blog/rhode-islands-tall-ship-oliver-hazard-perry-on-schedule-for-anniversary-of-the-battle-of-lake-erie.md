@@ -1,7 +1,7 @@
 ---
 title: "Rhode Island’s Tall Ship Oliver Hazard Perry On Schedule For Anniversary of the Battle of Lake Erie"
 date: 2012-12-16T13:36:28
-slug: rhode-islands-tall-ship-oliver-hazard-perry-on-schedule-for-anniversary-of-the-battle-of-lake-erie
+slug: "rhode-islands-tall-ship-oliver-hazard-perry-on-schedule-for-anniversary-of-the-battle-of-lake-erie"
 excerpt: "There is still more steel to be welded, rigging to be run, and money to be raised, but the SSV Oliver Hazard Perry, Rhode Island’s Tall ship, looks to be on schedule to be sailing in time for the 200th … Continue reading &rarr;"
 categories:
   - "Current"

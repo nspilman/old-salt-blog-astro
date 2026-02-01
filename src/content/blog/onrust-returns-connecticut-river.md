@@ -1,7 +1,7 @@
 ---
 title: "Onrust Returns to the Connecticut River"
 date: 2017-06-07T09:05:31
-slug: onrust-returns-connecticut-river
+slug: "onrust-returns-connecticut-river"
 excerpt: "In 1614, the Onrust, captained by Dutch merchant explorer Adriaen Block, was the first European vessel to explore the Connecticut River. This summer, a replica of Block’s ship is returning to the river in a collaboration between the Connecticut River Museum in Essex, … Continue reading &rarr;"
 categories:
   - "Current"

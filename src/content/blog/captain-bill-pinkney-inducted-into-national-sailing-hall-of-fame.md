@@ -1,21 +1,21 @@
 ---
 title: "Captain Bill Pinkney Inducted Into National Sailing Hall of Fame"
 date: 2021-07-07T16:40:51
-slug: captain-bill-pinkney-inducted-into-national-sailing-hall-of-fame
-excerpt: "Congratulations to Captain William D. “Bill” Pinkney, who has been inducted into the National Sailing Hall of Fame with a Lifetime Achievement Award as an “Enthusiastic Trend Setter.” Captain Pinkney was the first African American to solo-circumnavigate the world via … Continue reading &rarr;"
+slug: "captain-bill-pinkney-inducted-into-national-sailing-hall-of-fame"
+excerpt: "Congratulations to Captain William D. \"Bill\" Pinkney, who has been inducted into the National Sailing Hall of Fame with a Lifetime Achievement Award as an \"Enthusiastic Trend Setter.\" Captain Pinkney was the first African American to solo-circumnavigate the world via … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
   - "Amistad"
   - "Captain Bill Pinkney"
-  - "Captain William D. “Bill” Pinkney"
+  - "Captain William D. \"Bill\" Pinkney"
   - "Enthusiastic Trend Setter"
   - "Lifetime Achievement Award"
   - "National Sailing Hall of Fame"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/07/pinkney.jpg"
 author: "Rick Spilman"
-description: "Congratulations to Captain William D. “Bill” Pinkney, who has been inducted into the National Sailing Hall of Fame with a Lifetime Achievement Award as an “Enthusiastic Trend Setter.” Captain Pinkney was the first African American to solo-circumnavigate the world via … Continue reading &rarr;"
+description: "Congratulations to Captain William D. \"Bill\" Pinkney, who has been inducted into the National Sailing Hall of Fame with a Lifetime Achievement Award as an \"Enthusiastic Trend Setter.\" Captain Pinkney was the first African American to solo-circumnavigate the world via … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/07/pinkney.jpg)Congratulations to [Captain William D. “Bill” Pinkney](https://www.thehistorymakers.org/biography/capt-william-bill-pinkney-39), who has been inducted into the [National Sailing Hall of Fame](https://nshof.org/inductees/pinkney-william/) with a Lifetime Achievement Award as an “Enthusiastic Trend Setter.” Captain Pinkney was the first African American to solo-circumnavigate the world via Cape Horn. Born on September 15, 1935, in Chicago, he attended public schools in Chicago and joined the U.S. Navy after graduating from high school in 1954.

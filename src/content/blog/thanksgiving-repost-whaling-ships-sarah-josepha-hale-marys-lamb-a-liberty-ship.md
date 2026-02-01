@@ -1,7 +1,7 @@
 ---
 title: "Thanksgiving Repost — Whaling Ships, Sarah Josepha Hale, Mary’s Lamb & a Liberty Ship"
 date: 2020-11-26T11:54:48
-slug: thanksgiving-repost-whaling-ships-sarah-josepha-hale-marys-lamb-a-liberty-ship
+slug: "thanksgiving-repost-whaling-ships-sarah-josepha-hale-marys-lamb-a-liberty-ship"
 excerpt: "Happy Thanksgiving for those on this side of the pond and below the 49th parallel.  (The Canadians celebrated the holiday in October.) Here is a repost of a story I think is well worth retelling.  Thanksgiving is one of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

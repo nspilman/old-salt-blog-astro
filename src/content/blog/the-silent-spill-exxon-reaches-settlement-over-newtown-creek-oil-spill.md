@@ -1,7 +1,7 @@
 ---
 title: "The Silent Spill – Exxon Reaches Settlement Over Newtown Creek Oil Spill"
 date: 2010-11-20T10:34:52
-slug: the-silent-spill-exxon-reaches-settlement-over-newtown-creek-oil-spill
+slug: "the-silent-spill-exxon-reaches-settlement-over-newtown-creek-oil-spill"
 excerpt: "No one knows exactly how much oil was spilled at Newtown Creek, an industrial canal between the boroughs of  Brooklyn and Queens in New York harbor, but the best estimates are between between 17 million and 30 million gallons, which is … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Listening to the Eerie Songs of Icebergs & Glaciers"
 date: 2017-05-21T09:25:15
-slug: listening-eerie-songs-icebergs-glaciers
+slug: "listening-eerie-songs-icebergs-glaciers"
 excerpt: "In the summer of 1997, researchers at the U.S. National Oceanic and Atmospheric Administration (NOAA) detected a mysterious ultra-low frequency underwater sound over an acoustic hydrophone array in the Pacific ocean.  They had no idea what it was. was it some form of … Continue reading &rarr;"
 categories:
   - "Current"

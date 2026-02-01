@@ -1,7 +1,7 @@
 ---
 title: "Record Breaking CMA CGM Theodore Roosevelt Becomes Largest Container Ship to Call in Port of NYC/NJ"
 date: 2017-09-08T08:45:21
-slug: record-breaking-cma-cgm-theodore-roosevelt-becomes-largest-container-ship-call-port-nycnj
+slug: "record-breaking-cma-cgm-theodore-roosevelt-becomes-largest-container-ship-call-port-nycnj"
 excerpt: "Yesterday morning, the 14,400 TEU container ship, CMA CGM Theodore Roosevelt, sailed under the newly-elevated Bayonne Bridge becoming the largest container ship ever to call on the Port of New York and New Jersey.  She previously set a record as the … Continue reading &rarr;"
 categories:
   - "Current"

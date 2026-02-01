@@ -1,7 +1,7 @@
 ---
 title: "The Whaleship Charles W. Morgan Returns to Mystic — and the Voyage Continues"
 date: 2014-08-30T09:09:08
-slug: the-whaleship-charles-w-morgan-returns-to-mystic-and-the-voyage-continues
+slug: "the-whaleship-charles-w-morgan-returns-to-mystic-and-the-voyage-continues"
 excerpt: "The Charles W. Morgan has returned to the Mystic Seaport Museum from her 38th voyage.  Her previous voyages, between 1841 and 1921, took her around the globe hunting whales, whereas the 38th voyage took the wooden whaling ship to ports in New England, … Continue reading &rarr;"
 categories:
   - "Current"

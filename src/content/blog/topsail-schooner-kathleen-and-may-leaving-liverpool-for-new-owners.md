@@ -1,7 +1,7 @@
 ---
 title: "Topsail Schooner Kathleen and May Leaving Liverpool for New Owners?"
 date: 2013-02-04T16:01:12
-slug: topsail-schooner-kathleen-and-may-leaving-liverpool-for-new-owners
+slug: "topsail-schooner-kathleen-and-may-leaving-liverpool-for-new-owners"
 excerpt: "The 113 years old topsail schooner Kathleen and May, now berthed in Liverpool, may be on her way Asia, unless money can be raised from a local source to keep the retired merchant schooner in Great Britain. The schooner was the first ship to be listed on the National … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "On Memorial Day : Last Mission of the USS Olympia — Carrying the Unknown Soldier Home"
 date: 2022-05-30T11:20:01
-slug: on-memorial-day-last-mission-of-the-uss-olympia-carrying-the-unknown-soldier-home
+slug: "on-memorial-day-last-mission-of-the-uss-olympia-carrying-the-unknown-soldier-home"
 excerpt: "On Memorial Day, an updated repost about the last mission of the USS Olympia in 1921, when she carried an American unknown soldier killed during World War I  from a cemetery in France back to Washington to be entombed at … Continue reading &rarr;"
 categories:
   - "History"

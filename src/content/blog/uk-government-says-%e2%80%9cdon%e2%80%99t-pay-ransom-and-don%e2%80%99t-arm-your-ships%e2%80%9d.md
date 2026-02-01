@@ -1,7 +1,7 @@
 ---
-title: "UK Government says “Don’t Pay Ransom and Don’t Arm your Ships”"
+title: "UK Government says \"Don’t Pay Ransom and Don’t Arm your Ships\""
 date: 2010-01-26T10:18:12
-slug: uk-government-says-%e2%80%9cdon%e2%80%99t-pay-ransom-and-don%e2%80%99t-arm-your-ships%e2%80%9d
+slug: "uk-government-says-%e2%80%9cdon%e2%80%99t-pay-ransom-and-don%e2%80%99t-arm-your-ships%e2%80%9d"
 excerpt: "Last week we posted about the International Chamber of Shipping’s concern that governments are not doing enough to combat piracy. Now the British government, after long opposing the payment of ransoms to free hijacked ships is also trying to discourage the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

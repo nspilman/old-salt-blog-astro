@@ -1,7 +1,7 @@
 ---
 title: "Sea Change & MF Hydra — First Hydrogen Fuel Cell Powered Ferries"
 date: 2023-05-04T18:00:18
-slug: sea-change-mf-hydra-first-hydrogen-fuel-cell-powered-ferries
+slug: "sea-change-mf-hydra-first-hydrogen-fuel-cell-powered-ferries"
 excerpt: "Two new ferries, powered by hydrogen fuel cells, have or will soon enter service. In Norway, the MF Hydra, the first liquid hydrogen fuel cell powered ferry entered regular service at the end of March. MF Hydra sails on the … Continue reading &rarr;"
 categories:
   - "Current"

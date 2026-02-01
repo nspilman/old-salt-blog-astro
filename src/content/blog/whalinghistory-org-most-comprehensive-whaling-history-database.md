@@ -1,7 +1,7 @@
 ---
 title: "WhalingHistory.org — Most Comprehensive Whaling History Database"
 date: 2018-03-10T09:20:05
-slug: whalinghistory-org-most-comprehensive-whaling-history-database
+slug: "whalinghistory-org-most-comprehensive-whaling-history-database"
 excerpt: "This looks fascinating. The New Bedford Whaling Museum has announced that, in partnership with Mystic Seaport Museum, they have developed the world’s most comprehensive whaling history database which is now available online for everyone to use at WhalingHistory.org.  In their … Continue reading &rarr;"
 categories:
   - "History"

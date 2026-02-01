@@ -1,7 +1,7 @@
 ---
 title: "Whose Missile was it?  Was it a Missile?"
 date: 2010-11-10T09:43:54
-slug: whose-missile-was-it-was-it-a-missile
+slug: "whose-missile-was-it-was-it-a-missile"
 excerpt: "Update: One blogger has plotted the trajectories and determined that the contrail was that of US Airways flight 808.   At least no one is claiming that it was a weather balloon.  The Daily Show has its own spin. On … Continue reading &rarr;"
 categories:
   - "Current"

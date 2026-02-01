@@ -1,7 +1,7 @@
 ---
 title: "Whisky Bottles Still Washing Up From the Wreck of the Sailing Ship Stuart – 110 years ago"
 date: 2011-04-23T19:04:04
-slug: whisky-bottles-still-washing-up-from-the-wreck-of-the-sailing-ship-stuart-110-years-ago
+slug: "whisky-bottles-still-washing-up-from-the-wreck-of-the-sailing-ship-stuart-110-years-ago"
 excerpt: "It is not champagne, but whiskey bottles which are still appearing from the sands where the sailing ship Stuart wrecked 110 years ago on Easter Sunday off the Llyn peninsula of Northern Wales. Whisky bottles still being washed up on … Continue reading &rarr;"
 categories:
   - "History"

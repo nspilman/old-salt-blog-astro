@@ -1,7 +1,7 @@
 ---
 title: "Fire & Explosion on Container Ship YM Mobility Berthed in Ningbo, China"
 date: 2024-08-09T18:22:28
-slug: fire-explosion-on-container-ship-ym-mobility-berthed-in-ningbo-china
+slug: "fire-explosion-on-container-ship-ym-mobility-berthed-in-ningbo-china"
 excerpt: "Containers caught fire and exploded on the 6,589 TEU YM Mobility today at around 1:40 PM, local time, while berthed at the Port of Ningbo, China. A statement by Yang Ming, the ship’s operator, said that preliminary findings suggest that … Continue reading &rarr;"
 categories:
   - "Current"

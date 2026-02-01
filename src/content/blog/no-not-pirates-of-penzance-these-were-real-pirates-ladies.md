@@ -1,7 +1,7 @@
 ---
 title: "No, Ladies, Not Pirates of Penzance, These Were Real Pirates"
 date: 2013-05-03T15:33:36
-slug: no-not-pirates-of-penzance-these-were-real-pirates-ladies
+slug: "no-not-pirates-of-penzance-these-were-real-pirates-ladies"
 excerpt: "The North Devon Women’s Institute branch recently hosted former sea captain Colin Darch, who was to speak on the topic of piracy. A number of women in the organization thought that the captain would speak about historical buccaneering, and so … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Swedish Navy Still Hunting Mystery Submarine"
 date: 2014-10-22T16:49:03
-slug: swedish-navy-still-hunting-mystery-submarine
+slug: "swedish-navy-still-hunting-mystery-submarine"
 excerpt: "Last Friday, there were reports of unexplained underwater movements near the Stockholm archipelago. There were also reports of an encrypted distress call of the sort used by the Russian Navy, leading to speculation that a Russian submarine was stranded underwater. Russian … Continue reading &rarr;"
 categories:
   - "Current"

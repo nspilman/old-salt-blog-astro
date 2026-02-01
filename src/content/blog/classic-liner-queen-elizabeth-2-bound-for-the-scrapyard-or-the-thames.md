@@ -1,7 +1,7 @@
 ---
 title: "Classic Liner Queen Elizabeth 2 – Bound for the Scrapyard or the Thames?"
 date: 2013-01-09T09:28:49
-slug: classic-liner-queen-elizabeth-2-bound-for-the-scrapyard-or-the-thames
+slug: "classic-liner-queen-elizabeth-2-bound-for-the-scrapyard-or-the-thames"
 excerpt: "Just before Christmas we posted about reports that the Queen Elizabeth 2 had been sold to Chinese scrappers for £20m after plans to convert the ship to a luxury hotel in Dubai fell through. Now there is an eleventh hour proposal to bring … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

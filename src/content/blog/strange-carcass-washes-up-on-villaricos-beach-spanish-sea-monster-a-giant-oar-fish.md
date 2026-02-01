@@ -1,8 +1,8 @@
 ---
-title: "Strange Carcass Washes up on Villaricos Beach – Spanish “Sea Monster” a Giant Oar Fish?"
+title: "Strange Carcass Washes up on Villaricos Beach – Spanish \"Sea Monster\" a Giant Oar Fish?"
 date: 2013-08-24T08:52:19
-slug: strange-carcass-washes-up-on-villaricos-beach-spanish-sea-monster-a-giant-oar-fish
-excerpt: "It is around 13 feet long, appears to have horns and stinks to high heaven.  A carcass washed ashore on Luis Siret Beach in Villaricos, Spain which is being widely referred to a “sea monster.”  Perhaps a bit small to … Continue reading &rarr;"
+slug: "strange-carcass-washes-up-on-villaricos-beach-spanish-sea-monster-a-giant-oar-fish"
+excerpt: "It is around 13 feet long, appears to have horns and stinks to high heaven.  A carcass washed ashore on Luis Siret Beach in Villaricos, Spain which is being widely referred to a \"sea monster.\"  Perhaps a bit small to … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Spain"
   - "thresher shark"
 author: "Rick Spilman"
-description: "It is around 13 feet long, appears to have horns and stinks to high heaven.  A carcass washed ashore on Luis Siret Beach in Villaricos, Spain which is being widely referred to a “sea monster.”  Perhaps a bit small to … Continue reading &rarr;"
+description: "It is around 13 feet long, appears to have horns and stinks to high heaven.  A carcass washed ashore on Luis Siret Beach in Villaricos, Spain which is being widely referred to a \"sea monster.\"  Perhaps a bit small to … Continue reading &rarr;"
 ---
 
 ![spanishseamonster1](http://www.oldsaltblog.com/wp-content/uploads/2013/08/spanishseamonster1.jpg)It is around 13 feet long, appears to have horns and stinks to high heaven.  A carcass washed ashore on Luis Siret Beach in Villaricos, Spain which is being widely referred to a “[sea monster](http://indiancountrytodaymedianetwork.com/2013/08/22/horned-sea-monster-washes-ashore-spain-baffles-officials-150984).”  Perhaps a bit small to be truly monstrous, the stench, nevertheless, was reported to be sufficiently foul to justify burying the beast.  On further examination, what were reported to be horns appear to be dislocated bones.  Samples are being taken to local laboratories to try to get a better idea what he creature may have been.

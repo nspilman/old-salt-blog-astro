@@ -1,7 +1,7 @@
 ---
 title: "Diana Nyad Making Fourth Attempt at Cuba to Florida Swim"
 date: 2012-08-19T15:26:29
-slug: diana-nyad-making-fourth-attempt-at-cuba-to-florida-swim
+slug: "diana-nyad-making-fourth-attempt-at-cuba-to-florida-swim"
 excerpt: "Starting a day earlier than planned, Diana Nyad, 62, began her fourth attempt yesterday afternoon to swim from Havana, Cuba to Key West Florida, a distance of 103 miles across open ocean.  Nyad swam 21.7 statute miles in her first 18 hours. The total … Continue reading &rarr;"
 categories:
   - "Current"

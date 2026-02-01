@@ -1,7 +1,7 @@
 ---
 title: "Remembering the General Slocum Disaster of June 15, 1904"
 date: 2021-06-15T15:31:08
-slug: remembering-the-general-slocum-disaster-of-june-15-1904-2
+slug: "remembering-the-general-slocum-disaster-of-june-15-1904-2"
 excerpt: "One hundred and seventeen years ago today, the disaster on General Slocum resulted in the largest loss of life in New York City prior to the attacks of 9/11/01. An updated repost.  At around 9AM on June 15, 1904, approximately … Continue reading &rarr;"
 categories:
   - "History"

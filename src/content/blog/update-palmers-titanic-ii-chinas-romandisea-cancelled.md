@@ -1,8 +1,8 @@
 ---
 title: "Update: Palmer’s Titanic II & China’s Romandisea Cancelled?"
 date: 2022-06-30T09:03:47
-slug: update-palmers-titanic-ii-chinas-romandisea-cancelled
-excerpt: "For a decade, we have followed the various announcements by Australian billionaire Clive Palmer regarding his Titanic II project. In 2012, Palmer announced the construction of a modern “replica”  of the doomed passenger liner RMS Titanic which sank after striking … Continue reading &rarr;"
+slug: "update-palmers-titanic-ii-chinas-romandisea-cancelled"
+excerpt: "For a decade, we have followed the various announcements by Australian billionaire Clive Palmer regarding his Titanic II project. In 2012, Palmer announced the construction of a modern \"replica\"  of the doomed passenger liner RMS Titanic which sank after striking … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -17,7 +17,7 @@ tags:
   - "Titanic II"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2013/02/TitanicII.jpg"
 author: "Rick Spilman"
-description: "For a decade, we have followed the various announcements by Australian billionaire Clive Palmer regarding his Titanic II project. In 2012, Palmer announced the construction of a modern “replica”  of the doomed passenger liner RMS Titanic which sank after striking … Continue reading &rarr;"
+description: "For a decade, we have followed the various announcements by Australian billionaire Clive Palmer regarding his Titanic II project. In 2012, Palmer announced the construction of a modern \"replica\"  of the doomed passenger liner RMS Titanic which sank after striking … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2013/02/TitanicII.jpg)For a decade, we have followed the various announcements by Australian billionaire Clive Palmer regarding his [Titanic II project](https://www.oldsaltblog.com/2016/02/titanic-ii-not-quite-exact-replica-sail-2018/). In 2012, Palmer announced the construction of a modern “replica”  of the doomed passenger liner RMS *Titanic* which sank after striking an iceberg in 1912.

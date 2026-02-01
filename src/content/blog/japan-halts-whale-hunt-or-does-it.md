@@ -1,12 +1,12 @@
 ---
 title: "Japan Halts Whale Hunt, or Does it?"
 date: 2011-02-17T11:30:06
-slug: japan-halts-whale-hunt-or-does-it
-excerpt: "Yesterday, Japan announced that due to concerns for safety they had suspended their whale hunt,  as of February 10th.   The Sea Shepherds claim that the Japanese are bluffing.   Perhaps Watson and his band of bumbling vigilante pirates are concerned over their “reality” TV … Continue reading &rarr;"
+slug: "japan-halts-whale-hunt-or-does-it"
+excerpt: "Yesterday, Japan announced that due to concerns for safety they had suspended their whale hunt,  as of February 10th.   The Sea Shepherds claim that the Japanese are bluffing.   Perhaps Watson and his band of bumbling vigilante pirates are concerned over their \"reality\" TV … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "Yesterday, Japan announced that due to concerns for safety they had suspended their whale hunt,  as of February 10th.   The Sea Shepherds claim that the Japanese are bluffing.   Perhaps Watson and his band of bumbling vigilante pirates are concerned over their “reality” TV … Continue reading &rarr;"
+description: "Yesterday, Japan announced that due to concerns for safety they had suspended their whale hunt,  as of February 10th.   The Sea Shepherds claim that the Japanese are bluffing.   Perhaps Watson and his band of bumbling vigilante pirates are concerned over their \"reality\" TV … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/51284118_011193098-1.jpg)Yesterday, Japan announced that due to concerns for safety they had suspended their whale hunt,  as of February 10th.   The Sea Shepherds claim that the Japanese are bluffing.   Perhaps Watson and his band of bumbling vigilante pirates are concerned over their “reality” TV show “[Whale Wars](http://animal.discovery.com/tv/whale-wars/).”    If the Japanese withdraw, it could severely cramp the production of Watson’s long running Animal Planet farce.

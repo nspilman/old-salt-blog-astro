@@ -1,7 +1,7 @@
 ---
 title: "Viking Sunstone Believed to be Found in Shipwreck"
 date: 2013-03-07T20:38:04
-slug: viking-sunstone-believed-to-be-found-in-shipwreck
+slug: "viking-sunstone-believed-to-be-found-in-shipwreck"
 excerpt: "A team of archaeologists think that they may have found the first Viking sunstone. Two years ago we posted about Viking sunstones, the legendary, and indeed considered by many to be mythical, devices which allowed Viking navigators to locate the position of … Continue reading &rarr;"
 categories:
   - "Current"

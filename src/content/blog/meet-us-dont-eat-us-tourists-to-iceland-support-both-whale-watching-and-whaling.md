@@ -1,7 +1,7 @@
 ---
-title: "“Meet Us Don’t Eat Us” — Tourists to Iceland Support Both Whale Watching and Whaling"
+title: "\"Meet Us Don’t Eat Us\" — Tourists to Iceland Support Both Whale Watching and Whaling"
 date: 2019-09-20T18:00:37
-slug: meet-us-dont-eat-us-tourists-to-iceland-support-both-whale-watching-and-whaling
+slug: "meet-us-dont-eat-us-tourists-to-iceland-support-both-whale-watching-and-whaling"
 excerpt: "Paradoxically, whale watching by tourists to Iceland is booming. At the same time, the primary economic support for the hunting of whales by Icelandic whalers are also tourists to the island. Iceland is the largest whale watching destination in Europe. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Cheating Scandal on Submarine USS Memphis"
 date: 2011-08-16T09:18:18
-slug: cheating-scandal-on-submarine-uss-memphis
+slug: "cheating-scandal-on-submarine-uss-memphis"
 excerpt: "The most interesting question about the recently revealed cheating scandal on personnel training exams on the nuclear-powered fast attack submarine, USS Memphis, is whether the cheating was an isolated case or whether the practice is more widespread.  The Navy says the … Continue reading &rarr;"
 categories:
   - "Current"

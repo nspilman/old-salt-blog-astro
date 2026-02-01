@@ -1,7 +1,7 @@
 ---
 title: "Seventy Five Years Ago Today — Battle off Samar, a Victory Against All Odds"
 date: 2019-10-25T09:23:34
-slug: seventy-five-years-ago-today-battle-off-samar-a-victory-against-all-odds
+slug: "seventy-five-years-ago-today-battle-off-samar-a-victory-against-all-odds"
 excerpt: "The Battle of Leyte Gulf was fought seventy-five years ago this week between the US and Australian navies and the Imperial Japanese Navy.  It was the largest naval battle of World War II and by some standards the largest naval … Continue reading &rarr;"
 categories:
   - "History"

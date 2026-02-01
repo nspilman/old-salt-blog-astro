@@ -1,7 +1,7 @@
 ---
 title: "Remembering Dona Paz, Asia’s Titanic – 25 Years Ago Today"
 date: 2012-12-20T10:44:36
-slug: remembering-dona-paz-asias-titanic-25-years-ago-today
+slug: "remembering-dona-paz-asias-titanic-25-years-ago-today"
 excerpt: "Barista Uno on the Marine Cafe blog, posted this morning about a sad anniversary. Twenty five years ago today, the passenger ferry Dona Paz collided with the oil tanker MT Vector in the Philippines. With a likely death toll of over 4,000 people, the sinking of the Dona Paz was deadliest … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Dolphins Can Recognize Each Others’ Whistles — And Their Urine, New Study Finds"
 date: 2024-07-02T16:53:11
-slug: dolphins-can-recognize-each-others-whistles-and-their-urine-new-study-finds
+slug: "dolphins-can-recognize-each-others-whistles-and-their-urine-new-study-finds"
 excerpt: "A fascinating story from CBC Radio — based on a new study in the academic journal Science Advances, dolphins can recognize the sound of a whistle or the taste of urine — yes, taste — to spot their friends. What started … Continue reading &rarr;"
 categories:
   - "Current"

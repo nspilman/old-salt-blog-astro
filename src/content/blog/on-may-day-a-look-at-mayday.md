@@ -1,7 +1,7 @@
 ---
 title: "On May Day, a Look at Mayday"
 date: 2013-05-01T10:48:20
-slug: on-may-day-a-look-at-mayday
+slug: "on-may-day-a-look-at-mayday"
 excerpt: "Happy May Day! May 1st is a traditional day of celebration of the coming of spring with May poles and dancing and general carrying on. In Europe it is also a day of solidarity with labor, similar o the US … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Wall of Ice Collapses at Tennessee Titanic Museum, Injuring Three"
 date: 2021-08-09T10:48:21
-slug: wall-of-ice-collapses-at-tennessee-titanic-museum-injuring-three
+slug: "wall-of-ice-collapses-at-tennessee-titanic-museum-injuring-three"
 excerpt: "Last week, a wall of ice, representing an iceberg, collapsed at the Titanic Museum Attraction in Pigeon Forge, Tennessee, injuring three guests. The injured were taken to a local hospital. The extent of the injuries was not revealed. From the … Continue reading &rarr;"
 categories:
   - "Current"

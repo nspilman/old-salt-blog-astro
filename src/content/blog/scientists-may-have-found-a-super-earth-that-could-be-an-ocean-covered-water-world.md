@@ -1,7 +1,7 @@
 ---
 title: "Scientists May Have Found a ‘Super-Earth’ That Could Be an Ocean-Covered Water World"
 date: 2022-09-17T10:15:04
-slug: scientists-may-have-found-a-super-earth-that-could-be-an-ocean-covered-water-world
+slug: "scientists-may-have-found-a-super-earth-that-could-be-an-ocean-covered-water-world"
 excerpt: "ScienceAlert.com reports the discovery of an exoplanet just 100 light-years from Earth that appears to be the best candidate yet for a sloshy, water-covered ocean world. It’s called TOI-1452b, and measurements of its size and mass suggest a density profile consistent … Continue reading &rarr;"
 categories:
   - "Current"

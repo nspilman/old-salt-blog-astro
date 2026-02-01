@@ -1,7 +1,7 @@
 ---
 title: "BAP Unión, Peru’s New Navy Sail Training Ship Commissioned"
 date: 2016-02-20T13:51:54
-slug: bap-union-perus-new-navy-sail-training-ship-commissioned
+slug: "bap-union-perus-new-navy-sail-training-ship-commissioned"
 excerpt: "In December of 2012, we posted about the keel laying for the Peruvian Navy’s sail training ship at the Marine Industrial Services (SIMA) shipyard in Callao. Last month, the new four-masted barque, BAP (Buque Armada Peruana) Unión was commissioned. The … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

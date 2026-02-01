@@ -1,8 +1,8 @@
 ---
 title: "Was Albert Einstein a Lousy Sailor ?"
 date: 2014-02-12T16:22:20
-slug: albert-einstein-scientist-sailor
-excerpt: "The first word that comes to mind when thinking of Albert Einstein is probably not “sailor.”  Nevertheless, Einstein enjoyed sailing and appears to have done at least some of his most important work while on sailing vacations.  A friend described … Continue reading &rarr;"
+slug: "albert-einstein-scientist-sailor"
+excerpt: "The first word that comes to mind when thinking of Albert Einstein is probably not \"sailor.\"  Nevertheless, Einstein enjoyed sailing and appears to have done at least some of his most important work while on sailing vacations.  A friend described … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "sailing"
   - "Tümmler"
 author: "Rick Spilman"
-description: "The first word that comes to mind when thinking of Albert Einstein is probably not “sailor.”  Nevertheless, Einstein enjoyed sailing and appears to have done at least some of his most important work while on sailing vacations.  A friend described … Continue reading &rarr;"
+description: "The first word that comes to mind when thinking of Albert Einstein is probably not \"sailor.\"  Nevertheless, Einstein enjoyed sailing and appears to have done at least some of his most important work while on sailing vacations.  A friend described … Continue reading &rarr;"
 ---
 
 ![AE-Tuemmler1](http://www.oldsaltblog.com/wp-content/uploads/2014/02/AE-Tuemmler1.jpg)

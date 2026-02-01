@@ -1,8 +1,8 @@
 ---
 title: "Report: Navy Failed to Prevent & Respond to Hawaii’s Red Hill Fuel Leaks"
 date: 2022-07-07T09:17:01
-slug: report-navy-failed-to-prevent-respond-to-hawaiis-red-hill-fuel-leaks
-excerpt: "In December we posted Hawaii Deputy AG: Pearl Harbor Leaking Fuel Tanks a “Ticking Time Bomb” describing the fuel oil leaks in the massive World War II era fuel tanks into the island of Oahu’s water supply that forced over … Continue reading &rarr;"
+slug: "report-navy-failed-to-prevent-respond-to-hawaiis-red-hill-fuel-leaks"
+excerpt: "In December we posted Hawaii Deputy AG: Pearl Harbor Leaking Fuel Tanks a \"Ticking Time Bomb\" describing the fuel oil leaks in the massive World War II era fuel tanks into the island of Oahu’s water supply that forced over … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "world war II"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/redhill-1.jpg"
 author: "Rick Spilman"
-description: "In December we posted Hawaii Deputy AG: Pearl Harbor Leaking Fuel Tanks a “Ticking Time Bomb” describing the fuel oil leaks in the massive World War II era fuel tanks into the island of Oahu’s water supply that forced over … Continue reading &rarr;"
+description: "In December we posted Hawaii Deputy AG: Pearl Harbor Leaking Fuel Tanks a \"Ticking Time Bomb\" describing the fuel oil leaks in the massive World War II era fuel tanks into the island of Oahu’s water supply that forced over … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/redhill-1.jpg)In December we posted [Hawaii Deputy AG: Pearl Harbor Leaking Fuel Tanks a “Ticking Time Bomb”](https://www.oldsaltblog.com/2021/12/hawaii-deputy-ag-pearl-harbor-leaking-fuel-tanks-a-ticking-time-bomb/) describing the fuel oil leaks in the massive World War II era fuel tanks into the island of Oahu’s water supply that forced over 1,000 military families from their homes.

@@ -1,7 +1,7 @@
 ---
 title: "Wreckage of Missing Argentine Submarine San Juan Located in Deep Atlantic"
 date: 2018-11-17T09:52:20
-slug: wreckage-of-missing-argentine-submarine-san-juan-located-in-deep-atlantic
+slug: "wreckage-of-missing-argentine-submarine-san-juan-located-in-deep-atlantic"
 excerpt: "One year after the submarine ARA San Juan disappeared on a routine mission, with 44 aboard, the wreckage of the missing submarine has been located in 2,600 feet of water in the Atlantic. The submarine was located by Ocean Infinity, a US … Continue reading &rarr;"
 categories:
   - "Current"

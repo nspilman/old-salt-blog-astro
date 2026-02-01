@@ -1,7 +1,7 @@
 ---
 title: "Don & Alex Peacock, Father and Son Captains, at Boothbay Windjammer Days"
 date: 2021-06-28T10:46:43
-slug: don-alex-peacock-father-and-son-captains-at-boothbay-windjammer-days
+slug: "don-alex-peacock-father-and-son-captains-at-boothbay-windjammer-days"
 excerpt: "This weekend four tall ships participated in the Tall Ships Festival that this year is a part of the Boothbay Harbor Windjammer Days which continues through July 2.  Two of the tall ships, the privateer schooner Lynx and the schooner … Continue reading &rarr;"
 categories:
   - "Current"

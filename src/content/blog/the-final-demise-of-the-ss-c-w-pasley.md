@@ -1,7 +1,7 @@
 ---
 title: "The Final Demise of the SS C. W. Pasley"
 date: 2010-05-17T15:04:05
-slug: the-final-demise-of-the-ss-c-w-pasley
+slug: "the-final-demise-of-the-ss-c-w-pasley"
 excerpt: "Concrete ships were constructed in both World War I and World War II when steel was in short supply.  They were not wildly successful, as they were limited in deadweight and had a tendency to crack.  (No concrete ships were built after the end … Continue reading &rarr;"
 categories:
   - "Current"

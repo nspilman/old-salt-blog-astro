@@ -1,8 +1,8 @@
 ---
 title: "Court Rules for Blue Water Navy Veterans Victims of Agent Orange"
 date: 2019-01-31T09:57:22
-slug: court-rules-for-blue-water-navy-veterans-victims-of-agent-orange
-excerpt: "For the “blue water” Navy veterans suffering from the effects of Agent Orange from their service in Vietnam, a federal appeals court in Washington has done what the politicians have refused to do.  As reported by the Washington Post: The U.S. Court of Appeals … Continue reading &rarr;"
+slug: "court-rules-for-blue-water-navy-veterans-victims-of-agent-orange"
+excerpt: "For the \"blue water\" Navy veterans suffering from the effects of Agent Orange from their service in Vietnam, a federal appeals court in Washington has done what the politicians have refused to do.  As reported by the Washington Post: The U.S. Court of Appeals … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Blue Water Navy"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/bwnavy.jpg"
 author: "Rick Spilman"
-description: "For the “blue water” Navy veterans suffering from the effects of Agent Orange from their service in Vietnam, a federal appeals court in Washington has done what the politicians have refused to do.  As reported by the Washington Post: The U.S. Court of Appeals … Continue reading &rarr;"
+description: "For the \"blue water\" Navy veterans suffering from the effects of Agent Orange from their service in Vietnam, a federal appeals court in Washington has done what the politicians have refused to do.  As reported by the Washington Post: The U.S. Court of Appeals … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/bwnavy.jpg)For the “blue water” Navy veterans suffering from the effects of Agent Orange from their service in Vietnam, a federal appeals court in Washington has done what the politicians have refused to do. 

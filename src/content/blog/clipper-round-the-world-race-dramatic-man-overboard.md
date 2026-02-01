@@ -1,7 +1,7 @@
 ---
 title: "Clipper Round the World Race — Dramatic Man-Overboard Rescue"
 date: 2014-04-01T07:11:34
-slug: clipper-round-the-world-race-dramatic-man-overboard
+slug: "clipper-round-the-world-race-dramatic-man-overboard"
 excerpt: "Andrew Taylor, 46, from London, a crew member on Derry~Londonderry~Doire yacht, racing in the Clipper Round the World Race, went overboard in the Pacific at 23.43 UTC Sunday night in rough weather. He was sighted again at 00.55 UTC before … Continue reading &rarr;"
 categories:
   - "Current"

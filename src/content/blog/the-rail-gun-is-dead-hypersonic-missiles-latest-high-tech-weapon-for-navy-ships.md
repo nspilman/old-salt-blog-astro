@@ -1,7 +1,7 @@
 ---
 title: "The Rail Gun is Dead, Hypersonic Missiles Latest High Tech Weapon For Navy Ships"
 date: 2021-07-10T10:40:45
-slug: the-rail-gun-is-dead-hypersonic-missiles-latest-high-tech-weapon-for-navy-ships
+slug: "the-rail-gun-is-dead-hypersonic-missiles-latest-high-tech-weapon-for-navy-ships"
 excerpt: "For more than a decade the Navy has labored to develop a workable rail gun, a futuristic weapon that fires projectiles at up to seven times the speed of sound using electricity. It failed.  The Washington Post quotes Matthew Caris, … Continue reading &rarr;"
 categories:
   - "Current"

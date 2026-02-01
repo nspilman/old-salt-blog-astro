@@ -1,7 +1,7 @@
 ---
 title: "No, 15 Large Ships Do Not Pollute More Than All the Cars in the World"
 date: 2021-04-25T10:13:35
-slug: no-sixteen-large-ships-do-no-pollute-more-than-all-the-cars-in-the-world
+slug: "no-sixteen-large-ships-do-no-pollute-more-than-all-the-cars-in-the-world"
 excerpt: "In 2009, Dr. James Corbett, a professor of marine policy at the University of Delaware, came up with what he describes as a thought experiment. He compared the sulfur dioxide produced by the largest container ship burning the dirtiest bunker … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

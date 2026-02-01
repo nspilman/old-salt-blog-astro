@@ -1,7 +1,7 @@
 ---
 title: "Rare ‘Black Seadevil’ Anglerfish Caught on Video in Monterey Bay"
 date: 2014-11-25T09:34:41
-slug: rare-black-seadevil-anglerfish-caught-on-video-in-monterey-bay
+slug: "rare-black-seadevil-anglerfish-caught-on-video-in-monterey-bay"
 excerpt: "The video below is footage of a ‘black seadevil’ anglerfish.  The fish in the video is only about 9 cm (3.5 inches) long, but is still fairly terrifying regardless. Other varieties of angler fish can grow to over 3 feet. Living … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

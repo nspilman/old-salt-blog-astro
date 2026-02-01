@@ -1,8 +1,8 @@
 ---
 title: "Mechanics of Whale Song Revealed in New Study"
 date: 2024-02-26T20:57:34
-slug: mechanics-of-whale-song-revealed-in-new-study
-excerpt: "For centuries, sailors heard the sounds made by whales reverberating through the hulls of wooden ships. Arctic whalers dubbed beluga whales the “canaries of the seas” for their clicks, chirps, and whistles.  Nevertheless, it was long thought that whale noises … Continue reading &rarr;"
+slug: "mechanics-of-whale-song-revealed-in-new-study"
+excerpt: "For centuries, sailors heard the sounds made by whales reverberating through the hulls of wooden ships. Arctic whalers dubbed beluga whales the \"canaries of the seas\" for their clicks, chirps, and whistles.  Nevertheless, it was long thought that whale noises … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "whale song"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/02/humpack-layrnx.jpg"
 author: "Rick Spilman"
-description: "For centuries, sailors heard the sounds made by whales reverberating through the hulls of wooden ships. Arctic whalers dubbed beluga whales the “canaries of the seas” for their clicks, chirps, and whistles.  Nevertheless, it was long thought that whale noises … Continue reading &rarr;"
+description: "For centuries, sailors heard the sounds made by whales reverberating through the hulls of wooden ships. Arctic whalers dubbed beluga whales the \"canaries of the seas\" for their clicks, chirps, and whistles.  Nevertheless, it was long thought that whale noises … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/02/humpack-layrnx.jpg)

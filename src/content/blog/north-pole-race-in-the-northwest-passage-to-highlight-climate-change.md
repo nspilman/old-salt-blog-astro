@@ -1,7 +1,7 @@
 ---
 title: "North Pole Race in the Northwest Passage to Highlight Climate Change"
 date: 2021-09-30T10:10:41
-slug: north-pole-race-in-the-northwest-passage-to-highlight-climate-change
+slug: "north-pole-race-in-the-northwest-passage-to-highlight-climate-change"
 excerpt: "Interesting news from France24.com: A French sports group on Saturday announced plans to launch a sailing race in the thawing Canadian Arctic to raise awareness of global warming. Due to kick-off in 2023, the North Pole Race will be run … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Magnus Olsson, Ocean Racing Legend, 1949 – 2013"
 date: 2013-04-22T11:34:54
-slug: magnus-olsson-ocean-racing-legend-1949-2013
+slug: "magnus-olsson-ocean-racing-legend-1949-2013"
 excerpt: "Sad news, reported by The Daily Sail: Much loved Swede Magnus Olsson, 64, one of the greatest sportsmen in the world of sailing and one of the coaches and mentors for the Volvo Ocean Race’s Team SCA, has passed away … Continue reading &rarr;"
 categories:
   - "Current"

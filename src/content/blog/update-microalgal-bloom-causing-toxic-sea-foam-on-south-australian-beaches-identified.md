@@ -1,7 +1,7 @@
 ---
 title: "Update: Microalgal Bloom Causing Toxic Sea Foam on South Australian Beaches Identified"
 date: 2025-03-28T17:48:48
-slug: update-microalgal-bloom-causing-toxic-sea-foam-on-south-australian-beaches-identified
+slug: "update-microalgal-bloom-causing-toxic-sea-foam-on-south-australian-beaches-identified"
 excerpt: "We recently posted about a mysterious foam on beaches of the Fleurieu Peninsula of South Australia, that is being blamed for sickening more than 100 surfers and for the deaths of leafy seadragons, fish, and octopuses. Now, the Australian Environment … Continue reading &rarr;"
 categories:
   - "Current"

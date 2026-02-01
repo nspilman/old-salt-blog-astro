@@ -1,7 +1,7 @@
 ---
 title: "Amistad at the Mary Whalen — Returning August 11th"
 date: 2018-07-31T17:38:15
-slug: amistad-at-the-mary-whalen-returning-august-11th
+slug: "amistad-at-the-mary-whalen-returning-august-11th"
 excerpt: "I was fortunate enough to be able to stop by the schooner Amistad last week when she tied up alongside Portside NewYork’s tanker Mary A. Whalen in the historic Atlantic Basin in Redhook, Brooklyn. She is a beautiful schooner with an … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

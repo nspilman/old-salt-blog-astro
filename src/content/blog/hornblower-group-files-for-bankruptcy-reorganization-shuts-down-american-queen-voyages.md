@@ -1,7 +1,7 @@
 ---
 title: "Hornblower Group Files for Bankruptcy Reorganization, Shuts Down American Queen Voyages"
 date: 2024-02-21T18:58:02
-slug: hornblower-group-files-for-bankruptcy-reorganization-shuts-down-american-queen-voyages
+slug: "hornblower-group-files-for-bankruptcy-reorganization-shuts-down-american-queen-voyages"
 excerpt: "The Hornblower Group; a diversified ferry, cruise, marine hospitality, and services organization; has filed for Chapter 11 bankruptcy. The filing is expected to help cut the company’s debt load by $720 million. The company enters bankruptcy with assets of up … Continue reading &rarr;"
 categories:
   - "Current"

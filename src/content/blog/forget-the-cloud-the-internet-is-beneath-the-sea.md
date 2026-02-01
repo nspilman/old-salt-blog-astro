@@ -1,8 +1,8 @@
 ---
 title: "Forget the Cloud, The Internet is Beneath the Sea! — The Russian Threat"
 date: 2016-03-22T09:51:05
-slug: forget-the-cloud-the-internet-is-beneath-the-sea
-excerpt: "In describing the internet, people often talk of “the cloud.”  We connect through over an ethernet, where ether is an archaic term from the Latin aethēr ‎meaning “the upper pure, bright air.”  But as they say in Brooklyn, fuhgeddaboutit! Most … Continue reading &rarr;"
+slug: "forget-the-cloud-the-internet-is-beneath-the-sea"
+excerpt: "In describing the internet, people often talk of \"the cloud.\"  We connect through over an ethernet, where ether is an archaic term from the Latin aethēr ‎meaning \"the upper pure, bright air.\"  But as they say in Brooklyn, fuhgeddaboutit! Most … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

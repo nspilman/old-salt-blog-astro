@@ -1,7 +1,7 @@
 ---
 title: "Wreck of SM UC-55, German World War I U-Boat, Identified Off Shetland"
 date: 2023-07-28T17:38:37
-slug: wreck-of-sm-uc-55-german-world-war-i-u-boat-identified-off-shetland
+slug: "wreck-of-sm-uc-55-german-world-war-i-u-boat-identified-off-shetland"
 excerpt: "Last Friday, July 21, divers dove 110m (361ft) beneath the waters off the Shetland Islands, about eight miles south-east of Lerwick, and positively identified the wreck of the SM UC-55, a German Type UC II minelaying submarine that was sunk … Continue reading &rarr;"
 categories:
   - "Current"

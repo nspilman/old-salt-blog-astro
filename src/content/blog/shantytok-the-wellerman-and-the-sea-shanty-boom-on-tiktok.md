@@ -1,7 +1,7 @@
 ---
 title: "ShantyTok : The Wellerman and the Sea Shanty Boom on TikTok"
 date: 2021-01-14T16:27:57
-slug: shantytok-the-wellerman-and-the-sea-shanty-boom-on-tiktok
+slug: "shantytok-the-wellerman-and-the-sea-shanty-boom-on-tiktok"
 excerpt: "Of all the strangeness that has already transpired in 2021, the most pleasant and least expected has been the explosion of sea shanties on TikTok. If you are not familiar with TikTok, it is a social networking platform that is … Continue reading &rarr;"
 categories:
   - "Current"

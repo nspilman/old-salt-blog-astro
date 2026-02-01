@@ -1,7 +1,7 @@
 ---
 title: "Celebrate Historic USCG Cutter Lilac’s 86th Birthday with Cake"
 date: 2019-05-24T15:14:56
-slug: celebrate-historic-uscg-cutter-lilacs-86th-birthday-with-cake
+slug: "celebrate-historic-uscg-cutter-lilacs-86th-birthday-with-cake"
 excerpt: "If you are near New York City over the Memorial Day Weekend, be sure to stop by the Hudson River Park’s Pier 25 to help celebrate the 86th birthday of the USCG lighthouse/buoy tender Lilac. The historic cutter will be … Continue reading &rarr;"
 categories:
   - "City of Ships"

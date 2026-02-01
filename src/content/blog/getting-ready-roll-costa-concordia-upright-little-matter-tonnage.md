@@ -1,7 +1,7 @@
 ---
-title: "“Parbuckling” the Costa Concordia & a Little Matter of Tonnage"
+title: "\"Parbuckling\" the Costa Concordia & a Little Matter of Tonnage"
 date: 2013-09-15T08:55:58
-slug: getting-ready-roll-costa-concordia-upright-little-matter-tonnage
+slug: "getting-ready-roll-costa-concordia-upright-little-matter-tonnage"
 excerpt: "Tomorrow, if all goes well, a small army of engineers, technicians and mariners will attempt to roll the stricken cruise ship, Costa Concordia, upright from where she sank on the island of Giglio on January 13, 2012. Once upright the … Continue reading &rarr;"
 categories:
   - "Current"

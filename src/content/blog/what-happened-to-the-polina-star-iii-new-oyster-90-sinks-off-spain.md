@@ -1,7 +1,7 @@
 ---
 title: "What Happened to the Polina Star III?  New Oyster 90 Sinks off Spain"
 date: 2015-08-01T11:58:03
-slug: what-happened-to-the-polina-star-iii-new-oyster-90-sinks-off-spain
+slug: "what-happened-to-the-polina-star-iii-new-oyster-90-sinks-off-spain"
 excerpt: "In early July, the year old Polina Star III – an extended 90ft version of the Oyster 825 — suffered some sort of hull failure and sank off the East Coast of Spain. The Oyster press release describes it as a … Continue reading &rarr;"
 categories:
   - "Current"

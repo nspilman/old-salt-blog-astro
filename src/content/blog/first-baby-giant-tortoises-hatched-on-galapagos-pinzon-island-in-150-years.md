@@ -1,7 +1,7 @@
 ---
 title: "First Baby Giant Tortoises Hatched on Galapagos’ Pinzón Island in 150 Years"
 date: 2019-02-04T18:52:00
-slug: first-baby-giant-tortoises-hatched-on-galapagos-pinzon-island-in-150-years
+slug: "first-baby-giant-tortoises-hatched-on-galapagos-pinzon-island-in-150-years"
 excerpt: "For the first time in 150 years, baby giant tortoises have been born on the Galapagos island of Pinzón. Biologists reported that they had observed ten tiny, newly hatched saddleback tortoises on the island early last month. They commented that … Continue reading &rarr;"
 categories:
   - "Current"

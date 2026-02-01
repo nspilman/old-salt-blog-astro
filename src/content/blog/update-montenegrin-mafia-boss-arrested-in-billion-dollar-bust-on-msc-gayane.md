@@ -1,7 +1,7 @@
 ---
 title: "Update: Montenegrin Mafia Boss Arrested in Billion Dollar Bust on MSC Gayane"
 date: 2022-11-04T10:00:36
-slug: update-montenegrin-mafia-boss-arrested-in-billion-dollar-bust-on-msc-gayane
+slug: "update-montenegrin-mafia-boss-arrested-in-billion-dollar-bust-on-msc-gayane"
 excerpt: "In June 2019, Federal authorities raided the container ship MSC Gayane when the ship docked in Philadephia. They found and seized 20 tonnes of cocaine, worth over a billion dollars, stashed in shipping containers. The seizure was the largest cocaine … Continue reading &rarr;"
 categories:
   - "Current"

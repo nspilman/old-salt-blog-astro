@@ -1,7 +1,7 @@
 ---
 title: "Update: Shipyard Worker Charged with Arson in USS Miami Fire"
 date: 2012-07-24T07:58:20
-slug: update-shipyard-worker-charged-with-arson-in-uss-miami-fire
+slug: "update-shipyard-worker-charged-with-arson-in-uss-miami-fire"
 excerpt: "We apologize to industrial vacuum cleaners. (They may not be the national security threat we once thought.)   In a previous post we repeated a statement by the Federal investigators that the fire on the nuclear submarine USS Miami, undergoing repairs in … Continue reading &rarr;"
 categories:
   - "Current"

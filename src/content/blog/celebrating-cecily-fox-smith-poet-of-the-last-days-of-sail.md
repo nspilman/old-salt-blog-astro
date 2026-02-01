@@ -1,7 +1,7 @@
 ---
 title: "Celebrating Cecily Fox Smith — Poet of the Last Days of Sail"
 date: 2014-06-22T10:53:06
-slug: celebrating-cecily-fox-smith-poet-of-the-last-days-of-sail
+slug: "celebrating-cecily-fox-smith-poet-of-the-last-days-of-sail"
 excerpt: "Yesterday, a group of admirers gathered in Bow, England to celebrate the life and work of Cecily Fox Smith.  She was a Victorian poet best remembered for her poems about ships and sailors in the last days of the age of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

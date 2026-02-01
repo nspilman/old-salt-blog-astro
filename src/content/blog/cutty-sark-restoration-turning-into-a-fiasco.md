@@ -1,7 +1,7 @@
 ---
 title: "Cutty Sark Restoration Turning into a Fiasco?"
 date: 2010-02-26T07:31:16
-slug: cutty-sark-restoration-turning-into-a-fiasco
+slug: "cutty-sark-restoration-turning-into-a-fiasco"
 excerpt: "After rosy announcements about the restoration of the Cutty Sark an article in the Telegraph has a very different view of the ongoing project. Cutty Sark restoration turning into a fiasco The restoration of the Cutty Sark is turning into … Continue reading &rarr;"
 categories:
   - "Current"

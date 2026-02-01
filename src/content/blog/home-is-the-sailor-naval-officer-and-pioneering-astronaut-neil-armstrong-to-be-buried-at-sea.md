@@ -1,7 +1,7 @@
 ---
 title: "Home is the Sailor … Naval Officer and Pioneering Astronaut Neil Armstrong to be Buried at Sea"
 date: 2012-09-07T12:44:02
-slug: home-is-the-sailor-naval-officer-and-pioneering-astronaut-neil-armstrong-to-be-buried-at-sea
+slug: "home-is-the-sailor-naval-officer-and-pioneering-astronaut-neil-armstrong-to-be-buried-at-sea"
 excerpt: "Neil Armstrong, the first man to set foot on the moon, best known for navigating the Sea of Tranquility, began his career as a Navy aviator.  Armstrong, who died on August 25, at the age of 82, will be buried at sea as per his … Continue reading &rarr;"
 categories:
   - "Current"

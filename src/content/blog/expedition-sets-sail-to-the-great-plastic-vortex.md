@@ -1,8 +1,8 @@
 ---
 title: "Expedition Sets Sail to the Great Plastic Vortex"
 date: 2009-08-02T08:06:28
-slug: expedition-sets-sail-to-the-great-plastic-vortex
-excerpt: "Last February we posted about a “junkraft” built by Dr. Marcus Eriksen and his team of 15,000 plastic bottles, 30 sailboat masts, an airplane fuselage which they sailed 2,600 miles from Los Angeles to Hawaii to make a point about the … Continue reading &rarr;"
+slug: "expedition-sets-sail-to-the-great-plastic-vortex"
+excerpt: "Last February we posted about a \"junkraft\" built by Dr. Marcus Eriksen and his team of 15,000 plastic bottles, 30 sailboat masts, an airplane fuselage which they sailed 2,600 miles from Los Angeles to Hawaii to make a point about the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "Pacific Garbage Patch"
   - "Plastic Vortex"
 author: "Rick Spilman"
-description: "Last February we posted about a “junkraft” built by Dr. Marcus Eriksen and his team of 15,000 plastic bottles, 30 sailboat masts, an airplane fuselage which they sailed 2,600 miles from Los Angeles to Hawaii to make a point about the … Continue reading &rarr;"
+description: "Last February we posted about a \"junkraft\" built by Dr. Marcus Eriksen and his team of 15,000 plastic bottles, 30 sailboat masts, an airplane fuselage which they sailed 2,600 miles from Los Angeles to Hawaii to make a point about the … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2009/08/trash-votex-animation.jpg)](http://oceans.greenpeace.org/en/the-expedition/news/trashing-our-oceans/ocean_pollution_animation)

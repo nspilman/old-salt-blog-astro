@@ -1,7 +1,7 @@
 ---
 title: "Learn to Sail the Star of India"
 date: 2013-12-11T14:59:55
-slug: learn-to-sail-the-star-of-india
+slug: "learn-to-sail-the-star-of-india"
 excerpt: "On a winter’s day, when the temperature here on the banks of the Hudson River is in the low 30s F, but with the wind off the water feels more like the low 20s, there are many reasons to want … Continue reading &rarr;"
 categories:
   - "Current"

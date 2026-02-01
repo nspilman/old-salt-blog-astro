@@ -1,7 +1,7 @@
 ---
 title: "Famous Research Vessel RV Petrel Rolled Off Blocks in Edinburgh Drydock, 35 Injured"
 date: 2023-03-23T15:32:12
-slug: famous-research-vessel-rv-petrel-rolled-off-blocks-in-edinburgh-drydock-35-injured
+slug: "famous-research-vessel-rv-petrel-rolled-off-blocks-in-edinburgh-drydock-35-injured"
 excerpt: "Yesterday, the research vessel Petrel rolled off her blocks in a drydock in Edinburgh, Scotland, leaving 35 people injured. BBC reports that twenty-three people were taken to the hospital and 12 were treated at the scene of the incident at … Continue reading &rarr;"
 categories:
   - "Current"

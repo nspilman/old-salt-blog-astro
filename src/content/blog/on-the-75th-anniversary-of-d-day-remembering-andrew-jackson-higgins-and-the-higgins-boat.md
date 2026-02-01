@@ -1,8 +1,8 @@
 ---
 title: "On the 75th Anniversary of D-Day, Remembering Andrew Jackson Higgins and the Higgins Boat"
 date: 2019-06-06T09:02:22
-slug: on-the-75th-anniversary-of-d-day-remembering-andrew-jackson-higgins-and-the-higgins-boat
-excerpt: "I am aware of only one man who was praised by both Eisenhower and Hitler. A repost on the 75th anniversary of D-Day. General Dwight David Eisenhower said that “Andrew Higgins … is the man who won the war for … Continue reading &rarr;"
+slug: "on-the-75th-anniversary-of-d-day-remembering-andrew-jackson-higgins-and-the-higgins-boat"
+excerpt: "I am aware of only one man who was praised by both Eisenhower and Hitler. A repost on the 75th anniversary of D-Day. General Dwight David Eisenhower said that \"Andrew Higgins … is the man who won the war for … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "world war II"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/06/higgensrepost.jpg"
 author: "Rick Spilman"
-description: "I am aware of only one man who was praised by both Eisenhower and Hitler. A repost on the 75th anniversary of D-Day. General Dwight David Eisenhower said that “Andrew Higgins … is the man who won the war for … Continue reading &rarr;"
+description: "I am aware of only one man who was praised by both Eisenhower and Hitler. A repost on the 75th anniversary of D-Day. General Dwight David Eisenhower said that \"Andrew Higgins … is the man who won the war for … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/higgensrepost.jpg)I am aware of only one man who was praised by both Eisenhower and Hitler. A [repost](http://www.oldsaltblog.com/2014/06/remembering-andrew-jackson-higgins-and-the-higgins-boat-on-d-day/) on the 75th anniversary of D-Day.

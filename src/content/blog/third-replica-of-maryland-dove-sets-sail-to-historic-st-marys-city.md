@@ -1,7 +1,7 @@
 ---
 title: "Third Replica of Maryland Dove Sets Sail to Historic St. Mary’s City"
 date: 2022-08-20T14:20:23
-slug: third-replica-of-maryland-dove-sets-sail-to-historic-st-marys-city
+slug: "third-replica-of-maryland-dove-sets-sail-to-historic-st-marys-city"
 excerpt: "A bit over a year ago, we posted about the construction of a new Maryland Dove by the Chesapeake Bay Maritime Museum shipyard. The ship, a reproduction of the 17th-century trading ship that accompanied the first settlers to what is now … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

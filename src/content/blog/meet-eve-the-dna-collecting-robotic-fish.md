@@ -1,8 +1,8 @@
 ---
 title: "Meet ‘Eve’ the DNA-Collecting Robotic Fish"
 date: 2024-08-28T19:59:04
-slug: meet-eve-the-dna-collecting-robotic-fish
-excerpt: "A fascinating article by CNN about a robotic fish named “Eve” that swings its silicone tail side to side, as it glides fluidly through Lake Zurich’s chilly water, where it is being tested by SURF-eDNA. The student-led group has spent … Continue reading &rarr;"
+slug: "meet-eve-the-dna-collecting-robotic-fish"
+excerpt: "A fascinating article by CNN about a robotic fish named \"Eve\" that swings its silicone tail side to side, as it glides fluidly through Lake Zurich’s chilly water, where it is being tested by SURF-eDNA. The student-led group has spent … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -17,7 +17,7 @@ tags:
   - "SURF-eDNA"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/evefish.jpg"
 author: "Rick Spilman"
-description: "A fascinating article by CNN about a robotic fish named “Eve” that swings its silicone tail side to side, as it glides fluidly through Lake Zurich’s chilly water, where it is being tested by SURF-eDNA. The student-led group has spent … Continue reading &rarr;"
+description: "A fascinating article by CNN about a robotic fish named \"Eve\" that swings its silicone tail side to side, as it glides fluidly through Lake Zurich’s chilly water, where it is being tested by SURF-eDNA. The student-led group has spent … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/evefish.jpg)

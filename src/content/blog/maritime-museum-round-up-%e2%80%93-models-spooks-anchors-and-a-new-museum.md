@@ -1,7 +1,7 @@
 ---
 title: "Maritime Museum Round-up – Models, Spooks, Anchors and a New Museum"
 date: 2010-02-24T08:47:51
-slug: maritime-museum-round-up-%e2%80%93-models-spooks-anchors-and-a-new-museum
+slug: "maritime-museum-round-up-%e2%80%93-models-spooks-anchors-and-a-new-museum"
 excerpt: "USS Constitution Model Shipwright Guild’s Annual Model Ship Show – Models in the Spotlight – Running through March 20th. Admission to the Museum and the exhibit are free; donations are welcome. A total of 75 different ships created by modelers … Continue reading &rarr;"
 categories:
   - "Current"

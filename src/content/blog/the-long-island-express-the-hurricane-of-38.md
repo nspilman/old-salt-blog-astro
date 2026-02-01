@@ -1,7 +1,7 @@
 ---
 title: "The Long Island Express – The Hurricane of ’38"
 date: 2011-08-28T09:17:32
-slug: the-long-island-express-the-hurricane-of-38
+slug: "the-long-island-express-the-hurricane-of-38"
 excerpt: "Given the arrival of Hurricane Irene to the East Coast of the US,  it seems worthwhile to take a look back at the Hurricane of 1938, also known as the Long Island Express, the Yankee Clipper and the Great New … Continue reading &rarr;"
 categories:
   - "History"

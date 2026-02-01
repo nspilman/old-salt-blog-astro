@@ -1,7 +1,7 @@
 ---
 title: "Has a 19 Year Old Figured Out How to Clean the Pacific Garbage Patch?"
 date: 2014-06-09T17:25:48
-slug: has-a-19-year-old-figured-out-how-to-clean-the-pacific-garbage-patch
+slug: "has-a-19-year-old-figured-out-how-to-clean-the-pacific-garbage-patch"
 excerpt: "There is a story that has been floating around the web about a 19 year old Dutch engineering student, Boyan Slat,  who, if you believe the claims, has figured out how to clean almost half of the Great Pacific garbage patch in … Continue reading &rarr;"
 categories:
   - "Current"

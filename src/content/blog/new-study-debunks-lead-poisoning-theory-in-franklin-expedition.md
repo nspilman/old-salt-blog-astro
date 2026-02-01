@@ -1,7 +1,7 @@
 ---
 title: "New Study May Debunk Lead Poisoning Theory in Franklin Expedition"
 date: 2013-04-12T14:08:07
-slug: new-study-debunks-lead-poisoning-theory-in-franklin-expedition
+slug: "new-study-debunks-lead-poisoning-theory-in-franklin-expedition"
 excerpt: "Exactly what happened to the ill-fated Franklin expedition remains a mystery.  in 1845, Captain Sir John Franklin, with a crew 129, attempted to traverse the last unnavigated section of the Northwest Passage and never returned.  Some of the bodies expedition crew have been found but the wrecks … Continue reading &rarr;"
 categories:
   - "History"

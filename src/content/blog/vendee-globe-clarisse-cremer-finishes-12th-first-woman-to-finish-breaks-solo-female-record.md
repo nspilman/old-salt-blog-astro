@@ -1,7 +1,7 @@
 ---
 title: "Vendee Globe: Clarisse Cremer Finishes 12th, First Woman to Finish, Breaks Solo Female Record"
 date: 2021-02-05T17:03:16
-slug: vendee-globe-clarisse-cremer-finishes-12th-first-woman-to-finish-breaks-solo-female-record
+slug: "vendee-globe-clarisse-cremer-finishes-12th-first-woman-to-finish-breaks-solo-female-record"
 excerpt: "Clarisse Cremer is the 12th Vendee Globe racer to cross the finish line in Les Sables d’Olonne, having completed the solo, non-stop around the world race in 87 days, 02 hours, 24 minutes, and 25 seconds. She is the first … Continue reading &rarr;"
 categories:
   - "Current"

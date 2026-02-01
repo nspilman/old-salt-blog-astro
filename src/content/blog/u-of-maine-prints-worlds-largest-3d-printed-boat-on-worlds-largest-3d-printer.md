@@ -1,7 +1,7 @@
 ---
 title: "U of Maine Prints World’s Largest 3D Printed Boat on World’s Largest 3D Printer"
 date: 2021-11-29T18:34:50
-slug: u-of-maine-prints-worlds-largest-3d-printed-boat-on-worlds-largest-3d-printer
+slug: "u-of-maine-prints-worlds-largest-3d-printed-boat-on-worlds-largest-3d-printer"
 excerpt: "The University of Maine Advanced Structures and Composites Center recently used its 3D printer to construct the world’s largest 3D-printed boat. In doing so, the university was awarded three Guinness World Records for the world’s largest prototype polymer 3D printer, … Continue reading &rarr;"
 categories:
   - "Current"

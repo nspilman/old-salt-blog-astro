@@ -1,7 +1,7 @@
 ---
 title: "Two White Orcas Sighted Off Japan"
 date: 2021-08-11T17:08:41
-slug: two-white-orcas-sighted-off-japan
+slug: "two-white-orcas-sighted-off-japan"
 excerpt: "The Live Science blog reports that whale watchers in Japan were recently treated to a rare wildlife encounter when they saw, not one, but two white orcas swimming side by side. The pair and their pod were spotted by a … Continue reading &rarr;"
 categories:
   - "Current"

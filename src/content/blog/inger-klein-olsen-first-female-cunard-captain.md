@@ -1,7 +1,7 @@
 ---
 title: "Inger Klein Olsen, First Female Cunard Captain"
 date: 2010-12-14T08:40:43
-slug: inger-klein-olsen-first-female-cunard-captain
+slug: "inger-klein-olsen-first-female-cunard-captain"
 excerpt: "Our belated congratulations to Inger Klein Olsen, who took command of Cunard Line’s Queen Victoria at the beginning of December.  She is the first woman to take command of a Cunard Line ship in the line’s 170 year history. History is Made … Continue reading &rarr;"
 categories:
   - "Current"

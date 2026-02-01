@@ -1,7 +1,7 @@
 ---
 title: "The Cooperage at Mystic Seaport: A Woodworking Craft"
 date: 2014-08-15T09:24:16
-slug: the-cooperage-at-mystic-seaport-a-woodworking-craft
+slug: "the-cooperage-at-mystic-seaport-a-woodworking-craft"
 excerpt: "Just about 40 years ago, while a student studying naval architecture, I had a summer job working for a major oil company in New York City. One weekend, two friends and I took a train out to visit Mystic Seaport. … Continue reading &rarr;"
 categories:
   - "History"

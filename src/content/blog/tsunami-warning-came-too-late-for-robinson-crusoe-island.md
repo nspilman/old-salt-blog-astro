@@ -1,7 +1,7 @@
 ---
 title: "Tsunami warning came too late for Robinson Crusoe Island"
 date: 2010-03-11T06:48:05
-slug: tsunami-warning-came-too-late-for-robinson-crusoe-island
+slug: "tsunami-warning-came-too-late-for-robinson-crusoe-island"
 excerpt: "In early February we observed the anniversary of the rescue of Alexander Selkirk from the tiny island Mas a Tierra,  in the Juan Fernandez archipelago off the coast of Chile. Selkirk would be the model for Defoe’s Robinson Crusoe and Mas a Tierra … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "HMS Ark Royal on her Final Voyage Home"
 date: 2010-11-21T11:24:24
-slug: hms-ark-royal-on-her-final-voyage-home
+slug: "hms-ark-royal-on-her-final-voyage-home"
 excerpt: "Thirty years ago HMS Ark Royal was built on the River Tyne at the Swan Hunter shipyard.  Last Friday, she sailed home for the last time to be decommissioned and ultimately scrapped.  As she moved up river, spectators said their final goodbyes to … Continue reading &rarr;"
 categories:
   - "Current"

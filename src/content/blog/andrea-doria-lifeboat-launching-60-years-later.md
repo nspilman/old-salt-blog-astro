@@ -1,7 +1,7 @@
 ---
 title: "Andrea Doria Lifeboat Launching—60 Years Later"
 date: 2016-07-29T11:03:37
-slug: andrea-doria-lifeboat-launching-60-years-later
+slug: "andrea-doria-lifeboat-launching-60-years-later"
 excerpt: "On July 25, 1956, the Italian Line passenger liner Andrea Doria was approaching the coast of Nantucket, Massachusetts, bound for New York City, when she collided with the eastbound MS Stockholm of the Swedish American Line and sank. Now 60 … Continue reading &rarr;"
 categories:
   - "Current"

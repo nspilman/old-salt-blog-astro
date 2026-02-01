@@ -1,8 +1,8 @@
 ---
 title: "Ice Jams on the Hudson River Break Moorings, Shut Down Bridges"
 date: 2019-01-27T18:04:01
-slug: ice-jams-on-the-hudson-river-break-moorings-shut-down-bridges
-excerpt: "No doubt about it. Winter is with us with a vengeance. On Friday rising waters and ice jams on the Hudson River between Albany and Troy, New York tore eight vessels from their moorings. Five barges, one tugboat, a “dock system” and a … Continue reading &rarr;"
+slug: "ice-jams-on-the-hudson-river-break-moorings-shut-down-bridges"
+excerpt: "No doubt about it. Winter is with us with a vengeance. On Friday rising waters and ice jams on the Hudson River between Albany and Troy, New York tore eight vessels from their moorings. Five barges, one tugboat, a \"dock system\" and a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "tugboats"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/01/shipbridgehudsonice.jpg"
 author: "Rick Spilman"
-description: "No doubt about it. Winter is with us with a vengeance. On Friday rising waters and ice jams on the Hudson River between Albany and Troy, New York tore eight vessels from their moorings. Five barges, one tugboat, a “dock system” and a … Continue reading &rarr;"
+description: "No doubt about it. Winter is with us with a vengeance. On Friday rising waters and ice jams on the Hudson River between Albany and Troy, New York tore eight vessels from their moorings. Five barges, one tugboat, a \"dock system\" and a … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/01/shipbridgehudsonice.jpg)No doubt about it. Winter is with us with a vengeance. On Friday rising waters and ice jams on the Hudson River between Albany and Troy, New York tore [eight vessels from their moorings](https://www.npr.org/2019/01/25/688838962/standoff-ends-between-unmanned-cruise-ship-and-railroad-bridge?utm_source=facebook.com&utm_medium=social&utm_campaign=npr&utm_term=nprnews&utm_content=20190125&fbclid=IwAR1bfo9vNt-9hAbnWaXMmWuisQTc9kXWYCX-MKKGuO7np0JAOHkvi3bUaPs). Five barges, one tugboat, a “dock system” and a 300′ long cruise ship were set adrift in the current.

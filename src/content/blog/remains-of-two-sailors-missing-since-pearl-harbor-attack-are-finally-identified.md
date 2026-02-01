@@ -1,7 +1,7 @@
 ---
 title: "Remains of Two Sailors Missing Since Pearl Harbor Attack Are Finally Identified"
 date: 2022-08-15T13:30:26
-slug: remains-of-two-sailors-missing-since-pearl-harbor-attack-are-finally-identified
+slug: "remains-of-two-sailors-missing-since-pearl-harbor-attack-are-finally-identified"
 excerpt: "Eighty-one years after the attack on Pearl Harbor, the identification of fallen US sailors is ongoing. Recently, the Defense POW/MIA Accounting Agency identified the remains of two sailors missing in action since Dec. 7, 1941.  Petty Ofc. 2nd Class Claude … Continue reading &rarr;"
 categories:
   - "Current"

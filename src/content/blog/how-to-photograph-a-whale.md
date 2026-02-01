@@ -1,7 +1,7 @@
 ---
 title: "How to Photograph a Whale"
 date: 2011-01-17T08:00:19
-slug: how-to-photograph-a-whale
+slug: "how-to-photograph-a-whale"
 excerpt: "Some absolutely wonderful photography and video as photographer Lisa Denning talks about her process of making pictures of humpback whales off the island of Rurutu in French Polynesia.  From Time magazine: … Continue reading &rarr;"
 categories:
   - "Current"

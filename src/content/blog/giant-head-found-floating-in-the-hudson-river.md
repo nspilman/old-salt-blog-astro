@@ -1,7 +1,7 @@
 ---
 title: "Giant Head Found Floating in the Hudson River"
 date: 2013-04-26T18:51:59
-slug: giant-head-found-floating-in-the-hudson-river
+slug: "giant-head-found-floating-in-the-hudson-river"
 excerpt: "The Marist College crew team found a seven foot tall head floating in the Hudson River on Friday.  Very odd. So far, the head is unclaimed. College crew team pulls giant head out of Hudson River Giant Floating Head Found in … Continue reading &rarr;"
 categories:
   - "Current"

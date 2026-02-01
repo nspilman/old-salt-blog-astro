@@ -1,7 +1,7 @@
 ---
 title: "Real-time Research on Passenger Drills on RCCL’s Jewel of the Seas"
 date: 2010-09-16T17:28:58
-slug: real-time-research-on-passenger-drills-on-rccls-jewel-of-the-seas
+slug: "real-time-research-on-passenger-drills-on-rccls-jewel-of-the-seas"
 excerpt: "As cruise ships grow ever larger safety professionals have questioned whether passengers will be able to get to the life boats in time in case of an  emergency. (See Captain D. Peter Boucher’s BIGGER IS BETTER – NOT on his Nautical Log blog for … Continue reading &rarr;"
 categories:
   - "Current"

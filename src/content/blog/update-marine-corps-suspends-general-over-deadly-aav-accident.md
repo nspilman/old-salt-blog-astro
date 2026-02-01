@@ -1,7 +1,7 @@
 ---
 title: "Update: Marine Corps Suspends General Over Deadly AAV Accident"
 date: 2021-05-04T11:00:08
-slug: update-marine-corps-suspends-general-over-deadly-aav-accident
+slug: "update-marine-corps-suspends-general-over-deadly-aav-accident"
 excerpt: "The Marine Corps suspended Maj. Gen. Robert F. Castellvi last week as it investigates his role in the sinking of an amphibious assault vehicle (AAV) that killed eight U.S. Marines and one Navy sailor.   A Marine Corps investigation, released in March, … Continue reading &rarr;"
 categories:
   - "Current"

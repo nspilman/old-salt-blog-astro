@@ -1,7 +1,7 @@
 ---
 title: "HMS Tarpon, WWII Sub Sunk by Q-Ship Found Off Denmark"
 date: 2016-09-09T09:45:53
-slug: hms-tarpon-wwii-sub-sunk-q-ship-found-off-denmark
+slug: "hms-tarpon-wwii-sub-sunk-q-ship-found-off-denmark"
 excerpt: "The wreck of HMS Tarpon, a British submarine sunk by a German Q-ship during World War II, was discovered last March in the North Sea, near Thyborøn, Denmark. The wreck was discovered in 40 meters of water by a Danish … Continue reading &rarr;"
 categories:
   - "Current"

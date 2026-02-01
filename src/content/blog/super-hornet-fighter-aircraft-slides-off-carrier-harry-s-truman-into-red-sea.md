@@ -1,7 +1,7 @@
 ---
 title: "Super Hornet Fighter Aircraft Slides Off Carrier Harry S. Truman Into Red Sea"
 date: 2025-04-30T15:16:49
-slug: super-hornet-fighter-aircraft-slides-off-carrier-harry-s-truman-into-red-sea
+slug: "super-hornet-fighter-aircraft-slides-off-carrier-harry-s-truman-into-red-sea"
 excerpt: "An F/A-18 Super Hornet fighter jet slipped off the hangar deck of the aircraft carrier USS Harry S. Truman, deployed in the Red Sea on Monday. The tow tractor that had been moving the aircraft also went over the side in … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
-title: "1864 Lake Erie Shipwreck of the Brigantine Sultan – “Pirates and Other Hearty Seafaring Folk”"
+title: "1864 Lake Erie Shipwreck of the Brigantine Sultan – \"Pirates and Other Hearty Seafaring Folk\""
 date: 2011-11-18T18:35:40
-slug: 1864-lake-erie-shipwreck-of-the-brigantine-sultan-pirates-and-other-hearty-seafaring-folk
+slug: "1864-lake-erie-shipwreck-of-the-brigantine-sultan-pirates-and-other-hearty-seafaring-folk"
 excerpt: "Recently, divers from Cleveland Underwater Explorers, Inc. discovered the wreck of the brigantine Sultan, which sank in September 1864 in Lake Erie in 45 feet of water.  The ship is in quite good shape. Beyond the discovery itself being interesting, I can’t help … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

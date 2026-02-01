@@ -1,7 +1,7 @@
 ---
 title: "SSV Oliver Hazard Perry — Nearing Completion &  July 5th Gala"
 date: 2014-05-06T09:08:39
-slug: ssv-oliver-hazard-perry-nearing-completion-july-5th-gala
+slug: "ssv-oliver-hazard-perry-nearing-completion-july-5th-gala"
 excerpt: "The SSV Oliver Hazard Perry, the largest square-rigged sailing ship built in this country in over 100 years, is nearing completion.  The 132′ long three masted steel ship has been hauled at at Newport Shipyard for final exterior work and … Continue reading &rarr;"
 categories:
   - "Current"

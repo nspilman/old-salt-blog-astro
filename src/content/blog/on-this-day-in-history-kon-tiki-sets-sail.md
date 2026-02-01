@@ -1,7 +1,7 @@
 ---
 title: "On this Day in History – Kon Tiki Sets Sail"
 date: 2011-04-28T19:44:38
-slug: on-this-day-in-history-kon-tiki-sets-sail
+slug: "on-this-day-in-history-kon-tiki-sets-sail"
 excerpt: "On April 28, 1947, a six-man expedition led by Thor Heyerdahl sailed from Callao, Peru aboard a balsa wood raft named the Kon-Tiki on a 101-day journey across the Pacific Ocean to Polynesia.   Heyerdahl’s book, Kon-Tiki: Across the Pacific by Raft, … Continue reading &rarr;"
 categories:
   - "History"

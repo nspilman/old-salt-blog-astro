@@ -1,8 +1,8 @@
 ---
 title: "City of Water & Fire – A Day in New York Harbor"
 date: 2012-07-14T21:25:49
-slug: city-of-water-fire-a-day-in-new-york-harbor
-excerpt: "Today the  the Metropolitan Waterfront Alliance hosted the “City of Water Day” to celebrate New York – New Jersey harbor.  Festivities were centered on Governor’s Island and Liberty State Park with activities spread across the waterfront from Edgewater to Brooklyn and Staten Island.  In addition to … Continue reading &rarr;"
+slug: "city-of-water-fire-a-day-in-new-york-harbor"
+excerpt: "Today the  the Metropolitan Waterfront Alliance hosted the \"City of Water Day\" to celebrate New York – New Jersey harbor.  Festivities were centered on Governor’s Island and Liberty State Park with activities spread across the waterfront from Edgewater to Brooklyn and Staten Island.  In addition to … Continue reading &rarr;"
 categories:
   - "Current"
   - "Ships"
@@ -13,7 +13,7 @@ tags:
   - "Metropolitan Waterfront Alliance"
   - "South Street Seaport"
 author: "Rick Spilman"
-description: "Today the  the Metropolitan Waterfront Alliance hosted the “City of Water Day” to celebrate New York – New Jersey harbor.  Festivities were centered on Governor’s Island and Liberty State Park with activities spread across the waterfront from Edgewater to Brooklyn and Staten Island.  In addition to … Continue reading &rarr;"
+description: "Today the  the Metropolitan Waterfront Alliance hosted the \"City of Water Day\" to celebrate New York – New Jersey harbor.  Festivities were centered on Governor’s Island and Liberty State Park with activities spread across the waterfront from Edgewater to Brooklyn and Staten Island.  In addition to … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/pierfire.jpg)

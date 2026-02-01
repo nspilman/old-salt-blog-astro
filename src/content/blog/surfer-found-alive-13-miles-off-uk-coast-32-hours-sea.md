@@ -1,7 +1,7 @@
 ---
 title: "Surfer Found Alive 13 Miles Off UK Coast After 32 Hours at Sea"
 date: 2017-05-02T07:50:27
-slug: surfer-found-alive-13-miles-off-uk-coast-32-hours-sea
+slug: "surfer-found-alive-13-miles-off-uk-coast-32-hours-sea"
 excerpt: "A surfer, who had been swept out to sea while surfing off the Argyll coast of Scotland, was rescued by the Belfast Coast Guard after 32 hours at sea. Matthew Bryce, 22, was reported missing by his family when he … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

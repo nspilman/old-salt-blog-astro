@@ -1,7 +1,7 @@
 ---
 title: "Autumn Winds Carry Ghost Ship Fleet to Japan Again"
 date: 2018-11-15T11:18:10
-slug: autumn-winds-carry-ghost-ship-fleet-to-japan-again
+slug: "autumn-winds-carry-ghost-ship-fleet-to-japan-again"
 excerpt: "For several years, autumn and winter winds have carried a ghost fleet of derelict boats to the coast of northern Japan. Many of the boats were empty, although some carried corpses. This year has set a new record — 89 … Continue reading &rarr;"
 categories:
   - "Current"

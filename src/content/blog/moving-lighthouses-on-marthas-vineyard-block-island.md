@@ -1,7 +1,7 @@
 ---
 title: "Moving Lighthouses on Martha’s Vineyard & Block Island"
 date: 2015-06-05T09:16:06
-slug: moving-lighthouses-on-marthas-vineyard-block-island
+slug: "moving-lighthouses-on-marthas-vineyard-block-island"
 excerpt: "Recently, Gay Head lighthouse on Martha’s Vineyard, off the coast of Massachusetts, was very carefully jacked up and moved 135 feet inland, far enough away from the crumbling red clay cliffs of Gay Head to prevent it toppling into the ocean. … Continue reading &rarr;"
 categories:
   - "Current"

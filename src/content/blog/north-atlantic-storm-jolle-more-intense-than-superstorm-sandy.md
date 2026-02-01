@@ -1,13 +1,13 @@
 ---
 title: "North Atlantic Storm Jolle More Intense than Superstorm Sandy"
 date: 2013-01-28T12:02:55
-slug: north-atlantic-storm-jolle-more-intense-than-superstorm-sandy
+slug: "north-atlantic-storm-jolle-more-intense-than-superstorm-sandy"
 excerpt: "Last Saturday, in the Northern Atlantic to the south of Iceland, the extratropical storm Jolle, intensified dramatically.  Meteorologists use central pressure as a proxy for measuring the strength of a given storm. The lower the barometric pressure, the more intense the storm.  By this standard,  Jolle, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - ""superstorm" Sandy"
+  - "\"superstorm\" Sandy"
   - "Braer"
   - "Jolle"
   - "North Atlantic extratropical storm"

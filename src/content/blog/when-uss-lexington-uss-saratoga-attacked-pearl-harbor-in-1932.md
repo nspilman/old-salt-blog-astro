@@ -1,7 +1,7 @@
 ---
 title: "When USS Lexington & USS Saratoga Attacked Pearl Harbor in 1932"
 date: 2018-03-07T12:41:09
-slug: when-uss-lexington-uss-saratoga-attacked-pearl-harbor-in-1932
+slug: "when-uss-lexington-uss-saratoga-attacked-pearl-harbor-in-1932"
 excerpt: "When was the first surprise attack by carrier aircraft on the US naval base at Pearl Harbor, Hawaii? The obvious answer is the Japanese carrier attack of December 7th, 1941. But what about February 7th, 1932?  We posted yesterday about … Continue reading &rarr;"
 categories:
   - "History"

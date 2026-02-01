@@ -1,7 +1,7 @@
 ---
-title: "“Basically, I can kill people” — Joan Druett’s Interview of Alaric Bond"
+title: "\"Basically, I can kill people\" — Joan Druett’s Interview of Alaric Bond"
 date: 2015-02-26T18:27:37
-slug: basically-i-can-kill-people-joan-druetts-interview-of-alaric-bond
+slug: "basically-i-can-kill-people-joan-druetts-interview-of-alaric-bond"
 excerpt: "An interview with Alaric Bond by the award winning author, Joan Druett. Reposted with permission from her World of the Written Word blog. Congratulations on the launch of your eighth Age of Nelson novel, The Guinea Boat, an edge-of-the-seat thriller in … Continue reading &rarr;"
 categories:
   - "Critiques"
@@ -9,7 +9,7 @@ categories:
   - "Newbooks"
   - "Seastories"
 tags:
-  - ""turn a blind eye"
+  - "\"turn a blind eye"
   - "Alaric Bond"
   - "Fighting Sail"
   - "Guinea Boat"

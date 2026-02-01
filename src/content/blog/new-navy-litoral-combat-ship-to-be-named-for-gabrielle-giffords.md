@@ -1,7 +1,7 @@
 ---
 title: "New Navy Litoral Combat Ship to be Named for Gabrielle Giffords"
 date: 2012-02-10T17:40:51
-slug: new-navy-litoral-combat-ship-to-be-named-for-gabrielle-giffords
+slug: "new-navy-litoral-combat-ship-to-be-named-for-gabrielle-giffords"
 excerpt: "The Navy newest Littoral Combat Ship will be named the USS Gabrielle Giffords in honor of the former Arizona Congresswoman who survived an assassination attempt one year ago. The USS Gabrielle Giffords will be the 17th ship to be named … Continue reading &rarr;"
 categories:
   - "Current"

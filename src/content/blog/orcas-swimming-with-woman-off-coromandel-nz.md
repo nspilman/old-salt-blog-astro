@@ -1,7 +1,7 @@
 ---
 title: "Orcas Swimming with Woman off Coromandel, NZ"
 date: 2018-12-17T16:55:42
-slug: orcas-swimming-with-woman-off-coromandel-nz
+slug: "orcas-swimming-with-woman-off-coromandel-nz"
 excerpt: "Judie Johnson was swimming alone at Hahei Beach on the Coromandel Peninsula in New Zealand when she saw a huge shape appear from underwater. Initially, she thought that it was a dolphin but the black and white coloration made it … Continue reading &rarr;"
 categories:
   - "Current"

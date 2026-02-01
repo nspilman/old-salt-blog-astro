@@ -1,7 +1,7 @@
 ---
 title: "SURGEON’S MATE by Linda Collison – A Review"
 date: 2011-05-20T14:43:33
-slug: surgeons-mate-by-linda-collision-a-review
+slug: "surgeons-mate-by-linda-collision-a-review"
 excerpt: "Patrick McPherson is a 19 year surgeon’s mate in the Royal Navy. By all appearances, he is an upstanding young man with a promising future. The dark secret that the young mate carries is that he is indeed, a she. … Continue reading &rarr;"
 categories:
   - "Newbooks"

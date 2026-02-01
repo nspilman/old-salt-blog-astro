@@ -1,7 +1,7 @@
 ---
 title: "Struck by a Breaching Whale – Circumnavigator Max Young Rescued off Baja"
 date: 2012-06-14T07:54:18
-slug: struck-by-a-breaching-whale-circumnavigator-max-young-rescued-off-baja
+slug: "struck-by-a-breaching-whale-circumnavigator-max-young-rescued-off-baja"
 excerpt: "Since 1985, Max Young has sailed his Perry 50, Reflections, around the world.  He survived storm, calm, tsunami and pirates off Indonesia.  His voyage came to an end early Wednesday morning off Baja in the Pacific, 40 miles west of La Playa, Mexico, when a … Continue reading &rarr;"
 categories:
   - "Current"

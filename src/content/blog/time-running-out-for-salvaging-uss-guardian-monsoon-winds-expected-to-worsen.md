@@ -1,7 +1,7 @@
 ---
 title: "Time Running Out for Salvaging USS Guardian? Monsoon Winds Expected to Worsen"
 date: 2013-01-23T15:27:58
-slug: time-running-out-for-salvaging-uss-guardian-monsoon-winds-expected-to-worsen
+slug: "time-running-out-for-salvaging-uss-guardian-monsoon-winds-expected-to-worsen"
 excerpt: "The minesweeper USS Guardian ran aground on a reef at the Tubbataha  marine park in the Sula Sea last Thursday.  The ship is still there. So far there has been no reported leaks of fuel leaks though the Navy has confirmed … Continue reading &rarr;"
 categories:
   - "Current"

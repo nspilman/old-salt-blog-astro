@@ -1,7 +1,7 @@
 ---
 title: "Ancient Seafarers, Stonehenge and the Megaliths"
 date: 2019-04-30T09:18:09
-slug: ancient-seafarers-stonehenge-and-the-megaliths
+slug: "ancient-seafarers-stonehenge-and-the-megaliths"
 excerpt: "For centuries, ancient megalithic monuments, such as Stonehenge, existing all across Europe, have been abiding mysteries. Who built them, how and why? A new study by Bettina Schulz Paulsson of the University of Gothenburg, Sweden may have at least one … Continue reading &rarr;"
 categories:
   - "History"

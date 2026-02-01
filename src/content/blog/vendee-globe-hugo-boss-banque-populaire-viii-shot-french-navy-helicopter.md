@@ -1,7 +1,7 @@
 ---
 title: "Vendee Globe — Hugo Boss & Banque Populaire VIII Shot from French Navy Helicopter"
 date: 2016-12-03T12:08:34
-slug: vendee-globe-hugo-boss-banque-populaire-viii-shot-french-navy-helicopter
+slug: "vendee-globe-hugo-boss-banque-populaire-viii-shot-french-navy-helicopter"
 excerpt: "Here is some remarkable video footage of the two leaders of the Vendee Globe single-handed around the world race, shot from a French Navy helicopter from the frigate Nivôse. The helicopter videoed Armel le Cleac’h, sailing Banque Populaire VIII, and … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Bound for the Weymouth Leviathan"
 date: 2016-03-10T12:09:13
-slug: bound-weymouth-leviathan
+slug: "bound-weymouth-leviathan"
 excerpt: "I am on my way to the Weymouth Leviathan, a maritime literary festival on the south-west coast of England. I am looking forward to seeing old friends, as well as meeting many fine writers who I know only through the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

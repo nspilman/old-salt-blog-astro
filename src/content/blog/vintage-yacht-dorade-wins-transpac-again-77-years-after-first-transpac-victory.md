@@ -1,7 +1,7 @@
 ---
 title: "Vintage Yacht Dorade Wins Transpac Again, 77 Years After First Transpac Victory!"
 date: 2013-07-23T21:38:13
-slug: vintage-yacht-dorade-wins-transpac-again-77-years-after-first-transpac-victory
+slug: "vintage-yacht-dorade-wins-transpac-again-77-years-after-first-transpac-victory"
 excerpt: "Modern sailing racing yachts tend to have plumb bows and broad flat sterns. The Transpacific Yacht Race, a 2,225 nautical miles race from Los Angelos to Honolulu, Hawaii, has been dominated for several decades by these lightweight, high speed, sailing … Continue reading &rarr;"
 categories:
   - "Current"

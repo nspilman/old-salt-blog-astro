@@ -1,7 +1,7 @@
 ---
 title: "Fire Surfing, Really"
 date: 2014-10-12T09:22:31
-slug: fire-surfing-really
+slug: "fire-surfing-really"
 excerpt: "After posting yesterday about someone who tried to run 1,000 miles across the Gulf Stream to Bermuda in an inflatable hamster cage, and failed, here is a slightly less insane and more successful example of craziness on the water.  The video … Continue reading &rarr;"
 categories:
   - "Current"

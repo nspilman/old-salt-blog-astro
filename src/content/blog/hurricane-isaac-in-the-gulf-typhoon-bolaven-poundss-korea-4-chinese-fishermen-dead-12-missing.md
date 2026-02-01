@@ -1,7 +1,7 @@
 ---
 title: "Hurricane Isaac in the Gulf, Typhoon Bolaven Pounds Korea – 4 Chinese Fishermen Dead, 12 Missing"
 date: 2012-08-28T15:40:18
-slug: hurricane-isaac-in-the-gulf-typhoon-bolaven-poundss-korea-4-chinese-fishermen-dead-12-missing
+slug: "hurricane-isaac-in-the-gulf-typhoon-bolaven-poundss-korea-4-chinese-fishermen-dead-12-missing"
 excerpt: "One hell of a day for storms at sea. Just after noon today, Isaac was upgraded to a Category 1 hurricane as it slowly moved north in the Gulf of Mexico toward Louisiana and the city of New Orleans, on a track disturbingly similar … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Planking Underway on Ernestina-Morrissey Restoration"
 date: 2018-03-19T19:47:49
-slug: planking-underway-on-ernestina-morrissey-restoration
+slug: "planking-underway-on-ernestina-morrissey-restoration"
 excerpt: "Wooden vessels can be a bit like the ax that doesn’t wear out as long as you keep replacing the head and the handle.  Such is very nearly the case with the Ernestina-Morrissey, a 124-year-old schooner now being restored by Bristol Marine at Boothbay Harbor … Continue reading &rarr;"
 categories:
   - "Current"

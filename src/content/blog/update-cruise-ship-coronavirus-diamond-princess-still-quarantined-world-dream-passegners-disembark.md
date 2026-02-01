@@ -1,7 +1,7 @@
 ---
 title: "Update: Cruise Ship Coronavirus — Diamond Princess Still Quarantined, World Dream Passegners Disembark"
 date: 2020-02-09T18:35:13
-slug: update-cruise-ship-coronavirus-diamond-princess-still-quarantined-world-dream-passegners-disembark
+slug: "update-cruise-ship-coronavirus-diamond-princess-still-quarantined-world-dream-passegners-disembark"
 excerpt: "We recently posted about two cruises ships, the Diamond Princess and the World Dream, which were both under quarantine to attempt to limit the spread of the coronavirus. Now, the passengers and crew of the World Dream, which had been … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "World War II Aircraft Carrier USS Lexington Found in Coral Sea After 76 Years"
 date: 2018-03-06T12:44:11
-slug: world-war-ii-aircraft-carrier-uss-lexington-found-in-coral-sea-after-76-years
+slug: "world-war-ii-aircraft-carrier-uss-lexington-found-in-coral-sea-after-76-years"
 excerpt: "The wreckage of the USS Lexington, sunk in the Battle of the Coral Sea during World War II, has been located by the expedition crew of research vessel (R/V) Petrel, owned by billionaire-explorer Paul Allen. The ship was found roughly 500 … Continue reading &rarr;"
 categories:
   - "Current"

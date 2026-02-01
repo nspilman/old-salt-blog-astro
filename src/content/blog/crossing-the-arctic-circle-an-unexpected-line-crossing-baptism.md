@@ -1,8 +1,8 @@
 ---
 title: "Crossing the Arctic Circle — An Unexpected Line Crossing Baptism"
 date: 2019-09-17T15:50:13
-slug: crossing-the-arctic-circle-an-unexpected-line-crossing-baptism
-excerpt: "When crossing the Equator for the first time, sailors have traditionally undergone a “line-crossing ceremony” which often includes being dunked in the ocean three times. Recently, on my first northern line crossing, I inadvertently presided over my own unexpected dunking, … Continue reading &rarr;"
+slug: "crossing-the-arctic-circle-an-unexpected-line-crossing-baptism"
+excerpt: "When crossing the Equator for the first time, sailors have traditionally undergone a \"line-crossing ceremony\" which often includes being dunked in the ocean three times. Recently, on my first northern line crossing, I inadvertently presided over my own unexpected dunking, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -17,7 +17,7 @@ tags:
   - "Reykjavík"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/09/PanOramasmall.jpg"
 author: "Rick Spilman"
-description: "When crossing the Equator for the first time, sailors have traditionally undergone a “line-crossing ceremony” which often includes being dunked in the ocean three times. Recently, on my first northern line crossing, I inadvertently presided over my own unexpected dunking, … Continue reading &rarr;"
+description: "When crossing the Equator for the first time, sailors have traditionally undergone a \"line-crossing ceremony\" which often includes being dunked in the ocean three times. Recently, on my first northern line crossing, I inadvertently presided over my own unexpected dunking, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/09/PanOramasmall.jpg)

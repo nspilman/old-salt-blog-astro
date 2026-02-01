@@ -1,7 +1,7 @@
 ---
 title: "USS Zumwalt Breaks Down in Panama Canal"
 date: 2016-11-23T12:53:46
-slug: uss-zumwalt-breaks-panama-canal
+slug: "uss-zumwalt-breaks-panama-canal"
 excerpt: "More teething problems on USS Zumwalt, the US Navy’s newest, most advanced and most expensive destroyer. While transiting the Panama Canal, the ship lost propulsion on its port shaft. Two of the four bearings that connect the ship’s port and … Continue reading &rarr;"
 categories:
   - "Current"

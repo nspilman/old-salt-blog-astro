@@ -1,7 +1,7 @@
 ---
 title: "Asian Carp Invading the Great Lakes"
 date: 2010-06-25T17:25:22
-slug: asian-carp-invading-the-great-lakes
+slug: "asian-carp-invading-the-great-lakes"
 excerpt: "Two species of Asian carp, the bighead and the silver, were imported in the US in the 1970s by catfish farmers to eat algae in ponds. In flood in the 1990s, Asian trout escaped in the Mississippi River basin have … Continue reading &rarr;"
 categories:
   - "Current"

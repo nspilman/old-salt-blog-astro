@@ -1,7 +1,7 @@
 ---
 title: "P&O Cruise Ship MV Britannia Blown From Her Moorings, Collides with Tanker in Mallorca, Spain"
 date: 2023-08-28T18:04:15
-slug: po-cruise-ship-mv-britannia-blown-from-her-moorings-collides-with-tanker-in-mallorca-spain
+slug: "po-cruise-ship-mv-britannia-blown-from-her-moorings-collides-with-tanker-in-mallorca-spain"
 excerpt: "The P&O cruise ship MV Britannia was blown from her dockside moorings in Mallorca, Spain on Sunday during a sudden and intense storm. The ship drifted across the harbor and collided with a moored oil tanker, the Castillo de Arteaga. … Continue reading &rarr;"
 categories:
   - "Current"

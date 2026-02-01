@@ -1,7 +1,7 @@
 ---
 title: "A Proposal on HMS Bounty"
 date: 2012-05-01T17:32:02
-slug: a-proposal-on-the-bounty
+slug: "a-proposal-on-the-bounty"
 excerpt: "HMS Bounty recently called at St. Augustine, FL.  During a dockside party on the ship, Dr. Roger Clark Smith, a local historian, decided that there would be no better setting to propose marriage to the fair Christine Whalen, who graciously accepted. Our congratulations to the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

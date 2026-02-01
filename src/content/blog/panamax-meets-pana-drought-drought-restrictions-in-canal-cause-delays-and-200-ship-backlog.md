@@ -1,7 +1,7 @@
 ---
 title: "Panamax Meets Pana-Drought — Drought Restrictions In Canal Cause Delays and 200 Ship Backlog"
 date: 2023-08-22T18:23:33
-slug: panamax-meets-pana-drought-drought-restrictions-in-canal-cause-delays-and-200-ship-backlog
+slug: "panamax-meets-pana-drought-drought-restrictions-in-canal-cause-delays-and-200-ship-backlog"
 excerpt: "Panama, the fifth wettest country, is experiencing one of the two driest years in the country’s 143-year record. The historic drought has impacted the water levels in Gatun Lake and the Panama Canal resulting in the Canal Authority introducing ship draft … Continue reading &rarr;"
 categories:
   - "Current"

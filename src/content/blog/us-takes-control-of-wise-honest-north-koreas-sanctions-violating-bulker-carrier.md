@@ -1,8 +1,8 @@
 ---
 title: "US Takes Control of Wise Honest, North Korea’s Sanctions Violating Bulker Carrier"
 date: 2019-05-10T16:32:27
-slug: us-takes-control-of-wise-honest-north-koreas-sanctions-violating-bulker-carrier
-excerpt: "The media has been full of reports about the sanctions violating North Korean bulk carrier, dubiously named Wise Honest. Virtually every headline begins with “US seizes North Korean ship” or some variation thereof.  The Justice Department also used the word … Continue reading &rarr;"
+slug: "us-takes-control-of-wise-honest-north-koreas-sanctions-violating-bulker-carrier"
+excerpt: "The media has been full of reports about the sanctions violating North Korean bulk carrier, dubiously named Wise Honest. Virtually every headline begins with \"US seizes North Korean ship\" or some variation thereof.  The Justice Department also used the word … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Wise Honest"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/05/wisehonest.jpg"
 author: "Rick Spilman"
-description: "The media has been full of reports about the sanctions violating North Korean bulk carrier, dubiously named Wise Honest. Virtually every headline begins with “US seizes North Korean ship” or some variation thereof.  The Justice Department also used the word … Continue reading &rarr;"
+description: "The media has been full of reports about the sanctions violating North Korean bulk carrier, dubiously named Wise Honest. Virtually every headline begins with \"US seizes North Korean ship\" or some variation thereof.  The Justice Department also used the word … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/05/wisehonest.jpg)The media has been full of reports about the sanctions violating North Korean bulk carrier, dubiously named [*Wise Honest*.](https://www.marinetraffic.com/en/ais/details/ships/shipid:672235/mmsi:445582000/imo:8905490/vessel:WISE_HONEST) Virtually every headline begins with “US seizes North Korean ship” or some variation thereof.  The Justice Department also used the word “seized” to describe the taking control of the ship by the US in a [press release dated yesterday, May 9, 2019](https://www.justice.gov/opa/pr/north-korean-cargo-vessel-connected-sanctions-violations-seized-us-government). 

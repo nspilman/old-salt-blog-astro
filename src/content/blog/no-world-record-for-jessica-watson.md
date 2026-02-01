@@ -1,7 +1,7 @@
 ---
 title: "No World Record for Jessica Watson?"
 date: 2010-05-05T16:50:33
-slug: no-world-record-for-jessica-watson
+slug: "no-world-record-for-jessica-watson"
 excerpt: "When Jessica Watson arrives back in Australia in a few weeks, she may be the youngest person to have circumnavigated the world non-stop, but she will not necessarily be granted the record for doing so.  According to the rules laid … Continue reading &rarr;"
 categories:
   - "Current"

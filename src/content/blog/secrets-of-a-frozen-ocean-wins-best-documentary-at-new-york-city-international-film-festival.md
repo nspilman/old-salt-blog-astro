@@ -1,7 +1,7 @@
 ---
 title: "Secrets of a Frozen Ocean Wins Best Documentary at New York City International Film Festival"
 date: 2018-03-11T18:13:59
-slug: secrets-of-a-frozen-ocean-wins-best-documentary-at-new-york-city-international-film-festival
+slug: "secrets-of-a-frozen-ocean-wins-best-documentary-at-new-york-city-international-film-festival"
 excerpt: "Congratulations to Neil and Ariel Weisbrod. Their documentary, Secrets of a Frozen Ocean, won Best Documentary at the New York City International Film Festival.  I was fortunate enough to see the world premiere of this fascinating documentary last Wednesday. The premiere, fittingly … Continue reading &rarr;"
 categories:
   - "Current"

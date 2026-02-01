@@ -1,7 +1,7 @@
 ---
 title: "On the 75th Anniversary: Pearl Harbor Attack Radio Emergency Broadcast"
 date: 2016-12-07T12:01:41
-slug: 75th-anniversary-pearl-harbor-attack-radio-emergency-broadcast
+slug: "75th-anniversary-pearl-harbor-attack-radio-emergency-broadcast"
 excerpt: "Seventy five years ago today. Pearl Harbor Attack EMERGENCY RADIO BROADCAST announcement … Continue reading &rarr;"
 categories:
   - "History"

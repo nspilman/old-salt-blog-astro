@@ -1,7 +1,7 @@
 ---
 title: "Holy Flying Fish! – A Mako Shark and an Eagle Ray Jump Aboard"
 date: 2011-03-31T14:55:37
-slug: holy-flying-fish-a-mako-shark-and-an-eagle-ray-jump-aboard
+slug: "holy-flying-fish-a-mako-shark-and-an-eagle-ray-jump-aboard"
 excerpt: "Last summer we posted about a breaching Southern Right whale that landed on a sailboat off South Africa.   This week, boaters off the Florida Keys and in the Gulf of Mexico off Texas got surprise visitors. Off the Florida Keys a 200 … Continue reading &rarr;"
 categories:
   - "Current"

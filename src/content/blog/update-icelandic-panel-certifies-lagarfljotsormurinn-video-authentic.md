@@ -1,8 +1,8 @@
 ---
-title: "Update: Icelandic Panel Certifies Lagarfljótsormurinn Video “Authentic”"
+title: "Update: Icelandic Panel Certifies Lagarfljótsormurinn Video \"Authentic\""
 date: 2014-09-25T12:03:06
-slug: update-icelandic-panel-certifies-lagarfljotsormurinn-video-authentic
-excerpt: "Two years ago we posted about a video of what was purported to be the Lagarfljót Worm.  An Icelandic commission has now narrowly voted that the video is “authentic.” The video, which shows undulating movements of  something long and very slender, has … Continue reading &rarr;"
+slug: "update-icelandic-panel-certifies-lagarfljotsormurinn-video-authentic"
+excerpt: "Two years ago we posted about a video of what was purported to be the Lagarfljót Worm.  An Icelandic commission has now narrowly voted that the video is \"authentic.\" The video, which shows undulating movements of  something long and very slender, has … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

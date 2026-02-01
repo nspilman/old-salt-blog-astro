@@ -1,8 +1,8 @@
 ---
 title: "Tragedy in the Mozambique Channel — Two Sailors Found Dead in Possible Pirate Attack"
 date: 2025-12-04T18:19:43
-slug: tragedy-in-the-mozambique-channel-two-sailors-found-dead-in-possible-pirate-attack
-excerpt: "Australian sailor Deirdre “Cookie” Sibly, 67, and French sailor Pascal Mahe have been found dead on the yacht Acteon, sailing in the Mozambique Channel, around 200 miles north east of Beira, Mozambique.  Acteon is a 50-foot sloop registered in France. … Continue reading &rarr;"
+slug: "tragedy-in-the-mozambique-channel-two-sailors-found-dead-in-possible-pirate-attack"
+excerpt: "Australian sailor Deirdre \"Cookie\" Sibly, 67, and French sailor Pascal Mahe have been found dead on the yacht Acteon, sailing in the Mozambique Channel, around 200 miles north east of Beira, Mozambique.  Acteon is a 50-foot sloop registered in France. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,14 +12,14 @@ tags:
   - "Acteon"
   - "Agulhas Current"
   - "Australian sailor"
-  - "Deirdre “Cookie” Sibly"
+  - "Deirdre \"Cookie\" Sibly"
   - "French sailor"
   - "Mozambique Channel"
   - "Pascal Mahe"
   - "South Africa"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2025/12/sibly.jpg"
 author: "Rick Spilman"
-description: "Australian sailor Deirdre “Cookie” Sibly, 67, and French sailor Pascal Mahe have been found dead on the yacht Acteon, sailing in the Mozambique Channel, around 200 miles north east of Beira, Mozambique.  Acteon is a 50-foot sloop registered in France. … Continue reading &rarr;"
+description: "Australian sailor Deirdre \"Cookie\" Sibly, 67, and French sailor Pascal Mahe have been found dead on the yacht Acteon, sailing in the Mozambique Channel, around 200 miles north east of Beira, Mozambique.  Acteon is a 50-foot sloop registered in France. … Continue reading &rarr;"
 ---
 
 ![](https://www.oldsaltblog.com/wp-content/uploads/2025/12/sibly.jpg)Australian sailor Deirdre “Cookie” Sibly, 67, and French sailor Pascal Mahe have been found dead on the yacht *[Acteon](https://www.vesseltracker.com/en/Ships/Acteon-I2277135.html),* sailing in the Mozambique Channel, around 200 miles north east of Beira, Mozambique.  *Acteon* is a 50-foot sloop registered in France. The pair, both described by relatives and friends as highly capable mariners, had left Reunion Island in June with the intention of reaching South Africa, stopping in Durban before continuing to Cape Town.

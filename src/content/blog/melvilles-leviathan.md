@@ -1,7 +1,7 @@
 ---
 title: "Melville’s Leviathan"
 date: 2010-07-05T09:10:20
-slug: melvilles-leviathan
+slug: "melvilles-leviathan"
 excerpt: "No, not Moby Dick.  Scientists have recently discovered the fossilized remains of an ancient whale with huge, fearsome teeth, which they have dubbed Leviathan melvillei,  in honor of Herman Melville.   The 12 million old whale was slightly smaller than a modern sperm whale but … Continue reading &rarr;"
 categories:
   - "Current"

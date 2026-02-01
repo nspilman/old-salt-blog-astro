@@ -1,7 +1,7 @@
 ---
 title: "Fleet Week NYC Parade of Ships — View from the Deck of USS Bataan"
 date: 2016-05-26T14:29:39
-slug: fleet-week-new-york-parade-ships-2
+slug: "fleet-week-new-york-parade-ships-2"
 excerpt: "Yesterday thousands lined the shores of the Hudson to watch the Fleet Week Parade of Ships. Unfortunately, this year, I couldn’t be there. Here, courtesy of the US Navy, is a unique view of the festivities from the flight deck … Continue reading &rarr;"
 categories:
   - "City of Ships"

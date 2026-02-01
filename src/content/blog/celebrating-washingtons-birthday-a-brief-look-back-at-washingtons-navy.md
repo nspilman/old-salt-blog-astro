@@ -1,7 +1,7 @@
 ---
 title: "Celebrating Washington’s Birthday — a Brief Look Back at Washington’s Navy"
 date: 2024-02-20T17:29:30
-slug: celebrating-washingtons-birthday-a-brief-look-back-at-washingtons-navy
+slug: "celebrating-washingtons-birthday-a-brief-look-back-at-washingtons-navy"
 excerpt: "Happy Washington’s birthday, or close to Washington’s birthday, at any rate. Since 1879, the third Monday in February has been celebrated as a federal holiday in the United States in honor of the Founding Father George Washington, who led the Continental Army to … Continue reading &rarr;"
 categories:
   - "History"

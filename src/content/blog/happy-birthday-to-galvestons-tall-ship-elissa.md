@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday to Galveston’s Tall Ship Elissa"
 date: 2019-10-27T15:41:47
-slug: happy-birthday-to-galvestons-tall-ship-elissa
+slug: "happy-birthday-to-galvestons-tall-ship-elissa"
 excerpt: "One hundred and forty-two years ago today on October 27th, 1877, the three-masted iron-hulled merchant sailing ship Elissa was launched in Aberdeen, Scotland. She is now a museum ship at the Texas Seaport Museum. In honor of her birthday, here … Continue reading &rarr;"
 categories:
   - "Current"

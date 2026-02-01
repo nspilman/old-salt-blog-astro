@@ -1,7 +1,7 @@
 ---
 title: "USS George Washington Battle Group Steaming Toward the Philippines"
 date: 2013-11-12T13:30:44
-slug: uss-george-washington-battle-group-steaming-toward-the-philippines
+slug: "uss-george-washington-battle-group-steaming-toward-the-philippines"
 excerpt: "The USS George Washington battle group has been ordered to depart from Hong Kong, where it had been making a port call, and to steam for the Philippines to support relief efforts in the aftermath of Super Typhoon Haiyan which … Continue reading &rarr;"
 categories:
   - "Current"

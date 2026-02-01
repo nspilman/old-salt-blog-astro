@@ -1,7 +1,7 @@
 ---
 title: "Evening Gray Morning Red — Now Available in Print and as Ebook"
 date: 2017-10-23T14:12:03
-slug: evening-gray-morning-red-now-available-print-ebook
+slug: "evening-gray-morning-red-now-available-print-ebook"
 excerpt: "I am pleased to announce that my latest novel Evening Gray Morning Red is now available in print and as an ebook.  A little about the novel:  In Evening Gray Morning Red, a young American sailor must escape his past and the clutches … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

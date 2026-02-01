@@ -1,7 +1,7 @@
 ---
 title: "Remembering the Five Sullivan Brothers of the USS Juneau"
 date: 2018-03-21T15:31:47
-slug: remembering-the-five-sullivan-brothers-of-the-uss-juneau
+slug: "remembering-the-five-sullivan-brothers-of-the-uss-juneau"
 excerpt: "Yesterday we posted about the discovery of the wreckage of the USS Juneau by the Paul Allen’s RV Petrel.  The Juneau was sunk by Japanese torpedoes during the Battle of Guadalcanal in November of 1942. Of the 687 men who … Continue reading &rarr;"
 categories:
   - "History"

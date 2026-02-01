@@ -1,7 +1,7 @@
 ---
 title: "SSV Oliver Hazard Perry Shifts To Fort Adams"
 date: 2015-04-30T15:18:17
-slug: ssv-oliver-hazard-perry-shifts-to-fort-adams
+slug: "ssv-oliver-hazard-perry-shifts-to-fort-adams"
 excerpt: "Sailing School Vessel (SSV) Oliver Hazard Perry will be docking at her new permanent berth this Saturday at Fort Adams State Park in Newport, RI. She is the first ocean-going full-rigged ship built in America in over a century. She will … Continue reading &rarr;"
 categories:
   - "Current"

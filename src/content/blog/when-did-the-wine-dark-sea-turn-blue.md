@@ -1,7 +1,7 @@
 ---
 title: "When Did the Wine Dark Sea Turn Blue?"
 date: 2015-03-02T23:20:20
-slug: when-did-the-wine-dark-sea-turn-blue
+slug: "when-did-the-wine-dark-sea-turn-blue"
 excerpt: "Over the last week, the internet has been overwhelmed by an argument over the color of a dress. Some people see the image as gold and white, while others see it as blue and black.  Despite looking at a single … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

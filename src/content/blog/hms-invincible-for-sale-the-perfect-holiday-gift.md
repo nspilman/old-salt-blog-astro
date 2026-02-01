@@ -1,7 +1,7 @@
 ---
 title: "HMS Invincible For Sale – the Perfect Holiday Gift?"
 date: 2010-11-27T09:10:11
-slug: hms-invincible-for-sale-the-perfect-holiday-gift
+slug: "hms-invincible-for-sale-the-perfect-holiday-gift"
 excerpt: "The holiday shopping season is in full swing. But what can you get for the person who has everything? Why not a used aircraft carrier? Just because the Royal Navy won’t be able to launch ship-borne fixed wing aircraft for the next decade doesn’t mean … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
-title: "Day 2 of ILA Port Strike & the Maritime Origin of the Term “Strike”"
+title: "Day 2 of ILA Port Strike & the Maritime Origin of the Term \"Strike\""
 date: 2024-10-02T15:39:35
-slug: day-2-of-ila-port-strike-the-maritime-origin-of-the-term-strike
+slug: "day-2-of-ila-port-strike-the-maritime-origin-of-the-term-strike"
 excerpt: "We are now in day 2 of the first International Longshoremen’s Association (ILA) strike in almost 50 years. The ILA represents 45,000 dockworkers at 36 ports from Maine to Texas on the East and Gulf coasts of the United States. … Continue reading &rarr;"
 categories:
   - "Current"

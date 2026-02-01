@@ -1,7 +1,7 @@
 ---
 title: "USNS Comfort Steams Toward NYC — Concerns About Covid-19 Screening"
 date: 2020-03-29T14:48:30
-slug: usns-comfort-steams-toward-nyc-questions-about-screening-for-covid-19
+slug: "usns-comfort-steams-toward-nyc-questions-about-screening-for-covid-19"
 excerpt: "The Navy hospital ship USNS Comfort  is currently steaming north toward New York harbor to help support the city hospital system during the coronavirus crisis. The ship will dock at a newly dredged berth at Pier 90 on the Hudson … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

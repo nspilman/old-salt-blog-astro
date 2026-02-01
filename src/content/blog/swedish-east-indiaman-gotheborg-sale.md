@@ -1,7 +1,7 @@
 ---
 title: "The Swedish East Indiaman Götheborg for Sale"
 date: 2016-06-13T13:41:40
-slug: swedish-east-indiaman-gotheborg-sale
+slug: "swedish-east-indiaman-gotheborg-sale"
 excerpt: "Sad news. The Götheborg, a replica of an 18th-century Swedish East Indiaman, is for sale. The Ostindiefararen Götheborg Foundation which owns the ship says it can no longer afford to run the replica, which is one of the world’s largest operational wooden sailing … Continue reading &rarr;"
 categories:
   - "Current"

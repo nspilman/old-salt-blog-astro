@@ -1,7 +1,7 @@
 ---
 title: "Waves of Rubbish Wash Up on Australian Beaches After 83 Containers Lost Overboard"
 date: 2018-06-05T21:03:11
-slug: waves-of-rubbish-wash-up-on-australian-beaches-after-83-containers-lost-overboard
+slug: "waves-of-rubbish-wash-up-on-australian-beaches-after-83-containers-lost-overboard"
 excerpt: "Last week, the YM Efficiency, a 4250 TEU container ship bound from Taiwan to Sydney, Australia lost 83 containers in heavy seas while 30km off the coast of Port Stephens. In addition to the containers lost overboard, 30 other containers were … Continue reading &rarr;"
 categories:
   - "Current"

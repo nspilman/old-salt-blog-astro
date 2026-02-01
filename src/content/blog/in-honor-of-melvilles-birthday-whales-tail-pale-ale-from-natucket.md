@@ -1,7 +1,7 @@
 ---
 title: "In Honor of Melville’s Birthday – Whale’s Tail Pale Ale from Nantucket"
 date: 2012-08-01T14:44:57
-slug: in-honor-of-melvilles-birthday-whales-tail-pale-ale-from-natucket
+slug: "in-honor-of-melvilles-birthday-whales-tail-pale-ale-from-natucket"
 excerpt: "One of the joys and pains of buying beer these days, is that there is are so many interesting craft beers to choose from. Some are marvelous, some are unremarkable, while a few are wildly over-hopped, which some American craft … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

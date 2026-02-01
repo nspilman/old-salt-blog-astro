@@ -1,7 +1,7 @@
 ---
 title: "Astrodene’s Historic Naval Fiction Log Book"
 date: 2011-04-01T17:29:27
-slug: astrodenes-historic-naval-fiction-log-book
+slug: "astrodenes-historic-naval-fiction-log-book"
 excerpt: "Astrodene’s Historic Naval Fiction Log Book, a monthly newsletter on naval and nautical fiction and non-fiction is out for April.   Books due for release this month are the novels,  The Mountain of Gold by J. D. Davies, and Honor Bound by Robert … Continue reading &rarr;"
 categories:
   - "Seastories"

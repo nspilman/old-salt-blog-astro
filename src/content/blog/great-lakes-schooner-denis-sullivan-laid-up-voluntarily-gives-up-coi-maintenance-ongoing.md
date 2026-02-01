@@ -1,7 +1,7 @@
 ---
 title: "Great Lakes Schooner Denis Sullivan Laid-up, Voluntarily Gives Up COI, Maintenance Ongoing"
 date: 2022-08-02T15:09:50
-slug: great-lakes-schooner-denis-sullivan-laid-up-voluntarily-gives-up-coi-maintenance-ongoing
+slug: "great-lakes-schooner-denis-sullivan-laid-up-voluntarily-gives-up-coi-maintenance-ongoing"
 excerpt: "Last April, the Milwaukee Journal Sentinal reported that the 137-foot Denis Sullivan — the world’s only replica of a 19th-century three-masted Great Lakes schooner — will remain docked at Discovery World again this year, according to museum President and CEO … Continue reading &rarr;"
 categories:
   - "Current"

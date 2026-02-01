@@ -1,7 +1,7 @@
 ---
 title: "Colour on the Thames – 1935"
 date: 2012-07-01T11:58:39
-slug: colour-on-the-thames-1935
+slug: "colour-on-the-thames-1935"
 excerpt: "A fascinating short film dating from 1935. From the notes: This film is tricky to describe: is it a boat study, a film-poem, an experiment, a picture postcard? One thing is certain: it’s a rare colour snapshot of the Thames … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

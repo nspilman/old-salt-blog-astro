@@ -1,7 +1,7 @@
 ---
 title: "Humpback Whales Dramatic Return to New York Waters"
 date: 2014-11-29T19:43:47
-slug: humpback-whales-dramatic-return-to-new-york-waters
+slug: "humpback-whales-dramatic-return-to-new-york-waters"
 excerpt: "In 2009, a humpback whale sighting in New York Bay was a surprise. In 2011, there were 5 whales sighted over the course of the season. By 2012, there were 25 whales sighted, then 43 whales in 2013, and in … Continue reading &rarr;"
 categories:
   - "Current"

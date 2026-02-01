@@ -1,7 +1,7 @@
 ---
 title: "Emirates Team New Zealand Wins Races 6 & 7 – Only Three More Wins Needed to Take the Cup"
 date: 2013-09-13T12:35:55
-slug: emirates-team-new-zealand-wins-races-6-7-three-wins-needed-take-cup
+slug: "emirates-team-new-zealand-wins-races-6-7-three-wins-needed-take-cup"
 excerpt: "The Emirates Team New Zealand challengers continue their winning streak against the defending Oracle Team USA, winning races 6 and 7. The Kiwis need only three more races to win the best of nine series to win the America’s Cup. … Continue reading &rarr;"
 categories:
   - "Current"

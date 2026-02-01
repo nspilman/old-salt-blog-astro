@@ -1,7 +1,7 @@
 ---
 title: "Somali Pirates Attack USS Nicholas"
 date: 2010-04-02T13:06:49
-slug: somali-pirates-attack-uss-nicholas
+slug: "somali-pirates-attack-uss-nicholas"
 excerpt: "The moral of the story may be  to identify the ship before you attack it. U.S. Navy captures 5 Somali pirates, siezes pirate mother ship off Kenya, Somali coasts The dumbest Somali pirates on the high seas tried to attack … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

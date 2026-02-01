@@ -1,7 +1,7 @@
 ---
 title: "The Battle Against the Narco Submarines"
 date: 2017-12-16T12:31:02
-slug: battle-narco-submarines
+slug: "battle-narco-submarines"
 excerpt: "On November 13, a U.S. Coast Guard cutter intercepted a self-propelled submersible loaded with over 3,800 pounds of cocaine in international waters off the coast of Panama. All three suspects will face charges in the U.S. The crew of three was … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

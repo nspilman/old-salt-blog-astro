@@ -1,7 +1,7 @@
 ---
 title: "Searching for a Ship?  Try ShipIndex.org"
 date: 2010-07-14T17:44:59
-slug: searching-for-a-ship-try-shipindex-org
+slug: "searching-for-a-ship-try-shipindex-org"
 excerpt: "For anyone researching a particular ship,  ShipIndex.org could prove invaluable.   It offers a searchable database with 143,935 entries in the free database and 1,349,574 entries available with premium access. Having done a bit of searching, it looks both easy and powerful. ShipIndex.org … Continue reading &rarr;"
 categories:
   - "History"

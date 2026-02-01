@@ -1,7 +1,7 @@
 ---
 title: "Crisis at PortSide, Help Save the Tanker Mary A. Whalen"
 date: 2012-02-20T19:27:31
-slug: crisis-at-portside-help-save-the-tanker-mary-a-whalen
+slug: "crisis-at-portside-help-save-the-tanker-mary-a-whalen"
 excerpt: "PortSide New York is one of the absolutely best waterfront educational organizations in New York harbor.   Centered around the historic coastal tanker Mary A.Whalen, PortSide has sponsored a wide range of great programs ranging from activities for kids and adults, to hosting … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,12 +1,12 @@
 ---
 title: "The Tale of the Mermaid Pods – Carnival Awarded $24 million in lawsuit with Rolls Royce"
 date: 2011-01-08T18:03:38
-slug: the-tale-of-the-mermaid-pods-carnival-awarded-24-million-in-lawsuit-with-rolls-royce
-excerpt: "This week Carnival Cruise Lines was awarded $24 million in a lawsuit with Rolls Royce related to the repeated failure of the  “Mermaid Pods” on Carnival’s Cunard Line ship, Queen Mary 2. Last year about this time Royal Caribbean Cruise Lines reached a $65 million settlement … Continue reading &rarr;"
+slug: "the-tale-of-the-mermaid-pods-carnival-awarded-24-million-in-lawsuit-with-rolls-royce"
+excerpt: "This week Carnival Cruise Lines was awarded $24 million in a lawsuit with Rolls Royce related to the repeated failure of the  \"Mermaid Pods\" on Carnival’s Cunard Line ship, Queen Mary 2. Last year about this time Royal Caribbean Cruise Lines reached a $65 million settlement … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "This week Carnival Cruise Lines was awarded $24 million in a lawsuit with Rolls Royce related to the repeated failure of the  “Mermaid Pods” on Carnival’s Cunard Line ship, Queen Mary 2. Last year about this time Royal Caribbean Cruise Lines reached a $65 million settlement … Continue reading &rarr;"
+description: "This week Carnival Cruise Lines was awarded $24 million in a lawsuit with Rolls Royce related to the repeated failure of the  \"Mermaid Pods\" on Carnival’s Cunard Line ship, Queen Mary 2. Last year about this time Royal Caribbean Cruise Lines reached a $65 million settlement … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/Pods-vots.jpg)This week [Carnival Cruise Lines was awarded $24 million in a lawsuit with Rolls Royce](http://www.miamiherald.com/2011/01/05/2001944/carnival-wins-24m-from-rolls-in.html) related to the repeated failure of the  “Mermaid Pods” on Carnival’s Cunard Line ship, *[Queen Mary 2](http://en.wikipedia.org/wiki/RMS_Queen_Mary_2)*. Last year about this time [Royal Caribbean Cruise Lines reached a $65 million settlement](http://www.travelweekly.com/article3_ektid209182.aspx) with Rolls Royce over Mermaid pods on its ships.  

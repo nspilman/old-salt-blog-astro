@@ -1,7 +1,7 @@
 ---
 title: "The Saga of the Schooner Hindu – Sold at Auction but New Investors Hopefull"
 date: 2010-08-12T07:54:36
-slug: the-saga-of-the-schooner-hindu-sold-at-auction-but-new-investors-hopefull
+slug: "the-saga-of-the-schooner-hindu-sold-at-auction-but-new-investors-hopefull"
 excerpt: "For years the schooner Hindu has been a favorite in Provincetown, MA.  The classic schooner is credited in helping to establish the summer whale watching trade in the port.   Sadly, after several years of battles between her investors over the … Continue reading &rarr;"
 categories:
   - "Current"

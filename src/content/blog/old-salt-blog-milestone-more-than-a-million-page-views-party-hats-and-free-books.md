@@ -1,7 +1,7 @@
 ---
 title: "Old Salt Blog Milestone – More Than a Million Page Views !  Party Hats and Free Books!"
 date: 2012-12-17T13:00:28
-slug: old-salt-blog-milestone-more-than-a-million-page-views-party-hats-and-free-books
+slug: "old-salt-blog-milestone-more-than-a-million-page-views-party-hats-and-free-books"
 excerpt: "We have reached a milestone here at the Old Salt Blog. We have passed a million pageviews! Specifically, according to Google Analytics, as of this morning, 541,358 unique visitors have viewed 1,052,167 pages on the blog. (The numbers are actually … Continue reading &rarr;"
 categories:
   - "Current"

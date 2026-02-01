@@ -1,7 +1,7 @@
 ---
 title: "Steamboat Delta Queen on the Endangered List"
 date: 2016-10-07T09:41:51
-slug: steamboat-delta-queen-endangered-list
+slug: "steamboat-delta-queen-endangered-list"
 excerpt: "The National Trust for Historic Preservation has named the sternwheel river steamboat Delta Queen as one of America’s 11-Most Endangered Historic Places.  The Delta Queen, built in 1926, is a U.S. National Historic Landmark.  She has been tied to the dock since 2008, a victim of … Continue reading &rarr;"
 categories:
   - "Current"

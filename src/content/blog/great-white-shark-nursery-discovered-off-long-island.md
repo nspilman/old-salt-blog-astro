@@ -1,7 +1,7 @@
 ---
 title: "Great White Shark Nursery Discovered Off Long Island"
 date: 2016-09-01T19:56:17
-slug: great-white-shark-nursery-discovered-off-long-island
+slug: "great-white-shark-nursery-discovered-off-long-island"
 excerpt: "North Pacific humpback whales feed in Alaska but they winter in the Hawaiian Islands, where they mate, calve and nurse their young. The Pacific grey whales do something quite similar, spend their winters in the warm lagoons of Baja, Mexico, … Continue reading &rarr;"
 categories:
   - "Current"

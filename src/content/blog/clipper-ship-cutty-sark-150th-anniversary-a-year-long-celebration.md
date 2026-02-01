@@ -1,7 +1,7 @@
 ---
 title: "Clipper Ship Cutty Sark 150th Anniversary  — A Year-Long Celebration"
 date: 2019-03-13T17:48:34
-slug: clipper-ship-cutty-sark-150th-anniversary-a-year-long-celebration
+slug: "clipper-ship-cutty-sark-150th-anniversary-a-year-long-celebration"
 excerpt: "In February 1869, one hundred and fifty years ago, construction of the composite clipper ship Cutty Sark began on the banks of the River Clyde for the Jock Willis Shipping Line. The clipper ship sailed on its first voyage a … Continue reading &rarr;"
 categories:
   - "Current"

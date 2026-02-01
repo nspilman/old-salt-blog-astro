@@ -1,7 +1,7 @@
 ---
 title: "The Problem of Sailors Stranded on Abandoned Ships Has Only Gotten Worse"
 date: 2024-05-31T20:59:26
-slug: the-problem-of-sailors-stranded-on-abandoned-ships-has-only-gotten-worse
+slug: "the-problem-of-sailors-stranded-on-abandoned-ships-has-only-gotten-worse"
 excerpt: "Back in 2021, we posted about Mohammed Aisha, the First Officer of the MV Aman, who had been stranded on the ship for almost four years, stuck off the Egyptian coast after the ship’s owners in Bahrain faced financial difficulties. … Continue reading &rarr;"
 categories:
   - "Current"

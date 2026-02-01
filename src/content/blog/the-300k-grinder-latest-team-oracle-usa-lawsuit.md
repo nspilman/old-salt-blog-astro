@@ -1,7 +1,7 @@
 ---
 title: "The $300K Grinder & Latest Team Oracle USA Lawsuit"
 date: 2015-03-09T12:26:54
-slug: the-300k-grinder-latest-team-oracle-usa-lawsuit
+slug: "the-300k-grinder-latest-team-oracle-usa-lawsuit"
 excerpt: "Last Friday, the US District Court in San Francisco issued a warrant to seize Oracle Team USA’s prototype America’s Cup foiling multihull sail boat, in response to a lien filed by New Zealand sailor Joe Spooner, whose contract was terminated in … Continue reading &rarr;"
 categories:
   - "Current"

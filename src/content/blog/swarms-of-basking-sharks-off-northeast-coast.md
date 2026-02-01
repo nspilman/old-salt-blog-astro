@@ -1,7 +1,7 @@
 ---
 title: "Swarms of Basking Sharks Off Northeast Coast"
 date: 2018-04-17T20:40:42
-slug: swarms-of-basking-sharks-off-northeast-coast
+slug: "swarms-of-basking-sharks-off-northeast-coast"
 excerpt: "Aerial surveys attempting to identify endangered right whales have spotted swarms of basking sharks, in groups from 30 to up to 1,400, swimming in the waters from Long Island to Nova Scotia. Researchers who study the normally solitary sharks are … Continue reading &rarr;"
 categories:
   - "Current"

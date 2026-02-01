@@ -1,7 +1,7 @@
 ---
 title: "MV Sustina, Alaska’s $78-million ‘Ferry to Nowhere’, Available for Free – Bound to LA?"
 date: 2013-03-12T20:41:17
-slug: mv-sustina-alaskas-78-million-ferry-to-nowhere-available-for-free-bound-to-la
+slug: "mv-sustina-alaskas-78-million-ferry-to-nowhere-available-for-free-bound-to-la"
 excerpt: "The Alaskan high-tech ferry MV Susitna cost $78-million to build.  More than just a ferry, it is also an ice-capable amphibious assault vessel for the Navy, which was supposed to have carried commuters from the Matanuska-Susitna Borough (or Mat-Su as it is known) across upper Cook Inlet.  Mat-Su’s largest … Continue reading &rarr;"
 categories:
   - "Current"

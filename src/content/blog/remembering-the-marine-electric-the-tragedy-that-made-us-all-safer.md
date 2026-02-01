@@ -1,7 +1,7 @@
 ---
 title: "Remembering the SS Marine Electric — a Tragedy that Made Us All Safer"
 date: 2016-02-12T13:46:43
-slug: remembering-the-marine-electric-the-tragedy-that-made-us-all-safer
+slug: "remembering-the-marine-electric-the-tragedy-that-made-us-all-safer"
 excerpt: "Thirty-three years ago today, on February 12, 1983, the collier SS Marine Electric loaded with 24,800 tons of steam coal, capsized and sank in a storm 30 miles off the coast of Virginia. Thirty-one of the 34 crew members died. While nothing … Continue reading &rarr;"
 categories:
   - "History"

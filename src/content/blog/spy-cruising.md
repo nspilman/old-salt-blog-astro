@@ -1,8 +1,8 @@
 ---
 title: "Spy Cruising?"
 date: 2010-05-25T08:50:38
-slug: spy-cruising
-excerpt: "I am not entirely sure why I find this funny, but I do. Perhaps it is because it seems like it all should be secret.  Nevertheless, there appears to be an affinity cruise for everyone so why not a “SpyCruise?”  I wonder if a cloak and … Continue reading &rarr;"
+slug: "spy-cruising"
+excerpt: "I am not entirely sure why I find this funny, but I do. Perhaps it is because it seems like it all should be secret.  Nevertheless, there appears to be an affinity cruise for everyone so why not a \"SpyCruise?\"  I wonder if a cloak and … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "spies"
   - "spy"
 author: "Rick Spilman"
-description: "I am not entirely sure why I find this funny, but I do. Perhaps it is because it seems like it all should be secret.  Nevertheless, there appears to be an affinity cruise for everyone so why not a “SpyCruise?”  I wonder if a cloak and … Continue reading &rarr;"
+description: "I am not entirely sure why I find this funny, but I do. Perhaps it is because it seems like it all should be secret.  Nevertheless, there appears to be an affinity cruise for everyone so why not a \"SpyCruise?\"  I wonder if a cloak and … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/spycruise_header1.jpg)

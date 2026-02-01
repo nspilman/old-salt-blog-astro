@@ -1,7 +1,7 @@
 ---
 title: "USNS Comfort Leaving New York — the Limitations of Hospital Ships"
 date: 2020-04-24T14:44:39
-slug: usns-comfort-leaving-new-york-the-limitations-of-hospital-ships
+slug: "usns-comfort-leaving-new-york-the-limitations-of-hospital-ships"
 excerpt: "US military doctors, nurses, and technicians are among the best in the world, able to step in and to do their jobs under a range of challenging and demanding conditions. Fortunately, over 500 professionals from the Army, Navy, and Air … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "When Hurricanes Hit a Hurricane Hole — the Aftermath of Irma and Maria"
 date: 2017-12-23T17:29:34
-slug: hurricanes-hit-hurricane-hole-aftermath-irma-maria
+slug: "hurricanes-hit-hurricane-hole-aftermath-irma-maria"
 excerpt: "When a hurricane approaches, there are only two choices for the crew of a yacht — either get out of the hurricane’s path, which may or may not be possible and can be very risky, or to hunker down in … Continue reading &rarr;"
 categories:
   - "Current"

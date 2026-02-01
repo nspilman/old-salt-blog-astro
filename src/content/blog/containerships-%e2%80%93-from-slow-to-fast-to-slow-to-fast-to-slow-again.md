@@ -1,7 +1,7 @@
 ---
 title: "Containerships – from Slow to Fast to Slow to Fast to Slow Again"
 date: 2010-02-18T08:42:08
-slug: containerships-%e2%80%93-from-slow-to-fast-to-slow-to-fast-to-slow-again
+slug: "containerships-%e2%80%93-from-slow-to-fast-to-slow-to-fast-to-slow-again"
 excerpt: "Containership operations has always been like riding a roller coaster, with many highs and lows and unexpected twists and turns.  One sign of this is the fluctuating speeds of container ships over the years, going  from slow to fast to … Continue reading &rarr;"
 categories:
   - "Current"

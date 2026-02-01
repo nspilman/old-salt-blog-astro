@@ -1,7 +1,7 @@
 ---
 title: "Civil Blockade Runner Agnes E. Fry Believed Found Off Oak Island, NC"
 date: 2016-04-16T09:36:51
-slug: civil-blockade-runner-agnes-e-fry-believed-found-off-oak-island-nc
+slug: "civil-blockade-runner-agnes-e-fry-believed-found-off-oak-island-nc"
 excerpt: "The Confederate blockade runner Agnes E. Fry is believed to have been located off Oak Island, North Carolina. She is one of three blockade runners lost in the area during the Civil War, but the only ship longer than 200 feet. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

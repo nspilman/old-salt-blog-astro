@@ -1,7 +1,7 @@
 ---
 title: "Eleven Indonesian Fisherman, Stranded by Cyclone Ilsa, Rescued After Six Days Without Food"
 date: 2023-04-19T12:09:08
-slug: eleven-indonesian-fisherman-stranded-by-cyclone-ilsa-rescued-after-six-days-without-food
+slug: "eleven-indonesian-fisherman-stranded-by-cyclone-ilsa-rescued-after-six-days-without-food"
 excerpt: "The BBC reports that eleven Indonesian fishermen have been rescued after surviving for six days without food or water on a tiny island off Australia’s coast. The Australian Maritime Safety Authority said they were airlifted to safety on Monday from … Continue reading &rarr;"
 categories:
   - "Current"

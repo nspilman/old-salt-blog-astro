@@ -1,7 +1,7 @@
 ---
 title: "Women Submariners – Pioneers Facing Many Challenges"
 date: 2010-05-15T07:49:23
-slug: women-submariners-pioneers-facing-many-challenges
+slug: "women-submariners-pioneers-facing-many-challenges"
 excerpt: "The US Navy announced recently that by January 2012 19 women will be assigned to four ballistic missile submarines.  The women officers will be facing challenges of logistics, operations and culture. Women submariners: Trailblazers by timing, sub sailors by choice … Continue reading &rarr;"
 categories:
   - "Current"

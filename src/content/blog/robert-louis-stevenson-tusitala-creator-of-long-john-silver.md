@@ -1,7 +1,7 @@
 ---
 title: "Robert Louis Stevenson, Tusitala & Creator of Long John Silver"
 date: 2010-11-13T12:06:43
-slug: robert-louis-stevenson-tusitala-creator-of-long-john-silver
+slug: "robert-louis-stevenson-tusitala-creator-of-long-john-silver"
 excerpt: "Robert Lewis Balfour Stevenson was born today 160 years ago in Edinburgh, Scotland.   His father grandfather and great-uncles  were light house engineers and designers, but Robert was too sickly as a child to follow in the family profession.  Instead,  he became a writer, … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Scuba Santa Swimming with Sharks – A New Holiday Tradition?"
 date: 2011-12-25T10:56:51
-slug: scuba-diving-santa-swimming-with-sharks-a-new-holiday-tradition
+slug: "scuba-diving-santa-swimming-with-sharks-a-new-holiday-tradition"
 excerpt: "Scuba Santa swimming with sharks may be a relatively new Christmas tradition but it is remarkably widespread. From the Newport Aquarium in Newport, Kentucky; to the North Carolina Aquarium at Pine Knoll Shores and the South Carolina Aquarium in Charleston;  to … Continue reading &rarr;"
 categories:
   - "Current"

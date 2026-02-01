@@ -1,7 +1,7 @@
 ---
 title: "9/11 Maritime Videos, Photos, & Oral History on the Tanker Mary Whalen Through 9/26"
 date: 2021-09-09T15:38:24
-slug: 9-11-maritime-videos-oral-history-on-the-tanker-mary-whalen-through-9-26
+slug: "9-11-maritime-videos-oral-history-on-the-tanker-mary-whalen-through-9-26"
 excerpt: "Portside NewYork is hosting an exhibit of 9/11 videos, documents, and photography in a video booth on the deck of their flagship Mary A. Whalen in Red Hook, Brooklyn, and in an outdoor exhibit of banners. The exhibit runs through … Continue reading &rarr;"
 categories:
   - "Current"

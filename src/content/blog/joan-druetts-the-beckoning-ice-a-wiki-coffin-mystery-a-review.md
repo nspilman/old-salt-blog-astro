@@ -1,14 +1,14 @@
 ---
 title: "Joan Druett’s The Beckoning Ice, A Wiki Coffin Mystery – A Review"
 date: 2012-12-14T17:47:16
-slug: joan-druetts-the-beckoning-ice-a-wiki-coffin-mystery-a-review
-excerpt: "Joan Druett’s The Beckoning Ice, the fifth in her series of Wiki Coffin nautical mysteries, begins in 1839, on the sealer Betsey of Stonington, homeward bound from “a short but very profitable season far south of Cape Horn.” The schooner is … Continue reading &rarr;"
+slug: "joan-druetts-the-beckoning-ice-a-wiki-coffin-mystery-a-review"
+excerpt: "Joan Druett’s The Beckoning Ice, the fifth in her series of Wiki Coffin nautical mysteries, begins in 1839, on the sealer Betsey of Stonington, homeward bound from \"a short but very profitable season far south of Cape Horn.\" The schooner is … Continue reading &rarr;"
 categories:
   - "Newbooks"
   - "Reviews"
   - "Seastories"
 author: "Rick Spilman"
-description: "Joan Druett’s The Beckoning Ice, the fifth in her series of Wiki Coffin nautical mysteries, begins in 1839, on the sealer Betsey of Stonington, homeward bound from “a short but very profitable season far south of Cape Horn.” The schooner is … Continue reading &rarr;"
+description: "Joan Druett’s The Beckoning Ice, the fifth in her series of Wiki Coffin nautical mysteries, begins in 1839, on the sealer Betsey of Stonington, homeward bound from \"a short but very profitable season far south of Cape Horn.\" The schooner is … Continue reading &rarr;"
 ---
 
 [![beckoningice](http://www.oldsaltblog.com/wp-content/uploads/2012/12/beckoningice.jpg)](http://www.amazon.com/Beckoning-Wiki-Coffin-Mysteries-ebook/dp/B00AHJI8P8/ref=sr_1_1?ie=UTF8&qid=1355521242&sr=8-1&keywords=the+beckoning+ice)Joan Druett’s [*The Beckoning Ice*](http://www.amazon.com/Beckoning-Wiki-Coffin-Mysteries-ebook/dp/B00AHJI8P8/ref=sr_1_1?ie=UTF8&qid=1355521242&sr=8-1&keywords=the+beckoning+ice), the fifth in her series of Wiki Coffin nautical mysteries, begins in 1839, on the sealer *Betsey* of Stonington, homeward bound from “a short but very profitable season far south of Cape Horn.” The schooner is very nearly wrecked on a massive iceberg, which looms suddenly out of the fog. The terror of nearly hitting the ice island is only made worse by the corpse of a man, apparently bludgeoned to dead, frozen on a ledge on the face of the ice.

@@ -1,8 +1,8 @@
 ---
 title: "Piles of Dead Crabs and Fish Wash up on Teesside Beaches in NE UK"
 date: 2021-10-31T09:47:55
-slug: piles-of-dead-crabs-and-fish-wash-up-on-teesside-beaches-in-ne-uk
-excerpt: "Thousands of dead crabs, lobsters, and fish washed up recently along Teesside beaches on the UK’s North East coast. Waist deep piles of seaweed and dead and dying crustaceans and fish have been reported. Variously described as the “worst case … Continue reading &rarr;"
+slug: "piles-of-dead-crabs-and-fish-wash-up-on-teesside-beaches-in-ne-uk"
+excerpt: "Thousands of dead crabs, lobsters, and fish washed up recently along Teesside beaches on the UK’s North East coast. Waist deep piles of seaweed and dead and dying crustaceans and fish have been reported. Variously described as the \"worst case … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "Teesside"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/10/teesside.jpg"
 author: "Rick Spilman"
-description: "Thousands of dead crabs, lobsters, and fish washed up recently along Teesside beaches on the UK’s North East coast. Waist deep piles of seaweed and dead and dying crustaceans and fish have been reported. Variously described as the “worst case … Continue reading &rarr;"
+description: "Thousands of dead crabs, lobsters, and fish washed up recently along Teesside beaches on the UK’s North East coast. Waist deep piles of seaweed and dead and dying crustaceans and fish have been reported. Variously described as the \"worst case … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/teesside.jpg)Thousands of dead crabs, lobsters, and fish washed up recently along Teesside beaches on the UK’s North East coast. Waist deep piles of seaweed and dead and dying crustaceans and fish have been reported. Variously described as the “worst case ever seen” and “[apocalyptic](https://www.theguardian.com/uk-news/2021/oct/29/apocalyptic-dead-crabs-litter-beaches-north-east-england),” an investigation is underway to attempt to determine the cause.

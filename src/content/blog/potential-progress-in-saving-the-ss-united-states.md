@@ -1,7 +1,7 @@
 ---
 title: "Potential Progress in Saving the SS United States"
 date: 2014-12-17T09:10:17
-slug: potential-progress-in-saving-the-ss-united-states
+slug: "potential-progress-in-saving-the-ss-united-states"
 excerpt: "The SS United States Conservancy issued a press release signed by Susan Gibbs on Monday announcing: Exciting Redevelopment Milestone Achieved We are very pleased to confirm that we have now entered into a preliminary agreement in support of the redevelopment of … Continue reading &rarr;"
 categories:
   - "Current"

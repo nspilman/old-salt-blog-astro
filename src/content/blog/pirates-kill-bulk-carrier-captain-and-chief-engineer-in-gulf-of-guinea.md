@@ -1,7 +1,7 @@
 ---
 title: "Pirates Kill Bulk Carrier Captain and Chief Engineer in Gulf of Guinea"
 date: 2012-02-16T19:09:10
-slug: pirates-kill-bulk-carrier-captain-and-chief-engineer-in-gulf-of-guinea
+slug: "pirates-kill-bulk-carrier-captain-and-chief-engineer-in-gulf-of-guinea"
 excerpt: "Pirate attacks are escalating in the Gulf of Guinea, with tragic consequences. The IMB Piracy Reporting Centre posted on its website that eight armed pirates boarded a drifting bulk carrier, awaiting berthing instructions, on Monday in the Gulf of Guinea, 110 … Continue reading &rarr;"
 categories:
   - "Current"

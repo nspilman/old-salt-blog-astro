@@ -1,7 +1,7 @@
 ---
 title: "New Year’s Repost: Watching the Ball Drop — the Nautical Origins of a New Year’s Tradition"
 date: 2021-01-01T12:58:11
-slug: new-years-repost-watching-the-ball-drop-the-nautical-origins-of-a-new-years-tradition
+slug: "new-years-repost-watching-the-ball-drop-the-nautical-origins-of-a-new-years-tradition"
 excerpt: "Last night in New York City, people watched, primarily on-line or on television, as a jeweled ball dropped in Times Square at exactly midnight to mark the arrival of the New Year, 2021. In past years, the crowd in Times … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

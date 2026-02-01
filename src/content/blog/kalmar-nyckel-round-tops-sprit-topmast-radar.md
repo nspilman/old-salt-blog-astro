@@ -1,7 +1,7 @@
 ---
 title: "Kalmar Nyckel — Round Tops, Sprit Topmast & Radar"
 date: 2014-11-04T18:15:49
-slug: kalmar-nyckel-round-tops-sprit-topmast-radar
+slug: "kalmar-nyckel-round-tops-sprit-topmast-radar"
 excerpt: "I am fond of one photo I took of the Kalmar Nyckel  at the Sultana Downrigging Weekend in Charlestown, MD last weekend.  It shows two sailors, who appear to be starting to downrig the sprit topsail yard. They are standing … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

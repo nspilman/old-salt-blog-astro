@@ -1,7 +1,7 @@
 ---
 title: "Update: Höegh Osaka Floats Free, Salvage Underway, Weather Permtting"
 date: 2015-01-10T18:23:22
-slug: update-hoegh-osaka-floats-free-salvage-underway-weather-permtting
+slug: "update-hoegh-osaka-floats-free-salvage-underway-weather-permtting"
 excerpt: "One week ago the car carrier Höegh Osaka was intentionally beached on Bramble Bank off the Solent in the UK after the ship developed an unexplained list.  Last Wednesday, the ship floated free from the bank. It is still, however, floating with a severe … Continue reading &rarr;"
 categories:
   - "Current"

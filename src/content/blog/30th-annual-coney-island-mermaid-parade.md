@@ -1,7 +1,7 @@
 ---
 title: "30th Annual Coney Island Mermaid Parade"
 date: 2012-06-24T18:10:30
-slug: 30th-annual-coney-island-mermaid-parade
+slug: "30th-annual-coney-island-mermaid-parade"
 excerpt: "The Mermaid Parade has been held on Coney Island in Brooklyn, New York since 1983.  And I missed it again this year.  Damn. Maybe next year.  Fortunately, the intrepid Will Van Dorp was on hand with his camera.   Check out his … Continue reading &rarr;"
 categories:
   - "Current"

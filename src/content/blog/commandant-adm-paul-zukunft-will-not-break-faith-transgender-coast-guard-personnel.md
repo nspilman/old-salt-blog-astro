@@ -1,7 +1,7 @@
 ---
-title: "Commandant Adm. Paul Zukunft  —  ” I Will Not Break Faith” with Transgender Coast Guard Personnel"
+title: "Commandant Adm. Paul Zukunft  —  \" I Will Not Break Faith\" with Transgender Coast Guard Personnel"
 date: 2017-08-02T09:33:47
-slug: commandant-adm-paul-zukunft-will-not-break-faith-transgender-coast-guard-personnel
+slug: "commandant-adm-paul-zukunft-will-not-break-faith-transgender-coast-guard-personnel"
 excerpt: "Recently, Lt. Taylor Miller of the U.S. Coast Guard was featured in an article in the Washington Post. Lt. Miller is transgender and after a series of early morning tweets by the current occupant of the White House announcing a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

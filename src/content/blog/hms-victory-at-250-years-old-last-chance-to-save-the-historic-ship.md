@@ -1,7 +1,7 @@
 ---
 title: "HMS Victory at 250 Years Old — Last Chance to Save the Historic Ship?"
 date: 2015-01-24T18:56:20
-slug: hms-victory-at-250-years-old-last-chance-to-save-the-historic-ship
+slug: "hms-victory-at-250-years-old-last-chance-to-save-the-historic-ship"
 excerpt: "This May will be the 250th anniversary of the launching of HMS Victory, the 104-gun first-rate Royal Navy ship of the line best known as Lord Nelson’s flagship at the Battle of Trafalgar in 1805.  HMS Victory was also Keppel’s flagship at … Continue reading &rarr;"
 categories:
   - "Current"

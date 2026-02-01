@@ -1,8 +1,8 @@
 ---
 title: "Deadly Volcanic Eruption on New Zealand’s White Island — 5 Dead and More Than 20 Missing"
 date: 2019-12-09T13:48:07
-slug: deadly-volcanic-eruption-on-new-zealands-white-island-5-dead-and-more-than-20-missing
-excerpt: "Passengers on RCL’s Ovation of the Seas who signed up for the excursion to White Island were promised “an unforgettable guided tour of New Zealand’s most active volcano. In fact, White Island is one of the most active volcanoes in the … Continue reading &rarr;"
+slug: "deadly-volcanic-eruption-on-new-zealands-white-island-5-dead-and-more-than-20-missing"
+excerpt: "Passengers on RCL’s Ovation of the Seas who signed up for the excursion to White Island were promised \"an unforgettable guided tour of New Zealand’s most active volcano. In fact, White Island is one of the most active volcanoes in the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "White Island"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/12/whiteisland.jpg"
 author: "Rick Spilman"
-description: "Passengers on RCL’s Ovation of the Seas who signed up for the excursion to White Island were promised “an unforgettable guided tour of New Zealand’s most active volcano. In fact, White Island is one of the most active volcanoes in the … Continue reading &rarr;"
+description: "Passengers on RCL’s Ovation of the Seas who signed up for the excursion to White Island were promised \"an unforgettable guided tour of New Zealand’s most active volcano. In fact, White Island is one of the most active volcanoes in the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/12/whiteisland.jpg)Passengers on RCL’s [*Ovation of the Seas*](https://en.wikipedia.org/wiki/Ovation_of_the_Seas) who signed up for the excursion to White Island were promised “*[an unforgettable guided tour](http://www.royalcaribbean.com/shoreExcursions/product/detail/view.do?sourcePage=shorexByPort&ProductCode=TR93&DestinationCode=) of New Zealand’s most active volcano. In fact, White Island is one of the most active volcanoes in the world. … Gas masks/breathing apparatus helps you get up close to roaring steam vents, bubbling pits of mud, hot volcanic streams and the amazing lake of steaming acid.”*

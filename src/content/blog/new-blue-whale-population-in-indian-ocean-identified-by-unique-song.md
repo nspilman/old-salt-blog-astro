@@ -1,7 +1,7 @@
 ---
 title: "New Blue Whale Population in Indian Ocean Identified by Unique Song"
 date: 2020-12-29T16:22:48
-slug: new-blue-whale-population-in-indian-ocean-identified-by-unique-song
+slug: "new-blue-whale-population-in-indian-ocean-identified-by-unique-song"
 excerpt: "A new blue whale population has been discovered in the Arabian Sea and Western Indian Ocean according to a study recently published in the journal Endangered Species Research. The conclusion is based not on sightings or DNA samples, but rather … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update – Slavery at Sea? Abuse of Indonesian Sailors on Chartered Fishing Vessels"
 date: 2012-02-26T09:15:02
-slug: update-slavery-at-sea-abuse-of-indonesian-sailors-on-chartered-fishing-vessels
+slug: "update-slavery-at-sea-abuse-of-indonesian-sailors-on-chartered-fishing-vessels"
 excerpt: "Last April we posted, Slavery at Sea ? Abuse of Sailors on New Zealand Chartered Fishing Vessels. Secret papers reveal the government has allowed fishermen from poor countries to be exploited in New Zealand waters.  Workers are fishing in rusting boats turned … Continue reading &rarr;"
 categories:
   - "Current"

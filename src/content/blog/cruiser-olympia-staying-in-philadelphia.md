@@ -1,7 +1,7 @@
 ---
 title: "Cruiser Olympia Staying  in Philadelphia"
 date: 2014-04-03T07:41:49
-slug: cruiser-olympia-staying-in-philadelphia
+slug: "cruiser-olympia-staying-in-philadelphia"
 excerpt: "After a three year bidding process to attempt to find a new home for the historic cruiser Olympia, the Independence Seaport Museum has announced that it will keep the ship after all. Four groups originally bid on taking over the ship but … Continue reading &rarr;"
 categories:
   - "Current"

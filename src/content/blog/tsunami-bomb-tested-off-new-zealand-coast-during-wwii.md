@@ -1,8 +1,8 @@
 ---
 title: "‘Tsunami Bomb’ Tested Off New Zealand Coast During WWII"
 date: 2013-01-08T18:43:07
-slug: tsunami-bomb-tested-off-new-zealand-coast-during-wwii
-excerpt: "During World War II, the United States worked to develop a “bat bomb” that consisted of an air dropped canister containing Mexican free-tailed bats with a small timed incendiary bombs attached to their tails. Work on the bat bomb was cancelled due to the … Continue reading &rarr;"
+slug: "tsunami-bomb-tested-off-new-zealand-coast-during-wwii"
+excerpt: "During World War II, the United States worked to develop a \"bat bomb\" that consisted of an air dropped canister containing Mexican free-tailed bats with a small timed incendiary bombs attached to their tails. Work on the bat bomb was cancelled due to the … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "New Zealand"
   - "Tsunami Bomb"
 author: "Rick Spilman"
-description: "During World War II, the United States worked to develop a “bat bomb” that consisted of an air dropped canister containing Mexican free-tailed bats with a small timed incendiary bombs attached to their tails. Work on the bat bomb was cancelled due to the … Continue reading &rarr;"
+description: "During World War II, the United States worked to develop a \"bat bomb\" that consisted of an air dropped canister containing Mexican free-tailed bats with a small timed incendiary bombs attached to their tails. Work on the bat bomb was cancelled due to the … Continue reading &rarr;"
 ---
 
 ![tbomb](http://www.oldsaltblog.com/wp-content/uploads/2013/01/tbomb.jpg)

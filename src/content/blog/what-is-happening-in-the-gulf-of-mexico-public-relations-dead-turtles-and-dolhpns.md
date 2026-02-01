@@ -1,7 +1,7 @@
 ---
 title: "What is happening in the Gulf of Mexico?  Public Relations, Dead Turtles and Dolphins"
 date: 2011-04-10T09:22:26
-slug: what-is-happening-in-the-gulf-of-mexico-public-relations-dead-turtles-and-dolhpns
+slug: "what-is-happening-in-the-gulf-of-mexico-public-relations-dead-turtles-and-dolhpns"
 excerpt: "Hundreds of dead dolphins and sea turtles are washing ashore on the beaches of the Gulf of Mexico.  No one knows exactly what is killing them though  many point to the BP Deepwater Horizon oil spill of a year ago.   In the mean … Continue reading &rarr;"
 categories:
   - "Current"

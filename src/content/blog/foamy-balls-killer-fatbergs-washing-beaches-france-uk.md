@@ -1,12 +1,12 @@
 ---
 title: "Foamy Balls & Killer Fatbergs Washing Up and Beaches in France and the UK"
 date: 2017-09-16T09:00:57
-slug: foamy-balls-killer-fatbergs-washing-beaches-france-uk
-excerpt: "Not all oil pollution is petroleum. Recently, there have been reports of strange yellow blobs washing up on the beaches of France’s Opal Coast. The blobs described variously as “foamy balls,” “strange spongelike clumps,” “yellow mousse” and “possibly the biggest … Continue reading &rarr;"
+slug: "foamy-balls-killer-fatbergs-washing-beaches-france-uk"
+excerpt: "Not all oil pollution is petroleum. Recently, there have been reports of strange yellow blobs washing up on the beaches of France’s Opal Coast. The blobs described variously as \"foamy balls,\" \"strange spongelike clumps,\" \"yellow mousse\" and \"possibly the biggest … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "Not all oil pollution is petroleum. Recently, there have been reports of strange yellow blobs washing up on the beaches of France’s Opal Coast. The blobs described variously as “foamy balls,” “strange spongelike clumps,” “yellow mousse” and “possibly the biggest … Continue reading &rarr;"
+description: "Not all oil pollution is petroleum. Recently, there have been reports of strange yellow blobs washing up on the beaches of France’s Opal Coast. The blobs described variously as \"foamy balls,\" \"strange spongelike clumps,\" \"yellow mousse\" and \"possibly the biggest … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/fuzzy-balls.jpg)Not all oil pollution is petroleum. Recently, there have been reports of strange yellow blobs washing up on the beaches of France’s Opal Coast. The blobs described variously as [“foamy balls,](https://www.washingtonpost.com/news/speaking-of-science/wp/2017/07/24/strange-foamy-balls-are-washing-up-on-the-shores-of-northern-france/?utm_term=.b70193f2faa3)” “[strange spongelike clumps](http://gizmodo.com/what-the-hell-is-this-sponge-like-crap-washing-up-on-fr-1797028457),” “[yellow mousse](http://www.dailymail.co.uk/news/article-4710526/Mystery-bizarre-sponge-balls-wash-French-coast.html)” and “[possibly the biggest balls of earwax ever](https://www.livescience.com/59856-yellow-goo-washes-ashore-in-france.html),” have been identified as industrial paraffin. Some speculate that the blobs which cover roughly 30km of the coastline may be the result of tank cleaning by a ship which had a cargo of paraffin.

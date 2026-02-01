@@ -1,7 +1,7 @@
 ---
 title: "Looters of Wreck of HMS Hermes Found Guilty"
 date: 2018-06-24T10:38:57
-slug: looters-of-wreck-of-hms-hermes-convicted
+slug: "looters-of-wreck-of-hms-hermes-convicted"
 excerpt: "Last year we posted about warships from World War II that had vanished after illegal scrappers literally cut them up and hauled the steel away. Here is a news item on theft on a different scale and with a better outcome. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Secrets of the Sea — A Tang Shipwreck and Early Trade in Asia"
 date: 2017-03-07T12:58:03
-slug: secrets-sea-tang-shipwreck-early-trade-asia
+slug: "secrets-sea-tang-shipwreck-early-trade-asia"
 excerpt: "A new exhibit opens today at the Asia Society Museum in New York City, ‘Secrets of the Sea: A Tang Shipwreck and Early Trade in Asia.‘  The exhibit features a selection of 78 artifacts including ceramics, gold and silver items … Continue reading &rarr;"
 categories:
   - "Current"

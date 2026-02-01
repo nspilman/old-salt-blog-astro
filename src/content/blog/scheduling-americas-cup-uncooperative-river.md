@@ -1,7 +1,7 @@
 ---
 title: "Scheduling & Sailing the America’s Cup on an Uncooperative River"
 date: 2016-05-07T08:58:41
-slug: scheduling-americas-cup-uncooperative-river
+slug: "scheduling-americas-cup-uncooperative-river"
 excerpt: "This afternoon, the Americas’ Cup will return to New York.  Well, not the cup itself, and the races aren’t for the cup either. They are qualifying races for the big races next year. But they will be raced on super-fast AC45 … Continue reading &rarr;"
 categories:
   - "City of Ships"

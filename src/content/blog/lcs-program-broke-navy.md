@@ -1,8 +1,8 @@
 ---
 title: "LCS — the Program that Broke the Navy"
 date: 2016-12-05T07:50:33
-slug: lcs-program-broke-navy
-excerpt: "“The experience of LCS, it broke the Navy,” said Sean Stackley, Assistant Secretary of the Navy for research, development and acquisition. The Navy’s ambitious Littoral Combat Ship (LCS) program promised low cost, highly flexible, reliable, multi-mission ships. So far they … Continue reading &rarr;"
+slug: "lcs-program-broke-navy"
+excerpt: "\"The experience of LCS, it broke the Navy,\" said Sean Stackley, Assistant Secretary of the Navy for research, development and acquisition. The Navy’s ambitious Littoral Combat Ship (LCS) program promised low cost, highly flexible, reliable, multi-mission ships. So far they … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Senate Armed Services Committee"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/lcs2.jpg"
 author: "Rick Spilman"
-description: "“The experience of LCS, it broke the Navy,” said Sean Stackley, Assistant Secretary of the Navy for research, development and acquisition. The Navy’s ambitious Littoral Combat Ship (LCS) program promised low cost, highly flexible, reliable, multi-mission ships. So far they … Continue reading &rarr;"
+description: "\"The experience of LCS, it broke the Navy,\" said Sean Stackley, Assistant Secretary of the Navy for research, development and acquisition. The Navy’s ambitious Littoral Combat Ship (LCS) program promised low cost, highly flexible, reliable, multi-mission ships. So far they … Continue reading &rarr;"
 ---
 
 ![lcs2](http://www.oldsaltblog.com/wp-content/uploads/2016/12/lcs2.jpg)“The experience of LCS, it broke the Navy,” said Sean Stackley, Assistant Secretary of the Navy for research, development and acquisition.

@@ -1,7 +1,7 @@
 ---
 title: "Recovery of the Volvo Ocean Racer Vestas Wind"
 date: 2014-12-24T12:34:18
-slug: recovery-of-the-volvo-ocean-racer-vestas-wind
+slug: "recovery-of-the-volvo-ocean-racer-vestas-wind"
 excerpt: "In the end of November, the Team Vestas Wind, racing in the Volvo Ocean Race, ran aground on a reef in the remote Cargados Carajos archipelago about 430 km to the northeast of Mauritius in the Indian Ocean.  There were no injuries and the crew … Continue reading &rarr;"
 categories:
   - "Current"

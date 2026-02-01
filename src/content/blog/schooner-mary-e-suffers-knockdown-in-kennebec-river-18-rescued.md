@@ -1,7 +1,7 @@
 ---
 title: "Schooner Mary E Suffers Knockdown in Kennebec River, 18 Rescued"
 date: 2021-08-03T10:18:39
-slug: schooner-mary-e-suffers-knockdown-in-kennebec-river-18-rescued
+slug: "schooner-mary-e-suffers-knockdown-in-kennebec-river-18-rescued"
 excerpt: "On Friday, the schooner Mary E, owned by the Maine Maritime Museum in Bath, was knocked down and flooded while sailing off Doubling Point Light on the Kennebec River, just downriver from the museum. All 18 passengers and crew were … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Fourth Annual Wooden Boat Festival at the Independence Seaport Museum"
 date: 2011-10-07T15:55:53
-slug: fourth-annual-wooden-boat-festival-at-the-independence-seaport-museum
+slug: "fourth-annual-wooden-boat-festival-at-the-independence-seaport-museum"
 excerpt: "This Saturday the Fourth Annual Wooden Boat Festival will be held at the Independence Seaport Museum on the Delaware River in Philadelphia.   The festival will kick off with a Parade of Sail featuring the tall ships Gazela and AJ Meerwald as … Continue reading &rarr;"
 categories:
   - "Current"

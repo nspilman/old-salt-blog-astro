@@ -1,7 +1,7 @@
 ---
 title: "Viking Longship Draken Harald Hårfagre Returning Home to Norway"
 date: 2024-05-23T20:17:14
-slug: viking-longship-draken-harald-harfagre-returning-home-to-norway
+slug: "viking-longship-draken-harald-harfagre-returning-home-to-norway"
 excerpt: "After more than seven years in US waters, the longship Draken Harald Hårfagre, known as the world’s largest Viking ship currently sailing, is returning home to Norway. The 115-foot-long ship left its temporary home at Mystic Seaport Museum on Sunday, … Continue reading &rarr;"
 categories:
   - "Current"

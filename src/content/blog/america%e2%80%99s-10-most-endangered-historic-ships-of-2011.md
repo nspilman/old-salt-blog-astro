@@ -1,7 +1,7 @@
 ---
 title: "America’s 10 Most Endangered Historic Ships of 2011"
 date: 2011-12-28T18:08:32
-slug: america%e2%80%99s-10-most-endangered-historic-ships-of-2011
+slug: "america%e2%80%99s-10-most-endangered-historic-ships-of-2011"
 excerpt: "Joe Follansbee at the Fyddeye Guides has compiled a list of America’s 10 Most Endangered Historic Ships of 2011 to help raise awareness of the risk that these historic treasures may not be around much longer if something isn’t done.  One might … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

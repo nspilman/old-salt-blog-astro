@@ -1,7 +1,7 @@
 ---
-title: "North Korean Torpedo Sank Patrol Ship – “There is No Other Plausible Explanation”"
+title: "North Korean Torpedo Sank Patrol Ship – \"There is No Other Plausible Explanation\""
 date: 2010-05-20T09:37:48
-slug: north-korean-torpedo-sank-patrol-ship-there-is-no-other-plausible-explanation
+slug: "north-korean-torpedo-sank-patrol-ship-there-is-no-other-plausible-explanation"
 excerpt: "Now that a South Korean investigation has concluded that a North Korean torpedo sank the South Korean Corvette Cheonan killing 46 sailors, the real question becomes, how to respond? Torpedo accusation raises Korean security stakes … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Two More Cruise Ships Quarantined with Coronavirus"
 date: 2020-02-05T18:42:34
-slug: two-more-cruise-ships-quarantined-with-coronavirus
+slug: "two-more-cruise-ships-quarantined-with-coronavirus"
 excerpt: "Two more cruise ships are being quarantined for 14 days each in hopes of limiting the spread of the coronavirus. Ten people aboard the Diamond Princess tested positive for the virus. Of these nine are passengers — two Australians, three … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

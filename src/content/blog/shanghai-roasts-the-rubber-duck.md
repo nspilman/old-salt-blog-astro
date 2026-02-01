@@ -1,8 +1,8 @@
 ---
-title: "Shanghai Roasts the “Rubber Duck”"
+title: "Shanghai Roasts the \"Rubber Duck\""
 date: 2013-08-29T09:34:25
-slug: shanghai-roasts-the-rubber-duck
-excerpt: "In June, we posted about the Dutch artist Florentijn Hofman’s traveling 16.5 metre-tall “Rubber Duck,” which has visited 13 cities in nine different countries.  It last visited Hong Kong harbor and is now reported to be on its way to Pittsburgh.  In … Continue reading &rarr;"
+slug: "shanghai-roasts-the-rubber-duck"
+excerpt: "In June, we posted about the Dutch artist Florentijn Hofman’s traveling 16.5 metre-tall \"Rubber Duck,\" which has visited 13 cities in nine different countries.  It last visited Hong Kong harbor and is now reported to be on its way to Pittsburgh.  In … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Rubber Duck"
   - "Shanghai"
 author: "Rick Spilman"
-description: "In June, we posted about the Dutch artist Florentijn Hofman’s traveling 16.5 metre-tall “Rubber Duck,” which has visited 13 cities in nine different countries.  It last visited Hong Kong harbor and is now reported to be on its way to Pittsburgh.  In … Continue reading &rarr;"
+description: "In June, we posted about the Dutch artist Florentijn Hofman’s traveling 16.5 metre-tall \"Rubber Duck,\" which has visited 13 cities in nine different countries.  It last visited Hong Kong harbor and is now reported to be on its way to Pittsburgh.  In … Continue reading &rarr;"
 ---
 
 ![RoastedDuck27e](http://www.oldsaltblog.com/wp-content/uploads/2013/08/RoastedDuck27e.jpg)In June, we posted about the Dutch artist Florentijn Hofman’s traveling [16.5 metre-tall “Rubber Duck,”](http://www.oldsaltblog.com/2013/06/spreading-joy-around-the-world-aka-rubber-duck-inflated-deflated-revived-censored/) which has visited 13 cities in nine different countries.  It last visited [Hong Kong harbor and is now reported to be on its way to Pittsburgh](http://www.oldsaltblog.com/2013/06/hong-kong-bids-rubber-duck-adieu-as-pittsburgh-welcomes-inflated-yellow-avian/).  In the spirit of fun, Shanghai now has its own interpretation of a “roasted rubber duck,” with crispy brown skin, drumsticks in the air and the duck’s head turned aft. The “roasted rubber duck” is in fact a working harbor ferry.

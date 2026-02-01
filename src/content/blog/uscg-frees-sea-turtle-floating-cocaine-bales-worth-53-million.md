@@ -1,7 +1,7 @@
 ---
 title: "USCG Frees Sea Turtle from Floating Cocaine Bales Worth $53 Million"
 date: 2017-12-20T16:10:36
-slug: uscg-frees-sea-turtle-floating-cocaine-bales-worth-53-million
+slug: "uscg-frees-sea-turtle-floating-cocaine-bales-worth-53-million"
 excerpt: "Up to 80% of illicit drugs enter the US by maritime routes. (We recently posted about the ongoing battle against cocaine being imported into the US by narco submarines.) Here is another example, although it does not involve submersibles. It … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
-title: "At 64, Rich Wilson Prepares to “Go Around Again” in the 2016-17 Vendee Globe"
+title: "At 64, Rich Wilson Prepares to \"Go Around Again\" in the 2016-17 Vendee Globe"
 date: 2016-01-17T12:48:43
-slug: 64-rich-wilson-prepares-go-around-2016-17-vendee-globe
+slug: "64-rich-wilson-prepares-go-around-2016-17-vendee-globe"
 excerpt: "In 2009, Rich Wilson at 58 was the oldest sailor in the Vendee Globe non-stop single-handed round-the-world yacht race.  He finished ninth of the thirty boats which began the race. Wilson was the only American in the eleven finished. The Vendee … Continue reading &rarr;"
 categories:
   - "Current"

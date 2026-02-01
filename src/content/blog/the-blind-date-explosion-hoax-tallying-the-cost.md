@@ -1,7 +1,7 @@
 ---
 title: "The Blind Date Explosion Hoax – Tallying the Cost"
 date: 2012-06-13T07:57:42
-slug: the-blind-date-explosion-hoax-tallying-the-cost
+slug: "the-blind-date-explosion-hoax-tallying-the-cost"
 excerpt: "Audio: Yacht Explosion Hoax Distress Call The distress call came into the Coast Guard, who immediately dispatched rescue helicopters and boats. … Continue reading &rarr;"
 categories:
   - "Current"

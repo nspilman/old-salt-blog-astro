@@ -1,8 +1,8 @@
 ---
 title: "Super Full Moon!"
 date: 2011-03-19T07:26:47
-slug: super-full-moon
-excerpt: "Tonight the moon will rise larger and brighter than it has in almost twenty years.   It will be a super “perigee moon” when the appearance of the full moon coincides with the passing of the moon closest to the earth. Super … Continue reading &rarr;"
+slug: "super-full-moon"
+excerpt: "Tonight the moon will rise larger and brighter than it has in almost twenty years.   It will be a super \"perigee moon\" when the appearance of the full moon coincides with the passing of the moon closest to the earth. Super … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "perigee moon"
   - "super full moon"
 author: "Rick Spilman"
-description: "Tonight the moon will rise larger and brighter than it has in almost twenty years.   It will be a super “perigee moon” when the appearance of the full moon coincides with the passing of the moon closest to the earth. Super … Continue reading &rarr;"
+description: "Tonight the moon will rise larger and brighter than it has in almost twenty years.   It will be a super \"perigee moon\" when the appearance of the full moon coincides with the passing of the moon closest to the earth. Super … Continue reading &rarr;"
 ---
 
 Tonight the moon will rise larger and brighter than it has in almost twenty years.   It will be a super “perigee moon” when the appearance of the full moon coincides with the passing of the moon closest to the earth.

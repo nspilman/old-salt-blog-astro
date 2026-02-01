@@ -1,7 +1,7 @@
 ---
 title: "Chinese Ships Collide While Pursuing Philippine Patrol Craft in South China Sea"
 date: 2025-08-11T21:33:45
-slug: chinese-ships-collide-while-pursuing-philippine-patrol-craft-in-south-china-sea
+slug: "chinese-ships-collide-while-pursuing-philippine-patrol-craft-in-south-china-sea"
 excerpt: "For more than a decade, the waters around the Scarborough Shoal in the South China Sea have been claimed by the Philippines, China, and Taiwan. In recent years, China has been particularly aggressive in asserting its claim.  Today, two Chinese … Continue reading &rarr;"
 categories:
   - "Current"

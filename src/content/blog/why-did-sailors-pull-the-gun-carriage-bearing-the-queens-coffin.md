@@ -1,8 +1,8 @@
 ---
 title: "Why Did Sailors Pull the Gun Carriage Bearing the Queen’s Coffin?"
 date: 2022-09-24T16:40:23
-slug: why-did-sailors-pull-the-gun-carriage-bearing-the-queens-coffin
-excerpt: "The BBC recently reported on a young Royal Navy sailor, Able Seaman Hollie Randle, one of 142 sailors who pulled the gun carriage bearing Queen Elizabeth II’s coffin in the state funeral procession. Seaman Randle said that she was “overwhelmed” … Continue reading &rarr;"
+slug: "why-did-sailors-pull-the-gun-carriage-bearing-the-queens-coffin"
+excerpt: "The BBC recently reported on a young Royal Navy sailor, Able Seaman Hollie Randle, one of 142 sailors who pulled the gun carriage bearing Queen Elizabeth II’s coffin in the state funeral procession. Seaman Randle said that she was \"overwhelmed\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "state funeral procession"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/09/rnsailorsgunc2.jpg"
 author: "Rick Spilman"
-description: "The BBC recently reported on a young Royal Navy sailor, Able Seaman Hollie Randle, one of 142 sailors who pulled the gun carriage bearing Queen Elizabeth II’s coffin in the state funeral procession. Seaman Randle said that she was “overwhelmed” … Continue reading &rarr;"
+description: "The BBC recently reported on a young Royal Navy sailor, Able Seaman Hollie Randle, one of 142 sailors who pulled the gun carriage bearing Queen Elizabeth II’s coffin in the state funeral procession. Seaman Randle said that she was \"overwhelmed\" … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/09/rnsailorsgunc2.jpg)The [BBC](https://www.bbc.com/news/uk-england-hereford-worcester-62986002) recently reported on a young Royal Navy sailor, Able Seaman Hollie Randle, one of 142 sailors who pulled the gun carriage bearing Queen Elizabeth II’s coffin in the state funeral procession. Seaman Randle said that she was “overwhelmed” by the honor and that, “if someone had told me a year ago I’d be taking the Queen’s coffin to her funeral, I wouldn’t have believed them.”

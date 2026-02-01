@@ -1,7 +1,7 @@
 ---
 title: "Has the Blue Whale Exploded Yet?"
 date: 2014-05-01T09:22:20
-slug: has-the-blue-whale-exploded-yet
+slug: "has-the-blue-whale-exploded-yet"
 excerpt: "Update: CNN is now reporting that there are three dead blue whales on nearby beaches in Newfoundland. Thanks to Phil Leon for the heads-up. In case you missed the news, a dead 25m (81ft) blue whale has drifted ashore on the … Continue reading &rarr;"
 categories:
   - "Current"

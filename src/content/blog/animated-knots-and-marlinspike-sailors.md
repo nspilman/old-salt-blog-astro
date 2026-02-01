@@ -1,7 +1,7 @@
 ---
 title: "Animated Knots and Marlinspike Sailors"
 date: 2008-11-13T14:38:08
-slug: animated-knots-and-marlinspike-sailors
+slug: "animated-knots-and-marlinspike-sailors"
 excerpt: "For those wishing to learn just a bit about sailor’s knots, Animated Boating Knots by Grog is a lot of fun.  Here is a rolling hitch, a marvelously useful knot that I invariably forget how to tie whenever a need one.   If … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

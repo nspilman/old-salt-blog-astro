@@ -1,7 +1,7 @@
 ---
 title: "Sparta Rescue in Ross Sea Delayed by Sister Ship"
 date: 2011-12-25T13:30:54
-slug: sparta-rescue-in-ross-sea-delayed-by-sister-ship
+slug: "sparta-rescue-in-ross-sea-delayed-by-sister-ship"
 excerpt: "The plan was for the South Korean icebreaker Araon accompanied by the fishing vessel Chiyo Maru No 3 to break through the ice to reach the stricken Russian fishing vessel Sparta today on Christmas Day. The Sparta was holed below … Continue reading &rarr;"
 categories:
   - "Current"

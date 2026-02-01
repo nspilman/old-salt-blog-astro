@@ -1,7 +1,7 @@
 ---
 title: "Pirates Capture Four Americans on Yacht in Indian Ocean"
 date: 2011-02-18T19:28:10
-slug: pirates-capture-four-americans-on-yacht-in-indian-ocean
+slug: "pirates-capture-four-americans-on-yacht-in-indian-ocean"
 excerpt: "Four Americans on the S/V Quest were seized by pirates this afternoon 240 nautical miles off the coast of Oman in the Indian Ocean.   Jean and Scott Adam, owners of the S/V Quest, have been sailing around the world … Continue reading &rarr;"
 categories:
   - "Current"

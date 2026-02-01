@@ -1,7 +1,7 @@
 ---
 title: "Barque Picton Castle Arrives in New York Harbor"
 date: 2012-05-15T17:48:31
-slug: barque-picton-castle-arrives-in-new-york-harbor
+slug: "barque-picton-castle-arrives-in-new-york-harbor"
 excerpt: "On an overcast Tuesday morning, the Barque Picton Castle sailed into New York harbor and tied up at Pier 25 just before the rain set in.  under the watchful eye of Captain Daniel Moreland, the crew of mostly young men and women brought … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

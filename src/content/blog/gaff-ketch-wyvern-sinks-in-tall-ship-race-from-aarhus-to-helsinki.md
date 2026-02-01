@@ -1,7 +1,7 @@
 ---
 title: "Gaff Ketch Wyvern Sinks in Tall Ship Race from Aarhus to Helsinki"
 date: 2013-07-11T08:41:19
-slug: gaff-ketch-wyvern-sinks-in-tall-ship-race-from-aarhus-to-helsinki
+slug: "gaff-ketch-wyvern-sinks-in-tall-ship-race-from-aarhus-to-helsinki"
 excerpt: "The gaff ketch Wyvern sank this morning while sailing in the Baltic as a Class B vessel in the Tall Ships Races 2013 from Aarhus to Helsinki.  According to Sail Training International:  She began taking on water earlier today at the centre … Continue reading &rarr;"
 categories:
   - "Current"

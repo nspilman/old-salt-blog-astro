@@ -1,7 +1,7 @@
 ---
 title: "Steve Bannon Arrested on Chinese Billionaire’s Yacht, Lady May"
 date: 2020-08-21T08:43:00
-slug: steve-bannon-arrested-on-chinese-billionaires-yacht-lady-may
+slug: "steve-bannon-arrested-on-chinese-billionaires-yacht-lady-may"
 excerpt: "Steve Bannon, ex-Trump adviser and campaign chief executive, was arrested on Wednesday, aboard the Lady May, a 152′ aluminum luxury yacht, owned by exiled Chinese billionaire Guo Wengui. The yacht was cruising in Long Island Sound near Westport, CT, when … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

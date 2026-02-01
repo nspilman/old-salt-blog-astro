@@ -1,7 +1,7 @@
 ---
 title: "Oru – the Amazing Origami Kayak"
 date: 2013-12-13T14:52:10
-slug: oru-the-amazing-origami-kayak
+slug: "oru-the-amazing-origami-kayak"
 excerpt: "When designer Anton Willis moved to San Francisco, he had to put his rigid kayak in storage because it didn’t fit in his small city apartment. After four years of design, Willis and his team developed the Oru kayak, a … Continue reading &rarr;"
 categories:
   - "Current"

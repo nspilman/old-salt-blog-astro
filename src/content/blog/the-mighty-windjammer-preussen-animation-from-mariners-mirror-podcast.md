@@ -1,7 +1,7 @@
 ---
 title: "The Mighty Windjammer Preussen — Animation From Mariner’s Mirror Podcast"
 date: 2023-06-09T19:45:28
-slug: the-mighty-windjammer-preussen-animation-from-mariners-mirror-podcast
+slug: "the-mighty-windjammer-preussen-animation-from-mariners-mirror-podcast"
 excerpt: "Here is an animation from a Mariner’s Mirror podcast about perhaps the greatest windjammer of the early twentieth century, the Preussen. One of the Flying P-Liners, built for the F. Laeisz shipping company in 1902, she was the only five-masted … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Mystic Seaport Antique & Classic Boat Parade 2017"
 date: 2017-08-13T08:31:28
-slug: mystic-seaport-antique-classic-boat-parade-2017
+slug: "mystic-seaport-antique-classic-boat-parade-2017"
 excerpt: "Here is some lovely drone footage of the boat parade from the 2017 Mystic Seaport Antique & Classic Rendevous.  The recently restored 1908 steamboat Sabino leads the parade. Mystic Seaport Antique & Classic Boat Parade 2017 … Continue reading &rarr;"
 categories:
   - "Current"

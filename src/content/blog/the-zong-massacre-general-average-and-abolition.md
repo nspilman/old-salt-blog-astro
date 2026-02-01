@@ -1,7 +1,7 @@
 ---
 title: "The Zong Massacre, General Average and Abolition"
 date: 2013-11-29T14:35:34
-slug: the-zong-massacre-general-average-and-abolition
+slug: "the-zong-massacre-general-average-and-abolition"
 excerpt: "On November 29, 1781, the British slave ship Zong was desperately short of potable water, in part due to an error in navigation and in part due to an incompetent cooper. Captain Luke Collingwood, in command of the ship, ordered … Continue reading &rarr;"
 categories:
   - "History"

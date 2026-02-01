@@ -1,7 +1,7 @@
 ---
 title: "Shocker : Electric Eels Hunting in Packs"
 date: 2021-01-24T19:34:44
-slug: shocker-electric-eels-hunting-in-packs
+slug: "shocker-electric-eels-hunting-in-packs"
 excerpt: "It almost sounds like a bad horror movie. Scientists have recently discovered a new species of electric eel, Volta’s electric eel (Electrophorus voltai). Found in the rivers of South America, it not only is capable of producing 860-V electric shocks … Continue reading &rarr;"
 categories:
   - "Current"

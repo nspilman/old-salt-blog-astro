@@ -1,7 +1,7 @@
 ---
 title: "The Fatal Shore, the Loss of the Herzogin Cecilie"
 date: 2017-02-06T18:53:01
-slug: the-fatal-shore-the-loss-of-the-herzogin-cecilie
+slug: "the-fatal-shore-the-loss-of-the-herzogin-cecilie"
 excerpt: "Given that so much of what is happening in the world today seems like a shipwreck, it seems appropriate to post a very well done short documentary of the wreck of the great four-masted steel barque the Herzogin Cecilie, which … Continue reading &rarr;"
 categories:
   - "History"

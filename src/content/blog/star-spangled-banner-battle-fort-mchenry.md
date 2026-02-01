@@ -1,7 +1,7 @@
 ---
 title: "The  Star Spangled Banner & the Battle Of Fort McHenry"
 date: 2016-07-04T07:54:44
-slug: star-spangled-banner-battle-fort-mchenry
+slug: "star-spangled-banner-battle-fort-mchenry"
 excerpt: "Here is a lightly modified repost from two years ago that seems appropriate for July 4th. At around 6AM, Sep 13, 1814, the British Royal Navy began a fearsome bombardment of Fort McHenry at the mouth of Baltimore harbor. The … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Newman’s Own Foundation Gives $225,000 Grant to Discovering Amistad"
 date: 2019-12-01T13:52:30
-slug: newmans-own-foundation-gives-225000-grant-to-discovering-amistad
+slug: "newmans-own-foundation-gives-225000-grant-to-discovering-amistad"
 excerpt: "Newman’s Own Foundation has awarded a $225,000 sustainability grant to the non-profit Discovering Amistad, the group which operates the replica schooner Amistad.   Discovering Amistad operates the replica of the historic schooner Amistad,  a 129-foot 19th century Baltimore clipper which was … Continue reading &rarr;"
 categories:
   - "Current"

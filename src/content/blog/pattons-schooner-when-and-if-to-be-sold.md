@@ -1,8 +1,8 @@
 ---
-title: "Patton’s Schooner “When and If” to be Sold"
+title: "Patton’s Schooner \"When and If\" to be Sold"
 date: 2010-10-20T08:06:46
-slug: pattons-schooner-when-and-if-to-be-sold
-excerpt: "In 1939 then Colonel General George S. Patton had a 63’5″ John Alden designed schooner built for himself and his wife.  Another world war was looming on the horizon and Patton said that he planned to sail the schooner, “When the … Continue reading &rarr;"
+slug: "pattons-schooner-when-and-if-to-be-sold"
+excerpt: "In 1939 then Colonel General George S. Patton had a 63’5″ John Alden designed schooner built for himself and his wife.  Another world war was looming on the horizon and Patton said that he planned to sail the schooner, \"When the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "schooner"
   - "When and If"
 author: "Rick Spilman"
-description: "In 1939 then Colonel General George S. Patton had a 63’5″ John Alden designed schooner built for himself and his wife.  Another world war was looming on the horizon and Patton said that he planned to sail the schooner, “When the … Continue reading &rarr;"
+description: "In 1939 then Colonel General George S. Patton had a 63’5″ John Alden designed schooner built for himself and his wife.  Another world war was looming on the horizon and Patton said that he planned to sail the schooner, \"When the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/10/classic-alden-yacht.jpg)

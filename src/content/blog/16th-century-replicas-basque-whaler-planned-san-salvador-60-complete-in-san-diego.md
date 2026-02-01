@@ -1,7 +1,7 @@
 ---
 title: "16th Century Replicas – Basque Whaler Planned & San Salvador 60% Complete In San Diego"
 date: 2013-02-25T20:31:11
-slug: 16th-century-replicas-basque-whaler-planned-san-salvador-60-complete-in-san-diego
+slug: "16th-century-replicas-basque-whaler-planned-san-salvador-60-complete-in-san-diego"
 excerpt: "In the construction of replica sailing ships, the 18th century is reasonably well represented. The 17th also has not been left out.   Replicas of Columbus’ ships have ensured that 15th century replicas still sail.  Recently two replica ships from the 16th … Continue reading &rarr;"
 categories:
   - "Current"

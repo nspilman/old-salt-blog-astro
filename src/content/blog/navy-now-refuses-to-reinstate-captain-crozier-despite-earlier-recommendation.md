@@ -1,7 +1,7 @@
 ---
 title: "Navy Refuses to Reinstate Captain Crozier, Despite Earlier Recommendation"
 date: 2020-06-20T12:26:49
-slug: navy-now-refuses-to-reinstate-captain-crozier-despite-earlier-recommendation
+slug: "navy-now-refuses-to-reinstate-captain-crozier-despite-earlier-recommendation"
 excerpt: "The US government has now reversed the recommendation made by high ranking Navy officials that Capt. Brett Crozier, commander of the aircraft carrier USS Theodore Roosevelt, be reinstated.   In April, the coronavirus was spreading out of control on the aircraft … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

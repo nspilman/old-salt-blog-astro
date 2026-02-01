@@ -1,7 +1,7 @@
 ---
-title: "“Hero” Humpbacks Attempt to Protect Seal From Orca Attack"
+title: "\"Hero\" Humpbacks Attempt to Protect Seal From Orca Attack"
 date: 2023-09-16T17:53:01
-slug: hero-humpbacks-attempt-to-protect-seal-from-orca-attack
+slug: "hero-humpbacks-attempt-to-protect-seal-from-orca-attack"
 excerpt: "Recently, Bertie Gregory, a National Geographic Explorer and host of Animals Up Close on Disney+, observed a remarkable attempt by two humpback whales to protect a seal under attack by a pod of orcas in Antarctica’s Weddell Sea. National Geographic reports that … Continue reading &rarr;"
 categories:
   - "Current"

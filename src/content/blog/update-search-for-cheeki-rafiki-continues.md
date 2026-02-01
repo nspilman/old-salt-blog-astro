@@ -1,7 +1,7 @@
 ---
 title: "Update: Search for Cheeki Rafiki Continues"
 date: 2014-05-22T09:38:20
-slug: update-search-for-cheeki-rafiki-continues
+slug: "update-search-for-cheeki-rafiki-continues"
 excerpt: "If the sea were influenced by public support and social media, the four missing sailors on the lost Beneteau 40.7, Cheeki Rafiki,  would be home with their families by now. Unfortunately, that is not the case. One week ago today, the captain of … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Microscopic Mushroom Textures to Keep Barnacles Off of Ship Hulls"
 date: 2018-09-02T14:41:30
-slug: microscopic-mushroom-textures-to-keep-barnacles-off-of-ship-hulls
+slug: "microscopic-mushroom-textures-to-keep-barnacles-off-of-ship-hulls"
 excerpt: "For most of history, the only way to keep ship and boat hulls from fouling with barnacles was to put some sort of material toxic to marine growth on vessel hulls. Copper sheathing was one of the first effective, albeit costly, forms … Continue reading &rarr;"
 categories:
   - "Current"

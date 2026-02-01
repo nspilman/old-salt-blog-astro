@@ -1,7 +1,7 @@
 ---
 title: "Update: Boozy teens’ midnight trip goes 1300km astray"
 date: 2010-11-27T09:33:03
-slug: update-boozy-teens-midnight-trip-goes-1300km-astray
+slug: "update-boozy-teens-midnight-trip-goes-1300km-astray"
 excerpt: "On Thursday, we posted about three Tokelauan teenage boys who had attempted to row the sixty miles between two small Pacific islands, became lost and drifted  for fifty days across nearly 1,000 miles of the Pacific  in a small aluminum skiff. … Continue reading &rarr;"
 categories:
   - "Current"

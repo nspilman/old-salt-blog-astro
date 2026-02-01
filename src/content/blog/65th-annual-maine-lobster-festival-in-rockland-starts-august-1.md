@@ -1,7 +1,7 @@
 ---
 title: "65th Annual Maine Lobster Festival in Rockland Starts August 1!"
 date: 2012-07-29T08:18:03
-slug: 65th-annual-maine-lobster-festival-in-rockland-starts-august-1
+slug: "65th-annual-maine-lobster-festival-in-rockland-starts-august-1"
 excerpt: "As far as I am concerned, there are few things, that you can do with your clothes on, that are more enjoyable than sitting on the Maine coast and eating freshly steamed lobster. This Wednesday, August 1st, kicks off five days of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

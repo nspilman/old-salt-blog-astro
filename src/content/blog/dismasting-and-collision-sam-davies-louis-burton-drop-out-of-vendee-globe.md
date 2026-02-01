@@ -1,7 +1,7 @@
 ---
 title: "Dismasting and Collision – Sam Davies & Louis Burton Drop Out of Vendée Globe"
 date: 2012-11-16T13:54:37
-slug: dismasting-and-collision-sam-davies-louis-burton-drop-out-of-vendee-globe
+slug: "dismasting-and-collision-sam-davies-louis-burton-drop-out-of-vendee-globe"
 excerpt: "After only a week into the Vendée Globe non-stop round-the-world single-handed yacht race, four of the twenty original sailors have dropped out due to casualties or gear failure. The latest include Louis Burton, who was in a  collision with a fishing boat off Portugal, and Samantha Davies whose boat suffered … Continue reading &rarr;"
 categories:
   - "Current"

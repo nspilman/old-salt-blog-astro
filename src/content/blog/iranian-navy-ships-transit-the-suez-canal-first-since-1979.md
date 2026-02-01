@@ -1,7 +1,7 @@
 ---
 title: "Iranian Navy Ships Transit the Suez Canal – First Since 1979"
 date: 2011-02-22T16:01:17
-slug: iranian-navy-ships-transit-the-suez-canal-first-since-1979
+slug: "iranian-navy-ships-transit-the-suez-canal-first-since-1979"
 excerpt: "For the first time since the Iranian revolution in 1979, two ships of the Iranian Navy are transiting the Suez Canal bound for the Mediterranean Sea.  The two ships, Alvand, a patrol frigate and Kharg, a supply ship, entered the … Continue reading &rarr;"
 categories:
   - "Current"

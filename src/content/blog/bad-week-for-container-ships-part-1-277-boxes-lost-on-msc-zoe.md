@@ -1,7 +1,7 @@
 ---
 title: "Bad Week for Container Ships, Part 1  — 277 Boxes Lost on MSC Zoe"
 date: 2019-01-05T17:37:12
-slug: bad-week-for-container-ships-part-1-277-boxes-lost-on-msc-zoe
+slug: "bad-week-for-container-ships-part-1-277-boxes-lost-on-msc-zoe"
 excerpt: "MSC Zoe is one of the largest container ships in the world with a capacity of over 19,000 twenty foot containers. Nevertheless, when Storm Zeetje pounded northern Germany with gale force winds late on Tuesday night, 277 containers were washed … Continue reading &rarr;"
 categories:
   - "Current"

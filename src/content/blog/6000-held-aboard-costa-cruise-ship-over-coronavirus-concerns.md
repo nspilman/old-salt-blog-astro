@@ -1,7 +1,7 @@
 ---
 title: "6,000 Held Aboard Costa Cruise Ship Over Coronavirus Concerns"
 date: 2020-01-30T17:58:19
-slug: 6000-held-aboard-costa-cruise-ship-over-coronavirus-concerns
+slug: "6000-held-aboard-costa-cruise-ship-over-coronavirus-concerns"
 excerpt: "UPDATE: The illness which sickened a passenger was determined not to be the coronavirus and the 6,000 passengers and crew were allowed to disembark from the Costa Smeralda. Two cases of the coronavirus, not related to the cruise ship, were … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

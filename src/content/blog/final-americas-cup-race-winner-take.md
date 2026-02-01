@@ -1,7 +1,7 @@
 ---
 title: "The Final America’s Cup Race – Winner Take All"
 date: 2013-09-25T09:45:23
-slug: final-americas-cup-race-winner-take
+slug: "final-americas-cup-race-winner-take"
 excerpt: "Oracle Team USA has come screaming back from what appeared to be an impossible deficit, winning the last 7 races.  In total races, they have now won 10 to the Kiwi’s 8.  Only the two race penalty assessed for past … Continue reading &rarr;"
 categories:
   - "Current"

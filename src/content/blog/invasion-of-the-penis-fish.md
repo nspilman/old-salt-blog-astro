@@ -1,7 +1,7 @@
 ---
 title: "Invasion of the Penis Fish"
 date: 2019-12-17T13:05:15
-slug: invasion-of-the-penis-fish
+slug: "invasion-of-the-penis-fish"
 excerpt: "If our post yesterday about the North Pacific Blob sounded like something from 1950s sci-fi, then our post today – Invasion of the Penis Fish – must sound like 1960s porn. In fact, thousands of worms looking considerably like penises … Continue reading &rarr;"
 categories:
   - "Current"

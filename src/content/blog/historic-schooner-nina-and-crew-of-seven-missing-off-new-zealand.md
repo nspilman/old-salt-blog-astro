@@ -1,7 +1,7 @@
 ---
 title: "Historic Schooner Nina and Crew of Seven Missing Off New Zealand"
 date: 2013-06-27T09:46:02
-slug: historic-schooner-nina-and-crew-of-seven-missing-off-new-zealand
+slug: "historic-schooner-nina-and-crew-of-seven-missing-off-new-zealand"
 excerpt: "The 70′ schooner Nina and her crew of seven have been reported missing. They sailed on May 29, from Opua in the Bay of Islands, New Zealand bound for Newcastle, Australia.  They were last hear from on June 4th, 370 nautical miles west … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Day of the Dolphin :  Part 1 — Dolphins Steal the Show At Surfing Competition"
 date: 2014-01-21T12:24:14
-slug: day-of-the-dolphin-part-1-dolphins-steal-the-show-at-surfing-competition
+slug: "day-of-the-dolphin-part-1-dolphins-steal-the-show-at-surfing-competition"
 excerpt: "The two posts today present a jarring juxtaposition.  On the West Coast of the United States, dolphins steal the show at a surfing competition while in Japan fishermen are beginning the yearly slaughter of dolphins at Taiji Cove.  The beauty … Continue reading &rarr;"
 categories:
   - "Current"

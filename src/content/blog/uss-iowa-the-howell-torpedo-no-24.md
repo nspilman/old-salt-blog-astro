@@ -1,7 +1,7 @@
 ---
 title: "USS Iowa & the Howell Torpedo No 24"
 date: 2013-08-21T09:51:06
-slug: uss-iowa-the-howell-torpedo-no-24
+slug: "uss-iowa-the-howell-torpedo-no-24"
 excerpt: "In May, we posted about the discovery of a rare Howell torpedo by Navy dolphins in the Pacific off San Diego. The Howell torpedo was the first self-propelled torpedo in United States Navy service. Only fifty were built and, until the … Continue reading &rarr;"
 categories:
   - "Current"

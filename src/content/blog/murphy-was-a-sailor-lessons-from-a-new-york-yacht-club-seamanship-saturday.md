@@ -1,8 +1,8 @@
 ---
 title: "Murphy Was a Sailor — Lessons from a New York Yacht Club Seamanship Saturday"
 date: 2014-10-14T16:05:32
-slug: murphy-was-a-sailor-lessons-from-a-new-york-yacht-club-seamanship-saturday
-excerpt: "We all know Murphy’s Law — “That which can go wrong, will go wrong and at the worst possible time.”  Anyone who has spent time around boats or ships also knows that Murphy was undoubtedly a sailor.  This came to … Continue reading &rarr;"
+slug: "murphy-was-a-sailor-lessons-from-a-new-york-yacht-club-seamanship-saturday"
+excerpt: "We all know Murphy’s Law — \"That which can go wrong, will go wrong and at the worst possible time.\"  Anyone who has spent time around boats or ships also knows that Murphy was undoubtedly a sailor.  This came to … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

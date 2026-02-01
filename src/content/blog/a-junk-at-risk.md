@@ -1,8 +1,8 @@
 ---
 title: "A Junk at Risk"
 date: 2008-12-03T09:40:32
-slug: a-junk-at-risk
-excerpt: "From Dione Chen writing in the Museum of Underwater Archeology site: “The Free China is a historic century-old Chinese sailing vessel on the verge of extinction.  An authentic Fujian junk used during the first half of the 20th century to … Continue reading &rarr;"
+slug: "a-junk-at-risk"
+excerpt: "From Dione Chen writing in the Museum of Underwater Archeology site: \"The Free China is a historic century-old Chinese sailing vessel on the verge of extinction.  An authentic Fujian junk used during the first half of the 20th century to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Ships"
@@ -11,7 +11,7 @@ tags:
   - "junk"
   - "Museum of Underwater Archeology"
 author: "Rick Spilman"
-description: "From Dione Chen writing in the Museum of Underwater Archeology site: “The Free China is a historic century-old Chinese sailing vessel on the verge of extinction.  An authentic Fujian junk used during the first half of the 20th century to … Continue reading &rarr;"
+description: "From Dione Chen writing in the Museum of Underwater Archeology site: \"The Free China is a historic century-old Chinese sailing vessel on the verge of extinction.  An authentic Fujian junk used during the first half of the 20th century to … Continue reading &rarr;"
 ---
 
 From Dione Chen writing in the Museum of Underwater Archeology site:

@@ -1,7 +1,7 @@
 ---
 title: "USS McCain Collision Aftermath — Admiral Fired, Remains Found, Cyber Hacking Denied"
 date: 2017-08-24T09:00:44
-slug: uss-mccain-collision-aftermath-admiral-fired-remains-found-cyber-hacking-denied
+slug: "uss-mccain-collision-aftermath-admiral-fired-remains-found-cyber-hacking-denied"
 excerpt: "Following the recent collision of a tanker with the US Navy destroyer USS John S. McCain, in which 10 sailors are missing, the US Navy has dismissed Vice Admiral Joseph Aucoin as commander of the 7th Fleet. There have been four significant casualties involving … Continue reading &rarr;"
 categories:
   - "Current"

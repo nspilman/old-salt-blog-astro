@@ -1,8 +1,8 @@
 ---
 title: "Of Blogs and Logs"
 date: 2008-10-23T09:46:49
-slug: of-blogs-and-logs
-excerpt: "As this is a nautical blog, I do feel compelled to at least tip our hat to Andrew Sullivan’s recent article “Why I Blog“, in this month’s Atlantic Monthly .   (I do recommend Sullivan’s political blog for the Atlantic – The Daily Dish.) I … Continue reading &rarr;"
+slug: "of-blogs-and-logs"
+excerpt: "As this is a nautical blog, I do feel compelled to at least tip our hat to Andrew Sullivan’s recent article \"Why I Blog\", in this month’s Atlantic Monthly .   (I do recommend Sullivan’s political blog for the Atlantic – The Daily Dish.) I … Continue reading &rarr;"
 categories:
   - "Current"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "blogging"
   - "ships log"
 author: "Rick Spilman"
-description: "As this is a nautical blog, I do feel compelled to at least tip our hat to Andrew Sullivan’s recent article “Why I Blog“, in this month’s Atlantic Monthly .   (I do recommend Sullivan’s political blog for the Atlantic – The Daily Dish.) I … Continue reading &rarr;"
+description: "As this is a nautical blog, I do feel compelled to at least tip our hat to Andrew Sullivan’s recent article \"Why I Blog\", in this month’s Atlantic Monthly .   (I do recommend Sullivan’s political blog for the Atlantic – The Daily Dish.) I … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2008/10/andrew-sullivan-why-i-blog-wide1.jpg)](http://www.oldsaltblog.com/wp-content/uploads/2008/10/andrew-sullivan-why-i-blog-wide1.jpg)As this is a nautical blog, I do feel compelled to at least tip our hat to Andrew Sullivan’s recent article “[Why I Blog](http://www.theatlantic.com/doc/200811/andrew-sullivan-why-i-blog)“, in this month’s [Atlantic Monthly](http://www.theatlantic.com/) .   (I do recommend Sullivan’s political blog for the Atlantic – [The Daily Dish](http://andrewsullivan.theatlantic.com/the_daily_dish/).)

@@ -1,7 +1,7 @@
 ---
 title: "USS Chancellorsville Hit By its Own Drone, Two Sailors Injured"
 date: 2013-11-17T16:29:29
-slug: uss-chancellorsville-hit-by-its-own-drone-two-sailors-injured
+slug: "uss-chancellorsville-hit-by-its-own-drone-two-sailors-injured"
 excerpt: "This is not supposed to happen.  Two sailors on the Ticonderoga-class guided-missile cruiser USS Chancellorsville were injured when the ship was struck by its own drone, during training exercises off Southern California on Saturday. The sailors were treated for minor burns. There was also … Continue reading &rarr;"
 categories:
   - "Current"

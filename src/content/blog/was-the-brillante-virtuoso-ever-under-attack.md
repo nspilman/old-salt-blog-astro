@@ -1,7 +1,7 @@
 ---
 title: "Was the Brillante Virtuoso Ever Under Attack?"
 date: 2011-07-08T17:09:18
-slug: was-the-brillante-virtuoso-ever-under-attack
+slug: "was-the-brillante-virtuoso-ever-under-attack"
 excerpt: "Was there a pirate attack?  On Wednesday we posted about the reports that the Suezmax tanker Brillante Virtuoso had been attacked by pirates and set on fire.  It is now unclear where such an attack ever took place.  There was indeed a … Continue reading &rarr;"
 categories:
   - "Current"

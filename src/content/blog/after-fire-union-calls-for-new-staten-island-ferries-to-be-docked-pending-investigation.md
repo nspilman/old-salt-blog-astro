@@ -1,7 +1,7 @@
 ---
 title: "After Fire, Union Calls For New Staten Island Ferries to be Docked Pending Investigation"
 date: 2023-01-03T19:01:50
-slug: after-fire-union-calls-for-new-staten-island-ferries-to-be-docked-pending-investigation
+slug: "after-fire-union-calls-for-new-staten-island-ferries-to-be-docked-pending-investigation"
 excerpt: "On December 22, the new Ollis Class Staten Island ferry Sandy Ground suffered an engine room fire at the height of rush hour, requiring the evacuation of 866 passengers and 16 crew members aboard. The ferry was anchored as firefighters … Continue reading &rarr;"
 categories:
   - "Current"

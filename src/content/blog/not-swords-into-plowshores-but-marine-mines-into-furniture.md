@@ -1,7 +1,7 @@
 ---
 title: "Not Swords into Plowshores but Marine Mines into Furniture"
 date: 2010-12-05T07:42:41
-slug: not-swords-into-plowshores-but-marine-mines-into-furniture
+slug: "not-swords-into-plowshores-but-marine-mines-into-furniture"
 excerpt: "Mati Karmin, an Estonian sculptor, is not turning swords into plowshares, but he is turning marine mines into some rather remarkable furniture and household appliances.  Karmin’s mine furniture is steampunk with a post-apocalyptic twist.   On the northern coast of Estonia, especially on Naissaar … Continue reading &rarr;"
 categories:
   - "Current"

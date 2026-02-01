@@ -1,8 +1,8 @@
 ---
 title: "Blackfish, Backlash and the Bailing of the Bands from SeaWorld"
 date: 2013-12-16T09:31:03
-slug: blackfish-backlash-and-the-bailing-of-the-bands-from-seaworld
-excerpt: "This year, Seaworld Orlando is sponsoring “Bands, Brew and BBQ” during February and early March. There may be fewer bands to go with the BBQ and brew than originally planned. At least seven well known performers and bands have pulled … Continue reading &rarr;"
+slug: "blackfish-backlash-and-the-bailing-of-the-bands-from-seaworld"
+excerpt: "This year, Seaworld Orlando is sponsoring \"Bands, Brew and BBQ\" during February and early March. There may be fewer bands to go with the BBQ and brew than originally planned. At least seven well known performers and bands have pulled … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -17,7 +17,7 @@ tags:
   - "Trisha Yearwood"
   - "Willie Nelson"
 author: "Rick Spilman"
-description: "This year, Seaworld Orlando is sponsoring “Bands, Brew and BBQ” during February and early March. There may be fewer bands to go with the BBQ and brew than originally planned. At least seven well known performers and bands have pulled … Continue reading &rarr;"
+description: "This year, Seaworld Orlando is sponsoring \"Bands, Brew and BBQ\" during February and early March. There may be fewer bands to go with the BBQ and brew than originally planned. At least seven well known performers and bands have pulled … Continue reading &rarr;"
 ---
 
 ![blackfish-poster](http://www.oldsaltblog.com/wp-content/uploads/2013/12/blackfish-poster.jpg)This year, [Seaworld Orlando](http://seaworldparks.com/en/seaworld-orlando) is sponsoring “[Bands, Brew and BBQ](http://seaworldparks.com/en/seaworld-orlando/Events/Bands-Brew-and-BBQ)” during February and early March. There may be fewer bands to go with the BBQ and brew than originally planned. At least seven well known performers and bands have pulled out from performing at the event due to what some are calling the “*Blackfish* effect.”  So far, [REO Speedwagon](http://www.tmz.com/2013/12/13/reo-speedwagon-seaworld-concert-protest-blackfish-trisha-yearwood/), [Trisha Yearwood](http://www.rttnews.com/2239693/trisha-yearwood-cancels-seaworld-performance.aspx?type=ent), [Willie Nelson](http://www.newsday.com/travel/heart-willie-nelson-prompted-by-blackfish-documentary-cancel-planned-seaworld-performances-1.6577212), [Cheap Trick](http://entertainment.time.com/2013/12/11/the-documentary-blackfish-is-still-creating-waves-for-seaworld/), [Heart](http://www.cnn.com/2013/12/08/showbiz/seaworld-heart-blackfish/), [Barenaked Ladies](http://www.cnn.com/2013/11/27/showbiz/bare-naked-ladies-seaworld-blackfish/) and [Martina McBride](http://www.digitaljournal.com/entertainment/op-ed-blackfish-effect-continues-five-acts-cancel-seaworld-gigs/article/363908) have cancelled SeaWorld concerts. Most of the performers have said that they cancelled after watching the documentary, *Blackfish*.  Joan Jett, who was not scheduled to perform, has [demanded that SeaWorld stop using her signature tune, “I Love Rock and Roll,”](http://www.cnn.com/2013/12/11/showbiz/seaworld-joan-jett-blackfish/index.html) as the opening music for its ‘Shamu Rocks’ killer whale show.

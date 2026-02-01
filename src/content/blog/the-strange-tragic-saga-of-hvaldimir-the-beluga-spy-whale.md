@@ -1,13 +1,13 @@
 ---
-title: "The Strange & Tragic Saga of Hvaldimir, the Beluga “Spy” Whale"
+title: "The Strange & Tragic Saga of Hvaldimir, the Beluga \"Spy\" Whale"
 date: 2024-09-01T21:36:02
-slug: the-strange-tragic-saga-of-hvaldimir-the-beluga-spy-whale
-excerpt: "Hvaldimir, the beluga “spy” whale has died. The Norwegian public broadcaster NRK reported that the whale’s body was found floating in the Risavika Bay in southern Norway on Saturday by a father and son who were fishing. The beluga, whose nickname was … Continue reading &rarr;"
+slug: "the-strange-tragic-saga-of-hvaldimir-the-beluga-spy-whale"
+excerpt: "Hvaldimir, the beluga \"spy\" whale has died. The Norwegian public broadcaster NRK reported that the whale’s body was found floating in the Risavika Bay in southern Norway on Saturday by a father and son who were fishing. The beluga, whose nickname was … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - "“spy” whale"
+  - "\"spy\" whale"
   - "beluga"
   - "Equipment of St. Petersburg"
   - "Hammerfest"
@@ -18,7 +18,7 @@ tags:
   - "Vladimir Putin"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/05/Hvaldimir.jpg"
 author: "Rick Spilman"
-description: "Hvaldimir, the beluga “spy” whale has died. The Norwegian public broadcaster NRK reported that the whale’s body was found floating in the Risavika Bay in southern Norway on Saturday by a father and son who were fishing. The beluga, whose nickname was … Continue reading &rarr;"
+description: "Hvaldimir, the beluga \"spy\" whale has died. The Norwegian public broadcaster NRK reported that the whale’s body was found floating in the Risavika Bay in southern Norway on Saturday by a father and son who were fishing. The beluga, whose nickname was … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/05/Hvaldimir.jpg)Hvaldimir, the beluga “spy” whale has died. The Norwegian public broadcaster [NRK reported](https://www.nrk.no/rogaland/kjendishvalen-hvaldimir-er-dod-1.17025163) that the whale’s body was found floating in the Risavika Bay in southern [Norway](https://www.theguardian.com/world/norway) on Saturday by a father and son who were fishing.

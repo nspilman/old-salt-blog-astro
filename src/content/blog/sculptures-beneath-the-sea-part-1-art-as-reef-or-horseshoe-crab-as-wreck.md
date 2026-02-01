@@ -1,7 +1,7 @@
 ---
 title: "Sculptures Beneath the Sea: Part 1 – Art as Reef or Horseshoe Crab as Wreck"
 date: 2012-09-08T08:41:20
-slug: sculptures-beneath-the-sea-part-1-art-as-reef-or-horseshoe-crab-as-wreck
+slug: "sculptures-beneath-the-sea-part-1-art-as-reef-or-horseshoe-crab-as-wreck"
 excerpt: "The plan for a new artificial reef was wonderful, and beautifully executed until the very last minute. Artist Chris Wojcik had constructed a 47-foot-long, 25,000-pound concrete sculpture of a horseshoe crab, which was welded to two barges and was to be sunk … Continue reading &rarr;"
 categories:
   - "Current"

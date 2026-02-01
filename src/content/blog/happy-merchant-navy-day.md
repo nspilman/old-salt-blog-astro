@@ -1,7 +1,7 @@
 ---
 title: "Happy Merchant Navy Day!"
 date: 2010-09-03T08:19:28
-slug: happy-merchant-navy-day
+slug: "happy-merchant-navy-day"
 excerpt: "Happy Merchant Navy Day!   In Great Britain, Canada, Australia and New Zealand today, September 3rd, is celebrated as Merchant Navy Day – an official day of remembrance of the sacrifices made by merchant mariners in war-time.  In World War I and World War II, over 45, 000 … Continue reading &rarr;"
 categories:
   - "Current"

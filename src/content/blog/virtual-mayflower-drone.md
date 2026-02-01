@@ -1,7 +1,7 @@
 ---
 title: "The Virtual Mayflower and the Drone"
 date: 2017-01-04T09:24:11
-slug: virtual-mayflower-drone
+slug: "virtual-mayflower-drone"
 excerpt: "The Telegraph in the UK is reporting on two notionally related projects associated with the 400th anniversary of the sailing of the Mayflower to North America. The first is a virtual reality project led by the Human Interface Technologies Team, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

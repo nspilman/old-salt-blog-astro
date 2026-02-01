@@ -1,7 +1,7 @@
 ---
 title: "Joan Druett’s The Elephant Voyage – Free Today and Tomorrow on Kindle!"
 date: 2013-08-07T09:39:34
-slug: joan-druetts-the-elephant-voyage-free-today-and-tomorrow-on-kindle
+slug: "joan-druetts-the-elephant-voyage-free-today-and-tomorrow-on-kindle"
 excerpt: "Joan Druett’s The Elephant Voyage is free today and tomorrow, August 7 -8, on Kindle. The Elephant Voyage is a fascinating historical account of a crew who find themselves castaway on a desolate, wind-swept sub-Antarctic island, while on an ill-fated voyage … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

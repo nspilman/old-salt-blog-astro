@@ -1,8 +1,8 @@
 ---
 title: "Norfolk’s Harborfest, Slavery & Remembrance"
 date: 2018-06-09T08:30:00
-slug: norfolks-harborfest-slavery-remembrance
-excerpt: "Norfolk’s forty-second annual Harborfest is now underway. It is described as the “largest, longest-running, free maritime festival in the nation.” This year there are seven traditional sailing vessels from Virginia and Maryland participating, including the Godspeed of Jamestown, Alliance of Yorktown, … Continue reading &rarr;"
+slug: "norfolks-harborfest-slavery-remembrance"
+excerpt: "Norfolk’s forty-second annual Harborfest is now underway. It is described as the \"largest, longest-running, free maritime festival in the nation.\" This year there are seven traditional sailing vessels from Virginia and Maryland participating, including the Godspeed of Jamestown, Alliance of Yorktown, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Sankofa Projects"
   - "slavery"
 author: "Rick Spilman"
-description: "Norfolk’s forty-second annual Harborfest is now underway. It is described as the “largest, longest-running, free maritime festival in the nation.” This year there are seven traditional sailing vessels from Virginia and Maryland participating, including the Godspeed of Jamestown, Alliance of Yorktown, … Continue reading &rarr;"
+description: "Norfolk’s forty-second annual Harborfest is now underway. It is described as the \"largest, longest-running, free maritime festival in the nation.\" This year there are seven traditional sailing vessels from Virginia and Maryland participating, including the Godspeed of Jamestown, Alliance of Yorktown, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/harborfest.jpg)Norfolk’s forty-second annual [Harborfest](https://festevents.org/events/2018-season-events/norfolkharborfest/) is now underway. It is described as the “largest, longest-running, free maritime festival in the nation.” This year there are [seven traditional sailing vessels](https://festevents.org/events/2018-season-events/norfolkharborfest/sail-norfolk-2017/) from Virginia and Maryland participating, including the [*Godspeed*](https://en.wikipedia.org/wiki/Godspeed_\(ship\)) of Jamestown, [*Alliance*](http://www.sailyorktown.com/schooner-alliance.html) of Yorktown, the [*Sultana*](http://sultanaeducation.org/about-sultana/schooner-sultana/) of Chestertown, the Schooner [*Virginia*](https://nauticus.org/education-exhibits/schooner-virginia/) of Norfolk, and [*Bonny Rover*](https://www.americanrover.com/) of Newport News.

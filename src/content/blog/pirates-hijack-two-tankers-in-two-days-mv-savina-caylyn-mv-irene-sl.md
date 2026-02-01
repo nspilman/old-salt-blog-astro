@@ -1,7 +1,7 @@
 ---
 title: "Pirates Hijack Two Tankers in Two Days – MV Savina Caylyn &  MV Irene SL"
 date: 2011-02-09T18:44:23
-slug: pirates-hijack-two-tankers-in-two-days-mv-savina-caylyn-mv-irene-sl
+slug: "pirates-hijack-two-tankers-in-two-days-mv-savina-caylyn-mv-irene-sl"
 excerpt: "Yesterday, the Italian-owned Aframax tanker MV Savina Caylyn was hijacked by pirates approximately 670 nautical miles East of Socotra Island in the Indian Ocean.  Today, the Greek-owned VLCC MV Irene SL was hijacked  approximately 350 nautical miles South East of … Continue reading &rarr;"
 categories:
   - "Current"

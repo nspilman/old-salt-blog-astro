@@ -1,20 +1,20 @@
 ---
 title: "Almost Six Years After Superstorm Sandy, Sign from New Jersey Washes up on French Beach"
 date: 2018-06-02T17:07:55
-slug: almost-six-years-after-superstorm-sandy-sign-from-new-jersey-washes-up-on-french-beach
-excerpt: "Recently, Hannes Frank was walking along Plage du Pin Sec, near Bordeaux and found a portion of a real estate sign which had washed ashore on the beach. The sign was worn and part of it was ripped away, but “Diane … Continue reading &rarr;"
+slug: "almost-six-years-after-superstorm-sandy-sign-from-new-jersey-washes-up-on-french-beach"
+excerpt: "Recently, Hannes Frank was walking along Plage du Pin Sec, near Bordeaux and found a portion of a real estate sign which had washed ashore on the beach. The sign was worn and part of it was ripped away, but \"Diane … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - ""superstorm" Sandy"
+  - "\"superstorm\" Sandy"
   - "Bordeaux"
   - "France"
   - "New Jersey"
   - "Realtor sign"
   - "sign"
 author: "Rick Spilman"
-description: "Recently, Hannes Frank was walking along Plage du Pin Sec, near Bordeaux and found a portion of a real estate sign which had washed ashore on the beach. The sign was worn and part of it was ripped away, but “Diane … Continue reading &rarr;"
+description: "Recently, Hannes Frank was walking along Plage du Pin Sec, near Bordeaux and found a portion of a real estate sign which had washed ashore on the beach. The sign was worn and part of it was ripped away, but \"Diane … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/realtorsignfrance.jpg)Recently, Hannes Frank was walking along Plage du Pin Sec, near Bordeaux and found a portion of a real estate sign which had washed ashore on the beach. The sign was worn and part of it was ripped away, but “Diane Turton Realtors 732-292-1400″ was still readable. Mr. Frank, a semi-retired software consultant who lives in Brussels, emailed Diane Turton Realtors, in New Jersey, saying “*Hi, Just wanted to let you know that I found part of one of your signposts washed up on the beach near Bordeaux France pictures available if wanted. Not in the best shape after that crossing.*”

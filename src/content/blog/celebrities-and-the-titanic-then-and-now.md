@@ -1,7 +1,7 @@
 ---
 title: "Celebrities and the Titanic – Then and Now"
 date: 2011-11-21T11:04:12
-slug: celebrities-and-the-titanic-then-and-now
+slug: "celebrities-and-the-titanic-then-and-now"
 excerpt: "When the RMS Titanic sank on April 15, 1912,  a number of those who died were celebrities of their day, including the American millionaires John Jacob Astor IV and Benjamin Guggenheim.  Canadian railroad president Charles Melville Hays and Isidor Straus, American owner of … Continue reading &rarr;"
 categories:
   - "Current"

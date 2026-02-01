@@ -1,7 +1,7 @@
 ---
 title: "Three Ships Which Changed the World — Red Jacket, Rainbow and Great Britain"
 date: 2017-04-20T17:16:04
-slug: three-ships-changed-world-red-jacket-rainbow-great-britain
+slug: "three-ships-changed-world-red-jacket-rainbow-great-britain"
 excerpt: "If you are in Manhattan next Monday night, April 24, feel free to stop by the meeting of the New York Ship Lore and Model Club. Stephen Hopkins and I will be giving a joint presentation on three remarkable ships. … Continue reading &rarr;"
 categories:
   - "Current"

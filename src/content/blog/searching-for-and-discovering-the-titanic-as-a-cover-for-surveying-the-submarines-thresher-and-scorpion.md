@@ -1,7 +1,7 @@
 ---
 title: "Searching For And Discovering the Titanic as a Cover for Surveying the Submarines Thresher and Scorpion"
 date: 2021-04-15T14:49:40
-slug: searching-for-and-discovering-the-titanic-as-a-cover-for-surveying-the-submarines-thresher-and-scorpion
+slug: "searching-for-and-discovering-the-titanic-as-a-cover-for-surveying-the-submarines-thresher-and-scorpion"
 excerpt: "One 109 years ago today, the RMS Titanic slipped below the icy waters of the North Atlantic after striking an iceberg. Close to 1,500 passengers and crew were lost, making the sinking the deadliest peacetime sinking of a passenger liner … Continue reading &rarr;"
 categories:
   - "History"

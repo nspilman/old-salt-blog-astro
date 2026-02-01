@@ -1,7 +1,7 @@
 ---
 title: "The Navy’s MMOWGLI (Massive Multiplayer Online Wargame Leveraging the Internet)"
 date: 2012-05-25T08:16:49
-slug: the-navys-mmowgli-massive-multiplayer-online-wargame-leveraging-the-internet
+slug: "the-navys-mmowgli-massive-multiplayer-online-wargame-leveraging-the-internet"
 excerpt: "The US Navy’s newest strategic weapon may be a Massive Multiplayer Online Wargame.  If it works for HALO and gears of War, why not the Navy?  The project is a joint effort between the Office of Naval Research (ONR), Naval Postgraduate School (NPS) and Institute … Continue reading &rarr;"
 categories:
   - "Current"

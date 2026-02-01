@@ -1,15 +1,15 @@
 ---
-title: "Bones From Whydah Gally Shipwreck Not “Black Sam” Bellamy’s, After All"
+title: "Bones From Whydah Gally Shipwreck Not \"Black Sam\" Bellamy’s, After All"
 date: 2018-05-26T11:34:58
-slug: bones-from-whydah-gally-shipwreck-not-black-sam-bellamys-after-all
-excerpt: "Last February, we posted about human bone fragments found near the wreck of the pirate ship Whydah Gally on Cape Cod, Massachusetts.  The bones were located close to where a pistol, which possibly belonged to the ship’ captain, “Black Sam” Bellamy, had been recovered.  Forensic … Continue reading &rarr;"
+slug: "bones-from-whydah-gally-shipwreck-not-black-sam-bellamys-after-all"
+excerpt: "Last February, we posted about human bone fragments found near the wreck of the pirate ship Whydah Gally on Cape Cod, Massachusetts.  The bones were located close to where a pistol, which possibly belonged to the ship’ captain, \"Black Sam\" Bellamy, had been recovered.  Forensic … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - ""Black Sam" Bellamy"
+  - "\"Black Sam\" Bellamy"
   - "Bellamy"
   - "Cape Cod"
   - "Massachusetts"
@@ -17,7 +17,7 @@ tags:
   - "Whydah Gally"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/02/bellamy.jpg"
 author: "Rick Spilman"
-description: "Last February, we posted about human bone fragments found near the wreck of the pirate ship Whydah Gally on Cape Cod, Massachusetts.  The bones were located close to where a pistol, which possibly belonged to the ship’ captain, “Black Sam” Bellamy, had been recovered.  Forensic … Continue reading &rarr;"
+description: "Last February, we posted about human bone fragments found near the wreck of the pirate ship Whydah Gally on Cape Cod, Massachusetts.  The bones were located close to where a pistol, which possibly belonged to the ship’ captain, \"Black Sam\" Bellamy, had been recovered.  Forensic … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/bellamy.jpg)

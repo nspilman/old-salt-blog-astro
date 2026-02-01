@@ -1,7 +1,7 @@
 ---
 title: "Seabourn Odyssey Rescues Three Men Adrift in the World’s Largest Ocean"
 date: 2012-02-23T09:13:47
-slug: seabourn-odyssey-rescues-three-men-adrift-in-the-worlds-largest-ocean
+slug: "seabourn-odyssey-rescues-three-men-adrift-in-the-worlds-largest-ocean"
 excerpt: "The Pacific Ocean is indeed the world’s largest ocean. It is hard to grasp just how many fisherman from the myriad of islands in the Pacific become lost, are carried away by a storm, break down or run out of … Continue reading &rarr;"
 categories:
   - "Current"

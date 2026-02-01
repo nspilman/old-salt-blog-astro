@@ -1,7 +1,7 @@
 ---
 title: "The Cost of Denial as Sea Levels Rising Faster Than at Any Time in the Last 4,000 Years"
 date: 2025-11-14T21:38:45
-slug: the-cost-of-denial-as-sea-levels-rising-faster-than-at-any-time-in-the-last-4000-years
+slug: "the-cost-of-denial-as-sea-levels-rising-faster-than-at-any-time-in-the-last-4000-years"
 excerpt: "In 2012, the North Carolina state legislature believed it had found the solution to the rising sea levels along its Atlantic coast. They would simply ignore it. They passed a law requiring government planning boards to use predictions of sea … Continue reading &rarr;"
 categories:
   - "Current"

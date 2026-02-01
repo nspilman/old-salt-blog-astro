@@ -1,7 +1,7 @@
 ---
 title: "Navy Sinks USS Ingraham, Last Oliver Hazard Perry Destroyer Built, in Live-Fire Exercise"
 date: 2021-08-22T14:31:05
-slug: navy-sinks-uss-ingraham-last-oliver-hazard-perry-destroyer-built-in-live-fire-exercise
+slug: "navy-sinks-uss-ingraham-last-oliver-hazard-perry-destroyer-built-in-live-fire-exercise"
 excerpt: "The Drive reports that on August 15th, 2021, the U.S. Navy sank the USS Ingraham in a  Sinking Exercise (SINKEX) off Hawaii as part of the ongoing and unprecedently massive Large Scale Exercise 2021. Not a whole lot is known … Continue reading &rarr;"
 categories:
   - "Current"

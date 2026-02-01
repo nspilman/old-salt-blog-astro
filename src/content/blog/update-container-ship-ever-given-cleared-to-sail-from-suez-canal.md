@@ -1,7 +1,7 @@
 ---
 title: "Update: Container Ship Ever Given Cleared to Sail From Suez Canal"
 date: 2021-07-06T16:47:50
-slug: update-container-ship-ever-given-cleared-to-sail-from-suez-canal
+slug: "update-container-ship-ever-given-cleared-to-sail-from-suez-canal"
 excerpt: "Reuters is reporting that an Egyptian court has lifted the detention order on the Ever Given container ship, allowing its expected release from the Suez Canal on Wednesday, according to a lawyer and judicial sources. The Ever Given’s owners and … Continue reading &rarr;"
 categories:
   - "Current"

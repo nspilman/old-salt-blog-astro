@@ -1,7 +1,7 @@
 ---
 title: "Captain Radhika Menon, India’s First Female Merchant Captain Wins Bravery Award"
 date: 2016-12-06T10:58:15
-slug: captain-radhika-menon-indias-first-female-merchant-captain-wins-bravery-award
+slug: "captain-radhika-menon-indias-first-female-merchant-captain-wins-bravery-award"
 excerpt: "Our belated congratulations to Captain Radhika Menon, who was awarded the IMO Award for Exceptional Bravery at Sea at a ceremony at the end of last month. Captain Menon is both the first Indian female merchant marine captain and the first … Continue reading &rarr;"
 categories:
   - "Current"

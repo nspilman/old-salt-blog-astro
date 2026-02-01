@@ -1,7 +1,7 @@
 ---
 title: "Kitefin Shark, World’s Largest Bioluminescent Vertebrate, Photographed Off New Zealand"
 date: 2021-03-08T16:12:57
-slug: kitefin-shark-worlds-largest-bioluminescent-vertebrate-photographed-off-new-zealand
+slug: "kitefin-shark-worlds-largest-bioluminescent-vertebrate-photographed-off-new-zealand"
 excerpt: "Researchers have photographed a large bioluminescent shark in deep water off New Zealand. The kitefin shark was a known species of ocean predator but was only recently discovered to be able to glow in the darkness of its deep-ocean environment. … Continue reading &rarr;"
 categories:
   - "Current"

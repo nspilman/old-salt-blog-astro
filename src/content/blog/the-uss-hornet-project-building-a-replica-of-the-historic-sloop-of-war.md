@@ -1,7 +1,7 @@
 ---
 title: "The USS HORNET Project – Building a Replica of the Historic Sloop of War"
 date: 2011-11-29T10:39:06
-slug: the-uss-hornet-project-building-a-replica-of-the-historic-sloop-of-war
+slug: "the-uss-hornet-project-building-a-replica-of-the-historic-sloop-of-war"
 excerpt: "The Naval Heritage Society is attempting to to build a full-scale, fully functional replica of of the USS Hornet, a sloop of war built in 1805, which had a successful career in the War of 1812 and beyond, before being lost in a hurricane in … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Human Cost of Piracy: Crew of MV Iceburg 1 – 29 Months in Captivity, A Grim New Record"
 date: 2012-10-01T07:05:11
-slug: the-human-cost-of-piracy-crew-of-mv-iceburg-1-29-months-in-captivity-a-grim-new-record
+slug: "the-human-cost-of-piracy-crew-of-mv-iceburg-1-29-months-in-captivity-a-grim-new-record"
 excerpt: "On March 29, 2010, the Panamanian-flagged ro/ro MV Iceburg 1 was hijacked by pirates about 10 nautical miles off the port of Aden, Yemen. Her crew of 24, of which 22 are believed to have survived, have been held hostage for 29 months.  The … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

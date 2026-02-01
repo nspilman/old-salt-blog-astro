@@ -1,7 +1,7 @@
 ---
 title: "Cruise Lines Ready to Restart with Trial Cruises, First Attempt Sees Shipboard Outbreak"
 date: 2020-11-17T15:09:04
-slug: cruise-lines-ready-to-restart-with-trial-cruises-first-attempt-sees-shipboard-outbreak
+slug: "cruise-lines-ready-to-restart-with-trial-cruises-first-attempt-sees-shipboard-outbreak"
 excerpt: "Would you volunteer to go on a cruise ship again? Apparently, tens of thousands are eager to do so. One of the first trial cruises in the Caribbean did not go well. The Center for Disease Control (CDCC) lifted its … Continue reading &rarr;"
 categories:
   - "Current"

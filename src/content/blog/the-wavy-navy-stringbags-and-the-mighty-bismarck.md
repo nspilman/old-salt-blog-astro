@@ -1,8 +1,8 @@
 ---
 title: "The Wavy Navy, Stringbags and the Mighty Bismarck"
 date: 2016-12-18T15:29:21
-slug: the-wavy-navy-stringbags-and-the-mighty-bismarck
-excerpt: "We recently posted about the death of John “Jock” Moffatt, at 97, the Scottish pilot credited with disabling the German battleship Bismarck with a torpedo fired from his Fairey Swordfish biplane in May 1941. In the post, we included a photo of … Continue reading &rarr;"
+slug: "the-wavy-navy-stringbags-and-the-mighty-bismarck"
+excerpt: "We recently posted about the death of John \"Jock\" Moffatt, at 97, the Scottish pilot credited with disabling the German battleship Bismarck with a torpedo fired from his Fairey Swordfish biplane in May 1941. In the post, we included a photo of … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Wavy Navy"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/stringbag1.jpg"
 author: "Rick Spilman"
-description: "We recently posted about the death of John “Jock” Moffatt, at 97, the Scottish pilot credited with disabling the German battleship Bismarck with a torpedo fired from his Fairey Swordfish biplane in May 1941. In the post, we included a photo of … Continue reading &rarr;"
+description: "We recently posted about the death of John \"Jock\" Moffatt, at 97, the Scottish pilot credited with disabling the German battleship Bismarck with a torpedo fired from his Fairey Swordfish biplane in May 1941. In the post, we included a photo of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/bobby-lawson_1636357c.jpg)

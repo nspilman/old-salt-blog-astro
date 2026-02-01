@@ -1,7 +1,7 @@
 ---
 title: "Boiler Trouble on the Mystic Seaport Steamer Sabino"
 date: 2016-01-26T11:38:22
-slug: boiler-trouble-mystic-seaport-steamer-sabino
+slug: "boiler-trouble-mystic-seaport-steamer-sabino"
 excerpt: "The steamer Sabino, built in 1908, has been a popular attraction at the Mystic Seaport Museum since 1974, offering boat rides on the Mystic River to an estimated 33,000 passengers yearly. The steamboat; which the museum bills as the oldest … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Team Vestas Wind on Cargados Carajos Shoals — Chartplotter Assisted Grounding"
 date: 2015-03-10T09:43:25
-slug: team-vestas-wind-on-cargados-carajos-shoals-chartplotter-assisted-grounding
+slug: "team-vestas-wind-on-cargados-carajos-shoals-chartplotter-assisted-grounding"
 excerpt: "How did a crew of highly skilled professionals, sailing the $6 million Team Vestas Wind in the current Volvo Ocean Race, succeed in hitting the Cargados Carajos shoals, in the Indian Ocean off Mauritius at 16 knots on the night … Continue reading &rarr;"
 categories:
   - "Current"

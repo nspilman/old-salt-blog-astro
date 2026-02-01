@@ -1,7 +1,7 @@
 ---
 title: "RIMPAC – Sinking Ships for Fun and Practice"
 date: 2010-07-18T16:50:21
-slug: rimpac-sinking-ships-for-fun-and-practice
+slug: "rimpac-sinking-ships-for-fun-and-practice"
 excerpt: "RIMPAC 2010, the Rim of the Pacific Exercise, is  one of the world’s largest maritime exercises, with participation by 14 nations, including including Australia, Canada, Japan, Singapore, France, Colombia, Chile, Indonesia, the Netherlands, Peru, South Korea and Thailand.   RIMPAC … Continue reading &rarr;"
 categories:
   - "Current"

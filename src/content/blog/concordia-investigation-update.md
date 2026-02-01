@@ -1,14 +1,14 @@
 ---
 title: "Concordia Investigation Update"
 date: 2010-03-04T16:03:34
-slug: concordia-investigation-update
+slug: "concordia-investigation-update"
 excerpt: "In addition to the investigation underway by the Barbados Maritime Ship Registry on behalf of the government of Barbados, where the Concordia was registered, the Transportation Safety Board of Canada has decided to conduct its own independent investigation into the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - ""Class Afloat""
+  - "\"Class Afloat\""
   - "18-year-old brigantine"
   - "Barbados Maritime Ship Registry"
   - "Concordia"

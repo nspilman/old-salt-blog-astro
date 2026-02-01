@@ -1,8 +1,8 @@
 ---
 title: "Baltimore’s Mr. Trash Wheel — Water and Solar Powered Harbor Trash Gobbler"
 date: 2018-02-10T08:02:04
-slug: baltimores-mr-trash-wheel-water-solar-powered-harbor-trash-gobbler
-excerpt: "We recently posted about various devices and schemes for cleaning plastic and other flotsam from harbors and waterways.  Roberta Weisbrod was kind enough to point out another great example of such a device — Baltimore’s Inner Harbor Water Wheel, or “Mr. … Continue reading &rarr;"
+slug: "baltimores-mr-trash-wheel-water-solar-powered-harbor-trash-gobbler"
+excerpt: "We recently posted about various devices and schemes for cleaning plastic and other flotsam from harbors and waterways.  Roberta Weisbrod was kind enough to point out another great example of such a device — Baltimore’s Inner Harbor Water Wheel, or \"Mr. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "inner harbor"
   - "Mr. trash Wheel"
 author: "Rick Spilman"
-description: "We recently posted about various devices and schemes for cleaning plastic and other flotsam from harbors and waterways.  Roberta Weisbrod was kind enough to point out another great example of such a device — Baltimore’s Inner Harbor Water Wheel, or “Mr. … Continue reading &rarr;"
+description: "We recently posted about various devices and schemes for cleaning plastic and other flotsam from harbors and waterways.  Roberta Weisbrod was kind enough to point out another great example of such a device — Baltimore’s Inner Harbor Water Wheel, or \"Mr. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/02/mrtrashwheel.jpg)We recently [posted about various devices and schemes](http://www.oldsaltblog.com/2018/02/cleaning-harbors-seas-driftmaster-drones-beyond/) for cleaning plastic and other flotsam from harbors and waterways.  Roberta Weisbrod was kind enough to point out another great example of such a device — Baltimore’s [Inner Harbor Water Wheel, or “Mr. Trash Wheel”](http://baltimorewaterfront.com/healthy-harbor/water-wheel/) as it is known to locals. 

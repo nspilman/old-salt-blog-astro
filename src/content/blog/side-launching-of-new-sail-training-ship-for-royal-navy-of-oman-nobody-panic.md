@@ -1,7 +1,7 @@
 ---
 title: "Side Launching of New Sail Training Ship for Royal Navy of Oman — Nobody Panic"
 date: 2013-11-27T09:16:53
-slug: side-launching-of-new-sail-training-ship-for-royal-navy-of-oman-nobody-panic
+slug: "side-launching-of-new-sail-training-ship-for-royal-navy-of-oman-nobody-panic"
 excerpt: "The Damen shipyard in Galati, Romania recently launched a new sail training ship for the Royal Navy of Oman. The three masted steel square masted ship will replace the current Omani sail training ship, Shabab Oman, a wooden three masted … Continue reading &rarr;"
 categories:
   - "Current"

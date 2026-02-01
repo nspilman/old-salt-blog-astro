@@ -1,7 +1,7 @@
 ---
 title: "Update: State of Hawaii Awards $6.5M Contract to Remove Falls of Clyde from Honolulu Harbor"
 date: 2025-01-27T21:22:21
-slug: update-state-of-hawaii-awards-6-5m-contract-to-remove-falls-of-clyde-from-honolulu-harbor
+slug: "update-state-of-hawaii-awards-6-5m-contract-to-remove-falls-of-clyde-from-honolulu-harbor"
 excerpt: "The Hawai‘i Department of Transportation (HDOT) is reported to have awarded a $6.5 million contract to a mainland marine engineering company, identified on social media as Donjon Marine, to finally remove the historic ship Falls of Clyde from Honolulu Harbor. … Continue reading &rarr;"
 categories:
   - "Current"

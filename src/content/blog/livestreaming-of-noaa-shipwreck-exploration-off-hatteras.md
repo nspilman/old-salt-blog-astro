@@ -1,7 +1,7 @@
 ---
 title: "Livestreaming of NOAA Shipwreck Exploration off Hatteras"
 date: 2018-06-19T09:01:14
-slug: livestreaming-of-noaa-shipwreck-exploration-off-hatteras
+slug: "livestreaming-of-noaa-shipwreck-exploration-off-hatteras"
 excerpt: "On June 25th, the National Oceanic and Atmospheric Administration (NOAA) will be investigating an unidentified shipwreck 40 miles off the coast of Hatteras Island using a robotic submersible launched from the research vessel Okeanos Explorer.  The exploration will be livestreamed with viewing … Continue reading &rarr;"
 categories:
   - "Current"

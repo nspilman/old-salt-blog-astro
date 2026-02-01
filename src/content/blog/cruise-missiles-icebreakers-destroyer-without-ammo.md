@@ -1,7 +1,7 @@
 ---
 title: "Cruise Missiles on Icebreakers and Destroyers without Ammo"
 date: 2018-02-13T19:05:20
-slug: cruise-missiles-icebreakers-destroyer-without-ammo
+slug: "cruise-missiles-icebreakers-destroyer-without-ammo"
 excerpt: "I sometimes wonder if the world is going a bit mad. Take, for example, the case of icebreakers with cruise missiles and destroyers with guns but no ammunition.  Despite the increased strategic importance of Arctic, the US has only one … Continue reading &rarr;"
 categories:
   - "Current"

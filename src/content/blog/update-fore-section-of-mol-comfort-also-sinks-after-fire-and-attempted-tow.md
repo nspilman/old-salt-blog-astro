@@ -1,7 +1,7 @@
 ---
 title: "Update: Fore Section of MOL Comfort Also Sinks After Fire and Attempted Tow"
 date: 2013-07-11T09:40:00
-slug: update-fore-section-of-mol-comfort-also-sinks-after-fire-and-attempted-tow
+slug: "update-fore-section-of-mol-comfort-also-sinks-after-fire-and-attempted-tow"
 excerpt: "Following an out of control fire, the forward section of the container ship MOL Comfort  finally sank yesterday. The ship had broken in half twenty four days ago on June 17th in the Arabian Sea, bound from Singapore to Jeddah, loaded with 4,500 … Continue reading &rarr;"
 categories:
   - "Current"

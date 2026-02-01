@@ -1,7 +1,7 @@
 ---
 title: "Britain to Build National Flagship to Promote Trade"
 date: 2021-06-01T11:29:27
-slug: britain-to-build-national-flagship-to-promote-trade
+slug: "britain-to-build-national-flagship-to-promote-trade"
 excerpt: "Interesting news from the UK. Prime Minister, Boris Johnson, announced the construction of a new national flagship intended to promote British businesses around the world.  The Prime Minister said in the announcement: This new national flagship will be the first … Continue reading &rarr;"
 categories:
   - "Current"

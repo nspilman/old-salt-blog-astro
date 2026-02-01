@@ -1,7 +1,7 @@
 ---
 title: "USS Freedom Limping Toward Singapore – The US Navy’s Sorry LCS Saga Continues"
 date: 2013-03-22T20:10:10
-slug: uss-freedom-limping-toward-singapore-the-us-navys-sorry-lcs-saga-continues
+slug: "uss-freedom-limping-toward-singapore-the-us-navys-sorry-lcs-saga-continues"
 excerpt: "The USS Freedom, the first of the US Navy’s Littoral Combat Ships (LCS), is on her way to Singapore. The press has reported that the ship is intended to show the US’s commitment to counter China in the region. Before … Continue reading &rarr;"
 categories:
   - "Current"

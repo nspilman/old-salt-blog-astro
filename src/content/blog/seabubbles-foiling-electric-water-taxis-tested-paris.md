@@ -1,7 +1,7 @@
 ---
 title: "SeaBubbles — Foiling Electric Water Taxis to be Tested in Paris"
 date: 2016-11-03T15:13:51
-slug: seabubbles-foiling-electric-water-taxis-tested-paris
+slug: "seabubbles-foiling-electric-water-taxis-tested-paris"
 excerpt: "Alain Thébault is known as designer and skipper of the record breaking ocean-going hydrofoil Hydroptère, which in 2009, was the first sailing boat to sail faster than 50 knots over a measured mile.  Now, Thébault is working on a very different project. … Continue reading &rarr;"
 categories:
   - "Current"

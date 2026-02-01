@@ -1,7 +1,7 @@
 ---
 title: "Eight Crew of Cement Carrier Cemfjord Feared Lost"
 date: 2015-01-04T10:25:17
-slug: eight-crew-of-cement-carrier-cemfjord-feared-lost
+slug: "eight-crew-of-cement-carrier-cemfjord-feared-lost"
 excerpt: "The passengers on the NorthLink ferry Hrossey, crossing Pentland Firth, off Scotland, saw a grim sight out the ferry windows — the bow of the cement carrier Cemfjord floating vertically in the water. No distress call was received from the … Continue reading &rarr;"
 categories:
   - "Current"

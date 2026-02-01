@@ -1,7 +1,7 @@
 ---
 title: "Drones and the Volvo Ocean Race"
 date: 2018-04-07T16:13:35
-slug: drones-and-the-volvo-ocean-race
+slug: "drones-and-the-volvo-ocean-race"
 excerpt: "Yesterday, we posted about the upcoming Golden Globe 2018 Race in which traditional sailboats will race around the globe using only the technology available in the original race in 1968. The idea has a certain appeal but also definite limitations. There … Continue reading &rarr;"
 categories:
   - "Current"

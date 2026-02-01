@@ -1,7 +1,7 @@
 ---
 title: "Remembering the USS Johnston & Cmdr. Ernest Evans at the Battle off Samar"
 date: 2021-04-03T09:08:20
-slug: remembering-the-uss-johnston-cmdr-ernest-evans-at-the-battle-off-samar
+slug: "remembering-the-uss-johnston-cmdr-ernest-evans-at-the-battle-off-samar"
 excerpt: "In November 2019, RV Petrel located the scattered wreckage of a World War II warship at a depth of 21,180 ft in the Philippine Sea. The wreck, thought to be the deepest wreck of a warship ever discovered, was suspected to … Continue reading &rarr;"
 categories:
   - "Current"

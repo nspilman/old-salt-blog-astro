@@ -1,13 +1,13 @@
 ---
 title: "Storm Surge Barriers for New York Harbor? Would They Do Enough?"
 date: 2012-12-13T07:33:56
-slug: storm-surge-barriers-for-new-york-harbor-would-they-do-enough
+slug: "storm-surge-barriers-for-new-york-harbor-would-they-do-enough"
 excerpt: "Rotterdam, London, St. Petersburg, and Toyko all have storm surge barriers to protect low-lying areas from flooding.  In the United States, Stamford, Connecticut; Providence, Rhode Island; and New Bedford, Massachusetts all have storm barriers.  Should New York, which suffered significant flooding two years in a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
-  - ""superstorm" Sandy"
+  - "\"superstorm\" Sandy"
   - "flood gates"
   - "flooding"
   - "hurricane barriers"

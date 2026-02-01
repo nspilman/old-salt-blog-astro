@@ -1,7 +1,7 @@
 ---
 title: "HMS Medway Torches Smugglers’ Boat Carrying £24m of Cocaine in Caribbean"
 date: 2022-10-31T10:14:02
-slug: hms-medway-torches-smugglers-boat-carrying-24m-of-cocaine-in-caribbean
+slug: "hms-medway-torches-smugglers-boat-carrying-24m-of-cocaine-in-caribbean"
 excerpt: "Sky News reports that HMS Medway, a Royal Navy River-class offshore patrol vessel, pursued a drug smuggler’s boat after it was spotted near the Dominican Republic, alongside a US Coast Guard Law Enforcement Detachment and accompanying aircraft. Once it was … Continue reading &rarr;"
 categories:
   - "Current"

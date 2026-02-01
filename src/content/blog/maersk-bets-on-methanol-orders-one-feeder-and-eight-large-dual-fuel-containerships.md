@@ -1,7 +1,7 @@
 ---
 title: "Maersk Bets on Methanol — Orders One Feeder and Eight Large Dual Fuel Containerships"
 date: 2021-10-02T12:57:46
-slug: maersk-bets-on-methanol-orders-one-feeder-and-eight-large-dual-fuel-containerships
+slug: "maersk-bets-on-methanol-orders-one-feeder-and-eight-large-dual-fuel-containerships"
 excerpt: "In February we posted about an announcement by A.P. Moller-Maersk, the largest container ship operator in the world, that it would launch the world’s first carbon-neutral cargo liner vessel in 2023 – seven years ahead of its initial 2030 target. Maersk’s … Continue reading &rarr;"
 categories:
   - "Current"

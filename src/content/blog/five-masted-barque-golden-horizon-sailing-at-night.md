@@ -1,7 +1,7 @@
 ---
 title: "Five-Masted Barque Golden Horizon Sailing at Night"
 date: 2021-07-25T10:08:43
-slug: five-masted-barque-golden-horizon-sailing-at-night
+slug: "five-masted-barque-golden-horizon-sailing-at-night"
 excerpt: "A short video of Tradewind Voyages’ Golden Horizon sailing at night between Poole & Portland. Golden Horizon is the largest square-rigged sailing ship in the world. A 272 passenger, five-masted barque, she is 532 feet (162 meters) long, with a … Continue reading &rarr;"
 categories:
   - "Current"

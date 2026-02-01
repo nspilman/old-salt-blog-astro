@@ -1,7 +1,7 @@
 ---
 title: "Dead Humpback Whale Pinned to Bow of the Sapphire Princess"
 date: 2010-07-31T07:31:09
-slug: dead-humpback-whale-pinned-to-bow-of-the-sapphire-princess
+slug: "dead-humpback-whale-pinned-to-bow-of-the-sapphire-princess"
 excerpt: "Last summer,  the Sapphire Princess, a cruise ship operating on the South-West coast of Alaska, arrived in the port of Vancouver with a 70 foot long fin whale impaled on its bulbous bow.   Wednesday, almost exactly a year later, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
-title: "Introducing “Britannia’s Mission” by Antione Vanner"
+title: "Introducing \"Britannia’s Mission\" by Antione Vanner"
 date: 2018-12-04T18:14:14
-slug: introducing-britannias-mission-by-antione-vanner
-excerpt: "A short video introduction by Antione Vanner to his latest historical naval adventure novel, Britannia’s Mission, set in 1883. Vanner’s “Dawlish Chronicles” series of naval adventures are set in the late Victorian era when technological progress was more rapid than at … Continue reading &rarr;"
+slug: "introducing-britannias-mission-by-antione-vanner"
+excerpt: "A short video introduction by Antione Vanner to his latest historical naval adventure novel, Britannia’s Mission, set in 1883. Vanner’s \"Dawlish Chronicles\" series of naval adventures are set in the late Victorian era when technological progress was more rapid than at … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Newbooks"
@@ -12,7 +12,7 @@ tags:
   - "Britannia's Mission"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/britanniasmission.jpg"
 author: "Rick Spilman"
-description: "A short video introduction by Antione Vanner to his latest historical naval adventure novel, Britannia’s Mission, set in 1883. Vanner’s “Dawlish Chronicles” series of naval adventures are set in the late Victorian era when technological progress was more rapid than at … Continue reading &rarr;"
+description: "A short video introduction by Antione Vanner to his latest historical naval adventure novel, Britannia’s Mission, set in 1883. Vanner’s \"Dawlish Chronicles\" series of naval adventures are set in the late Victorian era when technological progress was more rapid than at … Continue reading &rarr;"
 ---
 
 A short video introduction by Antione Vanner to his latest historical naval adventure novel, [*Britannia’s Mission*](https://www.amazon.com/Britannias-Mission-Dawlish-Chronicles-February-ebook/dp/B07KQHQ52Z), set in 1883. Vanner’s “Dawlish Chronicles” series of naval adventures are set in the late Victorian era when technological progress was more rapid than at any previous time in history.

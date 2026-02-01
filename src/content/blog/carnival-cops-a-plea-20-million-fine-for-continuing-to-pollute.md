@@ -1,7 +1,7 @@
 ---
 title: "Carnival Cops a Plea — $20 Million Fine for Continuing to Pollute"
 date: 2019-06-08T09:59:38
-slug: carnival-cops-a-plea-20-million-fine-for-continuing-to-pollute
+slug: "carnival-cops-a-plea-20-million-fine-for-continuing-to-pollute"
 excerpt: "In April, we posted, Judge Threatens to Block Carnival Cruise Ships from Docking in US Ports, in which U.S. District Judge Patricia Seitz considered temporarily blocking the largest cruise corporation in the world from docking its ships at ports in … Continue reading &rarr;"
 categories:
   - "Current"

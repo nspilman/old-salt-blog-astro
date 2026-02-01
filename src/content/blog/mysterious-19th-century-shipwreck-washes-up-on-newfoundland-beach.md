@@ -1,7 +1,7 @@
 ---
 title: "Mysterious 19th Century Shipwreck Washes up on Newfoundland Beach"
 date: 2024-01-30T18:37:50
-slug: mysterious-19th-century-shipwreck-washes-up-on-newfoundland-beach
+slug: "mysterious-19th-century-shipwreck-washes-up-on-newfoundland-beach"
 excerpt: "Gordon Blackmore was out hunting seabirds early in the morning on Cape Ray beach on the southwestern tip of Newfoundland, Canada when he saw the capsized wreck of a large wooden ship that had washed ashore in shallow water. Neil … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Duluth Tall Ships Festival a Hit  – Attracts Over 200,000"
 date: 2010-08-03T08:11:45
-slug: duluth-tall-ships-festival-attracts-over-200000
-excerpt: "The Duluth Tall Ship’s Festival which runs through today, has been a major success, attracting over 200,000 visitors.  One of the biggest “stars” of the event was the HMS Bounty. The wait to get on the Bounty averaged between two and four … Continue reading &rarr;"
+slug: "duluth-tall-ships-festival-attracts-over-200000"
+excerpt: "The Duluth Tall Ship’s Festival which runs through today, has been a major success, attracting over 200,000 visitors.  One of the biggest \"stars\" of the event was the HMS Bounty. The wait to get on the Bounty averaged between two and four … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Duluth Tall Ship's Festival"
   - "HMS Bounty"
 author: "Rick Spilman"
-description: "The Duluth Tall Ship’s Festival which runs through today, has been a major success, attracting over 200,000 visitors.  One of the biggest “stars” of the event was the HMS Bounty. The wait to get on the Bounty averaged between two and four … Continue reading &rarr;"
+description: "The Duluth Tall Ship’s Festival which runs through today, has been a major success, attracting over 200,000 visitors.  One of the biggest \"stars\" of the event was the HMS Bounty. The wait to get on the Bounty averaged between two and four … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/08/bountythumb.jpg)

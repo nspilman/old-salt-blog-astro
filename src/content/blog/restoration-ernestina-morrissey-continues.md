@@ -1,7 +1,7 @@
 ---
 title: "Restoration of the Ernestina-Morrissey Continues"
 date: 2017-06-03T14:15:10
-slug: restoration-ernestina-morrissey-continues
+slug: "restoration-ernestina-morrissey-continues"
 excerpt: "The restoration of the historic schooner Ernestina-Morrissey is a quiet success story. The schooner, launched in 1894, is being rebuilt in the Boothbay Harbor Shipyard. Arriving at the yard in April 2014, she is expected to be redelivered in 2019. The schooner, the official … Continue reading &rarr;"
 categories:
   - "Current"

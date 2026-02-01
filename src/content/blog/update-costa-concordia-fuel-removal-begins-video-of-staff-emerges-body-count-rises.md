@@ -1,7 +1,7 @@
 ---
 title: "Update: Costa Concordia – Fuel Removal Begins, Video of Staff Emerges & Body Count Rises"
 date: 2012-01-24T14:38:32
-slug: update-costa-concordia-fuel-removal-begins-video-of-staff-emerges-body-count-rises
+slug: "update-costa-concordia-fuel-removal-begins-video-of-staff-emerges-body-count-rises"
 excerpt: "Crews from the Dutch salvage company SMIT are setting up to begin pumping 2,300 tonnes of diesel fuel from the sunken cruise ship Costa Concordia.  A crane barge and temporary tanks have been moved alongside the stricken ship. Pumping is expected to begin … Continue reading &rarr;"
 categories:
   - "Current"

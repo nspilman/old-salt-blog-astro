@@ -1,7 +1,7 @@
 ---
 title: "Wreckage of Historic Submarine Defender Found in Long Island Sound"
 date: 2023-04-20T11:28:46
-slug: wreckage-of-historic-submarine-defender-found-in-long-island-sound
+slug: "wreckage-of-historic-submarine-defender-found-in-long-island-sound"
 excerpt: "Connecticut divers have discovered the wreckage of an experimental submarine built in 1907 and later scuttled in Long Island Sound. The Defender was found Sunday by a team led by Richard Simon, a commercial diver from Coventry, Connecticut. The submarine … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Inspector Clouseau, the Pink Manta Ray of the Great Barrier Reef"
 date: 2020-05-18T09:41:59
-slug: inspector-clouseau-the-pink-manta-ray-of-the-great-barrier-reef
+slug: "inspector-clouseau-the-pink-manta-ray-of-the-great-barrier-reef"
 excerpt: "Now, for something completely different. The bright pink manta ray was first seen swimming in 2015, in the waters off Australia’s Lady Elliot Island, on the Great Barrier Reef. It has been seen only seven times since, making its most … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

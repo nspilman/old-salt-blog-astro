@@ -1,7 +1,7 @@
 ---
 title: "Vermont Sail Freight Project – Food For Sail"
 date: 2013-10-30T13:15:42
-slug: vermont-sail-freight-project-food-for-sail
+slug: "vermont-sail-freight-project-food-for-sail"
 excerpt: "Earlier this week we posted about the Vermont Sail Project barge Ceres calling in New York harbor. Here is a wonderful short video from documentary filmmaker Thomas Halaczinsky capturing a portion of the first voyage of the Ceres down the … Continue reading &rarr;"
 categories:
   - "Current"

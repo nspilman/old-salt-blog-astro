@@ -1,7 +1,7 @@
 ---
 title: "Hope for the Global Food Crisis as First Bulker Loaded With Grain Sails From Odesa"
 date: 2022-08-01T17:27:00
-slug: hope-for-the-global-food-crisis-as-first-bulker-sails-from-odesa
+slug: "hope-for-the-global-food-crisis-as-first-bulker-sails-from-odesa"
 excerpt: "The handysize bulk carrier Razoni was one of roughly 80 international vessels that have been stranded in Ukraine for more than six months by the ongoing Russian invasion. Now, the Sierra Leone-flagged vessel has sailed from the port of Odesa … Continue reading &rarr;"
 categories:
   - "Current"

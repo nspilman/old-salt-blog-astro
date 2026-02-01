@@ -1,7 +1,7 @@
 ---
 title: "US Navy Deploys Carrier Group (Without a Carrier) & Activates 28 Ready Reserve Cargo Ships"
 date: 2019-09-18T15:34:37
-slug: us-navy-deploys-carrier-group-without-a-carrier-activates-28-ready-reserve-cargo-ships
+slug: "us-navy-deploys-carrier-group-without-a-carrier-activates-28-ready-reserve-cargo-ships"
 excerpt: "Four ships from the Navy’s carrier Harry S. Truman Strike Group are deploying from the East Coast this week. Notably, the aircraft carrier Harry S. Truman is not one of the ships being deployed as it is still undergoing repairs for … Continue reading &rarr;"
 categories:
   - "Current"

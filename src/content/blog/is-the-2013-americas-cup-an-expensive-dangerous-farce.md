@@ -1,7 +1,7 @@
 ---
 title: "The 2013 America’s Cup – an Expensive & Dangerous Farce?"
 date: 2013-08-19T17:40:38
-slug: is-the-2013-americas-cup-an-expensive-dangerous-farce
+slug: "is-the-2013-americas-cup-an-expensive-dangerous-farce"
 excerpt: "In the first two races of the Louis Vuitton finals to determine which challenger will compete against the Team Oracle for the America’s Cup, both races were determined by which boat didn’t break before crossing the finish line. In race one, Emirates Team … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,13 +1,13 @@
 ---
 title: "Replica Santa Maria (No, Not a Pirate Ship) Runs Aground in NY Harbor"
 date: 2019-10-29T13:35:05
-slug: replica-santa-maria-no-not-a-pirate-ship-runs-aground-in-ny-harbor
-excerpt: "Why is it that virtually any ship with square sails and masts is referred to by the media as a “pirate ship?” Yesterday, a replica of the Nao Santa Maria, the ship that carried Columbus across the Atlantic on his … Continue reading &rarr;"
+slug: "replica-santa-maria-no-not-a-pirate-ship-runs-aground-in-ny-harbor"
+excerpt: "Why is it that virtually any ship with square sails and masts is referred to by the media as a \"pirate ship?\" Yesterday, a replica of the Nao Santa Maria, the ship that carried Columbus across the Atlantic on his … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/10/nypdpirateship.jpg"
 author: "Rick Spilman"
-description: "Why is it that virtually any ship with square sails and masts is referred to by the media as a “pirate ship?” Yesterday, a replica of the Nao Santa Maria, the ship that carried Columbus across the Atlantic on his … Continue reading &rarr;"
+description: "Why is it that virtually any ship with square sails and masts is referred to by the media as a \"pirate ship?\" Yesterday, a replica of the Nao Santa Maria, the ship that carried Columbus across the Atlantic on his … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/10/nypdpirateship.jpg)Why is it that virtually any ship with square sails and masts is referred to by the media as a “pirate ship?” Yesterday, a replica of the [*Nao Santa Maria*](https://www.fundacionnaovictoria.org/es/la-replica-nao-santa-maria/), the ship that carried Columbus across the Atlantic on his first voyage, ran aground in New York harbor off Brooklyn.  A dozen or so news outlets all ran a variation of the same headline — “[Replica Pirate Ship Runs Aground in NY Harbor.](https://www.newsday.com/news/region-state/replica-pirate-ship-runs-aground-in-ny-harbor-at-low-tide-1.37996995)” 

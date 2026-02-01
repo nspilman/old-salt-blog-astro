@@ -1,7 +1,7 @@
 ---
 title: "A Glimpse Inside First Narco-Sub Seized in Europe"
 date: 2023-04-23T15:54:59
-slug: a-glimpse-inside-first-narco-sub-seized-in-europe
+slug: "a-glimpse-inside-first-narco-sub-seized-in-europe"
 excerpt: "In late 2019, we posted about Spanish authorities seizing a narco sub loaded with 3 tonnes of cocaine, valued at $110 million, off the northwestern coast of Galicia. Narco subs have been caught operating in the Pacific and in the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Nelson’s Cribbage Board  – Jamming a Desk Drawer"
 date: 2012-09-27T08:17:37
-slug: nelsons-cribbage-board-jamming-a-desk-drawer
+slug: "nelsons-cribbage-board-jamming-a-desk-drawer"
 excerpt: "Imagine an antique Victorian desk purchased for £30, that has a stuck drawer.  A determined auctioneer, working on the drawer with a screw driver for around 20 minutes, managed to un-stick it only to find that the object blocking the drawer was a small bone … Continue reading &rarr;"
 categories:
   - "Current"

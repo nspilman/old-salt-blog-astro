@@ -1,7 +1,7 @@
 ---
 title: "Shrinking U.S. Flag Fleet Draws Attention In Congress"
 date: 2010-10-04T15:13:07
-slug: shrinking-u-s-flag-fleet-draws-attention-in-congress
+slug: "shrinking-u-s-flag-fleet-draws-attention-in-congress"
 excerpt: "A press release by Congressman Elijah E. Cummings, Chairman of the House Subcommittee on Coast Guard and Maritime Transportation, strikes me as either sad, funny or perhaps a bit of both.    The press release is titled:  Cummings Continues Investigation Into American … Continue reading &rarr;"
 categories:
   - "Current"

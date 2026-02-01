@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ships & Sewage — FOE Misses the Point"
 date: 2014-12-10T11:07:53
-slug: cruise-ships-sewage-foe-misses-the-point
+slug: "cruise-ships-sewage-foe-misses-the-point"
 excerpt: "Here is yet another case of the media taking a wildly inaccurate sets of claims about ships at face value.  The news media has been touting a new study by the environmental group Friends of the Earth. The title of the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Restoring the Felicity Ann and the Memory of Ann Davison"
 date: 2012-03-27T11:11:34
-slug: restoring-the-felicity-ann-and-the-memory-of-ann-davison
+slug: "restoring-the-felicity-ann-and-the-memory-of-ann-davison"
 excerpt: "The Northwest School of Wooden Boat Building in Port Hadlock, WA, is restoring a forgotten piece of sailing history –  the Felicity Ann, a 23′ wooden boat, launched in 1949.  In 1952-1953, Ann Davison, at 39, sailed  the Felicity Ann single-handed across the Atlantic, … Continue reading &rarr;"
 categories:
   - "Current"

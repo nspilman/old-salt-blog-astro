@@ -1,7 +1,7 @@
 ---
 title: "The Swiss Decide Against Joining European Union’s Anti-Piracy Efforts"
 date: 2009-09-25T08:30:07
-slug: the-swiss-decide-against-joining-european-union%e2%80%99s-anti-piracy-efforts
+slug: "the-swiss-decide-against-joining-european-union%e2%80%99s-anti-piracy-efforts"
 excerpt: "Perhaps it is the thought that counts. Swiss lawmakers have decided against joining EU anti-piracy efforts because it would violate the country’s long-held tradition of neutrality.  The land-locked country lacks a blue water navy so could not send a ship or … Continue reading &rarr;"
 categories:
   - "Current"

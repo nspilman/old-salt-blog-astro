@@ -1,7 +1,7 @@
 ---
 title: "U.S. Navy Admiral Scott Stearney Found Dead in Bahrain"
 date: 2018-12-02T08:55:05
-slug: u-s-navy-admiral-scott-stearney-found-dead-in-bahrain
+slug: "u-s-navy-admiral-scott-stearney-found-dead-in-bahrain"
 excerpt: "Vice Adm. Scott Stearney, commander of US Naval Forces Central Command and of the US Navy’s Bahrain-based Fifth Fleet, was found dead on Saturday in his residence in Bahrain. The Naval Criminal Investigative Service (NCIS) and the Bahraini Ministry of Interior … Continue reading &rarr;"
 categories:
   - "Current"

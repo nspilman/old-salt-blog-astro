@@ -1,7 +1,7 @@
 ---
 title: "Why did the Carnival Splendor go dark?"
 date: 2010-11-14T07:34:31
-slug: why-did-the-carnival-splendor-go-dark
+slug: "why-did-the-carnival-splendor-go-dark"
 excerpt: "How could an  fire in one of two engine rooms do sufficient damage to the electrical distribution system on the Carnival Splendor to completely disable the ship?   The answer isn’t obvious. The Carnival Splendor is diesel electric powered, which is to say, instead of … Continue reading &rarr;"
 categories:
   - "Current"

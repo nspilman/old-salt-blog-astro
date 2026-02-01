@@ -1,7 +1,7 @@
 ---
 title: "Longest Underwater Cave Identified in Mexico’s Yucatan Peninsula"
 date: 2018-01-19T21:34:07
-slug: longest-underwater-cave-identified-yucutan
+slug: "longest-underwater-cave-identified-yucutan"
 excerpt: "Several years ago, my wife and I went snorkeling in the Dos Ojos cenote in Mexico’s Yucatan peninsula near Tulum.  A cenote is a deep, water-filled sinkhole in limestone, often connected to freshwater underwater caverns and tunnels. The limestone filtered water was crystal … Continue reading &rarr;"
 categories:
   - "Current"

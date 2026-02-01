@@ -1,7 +1,7 @@
 ---
 title: "USS Eagle 56 — Last Navy Warship Sunk by U-Boat in WWII Found off Maine"
 date: 2019-07-19T17:37:50
-slug: uss-eagle-56-last-navy-warship-sunk-by-u-boat-in-wwii-found-off-maine
+slug: "uss-eagle-56-last-navy-warship-sunk-by-u-boat-in-wwii-found-off-maine"
 excerpt: "On April 23rd, 1945, the patrol boat USS Eagle 56 was towing targets for US Navy bomber exercises off the coast of Maine. At about noon, there was an explosion around amidships which broke the patrol boat in half.  Of … Continue reading &rarr;"
 categories:
   - "History"

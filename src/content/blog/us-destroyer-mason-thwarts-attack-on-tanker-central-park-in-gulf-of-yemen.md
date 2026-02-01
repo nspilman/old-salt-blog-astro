@@ -1,7 +1,7 @@
 ---
 title: "US Destroyer Mason Thwarts Attack on Tanker Central Park in Gulf of Yemen"
 date: 2023-11-27T17:06:33
-slug: us-destroyer-mason-thwarts-attack-on-tanker-central-park-in-gulf-of-yemen
+slug: "us-destroyer-mason-thwarts-attack-on-tanker-central-park-in-gulf-of-yemen"
 excerpt: "On Sunday, the Arleigh Burke-class destroyer USS Mason received a distress call from the M/V Central Park, a 20,000 DWT oil/chemical tanker, in the Gulf of Aden, that reported they were under attack by an unknown entity. Five armed individuals … Continue reading &rarr;"
 categories:
   - "Current"

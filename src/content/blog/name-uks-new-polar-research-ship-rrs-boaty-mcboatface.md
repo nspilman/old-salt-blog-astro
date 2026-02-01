@@ -1,7 +1,7 @@
 ---
 title: "Name UK’s New Polar Research Ship, But RRS Boaty McBoatface ?"
 date: 2016-03-20T10:05:38
-slug: name-uks-new-polar-research-ship-rrs-boaty-mcboatface
+slug: "name-uks-new-polar-research-ship-rrs-boaty-mcboatface"
 excerpt: "The British Natural Environment Research Council (NERC) is asking for suggestions for a name for the new polar research ship, currently under construction at Cammell Laird’s yard in Birkenhead.  The closing date for entries is 16th April 2016. They have gotten … Continue reading &rarr;"
 categories:
   - "Current"

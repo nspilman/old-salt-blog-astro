@@ -1,7 +1,7 @@
 ---
 title: "Assassins Creed IV : Black Flag – Slaughter, Mayhem & Shanty Singing Pirates ?"
 date: 2013-11-02T09:30:44
-slug: assassins-creed-iv-blag-flag-slaughter-mayhem-shanty-singing-pirates
+slug: "assassins-creed-iv-blag-flag-slaughter-mayhem-shanty-singing-pirates"
 excerpt: "My younger son, a senior in high school, mentioned to me a few mornings ago that the newest version of the historical action-adventure video game, Assassins Creed, which is Assassins Creed IV – Black Flag, has a feature that lets … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Covid-19 Vaccines, Horseshoe Crab Blood, and Big Pharma Vampires"
 date: 2021-01-07T16:56:26
-slug: covid-19-vaccines-horseshoe-crab-blood-and-big-pharma-vampires
+slug: "covid-19-vaccines-horseshoe-crab-blood-and-big-pharma-vampires"
 excerpt: "As the race is on to distribute Covid-19 vaccines around the globe, horseshoe crabs, or more specifically, horseshoe crab blood, is playing a major role in ensuring that the vaccines are safe to be injected into peoples’ arms. In fact, … Continue reading &rarr;"
 categories:
   - "Current"

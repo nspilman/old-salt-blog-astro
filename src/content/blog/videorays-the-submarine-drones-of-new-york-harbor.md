@@ -1,7 +1,7 @@
 ---
 title: "Videorays – the Submarine Drones of New York Harbor"
 date: 2011-12-10T09:14:41
-slug: videorays-the-submarine-drones-of-new-york-harbor
+slug: "videorays-the-submarine-drones-of-new-york-harbor"
 excerpt: "New York harbor was the sight of the first use of a submersible in combat.  On September 6, 1776, Eza Lee in command of the Turtle, a one man submersible designed by David Bushnell, attempted and failed to sink Admiral Richard Howe’s flagship HMS Eagle.   Today, modern … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Space Shuttle Enterprise Goes to Sea"
 date: 2012-06-04T07:48:45
-slug: space-shuttle-enterprise-goes-to-sea
+slug: "space-shuttle-enterprise-goes-to-sea"
 excerpt: "The  Space Shuttle Enterprise was built as a prototype. As such it never flew in space. That is not to say, however, that it hasn’t traveled. In April, we caught it on video taking a ride on a NASA 747 up … Continue reading &rarr;"
 categories:
   - "Current"

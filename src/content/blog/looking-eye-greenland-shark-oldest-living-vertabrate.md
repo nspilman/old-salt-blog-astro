@@ -1,7 +1,7 @@
 ---
 title: "Looking in the Eye of the Greenland Shark, Oldest Living Vertebrate"
 date: 2016-10-16T17:20:40
-slug: looking-eye-greenland-shark-oldest-living-vertabrate
+slug: "looking-eye-greenland-shark-oldest-living-vertabrate"
 excerpt: "In 2014, we posted about Joel Abrahamsson, from Gothenburg, Sweden, who set a record for kayak fishing by catching a 15′ long 1,247 pound Greenland shark while fishing from a kayak near the island of Andoria, in Norway.  We noted that the fish, which … Continue reading &rarr;"
 categories:
   - "Current"

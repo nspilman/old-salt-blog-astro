@@ -1,7 +1,7 @@
 ---
 title: "Brig Eye of the Wind Certified as Sail Training Vessel"
 date: 2013-03-03T14:23:19
-slug: brig-eye-of-the-wind-certified-as-sail-training-vessel
+slug: "brig-eye-of-the-wind-certified-as-sail-training-vessel"
 excerpt: "The brig 132′ Eye of the Wind has had a long and varied career.  Built in 1911, by C Lühring of Brake, Germany, as a topsail schooner named Friedrich, she was initially put into the hides trade with South America.  Later she would … Continue reading &rarr;"
 categories:
   - "Current"

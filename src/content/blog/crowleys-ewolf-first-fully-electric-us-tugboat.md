@@ -1,7 +1,7 @@
 ---
 title: "Crowley’s eWolf — First Fully Electric US Tugboat"
 date: 2021-07-16T10:09:15
-slug: crowleys-ewolf-first-fully-electric-us-tugboat
+slug: "crowleys-ewolf-first-fully-electric-us-tugboat"
 excerpt: "Crowley Maritime Corporation has announced that it will build and operate eWolf, the first all-electric powered harbor tugboat in the United States. The electric ship assist and escort tug will be 200 GRT, 82 feet long, with a main propulsion … Continue reading &rarr;"
 categories:
   - "Current"

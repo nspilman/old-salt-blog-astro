@@ -1,7 +1,7 @@
 ---
 title: "Visiting the Titanic in Person For the Cost of An Original First Class Ticket"
 date: 2018-12-15T13:33:42
-slug: visiting-the-titanic-in-person-for-the-cost-of-an-original-first-class-ticket
+slug: "visiting-the-titanic-in-person-for-the-cost-of-an-original-first-class-ticket"
 excerpt: "OceanGate, a privately owned manned submersible and survey company, recently tested its newest submersible, Titan, at depths of 13,000 feet underwater in the Abacos. Next year, the company plans to use the sub to perform 3D laser surveys of RMS Titanic. For $105,129 … Continue reading &rarr;"
 categories:
   - "Current"

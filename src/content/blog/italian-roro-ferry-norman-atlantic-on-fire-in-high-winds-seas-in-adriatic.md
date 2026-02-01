@@ -1,7 +1,7 @@
 ---
 title: "Italian Ro/Ro Ferry Norman Atlantic On Fire in High Winds & Seas in Adriatic"
 date: 2014-12-28T11:03:04
-slug: italian-roro-ferry-norman-atlantic-on-fire-in-high-winds-seas-in-adriatic
+slug: "italian-roro-ferry-norman-atlantic-on-fire-in-high-winds-seas-in-adriatic"
 excerpt: "A fire broke out early Sunday on the Italian ro/ro ferry, Norman Atlantic, on route between the Greek port of Patras to Ancona, Italy with 478 passengers and crew aboard. The fire is believed to have broken out on the ro/ro deck. The ship is … Continue reading &rarr;"
 categories:
   - "Current"

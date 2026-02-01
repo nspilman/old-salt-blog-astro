@@ -1,7 +1,7 @@
 ---
 title: "Bonhomme Richard Arson Trial — Will the Case Go Up in Smoke?"
 date: 2022-09-29T18:43:49
-slug: bonhomme-richard-arson-trial-will-the-case-go-up-in-smoke
+slug: "bonhomme-richard-arson-trial-will-the-case-go-up-in-smoke"
 excerpt: "The verdict in the court-martial of 21-year-old Seaman Ryan Mays, accused of deliberately setting the fire that torched the billion-plus dollar amphibious assault ship USS Bonhomme Richard, is in the hands of a military judge. If convicted of arson and … Continue reading &rarr;"
 categories:
   - "Current"

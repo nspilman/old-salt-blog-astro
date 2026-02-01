@@ -1,7 +1,7 @@
 ---
 title: "U.K. Approves Hornsea Two, World’s Largest Offshore Wind Farm"
 date: 2016-08-22T14:30:32
-slug: u-k-approves-hornsea-two-worlds-largest-offshore-wind-farm
+slug: "u-k-approves-hornsea-two-worlds-largest-offshore-wind-farm"
 excerpt: "Recently, we posted about the first offshore wind farm in the US — the Deepwater Wind Project which is installing five turbines with an installed capacity of 30 MW off Block Island, RI.  While this is definitely progress, it is … Continue reading &rarr;"
 categories:
   - "Current"

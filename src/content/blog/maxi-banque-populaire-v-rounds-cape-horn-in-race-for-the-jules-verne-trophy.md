@@ -1,7 +1,7 @@
 ---
 title: "Maxi Banque Populaire V Rounds Cape Horn in Race for the Jules Verne Trophy"
 date: 2011-12-23T18:20:21
-slug: maxi-banque-populaire-v-rounds-cape-horn-in-race-for-the-jules-verne-trophy
+slug: "maxi-banque-populaire-v-rounds-cape-horn-in-race-for-the-jules-verne-trophy"
 excerpt: "The maxi-trimaran Banque Populaire V has now rounded all three of the major capes; Cape of Good Hope, Cape Leeuwin and now Cape Horn; in its quest to set the record for the fastest non-stop sail around the world. This … Continue reading &rarr;"
 categories:
   - "Current"

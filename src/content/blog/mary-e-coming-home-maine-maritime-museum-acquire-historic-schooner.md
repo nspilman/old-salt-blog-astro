@@ -1,7 +1,7 @@
 ---
 title: "Mary E. Coming Home: Maine Maritime Museum to Acquire Historic Schooner"
 date: 2016-12-27T08:38:55
-slug: mary-e-coming-home-maine-maritime-museum-acquire-historic-schooner
+slug: "mary-e-coming-home-maine-maritime-museum-acquire-historic-schooner"
 excerpt: "The schooner Mary E is coming home to the Bath, Maine on the Kennebec River where she was built in 1906. She is believed to be believed to be the oldest Bath-built wooden vessel still afloat, as well as the oldest … Continue reading &rarr;"
 categories:
   - "Current"

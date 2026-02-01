@@ -1,7 +1,7 @@
 ---
 title: "Ocean Classroom’s Spirit of Massachusetts, Harvey Gamage, & Westward to be Auctioned"
 date: 2014-07-25T09:00:48
-slug: ocean-classrooms-spirit-of-massachusetts-harvey-gamage-westward-to-be-auctioned
+slug: "ocean-classrooms-spirit-of-massachusetts-harvey-gamage-westward-to-be-auctioned"
 excerpt: "The rumors had been dire for some time and now they appear to be confirmed.  Marlinspike Magazine is reporting that  the Ocean Classroom Foundation‘s three vessels, the schooners Spirit of Massachusetts, Harvey Gamage, & Westward will be auctioned.  As reported by Marlinspike: … Continue reading &rarr;"
 categories:
   - "Current"

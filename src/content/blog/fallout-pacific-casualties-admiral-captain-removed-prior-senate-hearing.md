@@ -1,7 +1,7 @@
 ---
 title: "More Fallout from Pacific Casualties — Admiral and Captain Removed Prior to Senate Hearing"
 date: 2017-09-18T13:03:11
-slug: fallout-pacific-casualties-admiral-captain-removed-prior-senate-hearing
+slug: "fallout-pacific-casualties-admiral-captain-removed-prior-senate-hearing"
 excerpt: "The fallout continues from the recent collisions with merchant ships in the Pacific involving the destroyers USS Fitgerald and the USS John McCain. The collisions resulted in the deaths of 17 US sailors. Earlier in the year, two guided missile … Continue reading &rarr;"
 categories:
   - "Current"

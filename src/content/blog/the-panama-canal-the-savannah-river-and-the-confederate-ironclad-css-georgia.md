@@ -1,7 +1,7 @@
 ---
 title: "The Panama Canal, the Savannah River and the Confederate Ironclad CSS Georgia"
 date: 2012-05-06T10:34:26
-slug: the-panama-canal-the-savannah-river-and-the-confederate-ironclad-css-georgia
+slug: "the-panama-canal-the-savannah-river-and-the-confederate-ironclad-css-georgia"
 excerpt: "In 1865, the CSS Georgia, a Confederate ironclad battery was burned and sunk in the Savannah River to avoid capture and to obstruct passage on the river.  (The ship was scuttled not far from where the British sank the frigate HMS … Continue reading &rarr;"
 categories:
   - "Current"

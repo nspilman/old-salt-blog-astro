@@ -1,8 +1,8 @@
 ---
 title: "Canadian Premiere of Trapped in Typhoon Alley, the Mystery of MV Derbyshire"
 date: 2019-04-12T13:53:31
-slug: canadian-premiere-of-trapped-in-typhoon-alley-the-mystery-of-mv-derbyshire
-excerpt: "Originally published in gCaptain.com. Reposted with permission.  Discovery Channel (Canada)’s new documentary series, “Disasters at Sea,” premieres on April 16th at 10 PM ET.  The first episode, “Trapped in Typhoon Alley,” looks at the mysterious sinking of the Capesize Ore/Bulk/Oiler … Continue reading &rarr;"
+slug: "canadian-premiere-of-trapped-in-typhoon-alley-the-mystery-of-mv-derbyshire"
+excerpt: "Originally published in gCaptain.com. Reposted with permission.  Discovery Channel (Canada)’s new documentary series, \"Disasters at Sea,\" premieres on April 16th at 10 PM ET.  The first episode, \"Trapped in Typhoon Alley,\" looks at the mysterious sinking of the Capesize Ore/Bulk/Oiler … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Typhoon Orchid"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/03/derbybanner.jpg"
 author: "Rick Spilman"
-description: "Originally published in gCaptain.com. Reposted with permission.  Discovery Channel (Canada)’s new documentary series, “Disasters at Sea,” premieres on April 16th at 10 PM ET.  The first episode, “Trapped in Typhoon Alley,” looks at the mysterious sinking of the Capesize Ore/Bulk/Oiler … Continue reading &rarr;"
+description: "Originally published in gCaptain.com. Reposted with permission.  Discovery Channel (Canada)’s new documentary series, \"Disasters at Sea,\" premieres on April 16th at 10 PM ET.  The first episode, \"Trapped in Typhoon Alley,\" looks at the mysterious sinking of the Capesize Ore/Bulk/Oiler … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/03/derbybanner.jpg)  

@@ -1,8 +1,8 @@
 ---
-title: "Joan Druett’s “A Love of Adventure” – a Review"
+title: "Joan Druett’s \"A Love of Adventure\" – a Review"
 date: 2012-08-03T18:50:03
-slug: joan-druetts-a-love-of-adventure-a-review
-excerpt: "Many of the classics of nautical literature are stories of young men who set off to sea, often compelled, in equal parts, by necessity and a longing for adventure. Joan Druett’s “A Love of Adventure” is just such a tale, … Continue reading &rarr;"
+slug: "joan-druetts-a-love-of-adventure-a-review"
+excerpt: "Many of the classics of nautical literature are stories of young men who set off to sea, often compelled, in equal parts, by necessity and a longing for adventure. Joan Druett’s \"A Love of Adventure\" is just such a tale, … Continue reading &rarr;"
 categories:
   - "Reviews"
   - "Seastories"
@@ -10,7 +10,7 @@ tags:
   - "A Love of Adventure"
   - "Joan Druett"
 author: "Rick Spilman"
-description: "Many of the classics of nautical literature are stories of young men who set off to sea, often compelled, in equal parts, by necessity and a longing for adventure. Joan Druett’s “A Love of Adventure” is just such a tale, … Continue reading &rarr;"
+description: "Many of the classics of nautical literature are stories of young men who set off to sea, often compelled, in equal parts, by necessity and a longing for adventure. Joan Druett’s \"A Love of Adventure\" is just such a tale, … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/loveofadventure.jpg)](http://www.amazon.com/A-Love-of-Adventure-ebook/dp/B008988BIS/ref=sr_1_7?s=books&ie=UTF8&qid=1344033605&sr=1-7&keywords=druett)Many of the classics of nautical literature are stories of young men who set off to sea, often compelled, in equal parts, by necessity and a longing for adventure. Joan Druett’s “*[A Love of Adventure](http://www.amazon.com/A-Love-of-Adventure-ebook/dp/B008988BIS/ref=sr_1_7?s=books&ie=UTF8&qid=1344033605&sr=1-7&keywords=druett)*” is just such a tale, with an important twist or two. Her young hero, Abigail Pandora Sherman, is a heroine and has no need to run off to sea, as she was born and largely raised aboard her father’s merchant brig, with which she shares her middle name. “*A Love of Adventure*” is a wonderfully written and highly entertaining novel, carrying the reader from New Zealand to New Bedford and back again, by way of Panama and the wilder coasts of South America. It is a rousing adventure and coming of age story that also includes elements of mystery and intrigue.

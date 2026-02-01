@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup: Team New Zealand AC75 Te Rehutai Capsizes at 35 knots"
 date: 2021-01-11T17:14:32
-slug: team-new-zealand-ac75-te-rehutai-capsizes-at-35-knots
+slug: "team-new-zealand-ac75-te-rehutai-capsizes-at-35-knots"
 excerpt: "A video clip for a Monday.  During a practice match against British challenger INEOS Team UK, Peter Burling, Team New Zealand skipper, lost control of the AC75 Te Rehutai during a gybe. While sailing at about 35 knots, the boat … Continue reading &rarr;"
 categories:
   - "Current"

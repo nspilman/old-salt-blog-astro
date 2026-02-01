@@ -1,7 +1,7 @@
 ---
-title: "“Hero” Humpback Whales to the Rescue"
+title: "\"Hero\" Humpback Whales to the Rescue"
 date: 2018-01-13T10:23:22
-slug: hero-humpback-whales-to-the-rescue
+slug: "hero-humpback-whales-to-the-rescue"
 excerpt: "Recently, biologist Nan Hauser was snorkeling in the Cook Islands in the South Pacific, when she was approached by a humpback whale. The whale nudged her forward with its closed mouth, tucked her under its pectoral fin, and even maneuvered … Continue reading &rarr;"
 categories:
   - "Current"

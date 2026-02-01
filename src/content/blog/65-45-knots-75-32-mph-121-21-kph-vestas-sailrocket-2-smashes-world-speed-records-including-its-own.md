@@ -1,7 +1,7 @@
 ---
 title: "65.45 Knots! 75.32 MPH ! 121.21 KPH – Vestas Sailrocket 2 Smashes World Speed Records – Including its Own"
 date: 2012-11-25T11:48:32
-slug: 65-45-knots-75-32-mph-121-21-kph-vestas-sailrocket-2-smashes-world-speed-records-including-its-own
+slug: "65-45-knots-75-32-mph-121-21-kph-vestas-sailrocket-2-smashes-world-speed-records-including-its-own"
 excerpt: "Just six days after Paul Larsen in the Vestas Sailrocket 2 broke the world speed record in Walvis Bay, Namibia, subject to confirmation by WSSRC, he has now sailed a 500 meter course at an average speed of 65.42 knots!  This is close … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

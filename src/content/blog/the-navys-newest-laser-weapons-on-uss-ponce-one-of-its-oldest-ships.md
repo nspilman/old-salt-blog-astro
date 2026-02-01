@@ -1,7 +1,7 @@
 ---
 title: "The Navy’s Newest Laser Weapons on USS Ponce, One of its Oldest Ships"
 date: 2014-02-21T08:17:59
-slug: the-navys-newest-laser-weapons-on-uss-ponce-one-of-its-oldest-ships
+slug: "the-navys-newest-laser-weapons-on-uss-ponce-one-of-its-oldest-ships"
 excerpt: "The Navy plans to deploy its first laser weapons on the USS Ponce, one of its oldest ships. The laser weapons designed to be capable of disabling small enemy vessels and shooting down surveillance drones will be installed on the 43 … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Timelapse of Super Blood Wolf Moon Eclipse"
 date: 2019-01-21T11:10:41
-slug: timelapse-of-super-blood-wolf-moon-eclipse
+slug: "timelapse-of-super-blood-wolf-moon-eclipse"
 excerpt: "Before turning in last night I peeked out at the moon in the frigid evening. I chose not to wait the next several hours to see the whole show. For those like me or in areas where the cloud cover … Continue reading &rarr;"
 categories:
   - "Current"

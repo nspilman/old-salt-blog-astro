@@ -1,7 +1,7 @@
 ---
 title: "Manatee Monday, Part 1 — A Hopeful but Still Uncertain Recovery"
 date: 2017-01-09T14:47:28
-slug: manatee-monday-part-1-hopeful-still-uncertain-recovery
+slug: "manatee-monday-part-1-hopeful-still-uncertain-recovery"
 excerpt: "It wasn’t so long ago when the conversation regarding Florida manatees was not whether or not they would become extinct but rather how quickly their extinction would happen. Fortunately, efforts to save the manatee have paid off. In 1991, the … Continue reading &rarr;"
 categories:
   - "Current"

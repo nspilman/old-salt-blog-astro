@@ -1,7 +1,7 @@
 ---
 title: "Sea Orbiter – A New Generation of Ocean Explorer"
 date: 2012-06-23T07:28:27
-slug: sea-orbiter-a-new-generation-of-ocean-explorer
+slug: "sea-orbiter-a-new-generation-of-ocean-explorer"
 excerpt: "The Sea Orbiter concept design looks like something straight out of science fiction.  Floating half above and half below the surface of the water, it appears to be more like a scimitar-shaped inter-galactic spaceship than any sort of  oceanographic research vessel. Fifty eight meters … Continue reading &rarr;"
 categories:
   - "Current"

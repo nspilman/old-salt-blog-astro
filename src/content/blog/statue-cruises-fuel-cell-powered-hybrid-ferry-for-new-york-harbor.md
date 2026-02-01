@@ -1,7 +1,7 @@
 ---
 title: "Statue Cruises fuel cell powered hybrid ferry for New York harbor"
 date: 2010-12-16T08:02:39
-slug: statue-cruises-fuel-cell-powered-hybrid-ferry-for-new-york-harbor
+slug: "statue-cruises-fuel-cell-powered-hybrid-ferry-for-new-york-harbor"
 excerpt: "Earlier this week we posted about Cakewalk, a luxury yacht built at Derecktor Shipyards in Bridgeport, Conn.   Here is quite different vessel now under construction at Derecktor.    Statue Cruises, a subsidiary of Hornblower Cruises, has hired Derecktor to construct the world’s … Continue reading &rarr;"
 categories:
   - "Current"

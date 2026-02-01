@@ -1,7 +1,7 @@
 ---
 title: "Song For A Sunday — Bob Wright’s Downing’s Oyster Bar"
 date: 2020-02-23T16:19:18
-slug: song-for-a-sunday-bob-wrights-downings-oyster-bar
+slug: "song-for-a-sunday-bob-wrights-downings-oyster-bar"
 excerpt: "A follow up to yesterday’s post about Thomas Downing, the free black owner of an upscale oyster house in New York’s financial district prior to the Civil War. While serving New York City’s white financial and political elite upstairs, Downing … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

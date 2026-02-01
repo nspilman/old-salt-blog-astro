@@ -1,7 +1,7 @@
 ---
 title: "Suez Canal Operating Normally, Port Closures Causing Concerns"
 date: 2011-02-01T15:34:40
-slug: suez-canal-still-open-port-closures-causing-concerns
+slug: "suez-canal-still-open-port-closures-causing-concerns"
 excerpt: "There are an estimated two million protesters in the streets on Cairo today; most rail, trucking and buses are shut down across Egypt, yet  the Suez Canal, which can represent up 8 percent of global seaborne trade, remains open and in operation.  Military escorts for protection … Continue reading &rarr;"
 categories:
   - "Current"

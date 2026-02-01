@@ -1,7 +1,7 @@
 ---
 title: "Maryland in $1.5 Million Partnership with Pride of Baltimore II"
 date: 2016-01-19T11:55:57
-slug: maryland-1-5-million-partnership-pride-baltimore-ii
+slug: "maryland-1-5-million-partnership-pride-baltimore-ii"
 excerpt: "Tremendous news for a great ship. On Monday, Maryland’s Governor Hogan announced a $1.5 million private-public partnership with the replica Baltimore clipper, Pride of Baltimore II.  Under a new agreement, the state will commit the funds to Pride of Baltimore … Continue reading &rarr;"
 categories:
   - "Current"

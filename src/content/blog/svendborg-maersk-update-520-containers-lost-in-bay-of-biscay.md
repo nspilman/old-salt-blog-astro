@@ -1,7 +1,7 @@
 ---
 title: "Svendborg Maersk Update: 520 Containers Lost in Bay of Biscay"
 date: 2014-02-19T14:41:17
-slug: svendborg-maersk-update-520-containers-lost-in-bay-of-biscay
+slug: "svendborg-maersk-update-520-containers-lost-in-bay-of-biscay"
 excerpt: "The initial reports that the Svendborg Maersk lost 200-300 containers in a storm on Friday in the Bay of Biscay have turned out to be optimistic. The number is now estimated to be around 520. 85% of the boxes lost … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "All Available Boats — Remembering the Amazing Manhattan Boatlift of 9/11"
 date: 2020-09-11T08:36:29
-slug: all-available-boats-remembering-the-amazing-manhattan-boatlift-of-9-11
+slug: "all-available-boats-remembering-the-amazing-manhattan-boatlift-of-9-11"
 excerpt: "The events of 9/11 are still more clear in my memory than I would like. The dry, clear morning. The call from my wife from the mezzanine of the World Trade Center after the first plane hit the North Tower. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Seaman’s Church Institute Leaving New York City"
 date: 2010-10-07T08:49:51
-slug: seamans-church-institute-leaving-new-york-city
+slug: "seamans-church-institute-leaving-new-york-city"
 excerpt: "After 176 years the Seaman’s Church Institute is leaving New York.    The organization announced that they will be putting its building at 241 Water Street, near South Street Seaport, up for sale next week.  The ministry will shift all … Continue reading &rarr;"
 categories:
   - "Current"

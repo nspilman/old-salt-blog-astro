@@ -1,7 +1,7 @@
 ---
 title: "Jon Lindbergh, Son of Famous Pilot Who Turned to the Sea, Dies at 88"
 date: 2021-08-07T11:41:56
-slug: jon-lindbergh-son-of-famous-pilot-who-turned-to-the-sea-dies-at-88
+slug: "jon-lindbergh-son-of-famous-pilot-who-turned-to-the-sea-dies-at-88"
 excerpt: "Jon Morrow Lindbergh died recently at the age of 88. He was an American underwater diver who worked as a United States Navy demolition expert and as a commercial diver. He was also a pioneer in cave diving and was … Continue reading &rarr;"
 categories:
   - "Current"

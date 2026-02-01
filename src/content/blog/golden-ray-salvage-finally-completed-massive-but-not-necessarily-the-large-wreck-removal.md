@@ -1,7 +1,7 @@
 ---
 title: "Golden Ray Salvage Finally Completed, Massive, But Not Necessarily The Largest Wreck Removal"
 date: 2021-10-28T09:11:45
-slug: golden-ray-salvage-finally-completed-massive-but-not-necessarily-the-large-wreck-removal
+slug: "golden-ray-salvage-finally-completed-massive-but-not-necessarily-the-large-wreck-removal"
 excerpt: "The last section of the car carrier Golden Ray has been removed from St. Simons Sound near Brunswick, Georgia, and is on its way to a scrapyard. The 656-foot car carrier was carrying 4,100 vehicles when it capsized in September … Continue reading &rarr;"
 categories:
   - "Current"

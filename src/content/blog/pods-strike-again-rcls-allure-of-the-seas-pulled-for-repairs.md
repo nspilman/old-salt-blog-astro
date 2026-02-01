@@ -1,7 +1,7 @@
 ---
 title: "Pods Strike Again – RCCL’s Allure of the Seas Pulled for Repairs"
 date: 2013-11-20T16:20:18
-slug: pods-strike-again-rcls-allure-of-the-seas-pulled-for-repairs
+slug: "pods-strike-again-rcls-allure-of-the-seas-pulled-for-repairs"
 excerpt: "Royal Caribbean’s Allure of the Seas — the largest cruise ship in the world, is being taken out of service in February due a failure in one of its Azipod propulsion pods.  Here we go again. Royal Caribbean announces Allure … Continue reading &rarr;"
 categories:
   - "Current"

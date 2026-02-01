@@ -1,7 +1,7 @@
 ---
 title: "Energy from Waves in Oregon and Maine"
 date: 2010-09-06T08:16:33
-slug: energy-from-waves-in-oregon-and-maine
+slug: "energy-from-waves-in-oregon-and-maine"
 excerpt: "Two projects are underway in Maine and Oregon to produce energy from ocean waves.   Ocean Renewable Power Company, in Maine, is using horizontal turbines to capture the energy of ebbing and flooding tides.  Initial tests have met or exceeded their targets … Continue reading &rarr;"
 categories:
   - "Current"

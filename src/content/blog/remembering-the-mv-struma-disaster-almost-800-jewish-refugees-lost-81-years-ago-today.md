@@ -1,7 +1,7 @@
 ---
 title: "Remembering the MV Struma Disaster, Almost 800 Jewish Refugees Lost, 81 Years Ago Today"
 date: 2023-02-24T17:24:20
-slug: remembering-the-mv-struma-disaster-almost-800-jewish-refugees-lost-81-years-ago-today
+slug: "remembering-the-mv-struma-disaster-almost-800-jewish-refugees-lost-81-years-ago-today"
 excerpt: "Eighty-one years ago today on February 24, 1941, the overloaded and unseaworthy MV Struma was sunk with the loss of almost 800 Jewish refugees. Of the estimated 790 people who died, more than 100 were children. There was only one … Continue reading &rarr;"
 categories:
   - "History"

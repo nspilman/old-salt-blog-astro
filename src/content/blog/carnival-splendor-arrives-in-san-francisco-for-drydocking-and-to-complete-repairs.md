@@ -1,7 +1,7 @@
 ---
 title: "Carnival Splendor Arrives in San Francisco for Drydocking and to Complete Repairs"
 date: 2011-01-23T10:14:19
-slug: carnival-splendor-arrives-in-san-francisco-for-drydocking-and-to-complete-repairs
+slug: "carnival-splendor-arrives-in-san-francisco-for-drydocking-and-to-complete-repairs"
 excerpt: "After attempting to sail on Wednesday and Thursday, the cruise ship Carnival Splendor finally departed San Diego under its own power on Friday, accompanied by two tugs.  As of Sunday morning, around 05:00 local time, the ship was approaching San Francisco under its … Continue reading &rarr;"
 categories:
   - "Current"

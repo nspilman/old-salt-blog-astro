@@ -1,7 +1,7 @@
 ---
 title: "Christmas by the Sea at Mystic Seaport"
 date: 2010-11-19T08:16:34
-slug: christmas-by-the-sea-at-mystic-seaport
+slug: "christmas-by-the-sea-at-mystic-seaport"
 excerpt: "I almost prefer visiting Mystic Seaport in the wintertime.  The summertime crowds are gone, wood or coal stoves heat the chandlery and the rope walk and the ships are as lovely as ever against a winter sky.   Mystic Seaport is especially lovely around Christmas. … Continue reading &rarr;"
 categories:
   - "Current"

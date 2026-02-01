@@ -1,7 +1,7 @@
 ---
 title: "USS Guardian Decommissioned in Japan While Salvage Delayed on Reef by Weather"
 date: 2013-03-06T17:53:24
-slug: uss-guardian-decommissioned-in-japan-while-salvage-delayed-on-reef-by-weather
+slug: "uss-guardian-decommissioned-in-japan-while-salvage-delayed-on-reef-by-weather"
 excerpt: "Today in Japan, the US Navy officially decommissioned the minesweeper USS Guardian.  On the Tubbataha Reef, where the ship ran aground on January 17, salvage operations have again been delayed by bad weather.  The salvage plan is to cut the ship into pieces and to haul … Continue reading &rarr;"
 categories:
   - "Current"

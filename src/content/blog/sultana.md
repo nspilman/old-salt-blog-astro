@@ -1,7 +1,7 @@
 ---
 title: "Summer Programs on the Schooner Sultana"
 date: 2016-03-21T12:28:34
-slug: sultana
+slug: "sultana"
 excerpt: "It is a huge challenge to build, operate, maintain and fund a historic sailing vessel, not to mention providing great educational programming to deck loads of school kids. The Sultana Educational Foundation of Chestertown, MD does a great job on the … Continue reading &rarr;"
 categories:
   - "Current"

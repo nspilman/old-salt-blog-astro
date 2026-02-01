@@ -1,7 +1,7 @@
 ---
 title: "Update: MV Rena Salvage Ongoing, A Second Container Ship Runs Aground, HMAS Broome Averts Disaster"
 date: 2011-10-29T08:03:39
-slug: update-mv-rena-salvage-ongoing-a-second-container-ship-runs-aground-hmas-broome-averts-disaster
+slug: "update-mv-rena-salvage-ongoing-a-second-container-ship-runs-aground-hmas-broome-averts-disaster"
 excerpt: "Attempts to pump out the residual fuel of from the MV Rena, stranded on Astrolabe Reef off New Zealand continue with mixed results.  New focus for Rena salvagers Today, a second container ship, the Schelder Trader, lost power and drifted onto … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Russian Nuclear Sub, Svyatoy Georgiy Pobedonosets, Damaged in Collision with Fishing Vessel"
 date: 2011-09-23T21:24:33
-slug: russian-nuclear-sub-svyatoy-georgiy-pobedonosets-damaged-in-collision-with-fishing-vessel
+slug: "russian-nuclear-sub-svyatoy-georgiy-pobedonosets-damaged-in-collision-with-fishing-vessel"
 excerpt: "What is interesting about this story is how it has been reported.  Here is what we know: The fishing boat, Donets, ran into the Russian nuclear submarine, Svyatoy Georgiy Pobedonosets (St. George the Victor,)  in the Avachino Bay on the … Continue reading &rarr;"
 categories:
   - "Current"

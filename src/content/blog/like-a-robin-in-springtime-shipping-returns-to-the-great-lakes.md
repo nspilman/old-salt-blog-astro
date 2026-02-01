@@ -1,7 +1,7 @@
 ---
 title: "Like a Robin in Springtime, Shipping Returns to the Great Lakes"
 date: 2011-03-25T12:53:27
-slug: like-a-robin-in-springtime-shipping-returns-to-the-great-lakes
+slug: "like-a-robin-in-springtime-shipping-returns-to-the-great-lakes"
 excerpt: "The wonderful thing about the US Great Lakes is that being fresh water, the ships on the lakes don’t rust like they do in the saltier oceans. Of course being fresh water, the lakes do freeze close enough to solid … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Jiaolong – the World’s Deepest Diving Submersible being Tested by the Chinese"
 date: 2010-09-12T09:28:47
-slug: jiaolong-the-worlds-deepest-diving-submersible-being-tested-by-the-chinese
+slug: "jiaolong-the-worlds-deepest-diving-submersible-being-tested-by-the-chinese"
 excerpt: "Jiaolong, 蛟龙, in Chinese folklore, is a shape-shifting water dragon.  For several months this summer the Chinese government has been quietly testing a new submersible, named Jiaolong, designed to dive to 7,000 meters.  If successful, it will be the deepest diving submersible in the world, diving … Continue reading &rarr;"
 categories:
   - "Current"

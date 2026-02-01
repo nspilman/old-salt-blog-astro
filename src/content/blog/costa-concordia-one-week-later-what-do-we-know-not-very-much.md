@@ -1,7 +1,7 @@
 ---
 title: "Costa Concordia – One Week Later, What Do We Know? Not Very Much!"
 date: 2012-01-20T20:36:58
-slug: costa-concordia-one-week-later-what-do-we-know-not-very-much
+slug: "costa-concordia-one-week-later-what-do-we-know-not-very-much"
 excerpt: "One week ago, the Costa Concordia grounded off the island of Giglio.    Eleven passengers or crew are confirmed dead. Twenty four people are missing.  The ship itself has sunk in shallow water having rolled 80 degrees on its side.  What else do we … Continue reading &rarr;"
 categories:
   - "Current"

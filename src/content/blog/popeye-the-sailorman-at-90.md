@@ -1,7 +1,7 @@
 ---
 title: "Popeye the Sailorman at 90"
 date: 2019-02-03T20:57:57
-slug: popeye-the-sailorman-at-90
+slug: "popeye-the-sailorman-at-90"
 excerpt: "We are a few days late in wishing the iconic cartoon character, Popeye the sailorman, a happy birthday. (Frankly, I am not sure how one sends birthday wishes to a cartoon character, in any case.) Popeye first appeared on January … Continue reading &rarr;"
 categories:
   - "History"
@@ -9,7 +9,7 @@ categories:
   - "Seastories"
 tags:
   - "E.C. Segar"
-  - "Frank "Rocky" Fiegel"
+  - "Frank \"Rocky\" Fiegel"
   - "Popeye the Sailorman"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/frankpopeye.jpg"
 author: "Rick Spilman"

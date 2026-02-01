@@ -1,12 +1,12 @@
 ---
 title: "NY Ship Pilot Dies, Second Fatal Fall From Boarding Ladder in Less than a Year"
 date: 2020-08-07T18:15:50
-slug: ny-ship-pilot-dies-second-fatal-fall-from-boarding-ladder-in-less-than-a-year
+slug: "ny-ship-pilot-dies-second-fatal-fall-from-boarding-ladder-in-less-than-a-year"
 excerpt: "Sandy Hook ship pilot, Captain Timothy M. Murray died following a fall while boarding a tanker arriving at the Port of New York and New Jersey on Wednesday. His death is the second pilot fatality in less than a year. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
-  - "“trapdoor” pilot ladder"
+  - "\"trapdoor\" pilot ladder"
   - "Captain Timothy M. Murray"
   - "Port of New York and New Jersey"
   - "Sandy Hook ship pilot"

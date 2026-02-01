@@ -1,8 +1,8 @@
 ---
 title: "Anthem of the Seas and the Storm — A Real World Stability Test"
 date: 2016-02-13T11:55:03
-slug: anthem-of-the-seas-and-the-storm-a-real-world-stability-test
-excerpt: "In recent years, there have been many claims made that modern cruise ships are inherently unstable and unseaworthy.  Naval architects, shipyards, and regulators, have replied, “No, they are not,” but the argument continues. Recently, the Anthem of the Seas put … Continue reading &rarr;"
+slug: "anthem-of-the-seas-and-the-storm-a-real-world-stability-test"
+excerpt: "In recent years, there have been many claims made that modern cruise ships are inherently unstable and unseaworthy.  Naval architects, shipyards, and regulators, have replied, \"No, they are not,\" but the argument continues. Recently, the Anthem of the Seas put … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "Royal Caribbean"
   - "stability"
 author: "Rick Spilman"
-description: "In recent years, there have been many claims made that modern cruise ships are inherently unstable and unseaworthy.  Naval architects, shipyards, and regulators, have replied, “No, they are not,” but the argument continues. Recently, the Anthem of the Seas put … Continue reading &rarr;"
+description: "In recent years, there have been many claims made that modern cruise ships are inherently unstable and unseaworthy.  Naval architects, shipyards, and regulators, have replied, \"No, they are not,\" but the argument continues. Recently, the Anthem of the Seas put … Continue reading &rarr;"
 ---
 
 ![anthem4](http://www.oldsaltblog.com/wp-content/uploads/2016/02/anthem4.jpg)In recent years, there have been many claims made that modern cruise ships are inherently unstable and unseaworthy.  Naval architects, shipyards, and regulators, have replied, “No, they are not,” but the argument continues. Recently, the *Anthem of the Seas* put the argument to the test. As ungainly, bulky and high-sided as she indeed is, she did rather well under terrible conditions. Here is an article I wrote for [gCaptain](https://gcaptain.com/anthem-of-the-seas-and-the-storm-more-seaworthy-than-she-looks/), yesterday, which I am reposting with permission.

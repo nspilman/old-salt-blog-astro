@@ -1,7 +1,7 @@
 ---
 title: "Diver Buys World War I Shipwreck of the SS Almond Branch on Facebook for £300"
 date: 2025-04-25T12:57:03
-slug: diver-buys-world-war-i-shipwreck-of-the-ss-almond-branch-on-facebook-for-300
+slug: "diver-buys-world-war-i-shipwreck-of-the-ss-almond-branch-on-facebook-for-300"
 excerpt: "It is amazing what one can buy online these days.  Recently, Dom Robinson, 53, a diver and shipwreck aficionado from Portsmouth, Hampshire, saw an ad on Facebook Marketplace for a World War I shipwreck for sale for just £300. He … Continue reading &rarr;"
 categories:
   - "Current"

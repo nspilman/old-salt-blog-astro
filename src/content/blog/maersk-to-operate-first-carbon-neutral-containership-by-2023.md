@@ -1,7 +1,7 @@
 ---
 title: "Maersk To Operate First Carbon-Neutral Containership By 2023"
 date: 2021-02-17T16:19:27
-slug: maersk-to-operate-first-carbon-neutral-containership-by-2023
+slug: "maersk-to-operate-first-carbon-neutral-containership-by-2023"
 excerpt: "Today, A.P. Moller-Maersk, the largest container ship operator in the world, announced that it would launch the world’s first carbon-neutral cargo liner vessel in 2023 – seven years ahead of its initial 2030 target. They also noted that all future … Continue reading &rarr;"
 categories:
   - "Current"

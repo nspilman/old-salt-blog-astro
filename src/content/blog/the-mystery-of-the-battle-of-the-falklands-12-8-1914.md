@@ -1,7 +1,7 @@
 ---
 title: "The Mystery of The Battle of the Falklands, 12/8/1914"
 date: 2019-12-08T18:56:57
-slug: the-mystery-of-the-battle-of-the-falklands-12-8-1914
+slug: "the-mystery-of-the-battle-of-the-falklands-12-8-1914"
 excerpt: "Last week, marine archeologists announced finding the wreckage of the German battlecruiser SMS Scharnhorst, off the Falkland Islands. The Scharnhorst, along with most of the German East Asia Squadron, was sunk by the Royal Navy 105 years ago on this day, … Continue reading &rarr;"
 categories:
   - "History"

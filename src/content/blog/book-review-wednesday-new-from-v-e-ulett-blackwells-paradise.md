@@ -1,7 +1,7 @@
 ---
 title: "Book Review Wednesday — New From V.E. Ulett, Blackwell’s Paradise"
 date: 2014-01-22T17:05:22
-slug: book-review-wednesday-new-from-v-e-ulett-blackwells-paradise
+slug: "book-review-wednesday-new-from-v-e-ulett-blackwells-paradise"
 excerpt: "When I started this blog, I had intended it to be, at least in part, a book blog of works about ships and the sea.  Of late, however, I have been completely negligent in posting reviews.  I will attempt to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

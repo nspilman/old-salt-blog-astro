@@ -1,8 +1,8 @@
 ---
 title: "Update: Fighting Fishing Piracy with Satellites and in Ports"
 date: 2016-11-30T16:52:37
-slug: update-fighting-fishing-piracy-satellites-ports
-excerpt: "Overfishing is a huge problem in the world’s oceans. Exacerbating the problem is fishing piracy. A year ago, we posted “Can Big Data Stop Overfishing? Will Google’s Global Fishing Watch Succeed?”  The post described how Oceana, SkyTruth and Google were launching … Continue reading &rarr;"
+slug: "update-fighting-fishing-piracy-satellites-ports"
+excerpt: "Overfishing is a huge problem in the world’s oceans. Exacerbating the problem is fishing piracy. A year ago, we posted \"Can Big Data Stop Overfishing? Will Google’s Global Fishing Watch Succeed?\"  The post described how Oceana, SkyTruth and Google were launching … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Global Fishing Watch"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/trawlerpirates.jpg"
 author: "Rick Spilman"
-description: "Overfishing is a huge problem in the world’s oceans. Exacerbating the problem is fishing piracy. A year ago, we posted “Can Big Data Stop Overfishing? Will Google’s Global Fishing Watch Succeed?”  The post described how Oceana, SkyTruth and Google were launching … Continue reading &rarr;"
+description: "Overfishing is a huge problem in the world’s oceans. Exacerbating the problem is fishing piracy. A year ago, we posted \"Can Big Data Stop Overfishing? Will Google’s Global Fishing Watch Succeed?\"  The post described how Oceana, SkyTruth and Google were launching … Continue reading &rarr;"
 ---
 
 ![trawlerpirates](http://www.oldsaltblog.com/wp-content/uploads/2016/11/trawlerpirates.jpg)Overfishing is a huge problem in the world’s oceans. Exacerbating the problem is fishing piracy. A year ago, we posted “[Can Big Data Stop Overfishing? Will Google’s Global Fishing Watch Succeed?](http://www.oldsaltblog.com/2015/11/can-big-data-stop-overfishing-will-googles-global-fishing-watch-succeed/)”  The post described how Oceana, SkyTruth and Google were launching [Global Fishing Watch](http://skytruth.org/mapping-global-fishing/), a big-data technology platform that uses satellite data to create a tool for monitoring commercial fishing from a global perspective. The most recent version of [this platform was launched in September](http://oceana.org/press-center/press-releases/oceana-skytruth-and-google-launch-global-fishing-watch-first-free-online). A similar project is a UK-funded initiative, [Eyes on the Seas](http://www.pewtrusts.org/en/multimedia/video/2015/project-eyes-on-the-seas), developed by [Satellite Applications Catapult (SAC) and the Pew Charitable Trusts](https://www.theguardian.com/environment/2016/jan/04/how-satellite-technology-is-helping-to-fight-illegal-fishing).  The idea is to give port officials the information that they need to identify pirate fishing vessels. 

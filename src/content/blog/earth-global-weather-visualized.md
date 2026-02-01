@@ -1,7 +1,7 @@
 ---
 title: "Earth — Global Weather Visualized"
 date: 2013-12-17T11:37:06
-slug: earth-global-weather-visualized
+slug: "earth-global-weather-visualized"
 excerpt: "Got a minute? Here is an animation of the world’s weather across the globe, showing the winds blowing across our ocean planet, as forecast by supercomputers and updated every three hours.  You can also rotate the globe in any direction … Continue reading &rarr;"
 categories:
   - "Current"

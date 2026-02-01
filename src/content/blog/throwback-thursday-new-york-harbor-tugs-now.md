@@ -1,7 +1,7 @@
 ---
 title: "Throwback Thursday: New York Harbor Tugs  — Then & Now"
 date: 2016-03-31T10:28:09
-slug: throwback-thursday-new-york-harbor-tugs-now
+slug: "throwback-thursday-new-york-harbor-tugs-now"
 excerpt: "When I arrived in New York back in the mid-70s, a vast fleet of tugs swarmed across the harbor like so many water beetles.  Most kept busy assisting ships in docking. Now there are fewer but larger ships, many with … Continue reading &rarr;"
 categories:
   - "Current"

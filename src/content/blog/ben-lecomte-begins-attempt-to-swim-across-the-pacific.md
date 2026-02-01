@@ -1,7 +1,7 @@
 ---
 title: "Ben Lecomte Begins Attempt to Swim Across the Pacific"
 date: 2018-06-07T08:19:53
-slug: ben-lecomte-begins-attempt-to-swim-across-the-pacific
+slug: "ben-lecomte-begins-attempt-to-swim-across-the-pacific"
 excerpt: "French-born swimmer Ben Lecomte has set off on a 5,500-mile record attempt to swim across the Pacific Ocean from Japan to California. The 51-year-old professional distance swimmer will swim for eight hours a day for more than six months as … Continue reading &rarr;"
 categories:
   - "Current"

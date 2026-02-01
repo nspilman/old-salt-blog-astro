@@ -1,7 +1,7 @@
 ---
 title: "The Future of Naval Drones — Sleek Ukrainian Magura V5 or Massive US Manta Ray?"
 date: 2024-06-28T20:40:37
-slug: the-future-of-naval-drones-sleek-ukrainian-magura-v5-or-massive-us-manta-ray
+slug: "the-future-of-naval-drones-sleek-ukrainian-magura-v5-or-massive-us-manta-ray"
 excerpt: "The Ukrainian Magura V5 naval drones have proven to be fast, deadly, and cheap.  As we posted last August, Ukrainian naval drones are redefining warfare in the Black Sea; quite an accomplishment for a beleaguered nation that almost wholly lacks … Continue reading &rarr;"
 categories:
   - "Current"

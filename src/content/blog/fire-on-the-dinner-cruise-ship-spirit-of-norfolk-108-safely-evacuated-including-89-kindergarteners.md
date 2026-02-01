@@ -1,7 +1,7 @@
 ---
 title: "Fire on the Dinner/Cruise Ship Spirit of Norfolk, 108 Safely Evacuated Including 89 Kindergarteners"
 date: 2022-06-08T16:18:35
-slug: fire-on-the-dinner-cruise-ship-spirit-of-norfolk-108-safely-evacuated-including-89-kindergarteners
+slug: "fire-on-the-dinner-cruise-ship-spirit-of-norfolk-108-safely-evacuated-including-89-kindergarteners"
 excerpt: "A fire broke out on the dinner cruise ship Spirit of Norfolk on the Elizabeth River in Virginia on Tuesday, forcing the evacuation of 108, including 89 elementary school students celebrating their kindergarten graduation. Fortunately, all passengers were accounted for … Continue reading &rarr;"
 categories:
   - "Current"

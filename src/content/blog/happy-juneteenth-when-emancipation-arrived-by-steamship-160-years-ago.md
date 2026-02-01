@@ -1,7 +1,7 @@
 ---
 title: "Happy Juneteenth — When Emancipation Arrived by Steamship 160 Years Ago"
 date: 2025-06-19T11:49:08
-slug: happy-juneteenth-when-emancipation-arrived-by-steamship-160-years-ago
+slug: "happy-juneteenth-when-emancipation-arrived-by-steamship-160-years-ago"
 excerpt: "Happy Juneteenth! Juneteenth is the oldest nationally celebrated commemoration of the ending of slavery in the United States. Juneteenth is also the newest Federal holiday, signed into law in 2020. The holiday commemorates the arrival of emancipation in Galveston, Texas, … Continue reading &rarr;"
 categories:
   - "Current"

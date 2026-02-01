@@ -1,7 +1,7 @@
 ---
 title: "Working Harbor Committee Gala Honoring Capt. James DeSimone"
 date: 2019-04-14T19:10:21
-slug: working-harbor-committee-gala-honoring-capt-james-desimone
+slug: "working-harbor-committee-gala-honoring-capt-james-desimone"
 excerpt: "The Working Harbor Committee of New York and New Jersey (WHC) will honor Captain James DeSimone at its 14th annual Gala Award Reception on Tuesday, May 14, from 6 p.m. to 8:30 p.m., at the Downtown Association, 60 Pine Street, … Continue reading &rarr;"
 categories:
   - "Current"

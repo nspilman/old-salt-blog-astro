@@ -1,8 +1,8 @@
 ---
-title: "SEAL Commander — “We Have a Problem”"
+title: "SEAL Commander — \"We Have a Problem\""
 date: 2019-08-03T08:21:08
-slug: seal-commander-we-have-a-problem
-excerpt: "In a blistering letter to his forces from the commander in charge of the Navy SEALs, Rear Adm. Colin Green, warns “We have a problem.” The sentence was in bold-faced print and underlined. The letter follows a series of incidents … Continue reading &rarr;"
+slug: "seal-commander-we-have-a-problem"
+excerpt: "In a blistering letter to his forces from the commander in charge of the Navy SEALs, Rear Adm. Colin Green, warns \"We have a problem.\" The sentence was in bold-faced print and underlined. The letter follows a series of incidents … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Seal"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/08/seallogo.jpg"
 author: "Rick Spilman"
-description: "In a blistering letter to his forces from the commander in charge of the Navy SEALs, Rear Adm. Colin Green, warns “We have a problem.” The sentence was in bold-faced print and underlined. The letter follows a series of incidents … Continue reading &rarr;"
+description: "In a blistering letter to his forces from the commander in charge of the Navy SEALs, Rear Adm. Colin Green, warns \"We have a problem.\" The sentence was in bold-faced print and underlined. The letter follows a series of incidents … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/08/seallogo.jpg)In a blistering letter to his forces from the commander in charge of the Navy SEALs, Rear Adm. Colin Green, warns “We have a problem.” The sentence was in bold-faced print and underlined. The letter follows a series of incidents of alleged misbehavior by the elite special operations forces, including alleged illegal activity by two Navy SEAL teams.

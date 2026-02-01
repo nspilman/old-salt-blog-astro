@@ -1,7 +1,7 @@
 ---
 title: "Restoring the Schooner Rhoda Mary"
 date: 2018-01-11T10:28:26
-slug: restoring-schooner-rhoda-mary
+slug: "restoring-schooner-rhoda-mary"
 excerpt: "A crowdfunding campaign is underway to rescue what is left of the Cornish schooner Rhoda Mary, lying in the banks of the Medway river, Kent, UK. The goal is to rescue the remains of the schooner and transport it back … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

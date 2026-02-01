@@ -1,7 +1,7 @@
 ---
 title: "Safety – the Forest or the Trees on the Deepwater Horizon?"
 date: 2011-04-23T22:33:35
-slug: safety-the-forest-or-the-trees-on-the-deepwater-horizon
+slug: "safety-the-forest-or-the-trees-on-the-deepwater-horizon"
 excerpt: "The Coast Guard released a report yesterday that was highly critical of  Transocean, the owner of the Deepwater Horizon drill rig, which exploded and sank last year. Transocean contributed to Gulf disaster, Coast Guard report says Flaws in Transocean Ltd.’s … Continue reading &rarr;"
 categories:
   - "Current"

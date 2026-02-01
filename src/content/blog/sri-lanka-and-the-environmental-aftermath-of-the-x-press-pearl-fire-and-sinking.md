@@ -1,7 +1,7 @@
 ---
 title: "Sri Lanka and the Environmental Aftermath of the X-Press Pearl Fire and Sinking"
 date: 2021-06-04T17:11:58
-slug: sri-lanka-and-the-environmental-aftermath-of-the-x-press-pearl-fire-and-sinking
+slug: "sri-lanka-and-the-environmental-aftermath-of-the-x-press-pearl-fire-and-sinking"
 excerpt: "Pollution from the container ship X-Press Pearl is being described as potentially the worst marine ecological disaster in Sri Lankan history. The ship carried 25 tonnes of nitric acid, along with other chemicals and cosmetics, when it caught fire on … Continue reading &rarr;"
 categories:
   - "Current"

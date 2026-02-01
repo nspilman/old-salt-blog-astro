@@ -1,7 +1,7 @@
 ---
 title: "Greenheart Project Crowdfunding – Help Build the First Greenheart Ship"
 date: 2012-09-02T09:46:44
-slug: greenheart-project-crowdfunding-help-build-the-first-greenheart-ship
+slug: "greenheart-project-crowdfunding-help-build-the-first-greenheart-ship"
 excerpt: "The Greenheart Project is now raising money to build a 32 meter sailing cargo ship for small ports and lesser developed countries. The design is extremely impressive. It is low-cost,  has zero-emissions and is also efficient to load and unload.  Cargo operations may seem … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
-title: "UK Startup Wins Funding for Unmanned “Green Submarine”"
+title: "UK Startup Wins Funding for Unmanned \"Green Submarine\""
 date: 2021-09-17T16:45:16
-slug: uk-startup-wins-funding-for-unmanned-green-submarine
+slug: "uk-startup-wins-funding-for-unmanned-green-submarine"
 excerpt: "The UK startup, Oceanways, has been awarded funding to develop an autonomous hydrogen/battery-powered submarine in a UK government competition to tackle emissions from shipping. The firm has been given £380,000 ($525,000 ) to develop the sub to deliver parcels without … Continue reading &rarr;"
 categories:
   - "Current"

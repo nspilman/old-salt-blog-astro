@@ -1,7 +1,7 @@
 ---
 title: "No City for Old Tankers – Mary A. Whalen in the New York Times"
 date: 2012-04-22T07:45:50
-slug: no-city-for-old-tankers-mary-a-whalen-in-the-new-york-times
+slug: "no-city-for-old-tankers-mary-a-whalen-in-the-new-york-times"
 excerpt: "There are over five hundred miles of waterfront in New York harbor. The Mary A. Whalen only needs around 200 feet of it to tie up, yet for the last six years, the historic tanker and PortSide New York, the non-profit educational … Continue reading &rarr;"
 categories:
   - "Current"

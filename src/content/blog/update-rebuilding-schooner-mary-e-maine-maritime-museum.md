@@ -1,7 +1,7 @@
 ---
 title: "Update: Rebuilding the Schooner Mary E. at Maine Maritime Museum"
 date: 2017-12-27T18:46:22
-slug: update-rebuilding-schooner-mary-e-maine-maritime-museum
+slug: "update-rebuilding-schooner-mary-e-maine-maritime-museum"
 excerpt: "One year ago, we posted that the schooner Mary E., the oldest surviving fishing schooner built at Bath, Maine would be returning home to the Kennebeck River where she was built in 1906. The Maine Maritime Museum purchased the schooner from her previous owner … Continue reading &rarr;"
 categories:
   - "Current"

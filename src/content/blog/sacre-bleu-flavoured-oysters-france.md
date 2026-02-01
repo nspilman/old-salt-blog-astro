@@ -1,7 +1,7 @@
 ---
 title: "Sacré’ Bleu — Flavoured Oysters from France?"
 date: 2017-10-13T11:20:38
-slug: sacre-bleu-flavoured-oysters-france
+slug: "sacre-bleu-flavoured-oysters-france"
 excerpt: "As one who is very fond of oyster-flavored oysters, I am not sure that a raspberry, ginger, shallot or muscat flavored oyster is necessarily a good idea.  Nevertheless, French oyster farmer Joffrey Dubault, 29, is working to bring these flavored oysters to the world. … Continue reading &rarr;"
 categories:
   - "Current"

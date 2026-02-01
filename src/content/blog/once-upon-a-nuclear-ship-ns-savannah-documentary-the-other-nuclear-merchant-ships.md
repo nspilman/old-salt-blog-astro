@@ -1,8 +1,8 @@
 ---
 title: "Once Upon A Nuclear Ship –  NS Savannah Documentary, the First But Not the Only Nuclear Merchant Ship"
 date: 2012-08-14T07:25:01
-slug: once-upon-a-nuclear-ship-ns-savannah-documentary-the-other-nuclear-merchant-ships
-excerpt: "A new documentary by Thomas Michael Conner, “Once Upon a Nuclear Ship,”  tells the story of the NS Savannah, the world’s first nuclear powered merchant ship.  It is an interesting and worthy tale to tell. Without having seen the documentary, however, the … Continue reading &rarr;"
+slug: "once-upon-a-nuclear-ship-ns-savannah-documentary-the-other-nuclear-merchant-ships"
+excerpt: "A new documentary by Thomas Michael Conner, \"Once Upon a Nuclear Ship,\"  tells the story of the NS Savannah, the world’s first nuclear powered merchant ship.  It is an interesting and worthy tale to tell. Without having seen the documentary, however, the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Otto Hahn"
   - "Thomas Michael Conner"
 author: "Rick Spilman"
-description: "A new documentary by Thomas Michael Conner, “Once Upon a Nuclear Ship,”  tells the story of the NS Savannah, the world’s first nuclear powered merchant ship.  It is an interesting and worthy tale to tell. Without having seen the documentary, however, the … Continue reading &rarr;"
+description: "A new documentary by Thomas Michael Conner, \"Once Upon a Nuclear Ship,\"  tells the story of the NS Savannah, the world’s first nuclear powered merchant ship.  It is an interesting and worthy tale to tell. Without having seen the documentary, however, the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/dvd-case.jpg)A new documentary by Thomas Michael Conner, “[Once Upon a Nuclear Ship](http://nssavannahdocumentary.com/),”  tells the story of the [NS *Savannah*](http://en.wikipedia.org/wiki/NS_Savannah), the world’s first nuclear powered merchant ship.  It is an interesting and worthy tale to tell. Without having seen the documentary, however, [the documentary web](http://nssavannahdocumentary.com/) site seems to suggest that it may be a film targeted at nuclear enthusiasts, at least based on the copy that describes the [NS *Savannah*](http://en.wikipedia.org/wiki/NS_Savannah) as “*once the diamond in the crown of the US merchant fleet only to be kicked to the curb by dimwitted politicians and bureaucrats.*”  With all due respects, the reason that the *Savannah*, in particular, and nuclear merchant ships, in general, did not succeed is a bit more complicated than the actions or in-actions of “dimwitted politicians and bureaucrats.”

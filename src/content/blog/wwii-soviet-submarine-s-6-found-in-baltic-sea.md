@@ -1,7 +1,7 @@
 ---
 title: "WWII Soviet Submarine S-6 Found in Baltic Sea"
 date: 2012-12-19T07:32:22
-slug: wwii-soviet-submarine-s-6-found-in-baltic-sea
+slug: "wwii-soviet-submarine-s-6-found-in-baltic-sea"
 excerpt: "The Soviet submarine S-6 which disappeared on patrol in September, 1941 was been identified on the floor of the Baltic by the Swedish military. The submarine was found southeast of the Baltic island of Oland, in what was, during the … Continue reading &rarr;"
 categories:
   - "History"

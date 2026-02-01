@@ -1,7 +1,7 @@
 ---
 title: "Oak Trees, Wine, Whiskey, & the French Navy"
 date: 2020-11-12T12:27:41
-slug: oak-trees-wine-whiskey-the-french-navy
+slug: "oak-trees-wine-whiskey-the-french-navy"
 excerpt: "We recently posted about Constitution Grove, a 50,000-acre private forest maintained by the US Navy, in part to provide white oak trees used in maintaining the USS Constitution, the oldest commissioned naval vessel still afloat. The forest is part of … Continue reading &rarr;"
 categories:
   - "Current"

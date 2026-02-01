@@ -1,7 +1,7 @@
 ---
 title: "Explosion Kills 21 at Gadani, Pakistan Shipbreaking Yard"
 date: 2016-11-02T15:52:59
-slug: explosion-kills-least-20-gadani-pakistan-shipbreaking-yard
+slug: "explosion-kills-least-20-gadani-pakistan-shipbreaking-yard"
 excerpt: "The shipbreaking yard in Gadani, Pakistan is one of largest shipbreakers in the world and is literally where ships go to die. Tragically, workers too often die there as well. A series of explosions yesterday in a tanker being broken up at … Continue reading &rarr;"
 categories:
   - "Current"

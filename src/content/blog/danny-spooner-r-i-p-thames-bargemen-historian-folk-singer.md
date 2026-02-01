@@ -1,7 +1,7 @@
 ---
 title: "Danny Spooner — Thames Bargemen, Historian & Folk Singer"
 date: 2017-03-06T15:27:30
-slug: danny-spooner-r-i-p-thames-bargemen-historian-folk-singer
+slug: "danny-spooner-r-i-p-thames-bargemen-historian-folk-singer"
 excerpt: "We have learned that Danny Spooner died last week.  Spooner was a well loved singer of traditional and contemporary folk songs of Britain and Australia. As a social historian, he explored British and Australian culture through folk music. Leaving school at … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

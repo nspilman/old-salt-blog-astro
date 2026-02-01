@@ -1,7 +1,7 @@
 ---
 title: "Update: Trial Date Set for Smuggler Charged with Murdering His Wife at Sea"
 date: 2018-09-26T09:27:00
-slug: update-trial-date-set-for-smuggler-charged-with-murdering-his-wife-at-sea
+slug: "update-trial-date-set-for-smuggler-charged-with-murdering-his-wife-at-sea"
 excerpt: "About a year ago, we posted about the strange disappearance of Isabella Hellman while sailing with her husband, Lewis Bennett, on a catamaran from Cuba to Florida in 2017. Bennet has now been charged with second-degree murder in the death of his wife.  … Continue reading &rarr;"
 categories:
   - "Current"

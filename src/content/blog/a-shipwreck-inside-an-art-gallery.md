@@ -1,8 +1,8 @@
 ---
 title: "A Shipwreck inside an Art Gallery"
 date: 2010-09-24T16:28:14
-slug: a-shipwreck-inside-an-art-gallery
-excerpt: "Artist Josh Beckman’s “Sea Nymph” in LA’s Machine Project gallery is nothing less that a shipwreck in an art gallery.  To accompany the installation, the gallery has hosted a series of nautical-themed events, performances, lectures, and workshops, as well as … Continue reading &rarr;"
+slug: "a-shipwreck-inside-an-art-gallery"
+excerpt: "Artist Josh Beckman’s \"Sea Nymph\" in LA’s Machine Project gallery is nothing less that a shipwreck in an art gallery.  To accompany the installation, the gallery has hosted a series of nautical-themed events, performances, lectures, and workshops, as well as … Continue reading &rarr;"
 categories:
   - "Galleries"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Sea Nymph"
   - "shipwreck"
 author: "Rick Spilman"
-description: "Artist Josh Beckman’s “Sea Nymph” in LA’s Machine Project gallery is nothing less that a shipwreck in an art gallery.  To accompany the installation, the gallery has hosted a series of nautical-themed events, performances, lectures, and workshops, as well as … Continue reading &rarr;"
+description: "Artist Josh Beckman’s \"Sea Nymph\" in LA’s Machine Project gallery is nothing less that a shipwreck in an art gallery.  To accompany the installation, the gallery has hosted a series of nautical-themed events, performances, lectures, and workshops, as well as … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/boatmachine1_0.jpg)

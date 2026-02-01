@@ -1,8 +1,8 @@
 ---
-title: "Lloyd’s List Awards “Seafarer of the Year” to the Crew of the Costa Concordia"
+title: "Lloyd’s List Awards \"Seafarer of the Year\" to the Crew of the Costa Concordia"
 date: 2012-09-28T03:02:56
-slug: lloyds-list-awards-seafarer-of-the-year-to-the-crew-of-the-costa-concordia
-excerpt: "The press release says that the Lloyd’s List Global Awards are “a celebration of the best that shipping industry has to offer and the finalists are the innovators and the visionaries. They are the boldest and the brightest. They are shipping’s success … Continue reading &rarr;"
+slug: "lloyds-list-awards-seafarer-of-the-year-to-the-crew-of-the-costa-concordia"
+excerpt: "The press release says that the Lloyd’s List Global Awards are \"a celebration of the best that shipping industry has to offer and the finalists are the innovators and the visionaries. They are the boldest and the brightest. They are shipping’s success … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Lloyd's List Global Awards"
   - "Seafarer of the Year"
 author: "Rick Spilman"
-description: "The press release says that the Lloyd’s List Global Awards are “a celebration of the best that shipping industry has to offer and the finalists are the innovators and the visionaries. They are the boldest and the brightest. They are shipping’s success … Continue reading &rarr;"
+description: "The press release says that the Lloyd’s List Global Awards are \"a celebration of the best that shipping industry has to offer and the finalists are the innovators and the visionaries. They are the boldest and the brightest. They are shipping’s success … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/Costa-Concordia-007.jpg)The press release says that the [Lloyd’s List Global Awards](http://awards.lloydslist.com/global-awards-2012) are “*a celebration of the best that shipping industry has to offer and the finalists are the innovators and the visionaries. They are the boldest and the brightest. They are shipping’s success stories.”*   Unfortunately, one award granted on Wednesday night in London detracted and distracted from the awards in the various categories which were indeed awarded to “*shipping’s success stories*.”   In what appears to be an understandable attempt to retroactively find heroism in tragedy, the [Lloyd’s List 2012 Award for “Seafarer of the Year”](http://awards.lloydslist.com/global-awards-2012/2012-winners) was awarded to the crew of the *[Costa Concordia](http://www.oldsaltblog.com/2012/01/14/thousands-evacuated-as-cruise-ship-costa-concordia-strikes-reef-off-italy-at-least-three-dead/).*  

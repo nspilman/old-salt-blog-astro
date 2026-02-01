@@ -1,7 +1,7 @@
 ---
 title: "Battleship USS Texas Refloating in Drydock"
 date: 2024-03-06T11:16:27
-slug: battleship-uss-texas-refloating-in-drydock
+slug: "battleship-uss-texas-refloating-in-drydock"
 excerpt: "A drone video of the 110-year-old battleship USS Texas being refloated following repairs and refurbishment on the drydock at the Gulf Copper Shipyard in Galveston.  The Texas is the oldest remaining dreadnought battleship and only one of six surviving ships to … Continue reading &rarr;"
 categories:
   - "History"

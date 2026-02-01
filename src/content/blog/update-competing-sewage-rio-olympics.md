@@ -1,8 +1,8 @@
 ---
-title: "Update: Oil, Sewage & “Super Bacteria” at Rio Olympics Venues"
+title: "Update: Oil, Sewage & \"Super Bacteria\" at Rio Olympics Venues"
 date: 2016-07-08T08:00:21
-slug: update-competing-sewage-rio-olympics
-excerpt: "In May 2104, we posted “Sailing in Sewage — Olympic Sailors in Guanabara Bay at Rio de Janeiro.” The post was about the challenge of sailing the Olympic trials in Guanabara Bay, a body of water thoroughly befouled with garbage and … Continue reading &rarr;"
+slug: "update-competing-sewage-rio-olympics"
+excerpt: "In May 2104, we posted \"Sailing in Sewage — Olympic Sailors in Guanabara Bay at Rio de Janeiro.\" The post was about the challenge of sailing the Olympic trials in Guanabara Bay, a body of water thoroughly befouled with garbage and … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "sailing"
   - "super bacteria"
 author: "Rick Spilman"
-description: "In May 2104, we posted “Sailing in Sewage — Olympic Sailors in Guanabara Bay at Rio de Janeiro.” The post was about the challenge of sailing the Olympic trials in Guanabara Bay, a body of water thoroughly befouled with garbage and … Continue reading &rarr;"
+description: "In May 2104, we posted \"Sailing in Sewage — Olympic Sailors in Guanabara Bay at Rio de Janeiro.\" The post was about the challenge of sailing the Olympic trials in Guanabara Bay, a body of water thoroughly befouled with garbage and … Continue reading &rarr;"
 ---
 
 ![riopollution](http://www.oldsaltblog.com/wp-content/uploads/2016/07/riopollution.jpg)In May 2104, we posted “[Sailing in Sewage — Olympic Sailors in Guanabara Bay at Rio de Janeiro](http://www.oldsaltblog.com/2014/05/sailing-in-sewage-olympic-sailors-in-guanabara-bay-at-rio-de-janeiro/).” The post was about the challenge of sailing the Olympic trials in Guanabara Bay, a body of water thoroughly befouled with garbage and sewage.  Local officials promised that the Bay would be cleaned up in time for the Olympics themselves. Now, sadly, two years later, not enough has changed.

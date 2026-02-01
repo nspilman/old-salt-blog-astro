@@ -1,7 +1,7 @@
 ---
 title: "Royal Clipper Sailing on Light"
 date: 2024-05-01T16:52:46
-slug: royal-clipper-sailing-on-light
+slug: "royal-clipper-sailing-on-light"
 excerpt: "Another short video of the Royal Clipper from her recent eastbound transatlantic crossing, sea day 13, two days out of Lisbon, that raises the question, when the wind is fluky, why not sail on light? Royal Clipper Sailing on Light … Continue reading &rarr;"
 categories:
   - "Current"

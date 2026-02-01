@@ -1,7 +1,7 @@
 ---
 title: "60 of 92 Passengers Test Positive for Covid-19 After Folk Music Cruise on Danube"
 date: 2020-10-29T15:56:33
-slug: 60-of-92-passengers-test-positive-for-covid-19-after-folk-music-cruise-on-danube
+slug: "60-of-92-passengers-test-positive-for-covid-19-after-folk-music-cruise-on-danube"
 excerpt: "You might call it yodeling for Covid. Following a folk-music themed cruise on MS Swiss Crystal, 60 of 92 passengers have tested positive for Covid-19. The cruise was from Passau to Frankfurt between October 10 and 17, on the Danube … Continue reading &rarr;"
 categories:
   - "Current"

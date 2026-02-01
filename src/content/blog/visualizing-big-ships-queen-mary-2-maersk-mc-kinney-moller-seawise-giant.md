@@ -1,7 +1,7 @@
 ---
 title: "Visualizing Big Ships — Queen Mary 2,  Mærsk Mc-Kinney Møller & Seawise Giant"
 date: 2014-03-09T18:19:17
-slug: visualizing-big-ships-queen-mary-2-maersk-mc-kinney-moller-seawise-giant
+slug: "visualizing-big-ships-queen-mary-2-maersk-mc-kinney-moller-seawise-giant"
 excerpt: "It is remarkably difficult to grasp how large ships can be. I remember, many years ago, being amazed how a full sized city bus, which looked so large on the pier, seemed to shrink dramatically as it was hoisted and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

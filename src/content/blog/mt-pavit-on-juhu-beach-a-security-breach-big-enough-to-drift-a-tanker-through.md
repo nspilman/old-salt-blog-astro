@@ -1,7 +1,7 @@
 ---
 title: "MT Pavit on Juhu Beach – A Security Breach Big Enough to Drift a Tanker Through"
 date: 2011-08-05T08:52:52
-slug: mt-pavit-on-juhu-beach-a-security-breach-big-enough-to-drift-a-tanker-through
+slug: "mt-pavit-on-juhu-beach-a-security-breach-big-enough-to-drift-a-tanker-through"
 excerpt: "Last June, the inaptly named MV Wisdom, under tow to a scrap yard, broke her tow line and drifted on to Juhu beach in Mumbai, India, after narrowly missing a major bridge. This Sunday, the tanker, MT Pavit, drifted ashore … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Video of the Battleship USS Texas in Drydock"
 date: 2022-09-16T17:21:51
-slug: video-of-the-battleship-uss-texas-in-drydock
+slug: "video-of-the-battleship-uss-texas-in-drydock"
 excerpt: "Here are two videos of the 110-year-old battleship USS Texas in drydock at the Gulf Copper Shipyard in Galveston.  The Texas is the oldest remaining dreadnought battleship and only one of six surviving ships to have served in both World … Continue reading &rarr;"
 categories:
   - "Current"

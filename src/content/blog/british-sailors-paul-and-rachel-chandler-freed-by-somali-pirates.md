@@ -1,7 +1,7 @@
 ---
 title: "British Sailors, Paul and Rachel Chandler, Freed by Somali Pirates"
 date: 2010-11-14T09:20:11
-slug: british-sailors-paul-and-rachel-chandler-freed-by-somali-pirates
+slug: "british-sailors-paul-and-rachel-chandler-freed-by-somali-pirates"
 excerpt: "After more than a year long ordeal, British sailors Paul and Rachel Chandler were released today by Somali pirates.   The retired couple was seized by the pirates on October 22, 2009. Paul and Rachel Chandler released by Somali pirates … Continue reading &rarr;"
 categories:
   - "Current"

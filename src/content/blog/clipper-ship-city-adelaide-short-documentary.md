@@ -1,7 +1,7 @@
 ---
 title: "Clipper Ship City of Adelaide — A Short Documentary"
 date: 2016-10-12T09:56:05
-slug: clipper-ship-city-adelaide-short-documentary
+slug: "clipper-ship-city-adelaide-short-documentary"
 excerpt: "The City of Adelaide is the world’s oldest surviving clipper ship and one of only three remaining composite clipper ships. She was built in 1864, in Sunderland, England by William Pile, Hay and Co. for transporting passengers and goods between … Continue reading &rarr;"
 categories:
   - "Current"

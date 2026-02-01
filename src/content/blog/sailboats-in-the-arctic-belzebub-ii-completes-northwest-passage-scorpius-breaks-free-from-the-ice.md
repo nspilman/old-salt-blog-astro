@@ -1,7 +1,7 @@
 ---
 title: "Sailboats in the Arctic – Belzebub II Completes Northwest Passage & Scorpius Breaks Free From the Ice"
 date: 2012-09-05T18:41:16
-slug: sailboats-in-the-arctic-belzebub-ii-completes-northwest-passage-scorpius-breaks-free-from-the-ice
+slug: "sailboats-in-the-arctic-belzebub-ii-completes-northwest-passage-scorpius-breaks-free-from-the-ice"
 excerpt: "The sea ice in the Arctic has melted to a record low this year. Yachts are not voyaging where once only large icebreakers could travel. Recently, the three man crew of the Belzebub II, a 1976 built Hallberg-Rassy Monsun 31 sloop, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,8 +1,8 @@
 ---
 title: "From Dazzle Ships to Dazzle Faces — Camouflage Meant to Confuse"
 date: 2014-07-28T09:46:44
-slug: from-dazzle-ships-to-dazzle-faces
-excerpt: "We recently posted “The Dazzle Ships, Then and Now,” about the use of wild geometric patterns painted on ships, which do nothing to hide the ship, but are/were meant to confuse enemy weapons targeting.  Recently, the artist, designer, and entrepreneur, Adam … Continue reading &rarr;"
+slug: "from-dazzle-ships-to-dazzle-faces"
+excerpt: "We recently posted \"The Dazzle Ships, Then and Now,\" about the use of wild geometric patterns painted on ships, which do nothing to hide the ship, but are/were meant to confuse enemy weapons targeting.  Recently, the artist, designer, and entrepreneur, Adam … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "dazzle ships"
   - "face rcognition"
 author: "Rick Spilman"
-description: "We recently posted “The Dazzle Ships, Then and Now,” about the use of wild geometric patterns painted on ships, which do nothing to hide the ship, but are/were meant to confuse enemy weapons targeting.  Recently, the artist, designer, and entrepreneur, Adam … Continue reading &rarr;"
+description: "We recently posted \"The Dazzle Ships, Then and Now,\" about the use of wild geometric patterns painted on ships, which do nothing to hide the ship, but are/were meant to confuse enemy weapons targeting.  Recently, the artist, designer, and entrepreneur, Adam … Continue reading &rarr;"
 ---
 
 ![Dazzle Ships](http://www.oldsaltblog.com/wp-content/uploads/2014/07/dazzleships.jpg)

@@ -1,8 +1,8 @@
 ---
 title: "What is the World’s Most Densely Populated Island?"
 date: 2018-12-22T22:01:21
-slug: what-is-the-worlds-most-densely-populated-island
-excerpt: "Recently, the BBC posted a video about Santa Cruz del Islote, a tiny island on the Caribbean coast of Colombia, which it described as the “world’s most densely populated island.” With five hundred people living on an island the size of a soccer … Continue reading &rarr;"
+slug: "what-is-the-worlds-most-densely-populated-island"
+excerpt: "Recently, the BBC posted a video about Santa Cruz del Islote, a tiny island on the Caribbean coast of Colombia, which it described as the \"world’s most densely populated island.\" With five hundred people living on an island the size of a soccer … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Most Densely Populated Island"
   - "Santa Cruz del Islote"
 author: "Rick Spilman"
-description: "Recently, the BBC posted a video about Santa Cruz del Islote, a tiny island on the Caribbean coast of Colombia, which it described as the “world’s most densely populated island.” With five hundred people living on an island the size of a soccer … Continue reading &rarr;"
+description: "Recently, the BBC posted a video about Santa Cruz del Islote, a tiny island on the Caribbean coast of Colombia, which it described as the \"world’s most densely populated island.\" With five hundred people living on an island the size of a soccer … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/mostpopulatedisland.jpg)Recently, the [BBC posted a video](https://youtu.be/Y7SxlpUjI3M) about Santa Cruz del Islote, a tiny island on the Caribbean coast of Colombia, which it described as the “world’s most densely populated island.” With five hundred people living on an island the size of a soccer field, it is definitely crowded, but is it the world’s most densely populated island? 

@@ -1,8 +1,8 @@
 ---
 title: "USS Donald Church Buzzed by Russian Fighter — What Really Happened?"
 date: 2015-01-17T21:19:52
-slug: uss-donald-church-buzzed-by-russian-fighter-what-really-happened
-excerpt: "At 1 p.m. on Friday, the breaking news on the New York Post and the United Press Twitter feeds was that the Chinese had attacked US naval ships with missiles and that the “US Navy was engaged in active combat … Continue reading &rarr;"
+slug: "uss-donald-church-buzzed-by-russian-fighter-what-really-happened"
+excerpt: "At 1 p.m. on Friday, the breaking news on the New York Post and the United Press Twitter feeds was that the Chinese had attacked US naval ships with missiles and that the \"US Navy was engaged in active combat … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Update: Researchers Claim to Positively Identify Wreck of Captain Cook’s HMB Endeavour"
 date: 2023-11-30T18:17:55
-slug: update-researchers-claim-to-positively-identify-wreck-of-captain-cooks-hmb-endeavour
+slug: "update-researchers-claim-to-positively-identify-wreck-of-captain-cooks-hmb-endeavour"
 excerpt: "For more than a decade, we have followed the work of researchers from Rhode Island and  Australia in their efforts to locate the wreck of  Captain James Cook’s famous barque, HMB Endeavour, that sailed from 1768-1771 on a voyage of … Continue reading &rarr;"
 categories:
   - "History"

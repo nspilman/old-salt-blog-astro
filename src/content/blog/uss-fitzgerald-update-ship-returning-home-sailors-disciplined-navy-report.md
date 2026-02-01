@@ -1,7 +1,7 @@
 ---
 title: "USS Fitzgerald Update — Ship Returning Home, Sailors Disciplined, Navy Report"
 date: 2017-08-18T09:31:48
-slug: uss-fitzgerald-update-ship-returning-home-sailors-disciplined-navy-report
+slug: "uss-fitzgerald-update-ship-returning-home-sailors-disciplined-navy-report"
 excerpt: "The USS Fitzgerald, seriously damaged in a collision with a container ship on June 17th that killed seven U.S. sailors, will be transported back to the United States for repairs. The destroyer will be carried via heavy lift ship between mid-September and … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: Container Ship Rena Breaks Up on New Zealand’s Astrolabe Reef"
 date: 2012-01-08T10:10:09
-slug: update-container-ship-rena-breaks-up-on-new-zealands-astrolabe-reef
+slug: "update-container-ship-rena-breaks-up-on-new-zealands-astrolabe-reef"
 excerpt: "In early October, the MV Rena, a container ship owned by the Greek shipping company Costamare Inc, ran hard aground on the Astrolabe Reef in in the Bay of Plenty off New Zealand’s North Island.  When she struck the reef, the Rena was … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Whale Watching Roundup – Whales, Sharks and Ships"
 date: 2009-09-27T17:45:12
-slug: whale-watching-roundup-%e2%80%93-whales-sharks-and-ships
+slug: "whale-watching-roundup-%e2%80%93-whales-sharks-and-ships"
 excerpt: "In honor of our unexpected whale watching in New York harbor, we are taking a brief look at whale watching around the country this summer.  It has been an interesting summer indeed.   After staying off shore for several years, fin and humpback … Continue reading &rarr;"
 categories:
   - "Current"

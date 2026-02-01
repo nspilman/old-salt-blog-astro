@@ -1,7 +1,7 @@
 ---
 title: "Seized, A Sea Captains Adventures – Battling Scoundrels and Pirates while Recovering Stolen Ships in the World’s Most Troubled Waters"
 date: 2010-04-27T14:10:35
-slug: seized-a-sea-captains-adventures-%e2%80%93-battling-scoundrels-and-pirates-while-recovering-stolen-ships-in-the-worlds-most-troubled-waters
+slug: "seized-a-sea-captains-adventures-%e2%80%93-battling-scoundrels-and-pirates-while-recovering-stolen-ships-in-the-worlds-most-troubled-waters"
 excerpt: "Max Hardberger’s Seized, a Sea Captains Adventures – Battling Scoundrels and Pirates while Recovering Stolen Ships in the World’s Most Troubled Waters is a fascinating account of one man’s remarkable career and personal journey. In addition to working professionally as … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

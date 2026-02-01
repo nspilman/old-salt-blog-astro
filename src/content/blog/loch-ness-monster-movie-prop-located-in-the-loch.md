@@ -1,7 +1,7 @@
 ---
 title: "Loch Ness Monster (Movie Prop) Located in the Loch"
 date: 2016-04-23T09:31:12
-slug: loch-ness-monster-movie-prop-located-in-the-loch
+slug: "loch-ness-monster-movie-prop-located-in-the-loch"
 excerpt: "At long last, Nessie has been located on the bottom of Loch Ness! The monster is, however, not the legendary beastie, but instead a 30-foot long movie prop which sank in the Loch almost 50 years ago.  The prop was … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

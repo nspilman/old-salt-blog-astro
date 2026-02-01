@@ -1,7 +1,7 @@
 ---
 title: "Soldini’s Maserati Sails on New Year’s Eve in Quest to Break New York to San Francisco Record"
 date: 2013-01-03T16:30:35
-slug: soldinis-maserati-sails-on-new-years-eve-in-quest-to-break-new-york-to-san-francisco-record
+slug: "soldinis-maserati-sails-on-new-years-eve-in-quest-to-break-new-york-to-san-francisco-record"
 excerpt: "Last May, we posted about Giovanni Soldini and the Maserati Sailing Team’s attempt to break the monohull sailing record from the Ambrose Lighthouse in New York to Lizard Point off the south west coast of England. That attempt was stymied … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Navy Captain Mike Desmond Sets Unofficial Record for Time at Sea"
 date: 2020-09-06T11:46:35
-slug: navy-captain-mike-desmond-sets-unofficial-record-for-time-at-sea
+slug: "navy-captain-mike-desmond-sets-unofficial-record-for-time-at-sea"
 excerpt: "Due to Covid-19, the Navy’s Captain Mike Desmond has inadvertently set an, as of yet, unofficial record for continuous-time deployed at sea. When the pandemic broke out, the Dwight D. Eisenhower Carrier Strike Group canceled port calls in Europe and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

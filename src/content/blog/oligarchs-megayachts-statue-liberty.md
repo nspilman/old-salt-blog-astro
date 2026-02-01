@@ -1,7 +1,7 @@
 ---
 title: "The Oligarchs’ Megayachts and the Statue of Liberty"
 date: 2017-08-28T17:13:45
-slug: oligarchs-megayachts-statue-liberty
+slug: "oligarchs-megayachts-statue-liberty"
 excerpt: "The arrogance is as impressive as the yachts themselves. Rather than paying for dockage, in recent years, billionaire Russian oligarchs have taken to anchoring their yachts in the public anchorage in front of the Statue of Liberty while in New … Continue reading &rarr;"
 categories:
   - "Current"

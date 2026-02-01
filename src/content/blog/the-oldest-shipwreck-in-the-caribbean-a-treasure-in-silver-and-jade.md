@@ -1,7 +1,7 @@
 ---
 title: "The Oldest Shipwreck in the Caribbean – A Treasure in Silver and Jade"
 date: 2011-04-30T19:33:58
-slug: the-oldest-shipwreck-in-the-caribbean-a-treasure-in-silver-and-jade
+slug: "the-oldest-shipwreck-in-the-caribbean-a-treasure-in-silver-and-jade"
 excerpt: "Divers from Deep Blue Marine have located a wreck site off the Dominican Republic believed to date back to the 1500s and have uncovered a treasure of silver coins and jade figurines. ‘We’ve just scratched the surface’: Divers find ‘oldest shipwreck in … Continue reading &rarr;"
 categories:
   - "Current"

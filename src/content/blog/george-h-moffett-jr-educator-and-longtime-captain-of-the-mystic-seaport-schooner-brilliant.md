@@ -1,7 +1,7 @@
 ---
 title: "George H. Moffett Jr. – Educator and Longtime Captain of the Mystic Seaport Schooner Brilliant"
 date: 2012-03-01T12:43:38
-slug: george-h-moffett-jr-educator-and-longtime-captain-of-the-mystic-seaport-schooner-brilliant
+slug: "george-h-moffett-jr-educator-and-longtime-captain-of-the-mystic-seaport-schooner-brilliant"
 excerpt: "Sad news. George H. Moffett Jr., the captain of the Mystic Seaport Museum schooner Brilliant for 25 years, has died of melanoma at his home in Connecticut. He was 66. Moffett was from a naval family. His grandfather, Admiral William A. Moffett, was … Continue reading &rarr;"
 categories:
   - "Current"

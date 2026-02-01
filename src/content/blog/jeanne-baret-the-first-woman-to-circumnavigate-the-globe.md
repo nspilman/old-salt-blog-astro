@@ -1,7 +1,7 @@
 ---
 title: "Jeanne Baret, the First Woman to Circumnavigate the Globe"
 date: 2020-10-04T10:29:43
-slug: jeanne-baret-the-first-woman-to-circumnavigate-the-globe
+slug: "jeanne-baret-the-first-woman-to-circumnavigate-the-globe"
 excerpt: "Jeanne Baret is believed to be the first woman ever to circumnavigate the globe. Born in 1740 to a poor family in the Burgundy region of France, Baret became skilled in identifying local plants. While in her early 20s, she … Continue reading &rarr;"
 categories:
   - "History"

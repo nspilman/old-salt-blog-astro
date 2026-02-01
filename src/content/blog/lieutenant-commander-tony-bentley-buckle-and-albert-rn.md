@@ -1,7 +1,7 @@
 ---
 title: "Lieutenant-Commander Tony Bentley-Buckle and Albert RN"
 date: 2010-09-07T19:49:18
-slug: lieutenant-commander-tony-bentley-buckle-and-albert-rn
+slug: "lieutenant-commander-tony-bentley-buckle-and-albert-rn"
 excerpt: "Lieutenant-Commander Tony Bentley-Buckle, who died at the end of May at the age of 88, had a valiant and varied career in the Royal Navy during World War II.  After the war, he established two shipping lines and an airline in Africa and competed … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Jack Tar: Life in Nelson’s Navy by Roy & Leslie Adkins – A Review"
 date: 2011-10-24T15:31:54
-slug: jack-tar-life-in-nelsons-navy-by-roy-leslie-adkins-a-review
-excerpt: "Over the next several weeks, we will be reviewing a series of books about what life was like in Nelson’s navy.  The first is Jack Tar: Life in Nelson’s Navy by Roy & Leslie Adkins, subtitled “the extraordinary lives of ordinary seamen … Continue reading &rarr;"
+slug: "jack-tar-life-in-nelsons-navy-by-roy-leslie-adkins-a-review"
+excerpt: "Over the next several weeks, we will be reviewing a series of books about what life was like in Nelson’s navy.  The first is Jack Tar: Life in Nelson’s Navy by Roy & Leslie Adkins, subtitled \"the extraordinary lives of ordinary seamen … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Reviews"
@@ -12,7 +12,7 @@ tags:
   - "Leslie Adkins"
   - "Roy Adkins"
 author: "Rick Spilman"
-description: "Over the next several weeks, we will be reviewing a series of books about what life was like in Nelson’s navy.  The first is Jack Tar: Life in Nelson’s Navy by Roy & Leslie Adkins, subtitled “the extraordinary lives of ordinary seamen … Continue reading &rarr;"
+description: "Over the next several weeks, we will be reviewing a series of books about what life was like in Nelson’s navy.  The first is Jack Tar: Life in Nelson’s Navy by Roy & Leslie Adkins, subtitled \"the extraordinary lives of ordinary seamen … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/jacktar.jpg)](http://www.amazon.com/gp/product/034912034X/ref=as_li_ss_tl?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=034912034X)Over the next several weeks, we will be reviewing a series of books about what life was like in Nelson’s navy.  The first is *[Jack Tar: Life in Nelson’s Navy](http://www.amazon.com/gp/product/034912034X/ref=as_li_ss_tl?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=034912034X)* by Roy & Leslie Adkins, subtitled “*the extraordinary lives of ordinary seamen in Nelson’s navy*.”  A fascinating and well written book.

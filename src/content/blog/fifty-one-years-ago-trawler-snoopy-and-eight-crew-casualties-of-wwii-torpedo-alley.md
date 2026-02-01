@@ -1,7 +1,7 @@
 ---
 title: "Fifty One Years Ago, Trawler Snoopy and Eight Crew Casualties of Torpedo Alley"
 date: 2015-07-24T11:53:39
-slug: fifty-one-years-ago-trawler-snoopy-and-eight-crew-casualties-of-wwii-torpedo-alley
+slug: "fifty-one-years-ago-trawler-snoopy-and-eight-crew-casualties-of-wwii-torpedo-alley"
 excerpt: "Fifty one years ago this week, on July 23, 1964, the scallop trawler Snoopy was trawling off Currituck Sound, NC.  During World War II that stretch of the coast earned the grim nickname, Torpedo Alley, when German U-boats sank nearly 400 ships in the … Continue reading &rarr;"
 categories:
   - "History"

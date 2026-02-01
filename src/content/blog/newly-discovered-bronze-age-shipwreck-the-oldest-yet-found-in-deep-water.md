@@ -1,7 +1,7 @@
 ---
 title: "Newly Discovered Bronze Age Shipwreck, the Oldest Yet Found in Deep Water"
 date: 2024-06-25T17:43:32
-slug: newly-discovered-bronze-age-shipwreck-the-oldest-yet-found-in-deep-water
+slug: "newly-discovered-bronze-age-shipwreck-the-oldest-yet-found-in-deep-water"
 excerpt: "Last July, a routine oil and gas survey discovered hundreds of intact amphorae – ancient storage jars – believed to be 3,300 years old, in a shipwreck located 90km (56 miles) off the northern coast of Israel on the sea … Continue reading &rarr;"
 categories:
   - "Current"

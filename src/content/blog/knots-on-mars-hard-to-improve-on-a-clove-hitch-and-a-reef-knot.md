@@ -1,8 +1,8 @@
 ---
 title: "Knots on Mars!  Hard to Improve on a Clove Hitch and a Reef Knot"
 date: 2012-10-01T09:32:44
-slug: knots-on-mars-hard-to-improve-on-a-clove-hitch-and-a-reef-knot
-excerpt: "There is a wonderful discussion on the International Guild of Knot Tyers Forum titled “Knots on Mars! (and a few thoughts on NASA’s knots)” by Dfred.   I had never given much thought as to  how cable bundles on satellites and space craft … Continue reading &rarr;"
+slug: "knots-on-mars-hard-to-improve-on-a-clove-hitch-and-a-reef-knot"
+excerpt: "There is a wonderful discussion on the International Guild of Knot Tyers Forum titled \"Knots on Mars! (and a few thoughts on NASA’s knots)\" by Dfred.   I had never given much thought as to  how cable bundles on satellites and space craft … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Mars Rover Curiosity."
   - "reef knot"
 author: "Rick Spilman"
-description: "There is a wonderful discussion on the International Guild of Knot Tyers Forum titled “Knots on Mars! (and a few thoughts on NASA’s knots)” by Dfred.   I had never given much thought as to  how cable bundles on satellites and space craft … Continue reading &rarr;"
+description: "There is a wonderful discussion on the International Guild of Knot Tyers Forum titled \"Knots on Mars! (and a few thoughts on NASA’s knots)\" by Dfred.   I had never given much thought as to  how cable bundles on satellites and space craft … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/rovermars.jpg)

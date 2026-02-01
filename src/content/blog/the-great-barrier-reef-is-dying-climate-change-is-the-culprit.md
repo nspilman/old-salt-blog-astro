@@ -1,8 +1,8 @@
 ---
 title: "The Great Barrier Reef is Dying, Climate Change is the Culprit"
 date: 2019-04-05T15:38:13
-slug: the-great-barrier-reef-is-dying-climate-change-is-the-culprit
-excerpt: "The Great Barrier Reef, off Australia’s east coast, is 1,400 miles long, covers 133,000 square miles and can be seen from outer space.  It may be dying before our eyes.  “We thought the Barrier Reef was too big to fail,” … Continue reading &rarr;"
+slug: "the-great-barrier-reef-is-dying-climate-change-is-the-culprit"
+excerpt: "The Great Barrier Reef, off Australia’s east coast, is 1,400 miles long, covers 133,000 square miles and can be seen from outer space.  It may be dying before our eyes.  \"We thought the Barrier Reef was too big to fail,\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Great Barrier Reef"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/04/gbarrierreefbleach.jpg"
 author: "Rick Spilman"
-description: "The Great Barrier Reef, off Australia’s east coast, is 1,400 miles long, covers 133,000 square miles and can be seen from outer space.  It may be dying before our eyes.  “We thought the Barrier Reef was too big to fail,” … Continue reading &rarr;"
+description: "The Great Barrier Reef, off Australia’s east coast, is 1,400 miles long, covers 133,000 square miles and can be seen from outer space.  It may be dying before our eyes.  \"We thought the Barrier Reef was too big to fail,\" … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/04/gbarrierreefbleach.jpg)

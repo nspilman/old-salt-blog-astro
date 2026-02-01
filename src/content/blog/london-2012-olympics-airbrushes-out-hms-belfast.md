@@ -1,7 +1,7 @@
 ---
 title: "London 2012 Olympics Airbrushes out HMS Belfast"
 date: 2011-11-10T14:02:10
-slug: london-2012-olympics-airbrushes-out-hms-belfast
+slug: "london-2012-olympics-airbrushes-out-hms-belfast"
 excerpt: "The image on the right is a new poster for the London 2012 Olympics featuring a section of the River Thames. The image on the left is a photo of the roughly the same section of the river.  Notice a difference? (Click … Continue reading &rarr;"
 categories:
   - "Current"

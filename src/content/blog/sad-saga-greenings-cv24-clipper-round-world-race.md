@@ -1,7 +1,7 @@
 ---
 title: "The Sad Saga of Greenings (CV24) in the Clipper Round the World Race"
 date: 2017-11-09T19:30:36
-slug: sad-saga-greenings-cv24-clipper-round-world-race
+slug: "sad-saga-greenings-cv24-clipper-round-world-race"
 excerpt: "There was a joke, of sorts, in the Clipper Round the World Race, that in the over two decades of racing around the world, only one boat has ever sunk. It was the boat least likely to sink, at least … Continue reading &rarr;"
 categories:
   - "Current"

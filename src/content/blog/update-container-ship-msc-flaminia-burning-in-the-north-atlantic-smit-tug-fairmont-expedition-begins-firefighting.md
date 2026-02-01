@@ -1,7 +1,7 @@
 ---
 title: "Update: New Explosions on Container Ship MSC Flaminia Burning in the North Atlantic, Smit Tug Fairmont Expedition Arrives"
 date: 2012-07-19T07:20:35
-slug: update-container-ship-msc-flaminia-burning-in-the-north-atlantic-smit-tug-fairmont-expedition-begins-firefighting
+slug: "update-container-ship-msc-flaminia-burning-in-the-north-atlantic-smit-tug-fairmont-expedition-begins-firefighting"
 excerpt: "On Sunday we posted about an explosion and fire aboard the container ship MSC Flaminia in the North Atlantic about a thousand miles west of Cornwall.  The first officer died from burns received in the fire and one crew member is missing. … Continue reading &rarr;"
 categories:
   - "Current"

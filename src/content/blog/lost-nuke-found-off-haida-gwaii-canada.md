@@ -1,7 +1,7 @@
 ---
-title: "“Lost Nuke” Found off Haida Gwaii, Canada"
+title: "\"Lost Nuke\" Found off Haida Gwaii, Canada"
 date: 2016-11-05T14:42:13
-slug: lost-nuke-found-off-haida-gwaii-canada
+slug: "lost-nuke-found-off-haida-gwaii-canada"
 excerpt: "A Canadian diver swimming off Pitt Island near the Haida Gwaii archipelago, on Canada’s west coast, was looking for sea cucumbers, but didn’t find any. Instead, the diver, Sean Smyrichinsky, found a dummy nuclear bomb lost in a plane crash in … Continue reading &rarr;"
 categories:
   - "Current"

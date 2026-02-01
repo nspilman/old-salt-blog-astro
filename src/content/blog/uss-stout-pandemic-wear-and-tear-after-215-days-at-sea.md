@@ -1,7 +1,7 @@
 ---
 title: "USS Stout  — Pandemic Wear and Tear After 215 Days at Sea"
 date: 2020-10-22T13:19:51
-slug: uss-stout-pandemic-wear-and-tear-after-215-days-at-sea
+slug: "uss-stout-pandemic-wear-and-tear-after-215-days-at-sea"
 excerpt: "The pandemic has taken a toll on even those of us who remained untouched by the virus. In a trivial example, for me, it was a haircut. After five months without a haircut, I was feeling very shaggy when the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

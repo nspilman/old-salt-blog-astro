@@ -1,7 +1,7 @@
 ---
 title: "Wikileaks, Russian Tanks and the Ro/Ro Faina – the Pirates were Right"
 date: 2010-12-10T11:13:18
-slug: wikileaks-russian-tanks-and-the-roro-faina-the-pirates-were-right
+slug: "wikileaks-russian-tanks-and-the-roro-faina-the-pirates-were-right"
 excerpt: "Slightly over two years ago we posted about the hijacking of the Ukranian ro/ro Faina by Somali pirates.  The pirates were surprised to discover that the ship was loaded with arms, including 33 Russian T-72 battle tanks.   The pirates claimed … Continue reading &rarr;"
 categories:
   - "Current"

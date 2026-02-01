@@ -1,7 +1,7 @@
 ---
 title: "Stopping Plastic Bags Before They Reach the Oceans"
 date: 2018-07-03T07:57:13
-slug: stopping-plastic-bags-before-they-reach-the-oceans
+slug: "stopping-plastic-bags-before-they-reach-the-oceans"
 excerpt: "The best way to combat plastic pollution in the oceans is to stop the plastic before it gets there. We have been posting about the ever-growing garbage patches in the world’s oceans for the better part of a decade. The posts are beginning … Continue reading &rarr;"
 categories:
   - "Current"

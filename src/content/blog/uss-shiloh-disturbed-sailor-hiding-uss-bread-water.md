@@ -1,7 +1,7 @@
 ---
-title: "USS Shiloh — A Disturbed Sailor in Hiding on USS “Bread & Water”"
+title: "USS Shiloh — A Disturbed Sailor in Hiding on USS \"Bread & Water\""
 date: 2017-12-31T19:28:01
-slug: uss-shiloh-disturbed-sailor-hiding-uss-bread-water
+slug: "uss-shiloh-disturbed-sailor-hiding-uss-bread-water"
 excerpt: "Back in June, we posted about a 50-hour, 5,500 square-mile man-overboard search across the Philippine Sea on the USS Shiloh.  The search effort also included Japanese Coast Guard and naval forces. The sailor who was thought to have fallen overboard showed … Continue reading &rarr;"
 categories:
   - "Current"

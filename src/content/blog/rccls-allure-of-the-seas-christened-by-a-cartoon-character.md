@@ -1,7 +1,7 @@
 ---
 title: "RCCL’s Allure of the Seas Christened by a Cartoon Character"
 date: 2010-11-30T13:00:22
-slug: rccls-allure-of-the-seas-christened-by-a-cartoon-character
+slug: "rccls-allure-of-the-seas-christened-by-a-cartoon-character"
 excerpt: "In the beginning of November we posted about the new Disney cruise ship, Disney Dream, where interior cabins will have virtual port holes, which will show the view outside the ship and will include composited Disney cartoon characters flying by as well.   Now … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "At Sea Memorial for AHS Centaur 67 Years After Being Torpedoed"
 date: 2010-09-26T07:42:27
-slug: at-sea-memorial-for-ahs-centaur-67-years-after-being-torpedoed
+slug: "at-sea-memorial-for-ahs-centaur-67-years-after-being-torpedoed"
 excerpt: "The Australian Hospital Ship Centaur was torpedoed by a Japanese submarine off the coast of Queensland, Australia, on 14 May 1943. Of the 332 medical personnel and civilian crew aboard, 268 were killed.  The exact position of the sunken ship … Continue reading &rarr;"
 categories:
   - "History"

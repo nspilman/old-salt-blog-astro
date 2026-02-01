@@ -1,8 +1,8 @@
 ---
 title: "Thieves Escape by Speedboat After Heisting Crown Jewels"
 date: 2018-08-01T14:34:38
-slug: thieves-escape-by-speedboat-after-heisting-crown-jewels
-excerpt: "This sounds like a scene from a 1960 or 1970s “caper” movie. Around mid-day on Tuesday, two men walked into a medieval cathedral in Strangnas, in broad daylight, stole part of the Swedish crown jewels, and then escaped across a lake by … Continue reading &rarr;"
+slug: "thieves-escape-by-speedboat-after-heisting-crown-jewels"
+excerpt: "This sounds like a scene from a 1960 or 1970s \"caper\" movie. Around mid-day on Tuesday, two men walked into a medieval cathedral in Strangnas, in broad daylight, stole part of the Swedish crown jewels, and then escaped across a lake by … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Strangnas Cathedral"
   - "Sweden"
 author: "Rick Spilman"
-description: "This sounds like a scene from a 1960 or 1970s “caper” movie. Around mid-day on Tuesday, two men walked into a medieval cathedral in Strangnas, in broad daylight, stole part of the Swedish crown jewels, and then escaped across a lake by … Continue reading &rarr;"
+description: "This sounds like a scene from a 1960 or 1970s \"caper\" movie. Around mid-day on Tuesday, two men walked into a medieval cathedral in Strangnas, in broad daylight, stole part of the Swedish crown jewels, and then escaped across a lake by … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/08/malaren.jpg)This sounds like a scene from a 1960 or 1970s “[caper” movie](https://en.wikipedia.org/wiki/Caper_story). Around mid-day on Tuesday, two men walked into a medieval cathedral in [Strangnas](https://en.wikipedia.org/wiki/Str%C3%A4ngn%C3%A4s), in broad daylight, stole part of the Swedish crown jewels, and then escaped across a lake by speedboat. They are reported to have [stolen two gold crowns and an orb](https://www.washingtonpost.com/world/europe/royal-regalia-including-jewels-stolen-from-swedish-cathedral/2018/08/01/4906bfc0-956a-11e8-818b-e9b7348cd87d_story.html?utm_term=.efef9f359d27) made for King Karl IX and Queen Kristina. The objects dated from the 1600s. One of the crowns was jewel encrusted.

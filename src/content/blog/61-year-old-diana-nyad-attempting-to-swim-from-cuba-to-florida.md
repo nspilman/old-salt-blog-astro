@@ -1,7 +1,7 @@
 ---
 title: "61-year-old Diana Nyad Attempting to Swim from Cuba to Florida"
 date: 2011-08-08T09:59:57
-slug: 61-year-old-diana-nyad-attempting-to-swim-from-cuba-to-florida
+slug: "61-year-old-diana-nyad-attempting-to-swim-from-cuba-to-florida"
 excerpt: "Yesterday at 7:45 PM, American endurance swimmer Diana Nyad, 61, set off swimming from Havana in an attempt to become the first person to swim from Cuba to Florida without the aid of a shark cage.  The swim, if she succeeds, is … Continue reading &rarr;"
 categories:
   - "Current"

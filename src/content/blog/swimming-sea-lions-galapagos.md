@@ -1,7 +1,7 @@
 ---
 title: "Swimming with Sea Lions in the Galapagos"
 date: 2017-11-07T19:01:58
-slug: swimming-sea-lions-galapagos
+slug: "swimming-sea-lions-galapagos"
 excerpt: "My wife and I just got back from an incredible trip to the Galapagos. We spent a week on Ecoventura‘s 83’ MY Eric and visited six of the more eastern islands of the archipelago. We saw many of the species of … Continue reading &rarr;"
 categories:
   - "Current"

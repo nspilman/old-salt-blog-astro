@@ -1,7 +1,7 @@
 ---
 title: "George Steinbrenner, Ship Owner and Shipbuilder who also owned a Baseball Team"
 date: 2010-07-13T15:31:41
-slug: george-steinbrenner-ship-owner-and-shipbuilder-who-also-owned-a-baseball-team
+slug: "george-steinbrenner-ship-owner-and-shipbuilder-who-also-owned-a-baseball-team"
 excerpt: "George Steinbrenner, died today of a massive heart attack at the age of 80.  He was best known as the owner of the New York Yankees but belonged to a family of shipowners. Kinsman Marine Transit was once one of the largest … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Joan Druett’s A Love of Adventure – Free Today & Tomorrow on Kindle"
 date: 2013-05-21T13:02:56
-slug: joan-druetts-a-love-of-adventure-free-today-tomorrow-on-kindle
+slug: "joan-druetts-a-love-of-adventure-free-today-tomorrow-on-kindle"
 excerpt: "Joan Druett’s A Love of Adventure is free today and tomorrow as an Amazon Kindle edition. From our review, last August: Many of the classics of nautical literature are stories of young men who set off to sea, often compelled, in … Continue reading &rarr;"
 categories:
   - "Newbooks"

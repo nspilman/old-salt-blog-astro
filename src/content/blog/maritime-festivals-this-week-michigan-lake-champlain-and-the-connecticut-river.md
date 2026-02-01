@@ -1,7 +1,7 @@
 ---
 title: "Maritime Festivals This Week – Michigan, Lake Champlain and the Connecticut River"
 date: 2010-08-10T09:27:48
-slug: maritime-festivals-this-week-michigan-lake-champlain-and-the-connecticut-river
+slug: "maritime-festivals-this-week-michigan-lake-champlain-and-the-connecticut-river"
 excerpt: "This is a busy week for maritime festivals in the US.   In Grand Haven, Michigan, the Michigan Pirate Festival 2010 kicked off yesterday with a very Hollywood version of pirates and piracy.  So aargh and shivery m’ timbers.  If only … Continue reading &rarr;"
 categories:
   - "Current"

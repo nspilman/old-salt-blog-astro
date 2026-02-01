@@ -1,7 +1,7 @@
 ---
 title: "Thousands Evacuated as Cruise Ship Costa Concordia Strikes Reef Off Italy – At Least Three Dead"
 date: 2012-01-14T08:57:04
-slug: thousands-evacuated-as-cruise-ship-costa-concordia-strikes-reef-off-italy-at-least-three-dead
+slug: "thousands-evacuated-as-cruise-ship-costa-concordia-strikes-reef-off-italy-at-least-three-dead"
 excerpt: "Just two hours after leaving port in Civitavecchia, the cruise ship Costa Concordia hit a reef near the island of Giglio, off Italy’s Tuscan coast, reportedly ripping a 165-foot gash in its hull.  The ship began flooding and rolled on its … Continue reading &rarr;"
 categories:
   - "Current"

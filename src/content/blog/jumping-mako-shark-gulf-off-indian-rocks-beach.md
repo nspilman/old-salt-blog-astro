@@ -1,7 +1,7 @@
 ---
 title: "Jumping Mako Shark in Gulf off Indian Rocks Beach"
 date: 2017-01-21T09:30:48
-slug: jumping-mako-shark-gulf-off-indian-rocks-beach
+slug: "jumping-mako-shark-gulf-off-indian-rocks-beach"
 excerpt: "This video brings back memories of fishing in an open boat in the Gulf off John’s Pass, FL when I was in high school, back in another century. I remember when a friend landed a fairly small 3-4′ shark and … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Virtual Tour of Schooner Zodiac"
 date: 2020-05-09T15:31:33
-slug: virtual-tour-of-schooner-zodiac
+slug: "virtual-tour-of-schooner-zodiac"
 excerpt: "Click on the image below to be taken to a virtual tour of the 127′ long schooner Zodiac. The schooner Zodiac was built in 1924 for the heirs to the Johnson & Johnson pharmaceutical fortune. After a successful career as … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,8 +1,8 @@
 ---
 title: "Is Ragnarök, the Viking Apocalypse on Saturday? Really?"
 date: 2014-02-20T10:14:44
-slug: is-the-viking-apocalypse-ragnarok-on-saturday-really
-excerpt: "Some are predicting that the world will end Saturday, February 22, 2013, with Ragnarök, also known as Götterdämmerung, by the operatic among us. A reasonable response might be, “the world is ending — again?” We have lived through Y2k, the … Continue reading &rarr;"
+slug: "is-the-viking-apocalypse-ragnarok-on-saturday-really"
+excerpt: "Some are predicting that the world will end Saturday, February 22, 2013, with Ragnarök, also known as Götterdämmerung, by the operatic among us. A reasonable response might be, \"the world is ending — again?\" We have lived through Y2k, the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Ragnarök"
   - "Viking Apocalypse"
 author: "Rick Spilman"
-description: "Some are predicting that the world will end Saturday, February 22, 2013, with Ragnarök, also known as Götterdämmerung, by the operatic among us. A reasonable response might be, “the world is ending — again?” We have lived through Y2k, the … Continue reading &rarr;"
+description: "Some are predicting that the world will end Saturday, February 22, 2013, with Ragnarök, also known as Götterdämmerung, by the operatic among us. A reasonable response might be, \"the world is ending — again?\" We have lived through Y2k, the … Continue reading &rarr;"
 ---
 
 ![vikinga](http://www.oldsaltblog.com/wp-content/uploads/2014/02/vikinga.jpg)Some are predicting that the world will end Saturday, February 22, 2013, with [Ragnarök](http://en.wikipedia.org/wiki/Ragnar%C3%B6k), also known as [Götterdämmerung](http://en.wikipedia.org/wiki/G%C3%B6tterd%C3%A4mmerung), by the operatic among us. A reasonable response might be, “the world is ending — again?” We have lived through Y2k, the Mayan Apocalypse, the “Rapture” and a more than a few other end-of-the-world predictions. At least the Viking version sounds like it would make an exciting weekend.  Here is how it is supposed to go down, according to the [Daily Mail](http://www.dailymail.co.uk/news/article-2562584/The-Viking-Apocalypse-Norse-myth-predicts-world-end-Saturday.html):  

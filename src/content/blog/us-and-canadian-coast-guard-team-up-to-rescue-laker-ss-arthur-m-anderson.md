@@ -1,7 +1,7 @@
 ---
 title: "US and Canadian Coast Guard Team Up to Rescue Laker SS Arthur M. Anderson"
 date: 2015-02-21T18:53:39
-slug: us-and-canadian-coast-guard-team-up-to-rescue-laker-ss-arthur-m-anderson
+slug: "us-and-canadian-coast-guard-team-up-to-rescue-laker-ss-arthur-m-anderson"
 excerpt: "The US and Canadian Coast Guards have been working jointly to free the iconic Great Lakes bulk carrier, SS Arthur M. Anderson, stuck in the ice in Lake Erie near Conneaut Harbor.  The laker had been bound for Sturgeon Bay, WI when it … Continue reading &rarr;"
 categories:
   - "Current"

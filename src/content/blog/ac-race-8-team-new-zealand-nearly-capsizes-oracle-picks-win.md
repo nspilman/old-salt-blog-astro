@@ -1,7 +1,7 @@
 ---
 title: "AC Race 8 – Team New Zealand Nearly Capsizes, Oracle Picks Up a Win and Momentum"
 date: 2013-09-15T09:00:47
-slug: ac-race-8-team-new-zealand-nearly-capsizes-oracle-picks-win
+slug: "ac-race-8-team-new-zealand-nearly-capsizes-oracle-picks-win"
 excerpt: "In brisk winds on Saturday, Emirates Team New Zealand’s hopes of winning the America’s Cup nearly came to an end when they came perilously close to capsizing during a tack in Race 8 of the Americas’ Cup races in San … Continue reading &rarr;"
 categories:
   - "Current"

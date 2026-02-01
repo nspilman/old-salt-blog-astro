@@ -1,8 +1,8 @@
 ---
 title: "Happy 230th Birthday US Coast Guard!"
 date: 2020-08-04T10:50:28
-slug: happy-230th-birthday-us-coast-guard
-excerpt: "Alexander Hamilton suggested in The Federalist Papers that “a few armed vessels, judiciously stationed at the entrances of our ports, might at a small expense be made useful sentinels of the laws.” When Hamilton became the first Treasury Secretary of the … Continue reading &rarr;"
+slug: "happy-230th-birthday-us-coast-guard"
+excerpt: "Alexander Hamilton suggested in The Federalist Papers that \"a few armed vessels, judiciously stationed at the entrances of our ports, might at a small expense be made useful sentinels of the laws.\" When Hamilton became the first Treasury Secretary of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -11,7 +11,7 @@ tags:
   - "US Coast Guard"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/hamilton1.jpg"
 author: "Rick Spilman"
-description: "Alexander Hamilton suggested in The Federalist Papers that “a few armed vessels, judiciously stationed at the entrances of our ports, might at a small expense be made useful sentinels of the laws.” When Hamilton became the first Treasury Secretary of the … Continue reading &rarr;"
+description: "Alexander Hamilton suggested in The Federalist Papers that \"a few armed vessels, judiciously stationed at the entrances of our ports, might at a small expense be made useful sentinels of the laws.\" When Hamilton became the first Treasury Secretary of the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/hamilton1.jpg)Alexander Hamilton suggested in The Federalist Papers that “a *few armed vessels, judiciously stationed at the entrances of our ports, might at a small expense be made useful sentinels of the laws*.”

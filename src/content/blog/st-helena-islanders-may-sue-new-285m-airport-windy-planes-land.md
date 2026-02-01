@@ -1,7 +1,7 @@
 ---
 title: "St. Helena Islanders May Sue over New £285m Airport — Too Windy for Planes to Land"
 date: 2016-09-24T09:11:51
-slug: st-helena-islanders-may-sue-new-285m-airport-windy-planes-land
+slug: "st-helena-islanders-may-sue-new-285m-airport-windy-planes-land"
 excerpt: "Last June we posted about the new airport on St. Helena. The airport was meant to allow commercial airlines to land on St. Helena, bringing tourists and commerce to the beautiful but rocky and remote island in the South Atlantic. The British … Continue reading &rarr;"
 categories:
   - "Current"

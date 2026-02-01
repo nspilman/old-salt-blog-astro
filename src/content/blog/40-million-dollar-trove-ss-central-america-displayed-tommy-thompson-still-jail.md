@@ -1,7 +1,7 @@
 ---
 title: "$40 Million Dollar Trove from SS Central America Displayed (& Tommy Thompson Is Still In Jail)"
 date: 2018-02-26T14:52:40
-slug: 40-million-dollar-trove-ss-central-america-displayed-tommy-thompson-still-jail
+slug: "40-million-dollar-trove-ss-central-america-displayed-tommy-thompson-still-jail"
 excerpt: "Last weekend, gold ingots and coins valued at $40 million salvaged from the wreck of the SS Central America went on display for the first time at the 2018 Long Beach Coin, Currency, Stamp & Sports Collectible Expo. (The gold … Continue reading &rarr;"
 categories:
   - "Current"

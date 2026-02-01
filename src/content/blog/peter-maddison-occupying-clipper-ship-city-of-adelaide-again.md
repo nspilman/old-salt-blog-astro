@@ -1,7 +1,7 @@
 ---
 title: "Peter Maddison Occupying Clipper Ship City of Adelaide Again"
 date: 2012-02-27T12:11:00
-slug: peter-maddison-occupying-clipper-ship-city-of-adelaide-again
+slug: "peter-maddison-occupying-clipper-ship-city-of-adelaide-again"
 excerpt: "Just as preparations for moving the world’s oldest surviving clipper ship, the City of Adelaide, to her namesake city in Australia, are getting underway, Peter Maddison, a former councillor from Sunderland, where the ship was built, has occupied the old clipper, … Continue reading &rarr;"
 categories:
   - "Current"

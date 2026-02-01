@@ -1,7 +1,7 @@
 ---
 title: "Greenpeace: Japan Nuclear Plant Radiation Accumulating in Marine Life"
 date: 2011-06-02T16:12:19
-slug: greenpeace-japan-nuclear-plant-radiation-accumulating-in-marine-life
+slug: "greenpeace-japan-nuclear-plant-radiation-accumulating-in-marine-life"
 excerpt: "A recent report by Greenpeace directly contradicts Japanese government assurances that the radiation in the water near the crippled Fukushima nuclear plant is being dispersed and diluted over time.  Significant levels of radioactive contamination have been recorded in local seafood. Greenpeace: Japan nuclear plant radiation accumulating … Continue reading &rarr;"
 categories:
   - "Current"

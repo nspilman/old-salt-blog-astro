@@ -1,7 +1,7 @@
 ---
-title: "Baltic Shipwreck with “World’s Oldest Champagne” and now the “World’s Oldest Beer”"
+title: "Baltic Shipwreck with \"World’s Oldest Champagne\" and now the \"World’s Oldest Beer\""
 date: 2010-09-05T08:00:20
-slug: baltic-shipwreck-with-worlds-oldest-champagne-and-now-the-worlds-oldest-beer
+slug: "baltic-shipwreck-with-worlds-oldest-champagne-and-now-the-worlds-oldest-beer"
 excerpt: "In July, we posted about a Baltic shipwreck on which divers found 30 bottles of champagne thought to pre-date the French Revolution. (see Baltic Bubbly – ‘World’s oldest champagne’)   On subsequent dives, smaller bottles have been recovered which apparently contain … Continue reading &rarr;"
 categories:
   - "Current"

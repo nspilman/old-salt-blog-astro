@@ -1,7 +1,7 @@
 ---
 title: "Remembering HMS Bounty"
 date: 2012-11-18T13:43:05
-slug: remembering-hms-bounty
+slug: "remembering-hms-bounty"
 excerpt: "The last image of HMS Bounty was brutal – sinking off Cape Hatteras with broken spars, most of the crew in lifeboats and the captain and one crew member missing. Here are a few photos from another time, way back … Continue reading &rarr;"
 categories:
   - "Galleries"

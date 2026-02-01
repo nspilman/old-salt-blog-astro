@@ -1,7 +1,7 @@
 ---
 title: "Cape Wind Project, the First US Offshore Wind Farm, Approved"
 date: 2010-04-28T17:04:01
-slug: cape-wind-project-the-first-us-offshore-wind-farm-approved
+slug: "cape-wind-project-the-first-us-offshore-wind-farm-approved"
 excerpt: "The first offshore wind farm in the United States  has been approved by Washington.   The Cape Wind project is a proposed 130 turbine wind farm in Nantucket Sound.  It has been opposed for years by home owners in Cape … Continue reading &rarr;"
 categories:
   - "Current"

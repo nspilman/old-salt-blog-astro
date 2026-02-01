@@ -1,7 +1,7 @@
 ---
 title: "Researchers Locate Akagi — Second Japanese Carrier Sunk at Midway in WWII"
 date: 2019-10-22T18:23:44
-slug: researchers-locate-akagi-second-japanese-carrier-sunk-at-midway-in-wwii
+slug: "researchers-locate-akagi-second-japanese-carrier-sunk-at-midway-in-wwii"
 excerpt: "The RV Petrel has located the wreckage of the Japanese aircraft carrier Akagi, sunk in the Battle of Midway in June 1942. The ship is the second of two sunken Japanese carriers that the Petrel has located two days apart. … Continue reading &rarr;"
 categories:
   - "Current"

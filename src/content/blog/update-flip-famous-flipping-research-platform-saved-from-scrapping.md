@@ -1,7 +1,7 @@
 ---
 title: "Update: FLIP, Famous Flipping Research Platform, Saved From Scrapping"
 date: 2024-10-28T21:44:43
-slug: update-flip-famous-flipping-research-platform-saved-from-scrapping
+slug: "update-flip-famous-flipping-research-platform-saved-from-scrapping"
 excerpt: "In August of last year, we bade a sad farewell to the Floating Instrument Platform, known as FLIP, which after 61 years of service, had been retired and was scheduled to be sent to a scrapyard. Fortunately, our reporting was … Continue reading &rarr;"
 categories:
   - "Current"

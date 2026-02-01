@@ -1,7 +1,7 @@
 ---
 title: "Happy Juneteenth! Emancipation on Galveston Island 150 Years Ago Today"
 date: 2015-06-19T15:46:21
-slug: happy-juneteenth-emancipation-on-galveston-island-150-years-ago-today
+slug: "happy-juneteenth-emancipation-on-galveston-island-150-years-ago-today"
 excerpt: "Today is Juneteeth, a commemoration of the abolition of slavery in the state of Texas, in particular, and  in the Confederate states in general, one hundred and fifty years ago today. On June 5, 1865, two Union Navy ships, USS Cornubia and … Continue reading &rarr;"
 categories:
   - "Current"

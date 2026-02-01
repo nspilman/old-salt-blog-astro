@@ -1,7 +1,7 @@
 ---
 title: "Remembering Sailors at Sea over the Holidays"
 date: 2010-12-27T12:47:05
-slug: remembering-sailors-at-sea-over-the-holidays
+slug: "remembering-sailors-at-sea-over-the-holidays"
 excerpt: "Over one million seafarers keep ships sailing year round.  This is a good time to remember the sailors at sea over the holidays.  The Sailor’s Society, and other groups like it, do a wonderful job supporting sailors far from home. … Continue reading &rarr;"
 categories:
   - "Current"

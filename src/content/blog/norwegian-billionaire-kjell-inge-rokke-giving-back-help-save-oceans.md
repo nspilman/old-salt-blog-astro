@@ -1,7 +1,7 @@
 ---
 title: "Norwegian Billionaire Kjell Inge Røkke Giving Back to Help Save the Oceans"
 date: 2018-03-05T20:52:58
-slug: norwegian-billionaire-kjell-inge-rokke-giving-back-help-save-oceans
+slug: "norwegian-billionaire-kjell-inge-rokke-giving-back-help-save-oceans"
 excerpt: "Norwegian Billionaire Kjell Inge Røkke has pledged to give away a substantial portion of his US$ 3.8 billion fortune to fund efforts to help save the world’s oceans. Last May, he announced the construction of a 596′ long state-of-the-art ice-strengthened oceanographic … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Skysail in Close-Encounter with Airplane"
 date: 2009-09-21T07:54:07
-slug: skysail-in-close-encounter-with-airplane
+slug: "skysail-in-close-encounter-with-airplane"
 excerpt: "In June we posted about ships using SkySails to reduce fuel costs by an estimated 10 to 35%.   (See  Go Fly a Kite? A Look at SkySails)  One possibly unforeseen hazard of the SkySails became clear last week when an aircraft and a … Continue reading &rarr;"
 categories:
   - "Current"

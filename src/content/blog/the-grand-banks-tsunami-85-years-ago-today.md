@@ -1,7 +1,7 @@
 ---
 title: "The Grand Banks Tsunami — 85 Years Ago Today"
 date: 2014-11-18T09:02:27
-slug: the-grand-banks-tsunami-85-years-ago-today
+slug: "the-grand-banks-tsunami-85-years-ago-today"
 excerpt: "The word tsunami usually brings to mind seismic waves in the Pacific or the Indian Oceans. Eighty five years ago today, an major earthquake, in the Atlantic, approximately 250 km south of Newfoundland along the southern edge of the Grand … Continue reading &rarr;"
 categories:
   - "History"

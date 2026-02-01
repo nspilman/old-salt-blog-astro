@@ -1,7 +1,7 @@
 ---
 title: "Brillante Virtuoso, Suezmax Tanker, Set Ablaze by Pirates off Aden – Crew Safe"
 date: 2011-07-06T12:55:14
-slug: brillante-virtuoso-suezmax-tanker-set-ablaze-by-pirates-off-aden-crew-safe
+slug: "brillante-virtuoso-suezmax-tanker-set-ablaze-by-pirates-off-aden-crew-safe"
 excerpt: "It has long been predicted and now it has happened – a pirate attack has set fire to a loaded oil tanker.  On Wednesday morning, pirates operating in the Gulf of Aden attacked the Suezmax tanker,  Brillante Virtuoso, firing a rocket propelled grenade into the deck … Continue reading &rarr;"
 categories:
   - "Current"

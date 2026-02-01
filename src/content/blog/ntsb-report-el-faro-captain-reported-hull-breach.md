@@ -1,14 +1,14 @@
 ---
 title: "NTSB Report: El Faro Captain Reported Hull Breach"
 date: 2015-10-21T16:01:15
-slug: ntsb-report-el-faro-captain-reported-hull-breach
-excerpt: "Yesterday afternoon, the National Transportation Safety Board (NTSB) released an updated report on their investigation into the sinking of El Faro in Hurricane Joaquin in early October. The report notes: “In a recorded satellite phone call to the company’s emergency … Continue reading &rarr;"
+slug: "ntsb-report-el-faro-captain-reported-hull-breach"
+excerpt: "Yesterday afternoon, the National Transportation Safety Board (NTSB) released an updated report on their investigation into the sinking of El Faro in Hurricane Joaquin in early October. The report notes: \"In a recorded satellite phone call to the company’s emergency … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 author: "Rick Spilman"
-description: "Yesterday afternoon, the National Transportation Safety Board (NTSB) released an updated report on their investigation into the sinking of El Faro in Hurricane Joaquin in early October. The report notes: “In a recorded satellite phone call to the company’s emergency … Continue reading &rarr;"
+description: "Yesterday afternoon, the National Transportation Safety Board (NTSB) released an updated report on their investigation into the sinking of El Faro in Hurricane Joaquin in early October. The report notes: \"In a recorded satellite phone call to the company’s emergency … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2015/10/elfaro3.jpg)Yesterday afternoon, the [National Transportation Safety Board (NTSB) released an updated report](http://www.ntsb.gov/news/press-releases/Pages/PR20151020.aspx) on their investigation into the sinking of *El Faro* in Hurricane Joaquin in early October. The report notes: “*In a recorded satellite phone call to the company’s emergency call center at 7:00 am EDT, the captain told the call center operator that he had a marine emergency. He reported that there was a hull breach, a scuttle had blown open, and that there was water in hold number 3. He also said that the ship had lost its main propulsion unit and the engineers could not get it going.*”  

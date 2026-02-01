@@ -1,7 +1,7 @@
 ---
 title: "Wife of Submersible Titan’s Pilot Descendent of Famous Titanic Victims"
 date: 2023-06-28T18:18:41
-slug: wife-of-submersible-titans-pilot-descendent-of-famous-titanic-victims
+slug: "wife-of-submersible-titans-pilot-descendent-of-famous-titanic-victims"
 excerpt: "Wendy Rush, the wife of the late Stockton Rush, the co-founder of OceanGate and pilot of the Titan when the submersible imploded, is a great-great-granddaughter of two first-class passengers who died when the Titanic sank in 1912. Ms. Rush is … Continue reading &rarr;"
 categories:
   - "History"

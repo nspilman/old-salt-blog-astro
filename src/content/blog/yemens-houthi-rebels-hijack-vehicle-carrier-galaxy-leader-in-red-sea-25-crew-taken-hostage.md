@@ -1,7 +1,7 @@
 ---
 title: "Yemen’s Houthi Rebels Hijack Vehicle Carrier Galaxy Leader in Red Sea — 25 Crew Taken Hostage"
 date: 2023-11-19T18:37:28
-slug: yemens-houthi-rebels-hijack-vehicle-carrier-galaxy-leader-in-red-sea-25-crew-taken-hostage
+slug: "yemens-houthi-rebels-hijack-vehicle-carrier-galaxy-leader-in-red-sea-25-crew-taken-hostage"
 excerpt: "Yemen’s Houthi rebels seized the vehicle carrier Galaxy Leader in the Red Sea on Sunday, officials said, taking over two dozen crew members hostage.  The Iran-backed Houthi rebels said they hijacked the ship over its connection to Israel. The group … Continue reading &rarr;"
 categories:
   - "Current"

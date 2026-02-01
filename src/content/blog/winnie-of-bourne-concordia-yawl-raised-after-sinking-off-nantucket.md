@@ -1,7 +1,7 @@
 ---
 title: "Winnie of Bourne, Concordia Yawl, Raised After Sinking Off Nantucket"
 date: 2014-08-11T11:19:34
-slug: winnie-of-bourne-concordia-yawl-raised-after-sinking-off-nantucket
+slug: "winnie-of-bourne-concordia-yawl-raised-after-sinking-off-nantucket"
 excerpt: "On Friday morning, near the entrance to Nantucket harbor at around 10:30 AM, someone made a very bad mistake.  The 40′ Concordia yawl, Winnie of Bourne, and the 46′ Swan, Dragon, collided, sending the Concordia yawl to the bottom. The four … Continue reading &rarr;"
 categories:
   - "Current"

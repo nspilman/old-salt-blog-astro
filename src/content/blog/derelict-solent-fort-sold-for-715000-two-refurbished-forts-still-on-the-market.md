@@ -1,15 +1,15 @@
 ---
 title: "Derelict Solent Fort Sold for £715,000, Two Refurbished Forts Still on the Market"
 date: 2021-11-02T14:59:41
-slug: derelict-solent-fort-sold-for-715000-two-refurbished-forts-still-on-the-market
-excerpt: "Between 1865-80, four forts were built in the Solent to protect Portsmouth and its harbor from sea attack and bombardment. Locally known as “Palmerston’s Follies” after the Prime Minister of the time, they were built in response to an invasion … Continue reading &rarr;"
+slug: "derelict-solent-fort-sold-for-715000-two-refurbished-forts-still-on-the-market"
+excerpt: "Between 1865-80, four forts were built in the Solent to protect Portsmouth and its harbor from sea attack and bombardment. Locally known as \"Palmerston’s Follies\" after the Prime Minister of the time, they were built in response to an invasion … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
   - "Lore of the Sea"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/11/horsesandfort.jpg"
 author: "Rick Spilman"
-description: "Between 1865-80, four forts were built in the Solent to protect Portsmouth and its harbor from sea attack and bombardment. Locally known as “Palmerston’s Follies” after the Prime Minister of the time, they were built in response to an invasion … Continue reading &rarr;"
+description: "Between 1865-80, four forts were built in the Solent to protect Portsmouth and its harbor from sea attack and bombardment. Locally known as \"Palmerston’s Follies\" after the Prime Minister of the time, they were built in response to an invasion … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/11/horsesandfort.jpg)

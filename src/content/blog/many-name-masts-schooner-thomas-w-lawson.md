@@ -1,7 +1,7 @@
 ---
 title: "The Many Names for the the Many Masts of the Schooner Thomas W. Lawson"
 date: 2016-04-07T09:16:33
-slug: many-name-masts-schooner-thomas-w-lawson
+slug: "many-name-masts-schooner-thomas-w-lawson"
 excerpt: "The seven-masted iron schooner Thomas W. Lawson, delivered in 1902, is remembered as the largest schooner ever built and the largest pure sailing vessel, in terms of tonnage, to ever sail.  Mostly, however, she is remembered for her rig. She … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

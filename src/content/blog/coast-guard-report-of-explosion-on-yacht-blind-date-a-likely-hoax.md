@@ -1,7 +1,7 @@
 ---
 title: "Coast Guard: Report of Explosion on Yacht Blind Date A Likely Hoax"
 date: 2012-06-12T07:38:32
-slug: coast-guard-report-of-explosion-on-yacht-blind-date-a-likely-hoax
+slug: "coast-guard-report-of-explosion-on-yacht-blind-date-a-likely-hoax"
 excerpt: "Yesterday we posted about an odd distress call. The Coast Guard now considers the report that the yacht Blind Date exploded off the coast of New Jersey to be a likely hoax.  No debris from the yacht was ever found. Nor were … Continue reading &rarr;"
 categories:
   - "Current"

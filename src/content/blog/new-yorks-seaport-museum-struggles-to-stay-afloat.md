@@ -1,8 +1,8 @@
 ---
 title: "New York’s Seaport Museum Struggles to Stay Afloat"
 date: 2011-02-15T09:16:26
-slug: new-yorks-seaport-museum-struggles-to-stay-afloat
-excerpt: "Update: The Seaport Museum “temporarily” laid-off another twelve staff members on Monday afternoon. More bad news from the South Street Seaport.   Last week the Seaport Museum laid off the captain of the schooner Pioneer, as well a marine educator … Continue reading &rarr;"
+slug: "new-yorks-seaport-museum-struggles-to-stay-afloat"
+excerpt: "Update: The Seaport Museum \"temporarily\" laid-off another twelve staff members on Monday afternoon. More bad news from the South Street Seaport.   Last week the Seaport Museum laid off the captain of the schooner Pioneer, as well a marine educator … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -17,7 +17,7 @@ tags:
   - "tug Helen McAllister"
   - "Windjammer"
 author: "Rick Spilman"
-description: "Update: The Seaport Museum “temporarily” laid-off another twelve staff members on Monday afternoon. More bad news from the South Street Seaport.   Last week the Seaport Museum laid off the captain of the schooner Pioneer, as well a marine educator … Continue reading &rarr;"
+description: "Update: The Seaport Museum \"temporarily\" laid-off another twelve staff members on Monday afternoon. More bad news from the South Street Seaport.   Last week the Seaport Museum laid off the captain of the schooner Pioneer, as well a marine educator … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/02/seaport1.jpg)

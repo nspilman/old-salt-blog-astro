@@ -1,7 +1,7 @@
 ---
 title: "88 Lilac — Art Installation on Historic Lighthouse Tender Lilac"
 date: 2021-08-04T10:19:31
-slug: 88-lilac-art-installation-on-historic-lighthouse-tender-lilac
+slug: "88-lilac-art-installation-on-historic-lighthouse-tender-lilac"
 excerpt: "Happy Coast Guard Day! In honor of the day, a post about the former Coast Guard lighthouse tender, USCGC Lilac, a museum ship located on the Hudson River in New York City. The Lilac is America’s only surviving steam-powered lighthouse … Continue reading &rarr;"
 categories:
   - "City of Ships"

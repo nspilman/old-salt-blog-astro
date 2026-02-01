@@ -1,7 +1,7 @@
 ---
 title: "Divers Destroy WWII Bomb Found in 17th Century Ship London"
 date: 2019-10-01T16:54:17
-slug: divers-destroy-wwii-bomb-found-in-17th-century-ship-london
+slug: "divers-destroy-wwii-bomb-found-in-17th-century-ship-london"
 excerpt: "Civilian divers were on an archeological dive on the London, a Royal Navy ship built-in 1656 which exploded and sank in 1665 in the Thames Estuary. They were shocked to find a large World War II bomb in the wreck. … Continue reading &rarr;"
 categories:
   - "Current"

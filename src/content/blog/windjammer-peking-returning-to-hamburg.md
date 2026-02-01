@@ -1,7 +1,7 @@
 ---
 title: "Windjammer Peking Returning to Hamburg"
 date: 2015-11-15T11:33:34
-slug: windjammer-peking-returning-to-hamburg
+slug: "windjammer-peking-returning-to-hamburg"
 excerpt: "Good, if rather bittersweet, news for those of us around New York harbor. The windjammer Peking, a fixture of New York’s South Street Seaport for over 40 years, will be returning to its original home port in Hamburg, Germany for … Continue reading &rarr;"
 categories:
   - "Current"

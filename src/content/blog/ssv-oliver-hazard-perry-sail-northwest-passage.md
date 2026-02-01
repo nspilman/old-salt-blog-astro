@@ -1,7 +1,7 @@
 ---
 title: "SSV Oliver Hazard Perry to Sail to Northwest Passage"
 date: 2016-09-15T09:01:54
-slug: ssv-oliver-hazard-perry-sail-northwest-passage
+slug: "ssv-oliver-hazard-perry-sail-northwest-passage"
 excerpt: "This summer, the SSV Oliver Hazard Perry will sail from its homeport of Newport, RI on a five-week expedition to the Canadian Arctic, becoming the first full-rigged sailing ship to sail in the Northwest Passage in more than a century. The University … Continue reading &rarr;"
 categories:
   - "Current"

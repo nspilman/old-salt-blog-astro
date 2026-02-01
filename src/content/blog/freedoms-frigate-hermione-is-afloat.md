@@ -1,7 +1,7 @@
 ---
 title: "Hermione, Freedom’s Frigate, is Afloat"
 date: 2012-06-07T09:39:13
-slug: freedoms-frigate-hermione-is-afloat
+slug: "freedoms-frigate-hermione-is-afloat"
 excerpt: "We have posted  last March about the replica of the French light frigate l’ Hermione, which has been under construction since 1997 at the historic dockyard in Rochefort, France.  The original l’ Hermione carried the 23 year old the Marquis de Lafayette back to America in … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Bringing History to Life: Interpreters at Mystic Seaport"
 date: 2016-07-16T09:17:35
-slug: bringing-history-life-interpreters-mystic-seaport
+slug: "bringing-history-life-interpreters-mystic-seaport"
 excerpt: "The first time I visited Mystic Seaport Museum was around 1974 when, as a student of naval architecture with a summer job in New York City, I took the train out to Mystic, CT. It was like no museum I … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

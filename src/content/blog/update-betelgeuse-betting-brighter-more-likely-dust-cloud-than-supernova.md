@@ -1,7 +1,7 @@
 ---
 title: "Update: Betelgeuse Getting Brighter — More Likely Dust Cloud than Supernova"
 date: 2020-03-08T17:34:56
-slug: update-betelgeuse-betting-brighter-more-likely-dust-cloud-than-supernova
+slug: "update-betelgeuse-betting-brighter-more-likely-dust-cloud-than-supernova"
 excerpt: "We recently posted about the red giant navigational star Betelgeuse in the constellation Orion, which was observed to be growing significantly dimmer. Not a little dimmer but about 40% dimmer. Some astronomers speculated that the dimming suggested that the star … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

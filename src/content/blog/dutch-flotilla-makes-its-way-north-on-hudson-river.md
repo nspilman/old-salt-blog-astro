@@ -1,7 +1,7 @@
 ---
 title: "Dutch flotilla makes its way north on Hudson River"
 date: 2009-09-19T07:58:01
-slug: dutch-flotilla-makes-its-way-north-on-hudson-river
+slug: "dutch-flotilla-makes-its-way-north-on-hudson-river"
 excerpt: "Following up on our previous posts – Dutch Barges invade New York and The Dutch Barge Fleet has Arrived in New York.  From the AP: Dutch flotilla makes its way north on Hudson River A flotilla of historic Dutch sailing ships is … Continue reading &rarr;"
 categories:
   - "Current"

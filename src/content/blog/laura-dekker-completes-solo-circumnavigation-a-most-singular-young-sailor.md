@@ -1,7 +1,7 @@
 ---
 title: "Laura Dekker Completes Solo Circumnavigation – A Most Singular Young Sailor"
 date: 2012-01-21T14:57:23
-slug: laura-dekker-completes-solo-circumnavigation-a-most-singular-young-sailor
+slug: "laura-dekker-completes-solo-circumnavigation-a-most-singular-young-sailor"
 excerpt: "Laura Dekker has arrived in St. Maarten, having sailed her 38 ft Jeanneau Gin Fizz ketch, Guppy, successfully around the world alone.  Her voyage began when she quietly slipped out of  Gibraltar on August 21, 2010.  At only 16 years and four … Continue reading &rarr;"
 categories:
   - "Current"

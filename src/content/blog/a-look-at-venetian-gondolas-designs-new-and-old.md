@@ -1,7 +1,7 @@
 ---
 title: "A Look at Venetian Gondolas — Designs New and Old"
 date: 2021-09-21T14:53:44
-slug: a-look-at-venetian-gondolas-designs-new-and-old
+slug: "a-look-at-venetian-gondolas-designs-new-and-old"
 excerpt: "This is a post about contrasts – new and old, fanciful and time-tested, inspiration and tradition. This is also a post about Venetian gondolas. The gondola, the iconic Venetian rowing boat, has been around since at least the 11th century. … Continue reading &rarr;"
 categories:
   - "Current"

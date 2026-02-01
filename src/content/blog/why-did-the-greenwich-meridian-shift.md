@@ -1,7 +1,7 @@
 ---
 title: "Why Did the Greenwich Meridian Shift?"
 date: 2015-08-31T09:00:29
-slug: why-did-the-greenwich-meridian-shift
+slug: "why-did-the-greenwich-meridian-shift"
 excerpt: "Recently, it was reported that the Prime Meridian, as marked at the Royal Observatory in Greenwich, England, is off by 102 meters, over the length of an American football field. The Prime Meridian is the arbitrary line marking 0 degrees … Continue reading &rarr;"
 categories:
   - "Current"

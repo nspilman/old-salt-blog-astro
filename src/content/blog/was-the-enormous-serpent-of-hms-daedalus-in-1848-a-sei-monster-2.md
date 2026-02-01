@@ -1,7 +1,7 @@
 ---
-title: "Was the ‘Enormous Serpent’ of HMS Daedalus in 1848 a “Sei” Monster?"
+title: "Was the ‘Enormous Serpent’ of HMS Daedalus in 1848 a \"Sei\" Monster?"
 date: 2025-05-06T11:45:48
-slug: was-the-enormous-serpent-of-hms-daedalus-in-1848-a-sei-monster-2
+slug: "was-the-enormous-serpent-of-hms-daedalus-in-1848-a-sei-monster-2"
 excerpt: "An updated repost of an odd bit of history. One of the most interesting accounts of a sea serpent is that of the HMS Daedalus in 1848. When sailing in the South Atlantic, some 300 miles from the coast of … Continue reading &rarr;"
 categories:
   - "History"

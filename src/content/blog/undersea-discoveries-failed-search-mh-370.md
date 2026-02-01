@@ -1,7 +1,7 @@
 ---
 title: "Undersea Discoveries in the Failed Search for MH370"
 date: 2017-07-29T09:50:34
-slug: undersea-discoveries-failed-search-mh-370
+slug: "undersea-discoveries-failed-search-mh-370"
 excerpt: "The disappearance of Malaysian Air flight MH370, which vanished in March 2014 en route to Beijing from Kuala Lumpur with 239 people on board, remains one of the worlds greatest aviation mysteries. After surveying over 120,000 square kilometers of Indian … Continue reading &rarr;"
 categories:
   - "Current"

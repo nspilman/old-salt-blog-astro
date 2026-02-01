@@ -1,7 +1,7 @@
 ---
 title: "When the Frigate USS Stein Was Attacked by a Colossal Squid"
 date: 2025-05-09T13:43:49
-slug: when-the-frigate-uss-stein-was-attacked-by-a-colossal-squid-2
+slug: "when-the-frigate-uss-stein-was-attacked-by-a-colossal-squid-2"
 excerpt: "Last month, we posted about the first-ever confirmed image of a colossal squid in the deep ocean. Ironically, the first colossal squid caught on camera was anything but colossal. It was a juvenile of only about 1 foot in length. … Continue reading &rarr;"
 categories:
   - "Current"

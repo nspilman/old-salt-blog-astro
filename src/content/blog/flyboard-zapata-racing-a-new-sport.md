@@ -1,7 +1,7 @@
 ---
 title: "Flyboard Zapata Racing – A New Sport?"
 date: 2013-02-03T18:29:02
-slug: flyboard-zapata-racing-a-new-sport
+slug: "flyboard-zapata-racing-a-new-sport"
 excerpt: "In December of 2011, we posted about the Zapata Water-Jet Flyboard, a sort of personal jetpack connected to a powerful jet ski. Now, just over a year later, we learn that the Flyboard World Cup competition took place in Doha, … Continue reading &rarr;"
 categories:
   - "Current"

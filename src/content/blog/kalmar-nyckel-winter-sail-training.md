@@ -1,7 +1,7 @@
 ---
 title: "Kalmar Nyckel Winter Sail Training"
 date: 2015-02-07T16:53:08
-slug: kalmar-nyckel-winter-sail-training
+slug: "kalmar-nyckel-winter-sail-training"
 excerpt: "In January, we posted about winter crew training classes for volunteer crew on the replica ship Kalmar Nyckel.  The classes run for nine Saturdays between January and April.  At the time we didn’t ask where or how the training would take place. The … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "An Ill-fated Cruise for the Costa Classica"
 date: 2010-10-20T16:54:48
-slug: an-ill-fated-cruise-for-the-costa-classica
+slug: "an-ill-fated-cruise-for-the-costa-classica"
 excerpt: "The Costa Classica‘s current cruise has not gone well.   First, on a stop at Korea’s southern resort island of Jeju, 44 Chinese tourists abandoned the tour group en masse.   South Korean police have located eleven of the group, but 33 remain unaccounted … Continue reading &rarr;"
 categories:
   - "Current"

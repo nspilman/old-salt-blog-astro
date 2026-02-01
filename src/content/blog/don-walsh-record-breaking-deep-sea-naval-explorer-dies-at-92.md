@@ -1,7 +1,7 @@
 ---
 title: "Don Walsh, Record Breaking Deep Sea Naval Explorer, Dies at 92"
 date: 2023-11-18T19:14:44
-slug: don-walsh-record-breaking-deep-sea-naval-explorer-dies-at-92
+slug: "don-walsh-record-breaking-deep-sea-naval-explorer-dies-at-92"
 excerpt: "Don Walsh, a pioneering US Navy explorer, died on Nov. 12 at his home in Myrtle Point, Ore. He was 92. On Jan. 23, 1960, Walsh was a Navy lieutenant in command of the bathyscaphe Trieste, when he and Swiss … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

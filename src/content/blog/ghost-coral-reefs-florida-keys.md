@@ -1,7 +1,7 @@
 ---
 title: "Ghost Coral Reefs of the Florida Keys"
 date: 2017-11-26T18:35:42
-slug: ghost-coral-reefs-florida-keys
+slug: "ghost-coral-reefs-florida-keys"
 excerpt: "In 1775, George Gauld, a surveyor for the British Admiralty, charted the waters off the coast of the British colony of West Florida.  Recently, Loren McClenachan, historical ecologist and professor of environmental studies at Colby College, has compared Gauld’s charts of the coral … Continue reading &rarr;"
 categories:
   - "Current"

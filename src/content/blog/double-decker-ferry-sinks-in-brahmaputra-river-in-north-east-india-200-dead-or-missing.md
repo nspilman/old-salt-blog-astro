@@ -1,7 +1,7 @@
 ---
 title: "Double-Decker Ferry Sinks in Brahmaputra River in North-East India – 200 Dead or Missing"
 date: 2012-04-30T16:18:35
-slug: double-decker-ferry-sinks-in-brahmaputra-river-in-north-east-india-200-dead-or-missing
+slug: "double-decker-ferry-sinks-in-brahmaputra-river-in-north-east-india-200-dead-or-missing"
 excerpt: "A double-decker ferry carrying an estimated 350 people capsized, broke apart and sank in the Brahmaputra River in heavy weather.  The ferry was traveling between Dhubri to Fakirganjan in Assam state and was reported to be overloaded with passengers and cargo, and carried … Continue reading &rarr;"
 categories:
   - "Current"

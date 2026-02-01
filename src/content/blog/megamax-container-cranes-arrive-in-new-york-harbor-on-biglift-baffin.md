@@ -1,7 +1,7 @@
 ---
 title: "Megamax Container Cranes Arrive in New York Harbor on BigLift Baffin"
 date: 2022-09-10T17:00:31
-slug: megamax-container-cranes-arrive-in-new-york-harbor-on-biglift-baffin
+slug: "megamax-container-cranes-arrive-in-new-york-harbor-on-biglift-baffin"
 excerpt: "Three megamax container cranes have arrived in the Port of New York and New Jersey on the Netherlands-flagged heavy-lift ship BigLift Baffin. They will be offloaded and installed at the Maher Terminals in Elizabeth, New Jersey.  The new cranes, built … Continue reading &rarr;"
 categories:
   - "Current"

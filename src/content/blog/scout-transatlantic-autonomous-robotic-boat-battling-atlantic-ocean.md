@@ -1,7 +1,7 @@
 ---
 title: "Scout TransAtlantic –  Autonomous Robotic Boat Battling the Atlantic Ocean"
 date: 2013-09-14T12:09:10
-slug: scout-transatlantic-autonomous-robotic-boat-battling-atlantic-ocean
+slug: "scout-transatlantic-autonomous-robotic-boat-battling-atlantic-ocean"
 excerpt: "Scout is on its way to Spain! It is a twelve foot long autonomous robotic boat designed to cross the Atlantic Ocean, relying only on pre-programmed commands and information that it can collect about its environment through sensors. Built by a … Continue reading &rarr;"
 categories:
   - "Current"

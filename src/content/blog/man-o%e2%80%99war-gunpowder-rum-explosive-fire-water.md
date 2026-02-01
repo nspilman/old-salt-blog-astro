@@ -1,7 +1,7 @@
 ---
 title: "Man O’War Gunpowder Rum – Explosive Fire Water"
 date: 2010-10-16T17:16:49
-slug: man-o%e2%80%99war-gunpowder-rum-explosive-fire-water
+slug: "man-o%e2%80%99war-gunpowder-rum-explosive-fire-water"
 excerpt: "The story goes that the pirate, Edward Teach, better known as Blackbeard, once mixed gunpowder in his rum, set the rum on fire and then drank the explosive mixture, sort of an early 18th century flaming jello shot, but with more incendiary and less … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Congratualtions to Hōkūleʻa’s Master Navigator Nainoa Thompson"
 date: 2017-03-29T11:46:37
-slug: congratualtions-to-hokule%ca%bbas-master-navigator-nainoa-thompson
+slug: "congratualtions-to-hokule%ca%bbas-master-navigator-nainoa-thompson"
 excerpt: "Congratulations to Nainoa Thompson who was honored recently with the 2017 Explorers Club Medal, the most prestigious recognition in exploration. The award was presented to Thompson at the 113th Explorers Club Annual Dinner at Ellis Island in New York City. Thompson was recognized … Continue reading &rarr;"
 categories:
   - "Current"

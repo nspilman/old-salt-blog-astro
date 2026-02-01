@@ -1,7 +1,7 @@
 ---
 title: "Wind Power and Hot Air – Cape Wind Still in Doubt as Google Shows Some Backbone"
 date: 2010-10-12T08:20:47
-slug: wind-power-and-hot-air-cape-wind-still-in-doubt-as-google-shows-some-backbone
+slug: "wind-power-and-hot-air-cape-wind-still-in-doubt-as-google-shows-some-backbone"
 excerpt: "According to one study the US has enough offshore wind to power the country four times over.  In Europe there are currently 830 wind turbines now installed and grid connected, totalling 2,063 MW in 39 wind farms in nine European … Continue reading &rarr;"
 categories:
   - "Current"

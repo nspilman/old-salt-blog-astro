@@ -1,7 +1,7 @@
 ---
 title: "Update: On USS Theodore Roosevelt, Number of Sailors Positive Twice For Coronavirus Rises to 13"
 date: 2020-05-17T11:37:23
-slug: update-on-uss-theodore-roosevelt-number-of-sailors-positive-for-coronavirus-twice-rises-to-13
+slug: "update-on-uss-theodore-roosevelt-number-of-sailors-positive-for-coronavirus-twice-rises-to-13"
 excerpt: "Yesterday, we posted about 5 sailors from the aircraft carrier USS Theodore Roosevelt who appeared to have contracted the coronavirus for a second time. That number has now risen to 13.  Politico reports that the 13 Covid-positive sailors have been … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

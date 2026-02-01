@@ -1,7 +1,7 @@
 ---
 title: "Stealth Sub Jimmy Carter Ready to Spy on North Korea"
 date: 2010-11-28T09:08:11
-slug: stealth-sub-jimmy-carter-ready-to-spy-on-north-korea
+slug: "stealth-sub-jimmy-carter-ready-to-spy-on-north-korea"
 excerpt: "In August of this year, ex-President Jimmy Carter traveled to North Korea on a diplomatic mission to free a captive American.  Now the submarine which bears his name is reported to be nearing North Korea as well.   Following the shelling of … Continue reading &rarr;"
 categories:
   - "Current"

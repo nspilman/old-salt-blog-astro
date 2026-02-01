@@ -1,7 +1,7 @@
 ---
 title: "Over 500 Libyan Refugees Rescued off Italy near Lampedusa Island"
 date: 2011-05-09T15:48:22
-slug: over-500-libyan-refugees-rescued-off-italy-near-lampedusa-island
+slug: "over-500-libyan-refugees-rescued-off-italy-near-lampedusa-island"
 excerpt: "In April we posted about the sinking of an overloaded fishing boat carrying Libyan refugees where over 200 drowned.   Today it was reported that another overloaded refugee boat in the roughly the same area sank with over 500 people aboard. Fortunately, the Italian … Continue reading &rarr;"
 categories:
   - "Current"

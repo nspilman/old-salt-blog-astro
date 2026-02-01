@@ -1,7 +1,7 @@
 ---
 title: "Sailors Sewing Cloth Masks on US Aircraft Carriers, USS Roosevelt Infections Rise to 550"
 date: 2020-04-12T11:40:26
-slug: sailors-sewing-cloth-masks-on-us-aircraft-carriers-uss-roosevelt-infections-rise-to-550
+slug: "sailors-sewing-cloth-masks-on-us-aircraft-carriers-uss-roosevelt-infections-rise-to-550"
 excerpt: "Since April 5, the U.S. Navy has required fabric face coverings for all service members and civilians where social distancing isn’t possible, such as in the cramped quarters aboard an aircraft carrier or other Navy ship. While they required face … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

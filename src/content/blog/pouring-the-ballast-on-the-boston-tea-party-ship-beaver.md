@@ -1,7 +1,7 @@
 ---
 title: "Pouring the Ballast on the Boston Tea Party Ship Beaver"
 date: 2012-04-13T08:03:08
-slug: pouring-the-ballast-on-the-boston-tea-party-ship-beaver
+slug: "pouring-the-ballast-on-the-boston-tea-party-ship-beaver"
 excerpt: "The Beaver, a replica of one of ships that were the center of the Boston Tea Party in the run-up to the American Revolution, was relaunched in January after a major rebuild at the Gloucester Marine Railways.  The Beaver and … Continue reading &rarr;"
 categories:
   - "Current"

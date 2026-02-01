@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup Racing – the Reason that the Crews Wear Crash Helmets"
 date: 2012-08-28T11:16:21
-slug: americas-cup-racing-the-reason-that-the-crews-wear-crash-helmets
+slug: "americas-cup-racing-the-reason-that-the-crews-wear-crash-helmets"
 excerpt: "I have a distinct recollection a photo of Thomas Lipton on one of his Americas Cup challengers sipping a cup of the tea on which his fortune was based.  I can’t find the photograph, so perhaps I shouldn’t trust my memory. … Continue reading &rarr;"
 categories:
   - "Current"

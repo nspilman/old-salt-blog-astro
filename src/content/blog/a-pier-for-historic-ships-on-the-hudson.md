@@ -1,7 +1,7 @@
 ---
 title: "A Pier for Historic Ships on the Hudson?"
 date: 2011-01-17T11:01:52
-slug: a-pier-for-historic-ships-on-the-hudson
+slug: "a-pier-for-historic-ships-on-the-hudson"
 excerpt: "The Hudson river docks in New York harbor were once elegant terminals that greeted the arrival of passenger ships in the 1900s. Several were designed by the same architects that designed New York’s Grand Central Station. By the 70s, when … Continue reading &rarr;"
 categories:
   - "Current"

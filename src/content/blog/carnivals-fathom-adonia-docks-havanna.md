@@ -1,7 +1,7 @@
 ---
 title: "Carnival’s Fathom Adonia Docks in Havanna, Cuba"
 date: 2016-05-02T16:29:52
-slug: carnivals-fathom-adonia-docks-havanna
+slug: "carnivals-fathom-adonia-docks-havanna"
 excerpt: "After more than a half-century, American cruise passengers have returned to Cuba. Carnival Corporation’s MV Adonia docked in Havanna, Cuba today carrying hundreds of Americans including a few dozen Cuban-born Americans returning to the island for the first time in … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Update: $17 Million Settlement in Duck Boat Tragedy Lawsuit"
 date: 2012-05-10T16:44:18
-slug: update-17-million-settlement-in-duck-boat-tragedy-lawsuit
-excerpt: "A settlement has been reached in the civil lawsuit over the deaths of two Hungarian tourists and other passenger injuries when  a barge pushed by a K-Sea tug, Caribbean Sea, struck the disabled “Duck boat” DUKW 34 at anchor in … Continue reading &rarr;"
+slug: "update-17-million-settlement-in-duck-boat-tragedy-lawsuit"
+excerpt: "A settlement has been reached in the civil lawsuit over the deaths of two Hungarian tourists and other passenger injuries when  a barge pushed by a K-Sea tug, Caribbean Sea, struck the disabled \"Duck boat\" DUKW 34 at anchor in … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Ride the Ducks"
   - "Szabolcs Prem"
 author: "Rick Spilman"
-description: "A settlement has been reached in the civil lawsuit over the deaths of two Hungarian tourists and other passenger injuries when  a barge pushed by a K-Sea tug, Caribbean Sea, struck the disabled “Duck boat” DUKW 34 at anchor in … Continue reading &rarr;"
+description: "A settlement has been reached in the civil lawsuit over the deaths of two Hungarian tourists and other passenger injuries when  a barge pushed by a K-Sea tug, Caribbean Sea, struck the disabled \"Duck boat\" DUKW 34 at anchor in … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/04/duck2a.jpg)A settlement has been reached in the civil lawsuit over the deaths of two Hungarian tourists and other passenger injuries when  a barge pushed by a K-Sea tug, *Caribbean Sea*, struck the disabled “Duck boat” DUKW 34 at anchor in the Delaware River off Philadelphia on July 7, 2010.   Szabolcs Prem, 20, and Dora Schwendtner, 16, who were visiting Philadelphia, died in the crash on the Delaware River.   The families of the two tourists who died when the duck boat was run down will split $15 million paid for by Ride the Ducks, the firm which operates the amphibious touring vehicles, and K-Sea Transportation Partners, which owned the tug.  An additional $2 million will also be divided among 18 other survivors of the accident.

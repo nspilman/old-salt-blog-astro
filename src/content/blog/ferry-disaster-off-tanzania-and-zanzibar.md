@@ -1,7 +1,7 @@
 ---
 title: "Ferry Disaster off Tanzania and Zanzibar"
 date: 2011-09-10T10:20:13
-slug: ferry-disaster-off-tanzania-and-zanzibar
+slug: "ferry-disaster-off-tanzania-and-zanzibar"
 excerpt: "It is an all too common story, an overloaded and poorly maintained ferry in an impoverished nation capsizes, drowning many of its passengers.  It happens so often it that it is often not reported beyond the local press.  This morning at three AM … Continue reading &rarr;"
 categories:
   - "Current"

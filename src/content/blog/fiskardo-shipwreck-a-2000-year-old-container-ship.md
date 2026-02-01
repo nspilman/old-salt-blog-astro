@@ -1,7 +1,7 @@
 ---
 title: "Fiskardo Shipwreck — A 2,000 Year Old Container Ship"
 date: 2020-01-08T18:06:40
-slug: fiskardo-shipwreck-a-2000-year-old-container-ship
+slug: "fiskardo-shipwreck-a-2000-year-old-container-ship"
 excerpt: "Good ideas are rarely new. Container ships revolutionized liner shipping in the 1960s and 70s. Nevertheless, the idea of carrying cargo in easily handled standardized containers goes back at least 2,000 years. I was reminded of this when reading about … Continue reading &rarr;"
 categories:
   - "Current"

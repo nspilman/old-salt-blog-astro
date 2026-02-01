@@ -1,7 +1,7 @@
 ---
 title: "Nyad Ends Attempted Cuba-Florida Swim"
 date: 2011-08-09T09:21:17
-slug: nyad-ends-attempted-cuba-florida-swim
+slug: "nyad-ends-attempted-cuba-florida-swim"
 excerpt: "After adverse winds carried her off course, marathon swimmer Diana Nyad, 61, ended her attempt to become the first person to swim from Cuba to Florida without a shark cage.  She had been swimming for 29 hours when she ended … Continue reading &rarr;"
 categories:
   - "Current"

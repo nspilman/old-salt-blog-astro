@@ -1,7 +1,7 @@
 ---
-title: "Antarctic Ice Shelf Melting at “Alarming Rate”"
+title: "Antarctic Ice Shelf Melting at \"Alarming Rate\""
 date: 2016-10-26T16:15:42
-slug: antarctic-ice-shelf-melting-alarming-rate
+slug: "antarctic-ice-shelf-melting-alarming-rate"
 excerpt: "While much of the focus has been on the melting of the Arctic ice cap, recent studies highlight the dramatic melting of ice shelves at the other end of the globe. On the west side of Antarctica, giant glaciers form ice shelves … Continue reading &rarr;"
 categories:
   - "Current"

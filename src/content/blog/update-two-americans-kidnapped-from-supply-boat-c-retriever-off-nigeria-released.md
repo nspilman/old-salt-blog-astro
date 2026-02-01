@@ -1,7 +1,7 @@
 ---
 title: "Update: Two Americans Kidnapped from Supply Boat C-Retriever Off Nigeria Released"
 date: 2013-11-12T22:57:35
-slug: update-two-americans-kidnapped-from-supply-boat-c-retriever-off-nigeria-released
+slug: "update-two-americans-kidnapped-from-supply-boat-c-retriever-off-nigeria-released"
 excerpt: "Great news. The captain and chief engineer of the 222′ supply boat C-Retriever, who were kidnapped off the coast of Nigeria on October 23th, have been released following the payment of ransom.  The two Americans are reported to be in good health … Continue reading &rarr;"
 categories:
   - "Current"

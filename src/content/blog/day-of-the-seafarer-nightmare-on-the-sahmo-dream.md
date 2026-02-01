@@ -1,8 +1,8 @@
 ---
 title: "Day of the Seafarer – Nightmare on the Sahmo Dream"
 date: 2011-06-06T10:27:35
-slug: day-of-the-seafarer-nightmare-on-the-sahmo-dream
-excerpt: "June 25th of this year is being celebrated as the “Day of the Seafarer.”  We will be joining with other bloggers and journalists from around the world to say “thank you” to the world’s 1.5 million seafarers for the invaluable and often overlooked contribution that … Continue reading &rarr;"
+slug: "day-of-the-seafarer-nightmare-on-the-sahmo-dream"
+excerpt: "June 25th of this year is being celebrated as the \"Day of the Seafarer.\"  We will be joining with other bloggers and journalists from around the world to say \"thank you\" to the world’s 1.5 million seafarers for the invaluable and often overlooked contribution that … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Samho Shipping"
   - "VLCC"
 author: "Rick Spilman"
-description: "June 25th of this year is being celebrated as the “Day of the Seafarer.”  We will be joining with other bloggers and journalists from around the world to say “thank you” to the world’s 1.5 million seafarers for the invaluable and often overlooked contribution that … Continue reading &rarr;"
+description: "June 25th of this year is being celebrated as the \"Day of the Seafarer.\"  We will be joining with other bloggers and journalists from around the world to say \"thank you\" to the world’s 1.5 million seafarers for the invaluable and often overlooked contribution that … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/05/Day-of-the-Seafarer-2011.jpg)June 25th of this year is being celebrated as the “[Day of the Seafarer](http://www.imo.org/About/Events/Pages/Day-of-the-Seafarer.aspx).”  We will be joining with other bloggers and journalists from around the world to say “thank you” to the world’s 1.5 million seafarers for the invaluable and often overlooked contribution that they make every day.  Kipling once write that “transportation is civilization.”  Seafarers play a key role in keeping our civilization alive and functioning.

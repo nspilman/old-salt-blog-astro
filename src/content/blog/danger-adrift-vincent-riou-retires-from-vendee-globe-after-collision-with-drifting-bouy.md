@@ -1,7 +1,7 @@
 ---
 title: "Danger Adrift – Vincent Riou Retires From Vendee Globe After Collision with Drifting Buoy"
 date: 2012-11-26T12:16:21
-slug: danger-adrift-vincent-riou-retires-from-vendee-globe-after-collision-with-drifting-bouy
+slug: "danger-adrift-vincent-riou-retires-from-vendee-globe-after-collision-with-drifting-bouy"
 excerpt: "Vincent Riou was forced to retire from the Vendee Globe over the weekend after his boat, PRG, struck a drifting steel buoy, off the coast of South America.  Riou had been in third place in the race and was considered a favorite. Riou came in first in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

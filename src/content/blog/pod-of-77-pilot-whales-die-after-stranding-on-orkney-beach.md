@@ -1,7 +1,7 @@
 ---
 title: "Pod of 77 Pilot Whales Die After Stranding on Orkney Beach"
 date: 2024-07-12T16:32:45
-slug: pod-of-77-pilot-whales-die-after-stranding-on-orkney-beach
+slug: "pod-of-77-pilot-whales-die-after-stranding-on-orkney-beach"
 excerpt: "On 11 July 2024 at about 10:45am, British Divers Marine Life Rescue (BDMLR) received a report of a mass stranding of long-finned pilot whales on the isle of Sanday in Orkney, Scotland.  They found 77 animals high up the beach, having … Continue reading &rarr;"
 categories:
   - "Current"

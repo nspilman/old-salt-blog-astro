@@ -1,7 +1,7 @@
 ---
 title: "Seeking Shackleton’s Endurance Beneath the Larsen C Ice Shelf"
 date: 2019-01-30T15:34:36
-slug: seeking-shackletons-endurance-beneath-the-larsen-c-ice-shelf
+slug: "seeking-shackletons-endurance-beneath-the-larsen-c-ice-shelf"
 excerpt: "Last April, we posted about a planned expedition to the Antarctic’s Weddell Sea on the icebreaking polar-supply and research-vessel SA Agulhas II. The Weddell Sea Expedition 2019 is now underway, and scientists have spent the past two weeks investigating the Larsen C … Continue reading &rarr;"
 categories:
   - "Current"

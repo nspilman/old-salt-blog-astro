@@ -1,7 +1,7 @@
 ---
 title: "The Composite Clipper Ship City of Adelaide Moves to Final Home in Port Adelaide"
 date: 2024-06-18T20:59:19
-slug: the-composite-clipper-ship-city-of-adelaide-moves-to-final-home-in-port-adelaide
+slug: "the-composite-clipper-ship-city-of-adelaide-moves-to-final-home-in-port-adelaide"
 excerpt: "Sometimes the final miles can take the longest to travel. A full decade after being carried by heavy-lift ship over 10,000 nautical miles from Scotland to her namesake port city, City of Adelaide, the oldest surviving composite clipper ship in … Continue reading &rarr;"
 categories:
   - "Current"

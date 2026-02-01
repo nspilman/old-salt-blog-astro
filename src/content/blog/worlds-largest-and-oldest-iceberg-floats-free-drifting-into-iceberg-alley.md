@@ -1,7 +1,7 @@
 ---
-title: "World’s Largest and Oldest Iceberg Floats Free Drifting Into “Iceberg Alley”"
+title: "World’s Largest and Oldest Iceberg Floats Free Drifting Into \"Iceberg Alley\""
 date: 2023-11-26T18:38:13
-slug: worlds-largest-and-oldest-iceberg-floats-free-drifting-into-iceberg-alley
+slug: "worlds-largest-and-oldest-iceberg-floats-free-drifting-into-iceberg-alley"
 excerpt: "In 1986, a massive iceberg, almost five times larger than New York City, calved off West Antarctica’s Filchner-Ronne Ice Shelf. The iceberg, designated A23a, immediately grounded on the floor of the Weddell Sea, where it remained stuck for almost four … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Yangtze River Tragedy — 14 Survivors, 444 Dead or Missing, Far More Questions Than Answers"
 date: 2015-06-04T09:22:33
-slug: yangtze-river-tragedy-14-survivors-444-dead-or-missing-far-more-questions-than-answers
+slug: "yangtze-river-tragedy-14-survivors-444-dead-or-missing-far-more-questions-than-answers"
 excerpt: "Was MV Dong Fang Zhi Xing (Oriental Star) unsafe and unstable or was she just at the wrong place at the wrong time? Should the captain have anchored, as did several other ships on the river, when he received warning … Continue reading &rarr;"
 categories:
   - "Current"

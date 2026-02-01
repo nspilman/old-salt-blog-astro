@@ -1,7 +1,7 @@
 ---
 title: "One Million Pageview Giveaway – Free Copies of Hell Around the Horn"
 date: 2012-12-18T11:41:47
-slug: one-million-pageview-giveaway-free-copies-of-hell-around-the-horn
+slug: "one-million-pageview-giveaway-free-copies-of-hell-around-the-horn"
 excerpt: "To celebrate passing one million pageviews on the Old Salt Blog, we will be giving away copies of my novel, Hell Around the Horn.  Kindle readers will be able to download the novel for free from Amazon on Thursday, December … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

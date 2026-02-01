@@ -1,7 +1,7 @@
 ---
 title: "Williwaw & Hydroptere — Foiling Tris Sailing the Open Pacific"
 date: 2015-10-08T09:05:30
-slug: williwaw-hydroptere-foiling-tris-sailing-the-open-pacific
+slug: "williwaw-hydroptere-foiling-tris-sailing-the-open-pacific"
 excerpt: "This summer, the French 60′ foiling trimaran Hydroptere sailed 2215 nautical miles from Los Angeles to Hawaii. The winds were not favorable and the passage was not terribly fast at about 11 days, compared to the four day record set by the 110-foot … Continue reading &rarr;"
 categories:
   - "Current"

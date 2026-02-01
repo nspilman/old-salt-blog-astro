@@ -1,7 +1,7 @@
 ---
 title: "Elderly woman, daughter find incredible ocean treasure"
 date: 2010-10-28T15:08:14
-slug: elderly-woman-daughter-find-incredible-ocean-treasure
+slug: "elderly-woman-daughter-find-incredible-ocean-treasure"
 excerpt: "This is a great story.   Thanks to Irwin Bryan for passing it along.  Congratulations to Bonnie Schubert and her 87-year old mother Jo,  two highly successful salvage divers. Elderly woman, daughter find incredible ocean treasure After decades of hunting … Continue reading &rarr;"
 categories:
   - "Current"

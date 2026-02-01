@@ -1,7 +1,7 @@
 ---
 title: "Happy Battle of Cape St. Vincent’s day"
 date: 2011-02-14T11:18:04
-slug: happy-battle-of-cape-st-vincents-day
+slug: "happy-battle-of-cape-st-vincents-day"
 excerpt: "If by some chance you choose not celebrate St. Valentine’s Day, or you have simply reached the limit of how many hearts and flowers you can tolerate,   feel free to celebrate today as the Battle of Cape St. Vincent‘s Day. … Continue reading &rarr;"
 categories:
   - "History"

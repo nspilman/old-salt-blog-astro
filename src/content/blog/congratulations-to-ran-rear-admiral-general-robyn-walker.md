@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Australian Rear Admiral & General Robyn Walker"
 date: 2011-12-16T16:37:31
-slug: congratulations-to-ran-rear-admiral-general-robyn-walker
+slug: "congratulations-to-ran-rear-admiral-general-robyn-walker"
 excerpt: "Only months after allowing women to serve in frontline combat units, Australia has promoted  Commodore Robyn Walker to Rear Admiral, the nation’s first female admiral.  Admiral Walker will also serve as the Australian Defence Force surgeon-general. Admiral and surgeon general?  Rear Admiral Walker … Continue reading &rarr;"
 categories:
   - "Current"

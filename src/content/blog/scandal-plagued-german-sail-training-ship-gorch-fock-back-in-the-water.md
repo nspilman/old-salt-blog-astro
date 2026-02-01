@@ -1,7 +1,7 @@
 ---
 title: "Scandal-Plagued German Sail Training Ship Gorch Fock Back in the Water"
 date: 2021-03-23T17:15:23
-slug: scandal-plagued-german-sail-training-ship-gorch-fock-back-in-the-water
+slug: "scandal-plagued-german-sail-training-ship-gorch-fock-back-in-the-water"
 excerpt: "The German Navy sail training ship Gorch Fock is finally back in the water after a lengthy repair/rebuilding, plagued by scandal and extraordinary cost overruns. Delivered in 1958, she is a near-sister vessel of the original ship of the same … Continue reading &rarr;"
 categories:
   - "Current"

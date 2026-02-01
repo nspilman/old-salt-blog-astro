@@ -1,7 +1,7 @@
 ---
 title: "U.S Navy Sonar Training and Testing Could Kill 1,800 Whales & Dolphins and Deafen 15,900 More"
 date: 2012-07-05T17:10:21
-slug: u-s-navy-sonar-training-and-testing-could-kill-1800-whales-dolphins-and-deafen-15900-more
+slug: "u-s-navy-sonar-training-and-testing-could-kill-1800-whales-dolphins-and-deafen-15900-more"
 excerpt: "In a previous Environmental Impact Statement (EIS) for 2009-2013, the U.S. Navy estimated that 150,000 marine mammals could be harmed in sonar training and testing exercises. Now in the EIS for 2014-2018, Navy estimates have soared, suggesting that sonar training and testing might unintentionally harm marine mammals 2.8 … Continue reading &rarr;"
 categories:
   - "Current"

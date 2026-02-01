@@ -1,7 +1,7 @@
 ---
 title: "Radio Broadcasts Reporting Attack on Pearl Harbor 84 Years Ago Today"
 date: 2025-12-07T11:56:28
-slug: radio-broadcasts-reporting-attack-on-pearl-harbor-84-years-ago-today
+slug: "radio-broadcasts-reporting-attack-on-pearl-harbor-84-years-ago-today"
 excerpt: "An interrupted broadcast of a football game, a newsbreak during a performance by the New York Philharmonic, a weather report followed by an announcement from President Roosevelt that Japan had bombed Pearl Harbor. Reports of attacks on the Philippines. Here … Continue reading &rarr;"
 categories:
   - "History"

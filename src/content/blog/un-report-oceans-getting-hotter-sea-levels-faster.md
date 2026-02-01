@@ -1,7 +1,7 @@
 ---
 title: "UN Report: Oceans Getting Hotter & Sea Levels Rising Faster"
 date: 2019-09-25T15:24:09
-slug: un-report-oceans-getting-hotter-sea-levels-faster
+slug: "un-report-oceans-getting-hotter-sea-levels-faster"
 excerpt: "A disturbing new report by the U.N. Intergovernmental Panel on Climate Change concludes that the rate at which the world’s oceans are heating up is accelerating and that sea levels are rising more quickly than previous predictions. The Special Report … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Beach Goers Form Human Chain to Rescue Family Caught in Rip-Current"
 date: 2017-07-13T09:33:10
-slug: beach-goers-form-human-chain-rescue-family-caught-rip-current
+slug: "beach-goers-form-human-chain-rescue-family-caught-rip-current"
 excerpt: "Rip currents can be treacherous. Last Saturday, ten swimmers — six members of a single family, four adults and two boys — and four others, were carried out into the Gulf of Mexico by a rip-current off Panama City Beach in … Continue reading &rarr;"
 categories:
   - "Current"

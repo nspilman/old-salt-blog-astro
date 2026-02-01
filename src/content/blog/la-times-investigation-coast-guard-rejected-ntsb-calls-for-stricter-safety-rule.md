@@ -1,7 +1,7 @@
 ---
 title: "LA Times: Coast Guard Rejected Calls for Stricter Safety Rules Prior to Deadly Dive Boat Fire"
 date: 2019-11-16T15:30:38
-slug: la-times-investigation-coast-guard-rejected-ntsb-calls-for-stricter-safety-rule
+slug: "la-times-investigation-coast-guard-rejected-ntsb-calls-for-stricter-safety-rule"
 excerpt: "The dive boat Conception was a death trap.  It was a wooden vessel with a single narrow and steep stairway from the lower berthing deck and a small emergency exit hatch. When a fire broke out on September 2, 34 … Continue reading &rarr;"
 categories:
   - "Current"

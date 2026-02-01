@@ -1,7 +1,7 @@
 ---
 title: "Tow-Rags, or How Sailors Cleaned Their Bums"
 date: 2020-03-21T19:21:48
-slug: tow-rags-or-how-sailors-cleaned-their-bums
+slug: "tow-rags-or-how-sailors-cleaned-their-bums"
 excerpt: "In the United States recently, there has been a lot of attention given to those who hoard toilet paper in preparation for the coronavirus onslaught. As toilet paper is one of the basic necessities of modern life, hoarding seems to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

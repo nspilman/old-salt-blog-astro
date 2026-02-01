@@ -1,7 +1,7 @@
 ---
 title: "Captain James Colnett’s Barrel & the World’s Most Unusual Post Office"
 date: 2017-11-27T21:19:18
-slug: captain-james-colnetts-barrel-the-worlds-most-unusual-post-office
+slug: "captain-james-colnetts-barrel-the-worlds-most-unusual-post-office"
 excerpt: "In 1793, Captain James Colnett of the merchant ship Rattler placed a barrel a short distance from a bay on the island of Floreana in the Galapagos archipelago. Captain Colnett was a British Naval officer, an explorer, and a maritime … Continue reading &rarr;"
 categories:
   - "Current"

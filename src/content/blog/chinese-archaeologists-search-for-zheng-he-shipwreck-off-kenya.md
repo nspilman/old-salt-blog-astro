@@ -1,7 +1,7 @@
 ---
 title: "Archaeologists Search for Zheng He Shipwreck off Kenya"
 date: 2010-08-02T09:40:20
-slug: chinese-archaeologists-search-for-zheng-he-shipwreck-off-kenya
+slug: "chinese-archaeologists-search-for-zheng-he-shipwreck-off-kenya"
 excerpt: "Zheng He’s fleet of ships has been the subject of mystery and myth for centuries.   Now a joint  Chinese-Kenyan expedition to excavate where one of his fleet is thought to have been sunk in the 15th century may finally shed … Continue reading &rarr;"
 categories:
   - "Current"

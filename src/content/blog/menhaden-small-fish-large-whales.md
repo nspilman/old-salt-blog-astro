@@ -1,7 +1,7 @@
 ---
 title: "Menhaden & Humpbacks — Small Fish &  Large Whales"
 date: 2016-11-21T16:53:42
-slug: menhaden-small-fish-large-whales
+slug: "menhaden-small-fish-large-whales"
 excerpt: "Last week, a humpback whale swam into the Hudson River as far north as the George Washington Bridge. Humpbacks have been returning to the waters around New York in significant numbers in recent years, although a whale swimming in the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

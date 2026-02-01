@@ -1,8 +1,8 @@
 ---
 title: "Captive Orcas : Kiska Dies & Tokitae May be Returned to the Pacific"
 date: 2023-03-31T16:56:22
-slug: captive-orcas-kiska-dies-tokitae-may-be-returned-to-the-pacific
-excerpt: "News of two captive orcas. In Canada, Kiska, an orca often referred to as “the loneliest whale in the world” has died after spending over four decades in captivity at Marineland, a zoo and amusement park in Niagara Falls.  Kiska … Continue reading &rarr;"
+slug: "captive-orcas-kiska-dies-tokitae-may-be-returned-to-the-pacific"
+excerpt: "News of two captive orcas. In Canada, Kiska, an orca often referred to as \"the loneliest whale in the world\" has died after spending over four decades in captivity at Marineland, a zoo and amusement park in Niagara Falls.  Kiska … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -17,7 +17,7 @@ tags:
   - "Tokitae"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/lolitaorca.jpg"
 author: "Rick Spilman"
-description: "News of two captive orcas. In Canada, Kiska, an orca often referred to as “the loneliest whale in the world” has died after spending over four decades in captivity at Marineland, a zoo and amusement park in Niagara Falls.  Kiska … Continue reading &rarr;"
+description: "News of two captive orcas. In Canada, Kiska, an orca often referred to as \"the loneliest whale in the world\" has died after spending over four decades in captivity at Marineland, a zoo and amusement park in Niagara Falls.  Kiska … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/03/lolitaorca.jpg)News of two captive orcas.

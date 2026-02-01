@@ -1,7 +1,7 @@
 ---
 title: "Pararescuers & USS Vandergriff Rescue Sick One Year Old on Yacht Rebel Heart"
 date: 2014-04-06T10:10:56
-slug: pararescuers-uss-vandergriff-rescue-sick-one-year-old-on-yacht-rebel-heart
+slug: "pararescuers-uss-vandergriff-rescue-sick-one-year-old-on-yacht-rebel-heart"
 excerpt: "Update: As reported by CBS — The Coast Guard says the baby, along with her parents and 3-year-old sister, boarded the USS Vandegrift at 8 a.m. Sunday. The baby girl was in stable condition and was heading to San Diego … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Costa Concordia Update: Death Toll Rises, Sanctuary Threatened, Salvage Options Considered"
 date: 2012-01-22T14:23:53
-slug: costa-concordia-update-death-toll-rises-sanctuary-threatened-salvage-optiosn-considered
+slug: "costa-concordia-update-death-toll-rises-sanctuary-threatened-salvage-optiosn-considered"
 excerpt: "The death toll from the sinking of the Costa Concordia has risen to thirteen as divers discovered another body of a woman wearing a life jacket in a submerged passageway.   Eight of the thirteen victims have now been identified according to Italian officials. Four of the … Continue reading &rarr;"
 categories:
   - "Current"

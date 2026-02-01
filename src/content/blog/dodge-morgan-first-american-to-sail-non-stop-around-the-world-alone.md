@@ -1,7 +1,7 @@
 ---
 title: "Dodge Morgan – First American to Sail Non-Stop Around the World Alone"
 date: 2010-09-18T18:20:53
-slug: dodge-morgan-first-american-to-sail-non-stop-around-the-world-alone
+slug: "dodge-morgan-first-american-to-sail-non-stop-around-the-world-alone"
 excerpt: "Dodge Morgan, Who Sailed Around World, Dies at 78 Dodge Morgan, the first American to sail solo nonstop around the world, a feat in which he cut the previous record time nearly in half, died Tuesday in Boston. He was … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Underwater Christmas Trees"
 date: 2017-12-24T14:14:33
-slug: underwater-christmas-trees
+slug: "underwater-christmas-trees"
 excerpt: "Spirobranchus giganteus are beautiful underwater creatures, only about 1.5 inches tall, which look like tiny decorated Christmas trees. They are almost too attractive to be described as what they are, tube-building polychaete worms. They are, however, often referred to as … Continue reading &rarr;"
 categories:
   - "Current"

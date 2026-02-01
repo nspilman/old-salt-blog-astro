@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship Oliver Hazard Perry Pausing for a Reset"
 date: 2018-09-06T06:55:14
-slug: tall-ship-oliver-hazard-perry-pausing-for-a-reset
+slug: "tall-ship-oliver-hazard-perry-pausing-for-a-reset"
 excerpt: "Oliver Hazard Perry Rhode Island  (OHPRI), the non-profit organization behind Rhode Island’s Official Tall Ship SSVOliver Hazard Perry, has announced a pause in operations to rethink its strategy for the ship’s financial sustainability.   The 200-foot three-masted sailing school vessel, which was seven … Continue reading &rarr;"
 categories:
   - "Current"

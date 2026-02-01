@@ -1,7 +1,7 @@
 ---
 title: "Tom Hanks to Play Captain Richard Phillips in Maersk Alabama Hijacking Movie"
 date: 2011-03-17T12:42:35
-slug: tom-hanks-to-play-captain-richard-phillips-in-maersk-alabama-hijacking-movie
+slug: "tom-hanks-to-play-captain-richard-phillips-in-maersk-alabama-hijacking-movie"
 excerpt: "It is being reported that Tom Hanks will play Captain Richard Phillips in a new movie about the attempted hijacking of the Maersk Alabama by Somali pirates in 2009.    The movie, based on Phillip’s book , A Captain’s Duty: … Continue reading &rarr;"
 categories:
   - "Current"

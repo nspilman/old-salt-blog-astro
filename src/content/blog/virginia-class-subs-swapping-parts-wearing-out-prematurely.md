@@ -1,7 +1,7 @@
 ---
 title: "Virginia Class Subs Swapping Parts Wearing Out Prematurely"
 date: 2021-06-23T11:39:58
-slug: virginia-class-subs-swapping-parts-wearing-out-prematurely
+slug: "virginia-class-subs-swapping-parts-wearing-out-prematurely"
 excerpt: "The US Navy is having a problem with its Virginia-class fast attack submarines. Secretary of the Navy Thomas Harker told the Senate Armed Services Committee that some parts are wearing out far faster than expected. The Navy has had to … Continue reading &rarr;"
 categories:
   - "Current"

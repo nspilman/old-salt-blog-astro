@@ -1,7 +1,7 @@
 ---
 title: "50 Year Old USCG Polar Star Rescues Cruise Ship Scenic Eclipse II from Pack Ice in Antarctica"
 date: 2026-02-01T15:11:52
-slug: 50-year-old-uscg-polar-star-rescues-cruise-ship-scenic-eclipse-ii-from-pack-ice-in-antarctica
+slug: "50-year-old-uscg-polar-star-rescues-cruise-ship-scenic-eclipse-ii-from-pack-ice-in-antarctica"
 excerpt: "Last month, the US Coast Guard Cutter Polar Star (WAGB 10)  began icebreaking operations in the Southern Ocean in support of Operation Deep Freeze 2026. The deployment also marked the cutter’s 50th year of commissioned service. This milestone was further … Continue reading &rarr;"
 categories:
   - "Current"

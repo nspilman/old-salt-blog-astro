@@ -1,7 +1,7 @@
 ---
 title: "Jeffrey Allison, 73, Circumnavigates the Arctic Clockwise"
 date: 2011-10-13T21:51:16
-slug: jeffrey-allison-73-circumnavigates-the-arctic-clockwise
+slug: "jeffrey-allison-73-circumnavigates-the-arctic-clockwise"
 excerpt: "Jeffrey Allison is a fascinating gentlemen. Now 73, from  Middleton Tyas in the UK, he only started sailing when he retired from a career in engineering. Since then, he has sailed across the Atlantic six times, as well transiting the Panama Canal, … Continue reading &rarr;"
 categories:
   - "Current"

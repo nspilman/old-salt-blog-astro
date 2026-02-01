@@ -1,7 +1,7 @@
 ---
 title: "Guest Post: TankerTime: Do you have any Slovenians?"
 date: 2017-08-25T17:17:26
-slug: guest-post-tankertime-slovenians
+slug: "guest-post-tankertime-slovenians"
 excerpt: "PortSide New York is a non-profit based in New York harbor on the historic tanker Mary A. Whalen. Their goal is to create a new kind of maritime destination in NYC, one that sets a new standard for how to … Continue reading &rarr;"
 categories:
   - "Current"

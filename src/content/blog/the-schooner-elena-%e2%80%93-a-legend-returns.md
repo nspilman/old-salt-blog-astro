@@ -1,8 +1,8 @@
 ---
 title: "The Schooner Elena – A Legend Returns"
 date: 2009-09-16T15:12:03
-slug: the-schooner-elena-%e2%80%93-a-legend-returns
-excerpt: "“Super yachts”  rarely impress me.  Russian billionaire, Roman Abramovich’s megayacht, “Eclipse,” may be the largest private yacht now sailing but it is, to my eye at least, a bit boring.   It may be over 550 feet long and cost a … Continue reading &rarr;"
+slug: "the-schooner-elena-%e2%80%93-a-legend-returns"
+excerpt: "\"Super yachts\"  rarely impress me.  Russian billionaire, Roman Abramovich’s megayacht, \"Eclipse,\" may be the largest private yacht now sailing but it is, to my eye at least, a bit boring.   It may be over 550 feet long and cost a … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "Nathaniel Herreshoff"
   - "Schooner Elena"
 author: "Rick Spilman"
-description: "“Super yachts”  rarely impress me.  Russian billionaire, Roman Abramovich’s megayacht, “Eclipse,” may be the largest private yacht now sailing but it is, to my eye at least, a bit boring.   It may be over 550 feet long and cost a … Continue reading &rarr;"
+description: "\"Super yachts\"  rarely impress me.  Russian billionaire, Roman Abramovich’s megayacht, \"Eclipse,\" may be the largest private yacht now sailing but it is, to my eye at least, a bit boring.   It may be over 550 feet long and cost a … Continue reading &rarr;"
 ---
 
 ![elana](http://www.oldsaltblog.com/wp-content/uploads/2009/09/elana.jpg)“Super yachts”  rarely impress me.  Russian billionaire, [Roman Abramovich’s megayacht, “Eclipse,”](http://www.luxury-insider.com/Current_Affairs/post/2009/06/Roman-Eclipse-Is-World-Largest-Superyacht.aspx) may be the largest private yacht now sailing but it is, to my eye at least, a bit boring.   It may be over 550 feet long and cost a bazillion rubles, but so what?

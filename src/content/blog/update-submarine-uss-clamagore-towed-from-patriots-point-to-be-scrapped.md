@@ -1,7 +1,7 @@
 ---
 title: "Update: Submarine USS Clamagore Towed From Patriots Point to be Scrapped"
 date: 2022-10-15T16:13:39
-slug: update-submarine-uss-clamagore-towed-from-patriots-point-to-be-scrapped
+slug: "update-submarine-uss-clamagore-towed-from-patriots-point-to-be-scrapped"
 excerpt: "In March, we posted that the Patriots Point Naval & Maritime Museum in South Carolina had decided after years of debate to scrap USS Clamagore, a Cold War-era submarine that proved too costly to maintain. This week, the Balao-class submarine was … Continue reading &rarr;"
 categories:
   - "Current"

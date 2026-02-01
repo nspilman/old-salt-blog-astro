@@ -1,7 +1,7 @@
 ---
 title: "Windjammer Peking Returning to Hamburg from New York in the Spring"
 date: 2016-08-21T09:15:06
-slug: windjammer-peking-returning-hamburg-new-york-spring
+slug: "windjammer-peking-returning-hamburg-new-york-spring"
 excerpt: "German media is reporting that sometime next spring, the historic Laeisz Flying P-Liner Peking is expected to leave New York harbor, where she has been a museum ship at the South Street Seaport Museum for over 40 years. She will be returning to … Continue reading &rarr;"
 categories:
   - "Current"

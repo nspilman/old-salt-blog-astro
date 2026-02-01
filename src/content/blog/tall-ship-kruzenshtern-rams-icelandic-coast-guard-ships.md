@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship Kruzenshtern Rams Icelandic Coast Guard Vessels"
 date: 2015-06-13T14:02:36
-slug: tall-ship-kruzenshtern-rams-icelandic-coast-guard-ships
+slug: "tall-ship-kruzenshtern-rams-icelandic-coast-guard-ships"
 excerpt: "The Russian Sail Training Ship Kruzenshtern was maneuvering to depart the old harbor in Reykjavík, Iceland, yesterday, when she rammed two of the largest Icelandic Coast Guard vessels, Týr and Thor. Both ships suffered damage, although well above the waterline. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Keel Laying for the Star Clipper’s Near-Replica of France II"
 date: 2015-12-17T09:51:23
-slug: keel-laying-star-clippers-near-replica-france-ii
+slug: "keel-laying-star-clippers-near-replica-france-ii"
 excerpt: "In May, we posted that Star Clippers is building the world’s largest square-rigged passenger ship, a near-replica of the five-masted barque France II commissioned in 1911.  Last week, the keel of the as of yet unnamed ship was laid in the Brodosplit … Continue reading &rarr;"
 categories:
   - "Current"

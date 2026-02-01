@@ -1,7 +1,7 @@
 ---
 title: "TBT & Women’s History Month: Winnie Breegle, WWII WAVE and Code Talker"
 date: 2018-03-22T17:30:10
-slug: tbt-womens-history-month-winnie-breegle-wwii-wave-and-code-talker
+slug: "tbt-womens-history-month-winnie-breegle-wwii-wave-and-code-talker"
 excerpt: "On Throw-back Thursday and in honor of Women’s History, here is a slightly reworked post from 2012 about Winnie Breegle, a World War II WAVE (Woman Accepted for Volunteer Emergency Service) and a Navajo code talker, who didn’t happen to … Continue reading &rarr;"
 categories:
   - "History"

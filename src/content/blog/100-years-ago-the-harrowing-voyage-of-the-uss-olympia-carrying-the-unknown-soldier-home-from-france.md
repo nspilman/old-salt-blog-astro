@@ -1,7 +1,7 @@
 ---
 title: "100 Years Ago, Harrowing Voyage of the USS Olympia Carrying the Unknown Soldier Home From France"
 date: 2021-11-13T18:14:51
-slug: 100-years-ago-the-harrowing-voyage-of-the-uss-olympia-carrying-the-unknown-soldier-home-from-france
+slug: "100-years-ago-the-harrowing-voyage-of-the-uss-olympia-carrying-the-unknown-soldier-home-from-france"
 excerpt: "The Tomb of the Unknown Soldier in Arlington National Cemetary commemorated its 100th year anniversary last Thursday. On November 9, 1921, the cruiser USS Olympia arrived at the Washington Navy Yard on the Anacostia River, carrying the casket of an … Continue reading &rarr;"
 categories:
   - "History"

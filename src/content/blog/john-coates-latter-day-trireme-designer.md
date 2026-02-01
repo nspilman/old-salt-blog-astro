@@ -1,7 +1,7 @@
 ---
 title: "John Coates: Latter-Day Trireme Designer"
 date: 2010-07-17T09:28:16
-slug: john-coates-latter-day-trireme-designer
+slug: "john-coates-latter-day-trireme-designer"
 excerpt: "John Coates John Coates, who died on July 10 aged 88, had retired as chief naval architect at the Ministry of Defence when he took a central role in the building of a Greek trireme, the first, fastest and best … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,14 +1,14 @@
 ---
-title: "SSV Oliver Hazard Perry — “Building a War of 1812 Warship”"
+title: "SSV Oliver Hazard Perry — \"Building a War of 1812 Warship\""
 date: 2014-03-27T09:52:53
-slug: ssv-oliver-hazard-perry-building-a-war-of-1812-warship
-excerpt: "The April Smithsonian Magazine features photos of the SSV Oliver Hazard Perry and an article titled “Building a War of 1812 Warship.”   One can only imagine what Oliver Hazard Perry would have thought of the new ship that bears his name. … Continue reading &rarr;"
+slug: "ssv-oliver-hazard-perry-building-a-war-of-1812-warship"
+excerpt: "The April Smithsonian Magazine features photos of the SSV Oliver Hazard Perry and an article titled \"Building a War of 1812 Warship.\"   One can only imagine what Oliver Hazard Perry would have thought of the new ship that bears his name. … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 author: "Rick Spilman"
-description: "The April Smithsonian Magazine features photos of the SSV Oliver Hazard Perry and an article titled “Building a War of 1812 Warship.”   One can only imagine what Oliver Hazard Perry would have thought of the new ship that bears his name. … Continue reading &rarr;"
+description: "The April Smithsonian Magazine features photos of the SSV Oliver Hazard Perry and an article titled \"Building a War of 1812 Warship.\"   One can only imagine what Oliver Hazard Perry would have thought of the new ship that bears his name. … Continue reading &rarr;"
 ---
 
 ![Photo: Kim Fuller](http://www.oldsaltblog.com/wp-content/uploads/2014/03/ohpreenact.jpg)

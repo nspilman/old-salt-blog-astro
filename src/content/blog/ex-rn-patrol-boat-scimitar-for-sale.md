@@ -1,7 +1,7 @@
 ---
 title: "Ex-RN Patrol Boat Scimitar for Sale"
 date: 2022-12-28T17:57:58
-slug: ex-rn-patrol-boat-scimitar-for-sale
+slug: "ex-rn-patrol-boat-scimitar-for-sale"
 excerpt: "Was there something missing from your stocking this holiday season? Perhaps the used, but still in good shape, Royal Navy patrol boat of your dreams? Then you could be in luck. Alaric Bond was kind enough to pass along an … Continue reading &rarr;"
 categories:
   - "Current"

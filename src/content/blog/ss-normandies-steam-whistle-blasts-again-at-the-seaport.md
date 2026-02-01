@@ -1,7 +1,7 @@
 ---
 title: "SS Normandie’s Steam Whistle Blows Again at the Seaport"
 date: 2010-06-08T09:19:19
-slug: ss-normandies-steam-whistle-blasts-again-at-the-seaport
+slug: "ss-normandies-steam-whistle-blasts-again-at-the-seaport"
 excerpt: "Last Thursday, the mellifluous blast of the SS Normandie‘s steam whistle once gain reverberated across the piers of the South Street Seaport in New York.   The blowing of the steam whistle celebrated the anniversary of the arrival of French luxury liner to New York seventy five years … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "The Hallucinogen Magic of Sea Sapphires"
 date: 2015-07-30T09:10:17
-slug: the-hallucinogen-magic-of-sea-sapphires
-excerpt: "Sea sapphires are amazing creatures. These tiny crustaceans flash in brilliant shades of blue, green, red and gold, and then seem to disappear completely, as if by magic. RR Helm wrote in Deep Sea News, “When I first saw a … Continue reading &rarr;"
+slug: "the-hallucinogen-magic-of-sea-sapphires"
+excerpt: "Sea sapphires are amazing creatures. These tiny crustaceans flash in brilliant shades of blue, green, red and gold, and then seem to disappear completely, as if by magic. RR Helm wrote in Deep Sea News, \"When I first saw a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

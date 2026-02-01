@@ -1,8 +1,8 @@
 ---
 title: "Remembering Mocha Dick, the Real Rogue White Whale Who Inspired Moby Dick"
 date: 2015-12-11T09:40:55
-slug: remembering-mocha-dick-the-rest-of-melvilles-moby-dick
-excerpt: "Today in theaters in the US, the movie “In the Heart of the Sea” opens. It is based on Nathaniel Philbrick’s book, In the Heart of the Sea: The Tragedy of the Whaleship Essex.  (I will be reviewing the movie tomorrow.) … Continue reading &rarr;"
+slug: "remembering-mocha-dick-the-rest-of-melvilles-moby-dick"
+excerpt: "Today in theaters in the US, the movie \"In the Heart of the Sea\" opens. It is based on Nathaniel Philbrick’s book, In the Heart of the Sea: The Tragedy of the Whaleship Essex.  (I will be reviewing the movie tomorrow.) … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Nathaniel Philbrick"
   - "whaleship Essex"
 author: "Rick Spilman"
-description: "Today in theaters in the US, the movie “In the Heart of the Sea” opens. It is based on Nathaniel Philbrick’s book, In the Heart of the Sea: The Tragedy of the Whaleship Essex.  (I will be reviewing the movie tomorrow.) … Continue reading &rarr;"
+description: "Today in theaters in the US, the movie \"In the Heart of the Sea\" opens. It is based on Nathaniel Philbrick’s book, In the Heart of the Sea: The Tragedy of the Whaleship Essex.  (I will be reviewing the movie tomorrow.) … Continue reading &rarr;"
 ---
 
 ![Mocha Dick](http://www.oldsaltblog.com/wp-content/uploads/2015/12/md2.jpg)Today in theaters in the US, the movie [*“In the Heart of the Sea*](http://www.intheheartoftheseamovie.com/)” opens. It is based on Nathaniel Philbrick’s book, *[In the Heart of the Sea: The Tragedy of the Whaleship Essex](http://www.amazon.com/Heart-Sea-Tragedy-Whaleship-Essex-ebook/dp/B000OZ0NWQ/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1449783814&sr=1-1&keywords=heart+of+the+sea).*  (I will be reviewing the movie tomorrow.)  Melville’s masterpiece, *[Moby-Dick](http://www.amazon.com/gp/product/0486432157?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0486432157)*, was inspired, at least in part, by the [sinking of the whaleship *Essex*](https://en.wikipedia.org/wiki/Essex_\(whaleship\)) by a sperm whale in 1820.  The fate of the*Essex* unquestionably supplied Melville with ending to his novel. Nevertheless, the core of *Moby-Dick* appears to have been inspired by another rogue white sperm whale, known for attacking whale boats and ships. Nicknamed [Mocha Dick](https://en.wikipedia.org/wiki/Mocha_Dick), he was often sighted near the island of [Mocha](http://en.wikipedia.org/wiki/Mocha_Island), off southern Chile. Mocha Dick was said to have killed more than 30 men, and to have attacked and damaged 14 whaleboats and three whaling ships.

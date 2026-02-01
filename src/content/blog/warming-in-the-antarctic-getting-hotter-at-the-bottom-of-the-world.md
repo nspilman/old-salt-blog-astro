@@ -1,7 +1,7 @@
 ---
 title: "Warming in the Antarctic – Getting Hotter at the Bottom of the World"
 date: 2012-12-28T10:16:31
-slug: warming-in-the-antarctic-getting-hotter-at-the-bottom-of-the-world
+slug: "warming-in-the-antarctic-getting-hotter-at-the-bottom-of-the-world"
 excerpt: "In December we posted about NOAA’s Arctic Report Card 2012, which showed record low ice and snowfall in the Arctic. Nevertheless, some have pointed to the recent growth of Antarctic ice to suggest that climate change may not be a dramatic … Continue reading &rarr;"
 categories:
   - "Current"

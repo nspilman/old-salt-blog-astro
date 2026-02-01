@@ -1,7 +1,7 @@
 ---
 title: "A Sideways Launch — Shipbuilding in Faversham, Kent"
 date: 2018-01-27T16:53:27
-slug: sideways-launch-shipbuilding-faversham-kent
+slug: "sideways-launch-shipbuilding-faversham-kent"
 excerpt: "A documentary about a shipyard in Faversham, Kent where over 1200 vessels were built and launched between 1916 and 1969. The narrowness of Faversham Creek was no barrier to the launching of such large ship. Vessels were simply launched sideways. The … Continue reading &rarr;"
 categories:
   - "History"

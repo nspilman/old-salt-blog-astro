@@ -1,7 +1,7 @@
 ---
 title: "The Island of California – A History in Maps"
 date: 2012-12-23T09:29:20
-slug: the-island-of-california-a-history-in-maps
+slug: "the-island-of-california-a-history-in-maps"
 excerpt: "In Volume II of the Encyclopædia Britannica published in 1768, the entry for California reads: CALLIFORNIA, a large country of the West Indies, lying between 116° and 138° W. long. and between 23° and 46° N lat.  It is uncertain whether … Continue reading &rarr;"
 categories:
   - "Current"

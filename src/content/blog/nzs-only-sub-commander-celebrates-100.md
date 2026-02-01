@@ -1,7 +1,7 @@
 ---
 title: "NZ’s only sub commander celebrates 100"
 date: 2011-03-13T13:39:37
-slug: nzs-only-sub-commander-celebrates-100
+slug: "nzs-only-sub-commander-celebrates-100"
 excerpt: "Happy 100th birthday to Con Thode, New Zealand’s first and only submarine commander in World War Two and long-time sailing master for the Spirit of Adventure Trust. … Continue reading &rarr;"
 categories:
   - "Current"

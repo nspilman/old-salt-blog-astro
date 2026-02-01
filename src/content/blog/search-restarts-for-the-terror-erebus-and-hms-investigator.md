@@ -1,7 +1,7 @@
 ---
 title: "Search Restarts for the Terror, Erebus and HMS Investigator"
 date: 2010-07-02T16:31:47
-slug: search-restarts-for-the-terror-erebus-and-hms-investigator
+slug: "search-restarts-for-the-terror-erebus-and-hms-investigator"
 excerpt: "After a season’s delay due to lack of access to icebreakers, Parks Canada is renewing its search for Franklin’s ship’s Erebus and Terror.  They will also be searching for the HMS Investigator, a ship which was caught in the ice … Continue reading &rarr;"
 categories:
   - "Current"

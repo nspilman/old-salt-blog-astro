@@ -1,7 +1,7 @@
 ---
 title: "Tug Round-Up Slideshows"
 date: 2010-09-11T07:30:16
-slug: tug-round-up-slideshow
+slug: "tug-round-up-slideshow"
 excerpt: "Thanks to Ulrich Rudofsky for forwarding these slideshows of the Waterford Tug Roundup.  Click here to view the slideshow from Friday aternoon. Click here to to view a slideshow from Saturday. … Continue reading &rarr;"
 categories:
   - "Current"

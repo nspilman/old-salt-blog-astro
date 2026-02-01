@@ -1,8 +1,8 @@
 ---
 title: "Alexander Hamilton’s Lighthouse"
 date: 2017-05-31T09:29:42
-slug: alexander-hamiltons-lighthouse
-excerpt: "The Cape Hatteras Lighthouse marking the shoals which have become known as the “graveyard of ships,” is often referred to as Hamilton’s lighthouse. (The current lighthouse is the second built at the site.) The story goes that when the teen-aged Alexander … Continue reading &rarr;"
+slug: "alexander-hamiltons-lighthouse"
+excerpt: "The Cape Hatteras Lighthouse marking the shoals which have become known as the \"graveyard of ships,\" is often referred to as Hamilton’s lighthouse. (The current lighthouse is the second built at the site.) The story goes that when the teen-aged Alexander … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "lighthose"
   - "Thunderbolt"
 author: "Rick Spilman"
-description: "The Cape Hatteras Lighthouse marking the shoals which have become known as the “graveyard of ships,” is often referred to as Hamilton’s lighthouse. (The current lighthouse is the second built at the site.) The story goes that when the teen-aged Alexander … Continue reading &rarr;"
+description: "The Cape Hatteras Lighthouse marking the shoals which have become known as the \"graveyard of ships,\" is often referred to as Hamilton’s lighthouse. (The current lighthouse is the second built at the site.) The story goes that when the teen-aged Alexander … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/hamilton1.jpg)The [Cape Hatteras Lighthouse](http://www.ncsbarns.com/lighthousehatteras) marking the shoals which have become known as the “graveyard of ships,” is often referred to as Hamilton’s lighthouse. (The current lighthouse is the second built at the site.) The story goes that when the teen-aged Alexander Hamilton was sent from [St. Croix to the North American colonies](http://www.stcroixlandmarks.com/history/alexander-hamilton) to pursue an education in the summer of 1772, he sailed on the *Thunderbolt*, which caught fire off Cape Hatteras and very nearly sank. Young Alexander was said to have helped fight the fire. The ship is said to have come perilously close to drifting onto the deadly Diamond Shoals. Years later, in 1802, as Secretary of the Treasury, Hamilton recalled his brush with death and supported building a lighthouse on Cape Hatteras.

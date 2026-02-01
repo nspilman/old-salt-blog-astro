@@ -1,7 +1,7 @@
 ---
 title: "Gold Rush Tunes from the Depths of Lake Labarge"
 date: 2011-03-03T08:23:52
-slug: gold-rush-tunes-from-the-depths-of-lake-labarge
+slug: "gold-rush-tunes-from-the-depths-of-lake-labarge"
 excerpt: "We have posted previously about the discovery of the Yukon Gold Rush iron sternwheeler A.J. Goddard which sank in a storm in Lake Labarge in October of 1901.  Now with the discovery of a gramophone and three recordings, the music of the … Continue reading &rarr;"
 categories:
   - "Current"

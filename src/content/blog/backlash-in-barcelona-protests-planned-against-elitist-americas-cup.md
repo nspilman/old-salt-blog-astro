@@ -1,7 +1,7 @@
 ---
 title: "Backlash in Barcelona — Protests Planned Against ‘Elitist’ America’s Cup"
 date: 2024-08-26T18:23:15
-slug: backlash-in-barcelona-protests-planned-against-elitist-americas-cup
+slug: "backlash-in-barcelona-protests-planned-against-elitist-americas-cup"
 excerpt: "With preliminary races of the Louis Vuitton 37th America’s Cup now underway in Barcelona, Spain, the famous sailing competition is facing the storm of over-tourism protests that have swept across much of Europe, as well as, many tourist hotspots across … Continue reading &rarr;"
 categories:
   - "Current"

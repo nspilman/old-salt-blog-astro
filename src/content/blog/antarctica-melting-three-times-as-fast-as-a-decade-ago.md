@@ -1,7 +1,7 @@
 ---
 title: "Antarctica Melting Three Times as Fast as a Decade Ago"
 date: 2018-06-25T17:24:27
-slug: antarctica-melting-three-times-as-fast-as-a-decade-ago
+slug: "antarctica-melting-three-times-as-fast-as-a-decade-ago"
 excerpt: "A new study from the journal Nature makes a terrifying observation — the rate at which Antarctic ice is melting has tripled from only a decade ago. This is significant as more than 60 percent of the freshwater on Earth is … Continue reading &rarr;"
 categories:
   - "Current"

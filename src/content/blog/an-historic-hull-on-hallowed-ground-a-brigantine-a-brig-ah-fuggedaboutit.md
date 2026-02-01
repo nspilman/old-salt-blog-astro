@@ -1,7 +1,7 @@
 ---
 title: "An Historic Hull on Hallowed Ground: a Brigantine, a Brig, A Snow, a Schooner – ah Fuggedaboutit!"
 date: 2010-09-13T19:22:01
-slug: an-historic-hull-on-hallowed-ground-a-brigantine-a-brig-ah-fuggedaboutit
+slug: "an-historic-hull-on-hallowed-ground-a-brigantine-a-brig-ah-fuggedaboutit"
 excerpt: "There was an amusing bit of bantering and ballyhooing about ship jargon in the New York Times yesterday.   In an article about the remains of ship found in the excavation near the new World Trade Center (see our previous posts here) … Continue reading &rarr;"
 categories:
   - "Current"

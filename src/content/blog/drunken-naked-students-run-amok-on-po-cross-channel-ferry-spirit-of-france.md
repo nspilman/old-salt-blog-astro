@@ -1,7 +1,7 @@
 ---
 title: "Drunken Naked Students Run Amok on P&O Cross-Channel Ferry Spirit of France"
 date: 2012-04-10T07:44:46
-slug: drunken-naked-students-run-amok-on-po-cross-channel-ferry-spirit-of-france
+slug: "drunken-naked-students-run-amok-on-po-cross-channel-ferry-spirit-of-france"
 excerpt: "After posting about far too many needless tragedies on poorly maintained third world ferry boats which sink and kill their passengers, here is something completely different, though still involving a ferry. Last week, fitting enough on April Fool’s Day, two hundred students from two British universities, … Continue reading &rarr;"
 categories:
   - "Current"

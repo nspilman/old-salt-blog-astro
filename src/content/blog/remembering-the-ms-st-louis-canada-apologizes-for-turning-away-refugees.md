@@ -1,7 +1,7 @@
 ---
 title: "Remembering the MS St. Louis — Canada Apologizes for Turning Away Refugees"
 date: 2018-11-29T20:52:32
-slug: remembering-the-ms-st-louis-canada-apologizes-for-turning-away-refugees
+slug: "remembering-the-ms-st-louis-canada-apologizes-for-turning-away-refugees"
 excerpt: "Earlier this month, Canada apologized for turning away the MS St. Louis filled with Jewish German refugees fleeing the Nazis in 1939. Canada was not alone in turning away the refugees. The United States and Cuba also refused the refugees … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

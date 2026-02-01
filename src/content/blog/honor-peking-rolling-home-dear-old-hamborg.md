@@ -1,8 +1,8 @@
 ---
 title: "In Honor of the Peking — Rolling Home to Dear Old Hamborg"
 date: 2017-07-17T08:22:18
-slug: honor-peking-rolling-home-dear-old-hamborg
-excerpt: "In honor of the windjammer Peking, on her way home to Hamburg to be restored and refurbished — here is a fine old sea shanty — “Rolling Home to Dear Old Hamborg.”  We can only hope that the 106 year … Continue reading &rarr;"
+slug: "honor-peking-rolling-home-dear-old-hamborg"
+excerpt: "In honor of the windjammer Peking, on her way home to Hamburg to be restored and refurbished — here is a fine old sea shanty — \"Rolling Home to Dear Old Hamborg.\"  We can only hope that the 106 year … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Stan Hugill"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/rollinghomepeking.jpg"
 author: "Rick Spilman"
-description: "In honor of the windjammer Peking, on her way home to Hamburg to be restored and refurbished — here is a fine old sea shanty — “Rolling Home to Dear Old Hamborg.”  We can only hope that the 106 year … Continue reading &rarr;"
+description: "In honor of the windjammer Peking, on her way home to Hamburg to be restored and refurbished — here is a fine old sea shanty — \"Rolling Home to Dear Old Hamborg.\"  We can only hope that the 106 year … Continue reading &rarr;"
 ---
 
 In honor of the windjammer [*Peking*](https://en.wikipedia.org/wiki/Peking_\(ship\)), on her way home to Hamburg to be restored and refurbished — here is a fine old sea shanty — “*Rolling Home to Dear Old Hamborg*.”  We can only hope that the 106 year old windjammer has many fine years ahead of her.

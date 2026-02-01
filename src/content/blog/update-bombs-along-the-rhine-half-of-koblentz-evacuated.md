@@ -1,8 +1,8 @@
 ---
 title: "Update: Bombs Along the Rhine – Half of Koblenz to be Evacuated for Bomb Disposal"
 date: 2011-12-01T11:04:13
-slug: update-bombs-along-the-rhine-half-of-koblentz-evacuated
-excerpt: "Recently we posted about how the near record drought in Europe has lowered the levels in the Rhine River, not only limiting vessel traffic, but also exposing World War II munitions.  We wrote that “ bomb disposal experts … are evaluating how to dispose of a … Continue reading &rarr;"
+slug: "update-bombs-along-the-rhine-half-of-koblentz-evacuated"
+excerpt: "Recently we posted about how the near record drought in Europe has lowered the levels in the Rhine River, not only limiting vessel traffic, but also exposing World War II munitions.  We wrote that \" bomb disposal experts … are evaluating how to dispose of a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Rhine River"
   - "world war II"
 author: "Rick Spilman"
-description: "Recently we posted about how the near record drought in Europe has lowered the levels in the Rhine River, not only limiting vessel traffic, but also exposing World War II munitions.  We wrote that “ bomb disposal experts … are evaluating how to dispose of a … Continue reading &rarr;"
+description: "Recently we posted about how the near record drought in Europe has lowered the levels in the Rhine River, not only limiting vessel traffic, but also exposing World War II munitions.  We wrote that \" bomb disposal experts … are evaluating how to dispose of a … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/12/koblenz.jpg)

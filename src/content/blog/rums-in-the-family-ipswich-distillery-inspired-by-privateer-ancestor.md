@@ -1,7 +1,7 @@
 ---
 title: "Rum’s in the family – Ipswich distillery inspired by privateer ancestor"
 date: 2011-03-20T08:26:04
-slug: rums-in-the-family-ipswich-distillery-inspired-by-privateer-ancestor
+slug: "rums-in-the-family-ipswich-distillery-inspired-by-privateer-ancestor"
 excerpt: "We can only wish them the best of luck and look forward to trying their rum. Rum’s in the family – Ipswich distillery inspired by privateer ancestor It seems Andrew Cabot has inherited not only his name, but some business … Continue reading &rarr;"
 categories:
   - "Current"

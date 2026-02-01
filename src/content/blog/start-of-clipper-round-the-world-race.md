@@ -1,7 +1,7 @@
 ---
 title: "Start of Clipper Round-the-World Race"
 date: 2011-08-02T07:24:39
-slug: start-of-clipper-round-the-world-race
+slug: "start-of-clipper-round-the-world-race"
 excerpt: "10 identical yachts have set sail from Southampton, England to compete in the 40,000-mile (64,500km) Clipper round-the-world race. Many of the crews volunteered as sailing novices, although all have since undertaken a comprehensive four stage training program before setting out … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

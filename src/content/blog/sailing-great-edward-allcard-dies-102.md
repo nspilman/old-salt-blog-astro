@@ -1,7 +1,7 @@
 ---
 title: "Sailing Great, Edward Allcard, Dies at 102"
 date: 2017-08-15T12:01:05
-slug: sailing-great-edward-allcard-dies-102
+slug: "sailing-great-edward-allcard-dies-102"
 excerpt: "Edward Allcard, an English naval architect, marine surveyor, yachtsman and author, died at the end of last month at the age of 102. We will probably be best remembered as the first person to sail solo across the Atlantic in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

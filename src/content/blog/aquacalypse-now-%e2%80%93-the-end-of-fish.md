@@ -1,8 +1,8 @@
 ---
 title: "Aquacalypse Now – The End of Fish"
 date: 2009-09-29T07:05:17
-slug: aquacalypse-now-%e2%80%93-the-end-of-fish
-excerpt: "Daniel Pauly has an article in this month’s New Republic “Aquacalypse Now – The End of Fish“.   It addresses the very real and threatening problem of overfishing.  His is a great title for an article but his use of the metaphor of corporate fishing … Continue reading &rarr;"
+slug: "aquacalypse-now-%e2%80%93-the-end-of-fish"
+excerpt: "Daniel Pauly has an article in this month’s New Republic \"Aquacalypse Now – The End of Fish\".   It addresses the very real and threatening problem of overfishing.  His is a great title for an article but his use of the metaphor of corporate fishing … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "Aquacalypse Now"
   - "World fisheries collapse"
 author: "Rick Spilman"
-description: "Daniel Pauly has an article in this month’s New Republic “Aquacalypse Now – The End of Fish“.   It addresses the very real and threatening problem of overfishing.  His is a great title for an article but his use of the metaphor of corporate fishing … Continue reading &rarr;"
+description: "Daniel Pauly has an article in this month’s New Republic \"Aquacalypse Now – The End of Fish\".   It addresses the very real and threatening problem of overfishing.  His is a great title for an article but his use of the metaphor of corporate fishing … Continue reading &rarr;"
 ---
 
 ![deadfishmag](http://www.oldsaltblog.com/wp-content/uploads/2009/09/deadfishmag.jpg)Daniel Pauly has an article in this month’s New Republic “[Aquacalypse Now – The End of Fish](http://www.tnr.com/article/environment-energy/aquacalypse-now)“.   It addresses the very real and threatening problem of overfishing.  His is a great title for an article but his use of the metaphor of corporate fishing as a Ponzi scheme is interesting, but somewhat distracting. Well worth reading nevertheless.

@@ -1,7 +1,7 @@
 ---
 title: "Holey Hull Plates!  Newly Delivered USCGC Stratton Docking for Repairs"
 date: 2012-05-12T11:13:50
-slug: holey-hull-plates-newly-delivered-uscgc-stratton-docking-for-repairs
+slug: "holey-hull-plates-newly-delivered-uscgc-stratton-docking-for-repairs"
 excerpt: "The USCGC Stratton is the Coast Guard’s newest cutter.  Built at  Ingalls Shipbuilding of Pascagoula, Miss., she was acquired by the Coast Guard on September 2, 2011 and officially commissioned on  March 31, 2012.  Roughly a month after the 418′ foot … Continue reading &rarr;"
 categories:
   - "Current"

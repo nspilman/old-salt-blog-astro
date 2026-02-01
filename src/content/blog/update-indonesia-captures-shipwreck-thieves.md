@@ -1,7 +1,7 @@
 ---
 title: "Update: Indonesia Captures Shipwreck Thieves"
 date: 2017-05-11T07:58:32
-slug: update-indonesia-captures-shipwreck-thieves
+slug: "update-indonesia-captures-shipwreck-thieves"
 excerpt: "In February, we posted about the strange disappearance of entire wrecks of Dutch and Japanese ships sunk off the coast of Indonesia during World War II. It was believed that grab dredgers might have literally picked the ships apart for … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

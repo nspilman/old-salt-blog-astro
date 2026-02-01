@@ -1,7 +1,7 @@
 ---
-title: "US Navy Sends Six Ships “Safely Out to Sea” To Avoid Hurricane Dorian"
+title: "US Navy Sends Six Ships \"Safely Out to Sea\" To Avoid Hurricane Dorian"
 date: 2019-08-31T08:14:25
-slug: us-navy-sends-six-ships-safely-out-to-sea-to-avoid-hurricane-dorian
+slug: "us-navy-sends-six-ships-safely-out-to-sea-to-avoid-hurricane-dorian"
 excerpt: "The US Navy is sending six ships from the Naval Station Mayport in Jacksonville, Florida into the Atlantic in an attempt to get out of the path of Hurricane Dorian, which is expected to strengthen to a category 3 and … Continue reading &rarr;"
 categories:
   - "Current"

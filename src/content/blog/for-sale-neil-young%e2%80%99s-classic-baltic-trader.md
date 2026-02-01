@@ -1,7 +1,7 @@
 ---
 title: "For Sale: Neil Young’s Classic Baltic Trader"
 date: 2010-04-28T16:24:26
-slug: for-sale-neil-young%e2%80%99s-classic-baltic-trader
+slug: "for-sale-neil-young%e2%80%99s-classic-baltic-trader"
 excerpt: "I’ve always been a fan of Baltic traders.  They were serious working craft.  They aren’t  necessarily graceful but do possess a certain robust beauty.  The schooner W N Ragland, a Baltic trader built in 1913, converted to a yacht, is for sale. For … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Hedy Lamarr — Radio-Controlled Torpedo Designer and Movie Star"
 date: 2015-11-09T18:01:22
-slug: hedy-lamarr-radio-controlled-torpedo-designer-and-movie-star
-excerpt: "Hedwig Eva Maria Kiesler, better known as Hedy Lamarr, was born to Jewish parents in Austria on November 9th, 1914, one hundred and one years ago today. At the height of her movie career, she was known as the “most beautiful … Continue reading &rarr;"
+slug: "hedy-lamarr-radio-controlled-torpedo-designer-and-movie-star"
+excerpt: "Hedwig Eva Maria Kiesler, better known as Hedy Lamarr, was born to Jewish parents in Austria on November 9th, 1914, one hundred and one years ago today. At the height of her movie career, she was known as the \"most beautiful … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"

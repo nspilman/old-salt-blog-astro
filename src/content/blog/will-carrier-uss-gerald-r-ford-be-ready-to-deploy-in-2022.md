@@ -1,7 +1,7 @@
 ---
 title: "Will Carrier USS Gerald R. Ford be Ready to Deploy in 2022?"
 date: 2022-01-04T18:39:14
-slug: will-carrier-uss-gerald-r-ford-be-ready-to-deploy-in-2022
+slug: "will-carrier-uss-gerald-r-ford-be-ready-to-deploy-in-2022"
 excerpt: "When the USS Gerald R. Ford was delivered in 2017, it was still years away from deployment as an aircraft carrier. Most of the 11 Advanced Weapons Elevators (AWE) didn’t work. The electromagnetic aircraft launch system (EMALS) and Advanced Arresting … Continue reading &rarr;"
 categories:
   - "Current"

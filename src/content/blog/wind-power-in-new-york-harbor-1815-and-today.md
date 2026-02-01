@@ -1,7 +1,7 @@
 ---
 title: "Wind Power in New York Harbor — 1815 and Today"
 date: 2015-01-20T14:23:47
-slug: wind-power-in-new-york-harbor-1815-and-today
+slug: "wind-power-in-new-york-harbor-1815-and-today"
 excerpt: "Recently, the NY Times and others have been reporting on the installation of the first commercial wind turbine in New York City. The Sims Municipal Recycling facility in Sunset Park on the Brooklyn waterfront has installed a 100 KW 160′ … Continue reading &rarr;"
 categories:
   - "City of Ships"

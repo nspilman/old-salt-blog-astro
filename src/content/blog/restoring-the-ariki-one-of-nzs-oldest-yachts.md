@@ -1,7 +1,7 @@
 ---
 title: "Restoring the Ariki, One of NZ’s Oldest Yachts"
 date: 2019-02-17T12:55:33
-slug: restoring-the-ariki-one-of-nzs-oldest-yachts
+slug: "restoring-the-ariki-one-of-nzs-oldest-yachts"
 excerpt: "On a cold winter Sunday on the banks of the Hudson River, here is a video from the New Zealand summer about the restoration of one of the oldest yachts in the island nation, the 115-year-old Ariki.  For additional photos … Continue reading &rarr;"
 categories:
   - "Current"

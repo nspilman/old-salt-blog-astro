@@ -1,7 +1,7 @@
 ---
 title: "Titanic II – Part 2: And About Those Life Boats …."
 date: 2013-02-28T13:43:13
-slug: titanic-ii-part-2-and-about-those-life-boats
+slug: "titanic-ii-part-2-and-about-those-life-boats"
 excerpt: "No discussion of the Titanic II is complete without a mention of the lifeboats. The lack of adequate lifeboats on the original Titanic was a major contributor to the deaths of over 1,500 passengers. Unfortunately, as reported in the press, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Chasing Shackleton — Historical Reenactment Vs Reality TV"
 date: 2014-01-13T18:27:03
-slug: chasing-shackleton-recreation-vs-reality-tv
+slug: "chasing-shackleton-recreation-vs-reality-tv"
 excerpt: "Last Wednesday,  I watched Chasing Shackleton, a documentary about the  the Shackleton Epic Expedition led by Tim Jarvis which recreated Shackleton’s epic 800 mile lifeboat voyage in 1916 across the Southern Ocean from Elephant Island to South Georgia to seek help for his stranded crew.  (See … Continue reading &rarr;"
 categories:
   - "Current"

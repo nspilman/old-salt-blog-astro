@@ -1,7 +1,7 @@
 ---
 title: "Titan-Micoperi Presents Plan to Raise Costa Concordia"
 date: 2012-05-18T13:02:59
-slug: titan-micoperi-presents-plan-to-raise-costa-concordia
+slug: "titan-micoperi-presents-plan-to-raise-costa-concordia"
 excerpt: "Representatives of Titan-Micoperi presented their plans to raise the Costa Concordia from where she sank after running aground off the island of Gilgio last January.  Titan-Micoperi is the consortium of Titan Salvage, the Crowley-owned specialist marine salvage company, and Italian marine contractor Micoperi, which … Continue reading &rarr;"
 categories:
   - "Current"

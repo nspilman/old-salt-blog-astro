@@ -1,7 +1,7 @@
 ---
 title: "Van Liew wins 1st leg of Velux 5 Oceans Round the World Race"
 date: 2010-11-16T08:05:07
-slug: van-liew-wins-1st-leg-of-velux-5-oceans-round-the-world-race
+slug: "van-liew-wins-1st-leg-of-velux-5-oceans-round-the-world-race"
 excerpt: "Brad Van Liew has won the first leg of the Velux 5 Oceans Singlehanded Round the World Race arriving in South Africa in only 28 days after his departure from La Rochelle, France. Van Liew wins 1st leg of race – … Continue reading &rarr;"
 categories:
   - "Current"

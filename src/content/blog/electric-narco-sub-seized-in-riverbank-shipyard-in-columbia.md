@@ -1,7 +1,7 @@
 ---
 title: "Electric Narco-Sub Seized in Riverbank Boatyard in Columbia"
 date: 2020-11-21T16:34:58
-slug: electric-narco-sub-seized-in-riverbank-shipyard-in-columbia
+slug: "electric-narco-sub-seized-in-riverbank-shipyard-in-columbia"
 excerpt: "The U.S. Department of Homeland Security estimates that 32 percent of all maritime cocaine smuggled between Latin America and the United States arrives in narco-submarines. Narco-subs come in many shapes and sizes. Most are not submarines at all, but rather … Continue reading &rarr;"
 categories:
   - "Current"

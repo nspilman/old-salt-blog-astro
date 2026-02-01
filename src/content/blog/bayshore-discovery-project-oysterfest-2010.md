@@ -1,7 +1,7 @@
 ---
 title: "Last Day to Reserve Tickets for OysterFest 2010!"
 date: 2010-11-08T07:13:45
-slug: bayshore-discovery-project-oysterfest-2010
+slug: "bayshore-discovery-project-oysterfest-2010"
 excerpt: "Bayshore Discovery Project, the good folks who keep the historic schooner A.J. Meerwald sailing, are having their yearly Oyster Fest! this Friday, November 12th  at the Centerton Country Club in Pittsgrove, NJ.  Today, Monday November 8th, is the last day to reserve tickets. From … Continue reading &rarr;"
 categories:
   - "Current"

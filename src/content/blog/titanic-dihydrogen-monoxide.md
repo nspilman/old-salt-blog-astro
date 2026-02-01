@@ -1,7 +1,7 @@
 ---
 title: "The Titanic and Dihydrogen Monoxide"
 date: 2016-09-03T18:09:09
-slug: titanic-dihydrogen-monoxide
+slug: "titanic-dihydrogen-monoxide"
 excerpt: "From the Dihydrogen Monoxide Awareness Community on Facebook. I read it on the Internet so it must be true. … Continue reading &rarr;"
 categories:
   - "Current"

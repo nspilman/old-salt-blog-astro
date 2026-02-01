@@ -1,8 +1,8 @@
 ---
 title: "How Ice Cream Replaced Booze in the US Navy"
 date: 2025-05-17T18:17:23
-slug: how-ice-cream-replaced-booze-in-the-us-navy-2
-excerpt: "General Order 99 One hundred and eleven years ago on July 1, 1914, Secretary of the US Navy Josephus Daniels issued General Order 99, banning “the use or introduction for drinking purposes of alcoholic liquors on board any naval vessel, … Continue reading &rarr;"
+slug: "how-ice-cream-replaced-booze-in-the-us-navy-2"
+excerpt: "General Order 99 One hundred and eleven years ago on July 1, 1914, Secretary of the US Navy Josephus Daniels issued General Order 99, banning \"the use or introduction for drinking purposes of alcoholic liquors on board any naval vessel, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -16,7 +16,7 @@ tags:
   - "world war II"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/navyicecream.jpg"
 author: "Rick Spilman"
-description: "General Order 99 One hundred and eleven years ago on July 1, 1914, Secretary of the US Navy Josephus Daniels issued General Order 99, banning “the use or introduction for drinking purposes of alcoholic liquors on board any naval vessel, … Continue reading &rarr;"
+description: "General Order 99 One hundred and eleven years ago on July 1, 1914, Secretary of the US Navy Josephus Daniels issued General Order 99, banning \"the use or introduction for drinking purposes of alcoholic liquors on board any naval vessel, … Continue reading &rarr;"
 ---
 
 **![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/navyicecream.jpg)General Order 99**  

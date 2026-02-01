@@ -1,7 +1,7 @@
 ---
 title: "Larsen C Iceberg Calves — Trillion Tons of Ice, the Size of Delaware"
 date: 2017-07-12T09:51:41
-slug: larsen-c-iceberg-calves-trillion-tons-ice-size-delaware
+slug: "larsen-c-iceberg-calves-trillion-tons-ice-size-delaware"
 excerpt: "For months we have been watching a vast crack in Antarctica’s Larsen C ice-shelf in the Weddell Sea.  Today, a huge block of ice calved from the ice-sheet, forming one of the largest icebergs in recorded history. The new Larsen … Continue reading &rarr;"
 categories:
   - "Current"

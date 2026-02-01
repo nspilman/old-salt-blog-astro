@@ -1,7 +1,7 @@
 ---
 title: "The Wired Oceans  – Cables Beneath the Deep Blue Sea"
 date: 2011-09-21T11:35:17
-slug: the-wired-oceans-cables-beneath-the-deep-blue-sea
+slug: "the-wired-oceans-cables-beneath-the-deep-blue-sea"
 excerpt: "For something so relatively new, we take the internet very much for granted.  The first graphical web browser is less than 20 years old.  Nevertheless, the internet seems ubiquitous in most of our lives.  But on a world that is over 70% ocean, how … Continue reading &rarr;"
 categories:
   - "Current"

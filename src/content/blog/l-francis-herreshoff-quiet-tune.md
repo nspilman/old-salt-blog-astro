@@ -1,7 +1,7 @@
 ---
 title: "L. Francis Herreshoff & QUIET TUNE"
 date: 2015-10-15T09:53:25
-slug: l-francis-herreshoff-quiet-tune
+slug: "l-francis-herreshoff-quiet-tune"
 excerpt: "L. Francis Herreshoff was the son of naval architect, Nathanael Greene Herreshoff and the father of yacht designer and naval architect Halsey Herreshoff. L. Francis was widely respected as was a boat designer, naval architect, editor and author of books and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

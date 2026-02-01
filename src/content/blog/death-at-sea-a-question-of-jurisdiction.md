@@ -1,7 +1,7 @@
 ---
 title: "Death at Sea – A question of jurisdiction"
 date: 2011-01-08T14:21:39
-slug: death-at-sea-a-question-of-jurisdiction
+slug: "death-at-sea-a-question-of-jurisdiction"
 excerpt: "A Ukrainian sailor, on a Dutch ship in international waters steaming toward Houston, Texas, got into a fight with a fellow crew member  New Year’s Eve and the next morning was found dead in his cabin.   An autopsy is being performed to determine the … Continue reading &rarr;"
 categories:
   - "Current"

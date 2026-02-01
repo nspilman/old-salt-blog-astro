@@ -1,7 +1,7 @@
 ---
 title: "Thirteen Refugees Drown after Rescue Attempt by USS Winston S. Churchill"
 date: 2010-09-29T08:11:27
-slug: thirteen-refugees-drown-after-rescue-attempt-by-uss-winston-s-churchill
+slug: "thirteen-refugees-drown-after-rescue-attempt-by-uss-winston-s-churchill"
 excerpt: "Given all the reporting on piracy off the Horn of Africa, we hear very little about another crisis – the flood of refugees fleeing the instability and chaos of Somalia’s clan wars.  Last year 74,000 people crossed the Gulf of Aden in smugglers’ boats to reach Yemen, according … Continue reading &rarr;"
 categories:
   - "Current"

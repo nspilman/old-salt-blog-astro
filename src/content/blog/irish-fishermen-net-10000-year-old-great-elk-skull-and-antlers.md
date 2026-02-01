@@ -1,7 +1,7 @@
 ---
 title: "Irish Fishermen Net 10,000 Year Old Great Elk Skull and Antlers"
 date: 2018-09-11T21:56:52
-slug: irish-fishermen-net-10000-year-old-great-elk-skull-and-antlers
+slug: "irish-fishermen-net-10000-year-old-great-elk-skull-and-antlers"
 excerpt: "Two Northern Irish fishermen were fishing for pollan, a whitefish native to Ireland, in Lough Neagh. Instead, fishermen Raymond McElroy and Charlie Coyle netted the antlers and skull of a Great Elk, a species which disappeared from Ireland 10,500 to 11,000 years … Continue reading &rarr;"
 categories:
   - "Current"

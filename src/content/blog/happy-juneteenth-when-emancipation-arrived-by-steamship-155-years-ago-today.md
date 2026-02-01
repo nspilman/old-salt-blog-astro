@@ -1,7 +1,7 @@
 ---
 title: "Happy Juneteenth! When Emancipation Arrived by Steamship, 155 Years Ago Today"
 date: 2020-06-19T08:55:52
-slug: happy-juneteenth-when-emancipation-arrived-by-steamship-155-years-ago-today
+slug: "happy-juneteenth-when-emancipation-arrived-by-steamship-155-years-ago-today"
 excerpt: "Today is Juneteenth, the oldest nationally celebrated commemoration of the ending of slavery in the United States, when 155 years ago, emancipation arrived in Galveston, Texas by steamship. Here is an updated repost from a few years ago. Although the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

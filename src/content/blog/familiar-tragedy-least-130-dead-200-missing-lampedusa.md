@@ -1,7 +1,7 @@
 ---
 title: "An All Too Familiar Tragedy —  At Least 130 Dead and 200 Missing Off Lampedusa"
 date: 2013-10-04T07:47:55
-slug: familiar-tragedy-least-130-dead-200-missing-lampedusa
+slug: "familiar-tragedy-least-130-dead-200-missing-lampedusa"
 excerpt: "At least 130 African refugees have died and 200 are still missing after an overloaded boat caught fire and sank off the Italian island of Lampedusa. More than 150 of the migrants have been rescued. Most of those on board were … Continue reading &rarr;"
 categories:
   - "Current"

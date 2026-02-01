@@ -1,7 +1,7 @@
 ---
 title: "Skin and Bones – Tattoos in the Life of the American Sailor"
 date: 2011-03-28T08:20:51
-slug: skin-and-bones-tattoos-in-the-life-of-the-american-sailor
+slug: "skin-and-bones-tattoos-in-the-life-of-the-american-sailor"
 excerpt: "Mystic Seaport is featuring a traveling exhibit from Philadelphia’s Independence Seaport Museum – Skin & Bones,  Tattoos in the Life of an American Sailor. The exhibition runs through September 5, 2011. Skin and Bones – Tattoos in the Life of the American … Continue reading &rarr;"
 categories:
   - "Current"

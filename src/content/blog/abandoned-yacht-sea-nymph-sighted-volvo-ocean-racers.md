@@ -1,7 +1,7 @@
 ---
 title: "Abandoned Yacht Sea Nymph Sighted by Volvo Ocean Racer"
 date: 2018-02-16T18:41:49
-slug: abandoned-yacht-sea-nymph-sighted-volvo-ocean-racers
+slug: "abandoned-yacht-sea-nymph-sighted-volvo-ocean-racers"
 excerpt: "In October of last year, we posted about the rescue of two sailors and their dogs from the yacht, Sea Nymph. The two women were picked up by the dock landing ship USS Ashland roughly 900 miles southeast of Japan. … Continue reading &rarr;"
 categories:
   - "Current"

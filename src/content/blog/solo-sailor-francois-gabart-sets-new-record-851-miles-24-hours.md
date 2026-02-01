@@ -1,7 +1,7 @@
 ---
 title: "Solo Sailor François Gabart Sets New Record — 851 Miles in 24 Hours"
 date: 2017-11-17T17:25:03
-slug: solo-sailor-francois-gabart-sets-new-record-851-miles-24-hours
+slug: "solo-sailor-francois-gabart-sets-new-record-851-miles-24-hours"
 excerpt: "François Gabart has set a new solo 24-hour speed record of an extraordinary 851 miles sailed in 24 hours on his 98′ trimaran MACIF.  Gabart set the new record sailing in the South Atlantic, averaging 35.4 knots. Gabarts’ record is only about … Continue reading &rarr;"
 categories:
   - "Current"

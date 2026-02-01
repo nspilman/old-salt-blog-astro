@@ -1,7 +1,7 @@
 ---
 title: "Over 10,000 Feared Dead in the Philippines in Aftermath of Super Typhoon Haiyan"
 date: 2013-11-11T17:00:50
-slug: over-10000-feared-dead-in-the-philippines-in-aftermath-of-super-typhoon-haiyan
+slug: "over-10000-feared-dead-in-the-philippines-in-aftermath-of-super-typhoon-haiyan"
 excerpt: "In the aftermath of Super Typhoon Haiyan, the Philippines is beginning to attempt to cope with what has been described as the worst natural disaster in its history.  The typhoon hit the archipelago with winds approaching 200 mph and drove … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "US Navy & Marines Have Contaminated Water Issues — From Pearl Harbor to Carriers to Camp Lejeune"
 date: 2022-10-17T10:48:32
-slug: us-navy-marines-have-contaminated-water-issues-from-pearl-harbor-to-carriers-to-camp-lejeune
+slug: "us-navy-marines-have-contaminated-water-issues-from-pearl-harbor-to-carriers-to-camp-lejeune"
 excerpt: "The US Navy and the Marine Corps have a serious water contamination problem. Last December we posted that on the 80th anniversary of the attack on Pearl Harbor, over 1,000 military families were forced from their homes and suffered illness by … Continue reading &rarr;"
 categories:
   - "Current"

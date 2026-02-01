@@ -1,7 +1,7 @@
 ---
 title: "Apollo Saturn V Moon Rocket Engines Recovered from Ocean Deep by Amazon CEO"
 date: 2013-03-21T16:01:37
-slug: apollo-saturn-v-moon-rocket-engines-recovered-from-ocean-deep-by-amazon-ceo
+slug: "apollo-saturn-v-moon-rocket-engines-recovered-from-ocean-deep-by-amazon-ceo"
 excerpt: "An underwater expedition led by Amazon CEO Jeff Bezos successfully recovered the mangled wreckage of two rocket engines from NASA’s Apollo Moon program from the bottom of the Atlantic Ocean. The F-1 engines, which powered the first-stage Saturn V boosters … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

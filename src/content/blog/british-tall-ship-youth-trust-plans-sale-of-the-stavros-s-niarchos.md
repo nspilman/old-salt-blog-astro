@@ -1,7 +1,7 @@
 ---
 title: "British Tall Ship Youth Trust Plans Sale of the Stavros S Niarchos"
 date: 2011-11-22T16:30:24
-slug: british-tall-ship-youth-trust-plans-sale-of-the-stavros-s-niarchos
+slug: "british-tall-ship-youth-trust-plans-sale-of-the-stavros-s-niarchos"
 excerpt: "The British Tall Ship Youth Trust has published a new development plan detailing some significant changes in the organization, including the planned sale of the one remaining tall ship owned by the Trust, the Stavros S Niarchos. In September of … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "A Really, Really Bad Idea – The Hot Tub Boat"
 date: 2013-01-24T09:55:29
-slug: a-really-really-bad-idea-the-hot-tub-boat
+slug: "a-really-really-bad-idea-the-hot-tub-boat"
 excerpt: "Only on rare occasional does one find a boat that would be significantly improved if run hard aground.  Here is one example, however.  Many large yachts have hot tubs onboard. This 16′ boat, however, is simply a floating hot tub with a … Continue reading &rarr;"
 categories:
   - "Current"

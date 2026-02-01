@@ -1,7 +1,7 @@
 ---
 title: "Ever Ace, World’s Newest Largest Container Ship Transits Suez Canal"
 date: 2021-09-12T13:23:42
-slug: ever-ace-worlds-newest-largest-container-ship-transits-suez-canal
+slug: "ever-ace-worlds-newest-largest-container-ship-transits-suez-canal"
 excerpt: "Ever Ace, the newest world’s largest container ship capable of carrying the 23,992 TEU (twenty-foot equivalent units) transitted the Suez Canal at the beginning of this month. The Ever Ace is notionally 28 TEU larger than the previously largest container … Continue reading &rarr;"
 categories:
   - "Current"

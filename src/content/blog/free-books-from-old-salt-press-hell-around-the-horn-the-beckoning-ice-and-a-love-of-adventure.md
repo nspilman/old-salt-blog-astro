@@ -1,7 +1,7 @@
 ---
 title: "Free Books from Old Salt Press – Hell Around the Horn, The Beckoning Ice and A Love of Adventure"
 date: 2013-05-15T09:15:25
-slug: free-books-from-old-salt-press-hell-around-the-horn-the-beckoning-ice-and-a-love-of-adventure
+slug: "free-books-from-old-salt-press-hell-around-the-horn-the-beckoning-ice-and-a-love-of-adventure"
 excerpt: "To celebrate the upcoming publication of Joan Druett’s Promise of Gold trilogy, Old Salt Press will be running a free book promotion for Rick Spilman’s Hell Around the Horn, and Joan Druett’s The Beckoning Ice and A Love of Adventure over the … Continue reading &rarr;"
 categories:
   - "Newbooks"

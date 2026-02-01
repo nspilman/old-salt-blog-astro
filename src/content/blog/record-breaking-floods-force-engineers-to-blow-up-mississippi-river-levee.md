@@ -1,7 +1,7 @@
 ---
 title: "Record-breaking floods force engineers to blow up Mississippi River levee"
 date: 2011-05-02T20:53:42
-slug: record-breaking-floods-force-engineers-to-blow-up-mississippi-river-levee
+slug: "record-breaking-floods-force-engineers-to-blow-up-mississippi-river-levee"
 excerpt: "Last week we posted that the Ohio River may be too high to allow the running of the Great Steamboat Race on May 4th.    The river has just kept rising.   Tonight the Army Corps of Engineers will blow up … Continue reading &rarr;"
 categories:
   - "Current"

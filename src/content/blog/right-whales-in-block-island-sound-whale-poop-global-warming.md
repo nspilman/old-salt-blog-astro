@@ -1,7 +1,7 @@
 ---
 title: "Right Whales in Block Island Sound, Whale Poop & Global Warming"
 date: 2010-04-25T10:47:59
-slug: right-whales-in-block-island-sound-whale-poop-global-warming
+slug: "right-whales-in-block-island-sound-whale-poop-global-warming"
 excerpt: "Recently almost one hundred endangered right whales were observed feeding in the waters of Block Island Sound. Given that only between 350 and 400 of the North Atlantic Right Whales are believed to currently exist, the gathering was quite unusual. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Climate Change & the Sea — Rising Sea Levels & Continued Denial"
 date: 2016-02-24T12:23:21
-slug: climate-change-sea-rising-sea-levels-continued-denial
+slug: "climate-change-sea-rising-sea-levels-continued-denial"
 excerpt: "Recent studies suggest that sea levels are now rising at the fastest rate in the last 28 centuries. According to two reports, increased flooding in coastal communities in America can be traced directly to increased the production of greenhouse gases … Continue reading &rarr;"
 categories:
   - "Current"

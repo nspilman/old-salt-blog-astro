@@ -1,7 +1,7 @@
 ---
 title: "Dressing for Tall Ships Sunderland  — the Tall Ships Hat and the Belle Poule Pouf"
 date: 2017-12-13T21:21:58
-slug: dressing-tall-ships-sunderland-tall-ships-hat-belle-poule-pouf
+slug: "dressing-tall-ships-sunderland-tall-ships-hat-belle-poule-pouf"
 excerpt: "The Sunderland Tall Ships Festival is projected to attract m ore than 1.5 million people next July. For those of us lying awake at night wondering what we should wear to the event, designer Kathryn Russell has at least one … Continue reading &rarr;"
 categories:
   - "Current"

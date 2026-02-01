@@ -1,7 +1,7 @@
 ---
 title: "Is That Nessie on Apple Maps?  Sorry, But No."
 date: 2014-04-23T07:30:21
-slug: is-that-nessie-on-apple-maps-sorry-but-no
+slug: "is-that-nessie-on-apple-maps-sorry-but-no"
 excerpt: "Last week, stories started appearing on the Internet about a satellite image on Apple maps, of what was described as something large swimming just below the surface in Loch Ness.  Had satellite photography captured an image of the Loch Ness … Continue reading &rarr;"
 categories:
   - "Current"

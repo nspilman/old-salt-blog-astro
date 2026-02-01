@@ -1,7 +1,7 @@
 ---
 title: "The Mariner’s Guide to the Port of New York and New Jersey"
 date: 2017-06-10T13:52:00
-slug: mariners-guide-port-new-york-new-jersey
+slug: "mariners-guide-port-new-york-new-jersey"
 excerpt: "New York Harbor is the busiest port on the east coast of the United States. Here is a fascinating video about the challenges and dangers of the being on the water where cargo ships, tugs and barges, ferries, sailboats, power … Continue reading &rarr;"
 categories:
   - "Current"

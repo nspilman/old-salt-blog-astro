@@ -1,7 +1,7 @@
 ---
 title: "The Liverpool Sea Shanty Festival Returns Song to the Docks"
 date: 2011-04-29T17:46:55
-slug: the-liverpool-sea-shanty-festival-returns-song-to-the-docks
+slug: "the-liverpool-sea-shanty-festival-returns-song-to-the-docks"
 excerpt: "Beginning today and running for two weekends, April 29 – May , and May 7-8, the Liverpool Sea Shanty Festival will return boisterous songs to the docks on the Merseyside.    Singers from New York and the Netherlands will be joining in. Sounds of the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

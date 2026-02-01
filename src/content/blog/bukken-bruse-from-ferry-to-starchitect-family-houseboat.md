@@ -1,7 +1,7 @@
 ---
-title: "Bukken-Bruse — From Ferry to “Starchitect” Family Houseboat"
+title: "Bukken-Bruse — From Ferry to \"Starchitect\" Family Houseboat"
 date: 2020-10-11T14:22:53
-slug: bukken-bruse-from-ferry-to-starchitect-family-houseboat
+slug: "bukken-bruse-from-ferry-to-starchitect-family-houseboat"
 excerpt: "Built almost 60 years ago, the 126′ long ferry Bukken-Bruse carried cars and passengers from Bergen, Norway to various coastal ports for close to two decades before being redeployed to operate between Fejø and Kragenæs, Denmark for another 20 years. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

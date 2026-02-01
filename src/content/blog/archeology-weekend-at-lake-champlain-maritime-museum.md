@@ -1,7 +1,7 @@
 ---
 title: "Archeology Weekend at Lake Champlain Maritime Museum"
 date: 2009-09-25T08:10:35
-slug: archeology-weekend-at-lake-champlain-maritime-museum
+slug: "archeology-weekend-at-lake-champlain-maritime-museum"
 excerpt: "The Lake Champlain Maritime Museum is hosting an Archeology Weekend tomorrow and Sunday. it will include  presentations on Lake Champlain shipwrecks and feature some of their latest explorations including early steamboats, gunboats, sailing vessels and canal boats. There will be special demonstrations in … Continue reading &rarr;"
 categories:
   - "Current"

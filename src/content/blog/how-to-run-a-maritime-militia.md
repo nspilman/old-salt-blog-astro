@@ -1,7 +1,7 @@
 ---
 title: "How to Run a Maritime Militia"
 date: 2010-03-22T13:37:31
-slug: how-to-run-a-maritime-militia
+slug: "how-to-run-a-maritime-militia"
 excerpt: "A fascinating post from the Lawyers, Guns and Money blog. Thanks to Andy from the Maritime Texas blog for passing it along.  The bottom line seems to be that piracy is an expensive business and may be progressively less profitable as ship … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

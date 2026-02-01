@@ -1,7 +1,7 @@
 ---
-title: "TBT– Frederick Douglass — “I Will Take to the Water”"
+title: "TBT– Frederick Douglass — \"I Will Take to the Water\""
 date: 2020-02-27T17:55:58
-slug: tbt-frederick-douglass-i-will-take-to-the-water
+slug: "tbt-frederick-douglass-i-will-take-to-the-water"
 excerpt: "An updated repost in honor of Frederick Douglass and Black History Month.  Frederick Douglass was born around 1818. From an early age, he developed a close attachment to ships and the sea. His path to freedom led directly through the docks … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

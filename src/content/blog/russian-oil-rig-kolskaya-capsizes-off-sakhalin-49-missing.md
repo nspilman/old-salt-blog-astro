@@ -1,7 +1,7 @@
 ---
 title: "Russian Oil Rig, Kolskaya, Capsizes off Sakhalin – 4 Dead & 49 Missing"
 date: 2011-12-18T09:48:47
-slug: russian-oil-rig-kolskaya-capsizes-off-sakhalin-49-missing
+slug: "russian-oil-rig-kolskaya-capsizes-off-sakhalin-49-missing"
 excerpt: "The Russian jack-up drilling rig, Kolskaya, capsized while under tow in a storm in the Sea of Okhotsk, 200 KM off Sakhalin Island at 12.45 local time (0145 GMT) Sunday.  Of the 67 crew on board, 14 were rescued,  four are reported to have … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "De Tukker, Ecoclipper’s First Ship Sets Sail in Emission-Free Short-Sea Liner Service"
 date: 2023-05-12T17:52:03
-slug: de-tukker-ecoclippers-first-ship-sets-sail-in-emission-free-short-sea-liner-service
+slug: "de-tukker-ecoclippers-first-ship-sets-sail-in-emission-free-short-sea-liner-service"
 excerpt: "Ecoclipper has announced that with the maiden voyage of the recently refitted De Tukke, their emission-free short-sea Western European liner service has begun. From their press release: De Tukker, the first ship operated by the sail cargo company Ecoclipper, has … Continue reading &rarr;"
 categories:
   - "Current"

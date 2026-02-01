@@ -1,14 +1,14 @@
 ---
 title: "New Review from Historic Naval Fiction: Turn a Blind Eye by Alaric Bond"
 date: 2013-09-28T13:41:27
-slug: new-review-historic-naval-fiction-turn-blind-eye-alaric-bond
+slug: "new-review-historic-naval-fiction-turn-blind-eye-alaric-bond"
 excerpt: "A new review from Historic Naval Fiction: Alaric Bond‘s new novel, Turn A Blind Eye, moves away from his ‘Fighting Sail’ series and the Royal Navy to the world of smuggling on the South Coast of England. It follows Commander Griffin … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Reviews"
   - "Seastories"
 tags:
-  - ""turn a blind eye"
+  - "\"turn a blind eye"
   - "Alaric Bond"
   - "Historic Naval Fiction"
 author: "Rick Spilman"

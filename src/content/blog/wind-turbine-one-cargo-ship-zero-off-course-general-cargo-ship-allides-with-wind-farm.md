@@ -1,7 +1,7 @@
 ---
 title: "Wind Turbine One, Cargo Ship Zero — Off Course General Cargo Ship Allides With Wind Farm"
 date: 2023-05-31T17:39:03
-slug: wind-turbine-one-cargo-ship-zero-off-course-general-cargo-ship-allides-with-wind-farm
+slug: "wind-turbine-one-cargo-ship-zero-off-course-general-cargo-ship-allides-with-wind-farm"
 excerpt: "We missed this story the first time around, but it seems worthwhile to mention it, all the same. For what is being referred to as the first time it has occurred, a merchant ship had an allision with a wind … Continue reading &rarr;"
 categories:
   - "Current"

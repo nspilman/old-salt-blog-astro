@@ -1,8 +1,8 @@
 ---
 title: "The Hinckley Dasher — the Tesla of Luxury Yachts"
 date: 2017-09-25T09:02:43
-slug: hinckley-dasher-tesla-luxury-boats
-excerpt: "Hinckley Yachts claims to build “luxury yachts with innovative technology.” Their new 28’6″ fully electric runabout Dasher lives up to the boast.  Fortune magazine referred to it as the “Tesla of luxury yachts.”  The new design, which uses carbon fiber to … Continue reading &rarr;"
+slug: "hinckley-dasher-tesla-luxury-boats"
+excerpt: "Hinckley Yachts claims to build \"luxury yachts with innovative technology.\" Their new 28’6″ fully electric runabout Dasher lives up to the boast.  Fortune magazine referred to it as the \"Tesla of luxury yachts.\"  The new design, which uses carbon fiber to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -11,7 +11,7 @@ tags:
   - "Hinckley"
   - "Torqeedo"
 author: "Rick Spilman"
-description: "Hinckley Yachts claims to build “luxury yachts with innovative technology.” Their new 28’6″ fully electric runabout Dasher lives up to the boast.  Fortune magazine referred to it as the “Tesla of luxury yachts.”  The new design, which uses carbon fiber to … Continue reading &rarr;"
+description: "Hinckley Yachts claims to build \"luxury yachts with innovative technology.\" Their new 28’6″ fully electric runabout Dasher lives up to the boast.  Fortune magazine referred to it as the \"Tesla of luxury yachts.\"  The new design, which uses carbon fiber to … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/dasher1.jpg)[Hinckley Yachts](http://www.hinckleyyachts.com/) claims to build “luxury yachts with innovative technology.” Their new 28’6″ fully electric runabout [*Dasher*](http://www.hinckleyyachts.com/models/dasher/dasher/) lives up to the boast.  [Fortune](http://fortune.com/2017/09/15/electric-luxury-yachts/) magazine referred to it as the “[Tesla](https://www.tesla.com/) of luxury yachts.” 

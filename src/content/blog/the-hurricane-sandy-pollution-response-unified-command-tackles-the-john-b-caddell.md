@@ -1,7 +1,7 @@
 ---
 title: "The Hurricane Sandy Pollution Response Unified Command Tackles the John B. Caddell"
 date: 2012-12-03T13:49:12
-slug: the-hurricane-sandy-pollution-response-unified-command-tackles-the-john-b-caddell
+slug: "the-hurricane-sandy-pollution-response-unified-command-tackles-the-john-b-caddell"
 excerpt: "I have great admiration for those whose successfully navigate the rocks and shoals of the bureaucracy in order to get anything done around New York harbor. A Coast Guard press release brought this to mind. The US Coast Guard is … Continue reading &rarr;"
 categories:
   - "Current"

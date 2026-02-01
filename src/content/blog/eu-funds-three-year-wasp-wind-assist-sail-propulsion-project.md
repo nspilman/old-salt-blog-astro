@@ -1,7 +1,7 @@
 ---
 title: "EU Funds Three Year WASP (Wind Assist Sail Propulsion) Project"
 date: 2019-11-07T09:25:06
-slug: eu-funds-three-year-wasp-wind-assist-sail-propulsion-project
+slug: "eu-funds-three-year-wasp-wind-assist-sail-propulsion-project"
 excerpt: "A three-year project to research Wind-Assisted Sail Propulsion (WASP) has been launched in Europe supported by €5.4Mn (about $6 million) in funding provided by the Interreg North Sea Europe program, part of the European Regional Development Fund (ERDF).  The project … Continue reading &rarr;"
 categories:
   - "Current"

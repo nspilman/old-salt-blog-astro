@@ -1,7 +1,7 @@
 ---
 title: "USCGC Polar Star Heading to Rescue Ice-bound Ships"
 date: 2014-01-05T10:36:51
-slug: uscgc-polar-star-heading-to-rescue-ice-bound-ships
+slug: "uscgc-polar-star-heading-to-rescue-ice-bound-ships"
 excerpt: "The USCGC Polar Star is on its way to attempt to break free two ice-bound ship off Antarctica.   So far, three icebreakers have attempted to free the the MV Akademik Shokalskiy, which has been stuck in Antarctic ice south of Tasmania … Continue reading &rarr;"
 categories:
   - "Current"

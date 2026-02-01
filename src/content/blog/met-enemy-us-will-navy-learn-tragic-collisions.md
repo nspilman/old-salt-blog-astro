@@ -1,7 +1,7 @@
 ---
 title: "We Have Met the Enemy and He is Us  — Will the Navy Learn From Tragic Collisions?"
 date: 2017-08-29T09:05:40
-slug: met-enemy-us-will-navy-learn-tragic-collisions
+slug: "met-enemy-us-will-navy-learn-tragic-collisions"
 excerpt: "Two high tech guided missile destroyers charged with protecting the fleet from incoming missiles somehow failed to avoid collision with two slow-speed commercial vessels. Tragically, seventeen sailors died in the collisions. Some immediately blamed cyber-hacking, although a Navy investigation has turned … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The William Main Doerflinger Memorial Shanty Session, 5/15/11"
 date: 2011-05-17T19:46:11
-slug: the-william-main-doerflinger-memorial-shanty-session-51511
+slug: "the-william-main-doerflinger-memorial-shanty-session-51511"
 excerpt: "Last week we posted about the upcoming first William Main Doerflinger Memorial Shanty Session to be held at the Noble Maritime Collection at Snug Harbor.    The shanty sing was well attended and the space was beautiful as well as historic.  The … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "A Grim Week for Shipwrecks – Black Sea, the Dominican Republic, Papua New Guinea and Dongting Lake in China Claim"
 date: 2012-02-06T18:01:45
-slug: a-grim-week-for-shipwrecks-black-sea-the-dominican-republic-papua-new-guinea-and-dongting-lake-in-china-claim
+slug: "a-grim-week-for-shipwrecks-black-sea-the-dominican-republic-papua-new-guinea-and-dongting-lake-in-china-claim"
 excerpt: "It is easy to focus of the plight of the 34 dead or missing from the Costa Concordia.  Regrettably, these casualties have not been the only recent deaths on the water. The past week has been particularly brutal with ship and boat sinkings in … Continue reading &rarr;"
 categories:
   - "Current"

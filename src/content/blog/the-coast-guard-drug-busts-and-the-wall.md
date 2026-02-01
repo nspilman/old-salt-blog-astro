@@ -1,7 +1,7 @@
 ---
 title: "The Coast Guard, Drug Busts, and the Wall"
 date: 2018-12-30T14:22:29
-slug: the-coast-guard-drug-busts-and-the-wall
+slug: "the-coast-guard-drug-busts-and-the-wall"
 excerpt: "Sometimes the events of the day seem downright surreal. Yesterday, I read about the US Coast Guard cutter Campbell which returned to the Portsmouth Naval Base from a three month Pacific patrol in which it seized more than 11,000 pounds … Continue reading &rarr;"
 categories:
   - "Current"

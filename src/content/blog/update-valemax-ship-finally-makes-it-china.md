@@ -1,7 +1,7 @@
 ---
 title: "Update: ValeMax Ship Finally Makes it to China"
 date: 2012-01-03T11:39:20
-slug: update-valemax-ship-finally-makes-it-china
+slug: "update-valemax-ship-finally-makes-it-china"
 excerpt: "It would have been almost funny, if billions of dollars were not at stake.  As we posted last June, the Vale Brasil, first of the Valemax class of Very Large Ore Carriers (VLOC) sailed on its maiden voyage with 391,000 tons of iron … Continue reading &rarr;"
 categories:
   - "Current"

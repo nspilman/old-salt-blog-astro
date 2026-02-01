@@ -1,7 +1,7 @@
 ---
 title: "DNA May Prove the Legend of the Wild Ponies of Assateague Island & the Spanish Galleon"
 date: 2022-07-30T10:28:45
-slug: dna-may-prove-the-legend-of-the-wild-ponies-of-assateague-island-the-spanish-galleon
+slug: "dna-may-prove-the-legend-of-the-wild-ponies-of-assateague-island-the-spanish-galleon"
 excerpt: "Two herds of wild ponies have lived for hundreds of years on Assateague Island, a 37-mile-long Atlantic barrier island that crosses the border between the states of Virginia and Maryland. The Virginia side of the island is just east of … Continue reading &rarr;"
 categories:
   - "Current"

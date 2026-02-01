@@ -1,7 +1,7 @@
 ---
 title: "Franklin Records Found as Search Resumes for Franklin’s Ships"
 date: 2010-09-10T07:57:11
-slug: franklin-records-found-as-search-resumes-for-franklins-ships
+slug: "franklin-records-found-as-search-resumes-for-franklins-ships"
 excerpt: "An update to a previous post. An Inuit family says a box that was hidden for over 80 years in the Arctic contains documents linked to the doomed Franklin expedition and has just turned the box over to the the Canadian Conservation … Continue reading &rarr;"
 categories:
   - "Current"

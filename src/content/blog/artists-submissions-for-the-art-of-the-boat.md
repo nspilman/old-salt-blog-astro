@@ -1,8 +1,8 @@
 ---
-title: "Artists Submissions for the “Art of the Boat”"
+title: "Artists Submissions for the \"Art of the Boat\""
 date: 2010-11-05T10:22:22
-slug: artists-submissions-for-the-art-of-the-boat
-excerpt: "The Penobscot Marine Museum is seeking submissions from artists in all visual media for a juried  art exhibit entitled “The Art of the Boat.”  The show will examine the artistic aspects of boat design and construction, and will run from May through … Continue reading &rarr;"
+slug: "artists-submissions-for-the-art-of-the-boat"
+excerpt: "The Penobscot Marine Museum is seeking submissions from artists in all visual media for a juried  art exhibit entitled \"The Art of the Boat.\"  The show will examine the artistic aspects of boat design and construction, and will run from May through … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Penobscot Marine Museum"
   - "The Art of the Boat"
 author: "Rick Spilman"
-description: "The Penobscot Marine Museum is seeking submissions from artists in all visual media for a juried  art exhibit entitled “The Art of the Boat.”  The show will examine the artistic aspects of boat design and construction, and will run from May through … Continue reading &rarr;"
+description: "The Penobscot Marine Museum is seeking submissions from artists in all visual media for a juried  art exhibit entitled \"The Art of the Boat.\"  The show will examine the artistic aspects of boat design and construction, and will run from May through … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/11/penobscottmm.jpg)The [Penobscot Marine Museum](http://www.penobscotmarinemuseum.org/) is seeking submissions from artists in all visual media for a juried  art exhibit entitled “The Art of the Boat.”  The show will examine the artistic aspects of boat design and construction, and will run from May through October 2011.

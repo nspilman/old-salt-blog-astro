@@ -1,7 +1,7 @@
 ---
 title: "Bulk Carrier Fire and Explosion Temporarily Halts Traffic in the Port of Baltimore"
 date: 2025-08-19T18:39:29
-slug: bulk-carrier-fire-and-explosion-temporarily-halts-traffic-in-the-port-of-baltimore
+slug: "bulk-carrier-fire-and-explosion-temporarily-halts-traffic-in-the-port-of-baltimore"
 excerpt: "On Monday night, an explosion and fire erupted aboard the W-Sapphire, a 751-foot-long, 82,000 DWT bulk carrier, in the Patapsco River, outbound from Baltimore harbor. The Liberian-registered bulker had just loaded coal at CSX’s Curtis Bay terminal and was beginning … Continue reading &rarr;"
 categories:
   - "Current"

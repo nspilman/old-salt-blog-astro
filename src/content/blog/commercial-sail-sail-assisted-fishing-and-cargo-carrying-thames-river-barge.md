@@ -1,7 +1,7 @@
 ---
 title: "Commercial Sail – Sail Assisted Fishing and Cargo Carrying Thames River Barge"
 date: 2012-02-19T11:04:12
-slug: commercial-sail-sail-assisted-fishing-and-cargo-carrying-thames-river-barge
+slug: "commercial-sail-sail-assisted-fishing-and-cargo-carrying-thames-river-barge"
 excerpt: "Two very interesting projects involving commercial sail from the Traditional Sail Professionals Linked-in Group.  In Brittany, Avel Marine‘s Project Grand Largue is designing and testing auxiliary sailing rigs for existing fishing vessels.  The design features a bipod mast and easily handled sails. The rig has … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

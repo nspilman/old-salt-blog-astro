@@ -1,7 +1,7 @@
 ---
 title: "Vestas Wind, Andrea Doria, USS Guardian, Royal Majesty and GPS Assisted Grounding"
 date: 2014-12-04T18:04:59
-slug: vestas-wind-andrea-doria-uss-guardian-royal-majesty-and-gps-assisted-grounding
+slug: "vestas-wind-andrea-doria-uss-guardian-royal-majesty-and-gps-assisted-grounding"
 excerpt: "At least Sir Cloudesley Shovell had an excuse, not that he really needed one. He drowned with the other 1,400 sailors in the Scilly naval disaster of 1707.  The navigators on the four warships that hit the Scilly’s Western Rocks lacked the tools … Continue reading &rarr;"
 categories:
   - "Current"

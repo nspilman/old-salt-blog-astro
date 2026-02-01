@@ -1,8 +1,8 @@
 ---
 title: "Alaric Bond on C.S. Forester – An Unlikely Sea Daddy"
 date: 2012-08-27T19:55:24
-slug: alaric-bond-on-c-s-forester-an-unlikely-sea-daddy
-excerpt: "Today is C.S. Forester’s birthday.  (Thanks to Margaret Muir, who pointed it our on Facebook. Otherwise, I would have missed it.) Cecil Louis Troughton Smith, who wrote under the pen name of Cecil Scott “C.S.” Forester was born on August 27, 1899. … Continue reading &rarr;"
+slug: "alaric-bond-on-c-s-forester-an-unlikely-sea-daddy"
+excerpt: "Today is C.S. Forester’s birthday.  (Thanks to Margaret Muir, who pointed it our on Facebook. Otherwise, I would have missed it.) Cecil Louis Troughton Smith, who wrote under the pen name of Cecil Scott \"C.S.\" Forester was born on August 27, 1899. … Continue reading &rarr;"
 categories:
   - "Critiques"
   - "Seastories"
@@ -12,7 +12,7 @@ tags:
   - "C.S. Forester"
   - "Horatio Hornblower"
 author: "Rick Spilman"
-description: "Today is C.S. Forester’s birthday.  (Thanks to Margaret Muir, who pointed it our on Facebook. Otherwise, I would have missed it.) Cecil Louis Troughton Smith, who wrote under the pen name of Cecil Scott “C.S.” Forester was born on August 27, 1899. … Continue reading &rarr;"
+description: "Today is C.S. Forester’s birthday.  (Thanks to Margaret Muir, who pointed it our on Facebook. Otherwise, I would have missed it.) Cecil Louis Troughton Smith, who wrote under the pen name of Cecil Scott \"C.S.\" Forester was born on August 27, 1899. … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/08/CS_Forester00.jpg)Today is [C.S. Forester’](http://en.wikipedia.org/wiki/C._S._Forester)s birthday.  (Thanks to [Margaret Muir](http://www.margaretmuirauthor.com/), who pointed it our on Facebook. Otherwise, I would have missed it.) Cecil Louis Troughton Smith, who wrote under the pen name of Cecil Scott “C.S.” Forester was born on August 27, 1899.  While Forester wrote over fifty books, he will probably always be best remembered for his creation of Horatio Hornblower, the Georgian naval officer who rose from midshipman to admiral over a dozen novels and short stories.

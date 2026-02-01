@@ -1,7 +1,7 @@
 ---
 title: "Greta Thunberg at Sea on Her Way to UN Conference"
 date: 2019-08-15T11:33:36
-slug: greta-thunberg-at-sea-on-her-way-to-un-conference
+slug: "greta-thunberg-at-sea-on-her-way-to-un-conference"
 excerpt: "On Wednesday, 16-year-old Swedish climate activist, Greta Thunberg, set sail from Plymouth, England on a racing yacht bound for New York. She is traveling to participate in United Nations climate talks in September, and she refuses to fly because aviation … Continue reading &rarr;"
 categories:
   - "Current"

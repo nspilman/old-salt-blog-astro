@@ -1,7 +1,7 @@
 ---
 title: "Around the World in 78 Days! François Gabart Sets New Record Winning Vendée Globe"
 date: 2013-01-27T16:47:55
-slug: around-the-world-in-78-days-francois-gabart-sets-new-record-winning-vendee-globe
+slug: "around-the-world-in-78-days-francois-gabart-sets-new-record-winning-vendee-globe"
 excerpt: "François Gabart, sailing MACIF, won the Vendée Globe round-the-world single-handed race in 78 days and two hours, shattering the previous record of 84 days and three hours, set in 2009 by Michel Desjoyeaux.   Ending what has been a round-the-world match-race between the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Mary Rose prepares to rise again"
 date: 2009-09-24T08:37:06
-slug: mary-rose-prepares-to-rise-again
+slug: "mary-rose-prepares-to-rise-again"
 excerpt: "Depending on how you look at it, there is either good or bad news about the Mary Rose.  The Mary Rose is the only only 16th century warship on display anywhere in the world. She was one of the first … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Russia’s Only Aircraft Carrier Catches Fire Again, Lawmaker Proposes Buying China’s Liaoning Carrier"
 date: 2023-01-25T18:57:11
-slug: russias-only-aircraft-carrier-catches-fire-again-lawmaker-proposes-buying-chinas-liaoning-carrier
+slug: "russias-only-aircraft-carrier-catches-fire-again-lawmaker-proposes-buying-chinas-liaoning-carrier"
 excerpt: "Russia’s only aircraft carrier, Admiral Kuznetsov, has been out of service for years while undergoing maintenance for chronic operational problems. In just the most recent mishap, a fire broke out on the carrier, a few days before Christmas, while undergoing … Continue reading &rarr;"
 categories:
   - "Current"

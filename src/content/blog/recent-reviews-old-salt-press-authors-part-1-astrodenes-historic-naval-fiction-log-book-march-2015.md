@@ -1,7 +1,7 @@
 ---
 title: "Recent Reviews, Old Salt Press Authors, Part 1 —  Astrodene’s Historic Naval Fiction Log Book March 2015"
 date: 2015-03-04T20:14:00
-slug: recent-reviews-old-salt-press-authors-part-1-astrodenes-historic-naval-fiction-log-book-march-2015
+slug: "recent-reviews-old-salt-press-authors-part-1-astrodenes-historic-naval-fiction-log-book-march-2015"
 excerpt: "Two excellent nautical newsletters came out within the past few days — Astrodene’s Historic Naval Fiction Log Book and McBook Press’ Quarterdeck. Both feature news and reviews of nautical fiction and non-fiction and each also feature reviews of new books by … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

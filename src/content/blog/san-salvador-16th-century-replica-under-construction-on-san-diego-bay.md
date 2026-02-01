@@ -1,7 +1,7 @@
 ---
 title: "San Salvador, 16th Century Replica, Under Construction by the Maritime Museum of San Diego"
 date: 2011-07-28T09:14:58
-slug: san-salvador-16th-century-replica-under-construction-on-san-diego-bay
+slug: "san-salvador-16th-century-replica-under-construction-on-san-diego-bay"
 excerpt: "At a time when many maritime museums in the United States are struggling to just maintain their ships and indeed several are attempting to get rid of them, the Maritime Museum of San Diego is building a new historic replica, the San Salvador, Juan Rodríguez Cabrillo‘s flagship.  In the … Continue reading &rarr;"
 categories:
   - "Current"

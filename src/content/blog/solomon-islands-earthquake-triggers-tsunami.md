@@ -1,7 +1,7 @@
 ---
 title: "Solomon Islands Earthquake Triggers Tsunami"
 date: 2013-02-06T15:52:50
-slug: solomon-islands-earthquake-triggers-tsunami
+slug: "solomon-islands-earthquake-triggers-tsunami"
 excerpt: "A powerful magnitude 8.0 earthquake off the Solomon Islands in the South Pacific triggered a tsunami of up to 5 feet high, damaging several villages and leaving several people missing, presumed dead.   Five villages on Santa Cruz and neighboring islands were reported to have … Continue reading &rarr;"
 categories:
   - "Current"

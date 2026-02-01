@@ -1,7 +1,7 @@
 ---
 title: "The Loneliest Whale — Search for 52 : A Review"
 date: 2021-07-24T10:12:38
-slug: the-loneliest-whale-search-for-52-a-review
+slug: "the-loneliest-whale-search-for-52-a-review"
 excerpt: "Joshua Zeman has directed a newly released documentary, The Loneliest Whale — the Search for 52. It is a fascinating muddle of a film, well worth watching if you can overlook the mix of myth, legend, and social media sentimentality … Continue reading &rarr;"
 categories:
   - "Critiques"

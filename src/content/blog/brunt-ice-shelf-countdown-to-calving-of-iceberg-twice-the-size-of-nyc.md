@@ -1,7 +1,7 @@
 ---
 title: "Brunt Ice Shelf — Countdown to Calving of Iceberg Twice the Size of NYC"
 date: 2019-03-29T14:36:52
-slug: brunt-ice-shelf-countdown-to-calving-of-iceberg-twice-the-size-of-nyc
+slug: "brunt-ice-shelf-countdown-to-calving-of-iceberg-twice-the-size-of-nyc"
 excerpt: "For several months now, scientists have been monitoring growing cracks in Antarctica’s Brunt Ice Shelf which have been spreading at an alarming rate. At almost any time, perhaps even in days, an iceberg over 560 square miles, or twice the … Continue reading &rarr;"
 categories:
   - "Current"

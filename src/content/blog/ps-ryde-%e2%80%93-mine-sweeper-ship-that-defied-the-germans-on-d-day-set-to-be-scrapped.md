@@ -1,7 +1,7 @@
 ---
 title: "PS Ryde – Mine-sweeper ship that defied the Germans on D-Day set to be scrapped"
 date: 2010-01-31T19:24:56
-slug: ps-ryde-%e2%80%93-mine-sweeper-ship-that-defied-the-germans-on-d-day-set-to-be-scrapped
+slug: "ps-ryde-%e2%80%93-mine-sweeper-ship-that-defied-the-germans-on-d-day-set-to-be-scrapped"
 excerpt: "Not every historic vessel can be saved and not every historic vessel should be saved.  The difficult question is deciding which are worthy of saving  before they fall prey to the ravages of time or, in this case,  the bureaucracy.  A story from today’s Daily … Continue reading &rarr;"
 categories:
   - "Current"

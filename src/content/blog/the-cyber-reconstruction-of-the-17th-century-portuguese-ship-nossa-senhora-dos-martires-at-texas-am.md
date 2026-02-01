@@ -1,7 +1,7 @@
 ---
 title: "The Cyber-Reconstruction of the 17th Century, Nossa Senhora dos Martires,  at Texas A&M"
 date: 2012-01-01T13:18:47
-slug: the-cyber-reconstruction-of-the-17th-century-portuguese-ship-nossa-senhora-dos-martires-at-texas-am
+slug: "the-cyber-reconstruction-of-the-17th-century-portuguese-ship-nossa-senhora-dos-martires-at-texas-am"
 excerpt: "What better way to start the new year than to look at a project which uses modern technology to recreate virtually a ship from 1606?    Dr. Filipe Castro,  of the Nautical Archaeology Program, Texas A&M University, working with the university’s Visualization … Continue reading &rarr;"
 categories:
   - "Current"

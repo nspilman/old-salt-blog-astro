@@ -1,7 +1,7 @@
 ---
 title: "Drunken Passenger Drops Anchor on Cruise Ship MS Ryndam ! ? !"
 date: 2010-11-30T17:06:58
-slug: drunken-passenger-drops-anchor-on-cruise-ship-ms-ryndam
+slug: "drunken-passenger-drops-anchor-on-cruise-ship-ms-ryndam"
 excerpt: "Allegedly, Rick Ehlert, 44, a passenger on the Holland America cruise ship, MS Ryndam, entered a restricted area, put on pair of work gloves, disengaged the windlass and released the stern anchor while the ship was underway, in international waters off the Florida coast … Continue reading &rarr;"
 categories:
   - "Current"

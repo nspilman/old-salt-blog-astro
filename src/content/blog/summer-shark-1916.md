@@ -1,7 +1,7 @@
 ---
-title: "The Summer of the Shark, Jersey Shore 1916  — the Birth of “Jaws”"
+title: "The Summer of the Shark, Jersey Shore 1916  — the Birth of \"Jaws\""
 date: 2016-07-01T14:09:50
-slug: summer-shark-1916
+slug: "summer-shark-1916"
 excerpt: "One hundred years ago today, Americans learned to be afraid of sharks. On the evening of July 1, 1916, Charles Vansant, 25, of Philadelphia was on vacation with his family at the beach-side resort town of Beach Haven on the New Jersey … Continue reading &rarr;"
 categories:
   - "History"

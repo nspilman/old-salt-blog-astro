@@ -1,7 +1,7 @@
 ---
 title: "Poseidon Principles — Big Banks Push For Greener Shipping"
 date: 2020-01-21T15:43:06
-slug: poseidon-principles-big-banks-push-for-greener-shipping
+slug: "poseidon-principles-big-banks-push-for-greener-shipping"
 excerpt: "The International Maritime Organization (IMO), the UN agency responsible for regulating shipping, has set the ambitious goal of cutting greenhouse gas emissions from ships by 50% from 2008 levels by 2050. Around the world, engineers, ship owners and managers, universities, … Continue reading &rarr;"
 categories:
   - "Current"

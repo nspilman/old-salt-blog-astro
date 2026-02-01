@@ -1,8 +1,8 @@
 ---
 title: "Did Vikings Navigate with ‘Sunstones’?"
 date: 2011-03-07T19:37:42
-slug: did-vikings-navigate-with-sunstones
-excerpt: "When the sun was out the Vikings could navigate with “sun compass,”  a sort of modified sundial.   According to legend, when the sky was overcast the Vikings used a “sunstone.”  A new study suggests that the sunstone might not … Continue reading &rarr;"
+slug: "did-vikings-navigate-with-sunstones"
+excerpt: "When the sun was out the Vikings could navigate with \"sun compass,\"  a sort of modified sundial.   According to legend, when the sky was overcast the Vikings used a \"sunstone.\"  A new study suggests that the sunstone might not … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -10,7 +10,7 @@ tags:
   - "sunstone"
   - "Viking"
 author: "Rick Spilman"
-description: "When the sun was out the Vikings could navigate with “sun compass,”  a sort of modified sundial.   According to legend, when the sky was overcast the Vikings used a “sunstone.”  A new study suggests that the sunstone might not … Continue reading &rarr;"
+description: "When the sun was out the Vikings could navigate with \"sun compass,\"  a sort of modified sundial.   According to legend, when the sky was overcast the Vikings used a \"sunstone.\"  A new study suggests that the sunstone might not … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/native-americans-vikings-ic.jpg)When the sun was out the Vikings could navigate with “[sun compass](http://home.comcast.net/~saville/viking_sun_compass.htm),”  a sort of modified sundial.   According to legend, when the sky was overcast the Vikings used a “sunstone.”  A new study suggests that the sunstone might not have been legend.

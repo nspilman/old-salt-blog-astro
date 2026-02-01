@@ -1,7 +1,7 @@
 ---
 title: "The Mystery Women of the Oseberg Viking Ship"
 date: 2023-10-30T15:58:03
-slug: the-mystery-women-of-the-oseberg-viking-ship
+slug: "the-mystery-women-of-the-oseberg-viking-ship"
 excerpt: "Here is a post suitable for Halloween. It is not a ghost story but rather the tale of two mysterious skeletons found in a Viking ship discovered in a large burial mound at the Oseberg farm near Tønsberg in Vestfold … Continue reading &rarr;"
 categories:
   - "History"

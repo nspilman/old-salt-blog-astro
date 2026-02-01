@@ -1,7 +1,7 @@
 ---
 title: "Heinz Stahlschmidt – the German Sailor Who Saved Bordeaux"
 date: 2010-02-25T15:14:59
-slug: heinz-stahlschmidt-%e2%80%93-the-german-sailor-who-saved-bordeaux
+slug: "heinz-stahlschmidt-%e2%80%93-the-german-sailor-who-saved-bordeaux"
 excerpt: "Heinz Stahlschmidt, a renegade former member of Germany’s World War Two navy, who thwarted plans to wreck the French port of Bordeaux by retreating Nazi forces, has died at the age of 91, officials said.  Thanks to Andy Hall at … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Picton Castle’s 5th Voyage around the World"
 date: 2010-10-02T08:30:22
-slug: picton-castles-5th-voyage-around-the-world
+slug: "picton-castles-5th-voyage-around-the-world"
 excerpt: "An interesting article by Dan Moreland, Captain and owner of Picton Castle from Sail Training International. Picton Castle’s 5th Voyage around the World … Continue reading &rarr;"
 categories:
   - "Current"

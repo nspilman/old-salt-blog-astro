@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 date: 2026-01-08T19:09:34
-slug: privacy-policy
+slug: "privacy-policy"
 author: "Rick Spilman"
 description: "Who we are Suggested text: Our website address is: https://oldsaltblog.com. Comments Suggested text: When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string … Continue reading &rarr;"
 ---

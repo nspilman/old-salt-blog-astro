@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ships : Out With the Old, Will There Be Employment For the New?"
 date: 2021-01-02T19:07:58
-slug: cruise-ships-out-with-the-old-will-there-be-employment-for-the-new
+slug: "cruise-ships-out-with-the-old-will-there-be-employment-for-the-new"
 excerpt: "In early February, outbreaks of the coronavirus began to occur on cruise ships. On one quarantined ship, the Diamond Princess, one infection spread to over 700 cases and seven deaths from COVID-19. In March of 2020, the cruise industry was … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

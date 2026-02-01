@@ -1,7 +1,7 @@
 ---
-title: "“A Whale” Skimmer Not Ready for Prime Time – Initial Testing Inconclusive"
+title: "\"A Whale\" Skimmer Not Ready for Prime Time – Initial Testing Inconclusive"
 date: 2010-07-05T12:49:42
-slug: a-whale-skimmer-not-ready-for-prime-time-initial-testing-inconclusive
+slug: "a-whale-skimmer-not-ready-for-prime-time-initial-testing-inconclusive"
 excerpt: "Whale of a skimmer not ready to attack Gulf oil after weekend of testing The behemoth Taiwanese oil skimmer, A Whale, is not yet ready attack the Gulf of Mexico oil spill after a weekend of testing proved inconclusive, said … Continue reading &rarr;"
 categories:
   - "Current"

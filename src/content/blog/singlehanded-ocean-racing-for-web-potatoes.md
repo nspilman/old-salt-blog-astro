@@ -1,7 +1,7 @@
 ---
 title: "Singlehanded Ocean Racing for Web-Potatoes"
 date: 2010-11-05T08:05:22
-slug: singlehanded-ocean-racing-for-web-potatoes
+slug: "singlehanded-ocean-racing-for-web-potatoes"
 excerpt: "Modern technology has revolutionized single handled ocean racing in so many ways for both sailors and spectators. The five sailors in the Velux Five Oceans race not only face all the hazards of the sea as they sail singlehanded around … Continue reading &rarr;"
 categories:
   - "Current"

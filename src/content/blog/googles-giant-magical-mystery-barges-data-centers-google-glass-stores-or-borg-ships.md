@@ -1,7 +1,7 @@
 ---
 title: "Google’s Giant Magical Mystery Barges — Data Centers, Google Glass Stores or Borg Ships?"
 date: 2013-10-30T12:24:13
-slug: googles-giant-magical-mystery-barges-data-centers-google-glass-stores-or-borg-ships
+slug: "googles-giant-magical-mystery-barges-data-centers-google-glass-stores-or-borg-ships"
 excerpt: "Google has been causing quite a stir on the waterfront.  Two mysterious barges have appeared, one on the Pacific in San Francisco bay and one on the Atlantic coast in Portland, Maine. The San Francisco barge is reported to be 250 feet … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
-title: "Repost: Celebrating Frederick Douglass on Valentine’s Day — “I Will Take to the Water”"
+title: "Repost: Celebrating Frederick Douglass on Valentine’s Day — \"I Will Take to the Water\""
 date: 2022-02-14T18:20:49
-slug: repost-celebrating-frederick-douglass-on-valentines-day-i-will-take-to-the-water
+slug: "repost-celebrating-frederick-douglass-on-valentines-day-i-will-take-to-the-water"
 excerpt: "Happy Valentine’s Day! In honor of both the day and Black History Month, an updated repost about Frederick Douglass. But what does Valentine’s Day have to do with Frederick Douglass?  As a slave, Douglass never knew the date of his … Continue reading &rarr;"
 categories:
   - "History"

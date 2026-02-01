@@ -1,7 +1,7 @@
 ---
 title: "Update: MV Liemba, Oldest Passenger Ferry Turns 102"
 date: 2016-11-10T15:09:22
-slug: update-mv-liemba-oldest-passenger-ferry-turns-102
+slug: "update-mv-liemba-oldest-passenger-ferry-turns-102"
 excerpt: "Two years ago, we posted about MV Liemba — the World’s Oldest Passenger/Cargo Steamer at 100. Now 102 years old, MV Liemba continues her passenger and cargo ferry service along the eastern shore of Lake Tanganyika. With luck and funding from … Continue reading &rarr;"
 categories:
   - "Current"

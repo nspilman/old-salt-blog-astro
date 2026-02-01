@@ -1,7 +1,7 @@
 ---
 title: "Sperm Whale Skeletons and Blue Whale Hearts – New Exhibit at the American Museum of Natural History"
 date: 2013-03-31T12:49:07
-slug: sperm-whale-skeletons-and-blue-whale-hearts-new-exhibit-at-the-american-museum-of-natural-history
+slug: "sperm-whale-skeletons-and-blue-whale-hearts-new-exhibit-at-the-american-museum-of-natural-history"
 excerpt: "A new exhibit has just opened at the American Museum of Natural History in New York. While  perhaps not as controversial as the exhibit at the Vancouver Maritime Museum which we posted recently, it includes many whales bones, but, at least to our knowledge, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

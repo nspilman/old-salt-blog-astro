@@ -1,7 +1,7 @@
 ---
 title: "Tragedy on the Schooner Grace Bailey — Main Mast Breaks, Killing 1 & Injuring 3"
 date: 2023-10-10T16:54:47
-slug: tragedy-on-the-schooner-grace-bailey-main-mast-breaks-killing-1-injuring-3
+slug: "tragedy-on-the-schooner-grace-bailey-main-mast-breaks-killing-1-injuring-3"
 excerpt: "The schooner Grace Bailey, built in 1882, was returning from a four-day Fall Foliage cruise on Monday morning, when an upper section of the main mast broke and fell to the deck, killing one passenger and injuring three others.  Thirty-three … Continue reading &rarr;"
 categories:
   - "Current"

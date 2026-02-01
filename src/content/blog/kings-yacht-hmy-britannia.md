@@ -1,7 +1,7 @@
 ---
 title: "The Kings Yacht – HMY Britannia"
 date: 2016-04-09T09:27:47
-slug: kings-yacht-hmy-britannia
+slug: "kings-yacht-hmy-britannia"
 excerpt: "HMY Britannia was the personal sailing yacht of two British kings. Built in 1893 for Albert Edward, Prince of Wales, who later became King Edward VII, the Britannia would also be sailed by his son, King George V. Designed by … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

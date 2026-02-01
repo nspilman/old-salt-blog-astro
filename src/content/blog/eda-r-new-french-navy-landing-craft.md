@@ -1,7 +1,7 @@
 ---
 title: "EDA-R : New French Navy Landing Craft"
 date: 2011-12-30T09:33:47
-slug: eda-r-new-french-navy-landing-craft
+slug: "eda-r-new-french-navy-landing-craft"
 excerpt: "A few days ago we posted about the boats Washington used to cross the Delaware.  Designs have changed since then,  Here is a wonderful animation by Raphaël Pierrot of the new French Navy  landing craft, the engin de débarquement amphibie rapide … Continue reading &rarr;"
 categories:
   - "Current"

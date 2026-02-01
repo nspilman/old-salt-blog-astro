@@ -1,7 +1,7 @@
 ---
 title: "PortSide NewYork & the Tanker Mary A. Whalen Have Found A Home!"
 date: 2015-05-27T09:36:15
-slug: portside-newyork-the-tanker-mary-a-whalen-have-found-a-home
+slug: "portside-newyork-the-tanker-mary-a-whalen-have-found-a-home"
 excerpt: "Great news. PortSide NewYork and the tanker Mary A. Whalen have found a long-term berth at Brooklyn’s Atlantic basin. For the last several years, the non-profit based on the historic tanker has not had a berth accessible to the public. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Smoke on the Water – Crew Sets 30 Tons of Hashish on Fire on Cargo Ship Gold Star"
 date: 2013-09-11T09:06:20
-slug: smoke-water-crew-sets-30-tons-hashish-fire-cargo-ship-gold-star
+slug: "smoke-water-crew-sets-30-tons-hashish-fire-cargo-ship-gold-star"
 excerpt: "As reported by NPR: A fire aboard a cargo ship in the Mediterranean Sea was set in order to get rid of 30 tons of hashish, according to officials in Italy and Malta. Authorities had approached the Gold Star, a … Continue reading &rarr;"
 categories:
   - "Current"

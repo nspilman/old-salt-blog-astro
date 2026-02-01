@@ -1,7 +1,7 @@
 ---
 title: "Is the Philly Giant Rubber Duck an Imposter?"
 date: 2015-06-24T09:33:03
-slug: is-the-philly-giant-rubber-duck-an-imposter
+slug: "is-the-philly-giant-rubber-duck-an-imposter"
 excerpt: "In addition to a fleet of tall ships attending the Philadelphia-Camden Tall Ships Festival 2015, there will be a 61-foot tall, 11-ton inflatable rubber duck. The duck is said to be based on a the plans for a inflatable sculpture originally made by Dutch artist Florentijn … Continue reading &rarr;"
 categories:
   - "Current"

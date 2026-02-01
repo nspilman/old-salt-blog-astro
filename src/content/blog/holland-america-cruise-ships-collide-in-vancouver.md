@@ -1,7 +1,7 @@
 ---
 title: "Holland America Cruise Ships Collide in Vancouver"
 date: 2019-05-05T13:39:04
-slug: holland-america-cruise-ships-collide-in-vancouver
+slug: "holland-america-cruise-ships-collide-in-vancouver"
 excerpt: "While docking in Vancouver on Saturday morning, the Holland America cruise ship MS  Oosterdam collided with the MS Nieuw Amsterdam also owned by Holland America. The stern of the Oosterdam struck the stern of the already docked Nieuw Amsterdam. No … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

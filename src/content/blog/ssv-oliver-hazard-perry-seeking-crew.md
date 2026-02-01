@@ -1,7 +1,7 @@
 ---
 title: "SSV Oliver Hazard Perry Seeking Crew"
 date: 2016-10-22T07:47:56
-slug: ssv-oliver-hazard-perry-seeking-crew
+slug: "ssv-oliver-hazard-perry-seeking-crew"
 excerpt: "The SSV Oliver Hazard Perry is looking for crew for their December-April season in Florida, Bahamas, and Bermuda.  From their announcement of their website: After a successful first season underway, we are excited to continue our year round operations with a voyage … Continue reading &rarr;"
 categories:
   - "Language"

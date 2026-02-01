@@ -1,7 +1,7 @@
 ---
 title: "Coronavirus Spreads on Carriers, Submarines and Hospital Ships"
 date: 2020-04-16T13:32:49
-slug: coronavirus-spreads-on-carriers-submarines-and-hospital-ships
+slug: "coronavirus-spreads-on-carriers-submarines-and-hospital-ships"
 excerpt: "We have been following the spread of the coronavirus on the aircraft carrier USS Theodore Roosevelt, where almost 600 sailors, including the captain, who was fired for speaking out about the spread, have tested positive for the virus. One crew … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

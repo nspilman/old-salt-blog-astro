@@ -1,7 +1,7 @@
 ---
 title: "Hoard of Gold Coins Discovered in Caesarea Harbor"
 date: 2015-02-20T21:11:07
-slug: hoard-of-gold-coins-discovered-in-caesarea-harbor
+slug: "hoard-of-gold-coins-discovered-in-caesarea-harbor"
 excerpt: "Six sport divers from a local club were scuba diving in the ancient Roman harbor of Caesarea in Israel, when one of them spotted a small tiny coin, which the diver thought looked like a toy coin from a game of some sort. On … Continue reading &rarr;"
 categories:
   - "Current"

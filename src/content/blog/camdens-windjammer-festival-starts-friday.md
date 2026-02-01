@@ -1,7 +1,7 @@
 ---
 title: "Camden’s Windjammer Festival Starts Friday"
 date: 2010-08-25T10:36:23
-slug: camdens-windjammer-festival-starts-friday
+slug: "camdens-windjammer-festival-starts-friday"
 excerpt: "Camden, Maine’s Windjammer Festival starts  Friday, September 3rd, and runs through Sunday.   Camden’s harbor always seemed to me to be a windjammer festival on virtually any summer day so this gathering  of the Maine Windjammer fleet and the dockside Maritime Heritage Fair should be quite an … Continue reading &rarr;"
 categories:
   - "Current"

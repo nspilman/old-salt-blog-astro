@@ -1,7 +1,7 @@
 ---
 title: "Baltimore Key Bridge Collapses After Being Struck by Container Ship MV Dali"
 date: 2024-03-26T11:39:43
-slug: baltimore-key-bridge-collapses-after-being-struck-by-container-ship-mv-dali
+slug: "baltimore-key-bridge-collapses-after-being-struck-by-container-ship-mv-dali"
 excerpt: "At approximately 1:30 AM this morning, the Singapore-flagged, 10,000 TEU container ship, MV Dali struck the southern support pillar of the Francis Scott Key Bridge, spanning the Patapsco River at the entrance to the Port of Baltimore, Maryland. The impact … Continue reading &rarr;"
 categories:
   - "Current"

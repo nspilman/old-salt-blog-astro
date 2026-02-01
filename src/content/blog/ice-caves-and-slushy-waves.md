@@ -1,8 +1,8 @@
 ---
 title: "Ice Caves and Slurpee Waves"
 date: 2015-02-27T17:14:31
-slug: ice-caves-and-slushy-waves
-excerpt: "There may only be 21 days left until Spring, yet Winter has not yet relinquished her grip.  On the island of Nantucket, photographer Jonathan Nimerfroh captured photos of slow moving waves of slush breaking on the beach. “I just noticed a … Continue reading &rarr;"
+slug: "ice-caves-and-slushy-waves"
+excerpt: "There may only be 21 days left until Spring, yet Winter has not yet relinquished her grip.  On the island of Nantucket, photographer Jonathan Nimerfroh captured photos of slow moving waves of slush breaking on the beach. \"I just noticed a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

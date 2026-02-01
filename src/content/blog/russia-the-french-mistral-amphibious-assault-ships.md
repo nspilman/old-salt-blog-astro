@@ -1,7 +1,7 @@
 ---
 title: "Russia & the French Mistral Amphibious Assault Ships"
 date: 2014-12-16T09:31:35
-slug: russia-the-french-mistral-amphibious-assault-ships
+slug: "russia-the-french-mistral-amphibious-assault-ships"
 excerpt: "Back in 2010, we posted that some members of NATO were uncomfortable with a French contract to build two, with an option for two more, Mistral-class amphibious assault ships for Russia.  The first ship, the Vladivostok, was supposed to be delivered … Continue reading &rarr;"
 categories:
   - "Current"

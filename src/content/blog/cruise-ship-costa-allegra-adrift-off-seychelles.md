@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ship Costa Allegra Adrift off Seychelles After Fire"
 date: 2012-02-27T12:56:14
-slug: cruise-ship-costa-allegra-adrift-off-seychelles
+slug: "cruise-ship-costa-allegra-adrift-off-seychelles"
 excerpt: "Sixteen months after the Carnival Splendor was blacked out by an engine room fire in the Pacific off the coast of Mexico, another Carnival owned cruise ship is drifting, dead in the water, after an engine room fire.  The Costa Allegra, a cruise ship … Continue reading &rarr;"
 categories:
   - "Current"

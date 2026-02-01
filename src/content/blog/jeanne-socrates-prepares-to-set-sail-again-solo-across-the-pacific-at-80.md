@@ -1,7 +1,7 @@
 ---
 title: "Jeanne Socrates Prepares to Set Sail Again, Solo Across the Pacific, at 80"
 date: 2023-04-15T17:45:13
-slug: jeanne-socrates-prepares-to-set-sail-again-solo-across-the-pacific-at-80
+slug: "jeanne-socrates-prepares-to-set-sail-again-solo-across-the-pacific-at-80"
 excerpt: "Jeanne Socrates was 76 in October 2018, when she set sail alone from Victoria, British Columbia, on her 38′ yacht Nereida. She returned to Victoria 339 days later, then 77, having sailed singlehanded non-stop around world, becoming the oldest sailor … Continue reading &rarr;"
 categories:
   - "Current"

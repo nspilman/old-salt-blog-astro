@@ -1,7 +1,7 @@
 ---
-title: "“Shellshocked: Saving Oysters to Save Ourselves” at the Noble Maritime Collection"
+title: "\"Shellshocked: Saving Oysters to Save Ourselves\" at the Noble Maritime Collection"
 date: 2013-07-26T13:50:49
-slug: shellshocked-saving-oysters-to-save-ourselves-at-the-noble-maritime-collection
+slug: "shellshocked-saving-oysters-to-save-ourselves-at-the-noble-maritime-collection"
 excerpt: "This Sunday, July 28, 2013 at 2 PM, the Noble Maritime Collection at Snug Harbor will host the Staten Island premiere of the documentary Shellshocked: Saving Oysters to Save Ourselves. Bob Wright and his musical group Harbortown will perform songs from their album … Continue reading &rarr;"
 categories:
   - "Current"

@@ -220,3 +220,38 @@ Each time Ralph completes a task, it will append notes here.
   - Schema should include: title, date, slug, excerpt, categories, tags, featuredImage, author, description
   - Will enable Astro to properly type and validate our blog content
 
+### Session 7 - 2026-02-01
+
+**Task Completed:** Task 7 - Configure Astro content collections for blog
+
+**What was done:**
+- Updated src/content.config.ts to define blog collection with proper schema matching migration frontmatter
+- Schema includes all required fields: title, date, slug, excerpt (optional), categories, tags, featuredImage (optional), author, description (optional)
+- Made categories and tags use .default([]) to handle posts without tags/categories
+- Fixed multiple YAML frontmatter issues in converter.ts:
+  - Created escapeYamlString() function to properly escape double quotes and smart quotes (U+201C, U+201D) in YAML strings
+  - Added quotes around slug values to handle special characters like % (YAML directive character)
+  - Fixed escaping to only escape backslashes and double quotes (not single quotes) since we use double-quoted strings in YAML
+- Re-ran migration multiple times to fix all YAML issues
+- Deleted example using-mdx.mdx file that didn't match schema
+- Verified Astro content collection loads successfully - all 6814 blog posts synced correctly
+- All acceptance criteria met:
+  - src/content.config.ts defines 'blog' collection with full schema ✓
+  - Schema matches frontmatter from migration script ✓
+  - Content collection syncs successfully (npm run build starts and loads all 6814 posts) ✓
+  - Collection types exported for use in components ✓
+
+**Issues discovered and fixed:**
+1. Smart quotes in tags/categories were not escaped properly - fixed by using Unicode escape sequences (\u201C, \u201D)
+2. Slugs starting with % broke YAML parsing - fixed by quoting slug values
+3. Single quotes were being incorrectly escaped inside double-quoted strings - removed single quote escaping
+4. Some posts had no tags field - fixed by adding .default([]) to schema
+
+**Next recommended task:**
+- Task 8: Create blog post page template (src/pages/[slug].astro)
+  - This is the logical next step now that content collections are configured
+  - Need to create dynamic route for /{slug}/ URL structure
+  - Display post content with frontmatter fields (title, date, author, categories, tags, featuredImage)
+  - Add SEO meta tags
+  - Will need to fix existing templates that expect old schema
+

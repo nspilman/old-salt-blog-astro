@@ -1,7 +1,7 @@
 ---
 title: "New York Fleet Week May 25 – 31, 2016"
 date: 2016-05-23T17:36:46
-slug: new-york-fleet-week-may-25-31-2016
+slug: "new-york-fleet-week-may-25-31-2016"
 excerpt: "Starting Wednesday this week, the fleet will be in town, well part of it anyway, to celebrate the 28th observance of Fleet Week New York.  Eight Navy warships, two Coast Guard cutters, and a Marine expeditionary unit will converge on the harbor. … Continue reading &rarr;"
 categories:
   - "Current"

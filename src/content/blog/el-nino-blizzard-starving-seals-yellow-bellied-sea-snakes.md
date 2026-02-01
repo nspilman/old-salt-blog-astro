@@ -1,7 +1,7 @@
 ---
 title: "El Niño  — A Blizzard, Starving Seals & Yellow Bellied Sea Snakes"
 date: 2016-01-23T10:49:44
-slug: el-nino-blizzard-starving-seals-yellow-bellied-sea-snakes
+slug: "el-nino-blizzard-starving-seals-yellow-bellied-sea-snakes"
 excerpt: "Anyone who may doubt that we live on a water planet or that what happens at sea has a huge impact for everyone, even those living far inland, need only look to this year’s El Niño . The US East … Continue reading &rarr;"
 categories:
   - "Current"

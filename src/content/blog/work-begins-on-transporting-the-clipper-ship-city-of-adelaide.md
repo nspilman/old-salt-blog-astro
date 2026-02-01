@@ -1,7 +1,7 @@
 ---
 title: "Work Begins on Transporting the Clipper Ship City of Adelaide"
 date: 2011-06-24T09:48:59
-slug: work-begins-on-transporting-the-clipper-ship-city-of-adelaide
+slug: "work-begins-on-transporting-the-clipper-ship-city-of-adelaide"
 excerpt: "The clipper ship City of Adelaide (later HMS Carrick), the oldest surviving composite clipper ship in the world, was at serious risk of being broken up until a deal was  struck last August to move the ship from the Scottish Maritime Museum in Irvine, Scotland, back to its namesake … Continue reading &rarr;"
 categories:
   - "Current"

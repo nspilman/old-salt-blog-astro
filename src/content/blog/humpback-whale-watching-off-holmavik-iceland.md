@@ -1,7 +1,7 @@
 ---
 title: "Humpback Whale Watching Off Hólmavík, Iceland"
 date: 2019-09-16T13:37:41
-slug: humpback-whale-watching-off-holmavik-iceland
+slug: "humpback-whale-watching-off-holmavik-iceland"
 excerpt: "We have just gotten back from a week-long voyage along the west coast of Iceland from Akureyri to Reykjavik on the three-masted motor sailor Panorama. One of the stops was the village of Hólmavík, population 300. The village may be … Continue reading &rarr;"
 categories:
   - "Current"

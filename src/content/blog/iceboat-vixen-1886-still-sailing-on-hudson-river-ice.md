@@ -1,7 +1,7 @@
 ---
 title: "Iceboat Vixen, 1886, Still Sailing on Hudson River Ice"
 date: 2022-01-27T19:03:22
-slug: iceboat-vixen-1886-still-sailing-on-hudson-river-ice
+slug: "iceboat-vixen-1886-still-sailing-on-hudson-river-ice"
 excerpt: "It is cold here on the west bank of the Hudson River. Really cold. For most sailors that means bundling up and waiting for spring. For a special breed of hearty yachtsmen and women, the weather is perfect for sailing … Continue reading &rarr;"
 categories:
   - "Current"

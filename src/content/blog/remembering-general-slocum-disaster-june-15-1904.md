@@ -1,7 +1,7 @@
 ---
 title: "Remembering the General Slocum Disaster of June 15, 1904"
 date: 2016-06-15T09:36:00
-slug: remembering-general-slocum-disaster-june-15-1904
+slug: "remembering-general-slocum-disaster-june-15-1904"
 excerpt: "One hundred and twelve years ago today, the disaster on the General Slocum resulted in one of the largest loss of life in New York City prior to the attacks of 9/11/01. At around 9AM on June 15, 1904, approximately 1,350 passengers, … Continue reading &rarr;"
 categories:
   - "City of Ships"

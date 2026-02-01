@@ -1,7 +1,7 @@
 ---
 title: "The Red Wolf Conspiracy by Robert Redick – A Review"
 date: 2010-08-26T09:33:07
-slug: the-red-wolf-conspiracy-by-robert-redick-a-review
+slug: "the-red-wolf-conspiracy-by-robert-redick-a-review"
 excerpt: "I recently had recommended to me Robert Redick’s The Red Wolf Conspiracy, a fantasy epic which is almost exclusively set aboard the Imperial Merchant Ship Chathard, a 600 year old sailing ship of immerse proportions and age that sets out on … Continue reading &rarr;"
 categories:
   - "Reviews"

@@ -1,7 +1,7 @@
 ---
 title: "A Tale of Two Pirate Roberts – Bartholomew Roberts of 1722 & Ross Ulbricht, the Dread Pirate Roberts of 2013"
 date: 2013-10-04T07:35:51
-slug: tale-two-pirates-roberts-1722-2013
+slug: "tale-two-pirates-roberts-1722-2013"
 excerpt: "This is the tale of two very different men, from different places and different times. The first was a Welshman named John Roberts, though he took the name Bartholomew when he began his wildly successful but extremely short career as … Continue reading &rarr;"
 categories:
   - "Current"

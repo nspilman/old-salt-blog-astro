@@ -1,7 +1,7 @@
 ---
 title: "Two Dead Whales in Less Than a Month in New York Harbor"
 date: 2014-05-08T07:30:58
-slug: two-dead-whales-on-ships-bows-in-new-york-harbor-in-less-than-a-month
+slug: "two-dead-whales-on-ships-bows-in-new-york-harbor-in-less-than-a-month"
 excerpt: "Fin and sei whale are not usually seen in New York’s upper harbor, yet in a period of less than a month, two have made an appearance. Unfortunately, both were dead, pinned to the bows of ships. On the April 12th, … Continue reading &rarr;"
 categories:
   - "Current"

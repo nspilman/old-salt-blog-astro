@@ -1,8 +1,8 @@
 ---
 title: "Japan Returns to Commercial Whaling, More or Less"
 date: 2019-07-02T09:39:50
-slug: japan-returns-to-commercial-whaling-more-or-less
-excerpt: "Japan has withdrawn from the International Whaling Commission, and the Japanese whaling fleet has abandoned their so-called “research whaling” to resume commercial whaling for the first time in 31 years. That is the bad news. There is another way to … Continue reading &rarr;"
+slug: "japan-returns-to-commercial-whaling-more-or-less"
+excerpt: "Japan has withdrawn from the International Whaling Commission, and the Japanese whaling fleet has abandoned their so-called \"research whaling\" to resume commercial whaling for the first time in 31 years. That is the bad news. There is another way to … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "whaling"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/07/japanwhaleship.jpg"
 author: "Rick Spilman"
-description: "Japan has withdrawn from the International Whaling Commission, and the Japanese whaling fleet has abandoned their so-called “research whaling” to resume commercial whaling for the first time in 31 years. That is the bad news. There is another way to … Continue reading &rarr;"
+description: "Japan has withdrawn from the International Whaling Commission, and the Japanese whaling fleet has abandoned their so-called \"research whaling\" to resume commercial whaling for the first time in 31 years. That is the bad news. There is another way to … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/07/japanwhaleship.jpg)Japan has withdrawn from the International Whaling Commission, and the Japanese whaling fleet has abandoned their so-called “research whaling” to resume [commercial whaling](https://www.bbc.com/news/world-asia-48821797) for the first time in 31 years. That is the bad news.

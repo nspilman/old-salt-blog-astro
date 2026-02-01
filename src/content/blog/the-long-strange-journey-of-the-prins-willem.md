@@ -1,7 +1,7 @@
 ---
 title: "The Long, Strange Journey of the Prins Willem"
 date: 2009-08-03T07:48:49
-slug: the-long-strange-journey-of-the-prins-willem
+slug: "the-long-strange-journey-of-the-prins-willem"
 excerpt: "The Prins Willem, the replica Dutch East Indiaman destroyed by fire a few days ago, was an unusual ship.  She was built in 1985 in in Friesland in 1985 as an exhibit at the Nagasaki Holland Village open-air museum in Japan. … Continue reading &rarr;"
 categories:
   - "Current"

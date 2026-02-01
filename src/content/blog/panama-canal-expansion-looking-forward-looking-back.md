@@ -1,7 +1,7 @@
 ---
-title: "The “New” Panama Canal — Looking Forward  and Looking Back"
+title: "The \"New\" Panama Canal — Looking Forward  and Looking Back"
 date: 2016-06-27T19:23:55
-slug: panama-canal-expansion-looking-forward-looking-back
+slug: "panama-canal-expansion-looking-forward-looking-back"
 excerpt: "History was made yesterday at the Panama Canal when the container ship COSCO Shipping Panama transited the newly expanded canal.  The ship carried over 9,000 TEU and has a beam of 158′ and is 984′ long, longer and significantly wider than was … Continue reading &rarr;"
 categories:
   - "Current"

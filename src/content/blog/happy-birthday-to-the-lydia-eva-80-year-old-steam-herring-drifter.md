@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday to the Lydia Eva – 80 Year Old Steam Herring Drifter"
 date: 2010-06-27T16:37:39
-slug: happy-birthday-to-the-lydia-eva-80-year-old-steam-herring-drifter
+slug: "happy-birthday-to-the-lydia-eva-80-year-old-steam-herring-drifter"
 excerpt: "Famous steam drifter celebrates 80th birthday in Yarmouth The world’s last surviving steam drifter, the Lydia Eva, will be celebrating her 80th birthday in Great Yarmouth on Sunday.   As well as celebrating her birthday, the weekend will also mark … Continue reading &rarr;"
 categories:
   - "Current"

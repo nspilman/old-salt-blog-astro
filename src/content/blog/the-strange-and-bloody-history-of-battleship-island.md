@@ -1,7 +1,7 @@
 ---
 title: "The Strange & Grim History of Battleship Island"
 date: 2016-01-05T10:31:37
-slug: the-strange-and-bloody-history-of-battleship-island
+slug: "the-strange-and-bloody-history-of-battleship-island"
 excerpt: "Hashima Island lies nine miles off the port of Nagasaki, Japan. Between the seawall which encircles the small island and the abandoned apartment blocks rising from it, many think that it looks like a battleship, earning the nickname, Gunkanjima, or … Continue reading &rarr;"
 categories:
   - "Current"

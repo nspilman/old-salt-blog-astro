@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup – Oracle Rebounds with a Vengence"
 date: 2013-09-23T18:22:40
-slug: americas-cup-nailbiter
+slug: "americas-cup-nailbiter"
 excerpt: "After looking like they were in an impossibly deep hole, Oracle Team USA has come charging back. Only last Wednesday, Emirates Team New Zealand was on the verge of winning the America’s Cup.  They had won 8 of the 9 … Continue reading &rarr;"
 categories:
   - "Current"

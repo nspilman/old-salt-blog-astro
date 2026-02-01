@@ -1,7 +1,7 @@
 ---
 title: "New London’s SailFest 2014"
 date: 2014-07-12T08:11:43
-slug: new-londons-sailfest-2014
+slug: "new-londons-sailfest-2014"
 excerpt: "New London’s Sailfest kicked off yesterday and will continue through Sunday, Jul 13th. It is billed as Southeastern Connecticut’s premier summertime event attracting over 300,000 people over the three-day festival. The festival features a major fireworks display, amusement rides, and over … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
-title: "Scientists Discover “Dark Oxygen” on the Deep Ocean Floor"
+title: "Scientists Discover \"Dark Oxygen\" on the Deep Ocean Floor"
 date: 2024-07-31T20:53:28
-slug: scientists-discover-dark-oxygen-on-the-deep-ocean-floor
+slug: "scientists-discover-dark-oxygen-on-the-deep-ocean-floor"
 excerpt: "About half the oxygen we breathe comes from the ocean.  It was long presumed that this oceanic oxygen was produced by photosynthesis, the process by which green plants use sunlight to synthesize foods by absorbing carbon dioxide and water, emitting … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Tanker Markets – Back to the 80’s ?"
 date: 2011-10-15T17:53:47
-slug: tanker-markets-back-to-the-80s
+slug: "tanker-markets-back-to-the-80s"
 excerpt: "Those of us of a certain age, who were active in merchant shipping, remember the tanker industry in the 1980s.  And none too fondly.   After a period of rising charter rates and robust new construction, the market effectively collapsed … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "A Glimmer of Hope for the Historic Falls of Clyde?"
 date: 2016-10-02T12:44:29
-slug: glimmer-hope-historic-falls-clyde
+slug: "glimmer-hope-historic-falls-clyde"
 excerpt: "Things look grim for the 1878 sailing ship Falls of Clyde, the last surviving iron-hulled, four-masted full-rigged ship, and the only remaining sail-driven oil tanker.  There is still a glimmer of hope that she can be saved, but time is running … Continue reading &rarr;"
 categories:
   - "Current"

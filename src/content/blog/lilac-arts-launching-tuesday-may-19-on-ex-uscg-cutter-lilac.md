@@ -1,7 +1,7 @@
 ---
 title: "Lilac Arts Launching Tuesday, May 19, on ex-USCG Cutter Lilac"
 date: 2015-05-18T17:36:01
-slug: lilac-arts-launching-tuesday-may-19-on-ex-uscg-cutter-lilac
+slug: "lilac-arts-launching-tuesday-may-19-on-ex-uscg-cutter-lilac"
 excerpt: "If you are near New York harbor tomorrow be sure to stop by from 6 — 9 PM, for a reception to launch the LILAC Art Series on the historic ex-Coast Guard Cutter Lilac.  The LILAC Art Series is a three month art exhibition by 25 … Continue reading &rarr;"
 categories:
   - "Current"

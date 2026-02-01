@@ -1,7 +1,7 @@
 ---
 title: "Documentary: Maiden — First All-Female Team to Race Around-the-World"
 date: 2019-06-28T13:33:15
-slug: documentary-maiden-first-all-female-team-to-race-around-the-world
+slug: "documentary-maiden-first-all-female-team-to-race-around-the-world"
 excerpt: "Maiden, a new documentary by Alex Holmes, which opens today, tells the story of the first all-female team to race against all odds in the Whitbread Round the World Race in 1989-1990.  Tracy Edwards, an experienced British sailor in her … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

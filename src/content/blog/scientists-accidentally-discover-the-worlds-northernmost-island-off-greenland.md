@@ -1,7 +1,7 @@
 ---
 title: "Scientists Accidentally Discover the World’s Northernmost Island off Greenland"
 date: 2021-08-29T16:45:27
-slug: scientists-accidentally-discover-the-worlds-northernmost-island-off-greenland
+slug: "scientists-accidentally-discover-the-worlds-northernmost-island-off-greenland"
 excerpt: "The BBC reports that a group of scientists say they have discovered by luck what they believe is the world’s northernmost island off Greenland’s coast. In July, the scientists flew to collect samples to what they thought was Oodaaq Island, that … Continue reading &rarr;"
 categories:
   - "Current"

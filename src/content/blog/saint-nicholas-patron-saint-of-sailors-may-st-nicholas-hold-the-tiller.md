@@ -1,14 +1,14 @@
 ---
-title: "Saint Nicholas, Patron Saint of Sailors – “May St. Nicholas Hold the Tiller”"
+title: "Saint Nicholas, Patron Saint of Sailors – \"May St. Nicholas Hold the Tiller\""
 date: 2012-12-25T09:56:15
-slug: saint-nicholas-patron-saint-of-sailors-may-st-nicholas-hold-the-tiller
-excerpt: "We recently learned that good Saint Nicholas, long associated with Christmas and gift-giving, is also the patron saint of ships and sailors. The St. Nicholas Center notes: “Many ports, most notably in Greece, have icons of Nicholas, surrounded by ex-votos … Continue reading &rarr;"
+slug: "saint-nicholas-patron-saint-of-sailors-may-st-nicholas-hold-the-tiller"
+excerpt: "We recently learned that good Saint Nicholas, long associated with Christmas and gift-giving, is also the patron saint of ships and sailors. The St. Nicholas Center notes: \"Many ports, most notably in Greece, have icons of Nicholas, surrounded by ex-votos … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "We recently learned that good Saint Nicholas, long associated with Christmas and gift-giving, is also the patron saint of ships and sailors. The St. Nicholas Center notes: “Many ports, most notably in Greece, have icons of Nicholas, surrounded by ex-votos … Continue reading &rarr;"
+description: "We recently learned that good Saint Nicholas, long associated with Christmas and gift-giving, is also the patron saint of ships and sailors. The St. Nicholas Center notes: \"Many ports, most notably in Greece, have icons of Nicholas, surrounded by ex-votos … Continue reading &rarr;"
 ---
 
 ![st-nicholas-patron-saint-of-sailors](http://www.oldsaltblog.com/wp-content/uploads/2012/12/st-nicholas-patron-saint-of-sailors.jpg)We recently learned that good Saint Nicholas, long associated with Christmas and gift-giving, is also the patron saint of ships and sailors. The [St. Nicholas Center](http://www.stnicholascenter.org/pages/patron-saint/) notes: “*Many ports, most notably in Greece, have icons of Nicholas, surrounded by ex-votos of small ships made of silver or carved of wood. Sailors returning safely from sea, place these in gratitude to St. Nicholas for protection received. In some places sailors, instead of wishing one another luck, say, “May St. Nicholas hold the tiller*.”

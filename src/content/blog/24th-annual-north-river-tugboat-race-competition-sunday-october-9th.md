@@ -1,7 +1,7 @@
 ---
 title: "24th Annual North River Tugboat Race & Competition!  Sunday, October 9th"
 date: 2016-10-05T09:30:35
-slug: 24th-annual-north-river-tugboat-race-competition-sunday-october-9th
+slug: "24th-annual-north-river-tugboat-race-competition-sunday-october-9th"
 excerpt: "The 24th Annual North River Tugboat Race & Competition was originally scheduled for Labor Day, but Tropical Storm Hermine interfered. The rescheduled event, sponsored by the Working Harbor Committee will be held on Sunday, October 9th from 9am-2pm at Pier … Continue reading &rarr;"
 categories:
   - "Current"

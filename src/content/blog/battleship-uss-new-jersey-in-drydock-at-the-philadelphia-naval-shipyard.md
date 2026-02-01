@@ -1,7 +1,7 @@
 ---
 title: "Battleship USS New Jersey in Drydock at the Philadelphia Naval Shipyard"
 date: 2024-05-04T16:00:46
-slug: battleship-uss-new-jersey-in-drydock-at-the-philadelphia-naval-shipyard
+slug: "battleship-uss-new-jersey-in-drydock-at-the-philadelphia-naval-shipyard"
 excerpt: "A short video of the Iowa-class battleship USS New Jersey on the blocks in drydock at the Philadelphia Naval Shipyard.  As noted by the New York Times, no other U.S. battleship served in more military campaigns. Christened on the first … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship Sailing on EBay – the Other Perfect Holiday Gift?"
 date: 2010-12-07T11:54:02
-slug: tall-ship-sailing-on-ebay-the-other-perfect-holiday-gift
+slug: "tall-ship-sailing-on-ebay-the-other-perfect-holiday-gift"
 excerpt: "A bit over a week ago we suggested an aircraft carrier as a holiday gift for the person who has everything.   OK, we admit that was not the most useful gift suggestion.  We now wish to suggest something far more practical and which also … Continue reading &rarr;"
 categories:
   - "Current"

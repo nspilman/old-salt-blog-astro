@@ -1,7 +1,7 @@
 ---
 title: "Remembering the Normandie"
 date: 2011-02-09T13:00:08
-slug: remembering-the-normandie
+slug: "remembering-the-normandie"
 excerpt: "On this day, sixty nine years ago, the great French luxury liner SS Normandie caught fire at Pier 88 on the Hudson River in New York City.  The fire burned out of control and the next day the ship capsized at the dock. … Continue reading &rarr;"
 categories:
   - "History"

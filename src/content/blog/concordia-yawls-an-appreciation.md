@@ -1,7 +1,7 @@
 ---
 title: "Concordia Yawls — An Appreciation"
 date: 2014-08-12T11:50:56
-slug: concordia-yawls-an-appreciation
+slug: "concordia-yawls-an-appreciation"
 excerpt: "The recent sinking of the Concordia yawl, Winnie of Bourne, brought to mind just how remarkable this class of boats indeed is.  Winnie of Bourne was raised from the bottom near the entrance of Nantucket harbor just two days after she sank, … Continue reading &rarr;"
 categories:
   - "Current"

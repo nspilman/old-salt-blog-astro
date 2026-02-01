@@ -1,7 +1,7 @@
 ---
 title: "Inflatable Fishing Boat Survives Attack by Great White off South Africa"
 date: 2012-02-21T17:08:31
-slug: inflatable-fishing-boat-survives-attack-by-great-white-off-south-africa
+slug: "inflatable-fishing-boat-survives-attack-by-great-white-off-south-africa"
 excerpt: "An inflatable fishing boat has survived an attack by a 7 meter long great white shark off Strandfontein, South Africa. The fisherman were fishing for smooth hound sharks, which great whites consider to be very tasty. As reported by IOL … Continue reading &rarr;"
 categories:
   - "Current"

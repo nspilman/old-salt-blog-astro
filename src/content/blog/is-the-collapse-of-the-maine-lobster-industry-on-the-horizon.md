@@ -1,8 +1,8 @@
 ---
 title: "Is the Collapse of the Maine Lobster Industry on the Horizon?"
 date: 2018-06-21T14:33:30
-slug: is-the-collapse-of-the-maine-lobster-industry-on-the-horizon
-excerpt: "Today, the New York Times featured an article titled — “Climate Change Brought a Lobster Boom. Now It Could Cause a Bust.” The article suggests that while rising water temperatures due to climate change have brought a boom in the … Continue reading &rarr;"
+slug: "is-the-collapse-of-the-maine-lobster-industry-on-the-horizon"
+excerpt: "Today, the New York Times featured an article titled — \"Climate Change Brought a Lobster Boom. Now It Could Cause a Bust.\" The article suggests that while rising water temperatures due to climate change have brought a boom in the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Long Island Sound"
   - "Maine"
 author: "Rick Spilman"
-description: "Today, the New York Times featured an article titled — “Climate Change Brought a Lobster Boom. Now It Could Cause a Bust.” The article suggests that while rising water temperatures due to climate change have brought a boom in the … Continue reading &rarr;"
+description: "Today, the New York Times featured an article titled — \"Climate Change Brought a Lobster Boom. Now It Could Cause a Bust.\" The article suggests that while rising water temperatures due to climate change have brought a boom in the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/lobsterbin.jpg)Today, the New York Times featured an article titled — “[Climate Change Brought a Lobster Boom. Now It Could Cause a Bust.](https://www.nytimes.com/2018/06/21/climate/maine-lobsters.html)” The article suggests that while rising water temperatures due to climate change have brought a boom in the Maine lobster catch, increasing temperatures may lead to a collapse of the fishery.  This concern is nothing new. Five years ago, we posted “[The Ecology and Economics of Lobster – Will The Maine Lobster Boom End in a Bust?”](http://www.oldsaltblog.com/2011/08/east-coast-lobster-fisheries-the-best-of-times-and-the-worst-of-times/)   Increasingly, the signs of a bust are becoming more ominous.

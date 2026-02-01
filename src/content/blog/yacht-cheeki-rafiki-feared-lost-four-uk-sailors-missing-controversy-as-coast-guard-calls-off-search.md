@@ -1,7 +1,7 @@
 ---
 title: "Yacht Cheeki Rafiki Feared Lost, Four UK Sailors Missing, Controversy as Coast Guard Calls Off Search"
 date: 2014-05-20T10:07:54
-slug: yacht-cheeki-rafiki-feared-lost-four-uk-sailors-missing-controversy-as-coast-guard-calls-off-search
+slug: "yacht-cheeki-rafiki-feared-lost-four-uk-sailors-missing-controversy-as-coast-guard-calls-off-search"
 excerpt: "UPDATE:  The US Coast Guard has resumed the search for the missing crew from the Cheeki Rafiki.   Over 200,000 signed petitions asking that the search be resumed.  British Prime Minister David Cameron thanked the Coast Guard on Twitter after it made … Continue reading &rarr;"
 categories:
   - "Current"

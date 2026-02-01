@@ -1,8 +1,8 @@
 ---
 title: "PortSide NewYork’s Norwegian Water Stories & a Night of Bluegrass"
 date: 2015-09-20T12:07:38
-slug: portside-new-yorks-norwegian-water-stories-a-night-of-bluegrass
-excerpt: "This is one of those great “only in New York” events. Next Thursday, PortSide NewYork and the historic tanker Mary A. Whalen are hosting the NYC premier of the Norwegian bluegrass band, the Paradise Mountain Boys, as well as a multimedia presentation of Norwegian WaterStories. … Continue reading &rarr;"
+slug: "portside-new-yorks-norwegian-water-stories-a-night-of-bluegrass"
+excerpt: "This is one of those great \"only in New York\" events. Next Thursday, PortSide NewYork and the historic tanker Mary A. Whalen are hosting the NYC premier of the Norwegian bluegrass band, the Paradise Mountain Boys, as well as a multimedia presentation of Norwegian WaterStories. … Continue reading &rarr;"
 categories:
   - "City of Ships"
   - "Current"
@@ -15,7 +15,7 @@ tags:
   - "Paradise Mountain Boys"
   - "PortSide New York"
 author: "Rick Spilman"
-description: "This is one of those great “only in New York” events. Next Thursday, PortSide NewYork and the historic tanker Mary A. Whalen are hosting the NYC premier of the Norwegian bluegrass band, the Paradise Mountain Boys, as well as a multimedia presentation of Norwegian WaterStories. … Continue reading &rarr;"
+description: "This is one of those great \"only in New York\" events. Next Thursday, PortSide NewYork and the historic tanker Mary A. Whalen are hosting the NYC premier of the Norwegian bluegrass band, the Paradise Mountain Boys, as well as a multimedia presentation of Norwegian WaterStories. … Continue reading &rarr;"
 ---
 
 ![paradisemountainboys](http://www.oldsaltblog.com/wp-content/uploads/2015/09/paradisemountainboys.jpg)This is one of those great “only in New York” events. Next Thursday, [PortSide NewYork](http://portsidenewyork.org/) and the historic tanker *[Mary A. Whalen](http://portsidenewyork.org/mary-a-whalen/)* are hosting the [NYC premier of the Norwegian bluegrass band, the Paradise Mountain Boys, as well as a multimedia presentation of Norwegian WaterStories](https://www.facebook.com/events/456330007883303/).

@@ -1,7 +1,7 @@
 ---
 title: "Iceland’s Funeral for a Glacier Lost to Climate Change"
 date: 2019-08-19T17:08:32
-slug: icelands-funeral-for-a-glacier-lost-to-climate-change
+slug: "icelands-funeral-for-a-glacier-lost-to-climate-change"
 excerpt: "The Okjökull glacier, northeast of Reykjavik, was known simply as Ok to Icelanders. (In Icelandic, jökull means glacier.) In 1890, Ok’s ice covered 16sq km (6.2 square miles) but by 2012 it measured just 0.7sq km, according to a report … Continue reading &rarr;"
 categories:
   - "Current"

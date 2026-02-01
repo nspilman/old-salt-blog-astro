@@ -1,8 +1,8 @@
 ---
 title: "Princess Cruises Hit by Record Fine for ‘Deliberate Pollution & Cover-up’"
 date: 2016-12-02T15:03:35
-slug: princess-cruises-hit-record-fine-deliberate-pollution-cover
-excerpt: "The Justice Department has announced that Princess Cruise Lines will pay a record $40 million fine for “deliberate pollution of the seas and intentional acts to cover it up” in what it called “the largest-ever criminal penalty involving deliberate vessel … Continue reading &rarr;"
+slug: "princess-cruises-hit-record-fine-deliberate-pollution-cover"
+excerpt: "The Justice Department has announced that Princess Cruise Lines will pay a record $40 million fine for \"deliberate pollution of the seas and intentional acts to cover it up\" in what it called \"the largest-ever criminal penalty involving deliberate vessel … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -17,7 +17,7 @@ tags:
   - "Royal Caribbean"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/12/cp200.jpg"
 author: "Rick Spilman"
-description: "The Justice Department has announced that Princess Cruise Lines will pay a record $40 million fine for “deliberate pollution of the seas and intentional acts to cover it up” in what it called “the largest-ever criminal penalty involving deliberate vessel … Continue reading &rarr;"
+description: "The Justice Department has announced that Princess Cruise Lines will pay a record $40 million fine for \"deliberate pollution of the seas and intentional acts to cover it up\" in what it called \"the largest-ever criminal penalty involving deliberate vessel … Continue reading &rarr;"
 ---
 
 ![Caribbean Princess Photo: Yankeesman312](http://www.oldsaltblog.com/wp-content/uploads/2016/12/cp1.jpg)

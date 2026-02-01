@@ -1,7 +1,7 @@
 ---
 title: "SS Badger, Last Great Lakes Coal-Fired  Passenger-Car Ferry, Designated National Historic Landmark"
 date: 2016-02-23T21:24:07
-slug: steam-car-ferry-ss-badger
+slug: "steam-car-ferry-ss-badger"
 excerpt: "The Department of the Interior recently announced that the SS Badger; the last coal-fired, passenger car ferry operating on the Great Lakes; has been designated as a National Historic Landmark. From the news release: The designation recognizes the Badger’s exceptional … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

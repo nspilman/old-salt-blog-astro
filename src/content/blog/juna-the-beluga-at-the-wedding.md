@@ -1,8 +1,8 @@
 ---
 title: "Juna, the Beluga, at the Wedding"
 date: 2020-04-20T15:41:49
-slug: juna-the-beluga-at-the-wedding
-excerpt: "We recently posted about a penguin on a “field trip” interacting with a beluga whale at Chicago’s Shedd Aquarium. The post brought to mind a story from years ago about a young couple, Kim & Kevin, who decided to get … Continue reading &rarr;"
+slug: "juna-the-beluga-at-the-wedding"
+excerpt: "We recently posted about a penguin on a \"field trip\" interacting with a beluga whale at Chicago’s Shedd Aquarium. The post brought to mind a story from years ago about a young couple, Kim & Kevin, who decided to get … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "wedding"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/04/belugawedding.jpg"
 author: "Rick Spilman"
-description: "We recently posted about a penguin on a “field trip” interacting with a beluga whale at Chicago’s Shedd Aquarium. The post brought to mind a story from years ago about a young couple, Kim & Kevin, who decided to get … Continue reading &rarr;"
+description: "We recently posted about a penguin on a \"field trip\" interacting with a beluga whale at Chicago’s Shedd Aquarium. The post brought to mind a story from years ago about a young couple, Kim & Kevin, who decided to get … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/04/belugawedding.jpg)We recently [posted about a penguin on a “field trip”](http://www.oldsaltblog.com/2020/04/penguin-on-field-trip-meets-beluga-whales/) interacting with a beluga whale at Chicago’s [Shedd Aquarium](https://www.sheddaquarium.org/). The post brought to mind a story from years ago about a young couple, Kim & Kevin, who decided to get married at the [Mystic Aquarium](https://www.mysticaquarium.org/), in Mystic, Connecticut. They decided that the service would be held directly in front of the beluga tank. As entertainment, they hired a mariachi band, “[Los Trovadores de America](http://www.mariachiconnecticut.com/).”  

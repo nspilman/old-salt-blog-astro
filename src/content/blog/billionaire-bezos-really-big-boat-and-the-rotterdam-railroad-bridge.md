@@ -1,7 +1,7 @@
 ---
 title: "Billionaire Bezos’ Really Big Boat and the Rotterdam Railroad Bridge"
 date: 2022-02-05T15:16:24
-slug: billionaire-bezos-really-big-boat-and-the-rotterdam-railroad-bridge
+slug: "billionaire-bezos-really-big-boat-and-the-rotterdam-railroad-bridge"
 excerpt: "Last Wednesday, it was widely reported that Rotterdam would dismantle the center span of a historic railroad bridge to allow the 417-foot-long, three-masted sailing yacht built for billionaire Jeff Bezos to access the sea. The fully rigged superyacht apparently has … Continue reading &rarr;"
 categories:
   - "Current"

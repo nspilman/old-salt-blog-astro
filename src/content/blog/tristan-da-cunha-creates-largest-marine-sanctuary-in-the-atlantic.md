@@ -1,7 +1,7 @@
 ---
 title: "Tristan da Cunha Creates Largest Marine Sanctuary in the Atlantic"
 date: 2020-11-14T14:40:46
-slug: tristan-da-cunha-creates-largest-marine-sanctuary-in-the-atlantic
+slug: "tristan-da-cunha-creates-largest-marine-sanctuary-in-the-atlantic"
 excerpt: "Tristan Da Cuhna is one of the most remote inhabited islands in the world. The government of the island is now creating the fourth largest completely protected marine area in the world and the largest in the Atlantic. Fishing and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Maersk Essen Loses 750 Boxes Overboard in North Pacific"
 date: 2021-01-21T15:55:24
-slug: maersk-essen-loses-750-boxes-overboard-in-north-pacific
+slug: "maersk-essen-loses-750-boxes-overboard-in-north-pacific"
 excerpt: "In what is developing into a record winter for containers lost over the side, the Maersk Essen lost 750 containers overboard during a storm on January 16.  An unknown number of boxes were damaged but still onboard. The loss occurred … Continue reading &rarr;"
 categories:
   - "Current"

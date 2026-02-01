@@ -1,7 +1,7 @@
 ---
 title: "Forty Two Years Ago Today — Remembering the SS Marine Electric"
 date: 2025-02-12T21:15:15
-slug: forty-two-years-ago-today-remembering-the-ss-marine-electric
+slug: "forty-two-years-ago-today-remembering-the-ss-marine-electric"
 excerpt: "Forty-two years ago today, on February 12, 1983, the collier SS Marine Electric loaded with 24,800 tons of steam coal, capsized and sank in a storm 30 miles off the coast of Virginia. Thirty-one of the 34 crew members died. While … Continue reading &rarr;"
 categories:
   - "History"

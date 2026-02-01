@@ -1,7 +1,7 @@
 ---
 title: "14th Annual Fisher Poets Gathering in Astoria, Oregon"
 date: 2011-02-24T13:16:30
-slug: 14th-annual-fisher-poets-gathering-in-astoria-oregon
+slug: "14th-annual-fisher-poets-gathering-in-astoria-oregon"
 excerpt: "The FisherPoets Gathering is an gathering of poets, songwriters, storytellers and artists involved in the  fishing industry, getting together to to share poems, stories, songs, memoirs, essays and art.   Sounds like great fun.  It is  being held from held … Continue reading &rarr;"
 categories:
   - "Current"

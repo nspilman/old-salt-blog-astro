@@ -1,7 +1,7 @@
 ---
 title: "Lia Ditton Breaks Solo Ocean Rowing Record to Hawaii"
 date: 2020-09-18T14:18:25
-slug: lia-ditton-breaks-solo-ocean-rowing-record-to-hawaii
+slug: "lia-ditton-breaks-solo-ocean-rowing-record-to-hawaii"
 excerpt: "Congratulations to Lia Ditton, who has set a new women’s world record for rowing solo from San Francisco to Hawaii. The 40-year-old Briton made landfall on September 12, completing the passage in 86 days, 10 hours, 5 minutes, and 56 … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

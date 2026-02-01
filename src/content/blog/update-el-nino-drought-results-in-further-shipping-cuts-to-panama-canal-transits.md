@@ -1,7 +1,7 @@
 ---
 title: "Update — El Nino Drought Results in Further Shipping Cuts to Panama Canal Transits"
 date: 2023-11-02T11:17:01
-slug: update-el-nino-drought-results-in-further-shipping-cuts-to-panama-canal-transits
+slug: "update-el-nino-drought-results-in-further-shipping-cuts-to-panama-canal-transits"
 excerpt: "In August, we posted Panamax Meets Pana-Drought — Drought Restrictions In Canal Cause Delays and 200 Ship Backlog. A record drought associated with the naturally occurring El Nino climate pattern has resulted in one of the country’s driest years in … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Grays Harbor Historical Seaport’s Hawaiian Chieftain Up For Sale"
 date: 2020-02-25T20:46:21
-slug: grays-harbor-historical-seaports-hawaiian-chieftain-up-for-sale
+slug: "grays-harbor-historical-seaports-hawaiian-chieftain-up-for-sale"
 excerpt: "For several years now, the Grays Harbor Historical Seaport‘s tall ships, the replica brig Lady Washington and the square topsail ketch Hawaiian Chieftain, have sailed the Pacific Coast offering educational and sail training programs. One highlight of these programs were the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

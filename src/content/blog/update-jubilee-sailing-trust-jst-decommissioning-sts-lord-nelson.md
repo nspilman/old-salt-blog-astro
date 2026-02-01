@@ -1,7 +1,7 @@
 ---
 title: "Update: Jubilee Sailing Trust (JST) Decommissioning STS Lord Nelson"
 date: 2019-07-24T16:46:51
-slug: update-jubilee-sailing-trust-jst-decommissioning-sts-lord-nelson
+slug: "update-jubilee-sailing-trust-jst-decommissioning-sts-lord-nelson"
 excerpt: "In early July, the Jubilee Sailing Trust (JST) faced a financial crisis where it needed to raise £1m in five days in order to stay in operation. Fortunately, the charity succeeded in raising the funds in time. Their financial challenges … Continue reading &rarr;"
 categories:
   - "Current"

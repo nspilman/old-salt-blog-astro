@@ -1,7 +1,7 @@
 ---
 title: "The Rise and Fall of the South Street Seaport Museum"
 date: 2011-02-19T14:58:28
-slug: the-rise-and-fall-of-the-south-street-seaport-museum
+slug: "the-rise-and-fall-of-the-south-street-seaport-museum"
 excerpt: "The restored South Street Seaport, on New York’s City’s East River, has always been an uneasy balance between a historic seaport and a real estate deal.   South Street  is now far  more shopping mall than historic seaport.  The current museum … Continue reading &rarr;"
 categories:
   - "Current"

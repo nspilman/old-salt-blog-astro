@@ -1,7 +1,7 @@
 ---
-title: "Fanning to Shark — “Thanks For Not Eating Me!”"
+title: "Fanning to Shark — \"Thanks For Not Eating Me!\""
 date: 2015-07-21T10:50:59
-slug: fanning-to-shark-thanks-for-not-eating-me
+slug: "fanning-to-shark-thanks-for-not-eating-me"
 excerpt: "Shark attacks are rare. Shark attacks on live television are virtually unprecedented, which is why the video of an encounter between Australian champion surfer, Mick Fanning, and a large shark in the waters off South Africa caught on live TV spread so rapidly … Continue reading &rarr;"
 categories:
   - "Current"

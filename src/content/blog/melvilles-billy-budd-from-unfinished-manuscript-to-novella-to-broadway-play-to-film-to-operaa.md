@@ -1,7 +1,7 @@
 ---
 title: "Melville’s Billy Budd – From Unfinished Manuscript, to Novella, to Broadway Play, to Opera, & Film"
 date: 2014-02-08T11:24:45
-slug: melvilles-billy-budd-from-unfinished-manuscript-to-novella-to-broadway-play-to-film-to-operaa
+slug: "melvilles-billy-budd-from-unfinished-manuscript-to-novella-to-broadway-play-to-film-to-operaa"
 excerpt: "The Glyndebourne Festival Opera’s Michael Grandage production of Benjamin Britten’s opera, Billy Budd, opened last night at the Brooklyn Academy of Music(BAM.) Herman Melville’s Billy Budd was his last work, which almost died with him in 1891. The unfinished manuscript was … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

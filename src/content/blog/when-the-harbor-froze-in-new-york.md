@@ -1,8 +1,8 @@
 ---
 title: "When the Harbor Froze in New York"
 date: 2014-01-07T09:58:34
-slug: when-the-harbor-froze-in-new-york
-excerpt: "Much of the US is suffering under a “polar vortex,” which has plunged temperatures into single digits and wind chills well into negative numbers. Here on the west bank of the Hudson River the temperature is around 4 F with … Continue reading &rarr;"
+slug: "when-the-harbor-froze-in-new-york"
+excerpt: "Much of the US is suffering under a \"polar vortex,\" which has plunged temperatures into single digits and wind chills well into negative numbers. Here on the west bank of the Hudson River the temperature is around 4 F with … Continue reading &rarr;"
 categories:
   - "City of Ships"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "new york"
   - "Robert Fulton"
 author: "Rick Spilman"
-description: "Much of the US is suffering under a “polar vortex,” which has plunged temperatures into single digits and wind chills well into negative numbers. Here on the west bank of the Hudson River the temperature is around 4 F with … Continue reading &rarr;"
+description: "Much of the US is suffering under a \"polar vortex,\" which has plunged temperatures into single digits and wind chills well into negative numbers. Here on the west bank of the Hudson River the temperature is around 4 F with … Continue reading &rarr;"
 ---
 
 ![6blizzardback0114](http://www.oldsaltblog.com/wp-content/uploads/2014/01/6blizzardback0114.jpg)

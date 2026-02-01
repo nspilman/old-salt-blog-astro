@@ -1,7 +1,7 @@
 ---
 title: "Invasive Species Riding Plastic Rafts Across Oceans"
 date: 2018-08-31T16:24:08
-slug: invasive-species-riding-plastic-rafts-across-oceans
+slug: "invasive-species-riding-plastic-rafts-across-oceans"
 excerpt: "Another good news-bad news story. The good news is that the fears of radiation spreading across the Pacific from the Fukushima meltdown following the Japanese tsunami of 2011, have been wildly overstated.  Yes, trace elements of radiation traceable to Fukushima have been recorded in Pacific … Continue reading &rarr;"
 categories:
   - "Current"

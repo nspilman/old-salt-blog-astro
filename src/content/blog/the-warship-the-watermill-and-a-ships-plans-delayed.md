@@ -1,7 +1,7 @@
 ---
 title: "The Warship, the Watermill and a Ship’s Plans Delayed"
 date: 2011-03-29T07:48:57
-slug: the-warship-the-watermill-and-a-ships-plans-delayed
+slug: "the-warship-the-watermill-and-a-ships-plans-delayed"
 excerpt: "Last Sunday, we posted about the authorization for the  construction of the first six frigates for the US Navy in 1794.   The folks at Maritime Great Britain were kind enough to pass along two related stories. … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,8 +1,8 @@
 ---
 title: "TBT: Alexander Hamiltons’ Lighthouse — History or Legend?"
 date: 2019-08-08T15:17:31
-slug: tbt-alexander-hamiltons-lighthouse-history-or-legend
-excerpt: "For Throw Back Thursday (TBT) and in belated honor of yesterday’s National Lighthouse Day, here is a repost from several years ago about Hamilton’s lighthouse.  The Cape Hatteras Lighthouse, marking the shoals which have become known as the “graveyard of … Continue reading &rarr;"
+slug: "tbt-alexander-hamiltons-lighthouse-history-or-legend"
+excerpt: "For Throw Back Thursday (TBT) and in belated honor of yesterday’s National Lighthouse Day, here is a repost from several years ago about Hamilton’s lighthouse.  The Cape Hatteras Lighthouse, marking the shoals which have become known as the \"graveyard of … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Thunderbolt"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/hamilton1.jpg"
 author: "Rick Spilman"
-description: "For Throw Back Thursday (TBT) and in belated honor of yesterday’s National Lighthouse Day, here is a repost from several years ago about Hamilton’s lighthouse.  The Cape Hatteras Lighthouse, marking the shoals which have become known as the “graveyard of … Continue reading &rarr;"
+description: "For Throw Back Thursday (TBT) and in belated honor of yesterday’s National Lighthouse Day, here is a repost from several years ago about Hamilton’s lighthouse.  The Cape Hatteras Lighthouse, marking the shoals which have become known as the \"graveyard of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/05/hamilton1.jpg)For Throw Back Thursday (TBT) and in belated honor of yesterday’s [National Lighthouse Day](https://nationaldaycalendar.com/national-lighthouse-day-august-7/), here is a repost from several years ago about Hamilton’s lighthouse. 

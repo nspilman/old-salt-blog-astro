@@ -1,7 +1,7 @@
 ---
 title: "The Wavertree and Pioneer Turn 125"
 date: 2010-05-16T09:07:15
-slug: the-wavertree-and-pioneer-turn-125
+slug: "the-wavertree-and-pioneer-turn-125"
 excerpt: "On Saturday May 24th, the  Southstreet Seaport Museum in New York will celebrate the 125th birthdays of two fine ladies,  the full rigged ship Wavertree and the schooner Pioneer. Built in 1885 in Southampton, England, the Wavertree was one of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

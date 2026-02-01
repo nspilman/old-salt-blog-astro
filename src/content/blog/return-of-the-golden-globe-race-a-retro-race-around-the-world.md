@@ -1,7 +1,7 @@
 ---
 title: "Return of the Golden Globe Race  — A Retro Race Around the World"
 date: 2018-04-06T17:42:40
-slug: return-of-the-golden-globe-race-a-retro-race-around-the-world
+slug: "return-of-the-golden-globe-race-a-retro-race-around-the-world"
 excerpt: "Fifty years ago this year, nine sailors set off in the Sunday Times Golden Globe Race. Only one, Robin Knox-Johnston sailing his 32-foot Bermudan ketch Suhaili, finished the race, becoming the first person ever to sail single-handed non-stop around the globe. This June, the race is … Continue reading &rarr;"
 categories:
   - "Current"

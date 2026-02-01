@@ -1,7 +1,7 @@
 ---
 title: "Update: Deadly Conception Dive Boat Fire, Where 34 Died, Started in Trash Can According to AFT"
 date: 2023-09-05T16:57:19
-slug: update-deadly-conception-dive-boat-fire-where-34-died-started-in-trash-can-according-to-aft
+slug: "update-deadly-conception-dive-boat-fire-where-34-died-started-in-trash-can-according-to-aft"
 excerpt: "The LA Times reports that the deadly fire that broke out four years ago aboard the Conception dive boat, killing 34 people, started in a plastic trash can on the main deck, a confidential report reviewed by The Times shows. Investigators … Continue reading &rarr;"
 categories:
   - "Current"

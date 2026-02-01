@@ -1,8 +1,8 @@
 ---
 title: "Magnetic North Pole on the Move — How Big a Deal?"
 date: 2019-02-06T16:53:26
-slug: magnetic-north-pole-on-the-move-how-big-a-deal
-excerpt: "Recently, the media has somewhat breathlessly reported that the usually slow drift of the magnetic north pole has sped up dramatically. My favorite headline is from NPR which reads, “As Magnetic North Pole Zooms Toward Siberia, Scientists Update World Magnetic Model.” … Continue reading &rarr;"
+slug: "magnetic-north-pole-on-the-move-how-big-a-deal"
+excerpt: "Recently, the media has somewhat breathlessly reported that the usually slow drift of the magnetic north pole has sped up dramatically. My favorite headline is from NPR which reads, \"As Magnetic North Pole Zooms Toward Siberia, Scientists Update World Magnetic Model.\" … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "World Magnetic Model"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2019/02/magpole.jpg"
 author: "Rick Spilman"
-description: "Recently, the media has somewhat breathlessly reported that the usually slow drift of the magnetic north pole has sped up dramatically. My favorite headline is from NPR which reads, “As Magnetic North Pole Zooms Toward Siberia, Scientists Update World Magnetic Model.” … Continue reading &rarr;"
+description: "Recently, the media has somewhat breathlessly reported that the usually slow drift of the magnetic north pole has sped up dramatically. My favorite headline is from NPR which reads, \"As Magnetic North Pole Zooms Toward Siberia, Scientists Update World Magnetic Model.\" … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2019/02/magpole.jpg)Recently, the media has somewhat breathlessly reported that the usually slow drift of the magnetic north pole has sped up dramatically. My favorite headline is from NPR which reads, “[As Magnetic North Pole Zooms Toward Siberia, Scientists Update World Magnetic Model](https://www.npr.org/2019/02/04/691471616/as-magnetic-north-pole-zooms-toward-siberia-scientists-update-world-magnetic-mod).” Is the magnetic pole really zooming?

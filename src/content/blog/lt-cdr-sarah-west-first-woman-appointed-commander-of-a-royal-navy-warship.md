@@ -1,7 +1,7 @@
 ---
 title: "Lt Cdr  Sarah West, First Woman Appointed Commander of a Royal Navy Warship"
 date: 2011-08-09T16:24:43
-slug: lt-cdr-sarah-west-first-woman-appointed-commander-of-a-royal-navy-warship
+slug: "lt-cdr-sarah-west-first-woman-appointed-commander-of-a-royal-navy-warship"
 excerpt: "The Royal Navy has appointed Lt Cdr Sarah West the command of HMS Portland, a Type 23 Duke Class Frigate launched in 1999. When she takes command on April 2012, she will be the first woman to command a Royal Navy warship. West previously … Continue reading &rarr;"
 categories:
   - "Current"

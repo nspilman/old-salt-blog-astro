@@ -1,7 +1,7 @@
 ---
 title: "Happy New Year! A Ballad by Cicely Fox Smith Sung by Larry Kaplan"
 date: 2018-01-01T11:03:25
-slug: happy-new-year-ballad-cicely-fox-smith-sung-larry-kaplan
+slug: "happy-new-year-ballad-cicely-fox-smith-sung-larry-kaplan"
 excerpt: "Happy New Year to all!  Here is a poem by Cicely Fox Smith, from Full Sail: More Sea Songs and Ballads, sung as a ballad by Larry Kaplan. New Year by Cicely Fox Smith … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

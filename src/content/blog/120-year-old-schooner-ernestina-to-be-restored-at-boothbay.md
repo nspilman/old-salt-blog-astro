@@ -1,7 +1,7 @@
 ---
 title: "120 Year Old Schooner Ernestina to be Restored at Boothbay"
 date: 2014-11-21T14:53:51
-slug: 120-year-old-schooner-ernestina-to-be-restored-at-boothbay
+slug: "120-year-old-schooner-ernestina-to-be-restored-at-boothbay"
 excerpt: "Great news!  The Massachusetts of Department of Conservation and Recreation has signed a contract with Boothbay Harbor Shipyard for $6,048,025 for the restoration of the schooner Ernestina, ex-Effie M. Morrissey.   As we posted in July, private donors, Bob Hildreth and Gerry Lenfest, contributed $2.8 … Continue reading &rarr;"
 categories:
   - "Current"

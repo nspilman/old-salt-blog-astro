@@ -1,7 +1,7 @@
 ---
 title: "Update: Queen Elizabeth 2 Rotting Away in Dubai"
 date: 2014-12-03T12:17:08
-slug: update-queen-elizabeth-2-rotting-away-in-dubai
+slug: "update-queen-elizabeth-2-rotting-away-in-dubai"
 excerpt: "Since being sold by Cunard in 2007, the classic liner Queen Elizabeth 2 has been the locus of many plans and schemes, all of which have come to naught.  Sadly, the ship has remained tied up at a dock in Dubai’s Port … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Sink the HMAS Adelaide !"
 date: 2010-09-20T16:50:25
-slug: sink-the-hmas-adelaide
+slug: "sink-the-hmas-adelaide"
 excerpt: "It looks like the guided missile frigate HMAS Adelaide will indeed be scuttled off Avoca Beach, north of Sydney in New South Wales, to create an artificial diving site.  Last March we posted about a court case brought by environmentalists which prevented the planned scuttling … Continue reading &rarr;"
 categories:
   - "Current"

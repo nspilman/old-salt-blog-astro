@@ -1,7 +1,7 @@
 ---
 title: "Celebrity Eclipse to the Rescue"
 date: 2010-04-21T19:00:02
-slug: celebrity-eclipse-to-the-rescue
+slug: "celebrity-eclipse-to-the-rescue"
 excerpt: "New Celebrity Ship to Repatriate Ash-Stranded Travelers As Celebrity Cruises prepares for the launch this weekend of its brand-new Celebrity Eclipse, the line is also stepping in to help stranded travelers make their way back home. The cruise line has … Continue reading &rarr;"
 categories:
   - "Current"

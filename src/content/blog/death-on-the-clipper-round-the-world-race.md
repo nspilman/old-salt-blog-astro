@@ -1,7 +1,7 @@
 ---
 title: "Death on the Clipper Round the World Race"
 date: 2015-09-05T07:52:15
-slug: death-on-the-clipper-round-the-world-race
+slug: "death-on-the-clipper-round-the-world-race"
 excerpt: "Terrible news from the Clipper Round the World Race. On the fourth day of the race, Andrew Ashman, 49, a paramedic from Orpington, Kent was injured and died while reefing the main sail on the racing yacht IchorCoal  (CV21), approximately 120 nautical miles off … Continue reading &rarr;"
 categories:
   - "Current"

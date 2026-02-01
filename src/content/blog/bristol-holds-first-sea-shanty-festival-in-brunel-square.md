@@ -1,7 +1,7 @@
 ---
 title: "Bristol Holds First Sea Shanty Festival in Brunel Square"
 date: 2021-10-09T16:03:33
-slug: bristol-holds-first-sea-shanty-festival-in-brunel-square
+slug: "bristol-holds-first-sea-shanty-festival-in-brunel-square"
 excerpt: "On Sunday, October 10, from noon to 6PM, Bristol, England will host its first sea shanty festival with ten shanty crews performing on outdoor stages on the city’s harborside. Classicalmusic.com reports that crews will perform in Brunel Square beside the … Continue reading &rarr;"
 categories:
   - "Current"

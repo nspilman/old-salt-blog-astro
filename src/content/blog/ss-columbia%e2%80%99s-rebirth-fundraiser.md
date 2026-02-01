@@ -1,7 +1,7 @@
 ---
 title: "SS Columbia’s Rebirth Fundraiser"
 date: 2009-09-18T14:32:25
-slug: ss-columbia%e2%80%99s-rebirth-fundraiser
+slug: "ss-columbia%e2%80%99s-rebirth-fundraiser"
 excerpt: "SS Columbia, built in 1902, is the oldest surviving passenger steam vessel in the United States. The SS Columbia Project is dedicated to restoring and operating the classic passenger steamer.  They are holding their first official fundraising event tommorrow featuring … Continue reading &rarr;"
 categories:
   - "Current"

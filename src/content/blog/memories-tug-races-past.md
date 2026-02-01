@@ -1,7 +1,7 @@
 ---
 title: "Memories of Tug Races Past"
 date: 2016-09-05T14:36:10
-slug: memories-tug-races-past
+slug: "memories-tug-races-past"
 excerpt: "Tropical Storm Hermine, which looked very nasty there for a while, drifted enough to the east to miss New York harbor. There were local reports of flooding at high tide, but overall, it has been a beautiful Labor Day weekend … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Oceans Older than the Sun"
 date: 2014-09-28T09:30:13
-slug: oceans-older-than-the-sun
+slug: "oceans-older-than-the-sun"
 excerpt: "The oceans could indeed be older than the sun. A team of scientists from the University of Michigan now believe that up to half the water on our planet is older than the sun. Earlier theories had assumed that interstellar … Continue reading &rarr;"
 categories:
   - "Current"

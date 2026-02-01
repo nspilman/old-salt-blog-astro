@@ -1,7 +1,7 @@
 ---
 title: "Australian Salt Water Crocodile Kills Fisherman"
 date: 2014-08-19T09:18:53
-slug: australian-salt-water-crocodile-kills-fisherman
+slug: "australian-salt-water-crocodile-kills-fisherman"
 excerpt: "A 57 year old fisherman, wading in the Adelaide River, south of Darwin, was attacked and killed by a 15 foot long (4.5 metre) crocodile.  The fisherman was attempting to unsnag his line when attacked.  As reported by the BBC:  The … Continue reading &rarr;"
 categories:
   - "Current"

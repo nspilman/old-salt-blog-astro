@@ -1,7 +1,7 @@
 ---
 title: "Mary Day Wins 43rd Annual Great Schooner Race"
 date: 2019-07-10T12:50:58
-slug: mary-day-wins-43rd-annual-great-schooner-race
+slug: "mary-day-wins-43rd-annual-great-schooner-race"
 excerpt: "On July 5, in a very close race, the schooner Mary Day won the 43rd Annual Great Schooner Race.  Fourteen schooners sailed in Penobscot Bay from Gilkey Harbor in Islesboro to the finish line at the Rockland Breakwater Lighthouse in the … Continue reading &rarr;"
 categories:
   - "Current"

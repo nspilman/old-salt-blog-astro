@@ -1,7 +1,7 @@
 ---
 title: "Solar-Powered MS Turanor PlanetSolar Completes Circumnavigation in 584 Days"
 date: 2012-05-05T09:10:21
-slug: solar-powered-ms-turanor-planetsolar-completes-circumnavigation-in-584-days
+slug: "solar-powered-ms-turanor-planetsolar-completes-circumnavigation-in-584-days"
 excerpt: "The 98-foot-long solar powered catamaran MS Turanor PlanetSolar returned to Monoco yesterday, completing a 37,286 mile circumnavigation of the globe in 584 days. It is the first circumnavigation under solar power.   Along the way, the Turanor PlanetSolar made stops on six continents to promote solar energy. While … Continue reading &rarr;"
 categories:
   - "Current"

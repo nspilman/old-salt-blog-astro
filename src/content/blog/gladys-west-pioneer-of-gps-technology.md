@@ -1,7 +1,7 @@
 ---
 title: "Gladys West — Pioneer of GPS Technology"
 date: 2018-12-21T09:58:42
-slug: gladys-west-pioneer-of-gps-technology
+slug: "gladys-west-pioneer-of-gps-technology"
 excerpt: "I will admit to being dependent on GPS. I rely on it for both maps and apps on my phone as well as the chartplotters on several tablets on my boat. Nevertheless, until recently I knew nothing of Gladys West, a … Continue reading &rarr;"
 categories:
   - "Current"

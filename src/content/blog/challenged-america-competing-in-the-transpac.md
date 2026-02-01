@@ -1,7 +1,7 @@
 ---
 title: "Challenged America – Disabled Sailors Competing in the Transpac"
 date: 2013-03-25T15:52:21
-slug: challenged-america-competing-in-the-transpac
+slug: "challenged-america-competing-in-the-transpac"
 excerpt: "Urban Miyares, a Vietnam vet, is totally blind, suffering from diabetes, has several organ transplants, and a whole number of medical issues, including severe nerve damage in his lower extremities making him a walking paraplegic. He is also the current … Continue reading &rarr;"
 categories:
   - "Current"

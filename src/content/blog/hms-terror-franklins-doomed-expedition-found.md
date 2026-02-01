@@ -1,7 +1,7 @@
 ---
 title: "HMS Terror from Franklin’s Doomed Expedition Found"
 date: 2016-09-13T08:17:21
-slug: hms-terror-franklins-doomed-expedition-found
+slug: "hms-terror-franklins-doomed-expedition-found"
 excerpt: "In an interesting historical coincidence, just days after the luxury cruise ship, Crystal Serenity, completed a passage through the Canadian Arctic’s Northwest Passage,  HMS Terror has been found.  HMS Terror is the second of two ships from Sir John Franklin’s ill-fated expedition to traverse … Continue reading &rarr;"
 categories:
   - "Current"

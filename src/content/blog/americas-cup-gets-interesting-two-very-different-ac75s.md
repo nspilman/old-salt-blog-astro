@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup Gets Interesting — Two Very Different AC75s"
 date: 2019-09-22T15:39:38
-slug: americas-cup-gets-interesting-two-very-different-ac75s
+slug: "americas-cup-gets-interesting-two-very-different-ac75s"
 excerpt: "The 36th America’s Cup Races, featuring foiling monohulls, is still 18 months away but are beginning to look very interesting.  Two very different AC75 contenders have taken to the water recently — The New York Yacht Club Team American Magic‘s … Continue reading &rarr;"
 categories:
   - "Current"

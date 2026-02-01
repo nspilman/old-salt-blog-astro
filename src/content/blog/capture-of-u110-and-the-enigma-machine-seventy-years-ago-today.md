@@ -1,7 +1,7 @@
 ---
 title: "Capture of U110 and the Enigma Machine, Seventy Years Ago Today"
 date: 2011-05-09T11:00:13
-slug: capture-of-u110-and-the-enigma-machine-seventy-years-ago-today
+slug: "capture-of-u110-and-the-enigma-machine-seventy-years-ago-today"
 excerpt: "On May 9, 1941, seventy years ago today, the German submarines U110 and U201 were attacking a British convoy in the Atlantic south of Iceland.   U110 was forced to surface after being depth changed and was abandoned by her crew who … Continue reading &rarr;"
 categories:
   - "Current"

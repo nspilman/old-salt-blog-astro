@@ -1,7 +1,7 @@
 ---
 title: "Hot Sand Causing 99% of Sea Turtles to be Born Female"
 date: 2022-08-03T16:59:05
-slug: hot-sand-causing-99-of-sea-turtles-to-be-born-female
+slug: "hot-sand-causing-99-of-sea-turtles-to-be-born-female"
 excerpt: "Climate change is threatening the future of sea turtles. Whereas the gender of most animals is determined at fertilization, the sex of most turtles, as well as alligators, and crocodiles is determined by the temperature of the developing eggs. The hotter … Continue reading &rarr;"
 categories:
   - "Current"

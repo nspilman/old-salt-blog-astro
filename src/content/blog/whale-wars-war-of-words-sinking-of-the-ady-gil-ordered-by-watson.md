@@ -1,7 +1,7 @@
 ---
 title: "Whale Wars War of Words: Sinking of the Ady Gil Ordered by Watson?"
 date: 2010-10-07T08:12:06
-slug: whale-wars-war-of-words-sinking-of-the-ady-gil-ordered-by-watson
+slug: "whale-wars-war-of-words-sinking-of-the-ady-gil-ordered-by-watson"
 excerpt: "Last January the power boat Ady Gil was hit by the Japanese whaling ship, Shonan Maru 2, during the Sea Shepherds‘ protest/reality TV show.  Who was responsible for the collision is still the subject of controversy. Now the captain of the Ady … Continue reading &rarr;"
 categories:
   - "Current"

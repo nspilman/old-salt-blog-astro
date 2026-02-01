@@ -1,7 +1,7 @@
 ---
 title: "Derelict Gunboat 55, Rainmaker, Spotted Adrift Off Cape Hatteras"
 date: 2015-06-18T09:37:45
-slug: derelict-gunboat-55-rainmaker-spotted-adrift-off-cape-hatteras
+slug: "derelict-gunboat-55-rainmaker-spotted-adrift-off-cape-hatteras"
 excerpt: "After five months, an abandoned catamaran has been sighted by a passing container ship. On January 30th of this year, Rainmaker, a brand new a $2.5 million carbon fiber Gunboat 55 catamaran, the first of its class, set off on a voyage … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Remembering Hilary Lister — Quadriplegic Solo Sailor, Dies at 46"
 date: 2018-08-24T10:51:08
-slug: remembering-hilary-lister-quadriplegic-solo-sailor-dies-at-46
+slug: "remembering-hilary-lister-quadriplegic-solo-sailor-dies-at-46"
 excerpt: "Hilary Lister has died at the age of 46. She was a quadriplegic from Kent, England who found escape and freedom in solo sailing. In doing so, she set many sailing records and serves as an inspiration to us all. Lister was … Continue reading &rarr;"
 categories:
   - "Current"

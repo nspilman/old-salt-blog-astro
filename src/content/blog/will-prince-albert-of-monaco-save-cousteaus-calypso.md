@@ -1,7 +1,7 @@
 ---
 title: "Will Prince Albert of Monaco Save Cousteau’s Calypso?"
 date: 2015-03-23T18:05:17
-slug: will-prince-albert-of-monaco-save-cousteaus-calypso
+slug: "will-prince-albert-of-monaco-save-cousteaus-calypso"
 excerpt: "We posted recently that Jacques Cousteau’s famous research vessel, Calypso, might be in danger of being sold or scrapped.  The Calypso, however, may have a savior in Prince Albert II  of Monaco. After a long legal battle, a French court ordered Francine Cousteau, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Mary A. Whalen’s 80th Birthday —  Art Inspiration Day & Birthday Tanker Tours"
 date: 2018-05-19T13:37:10
-slug: mary-a-whalen-80th-birthday-art-inspiration-day-birthday-tanker-tours
+slug: "mary-a-whalen-80th-birthday-art-inspiration-day-birthday-tanker-tours"
 excerpt: "The historic tanker Mary A. Whalen is turning 80 on May 21st. As part of a month-long celebration, Portside NewYork and the Mary A. Whalen is hosting an Art Inspiration Day and Birthday Tanker Tours. The events take place tomorrow, Sunday, May 20th, from … Continue reading &rarr;"
 categories:
   - "Current"

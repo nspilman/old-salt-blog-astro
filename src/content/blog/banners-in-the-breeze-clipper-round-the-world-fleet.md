@@ -1,7 +1,7 @@
 ---
 title: "Banners in the Breeze – Clipper Round the World Fleet"
 date: 2012-05-30T09:12:34
-slug: banners-in-the-breeze-clipper-round-the-world-fleet
+slug: "banners-in-the-breeze-clipper-round-the-world-fleet"
 excerpt: "The crews sailing in the Clipper Round the World Race represent over 40 nationalities. You can get a sense of the international makeup of the fleet by the banners and flags that they fly now that they have arrived in port.  Here … Continue reading &rarr;"
 categories:
   - "Current"

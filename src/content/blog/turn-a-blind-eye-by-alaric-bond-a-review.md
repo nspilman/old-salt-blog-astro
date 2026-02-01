@@ -1,7 +1,7 @@
 ---
 title: "Turn a Blind Eye by Alaric Bond – A Review"
 date: 2013-08-05T14:53:54
-slug: turn-a-blind-eye-by-alaric-bond-a-review
+slug: "turn-a-blind-eye-by-alaric-bond-a-review"
 excerpt: "Alaric Bond, in his latest novel, Turn A Blind Eye, vividly captures the complex and often contradictory world of a seaside village caught between loyalty, prosperity, treachery and murder. It is 1801, on the coast of Sussex. England is at war … Continue reading &rarr;"
 categories:
   - "Newbooks"

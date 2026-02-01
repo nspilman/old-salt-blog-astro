@@ -1,7 +1,7 @@
 ---
 title: "UK Sea Forts for Sale: Fully Refurbished at £3,000,000 & a Fixer Upper Starting at £50,000"
 date: 2022-07-16T17:14:59
-slug: uk-sea-forts-for-sale-fully-refurbished-at-3000000-a-fixer-upper-starting-at-50000
+slug: "uk-sea-forts-for-sale-fully-refurbished-at-3000000-a-fixer-upper-starting-at-50000"
 excerpt: "Interested in social distancing?  Looking for a unique residence or hotel venue, preferably one with serious armor plating? Do you also have a substantial cache of cash? If so, there are at least two UK sea forts on the market … Continue reading &rarr;"
 categories:
   - "Current"

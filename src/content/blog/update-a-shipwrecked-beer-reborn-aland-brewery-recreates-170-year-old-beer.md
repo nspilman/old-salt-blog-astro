@@ -1,7 +1,7 @@
 ---
 title: "Update: A Shipwrecked Beer Reborn — Åland Brewery Recreates 170-year-old beer"
 date: 2014-06-27T11:18:20
-slug: update-a-shipwrecked-beer-reborn-aland-brewery-recreates-170-year-old-beer
+slug: "update-a-shipwrecked-beer-reborn-aland-brewery-recreates-170-year-old-beer"
 excerpt: "In 2010, we posted about a shipwreck in the Baltic, off the Åland Islands of Sweden, in which 30 bottles of champagne and 5 bottles of beer were found intact in the wreckage.  In 2011, two bottles of the champagne were … Continue reading &rarr;"
 categories:
   - "Current"

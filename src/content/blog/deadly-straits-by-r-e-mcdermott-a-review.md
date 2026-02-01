@@ -1,7 +1,7 @@
 ---
 title: "Deadly Straits by R.E. McDermott – A Review"
 date: 2011-10-03T11:15:03
-slug: deadly-straits-by-r-e-mcdermott-a-review
+slug: "deadly-straits-by-r-e-mcdermott-a-review"
 excerpt: "For the sake of full disclosure, I am not a huge fans of thrillers, particularly thrillers involving ships. The plots often strike me as implausible and the descriptions of the ships and ship operations often border on the laughable. (Too … Continue reading &rarr;"
 categories:
   - "Newbooks"

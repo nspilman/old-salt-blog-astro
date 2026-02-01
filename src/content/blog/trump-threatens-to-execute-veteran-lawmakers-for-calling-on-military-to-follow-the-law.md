@@ -1,7 +1,7 @@
 ---
 title: "Trump Threatens to Execute Veteran Lawmakers for Calling on Military to Follow the Law"
 date: 2025-11-29T22:54:24
-slug: trump-threatens-to-execute-veteran-lawmakers-for-calling-on-military-to-follow-the-law
+slug: "trump-threatens-to-execute-veteran-lawmakers-for-calling-on-military-to-follow-the-law"
 excerpt: "Last week, Sen. Mark Kelly, Sen. Elissa Slotkin, and House Reps. Jason Crow, Maggie Goodlander,and Chris Deluzio and Chrissy Houlahan filmed a short PSA video message to members of the military. Each of the lawmakers is a veteran of the … Continue reading &rarr;"
 categories:
   - "Current"

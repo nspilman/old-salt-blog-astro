@@ -1,7 +1,7 @@
 ---
 title: "August Sky Shows — Double Super Blue Moons, Saturn, & Perseid Meteor Showers"
 date: 2023-08-02T18:08:28
-slug: august-sky-shows-double-super-blue-moons-saturn-perseid-meteor-showers
+slug: "august-sky-shows-double-super-blue-moons-saturn-perseid-meteor-showers"
 excerpt: "Sailors have always watched the sky. This August, the sky is putting on quite a show. In case you missed it, last night was a supermoon. A supermoon occurs when the Moon is at the closest point to the Earth, … Continue reading &rarr;"
 categories:
   - "Current"

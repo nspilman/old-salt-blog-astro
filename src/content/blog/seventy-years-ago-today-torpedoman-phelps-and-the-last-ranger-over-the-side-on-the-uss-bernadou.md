@@ -1,7 +1,7 @@
 ---
 title: "Seventy Years Ago Today – Torpedoman Phelps and the Last Ranger Over the Side on the USS Bernadou"
 date: 2012-11-08T16:57:17
-slug: seventy-years-ago-today-torpedoman-phelps-and-the-last-ranger-over-the-side-on-the-uss-bernadou
+slug: "seventy-years-ago-today-torpedoman-phelps-and-the-last-ranger-over-the-side-on-the-uss-bernadou"
 excerpt: "A guest post by Stephen Phelps: Today is the 70th anniversary of the WW II invasion of North Africa, which began with the assault and landing in the port of Safi by USS Bernadou, a WW I-vintage destroyer that had … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

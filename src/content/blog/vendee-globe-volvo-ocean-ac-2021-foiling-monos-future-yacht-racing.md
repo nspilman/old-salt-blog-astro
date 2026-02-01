@@ -1,8 +1,8 @@
 ---
 title: "Vendee Globe, Volvo Ocean, & AC 2021– Are Foiling Monos the Future of Yacht Racing?"
 date: 2017-09-14T08:12:01
-slug: vendee-globe-volvo-ocean-ac-2021-foiling-monos-future-yacht-racing
-excerpt: "Almost two years ago, we raised the question — Are the new foiling Open 60 monohulls “the future of ocean racing or [are they] a foil too far?” The results of the Vendee Globe around-the-world, single-handed race last January may have … Continue reading &rarr;"
+slug: "vendee-globe-volvo-ocean-ac-2021-foiling-monos-future-yacht-racing"
+excerpt: "Almost two years ago, we raised the question — Are the new foiling Open 60 monohulls \"the future of ocean racing or [are they] a foil too far?\" The results of the Vendee Globe around-the-world, single-handed race last January may have … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Volvo Ocean Race"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/09/volvoconcept1.jpg"
 author: "Rick Spilman"
-description: "Almost two years ago, we raised the question — Are the new foiling Open 60 monohulls “the future of ocean racing or [are they] a foil too far?” The results of the Vendee Globe around-the-world, single-handed race last January may have … Continue reading &rarr;"
+description: "Almost two years ago, we raised the question — Are the new foiling Open 60 monohulls \"the future of ocean racing or [are they] a foil too far?\" The results of the Vendee Globe around-the-world, single-handed race last January may have … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/09/volvoconcept1.jpg)

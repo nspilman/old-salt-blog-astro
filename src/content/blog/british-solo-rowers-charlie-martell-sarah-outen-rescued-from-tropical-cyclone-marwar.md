@@ -1,7 +1,7 @@
 ---
 title: "British Solo Rowers Sarah Outen & Charlie Martell Rescued from Tropical Cyclone Marwar"
 date: 2012-06-09T08:27:09
-slug: british-solo-rowers-charlie-martell-sarah-outen-rescued-from-tropical-cyclone-marwar
+slug: "british-solo-rowers-charlie-martell-sarah-outen-rescued-from-tropical-cyclone-marwar"
 excerpt: "Tropical cyclone Marwar ended attempts by two solo British rowers to row across the Pacific this week.  Sarah Outen, 27, was attempting to traverse the globe using only human power, by either rowing, kayaking or cycling.   She began her … Continue reading &rarr;"
 categories:
   - "Current"

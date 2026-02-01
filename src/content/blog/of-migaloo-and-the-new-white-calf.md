@@ -1,8 +1,8 @@
 ---
 title: "Of Migaloo and the New White Calf"
 date: 2011-10-01T17:21:13
-slug: of-migaloo-and-the-new-white-calf
-excerpt: "About 14,000 humpback whales migrated between Australia and Antarctica each year. Among them is a white humpback, nicknamed Migaloo. Migaloo, or  “white fella” in an Aboriginal language, was first spotted in 1991 and may be the most popular humpback whale in the world, being … Continue reading &rarr;"
+slug: "of-migaloo-and-the-new-white-calf"
+excerpt: "About 14,000 humpback whales migrated between Australia and Antarctica each year. Among them is a white humpback, nicknamed Migaloo. Migaloo, or  \"white fella\" in an Aboriginal language, was first spotted in 1991 and may be the most popular humpback whale in the world, being … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "white calf"
   - "white humpback"
 author: "Rick Spilman"
-description: "About 14,000 humpback whales migrated between Australia and Antarctica each year. Among them is a white humpback, nicknamed Migaloo. Migaloo, or  “white fella” in an Aboriginal language, was first spotted in 1991 and may be the most popular humpback whale in the world, being … Continue reading &rarr;"
+description: "About 14,000 humpback whales migrated between Australia and Antarctica each year. Among them is a white humpback, nicknamed Migaloo. Migaloo, or  \"white fella\" in an Aboriginal language, was first spotted in 1991 and may be the most popular humpback whale in the world, being … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/10/white-whale-wide.jpg)

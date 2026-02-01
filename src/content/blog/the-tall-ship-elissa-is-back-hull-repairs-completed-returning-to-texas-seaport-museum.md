@@ -1,7 +1,7 @@
 ---
 title: "The Tall Ship Elissa is Back!  Hull Repairs Completed, Returning to Texas Seaport Museum"
 date: 2013-01-22T15:09:19
-slug: the-tall-ship-elissa-is-back-hull-repairs-completed-returning-to-texas-seaport-museum
+slug: "the-tall-ship-elissa-is-back-hull-repairs-completed-returning-to-texas-seaport-museum"
 excerpt: "The three masted iron barque Elissa, built in 1877, will be returning to her pier this Saturday at the Texas Seaport Museum in Galveston after completing a $3 million repair and replacement of hull plating.  Congratulations to Jamie White and all the staff, … Continue reading &rarr;"
 categories:
   - "Current"

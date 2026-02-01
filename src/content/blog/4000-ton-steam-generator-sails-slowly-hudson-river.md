@@ -1,7 +1,7 @@
 ---
 title: "4,000 Ton Steam Generator Sails Slowly Down the Hudson River"
 date: 2017-08-09T10:02:51
-slug: 4000-ton-steam-generator-sails-slowly-hudson-river
+slug: "4000-ton-steam-generator-sails-slowly-hudson-river"
 excerpt: "Rivers have always made the best highways. On Monday, a massive heat-recovery steam generator left the Port of Coeymans, near Albany, on the Hudson River, on a barge bound for a new power plant under construction in Sewaren, NJ. The generator … Continue reading &rarr;"
 categories:
   - "Current"

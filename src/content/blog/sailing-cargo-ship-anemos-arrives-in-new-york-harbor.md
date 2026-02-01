@@ -1,7 +1,7 @@
 ---
 title: "Sailing Cargo Ship Anemos Arrives in New York Harbor"
 date: 2024-09-03T20:41:57
-slug: sailing-cargo-ship-anemos-arrives-in-new-york-harbor
+slug: "sailing-cargo-ship-anemos-arrives-in-new-york-harbor"
 excerpt: "The sailing cargo ship Anemos arrived in New York harbor today, completing her maiden transatlantic voyage, her holds filled with over 1,000 tonnes of French cargo. The 266-foot vessel completed the voyage in 15 days, sailing at an average speed … Continue reading &rarr;"
 categories:
   - "Current"

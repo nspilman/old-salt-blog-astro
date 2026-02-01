@@ -1,7 +1,7 @@
 ---
 title: "Woman Dies and Two Are Injured After Boat Hit by Gray Whale"
 date: 2015-03-12T18:32:20
-slug: woman-dies-and-two-are-injured-after-whale-watching-boat-hit-by-gray-whale
+slug: "woman-dies-and-two-are-injured-after-whale-watching-boat-hit-by-gray-whale"
 excerpt: "A Canadian woman was killed and two others were injured when a gray whale collided with their excursion boat off the resort city of Cabo San Lucas in Mexico. One report said that the whale breached and landed on the boat filled … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

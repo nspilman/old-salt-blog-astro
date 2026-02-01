@@ -1,7 +1,7 @@
 ---
 title: "Safran IMOCA 60 with the Dali Moustache — Foil User Manual"
 date: 2016-05-19T07:25:54
-slug: safran-omoca-60-dali-moustache-foil-user-manual
+slug: "safran-omoca-60-dali-moustache-foil-user-manual"
 excerpt: "In December, we posted about a new breed of ocean racing sailboats with foiling daggerboards, which look somewhat like Salvador Dali’s moustache.  Safron Sailing Team recently posted a video to explain how these foils work.  From an engineering and design point of view, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

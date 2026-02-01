@@ -1,7 +1,7 @@
 ---
-title: "“Colossal” Deepwater Fish Found Off Japan, Named After Sumo Wrestlers"
+title: "\"Colossal\" Deepwater Fish Found Off Japan, Named After Sumo Wrestlers"
 date: 2021-02-13T17:21:38
-slug: colossal-deepwater-fish-found-off-japan-named-after-sumo-wrestlers
+slug: "colossal-deepwater-fish-found-off-japan-named-after-sumo-wrestlers"
 excerpt: "A recently discovered large predatory fish found in deep water off the coast of Japan is a reminder that we know more about the surface of the Moon or Mars than we do about the deep oceans. In 2016, marine … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

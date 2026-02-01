@@ -1,7 +1,7 @@
 ---
 title: "Update: MV Wakashio — Ship Breaks Up, Cleanup Continues, Bow Under Tow, & Captain Arrested"
 date: 2020-08-19T13:25:46
-slug: update-mv-wakashio-ship-breaks-up-cleanup-continues-bow-under-tow-captain-arrested
+slug: "update-mv-wakashio-ship-breaks-up-cleanup-continues-bow-under-tow-captain-arrested"
 excerpt: "The Capesize bulk carrier Wakashio, which ran hard aground on a reef in Mauritius on July 25, broke in two this Sunday. The bow of the ship has been taken under tow and moved away from the reef. Reports are … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

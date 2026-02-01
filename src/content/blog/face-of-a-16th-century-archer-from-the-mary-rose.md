@@ -1,7 +1,7 @@
 ---
 title: "Face of a 16th Century Archer From the Mary Rose"
 date: 2013-06-20T09:08:28
-slug: face-of-a-16th-century-archer-from-the-mary-rose
+slug: "face-of-a-16th-century-archer-from-the-mary-rose"
 excerpt: "Researchers at Swansea University, working with a Swedish expert, have reconstructed the face of one of Henry VIII’s elite archers, who drowned aboard the warship Mary Rose in 1545. Face of 16th-century English archer revealed It reveals a man in his … Continue reading &rarr;"
 categories:
   - "Current"

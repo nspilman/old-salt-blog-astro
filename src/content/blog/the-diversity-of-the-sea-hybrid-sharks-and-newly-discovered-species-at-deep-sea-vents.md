@@ -1,7 +1,7 @@
 ---
 title: "The Diversity of the Sea – Hybrid Sharks and Newly Discovered Species at Deep Sea Vents"
 date: 2012-01-04T17:22:35
-slug: the-diversity-of-the-sea-hybrid-sharks-and-newly-discovered-species-at-deep-sea-vents
+slug: "the-diversity-of-the-sea-hybrid-sharks-and-newly-discovered-species-at-deep-sea-vents"
 excerpt: "Given that we live on an ocean planet, it is remarkable how little know of the creatures of the sea. Recently, for example, scientists discovered the first hybrid sharks to be found in Australian waters. Also, teams of American and British researchers have just discovered new … Continue reading &rarr;"
 categories:
   - "Current"

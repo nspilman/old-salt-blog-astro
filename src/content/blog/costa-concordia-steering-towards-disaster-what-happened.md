@@ -1,8 +1,8 @@
 ---
 title: "Costa Concordia – Steering towards Disaster, What Happened?"
 date: 2012-01-15T13:12:00
-slug: costa-concordia-steering-towards-disaster-what-happened
-excerpt: "The question being asked by almost everyone is “how could this have happened to a modern cruise ship?”   The Costa Concordia was a modern ship, operating in well charted waters, in good weather and calm seas. Obviously, despite a wide range … Continue reading &rarr;"
+slug: "costa-concordia-steering-towards-disaster-what-happened"
+excerpt: "The question being asked by almost everyone is \"how could this have happened to a modern cruise ship?\"   The Costa Concordia was a modern ship, operating in well charted waters, in good weather and calm seas. Obviously, despite a wide range … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Costa Concordia"
   - "Le Scole"
 author: "Rick Spilman"
-description: "The question being asked by almost everyone is “how could this have happened to a modern cruise ship?”   The Costa Concordia was a modern ship, operating in well charted waters, in good weather and calm seas. Obviously, despite a wide range … Continue reading &rarr;"
+description: "The question being asked by almost everyone is \"how could this have happened to a modern cruise ship?\"   The Costa Concordia was a modern ship, operating in well charted waters, in good weather and calm seas. Obviously, despite a wide range … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/01/u1_gemitrafikcosta.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "A Sad Pilgrimage to the New York Boat Show"
 date: 2014-01-04T13:13:02
-slug: a-sad-pilgrimage-to-the-new-york-boat-show
+slug: "a-sad-pilgrimage-to-the-new-york-boat-show"
 excerpt: "Every year I go to the New York Boat Show. In recent years, it has been a sad pilgrimage. Where once a wide range of boat types were represented, for the past decade or so most of the boats on … Continue reading &rarr;"
 categories:
   - "Current"

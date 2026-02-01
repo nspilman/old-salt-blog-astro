@@ -1,7 +1,7 @@
 ---
 title: "A Glimpse Inside US Nuclear Powered Aircraft Carriers"
 date: 2024-06-26T16:50:53
-slug: a-glimpse-inside-us-nuclear-powered-aircraft-carriers
+slug: "a-glimpse-inside-us-nuclear-powered-aircraft-carriers"
 excerpt: "A video from the Fluctus Channel providing a glimpse inside US Navy aircraft carriers, from the engine room to the flight deck. Thanks to Alaric Bond for contributing to this post. … Continue reading &rarr;"
 categories:
   - "Current"

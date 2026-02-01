@@ -1,8 +1,8 @@
 ---
 title: "Passenger Dies on Antarctic Cruise After Viking Polaris is Hit by Rogue Wave"
 date: 2022-12-03T15:05:34
-slug: passenger-dies-on-antarctic-cruise-after-viking-polaris-is-hit-by-rogue-wave
-excerpt: "Viking Cruises announced that their expedition cruise ship Viking Polaris was struck by a “rogue wave” in a storm off Antarctica on November 29 at 22:40 local time. The ship was sailing towards Ushuaia, Argentina. One passenger was killed by … Continue reading &rarr;"
+slug: "passenger-dies-on-antarctic-cruise-after-viking-polaris-is-hit-by-rogue-wave"
+excerpt: "Viking Cruises announced that their expedition cruise ship Viking Polaris was struck by a \"rogue wave\" in a storm off Antarctica on November 29 at 22:40 local time. The ship was sailing towards Ushuaia, Argentina. One passenger was killed by … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -16,7 +16,7 @@ tags:
   - "Viking Polaris"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/12/vikingpolaris.jpg"
 author: "Rick Spilman"
-description: "Viking Cruises announced that their expedition cruise ship Viking Polaris was struck by a “rogue wave” in a storm off Antarctica on November 29 at 22:40 local time. The ship was sailing towards Ushuaia, Argentina. One passenger was killed by … Continue reading &rarr;"
+description: "Viking Cruises announced that their expedition cruise ship Viking Polaris was struck by a \"rogue wave\" in a storm off Antarctica on November 29 at 22:40 local time. The ship was sailing towards Ushuaia, Argentina. One passenger was killed by … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/12/vikingpolaris.jpg)[Viking Cruises announced](https://www.vikingcruises.com/expeditions/my-trip/current-sailings/index.html) that their expedition cruise ship [*Viking Polaris*](https://www.vikingcruises.com/expeditions/ships/viking-polaris.html) was struck by a “rogue wave” in a storm off Antarctica on November 29 at 22:40 local time. The ship was sailing towards Ushuaia, Argentina. One passenger was killed by the wave, while four others sustained non-life-threatening injuries and were treated by the ship’s onboard doctor and medical staff. 

@@ -1,7 +1,7 @@
 ---
 title: "MV Double Prosperity Aground, Damaging Reef in Philippine’s Sarangani Bay Marine Sanctuary"
 date: 2011-05-12T11:39:23
-slug: mv-double-prosperity-aground-damaging-reef-in-philippines-sarangani-bay-marine-sanctuary
+slug: "mv-double-prosperity-aground-damaging-reef-in-philippines-sarangani-bay-marine-sanctuary"
 excerpt: "The perhaps poorly named MV Double Prosperity, loaded with  65,000 tons of coal, grounded on Bakud Reef on Sunday in Sarangani Bay in the Philippines. Stranded ship threatens Philippine reef … Continue reading &rarr;"
 categories:
   - "Current"

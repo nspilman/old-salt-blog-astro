@@ -1,7 +1,7 @@
 ---
 title: "US Navy’s Military Sealift Command to Sideline 17 Ships Due to Mariner Shortage"
 date: 2024-11-22T18:37:18
-slug: us-navys-military-sealift-command-to-sideline-17-ships-due-to-mariner-shortage
+slug: "us-navys-military-sealift-command-to-sideline-17-ships-due-to-mariner-shortage"
 excerpt: "The Military Sealift Command (MSC) operates approximately 125 replenishment and military transport ships to support the US Navy. Currently, MSC has more ships than it has civilian mariners to sustainably operate them.  MSC’s commander confirmed Thursday that the command will … Continue reading &rarr;"
 categories:
   - "Current"

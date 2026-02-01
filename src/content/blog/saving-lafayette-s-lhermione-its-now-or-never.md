@@ -1,8 +1,8 @@
 ---
-title: "Saving Lafayette ‘s L’Hermione — “It’s Now or Never”"
+title: "Saving Lafayette ‘s L’Hermione — \"It’s Now or Never\""
 date: 2025-07-15T17:32:23
-slug: saving-lafayette-s-lhermione-its-now-or-never
-excerpt: "French maritime enthusiasts are scrambling to raise funds to save the replica of the 18th-century 32-gun frigate, L’Hermione. The Hermione-La Fayette Association says that to finance the ship’s restoration,” It’s now or never.“ The original frigate carried the Marquis de … Continue reading &rarr;"
+slug: "saving-lafayette-s-lhermione-its-now-or-never"
+excerpt: "French maritime enthusiasts are scrambling to raise funds to save the replica of the 18th-century 32-gun frigate, L’Hermione. The Hermione-La Fayette Association says that to finance the ship’s restoration,\" It’s now or never.\" The original frigate carried the Marquis de … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -18,7 +18,7 @@ tags:
   - "rot"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2014/09/accueil__066374100_1654_28062007.jpg"
 author: "Rick Spilman"
-description: "French maritime enthusiasts are scrambling to raise funds to save the replica of the 18th-century 32-gun frigate, L’Hermione. The Hermione-La Fayette Association says that to finance the ship’s restoration,” It’s now or never.“ The original frigate carried the Marquis de … Continue reading &rarr;"
+description: "French maritime enthusiasts are scrambling to raise funds to save the replica of the 18th-century 32-gun frigate, L’Hermione. The Hermione-La Fayette Association says that to finance the ship’s restoration,\" It’s now or never.\" The original frigate carried the Marquis de … Continue reading &rarr;"
 ---
 
 ![](https://www.oldsaltblog.com/wp-content/uploads/2014/09/accueil__066374100_1654_28062007.jpg)French maritime enthusiasts are scrambling to raise funds to save the replica of the 18th-century 32-gun frigate, *[L’Hermione](https://fregate-hermione.com/). [The Hermione-La Fayette Association says that to finance the ship’s restoration,” It’s now or never.](https://fregate-hermione.com/association/soutenez-laventure/manifeste-soutien-entreprises-mecenes/)“*

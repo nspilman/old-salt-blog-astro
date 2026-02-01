@@ -1,7 +1,7 @@
 ---
-title: "Flight 1549, NY Harbor Ferries, & the Two “Miracles on the Hudson”"
+title: "Flight 1549, NY Harbor Ferries, & the Two \"Miracles on the Hudson\""
 date: 2022-01-16T12:46:01
-slug: flight-1549-ny-harbor-ferries-the-two-miracles-on-the-hudson-2
+slug: "flight-1549-ny-harbor-ferries-the-two-miracles-on-the-hudson-2"
 excerpt: "An updated repost — a look back at the twin miracles on the Hudson from thirteen years ago yesterday. On January 15, 2009, US Airways Flight 1549 made an emergency water landing in the Hudson River. If the plane’s pilots, … Continue reading &rarr;"
 categories:
   - "History"

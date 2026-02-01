@@ -1,8 +1,8 @@
 ---
 title: "Maxi Banque Populaire V Screaming Past Cape Leeuwin in Quest for Jules Verne Trophy"
 date: 2011-12-10T09:09:49
-slug: maxi-banque-populaire-v-screaming-past-cape-leeuwin-in-quest-for-jules-verne-trophy
-excerpt: "Last February the crew of  the  130′ long by 120′ wide maxi-trimaran Banque Populaire V was forced to give up their attempt to the win the Jules Verne trophy for the fastest circumnavigation by sail when the trimaran struck an “unidentified floating object” while … Continue reading &rarr;"
+slug: "maxi-banque-populaire-v-screaming-past-cape-leeuwin-in-quest-for-jules-verne-trophy"
+excerpt: "Last February the crew of  the  130′ long by 120′ wide maxi-trimaran Banque Populaire V was forced to give up their attempt to the win the Jules Verne trophy for the fastest circumnavigation by sail when the trimaran struck an \"unidentified floating object\" while … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Ships"
@@ -14,7 +14,7 @@ tags:
   - "Groupama 3"
   - "maxi-trimaran"
 author: "Rick Spilman"
-description: "Last February the crew of  the  130′ long by 120′ wide maxi-trimaran Banque Populaire V was forced to give up their attempt to the win the Jules Verne trophy for the fastest circumnavigation by sail when the trimaran struck an “unidentified floating object” while … Continue reading &rarr;"
+description: "Last February the crew of  the  130′ long by 120′ wide maxi-trimaran Banque Populaire V was forced to give up their attempt to the win the Jules Verne trophy for the fastest circumnavigation by sail when the trimaran struck an \"unidentified floating object\" while … Continue reading &rarr;"
 ---
 
 [](http://www.voile.banquepopulaire.fr/Maxi-Trimaran-Banque-Populaire-V/cartographie-c5191.html)

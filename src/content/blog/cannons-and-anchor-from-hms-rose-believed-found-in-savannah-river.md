@@ -1,7 +1,7 @@
 ---
 title: "Cannons and Anchor from HMS Rose Believed Found in Savannah River"
 date: 2021-03-16T16:45:45
-slug: cannons-and-anchor-from-hms-rose-believed-found-in-savannah-river
+slug: "cannons-and-anchor-from-hms-rose-believed-found-in-savannah-river"
 excerpt: "While preparing to dredge the shipping channel in the Savannah River, the U.S. Army Corps of Engineers may have found artifacts from HMS Rose, a 20-gun Royal Navy frigate, dating from the American  Revolutionary War. Archaeologists with the Corps of … Continue reading &rarr;"
 categories:
   - "Current"

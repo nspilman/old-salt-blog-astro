@@ -1,7 +1,7 @@
 ---
 title: "City of Water Day 2010 – Celebrating the New York City Waterfront"
 date: 2010-07-22T17:30:06
-slug: city-of-water-day-2010-celebrating-the-new-york-city-waterfront
+slug: "city-of-water-day-2010-celebrating-the-new-york-city-waterfront"
 excerpt: "New York City is metropolis of eight million organized into five boroughs, four of which are islands or are on islands.   This Saturday, the 3rd Annual City of Water Day Festival will be hosted by the Metropolitan Waterfront  Alliance to help remind … Continue reading &rarr;"
 categories:
   - "Current"

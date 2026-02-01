@@ -1,7 +1,7 @@
 ---
 title: "Record £240m cocaine bust as Royal Navy sinks smugglers"
 date: 2009-09-28T13:22:43
-slug: record-240m-cocaine-bust-as-royal-navy-sinks-smugglers
+slug: "record-240m-cocaine-bust-as-royal-navy-sinks-smugglers"
 excerpt: "The Royal Navy in joint operations with the US Coast Guard off South America has seized a £240 million cocaine shipment – the biggest haul in Royal Navy history.   HMS Iron Duke’s crew sank the 138ft drug boat with bursts of cannon fire … Continue reading &rarr;"
 categories:
   - "Current"

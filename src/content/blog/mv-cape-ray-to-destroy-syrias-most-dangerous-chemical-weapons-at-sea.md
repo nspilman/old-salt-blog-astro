@@ -1,7 +1,7 @@
 ---
 title: "MV Cape Ray to Destroy Syria’s Most Dangerous Chemical Weapons at Sea"
 date: 2013-12-04T09:10:48
-slug: mv-cape-ray-to-destroy-syrias-most-dangerous-chemical-weapons-at-sea
+slug: "mv-cape-ray-to-destroy-syrias-most-dangerous-chemical-weapons-at-sea"
 excerpt: "When it came to destroying Syria’s most dangerous chemical weapons, there was a problem. No nation wanted to take the weapons and face the risks associated with destroying them on their soil.  Under an international agreement brokered by the US, … Continue reading &rarr;"
 categories:
   - "Current"

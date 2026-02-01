@@ -1,7 +1,7 @@
 ---
 title: "Lumber schooner Wapama, Last of its Kind, to be Scrapped"
 date: 2011-08-23T21:05:01
-slug: lumber-schooner-wapama-last-of-its-kind-to-be-scrapped
+slug: "lumber-schooner-wapama-last-of-its-kind-to-be-scrapped"
 excerpt: "The National Park Service has decided to dismantle the 96-year-old steam lumber schooner, Wapama, a National Historic Landmark. The ship is the last of  of some 225 steam schooners that served the lumber trade and other coastal services along the Pacific Coast. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Hōkūleʻa in North Cove — Palm Trees and Stormy Skies"
 date: 2016-06-06T13:38:56
-slug: hokule%ca%bba-in-north-cove-palm-trees-and-stormy-skies
+slug: "hokule%ca%bba-in-north-cove-palm-trees-and-stormy-skies"
 excerpt: "The Hawaiian voyaging canoe Hōkūleʻa was officially welcomed to New York yesterday morning in ceremonies in North Cove on the Hudson River. The voyaging canoe and her crew, in the third year of an epic voyage around the world, were greeted … Continue reading &rarr;"
 categories:
   - "Current"

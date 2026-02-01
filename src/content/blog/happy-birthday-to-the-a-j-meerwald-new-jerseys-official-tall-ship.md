@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday to the A.J. Meerwald, New Jersey’s Official Tall Ship"
 date: 2013-09-07T10:00:09
-slug: happy-birthday-to-the-a-j-meerwald-new-jerseys-official-tall-ship
+slug: "happy-birthday-to-the-a-j-meerwald-new-jerseys-official-tall-ship"
 excerpt: "I see from the A.J. Meerwald‘s Facebook page that today is her birthday. Launched in 1928, she is 85 years old today.  The A. J. Meerwald is a restored Delaware Bay oyster schooner and the Official Tall Ship of the State … Continue reading &rarr;"
 categories:
   - "Current"

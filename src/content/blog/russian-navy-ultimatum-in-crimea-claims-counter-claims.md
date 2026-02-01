@@ -1,7 +1,7 @@
 ---
 title: "Russian Navy Ultimatum in Crimea — Claims & Counter-Claims"
 date: 2014-03-04T13:53:46
-slug: russian-navy-ultimatum-in-crimea-claims-counter-claims
+slug: "russian-navy-ultimatum-in-crimea-claims-counter-claims"
 excerpt: "The government of Ukrainia is claiming that the Russian Navy has issued an ultimatum demanding the surrender of two Ukrainian Navy vessels in in Sevastopol’s harbor. They claim that four Russian Navy vessels have the Ukrainian anti-submarine ship, Ternopil,  and the the command ship, Slavutych, blocked … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

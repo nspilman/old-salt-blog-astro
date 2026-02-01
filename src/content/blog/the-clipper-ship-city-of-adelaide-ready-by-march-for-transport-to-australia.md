@@ -1,7 +1,7 @@
 ---
 title: "The Clipper Ship City of Adelaide Ready by March for Transport to Australia"
 date: 2012-01-19T09:19:32
-slug: the-clipper-ship-city-of-adelaide-ready-by-march-for-transport-to-australia
+slug: "the-clipper-ship-city-of-adelaide-ready-by-march-for-transport-to-australia"
 excerpt: "Last October, we posted about the shipping cradle that had been fabricated in Australia and shipped to Scotland which will be used to transport the oldest composite clipper ship, the City of Adelaide,  back to her namesake city in South … Continue reading &rarr;"
 categories:
   - "Current"

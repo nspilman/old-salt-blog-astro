@@ -1,7 +1,7 @@
 ---
 title: "Unfolding Oil Spill Disaster at Solomon Islands Marine Reserve"
 date: 2019-03-03T18:22:33
-slug: unfolding-oil-spill-disaster-at-solomon-islands-marine-reserve
+slug: "unfolding-oil-spill-disaster-at-solomon-islands-marine-reserve"
 excerpt: "Almost a month ago, the bulk carrier Solomon Trader was driven onto a reef on Rennell Island in the Solomon Islands by Cyclone Oma. Since then the 74,000 DWT ship has been leaking oil which threatens to destroy a world … Continue reading &rarr;"
 categories:
   - "Current"

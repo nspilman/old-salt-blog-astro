@@ -1,7 +1,7 @@
 ---
 title: "Update: SS United States Docking Dispute in Philadelphia Heads to Mediation"
 date: 2024-09-15T20:17:10
-slug: update-ss-united-states-docking-dispute-in-philadelphia-heads-to-mediation
+slug: "update-ss-united-states-docking-dispute-in-philadelphia-heads-to-mediation"
 excerpt: "We recently posted about a tentative deal to sell the historic ocean liner SS United States to be sunk to create the world’s largest artificial reef, off the coast of Destin-Fort Walton Beach, FL in the Gulf of Mexico.  That deal is … Continue reading &rarr;"
 categories:
   - "Current"

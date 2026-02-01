@@ -1,7 +1,7 @@
 ---
 title: "John Paul Jones and the Bonhomme Richard, 230 years ago today"
 date: 2009-09-23T08:04:17
-slug: john-paul-jones-and-the-bonhomme-richard-230-years-ago-today
+slug: "john-paul-jones-and-the-bonhomme-richard-230-years-ago-today"
 excerpt: "I have always been a John Paul Jones sceptic.   Was he a great naval leader or merely a prima dona?  Was he so difficult a personality that he was never an effective leader?   He was at the very least a … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Russians Re-establishing Cold War Naval Base at Balaklava"
 date: 2022-11-01T10:28:34
-slug: russians-re-establishing-cold-war-naval-base-at-balaklava
+slug: "russians-re-establishing-cold-war-naval-base-at-balaklava"
 excerpt: "Analysis by H I Sutton, writing in NavalNews.com, suggests that the Russian Navy is re-establishing a base at Balaklava, a small inlet 5 miles south of Sevastopol that was the site of a major naval base during the Cold War. … Continue reading &rarr;"
 categories:
   - "Current"

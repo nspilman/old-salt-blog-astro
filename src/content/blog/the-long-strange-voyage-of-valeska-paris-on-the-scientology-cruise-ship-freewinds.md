@@ -1,14 +1,14 @@
 ---
-title: "The Long Strange Voyage of Valeska Paris on the Scientology “Cruise Ship” Freewinds"
+title: "The Long Strange Voyage of Valeska Paris on the Scientology \"Cruise Ship\" Freewinds"
 date: 2011-12-03T10:39:17
-slug: the-long-strange-voyage-of-valeska-paris-on-the-scientology-cruise-ship-freewinds
-excerpt: "Valeska Paris recently appeared on the Australian television program “Lateline”  where she charged that she was held for twelve years against her will on the cruise ship MV Freewinds, a ship operated by the Church of Scientology. The ship, the … Continue reading &rarr;"
+slug: "the-long-strange-voyage-of-valeska-paris-on-the-scientology-cruise-ship-freewinds"
+excerpt: "Valeska Paris recently appeared on the Australian television program \"Lateline\"  where she charged that she was held for twelve years against her will on the cruise ship MV Freewinds, a ship operated by the Church of Scientology. The ship, the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 author: "Rick Spilman"
-description: "Valeska Paris recently appeared on the Australian television program “Lateline”  where she charged that she was held for twelve years against her will on the cruise ship MV Freewinds, a ship operated by the Church of Scientology. The ship, the … Continue reading &rarr;"
+description: "Valeska Paris recently appeared on the Australian television program \"Lateline\"  where she charged that she was held for twelve years against her will on the cruise ship MV Freewinds, a ship operated by the Church of Scientology. The ship, the … Continue reading &rarr;"
 ---
 
 Valeska Paris recently appeared on the [Australian television program “Lateline”](http://blogs.villagevoice.com/runninscared/2011/11/valeska_paris_scientology_freewinds.php)  where she charged that she was held for twelve years against her will on the cruise ship [MV *Freewinds*](http://en.wikipedia.org/wiki/Freewinds), a ship operated by the Church of Scientology. The ship, the ex- MS *Bohème* for Wallenius Lines, is used as a training and recreational center by the church.  The church denies all charges.  [Scientology](http://en.wikipedia.org/wiki/Scientology) is a religion created by L. Ron Hubbard, a science fiction writer, in the early 1950s.

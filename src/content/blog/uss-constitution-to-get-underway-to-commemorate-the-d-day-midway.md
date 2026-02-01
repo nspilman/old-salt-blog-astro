@@ -1,8 +1,8 @@
 ---
 title: "USS Constitution to Get Underway to Commemorate the D-Day & Midway"
 date: 2014-06-05T12:42:50
-slug: uss-constitution-to-get-underway-to-commemorate-the-d-day-midway
-excerpt: "The USS Constitution is the oldest commissioned naval warship afloat. The wooden three masted “super-frigate” in launched in 1797, is due for a three year overhaul and dry-docking starting in early 2015.  Before the historic ship enters the shipyard, she will leave the … Continue reading &rarr;"
+slug: "uss-constitution-to-get-underway-to-commemorate-the-d-day-midway"
+excerpt: "The USS Constitution is the oldest commissioned naval warship afloat. The wooden three masted \"super-frigate\" in launched in 1797, is due for a three year overhaul and dry-docking starting in early 2015.  Before the historic ship enters the shipyard, she will leave the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "D-Day"
   - "USS Constitution"
 author: "Rick Spilman"
-description: "The USS Constitution is the oldest commissioned naval warship afloat. The wooden three masted “super-frigate” in launched in 1797, is due for a three year overhaul and dry-docking starting in early 2015.  Before the historic ship enters the shipyard, she will leave the … Continue reading &rarr;"
+description: "The USS Constitution is the oldest commissioned naval warship afloat. The wooden three masted \"super-frigate\" in launched in 1797, is due for a three year overhaul and dry-docking starting in early 2015.  Before the historic ship enters the shipyard, she will leave the … Continue reading &rarr;"
 ---
 
 The [USS ![uss-constitution1](http://www.oldsaltblog.com/wp-content/uploads/2011/10/uss-constitution1.jpg)*Constitution*](http://www.history.navy.mil/ussconstitution/index.html) is the oldest commissioned naval warship afloat. The wooden three masted “super-frigate” in launched in 1797, is due for a three year overhaul and dry-docking starting in early 2015.  Before the historic ship enters the shipyard, she will leave the dock for five short cruises in Boston harbor this summer. The first cruise, or as the Navy puts it, an “underway demonstration” is tomorrow, June 6, to commemorate the 70th anniversary of [D-Day](http://www.army.mil/d-day/) and the 72nd anniversary of the [Battle of Midway](http://en.wikipedia.org/wiki/Battle_of_Midway).

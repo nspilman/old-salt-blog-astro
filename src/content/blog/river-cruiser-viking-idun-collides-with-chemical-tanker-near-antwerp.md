@@ -1,7 +1,7 @@
 ---
 title: "River Cruiser Viking Idun Collides with Chemical Tanker Near Antwerp"
 date: 2019-04-02T15:55:12
-slug: river-cruiser-viking-idun-collides-with-chemical-tanker-near-antwerp
+slug: "river-cruiser-viking-idun-collides-with-chemical-tanker-near-antwerp"
 excerpt: "Just after Midnight, on April 1, the river cruiser Viking Idun collided with a laden chemical tanker, Chemical Marketer, in the Netherlands’ Western Scheldt. The river cruise ship was sailing from the port of Antwerp to Ghent while the tanker … Continue reading &rarr;"
 categories:
   - "Current"

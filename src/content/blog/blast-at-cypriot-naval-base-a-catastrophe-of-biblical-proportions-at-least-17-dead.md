@@ -1,7 +1,7 @@
 ---
-title: "Blast at Cypriot Naval Base a “Catastrophe of Biblical Proportions” – at Least 17 Dead"
+title: "Blast at Cypriot Naval Base a \"Catastrophe of Biblical Proportions\" – at Least 17 Dead"
 date: 2011-07-11T09:05:03
-slug: blast-at-cypriot-naval-base-a-catastrophe-of-biblical-proportions-at-least-17-dead
+slug: "blast-at-cypriot-naval-base-a-catastrophe-of-biblical-proportions-at-least-17-dead"
 excerpt: "This morning, an explosion at a munitions dump at the Evangelos Florakis naval base on the southern coast of Cyprus has killed at least 17 and injured over 40.  The explosion knocked out the island’s largest power station at Vassilik and did significant … Continue reading &rarr;"
 categories:
   - "Current"

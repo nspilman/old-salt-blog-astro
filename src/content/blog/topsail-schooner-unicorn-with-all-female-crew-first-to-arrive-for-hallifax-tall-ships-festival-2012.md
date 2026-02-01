@@ -1,7 +1,7 @@
 ---
 title: "Topsail Schooner Unicorn with All Female Crew First to Arrive for Halifax Tall Ships Festival 2012"
 date: 2012-07-18T10:53:42
-slug: topsail-schooner-unicorn-with-all-female-crew-first-to-arrive-for-hallifax-tall-ships-festival-2012
+slug: "topsail-schooner-unicorn-with-all-female-crew-first-to-arrive-for-hallifax-tall-ships-festival-2012"
 excerpt: "On a fog-shrouded Tuesday, the schooner Unicorn was the first to arrive in Halifax for their Tall Ships Festival. In addition to being a lovely topsail schooner, the Unicorn is the only tall ship sailing in the world with an … Continue reading &rarr;"
 categories:
   - "Current"

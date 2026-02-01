@@ -1,7 +1,7 @@
 ---
 title: "The USNS Mission Santa Ynez, the Last T2 Tanker, Heading for the Scrap Yard"
 date: 2010-04-12T15:04:01
-slug: the-usns-mission-santa-ynez-the-last-t2-tanker-heading-for-the-scrap-yard
+slug: "the-usns-mission-santa-ynez-the-last-t2-tanker-heading-for-the-scrap-yard"
 excerpt: "They were the largest Navy oilers of their day and nearly 500 of them were built between 1940 and 1945.  Now the last T2 tanker, the USNS Mission Santa Ynez, is soon to be on her way from San Fransisco to a scrapyard in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

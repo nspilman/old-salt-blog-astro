@@ -1,7 +1,7 @@
 ---
 title: "Carnival Blames Passengers for Costa Concordia Damages?"
 date: 2013-01-15T13:04:52
-slug: carnival-blames-passengers-for-costa-concordia-damages
+slug: "carnival-blames-passengers-for-costa-concordia-damages"
 excerpt: "If the reporting is accurate, this doesn’t seem like the argument that Carnival should be making. Passengers ‘blamed’ for Concordia damages Costa Cruises parent company Carnival is said to have blamed passengers, at least in part, for the damages they … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Frigate Surprise: The Complete Story of the Ship Made Famous in the Novels of Patrick O’Brian, by Brian Lavery"
 date: 2009-05-08T17:30:56
-slug: the-frigate-surprise-the-complete-story-of-the-ship-made-famous-in-the-novels-of-patrick-obrian-by-brian-lavery
+slug: "the-frigate-surprise-the-complete-story-of-the-ship-made-famous-in-the-novels-of-patrick-obrian-by-brian-lavery"
 excerpt: "In his Aubrey/Maturin series, Patrick O’Brian wrote of HMS Surprise, a small British frigate, originally captured from the French. Over several books, the Surprise became almost as beloved a character, in her own way, as Jack Aubrey and Doctor Maturin … Continue reading &rarr;"
 categories:
   - "Newbooks"

@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ships vs Gondolas — the Continuing Battle of Venice Lagoon"
 date: 2016-09-27T15:45:48
-slug: cruise-ships-vs-gondolas-continuing-battle-venice-lagoon
+slug: "cruise-ships-vs-gondolas-continuing-battle-venice-lagoon"
 excerpt: "Over the weekend, protesters, in a flotilla of small boats, including Venetian gondolas, attempted to block the passage of cruise ships, including one owned by Thomson, through the Venice lagoon.  The battle between local residents and environmentalists and the cruise industry … Continue reading &rarr;"
 categories:
   - "Current"

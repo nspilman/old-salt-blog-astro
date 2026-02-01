@@ -1,7 +1,7 @@
 ---
-title: "“Don’t Give Up the Ship” – Thoughts on Sloganeering"
+title: "\"Don’t Give Up the Ship\" – Thoughts on Sloganeering"
 date: 2011-06-01T13:06:47
-slug: dont-give-up-the-ship-thoughts-on-sloganeering
+slug: "dont-give-up-the-ship-thoughts-on-sloganeering"
 excerpt: "On June 1, 1813, one hundred and ninety eight years ago today, the British frigate HMS Shannon defeated and captured the USS Chesapeake in single ship combat. Captain James  Lawrence on the Chesapeake was mortally wounded during the battle. His … Continue reading &rarr;"
 categories:
   - "History"

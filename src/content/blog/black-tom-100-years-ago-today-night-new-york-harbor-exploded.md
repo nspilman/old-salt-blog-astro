@@ -1,7 +1,7 @@
 ---
 title: "Black Tom — 100 Years Ago Today, the Night New York Harbor Exploded"
 date: 2016-07-30T15:15:58
-slug: black-tom-100-years-ago-today-night-new-york-harbor-exploded
+slug: "black-tom-100-years-ago-today-night-new-york-harbor-exploded"
 excerpt: "At around 2 a.m. on the Sunday morning of July 30, 1916, one hundred years ago today, explosions on Black Tom Island rocked New York harbor. The blasts lit the night sky and shook the earth with the force of … Continue reading &rarr;"
 categories:
   - "History"

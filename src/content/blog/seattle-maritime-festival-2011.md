@@ -1,7 +1,7 @@
 ---
 title: "Seattle Maritime Festival 2011"
 date: 2011-05-11T08:50:18
-slug: seattle-maritime-festival-2011
+slug: "seattle-maritime-festival-2011"
 excerpt: "The Seattle Maritime Festival starts tomorrow and runs through Saturday, featuring the world’s largest tug boat race, National Fisherman’s Eleventh Annual Stories of the Sea Fisher Poetry Slam, World Invitational Survival Suit Races, Pacific Maritime Magazine Quick & Dirty Boatbuilding Competition, and the Fourteenth Annual … Continue reading &rarr;"
 categories:
   - "Current"

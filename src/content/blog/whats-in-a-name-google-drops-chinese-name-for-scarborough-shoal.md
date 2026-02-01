@@ -1,7 +1,7 @@
 ---
 title: "What’s in a Name? Google Drops Chinese Name for Scarborough Shoal"
 date: 2015-07-19T11:23:09
-slug: whats-in-a-name-google-drops-chinese-name-for-scarborough-shoal
+slug: "whats-in-a-name-google-drops-chinese-name-for-scarborough-shoal"
 excerpt: "What’s in a name? Google has renamed a shoal located between the Macclesfield Bank and Luzon island in the South China Sea on their maps as Scarborough Shoal.  They had previously identified the hazard to navigation by its Chinese name, … Continue reading &rarr;"
 categories:
   - "Current"

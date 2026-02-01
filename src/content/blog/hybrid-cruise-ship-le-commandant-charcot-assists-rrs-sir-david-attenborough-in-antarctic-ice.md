@@ -1,7 +1,7 @@
 ---
 title: "Hybrid Cruise Ship Le Commandant Charcot Assists RRS Sir David Attenborough in Antarctic Ice"
 date: 2022-02-16T18:56:53
-slug: hybrid-cruise-ship-le-commandant-charcot-assists-rrs-sir-david-attenborough-in-antarctic-ice
+slug: "hybrid-cruise-ship-le-commandant-charcot-assists-rrs-sir-david-attenborough-in-antarctic-ice"
 excerpt: "Britain’s new polar expedition ship, the RRS Sir David Attenborough, encountered particularly difficult sea ice conditions during a resupply mission as part of the research ship’s first polar expedition. It was assisted in its attempt to deliver the supplies to support … Continue reading &rarr;"
 categories:
   - "Current"

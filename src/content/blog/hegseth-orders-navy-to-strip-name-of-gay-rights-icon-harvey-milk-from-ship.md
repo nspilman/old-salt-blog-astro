@@ -1,7 +1,7 @@
 ---
 title: "Hegseth Orders Navy to Strip Name of Gay Rights Icon Harvey Milk from Ship"
 date: 2025-06-08T17:57:01
-slug: hegseth-orders-navy-to-strip-name-of-gay-rights-icon-harvey-milk-from-ship
+slug: "hegseth-orders-navy-to-strip-name-of-gay-rights-icon-harvey-milk-from-ship"
 excerpt: "Secretary of Defense Pete Hegseth has ordered the Navy to take the rare step of renaming the USNS Harvey Milk, an underway replenishment oiler, named after the late gay rights leader. The Pentagon is also reviewing changing the names of … Continue reading &rarr;"
 categories:
   - "Current"

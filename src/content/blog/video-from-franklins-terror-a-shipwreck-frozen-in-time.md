@@ -1,7 +1,7 @@
 ---
 title: "Video from Franklin’s Terror — A Shipwreck Frozen in Time"
 date: 2019-08-29T17:05:52
-slug: video-from-franklins-terror-a-shipwreck-frozen-in-time
+slug: "video-from-franklins-terror-a-shipwreck-frozen-in-time"
 excerpt: "Recent video of the extremely well-preserved wreck of Franklin’s ship Terror may shed new light on the many mysteries of Franklin’s lost expedition.  In 1845, Captain Sir John Franklin departed England in command of two specially outfitted ships, Erebus and … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Dazzle Ships, Then and Now"
 date: 2014-07-01T09:58:48
-slug: the-dazzle-ships-then-and-now
+slug: "the-dazzle-ships-then-and-now"
 excerpt: "We posted earlier today about the USS Slater’s dazzle camouflage paint.  Dazzle, sometimes referred to as razzle dazzle, is a very different approach to camouflage.  Where most camouflage attempts to hide an object or person, dazzle camouflage on ships uses … Continue reading &rarr;"
 categories:
   - "Current"

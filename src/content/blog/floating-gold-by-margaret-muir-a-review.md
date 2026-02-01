@@ -1,7 +1,7 @@
 ---
 title: "Floating Gold by Margaret Muir – a Review"
 date: 2010-05-27T09:27:22
-slug: floating-gold-by-margaret-muir-a-review
+slug: "floating-gold-by-margaret-muir-a-review"
 excerpt: "Margaret Muir’s new novel, Floating Gold, is a wonderful blend of classic Georgian naval fiction, a mystery/thriller and a grand treasure hunt.   A rousing tale, well told. It is due to be released in the United States on May … Continue reading &rarr;"
 categories:
   - "Newbooks"

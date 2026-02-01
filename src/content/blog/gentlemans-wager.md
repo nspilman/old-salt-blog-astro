@@ -1,7 +1,7 @@
 ---
 title: "Gentleman’s Wager"
 date: 2015-07-08T19:14:29
-slug: gentlemans-wager
+slug: "gentlemans-wager"
 excerpt: "This is only marginally nautical, although it does begin and end on a beautiful sailboat. Mostly is it merely silly and yet it is kind of fun. A bit of over-the-top marketing for Johnny Walker Blue, it is a short … Continue reading &rarr;"
 categories:
   - "Current"

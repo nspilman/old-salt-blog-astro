@@ -1,7 +1,7 @@
 ---
 title: "Pride of Baltimore II Boston to NYC: Setting Sail on a Tallship"
 date: 2014-09-22T15:30:35
-slug: pride-ii-boston-to-nyc-setting-sail-on-a-tallship
+slug: "pride-ii-boston-to-nyc-setting-sail-on-a-tallship"
 excerpt: "A great video to start the week by Gale Browning aboard the Pride of Baltimore II . The Pride of Baltimore II is a replica of an 1812-era Baltimore Clipper topsail schooner built in 1988 in Baltimore harbor to be a … Continue reading &rarr;"
 categories:
   - "Current"

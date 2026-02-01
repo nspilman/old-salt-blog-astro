@@ -1,7 +1,7 @@
 ---
 title: "Urgent Repairs Needed to Queen Mary, Potential Flooding & Capsize Risk"
 date: 2021-06-09T11:46:19
-slug: urgent-repairs-needed-to-queen-mary-potential-flooding-capsize-risk
+slug: "urgent-repairs-needed-to-queen-mary-potential-flooding-capsize-risk"
 excerpt: "The ex-Cunard luxury liner Queen Mary, which had served as a tourist attraction and hotel in Long Beach, CA since 1972, was shut down by the pandemic. Then in January, the manager of the ship on behalf of the City … Continue reading &rarr;"
 categories:
   - "Current"

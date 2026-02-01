@@ -1,7 +1,7 @@
 ---
 title: "Viking and Princess Temporarily Suspend Cruise Operations"
 date: 2020-03-12T13:52:23
-slug: viking-and-princess-temporarily-suspend-cruise-operations
+slug: "viking-and-princess-temporarily-suspend-cruise-operations"
 excerpt: "Viking Cruises announced that it is suspending operations of all ocean and river cruises until May 1. Viking operates over 70 river and cruise vessels, including 16 ocean-going cruise ships. A short time later, Princess Cruises announced that it was … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

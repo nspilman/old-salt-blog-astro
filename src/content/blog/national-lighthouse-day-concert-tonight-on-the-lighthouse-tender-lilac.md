@@ -1,7 +1,7 @@
 ---
 title: "National Lighthouse Day Concert Tonight on the Lighthouse Tender Lilac"
 date: 2019-08-07T12:23:07
-slug: national-lighthouse-day-concert-tonight-on-the-lighthouse-tender-lilac
+slug: "national-lighthouse-day-concert-tonight-on-the-lighthouse-tender-lilac"
 excerpt: "If you are in New York City this evening, head over to Pier 25 on the Hudson River to the historic lighthouse tender the ex-USCGC Lilac for a free concert in honor of National Lighthouse Day.  The concert, from 6:00 … Continue reading &rarr;"
 categories:
   - "Current"

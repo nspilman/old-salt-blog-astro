@@ -1,7 +1,7 @@
 ---
 title: "Flying Dutchman Ghost Ship — Sailing on Water & Light"
 date: 2015-04-12T07:30:55
-slug: flying-dutchman-ghost-ship-sailing-on-water-light
+slug: "flying-dutchman-ghost-ship-sailing-on-water-light"
 excerpt: "What should a ghost ship be made of? Why not water, wind and light? That is precisely what the designers at the Romanian Art collective Visual Skin used to create the Flying Dutchman, a glowing ghost ship anchored in front … Continue reading &rarr;"
 categories:
   - "Current"

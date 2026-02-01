@@ -1,8 +1,8 @@
 ---
 title: "Queen Elizabeth 2 Opens as Floating Hotel in Dubai, At Last, Really"
 date: 2018-05-16T19:16:54
-slug: queen-elizabeth-2-opens-as-floating-hotel-in-dubai-at-last-really
-excerpt: "After almost a decade, the Queen Elizabeth 2 has finally opened as a luxury hotel in Dubai. There was a “soft opening” in the middle of April and the hotel will have its formal opening around October of this year. So far seven of … Continue reading &rarr;"
+slug: "queen-elizabeth-2-opens-as-floating-hotel-in-dubai-at-last-really"
+excerpt: "After almost a decade, the Queen Elizabeth 2 has finally opened as a luxury hotel in Dubai. There was a \"soft opening\" in the middle of April and the hotel will have its formal opening around October of this year. So far seven of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "QE2"
   - "Queen Elizabeth 2"
 author: "Rick Spilman"
-description: "After almost a decade, the Queen Elizabeth 2 has finally opened as a luxury hotel in Dubai. There was a “soft opening” in the middle of April and the hotel will have its formal opening around October of this year. So far seven of … Continue reading &rarr;"
+description: "After almost a decade, the Queen Elizabeth 2 has finally opened as a luxury hotel in Dubai. There was a \"soft opening\" in the middle of April and the hotel will have its formal opening around October of this year. So far seven of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/05/qu2dubai.jpg)After almost a decade, the [*Queen Elizabeth 2*](https://en.wikipedia.org/wiki/Queen_Elizabeth_2) has finally opened as a [luxury hotel in Dubai](https://www.qe2.com/hotel). There was a “soft opening” in the middle of April and the hotel will have its formal opening around October of this year. So far seven of the ship’s 13 decks are open for business with 224 cabins available. When fully completed, the ship will have an estimated 600-800 rooms. It has been a long and difficult journey for the grand old ocean liner and cruise ship. 

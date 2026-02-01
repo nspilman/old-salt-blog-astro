@@ -1,7 +1,7 @@
 ---
 title: "Keels Falling Off  — How Many More Sailors Will Die?"
 date: 2017-07-06T15:35:11
-slug: keels-falling-off-many-sailors-will-die
+slug: "keels-falling-off-many-sailors-will-die"
 excerpt: "We posted yesterday about the death of Dutch yacht designer Frans Maas and two of his crew when the fin keel broke off from Capella, a boat he designed and owned. The boat capsized without warning and the three sailors … Continue reading &rarr;"
 categories:
   - "Current"

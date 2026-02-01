@@ -1,7 +1,7 @@
 ---
-title: "Iran Converting Two Panamax Container Ships to “Drone Carriers”"
+title: "Iran Converting Two Panamax Container Ships to \"Drone Carriers\""
 date: 2023-01-06T18:32:51
-slug: iran-converting-two-panamax-container-ships-to-drone-carriers
+slug: "iran-converting-two-panamax-container-ships-to-drone-carriers"
 excerpt: "In 1982 during the Falklands conflict, the Royal Navy commandeered two British container ships and converted them into impromptu carriers carrying Harrier jump jets and Harrier helicopters. Now over 40 years later, the Iranian Islamic Revolutionary Guard is reported to … Continue reading &rarr;"
 categories:
   - "Current"

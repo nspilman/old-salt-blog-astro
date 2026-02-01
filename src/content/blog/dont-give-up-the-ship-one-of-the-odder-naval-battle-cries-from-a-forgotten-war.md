@@ -1,7 +1,7 @@
 ---
-title: "“Don’t Give Up the Ship” – One of the Odder Naval Battle Cries From a Forgotten War"
+title: "\"Don’t Give Up the Ship\" – One of the Odder Naval Battle Cries From a Forgotten War"
 date: 2011-10-13T18:53:42
-slug: dont-give-up-the-ship-one-of-the-odder-naval-battle-cries-from-a-forgotten-war
+slug: "dont-give-up-the-ship-one-of-the-odder-naval-battle-cries-from-a-forgotten-war"
 excerpt: "We are rapidly approaching the bi-centennial of the War of 1812, a largely forgotten conflict which was, in many respects, a continuation of the American War of Independence from Great Britain. The war was characterized by American incompetence and bumbling … Continue reading &rarr;"
 categories:
   - "History"

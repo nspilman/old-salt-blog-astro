@@ -1,7 +1,7 @@
 ---
 title: "Another Naval Tradition Bites the Dust – No More Obelisk Climbing"
 date: 2010-05-31T09:21:59
-slug: another-naval-tradition-bites-the-dust-no-more-obelisk-climbing
+slug: "another-naval-tradition-bites-the-dust-no-more-obelisk-climbing"
 excerpt: "What make this story interesting are not the facts but the reaction to them.   A sixty year tradition of Naval Academy plebes climbing a greased obelisk at the end of their first year is coming to an end.   So … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Corpus Christi’s Replica of Columbus’ Niña Sunk by Hurricane Harvey"
 date: 2017-08-31T09:05:39
-slug: corpus-christis-replica-columbus-nina-sunk-hurricane-harvey
+slug: "corpus-christis-replica-columbus-nina-sunk-hurricane-harvey"
 excerpt: "The last of Corpus Christi’s Columbus replica ships has sunk. In 1992, the quincentenary of Columbus’ first voyage, replicas of his ships; the Niña, Pinta and the Santa Maria; arrived in Corpus Christi, Texas after sailing from Spain and touring the US … Continue reading &rarr;"
 categories:
   - "Current"

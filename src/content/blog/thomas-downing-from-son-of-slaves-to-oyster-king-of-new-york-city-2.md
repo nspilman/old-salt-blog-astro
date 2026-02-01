@@ -1,7 +1,7 @@
 ---
 title: "Thomas Downing, From Son of Slaves to Oyster King of New York City"
 date: 2024-02-23T20:41:24
-slug: thomas-downing-from-son-of-slaves-to-oyster-king-of-new-york-city-2
+slug: "thomas-downing-from-son-of-slaves-to-oyster-king-of-new-york-city-2"
 excerpt: "In the decades before the Civil War, Thomas Downing, the son of slaves, became the acknowledged oyster king of New York City when New York was the oyster capital of the known universe.  He had learned how to rake oysters … Continue reading &rarr;"
 categories:
   - "History"

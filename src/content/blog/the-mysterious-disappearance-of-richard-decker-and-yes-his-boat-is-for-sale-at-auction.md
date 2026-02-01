@@ -1,8 +1,8 @@
 ---
 title: "The Mysterious Disappearance of Richard Decker, and Yes, His Boat is for Sale at Auction"
 date: 2013-05-17T12:56:04
-slug: the-mysterious-disappearance-of-richard-decker-and-yes-his-boat-is-for-sale-at-auction
-excerpt: "All the reporting on this story talks about a “ghost ship” for sale by auction in Newburyport, MA.  “Newburyport ‘ghost ship’ on the block,” is pretty typical.  The “ship” in question is, in fact, an Endeavour 37 sailboat, a bit small to be … Continue reading &rarr;"
+slug: "the-mysterious-disappearance-of-richard-decker-and-yes-his-boat-is-for-sale-at-auction"
+excerpt: "All the reporting on this story talks about a \"ghost ship\" for sale by auction in Newburyport, MA.  \"Newburyport ‘ghost ship’ on the block,\" is pretty typical.  The \"ship\" in question is, in fact, an Endeavour 37 sailboat, a bit small to be … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "Newburyport"
   - "Richard Decker"
 author: "Rick Spilman"
-description: "All the reporting on this story talks about a “ghost ship” for sale by auction in Newburyport, MA.  “Newburyport ‘ghost ship’ on the block,” is pretty typical.  The “ship” in question is, in fact, an Endeavour 37 sailboat, a bit small to be … Continue reading &rarr;"
+description: "All the reporting on this story talks about a \"ghost ship\" for sale by auction in Newburyport, MA.  \"Newburyport ‘ghost ship’ on the block,\" is pretty typical.  The \"ship\" in question is, in fact, an Endeavour 37 sailboat, a bit small to be … Continue reading &rarr;"
 ---
 
 ![end37](http://www.oldsaltblog.com/wp-content/uploads/2013/05/end37.jpg)All the reporting on this story talks about a “ghost ship” for sale by auction in Newburyport, MA.  [“Newburyport ‘ghost ship’ on the block,](http://www.gloucestertimes.com/local/x326080274/Newburyport-ghost-ship-on-the-block)” is pretty typical.  The “ship” in question is, in fact, an Endeavour 37 sailboat, a bit small to be termed a ship.  No one is thought to have died on board the boat and there are no report of a haunting of the vessel, though a presumed death is the cause of the boat’s sale.  The most interesting part of the story may be the disappearance and presumed drowning of the sailboat’s owner, Richard Decker.

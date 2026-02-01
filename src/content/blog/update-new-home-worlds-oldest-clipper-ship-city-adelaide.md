@@ -1,8 +1,8 @@
 ---
 title: "Update: New Home for World’s Oldest Clipper Ship, City of Adelaide"
 date: 2017-04-06T10:41:47
-slug: update-new-home-worlds-oldest-clipper-ship-city-adelaide
-excerpt: "At the end of January, we posted Clipper Ship City of Adelaide Still Not Quite Home, where we noted: “The ship is sitting on a deck barge as a “temporary” accommodation at Port Adelaide’s Dock 1, with no permanent dock space … Continue reading &rarr;"
+slug: "update-new-home-worlds-oldest-clipper-ship-city-adelaide"
+excerpt: "At the end of January, we posted Clipper Ship City of Adelaide Still Not Quite Home, where we noted: \"The ship is sitting on a deck barge as a \"temporary\" accommodation at Port Adelaide’s Dock 1, with no permanent dock space … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Port Adelaide"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/01/coa200.jpg"
 author: "Rick Spilman"
-description: "At the end of January, we posted Clipper Ship City of Adelaide Still Not Quite Home, where we noted: “The ship is sitting on a deck barge as a “temporary” accommodation at Port Adelaide’s Dock 1, with no permanent dock space … Continue reading &rarr;"
+description: "At the end of January, we posted Clipper Ship City of Adelaide Still Not Quite Home, where we noted: \"The ship is sitting on a deck barge as a \"temporary\" accommodation at Port Adelaide’s Dock 1, with no permanent dock space … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/01/coa200.jpg)At the end of January, we posted [Clipper Ship *City of Adelaide* Still Not Quite Home](http://www.oldsaltblog.com/wp-admin/post.php?post=45338&action=edit), where we noted: “*The ship is sitting on a deck barge as a “temporary” accommodation at Port Adelaide’s Dock 1, with no permanent dock space yet in sight. The State Government’s commitment to provide a permanent location for the largely privately funded project remains unfulfilled.*”

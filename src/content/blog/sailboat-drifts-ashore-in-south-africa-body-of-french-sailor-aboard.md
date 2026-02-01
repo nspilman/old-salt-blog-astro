@@ -1,7 +1,7 @@
 ---
 title: "Sailboat Drifts Ashore in South Africa, Body of French Sailor Aboard"
 date: 2018-12-16T12:20:27
-slug: sailboat-drifts-ashore-in-south-africa-body-of-french-sailor-aboard
+slug: "sailboat-drifts-ashore-in-south-africa-body-of-french-sailor-aboard"
 excerpt: "A sailboat drifted ashore on a Southbroom beach on the KwaZulu-Natal lower south coast of South Africa on Saturday. The body of a French sailor was found aboard. The yacht, originally from Papua New Guinea, had left Port Elizabeth a … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

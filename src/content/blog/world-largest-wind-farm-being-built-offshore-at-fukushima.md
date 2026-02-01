@@ -1,7 +1,7 @@
 ---
 title: "World Largest Wind Farm Being Built Offshore at Fukushima"
 date: 2013-02-01T09:51:17
-slug: world-largest-wind-farm-being-built-offshore-at-fukushima
+slug: "world-largest-wind-farm-being-built-offshore-at-fukushima"
 excerpt: "New energy is coming to Fukushima, the region in Japan best known for a nuclear disaster following the Tōhoku earthquake and tsunami of 11 March 2011. The nuclear meltdown at the Fukushima Daiichi was largest nuclear disaster since the Chernobyl … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Wind Farm in New York Harbor?"
 date: 2010-05-19T14:54:33
-slug: wind-farm-in-new-york-harbor
+slug: "wind-farm-in-new-york-harbor"
 excerpt: "Port Authority Plans to Build Wind Farm The Port Authority is planning on creating a wind farm on one of its shipping piers in New Jersey. The five windmills would help power the port’s cargo operations. A private company would … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Tough Times for Tugs – Three Recent Casualties"
 date: 2014-01-16T10:49:26
-slug: tough-times-for-tugs-three-recent-casualties
+slug: "tough-times-for-tugs-three-recent-casualties"
 excerpt: "Life on a tugboat can be tough.  Tugs are small vessels with very big engines, with just enough buoyancy to stay afloat and upright. They generate great forces and move around vessels much, much larger than themselves in often challenging … Continue reading &rarr;"
 categories:
   - "Current"

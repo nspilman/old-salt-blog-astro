@@ -1,7 +1,7 @@
 ---
 title: "Celebrity Silhouette: Traveling Backwards Down the River Ems"
 date: 2011-07-16T08:52:22
-slug: celebrity-silhouette-traveling-backwards-down-the-river-ems
+slug: "celebrity-silhouette-traveling-backwards-down-the-river-ems"
 excerpt: "This is an interesting and perhaps an unintentionally amusing clip of the Celebrity Silhouette leaving the Meyer Werft Shipyard in Papenburg, Germany. The shipyard has just enough room to build the ship but not to turn her around, so she … Continue reading &rarr;"
 categories:
   - "Current"

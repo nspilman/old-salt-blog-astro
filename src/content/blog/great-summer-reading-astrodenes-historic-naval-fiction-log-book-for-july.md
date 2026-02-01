@@ -1,7 +1,7 @@
 ---
 title: "Great Summer Reading  – Astrodene’s Historic Naval Fiction Log Book for July"
 date: 2011-07-03T08:31:51
-slug: great-summer-reading-astrodenes-historic-naval-fiction-log-book-for-july
+slug: "great-summer-reading-astrodenes-historic-naval-fiction-log-book-for-july"
 excerpt: "A great line-up of Summer reading from Astrodene’s Nautical Log Book for July:   Newly  released  novels include Steven E. Maffeo’s, The Perfect Wreck – Old Ironsides and HMS Java: A Story of 1812, and Tom Grundner’s latest novel in the Sir … Continue reading &rarr;"
 categories:
   - "Newbooks"

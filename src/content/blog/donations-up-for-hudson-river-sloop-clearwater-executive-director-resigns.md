@@ -1,8 +1,8 @@
 ---
 title: "Donations Up for Hudson River Sloop Clearwater, Executive Director Resigns"
 date: 2016-02-05T14:35:23
-slug: donations-up-for-hudson-river-sloop-clearwater-executive-director-resigns
-excerpt: "We recently posted that the organization that operates the Hudson River sloop Clearwater was in serious financial trouble and had canceled its yearly music festival. The Poughkeepsie Journal reports that the executive director, Peter Gross, has resigned, citing “significant differences … Continue reading &rarr;"
+slug: "donations-up-for-hudson-river-sloop-clearwater-executive-director-resigns"
+excerpt: "We recently posted that the organization that operates the Hudson River sloop Clearwater was in serious financial trouble and had canceled its yearly music festival. The Poughkeepsie Journal reports that the executive director, Peter Gross, has resigned, citing \"significant differences … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Executive Director"
   - "Hudson river sloop"
 author: "Rick Spilman"
-description: "We recently posted that the organization that operates the Hudson River sloop Clearwater was in serious financial trouble and had canceled its yearly music festival. The Poughkeepsie Journal reports that the executive director, Peter Gross, has resigned, citing “significant differences … Continue reading &rarr;"
+description: "We recently posted that the organization that operates the Hudson River sloop Clearwater was in serious financial trouble and had canceled its yearly music festival. The Poughkeepsie Journal reports that the executive director, Peter Gross, has resigned, citing \"significant differences … Continue reading &rarr;"
 ---
 
 ![clearwatersilohette](http://www.oldsaltblog.com/wp-content/uploads/2016/02/clearwatersilohette.jpg)We [recently posted](http://www.oldsaltblog.com/2016/01/clearwater-in-deep-trouble-financially-cancels-summer-music-festival/) that the organization that operates the Hudson River sloop *[Clearwater](http://www.clearwater.org/the-sloop/)* was in serious financial trouble and had canceled its yearly music festival. The [Poughkeepsie Journal reports](http://www.poughkeepsiejournal.com/story/news/2016/01/27/clearwater-executive-director-resigns/79422026/) that the executive director, Peter Gross, has resigned, citing “significant differences between his and the organization’s vision to the path to building a stronger future for *Clearwater* and dealing with the organization’s long-standing financial and structural challenges.”

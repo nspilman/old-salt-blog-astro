@@ -1,7 +1,7 @@
 ---
-title: "Video on UN World Oceans Day — “Oceans Give, Oceans Take”: Their Role in Climate Change"
+title: "Video on UN World Oceans Day — \"Oceans Give, Oceans Take\": Their Role in Climate Change"
 date: 2022-06-08T14:24:46
-slug: video-on-un-world-oceans-day-oceans-give-oceans-take-their-role-in-climate-change
+slug: "video-on-un-world-oceans-day-oceans-give-oceans-take-their-role-in-climate-change"
 excerpt: "On the United Nations World Oceans Day, here is a very well-done, short video on the role of the oceans in climate change.  As greenhouse gases warm the Earth, our oceans play a significant role in absorbing heat that helps … Continue reading &rarr;"
 categories:
   - "Current"

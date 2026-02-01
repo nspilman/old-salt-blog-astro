@@ -1,7 +1,7 @@
 ---
 title: "Update: Debris From Missing Indonesian Submarine Located"
 date: 2021-04-24T07:39:15
-slug: update-debris-from-missing-indonesian-submarine-located
+slug: "update-debris-from-missing-indonesian-submarine-located"
 excerpt: "The Indonesia Navy announced that it has located debris from the missing submarine KRI Nanggala 402, indicating that the submarine sank with the loss of 53 crew.  API reports that military chief Hadi Tjahjanto said the presence of an oil … Continue reading &rarr;"
 categories:
   - "Current"

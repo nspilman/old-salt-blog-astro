@@ -1,7 +1,7 @@
 ---
 title: "Australian Michelle Lee the First Woman to Row the Pacific Ocean Solo, Unassisted & Non-Stop"
 date: 2023-04-05T16:37:11
-slug: australian-michelle-lee-the-first-woman-to-row-the-pacific-ocean-solo-unassisted-non-stop
+slug: "australian-michelle-lee-the-first-woman-to-row-the-pacific-ocean-solo-unassisted-non-stop"
 excerpt: "Australian Michelle Lee has become the first woman to row solo, unassisted, and non-stop across the Pacific Ocean.  On her epic 237-day, 14,000-kilometre journey from Ensenada, Mexico to  Port Douglas in Far North Queensland, Australia, she dodged five hurricanes and … Continue reading &rarr;"
 categories:
   - "Current"

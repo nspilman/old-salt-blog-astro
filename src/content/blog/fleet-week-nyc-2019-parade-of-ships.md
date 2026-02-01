@@ -1,7 +1,7 @@
 ---
 title: "Fleet Week NYC 2019, Parade of Ships"
 date: 2019-05-23T08:48:08
-slug: fleet-week-nyc-2019-parade-of-ships
+slug: "fleet-week-nyc-2019-parade-of-ships"
 excerpt: "Fleet Week 2019 Kicks Off in NYC With the Parade of Ships … Continue reading &rarr;"
 categories:
   - "City of Ships"

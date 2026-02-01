@@ -1,7 +1,7 @@
 ---
 title: "Natalia Molchanova — World’s Greatest Free Diver, Presumed Dead"
 date: 2015-08-05T09:21:43
-slug: natalia-molchanova-worlds-greatest-free-diver-presumed-dead
+slug: "natalia-molchanova-worlds-greatest-free-diver-presumed-dead"
 excerpt: "On Sunday, 53-year-old  Natalia Molchanova, a world record holder and arguably the greatest free diver that the world has ever seen, slipped below the surface on a practice dive off Ibiza. She did not surface again and is presumed dead. The … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Updates – USS Guardian Salvage Finally Underway, Shell 2013 Alaska Drilling Cancelled & Emma Mærsk in Repair Yard"
 date: 2013-03-01T09:26:36
-slug: updates-uss-guardian-salvage-finally-underway-emma-maersk-in-yard-and-no-2013-alaska-drilling-for-shell
+slug: "updates-uss-guardian-salvage-finally-underway-emma-maersk-in-yard-and-no-2013-alaska-drilling-for-shell"
 excerpt: "Three quick updates on recent posts – the salvage of the USS Guardian is finally underway, Shell Oil has cancelled plans for Alaskan arctic drilling for 2013 due to rig problems; and the Emma Mærsk has arrived at a shipyard for repairs after engine … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

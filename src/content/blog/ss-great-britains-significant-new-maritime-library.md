@@ -1,7 +1,7 @@
 ---
 title: "SS Great Britain’s ‘significant’ new maritime library"
 date: 2010-11-18T15:33:41
-slug: ss-great-britains-significant-new-maritime-library
+slug: "ss-great-britains-significant-new-maritime-library"
 excerpt: "A wonderful collection of more than 9,000 books and periodicals on ships and the sea has gone on display in a new library in Bristol. SS Great Britain’s ‘significant’ new maritime library The David MacGregor Library, named after a life-long supporter … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

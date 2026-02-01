@@ -1,7 +1,7 @@
 ---
 title: "US firm awarded $110m for salvaging Titanic artifacts"
 date: 2010-08-15T08:04:21
-slug: us-firm-awarded-110m-for-salvaging-titanic-artifacts
+slug: "us-firm-awarded-110m-for-salvaging-titanic-artifacts"
 excerpt: "In 1994, US Courts gave salvage rights to the RMS Titanic, 2.5 miles beneath the surface of the North Atlantic, to RMS Titanic Inc, a subsidiary of Premier Exhibitions Inc,  but explicitly did not grant ownership of the wreck or the … Continue reading &rarr;"
 categories:
   - "Current"

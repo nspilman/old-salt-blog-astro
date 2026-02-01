@@ -1,7 +1,7 @@
 ---
 title: "Last of the Flying P Liners Still Sailing, Russian Navy’s Kruzenshtern, Visiting 20 Ports in 11 Countries in 2013"
 date: 2012-12-29T09:25:20
-slug: last-of-the-flying-p-liner-still-sailing-russian-navys-kruzenshtern-visiting-20-ports-in-11-countries-in-2013
+slug: "last-of-the-flying-p-liner-still-sailing-russian-navys-kruzenshtern-visiting-20-ports-in-11-countries-in-2013"
 excerpt: "For a handful of ships, the great age of sail has not yet ended.  In 2013, the Russian Navy sail training ship Kruzenshtern will call in 20 seaports in 11 countries and will take part in several international regattas. The ship, originally built in … Continue reading &rarr;"
 categories:
   - "Current"

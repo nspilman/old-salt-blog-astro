@@ -1,7 +1,7 @@
 ---
 title: "Team New Zealand Wins America’s Cup Again"
 date: 2021-03-17T14:31:02
-slug: team-new-zealand-wins-americas-cup-again
+slug: "team-new-zealand-wins-americas-cup-again"
 excerpt: "Team New Zealand has won the America’s Cup again, defeating Luna Rossa, seven races to three, in the waters off Aukland, New Zealand. The victory was the second in a row for a syndicate representing the Royal New Zealand Yacht … Continue reading &rarr;"
 categories:
   - "Current"

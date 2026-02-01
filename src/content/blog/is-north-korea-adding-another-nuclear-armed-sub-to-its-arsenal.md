@@ -1,7 +1,7 @@
 ---
 title: "Is North Korea Adding a Nuclear-Armed Ballistic Sub to its Arsenal?"
 date: 2018-04-02T15:08:27
-slug: is-north-korea-adding-another-nuclear-armed-sub-to-its-arsenal
+slug: "is-north-korea-adding-another-nuclear-armed-sub-to-its-arsenal"
 excerpt: "As if things were not complicated enough, it appears that North Korea is building a second and more capable ballistic missile submarine. In addition to developing inter-continental range ballistic missiles launched from land, North Korea has for several years been … Continue reading &rarr;"
 categories:
   - "Current"

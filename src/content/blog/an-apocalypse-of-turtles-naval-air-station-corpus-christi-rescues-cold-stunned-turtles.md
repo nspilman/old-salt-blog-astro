@@ -1,7 +1,7 @@
 ---
-title: "“An Apocalypse of Turtles” — Naval Air Station Corpus Christi Rescues Cold-Stunned Turtles"
+title: "\"An Apocalypse of Turtles\" — Naval Air Station Corpus Christi Rescues Cold-Stunned Turtles"
 date: 2021-02-19T15:41:18
-slug: an-apocalypse-of-turtles-naval-air-station-corpus-christi-rescues-cold-stunned-turtles
+slug: "an-apocalypse-of-turtles-naval-air-station-corpus-christi-rescues-cold-stunned-turtles"
 excerpt: "As bitterly cold weather left millions without power in Texas, the extreme cold has also been a disaster for wildlife, including sea turtles. Thousands of green sea turtles in the water of Laguna Madre off Corpus Christi have become stunned … Continue reading &rarr;"
 categories:
   - "Current"

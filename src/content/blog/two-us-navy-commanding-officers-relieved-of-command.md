@@ -1,7 +1,7 @@
 ---
 title: "Two US Navy Commanding Officers Relieved of Command"
 date: 2010-08-18T12:57:40
-slug: two-us-navy-commanding-officers-relieved-of-command
+slug: "two-us-navy-commanding-officers-relieved-of-command"
 excerpt: "Two US Navy officers, in command of the USS Gunston Hall and USS Peleliu, were relieved of their commands within days of each other over charges related to  sexual harassment. Cmdr. Fred R. Wilhelm, the Commanding Officer of the amphibious dock landing ship USS Gunston … Continue reading &rarr;"
 categories:
   - "Current"

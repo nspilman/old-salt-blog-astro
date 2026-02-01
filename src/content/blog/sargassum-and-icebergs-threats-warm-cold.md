@@ -1,7 +1,7 @@
 ---
 title: "Sargassum and Icebergs — Threats Warm & Cold"
 date: 2023-03-16T10:14:20
-slug: sargassum-and-icebergs-threats-warm-cold
+slug: "sargassum-and-icebergs-threats-warm-cold"
 excerpt: "In recent years we have posted about the impact of massive mats of sargassum in the warmer waters of the Gulf of Mexico and the Atlantic. The brown buoyant seaweed has had a devastating impact on beaches across the east … Continue reading &rarr;"
 categories:
   - "Current"

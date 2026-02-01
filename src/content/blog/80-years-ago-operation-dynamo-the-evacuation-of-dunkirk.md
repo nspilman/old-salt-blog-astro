@@ -1,7 +1,7 @@
 ---
 title: "80 Years Ago — Operation Dynamo, the Evacuation of Dunkirk"
 date: 2020-05-26T16:03:02
-slug: 80-years-ago-operation-dynamo-the-evacuation-of-dunkirk
+slug: "80-years-ago-operation-dynamo-the-evacuation-of-dunkirk"
 excerpt: "Eighty years ago today, on May 26, 1940, Operation Dynamo, the evacuation of British and other Allied troops from the French port of Dunkirk, began. Following a Blitzkrieg attack by German forces in early May, the British Expeditionary Force (BEF), … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

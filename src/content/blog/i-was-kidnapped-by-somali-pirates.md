@@ -1,8 +1,8 @@
 ---
-title: "“I was kidnapped by Somali pirates”"
+title: "\"I was kidnapped by Somali pirates\""
 date: 2011-09-17T10:15:09
-slug: i-was-kidnapped-by-somali-pirates
-excerpt: "Today is “International Talk Like A Pirate Day.”   Many use it as an excuse to dress up in bad costumes and shout “Aaargh, Matie” and “Shiver me Timbers,” in some sort of odd homage to Johnny Depp and the Disney … Continue reading &rarr;"
+slug: "i-was-kidnapped-by-somali-pirates"
+excerpt: "Today is \"International Talk Like A Pirate Day.\"   Many use it as an excuse to dress up in bad costumes and shout \"Aaargh, Matie\" and \"Shiver me Timbers,\" in some sort of odd homage to Johnny Depp and the Disney … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "International Talk Like a Pirate Day"
   - "somalia"
 author: "Rick Spilman"
-description: "Today is “International Talk Like A Pirate Day.”   Many use it as an excuse to dress up in bad costumes and shout “Aaargh, Matie” and “Shiver me Timbers,” in some sort of odd homage to Johnny Depp and the Disney … Continue reading &rarr;"
+description: "Today is \"International Talk Like A Pirate Day.\"   Many use it as an excuse to dress up in bad costumes and shout \"Aaargh, Matie\" and \"Shiver me Timbers,\" in some sort of odd homage to Johnny Depp and the Disney … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/An-armed-Somali-pirate.-006.jpg)Today is “[International Talk Like A Pirate Day](http://www.talklikeapirate.com/).”   Many use it as an excuse to dress up in bad costumes and shout “Aaargh, Matie” and “Shiver me Timbers,” in some sort of odd homage to Johnny Depp and the Disney version of piracy.  All we can say is [“please don’t.”](http://www.oldsaltblog.com/2008/09/19/thank-you-for-not-talking-like-pirate/)  The pirates of the 17th century that are the basis for this nonsense were a brutal lot, and why some consider it cute to dress themselves and often their kids as murderous thieves is not immediately obvious.

@@ -1,7 +1,7 @@
 ---
 title: "Update: Wreck of the SS Garisopa – Odyssey Marine Recovers 48 Tons of Silver From Three Miles Down"
 date: 2012-07-19T07:21:54
-slug: update-wreck-of-the-ss-garisopa-odyssey-marine-recovers-48-tons-of-silver-from-three-miles-down
+slug: "update-wreck-of-the-ss-garisopa-odyssey-marine-recovers-48-tons-of-silver-from-three-miles-down"
 excerpt: "Last September we posted that Odyssey Marine Exploration had located the wreck of the S.S. Gairsoppa, which was torpedoed in February of 1941 by a German U-boat. When she sank, the ship was loaded with 240 tonnes of silver believed … Continue reading &rarr;"
 categories:
   - "Current"

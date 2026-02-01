@@ -1,8 +1,8 @@
 ---
 title: "Scurvy and the Google Orange"
 date: 2011-09-16T14:28:22
-slug: scurvy-and-the-google-orange
-excerpt: "Today the Google “doodle,”  the image that appears above the Google search box, was an orange. Why an orange?  If you clicked on the doodle it took you to a search for Albert Szent-Györgyi,  the Hungarian physiologist who is credited with discovering … Continue reading &rarr;"
+slug: "scurvy-and-the-google-orange"
+excerpt: "Today the Google \"doodle,\"  the image that appears above the Google search box, was an orange. Why an orange?  If you clicked on the doodle it took you to a search for Albert Szent-Györgyi,  the Hungarian physiologist who is credited with discovering … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "scurvy"
   - "Vitamin C"
 author: "Rick Spilman"
-description: "Today the Google “doodle,”  the image that appears above the Google search box, was an orange. Why an orange?  If you clicked on the doodle it took you to a search for Albert Szent-Györgyi,  the Hungarian physiologist who is credited with discovering … Continue reading &rarr;"
+description: "Today the Google \"doodle,\"  the image that appears above the Google search box, was an orange. Why an orange?  If you clicked on the doodle it took you to a search for Albert Szent-Györgyi,  the Hungarian physiologist who is credited with discovering … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/09/googleorange-125x56.jpg)Today the Google “doodle,”  the image that appears above the Google search box, was an orange. Why an orange?  If you clicked on the doodle it took you to a [search for Albert Szent-Györgyi,](http://www.google.com/#q=Albert+Szent-Gyorgyi&ct=Albert_Szent_Gyorgyi-2011-hp&oi=ddle&bav=on.2,or.r_gc.r_pw.&fp=b659e1e8b520709&biw=1366&bih=643)  the Hungarian physiologist who is credited with discovering vitamin C in 1930 and won the Nobel Prize in Physiology or Medicine in 1937 for his research. It is his birth day today.  An [article in CNN commented](http://www.cnn.com/2011/09/16/tech/web/google-logo-orange/index.html?eref=mrss_igoogle_cnn), “ *if you don’t have scurvy (and we’re going to go ahead and assume you do not), you should probably take a moment to say thanks.*”  What? Without taking anything away from Dr. Szent-Györgyi, scurvy was not cured in 1930 in Hungary.  The cure for [scury](http://en.wikipedia.org/wiki/Scurvy) was discovered and then,  too often forgotten, many times between when it was documented by Hippocrates and the 19th century.  

@@ -1,7 +1,7 @@
 ---
 title: "Samoa police say 63 dead in tsunami, toll may rise"
 date: 2009-09-30T02:12:08
-slug: samoa-police-say-63-dead-in-tsunami-toll-may-rise
+slug: "samoa-police-say-63-dead-in-tsunami-toll-may-rise"
 excerpt: "Samoa police say 63 dead in tsunami, toll may rise Samoan police commissioner Lilo Maiava told The Associated Press that police have confirmed 63 deaths, and officials are still searching the devastated areas, so the number of deaths might rise … Continue reading &rarr;"
 categories:
   - "Current"

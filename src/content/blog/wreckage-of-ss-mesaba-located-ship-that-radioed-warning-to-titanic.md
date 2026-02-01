@@ -1,7 +1,7 @@
 ---
 title: "Wreckage of SS Mesaba Located — Ship That Radioed Warning to Titanic"
 date: 2022-09-28T17:33:58
-slug: wreckage-of-ss-mesaba-located-ship-that-radioed-warning-to-titanic
+slug: "wreckage-of-ss-mesaba-located-ship-that-radioed-warning-to-titanic"
 excerpt: "In April of 1912, the cargo-passenger liner SS Mesaba radioed an ice warning to RMS Titanic. The message was received but never made it to the bridge.  The supposedly unsinkable Titanic then hit an iceberg and sank on her maiden … Continue reading &rarr;"
 categories:
   - "Current"

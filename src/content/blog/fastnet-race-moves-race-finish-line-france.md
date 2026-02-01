@@ -1,7 +1,7 @@
 ---
 title: "Fastnet Race Finish Line Moved to France"
 date: 2019-11-27T11:22:56
-slug: fastnet-race-moves-race-finish-line-france
+slug: "fastnet-race-moves-race-finish-line-france"
 excerpt: "The Royal Ocean Racing Club (RORC), organizers of the Rolex Fastnet Race, announced that the City of Cherbourg will host the finish of the Rolex Fastnet Race for the 2021 and 2023 editions of the biennial race.  The race, first … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: Shackleton’s Lost Ship Endurance Located After 107 Years"
 date: 2022-03-09T12:36:20
-slug: update-shackletons-lost-ship-endurance-discovered-after-107-years
+slug: "update-shackletons-lost-ship-endurance-discovered-after-107-years"
 excerpt: "The Endurance22 Expedition announced today that they have discovered the remarkably intact remains of Sir Ernest Shackleton‘s ship Endurance, which was crushed by pack ice off Antarctica in 1915.  A team of marine archeologists, adventurers, and technicians on the icebreaking … Continue reading &rarr;"
 categories:
   - "Current"

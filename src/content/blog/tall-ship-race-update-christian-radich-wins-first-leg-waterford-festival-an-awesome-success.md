@@ -1,7 +1,7 @@
 ---
-title: "Tall Ship Race Update – Christian Radich wins First Leg, Waterford Festival “an Awesome Success”"
+title: "Tall Ship Race Update – Christian Radich wins First Leg, Waterford Festival \"an Awesome Success\""
 date: 2011-07-08T08:36:52
-slug: tall-ship-race-update-christian-radich-wins-first-leg-waterford-festival-an-awesome-success
+slug: "tall-ship-race-update-christian-radich-wins-first-leg-waterford-festival-an-awesome-success"
 excerpt: "The  Tall  Ships Race 2011  is off to a great start.  The race was kicked off with a festival in Waterford, Ireland,  which was declared ‘an awesome success’ by the chairman of Fáilte Ireland, the national tourism authority. (See our previous … Continue reading &rarr;"
 categories:
   - "Current"

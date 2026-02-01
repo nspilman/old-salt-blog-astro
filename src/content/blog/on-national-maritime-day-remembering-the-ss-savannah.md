@@ -1,7 +1,7 @@
 ---
 title: "On National Maritime Day, Remembering the SS Savannah"
 date: 2023-05-22T16:29:35
-slug: on-national-maritime-day-remembering-the-ss-savannah
+slug: "on-national-maritime-day-remembering-the-ss-savannah"
 excerpt: "An updated repost on National Maritime Day. In 1933, the US Congress created National Maritime Day to recognize the maritime industry in the United States. The date chosen to celebrate the new holiday was May 22, in honor of the … Continue reading &rarr;"
 categories:
   - "Current"

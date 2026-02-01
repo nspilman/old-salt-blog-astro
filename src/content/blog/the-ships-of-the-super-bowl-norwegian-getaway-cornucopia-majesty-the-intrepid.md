@@ -1,7 +1,7 @@
 ---
 title: "The Ships of the Super Bowl — Norwegian Getaway,  Cornucopia Majesty, & the Intrepid"
 date: 2014-01-31T08:40:07
-slug: the-ships-of-the-super-bowl-norwegian-getaway-cornucopia-majesty-the-intrepid
+slug: "the-ships-of-the-super-bowl-norwegian-getaway-cornucopia-majesty-the-intrepid"
 excerpt: "Super Bowl Fever has taken over New York and New Jersey.  (Personally, I am sick of it and we are still two days away from the game.) Football fans are swarming all over, on both sides of New York harbor. … Continue reading &rarr;"
 categories:
   - "Current"

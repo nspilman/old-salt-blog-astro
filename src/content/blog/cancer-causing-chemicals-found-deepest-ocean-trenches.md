@@ -1,7 +1,7 @@
 ---
 title: "Cancer-Causing Chemicals Found in Deepest Ocean Trenches"
 date: 2017-02-15T12:42:36
-slug: cancer-causing-chemicals-found-deepest-ocean-trenches
+slug: "cancer-causing-chemicals-found-deepest-ocean-trenches"
 excerpt: "There appears to be no limit to the man-made pollution of the oceans. Toxic chemicals have now been found in the deepest portions of the ocean, at the bottom of the Marianas and Kermadec trenches. Each trench is over 10 kilometers deep … Continue reading &rarr;"
 categories:
   - "Current"

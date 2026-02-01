@@ -1,8 +1,8 @@
 ---
 title: "Manatee Orgy Stops Traffic in Florida, Again"
 date: 2016-08-17T08:20:10
-slug: manatee-orgy-stops-traffic-florida
-excerpt: "Recently, what is being described as a “manatee mating ball” stopped traffic on the Courtney Campbell Causeway between Tampa and Clearwater, Florida. Dozens of people abandoned their cars to line the shore to watch manatees having sex. Video after the … Continue reading &rarr;"
+slug: "manatee-orgy-stops-traffic-florida"
+excerpt: "Recently, what is being described as a \"manatee mating ball\" stopped traffic on the Courtney Campbell Causeway between Tampa and Clearwater, Florida. Dozens of people abandoned their cars to line the shore to watch manatees having sex. Video after the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "manatee mating ball"
   - "Tampa"
 author: "Rick Spilman"
-description: "Recently, what is being described as a “manatee mating ball” stopped traffic on the Courtney Campbell Causeway between Tampa and Clearwater, Florida. Dozens of people abandoned their cars to line the shore to watch manatees having sex. Video after the … Continue reading &rarr;"
+description: "Recently, what is being described as a \"manatee mating ball\" stopped traffic on the Courtney Campbell Causeway between Tampa and Clearwater, Florida. Dozens of people abandoned their cars to line the shore to watch manatees having sex. Video after the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2016/01/manteeCR.jpg)Recently, what is being described as a “[manatee mating ball](http://www.abcactionnews.com/news/region-tampa/manatee-mating-ball-stops-traffic-on-courtney-campbell-causeway)” stopped traffic on the Courtney Campbell Causeway between Tampa and Clearwater, Florida. Dozens of people abandoned their cars to line the shore to watch manatees having sex. Video after the page break. This wasn’t the first time that manatee sex stopped traffic on the causeway.

@@ -1,7 +1,7 @@
 ---
 title: "Superstorm Sandy, the Aircraft Carrier Intrepid, the Space Shuttle Enterprise and the Titanic II"
 date: 2012-11-15T10:30:50
-slug: super-storm-sandy-the-aircraft-carrier-intrepid-the-space-shuttle-enterprise-and-the-titanic-ii
+slug: "super-storm-sandy-the-aircraft-carrier-intrepid-the-space-shuttle-enterprise-and-the-titanic-ii"
 excerpt: "When we posted yesterday about the Statue of Liberty and Ellis Island being closed by superstorm Sandy, Liam Hegarty pointed out in a comment that the Intrepid Sea, Air & Space Museum is also closed until December due to storm damage. … Continue reading &rarr;"
 categories:
   - "Current"

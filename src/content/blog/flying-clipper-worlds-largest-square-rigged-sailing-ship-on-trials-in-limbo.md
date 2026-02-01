@@ -1,7 +1,7 @@
 ---
 title: "Flying Clipper, World’s Largest Square Rigged Sailing Ship, On Trials & In Limbo"
 date: 2019-10-06T15:18:13
-slug: flying-clipper-worlds-largest-square-rigged-sailing-ship-on-trials-in-limbo
+slug: "flying-clipper-worlds-largest-square-rigged-sailing-ship-on-trials-in-limbo"
 excerpt: "For the past several years, we have followed the construction of the newest and largest square-rigged luxury passenger cruise ship built for the Star Clipper cruise fleet — the Flying Clipper.  Recently, the 300 passenger, five-masted bark has been seen … Continue reading &rarr;"
 categories:
   - "Current"

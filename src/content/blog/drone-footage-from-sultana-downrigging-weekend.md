@@ -1,7 +1,7 @@
 ---
 title: "Drone Footage from Sultana Downrigging Weekend"
 date: 2018-12-09T20:11:27
-slug: drone-footage-from-sultana-downrigging-weekend
+slug: "drone-footage-from-sultana-downrigging-weekend"
 excerpt: "Sultana Education Foundation‘s Downrigging Weekend Tall Ship and Wooden Boat Festival has evolved into one of the largest annual Tall Ship gatherings on the East Coast. Here is some lovely drone footage by Shore Studios from the 18th Sultana Downrigging … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "USS Kittiwake Sleeps with the Fishes"
 date: 2011-01-08T09:36:39
-slug: uss-kittiwake-sleeps-with-the-fishes
+slug: "uss-kittiwake-sleeps-with-the-fishes"
 excerpt: "The USS Kittiwake, a 1945-vintage submarine rescue ship, was scuttled this week off Grand Cayman’s Seven Mile Beach  in the Caribbean to become a destination for reef fish and sport divers.   The ship settled onto the bottom on an even keel … Continue reading &rarr;"
 categories:
   - "Current"

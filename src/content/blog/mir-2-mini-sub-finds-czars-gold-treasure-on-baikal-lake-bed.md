@@ -1,7 +1,7 @@
 ---
 title: "Mir-2 mini-sub Finds Czar’s Gold Treasure on Baikal Lake bed ?"
 date: 2010-08-31T14:09:43
-slug: mir-2-mini-sub-finds-czars-gold-treasure-on-baikal-lake-bed
+slug: "mir-2-mini-sub-finds-czars-gold-treasure-on-baikal-lake-bed"
 excerpt: "Intriguing, if it turns out to be true. Czar’s gold treasure found on Baikal Lake bed The legendary gold treasure of Russia’s last Czar could have been found by Mir-2 mini submarine on the bed of the world’s deepest fresh … Continue reading &rarr;"
 categories:
   - "History"

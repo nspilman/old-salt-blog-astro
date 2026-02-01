@@ -1,15 +1,15 @@
 ---
 title: "No, Noah’s Ark Was Not Round (& No Cannibal Rats)"
 date: 2014-02-06T12:16:08
-slug: no-noahs-ark-was-not-round-no-cannibal-rats
-excerpt: "We recently endured the media farce in which dozens of newspapers and websites reported that “a ghost ship filled with cannibal rats may be headed straight for Britain,” even though the ship has probably sunk and the bit about the rats … Continue reading &rarr;"
+slug: "no-noahs-ark-was-not-round-no-cannibal-rats"
+excerpt: "We recently endured the media farce in which dozens of newspapers and websites reported that \"a ghost ship filled with cannibal rats may be headed straight for Britain,\" even though the ship has probably sunk and the bit about the rats … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
   - "Lore of the Sea"
   - "Ships"
 author: "Rick Spilman"
-description: "We recently endured the media farce in which dozens of newspapers and websites reported that “a ghost ship filled with cannibal rats may be headed straight for Britain,” even though the ship has probably sunk and the bit about the rats … Continue reading &rarr;"
+description: "We recently endured the media farce in which dozens of newspapers and websites reported that \"a ghost ship filled with cannibal rats may be headed straight for Britain,\" even though the ship has probably sunk and the bit about the rats … Continue reading &rarr;"
 ---
 
 ![finkeltab](http://www.oldsaltblog.com/wp-content/uploads/2014/02/finkeltab.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Plastic Collecting Boom Not Collecting Plastics"
 date: 2018-12-20T09:08:44
-slug: plastic-collecting-boom-not-collecting-plastics
+slug: "plastic-collecting-boom-not-collecting-plastics"
 excerpt: "Around six years ago, the media went slightly crazy when a fresh-faced 17-year-old Dutch engineering student, Boyan Slat, claimed to have designed a means for using currents to clean plastic from the oceans. He was covered in the major press … Continue reading &rarr;"
 categories:
   - "Current"

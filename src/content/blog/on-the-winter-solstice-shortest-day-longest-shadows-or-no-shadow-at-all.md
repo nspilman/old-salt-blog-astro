@@ -1,7 +1,7 @@
 ---
 title: "On the Winter Solstice — Shortest Day & Longest Shadows, or No Shadow At All"
 date: 2017-12-21T13:04:59
-slug: on-the-winter-solstice-shortest-day-longest-shadows-or-no-shadow-at-all
+slug: "on-the-winter-solstice-shortest-day-longest-shadows-or-no-shadow-at-all"
 excerpt: "Happy Winter Solstice to all! In the northern hemisphere, today is the shortest day and the longest night of the year. The sun is at its southernmost point of travel, over the imaginary circle on the globe we refer to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

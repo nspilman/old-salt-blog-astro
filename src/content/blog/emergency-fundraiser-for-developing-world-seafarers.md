@@ -1,7 +1,7 @@
 ---
 title: "Emergency Fundraiser for Developing World Seafarers"
 date: 2020-04-10T16:33:07
-slug: emergency-fundraiser-for-developing-world-seafarers
+slug: "emergency-fundraiser-for-developing-world-seafarers"
 excerpt: "A group of maritime organizations is raising money to provide much-needed emergency funding for developing world seafarers. From their Crowdfunder page: While much of the shipping industry take their responsibilities to their seafarers very seriously there is still a real … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

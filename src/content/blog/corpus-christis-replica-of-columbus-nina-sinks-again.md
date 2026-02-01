@@ -1,7 +1,7 @@
 ---
 title: "Corpus Christi’s Replica of Columbus’ Niña Sinks Again"
 date: 2019-04-29T09:09:35
-slug: corpus-christis-replica-of-columbus-nina-sinks-again
+slug: "corpus-christis-replica-of-columbus-nina-sinks-again"
 excerpt: "When Hurricane Harvey blew through the US Gulf coast in August 2017, the replica of Columbus’ Niña sank at the dock in Corpus Christie, Texas. Last Tuesday, the replica sank again. ABC Channel KSAT 12 quotes Kim Mrazek, president of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

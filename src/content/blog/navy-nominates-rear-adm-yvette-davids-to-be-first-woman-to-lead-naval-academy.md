@@ -1,7 +1,7 @@
 ---
 title: "Navy Nominates Rear Adm. Yvette Davids to be First Woman to Lead Naval Academy"
 date: 2023-04-27T17:03:40
-slug: navy-nominates-rear-adm-yvette-davids-to-be-first-woman-to-lead-naval-academy
+slug: "navy-nominates-rear-adm-yvette-davids-to-be-first-woman-to-lead-naval-academy"
 excerpt: "The Navy has nominated Rear Adm. Yvette Davids to become the first female superintendent of the U.S. Naval Academy at Annapolis, Maryland. Unfortunately, her confirmation is being delayed, as are the promotions of over 180 fellow senior military officers, by Senator … Continue reading &rarr;"
 categories:
   - "Current"

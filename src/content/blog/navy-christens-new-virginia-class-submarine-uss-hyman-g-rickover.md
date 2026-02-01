@@ -1,7 +1,7 @@
 ---
 title: "Navy Christens New Virginia Class Submarine USS Hyman G. Rickover"
 date: 2021-07-31T10:55:03
-slug: navy-christens-new-virginia-class-submarine-uss-hyman-g-rickover
+slug: "navy-christens-new-virginia-class-submarine-uss-hyman-g-rickover"
 excerpt: "The US Navy christened one of its newest Virginia-class attack submarines, the USS Hyman G. Rickover (SSN 795), during a 9 a.m. EDT ceremony Saturday, July 31, 2021, at General Dynamics/Electric Boat, in Groton, Connecticut. From the Navy press release: … Continue reading &rarr;"
 categories:
   - "Current"

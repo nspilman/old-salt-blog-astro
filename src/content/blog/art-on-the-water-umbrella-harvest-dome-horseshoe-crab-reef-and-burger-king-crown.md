@@ -1,7 +1,7 @@
 ---
 title: "Art on the Water – Umbrella Harvest Dome, Horseshoe Crab Reef and Burger King Crown"
 date: 2011-11-15T14:36:13
-slug: art-on-the-water-umbrella-harvest-dome-horseshoe-crab-reef-and-burger-king-crown
+slug: "art-on-the-water-umbrella-harvest-dome-horseshoe-crab-reef-and-burger-king-crown"
 excerpt: "There have been several interesting art projects on and/or soon to be under the water around New York harbor.  Late last month a Harvest Dome built of discarded umbrellas was unexpectedly shipwrecked on Riker’s Island in New York’s East River.  A day … Continue reading &rarr;"
 categories:
   - "Current"

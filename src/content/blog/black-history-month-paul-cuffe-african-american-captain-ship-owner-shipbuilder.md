@@ -1,7 +1,7 @@
 ---
 title: "Black History Month: Paul Cuffe — African-American Captain, Ship Owner & Shipbuilder"
 date: 2024-02-22T20:49:20
-slug: black-history-month-paul-cuffe-african-american-captain-ship-owner-shipbuilder
+slug: "black-history-month-paul-cuffe-african-american-captain-ship-owner-shipbuilder"
 excerpt: "During Black History Month, it is worthwhile to remember early African-American shipmasters. Who was the first? That is hard to say. Paul Cuffe is a good candidate.  An updated repost. Paul Cuffe was born on Cuttyhunk Island, MA on January … Continue reading &rarr;"
 categories:
   - "History"

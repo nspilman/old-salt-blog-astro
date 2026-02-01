@@ -1,7 +1,7 @@
 ---
 title: "Spain Seizes 30 Tonnes of Hashish in 4 Sailboats"
 date: 2020-10-02T09:17:49
-slug: spain-seizes-30-tonnes-of-hashish-in-4-sailboats
+slug: "spain-seizes-30-tonnes-of-hashish-in-4-sailboats"
 excerpt: "Barrons reports that Spanish police seized more than 30 tonnes of hashish, worth an estimated 63 million euros, stashed onboard four sailboats in what is described as its biggest-ever bust of such drugs at sea. The four boats were intercepted … Continue reading &rarr;"
 categories:
   - "Current"

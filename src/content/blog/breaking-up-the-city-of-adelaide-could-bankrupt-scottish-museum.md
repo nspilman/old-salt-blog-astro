@@ -1,7 +1,7 @@
 ---
 title: "Breaking up the City of Adelaide Could Bankrupt Scottish Museum"
 date: 2010-02-10T12:11:20
-slug: breaking-up-the-city-of-adelaide-could-bankrupt-scottish-museum
+slug: "breaking-up-the-city-of-adelaide-could-bankrupt-scottish-museum"
 excerpt: "The Scottish Maritime Museum is in dire financial straits.  The City of Adelaide, the oldest (just barely) surviving composite clipper ship in the world,  has been rotting on a slipway at Irvine, near Glasgow, for almost a decade because the museum lacked the funds to … Continue reading &rarr;"
 categories:
   - "Current"

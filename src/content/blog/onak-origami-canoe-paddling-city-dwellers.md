@@ -1,7 +1,7 @@
 ---
 title: "ONAK Origami Canoe — Paddling for City Dwellers"
 date: 2016-07-28T17:57:03
-slug: onak-origami-canoe-paddling-city-dwellers
+slug: "onak-origami-canoe-paddling-city-dwellers"
 excerpt: "Several years ago, we posted about the Oru, the origami kayak. Now, two Belgian designers, Otto Van de Steene and Thomas Weyn, have developed ONAK, an origami full-sized  canoe with urban paddlers in mind.  The canoe is made of a custom-made … Continue reading &rarr;"
 categories:
   - "Current"

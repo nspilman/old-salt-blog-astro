@@ -1,7 +1,7 @@
 ---
 title: "Missile & Drone Barrage Escalates as Three Killed in Houthi Missile Attack in Gulf of Aden"
 date: 2024-03-08T10:41:06
-slug: missile-drone-barrage-escalates-as-three-killed-in-houthi-missile-attack-in-gulf-of-aden
+slug: "missile-drone-barrage-escalates-as-three-killed-in-houthi-missile-attack-in-gulf-of-aden"
 excerpt: "A Houthi missile attack killed three seafarers on M/V True Confidence, a Barbados-flagged, Liberian-owned, bulk carrier while transiting the Gulf of Aden on Wednesday, U.S. Central Command (CENTCOM) said. The deaths are the first merchant mariner fatalities reported since the Iran-aligned … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Hurtigruten to Launch Zero Emissions Electric Cruise Ship With Solar Sails by 2030"
 date: 2023-06-07T19:55:27
-slug: hurtigruten-to-launch-zero-emissions-electric-cruise-ship-with-solar-sails-by-2030
+slug: "hurtigruten-to-launch-zero-emissions-electric-cruise-ship-with-solar-sails-by-2030"
 excerpt: "Norwegian ferry and expedition cruise operator Hurtigruten has revealed plans for a zero-emissions electric cruise ship with retractable sails fitted with solar panels, that will sail the Norwegian coast by 2030. The 500-passenger ship is designed for coastal service with … Continue reading &rarr;"
 categories:
   - "Current"

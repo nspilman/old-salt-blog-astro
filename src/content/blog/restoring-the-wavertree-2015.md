@@ -1,8 +1,8 @@
 ---
 title: "Restoring the Wavertree 2015"
 date: 2015-05-20T15:12:12
-slug: restoring-the-wavertree-2015
-excerpt: "If you are in the neighborhood tomorrow, Thursday, May 21, 2015 at 12:30PM, you may wish to stop by the “bon-voyage” party on Pier 17 in New York’s South Street Seaport for the Wavertree, as she slips her lines and is … Continue reading &rarr;"
+slug: "restoring-the-wavertree-2015"
+excerpt: "If you are in the neighborhood tomorrow, Thursday, May 21, 2015 at 12:30PM, you may wish to stop by the \"bon-voyage\" party on Pier 17 in New York’s South Street Seaport for the Wavertree, as she slips her lines and is … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

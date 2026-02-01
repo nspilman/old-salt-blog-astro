@@ -1,7 +1,7 @@
 ---
 title: "Draken Harald Hårfagre May Be Forced From Tall Ships Challenge by Fees"
 date: 2016-07-12T08:20:21
-slug: draken-harald-harfagre-may-forced-tall-ships-challenge-fees
+slug: "draken-harald-harfagre-may-forced-tall-ships-challenge-fees"
 excerpt: "The Norwegian Viking ship Draken Harald Hårfagre has successfully weathered the seas of the Atlantic Ocean only to be turned back by exorbitant pilotage fees in the Great Lakes and the St Lawrence Seaway. Unless changes are made, pilotage fees … Continue reading &rarr;"
 categories:
   - "Current"

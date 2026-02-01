@@ -1,7 +1,7 @@
 ---
 title: "Clipper Ship City of Adelaide — Close to Home but Short on Cash"
 date: 2014-01-24T10:13:23
-slug: clipper-ship-city-of-adelaide-close-to-home-but-short-on-cash
+slug: "clipper-ship-city-of-adelaide-close-to-home-but-short-on-cash"
 excerpt: "The world’s oldest surviving clipper ship, City of Adelaide, has arrived in Port Hedland, Western Australia. She has been carried from Scotlandon the deck of the heavy-lift ship MV Palanpur, with intermediate stops to load and discharge other cargo.  MV Palanpur is … Continue reading &rarr;"
 categories:
   - "Current"

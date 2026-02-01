@@ -1,8 +1,8 @@
 ---
 title: "The White Lady with a Dark Past Visiting Panama"
 date: 2010-07-20T15:41:30
-slug: the-white-lady-with-a-dark-past-visiting-panama
-excerpt: "One of the most beautiful tall ships on the water, the Chilean Navy’s Esmeralda, will be docked in Balboa, Panama through tomorrow. Esmeralda, a steel-hulled four-masted barquentine, is nicknamed the “White Lady.”   She is the sister ship to the four-masted … Continue reading &rarr;"
+slug: "the-white-lady-with-a-dark-past-visiting-panama"
+excerpt: "One of the most beautiful tall ships on the water, the Chilean Navy’s Esmeralda, will be docked in Balboa, Panama through tomorrow. Esmeralda, a steel-hulled four-masted barquentine, is nicknamed the \"White Lady.\"   She is the sister ship to the four-masted … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Esmeralda"
   - "White Lady"
 author: "Rick Spilman"
-description: "One of the most beautiful tall ships on the water, the Chilean Navy’s Esmeralda, will be docked in Balboa, Panama through tomorrow. Esmeralda, a steel-hulled four-masted barquentine, is nicknamed the “White Lady.”   She is the sister ship to the four-masted … Continue reading &rarr;"
+description: "One of the most beautiful tall ships on the water, the Chilean Navy’s Esmeralda, will be docked in Balboa, Panama through tomorrow. Esmeralda, a steel-hulled four-masted barquentine, is nicknamed the \"White Lady.\"   She is the sister ship to the four-masted … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/07/esmeralda.jpg)

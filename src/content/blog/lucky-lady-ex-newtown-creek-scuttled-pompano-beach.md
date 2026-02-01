@@ -1,8 +1,8 @@
 ---
 title: "Update: Lady Luck, ex-Newtown Creek, to be Scuttled off Pompano Beach"
 date: 2016-07-11T08:35:42
-slug: lucky-lady-ex-newtown-creek-scuttled-pompano-beach
-excerpt: "In April we posted, Farewell to Newtown Creek, New York’s Lovely “Honey Tanker”.  It was a fond farewell to a lovely coastal “honey tanker” that carried sewage sludge around New York harbor for decades.  When she was sold we did not … Continue reading &rarr;"
+slug: "lucky-lady-ex-newtown-creek-scuttled-pompano-beach"
+excerpt: "In April we posted, Farewell to Newtown Creek, New York’s Lovely \"Honey Tanker\".  It was a fond farewell to a lovely coastal \"honey tanker\" that carried sewage sludge around New York harbor for decades.  When she was sold we did not … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Newtown Creek"
   - "Pompano Beach"
 author: "Rick Spilman"
-description: "In April we posted, Farewell to Newtown Creek, New York’s Lovely “Honey Tanker”.  It was a fond farewell to a lovely coastal “honey tanker” that carried sewage sludge around New York harbor for decades.  When she was sold we did not … Continue reading &rarr;"
+description: "In April we posted, Farewell to Newtown Creek, New York’s Lovely \"Honey Tanker\".  It was a fond farewell to a lovely coastal \"honey tanker\" that carried sewage sludge around New York harbor for decades.  When she was sold we did not … Continue reading &rarr;"
 ---
 
 ![ladyluck1](http://www.oldsaltblog.com/wp-content/uploads/2016/07/ladyluck1.jpg)In April we posted, [Farewell to Newtown Creek, New York’s Lovely “Honey Tanker”](http://www.oldsaltblog.com/2015/04/farewell-to-newtown-creek-new-yorks-lovely-honey-tanker/).  It was a fond farewell to a lovely coastal “honey tanker” that carried sewage sludge around New York harbor for decades.  When she was sold we did not know what was to become of her. We wrote: “The two rumored bidders were a scrap dealer from Maryland and a town in Florida with plans to sink the ship offshore as an artificial reef.” It turns out that, like so many other aging New Yorkers, the tanker is going to retire in Florida, in this case as a reef off Pompano Beach.

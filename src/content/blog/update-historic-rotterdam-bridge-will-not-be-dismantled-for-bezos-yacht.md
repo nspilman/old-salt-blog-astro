@@ -1,7 +1,7 @@
 ---
 title: "Update: Historic Rotterdam Bridge Will Not Be Dismantled for Bezos’ Yacht"
 date: 2022-07-03T16:07:58
-slug: update-historic-rotterdam-bridge-will-not-be-dismantled-for-bezos-yacht
+slug: "update-historic-rotterdam-bridge-will-not-be-dismantled-for-bezos-yacht"
 excerpt: "In February, we posted Billionaire Bezos’ Really Big Boat and the Rotterdam Railroad Bridge about reports that Rotterdam would dismantle the center span of a historic railroad bridge to allow the 417-foot-long, three-masted sailing yacht built for billionaire Jeff Bezos … Continue reading &rarr;"
 categories:
   - "Current"

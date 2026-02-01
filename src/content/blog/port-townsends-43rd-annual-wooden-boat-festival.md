@@ -1,7 +1,7 @@
 ---
 title: "Port Townsend’s 43rd Annual Wooden Boat Festival"
 date: 2019-09-04T09:50:08
-slug: port-townsends-43rd-annual-wooden-boat-festival
+slug: "port-townsends-43rd-annual-wooden-boat-festival"
 excerpt: "The 43rd Annual Wooden Boat Festival in Port Townsend, WA, starts this Friday and runs through the weekend, September 6-8, 2019. It is billed as the largest wooden boat festival in North America and promises to be a place where … Continue reading &rarr;"
 categories:
   - "Current"

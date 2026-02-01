@@ -1,7 +1,7 @@
 ---
 title: "Iranian Navy Seizes Suezmax Tanker in Gulf Of Oman"
 date: 2024-01-11T19:29:30
-slug: iranian-navy-seizes-suezmax-tanker-in-gulf-of-oman
+slug: "iranian-navy-seizes-suezmax-tanker-in-gulf-of-oman"
 excerpt: "The New York Times reports that Iran’s Navy confirmed it had seized St. Nikolas, a Suezmax tanker loaded with crude oil, off the coast of Oman on Thursday, apparently in retaliation for the United States confiscating oil from the same ship … Continue reading &rarr;"
 categories:
   - "Current"

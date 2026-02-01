@@ -1,7 +1,7 @@
 ---
 title: "China Celebrates 70th Anniversary, Displays Dangerous New Naval Weapons"
 date: 2019-10-05T08:51:49
-slug: china-celebrates-70th-anniversary-displays-dangerous-new-naval-weapons
+slug: "china-celebrates-70th-anniversary-displays-dangerous-new-naval-weapons"
 excerpt: "This week, as China looked back at 70 years of Communist rule, its military parade looked to the future with a whole new generation of deadly naval and airborne weaponry.  Newsweek reports that in a speech last week, retired Admiral … Continue reading &rarr;"
 categories:
   - "Current"

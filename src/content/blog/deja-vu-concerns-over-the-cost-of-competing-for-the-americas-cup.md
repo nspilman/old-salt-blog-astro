@@ -1,7 +1,7 @@
 ---
 title: "Déjà Vu — Concerns over the Cost of Competing for the America’s Cup"
 date: 2019-12-15T12:48:29
-slug: deja-vu-concerns-over-the-cost-of-competing-for-the-americas-cup
+slug: "deja-vu-concerns-over-the-cost-of-competing-for-the-americas-cup"
 excerpt: "International yacht racing is incredibly expensive. That is unquestionably true of the America’s Cup races.  Recently, the Financial Times spoke to British sailing champion Ben Ainslie about his concerns that the race is too expensive to remain viable. The cost … Continue reading &rarr;"
 categories:
   - "Current"

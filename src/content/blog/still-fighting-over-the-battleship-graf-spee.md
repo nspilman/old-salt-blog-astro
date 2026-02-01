@@ -1,7 +1,7 @@
 ---
 title: "Still Fighting over the Battleship Graf Spee"
 date: 2010-03-12T07:04:53
-slug: still-fighting-over-the-battleship-graf-spee
+slug: "still-fighting-over-the-battleship-graf-spee"
 excerpt: "There is an interesting ongoing conflict  over the  salvaging of the German pocket battleship Admiral Graf Spee which was scuttled in the River Plate in 1939.   A Uruguayan businessman has been salving parts of the Graf Spee for the last ten … Continue reading &rarr;"
 categories:
   - "Current"

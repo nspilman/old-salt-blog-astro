@@ -1,7 +1,7 @@
 ---
 title: "Sailing Bark Europa from Gran Canaria to Antarctica"
 date: 2016-08-07T08:03:27
-slug: sailing-bark-europa-gran-canaria-antarctica
+slug: "sailing-bark-europa-gran-canaria-antarctica"
 excerpt: "A video for a Sunday morning. Filmmaker Frank Oly joined the bark Europa on a voyage from Gran Canaria to Antarctica. He stayed on board for 3 months and filmed this experience. Europa is a steel-hulled barque registered in the Netherlands. Built … Continue reading &rarr;"
 categories:
   - "Current"

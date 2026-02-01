@@ -1,7 +1,7 @@
 ---
 title: "Four Tons on Marijuana Worth $4 Million Found Floating Off Dana Point, California"
 date: 2012-05-21T16:35:12
-slug: four-tons-on-marijuana-worth-4-million-found-floating-off-dana-point-california
+slug: "four-tons-on-marijuana-worth-4-million-found-floating-off-dana-point-california"
 excerpt: "A local boater first spotted the bales floating 15 miles offshore near Point Dana, California.  When law enforcement went out to investigate, they found between 160-180 bales of marijuana (depending on the news report), weighing close to four tons and worth around $4 million dollars, … Continue reading &rarr;"
 categories:
   - "Current"

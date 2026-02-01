@@ -1,7 +1,7 @@
 ---
 title: "Water’s Soul — A Serene, New Face on New York Harbor"
 date: 2021-10-23T09:57:01
-slug: waters-soul-a-serene-new-face-on-new-york-harbor
+slug: "waters-soul-a-serene-new-face-on-new-york-harbor"
 excerpt: "On Thursday, Water’s Soul, an 80-foot tall sculpture by Spanish artist Jaume Plensa was dedicated on the Hudson River in Jersey City. Located directly across the river from Lower Manhattan, Water’s Soul depicts the serene face of a young woman … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

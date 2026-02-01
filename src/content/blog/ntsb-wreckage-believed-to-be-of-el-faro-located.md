@@ -1,7 +1,7 @@
 ---
 title: "NTSB: Wreckage Believed to be of EL Faro Located"
 date: 2015-11-01T08:34:35
-slug: ntsb-wreckage-believed-to-be-of-el-faro-located
+slug: "ntsb-wreckage-believed-to-be-of-el-faro-located"
 excerpt: "From a press release from the National Safety Transportation Board (NTSB): A search team on board the USNS Apache has found the wreckage of a vessel that they believe to be the cargo ship El Faro, which went missing on … Continue reading &rarr;"
 categories:
   - "Current"

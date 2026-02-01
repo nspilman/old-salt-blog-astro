@@ -1,7 +1,7 @@
 ---
 title: "Terminally Ill Sailor, Jazz Turner, Sailing Solo Around UK"
 date: 2025-06-18T18:19:33
-slug: terminally-ill-sailor-jazz-turner-sailing-solo-around-uk
+slug: "terminally-ill-sailor-jazz-turner-sailing-solo-around-uk"
 excerpt: "On June 2, Jazz Turner set sail from Brighton, UK, to attempt to become the first disabled person to complete a solo, non-stop, and unassisted 2,070 mile (3,331km) circumnavigation of the UK and Ireland in a sail boat.  Turner, a … Continue reading &rarr;"
 categories:
   - "Current"

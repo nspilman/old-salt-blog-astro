@@ -1,7 +1,7 @@
 ---
 title: "RCCL’s Explorer of the Seas Sets New Record for Contagion with Almost 700 Ill"
 date: 2014-01-31T07:39:21
-slug: rccls-explorer-of-the-seas-sets-new-record-for-contagion-with-almost-700-ill
+slug: "rccls-explorer-of-the-seas-sets-new-record-for-contagion-with-almost-700-ill"
 excerpt: "It is no doubt not a record that Royal Caribbean would have aspired to. Their ship, Explorer of the Seas, on its voyage from New York harbor to the Eastern Caribbean, from January 21-29, 2014, had the largest outbreak of … Continue reading &rarr;"
 categories:
   - "Current"

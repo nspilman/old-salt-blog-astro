@@ -1,7 +1,7 @@
 ---
 title: "Schooner Eleonora E Sunk by Out of Control Search and Rescue Vessel"
 date: 2022-06-13T17:57:08
-slug: schooner-eleonora-e-sunk-by-out-of-control-offshore-supply-vessel
+slug: "schooner-eleonora-e-sunk-by-out-of-control-offshore-supply-vessel"
 excerpt: "Sad news. On Friday, the 49.5-meter schooner Eleonora E was struck by a 60′ long search and rescue vessel in Port Tárraco, Tarragona, Spain and subsequently sank. The search and rescue vessel Punta Mayor was maneuvering in the harbor and … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "World’s Largest Suction Sails Installed On Fruit Juice Tanker, MV Atlantic Orchard"
 date: 2025-04-17T17:17:32
-slug: worlds-largest-suction-sails-installed-on-fruit-juice-tanker-mv-atlantic-orchard
+slug: "worlds-largest-suction-sails-installed-on-fruit-juice-tanker-mv-atlantic-orchard"
 excerpt: "The Spanish cleantech engineering firm bound4blue has installed four 26-meter high eSAILs® on the MV Atlantic Orchard, a 35,584-dwt juice carrier. The eSAILs® are said to be the world’s largest suction sails ever installed. The sails were installed in under … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Great Chesapeake Bay Schooner Race 2017 — A Great Race"
 date: 2017-10-18T16:31:59
-slug: great-chesapeake-bay-schooner-race-2017-great-race
+slug: "great-chesapeake-bay-schooner-race-2017-great-race"
 excerpt: "The 2017 Great Chesapeake Bay Schooner Race turned out to be a great race indeed. The schooner Virginia, which has been absent in recent years due to financial issues, returned to race and was the first across the finish line, breaking her … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

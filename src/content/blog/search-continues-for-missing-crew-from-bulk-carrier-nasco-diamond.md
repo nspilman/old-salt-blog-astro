@@ -1,7 +1,7 @@
 ---
 title: "Search Continues for Missing Crew from Bulk Carrier Nasco Diamond"
 date: 2010-11-12T17:10:23
-slug: search-continues-for-missing-crew-from-bulk-carrier-nasco-diamond
+slug: "search-continues-for-missing-crew-from-bulk-carrier-nasco-diamond"
 excerpt: "On Thursday morning, Nasco Diamond loaded with 55,000 tonnes of nickel ore from Indonesia to China was reported missing and believed to have sunk off the southern coast of Japan.  Five of the twenty five crew have been accounted for, with at least … Continue reading &rarr;"
 categories:
   - "Current"

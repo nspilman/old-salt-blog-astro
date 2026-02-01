@@ -1,7 +1,7 @@
 ---
 title: "Women’s History Month — Remembering Mary Patten, Clipper Ship Captain"
 date: 2024-03-31T10:47:59
-slug: womens-history-month-remembering-mary-patten-clipper-ship-captain-2
+slug: "womens-history-month-remembering-mary-patten-clipper-ship-captain-2"
 excerpt: "As Women’s History Month comes to a close, it seems a good time to remember Mary Ann Brown Patten, the first woman to command an American merchant ship. An updated repost. The year was 1856. The ship was the clipper … Continue reading &rarr;"
 categories:
   - "History"

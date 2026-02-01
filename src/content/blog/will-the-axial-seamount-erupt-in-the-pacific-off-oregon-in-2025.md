@@ -1,7 +1,7 @@
 ---
 title: "Will the Axial Seamount Erupt in the Pacific Off Oregon in 2025?"
 date: 2025-01-28T22:25:44
-slug: will-the-axial-seamount-erupt-in-the-pacific-off-oregon-in-2025
+slug: "will-the-axial-seamount-erupt-in-the-pacific-off-oregon-in-2025"
 excerpt: "Seismologists at Oregon State University predict that the Axial Seamount, Oregon’s most active underwater volcano, could erupt in 2025.  The seamount, located 300 miles from the state’s coast and one mile beneath the Pacific Ocean’s surface, has been swelling at … Continue reading &rarr;"
 categories:
   - "Current"

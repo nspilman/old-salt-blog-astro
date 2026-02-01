@@ -1,7 +1,7 @@
 ---
 title: "Hermione — Lafayette Parade of Ships, New York Harbor July 4, 2105"
 date: 2015-07-04T21:22:40
-slug: hermione-lafayette-parade-of-ships-new-york-harbor-july-4-2105
+slug: "hermione-lafayette-parade-of-ships-new-york-harbor-july-4-2105"
 excerpt: "On a nearly windless, overcast and rainy morning, the French replica frigate l’Hermione led an impressive flotilla of every sort of craft from very large yachts to jet skis, from below the Verazzano Narrow’s Bridge through the inner harbor and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

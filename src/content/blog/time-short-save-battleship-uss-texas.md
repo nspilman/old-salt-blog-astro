@@ -1,7 +1,7 @@
 ---
 title: "Time Short to Save Battleship USS Texas"
 date: 2017-08-16T11:54:04
-slug: time-short-save-battleship-uss-texas
+slug: "time-short-save-battleship-uss-texas"
 excerpt: "For several years now, we have followed the progressive decline of the battleship USS Texas, commissioned in 1914. She is the only remaining World War I-era dreadnought battleship and is one of only seven remaining ships and the only remaining capital ship … Continue reading &rarr;"
 categories:
   - "Current"

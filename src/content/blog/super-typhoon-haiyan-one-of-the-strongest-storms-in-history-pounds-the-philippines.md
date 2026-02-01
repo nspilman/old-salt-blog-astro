@@ -1,7 +1,7 @@
 ---
 title: "Super Typhoon Haiyan, One of the Strongest Storms in History, Pounds the Philippines"
 date: 2013-11-08T08:57:30
-slug: super-typhoon-haiyan-one-of-the-strongest-storms-in-history-pounds-the-philippines
+slug: "super-typhoon-haiyan-one-of-the-strongest-storms-in-history-pounds-the-philippines"
 excerpt: "On Friday morning, local time, Super Typhoon Haiyan came shore in the central Philippines.  With an estimated maximum sustained winds of 195 mph and gusts to 235 mph, Haiyan is one of the most powerful storms ever recorded anywhere in the … Continue reading &rarr;"
 categories:
   - "Current"

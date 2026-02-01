@@ -1,7 +1,7 @@
 ---
 title: "Finger-Pointing and the Oil Spill in Borneo’s Balikpapan Bay"
 date: 2018-04-05T17:16:45
-slug: finger-pointing-and-the-oil-spill-in-borneos-balikpapan-bay
+slug: "finger-pointing-and-the-oil-spill-in-borneos-balikpapan-bay"
 excerpt: "Six days ago, oil began spilling into Borneo’s Balikpapan Bay. The oil would spread to cover an area of nearly 13,000 hectares and pollute 60 km of coastal ecosystems, including mangrove wetlands and marine mammal habitats. At least one protected dugong … Continue reading &rarr;"
 categories:
   - "Current"

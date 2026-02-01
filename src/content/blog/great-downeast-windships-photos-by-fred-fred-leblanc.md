@@ -1,7 +1,7 @@
 ---
 title: "Great Downeast Windships – Photos by Fred Fred LeBlanc"
 date: 2012-11-13T08:30:53
-slug: great-downeast-windships-photos-by-fred-fred-leblanc
+slug: "great-downeast-windships-photos-by-fred-fred-leblanc"
 excerpt: "Photographer and graphic artist Fred LeBlanc has posted a wonderful montage of his photographs set to the music of Tim Janis. Definitely worth a look. Great Downeast Windships … Continue reading &rarr;"
 categories:
   - "Galleries"

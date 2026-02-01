@@ -1,8 +1,8 @@
 ---
 title: "The Star Spangled Banner and the Search for HMS Terror"
 date: 2010-12-03T11:06:35
-slug: the-star-spangled-banner-and-the-search-for-hms-terror
-excerpt: "History is full of strange connections.   This week an almost 200-year-old copy of “The Star Spangled Banner” is to be sold at auction house at Christie’s auction house in Manhattan.   The sheet music is currently valued at between … Continue reading &rarr;"
+slug: "the-star-spangled-banner-and-the-search-for-hms-terror"
+excerpt: "History is full of strange connections.   This week an almost 200-year-old copy of \"The Star Spangled Banner\" is to be sold at auction house at Christie’s auction house in Manhattan.   The sheet music is currently valued at between … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -18,7 +18,7 @@ tags:
   - "The Star Spangled Banner"
   - "War of 1812"
 author: "Rick Spilman"
-description: "History is full of strange connections.   This week an almost 200-year-old copy of “The Star Spangled Banner” is to be sold at auction house at Christie’s auction house in Manhattan.   The sheet music is currently valued at between … Continue reading &rarr;"
+description: "History is full of strange connections.   This week an almost 200-year-old copy of \"The Star Spangled Banner\" is to be sold at auction house at Christie’s auction house in Manhattan.   The sheet music is currently valued at between … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/12/3890360.bin_.jpg)

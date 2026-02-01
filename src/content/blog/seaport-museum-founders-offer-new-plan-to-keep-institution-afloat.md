@@ -1,7 +1,7 @@
 ---
 title: "Seaport Museum Founders Offer New Plan to Keep Institution Afloat"
 date: 2011-04-13T18:02:58
-slug: seaport-museum-founders-offer-new-plan-to-keep-institution-afloat
+slug: "seaport-museum-founders-offer-new-plan-to-keep-institution-afloat"
 excerpt: "Peter Stanford and Robert Ferraro, two of the founders of the financially troubled South Street Seaport Museum in New York City, spoke to museum volunteers on Saturday. They presented their vision of how the museum could be saved and revived. … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "French Sub Minerve That Vanished 50 Years Ago Found in Mediterranean"
 date: 2019-07-23T16:31:37
-slug: french-sub-minerve-that-vanished-50-years-ago-found-in-mediterranean
+slug: "french-sub-minerve-that-vanished-50-years-ago-found-in-mediterranean"
 excerpt: "In January 1968, the French submarine Minerve was underway in the Mediterranean on her way back to her home base in Toulon. Communications from the submarine advised that she would be at her berth in about an hour.  Then mysteriously, the diesel-electric … Continue reading &rarr;"
 categories:
   - "Current"

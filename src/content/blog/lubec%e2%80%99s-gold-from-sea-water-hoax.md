@@ -1,7 +1,7 @@
 ---
 title: "Lubec’s Gold from Sea Water Hoax"
 date: 2010-04-01T08:46:21
-slug: lubec%e2%80%99s-gold-from-sea-water-hoax
+slug: "lubec%e2%80%99s-gold-from-sea-water-hoax"
 excerpt: "Happy April 1st, which in many countries is also called April Fools’ Day.  It therefore seems only fitting to look back on the Great Gold from Sea Water Hoax.  In October of 1897, at the height of the Alaskan Gold … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

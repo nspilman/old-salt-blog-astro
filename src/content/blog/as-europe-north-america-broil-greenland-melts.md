@@ -1,7 +1,7 @@
 ---
 title: "As Europe & North America Broil, Greenland Melts"
 date: 2022-07-21T16:03:17
-slug: as-europe-north-america-broil-greenland-melts
+slug: "as-europe-north-america-broil-greenland-melts"
 excerpt: "As record-breaking heat waves have sent temperatures soaring across Western Europe and parts of North America, unusually warm weather in Greenland has triggered massive melting of glacial ice. CNN reports that the amount of ice that melted in Greenland between … Continue reading &rarr;"
 categories:
   - "Current"

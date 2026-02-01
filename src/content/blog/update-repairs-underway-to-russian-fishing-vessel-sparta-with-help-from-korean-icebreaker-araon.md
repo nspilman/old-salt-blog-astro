@@ -1,7 +1,7 @@
 ---
 title: "Update: Repairs Underway to Russian Fishing Vessel Sparta with Help from Korean Icebreaker Araon"
 date: 2011-12-28T09:05:40
-slug: update-repairs-underway-to-russian-fishing-vessel-sparta-with-help-from-korean-icebreaker-araon
+slug: "update-repairs-underway-to-russian-fishing-vessel-sparta-with-help-from-korean-icebreaker-araon"
 excerpt: "The Russian fishing vessel Sparta, which was holed by ice below the waterline in the Ross Sea off Antarctica on December 16th and has been trapped in the ice for over ten days, is now undergoing temporary repairs.  On Monday, … Continue reading &rarr;"
 categories:
   - "Current"

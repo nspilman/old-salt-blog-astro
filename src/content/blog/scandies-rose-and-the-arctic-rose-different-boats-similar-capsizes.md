@@ -1,7 +1,7 @@
 ---
 title: "Scandies Rose and the Arctic Rose — Different Boats, Similar Tragedies"
 date: 2020-01-24T17:39:39
-slug: scandies-rose-and-the-arctic-rose-different-boats-similar-capsizes
+slug: "scandies-rose-and-the-arctic-rose-different-boats-similar-capsizes"
 excerpt: "On New Year’s Eve, in 20-foot seas and high winds, the 130′ crab boat Scandies Rose operating off the Alaska Peninsula, developed a starboard list and suddenly capsized. Two of the seven crew were able to don exposure suits and … Continue reading &rarr;"
 categories:
   - "Current"

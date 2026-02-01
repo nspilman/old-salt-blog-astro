@@ -1,7 +1,7 @@
 ---
 title: "Tidal Turbines Impact on Seals, Fish and Other Sea Life"
 date: 2021-09-03T18:08:17
-slug: tidal-turbines-impact-on-seals-fish-and-other-sea-life
+slug: "tidal-turbines-impact-on-seals-fish-and-other-sea-life"
 excerpt: "Our recent posts about tidal turbines to create clean energy have raised interesting comments and questions about the impact of the underwater turbines on fish and mammals. Will seals, seabirds, and fish be sliced and diced by underwater turbines? Will … Continue reading &rarr;"
 categories:
   - "Current"

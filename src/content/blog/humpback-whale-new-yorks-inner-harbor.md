@@ -1,7 +1,7 @@
 ---
 title: "Humpback Whale In New York’s Inner Harbor"
 date: 2016-11-18T09:15:25
-slug: humpback-whale-new-yorks-inner-harbor
+slug: "humpback-whale-new-yorks-inner-harbor"
 excerpt: "Yesterday, we posted about the remarkable recovery of humpback whales after have been hunted to near extinction in the 1980s. Coincidentally, yesterday morning, a humpback whale was spotted swimming in the Hudson River in New York’s inner harbor near the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

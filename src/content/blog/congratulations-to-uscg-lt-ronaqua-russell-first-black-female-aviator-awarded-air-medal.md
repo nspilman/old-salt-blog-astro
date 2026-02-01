@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to USCG Lt. Ronaqua Russell — First Black Female Aviator Awarded Air Medal"
 date: 2019-03-06T17:26:09
-slug: congratulations-to-uscg-lt-ronaqua-russell-first-black-female-aviator-awarded-air-medal
+slug: "congratulations-to-uscg-lt-ronaqua-russell-first-black-female-aviator-awarded-air-medal"
 excerpt: "Congratulations to Lt. Ronaqua Russell, the first African-American female aviator in the Coast Guard to receive the Air Medal.  From the Coast Guard press release: The Air Medal is awarded to an individual who distinguishes themselves by heroic or meritorious … Continue reading &rarr;"
 categories:
   - "Current"

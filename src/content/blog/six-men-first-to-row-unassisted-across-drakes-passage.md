@@ -1,7 +1,7 @@
 ---
 title: "Six Men First to Row Unassisted Across Drake’s Passage"
 date: 2019-12-30T17:14:00
-slug: six-men-first-to-row-unassisted-across-drakes-passage
+slug: "six-men-first-to-row-unassisted-across-drakes-passage"
 excerpt: "Six men have become the first to row unassisted across Drake’s passage, between South America and Antarctica. The effort was led by adventurer Colin O’Brady. In just under 13 days, they rowed more than 700 miles in a 29-foot boat … Continue reading &rarr;"
 categories:
   - "Current"

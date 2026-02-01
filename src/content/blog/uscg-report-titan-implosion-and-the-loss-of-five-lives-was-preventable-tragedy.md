@@ -1,7 +1,7 @@
 ---
 title: "USCG Report: Titan Implosion and the Loss of Five Lives was Preventable Tragedy"
 date: 2025-08-05T17:11:48
-slug: uscg-report-titan-implosion-and-the-loss-of-five-lives-was-preventable-tragedy
+slug: "uscg-report-titan-implosion-and-the-loss-of-five-lives-was-preventable-tragedy"
 excerpt: "After a two-year investigation, the US Coast Guard Marine Board of Investigation (MBI) has released a 335-page report on the loss of the Titan, a submersible designed, built, and operated by the American underwater-tourism company OceanGate. The submersible imploded during a … Continue reading &rarr;"
 categories:
   - "Current"

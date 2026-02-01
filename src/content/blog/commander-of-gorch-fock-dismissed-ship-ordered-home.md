@@ -1,7 +1,7 @@
 ---
 title: "Commander of Gorch Fock Dismissed, Ship Ordered Home"
 date: 2011-01-22T14:37:16
-slug: commander-of-gorch-fock-dismissed-ship-ordered-home
+slug: "commander-of-gorch-fock-dismissed-ship-ordered-home"
 excerpt: "An update on yesterday’s post. German defense minister fires ship’s captain amid mutiny rumors The German defense minister has dismissed the commander of the naval training ship Gorch Fock after cadets complained of harsh treatment from superiors following a fatal … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "On Board the Pelican of London, a Diamond Jubilee Thames Pageant Tall Ship"
 date: 2012-05-29T09:33:03
-slug: on-board-the-pelican-of-london-a-diamond-jubilee-thames-pageant-tall-ship
+slug: "on-board-the-pelican-of-london-a-diamond-jubilee-thames-pageant-tall-ship"
 excerpt: "On Sunday, June 3rd, the Queen’s Diamond Jubilee Weekend will culminate with a seven-mile flotilla of 1,000 ships and boats making up the biggest gathering on the Thames in 350 years. One of those vessels will be the sail training … Continue reading &rarr;"
 categories:
   - "Current"

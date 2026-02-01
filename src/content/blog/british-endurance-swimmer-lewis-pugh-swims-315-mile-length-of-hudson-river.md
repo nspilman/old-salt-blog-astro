@@ -1,7 +1,7 @@
 ---
 title: "British Endurance Swimmer Lewis Pugh Swims 315 Mile Length of Hudson River"
 date: 2023-09-15T18:29:32
-slug: british-endurance-swimmer-lewis-pugh-swims-315-mile-length-of-hudson-river
+slug: "british-endurance-swimmer-lewis-pugh-swims-315-mile-length-of-hudson-river"
 excerpt: "On August 13 2023, British endurance swimmer and environmental activist Lewis Pugh began his 315-mile (507-km) swim down the Hudson River, from its source at Lake Tear of the Clouds, to its end at New York City. He finished the … Continue reading &rarr;"
 categories:
   - "Current"

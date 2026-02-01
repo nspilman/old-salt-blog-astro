@@ -1,7 +1,7 @@
 ---
 title: "‘Super-Bug’ Found in Rio’s Dirty Olympic Sailing Waters"
 date: 2014-12-18T09:34:09
-slug: super-bug-found-in-rios-dirty-olympic-sailing-waters
+slug: "super-bug-found-in-rios-dirty-olympic-sailing-waters"
 excerpt: "Last May, we posted about concerns over high concentrations of sewage and garbage in Rio de Janeiro’s Guanabara Bay, where 2016 Olympic sailing competitions are slated to be held.  Now scientists at a Rio de Janeiro research institute have found what they call … Continue reading &rarr;"
 categories:
   - "Current"

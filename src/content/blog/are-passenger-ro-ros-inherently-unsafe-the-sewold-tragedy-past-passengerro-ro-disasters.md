@@ -1,7 +1,7 @@
 ---
 title: "Are Passenger Ro-Ros Inherently Unsafe? The Sewol Tragedy & Past Passenger/Ro-Ro Disasters"
 date: 2014-04-21T11:21:26
-slug: are-passenger-ro-ros-inherently-unsafe-the-sewold-tragedy-past-passengerro-ro-disasters
+slug: "are-passenger-ro-ros-inherently-unsafe-the-sewold-tragedy-past-passengerro-ro-disasters"
 excerpt: "Are passenger ro-ro ferries inherently unsafe? No one knows why the passenger ro-ro ferry Sewol capsized last Wednesday off the south-west coast of Korea. There are indications that poor crew training and inadequate safety and evacuation procedures may have contributed … Continue reading &rarr;"
 categories:
   - "Current"

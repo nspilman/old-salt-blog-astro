@@ -1,7 +1,7 @@
 ---
 title: "Yacht Racing for Fun and Profit — Schooner America and Maxi Comanche"
 date: 2020-01-07T18:40:51
-slug: yacht-racing-for-fun-and-profit-schooner-america-and-maxi-comanche
+slug: "yacht-racing-for-fun-and-profit-schooner-america-and-maxi-comanche"
 excerpt: "Shortly after winning the Sydney Hobart Race for the third time, the maxi-yacht Comanche has been sold by its current owners, Jim Cooney and his wife Samantha Grant, to Russian interests.  Perhaps, oddly enough, the transaction brought to mind the … Continue reading &rarr;"
 categories:
   - "Current"

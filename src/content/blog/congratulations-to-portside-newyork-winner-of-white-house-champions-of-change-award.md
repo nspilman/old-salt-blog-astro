@@ -1,7 +1,7 @@
 ---
-title: "Congratulations to PortSide NewYork – Winner of the White House “Champions of Change” Award !"
+title: "Congratulations to PortSide NewYork – Winner of the White House \"Champions of Change\" Award !"
 date: 2013-04-24T12:31:35
-slug: congratulations-to-portside-newyork-winner-of-white-house-champions-of-change-award
+slug: "congratulations-to-portside-newyork-winner-of-white-house-champions-of-change-award"
 excerpt: "Our hearty congratulations to PortSide NewYork, which today was awarded a White House Champions of Change award in recognition for the wonderful work done by the non-profit organization to assist their neighbors in Red Hook, a Brooklyn community absolutely devastated by Hurricane Sandy. The … Continue reading &rarr;"
 categories:
   - "Current"

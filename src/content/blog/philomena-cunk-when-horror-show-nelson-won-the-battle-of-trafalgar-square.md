@@ -1,7 +1,7 @@
 ---
 title: "Philomena Cunk: When Horror-show Nelson Won the Battle of Trafalgar Square"
 date: 2018-04-21T14:05:23
-slug: philomena-cunk-when-horror-show-nelson-won-the-battle-of-trafalgar-square
+slug: "philomena-cunk-when-horror-show-nelson-won-the-battle-of-trafalgar-square"
 excerpt: "Remember when Lord Horror-show Nelson defeated Napolean Cumberbatch at the Battle of Trafalgar Square? No? Good, because it never happened. Once again, here is an excerpt from Cunk on Britain, Episode 2, in which the clueless Philomena Cunk thoroughly mangles … Continue reading &rarr;"
 categories:
   - "Current"

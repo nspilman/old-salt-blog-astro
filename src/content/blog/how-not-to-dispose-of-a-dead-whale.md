@@ -1,7 +1,7 @@
 ---
 title: "How Not to Dispose of a Dead Whale"
 date: 2011-10-30T08:23:01
-slug: how-not-to-dispose-of-a-dead-whale
+slug: "how-not-to-dispose-of-a-dead-whale"
 excerpt: "So what do you do if you find a dead gray whale on your beach? It is too large to bury, too heavy to drag away and too stinky to cut into pieces. I am not sure that I have … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

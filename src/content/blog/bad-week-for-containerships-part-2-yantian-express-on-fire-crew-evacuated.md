@@ -1,7 +1,7 @@
 ---
 title: "Bad Week for Containerships, Part 2 —  Yantian Express on Fire, Crew Evacuated"
 date: 2019-01-06T16:01:42
-slug: bad-week-for-containerships-part-2-yantian-express-on-fire-crew-evacuated
+slug: "bad-week-for-containerships-part-2-yantian-express-on-fire-crew-evacuated"
 excerpt: "On Thursday, a fire broke out in one cargo container on the Yantian Express, a 7,510 TEU container ship, about 1,500 kilometers southeast of Halifax. The fire spread to adjacent containers. The firefighting tug, Smit Nicobar, arrived Friday evening but weather conditions limited what the tug’s crew could … Continue reading &rarr;"
 categories:
   - "Current"

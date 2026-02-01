@@ -1,7 +1,7 @@
 ---
 title: "The Indian Ocean Gyre, the Garbage Patch and Malaysia Air Flight 370"
 date: 2015-08-02T21:45:04
-slug: the-indian-ocean-gyre-trash-and-malaysia-air-flight-370
+slug: "the-indian-ocean-gyre-trash-and-malaysia-air-flight-370"
 excerpt: "A wing flap from Malaysia Air Flight 370, which disappeared in 2014, has washed up on the island of Reunion in the Indian Ocean off the coast of Africa, roughly 2,300 miles away from where most believe that the plane crashed, on … Continue reading &rarr;"
 categories:
   - "Current"

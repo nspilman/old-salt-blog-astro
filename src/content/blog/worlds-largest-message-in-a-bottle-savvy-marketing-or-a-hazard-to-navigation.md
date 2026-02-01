@@ -1,7 +1,7 @@
 ---
 title: "World’s Largest Message in a Bottle – Savvy Marketing or a Hazard to Navigation?"
 date: 2013-03-10T16:21:37
-slug: worlds-largest-message-in-a-bottle-savvy-marketing-or-a-hazard-to-navigation
+slug: "worlds-largest-message-in-a-bottle-savvy-marketing-or-a-hazard-to-navigation"
 excerpt: "The Norwegian soft drink Solo produced by Ringnes, Oskar Sylte, Aass, and Mack is extremely popular in Norway but virtually unknown in the United States. To increase visibility in other markets, the firms have had built a 24′ (8M) bottle in which they will … Continue reading &rarr;"
 categories:
   - "Current"

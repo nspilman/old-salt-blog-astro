@@ -1,8 +1,8 @@
 ---
-title: "USS Constitution “Old Ironsides” Leaves Drydock"
+title: "USS Constitution \"Old Ironsides\" Leaves Drydock"
 date: 2017-07-24T16:32:31
-slug: uss-constitution-old-ironsides-leaves-drydock
-excerpt: "After a two year drydocking for restoration work, USS Constitution “Old Ironsides” has returned to the waters of Boston harbor. The frigate is the world’s oldest commissioned warship still afloat. Launched for the first time in 1797, she earned her … Continue reading &rarr;"
+slug: "uss-constitution-old-ironsides-leaves-drydock"
+excerpt: "After a two year drydocking for restoration work, USS Constitution \"Old Ironsides\" has returned to the waters of Boston harbor. The frigate is the world’s oldest commissioned warship still afloat. Launched for the first time in 1797, she earned her … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "USS Constitution"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/undockconstitution.jpg"
 author: "Rick Spilman"
-description: "After a two year drydocking for restoration work, USS Constitution “Old Ironsides” has returned to the waters of Boston harbor. The frigate is the world’s oldest commissioned warship still afloat. Launched for the first time in 1797, she earned her … Continue reading &rarr;"
+description: "After a two year drydocking for restoration work, USS Constitution \"Old Ironsides\" has returned to the waters of Boston harbor. The frigate is the world’s oldest commissioned warship still afloat. Launched for the first time in 1797, she earned her … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/undockconstitution.jpg)After a two year drydocking for restoration work, [USS *Constitution*](https://en.wikipedia.org/wiki/USS_Constitution) “Old Ironsides” has returned to the waters of Boston harbor. The frigate is the world’s oldest commissioned warship still afloat. Launched for the first time in 1797, she earned her famous nickname in battles during the War of 1812. She was later memorialized in the poem *[Old Ironsides](https://en.wikipedia.org/wiki/Old_Ironsides_\(poem\))* by Oliver Wendell Holmes Sr.

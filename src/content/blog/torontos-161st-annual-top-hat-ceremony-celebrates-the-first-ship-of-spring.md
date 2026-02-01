@@ -1,7 +1,7 @@
 ---
 title: "Toronto’s 161st Annual Top Hat Ceremony Celebrates the First Ship of Spring"
 date: 2022-03-30T16:58:25
-slug: torontos-161st-annual-top-hat-ceremony-celebrates-the-first-ship-of-spring
+slug: "torontos-161st-annual-top-hat-ceremony-celebrates-the-first-ship-of-spring"
 excerpt: "Some watch for the first robin to signify the arrival of Spring. In the Port of Toronto, Canada, the coming of spring has been marked by the arrival of the first ocean-going ship of the season; an arrival that has … Continue reading &rarr;"
 categories:
   - "Current"

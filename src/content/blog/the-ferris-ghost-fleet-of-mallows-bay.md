@@ -1,7 +1,7 @@
 ---
 title: "The Ferris Ghost Fleet of Mallows Bay"
 date: 2019-07-20T15:37:03
-slug: the-ferris-ghost-fleet-of-mallows-bay
+slug: "the-ferris-ghost-fleet-of-mallows-bay"
 excerpt: "A world war was raging and German U-boats were sinking merchant ships faster than they could be built, so the United States government decided to build an emergency fleet of standardized ships. The goal was to build the ships quickly … Continue reading &rarr;"
 categories:
   - "Current"

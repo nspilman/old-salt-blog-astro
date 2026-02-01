@@ -1,7 +1,7 @@
 ---
 title: "Lucy Bellwood’s Baggywrinkles: A Lubber’s Guide to Life at Sea"
 date: 2015-07-22T10:54:02
-slug: lucy-bellwoods-baggywrinkles-a-lubbers-guide-to-life-at-sea
+slug: "lucy-bellwoods-baggywrinkles-a-lubbers-guide-to-life-at-sea"
 excerpt: "I have long been a fan of Lucy Bellwood. A tall ship sailor and cartoonist; she is talented, smart and funny. Her  wonderful series, Baggywrinkles, based on the time she has spent working aboard replica 18th-century tall ships, has appeared an issue at … Continue reading &rarr;"
 categories:
   - "Newbooks"

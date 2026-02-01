@@ -1,14 +1,14 @@
 ---
-title: "Oliver Hazard Perry, “Hero of Lake Erie” – Born and Died on August 23rd"
+title: "Oliver Hazard Perry, \"Hero of Lake Erie\" – Born and Died on August 23rd"
 date: 2013-08-23T16:58:58
-slug: oliver-hazard-perry-hero-of-lake-erie-born-and-died-on-august-23rd
+slug: "oliver-hazard-perry-hero-of-lake-erie-born-and-died-on-august-23rd"
 excerpt: "Oliver Hazard Perry was born near Newport, Rhode Island on August 23,1785. He died of yellow fever on his 34th birthday in 1819.  Perry went sea as a midshipman at the age of 13.  He was given his first command, … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - ""Hero of Lake Erie""
+  - "\"Hero of Lake Erie\""
   - "Oliver Hazard Perry"
   - "SSV Oliver Hazard Perry"
 author: "Rick Spilman"

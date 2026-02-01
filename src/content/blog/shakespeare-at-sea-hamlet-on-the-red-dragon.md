@@ -1,7 +1,7 @@
 ---
 title: "Shakespeare at Sea — Hamlet on the Red Dragon"
 date: 2019-09-14T09:33:48
-slug: shakespeare-at-sea-hamlet-on-the-red-dragon
+slug: "shakespeare-at-sea-hamlet-on-the-red-dragon"
 excerpt: "Here is a wholly random question. When and where was William Shakespeare’s tragedy Hamlet first performed on shipboard?   The first recorded shipboard performance of Hamlet, and one of the earlier performances anywhere, was in September 1607 on the East India Company … Continue reading &rarr;"
 categories:
   - "History"

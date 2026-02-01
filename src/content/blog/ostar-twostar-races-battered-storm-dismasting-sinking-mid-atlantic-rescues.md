@@ -1,7 +1,7 @@
 ---
 title: "OSTAR & TwoSTAR Races Battered by Storm — Dismasting, Sinking and Mid-Atlantic Rescues"
 date: 2017-06-11T10:20:08
-slug: ostar-twostar-races-battered-storm-dismasting-sinking-mid-atlantic-rescues
+slug: "ostar-twostar-races-battered-storm-dismasting-sinking-mid-atlantic-rescues"
 excerpt: "Sailors competing in the Royal Western Yacht Club’s Original Singlehanded Transatlantic Race (OSTAR) and the Twohanded Transatlantic Race (TwoSTAR) were battered by a North Atlantic storm with 60 knot winds and 45′ seas, 900 miles miles east of Newfoundland. One … Continue reading &rarr;"
 categories:
   - "Current"

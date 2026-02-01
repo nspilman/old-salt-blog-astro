@@ -1,7 +1,7 @@
 ---
 title: "Loss of Volvo Ocean Sailor John Fisher — Timeline"
 date: 2018-03-29T10:31:31
-slug: loss-of-volvo-ocean-sailor-john-fisher-timeline
+slug: "loss-of-volvo-ocean-sailor-john-fisher-timeline"
 excerpt: "Team Sun Hung Kai/Scallywag has put out a timeline of events in the recent loss of John Fisher overboard while sailing in high winds and seas in the Southern Ocean in the Volvo Ocean Race. They were sailing in Leg 7 … Continue reading &rarr;"
 categories:
   - "Current"

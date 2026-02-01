@@ -1,7 +1,7 @@
 ---
 title: "The Amazing Cuttlefish  – Kings of Camouflage"
 date: 2011-08-06T08:46:52
-slug: the-amazing-cuttlefish-kings-of-camouflage
+slug: "the-amazing-cuttlefish-kings-of-camouflage"
 excerpt: "A fascinating new program from NOVA. Definitely worth watching.  I had no idea that cuttlefish were so intriguing. Watch the full episode. See more NOVA. Thanks to Jon Clinch for pointing it out. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

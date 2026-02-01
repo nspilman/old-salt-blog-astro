@@ -1,8 +1,8 @@
 ---
 title: "Theodore Tugboat in the Big Harbor"
 date: 2009-09-20T08:15:47
-slug: theodore-tugboat-in-the-big-harbor
-excerpt: "While New York may have a great yearly tug boat race, I recently discovered that Halifax harbor has a real Theodore Tugboat. In the 1990s, “Theodore Tugboat”, was a Canadian kid’s TV show about a harbor tug in the “Big Harbor”.  In the … Continue reading &rarr;"
+slug: "theodore-tugboat-in-the-big-harbor"
+excerpt: "While New York may have a great yearly tug boat race, I recently discovered that Halifax harbor has a real Theodore Tugboat. In the 1990s, \"Theodore Tugboat\", was a Canadian kid’s TV show about a harbor tug in the \"Big Harbor\".  In the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Theodore Tugboat"
   - "Thomas the Tank Engine"
 author: "Rick Spilman"
-description: "While New York may have a great yearly tug boat race, I recently discovered that Halifax harbor has a real Theodore Tugboat. In the 1990s, “Theodore Tugboat”, was a Canadian kid’s TV show about a harbor tug in the “Big Harbor”.  In the … Continue reading &rarr;"
+description: "While New York may have a great yearly tug boat race, I recently discovered that Halifax harbor has a real Theodore Tugboat. In the 1990s, \"Theodore Tugboat\", was a Canadian kid’s TV show about a harbor tug in the \"Big Harbor\".  In the … Continue reading &rarr;"
 ---
 
 ![theodore2](http://www.oldsaltblog.com/wp-content/uploads/2009/09/theodore2.jpg)While New York may have a great [yearly tug boat race](http://www.oldsaltblog.com/2009/09/07/17th-annual-north-river-tugboat-challenge/), I recently discovered that Halifax harbor has a real [Theodore Tugboat](http://www.murphysonthewater.com/theodoretugboat/gallery/index.htm).

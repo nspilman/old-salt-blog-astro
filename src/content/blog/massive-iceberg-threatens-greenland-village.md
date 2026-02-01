@@ -1,7 +1,7 @@
 ---
 title: "Massive Iceberg Threatens Greenland Village"
 date: 2018-07-15T15:41:53
-slug: massive-iceberg-threatens-greenland-village
+slug: "massive-iceberg-threatens-greenland-village"
 excerpt: "A 300 foot high, 11-million-ton iceberg is threatening the tiny Greenland village of Innaarsuit. The massive iceberg has grounded just off the coast. The concern is that if the iceberg should calve, the plunging ice could create a tsunami-like wave that … Continue reading &rarr;"
 categories:
   - "Current"

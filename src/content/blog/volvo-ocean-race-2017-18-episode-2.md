@@ -1,7 +1,7 @@
 ---
 title: "Volvo Ocean Race 2017-18: Episode 2"
 date: 2017-10-26T15:52:20
-slug: volvo-ocean-race-2017-18-episode-2
+slug: "volvo-ocean-race-2017-18-episode-2"
 excerpt: "Volvo Ocean Race 2017-18: Episode 2 The Volvo Ocean Race, now in its 13th edition, is back. From the start on October 22 in Alicante, Spain, seven teams are racing around the world, and will be stopping in 12 cities before … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

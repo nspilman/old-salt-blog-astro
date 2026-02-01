@@ -1,7 +1,7 @@
 ---
 title: "What the Tsunami Carried Away – Debris at Sea"
 date: 2011-04-08T12:05:21
-slug: what-the-tsunami-carried-away-wreckage-drifting-at-sea
+slug: "what-the-tsunami-carried-away-wreckage-drifting-at-sea"
 excerpt: "For all the damage that the Japanese tsunami of March 11th left behind on shore,  it also carried considerable wreckage out to sea.   this week the Japanese Coast Guard warned ships to look out for and avoid the floating … Continue reading &rarr;"
 categories:
   - "Current"

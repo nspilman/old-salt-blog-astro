@@ -1,7 +1,7 @@
 ---
 title: "Update: Salvaging Astrid"
 date: 2013-09-13T12:21:45
-slug: salvaging-astrid
+slug: "salvaging-astrid"
 excerpt: "At the end of July, we posted about the sinking of the Dutch sail training ship, Astrid, a 136′ (41.65 M) brig, which ran aground on rocks on the western mouth of Oysterhaven, on the Irish coast, near Cork.  She was recently … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

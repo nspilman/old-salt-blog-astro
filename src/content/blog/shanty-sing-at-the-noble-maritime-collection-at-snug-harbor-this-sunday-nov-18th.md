@@ -1,7 +1,7 @@
 ---
 title: "Shanty Sing at the Noble Maritime Collection at Snug Harbor this Sunday, Nov 18th"
 date: 2012-11-14T18:03:32
-slug: shanty-sing-at-the-noble-maritime-collection-at-snug-harbor-this-sunday-nov-18th
+slug: "shanty-sing-at-the-noble-maritime-collection-at-snug-harbor-this-sunday-nov-18th"
 excerpt: "Despite the best efforts of Superstorm Sandy, the monthly Sea Shanty Session at the Noble Maritime Collection at the Snug Harbor Cultural Center is carrying on and will be held this Sunday November 18, 2012 from 2 until 5 PM. Admission is by donation, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

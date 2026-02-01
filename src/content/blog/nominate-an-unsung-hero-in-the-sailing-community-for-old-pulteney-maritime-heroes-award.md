@@ -1,7 +1,7 @@
 ---
 title: "Nominate An Unsung Hero in the Sailing Community for Old Pulteney Maritime Heroes Award"
 date: 2012-05-09T17:42:49
-slug: nominate-an-unsung-hero-in-the-sailing-community-for-old-pulteney-maritime-heroes-award
+slug: "nominate-an-unsung-hero-in-the-sailing-community-for-old-pulteney-maritime-heroes-award"
 excerpt: "Sailing and sipping single malt scotch are among two of my favorite activities, (though not necessarily at the same time.)   It does seem fitting that Old Pulteney Single Malt Scotch Whisky and US Sailing have partnered to introduce the inaugural Old … Continue reading &rarr;"
 categories:
   - "Current"

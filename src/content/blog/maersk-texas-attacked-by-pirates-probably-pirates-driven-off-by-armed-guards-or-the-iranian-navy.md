@@ -1,7 +1,7 @@
 ---
 title: "Maersk Texas Attacked by Pirates, Probably – Pirates Driven off by Somebody"
 date: 2012-05-24T10:52:52
-slug: maersk-texas-attacked-by-pirates-probably-pirates-driven-off-by-armed-guards-or-the-iranian-navy
+slug: "maersk-texas-attacked-by-pirates-probably-pirates-driven-off-by-armed-guards-or-the-iranian-navy"
 excerpt: "Simply trying to keep up with what is going on the battle against piracy is not as easy as it might appear. For example, Maersk Texas, a US flag cargo ship came under attack by pirates in the Gulf of … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Do They Serve Canned Meat on the USCGC Harriet Lane?"
 date: 2010-10-02T08:26:25
-slug: do-they-serve-canned-meat-on-the-uscg-harriet-lane
-excerpt: "I will admit to doing a double take when I saw the USCG press release announcing “Coast Guard Cutter Harriet Lane returns home after 9-week patrol.”   I wondered, who would name a ship the Harriet Lane?  For the record, the … Continue reading &rarr;"
+slug: "do-they-serve-canned-meat-on-the-uscg-harriet-lane"
+excerpt: "I will admit to doing a double take when I saw the USCG press release announcing \"Coast Guard Cutter Harriet Lane returns home after 9-week patrol.\"   I wondered, who would name a ship the Harriet Lane?  For the record, the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Language"
@@ -15,7 +15,7 @@ tags:
   - "sailor slang"
   - "USCG Harriet Lane"
 author: "Rick Spilman"
-description: "I will admit to doing a double take when I saw the USCG press release announcing “Coast Guard Cutter Harriet Lane returns home after 9-week patrol.”   I wondered, who would name a ship the Harriet Lane?  For the record, the … Continue reading &rarr;"
+description: "I will admit to doing a double take when I saw the USCG press release announcing \"Coast Guard Cutter Harriet Lane returns home after 9-week patrol.\"   I wondered, who would name a ship the Harriet Lane?  For the record, the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/09/USCGC_Harriet_Lane.jpg)

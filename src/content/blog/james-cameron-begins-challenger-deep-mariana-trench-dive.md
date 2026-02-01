@@ -1,7 +1,7 @@
 ---
 title: "James Cameron Begins Challenger Deep, Mariana Trench Dive"
 date: 2012-03-25T19:45:30
-slug: james-cameron-begins-challenger-deep-mariana-trench-dive
+slug: "james-cameron-begins-challenger-deep-mariana-trench-dive"
 excerpt: "Last week we posted about James Cameron’s preparation for his attempt to dive to the bottom of the Challenger Deep in the Mariana Trench. Reports are that he is now attempting the dive in his one man submarine, described as … Continue reading &rarr;"
 categories:
   - "Current"

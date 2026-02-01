@@ -1,7 +1,7 @@
 ---
 title: "New USCG Cutter to be Named for Elizebeth S. Friedman, Pioneering Code Breaker"
 date: 2020-07-12T10:24:38
-slug: new-uscg-cutter-to-be-named-for-elizebeth-s-friedman-pioneering-code-breaker
+slug: "new-uscg-cutter-to-be-named-for-elizebeth-s-friedman-pioneering-code-breaker"
 excerpt: "The US Coast Guard will name the eleventh ship in its new Legend-Class National Security Cutter (NSC) program in honor of Elizebeth Smith Friedman, a pioneering code-breaker for the Coast Guard during the prohibition era and World War II. Marine-Executive … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

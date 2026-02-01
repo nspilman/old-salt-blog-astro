@@ -1,7 +1,7 @@
 ---
 title: "Lifejackets for Life — PFD PSA from New Zealand"
 date: 2014-04-13T11:10:25
-slug: lifejackets-for-life-pdf-psa-from-new-zealnd
+slug: "lifejackets-for-life-pdf-psa-from-new-zealnd"
 excerpt: "Maritime New Zealand (MNZ) clearly has a sense of humor. Their new advertising campaign harkens back to the glory days of 1980s cop shows to remind us that, like bulletproof vests, lifejackets don’t save people’s lives unless they’re worn. Lifejackets … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

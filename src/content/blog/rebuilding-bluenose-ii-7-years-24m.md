@@ -1,8 +1,8 @@
 ---
-title: "“Rebuilding” Bluenose II — 7 years & $24M"
+title: "\"Rebuilding\" Bluenose II — 7 years & $24M"
 date: 2017-07-31T17:41:49
-slug: rebuilding-bluenose-ii-7-years-24m
-excerpt: "The best thing that can be said about the “rebuilding” of the Canadian schooner Bluenose II is that is it is over and that the Bluenose II is a lovely vessel.  Unfortunately, it took seven years and cost C$24 million (around … Continue reading &rarr;"
+slug: "rebuilding-bluenose-ii-7-years-24m"
+excerpt: "The best thing that can be said about the \"rebuilding\" of the Canadian schooner Bluenose II is that is it is over and that the Bluenose II is a lovely vessel.  Unfortunately, it took seven years and cost C$24 million (around … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "schooner"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/blueii.jpg"
 author: "Rick Spilman"
-description: "The best thing that can be said about the “rebuilding” of the Canadian schooner Bluenose II is that is it is over and that the Bluenose II is a lovely vessel.  Unfortunately, it took seven years and cost C$24 million (around … Continue reading &rarr;"
+description: "The best thing that can be said about the \"rebuilding\" of the Canadian schooner Bluenose II is that is it is over and that the Bluenose II is a lovely vessel.  Unfortunately, it took seven years and cost C$24 million (around … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/blueii-200x173.jpg)The best thing that can be said about the “rebuilding” of the Canadian schooner [Bluenose II](https://en.wikipedia.org/wiki/Bluenose_II) is that is it is over and that the *Bluenose II* is a lovely vessel.  Unfortunately, it took seven years and [cost C$24 million (around US$ 20 million)](http://www.cbc.ca/news/canada/nova-scotia/bluenose-ii-bluenose-2-heritage-ship-schooner-rebuild-boondoggle-rudder-1.4219098) to complete the “reconstruction and rebuilding,” which, in fact, was effectively the construction of a wholly new schooner. 

@@ -1,7 +1,7 @@
 ---
 title: "High Powered Boat Crashes into Beach Restaurant Near Tampa Florida"
 date: 2015-02-24T11:03:25
-slug: high-powered-boat-crashes-into-beach-restaurant-near-tampa-florida
+slug: "high-powered-boat-crashes-into-beach-restaurant-near-tampa-florida"
 excerpt: "A quick quiz — you are the captain of a 39′ fast sports fishing boat with six passengers and a heavy sea fog has just set in. You either lack or are paying no attention to electronic navigational aides.  What do … Continue reading &rarr;"
 categories:
   - "Current"

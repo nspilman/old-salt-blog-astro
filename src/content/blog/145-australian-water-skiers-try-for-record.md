@@ -1,7 +1,7 @@
 ---
 title: "145 Australian Water Skiers Try for World Record"
 date: 2012-02-01T08:52:21
-slug: 145-australian-water-skiers-try-for-record
+slug: "145-australian-water-skiers-try-for-record"
 excerpt: "I am not entirely sure why anyone would decide to go water skiing with 150 of your closest friends. Then again, why not? Last Friday, one hundred and forty five water-skiers in Australia’s Tasmania skied for a nautical mile inside … Continue reading &rarr;"
 categories:
   - "Current"

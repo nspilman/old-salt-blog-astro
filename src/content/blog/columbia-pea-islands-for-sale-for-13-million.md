@@ -1,7 +1,7 @@
 ---
 title: "Columbia & Pea Islands for Sale for $13 Million"
 date: 2019-07-06T10:06:45
-slug: columbia-pea-islands-for-sale-for-13-million
+slug: "columbia-pea-islands-for-sale-for-13-million"
 excerpt: "Looking for a private island getaway within a reasonable commuting distance of New York City? Columbia (ex-Little Pea) and Pea Island are for sale. The two islands are in the western end of Long Island Sound and 10-minutes by boat … Continue reading &rarr;"
 categories:
   - "Current"

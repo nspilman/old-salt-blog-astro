@@ -1,7 +1,7 @@
 ---
 title: "Small Ships Under the Tower Bridge"
 date: 2010-05-02T07:36:33
-slug: small-ships-under-the-tower-bridger
+slug: "small-ships-under-the-tower-bridger"
 excerpt: "World’s smallest tall ships sail under Tower Bridge… without the bridge deck opening With the traditional rigging of a tall ship but only a fraction of the size, these two vessels are dwarfed by Tower Bridge. The world’s smallest tall … Continue reading &rarr;"
 categories:
   - "Current"

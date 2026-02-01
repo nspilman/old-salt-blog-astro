@@ -1,7 +1,7 @@
 ---
 title: "Farewell to HMS Ark Royal"
 date: 2011-03-15T15:47:48
-slug: farewell-to-hms-ark-royal
+slug: "farewell-to-hms-ark-royal"
 excerpt: "The Ark Royal, the flagship of the Royal Navy has been decommissioned.   It will be another decade before a new aircraft carrier takes her place. Ark Royal: decommissioning marks end of a long and celebrated history The early retirement of the … Continue reading &rarr;"
 categories:
   - "Current"

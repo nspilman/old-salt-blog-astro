@@ -1,7 +1,7 @@
 ---
 title: "Endurance22 Expedition, Search for Shackleton’s Lost Ship Beneath the Ice, Gets Underway"
 date: 2022-02-04T18:29:30
-slug: endurance22-expedition-search-for-shackletons-lost-ship-beneath-the-ice-gets-underway
+slug: "endurance22-expedition-search-for-shackletons-lost-ship-beneath-the-ice-gets-underway"
 excerpt: "In early January, we posted about two memorial Antarctic expeditions on the 100th anniversary of Sir Ernest Shackleton’s death. One of the expeditions, Endurance22, organized by the Falklands Maritime Heritage Trust, hopes to locate, survey, and film the wreck of … Continue reading &rarr;"
 categories:
   - "Current"

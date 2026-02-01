@@ -1,7 +1,7 @@
 ---
 title: "Fighting Whaling in Court and in Port as Iceland Resumes Fin Whale Hunting"
 date: 2013-07-22T14:50:26
-slug: fighting-whaling-in-court-and-in-port-as-iceland-resumes-fin-whale-hunting
+slug: "fighting-whaling-in-court-and-in-port-as-iceland-resumes-fin-whale-hunting"
 excerpt: "After a two year suspension, Iceland has resumed hunting endangered fin whales.  Photographs taken by undercover Greenpeace activists show a harpooned fin whale being cut up for meat, likely to be exported to Japan.  Meanwhile, environmentalists are fighting whaling in … Continue reading &rarr;"
 categories:
   - "Current"

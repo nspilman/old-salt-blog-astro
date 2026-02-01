@@ -1,8 +1,8 @@
 ---
 title: "Wreck of the USS Macon — Flying Aircraft Carrier"
 date: 2015-08-25T18:58:09
-slug: wreck-of-the-uss-macon-flying-aircraft-carrier
-excerpt: "In Marvel comics and movies, the mobile headquarters of the fictional intelligence/defense agency S.H.I.E.L.D. is a flying aircraft carrier, referred to as a “Helicarrier.”  In the comic books, the flying aircraft carrier first appeared in 1965, which raises the obvious question — … Continue reading &rarr;"
+slug: "wreck-of-the-uss-macon-flying-aircraft-carrier"
+excerpt: "In Marvel comics and movies, the mobile headquarters of the fictional intelligence/defense agency S.H.I.E.L.D. is a flying aircraft carrier, referred to as a \"Helicarrier.\"  In the comic books, the flying aircraft carrier first appeared in 1965, which raises the obvious question — … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -16,7 +16,7 @@ tags:
   - "USS Akron"
   - "USS Macon"
 author: "Rick Spilman"
-description: "In Marvel comics and movies, the mobile headquarters of the fictional intelligence/defense agency S.H.I.E.L.D. is a flying aircraft carrier, referred to as a “Helicarrier.”  In the comic books, the flying aircraft carrier first appeared in 1965, which raises the obvious question — … Continue reading &rarr;"
+description: "In Marvel comics and movies, the mobile headquarters of the fictional intelligence/defense agency S.H.I.E.L.D. is a flying aircraft carrier, referred to as a \"Helicarrier.\"  In the comic books, the flying aircraft carrier first appeared in 1965, which raises the obvious question — … Continue reading &rarr;"
 ---
 
 ![ussmacon](http://www.oldsaltblog.com/wp-content/uploads/2015/08/ussmacon.jpg)

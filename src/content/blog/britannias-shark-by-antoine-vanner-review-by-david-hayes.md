@@ -1,7 +1,7 @@
 ---
 title: "Britannia’s Shark by Antoine Vanner  —  Review by David Hayes"
 date: 2015-02-03T18:47:13
-slug: britannias-shark-by-antoine-vanner-review-by-david-hayes
+slug: "britannias-shark-by-antoine-vanner-review-by-david-hayes"
 excerpt: "David Hayes reviews Antoine Vanner’s Britannia’s Shark on his excellent Historic Naval Fiction blog: Britannia’s Shark by Antoine Vanner continues the adventures of Commander Nicholas Dawlish, serving in the Royal Navy as the Victorian Era draws to a close. The series so … Continue reading &rarr;"
 categories:
   - "Newbooks"

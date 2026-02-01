@@ -1,7 +1,7 @@
 ---
 title: "Container Ship MSC Gayane Seized by Feds Following $1.3 B Cocaine Bust"
 date: 2019-07-09T17:07:08
-slug: container-ship-msc-gayane-seized-by-feds-following-1-3-b-cocaine-bust
+slug: "container-ship-msc-gayane-seized-by-feds-following-1-3-b-cocaine-bust"
 excerpt: "Yesterday, US Customs seized the 9,962 TEU container ship MSC Gayane.  The MSC Gayane was the ship on which 18,000 kilograms of cocaine, worth an estimated $1.3 billion, was seized by Federal agents while at the dock in the Port … Continue reading &rarr;"
 categories:
   - "Current"

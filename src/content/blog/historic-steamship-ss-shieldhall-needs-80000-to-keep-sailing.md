@@ -1,8 +1,8 @@
 ---
 title: "Historic steamship SS Shieldhall needs £80,000 to keep sailing"
 date: 2011-01-28T13:18:25
-slug: historic-steamship-ss-shieldhall-needs-80000-to-keep-sailing
-excerpt: "The great challenge of ship preservation in these times always seems to be largely  financial.   SS Shieldhall, the UK’s “2009 Flagship of  National Historic Ships” is in danger of scrapping unless funds can be raised to complete and upcoming drydocking. Historic … Continue reading &rarr;"
+slug: "historic-steamship-ss-shieldhall-needs-80000-to-keep-sailing"
+excerpt: "The great challenge of ship preservation in these times always seems to be largely  financial.   SS Shieldhall, the UK’s \"2009 Flagship of  National Historic Ships\" is in danger of scrapping unless funds can be raised to complete and upcoming drydocking. Historic … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "SS Shieldhall"
   - "The Solent Steam Packet"
 author: "Rick Spilman"
-description: "The great challenge of ship preservation in these times always seems to be largely  financial.   SS Shieldhall, the UK’s “2009 Flagship of  National Historic Ships” is in danger of scrapping unless funds can be raised to complete and upcoming drydocking. Historic … Continue reading &rarr;"
+description: "The great challenge of ship preservation in these times always seems to be largely  financial.   SS Shieldhall, the UK’s \"2009 Flagship of  National Historic Ships\" is in danger of scrapping unless funds can be raised to complete and upcoming drydocking. Historic … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/01/Shieldhall-at-Calshot-300x1.jpg)The great challenge of ship preservation in these times always seems to be largely  financial.   *[SS Shieldhall](http://www.ss-shieldhall.co.uk/Shieldhall/Welcome.html)*, the UK’s “2009 Flagship of  National Historic Ships” is in danger of scrapping unless funds can be raised to complete and upcoming drydocking.

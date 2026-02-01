@@ -1,7 +1,7 @@
 ---
 title: "State of Hawaii Evicts Falls of Clyde"
 date: 2016-06-20T10:34:29
-slug: state-hawaii-evicts-falls-clyde
+slug: "state-hawaii-evicts-falls-clyde"
 excerpt: "In May 2015, we posted that the State of Hawaii has put the Friends of Falls of Clyde, the organization responsible for rescuing the historic ship of the same name, on notice that the state planned to terminate the permit … Continue reading &rarr;"
 categories:
   - "Current"

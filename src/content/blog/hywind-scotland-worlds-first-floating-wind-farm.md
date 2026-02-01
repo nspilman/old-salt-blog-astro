@@ -1,7 +1,7 @@
 ---
 title: "Hywind Scotland — The Story Behind the World’s First Floating Wind Farm"
 date: 2017-10-31T09:34:30
-slug: hywind-scotland-worlds-first-floating-wind-farm
+slug: "hywind-scotland-worlds-first-floating-wind-farm"
 excerpt: "At the end of September, we posted about Hywind – the First Full-scale Floating Wind Turbine . Here is a short video that looks at taking the project from an idea to the design and the challenges of fabricating and installing … Continue reading &rarr;"
 categories:
   - "Current"

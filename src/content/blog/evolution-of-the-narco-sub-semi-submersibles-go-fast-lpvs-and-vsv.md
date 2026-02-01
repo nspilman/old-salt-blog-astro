@@ -1,8 +1,8 @@
 ---
-title: "Evolution of the “Narco-sub” — Semi-Submersibles, Go-Fast LPVs and VSVs"
+title: "Evolution of the \"Narco-sub\" — Semi-Submersibles, Go-Fast LPVs and VSVs"
 date: 2020-05-29T13:52:34
-slug: evolution-of-the-narco-sub-semi-submersibles-go-fast-lpvs-and-vsv
-excerpt: "In the 1990s, rumors began to spread that the Colombian cartels were moving cocaine to the United States by submarine. In 2006 the navy intercepted a “narco-sub” off Costa Rica with 3.5 tonnes of cocaine on board. In 2019, thirty-three … Continue reading &rarr;"
+slug: "evolution-of-the-narco-sub-semi-submersibles-go-fast-lpvs-and-vsv"
+excerpt: "In the 1990s, rumors began to spread that the Colombian cartels were moving cocaine to the United States by submarine. In 2006 the navy intercepted a \"narco-sub\" off Costa Rica with 3.5 tonnes of cocaine on board. In 2019, thirty-three … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/05/VSVUSCG.jpg"

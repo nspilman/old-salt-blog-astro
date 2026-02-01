@@ -1,7 +1,7 @@
 ---
 title: "US Coast Guard Eagle in Brooklyn"
 date: 2011-08-07T17:52:07
-slug: us-coast-guard-eagle-in-brooklyn
+slug: "us-coast-guard-eagle-in-brooklyn"
 excerpt: "The US Coast Guard Barque Eagle visited Brooklyn, New York this weekend and was open to visitors. She is beautifully maintained and staffed by smart, eager and enthusiastic cadets. Most of the cadets had been aboard for roughly one day, … Continue reading &rarr;"
 categories:
   - "Current"

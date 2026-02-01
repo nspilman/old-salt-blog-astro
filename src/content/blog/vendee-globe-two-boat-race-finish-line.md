@@ -1,7 +1,7 @@
 ---
 title: "Vendee Globe — A Two Boat Race for the Finish Line"
 date: 2017-01-18T16:58:03
-slug: vendee-globe-two-boat-race-finish-line
+slug: "vendee-globe-two-boat-race-finish-line"
 excerpt: "After sailing over 24,000 nautical miles and just 300 nautical miles from the finish line of the Vendee Globe singlehanded round the world race, Armel Le Cleac’h sailing Banque Populaire VIII is holding a slim 30 nautical mile lead on … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

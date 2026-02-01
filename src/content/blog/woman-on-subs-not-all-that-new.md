@@ -1,8 +1,8 @@
 ---
 title: "Women on Subs – Not all that New"
 date: 2010-06-07T10:17:21
-slug: woman-on-subs-not-all-that-new
-excerpt: "Julian Stockwin made a comment on Twitter this morning (what is the past tense of “to tweet?” by the way) regarding women on submarines.  He noted that Norway has had women serving on submarines for decades.   Indeed, the US … Continue reading &rarr;"
+slug: "woman-on-subs-not-all-that-new"
+excerpt: "Julian Stockwin made a comment on Twitter this morning (what is the past tense of \"to tweet?\" by the way) regarding women on submarines.  He noted that Norway has had women serving on submarines for decades.   Indeed, the US … Continue reading &rarr;"
 categories:
   - "Current"
   - "Ships"
@@ -18,7 +18,7 @@ tags:
   - "Sweden"
   - "women on submarines"
 author: "Rick Spilman"
-description: "Julian Stockwin made a comment on Twitter this morning (what is the past tense of “to tweet?” by the way) regarding women on submarines.  He noted that Norway has had women serving on submarines for decades.   Indeed, the US … Continue reading &rarr;"
+description: "Julian Stockwin made a comment on Twitter this morning (what is the past tense of \"to tweet?\" by the way) regarding women on submarines.  He noted that Norway has had women serving on submarines for decades.   Indeed, the US … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/Solveig-Krey-i-periskopet-.jpg)

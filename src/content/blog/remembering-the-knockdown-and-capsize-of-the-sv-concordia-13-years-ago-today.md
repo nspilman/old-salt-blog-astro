@@ -1,7 +1,7 @@
 ---
 title: "Remembering the Knockdown and Capsize of the SV Concordia 13 Years Ago Today"
 date: 2023-02-17T18:29:41
-slug: remembering-the-knockdown-and-capsize-of-the-sv-concordia-13-years-ago-today
+slug: "remembering-the-knockdown-and-capsize-of-the-sv-concordia-13-years-ago-today"
 excerpt: "On February 17, 2010, thirteen years ago today, the SV Concordia, a school ship operated by West Island College International, was knocked down and sank off the coast of Brazil.  Fortunately, all 64 passengers and crew aboard were rescued. The … Continue reading &rarr;"
 categories:
   - "History"

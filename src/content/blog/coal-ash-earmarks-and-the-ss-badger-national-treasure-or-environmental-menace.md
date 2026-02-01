@@ -1,7 +1,7 @@
 ---
 title: "Coal Ash, Earmarks and the SS Badger – National Treasure or Environmental Menace?"
 date: 2012-11-30T14:54:51
-slug: coal-ash-earmarks-and-the-ss-badger-national-treasure-or-environmental-menace
+slug: "coal-ash-earmarks-and-the-ss-badger-national-treasure-or-environmental-menace"
 excerpt: "The SS Badger is a 410-foot long coal-fired passenger and vehicle ferry operating in Lake Michigan on a four hour shuttle service between Ludington, Michigan, and Manitowoc, Wisconsin. She began sailing in 1953 and is the last coal-fired passenger vessel … Continue reading &rarr;"
 categories:
   - "Current"

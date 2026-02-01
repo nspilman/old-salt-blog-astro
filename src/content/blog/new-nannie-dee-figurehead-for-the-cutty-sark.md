@@ -1,7 +1,7 @@
 ---
 title: "New Nannie Dee Figurehead for the Cutty Sark"
 date: 2021-06-08T16:38:59
-slug: new-nannie-dee-figurehead-for-the-cutty-sark
+slug: "new-nannie-dee-figurehead-for-the-cutty-sark"
 excerpt: "In a few days, the composite clipper ship Cutty Sark will be graced with a new carved wooden figurehead carved by one of the last master carvers, Andy Peters. The figurehead, like its two predecessors, represents the witch Nannie Dee, … Continue reading &rarr;"
 categories:
   - "Current"

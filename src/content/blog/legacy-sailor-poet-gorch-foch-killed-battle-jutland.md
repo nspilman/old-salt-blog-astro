@@ -1,7 +1,7 @@
 ---
 title: "The Legacy of the Sailor Poet Gorch Foch, Killed in the Battle of Jutland"
 date: 2016-06-23T16:27:48
-slug: legacy-sailor-poet-gorch-foch-killed-battle-jutland
+slug: "legacy-sailor-poet-gorch-foch-killed-battle-jutland"
 excerpt: "Johann Wilhelm Kinau was one of the more than 8,000 sailors who died in the Battle of Jutland just over 100 years ago. Kinau was 36 when he was killed while serving as a lookout on the German light cruiser … Continue reading &rarr;"
 categories:
   - "History"

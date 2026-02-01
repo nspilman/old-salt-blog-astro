@@ -1,7 +1,7 @@
 ---
 title: "Captain Robert Falcon Scott – Heroic Leader or Tragic Bungler?"
 date: 2012-03-29T08:48:01
-slug: captain-robert-falcon-scott-heroic-leader-or-tragic-bungler
+slug: "captain-robert-falcon-scott-heroic-leader-or-tragic-bungler"
 excerpt: "No one is exactly sure when Captain Robert Falcon Scott and his four of his fellow explorers died on their failed Antarctic expedition.  Today is observed as the centenary of the deaths because March 19, 1912 was the last entry in Scott’s journal. … Continue reading &rarr;"
 categories:
   - "Current"

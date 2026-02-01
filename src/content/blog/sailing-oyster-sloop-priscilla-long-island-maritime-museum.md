@@ -1,7 +1,7 @@
 ---
 title: "Sailing Oyster Sloop Priscilla at the Long Island Maritime Museum"
 date: 2018-02-11T20:04:41
-slug: sailing-oyster-sloop-priscilla-long-island-maritime-museum
+slug: "sailing-oyster-sloop-priscilla-long-island-maritime-museum"
 excerpt: "Last July, we posted about Christeen, the oldest oyster sloop in the US, built in 1883, which is still sailing on Oyster Bay, NY. Oyster Bay is on the North shore of Long Island. Not far away on the South … Continue reading &rarr;"
 categories:
   - "Current"

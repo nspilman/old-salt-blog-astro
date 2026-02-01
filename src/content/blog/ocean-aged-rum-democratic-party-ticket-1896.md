@@ -1,7 +1,7 @@
 ---
 title: "Ocean-Aged Rum and the Democratic Party Ticket of 1896"
 date: 2018-02-19T19:13:43
-slug: ocean-aged-rum-democratic-party-ticket-1896
+slug: "ocean-aged-rum-democratic-party-ticket-1896"
 excerpt: "Yesterday, we posted about four barrels of rum from Lunenburg’s Ironworks Distillery which are being carried around the globe by the barque Picton Castle on its seventh circumnavigation.  The sea voyage is expected to nicely age the rum.  Of course, distilled spirits being … Continue reading &rarr;"
 categories:
   - "History"

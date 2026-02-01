@@ -1,7 +1,7 @@
 ---
 title: "Overboat Personal Foiler — Silent Alternative to Jetskis?"
 date: 2022-05-16T16:47:20
-slug: overboat-personal-foiler-silent-alternative-to-jetskis
+slug: "overboat-personal-foiler-silent-alternative-to-jetskis"
 excerpt: "Here is a short demonstration video from Toby Hodges at Yachting World of Neoocean’s Overboat electric personal foiler. Unlike the noisy and generally noxious jetski, the Overboat is practically silent, uses roughly 80% less energy than a comparable outboard motor-driven … Continue reading &rarr;"
 categories:
   - "Current"

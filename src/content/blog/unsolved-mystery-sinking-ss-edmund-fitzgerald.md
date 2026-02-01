@@ -1,7 +1,7 @@
 ---
 title: "The Unsolved Mystery of the Sinking of the SS Edmund Fitzgerald"
 date: 2017-11-10T18:02:43
-slug: unsolved-mystery-sinking-ss-edmund-fitzgerald
+slug: "unsolved-mystery-sinking-ss-edmund-fitzgerald"
 excerpt: "SS Edmund Fitzgerald, an American Great Lakes ore carrier, sank in Lake Superior in a storm on November 10, 1975, 42 years ago today.  The crew of 29 were lost when the freighter sank loaded with 26,000 tons of taconite, iron ore pellets, in 530 … Continue reading &rarr;"
 categories:
   - "History"

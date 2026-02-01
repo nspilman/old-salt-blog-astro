@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Cole Brauer, First American Woman to Race Solo Around the World"
 date: 2024-03-11T17:35:43
-slug: congratulations-to-cole-brauer-first-american-woman-to-race-solo-around-the-world
+slug: "congratulations-to-cole-brauer-first-american-woman-to-race-solo-around-the-world"
 excerpt: "Congratulations to Cole Brauer, who finished second in the Global Solo Challenge, becoming the first American woman to race solo nonstop around the world, traveling roughly 28,000 miles, in her 40′ sailboat First Light.  Brauer, at 29 years old, was … Continue reading &rarr;"
 categories:
   - "Current"

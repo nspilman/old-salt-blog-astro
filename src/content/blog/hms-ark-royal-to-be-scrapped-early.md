@@ -1,7 +1,7 @@
 ---
 title: "HMS Ark Royal to be Scrapped Early?"
 date: 2010-10-19T10:47:31
-slug: hms-ark-royal-to-be-scrapped-early
+slug: "hms-ark-royal-to-be-scrapped-early"
 excerpt: "If  the recommendations of a UK defense review are implemented, Britain will have the same capacity to launch aircraft from ships as Nelson did, which is to say, none at all, prior to 2019 when new aircraft carriers come into service. Defence … Continue reading &rarr;"
 categories:
   - "Current"

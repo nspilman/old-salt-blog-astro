@@ -1,7 +1,7 @@
 ---
 title: "John Stobart and the Ships of South Street"
 date: 2009-09-17T16:49:41
-slug: john-stobart-and-the-ships-of-south-street
+slug: "john-stobart-and-the-ships-of-south-street"
 excerpt: "Last year the National Maritime Historical Society (NMHS) published a fascinating booklet, John Stobart and the Ships of South Street, which features the pre-eminent maritime artist’s paintings of ships arriving or departing from New York’s South Street docks. At first the presentation struck me as odd.  The … Continue reading &rarr;"
 categories:
   - "Reviews"

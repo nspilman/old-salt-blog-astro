@@ -1,7 +1,7 @@
 ---
 title: "BP Spills Coffee"
 date: 2010-06-10T09:08:16
-slug: bp-spills-coffee
+slug: "bp-spills-coffee"
 excerpt: "Sometime the only choice is to laugh or cry. Laughing is more fun.   On the 52nd day of the Deep Water Horizon spill, satire from UBC Comedy. BP Spills Coffee … Continue reading &rarr;"
 categories:
   - "Current"

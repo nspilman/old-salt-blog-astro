@@ -1,7 +1,7 @@
 ---
 title: "Swordfish Stabbing Sharks and the Occasional Diver"
 date: 2020-11-02T14:12:36
-slug: swordfish-stabbing-sharks-and-the-occasional-diver
+slug: "swordfish-stabbing-sharks-and-the-occasional-diver"
 excerpt: "The fishermen knew. They told stories of swordfish using their eponymous swords to stab sharks and other large fish and mammals. Scientists, however, were skeptical.  Recently, however, more than six dead sharks have washed up around the Mediterranean, all apparently … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

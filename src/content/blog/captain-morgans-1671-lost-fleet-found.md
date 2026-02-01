@@ -1,7 +1,7 @@
 ---
 title: "Captain Morgan’s 1671 Lost Fleet Found?"
 date: 2011-08-06T11:42:49
-slug: captain-morgans-1671-lost-fleet-found
+slug: "captain-morgans-1671-lost-fleet-found"
 excerpt: "This is an interesting story for several reasons. First, archaeologists believe that they may have discovered the wreckage of a 17th century ship lost off the coast of Panama in 1671, from the famed Captain Henry Morgan‘s fleet.   Second, a … Continue reading &rarr;"
 categories:
   - "Current"

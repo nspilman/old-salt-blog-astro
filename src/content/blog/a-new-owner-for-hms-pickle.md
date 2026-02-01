@@ -1,7 +1,7 @@
 ---
 title: "A New Owner for HMS Pickle"
 date: 2014-09-05T09:15:34
-slug: a-new-owner-for-hms-pickle
+slug: "a-new-owner-for-hms-pickle"
 excerpt: "We have been following the 1995 built replica of the topsail schooner HMS Pickle for some time. In 2008, she was offered for sale for £350,000.00 (US$626,640). In July, she reappeared on the market on E-Bay where the winning bid was £69,500.00. The … Continue reading &rarr;"
 categories:
   - "Current"

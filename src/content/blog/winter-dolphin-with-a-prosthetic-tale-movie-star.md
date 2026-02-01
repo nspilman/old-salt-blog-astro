@@ -1,7 +1,7 @@
 ---
 title: "Winter – Movie Star Dolphin with a Prosthetic Tale"
 date: 2011-08-22T22:02:04
-slug: winter-dolphin-with-a-prosthetic-tale-movie-star
+slug: "winter-dolphin-with-a-prosthetic-tale-movie-star"
 excerpt: "Five years ago, a three month old dolphin’s tale became caught in a blue crab trap off the coast of Florida. The blood supply to her tail was cut off by the trap rope. The dolphin, which was given the … Continue reading &rarr;"
 categories:
   - "Current"

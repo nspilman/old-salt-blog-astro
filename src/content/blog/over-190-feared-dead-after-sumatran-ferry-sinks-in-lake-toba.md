@@ -1,7 +1,7 @@
 ---
 title: "Over 190 Feared Dead After Sumatran Ferry Sinks in Lake Toba"
 date: 2018-06-20T17:00:33
-slug: over-190-feared-dead-after-sumatran-ferry-sinks-in-lake-toba
+slug: "over-190-feared-dead-after-sumatran-ferry-sinks-in-lake-toba"
 excerpt: "A ferry across Lake Toba in North Sumatra sank on Monday in bad weather and a reported 192 are missing and feared dead. Only 18 survivors have been rescued. Rescuers looking for additional survivors have been hampered by high winds … Continue reading &rarr;"
 categories:
   - "Current"

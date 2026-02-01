@@ -1,7 +1,7 @@
 ---
 title: "Remembering the Birkenhead Drill — Women and Children First!"
 date: 2023-03-12T10:10:06
-slug: remembering-the-birkenhead-drill-women-and-children-first
+slug: "remembering-the-birkenhead-drill-women-and-children-first"
 excerpt: "HMS Birkenhead was one of the first iron-hulled ships built for the Royal Navy. She was designed as a steam frigate, but was converted to a troopship before being commissioned in 1851. While transporting troops and a few civilians to … Continue reading &rarr;"
 categories:
   - "History"

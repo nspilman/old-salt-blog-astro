@@ -1,7 +1,7 @@
 ---
 title: "Who’s the Pirate — Blackbeard or the State of North Carolina? Supreme Court Will Decide"
 date: 2019-06-05T13:38:12
-slug: whos-the-pirate-blackbeard-or-the-state-of-north-carolina
+slug: "whos-the-pirate-blackbeard-or-the-state-of-north-carolina"
 excerpt: "Edward Teach, better known as the pirate Blackbeard, terrorized the Caribbean and the North American East Coast in the early 18th century. Now a documentary filmmaker is claiming that the State of North Carolina is engaging in modern-day digital piracy. … Continue reading &rarr;"
 categories:
   - "Current"

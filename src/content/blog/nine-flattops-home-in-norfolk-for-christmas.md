@@ -1,8 +1,8 @@
 ---
 title: "Nine Flattops Home in Norfolk for Christmas"
 date: 2012-12-25T09:11:31
-slug: nine-flattops-home-in-norfolk-for-christmas
-excerpt: "The Defense News blog Intercepts recently posted a photo of nine “flattops” home for Christmas at Norfolk naval base. Of the nine, five are aircraft carriers – the DWIGHT D. EISENHOWER, GEORGE H. W. BUSH, ENTERPRISE, ABRAHAM LINCOLN, and HARRY S TRUMAN.  The other four are the … Continue reading &rarr;"
+slug: "nine-flattops-home-in-norfolk-for-christmas"
+excerpt: "The Defense News blog Intercepts recently posted a photo of nine \"flattops\" home for Christmas at Norfolk naval base. Of the nine, five are aircraft carriers – the DWIGHT D. EISENHOWER, GEORGE H. W. BUSH, ENTERPRISE, ABRAHAM LINCOLN, and HARRY S TRUMAN.  The other four are the … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -21,7 +21,7 @@ tags:
   - "Norfolk naval base"
   - "WASP"
 author: "Rick Spilman"
-description: "The Defense News blog Intercepts recently posted a photo of nine “flattops” home for Christmas at Norfolk naval base. Of the nine, five are aircraft carriers – the DWIGHT D. EISENHOWER, GEORGE H. W. BUSH, ENTERPRISE, ABRAHAM LINCOLN, and HARRY S TRUMAN.  The other four are the … Continue reading &rarr;"
+description: "The Defense News blog Intercepts recently posted a photo of nine \"flattops\" home for Christmas at Norfolk naval base. Of the nine, five are aircraft carriers – the DWIGHT D. EISENHOWER, GEORGE H. W. BUSH, ENTERPRISE, ABRAHAM LINCOLN, and HARRY S TRUMAN.  The other four are the … Continue reading &rarr;"
 ---
 
 ![FleetNorfolk](http://www.oldsaltblog.com/wp-content/uploads/2012/12/FleetNorfolk.jpg)The Defense News blog [Intercepts](http://blogs.defensenews.com/intercepts/2012/12/home-for-christmas-9-flattops-at-norfolk-dec-20-2012/) recently posted a photo of nine “flattops” home for Christmas at Norfolk naval base. Of the nine, five are aircraft carriers – the DWIGHT D. EISENHOWER, GEORGE H. W. BUSH, ENTERPRISE, ABRAHAM LINCOLN, and HARRY S TRUMAN.  The other four are the amphibious assault ships  –  BATAAN,  WASP,  KEARSARGE, and  IWO JIMA. The amphibious landing platform dock NEW YORK and a T-AKE dry cargo ammunition ship are also in port as are a number of smaller cruisers and submarines. The Navy makes a point of trying to gives its shipboard crews a chance to spend Christmas with their families.

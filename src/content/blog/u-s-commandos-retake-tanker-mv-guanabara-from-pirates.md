@@ -1,7 +1,7 @@
 ---
 title: "U.S. Commandos Retake Tanker MV Guanabara From Pirates"
 date: 2011-03-08T09:03:11
-slug: u-s-commandos-retake-tanker-mv-guanabara-from-pirates
+slug: "u-s-commandos-retake-tanker-mv-guanabara-from-pirates"
 excerpt: "Commandos from the USS Bulkeley boarded the Japanese owned tanker MV Guanabara on Sunday after the crew reported that the ship was under attack by pirates.  The commandos captured four pirates aboard the ship without firing a shot.  The crew had withdrawn … Continue reading &rarr;"
 categories:
   - "Current"

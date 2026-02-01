@@ -1,7 +1,7 @@
 ---
 title: "S/V Denis Sullivan Sold, Leaving the Great Lakes for Boston"
 date: 2022-09-18T10:20:39
-slug: s-v-denis-sullivan-sold-leaving-the-great-lakes-for-boston
+slug: "s-v-denis-sullivan-sold-leaving-the-great-lakes-for-boston"
 excerpt: "The 137-foot Denis Sullivan — the world’s only replica of a 19th-century three-masted Great Lakes schooner — will soon be leaving the Great Lakes bound for Boston, MA. Milwaukee’s Discovery World has sold the schooner to World Ocean School, a nonprofit … Continue reading &rarr;"
 categories:
   - "Current"

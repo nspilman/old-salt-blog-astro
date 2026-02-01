@@ -1,7 +1,7 @@
 ---
 title: "US Coast Guard Busts Narco-sub with $181 Million in Cocaine Aboard"
 date: 2015-08-08T11:43:52
-slug: us-coast-guard-busts-narco-sub-with-181-million-in-cocaine-aboard
+slug: "us-coast-guard-busts-narco-sub-with-181-million-in-cocaine-aboard"
 excerpt: "The submarine war at sea continues. Last month, the USCG Cutter Stratton intercepted a semi-submersible vessel in the eastern Pacific Ocean around 200 miles south of Mexico, loaded with 16,000 pounds of cocaine, worth an estimated $181 million. Four men were … Continue reading &rarr;"
 categories:
   - "Current"

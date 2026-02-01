@@ -1,7 +1,7 @@
 ---
 title: "Fourteen Year Old Laura Dekker has Dutch Court OK to Sail around the World"
 date: 2010-07-29T07:59:26
-slug: fourteen-year-old-laura-dekker-has-dutch-court-ok-to-sail-around-the-world
+slug: "fourteen-year-old-laura-dekker-has-dutch-court-ok-to-sail-around-the-world"
 excerpt: "The teen-round-the-world-sailing-escapades may be starting all over again. Laura Dekker has Dutch court permission to sail around the world A Dutch court cleared the way Tuesday for 14-year-old Laura Dekker to embark on a risky attempt to become the youngest … Continue reading &rarr;"
 categories:
   - "Current"

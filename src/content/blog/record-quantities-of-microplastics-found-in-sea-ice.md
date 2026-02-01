@@ -1,8 +1,8 @@
 ---
 title: "Record Quantities of Microplastics Found in Sea Ice"
 date: 2018-04-28T16:55:18
-slug: record-quantities-of-microplastics-found-in-sea-ice
-excerpt: "A new study has found record quantities of microplastics in sea ice. The study, published this week in Nature Communications, demonstrates “just how pervasive this type of pollution has become in every last corner of our planet,” says Melanie Bergmann, one of … Continue reading &rarr;"
+slug: "record-quantities-of-microplastics-found-in-sea-ice"
+excerpt: "A new study has found record quantities of microplastics in sea ice. The study, published this week in Nature Communications, demonstrates \"just how pervasive this type of pollution has become in every last corner of our planet,\" says Melanie Bergmann, one of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Pacific Garbage Patch"
   - "sea ice"
 author: "Rick Spilman"
-description: "A new study has found record quantities of microplastics in sea ice. The study, published this week in Nature Communications, demonstrates “just how pervasive this type of pollution has become in every last corner of our planet,” says Melanie Bergmann, one of … Continue reading &rarr;"
+description: "A new study has found record quantities of microplastics in sea ice. The study, published this week in Nature Communications, demonstrates \"just how pervasive this type of pollution has become in every last corner of our planet,\" says Melanie Bergmann, one of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/04/seaice.jpg)A new study has found record quantities of microplastics in sea ice. The [study, published this week in *Nature Communications*,](https://www.nature.com/articles/s41467-018-03825-5) demonstrates “just how pervasive this type of pollution has become in every last corner of our planet,” says Melanie Bergmann, one of the study’s authors. The researchers found extremely high concentrations of plastic in their samples—up to 12,000 particles per liter of sea ice, or about 45,000 particles per gallon. The majority of particles were microscopically small. 

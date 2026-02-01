@@ -1,7 +1,7 @@
 ---
-title: "On National Maritime Day — the “Steamship” & the Forgotten Anchor of Corlear’s Hook"
+title: "On National Maritime Day — the \"Steamship\" & the Forgotten Anchor of Corlear’s Hook"
 date: 2020-05-22T14:26:51
-slug: on-national-maritime-day-the-steamship-the-forgotten-anchor-of-corlears-hook
+slug: "on-national-maritime-day-the-steamship-the-forgotten-anchor-of-corlears-hook"
 excerpt: "In the United States, May 22nd is celebrated as National Maritime Day. The day brings to mind a largely forgotten monument, a ship’s anchor on a concrete slab, on Corlear’s Hook in New York’s East River Park.  National Maritime Day … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,12 +1,12 @@
 ---
-title: "Fifteen Years Ago Today: Flight 1549, NY Harbor Ferries, & the Two “Miracles on the Hudson”"
+title: "Fifteen Years Ago Today: Flight 1549, NY Harbor Ferries, & the Two \"Miracles on the Hudson\""
 date: 2024-01-15T17:23:46
-slug: fifteen-years-ago-today-flight-1549-ny-harbor-ferries-the-two-miracles-on-the-hudson
+slug: "fifteen-years-ago-today-flight-1549-ny-harbor-ferries-the-two-miracles-on-the-hudson"
 excerpt: "An updated repost — a look back at the twin miracles on the Hudson from fifteen years ago today. On January 15, 2009, US Airways Flight 1549 lost all engine power after striking a flock of birds shortly after takeoff … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
-  - "Captain Chesley "Sulley" Sullenberger"
+  - "Captain Chesley \"Sulley\" Sullenberger"
   - "Flight 1549"
   - "hudson river"
   - "Miracle on the Hudson"

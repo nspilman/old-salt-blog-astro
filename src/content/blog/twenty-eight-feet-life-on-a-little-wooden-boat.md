@@ -1,7 +1,7 @@
 ---
 title: "Twenty Eight Feet: Life on a Little Wooden Boat"
 date: 2014-08-08T13:49:31
-slug: twenty-eight-feet-life-on-a-little-wooden-boat
+slug: "twenty-eight-feet-life-on-a-little-wooden-boat"
 excerpt: "A very well-made short documentary by Keven A. Fraser about David Welsford’s life on an Herreshoff 28, Lizzy Belle. Twenty Eight Feet: life on a little wooden boat from kevinAfraser on Vimeo. … Continue reading &rarr;"
 categories:
   - "Current"

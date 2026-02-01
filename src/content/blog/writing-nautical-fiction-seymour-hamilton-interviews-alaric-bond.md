@@ -1,7 +1,7 @@
 ---
 title: "Writing Nautical Fiction: Seymour Hamilton Interviews Alaric Bond"
 date: 2013-02-26T17:19:30
-slug: writing-nautical-fiction-seymour-hamilton-interviews-alaric-bond
+slug: "writing-nautical-fiction-seymour-hamilton-interviews-alaric-bond"
 excerpt: "Seymour Hamilton recently sat down for a trans-Atlantic interview with Alaric Bond. They discussed Bond’s Fighting Sail series of novels, in particular, and about writing nautical fiction, in general.  It was a fascinating conversation. Seymour Hamilton is the author of the nautical fantasy … Continue reading &rarr;"
 categories:
   - "Critiques"

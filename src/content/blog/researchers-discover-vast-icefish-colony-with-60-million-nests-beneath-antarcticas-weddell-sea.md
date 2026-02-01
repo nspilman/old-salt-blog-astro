@@ -1,7 +1,7 @@
 ---
 title: "Researchers Discover Vast Icefish Colony with 60 Million Nests Beneath Antarctica’s Weddell Sea"
 date: 2022-01-28T18:30:27
-slug: researchers-discover-vast-icefish-colony-with-60-million-nests-beneath-antarcticas-weddell-sea
+slug: "researchers-discover-vast-icefish-colony-with-60-million-nests-beneath-antarcticas-weddell-sea"
 excerpt: "In February 2021, researchers on the German research vessel Polarstern discovered, quite by accident, the largest fish breeding area ever found near the Filchner Ice Shelf in the south of the Antarctic Weddell Sea. A towed camera system filmed thousands … Continue reading &rarr;"
 categories:
   - "Current"

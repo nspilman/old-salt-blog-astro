@@ -1,8 +1,8 @@
 ---
 title: "New York City — Once The City of Ships"
 date: 2014-01-14T09:35:22
-slug: new-york-city-once-the-city-of-ships
-excerpt: "Sometime during the Civil War, the poet Walt Whitman wrote a poem about New York City, titled “The City of Ships.” The first stanzas begin: City of ships! (O the black ships! O the fierce ships! O the beautiful, sharp-bow’d … Continue reading &rarr;"
+slug: "new-york-city-once-the-city-of-ships"
+excerpt: "Sometime during the Civil War, the poet Walt Whitman wrote a poem about New York City, titled \"The City of Ships.\" The first stanzas begin: City of ships! (O the black ships! O the fierce ships! O the beautiful, sharp-bow’d … Continue reading &rarr;"
 categories:
   - "City of Ships"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "The City of Ships"
   - "Walt Whitman"
 author: "Rick Spilman"
-description: "Sometime during the Civil War, the poet Walt Whitman wrote a poem about New York City, titled “The City of Ships.” The first stanzas begin: City of ships! (O the black ships! O the fierce ships! O the beautiful, sharp-bow’d … Continue reading &rarr;"
+description: "Sometime during the Civil War, the poet Walt Whitman wrote a poem about New York City, titled \"The City of Ships.\" The first stanzas begin: City of ships! (O the black ships! O the fierce ships! O the beautiful, sharp-bow’d … Continue reading &rarr;"
 ---
 
 ![narr-ship5](http://www.oldsaltblog.com/wp-content/uploads/2014/01/narr-ship51.jpg)

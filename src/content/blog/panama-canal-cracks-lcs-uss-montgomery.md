@@ -1,8 +1,8 @@
 ---
 title: "Panama Canal & More Cracks in LCS USS Montgomery"
 date: 2016-11-01T15:30:36
-slug: panama-canal-cracks-lcs-uss-montgomery
-excerpt: "The Littoral Combat Ship (LCS) USS Montgomery suffered another hull crack, this time while transiting the Panama Canal on Sunday. “Under control of the local Panama Canal Pilot, the ship impacted the center lock wall and sustained an 18-inch-long crack … Continue reading &rarr;"
+slug: "panama-canal-cracks-lcs-uss-montgomery"
+excerpt: "The Littoral Combat Ship (LCS) USS Montgomery suffered another hull crack, this time while transiting the Panama Canal on Sunday. \"Under control of the local Panama Canal Pilot, the ship impacted the center lock wall and sustained an 18-inch-long crack … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "USS Montgomery"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2016/11/ussmontgomery2.jpg"
 author: "Rick Spilman"
-description: "The Littoral Combat Ship (LCS) USS Montgomery suffered another hull crack, this time while transiting the Panama Canal on Sunday. “Under control of the local Panama Canal Pilot, the ship impacted the center lock wall and sustained an 18-inch-long crack … Continue reading &rarr;"
+description: "The Littoral Combat Ship (LCS) USS Montgomery suffered another hull crack, this time while transiting the Panama Canal on Sunday. \"Under control of the local Panama Canal Pilot, the ship impacted the center lock wall and sustained an 18-inch-long crack … Continue reading &rarr;"
 ---
 
 ![ussmontgomery2](http://www.oldsaltblog.com/wp-content/uploads/2016/11/ussmontgomery2.jpg)The Littoral Combat Ship (LCS) USS *Montgomery* suffered another hull crack, this time while transiting the Panama Canal on Sunday. “Under control of the local Panama Canal Pilot, the ship impacted the center lock wall and sustained an 18-inch-long crack between her port quarter and transom plates,” according to [Navy spokesman Cmdr. Ryan Perry](https://news.usni.org/2016/10/31/uss-montgomery-damaged-transiting). “The crack is located 8-10 feet above the waterline and poses no water intrusion or stability risk.”

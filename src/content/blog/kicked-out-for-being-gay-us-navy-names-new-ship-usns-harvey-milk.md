@@ -1,7 +1,7 @@
 ---
 title: "Kicked Out For Being Gay, US Navy Names New Ship USNS Harvey Milk"
 date: 2019-12-18T13:52:31
-slug: kicked-out-for-being-gay-us-navy-names-new-ship-usns-harvey-milk
+slug: "kicked-out-for-being-gay-us-navy-names-new-ship-usns-harvey-milk"
 excerpt: "At NASSCO in San Diego, they have begun cutting steel for a new Navy oiler, T-AO-206, to be named the USNS Harvey Milk. When completed it will be the second of the John Lewis class of underway replenishment oilers, operated … Continue reading &rarr;"
 categories:
   - "Current"

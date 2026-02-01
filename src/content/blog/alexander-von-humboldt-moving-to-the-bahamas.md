@@ -1,7 +1,7 @@
 ---
 title: "Alexander von Humboldt Moving to the Bahamas"
 date: 2012-04-03T08:06:37
-slug: alexander-von-humboldt-moving-to-the-bahamas
+slug: "alexander-von-humboldt-moving-to-the-bahamas"
 excerpt: "In November we posted about the first shakedown day cruise of the Alexander von Humboldt II, Germany’s newest tall ship.  The new ship, operated by Deutsche Stiftung Sail Training (DSST), is replacing the 1906 built Alexander von Humboldt which has been sailing as a … Continue reading &rarr;"
 categories:
   - "Current"

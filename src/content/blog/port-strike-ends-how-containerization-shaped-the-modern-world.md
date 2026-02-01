@@ -1,7 +1,7 @@
 ---
 title: "Port Strike Ends & How Containerization Shaped the Modern World"
 date: 2012-12-05T13:26:13
-slug: port-strike-ends-how-containerization-shaped-the-modern-world
+slug: "port-strike-ends-how-containerization-shaped-the-modern-world"
 excerpt: "The eight day port strike on the West Coast is over, thank goodness. On November 27th, a group of 450 clerks in the port of Los Angeles/Long Beach, who had worked without a contract for over two years, walked out. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

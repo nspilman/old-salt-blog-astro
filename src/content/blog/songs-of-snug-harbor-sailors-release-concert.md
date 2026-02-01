@@ -1,7 +1,7 @@
 ---
 title: "Songs of Snug Harbor Sailors Release Concert"
 date: 2017-04-22T10:18:10
-slug: songs-of-snug-harbor-sailors-release-concert
+slug: "songs-of-snug-harbor-sailors-release-concert"
 excerpt: "If you are near New York harbor tomorrow and have the chance, head on over to the The Noble Maritime Collection at the Snug Harbor Cultural Center between 2 PM and 5 PM tomorrow, April 22, for a free concert celebrating the … Continue reading &rarr;"
 categories:
   - "Current"

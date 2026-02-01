@@ -1,7 +1,7 @@
 ---
 title: "Update: Sewol Ferry Disaster — Ferry Owner Yoo Byung-eun Found Dead"
 date: 2014-07-22T08:39:05
-slug: update-sewol-ferry-disaster-ferry-owner-yoo-byung-eun-found-dead
+slug: "update-sewol-ferry-disaster-ferry-owner-yoo-byung-eun-found-dead"
 excerpt: "Last April, we posted about the capsizing and sinking of the South Korean ro/ro ferry Sewol with the loss of over 300, dead and missing.  Yoo Byung-eun, the effective owner and manager of Chonghaejin Marine Company, which operated the ferry, had been the … Continue reading &rarr;"
 categories:
   - "Current"

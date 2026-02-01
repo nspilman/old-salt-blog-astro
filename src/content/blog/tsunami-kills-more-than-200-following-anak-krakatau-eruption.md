@@ -1,7 +1,7 @@
 ---
 title: "Tsunami Kills More Than 200 Following Anak Krakatau Eruption"
 date: 2018-12-23T15:11:02
-slug: tsunami-kills-more-than-200-following-anak-krakatau-eruption
+slug: "tsunami-kills-more-than-200-following-anak-krakatau-eruption"
 excerpt: "On Saturday, a tsunami in Indonesia’s Sunda Strait killed at least 222 and injured 843. The huge wave hit without warning at night destroying hundreds of homes and buildings, sweeping away cars and uprooting trees. Officials say more than 160 people were killed in … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "USS Dewey and the Olympia"
 date: 2010-03-11T08:55:49
-slug: uss-dewey-and-the-olympia
+slug: "uss-dewey-and-the-olympia"
 excerpt: "Dewey on the Olympia at Manila Bay I am not sure if it is irony or merely a confirmation that Faulkner was right – the past isn’t dead. It isn’t even past.  Not long after the Independence Seaport Museum in Philadelphia … Continue reading &rarr;"
 categories:
   - "History"

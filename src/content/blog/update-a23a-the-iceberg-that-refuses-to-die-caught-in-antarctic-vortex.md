@@ -1,8 +1,8 @@
 ---
-title: "Update: A23a, the Iceberg “That Refuses to Die,” Caught in Antarctic Vortex"
+title: "Update: A23a, the Iceberg \"That Refuses to Die,\" Caught in Antarctic Vortex"
 date: 2024-08-04T15:51:31
-slug: update-a23a-the-iceberg-that-refuses-to-die-caught-in-antarctic-vortex
-excerpt: "In January, we posted about an iceberg designated A23a, the world’s largest, which had begun to drift on the Antarctic Circumpolar Current into “iceberg alley.” As it drifted, it was being eroded by waves and melting in the relatively warmer … Continue reading &rarr;"
+slug: "update-a23a-the-iceberg-that-refuses-to-die-caught-in-antarctic-vortex"
+excerpt: "In January, we posted about an iceberg designated A23a, the world’s largest, which had begun to drift on the Antarctic Circumpolar Current into \"iceberg alley.\" As it drifted, it was being eroded by waves and melting in the relatively warmer … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -17,7 +17,7 @@ tags:
   - "West Antarctica"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2024/08/a23aspin.jpg"
 author: "Rick Spilman"
-description: "In January, we posted about an iceberg designated A23a, the world’s largest, which had begun to drift on the Antarctic Circumpolar Current into “iceberg alley.” As it drifted, it was being eroded by waves and melting in the relatively warmer … Continue reading &rarr;"
+description: "In January, we posted about an iceberg designated A23a, the world’s largest, which had begun to drift on the Antarctic Circumpolar Current into \"iceberg alley.\" As it drifted, it was being eroded by waves and melting in the relatively warmer … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2024/08/a23aspin.jpg)In January, we [posted about an iceberg](https://www.oldsaltblog.com/2024/01/worlds-largest-iceberg-a23a-eroding-melting-rapidly-as-it-drifts-into-warmer-water/) designated [A23a](https://en.wikipedia.org/wiki/A23a), the world’s largest, which had begun to drift on the Antarctic Circumpolar Current into “iceberg alley.” As it drifted, it was being eroded by waves and melting in the relatively warmer waters of the Southern Ocean. The impact of the waves carved huge arches and caves in the 400-meter-high walls of the iceberg.

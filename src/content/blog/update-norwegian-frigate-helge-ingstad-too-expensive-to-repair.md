@@ -1,7 +1,7 @@
 ---
 title: "Update: Norwegian Frigate Helge Ingstad Too Expensive to Repair"
 date: 2019-06-29T09:00:44
-slug: update-norwegian-frigate-helge-ingstad-too-expensive-to-repair
+slug: "update-norwegian-frigate-helge-ingstad-too-expensive-to-repair"
 excerpt: "Last November, the Norwegian navy frigate, KNM Helge Ingstad, was returning from NATO exercises when it mistook the Maltese flag, Aframax tanker, Sola TS, for an object onshore in the Hjeltefjord near Bergen, Norway. The subsequent collision did minor damage to the … Continue reading &rarr;"
 categories:
   - "Current"

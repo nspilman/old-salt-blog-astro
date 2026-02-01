@@ -1,7 +1,7 @@
 ---
 title: "HSM Bounty in Bath, Maine this Weekend"
 date: 2010-05-22T11:32:57
-slug: hsm-bounty-in-bath-maine-this-weekend
+slug: "hsm-bounty-in-bath-maine-this-weekend"
 excerpt: "HMS Bounty open to public in Maine The HMS Bounty tall ship is open to the public during its stop in Maine.   The three-masted, 120-foot ship is open for tours Saturday and Sunday from 9:30 a.m. to 5 p.m. at … Continue reading &rarr;"
 categories:
   - "Current"

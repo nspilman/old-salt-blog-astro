@@ -1,7 +1,7 @@
 ---
 title: "Time-Lapse: When and If Over-Takes America 2.0,  2019 Wreckers Race"
 date: 2019-05-01T17:26:34
-slug: time-lapse-when-and-if-over-takes-america-2-0-2019-wreckers-race
+slug: "time-lapse-when-and-if-over-takes-america-2-0-2019-wreckers-race"
 excerpt: "Here is a fun time-lapse of the 1939 built Alden schooner, When And If, overtaking the schooner America 2.0 in the 34th Annual Schooner Wharf Bar Wrecker’s Cup Race in Key West, FL.  When And If  was built for General  … Continue reading &rarr;"
 categories:
   - "Current"

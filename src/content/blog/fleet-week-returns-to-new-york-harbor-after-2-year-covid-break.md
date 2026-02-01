@@ -1,7 +1,7 @@
 ---
 title: "Fleet Week Returns to New York Harbor After 2 Year COVID Break"
 date: 2022-05-26T17:25:26
-slug: fleet-week-returns-to-new-york-harbor-after-2-year-covid-break
+slug: "fleet-week-returns-to-new-york-harbor-after-2-year-covid-break"
 excerpt: "Fleet Week has returned to New York harbor after a two-year pandemic pause, bringing 3,000 sailors, marines, and coastguardsmen to the city. The week-long celebration will include public ship visitations, a variety of military demonstrations, and a mix of new … Continue reading &rarr;"
 categories:
   - "City of Ships"

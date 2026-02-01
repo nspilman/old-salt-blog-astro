@@ -1,7 +1,7 @@
 ---
-title: "“Son of Migaloo” Sighted off Australia’s Gold Coast"
+title: "\"Son of Migaloo\" Sighted off Australia’s Gold Coast"
 date: 2015-08-12T11:33:57
-slug: son-of-migaloo-sighted-off-australias-gold-coast
+slug: "son-of-migaloo-sighted-off-australias-gold-coast"
 excerpt: "Recently, there has been considerable excitement over the sighting of a white humpback whale off Australia’s Gold Coast.  Initially, the whale was thought to be Migaloo, an albino humpback first seen in 1991. The white whale, however, appears to be … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Happy 228th Birthday to the US Coast Guard !"
 date: 2018-08-04T11:56:00
-slug: happy-228th-birthday-to-the-us-coast-guard
+slug: "happy-228th-birthday-to-the-us-coast-guard"
 excerpt: "Happy 228th Birthday to the United States Coast Guard!  The Coast Guard is the oldest maritime service in the US government and somehow always succeeds in doing the most with the very least.  The United States Coast Guard was established as the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Eastern Pacific Garbage Patch – How Big Really?"
 date: 2012-04-10T09:01:06
-slug: the-eastern-pacific-garbage-patch-how-big-really
+slug: "the-eastern-pacific-garbage-patch-how-big-really"
 excerpt: "For several years we have been posting about a huge swirling patch of plastic garbage caught in the currents of the Pacific Ocean.  The BBC has an interactive graphic which helps to visualize just how how massive this Pacific garbage patch truly … Continue reading &rarr;"
 categories:
   - "Current"

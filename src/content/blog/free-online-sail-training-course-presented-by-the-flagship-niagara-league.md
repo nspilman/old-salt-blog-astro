@@ -1,7 +1,7 @@
 ---
 title: "Free Online Sail Training Course Presented by the Flagship Niagara League"
 date: 2021-02-02T14:08:35
-slug: free-online-sail-training-course-presented-by-the-flagship-niagara-league
+slug: "free-online-sail-training-course-presented-by-the-flagship-niagara-league"
 excerpt: "This is a bit last minute, but I see a post on Facebook about a free online sail training course presented by the Flagship Niagara League. Free Online Sail Training Course! Learn about how Niagara is rigged and sailed! Join … Continue reading &rarr;"
 categories:
   - "Current"

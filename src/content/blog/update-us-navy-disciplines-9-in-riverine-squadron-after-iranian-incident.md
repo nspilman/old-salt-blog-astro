@@ -1,7 +1,7 @@
 ---
 title: "Update: US Navy Disciplines 9 in Riverine Squadron After Iranian Incident"
 date: 2016-06-30T15:34:27
-slug: update-us-navy-disciplines-9-in-riverine-squadron-after-iranian-incident
+slug: "update-us-navy-disciplines-9-in-riverine-squadron-after-iranian-incident"
 excerpt: "Last January we posted about two US Navy Riverine Command Boats (RCBs) with a combined crew of ten sailors which were apprehended by Iranian Revolutionary Guard boats in the Gulf. One or both of the RCBs had suffered a mechanical … Continue reading &rarr;"
 categories:
   - "Current"

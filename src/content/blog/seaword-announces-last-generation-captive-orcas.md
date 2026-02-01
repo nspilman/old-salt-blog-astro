@@ -1,7 +1,7 @@
 ---
 title: "SeaWorld Announces the Last Generation of Captive Orcas"
 date: 2016-03-17T09:55:18
-slug: seaword-announces-last-generation-captive-orcas
+slug: "seaword-announces-last-generation-captive-orcas"
 excerpt: "SeaWorld has announced that they are ending their program to breed captive orcas. The 24 orcas, also known as killer whales, currently held at parks in California, Texas and Florida will be the last generation of captive orcas at SeaWorld. … Continue reading &rarr;"
 categories:
   - "Current"

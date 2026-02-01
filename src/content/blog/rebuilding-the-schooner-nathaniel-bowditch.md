@@ -1,7 +1,7 @@
 ---
 title: "Rebuilding the Schooner Nathaniel Bowditch"
 date: 2015-05-15T21:21:48
-slug: rebuilding-the-schooner-nathaniel-bowditch
+slug: "rebuilding-the-schooner-nathaniel-bowditch"
 excerpt: "Last November, we posted about the restoration of the schooner Nathaniel Bowditch, by its new owners, Noah and Jane Barnes at the Lyman Morse Boatbuilders yard in Thomaston. Here is a short article and video about the rather extensive rebuilding of the … Continue reading &rarr;"
 categories:
   - "Current"

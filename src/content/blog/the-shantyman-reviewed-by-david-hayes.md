@@ -1,7 +1,7 @@
 ---
 title: "The Shantyman, Reviewed by David Hayes"
 date: 2015-03-21T14:11:23
-slug: the-shantyman-reviewed-by-david-hayes
+slug: "the-shantyman-reviewed-by-david-hayes"
 excerpt: "David Hayes recently reviewed The Shantyman on his Historic Naval Fiction blog.  Reposted with permission. If you want to be taken to the deck of a clipper in the mountainous seas of a southern ocean gale, Rick Spilman is the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

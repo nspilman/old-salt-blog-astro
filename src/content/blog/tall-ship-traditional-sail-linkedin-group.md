@@ -1,7 +1,7 @@
 ---
 title: "Tall Ship & Traditional Sail LinkedIn Group"
 date: 2010-01-20T13:03:00
-slug: tall-ship-traditional-sail-linkedin-group
+slug: "tall-ship-traditional-sail-linkedin-group"
 excerpt: "Tom Russell is hosting the Tall Ship & Traditional Sail Professionals Group on LinkedIn. It is a very interesting group. He writes: If you’ve worked on a tall ship, for its supporting organization or in other traditional sail, feel free … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

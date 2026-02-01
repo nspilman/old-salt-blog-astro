@@ -1,7 +1,7 @@
 ---
 title: "The Asian Carp Invasion – Kayaker Hit by Flying Carp"
 date: 2010-09-01T09:34:24
-slug: the-asian-carp-invasion-kayaker-hit-by-flying-carp
+slug: "the-asian-carp-invasion-kayaker-hit-by-flying-carp"
 excerpt: "Last week, a paddler in a kayak race on the Missouri River was hit on the side of his face by a 20-30 pound jumping carp, almost causing him to capsize. Fortunately he was not seriously injured but had to … Continue reading &rarr;"
 categories:
   - "Current"

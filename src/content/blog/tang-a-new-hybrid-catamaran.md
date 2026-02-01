@@ -1,7 +1,7 @@
 ---
 title: "Tang, a new hybrid catamaran"
 date: 2010-10-01T12:50:06
-slug: tang-a-new-hybrid-catamaran
+slug: "tang-a-new-hybrid-catamaran"
 excerpt: "When I had a sailboat, I hated motoring.   The diesel was loud and vibrated, completely different from why I went out sailing in the first place. Tag Yachts in South Africa, in partnership with Electric Marine Propulsion and International Battery, … Continue reading &rarr;"
 categories:
   - "Current"

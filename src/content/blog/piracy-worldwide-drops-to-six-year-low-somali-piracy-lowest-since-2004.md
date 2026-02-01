@@ -1,7 +1,7 @@
 ---
 title: "Piracy Worldwide Drops to Six Year Low, Somali Piracy Lowest Since 2004"
 date: 2014-01-15T18:22:45
-slug: piracy-worldwide-drops-to-six-year-low-somali-piracy-lowest-since-2004
+slug: "piracy-worldwide-drops-to-six-year-low-somali-piracy-lowest-since-2004"
 excerpt: "Piracy off the coast of Somalia last year dropped to the lowest level since 2004. In 2012, Somali pirates hijacked 14 ships, whereas in 2013, they successfully hijacked two, both of which were released in a day’s time as a … Continue reading &rarr;"
 categories:
   - "Current"

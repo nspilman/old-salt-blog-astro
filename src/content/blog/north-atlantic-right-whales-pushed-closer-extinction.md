@@ -1,7 +1,7 @@
 ---
 title: "North Atlantic Right Whales Pushed Closer to Extinction"
 date: 2017-12-12T08:48:09
-slug: north-atlantic-right-whales-pushed-closer-extinction
+slug: "north-atlantic-right-whales-pushed-closer-extinction"
 excerpt: "North Atlantic right whales are among the rarest of marine mammals. Only about 450 of the whales are thought to exist. In 2017 alone an estimated 17 right whales have died while only 5 whales are believed to have been … Continue reading &rarr;"
 categories:
   - "Current"

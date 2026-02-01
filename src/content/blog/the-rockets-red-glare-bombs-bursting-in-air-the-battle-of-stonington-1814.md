@@ -1,7 +1,7 @@
 ---
 title: "The Rocket’s Red Glare, Bombs Bursting in Air – the Battle of Stonington, 1814"
 date: 2012-07-11T14:05:14
-slug: the-rockets-red-glare-bombs-bursting-in-air-the-battle-of-stonington-1814
+slug: "the-rockets-red-glare-bombs-bursting-in-air-the-battle-of-stonington-1814"
 excerpt: "Yesterday, I went on a field trip  with the New York Shiplore and Model Club to Stonington and Mystic, Connecticut. (Thanks to Lee Gruzen, Norman Brouwer and Linda Zatkowski for making the arrangements.)  Our first stop was Stonington, Connecticut, a … Continue reading &rarr;"
 categories:
   - "History"

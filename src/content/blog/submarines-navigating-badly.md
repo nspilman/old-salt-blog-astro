@@ -1,7 +1,7 @@
 ---
 title: "Submarines Navigating Badly"
 date: 2010-01-25T16:48:06
-slug: submarines-navigating-badly
+slug: "submarines-navigating-badly"
 excerpt: "Last week a navy commander and two fellow officers pleaded guilty to crashing the HMS Superb, a  British nuclear submarine, in 2008, into a massive stone pinnacle under the Red Sea which was marked on maritime charts. Navy commander crashed … Continue reading &rarr;"
 categories:
   - "Current"

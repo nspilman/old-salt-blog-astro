@@ -1,7 +1,7 @@
 ---
 title: "Tragedy on the HMS Astute: Update"
 date: 2011-04-09T16:30:12
-slug: tragedy-on-the-hms-astute-update
+slug: "tragedy-on-the-hms-astute-update"
 excerpt: "Reports now indicate that Ryan Donovan, 22,  a sailor on HMS Astute, burst into the submarine control room and opened fire with an SA80 assault rifle yesterday, killing the ship’s weapons engineering officer, Lt. Cmdr. Ian Molyneux, 36, and wounding a second officer, Lieutenant Commander … Continue reading &rarr;"
 categories:
   - "Current"

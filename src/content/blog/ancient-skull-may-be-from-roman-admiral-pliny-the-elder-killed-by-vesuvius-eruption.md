@@ -1,7 +1,7 @@
 ---
 title: "Ancient Skull May Be From Roman Admiral Pliny the Elder, Killed by Vesuvius Eruption"
 date: 2020-02-07T17:11:04
-slug: ancient-skull-may-be-from-roman-admiral-pliny-the-elder-killed-by-vesuvius-eruption
+slug: "ancient-skull-may-be-from-roman-admiral-pliny-the-elder-killed-by-vesuvius-eruption"
 excerpt: "A team of Italian researchers has concluded that the upper portion of a skull found near Pompeii 100 years ago, may indeed belong to Pliny the Elder.  In 79 AD, Roman Admiral Gaius Plinius Secundus, known as Pliny the Elder, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "New Jersey Opening Bids on Major Offshore Wind Project"
 date: 2018-10-06T09:15:38
-slug: new-jersey-opening-bids-on-major-offshore-wind-project
+slug: "new-jersey-opening-bids-on-major-offshore-wind-project"
 excerpt: "The State of New Jersey has opened the bidding on a 1,100 megawatt offshore wind project, the largest of any state in the nation. The project is the first step in meeting New Jersey’s goal to deploy 3,500 megawatts of … Continue reading &rarr;"
 categories:
   - "Current"

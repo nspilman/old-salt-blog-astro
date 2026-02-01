@@ -1,7 +1,7 @@
 ---
 title: "Report: Black Box Not Functioning, Watertight Doors Open When Costa Concordia Hit the Rocks"
 date: 2012-07-03T13:02:00
-slug: report-black-box-not-functioning-watertight-doors-open-when-costa-concordia-hit-the-rocks
+slug: "report-black-box-not-functioning-watertight-doors-open-when-costa-concordia-hit-the-rocks"
 excerpt: "Extremely disturbing news coming out of Italy regarding the Costa Concordia, which ran aground and sank off the island of Giglio on January 13, 2012 with the deaths of at least 30 passengers. If the reports prove to be true, the ship was sailing with open watertight … Continue reading &rarr;"
 categories:
   - "Current"

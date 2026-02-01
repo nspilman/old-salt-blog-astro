@@ -1,8 +1,8 @@
 ---
 title: "Happy World Ocean Day – But How Should We Be Celebrating ?"
 date: 2010-06-08T09:07:13
-slug: happy-world-ocean-day-but-what-should-we-be-celebrating
-excerpt: "Today is the second annual celebration of World Ocean Day!  The only thing that is unclear to me is what and how we should be celebrating.  From the World Oceans’ Day website: “In 2009 The Ocean Project started an annual tradition associated with … Continue reading &rarr;"
+slug: "happy-world-ocean-day-but-what-should-we-be-celebrating"
+excerpt: "Today is the second annual celebration of World Ocean Day!  The only thing that is unclear to me is what and how we should be celebrating.  From the World Oceans’ Day website: \"In 2009 The Ocean Project started an annual tradition associated with … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Wear Blue and Tell Two"
   - "World Ocean Day"
 author: "Rick Spilman"
-description: "Today is the second annual celebration of World Ocean Day!  The only thing that is unclear to me is what and how we should be celebrating.  From the World Oceans’ Day website: “In 2009 The Ocean Project started an annual tradition associated with … Continue reading &rarr;"
+description: "Today is the second annual celebration of World Ocean Day!  The only thing that is unclear to me is what and how we should be celebrating.  From the World Oceans’ Day website: \"In 2009 The Ocean Project started an annual tradition associated with … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/06/Story.jpg)

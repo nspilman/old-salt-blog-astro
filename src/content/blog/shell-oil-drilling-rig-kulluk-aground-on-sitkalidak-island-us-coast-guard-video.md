@@ -1,7 +1,7 @@
 ---
 title: "Shell Oil Drilling Rig Kulluk Aground on Sitkalidak Island – US Coast Guard Video"
 date: 2013-01-02T14:19:02
-slug: shell-oil-drilling-rig-kulluk-aground-on-sitkalidak-island-us-coast-guard-video
+slug: "shell-oil-drilling-rig-kulluk-aground-on-sitkalidak-island-us-coast-guard-video"
 excerpt: "So far, the Shell Oil drilling rig Kulluk is reported to have remained intact with no observed leaks of diesel fuel, lube or hydraulic oil, after grounding on Alaska’s Sitkalidak Island on Monday night. The video below was taken yesterday by … Continue reading &rarr;"
 categories:
   - "Current"

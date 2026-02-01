@@ -1,7 +1,7 @@
 ---
 title: "The Great Brigantine Race of 2011"
 date: 2011-09-16T17:28:37
-slug: the-great-brigantine-race-of-2001
+slug: "the-great-brigantine-race-of-2001"
 excerpt: "Talk about match racing!  This Sunday off Newport Beach, CA, two identical brigantines, the Irving Johnson and the Exy Johnson, will race.  They will be manned by crews from rival local clubs, the Bahia Corinthian and Balboa Yacht clubs, under the supervision … Continue reading &rarr;"
 categories:
   - "Current"
@@ -11,7 +11,7 @@ tags:
   - "brigantine"
   - "Exy Johnson"
   - "Irving Johnson"
-  - "Los Angeles Maritime Institute's "TopSail Youth Program"
+  - "Los Angeles Maritime Institute's \"TopSail Youth Program"
 author: "Rick Spilman"
 description: "Talk about match racing!  This Sunday off Newport Beach, CA, two identical brigantines, the Irving Johnson and the Exy Johnson, will race.  They will be manned by crews from rival local clubs, the Bahia Corinthian and Balboa Yacht clubs, under the supervision … Continue reading &rarr;"
 ---

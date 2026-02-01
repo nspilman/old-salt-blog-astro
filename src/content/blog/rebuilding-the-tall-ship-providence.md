@@ -1,7 +1,7 @@
 ---
 title: "Rebuilding the Tall Ship Providence"
 date: 2019-06-22T08:03:42
-slug: rebuilding-the-tall-ship-providence
+slug: "rebuilding-the-tall-ship-providence"
 excerpt: "Here is a wonderful short video by Ryan Smith featuring some really breathtaking drone footage of the rebuilding and rerigging of the Tall Ship Providence. The 1976 built replica of the Continental Navy sloop of the same name, was blown … Continue reading &rarr;"
 categories:
   - "Current"

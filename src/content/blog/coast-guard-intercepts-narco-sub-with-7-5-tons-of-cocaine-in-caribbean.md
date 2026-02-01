@@ -1,7 +1,7 @@
 ---
 title: "Coast Guard Intercepts Narco Sub with 7.5 Tons of Cocaine in Caribbean"
 date: 2011-08-04T06:58:52
-slug: coast-guard-intercepts-narco-sub-with-7-5-tons-of-cocaine-in-caribbean
+slug: "coast-guard-intercepts-narco-sub-with-7-5-tons-of-cocaine-in-caribbean"
 excerpt: "On the 221st anniversary of the founding of the US Coast Guard here is a dramatic look at the service in action. Narco Sub With 7.5 Tons of Cocaine Caught in Caribbean The Coast Guard caught a narco submarine trying … Continue reading &rarr;"
 categories:
   - "Current"

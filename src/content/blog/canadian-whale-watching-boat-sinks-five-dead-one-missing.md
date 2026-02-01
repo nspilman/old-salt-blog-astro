@@ -1,7 +1,7 @@
 ---
 title: "Canadian Whale Watching Boat Sinks : Five Dead, One Missing"
 date: 2015-10-26T10:23:20
-slug: canadian-whale-watching-boat-sinks-five-dead-one-missing
+slug: "canadian-whale-watching-boat-sinks-five-dead-one-missing"
 excerpt: "MV Leviathan II, a 65′ whale watching boat, sank late yesterday afternoon, off the port of Tofino on Vancouver Island, British Columbia, Canada. 27 were aboard when the vessel sank. Five are reported to have died and one person is … Continue reading &rarr;"
 categories:
   - "Current"

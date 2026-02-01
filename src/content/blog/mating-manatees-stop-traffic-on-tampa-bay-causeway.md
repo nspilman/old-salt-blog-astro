@@ -1,7 +1,7 @@
 ---
 title: "Mating Manatees Stop Traffic on Tampa Bay Causeway"
 date: 2012-07-23T09:07:18
-slug: mating-manatees-stop-traffic-on-tampa-bay-causeway
+slug: "mating-manatees-stop-traffic-on-tampa-bay-causeway"
 excerpt: "Drivers on the Courtney Campbell Causeway began calling the authorities to report manatees in trouble.  There appeared to be around ten manatees on a sandbar not far from the causeway that connects Tampa and Clearwater, Florida. Drivers stopped their cars and pulled over to get a better … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

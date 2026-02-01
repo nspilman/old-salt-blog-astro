@@ -1,7 +1,7 @@
 ---
 title: "Coconut Crabs, the Size of Dogs, Hunt Sea Birds"
 date: 2017-11-20T18:29:40
-slug: coconut-crabs-size-dogs-hunt-sea-birds
+slug: "coconut-crabs-size-dogs-hunt-sea-birds"
 excerpt: "Coconut crabs are the stuff of nightmares. They live on remote coral atolls and are the largest land-living arthropod in the world. They can grow to over three feet long and weigh up to about 9 pounds. They can climb trees and use their … Continue reading &rarr;"
 categories:
   - "Current"

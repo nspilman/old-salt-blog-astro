@@ -1,7 +1,7 @@
 ---
 title: "HMS OCEAN – All I Want For Christmas"
 date: 2011-12-09T09:52:16
-slug: hms-ocean-all-i-want-for-christmas
+slug: "hms-ocean-all-i-want-for-christmas"
 excerpt: "HMS Ocean, a  Royal Navy amphibious assault ship, had planned for a seven week deployment but was diverted to Libya and  ended up being away for 225 days with 176 at sea. When they received word that they would be back in … Continue reading &rarr;"
 categories:
   - "Current"

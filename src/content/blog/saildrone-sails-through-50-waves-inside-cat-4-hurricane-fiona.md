@@ -1,7 +1,7 @@
 ---
 title: "Saildrone Sails Through 50′ Waves Inside Cat 4 Hurricane Fiona"
 date: 2022-09-23T16:57:53
-slug: saildrone-sails-through-50-waves-inside-cat-4-hurricane-fiona
+slug: "saildrone-sails-through-50-waves-inside-cat-4-hurricane-fiona"
 excerpt: "Saildrone, Inc. and the National Oceanic and Atmospheric Administration (NOAA) have released video footage gathered by a Saildrone uncrewed surface vehicle (USV) from inside Hurricane Fiona, a Category 4 hurricane, barreling across the Atlantic Ocean. For the second year, NOAA … Continue reading &rarr;"
 categories:
   - "Current"

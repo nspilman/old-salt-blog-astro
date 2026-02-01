@@ -1,7 +1,7 @@
 ---
 title: "Navy Searches For 2 SEALS Missing Off the Coast of Somalia"
 date: 2024-01-14T19:03:34
-slug: navy-searches-for-2-seals-missing-off-the-coast-of-somalia
+slug: "navy-searches-for-2-seals-missing-off-the-coast-of-somalia"
 excerpt: "Stars and Stripes reports that the US Navy is still searching for two SEALs missing in the Gulf of Aden more than two days after conducting nighttime operations off the coast of Somalia. The incident happened Thursday as the SEALs … Continue reading &rarr;"
 categories:
   - "Current"

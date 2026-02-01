@@ -1,7 +1,7 @@
 ---
 title: "Watching the Ball Drop — the Nautical Origins of a New Year’s Tradition"
 date: 2020-01-01T13:27:08
-slug: watching-the-ball-drop-the-nautical-origins-of-a-new-years-tradition-2
+slug: "watching-the-ball-drop-the-nautical-origins-of-a-new-years-tradition-2"
 excerpt: "Last night in New York City, over one million people watched a jeweled ball drop in Time Square at exactly midnight to mark the arrival of the New Year. Over a billion people are believed to have watched the festivities … Continue reading &rarr;"
 categories:
   - "Current"

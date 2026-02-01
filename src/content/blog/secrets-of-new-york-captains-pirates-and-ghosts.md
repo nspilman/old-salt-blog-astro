@@ -1,8 +1,8 @@
 ---
 title: "Secrets of New York: Captains, Pirates and Ghosts"
 date: 2015-06-01T17:03:21
-slug: secrets-of-new-york-captains-pirates-and-ghosts
-excerpt: "“Captains, Pirates and Ghosts,” from the documentary series, Secrets of New York, hosted  by Kelly Choi.  It includes some nice shots of the South Street Seaport Museum‘s schooner Pioneer, with commentary by the museum’s Executive Director, Captain Johnathon Boulware.  Segments from the Bridge Cafe, … Continue reading &rarr;"
+slug: "secrets-of-new-york-captains-pirates-and-ghosts"
+excerpt: "\"Captains, Pirates and Ghosts,\" from the documentary series, Secrets of New York, hosted  by Kelly Choi.  It includes some nice shots of the South Street Seaport Museum‘s schooner Pioneer, with commentary by the museum’s Executive Director, Captain Johnathon Boulware.  Segments from the Bridge Cafe, … Continue reading &rarr;"
 categories:
   - "City of Ships"
   - "Current"

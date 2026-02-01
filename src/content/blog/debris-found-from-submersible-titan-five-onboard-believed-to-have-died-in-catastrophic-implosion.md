@@ -1,7 +1,7 @@
 ---
 title: "Debris Found from Submersible Titan —  Five Onboard Believed to Have Died in Catastrophic Implosion"
 date: 2023-06-22T17:26:22
-slug: debris-found-from-submersible-titan-five-onboard-believed-to-have-died-in-catastrophic-implosion
+slug: "debris-found-from-submersible-titan-five-onboard-believed-to-have-died-in-catastrophic-implosion"
 excerpt: "Pieces of the Titan submersible were found today on the ocean floor, about 1,600 feet from the bow of the Titanic. The debris was ‘consistent with a catastrophic implosion,’ the Coast Guard says. All five onboard the submersible are believed … Continue reading &rarr;"
 categories:
   - "Current"

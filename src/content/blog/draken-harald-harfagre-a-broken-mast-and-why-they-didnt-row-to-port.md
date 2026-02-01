@@ -1,7 +1,7 @@
 ---
 title: "Draken Harald Hårfagre, a Broken Mast and Why They Didn’t Row to Port"
 date: 2014-08-03T09:00:12
-slug: draken-harald-harfagre-a-broken-mast-and-why-they-didnt-row-to-port
+slug: "draken-harald-harfagre-a-broken-mast-and-why-they-didnt-row-to-port"
 excerpt: "In early July, the 114-foot long  Draken Harald Hårfagre, the largest Viking replica ever built, was sailing across the North Sea,  from Haugesund in Norway.  Three days out, in high seas, the ship’s mast failed and went over the side.  No one … Continue reading &rarr;"
 categories:
   - "Current"

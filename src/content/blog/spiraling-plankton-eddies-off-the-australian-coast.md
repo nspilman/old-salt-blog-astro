@@ -1,7 +1,7 @@
 ---
 title: "Spiraling Plankton Eddies Off the Australian Coast"
 date: 2014-01-19T17:10:22
-slug: spiraling-plankton-eddies-off-the-australian-coast
+slug: "spiraling-plankton-eddies-off-the-australian-coast"
 excerpt: "While oceans in Northern latitudes are feeling the icy blast of winter, the antipodes are in the middle of a very hot summer.  Indeed, for Australia, there maybe too much of summer’s sun, as the continent suffers under a brutal … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

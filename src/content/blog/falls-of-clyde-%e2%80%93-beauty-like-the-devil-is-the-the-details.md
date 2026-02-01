@@ -1,7 +1,7 @@
 ---
 title: "Falls of Clyde – Beauty, Like the Devil, is the the Details"
 date: 2009-09-26T02:35:40
-slug: falls-of-clyde-%e2%80%93-beauty-like-the-devil-is-the-the-details
+slug: "falls-of-clyde-%e2%80%93-beauty-like-the-devil-is-the-the-details"
 excerpt: "Susan Yamamato has been posting some wonderful photographs from aboard the Falls of Clyde on her blog, Notes from the Wooden and Iron World.    Beauty, like the devil, is often in the details.  Click here to view the gallery. Falls of … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "The Oldest Albatross, a Mother at 60!"
 date: 2011-03-10T21:37:17
-slug: the-oldest-albatross-a-mother-at-60
-excerpt: "The U.S. Geological Survey press release began:  “The oldest known U.S. wild bird – a coyly conservative 60 — is a new mother.” Why the Albatross Is Our Albatross Last month, a U.S. Fish and Wildlife Service biologist spotted this Laysan … Continue reading &rarr;"
+slug: "the-oldest-albatross-a-mother-at-60"
+excerpt: "The U.S. Geological Survey press release began:  \"The oldest known U.S. wild bird – a coyly conservative 60 — is a new mother.\" Why the Albatross Is Our Albatross Last month, a U.S. Fish and Wildlife Service biologist spotted this Laysan … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "oldest known U.S. wild bird"
   - "U.S. Fish and Wildlife Service"
 author: "Rick Spilman"
-description: "The U.S. Geological Survey press release began:  “The oldest known U.S. wild bird – a coyly conservative 60 — is a new mother.” Why the Albatross Is Our Albatross Last month, a U.S. Fish and Wildlife Service biologist spotted this Laysan … Continue reading &rarr;"
+description: "The U.S. Geological Survey press release began:  \"The oldest known U.S. wild bird – a coyly conservative 60 — is a new mother.\" Why the Albatross Is Our Albatross Last month, a U.S. Fish and Wildlife Service biologist spotted this Laysan … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/03/OLDEST-BIRD-IN-AMERICA.jpg)The [U.S. Geological Survey press release](http://www.usgs.gov/newsroom/article.asp?ID=2722&from=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+UsgsNewsroom+\(USGS+Newsroom\)&utm_content=Netvibes) began:  “*The oldest known U.S. wild bird – a coyly conservative 60 — is a new mother.*”

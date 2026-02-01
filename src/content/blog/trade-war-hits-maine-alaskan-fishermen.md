@@ -1,7 +1,7 @@
 ---
 title: "Trade War Hits Maine & Alaskan Fishermen"
 date: 2018-06-26T18:20:50
-slug: trade-war-hits-maine-alaskan-fishermen
+slug: "trade-war-hits-maine-alaskan-fishermen"
 excerpt: "We recently posted about concerns that the current Maine lobster boom may collapse in time due to climate change. The fishing industries in Maine and Alaska are facing a far more immediate challenge, however. New US tariffs on steel and aluminum and … Continue reading &rarr;"
 categories:
   - "Current"

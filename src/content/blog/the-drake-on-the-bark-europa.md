@@ -1,7 +1,7 @@
 ---
 title: "The Drake on the Bark Europa"
 date: 2013-04-07T09:22:20
-slug: the-drake-on-the-bark-europa
+slug: "the-drake-on-the-bark-europa"
 excerpt: "The third of three wonderful videos shot by William Collinson sailing on the Bark Europa between the end of December 2012 and the early part of January 2013. The Drake … Continue reading &rarr;"
 categories:
   - "Current"

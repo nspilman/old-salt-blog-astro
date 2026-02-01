@@ -1,7 +1,7 @@
 ---
 title: "Bulk Carrier Swanland Sinks off North Wales – Two Crew Rescued & Five Missing"
 date: 2011-11-27T09:37:11
-slug: bulk-carrier-swanland-sinks-off-north-wales-two-crew-rescued-five-missing
+slug: "bulk-carrier-swanland-sinks-off-north-wales-two-crew-rescued-five-missing"
 excerpt: "Update: Prince William co-piloted the Sea King helicopter which rescued two crew from the sinking Swanland.   Prince William serves with RAF Valley in north Wales. The bulk carrier Swanland is reported to have sunk this morning off north  Wales in heavy … Continue reading &rarr;"
 categories:
   - "Current"

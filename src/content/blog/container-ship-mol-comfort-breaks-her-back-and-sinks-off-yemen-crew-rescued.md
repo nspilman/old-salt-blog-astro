@@ -1,7 +1,7 @@
 ---
 title: "Container ship MOL Comfort Breaks in Two off Yemen, Crew Rescued"
 date: 2013-06-17T14:38:14
-slug: container-ship-mol-comfort-breaks-her-back-and-sinks-off-yemen-crew-rescued
+slug: "container-ship-mol-comfort-breaks-her-back-and-sinks-off-yemen-crew-rescued"
 excerpt: "UPDATE: Contrary to initial reports that the ship sank, the two halves of the MOL Comfort have remained afloat. Tugs have been dispatched to the site. The container ship MOL Comfort sank today off Yemen after suffering catastrophic hull cracking near amidships. … Continue reading &rarr;"
 categories:
   - "Current"

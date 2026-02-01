@@ -1,7 +1,7 @@
 ---
 title: "The Treacherous Antarctic Fisheries – Sinking, Flooding and Fire"
 date: 2012-01-12T09:21:26
-slug: the-treacherous-antarctic-fisheries-sinking-flooding-and-fire
+slug: "the-treacherous-antarctic-fisheries-sinking-flooding-and-fire"
 excerpt: "The Patagonian toothfish, better known on Western restaurant menus as Chilean sea bass, is in high demand.  Living in the colder waters of the southern oceans, including  Antarctica’s Ross Sea, fishing for the toothfish can be hazardous.  Within the last 30 days, 25 sailors … Continue reading &rarr;"
 categories:
   - "Current"

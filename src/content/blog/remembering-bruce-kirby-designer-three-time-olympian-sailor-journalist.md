@@ -1,7 +1,7 @@
 ---
 title: "Remembering Bruce Kirby — Designer, Three Time Olympian Sailor & Journalist"
 date: 2021-07-28T10:47:01
-slug: remembering-bruce-kirby-designer-three-time-olympian-sailor-journalist
+slug: "remembering-bruce-kirby-designer-three-time-olympian-sailor-journalist"
 excerpt: "Bruce Kirby died recently at the age of 92. He was a Canadian-born, self-taught yacht designer known for a range of projects from one-designs to America’s Cup yachts. He also was a three-time Olympian sailor. Kirby began his career as … Continue reading &rarr;"
 categories:
   - "Current"

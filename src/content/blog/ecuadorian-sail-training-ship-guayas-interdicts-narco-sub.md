@@ -1,7 +1,7 @@
 ---
 title: "Ecuadorian Sail Training Ship Guayas Interdicts Narco Sub"
 date: 2021-10-27T09:53:04
-slug: ecuadorian-sail-training-ship-guayas-interdicts-narco-sub
+slug: "ecuadorian-sail-training-ship-guayas-interdicts-narco-sub"
 excerpt: "In one of the stranger maritime stories of late, the Ecuadorian Navy announced that last week, their sail training ship, the three-masted barque Guayas stopped and captured a drug-laden high-speed craft; a low profile vessel (LPV) powered by three outboard … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Eyewitness to Trafalgar 205 Years Ago Today"
 date: 2010-10-21T09:57:17
-slug: eyewitness-to-trafalgar-205-years-ago-today
+slug: "eyewitness-to-trafalgar-205-years-ago-today"
 excerpt: "A letter which only recently resurfaced gives an ordinary seaman’s view of the famous battle which was fought 205 years ago today. ‘They won’t send their fleets out again in a hurry’: Remarkable letter from hero who survived the Battle … Continue reading &rarr;"
 categories:
   - "Current"

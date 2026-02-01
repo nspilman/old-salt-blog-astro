@@ -1,7 +1,7 @@
 ---
 title: "Odyssey Retrieves Additional 61 Tons of Silver from SS Gairsoppa, Three Miles Deep"
 date: 2013-07-23T16:33:20
-slug: odyssey-retrieves-additional-61-tons-of-silver-from-ss-gairsoppa-three-miles-deep
+slug: "odyssey-retrieves-additional-61-tons-of-silver-from-ss-gairsoppa-three-miles-deep"
 excerpt: "Almost exactly a year ago, we posted that Odyssey Marine Exploration had recovered approximately 48 tons of silver  from the wreck of the SS Gairsoppa, a 412-foot British cargo ship which was torpedoed in February of 1941 by a German U-boat.   The wreck … Continue reading &rarr;"
 categories:
   - "Current"

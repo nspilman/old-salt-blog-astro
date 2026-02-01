@@ -1,7 +1,7 @@
 ---
 title: "Ferry Condor Vitesse Collides with Fishing Boat, Fisherman Killed"
 date: 2011-03-28T07:37:30
-slug: ferry-condor-vitesse-collides-with-fishing-boat-fisherman-injured
+slug: "ferry-condor-vitesse-collides-with-fishing-boat-fisherman-injured"
 excerpt: "The 86m fast catamaran ferry, Condor Vitesse, collided with a fishing vessel this morning, seriously injuring a French fisherman. UPDATE: The fisherman injured in the crash subsequently died. French fisherman seriously injured in ferry crash The Condor Vitesse, travelling between St Malo in … Continue reading &rarr;"
 categories:
   - "Current"

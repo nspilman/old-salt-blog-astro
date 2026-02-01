@@ -1,8 +1,8 @@
 ---
 title: "Fleet Week New York – Parade of Ships"
 date: 2011-05-25T23:07:59
-slug: fleet-week-new-york-parade-of-ships
-excerpt: "Fleet Week in New York Harbor kicked off today with a parade of ships.  A short video we shot and edited of the parade: Fleet Week New York 2011, Parade of Ships, 5/25/11 [iframe: width=”480″ height=”300″ src=”http://www.youtube.com/embed/OfXk0ASrwKY” frameborder=”0″ allowfullscreen] The … Continue reading &rarr;"
+slug: "fleet-week-new-york-parade-of-ships"
+excerpt: "Fleet Week in New York Harbor kicked off today with a parade of ships.  A short video we shot and edited of the parade: Fleet Week New York 2011, Parade of Ships, 5/25/11 [iframe: width=\"480″ height=\"300″ src=\"http://www.youtube.com/embed/OfXk0ASrwKY\" frameborder=\"0″ allowfullscreen] The … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -20,7 +20,7 @@ tags:
   - "USS Kauffman (FFG 59)"
   - "USS New York (LPD 21)"
 author: "Rick Spilman"
-description: "Fleet Week in New York Harbor kicked off today with a parade of ships.  A short video we shot and edited of the parade: Fleet Week New York 2011, Parade of Ships, 5/25/11 [iframe: width=”480″ height=”300″ src=”http://www.youtube.com/embed/OfXk0ASrwKY” frameborder=”0″ allowfullscreen] The … Continue reading &rarr;"
+description: "Fleet Week in New York Harbor kicked off today with a parade of ships.  A short video we shot and edited of the parade: Fleet Week New York 2011, Parade of Ships, 5/25/11 [iframe: width=\"480″ height=\"300″ src=\"http://www.youtube.com/embed/OfXk0ASrwKY\" frameborder=\"0″ allowfullscreen] The … Continue reading &rarr;"
 ---
 
 Fleet Week in New York Harbor kicked off today with a parade of ships.  A short video we shot and edited of the parade:

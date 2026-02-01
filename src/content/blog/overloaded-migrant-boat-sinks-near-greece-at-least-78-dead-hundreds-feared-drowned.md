@@ -1,7 +1,7 @@
 ---
 title: "Overloaded Migrant Boat Sinks Near Greece — at Least 78 Dead, Hundreds Feared Drowned"
 date: 2023-06-16T14:53:23
-slug: overloaded-migrant-boat-sinks-near-greece-at-least-78-dead-hundreds-feared-drowned
+slug: "overloaded-migrant-boat-sinks-near-greece-at-least-78-dead-hundreds-feared-drowned"
 excerpt: "Reuters reports that rescuers scoured the seas off Greece on Thursday following a shipwreck that killed at least 78 migrants, as hopes of survivors dwindled and fears grew that hundreds more, including children, may have drowned inside the crowded vessel’s … Continue reading &rarr;"
 categories:
   - "Current"

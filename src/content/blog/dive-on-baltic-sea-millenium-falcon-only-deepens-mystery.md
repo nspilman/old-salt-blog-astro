@@ -1,7 +1,7 @@
 ---
-title: "Dive on Baltic Sea “Millenium Falcon” Only Deepens Mystery"
+title: "Dive on Baltic Sea \"Millenium Falcon\" Only Deepens Mystery"
 date: 2012-06-18T15:40:22
-slug: dive-on-baltic-sea-millenium-falcon-only-deepens-mystery
+slug: "dive-on-baltic-sea-millenium-falcon-only-deepens-mystery"
 excerpt: "Last June, while doing sonar sweeps of the bottom of the Baltic Sea, the Swedish treasure hunters, Ocean X Team, saw something that they did not understand.  It appeared to be a 197 feet diameter disk-shaped object at the depth of approximately 275 feet.   … Continue reading &rarr;"
 categories:
   - "Current"

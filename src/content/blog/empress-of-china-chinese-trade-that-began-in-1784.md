@@ -1,7 +1,7 @@
 ---
 title: "Empress of China — the Chinese Trade That Began in 1784"
 date: 2019-08-26T17:21:27
-slug: empress-of-china-chinese-trade-that-began-in-1784
+slug: "empress-of-china-chinese-trade-that-began-in-1784"
 excerpt: "Given all the economic damage being done by needless trade wars, it seems worthwhile to recall the ship that opened the trade with the United States’ first trading partner, China. The new nation had won the Revolutionary War but had … Continue reading &rarr;"
 categories:
   - "History"

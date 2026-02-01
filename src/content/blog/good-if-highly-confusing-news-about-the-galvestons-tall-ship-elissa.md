@@ -1,12 +1,12 @@
 ---
 title: "Good, if Highly Confusing News, About the Galveston’s Tall Ship Elissa"
 date: 2012-08-24T07:31:27
-slug: good-if-highly-confusing-news-about-the-galvestons-tall-ship-elissa
-excerpt: "There were several recent news accounts related to the Galveston’s 1877 iron barque Elissa which frankly made us shake our heads and ask,” where did they come up with this stuff?”  The extremely good news is that the Federal Emergency … Continue reading &rarr;"
+slug: "good-if-highly-confusing-news-about-the-galvestons-tall-ship-elissa"
+excerpt: "There were several recent news accounts related to the Galveston’s 1877 iron barque Elissa which frankly made us shake our heads and ask,\" where did they come up with this stuff?\"  The extremely good news is that the Federal Emergency … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "There were several recent news accounts related to the Galveston’s 1877 iron barque Elissa which frankly made us shake our heads and ask,” where did they come up with this stuff?”  The extremely good news is that the Federal Emergency … Continue reading &rarr;"
+description: "There were several recent news accounts related to the Galveston’s 1877 iron barque Elissa which frankly made us shake our heads and ask,\" where did they come up with this stuff?\"  The extremely good news is that the Federal Emergency … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/Elissa_off_Biloxi19862.jpg)There were several recent news accounts related to the [Galveston’s 1877 iron barque *Elissa*](http://www.galvestonhistory.org/1877_tall_ship_elissa.asp) which frankly made us shake our heads and ask,” where did they come up with this stuff?”  The extremely good news is that the Federal Emergency Management Agency (FEMA) has awarded the state of Texas $1.4-million for repairs to *Elissa* for  damage in hurricane Ike.    Exactly why and how she was damaged is the confusing part.  The explanations vary widely and none appear to be correct from all that we have seen.

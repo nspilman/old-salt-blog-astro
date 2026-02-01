@@ -1,7 +1,7 @@
 ---
 title: "The Tall Ship Elissa : Stray Current Electrolytic Corrosion"
 date: 2011-08-11T17:10:15
-slug: the-tall-ship-elissa-stray-current-electrolytic-corrosion
+slug: "the-tall-ship-elissa-stray-current-electrolytic-corrosion"
 excerpt: "The barque Elissa  is one of the true ship restoration success stories.  The ship was rescued from near oblivion and restored at considerable cost by a dedicated group of volunteers.  She has been well maintained in  Galveston and has been taken on yearly sails, … Continue reading &rarr;"
 categories:
   - "Current"

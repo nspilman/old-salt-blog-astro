@@ -1,7 +1,7 @@
 ---
 title: "Steam Packet Company Post War Vessel To Be Scrapped"
 date: 2010-04-16T22:07:04
-slug: steam-packet-company-post-war-vessel-to-be-scrapped
+slug: "steam-packet-company-post-war-vessel-to-be-scrapped"
 excerpt: "One of the Steam Packet Company‘s post war vessels is to be scrapped.   The s.s. Manxman, which had her last sailing in the early 80’s, is to be dismantled due to to the extent of damage after years of neglect. … Continue reading &rarr;"
 categories:
   - "Current"

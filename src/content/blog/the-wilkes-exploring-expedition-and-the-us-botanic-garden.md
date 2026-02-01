@@ -1,7 +1,7 @@
 ---
 title: "The Wilkes Exploring Expedition and the US Botanic Garden"
 date: 2014-12-27T17:25:35
-slug: the-wilkes-exploring-expedition-and-the-us-botanic-garden
+slug: "the-wilkes-exploring-expedition-and-the-us-botanic-garden"
 excerpt: "While visiting family in Washington DC, we visited the United States Botanic Garden. The Garden has a holiday exhibit that features model trains, specifically, Thomas the Tank Engine, which delighted my 2 year old grand nephew.  In addition to the trains … Continue reading &rarr;"
 categories:
   - "Current"

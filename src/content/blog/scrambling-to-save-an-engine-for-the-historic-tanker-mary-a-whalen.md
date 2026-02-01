@@ -1,7 +1,7 @@
 ---
 title: "Scrambling to Save an Engine for the Historic Tanker Mary A. Whalen"
 date: 2020-05-13T17:46:54
-slug: scrambling-to-save-an-engine-for-the-historic-tanker-mary-a-whalen
+slug: "scrambling-to-save-an-engine-for-the-historic-tanker-mary-a-whalen"
 excerpt: "The historic tanker Mary A. Whalen is in dire need of parts to restore its diesel engine. A powerplant in Missouri has a compatible diesel. All that needs to be done is to raise the money to move the engine … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

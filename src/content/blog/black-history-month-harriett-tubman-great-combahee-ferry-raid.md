@@ -1,8 +1,8 @@
 ---
 title: "Black History Month — Harriett Tubman & the Great Combahee Ferry Raid"
 date: 2017-02-23T11:44:46
-slug: black-history-month-harriett-tubman-great-combahee-ferry-raid
-excerpt: "As Black History Month winds to a close, here is a throwback Thursday repost of a story I think is well worth telling and retelling.   Born a slave, Harriet Tubman escaped and would become a leading “conductor” on the “Underground … Continue reading &rarr;"
+slug: "black-history-month-harriett-tubman-great-combahee-ferry-raid"
+excerpt: "As Black History Month winds to a close, here is a throwback Thursday repost of a story I think is well worth telling and retelling.   Born a slave, Harriet Tubman escaped and would become a leading \"conductor\" on the \"Underground … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Harriett Tubman"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/02/tubman200.jpg"
 author: "Rick Spilman"
-description: "As Black History Month winds to a close, here is a throwback Thursday repost of a story I think is well worth telling and retelling.   Born a slave, Harriet Tubman escaped and would become a leading “conductor” on the “Underground … Continue reading &rarr;"
+description: "As Black History Month winds to a close, here is a throwback Thursday repost of a story I think is well worth telling and retelling.   Born a slave, Harriet Tubman escaped and would become a leading \"conductor\" on the \"Underground … Continue reading &rarr;"
 ---
 
 ![Harriet Tubman](http://www.oldsaltblog.com/wp-content/uploads/2014/02/Harriet-Tubman.jpg)As Black History Month winds to a close, here is a throwback Thursday repost of a story I think is well worth telling and retelling.  

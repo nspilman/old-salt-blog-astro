@@ -1,12 +1,12 @@
 ---
 title: "Couture superyacht brings high fashion to the high seas"
 date: 2010-03-16T09:00:50
-slug: couture-superyacht-brings-high-fashion-to-the-high-seas
-excerpt: "I will admit to being easily amused, but I found this to be very funny.  For those with more money than sense, here is a “couture superyacht” designed by a fashion designer.   I would worry that it might be more fashionable … Continue reading &rarr;"
+slug: "couture-superyacht-brings-high-fashion-to-the-high-seas"
+excerpt: "I will admit to being easily amused, but I found this to be very funny.  For those with more money than sense, here is a \"couture superyacht\" designed by a fashion designer.   I would worry that it might be more fashionable … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "I will admit to being easily amused, but I found this to be very funny.  For those with more money than sense, here is a “couture superyacht” designed by a fashion designer.   I would worry that it might be more fashionable … Continue reading &rarr;"
+description: "I will admit to being easily amused, but I found this to be very funny.  For those with more money than sense, here is a \"couture superyacht\" designed by a fashion designer.   I would worry that it might be more fashionable … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/03/t1larg.jpg)

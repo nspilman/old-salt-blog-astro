@@ -1,7 +1,7 @@
 ---
 title: "Fatal Shooting on the Nuclear Submarine HMS Astute"
 date: 2011-04-08T11:04:36
-slug: one-killed-in-shooting-on-the-nuclear-submarine-hms-astute
+slug: "one-killed-in-shooting-on-the-nuclear-submarine-hms-astute"
 excerpt: "The BBC is reporting that one sailor has been killed and another seriously injured on the Royal Navy nuclear submarine HMS Astute. A member of the crew is reported to have shot two of his fellow sailors before being overpowered.   HMS Astute, the Navy’s newest and most advanced submarine, is docked at … Continue reading &rarr;"
 categories:
   - "Current"

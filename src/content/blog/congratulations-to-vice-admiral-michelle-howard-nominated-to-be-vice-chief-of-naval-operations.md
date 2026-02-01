@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Vice Admiral Michelle Howard, Nominated to be Vice Chief of Naval Operations."
 date: 2013-12-20T15:50:40
-slug: congratulations-to-vice-admiral-michelle-howard-nominated-to-be-vice-chief-of-naval-operations
+slug: "congratulations-to-vice-admiral-michelle-howard-nominated-to-be-vice-chief-of-naval-operations"
 excerpt: "President Obama recently nominated Vice Admiral Michelle Howard to serve as vice chief of naval operations, the service’s No. 2 uniformed officer. If confirmed, she will be the first black and the first woman to hold the job and the first … Continue reading &rarr;"
 categories:
   - "Current"

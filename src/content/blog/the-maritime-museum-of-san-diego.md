@@ -1,7 +1,7 @@
 ---
 title: "The Maritime Museum of San Diego"
 date: 2011-06-21T13:40:49
-slug: the-maritime-museum-of-san-diego
+slug: "the-maritime-museum-of-san-diego"
 excerpt: "The first you notice about the Maritime Museum of San Diego are the ships.    When I  visited last week, the 1863 windjammer Star of India was  hove to with two staysails and her spanker set and drawing, and with her … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Are Delta Queen Safety Exemptions Justified?"
 date: 2019-09-15T15:04:14
-slug: are-delta-queen-safety-exemptions-justified
+slug: "are-delta-queen-safety-exemptions-justified"
 excerpt: "On the same day that I heard the news of the horrific fire on the dive boat Conception which killed 34 passengers and crew, I also saw an article attacking the safety waivers granted to the riverboat Delta Queen. It … Continue reading &rarr;"
 categories:
   - "Current"

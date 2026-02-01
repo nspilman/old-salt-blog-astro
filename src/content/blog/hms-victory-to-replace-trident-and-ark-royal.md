@@ -1,7 +1,7 @@
 ---
 title: "HMS Victory to replace Trident and Ark Royal"
 date: 2010-11-02T08:08:32
-slug: hms-victory-to-replace-trident-and-ark-royal
+slug: "hms-victory-to-replace-trident-and-ark-royal"
 excerpt: "This is satire, though given the rather drastic cuts in the Royal Navy budget, it doesn’t feel too far off the mark.  From News Biscuit: HMS Victory to replace Trident and Ark Royal HMS Victory, Nelson’s flagship at the Battle of … Continue reading &rarr;"
 categories:
   - "Current"

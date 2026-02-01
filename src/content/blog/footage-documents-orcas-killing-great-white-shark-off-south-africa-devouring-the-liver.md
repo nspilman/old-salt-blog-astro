@@ -1,7 +1,7 @@
 ---
 title: "Footage Documents Orcas Killing Great White Shark Off South Africa, Devouring the Liver"
 date: 2022-10-11T18:18:21
-slug: footage-documents-orcas-killing-great-white-shark-off-south-africa-devouring-the-liver
+slug: "footage-documents-orcas-killing-great-white-shark-off-south-africa-devouring-the-liver"
 excerpt: "Over the last five years, a macabre mystery has been playing out on the South African coast. The carcasses of great white sharks have been washing ashore on local beaches with their bellies ripped open and their livers missing. What … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Antarctica on Bark Europa"
 date: 2013-04-06T09:26:38
-slug: antarctica-on-bark-europa
+slug: "antarctica-on-bark-europa"
 excerpt: "The second of three wonderful videos shot by William Collinson sailing on the Bark Europa between the end of December 2012 and the early part of January 2013. Antarctica … Continue reading &rarr;"
 categories:
   - "Current"

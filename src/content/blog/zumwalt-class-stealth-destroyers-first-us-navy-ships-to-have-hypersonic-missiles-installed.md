@@ -1,7 +1,7 @@
 ---
 title: "Zumwalt Class Stealth Destroyers First US Navy Ships to Have Hypersonic Missiles Installed"
 date: 2022-09-01T10:21:17
-slug: zumwalt-class-stealth-destroyers-first-us-navy-ships-to-have-hypersonic-missiles-installed
+slug: "zumwalt-class-stealth-destroyers-first-us-navy-ships-to-have-hypersonic-missiles-installed"
 excerpt: "The Zumwalt Class stealth destroyers will be the first US warship to have long-range hypersonic weapons installed. USNI News reports that the new weapons will be installed on the destroyers USS Zumwalt (DDG-1000) and USS Michael Monsoor (DDG-1001) during an … Continue reading &rarr;"
 categories:
   - "Current"

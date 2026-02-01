@@ -1,7 +1,7 @@
 ---
 title: "Freed From the Vultures, Argentine Tallship Libertad Sails Again"
 date: 2016-06-21T15:01:53
-slug: free-vultures-argentine-tallship-libertad-free-sail
+slug: "free-vultures-argentine-tallship-libertad-free-sail"
 excerpt: "After being tied to the dock for several years, the ARA Libertad, the Argentine Navy’s training ship, is sailing again. For the last three years, the ship has been entangled in a more than decade long battle over Argentine debt related … Continue reading &rarr;"
 categories:
   - "Current"

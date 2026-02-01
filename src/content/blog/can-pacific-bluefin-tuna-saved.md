@@ -1,7 +1,7 @@
 ---
 title: "Can Pacific Bluefin Tuna Be Saved?"
 date: 2017-09-03T08:30:09
-slug: can-pacific-bluefin-tuna-saved
+slug: "can-pacific-bluefin-tuna-saved"
 excerpt: "The Pacific bluefin tuna is at risk of becoming commercially extinct. Overfishing has depleted stocks of the fish by an estimated 97%. Now the principle tuna-fishing nations have reached an agreement to gradually rebuild the depleted stocks, while still allowing Japan, … Continue reading &rarr;"
 categories:
   - "Current"

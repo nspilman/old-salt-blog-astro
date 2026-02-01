@@ -1,12 +1,12 @@
 ---
 title: "Wasn’t That a Mighty Storm — Remembering the Deadly 1900 Galveston Hurricane"
 date: 2020-09-09T10:44:48
-slug: wasnt-that-a-mighty-storm-remembering-the-deadly-1900-galveston-hurricane
+slug: "wasnt-that-a-mighty-storm-remembering-the-deadly-1900-galveston-hurricane"
 excerpt: "One hundred and twenty years ago yesterday, on September 8, 1900, the city of Galveston Texas was struck by what today would be classified as a Category 4 hurricane, with winds of 145 mph and a storm surge of 14 … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
-  - ""Sin-Killer" Griffin"
+  - "\"Sin-Killer\" Griffin"
   - "galveston"
   - "Galveston Hurricane of 1900"
   - "hurricane 1900"

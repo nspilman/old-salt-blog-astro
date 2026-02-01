@@ -1,7 +1,7 @@
 ---
 title: "Update: Assam Ferry Tragedy – No Clear Death Toll Yet"
 date: 2012-05-02T15:27:03
-slug: update-assam-ferry-tragedy-no-clear-death-toll-yet
+slug: "update-assam-ferry-tragedy-no-clear-death-toll-yet"
 excerpt: "In what may prove to be the worst ferry accident in India in recent years, it is still unclear how many passengers were lost when an overcrowded ferry capsized on Monday in the bad weather in the Brahmaputra River in India’s Assam state. … Continue reading &rarr;"
 categories:
   - "Current"

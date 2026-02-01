@@ -1,7 +1,7 @@
 ---
 title: "Faroe Islands SheepView 360"
 date: 2016-08-20T09:22:24
-slug: faroe-islands-sheepview-360
+slug: "faroe-islands-sheepview-360"
 excerpt: "One day, I would love to sail to the Faroe Islands. The Faroes are an archipelago of eighteen strikingly beautiful islands between the Norwegian Sea and the North Atlantic Ocean, approximately halfway between Norway and Iceland, and 200 miles north-northwest of … Continue reading &rarr;"
 categories:
   - "Current"

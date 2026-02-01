@@ -1,7 +1,7 @@
 ---
 title: "Tall ship Glenlee moves to new home on the Clyde at new Riverside Museum"
 date: 2011-05-06T21:03:31
-slug: tall-ship-glenlee-moves-to-new-home-on-the-clyde-at-new-riverside-museum
+slug: "tall-ship-glenlee-moves-to-new-home-on-the-clyde-at-new-riverside-museum"
 excerpt: "The Glenlee, a three-masted baldheaded steel-hulled barque, launched on December 3, 1896, has moved to a new home on the River Clyde in Glasgow at the new Riverside Museum. Tall ship Glenlee moves to new home on the Clyde … Continue reading &rarr;"
 categories:
   - "Current"

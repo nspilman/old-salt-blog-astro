@@ -1,7 +1,7 @@
 ---
 title: "Remembering Jacques Cousteau"
 date: 2017-06-25T11:53:54
-slug: remembering-jacques-cousteau
+slug: "remembering-jacques-cousteau"
 excerpt: "Jacques Cousteau; the co-developer of the Aqua-Lung, as well as an explorer, author, conservationist, and filmmaker; died twenty years ago today. He opened the eye of millions both to the wonders of the world beneath the sea but also the … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,8 +1,8 @@
 ---
 title: "Haulout : Melting Sea Ice Pushes Walruses to the Brink"
 date: 2023-03-11T10:14:26
-slug: haulout-melting-sea-ice-pushes-walruses-to-the-brink
-excerpt: "A lone scientist on the coast of the Siberian Arctic finds that warming seas have taken a toll on the walrus migration, as documented in a film by Evgenia Arbugaeva and Maxim Arbugaev. “Haulout” is nominated for Best Documentary Short … Continue reading &rarr;"
+slug: "haulout-melting-sea-ice-pushes-walruses-to-the-brink"
+excerpt: "A lone scientist on the coast of the Siberian Arctic finds that warming seas have taken a toll on the walrus migration, as documented in a film by Evgenia Arbugaeva and Maxim Arbugaev. \"Haulout\" is nominated for Best Documentary Short … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "walrus"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/haulout.jpg"
 author: "Rick Spilman"
-description: "A lone scientist on the coast of the Siberian Arctic finds that warming seas have taken a toll on the walrus migration, as documented in a film by Evgenia Arbugaeva and Maxim Arbugaev. “Haulout” is nominated for Best Documentary Short … Continue reading &rarr;"
+description: "A lone scientist on the coast of the Siberian Arctic finds that warming seas have taken a toll on the walrus migration, as documented in a film by Evgenia Arbugaeva and Maxim Arbugaev. \"Haulout\" is nominated for Best Documentary Short … Continue reading &rarr;"
 ---
 
 A lone scientist on the coast of the Siberian Arctic finds that warming seas have taken a toll on the walrus migration, as documented in a film by Evgenia Arbugaeva and Maxim Arbugaev. “[Haulout](https://www.imdb.com/title/tt17162620/)” is nominated for Best Documentary Short at the 2023 Academy Awards.

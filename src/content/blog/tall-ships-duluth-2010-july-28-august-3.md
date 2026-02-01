@@ -1,7 +1,7 @@
 ---
 title: "Tall Ships Duluth 2010 July 28 – August 3"
 date: 2010-07-28T07:51:46
-slug: tall-ships-duluth-2010-july-28-august-3
+slug: "tall-ships-duluth-2010-july-28-august-3"
 excerpt: "Tall Ships Duluth 2010 has an impressive line up of ships scheduled for their tall ships festival.  The ships are expected to start arriving in Duluth today.  The Brig Niagara, the Barque Europa, HMS Bounty, the Pride of Baltimore II, the … Continue reading &rarr;"
 categories:
   - "Current"

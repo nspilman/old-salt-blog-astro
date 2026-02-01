@@ -1,7 +1,7 @@
 ---
-title: "Norwegian Frigate Helge Ingstad — “We Have Everything Under Control”"
+title: "Norwegian Frigate Helge Ingstad — \"We Have Everything Under Control\""
 date: 2018-11-10T10:17:23
-slug: norwegian-frigate-helge-ingstad-we-have-everything-under-control
+slug: "norwegian-frigate-helge-ingstad-we-have-everything-under-control"
 excerpt: "How is it possible that the Norwegian frigate Helge Ingstad collided with the Aframax tanker Sola TS in a fjord near a major oil terminal? The frigate is much smaller, significantly faster and far more maneuverable than the 113,00 DWT … Continue reading &rarr;"
 categories:
   - "Current"

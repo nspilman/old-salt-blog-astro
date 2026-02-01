@@ -1,7 +1,7 @@
 ---
 title: "The Mighty Dhow Obaid & Memories of the World’s Longest Schooner Wyoming"
 date: 2021-06-22T17:29:25
-slug: the-mighty-dhow-obaid-memories-of-the-worlds-longest-schooner-wyoming
+slug: "the-mighty-dhow-obaid-memories-of-the-worlds-longest-schooner-wyoming"
 excerpt: "Last October, the mightly dhow Obaid set sail from the Majid Obaid Bin Majid Al Falasi & Sons shipyard on Dubai Creek. The Guinness Book of World Records has confirmed Obaid as the largest wooden Arabic dhow in the world. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

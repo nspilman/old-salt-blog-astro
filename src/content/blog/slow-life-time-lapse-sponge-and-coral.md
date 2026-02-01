@@ -1,8 +1,8 @@
 ---
 title: "Slow Life — Time Lapse Sponge and Coral"
 date: 2014-08-17T13:09:57
-slug: slow-life-time-lapse-sponge-and-coral
-excerpt: "A wonderful suitable video for a summer Sunday. From the video description — “Slow” marine animals show their secret life under high magnification. Corals and sponges are very mobile creatures, but their motion is only detectable at different time scales compared to … Continue reading &rarr;"
+slug: "slow-life-time-lapse-sponge-and-coral"
+excerpt: "A wonderful suitable video for a summer Sunday. From the video description — \"Slow\" marine animals show their secret life under high magnification. Corals and sponges are very mobile creatures, but their motion is only detectable at different time scales compared to … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "World’s Largest Oyster Reef in the Chesapeake and a Planned Billion Oysters in NYC"
 date: 2015-09-30T14:27:07
-slug: worlds-largest-oyster-reef-in-the-chesapeake-and-billion-oysters-in-nyc
+slug: "worlds-largest-oyster-reef-in-the-chesapeake-and-billion-oysters-in-nyc"
 excerpt: "Will oysters help to clean up Chesapeake Bay and New York Harbor or will climate change take them out? The question came to mind recently when I read about the world’s largest man-made oyster reef recently finished on Harris Creek … Continue reading &rarr;"
 categories:
   - "Current"

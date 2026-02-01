@@ -1,7 +1,7 @@
 ---
 title: "Solo-Sailor Jeanne Socrates Honored in Victoria"
 date: 2020-06-09T09:52:45
-slug: solo-sailor-jeanne-socrates-honored-in-victoria
+slug: "solo-sailor-jeanne-socrates-honored-in-victoria"
 excerpt: "Jeanne Socrates was 76 when she set sail alone from Victoria, British Columbia, in October 2018, on her 38′ yacht Nereida. She returned to Victoria 339 days later, then 77, having sailed singlehanded non-stop around world, becoming the oldest sailor … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

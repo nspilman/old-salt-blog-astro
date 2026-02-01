@@ -1,7 +1,7 @@
 ---
 title: "60 Years Ago, USS Triton Circumnavigated the Globe Submerged"
 date: 2020-04-27T15:45:57
-slug: 60-years-ago-uss-triton-circumnavigated-the-globe-submerged
+slug: "60-years-ago-uss-triton-circumnavigated-the-globe-submerged"
 excerpt: "A good story for the lockdown. In February 1960, the USS Triton set out on a most unusual shakedown cruise. The nuclear-powered radar picket submarine sailed from New London, CT, and returned in May, having circumnavigated the world submerged, becoming … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

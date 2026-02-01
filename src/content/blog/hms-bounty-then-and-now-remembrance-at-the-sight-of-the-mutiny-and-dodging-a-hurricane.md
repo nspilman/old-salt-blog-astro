@@ -1,8 +1,8 @@
 ---
 title: "HMS Bounty, Then and Now — Remembrance at the Scene of the Mutiny and Dodging a Hurricane"
 date: 2012-10-28T18:33:33
-slug: hms-bounty-then-and-now-remembrance-at-the-sight-of-the-mutiny-and-dodging-a-hurricane
-excerpt: "Faulkner wrote, “The past isn’t dead. It isn’t even past.”   I was reminded of this when I read a wonderful post on Joan Druett’s blog this morning, The Mutiny on the Bounty.   She vividly recreates the scene of the mutiny from the deck … Continue reading &rarr;"
+slug: "hms-bounty-then-and-now-remembrance-at-the-sight-of-the-mutiny-and-dodging-a-hurricane"
+excerpt: "Faulkner wrote, \"The past isn’t dead. It isn’t even past.\"   I was reminded of this when I read a wonderful post on Joan Druett’s blog this morning, The Mutiny on the Bounty.   She vividly recreates the scene of the mutiny from the deck … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "HMS Bounty"
   - "Joan Druett"
 author: "Rick Spilman"
-description: "Faulkner wrote, “The past isn’t dead. It isn’t even past.”   I was reminded of this when I read a wonderful post on Joan Druett’s blog this morning, The Mutiny on the Bounty.   She vividly recreates the scene of the mutiny from the deck … Continue reading &rarr;"
+description: "Faulkner wrote, \"The past isn’t dead. It isn’t even past.\"   I was reminded of this when I read a wonderful post on Joan Druett’s blog this morning, The Mutiny on the Bounty.   She vividly recreates the scene of the mutiny from the deck … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/10/Mutiny-by-Robert-Dodd.jpg)Faulkner wrote, “The past isn’t dead. It isn’t even past.”   I was reminded of this when I read a wonderful post on Joan Druett’s blog this morning, [*The Mutiny on the Bounty*.](http://joan-druett.blogspot.co.nz/2012/10/mutiny-on-bounty.html)   She vividly recreates the scene of the mutiny from the deck of the P&O cruise ship *Pacific Jewel*, which at that moment was lying in the exact spot on the Pacific where the famous mutiny on HMS *Bounty* took place in 1789. She describes to the nearly nearly 2000 passengers attending, how Captain Bligh and eighteen loyal crew are cast off in an overloaded launch.   The cruise ship then sailed on the island of Tofua, where Bligh’s launch made landfall, only to attacked by natives.  Bligh and his crew make a momentous decision. As Druett writes: *They will stop at no more islands. Instead, they will make the 3,618-mile voyage to Timor, in the East Indies, skirting Fiji, Vanuatu, and the Great Barrier Reef, and then negotiating the scarcely charted Torres Strait. Living on one ounce of bread and a quarter pint of water each day, somehow they will do it — and without the loss of even one more man.  It is the start of the most remarkable small boat voyage in history.*  [Read the rest on Joan Druett’s World of the Written Word.](http://joan-druett.blogspot.co.nz/2012/10/mutiny-on-bounty.html)

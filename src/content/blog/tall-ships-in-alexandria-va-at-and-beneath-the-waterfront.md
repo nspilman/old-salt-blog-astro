@@ -1,7 +1,7 @@
 ---
 title: "Tall Ships in Alexandria, VA — At and Beneath the Waterfront"
 date: 2018-05-08T17:52:39
-slug: tall-ships-in-alexandria-va-at-and-beneath-the-waterfront
+slug: "tall-ships-in-alexandria-va-at-and-beneath-the-waterfront"
 excerpt: "Last October we posted about the Providence, a replica of a Revolutionary War sloop, which in the summer of 2019, will be moving to its new home port, Old Town Alexandria, VA. Old Town Alexandria is certainly no stranger to 18th-century ships. … Continue reading &rarr;"
 categories:
   - "Current"

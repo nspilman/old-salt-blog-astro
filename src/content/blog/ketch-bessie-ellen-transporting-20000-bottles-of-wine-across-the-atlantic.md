@@ -1,7 +1,7 @@
 ---
 title: "Ketch Bessie-Ellen Transporting 20,000 Bottles of Wine Across the Atlantic"
 date: 2010-07-19T10:28:34
-slug: ketch-bessie-ellen-transporting-20000-bottles-of-wine-across-the-atlantic
+slug: "ketch-bessie-ellen-transporting-20000-bottles-of-wine-across-the-atlantic"
 excerpt: "Last month we posted about the Ketch Bessie-Ellen carrying French wine to the Festival of Valleys in Ballyvaughan, in Ireland’s County Claire.   The Bessie-Ellen will soon set sail on a new 21-day voyage, carrying 20,000 bottles of Château Smith Lafite and Château … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "USS Narcissus, Civil War Shipwreck off Egmont Key, May Become Florida’s 12th Underwater Preserve"
 date: 2012-01-10T19:05:24
-slug: uss-narcissus-civil-war-shipwreck-off-egmont-key-may-be-floridas-12th-underwater-preserve
+slug: "uss-narcissus-civil-war-shipwreck-off-egmont-key-may-be-floridas-12th-underwater-preserve"
 excerpt: "When I was in high school in Flordia, before I learned the error of my ways and become a sailor, I ran all over Boca Ciega Bay and the around the mouth of Tampa Bay in an outboard motor powered … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
-title: "No “Ice Liberty” on Icebreaker USCGC Healy in the Northwest Passage"
+title: "No \"Ice Liberty\" on Icebreaker USCGC Healy in the Northwest Passage"
 date: 2021-10-26T11:16:35
-slug: no-ice-liberty-on-icebreaker-uscgc-healy-in-the-northwest-passage
-excerpt: "One of the traditions of US icebreakers operating in the Arctic is “ice liberty.” When an icebreaker encounters a thick ice floe, the crew is allowed liberty to get off the vessel to walk about or play games from touch … Continue reading &rarr;"
+slug: "no-ice-liberty-on-icebreaker-uscgc-healy-in-the-northwest-passage"
+excerpt: "One of the traditions of US icebreakers operating in the Arctic is \"ice liberty.\" When an icebreaker encounters a thick ice floe, the crew is allowed liberty to get off the vessel to walk about or play games from touch … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Northwest Passage"
   - "USCGC Healy"
 author: "Rick Spilman"
-description: "One of the traditions of US icebreakers operating in the Arctic is “ice liberty.” When an icebreaker encounters a thick ice floe, the crew is allowed liberty to get off the vessel to walk about or play games from touch … Continue reading &rarr;"
+description: "One of the traditions of US icebreakers operating in the Arctic is \"ice liberty.\" When an icebreaker encounters a thick ice floe, the crew is allowed liberty to get off the vessel to walk about or play games from touch … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/10/healynoice.jpg)One of the traditions of US icebreakers operating in the Arctic is “ice liberty.” When an icebreaker encounters a thick ice floe, the crew is allowed liberty to get off the vessel to walk about or play games from touch football to hockey. 

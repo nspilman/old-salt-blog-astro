@@ -1,7 +1,7 @@
 ---
 title: "Carnival’s First Ship — TSS Mardi Gras"
 date: 2017-03-01T09:03:19
-slug: carnivals-first-ship-tss-mardi-gras
+slug: "carnivals-first-ship-tss-mardi-gras"
 excerpt: "Today Carnival Corporation is the largest operator of cruise ships in the world with a combined fleet of over 100 vessels across 10 cruise line brands. Back in 1972, however, it owned exactly one ship, the RMS Empress of Canada, which … Continue reading &rarr;"
 categories:
   - "History"

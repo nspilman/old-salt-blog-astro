@@ -1,7 +1,7 @@
 ---
 title: "Kat Cordiner, British Rower With Incurable Cancer, Sets New World Record With Two Teammates in Atlantic Crossing"
 date: 2022-01-25T18:08:27
-slug: kat-cordiner-british-rower-with-incurable-cancer-sets-new-world-record-with-two-teammates-in-atlantic-crossing
+slug: "kat-cordiner-british-rower-with-incurable-cancer-sets-new-world-record-with-two-teammates-in-atlantic-crossing"
 excerpt: "SkyNews reports that three British women, one of whom has incurable cervical cancer, have shattered the world record for rowing across the Atlantic in the Talisker Whisky Atlantic Challenge. Kat Cordiner and teammates Abby Johnston and Charlotte Irving arrived in … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Funding Available for 100 Young Sail Trainees Yearly"
 date: 2011-08-25T09:32:13
-slug: funding-available-for-100-young-sail-trainees-yearly
+slug: "funding-available-for-100-young-sail-trainees-yearly"
 excerpt: "Sail Training International, in partnership with the Sultanate of Oman, will be providing funding for up to 100 tall ship sail trainees yearly.  The focus will be on young people who are who are financially disadvantaged or with a physical disability. … Continue reading &rarr;"
 categories:
   - "Current"

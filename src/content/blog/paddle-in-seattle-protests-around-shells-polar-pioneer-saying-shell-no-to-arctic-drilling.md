@@ -1,7 +1,7 @@
 ---
-title: "“Paddle in Seattle” Protests Around Shell’s Polar Pioneer — Saying “Shell-No” to Arctic Drilling"
+title: "\"Paddle in Seattle\" Protests Around Shell’s Polar Pioneer — Saying \"Shell-No\" to Arctic Drilling"
 date: 2015-05-18T12:28:36
-slug: paddle-in-seattle-protests-around-shells-polar-pioneer-saying-shell-no-to-arctic-drilling
+slug: "paddle-in-seattle-protests-around-shells-polar-pioneer-saying-shell-no-to-arctic-drilling"
 excerpt: "Just over a week ago, the Interior Department’s Bureau of Ocean Energy Management granted conditional approval for Shell to begin exploratory drilling in the Chukchi Sea in the Alaskan Arctic. Last Thursday, the Polar Pioneer, a semi-submersible drilling rig, owned … Continue reading &rarr;"
 categories:
   - "Current"

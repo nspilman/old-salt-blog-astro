@@ -1,7 +1,7 @@
 ---
 title: "New Species of Orca Identified — Say Hello to Type D"
 date: 2019-03-11T16:15:50
-slug: new-species-of-orca-identified-say-hello-to-type-d
+slug: "new-species-of-orca-identified-say-hello-to-type-d"
 excerpt: "It is remarkable how little we really know about orcas, also known as killer whales. In January, a team of NOAA scientists located and began to study a likely new species of orca about 60 miles off the coast of … Continue reading &rarr;"
 categories:
   - "Current"

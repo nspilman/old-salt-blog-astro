@@ -1,7 +1,7 @@
 ---
 title: "Hong Kong Dragon Boat Festival in New York – the Fastest Growing Boating Competition that You May Never Have Heard Of"
 date: 2012-08-02T14:51:48
-slug: 22st-annual-hong-kong-dragon-boat-festival-in-new-york-the-fastest-growing-boating-competition-that-you-may-never-have-heard-of
+slug: "22st-annual-hong-kong-dragon-boat-festival-in-new-york-the-fastest-growing-boating-competition-that-you-may-never-have-heard-of"
 excerpt: "The 22st Annual Hong Kong Dragon Boat Festival in New York will be held this weekend in Meadow Lake at Flushing Meadows, Corona Park.  Fielding 170 dragon boat teams and over 2,000 participants, it is one of the largest boating festivals … Continue reading &rarr;"
 categories:
   - "Current"

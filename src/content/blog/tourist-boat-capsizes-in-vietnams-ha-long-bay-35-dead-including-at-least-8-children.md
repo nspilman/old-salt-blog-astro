@@ -1,7 +1,7 @@
 ---
 title: "Tourist Boat Capsizes in Vietnam’s Ha Long Bay, 35 Dead Including at Least 8 Children"
 date: 2025-07-20T18:16:23
-slug: tourist-boat-capsizes-in-vietnams-ha-long-bay-35-dead-including-at-least-8-children
+slug: "tourist-boat-capsizes-in-vietnams-ha-long-bay-35-dead-including-at-least-8-children"
 excerpt: "On Saturday afternoon, Wonder Seas, a tourist excursion boat, capsized in Ha Long Bay, in Vietnam’s Quang Ninh province, around 100 miles east of Hanoi, after encountering a sudden storm. State media reported that at least 35 people have died, … Continue reading &rarr;"
 categories:
   - "Current"

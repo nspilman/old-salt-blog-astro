@@ -1,7 +1,7 @@
 ---
 title: "Bolivia Posed to De-flag Iranian Controlled Ships"
 date: 2012-04-18T14:08:49
-slug: bolivia-posed-to-de-flag-iranian-controlled-ships
+slug: "bolivia-posed-to-de-flag-iranian-controlled-ships"
 excerpt: "Bolivia is poised to de-flag fifteen ships linked to the Islamic Republic of Iran Shipping Lines (IRISL) just weeks after these ships were flagged into the Bolivian registry. The ships had previously been registered in Malta and Cyprus. Facing international sanctions over its … Continue reading &rarr;"
 categories:
   - "Current"

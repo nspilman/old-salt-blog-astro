@@ -1,7 +1,7 @@
 ---
 title: "Yemen’s Houthis Rebels Rain Missiles and Drones on Norwegian Tanker & French Frigate"
 date: 2023-12-12T21:30:32
-slug: yemens-houthis-rebels-rain-missiles-and-drones-on-norwegian-tanker-french-frigate
+slug: "yemens-houthis-rebels-rain-missiles-and-drones-on-norwegian-tanker-french-frigate"
 excerpt: "Last Saturday, Yemen’s Houthi rebels announced that the organization would target any ships heading to or from Israel, regardless of their nationality, and warned all international shipping companies against dealing with Israeli ports. On Monday, the group attacked the MT … Continue reading &rarr;"
 categories:
   - "Current"

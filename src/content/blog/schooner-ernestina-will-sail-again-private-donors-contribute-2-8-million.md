@@ -1,7 +1,7 @@
 ---
 title: "Schooner Ernestina Will Sail Again —  Private Donors Contribute $2.8 Million"
 date: 2014-07-29T09:07:38
-slug: schooner-ernestina-will-sail-again-private-donors-contribute-2-8-million
+slug: "schooner-ernestina-will-sail-again-private-donors-contribute-2-8-million"
 excerpt: "Great news, for a change.  The historic schooner Ernestina, ex-Effie M. Morrissey  will sail again. Private donors, Bob Hildreth and Gerry Lenfest, have committed to contribute $2.8 million to the restoration of the historic schooner.   The new donations more than match the State … Continue reading &rarr;"
 categories:
   - "Current"

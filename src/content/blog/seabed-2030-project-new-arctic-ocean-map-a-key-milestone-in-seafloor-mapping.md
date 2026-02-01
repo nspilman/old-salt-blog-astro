@@ -1,7 +1,7 @@
 ---
 title: "Seabed 2030 Project — New Arctic Ocean Map a Key Milestone in Global Seafloor Mapping"
 date: 2025-02-10T18:31:06
-slug: seabed-2030-project-new-arctic-ocean-map-a-key-milestone-in-seafloor-mapping
+slug: "seabed-2030-project-new-arctic-ocean-map-a-key-milestone-in-seafloor-mapping"
 excerpt: "It is often said that we know more about the surface of the moon than we do about the ocean floor. The Seabed 2030 Project aims to help rectify this lack of knowledge by mapping the world’s ocean floor by … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Brass Nails May Help Solve Mystery of the Acre Tower Shipwreck"
 date: 2016-11-07T09:52:07
-slug: brass-nails-may-help-solve-mystery-acre-tower-shipwreck
+slug: "brass-nails-may-help-solve-mystery-acre-tower-shipwreck"
 excerpt: "The mystery of the Acre (Akko) Tower shipwreck may be closer to being solved. The Jerusalem Post reports that 100 hundred brass nails may have given away the secret. Discovered in 1966, the wreck was long assumed to be a British naval … Continue reading &rarr;"
 categories:
   - "Current"

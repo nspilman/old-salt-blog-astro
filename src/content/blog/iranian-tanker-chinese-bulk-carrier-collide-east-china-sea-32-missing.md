@@ -1,7 +1,7 @@
 ---
 title: "Iranian Tanker & Chinese Bulk Carrier Collide in East China Sea, 32 Missing"
 date: 2018-01-07T12:06:50
-slug: iranian-tanker-chinese-bulk-carrier-collide-east-china-sea-32-missing
+slug: "iranian-tanker-chinese-bulk-carrier-collide-east-china-sea-32-missing"
 excerpt: "Thirty-two crew are reported to be missing from an Iranian Suezmax tanker which collided with a Chinese bulk carrier in the East China Sea on Saturday night. The 160,000 DWT tanker, Sanchi, collided with the bulk carrier CF Crystal, which was loaded with … Continue reading &rarr;"
 categories:
   - "Current"

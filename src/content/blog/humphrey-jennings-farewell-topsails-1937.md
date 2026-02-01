@@ -1,7 +1,7 @@
 ---
-title: "Humphrey Jennings’ “Farewell Topsails” 1937"
+title: "Humphrey Jennings’ \"Farewell Topsails\" 1937"
 date: 2016-03-16T09:58:56
-slug: humphrey-jennings-farewell-topsails-1937
+slug: "humphrey-jennings-farewell-topsails-1937"
 excerpt: "Farewell Topsails is a short film about the last topsail schooners in the British china clay trade. Remarkably for a film made in 1937, the short is in color, using the Dufaycolor process. The film was made by Humphrey Jennings who … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

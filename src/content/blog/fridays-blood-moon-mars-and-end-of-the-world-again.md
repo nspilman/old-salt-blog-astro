@@ -1,7 +1,7 @@
 ---
 title: "Friday’s Blood Moon, Mars, and End of the World (Again)"
 date: 2018-07-26T09:10:12
-slug: fridays-blood-moon-mars-and-end-of-the-world-again
+slug: "fridays-blood-moon-mars-and-end-of-the-world-again"
 excerpt: "This Friday there will be a total eclipse of the moon. The eclipse will be total in much of Africa, the Middle East, and India, while Europe, the rest of Asia and most of South America will see a partial … Continue reading &rarr;"
 categories:
   - "Current"

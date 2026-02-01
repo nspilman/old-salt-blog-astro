@@ -1,7 +1,7 @@
 ---
 title: "Van Liew Sweeps the Velux 5 Ocean Single-Handed Around the World Race"
 date: 2011-06-16T18:43:46
-slug: van-liew-claims-american-first
+slug: "van-liew-claims-american-first"
 excerpt: "Our slightly belated congratulations to Brad Van Liew, the American sailor who won the Velux 5 Oceans single-handed around the world race in his Le Pingouin ECO 60.  Van Liew dominated the Velux 5 Oceans race, winning all five legs.   Van Liew is the first … Continue reading &rarr;"
 categories:
   - "Current"

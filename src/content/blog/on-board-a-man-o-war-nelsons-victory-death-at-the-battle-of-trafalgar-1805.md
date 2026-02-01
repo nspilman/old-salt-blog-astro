@@ -1,8 +1,8 @@
 ---
-title: "“On Board a Man o’ War” – Nelson’s Victory & Death at the Battle of Trafalgar, 1805"
+title: "\"On Board a Man o’ War\" – Nelson’s Victory & Death at the Battle of Trafalgar, 1805"
 date: 2014-10-21T07:53:49
-slug: on-board-a-man-o-war-nelsons-victory-death-at-the-battle-of-trafalgar-1805
-excerpt: "On Trafalgar Day, the anniversary of Admiral Horatio Nelson‘s victory and death at the Battle of Trafalgar, a ballad describing the battle, “On board a Man o’ War,” sung by Ian Page. Feel free to grab a mug of porter, … Continue reading &rarr;"
+slug: "on-board-a-man-o-war-nelsons-victory-death-at-the-battle-of-trafalgar-1805"
+excerpt: "On Trafalgar Day, the anniversary of Admiral Horatio Nelson‘s victory and death at the Battle of Trafalgar, a ballad describing the battle, \"On board a Man o’ War,\" sung by Ian Page. Feel free to grab a mug of porter, … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"

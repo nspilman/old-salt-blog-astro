@@ -1,7 +1,7 @@
 ---
 title: "Update: Restoration of Ex-Presidential Yacht Sequoia to Begin Soon in Belfast, Maine"
 date: 2022-08-13T10:31:44
-slug: update-restoration-of-ex-presidential-yacht-sequoia-to-begin-soon-in-belfast-maine
+slug: "update-restoration-of-ex-presidential-yacht-sequoia-to-begin-soon-in-belfast-maine"
 excerpt: "Good news. The Bangor Daily News is reporting that the restoration of the ex-presidential yacht Sequoia will begin soon in Belfast, Maine. We first posted about the saga of the ex-presidential yacht in 2016 when Delaware judge Sam Glasscock describes … Continue reading &rarr;"
 categories:
   - "Current"

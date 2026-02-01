@@ -1,8 +1,8 @@
 ---
 title: "Operation Dynamo – the Little Ships Return to Ramsgate for 70th anniversary"
 date: 2010-05-22T13:22:23
-slug: operation-dynamo-the-little-ships-return-to-ramsgate-for-70th-anniversary
-excerpt: "This Wednesday the surviving “Little Ships” of the Dunkirk evacuation will rendezvous in Ramsgate to celebrate the 70th anniversary of the famous World War II evacuation, codenamed Operation Dynamo. Little Ships gather in Ramsgate for 70th anniversary of Dunkirk evacuations … Continue reading &rarr;"
+slug: "operation-dynamo-the-little-ships-return-to-ramsgate-for-70th-anniversary"
+excerpt: "This Wednesday the surviving \"Little Ships\" of the Dunkirk evacuation will rendezvous in Ramsgate to celebrate the 70th anniversary of the famous World War II evacuation, codenamed Operation Dynamo. Little Ships gather in Ramsgate for 70th anniversary of Dunkirk evacuations … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "Ramsgate"
   - "world war II"
 author: "Rick Spilman"
-description: "This Wednesday the surviving “Little Ships” of the Dunkirk evacuation will rendezvous in Ramsgate to celebrate the 70th anniversary of the famous World War II evacuation, codenamed Operation Dynamo. Little Ships gather in Ramsgate for 70th anniversary of Dunkirk evacuations … Continue reading &rarr;"
+description: "This Wednesday the surviving \"Little Ships\" of the Dunkirk evacuation will rendezvous in Ramsgate to celebrate the 70th anniversary of the famous World War II evacuation, codenamed Operation Dynamo. Little Ships gather in Ramsgate for 70th anniversary of Dunkirk evacuations … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/05/sundowner-little-ship.jpg)This Wednesday the surviving [“Little Ships” of the Dunkirk evacuation](http://www.adls.org.uk/t1/content/70th-anniversary-commemorative-return-dunkirk) will rendezvous in Ramsgate to celebrate the 70th anniversary of the famous World War II evacuation, codenamed [Operation Dynamo](http://en.wikipedia.org/wiki/Dunkirk_evacuation).

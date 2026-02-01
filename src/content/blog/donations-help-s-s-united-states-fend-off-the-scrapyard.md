@@ -1,8 +1,8 @@
 ---
 title: "Donations Help Keep SS United States Afloat Well into Next Year"
 date: 2015-11-24T18:19:31
-slug: donations-help-s-s-united-states-fend-off-the-scrapyard
-excerpt: "Great news from the SS United States Conservancy.  At the beginning of October, the  Conservancy announced that its board had retained the services of a broker to explore selling the SS United States for scrap “over concerns about the organization’s … Continue reading &rarr;"
+slug: "donations-help-s-s-united-states-fend-off-the-scrapyard"
+excerpt: "Great news from the SS United States Conservancy.  At the beginning of October, the  Conservancy announced that its board had retained the services of a broker to explore selling the SS United States for scrap \"over concerns about the organization’s … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

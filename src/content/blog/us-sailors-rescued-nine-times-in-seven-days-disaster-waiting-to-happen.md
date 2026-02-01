@@ -1,7 +1,7 @@
 ---
-title: "Two US Sailors Rescued Nine Times in Seven Months — “Catastrophe Waiting to Happen”"
+title: "Two US Sailors Rescued Nine Times in Seven Months — \"Catastrophe Waiting to Happen\""
 date: 2016-01-28T10:03:22
-slug: us-sailors-rescued-nine-times-in-seven-days-disaster-waiting-to-happen
+slug: "us-sailors-rescued-nine-times-in-seven-days-disaster-waiting-to-happen"
 excerpt: "Two American sailors, Bob Weise and Steve Shapiro, both 71, have been attempting to sail across the Atlantic from Norway to Maine in a 40′ gaff rigged sloop named Nora. They began the attempt last July and it has not … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

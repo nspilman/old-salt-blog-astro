@@ -1,7 +1,7 @@
 ---
 title: "SSV Oliver Hazard Perry  — Employment Opportunities"
 date: 2018-04-29T16:47:09
-slug: ssv-oliver-hazard-perry-employment-opportunities
+slug: "ssv-oliver-hazard-perry-employment-opportunities"
 excerpt: "SSV Oliver Hazard Perry is the largest civilian sailing school vessel in the United States and the first ocean-going full-rigged ship to built in the U.S. in over 100 years. Her accommodations hold 32 people overnight in addition to her 17 professional … Continue reading &rarr;"
 categories:
   - "Current"

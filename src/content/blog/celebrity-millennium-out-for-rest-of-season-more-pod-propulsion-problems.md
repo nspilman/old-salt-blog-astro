@@ -1,7 +1,7 @@
 ---
 title: "Celebrity Millennium Out for Rest of Season – More Pod Propulsion Problems"
 date: 2013-08-23T09:10:29
-slug: celebrity-millennium-out-for-rest-of-season-more-pod-propulsion-problems
+slug: "celebrity-millennium-out-for-rest-of-season-more-pod-propulsion-problems"
 excerpt: "Is pod propulsion the best or worse thing to ever happen to cruise ships? Celebrity Cruise Line just cancelled the cruises for the rest of season in Alaska on the Celebrity Millennium due to failures in its pods. It had … Continue reading &rarr;"
 categories:
   - "Current"
@@ -10,7 +10,7 @@ categories:
 tags:
   - "Alaska"
   - "Celebrity Millennium"
-  - "Rolls Royce "mermaid pods""
+  - "Rolls Royce \"mermaid pods\""
 author: "Rick Spilman"
 description: "Is pod propulsion the best or worse thing to ever happen to cruise ships? Celebrity Cruise Line just cancelled the cruises for the rest of season in Alaska on the Celebrity Millennium due to failures in its pods. It had … Continue reading &rarr;"
 ---

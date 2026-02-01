@@ -1,7 +1,7 @@
 ---
 title: "Saildrone Launches 72′ Surveyor for High-Resolution Ocean Seabed Mapping"
 date: 2021-01-16T18:34:19
-slug: saildrone-launches-72-surveyor-for-high-resolution-ocean-seabed-mapping
+slug: "saildrone-launches-72-surveyor-for-high-resolution-ocean-seabed-mapping"
 excerpt: "Saildrone‘s new 72’ long Surveyor is described as the world’s most advanced uncrewed surface vehicle (USV), equipped for high-resolution mapping of the ocean seafloor. The Saildrone Surveyor is a step up from the 22′ long Saildrone Explorer, yet both combine … Continue reading &rarr;"
 categories:
   - "Current"

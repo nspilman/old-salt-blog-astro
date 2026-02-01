@@ -1,7 +1,7 @@
 ---
 title: "An American Treasure —  Fireboat John J. Harvey Returns to Hudson Pier 66"
 date: 2014-04-08T15:42:34
-slug: an-american-treasure-fireboat-john-j-harvey-returns-to-hudson-pier-66
+slug: "an-american-treasure-fireboat-john-j-harvey-returns-to-hudson-pier-66"
 excerpt: "Yesterday, we posted about the arrival of the World War II Destroyer Escort USS Slater at Caddell Dry Dock. The day before, the historic fireboat, John J. Harvey, left Caddell to return to her Hudson River dock after a month of … Continue reading &rarr;"
 categories:
   - "Current"

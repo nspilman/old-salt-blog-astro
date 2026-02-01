@@ -1,8 +1,8 @@
 ---
 title: "Sting – Christmas At Sea (Live from Durham Cathedral)"
 date: 2013-12-25T09:03:40
-slug: sting-christmas-at-sea-live-from-durham-cathedral
-excerpt: "We hope everyone is having a joyous holiday season.  Here is a beautiful version of Robert Louis Stevenson’s poem “Christmas at Sea.” Sting – Christmas At Sea (Live from Durham Cathedral) … Continue reading &rarr;"
+slug: "sting-christmas-at-sea-live-from-durham-cathedral"
+excerpt: "We hope everyone is having a joyous holiday season.  Here is a beautiful version of Robert Louis Stevenson’s poem \"Christmas at Sea.\" Sting – Christmas At Sea (Live from Durham Cathedral) … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Songs"
@@ -11,7 +11,7 @@ tags:
   - "Robert Louis Stevenson"
   - "Sting"
 author: "Rick Spilman"
-description: "We hope everyone is having a joyous holiday season.  Here is a beautiful version of Robert Louis Stevenson’s poem “Christmas at Sea.” Sting – Christmas At Sea (Live from Durham Cathedral) … Continue reading &rarr;"
+description: "We hope everyone is having a joyous holiday season.  Here is a beautiful version of Robert Louis Stevenson’s poem \"Christmas at Sea.\" Sting – Christmas At Sea (Live from Durham Cathedral) … Continue reading &rarr;"
 ---
 
 We hope everyone is having a joyous holiday season.  Here is a beautiful version of Robert Louis Stevenson’s poem “*[Christmas at Sea](http://classiclit.about.com/library/bl-etexts/rlstevenson/bl-rlstevenson-chratsea.htm)*.”

@@ -1,7 +1,7 @@
 ---
 title: "Quadrofoil Electric Hydrofoil Watercraft"
 date: 2015-08-28T13:19:16
-slug: quadrofoil-electric-hydrofoil-watercraft
+slug: "quadrofoil-electric-hydrofoil-watercraft"
 excerpt: "I hate jet-skis. They are noisy, exhaust-spewing and dangerous. I am amazed that more people don’t get killed by running them into other boats or seawalls, or just by falling off. I recently came across a potential alternative to these … Continue reading &rarr;"
 categories:
   - "Current"

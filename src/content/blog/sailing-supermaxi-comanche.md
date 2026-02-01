@@ -1,7 +1,7 @@
 ---
 title: "Sailing Supermaxi Comanche"
 date: 2015-09-04T09:07:15
-slug: sailing-supermaxi-comanche
+slug: "sailing-supermaxi-comanche"
 excerpt: "Last November we posted about the initials trials of Jim Clark and Kristy Hinze-Clark’s new 100’ carbon fiber speed-demon Comanche.  Intended to be the fastest monohull in the world, it lived up to that claim during this summer’s Transatlantic Race where Comanche set a new … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

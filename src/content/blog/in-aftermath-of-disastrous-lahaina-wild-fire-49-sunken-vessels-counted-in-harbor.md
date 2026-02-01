@@ -1,7 +1,7 @@
 ---
 title: "In Aftermath of Disastrous Lahaina Wild Fire, 49 Sunken Vessels Counted in Harbor"
 date: 2023-08-25T17:13:30
-slug: in-aftermath-of-disastrous-lahaina-wild-fire-49-sunken-vessels-counted-in-harbor
+slug: "in-aftermath-of-disastrous-lahaina-wild-fire-49-sunken-vessels-counted-in-harbor"
 excerpt: "In addition to devastating the historic town of Lahaina on the Hawaiian island of Maui, the recent wild fires also destroyed most of the boats in the harbor.  After almost two weeks, Channel KHON2 News reports that the US Coast … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Vacuum Cleaner Victims – the Clipper Ship Cutty Sark and Now the USS Miami !"
 date: 2012-06-07T07:26:25
-slug: vacuum-cleaner-victims-the-cutty-sark-and-now-the-uss-miami
+slug: "vacuum-cleaner-victims-the-cutty-sark-and-now-the-uss-miami"
 excerpt: "There is a new threat to our nautical heritage and our nation’s defense!  In 2007, the composite tea clipper Cutty Sark, built in 1869, was ravaged by fire.  An investigation revealed the culprit – an industrial vacuum cleaner.   Now, it appears … Continue reading &rarr;"
 categories:
   - "Current"

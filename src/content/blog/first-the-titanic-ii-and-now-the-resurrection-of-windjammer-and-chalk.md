@@ -1,7 +1,7 @@
 ---
 title: "First the Titanic II & Now the Revival of Windjammer and Chalk ?"
 date: 2012-07-26T18:01:06
-slug: first-the-titanic-ii-and-now-the-resurrection-of-windjammer-and-chalk
+slug: "first-the-titanic-ii-and-now-the-resurrection-of-windjammer-and-chalk"
 excerpt: "Last April we posted about Australian mining billionaire Clive Palmer’s plans to build a 21st-century replica of the Titanic. I am not sure how I feel about naming new vessels after maritime tragedies. On the other hand, the Titanic may … Continue reading &rarr;"
 categories:
   - "Current"

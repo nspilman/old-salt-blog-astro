@@ -1,7 +1,7 @@
 ---
 title: "Sailors Leaving their Mark — Ship Graffiti"
 date: 2013-12-19T13:26:24
-slug: sailors-leaving-their-mark-ship-graffiti
+slug: "sailors-leaving-their-mark-ship-graffiti"
 excerpt: "A recent article in PastHorizons – Adventures in Archaeology looks at the images of ships scratched in the stones of medieval churches of England.   This sailor’s graffiti shows a wide range of vessels that would have plied the waters … Continue reading &rarr;"
 categories:
   - "History"

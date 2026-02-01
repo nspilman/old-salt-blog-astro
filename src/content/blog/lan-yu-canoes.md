@@ -1,7 +1,7 @@
 ---
-title: "Lan Yu “Canoes”"
+title: "Lan Yu \"Canoes\""
 date: 2015-03-25T19:32:02
-slug: lan-yu-canoes
+slug: "lan-yu-canoes"
 excerpt: "We are very pleased to have a guest post from Joan Druett, who recently visited Taiwan. Joan is the multi-award winning author of more than 20 books, including her latest, Lady Castaways and Eleanor’s Odyssey. A priority for anyone from … Continue reading &rarr;"
 categories:
   - "History"

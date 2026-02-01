@@ -1,7 +1,7 @@
 ---
-title: "Debate Over What To Do About The SS Richard Montgomery — “Time Bomb” in the Thames"
+title: "Debate Over What To Do About The SS Richard Montgomery — \"Time Bomb\" in the Thames"
 date: 2019-08-01T15:09:35
-slug: debate-over-what-to-do-about-the-ss-richard-montgomery-time-bomb-in-the-thames
+slug: "debate-over-what-to-do-about-the-ss-richard-montgomery-time-bomb-in-the-thames"
 excerpt: "The good news is that last month there was a debate in the UK’s House of Lords about what to do with the wreck of the Liberty ship SS Richard Montgomery, which sank loaded with munitions in the Thames estuary … Continue reading &rarr;"
 categories:
   - "Current"

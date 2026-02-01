@@ -1,7 +1,7 @@
 ---
 title: "Fishlove 2013 — Celebrities Posing Naked with Dead Fish"
 date: 2013-12-12T09:33:00
-slug: fishlove-2013-celebrities-posing-naked-with-dead-fish
+slug: "fishlove-2013-celebrities-posing-naked-with-dead-fish"
 excerpt: "Overfishing, particularity deep sea trawling, is doing grave damage to the ocean’s fish population. What can be done about it?  A group of celebrities – actors, musicians and artists – are taking off their clothes and posing with dead fish … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Not All Rescues End Well — the Death of Anne Dufourmantelle, Risk-Taker"
 date: 2017-08-05T09:03:25
-slug: not-rescues-end-well-death-anne-dufourmantelle-risk-taker
+slug: "not-rescues-end-well-death-anne-dufourmantelle-risk-taker"
 excerpt: "In mid-July we posted about a group of 80 strangers who formed a human chain to rescue 10 people carried out in a rip current into the Gulf of Mexico off Panama City Beach in the Florida panhandle. All ten … Continue reading &rarr;"
 categories:
   - "Current"

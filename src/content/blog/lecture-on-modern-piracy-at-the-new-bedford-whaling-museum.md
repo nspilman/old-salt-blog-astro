@@ -1,7 +1,7 @@
 ---
 title: "Lecture on Modern Piracy at the New Bedford Whaling Museum"
 date: 2011-03-21T22:20:21
-slug: lecture-on-modern-piracy-at-the-new-bedford-whaling-museum
+slug: "lecture-on-modern-piracy-at-the-new-bedford-whaling-museum"
 excerpt: "A very interesting presentation at the New Bedford Whaling Museum on Tuesday evening for those in the area. Commander Andrew J. Norris, USCG, will examine modern piracy in the next Sailors’ Series lecture on Tuesday, March 22 at 7:30 p.m. in the Cook … Continue reading &rarr;"
 categories:
   - "Current"

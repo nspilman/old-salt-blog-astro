@@ -1,8 +1,8 @@
 ---
 title: "Over the Holidays & in the New Year, May Saint Nicholas Hold the Tiller"
 date: 2024-12-19T17:37:34
-slug: over-the-holidays-in-the-new-year-may-saint-nicholas-hold-the-tiller
-excerpt: "An updated holiday season repost. Saint Nicholas, long associated with Christmas and gift-giving, is also the patron saint of ships and sailors. The St. Nicholas Center notes: “Many ports, most notably in Greece, have icons of Nicholas, surrounded by ex-votos … Continue reading &rarr;"
+slug: "over-the-holidays-in-the-new-year-may-saint-nicholas-hold-the-tiller"
+excerpt: "An updated holiday season repost. Saint Nicholas, long associated with Christmas and gift-giving, is also the patron saint of ships and sailors. The St. Nicholas Center notes: \"Many ports, most notably in Greece, have icons of Nicholas, surrounded by ex-votos … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Saint Nicholas"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/12/stnicholas.jpg"
 author: "Rick Spilman"
-description: "An updated holiday season repost. Saint Nicholas, long associated with Christmas and gift-giving, is also the patron saint of ships and sailors. The St. Nicholas Center notes: “Many ports, most notably in Greece, have icons of Nicholas, surrounded by ex-votos … Continue reading &rarr;"
+description: "An updated holiday season repost. Saint Nicholas, long associated with Christmas and gift-giving, is also the patron saint of ships and sailors. The St. Nicholas Center notes: \"Many ports, most notably in Greece, have icons of Nicholas, surrounded by ex-votos … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/12/stnicholas.jpg)An updated holiday season repost.

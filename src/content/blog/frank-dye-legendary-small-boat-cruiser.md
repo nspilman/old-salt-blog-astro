@@ -1,7 +1,7 @@
 ---
 title: "Frank Dye, Legendary Small Boat Cruiser"
 date: 2010-06-15T08:51:19
-slug: frank-dye-legendary-small-boat-cruiser
+slug: "frank-dye-legendary-small-boat-cruiser"
 excerpt: "Frank Dye was a small boat cruiser who became something of a legend following his sea voyages in his 16′ Wayfarer open dinghy. Frank Dye Frank Dye, who died on May 16 aged 82, was a cult figure among small-boat sailors for undertaking … Continue reading &rarr;"
 categories:
   - "Current"

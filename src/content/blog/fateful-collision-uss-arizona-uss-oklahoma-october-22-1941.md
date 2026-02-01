@@ -1,7 +1,7 @@
 ---
 title: "The Fateful Collision of USS Arizona and USS Oklahoma, October 22, 1941"
 date: 2016-12-08T09:23:50
-slug: fateful-collision-uss-arizona-uss-oklahoma-october-22-1941
+slug: "fateful-collision-uss-arizona-uss-oklahoma-october-22-1941"
 excerpt: "I learned yesterday that USS Arizona was not supposed to be in Pearl Harbor on December 7th, 1941. This is one of those minor facts that invariably seem to pop up to remind us that history is just as often … Continue reading &rarr;"
 categories:
   - "History"

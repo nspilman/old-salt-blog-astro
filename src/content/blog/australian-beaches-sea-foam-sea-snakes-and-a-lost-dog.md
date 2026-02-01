@@ -1,7 +1,7 @@
 ---
 title: "Australian Beaches — Sea Foam, Sea Snakes and a Lost Dog"
 date: 2020-12-18T16:37:40
-slug: australian-beaches-sea-foam-sea-snakes-and-a-lost-dog
+slug: "australian-beaches-sea-foam-sea-snakes-and-a-lost-dog"
 excerpt: "Severe weather off the east coast of Australia has left beaches in the Northern Rivers region of New South Wales and on the Gold and Sunshine coasts covered in a thick layer of sea foam, attracting crowds of curious locals, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Centuries-old Baltic shipwrecks found"
 date: 2010-03-10T09:15:17
-slug: centuries-old-baltic-shipwrecks-found
+slug: "centuries-old-baltic-shipwrecks-found"
 excerpt: "Centuries-old Baltic shipwrecks found A dozen centuries-old shipwrecks — some of them unusually well-preserved — have been discovered in the Baltic Sea by a gas company building an underwater pipeline between Russia and Germany, Swedish experts said Tuesday. The oldest … Continue reading &rarr;"
 categories:
   - "Current"

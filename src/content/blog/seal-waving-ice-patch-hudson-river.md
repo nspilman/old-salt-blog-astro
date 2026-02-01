@@ -1,7 +1,7 @@
 ---
 title: "Seal Waving From Ice Patch in the Hudson River"
 date: 2016-02-19T11:38:03
-slug: seal-waving-ice-patch-hudson-river
+slug: "seal-waving-ice-patch-hudson-river"
 excerpt: "Some folks think that those around New York City are unfriendly, which couldn’t be further from the truth. Here is a short video of a seal resting on a patch of ice in the Hudson River waving at Megan Viscovich … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Buffet on the Beach — Coffee, Noodles, Wine and the 25 Missing Containers"
 date: 2015-12-10T17:29:36
-slug: the-coffee-and-the
+slug: "the-coffee-and-the"
 excerpt: "This week, the beach in Melbourne, Florida was suddenly covered with thousands of yellow and red cans and freeze-dried bricks of Cafe Bustelo brand espresso coffee. Yesterday, packages of Ramen noodles started washing ashore at nearby Port St.Lucie. In Fort … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
-title: "“A Collision at Sea…” the Most Famous Thing Thucydides Never Said"
+title: "\"A Collision at Sea…\" the Most Famous Thing Thucydides Never Said"
 date: 2025-05-01T17:02:50
-slug: a-collision-at-sea-the-most-famous-thing-thucydides-never-said
-excerpt: "Thucydides is often said to have first written in his epic history, The Peloponnesian War, “A collision at sea can ruin your entire day, ” While the statement is unquestionably true, Thucydides never wrote it. Fred Shapiro writing in Freakonomics attempts … Continue reading &rarr;"
+slug: "a-collision-at-sea-the-most-famous-thing-thucydides-never-said"
+excerpt: "Thucydides is often said to have first written in his epic history, The Peloponnesian War, \"A collision at sea can ruin your entire day, \" While the statement is unquestionably true, Thucydides never wrote it. Fred Shapiro writing in Freakonomics attempts … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -10,12 +10,12 @@ categories:
   - "Lore of the Sea"
 tags:
   - "Fred Shapiro"
-  - "Navy Capt. W. B. “Bill” Hayler"
+  - "Navy Capt. W. B. \"Bill\" Hayler"
   - "New York Times"
   - "Peloponnesian War"
   - "Thucydides"
 author: "Rick Spilman"
-description: "Thucydides is often said to have first written in his epic history, The Peloponnesian War, “A collision at sea can ruin your entire day, ” While the statement is unquestionably true, Thucydides never wrote it. Fred Shapiro writing in Freakonomics attempts … Continue reading &rarr;"
+description: "Thucydides is often said to have first written in his epic history, The Peloponnesian War, \"A collision at sea can ruin your entire day, \" While the statement is unquestionably true, Thucydides never wrote it. Fred Shapiro writing in Freakonomics attempts … Continue reading &rarr;"
 ---
 
 ![](https://www.oldsaltblog.com/wp-content/uploads/2025/04/thycidies.jpg)[Thucydides](http://en.wikipedia.org/wiki/Thucydides) is often said to have first written in his epic history, *[The Peloponnesian War](http://www.amazon.com/gp/product/0142004375?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0142004375)*, “A collision at sea can ruin your entire day, ” While the statement is unquestionably true, Thucydides never wrote it. [Fred Shapiro](http://freakonomics.blogs.nytimes.com/author/fred-shapiro/) writing in [Freakonomics](https://freakonomics.com/2010/07/quotes-uncovered-when-ships-collide/) attempts to  trackdown the origin of the mis-quote: [Quotes Uncovered: When Ships Collide](http://freakonomics.blogs.nytimes.com/2010/07/08/quotes-uncovered-when-ships-collide/). An updaated repost.

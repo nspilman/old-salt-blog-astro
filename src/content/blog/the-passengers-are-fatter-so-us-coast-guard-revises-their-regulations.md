@@ -1,7 +1,7 @@
 ---
 title: "The Passengers are Fatter so US Coast Guard Revises their Regulations"
 date: 2012-01-02T17:27:33
-slug: the-passengers-are-fatter-so-us-coast-guard-revises-their-regulations
+slug: "the-passengers-are-fatter-so-us-coast-guard-revises-their-regulations"
 excerpt: "For roughly the last fifty years, the US Coast Guard regulations for the loading and stability of passenger vessels has assumed an average weight of 160 pounds per person.  Conceding to the reality of a more corpulent population, the regulations were updated last month, increasing the … Continue reading &rarr;"
 categories:
   - "Current"

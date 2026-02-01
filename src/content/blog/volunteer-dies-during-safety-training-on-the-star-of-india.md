@@ -1,7 +1,7 @@
 ---
 title: "Volunteer Dies during Safety Training on the Star of India"
 date: 2010-07-22T09:10:20
-slug: volunteer-dies-during-safety-training-on-the-star-of-india
+slug: "volunteer-dies-during-safety-training-on-the-star-of-india"
 excerpt: "Greg Gushaw 68, an experienced volunteer, docent and a member of the board of trustees of the Maritime Museum of San Diego fell to his death last Sunday from aloft on the Star of India. Ironically, he fell during a safety training exercise.   … Continue reading &rarr;"
 categories:
   - "Current"

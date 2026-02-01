@@ -1,7 +1,7 @@
 ---
 title: "Anthem of the Seas — A Storm at Sea and a Storm on Twitter"
 date: 2016-02-08T12:07:52
-slug: anthem-of-the-seas-a-storm-at-sea-and-on-twitter
+slug: "anthem-of-the-seas-a-storm-at-sea-and-on-twitter"
 excerpt: "The winter storm that struck Royal Caribbean’s Anthem of the Seas as it cruised off the coast of the Carolinas this weekend also set off a storm on Twitter.  Passengers and crew tweeted photos and video of overturned furniture, damaged rails, and … Continue reading &rarr;"
 categories:
   - "Current"

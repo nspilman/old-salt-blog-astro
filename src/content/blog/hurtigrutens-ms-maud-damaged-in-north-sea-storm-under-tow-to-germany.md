@@ -1,7 +1,7 @@
 ---
 title: "Hurtigruten’s MS Maud Damaged by Rogue Wave in North Sea Storm — Under Tow to Germany"
 date: 2023-12-22T21:06:52
-slug: hurtigrutens-ms-maud-damaged-in-north-sea-storm-under-tow-to-germany
+slug: "hurtigrutens-ms-maud-damaged-in-north-sea-storm-under-tow-to-germany"
 excerpt: "The cruise ship MS Maud was returning to the UK from a 14 night Northern Lights cruise when it was caught in a severe storm in the North Sea. During the storm, the ship was struck by a rogue wave, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "More Disturbing Evidence in the Death of Kim Wall on the UC3 Nautilus"
 date: 2017-10-04T13:18:19
-slug: disturbing-evidence-death-kim-wall-uc3-nautilus
+slug: "disturbing-evidence-death-kim-wall-uc3-nautilus"
 excerpt: "More disturbing evidence has emerged in the death of Swedish journalist Kim Wall on the private submarine UC3 Nautilus last August. Peter Madsen, the owner of the submarine, has been charged with her murder.  On August 10th, Danish inventor Peter Madsen took Swedish … Continue reading &rarr;"
 categories:
   - "Current"

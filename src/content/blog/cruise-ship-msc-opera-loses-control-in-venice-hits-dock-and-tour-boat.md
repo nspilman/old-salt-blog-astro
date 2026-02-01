@@ -1,7 +1,7 @@
 ---
 title: "Cruise Ship MSC Opera Loses Control in Venice — Hits Dock and Tour Boat"
 date: 2019-06-03T14:00:48
-slug: cruise-ship-msc-opera-loses-control-in-venice-hits-dock-and-tour-boat
+slug: "cruise-ship-msc-opera-loses-control-in-venice-hits-dock-and-tour-boat"
 excerpt: "At about 8:30 AM on Sunday, the cruise ship MSC Opera lost control while docking on the Giudecca Canal in Venice Italy, slamming into the dock and hitting a tour boat. Five people were reported to be injured, but none … Continue reading &rarr;"
 categories:
   - "Current"

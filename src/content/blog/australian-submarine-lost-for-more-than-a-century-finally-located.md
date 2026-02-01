@@ -1,7 +1,7 @@
 ---
 title: "Australian Submarine Lost For More Than a Century Finally Located"
 date: 2017-12-22T13:54:36
-slug: australian-submarine-lost-for-more-than-a-century-finally-located
+slug: "australian-submarine-lost-for-more-than-a-century-finally-located"
 excerpt: "After being lost for 103 years, the wreck of Australia’s first submarine, HMAS AE1, has finally been located in almost 1,000 feet of water east of Rabaul, not far from Duke of York Islands in Papua New Guinea.  The submarine, built in the Vickers … Continue reading &rarr;"
 categories:
   - "Current"

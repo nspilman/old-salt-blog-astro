@@ -1,7 +1,7 @@
 ---
 title: "Update: USS Connecticut Hit Uncharted Underwater Seamount"
 date: 2021-11-03T13:31:39
-slug: update-uss-connecticut-hit-uncharted-underwater-seamount
+slug: "update-uss-connecticut-hit-uncharted-underwater-seamount"
 excerpt: "The worst way to determine the position of a previously uncharted seamount is to run into it underwater. That is apparently what happened to the Seawolf-class attack submarine, USS Connecticut, when it hit an object while submerged on October 2.   … Continue reading &rarr;"
 categories:
   - "Current"

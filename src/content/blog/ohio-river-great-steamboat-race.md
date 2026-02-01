@@ -1,7 +1,7 @@
 ---
 title: "Ohio River Great Steamboat Race Threatened by High water"
 date: 2011-04-27T15:10:47
-slug: ohio-river-great-steamboat-race
+slug: "ohio-river-great-steamboat-race"
 excerpt: "The Ohio River may just be too high to allow the running of the Great Steamboat Race on May 4th, between the Belle of Louisville and the Belle of Cincinnati on May 4.   If the river doesn’t fall, officials are … Continue reading &rarr;"
 categories:
   - "Current"

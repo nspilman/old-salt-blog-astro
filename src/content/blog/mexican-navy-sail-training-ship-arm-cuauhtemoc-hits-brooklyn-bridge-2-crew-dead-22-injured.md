@@ -1,7 +1,7 @@
 ---
 title: "Mexican Navy Sail Training Ship ARM Cuauhtémoc Hits Brooklyn Bridge — 2 Crew Dead, 22 Injured"
 date: 2025-05-18T09:32:24
-slug: mexican-navy-sail-training-ship-arm-cuauhtemoc-hits-brooklyn-bridge-2-crew-dead-22-injured
+slug: "mexican-navy-sail-training-ship-arm-cuauhtemoc-hits-brooklyn-bridge-2-crew-dead-22-injured"
 excerpt: "On Saturday evening, shortly after the Mexican Navy sail training ship ARM Cuauhtémoc departed  New York City’s South Street Seaport, Pier 17, on the East River, something went terribly wrong. The roughly 300′ long, steel-hulled, three-masted bark reportedly suffered some … Continue reading &rarr;"
 categories:
   - "Current"

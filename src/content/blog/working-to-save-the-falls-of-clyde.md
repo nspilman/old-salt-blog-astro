@@ -1,7 +1,7 @@
 ---
 title: "Help Save the Falls of Clyde"
 date: 2008-12-09T20:06:02
-slug: working-to-save-the-falls-of-clyde
+slug: "working-to-save-the-falls-of-clyde"
 excerpt: "Falls of Clyde is the only surviving iron-hulled four-masted full rigged ship and the only surviving sail-driven oil tanker in the world.  She was launched in 1878 in Port Glasgow, Scotland, for the Fall Line .  The ship was towed to Hawaii … Continue reading &rarr;"
 categories:
   - "Current"

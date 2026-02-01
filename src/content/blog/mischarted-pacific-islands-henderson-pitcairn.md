@@ -1,7 +1,7 @@
 ---
 title: "Mischarted Pacific Islands: Henderson & Pitcairn"
 date: 2022-03-18T17:49:27
-slug: mischarted-pacific-islands-henderson-pitcairn
+slug: "mischarted-pacific-islands-henderson-pitcairn"
 excerpt: "The Royal Navy patrol ship HMS Spey was on a mission to check and update charts of waters around British Overseas Territories scattered around the globe. It recently observed that Henderson Island in the South Pacific is one mile south … Continue reading &rarr;"
 categories:
   - "Current"

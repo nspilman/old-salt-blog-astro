@@ -1,8 +1,8 @@
 ---
 title: "Congratulations to Admiral Jude Terry, First Female Royal Navy Admiral"
 date: 2022-01-17T17:01:20
-slug: congratulations-to-admiral-jude-terry-first-female-royal-navy-admiral
-excerpt: "Congratulations to ex-Commodore Judith Helen “Jude” Terry, who was appointed today the first female admiral in the history of the British Royal Navy.  Rear Admiral Terry, 48, with 25 years’ service around the globe and at home in the UK, … Continue reading &rarr;"
+slug: "congratulations-to-admiral-jude-terry-first-female-royal-navy-admiral"
+excerpt: "Congratulations to ex-Commodore Judith Helen \"Jude\" Terry, who was appointed today the first female admiral in the history of the British Royal Navy.  Rear Admiral Terry, 48, with 25 years’ service around the globe and at home in the UK, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Royal Navy"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/01/admirealterry.jpg"
 author: "Rick Spilman"
-description: "Congratulations to ex-Commodore Judith Helen “Jude” Terry, who was appointed today the first female admiral in the history of the British Royal Navy.  Rear Admiral Terry, 48, with 25 years’ service around the globe and at home in the UK, … Continue reading &rarr;"
+description: "Congratulations to ex-Commodore Judith Helen \"Jude\" Terry, who was appointed today the first female admiral in the history of the British Royal Navy.  Rear Admiral Terry, 48, with 25 years’ service around the globe and at home in the UK, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/01/admirealterry.jpg)Congratulations to ex-Commodore [Judith Helen “Jude” Terry](https://en.wikipedia.org/wiki/Jude_Terry), who was appointed today the first female admiral in the history of the British Royal Navy.  Rear Admiral Terry, 48, with 25 years’ service around the globe and at home in the UK, will serve as Director of People and Training and Naval Secretary. 

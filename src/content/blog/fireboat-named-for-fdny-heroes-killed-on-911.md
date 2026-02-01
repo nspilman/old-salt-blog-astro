@@ -1,7 +1,7 @@
 ---
 title: "Fireboat named for FDNY heroes killed on 9/11"
 date: 2009-09-14T08:21:45
-slug: fireboat-named-for-fdny-heroes-killed-on-911
+slug: "fireboat-named-for-fdny-heroes-killed-on-911"
 excerpt: "From Marine Log: A fireboat launched September 11, 2009 at Eastern Shipbuilding, Panama City, Fla. is named the Three Forty Three in honor of the 343 New York City firefighters killed at the World Trade Center on September 11, 2001. … Continue reading &rarr;"
 categories:
   - "Current"

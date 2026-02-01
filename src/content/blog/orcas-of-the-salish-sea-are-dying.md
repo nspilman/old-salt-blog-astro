@@ -1,7 +1,7 @@
 ---
 title: "Orcas of the Salish Sea are Dying"
 date: 2018-07-12T16:08:03
-slug: orcas-of-the-salish-sea-are-dying
+slug: "orcas-of-the-salish-sea-are-dying"
 excerpt: "The resident orcas of the Salish Sea are dying. They now number only 75, a 30-year-low. They are being starved as their primary prey, the Chinook, or king salmon, are dying off. They are also being poisoned by pollutants in their waters … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Mother’s Day on HMAS Toowoomba 2013"
 date: 2013-05-12T06:54:56
-slug: mothers-day-on-hmas-toowoomba-2013
+slug: "mothers-day-on-hmas-toowoomba-2013"
 excerpt: "We hope that everyone is having a happy Mother’s Day. Here is a great little video by made by the sailors on the HMAS Toowoomba,a Royal Australian Navy frigate currently deployed in the Middle East. Mother’s Day on HMAS Toowoomba 2013 … Continue reading &rarr;"
 categories:
   - "Current"

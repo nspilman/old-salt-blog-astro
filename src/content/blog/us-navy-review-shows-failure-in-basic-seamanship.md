@@ -1,7 +1,7 @@
 ---
 title: "US Navy Review Shows Failure in Basic Seamanship"
 date: 2018-06-10T09:00:50
-slug: us-navy-review-shows-failure-in-basic-seamanship
+slug: "us-navy-review-shows-failure-in-basic-seamanship"
 excerpt: "The deaths of 17 sailors in the separate collisions with merchant ships of the Arleigh Burke-class destroyers USS Fitzgerald and the USS John S. McCain has raised fundamental questions about the seamanship of US naval officers on the two ships, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Humpback Whale Burial Draws Crowd to Atlantic City Beach"
 date: 2023-01-09T19:09:46
-slug: humpback-whale-burial-draws-crowd-to-atlantic-city-beach
+slug: "humpback-whale-burial-draws-crowd-to-atlantic-city-beach"
 excerpt: "On Sunday, a crowd gathered to watch the examination and burial of the carcass of a beached humpback whale in the sand in the beach at Atlantic City, NJ. It was the second whale to come ashore in the city … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Tragic Launching of HMS Albion, 1898, Caught on Film"
 date: 2021-12-18T17:18:36
-slug: tragic-launching-of-hms-albion-1898-caught-on-film
+slug: "tragic-launching-of-hms-albion-1898-caught-on-film"
 excerpt: "On June 21, 1898, HMS Albion sat on the launching ways at the Thames Ironworks and Shipbuilding Company at Blackwall. The launching that would soon end in tragedy was also one of the first disasters to be captured on film. … Continue reading &rarr;"
 categories:
   - "History"

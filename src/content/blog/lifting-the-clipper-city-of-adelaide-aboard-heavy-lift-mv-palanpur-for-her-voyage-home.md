@@ -1,7 +1,7 @@
 ---
 title: "Lifting the Clipper City of Adelaide Aboard Heavy-lift MV Palanpur For Her Voyage Home"
 date: 2013-11-22T09:34:52
-slug: lifting-the-clipper-city-of-adelaide-aboard-heavy-lift-mv-palanpur-for-her-voyage-home
+slug: "lifting-the-clipper-city-of-adelaide-aboard-heavy-lift-mv-palanpur-for-her-voyage-home"
 excerpt: "According to the latest news on their website, the City of Adelaide, the oldest surviving composite clipper ship built in 1864, will be hoisted onto the deck of the heavy-lift ship MV Palanpur in the port of Rotterdam today.  The heavy-lift ship will … Continue reading &rarr;"
 categories:
   - "Current"

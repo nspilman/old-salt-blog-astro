@@ -1,7 +1,7 @@
 ---
-title: "Hawaii’s Twin Hurricane Near Miss, King “TUTT” &  El Niño"
+title: "Hawaii’s Twin Hurricane Near Miss, King \"TUTT\" &  El Niño"
 date: 2014-08-09T08:39:11
-slug: hawaiis-near-miss-by-two-hurricanes-king-tutt-and-el-nino
+slug: "hawaiis-near-miss-by-two-hurricanes-king-tutt-and-el-nino"
 excerpt: "Hawaii survived a near miss with two hurricanes. On Friday, Hurricane Iselle, downgraded to a tropical storm, hit the Big Island of Hawaii.  Hurricane Julio is expected to pass roughly 200 miles to the north of the islands on Sunday … Continue reading &rarr;"
 categories:
   - "Current"
@@ -11,7 +11,7 @@ tags:
   - "Hawaii"
   - "Hurricane Iselle"
   - "Hurricane Julio"
-  - "King "TUTT""
+  - "King \"TUTT\""
 author: "Rick Spilman"
 description: "Despite being rare, two hurricanes came close to hitting the islands of Hawaii. El Nino may be one of the reasons for the close call."
 ---

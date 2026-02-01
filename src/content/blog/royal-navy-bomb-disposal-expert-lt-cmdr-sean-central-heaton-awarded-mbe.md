@@ -1,21 +1,21 @@
 ---
-title: "Royal Navy Bomb Disposal Expert Lt Cmdr Sean “Central” Heaton Awarded MBE"
+title: "Royal Navy Bomb Disposal Expert Lt Cmdr Sean \"Central\" Heaton Awarded MBE"
 date: 2021-01-04T18:13:17
-slug: royal-navy-bomb-disposal-expert-lt-cmdr-sean-central-heaton-awarded-mbe
-excerpt: "In recognition of his accomplishments and service, Lt Cmdr Sean “Central” Heaton has been made an MBE (Most Excellent Order of the British Empire), in the New Year Honours list. World War II had been over for more than 70 … Continue reading &rarr;"
+slug: "royal-navy-bomb-disposal-expert-lt-cmdr-sean-central-heaton-awarded-mbe"
+excerpt: "In recognition of his accomplishments and service, Lt Cmdr Sean \"Central\" Heaton has been made an MBE (Most Excellent Order of the British Empire), in the New Year Honours list. World War II had been over for more than 70 … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
   - "Bomb Disposal Expert"
-  - "Lt Cmdr Sean “Central” Heaton"
+  - "Lt Cmdr Sean \"Central\" Heaton"
   - "MBE"
   - "Most Excellent Order of the British Empire"
   - "Royal Navy"
   - "specialist divers"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/01/heaton.jpg"
 author: "Rick Spilman"
-description: "In recognition of his accomplishments and service, Lt Cmdr Sean “Central” Heaton has been made an MBE (Most Excellent Order of the British Empire), in the New Year Honours list. World War II had been over for more than 70 … Continue reading &rarr;"
+description: "In recognition of his accomplishments and service, Lt Cmdr Sean \"Central\" Heaton has been made an MBE (Most Excellent Order of the British Empire), in the New Year Honours list. World War II had been over for more than 70 … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/01/heaton.jpg)In recognition of his accomplishments and service, [Lt Cmdr Sean “Central” Heaton has been made an MBE](https://www.standard.co.uk/news/uk/new-year-honours-list-royal-navy-bomb-mbe-b572354.html) (Most Excellent Order of the British Empire), in the New Year Honours list.

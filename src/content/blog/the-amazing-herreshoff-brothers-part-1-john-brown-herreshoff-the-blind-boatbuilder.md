@@ -1,7 +1,7 @@
 ---
 title: "The Amazing Herreshoff Brothers, Part 1 — John Brown Herreshoff, the Blind Boatbuilder"
 date: 2015-10-12T09:39:30
-slug: the-amazing-herreshoff-brothers-part-1-john-brown-herreshoff-the-blind-boatbuilder
+slug: "the-amazing-herreshoff-brothers-part-1-john-brown-herreshoff-the-blind-boatbuilder"
 excerpt: "In 1859, 18 year old John Brown Herreshoff of Bristol Rhode Island, accepted his first commission to design and build a yacht. The fact that J.B., as he was known, was blind, having lost his sight at 15, didn’t seem to … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

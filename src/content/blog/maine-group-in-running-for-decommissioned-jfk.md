@@ -1,7 +1,7 @@
 ---
 title: "Maine group in running for decommissioned JFK"
 date: 2010-02-08T21:05:49
-slug: maine-group-in-running-for-decommissioned-jfk
+slug: "maine-group-in-running-for-decommissioned-jfk"
 excerpt: "A follow-up to our previous post  –  Free Aircraft Carrier – ex USS John F Kennedy. Maine group in running for decommissioned JFK A nonprofit group in Maine says it’s still in the running to bring the decommissioned carrier John F. Kennedy … Continue reading &rarr;"
 categories:
   - "Current"

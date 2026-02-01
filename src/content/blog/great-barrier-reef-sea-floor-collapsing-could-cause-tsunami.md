@@ -1,7 +1,7 @@
 ---
 title: "Great Barrier Reef Sea Floor Collapsing, Could Cause Tsunami"
 date: 2012-12-27T10:40:37
-slug: great-barrier-reef-sea-floor-collapsing-could-cause-tsunami
+slug: "great-barrier-reef-sea-floor-collapsing-could-cause-tsunami"
 excerpt: "The world did not end of on 12/21/12 as some had predicted. Nevertheless, there are still a few things to worry about. Last week, marine geologists from Australia’s James Cook University warned that a one cubic kilometer slab  of the sea … Continue reading &rarr;"
 categories:
   - "Current"

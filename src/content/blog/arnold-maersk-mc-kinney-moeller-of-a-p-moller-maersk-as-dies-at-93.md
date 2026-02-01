@@ -1,7 +1,7 @@
 ---
 title: "Arnold Maersk Mc-Kinney Moeller, of A.P. Moller-Maersk A/S, Dies at 98"
 date: 2012-04-16T11:03:58
-slug: arnold-maersk-mc-kinney-moeller-of-a-p-moller-maersk-as-dies-at-93
+slug: "arnold-maersk-mc-kinney-moeller-of-a-p-moller-maersk-as-dies-at-93"
 excerpt: "Danish shipping magnate Arnold Maersk Mc-Kinney Moeller died today at aged 98.  He was Denmark’s richest man who created the country’s largest enterprise, the shipping and oil conglomerate A.P. Moller-Maersk A/S.  The conglomerate is the largest container ship and supply vessel … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Pilot Schooner No. 5 Elbe, ex-Wander Bird, Sinks After Collision on River Elbe"
 date: 2019-06-10T16:47:51
-slug: pilot-schooner-no-5-elbe-ex-wander-bird-sinks-after-collision-on-river-elbe
+slug: "pilot-schooner-no-5-elbe-ex-wander-bird-sinks-after-collision-on-river-elbe"
 excerpt: "On Saturday, the restored pilot schooner No. 5 Elbe sank following a collision with a containership on its namesake river at Stade, Germany. The 43 people aboard the 1883 built schooner were rescued almost immediately thanks to a quick response … Continue reading &rarr;"
 categories:
   - "Current"

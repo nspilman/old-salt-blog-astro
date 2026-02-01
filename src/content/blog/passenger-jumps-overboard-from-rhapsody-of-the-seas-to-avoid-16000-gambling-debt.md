@@ -1,7 +1,7 @@
 ---
 title: "Passenger Jumps Overboard from Rhapsody of the Seas to Avoid $16,000 Gambling Debt"
 date: 2025-09-14T20:19:46
-slug: passenger-jumps-overboard-from-rhapsody-of-the-seas-to-avoid-16000-gambling-debt
+slug: "passenger-jumps-overboard-from-rhapsody-of-the-seas-to-avoid-16000-gambling-debt"
 excerpt: "After accumulating more than $16,000 in gambling debt, Jey Gonzalez-Diaz, a passenger on the Rhapsody of the Seas, jumped overboard after the ship docked in Puerto Rico last weekend, authorities said. The passenger leaped from the Royal Caribbean cruise ship … Continue reading &rarr;"
 categories:
   - "Current"

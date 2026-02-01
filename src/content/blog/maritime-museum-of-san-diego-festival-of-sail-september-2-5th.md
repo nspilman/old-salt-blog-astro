@@ -1,7 +1,7 @@
 ---
 title: "San Diego Festival of Sail September 2 – 5th"
 date: 2011-09-01T15:32:27
-slug: maritime-museum-of-san-diego-festival-of-sail-september-2-5th
+slug: "maritime-museum-of-san-diego-festival-of-sail-september-2-5th"
 excerpt: "This like a great weekend to be in San Diego.  OK, an especially great weekend as the Port of San Diego and the  Maritime Museum of San Diego are hosting a four day Festival of Sail.  Music food, sailing, mock gun … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

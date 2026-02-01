@@ -1,7 +1,7 @@
 ---
 title: "Catching Plastic with a Giant Boom — Will it Work?"
 date: 2018-09-15T12:46:25
-slug: catching-plastic-with-a-giant-boom-will-it-work
+slug: "catching-plastic-with-a-giant-boom-will-it-work"
 excerpt: "About five years ago, a 19-year-old Dutch engineering student, Boyan Slat, made a big splash, at least on the internet, when he unveiled his design of refuse collecting booms, which he claimed would clean the oceans of plastics within five … Continue reading &rarr;"
 categories:
   - "Current"

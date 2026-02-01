@@ -1,7 +1,7 @@
 ---
 title: "Fur, Fortune, and Empire: The Epic History of the Fur Trade in America"
 date: 2010-04-26T17:10:19
-slug: fur-fortune-and-empire-the-epic-history-of-the-fur-trade-in-america
+slug: "fur-fortune-and-empire-the-epic-history-of-the-fur-trade-in-america"
 excerpt: "In 2007, Eric Jay Dolin wrote Leviathan, The History of Whaling In America, a wonderful book that follows the American whale fisheries from shore whaling, to the fleets of whale ships that sailed in every ocean, to the industry’s decline in the … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "DNA Suggests Ancient Sailors Traveled Between Easter Island & South America"
 date: 2014-10-24T19:58:08
-slug: dna-suggests-ancient-sailors-traveled-between-easter-island-south-america
+slug: "dna-suggests-ancient-sailors-traveled-between-easter-island-south-america"
 excerpt: "Easter Island, called Rapa Nui by its inhabitants, famous for its massive stone statues, is one of the most remote inhabited islands in the world.  It is almost 2,000 nautical miles from the coast of South America and over 1,000 nautical miles … Continue reading &rarr;"
 categories:
   - "History"

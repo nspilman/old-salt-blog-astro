@@ -1,7 +1,7 @@
 ---
 title: "Holland America Cruise Ship Volendam to Provide Housing For Ukrainian Refugees"
 date: 2022-04-02T16:45:42
-slug: holland-america-cruise-ship-volendam-to-provide-housing-for-ukrainian-refugees
+slug: "holland-america-cruise-ship-volendam-to-provide-housing-for-ukrainian-refugees"
 excerpt: "Cruise Industry News reports that Holland America Line‘s Volendam will be used to accommodate Ukrainian refugees as part of an agreement announced by Netherlands and City of Rotterdam government officials. According to a press release, the ship will dock in … Continue reading &rarr;"
 categories:
   - "Current"

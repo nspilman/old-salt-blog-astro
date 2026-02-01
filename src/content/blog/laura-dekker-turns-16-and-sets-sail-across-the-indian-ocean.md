@@ -1,7 +1,7 @@
 ---
 title: "Laura Dekker Turns 16 and Sets Sail Across the Indian Ocean"
 date: 2011-09-30T18:56:35
-slug: laura-dekker-turns-16-and-sets-sail-across-the-indian-ocean
+slug: "laura-dekker-turns-16-and-sets-sail-across-the-indian-ocean"
 excerpt: "Laura Dekker has celebrated her 16th birthday and has set sail from Darwin, Australia on a westerly course across the Indian Ocean bound for Africa.  Given the concern about piracy in the Indian Ocean, her exact route is being kept … Continue reading &rarr;"
 categories:
   - "Current"

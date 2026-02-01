@@ -1,7 +1,7 @@
 ---
 title: "Sydney Beaches Close After Sharks Attack Dolphin — What are Risks of Shark Attacks?"
 date: 2023-01-23T21:37:46
-slug: sydney-beaches-close-after-sharks-attack-dolphin-what-are-risks-of-shark-attacks
+slug: "sydney-beaches-close-after-sharks-attack-dolphin-what-are-risks-of-shark-attacks"
 excerpt: "The BBC reports that several popular beaches in Sydney, Australia have been closed after sharks attacked a dolphin in waters near the city. At least two bull sharks were spotted in the Shelly Beach area, in northern Sydney, after the … Continue reading &rarr;"
 categories:
   - "Current"

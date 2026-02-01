@@ -1,14 +1,14 @@
 ---
 title: "American Feeder Lines – New Short Sea Container Operator on the East Coast"
 date: 2011-07-07T13:15:03
-slug: american-feeder-lines-new-short-sea-container-operator-on-the-east-coast
+slug: "american-feeder-lines-new-short-sea-container-operator-on-the-east-coast"
 excerpt: "For several hundred years, up until just after World War II, cargo moved up and down the East Coast of North America by ships and boats of a range of sizes and shapes.  When the interstate highways were built, all but most bulk cargoes  shifted to … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 tags:
-  - ""New England to Halifax Shuttle"
+  - "\"New England to Halifax Shuttle"
   - "American Feeder Lines"
 author: "Rick Spilman"
 description: "For several hundred years, up until just after World War II, cargo moved up and down the East Coast of North America by ships and boats of a range of sizes and shapes.  When the interstate highways were built, all but most bulk cargoes  shifted to … Continue reading &rarr;"

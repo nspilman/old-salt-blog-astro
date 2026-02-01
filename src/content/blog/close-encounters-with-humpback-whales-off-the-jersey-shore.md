@@ -1,7 +1,7 @@
 ---
 title: "Close Encounters With Humpback Whales Off the Jersey Shore"
 date: 2020-07-04T09:25:50
-slug: close-encounters-with-humpback-whales-off-the-jersey-shore
+slug: "close-encounters-with-humpback-whales-off-the-jersey-shore"
 excerpt: "Two groups of fishermen had recent close encounters with humpback whales off the Jersey Shore. In early June, two men fishing in a 25′ boat not far offshore near Seaside Park, NJ were thrown from their boat when it was … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

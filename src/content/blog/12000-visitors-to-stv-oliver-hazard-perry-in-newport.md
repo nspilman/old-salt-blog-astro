@@ -1,7 +1,7 @@
 ---
 title: "12,000 Visitors to STV Oliver Hazard Perry in Newport"
 date: 2015-05-16T11:57:26
-slug: 12000-visitors-to-stv-oliver-hazard-perry-in-newport
+slug: "12000-visitors-to-stv-oliver-hazard-perry-in-newport"
 excerpt: "From May 9th through 13th, Oliver Hazard Perry, the largest civilian Sailing School Vessel in the US, was host to 12,000 visitors during the Volvo Ocean Race Stopover in Newport, RI.  The contrast between the new tall ship and the … Continue reading &rarr;"
 categories:
   - "Current"

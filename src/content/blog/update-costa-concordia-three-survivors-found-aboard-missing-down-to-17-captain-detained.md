@@ -1,7 +1,7 @@
 ---
 title: "Update: Costa Concordia – Three Survivors Found Aboard, Missing Down to 17, Captain Detained"
 date: 2012-01-15T10:41:41
-slug: update-costa-concordia-three-survivors-found-aboard-missing-down-to-17-captain-detained
+slug: "update-costa-concordia-three-survivors-found-aboard-missing-down-to-17-captain-detained"
 excerpt: "A Korean couple on their honeymoon, who had been trapped below decks on the cruise ship Costa Concordia for over 24 hours after the ship ran aground and sank in shallow water near the island of Giglio, off Italy’s Tuscan coast, were rescued yesterday.  A third … Continue reading &rarr;"
 categories:
   - "Current"

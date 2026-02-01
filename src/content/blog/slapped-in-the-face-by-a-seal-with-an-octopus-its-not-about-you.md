@@ -1,7 +1,7 @@
 ---
 title: "Slapped in the Face by a Seal with an Octopus, It’s Not About You"
 date: 2018-09-28T07:03:10
-slug: slapped-in-the-face-by-a-seal-with-an-octopus-its-not-about-you
+slug: "slapped-in-the-face-by-a-seal-with-an-octopus-its-not-about-you"
 excerpt: "If you are kayaking and happen to get slapped in the face by a flying octopus hurled by a seal, don’t take it personally. Its probably not about you. Kyle Mulinder was kayaking near Kaikoura, New Zealand on Saturday when … Continue reading &rarr;"
 categories:
   - "Current"

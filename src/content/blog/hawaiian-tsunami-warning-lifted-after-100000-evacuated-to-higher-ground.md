@@ -1,8 +1,8 @@
 ---
 title: "Hawaiian Tsunami Warning Lifted after 100,000 Evacuated to Higher Ground"
 date: 2012-10-28T11:47:26
-slug: hawaiian-tsunami-warning-lifted-after-100000-evacuated-to-higher-ground
-excerpt: "While those of us on the East Coast of the United States have been watching the approach of the “superstorm” Hurricane Sandy, residents of the Hawaiian islands were under a tsunami warning following a a powerful 7.7 magnitude earthquake that hit Canada’s Pacific coastal … Continue reading &rarr;"
+slug: "hawaiian-tsunami-warning-lifted-after-100000-evacuated-to-higher-ground"
+excerpt: "While those of us on the East Coast of the United States have been watching the approach of the \"superstorm\" Hurricane Sandy, residents of the Hawaiian islands were under a tsunami warning following a a powerful 7.7 magnitude earthquake that hit Canada’s Pacific coastal … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Hawaiian islands"
   - "tsunami"
 author: "Rick Spilman"
-description: "While those of us on the East Coast of the United States have been watching the approach of the “superstorm” Hurricane Sandy, residents of the Hawaiian islands were under a tsunami warning following a a powerful 7.7 magnitude earthquake that hit Canada’s Pacific coastal … Continue reading &rarr;"
+description: "While those of us on the East Coast of the United States have been watching the approach of the \"superstorm\" Hurricane Sandy, residents of the Hawaiian islands were under a tsunami warning following a a powerful 7.7 magnitude earthquake that hit Canada’s Pacific coastal … Continue reading &rarr;"
 ---
 
 While those of us on the East Coast of the United States have been watching the approach of the “superstorm” Hurricane Sandy, residents of the Hawaiian islands were under a tsunami warning following a a powerful 7.7 magnitude earthquake that hit Canada’s Pacific coastal province of British Columbia late on Saturday.  At least 100,000 people were advised to evacuated to higher ground on the warning.  The warning was downgraded to an advisory – a lower-level alert – shortly after 1 a.m. Sunday.

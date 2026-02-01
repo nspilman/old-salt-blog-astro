@@ -1,7 +1,7 @@
 ---
 title: "Spain Busts First Known Trans-Atlantic Narco Sub"
 date: 2019-12-03T17:30:40
-slug: spain-busts-first-known-trans-atlantic-narco-sub
+slug: "spain-busts-first-known-trans-atlantic-narco-sub"
 excerpt: "Last week, Spanish authorities seized a narco sub loaded with 3 tonnes of cocaine, valued at $110 million, off the northwestern coast of Galicia. Narco subs have been caught operating in the Pacific and in the Gulf of Mexico. The … Continue reading &rarr;"
 categories:
   - "Current"

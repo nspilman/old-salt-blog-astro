@@ -1,7 +1,7 @@
 ---
 title: "Gulf Stream and Atlantic Ocean Circulation Weakest in Last Millennium"
 date: 2021-02-26T17:45:30
-slug: gulf-stream-and-atlantic-ocean-circulation-weakest-in-last-millennium
+slug: "gulf-stream-and-atlantic-ocean-circulation-weakest-in-last-millennium"
 excerpt: "A new study has determined that the vast Atlantic Ocean current circulation system, including the Gulf Stream, is at its weakest in a thousand years. The slowing of the current, the Atlantic meridional overturning circulation (AMOC), could increase sea levels … Continue reading &rarr;"
 categories:
   - "Current"

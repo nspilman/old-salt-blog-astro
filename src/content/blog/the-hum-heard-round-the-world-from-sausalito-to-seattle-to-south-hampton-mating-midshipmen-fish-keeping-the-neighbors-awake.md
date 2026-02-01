@@ -1,7 +1,7 @@
 ---
 title: "The Hum Heard Round the World – From Sausalito to Seattle to Southhampton, Mating Midshipmen Fish Keeping the Neighbors Awake"
 date: 2013-10-25T12:30:58
-slug: the-hum-heard-round-the-world-from-sausalito-to-seattle-to-south-hampton-mating-midshipmen-fish-keeping-the-neighbors-awake
+slug: "the-hum-heard-round-the-world-from-sausalito-to-seattle-to-south-hampton-mating-midshipmen-fish-keeping-the-neighbors-awake"
 excerpt: "There are many hazards of the sea. One of the least dangerous, yet still highly annoying and somewhat mysterious is the loud humming sound heard coming from the sea on summer nights by residents of coastal towns, in boats or … Continue reading &rarr;"
 categories:
   - "Current"

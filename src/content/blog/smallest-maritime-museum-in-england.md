@@ -1,7 +1,7 @@
 ---
 title: "Smallest Maritime Museum In England"
 date: 2010-05-12T17:25:37
-slug: smallest-maritime-museum-in-england
+slug: "smallest-maritime-museum-in-england"
 excerpt: "We have already seen the two small ships of the Little Brig Sailing Trust.  Now Alaric Bond has passed along an article about Robert Carter of Plymouth and the  Smallest Maritime Museum In England, an only 12ft wide x 6ft museum, packed with nautical items. … Continue reading &rarr;"
 categories:
   - "Current"

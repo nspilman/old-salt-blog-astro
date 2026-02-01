@@ -1,7 +1,7 @@
 ---
 title: "International Moth Racing — Foiling is Not Just for the America’s Cup"
 date: 2014-06-29T09:58:16
-slug: foiling-not-just-the-americas-cup-international-moth-racing
+slug: "foiling-not-just-the-americas-cup-international-moth-racing"
 excerpt: "Well before the billionaire’s AC72 catamarans were rising up on foils to race in the America’s Cup, nimble Moth dinghies were flying on hydrofoils around the buoys. I will admit to being fascinated by the foiling Moths, although they appear … Continue reading &rarr;"
 categories:
   - "Current"

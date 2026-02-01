@@ -1,7 +1,7 @@
 ---
 title: "Colin de Mowbray – Falklands Veteran and Round-the-World Yacht Race Organizer"
 date: 2010-08-01T10:11:16
-slug: colin-de-mowbray-falklands-veteran-and-round-the-world-yacht-race-organizers
+slug: "colin-de-mowbray-falklands-veteran-and-round-the-world-yacht-race-organizers"
 excerpt: "Lieutenant-Commander Colin de Mowbray Lieutenant-Commander Colin de Mowbray , who died on July 11 aged 65, was a helicopter pilot and veteran of the Falklands war; in retirement he sailed on, and organised, round-the-world yacht races. … Continue reading &rarr;"
 categories:
   - "Current"

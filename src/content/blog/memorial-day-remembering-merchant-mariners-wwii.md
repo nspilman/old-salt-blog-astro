@@ -1,7 +1,7 @@
 ---
 title: "On Memorial Day — Remembering the US Merchant Mariners of WWII"
 date: 2016-05-30T08:17:52
-slug: memorial-day-remembering-merchant-mariners-wwii
+slug: "memorial-day-remembering-merchant-mariners-wwii"
 excerpt: "What was the most dangerous service in World War II? The Army, the Navy, the Marines?  In fact, it was the Merchant Marine. 1 in 26 mariners serving aboard merchant ships in World WW II died in the line of duty, suffering … Continue reading &rarr;"
 categories:
   - "History"

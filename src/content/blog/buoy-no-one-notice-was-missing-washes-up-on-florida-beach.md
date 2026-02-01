@@ -1,7 +1,7 @@
 ---
 title: "Buoy No One Noticed Was Missing Washes Up on Florida Beach"
 date: 2020-01-04T18:44:06
-slug: buoy-no-one-notice-was-missing-washes-up-on-florida-beach
+slug: "buoy-no-one-notice-was-missing-washes-up-on-florida-beach"
 excerpt: "Just before the New Year, 21-foot-tall, 8-foot-wide Coast Guard red navigation buoy #8 washed up out of the fog in New Smyrna Beach, Fla. — its light still blinking — nearly 200 miles away from its mooring at the entrance … Continue reading &rarr;"
 categories:
   - "Current"

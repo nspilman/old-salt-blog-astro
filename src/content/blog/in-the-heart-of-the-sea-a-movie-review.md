@@ -1,8 +1,8 @@
 ---
 title: "In the Heart of the Sea — A Movie Review"
 date: 2015-12-12T07:40:25
-slug: in-the-heart-of-the-sea-a-movie-review
-excerpt: "Today I saw the movie, “In the Heart of the Sea,” directed by Ron Howard and somewhat loosely based on Nathaniel Philbrick’s  In the Heart of the Sea: The Tragedy of the Whaleship Essex.  How was it? The movie was … Continue reading &rarr;"
+slug: "in-the-heart-of-the-sea-a-movie-review"
+excerpt: "Today I saw the movie, \"In the Heart of the Sea,\" directed by Ron Howard and somewhat loosely based on Nathaniel Philbrick’s  In the Heart of the Sea: The Tragedy of the Whaleship Essex.  How was it? The movie was … Continue reading &rarr;"
 categories:
   - "Critiques"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "In the Heart of the Sea"
   - "whaleship"
 author: "Rick Spilman"
-description: "Today I saw the movie, “In the Heart of the Sea,” directed by Ron Howard and somewhat loosely based on Nathaniel Philbrick’s  In the Heart of the Sea: The Tragedy of the Whaleship Essex.  How was it? The movie was … Continue reading &rarr;"
+description: "Today I saw the movie, \"In the Heart of the Sea,\" directed by Ron Howard and somewhat loosely based on Nathaniel Philbrick’s  In the Heart of the Sea: The Tragedy of the Whaleship Essex.  How was it? The movie was … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2015/12/ithots.jpg)Today I saw the movie, “In the Heart of the Sea,” directed by Ron Howard and somewhat loosely based on Nathaniel Philbrick’s  *[In the Heart of the Sea: The Tragedy of the Whaleship Essex](http://www.amazon.com/gp/product/0141001828?keywords=in%20the%20heart%20of%20the%20sea&qid=1449868912&ref_=sr_1_1&sr=8-1).*  How was it? The movie was disappointing. The cinemaphotography is wonderful and the computer graphics are also great. There is no shortage of computer generated storm waves, dolphins or sperm whales.  There are lots and lots of sperm whales, viewed from every possible angle and vantage point. The movie is available for viewing in 3D,  which I am sure would be very impressive if perhaps likely to induce motion sickness. (I opted to see the conventional projection.) The problem is that the story — the narrative and the characters — ended up feeling wholly contrived. The special effects are great while the storytelling is weak.  The movie is 121 minutes long but felt much longer.

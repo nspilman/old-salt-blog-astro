@@ -1,7 +1,7 @@
 ---
 title: "Container Loaded with One Million Cigarettes Washes Ashore On Devon Coast"
 date: 2014-02-24T09:02:14
-slug: container-loaded-with-one-million-cigarettes-washes-ashore-on-devon-coast
+slug: "container-loaded-with-one-million-cigarettes-washes-ashore-on-devon-coast"
 excerpt: "Last Wednesday, we posted about Svendborg Maersk, which last an estimated 520 containers  in a storm in the Bay of Biscay.  What happened to all the containers that fell overboard?  One of them, loaded with a million cigarettes, may have just washed … Continue reading &rarr;"
 categories:
   - "Current"

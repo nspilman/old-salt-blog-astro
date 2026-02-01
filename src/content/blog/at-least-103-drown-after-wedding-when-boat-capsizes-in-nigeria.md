@@ -1,7 +1,7 @@
 ---
 title: "At Least 103 Drown After Wedding When Boat Capsizes in Nigeria"
 date: 2023-06-14T16:57:34
-slug: at-least-103-drown-after-wedding-when-boat-capsizes-in-nigeria
+slug: "at-least-103-drown-after-wedding-when-boat-capsizes-in-nigeria"
 excerpt: "The death toll from an overloaded boat that capsized in a remote part of Nigeria’s north central region has risen to more than 100, police and officials said on Wednesday, in one of the worst such disasters in recent years. … Continue reading &rarr;"
 categories:
   - "Current"

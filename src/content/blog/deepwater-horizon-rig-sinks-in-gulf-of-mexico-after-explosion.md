@@ -1,7 +1,7 @@
 ---
 title: "Deepwater Horizon rig sinks in Gulf of Mexico after explosion"
 date: 2010-04-22T15:09:53
-slug: deepwater-horizon-rig-sinks-in-gulf-of-mexico-after-explosion
+slug: "deepwater-horizon-rig-sinks-in-gulf-of-mexico-after-explosion"
 excerpt: "US oil rig sinks in Gulf of Mexico after explosion An oil rig in the Gulf of Mexico that caught fire after an explosion on Tuesday has now sunk, the US coastguard has said.   The coastguard is still looking for … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: MT Pavit – the Ship that Drifted Ashore, Up for Sale at Auction, Again"
 date: 2012-06-15T08:40:03
-slug: update-mt-pavit-the-ship-that-drifted-ashore-up-for-sale-at-auction-again
+slug: "update-mt-pavit-the-ship-that-drifted-ashore-up-for-sale-at-auction-again"
 excerpt: "Last August, we posted about the surprise arrival of the tanker MT Pavit on Juhu Beach near Mumbai, India.  The tanker had previously been reported to have sunk after engine room flooding.  This was the second ship that had arrived on Juhu … Continue reading &rarr;"
 categories:
   - "Current"

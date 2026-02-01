@@ -1,7 +1,7 @@
 ---
 title: "Of Sharks and Sanctuaries – Saving Sharks to Save the Reefs"
 date: 2011-08-18T14:09:40
-slug: of-sharks-and-sanctuaries-saving-sharks-to-save-the-reefs
+slug: "of-sharks-and-sanctuaries-saving-sharks-to-save-the-reefs"
 excerpt: "The Federated States of Micronesia, along with the Republic of the Marshall Islands, the Republic of Palau, the Territory of Guam and the Commonwealth of the Northern Marianas Islands, announced earlier this month that they were establishing a shark sanctuary … Continue reading &rarr;"
 categories:
   - "Current"

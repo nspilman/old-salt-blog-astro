@@ -1,7 +1,7 @@
 ---
-title: "Dutch Shipyard to Build Canopée, French “Rocket Ship” with Wing Sails"
+title: "Dutch Shipyard to Build Canopée, French \"Rocket Ship\" with Wing Sails"
 date: 2021-05-16T17:34:40
-slug: dutch-shipyard-to-build-canopee-french-rocket-ship-with-wing-sails
+slug: "dutch-shipyard-to-build-canopee-french-rocket-ship-with-wing-sails"
 excerpt: "The Dutch shipyard Neptune Marine has begun construction of the sailing cargo vessel Canopée, which will transport Ariane 6 rockets from Europe to the launch site in Kourou in French Guyana. The ship will feature 1,500 square meter sails to … Continue reading &rarr;"
 categories:
   - "Current"

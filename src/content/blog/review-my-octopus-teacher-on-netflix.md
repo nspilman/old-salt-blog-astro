@@ -1,7 +1,7 @@
 ---
 title: "Review: My Octopus Teacher, on Netflix"
 date: 2020-10-03T08:00:41
-slug: review-my-octopus-teacher-on-netflix
+slug: "review-my-octopus-teacher-on-netflix"
 excerpt: "Octopuses are often referred to as being akin to space aliens. With three hearts, nine brains, and blue blood, they are so different from us that they could be from another planet. They are also highly intelligent. While other intelligent … Continue reading &rarr;"
 categories:
   - "Current"

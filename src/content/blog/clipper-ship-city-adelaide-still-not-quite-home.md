@@ -1,7 +1,7 @@
 ---
 title: "Clipper Ship City of Adelaide Still Not Quite Home"
 date: 2017-01-27T16:35:56
-slug: clipper-ship-city-adelaide-still-not-quite-home
+slug: "clipper-ship-city-adelaide-still-not-quite-home"
 excerpt: "In February 2014,  the City of Adelaide, the world’s oldest surviving composite clipper ship, returned to her namesake city. Now almost three years later, she still have not quite found a home. The ship is sitting on a deck barge … Continue reading &rarr;"
 categories:
   - "Current"

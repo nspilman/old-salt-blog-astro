@@ -1,7 +1,7 @@
 ---
 title: "Update: Costa Concordia – Body Count Rises to 11, 24 Still Missing, Shocking Recording of Coast Guard Ordering Captain Back to Ship"
 date: 2012-01-17T16:15:14
-slug: update-costa-concordia-body-count-rises-to-11-24-still-missing-shocking-recording-of-coast-guard-ordering-captain-back-aboard-ship
+slug: "update-costa-concordia-body-count-rises-to-11-24-still-missing-shocking-recording-of-coast-guard-ordering-captain-back-aboard-ship"
 excerpt: "Divers searching the wreck of the Costa Concordia have found five more bodies in the submerged section of the ship.  All were wearing life jackets and are believed to be passengers.  The number of missing, which had been as low … Continue reading &rarr;"
 categories:
   - "Current"

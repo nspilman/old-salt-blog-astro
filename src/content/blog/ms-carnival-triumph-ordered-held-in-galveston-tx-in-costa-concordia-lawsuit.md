@@ -1,7 +1,7 @@
 ---
 title: "Update: MS Carnival Triumph Allowed to Sail from Galveston, TX in Costa Concordia Lawsuit"
 date: 2012-03-31T11:47:47
-slug: ms-carnival-triumph-ordered-held-in-galveston-tx-in-costa-concordia-lawsuit
+slug: "ms-carnival-triumph-ordered-held-in-galveston-tx-in-costa-concordia-lawsuit"
 excerpt: "Update:  The MS Carnival Triumph was allowed to sail as scheduled following last minute negotiations. The 2,758-passenger cruise ship MS Carnival Triumph was supposed to sail today for a five-day cruise to Yucatan and Cozumel. Instead, a Texas judge has ordered the ship … Continue reading &rarr;"
 categories:
   - "Current"

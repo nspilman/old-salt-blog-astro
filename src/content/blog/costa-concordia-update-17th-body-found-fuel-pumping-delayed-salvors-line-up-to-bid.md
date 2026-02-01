@@ -1,7 +1,7 @@
 ---
 title: "Costa Concordia Update – 17th Body Found, Fuel Pumping Delayed & Salvors Line Up to Bid"
 date: 2012-01-28T13:43:55
-slug: costa-concordia-update-17th-body-found-fuel-pumping-delayed-salvors-line-up-to-bid
+slug: "costa-concordia-update-17th-body-found-fuel-pumping-delayed-salvors-line-up-to-bid"
 excerpt: "The body of a woman, believed to be a member of the crew, has been found in the wreck of the Costa Concordia, bringing the body count to 17. An additional 15 are missing and presumed dead. The Dutch salvor Smit has … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "The Staten Island Quarantine War of 1858"
 date: 2020-10-23T16:54:14
-slug: the-staten-island-quarantine-war-of-1858
-excerpt: "The story of the New York Marine Hospital in Staten Island—known simply as “the Quarantine,” seems very timely. It was the firey center of what became known as the Staten Island Quarantine War of 1858. At the time it was … Continue reading &rarr;"
+slug: "the-staten-island-quarantine-war-of-1858"
+excerpt: "The story of the New York Marine Hospital in Staten Island—known simply as \"the Quarantine,\" seems very timely. It was the firey center of what became known as the Staten Island Quarantine War of 1858. At the time it was … Continue reading &rarr;"
 categories:
   - "City of Ships"
   - "History"
@@ -15,7 +15,7 @@ tags:
   - "yellow fever"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/10/quarantine.jpg"
 author: "Rick Spilman"
-description: "The story of the New York Marine Hospital in Staten Island—known simply as “the Quarantine,” seems very timely. It was the firey center of what became known as the Staten Island Quarantine War of 1858. At the time it was … Continue reading &rarr;"
+description: "The story of the New York Marine Hospital in Staten Island—known simply as \"the Quarantine,\" seems very timely. It was the firey center of what became known as the Staten Island Quarantine War of 1858. At the time it was … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/10/quarantine.jpg)The story of the New York Marine Hospital in Staten Island—known simply as “the Quarantine,” seems very timely. It was the firey center of what became known as the [Staten Island Quarantine War of 1858](https://en.wikipedia.org/wiki/Staten_Island_Quarantine_War). At the time it was the largest quarantine facility in the United States.

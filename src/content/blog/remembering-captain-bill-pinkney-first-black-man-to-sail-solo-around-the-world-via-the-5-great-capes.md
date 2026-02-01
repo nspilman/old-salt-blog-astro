@@ -1,8 +1,8 @@
 ---
 title: "Remembering Captain Bill Pinkney, First Black Man to Sail Solo Around the World via the 5 Great Capes"
 date: 2023-09-01T10:34:19
-slug: remembering-captain-bill-pinkney-first-black-man-to-sail-solo-around-the-world-via-the-5-great-capes
-excerpt: "We are saddened to learn that Captain William “Bill” Pinkney died on August 31, 2023 at the age of 87. Captain Pinkney was the first Black man to sail solo around the world via the 5 Great Capes. Captain Pinkney … Continue reading &rarr;"
+slug: "remembering-captain-bill-pinkney-first-black-man-to-sail-solo-around-the-world-via-the-5-great-capes"
+excerpt: "We are saddened to learn that Captain William \"Bill\" Pinkney died on August 31, 2023 at the age of 87. Captain Pinkney was the first Black man to sail solo around the world via the 5 Great Capes. Captain Pinkney … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "National Sailing Hall of Fame"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/09/captainbill.png"
 author: "Rick Spilman"
-description: "We are saddened to learn that Captain William “Bill” Pinkney died on August 31, 2023 at the age of 87. Captain Pinkney was the first Black man to sail solo around the world via the 5 Great Capes. Captain Pinkney … Continue reading &rarr;"
+description: "We are saddened to learn that Captain William \"Bill\" Pinkney died on August 31, 2023 at the age of 87. Captain Pinkney was the first Black man to sail solo around the world via the 5 Great Capes. Captain Pinkney … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/09/captainbill.png)We are saddened to learn that [Captain William “Bill” Pinkney](https://en.wikipedia.org/wiki/Bill_Pinkney_\(sailor\)) died on August 31, 2023 at the age of 87. Captain Pinkney was the first Black man to sail solo around the world via the 5 Great Capes.

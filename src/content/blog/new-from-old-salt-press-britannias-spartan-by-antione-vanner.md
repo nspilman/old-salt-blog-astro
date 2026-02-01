@@ -1,7 +1,7 @@
 ---
 title: "New from Old Salt Press — Britannia’s Spartan by Antione Vanner"
 date: 2015-12-16T12:19:28
-slug: new-from-old-salt-press-britannias-spartan-by-antione-vanner
+slug: "new-from-old-salt-press-britannias-spartan-by-antione-vanner"
 excerpt: "Another wonderful release in time for the holidays. Antione Vanner’s Britannia’s Spartan is the fourth volume of the Dawlish Chronicles. It is 1882 and Captain Nicholas Dawlish has just taken command of the Royal Navy’s newest cruiser, HMS Leonidas. Her … Continue reading &rarr;"
 categories:
   - "Newbooks"

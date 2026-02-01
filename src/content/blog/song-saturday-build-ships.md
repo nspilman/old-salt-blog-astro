@@ -1,7 +1,7 @@
 ---
 title: "A Song for a Sunday Morning — Tom Munch Sings We Build the Ships"
 date: 2016-06-26T09:30:01
-slug: song-saturday-build-ships
+slug: "song-saturday-build-ships"
 excerpt: "Singer/songwriter Tom Munch plays his original song about the last great historic wooden schooners of Maine in the early 20th century. The photos are historic shots of the Wyoming and other ships built at Percy and Small shipyard in Bath, Maine … Continue reading &rarr;"
 categories:
   - "History"

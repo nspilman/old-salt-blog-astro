@@ -1,7 +1,7 @@
 ---
 title: "Mark Knopfler — So Far from the Clyde"
 date: 2017-01-07T08:14:05
-slug: mark-knopfler-far-clyde
+slug: "mark-knopfler-far-clyde"
 excerpt: "Not many lead singers from an 80’s rock and roll band could write a compelling song about ship scrapping, but then Mark Knopfler is not just any singer/songwriter. Knopfler was born in Glasgow, Scotland on the River Clyde, which was … Continue reading &rarr;"
 categories:
   - "Current"

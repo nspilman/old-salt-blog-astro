@@ -1,7 +1,7 @@
 ---
 title: "Bad News — Bank to Auction Schooner Spirit of South Carolina"
 date: 2014-05-23T07:45:48
-slug: bank-to-auction-schooner-spirit-of-south-carolina
+slug: "bank-to-auction-schooner-spirit-of-south-carolina"
 excerpt: "The Sailing School Vessel Spirit of South Carolina is finally going to auction. As we posted in late 2011, the now defunct South Carolina Maritime Foundation ran into financial problems only a few years after the 90′ on-deck schooner went … Continue reading &rarr;"
 categories:
   - "Current"

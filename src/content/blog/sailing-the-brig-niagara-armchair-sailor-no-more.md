@@ -1,7 +1,7 @@
 ---
 title: "Sailing the Brig Niagara, Armchair Sailor No More"
 date: 2013-03-06T09:19:52
-slug: sailing-the-brig-niagara-armchair-sailor-no-more
+slug: "sailing-the-brig-niagara-armchair-sailor-no-more"
 excerpt: "Retiree Edd Hale writes in the Pittsburgh Post Gazette about surrendering his status as an armchair sailor to sail the Great Lakes in the Brig Niagara, a replica of the Master Commandant Oliver Hazard Perry‘s flagship on which he won the Battle of Lake Erie, one … Continue reading &rarr;"
 categories:
   - "Current"

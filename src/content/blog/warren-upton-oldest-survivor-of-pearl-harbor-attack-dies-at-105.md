@@ -1,7 +1,7 @@
 ---
 title: "Warren Upton, Oldest Survivor of Pearl Harbor Attack, Dies at 105"
 date: 2025-01-05T19:50:15
-slug: warren-upton-oldest-survivor-of-pearl-harbor-attack-dies-at-105
+slug: "warren-upton-oldest-survivor-of-pearl-harbor-attack-dies-at-105"
 excerpt: "The Washington Post reports that Warren Eric Upton died in Los Gatos, California on Dec. 25. At 105, he was the oldest survivor of the attack on Pearl Harbor and the last remaining crew member of the USS Utah, according … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "INSIDE LOOK: Tall Ships St. Pete 2023"
 date: 2023-04-02T10:50:57
-slug: inside-look-tall-ships-st-pete-2023
+slug: "inside-look-tall-ships-st-pete-2023"
 excerpt: "A short video of the ships participating in the Tall Ships St. Pete 2023 festival.  INSIDE LOOK: Tall Ships St. Pete 2023 … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
-title: "Why Won’t “The Bermuda Triangle” Just Go Away?"
+title: "Why Won’t \"The Bermuda Triangle\" Just Go Away?"
 date: 2016-01-16T16:27:55
-slug: why-wont-the-bermuda-triangle-just-go-away
-excerpt: "The CBS news program “60 Minutes” recently did a report on the sinking of El Faro. Overall, they did a reasonably good job for a mainstream media report on shipping. There were a few minor glitches but overall, not a … Continue reading &rarr;"
+slug: "why-wont-the-bermuda-triangle-just-go-away"
+excerpt: "The CBS news program \"60 Minutes\" recently did a report on the sinking of El Faro. Overall, they did a reasonably good job for a mainstream media report on shipping. There were a few minor glitches but overall, not a … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "CBS"
   - "El Faro"
 author: "Rick Spilman"
-description: "The CBS news program “60 Minutes” recently did a report on the sinking of El Faro. Overall, they did a reasonably good job for a mainstream media report on shipping. There were a few minor glitches but overall, not a … Continue reading &rarr;"
+description: "The CBS news program \"60 Minutes\" recently did a report on the sinking of El Faro. Overall, they did a reasonably good job for a mainstream media report on shipping. There were a few minor glitches but overall, not a … Continue reading &rarr;"
 ---
 
 ![bermudatraingle](http://www.oldsaltblog.com/wp-content/uploads/2016/01/bermudatraingle.jpg)The CBS news program “60 Minutes” recently did a report on the sinking of *[El Faro](https://en.wikipedia.org/wiki/SS_El_Faro)*. Overall, they did a reasonably good job for a mainstream media report on shipping. There were a few minor glitches but overall, not a bad job. There was, however, one glaring problem. The report was titled, “*[Lost in the Bermuda Triangle.](http://www.cbsnews.com/news/60-minutes-el-faro-lost-in-the-bermuda-triangle/)*”  Really? [The Bermuda Triangle](https://en.wikipedia.org/wiki/Bermuda_Triangle)? Why dredge up that tired old scam?  Why hasn’t the Bermuda Triangle nonsense just gone way?

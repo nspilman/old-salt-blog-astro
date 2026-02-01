@@ -1,7 +1,7 @@
 ---
 title: "The Famous Sailing Barge Cambria Reborn"
 date: 2010-11-01T08:04:23
-slug: the-famous-sailing-barge-cambria-reborn
+slug: "the-famous-sailing-barge-cambria-reborn"
 excerpt: "The Thames sailing barge Cambria was built in Greenhithe, Kent in 1906.  Remarkably, she kept sailing  and carrying commercial cargo under sail alone until 1970.  She is now undergoing a complete restoration by the Cambria Trust with major funding from the Heritage Lottery … Continue reading &rarr;"
 categories:
   - "Current"

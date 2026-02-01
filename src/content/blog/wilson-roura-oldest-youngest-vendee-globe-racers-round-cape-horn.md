@@ -1,7 +1,7 @@
 ---
 title: "Wilson & Roura — Oldest and Youngest Vendee Globe Racers Round Cape Horn"
 date: 2017-01-17T11:22:58
-slug: wilson-roura-oldest-youngest-vendee-globe-racers-round-cape-horn
+slug: "wilson-roura-oldest-youngest-vendee-globe-racers-round-cape-horn"
 excerpt: "Swiss sailor, Alan Roura, 23, is the youngest competitor in the Vendee Globe single-handed ’round the world race. American, Rich Wilson, 66, is the oldest. Both recently rounded Cape Horn, with Roura roughly 12 hours ahead of Wilson. The two sailors … Continue reading &rarr;"
 categories:
   - "Current"

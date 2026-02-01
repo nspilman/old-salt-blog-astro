@@ -1,7 +1,7 @@
 ---
 title: "Racing of the Dhows in Abu Dhabi & the Volvo Ocean Racers"
 date: 2012-01-23T09:04:34
-slug: racing-of-the-dhows-in-abu-dhabi-the-volvo-ocean-racers
+slug: "racing-of-the-dhows-in-abu-dhabi-the-volvo-ocean-racers"
 excerpt: "The Volvo Ocean Race is off on the third leg from the Maldives to Sanya, China.  The Volvo fleet was again transported from Abu Dhabi by ship to avoid potential attacks by pirates.  During the fleet stop over in Abu Dhabi, a number of the Volvo sailors were … Continue reading &rarr;"
 categories:
   - "Current"

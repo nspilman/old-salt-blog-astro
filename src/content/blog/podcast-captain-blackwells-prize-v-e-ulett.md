@@ -1,7 +1,7 @@
 ---
-title: "Podcast: “Captain Blackwell’s Prize” by V.E. Ulett"
+title: "Podcast: \"Captain Blackwell’s Prize\" by V.E. Ulett"
 date: 2016-03-07T10:12:43
-slug: podcast-captain-blackwells-prize-v-e-ulett
+slug: "podcast-captain-blackwells-prize-v-e-ulett"
 excerpt: "The Fictional Café is publishing three audio excerpts from V.E. Ulett’s Captain Blackwell’s Prize as a podcast.  The first went up last Friday and the will continue for the next two Fridays, followed by an interview with the author on the fourth and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

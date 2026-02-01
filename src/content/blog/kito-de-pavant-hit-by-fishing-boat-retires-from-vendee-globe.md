@@ -1,7 +1,7 @@
 ---
 title: "Kito de Pavant Hit by Fishing Boat, Retires from Vendée Globe"
 date: 2012-11-12T16:52:51
-slug: kito-de-pavant-hit-by-fishing-boat-retires-from-vendee-globe
+slug: "kito-de-pavant-hit-by-fishing-boat-retires-from-vendee-globe"
 excerpt: "A collision with a fishing boat has taken Kito de Pavant, sailing for Groupe Bel, out of the Vendée Globe non-stop round-the-world single-handed yacht race, two days into the race and only a  day after Marc Guillemot was forced to drop out a keel failure on … Continue reading &rarr;"
 categories:
   - "Current"

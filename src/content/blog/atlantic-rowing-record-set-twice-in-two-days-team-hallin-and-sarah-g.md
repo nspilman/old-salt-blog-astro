@@ -1,7 +1,7 @@
 ---
 title: "Atlantic Rowing Record Set Twice in Two Days  –  Team Hallin and Sarah G"
 date: 2011-02-10T09:23:19
-slug: atlantic-rowing-record-set-twice-in-two-days-team-hallin-and-sarah-g
+slug: "atlantic-rowing-record-set-twice-in-two-days-team-hallin-and-sarah-g"
 excerpt: "On Monday, the six British rowers of Team Hallin have set a new world record for rowing the Atlantic Ocean.  The five men and one woman landed in Barbados after completing the 3,000 mile course from Tenerife in 31days and 23hours … Continue reading &rarr;"
 categories:
   - "Current"

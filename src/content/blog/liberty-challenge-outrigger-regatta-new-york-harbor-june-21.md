@@ -1,7 +1,7 @@
 ---
 title: "Liberty Challenge Outrigger Regatta, New York Harbor, June 21"
 date: 2014-06-19T16:09:24
-slug: liberty-challenge-outrigger-regatta-new-york-harbor-june-21
+slug: "liberty-challenge-outrigger-regatta-new-york-harbor-june-21"
 excerpt: "I will admit that it was news to me that the Hawaiian Airlines Liberty Challenge hosted by New York Outrigger is the largest outrigger regatta on the East Coast.  Over 400 athletes from around the world are participating.  According to … Continue reading &rarr;"
 categories:
   - "Current"

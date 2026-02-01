@@ -1,7 +1,7 @@
 ---
 title: "USS Roosevelt Update: Over 700 Infected, Sailors Test Positive Despite Isolation"
 date: 2020-04-22T15:31:54
-slug: uss-roosevelt-update-over-700-infected-sailors-test-positive-despite-isolation
+slug: "uss-roosevelt-update-over-700-infected-sailors-test-positive-despite-isolation"
 excerpt: "The plan was to start moving sailors who had completed a 14-day coronavirus quarantine back on the carrier USS Theodore Roosevelt beginning this Saturday. Politico reports that that plan has been delayed after a number of sailors tested positive for … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

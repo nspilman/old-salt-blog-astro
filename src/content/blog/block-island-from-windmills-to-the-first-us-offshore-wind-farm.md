@@ -1,7 +1,7 @@
 ---
 title: "Block Island: From Windmills to the First US Offshore Wind Farm"
 date: 2021-08-02T10:32:49
-slug: block-island-from-windmills-to-the-first-us-offshore-wind-farm
+slug: "block-island-from-windmills-to-the-first-us-offshore-wind-farm"
 excerpt: "We recently sailed to Block Island, a picturesque windswept island, roughly a dozen miles off the coast of Rhode Island. A haven for vacationers, Block Island also features the first commercial offshore wind farm in the United States. Five 6MW … Continue reading &rarr;"
 categories:
   - "Current"

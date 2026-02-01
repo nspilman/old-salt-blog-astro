@@ -1,7 +1,7 @@
 ---
 title: "Sea the City Introducing Hot Tub Boat Tours to New York Harbor"
 date: 2020-11-24T18:08:11
-slug: sea-the-city-introducing-hot-tub-boat-tours-to-new-york-harbor
+slug: "sea-the-city-introducing-hot-tub-boat-tours-to-new-york-harbor"
 excerpt: "Will Van Dorp, host of the Tugster blog, recently saw an odd craft on the Hudson River, heading up into the Morris Canal Big Basin toward Liberty Landing Marina. It appeared to be a catamaran with a rather blocky deckhouse … Continue reading &rarr;"
 categories:
   - "Current"

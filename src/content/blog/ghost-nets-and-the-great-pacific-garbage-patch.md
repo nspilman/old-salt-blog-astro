@@ -1,13 +1,13 @@
 ---
 title: "Ghost Nets and the Great Pacific Garbage Patch"
 date: 2018-03-30T15:31:40
-slug: ghost-nets-and-the-great-pacific-garbage-patch
-excerpt: "A new study published in Nature suggests that the Great Pacific Garbage Patch is growing “exponentially” and now spans roughly 617,763 square miles (1.6 million square km), or about three times the size of France. The garbage patch is an … Continue reading &rarr;"
+slug: "ghost-nets-and-the-great-pacific-garbage-patch"
+excerpt: "A new study published in Nature suggests that the Great Pacific Garbage Patch is growing \"exponentially\" and now spans roughly 617,763 square miles (1.6 million square km), or about three times the size of France. The garbage patch is an … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 author: "Rick Spilman"
-description: "A new study published in Nature suggests that the Great Pacific Garbage Patch is growing “exponentially” and now spans roughly 617,763 square miles (1.6 million square km), or about three times the size of France. The garbage patch is an … Continue reading &rarr;"
+description: "A new study published in Nature suggests that the Great Pacific Garbage Patch is growing \"exponentially\" and now spans roughly 617,763 square miles (1.6 million square km), or about three times the size of France. The garbage patch is an … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/ghostsnets.jpg)

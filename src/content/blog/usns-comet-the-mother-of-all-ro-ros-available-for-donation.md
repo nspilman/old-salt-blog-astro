@@ -1,8 +1,8 @@
 ---
-title: "USNS Comet “The Mother of All Ro-Ros” Available for Donation"
+title: "USNS Comet \"The Mother of All Ro-Ros\" Available for Donation"
 date: 2014-04-28T14:39:00
-slug: usns-comet-the-mother-of-all-ro-ros-available-for-donation
-excerpt: "Would the world’s first purpose-built oceangoing roll-on/roll-off ship make a good museum? The Maritime Administration (MARAD) is offering the USNS Comet  to a qualified public and non-profit organization for use as a memorial, a museum and/or in “other non-commercial enterprises.” Built at … Continue reading &rarr;"
+slug: "usns-comet-the-mother-of-all-ro-ros-available-for-donation"
+excerpt: "Would the world’s first purpose-built oceangoing roll-on/roll-off ship make a good museum? The Maritime Administration (MARAD) is offering the USNS Comet  to a qualified public and non-profit organization for use as a memorial, a museum and/or in \"other non-commercial enterprises.\" Built at … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -14,7 +14,7 @@ tags:
   - "oceangoing roll-on/roll-off ship"
   - "USNS Comet"
 author: "Rick Spilman"
-description: "Would the world’s first purpose-built oceangoing roll-on/roll-off ship make a good museum? The Maritime Administration (MARAD) is offering the USNS Comet  to a qualified public and non-profit organization for use as a memorial, a museum and/or in “other non-commercial enterprises.” Built at … Continue reading &rarr;"
+description: "Would the world’s first purpose-built oceangoing roll-on/roll-off ship make a good museum? The Maritime Administration (MARAD) is offering the USNS Comet  to a qualified public and non-profit organization for use as a memorial, a museum and/or in \"other non-commercial enterprises.\" Built at … Continue reading &rarr;"
 ---
 
 ![Comet_T-AK-269](http://www.oldsaltblog.com/wp-content/uploads/2014/04/Comet_T-AK-269.jpg)Would the world’s first purpose-built oceangoing roll-on/roll-off ship make a good museum? The [Maritime Administration](https://www.federalregister.gov/articles/2014/04/07/2014-07671/ex-usns-comet-available-for-donation) (MARAD) is offering the [USNS *Comet*](http://www.marad.dot.gov/ships_shipping_landing_page/Ships_History/Comet.htm)  to a qualified public and non-profit organization for use as a memorial, a museum and/or in “other non-commercial enterprises.”

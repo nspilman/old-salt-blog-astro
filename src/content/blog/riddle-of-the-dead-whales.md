@@ -1,7 +1,7 @@
 ---
 title: "Riddle of the Dead Whales"
 date: 2010-03-30T08:01:56
-slug: riddle-of-the-dead-whales
+slug: "riddle-of-the-dead-whales"
 excerpt: "Disturbing news from Patagonia: Riddle of the dead whales MORE than 300 southern right whales, most of them young calves, have been found dead in the past five years in the waters off Argentina’s Patagonian coast, one of their most … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Weird Beachcombing News – Beach Rocks Set Woman’s Shorts On Fire"
 date: 2012-05-26T07:55:20
-slug: weird-beach-combing-news-beach-rocks-set-womans-shorts-on-fire
+slug: "weird-beach-combing-news-beach-rocks-set-womans-shorts-on-fire"
 excerpt: "Not quite too sure what to make of this. Of all sports, beachcombing seems like one of the safest.  Apparently, a woman, beachcombing with her family on a San Clemente Beach in Southern California, pocketed a few rocks which may have contained … Continue reading &rarr;"
 categories:
   - "Current"

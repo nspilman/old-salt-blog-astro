@@ -1,7 +1,7 @@
 ---
 title: "Rear Admiral Nunan First Woman Appointed as USMMA Superintendent — Fresh Start or Glass Cliff?"
 date: 2022-11-14T18:26:59
-slug: rear-admiral-nunan-first-woman-appointed-as-usmma-superintendent-fresh-start-or-glass-cliff
+slug: "rear-admiral-nunan-first-woman-appointed-as-usmma-superintendent-fresh-start-or-glass-cliff"
 excerpt: "Congratulations to Rear Admiral Joanna Nunan, a retired US Coast Guard two-star admiral, recently appointed to be the superintendent of the US Merchant Marine Academy at King’s Point, NY, the first woman appointed as superintendent in the academy’s eight-decade history.  … Continue reading &rarr;"
 categories:
   - "Current"

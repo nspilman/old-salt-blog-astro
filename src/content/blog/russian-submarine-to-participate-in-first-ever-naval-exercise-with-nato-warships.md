@@ -1,7 +1,7 @@
 ---
 title: "Russian submarine to participate in first-ever naval exercise with NATO warships"
 date: 2011-04-26T10:25:32
-slug: russian-submarine-to-participate-in-first-ever-naval-exercise-with-nato-warships
+slug: "russian-submarine-to-participate-in-first-ever-naval-exercise-with-nato-warships"
 excerpt: "A sign of changing times.  A Russian submarine will be participating in a NATO undersea rescue exercise off the Spanish coast scheduled for next month. Russian submarine to participate in first-ever naval exercise with NATO warships … Continue reading &rarr;"
 categories:
   - "Current"

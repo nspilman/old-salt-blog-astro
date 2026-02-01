@@ -1,7 +1,7 @@
 ---
 title: "Video of Navy Ship Being Swarmed by UFOs/UAPs"
 date: 2021-06-05T08:38:55
-slug: video-of-navy-ship-being-swarmed-by-ufos-uaps
+slug: "video-of-navy-ship-being-swarmed-by-ufos-uaps"
 excerpt: "Something very strange took place around the middle of July 2019 off the coast of California, near San Diego. Leaked radar images and video from the USS Omaha show unidentified objects swarming around the ship, visible on several sensor systems.  … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: Death on the UC3 Nautilus  — Madsen Claims Wall Killed in Accident"
 date: 2017-09-07T09:00:11
-slug: update-death-uc3-nautilus-madsen-claims-wall-killed-accident
+slug: "update-death-uc3-nautilus-madsen-claims-wall-killed-accident"
 excerpt: "On August 10th, inventor Peter Madsen took Swedish journalist Kim Wall on a trip aboard his private submarine UC3 Nautilus in Copenhagen harbor as part of an interview. The submarine sank under mysterious circumstances. Madsen was rescued but Wall disappeared. Madsen initially … Continue reading &rarr;"
 categories:
   - "Current"

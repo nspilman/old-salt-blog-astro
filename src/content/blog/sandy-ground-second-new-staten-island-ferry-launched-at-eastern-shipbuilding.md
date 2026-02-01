@@ -1,7 +1,7 @@
 ---
 title: "Sandy Ground, Second New Staten Island Ferry Launched at Eastern Shipbuilding"
 date: 2020-07-05T10:23:30
-slug: sandy-ground-second-new-staten-island-ferry-launched-at-eastern-shipbuilding
+slug: "sandy-ground-second-new-staten-island-ferry-launched-at-eastern-shipbuilding"
 excerpt: "On Friday, June 26, 2020, Eastern Shipbuilding Group launched the Sandy Ground, the second of three new 4,500-passenger ferries for New York City’s Staten Island Ferry system. The Ollis Class ferries will be double-ended, with an overall length of 320 feet, … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

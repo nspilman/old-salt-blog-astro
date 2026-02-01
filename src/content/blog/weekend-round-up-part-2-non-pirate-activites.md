@@ -1,7 +1,7 @@
 ---
 title: "Weekend Round Up Part 2 – Non Pirate Activites"
 date: 2011-09-09T16:06:25
-slug: weekend-round-up-part-2-non-pirate-activites
+slug: "weekend-round-up-part-2-non-pirate-activites"
 excerpt: "For those of a non-piratical bent there is still a lot going on this weekend. The Yonkers Riverfest 2011 will be held tomorrow just a bit up the river from New York City.    The schooner A.J. Meerwald  will be offering … Continue reading &rarr;"
 categories:
   - "Current"

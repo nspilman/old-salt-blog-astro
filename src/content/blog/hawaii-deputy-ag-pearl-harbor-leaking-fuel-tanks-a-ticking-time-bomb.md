@@ -1,7 +1,7 @@
 ---
-title: "Hawaii Deputy AG: Pearl Harbor Leaking Fuel Tanks a “Ticking Time Bomb”"
+title: "Hawaii Deputy AG: Pearl Harbor Leaking Fuel Tanks a \"Ticking Time Bomb\""
 date: 2021-12-30T17:14:22
-slug: hawaii-deputy-ag-pearl-harbor-leaking-fuel-tanks-a-ticking-time-bomb
+slug: "hawaii-deputy-ag-pearl-harbor-leaking-fuel-tanks-a-ticking-time-bomb"
 excerpt: "We recently posted about how on the 80th anniversary of the attack on Pearl Harbor, over 1,000 military families have been forced from their homes and suffered illness by drinking water apparently contaminated by petroleum from a leaking, World War II … Continue reading &rarr;"
 categories:
   - "Current"

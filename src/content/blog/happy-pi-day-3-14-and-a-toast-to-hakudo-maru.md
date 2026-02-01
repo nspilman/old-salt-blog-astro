@@ -1,7 +1,7 @@
 ---
 title: "Happy Pi Day (3.14) and a Toast to Hakudo Maru"
 date: 2010-03-14T11:27:21
-slug: happy-pi-day-3-14-and-a-toast-to-hakudo-maru
+slug: "happy-pi-day-3-14-and-a-toast-to-hakudo-maru"
 excerpt: "Some call today Pi day, as the first three digits of the date (3.14) are the first three digits of the constant pi used to calculate the circumference and area of a circle.   Which makes it a good day to raise a toast … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

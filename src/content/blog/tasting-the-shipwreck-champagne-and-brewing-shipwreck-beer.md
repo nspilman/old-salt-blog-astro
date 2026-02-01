@@ -1,7 +1,7 @@
 ---
 title: "Tasting the Shipwreck Champagne and Brewing Shipwreck Beer"
 date: 2010-11-22T15:26:35
-slug: tasting-the-shipwreck-champagne-and-brewing-shipwreck-beer
+slug: "tasting-the-shipwreck-champagne-and-brewing-shipwreck-beer"
 excerpt: "Last July, we posted about Baltic Bubbly – ‘World’s oldest champagne’, bottles of champagne thought to pre-date the French Revolution found in a shipwreck on the Baltic seabed.  Recently there was a tasting of one of the bottles of the historic champagne … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

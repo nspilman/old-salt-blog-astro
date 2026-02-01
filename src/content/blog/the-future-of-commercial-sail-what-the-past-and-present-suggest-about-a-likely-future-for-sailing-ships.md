@@ -1,8 +1,8 @@
 ---
 title: "The Future of Commercial Sail – What the Past and Present Suggest about a Likely Future For Sailing Ships"
 date: 2013-06-07T14:59:51
-slug: the-future-of-commercial-sail-what-the-past-and-present-suggest-about-a-likely-future-for-sailing-ships
-excerpt: "For those near New York harbor next Monday, I will be giving a presentation on “The Future of Commercial Sail” at the monthly New York City Shiplore meeting on Monday, June 10th at 7:30 PM at  79 Walker Street, 5th … Continue reading &rarr;"
+slug: "the-future-of-commercial-sail-what-the-past-and-present-suggest-about-a-likely-future-for-sailing-ships"
+excerpt: "For those near New York harbor next Monday, I will be giving a presentation on \"The Future of Commercial Sail\" at the monthly New York City Shiplore meeting on Monday, June 10th at 7:30 PM at  79 Walker Street, 5th … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Commercial Sail"
   - "Shiplore"
 author: "Rick Spilman"
-description: "For those near New York harbor next Monday, I will be giving a presentation on “The Future of Commercial Sail” at the monthly New York City Shiplore meeting on Monday, June 10th at 7:30 PM at  79 Walker Street, 5th … Continue reading &rarr;"
+description: "For those near New York harbor next Monday, I will be giving a presentation on \"The Future of Commercial Sail\" at the monthly New York City Shiplore meeting on Monday, June 10th at 7:30 PM at  79 Walker Street, 5th … Continue reading &rarr;"
 ---
 
 ![beamon1](http://www.oldsaltblog.com/wp-content/uploads/2013/06/beamon1.jpg)For those near New York harbor next Monday, I will be giving a presentation on “*The Future of Commercial Sail*” at the monthly New York City Shiplore meeting on Monday, June 10th at 7:30 PM at  79 Walker Street, 5th floor, in Manhattan.

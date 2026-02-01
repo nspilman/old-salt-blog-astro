@@ -1,7 +1,7 @@
 ---
 title: "Irish Beach Reappears Almost Overnight After Being Washed Away 33 Years Ago"
 date: 2017-05-10T09:00:41
-slug: irish-beach-reappears-almost-overnight-after-being-washed-away-33-years-ago
+slug: "irish-beach-reappears-almost-overnight-after-being-washed-away-33-years-ago"
 excerpt: "The lost beach of Achill Island has returned after being gone for 33 years. Achill Island’s Dooagh Beach was a sand-covered strand until the summer of 1984 when a series of storms washed all the sand away, leaving a bare and … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

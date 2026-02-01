@@ -1,7 +1,7 @@
 ---
 title: "Empress of China — Opening Trade With China in 1784"
 date: 2025-05-04T16:44:35
-slug: empress-of-china-opening-trade-with-china-in-1784
+slug: "empress-of-china-opening-trade-with-china-in-1784"
 excerpt: "Given the economic damage caused by needless trade wars, it is worthwhile to recall the Empress of China, the ship that opened trade with China, the United States’ first trading partner. The new nation had won its independence from Great Britain but had … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Culture Watch – More Sharknado & Mermaids as the New Vampires"
 date: 2013-08-03T16:18:42
-slug: culture-watch-sharks-mermaids-as-the-new-vampires
+slug: "culture-watch-sharks-mermaids-as-the-new-vampires"
 excerpt: "It is a strange world out there. We have previously posted about Sharknado, which recently caused quite a stir on Twitter and other social networking sites. A sequel is planned, apparently, this time set in New York. I am not … Continue reading &rarr;"
 categories:
   - "Current"

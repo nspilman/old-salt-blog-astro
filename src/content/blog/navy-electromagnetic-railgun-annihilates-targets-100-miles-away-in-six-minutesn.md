@@ -1,7 +1,7 @@
 ---
 title: "Navy Electromagnetic Railgun Annihilates Targets 100 Miles Away In Six Minutes"
 date: 2010-12-11T08:37:03
-slug: navy-electromagnetic-railgun-annihilates-targets-100-miles-away-in-six-minutesn
+slug: "navy-electromagnetic-railgun-annihilates-targets-100-miles-away-in-six-minutesn"
 excerpt: "This is fascinating and terrifying at the same time.  The US Navy is testing an electromagnetic railgun capable of hitting a target 100 miles away. Navy Electromagnetic Railgun Annihilates Targets 100 Miles Away In Six Minutes In the near future, US Navy ships … Continue reading &rarr;"
 categories:
   - "Current"

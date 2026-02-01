@@ -1,7 +1,7 @@
 ---
 title: "Swedish Navy Returns to Once-Secret Muskö Underground Naval Base"
 date: 2019-10-15T15:53:09
-slug: swedish-navy-returns-to-once-secret-musko-underground-naval-base
+slug: "swedish-navy-returns-to-once-secret-musko-underground-naval-base"
 excerpt: "The Swedish Navy’s headquarters is returning to a vast underground naval base beneath Muskö in the Stockholm Archipelago in response to a perceived threat of a Russian attack. The vast underground cold war fortress can shelter warships and submarines and … Continue reading &rarr;"
 categories:
   - "Current"

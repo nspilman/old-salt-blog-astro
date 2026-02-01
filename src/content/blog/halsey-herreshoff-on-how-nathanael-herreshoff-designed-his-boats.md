@@ -1,7 +1,7 @@
 ---
 title: "Halsey Herreshoff on How Nathanael Herreshoff  Designed His Boats"
 date: 2015-10-14T09:47:35
-slug: halsey-herreshoff-on-how-nathanael-herreshoff-designed-his-boats
+slug: "halsey-herreshoff-on-how-nathanael-herreshoff-designed-his-boats"
 excerpt: "Yacht designer Halsey Herreshoff at the Herreshoff Marine Museum in Bristol, Rhode Island, describing how his grandfather Nathanael Greene Herreshoff carved rather than drew the boats that he designed.  The more interesting question may not be how Captain Nat carved … Continue reading &rarr;"
 categories:
   - "History"

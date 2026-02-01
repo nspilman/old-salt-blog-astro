@@ -1,7 +1,7 @@
 ---
 title: "Jonathan Atkin’s Hero Project on Display on Historic Lighthouse Tender Lilac"
 date: 2014-06-10T14:16:36
-slug: jonathan-atkins-hero-project-on-display-on-historic-lighthouse-tender-lilac
+slug: "jonathan-atkins-hero-project-on-display-on-historic-lighthouse-tender-lilac"
 excerpt: "The historic lighthouse tender Lilac is celebrating the Summer season with a exhibition of Jonathan Atkin’s Hero Project.  Hero Project is a selection from Jonathan’s on-going work-in-progress collaboration with dance artists aboard historic ships.  His mission is to increase visibility of our maritime … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

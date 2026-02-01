@@ -1,7 +1,7 @@
 ---
 title: "Waveline Magnet — Prototype Undulating Wave Energy Converter"
 date: 2022-09-04T10:41:50
-slug: waveline-magnet-prototype-undulating-wave-energy-converter
+slug: "waveline-magnet-prototype-undulating-wave-energy-converter"
 excerpt: "Sea Wave Energy Ltd, a Cyprus and UK-based R&D startup, has been working for the last decade to develop the world’s most efficient, low-cost wave energy converter.  Earlier this year, the company unveiled the prototype called the Waveline Magnet, which … Continue reading &rarr;"
 categories:
   - "Current"

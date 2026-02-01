@@ -1,7 +1,7 @@
 ---
 title: "Update: Dept. of Transportation Issues Rules to Protect Cadets from Sexual Assaults at Sea"
 date: 2021-12-17T18:31:49
-slug: update-dept-of-transportation-issues-rules-to-protect-cadets-from-sexual-assaults-at-sea
+slug: "update-dept-of-transportation-issues-rules-to-protect-cadets-from-sexual-assaults-at-sea"
 excerpt: "In early November, we posted that the United States Maritime Academy at King’s Point had paused Sea Year, a program that sent cadets to sea aboard commercial ships, after a female midshipman at the school shared an account in September of … Continue reading &rarr;"
 categories:
   - "Current"

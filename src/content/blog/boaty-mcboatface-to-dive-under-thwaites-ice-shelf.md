@@ -1,7 +1,7 @@
 ---
 title: "Boaty McBoatface to Dive Under Thwaites Ice Shelf"
 date: 2021-12-15T18:15:03
-slug: boaty-mcboatface-to-dive-under-thwaites-ice-shelf
+slug: "boaty-mcboatface-to-dive-under-thwaites-ice-shelf"
 excerpt: "Yesterday, we posted a grim post The Threat from Thwaites, Antarctica’s Riskiest Glacier about the potential collapse of the glacier’s ice shelf within a few years resulting in a rise in global sea levels by several feet. While researching the … Continue reading &rarr;"
 categories:
   - "Current"

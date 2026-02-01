@@ -1,15 +1,15 @@
 ---
 title: "Update: Supermoon & the Blame Game"
 date: 2012-05-16T13:58:39
-slug: update-supermoon-the-blame-game
-excerpt: "We recently posted “Beware the Supermoon! Wonder What They Will Blame on it This Time?”   We noted that previous perigean full moons, when the moon is closest in its orbit to the earth, have been blamed for ship groundings and … Continue reading &rarr;"
+slug: "update-supermoon-the-blame-game"
+excerpt: "We recently posted \"Beware the Supermoon! Wonder What They Will Blame on it This Time?\"   We noted that previous perigean full moons, when the moon is closest in its orbit to the earth, have been blamed for ship groundings and … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
   - "supermoon"
 author: "Rick Spilman"
-description: "We recently posted “Beware the Supermoon! Wonder What They Will Blame on it This Time?”   We noted that previous perigean full moons, when the moon is closest in its orbit to the earth, have been blamed for ship groundings and … Continue reading &rarr;"
+description: "We recently posted \"Beware the Supermoon! Wonder What They Will Blame on it This Time?\"   We noted that previous perigean full moons, when the moon is closest in its orbit to the earth, have been blamed for ship groundings and … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/05/fullmoon_lick_big.jpg)We recently posted “[Beware the Supermoon! Wonder What They Will Blame on it This Time?](http://www.oldsaltblog.com/2012/05/03/beware-the-supermoon-wonder-what-they-will-blame-on-it-this-time/)”   We noted that previous perigean full moons, when the moon is closest in its orbit to the earth, have been blamed for ship groundings and even the sinking of the *Titanic*.  Both claims are more than a bit silly.

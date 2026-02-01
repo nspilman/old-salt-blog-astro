@@ -1,7 +1,7 @@
 ---
 title: "Three Merchant Ships Hit by Russian Bombs & Missiles Near Ukrainian Port of Odessa"
 date: 2022-02-25T19:25:08
-slug: three-merchant-ships-hit-by-russian-bombs-missiles-near-ukrainian-port-of-odessa
+slug: "three-merchant-ships-hit-by-russian-bombs-missiles-near-ukrainian-port-of-odessa"
 excerpt: "Reuters is reporting that Russian warships shelled Millennial Spirit, a Moldovan-flagged chemical tanker, and Namura Queen, a Panamanian-flagged cargo ship due to load grain near Odessa port in the Black Sea on Friday, one day after Russia began a full-scale invasion … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

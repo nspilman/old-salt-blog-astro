@@ -1,8 +1,8 @@
 ---
 title: "Update: SS Badger, America’s Last Coal Fired Ship No Longer Dumping Ash"
 date: 2014-10-28T15:43:53
-slug: update-ss-badger-americas-last-coal-fired-ship-no-longer-dumping-ash
-excerpt: "Next season, the SS Badger may no longer be the “the filthiest ship on the Great Lakes.”  With the end of the current sailing season, SS Badger will no longer dump coal ash into Lake Michigan.  For years, there has been … Continue reading &rarr;"
+slug: "update-ss-badger-americas-last-coal-fired-ship-no-longer-dumping-ash"
+excerpt: "Next season, the SS Badger may no longer be the \"the filthiest ship on the Great Lakes.\"  With the end of the current sailing season, SS Badger will no longer dump coal ash into Lake Michigan.  For years, there has been … Continue reading &rarr;"
 categories:
   - "Current"
   - "Ships"

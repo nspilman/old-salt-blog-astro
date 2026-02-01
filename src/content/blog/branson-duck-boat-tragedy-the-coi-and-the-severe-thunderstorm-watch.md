@@ -1,7 +1,7 @@
 ---
 title: "Branson Duck Boat Tragedy — the COI and the Severe Thunderstorm Watch"
 date: 2018-08-02T08:23:08
-slug: branson-duck-boat-tragedy-the-coi-and-the-severe-thunderstorm-watch
+slug: "branson-duck-boat-tragedy-the-coi-and-the-severe-thunderstorm-watch"
 excerpt: "The Coast Guard has begun a high-level investigation into the recent duck boat capsize and sinking on July 19th, which cost the lives of 17 aboard.  The boat, designated as Stretch Duck 07,  which sank on Table Rock Lake, near Branson, … Continue reading &rarr;"
 categories:
   - "Current"

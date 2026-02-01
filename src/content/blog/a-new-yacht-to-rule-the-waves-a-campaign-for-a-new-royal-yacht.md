@@ -1,7 +1,7 @@
 ---
 title: "A New Yacht to Rule the Waves?   A Campaign for a New Royal Yacht"
 date: 2011-11-14T15:50:10
-slug: a-new-yacht-to-rule-the-waves-a-campaign-for-a-new-royal-yacht
+slug: "a-new-yacht-to-rule-the-waves-a-campaign-for-a-new-royal-yacht"
 excerpt: "A yacht to rule the waves! Two weeks ago the Mail launched a campaign for a new Royal Yacht. Here we unveil the truly majestic blueprint Since 1660, Great Britain has had 83 royal yachts.  The last was the HMY Britannia, … Continue reading &rarr;"
 categories:
   - "Current"

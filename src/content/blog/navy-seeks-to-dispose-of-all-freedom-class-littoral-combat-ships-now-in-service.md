@@ -1,7 +1,7 @@
 ---
 title: "Navy Seeks To Dispose of All Freedom-Class Littoral Combat Ships Now in Service"
 date: 2022-04-08T16:10:55
-slug: navy-seeks-to-dispose-of-all-freedom-class-littoral-combat-ships-now-in-service
+slug: "navy-seeks-to-dispose-of-all-freedom-class-littoral-combat-ships-now-in-service"
 excerpt: "USNI News reports that the nine Freedom-class Littoral Combat Ships (LCS) currently in Navy service – the youngest of which commissioned in 2020 – have been marked for disposal as part of the Department of Defense’s Fiscal Year 2023 budget … Continue reading &rarr;"
 categories:
   - "Current"

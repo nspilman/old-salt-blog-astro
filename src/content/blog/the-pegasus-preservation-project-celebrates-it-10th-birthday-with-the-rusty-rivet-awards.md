@@ -1,7 +1,7 @@
 ---
 title: "The Pegasus Preservation Project Celebrates it 10th Birthday with the Rusty Rivet Awards"
 date: 2010-12-01T13:10:07
-slug: the-pegasus-preservation-project-celebrates-it-10th-birthday-with-the-rusty-rivet-awards
+slug: "the-pegasus-preservation-project-celebrates-it-10th-birthday-with-the-rusty-rivet-awards"
 excerpt: "The tug Pegasus was built in 1907.  Her last major refit was in 1953 when her steam engine was removed and a diesel engine installed.   Tonight the Pegasus Preservation Project is celebrating the 10th year of restoration of the Tug … Continue reading &rarr;"
 categories:
   - "Current"

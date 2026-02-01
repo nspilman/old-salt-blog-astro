@@ -1,7 +1,7 @@
 ---
 title: "Fantastic Photos from the Historical Seas Tall Ships Regatta"
 date: 2010-05-24T07:59:18
-slug: fantastic-photos-from-the-historical-seas-tall-ships-regatta
+slug: "fantastic-photos-from-the-historical-seas-tall-ships-regatta"
 excerpt: "Fantastic photos of the fleet alongside in Varna, Bulgaria after the first race in the Historical Seas Tall Ships Regatta.   Click on the photo above to see more. … Continue reading &rarr;"
 categories:
   - "Current"

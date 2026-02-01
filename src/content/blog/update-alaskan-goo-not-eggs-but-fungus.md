@@ -1,8 +1,8 @@
 ---
 title: "Update: Alaskan Goo, not Eggs but Fungus"
 date: 2011-08-20T21:23:35
-slug: update-alaskan-goo-not-eggs-but-fungus
-excerpt: "Just over a week ago we posted about a a bright orange jelly or “goo” that floated up on the beaches of Kivalina, a remote Alaskan village of just over 400 residents.  At the time scientists from the National Oceanic and Atmospheric … Continue reading &rarr;"
+slug: "update-alaskan-goo-not-eggs-but-fungus"
+excerpt: "Just over a week ago we posted about a a bright orange jelly or \"goo\" that floated up on the beaches of Kivalina, a remote Alaskan village of just over 400 residents.  At the time scientists from the National Oceanic and Atmospheric … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "NOAA"
   - "spores"
 author: "Rick Spilman"
-description: "Just over a week ago we posted about a a bright orange jelly or “goo” that floated up on the beaches of Kivalina, a remote Alaskan village of just over 400 residents.  At the time scientists from the National Oceanic and Atmospheric … Continue reading &rarr;"
+description: "Just over a week ago we posted about a a bright orange jelly or \"goo\" that floated up on the beaches of Kivalina, a remote Alaskan village of just over 400 residents.  At the time scientists from the National Oceanic and Atmospheric … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/08/orange_goo_1_606.jpg)Just over a week ago [we posted about a a bright orange jelly or “goo” that floated up on the beaches of Kivalina](http://www.oldsaltblog.com/wp-content/uploads/2011/08/orange_goo_1_606.jpghttp://), a remote Alaskan village of just over 400 residents.  At the time scientists from the National Oceanic and Atmospheric Administration (NOAA) determined that the goo was not man-made but was rather millions of microscopic invertebrate eggs, filled with fatty droplets.   The only thing that they couldn’t say for sure was which specie of invertebrate the eggs were from.   Now NOAA scientists have backtracked and are now saying that the “eggs” are not eggs at all but a type of fungus. And exactly which type of fungus is it?  The scientists are not sure.  Why aren’t we surprised?

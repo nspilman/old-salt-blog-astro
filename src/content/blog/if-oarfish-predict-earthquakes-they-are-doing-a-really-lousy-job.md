@@ -1,7 +1,7 @@
 ---
 title: "If Oarfish Predict Earthquakes, They are Doing a Really Lousy Job"
 date: 2013-10-26T10:02:07
-slug: if-oarfish-predict-earthquakes-they-are-doing-a-really-lousy-job
+slug: "if-oarfish-predict-earthquakes-they-are-doing-a-really-lousy-job"
 excerpt: "Last week, two rare oarfish washed up (or in the case of the first was dragged up) on the shores of Southern California.  Yesterday, Japan was stuck by a 7.3 magnitude earthquake.  A coincidence?  It seems that there is Japanese … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

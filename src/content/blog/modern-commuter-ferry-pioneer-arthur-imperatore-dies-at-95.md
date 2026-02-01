@@ -1,7 +1,7 @@
 ---
 title: "Modern Commuter Ferry Pioneer Arthur Imperatore Dies at 95"
 date: 2020-11-20T12:10:49
-slug: modern-commuter-ferry-pioneer-arthur-imperatore-dies-at-95
+slug: "modern-commuter-ferry-pioneer-arthur-imperatore-dies-at-95"
 excerpt: "Arthur E. Imperatore Sr., an entrepreneur who built a successful New York City commuter ferry system, died Nov. 18 at the age of 95. Imperatore founded NY Waterway in 1986 in Weehawken, NJ with a single route across the Hudson … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

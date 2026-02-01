@@ -1,7 +1,7 @@
 ---
 title: "Sailing Around The World With Solar"
 date: 2010-02-26T08:01:30
-slug: sailing-around-the-world-with-solar
+slug: "sailing-around-the-world-with-solar"
 excerpt: "The windjammers liked the higher latitudes where the winds are stronger. This solar craft will try to still as close to the equator as possible to maximize the sunshine.  The catamaran reminds me of something out of Star Trek, perhaps a Romulan transport ship. Sailing Around The World … Continue reading &rarr;"
 categories:
   - "Current"

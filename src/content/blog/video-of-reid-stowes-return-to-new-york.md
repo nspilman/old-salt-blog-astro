@@ -1,7 +1,7 @@
 ---
 title: "Video of Reid Stowe’s Return to New York"
 date: 2010-06-17T21:06:54
-slug: video-of-reid-stowes-return-to-new-york
+slug: "video-of-reid-stowes-return-to-new-york"
 excerpt: "It was a fun family event, in many respects. I showed up at the southwest corner of Manhattan,  where I thought Reid Stowe on the schooner Anne would sail by and found a group of Stowe’s family and friends had … Continue reading &rarr;"
 categories:
   - "Current"

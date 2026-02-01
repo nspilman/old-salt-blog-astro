@@ -1,7 +1,7 @@
 ---
 title: "Jeffboat, 184 Year Old Shipyard, Shutting Down"
 date: 2018-03-28T15:34:07
-slug: jeffboat-184-year-old-shipyard-shutting-down
+slug: "jeffboat-184-year-old-shipyard-shutting-down"
 excerpt: "Shipbuilding is a capital intensive and highly competitive business.  Remarkably, Jeffboat of Jeffersonville, Indiana, lasted for 184 years. Now, the longest continually operated inland shipyard in the U.S., is reported to be shutting down.  Founded in 1834 on the banks of … Continue reading &rarr;"
 categories:
   - "Current"

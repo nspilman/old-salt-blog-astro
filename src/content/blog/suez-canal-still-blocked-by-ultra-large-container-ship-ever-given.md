@@ -1,7 +1,7 @@
 ---
 title: "Suez Canal Still Blocked by Ultra-Large Container Ship Ever Given"
 date: 2021-03-25T10:10:16
-slug: suez-canal-still-blocked-by-ultra-large-container-ship-ever-given
+slug: "suez-canal-still-blocked-by-ultra-large-container-ship-ever-given"
 excerpt: "Despite optimistic estimates yesterday, the Suez Canal remains blocked in both direction by the ultra-large container ship Ever Given. The 20,000 TEU, 400-meter long ship, operated by Evergreen Marine Corp, ran aground during a dust storm and high winds on … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

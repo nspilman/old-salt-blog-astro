@@ -1,7 +1,7 @@
 ---
 title: "BOUNTY Reminiscences by John Fitzhugh Millar"
 date: 2012-11-19T15:26:35
-slug: bounty-reminiscences-by-john-fitzhugh-millar
+slug: "bounty-reminiscences-by-john-fitzhugh-millar"
 excerpt: "John Fitzhugh Millar is a historian, author, tall ship captain and the force behind the construction of the replica HMS Rose.  Here are his reminiscences of the HMS Bounty.  Reposted with permission of the author. BOUNTY Reminiscences by John Fitzhugh … Continue reading &rarr;"
 categories:
   - "Current"

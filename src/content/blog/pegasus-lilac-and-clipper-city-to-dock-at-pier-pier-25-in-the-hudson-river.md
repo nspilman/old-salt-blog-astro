@@ -1,7 +1,7 @@
 ---
 title: "Pegasus, Lilac and Clipper City to Dock at Pier Pier 25 in the Hudson River"
 date: 2011-04-29T14:35:43
-slug: pegasus-lilac-and-clipper-city-to-dock-at-pier-pier-25-in-the-hudson-river
+slug: "pegasus-lilac-and-clipper-city-to-dock-at-pier-pier-25-in-the-hudson-river"
 excerpt: "In January we posted that the Hudson River Park Trust was seeking proposals to dock historic vessels on the newly refurbished Pier 25 in the Hudson River off Tribecca.   Earlier this month the the Hudson River Park Trust announced … Continue reading &rarr;"
 categories:
   - "Current"

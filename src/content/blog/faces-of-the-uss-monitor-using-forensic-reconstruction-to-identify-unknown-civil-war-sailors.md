@@ -1,7 +1,7 @@
 ---
 title: "Faces of the USS Monitor – Using Forensic Reconstruction to Identify Unknown Civil War Sailors"
 date: 2012-03-06T11:53:17
-slug: faces-of-the-uss-monitor-using-forensic-reconstruction-to-identify-unknown-civil-war-sailors
+slug: "faces-of-the-uss-monitor-using-forensic-reconstruction-to-identify-unknown-civil-war-sailors"
 excerpt: "When the revolutionary ironclad warship USS Monitor sank off Cape Hatteras, NC during the Civil War, in December of 1862, 16 of her crew of 62 were lost.  One hundred and forty years later, in August of 2002, when the turret of … Continue reading &rarr;"
 categories:
   - "Current"

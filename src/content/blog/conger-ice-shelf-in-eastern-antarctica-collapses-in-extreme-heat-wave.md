@@ -1,7 +1,7 @@
 ---
 title: "Conger Ice Shelf in Eastern Antarctica Collapses in Extreme Heat Wave"
 date: 2022-03-27T10:35:27
-slug: conger-ice-shelf-in-eastern-antarctica-collapses-in-extreme-heat-wave
+slug: "conger-ice-shelf-in-eastern-antarctica-collapses-in-extreme-heat-wave"
 excerpt: "Reuters reports that an East Antarctica ice shelf almost the size of Los Angeles disintegrated this month following a period of extreme heat in the region, according to scientists. Satellite images show the 1,200 square-kilometer Conger Ice Shelf collapsed completely … Continue reading &rarr;"
 categories:
   - "Current"

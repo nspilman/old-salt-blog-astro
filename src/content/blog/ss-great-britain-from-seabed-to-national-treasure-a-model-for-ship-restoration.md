@@ -1,7 +1,7 @@
 ---
 title: "SS Great Britain : From Seabed to National Treasure – A Model for Ship Restoration?"
 date: 2010-07-06T17:55:30
-slug: ss-great-britain-from-seabed-to-national-treasure-a-model-for-ship-restoration
+slug: "ss-great-britain-from-seabed-to-national-treasure-a-model-for-ship-restoration"
 excerpt: "Forty years ago, on July 5th, 100,000 people lined the banks of the River Avon to witness the return of the SS Great Britain, or what was left of her.   After spending 37 years on the seabed in the Falklands, she was a rusting … Continue reading &rarr;"
 categories:
   - "Current"

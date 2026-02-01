@@ -1,8 +1,8 @@
 ---
 title: "Scientists Report Humpback Baby-Boom Off Antartica"
 date: 2018-05-10T14:25:24
-slug: scientists-report-humpback-baby-boom-off-antartica
-excerpt: "After posting about a terrible year for North Atlantic right whales, in which no new calves were spotted following breeding season, it is refreshing to see some good news about whales. Scientists have observed what is being described as a “baby-boom” among … Continue reading &rarr;"
+slug: "scientists-report-humpback-baby-boom-off-antartica"
+excerpt: "After posting about a terrible year for North Atlantic right whales, in which no new calves were spotted following breeding season, it is refreshing to see some good news about whales. Scientists have observed what is being described as a \"baby-boom\" among … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "baby boom"
   - "humpback whales"
 author: "Rick Spilman"
-description: "After posting about a terrible year for North Atlantic right whales, in which no new calves were spotted following breeding season, it is refreshing to see some good news about whales. Scientists have observed what is being described as a “baby-boom” among … Continue reading &rarr;"
+description: "After posting about a terrible year for North Atlantic right whales, in which no new calves were spotted following breeding season, it is refreshing to see some good news about whales. Scientists have observed what is being described as a \"baby-boom\" among … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/05/humpbacktail.jpg)After posting about a [terrible year for North Atlantic right whales](http://www.oldsaltblog.com/2018/02/terrible-year-north-atlantic-right-whale/), in which no new calves were spotted following breeding season, it is refreshing to see some good news about whales. Scientists have observed what is being described as a “[baby-boom](https://www.nytimes.com/2018/05/01/science/humpback-whale-antarctica.html)” among humpback whales in the Southern Ocean off Antarctica. The researchers are not entirely sure why, but female humpbacks, in recent years, have had high pregnancy rates and are giving birth to more calves.

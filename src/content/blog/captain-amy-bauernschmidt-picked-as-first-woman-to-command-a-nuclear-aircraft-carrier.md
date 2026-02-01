@@ -1,7 +1,7 @@
 ---
 title: "Captain Amy Bauernschmidt Picked as First Woman to Command a Nuclear Aircraft Carrier"
 date: 2020-12-10T09:59:10
-slug: captain-amy-bauernschmidt-picked-as-first-woman-to-command-a-nuclear-aircraft-carrier
+slug: "captain-amy-bauernschmidt-picked-as-first-woman-to-command-a-nuclear-aircraft-carrier"
 excerpt: "The US Navy has selected Captain Amy Bauernschmidt as the first woman to command a nuclear-powered aircraft carrier. Capt. Bauernschmidt was selected for the position by the fiscal year 2022 aviation major command screen board. It has not been announced … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Does Iran Have Any Conceivable Case for Seizing the Maersk Tigris?"
 date: 2015-05-04T10:02:57
-slug: does-iran-have-any-conceivable-case-for-seizing-the-maersk-tigris
-excerpt: "Does Iran have any conceivable case for seizing the Maersk Tigris?  The short answer is “no.” The slightly longer answer might be “absolutely not” or “under no circumstances.” Iran is claiming a decade old cargo dispute as the basis for … Continue reading &rarr;"
+slug: "does-iran-have-any-conceivable-case-for-seizing-the-maersk-tigris"
+excerpt: "Does Iran have any conceivable case for seizing the Maersk Tigris?  The short answer is \"no.\" The slightly longer answer might be \"absolutely not\" or \"under no circumstances.\" Iran is claiming a decade old cargo dispute as the basis for … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Diving the USS Oriskany — the Great Carrier Reef on Florida Panhandle Shipwreck Trail"
 date: 2018-07-01T09:18:57
-slug: uss-oriskany-the-great-carrier-reef-on-florida-panhandle-shipwreck-trail
+slug: "uss-oriskany-the-great-carrier-reef-on-florida-panhandle-shipwreck-trail"
 excerpt: "USS Oriskany is an Essex-class aircraft carrier completed after World War II. She served in both the Korean and the Vietnam wars. In 2006, the almost 900′ long  ship became the world’s largest artificial reef after being sunk 22 miles … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Why Stopping Ocean Plastic Dumping Matters — Are You Eating Plastic for Dinner?"
 date: 2015-10-27T17:40:12
-slug: why-stopping-ocean-plastic-dumping-matters-are-you-eating-plastic-for-dinner
+slug: "why-stopping-ocean-plastic-dumping-matters-are-you-eating-plastic-for-dinner"
 excerpt: "Recently, we posted that five nations were responsible for 60% of the plastic dumped in the world’s oceans. Why is plastic so destructive to the ocean environment? National Geographic put together the short animation below to explain all the damage … Continue reading &rarr;"
 categories:
   - "Current"

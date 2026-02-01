@@ -1,8 +1,8 @@
 ---
 title: "The Weird, Harmless & Occasionally Very Dangerous Ocean Sunfish"
 date: 2020-11-09T18:07:37
-slug: the-weird-harmless-occasionally-very-dangerous-ocean-sunfish
-excerpt: "Ocean sunfish are weird. One scientist who specializes in the fish described them as “looking like a mistake.”  They are the heaviest bony fish in the ocean, weighing between 545–2,205 lb. They look like a flattened silver disk. In English, … Continue reading &rarr;"
+slug: "the-weird-harmless-occasionally-very-dangerous-ocean-sunfish"
+excerpt: "Ocean sunfish are weird. One scientist who specializes in the fish described them as \"looking like a mistake.\"  They are the heaviest bony fish in the ocean, weighing between 545–2,205 lb. They look like a flattened silver disk. In English, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Wareham"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/sunfish.jpg"
 author: "Rick Spilman"
-description: "Ocean sunfish are weird. One scientist who specializes in the fish described them as “looking like a mistake.”  They are the heaviest bony fish in the ocean, weighing between 545–2,205 lb. They look like a flattened silver disk. In English, … Continue reading &rarr;"
+description: "Ocean sunfish are weird. One scientist who specializes in the fish described them as \"looking like a mistake.\"  They are the heaviest bony fish in the ocean, weighing between 545–2,205 lb. They look like a flattened silver disk. In English, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/sunfish.jpg)[Ocean sunfish](https://en.wikipedia.org/wiki/Ocean_sunfish) are weird. One scientist who specializes in the fish described them as “[looking like a mistake](https://youtu.be/6jCuoohMARY).”  They are the heaviest bony fish in the ocean, weighing between 545–2,205 lb.

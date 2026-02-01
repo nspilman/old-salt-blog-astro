@@ -1,7 +1,7 @@
 ---
 title: "Kirsten Neuschäfer Wins 2022 Golden Globe — First Woman to Win a Solo Round the World Race"
 date: 2023-04-28T16:15:12
-slug: kirsten-neuschafer-wins-2022-golden-globe-first-woman-to-win-a-solo-round-the-world-race
+slug: "kirsten-neuschafer-wins-2022-golden-globe-first-woman-to-win-a-solo-round-the-world-race"
 excerpt: "Congratulations to Kirsten Neuschäfer, winner of the 2022 Golden Globe Race. After 235 days at sea, the 39-year-old South African sailor crossed the finish line off Les Sables d’Olonne in France at 9pm CEST on Thursday, becoming the first woman … Continue reading &rarr;"
 categories:
   - "Current"

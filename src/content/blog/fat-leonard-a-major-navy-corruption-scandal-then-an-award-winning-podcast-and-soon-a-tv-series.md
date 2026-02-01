@@ -1,8 +1,8 @@
 ---
-title: "“Fat Leonard,”  a Major Navy Corruption Scandal, Then an Award Winning Podcast, and Soon a TV Series"
+title: "\"Fat Leonard,\"  a Major Navy Corruption Scandal, Then an Award Winning Podcast, and Soon a TV Series"
 date: 2022-06-23T20:01:10
-slug: fat-leonard-a-major-navy-corruption-scandal-then-an-award-winning-podcast-and-soon-a-tv-series
-excerpt: "The “Fat Leonard” corruption scandal has been described as “perhaps the worst national-security breach of its kind to hit the Navy since the end of the Cold War.” More than two dozen Naval officers have pleaded guilty to taking bribes … Continue reading &rarr;"
+slug: "fat-leonard-a-major-navy-corruption-scandal-then-an-award-winning-podcast-and-soon-a-tv-series"
+excerpt: "The \"Fat Leonard\" corruption scandal has been described as \"perhaps the worst national-security breach of its kind to hit the Navy since the end of the Cold War.\" More than two dozen Naval officers have pleaded guilty to taking bribes … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -18,7 +18,7 @@ tags:
   - "US Navy"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg"
 author: "Rick Spilman"
-description: "The “Fat Leonard” corruption scandal has been described as “perhaps the worst national-security breach of its kind to hit the Navy since the end of the Cold War.” More than two dozen Naval officers have pleaded guilty to taking bribes … Continue reading &rarr;"
+description: "The \"Fat Leonard\" corruption scandal has been described as \"perhaps the worst national-security breach of its kind to hit the Navy since the end of the Cold War.\" More than two dozen Naval officers have pleaded guilty to taking bribes … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/09/fl2.jpg)

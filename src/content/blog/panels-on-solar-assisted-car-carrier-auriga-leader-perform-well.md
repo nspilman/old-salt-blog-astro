@@ -1,7 +1,7 @@
 ---
 title: "Panels on Solar Assisted Car Carrier Auriga Leader Perform Well"
 date: 2009-09-15T14:43:29
-slug: panels-on-solar-assisted-car-carrier-auriga-leader-perform-well
+slug: "panels-on-solar-assisted-car-carrier-auriga-leader-perform-well"
 excerpt: "After four voyages the solar panels on the upper of the NYK car carrier Auriga Leader have performed better than was expected but  have also demonstrated how far there is to go in harnessing solar power. The ship has generated 32,300 … Continue reading &rarr;"
 categories:
   - "Current"

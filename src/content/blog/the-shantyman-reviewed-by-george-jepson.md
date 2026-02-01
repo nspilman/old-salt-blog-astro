@@ -1,8 +1,8 @@
 ---
 title: "The Shantyman, Quarterdeck Editor’s Choice, Reviewed by George Jepson"
 date: 2015-05-07T16:26:24
-slug: the-shantyman-reviewed-by-george-jepson
-excerpt: "Yesterday we posted an interview by George Jepson from the May/June issue of the McBooks Press newsletter “Quarterdeck.”  Here is Jepson’s review of my latest novel “The Shantyman” from the same issue. The Shantyman by Rick Spilman   George Anderson, retired from a … Continue reading &rarr;"
+slug: "the-shantyman-reviewed-by-george-jepson"
+excerpt: "Yesterday we posted an interview by George Jepson from the May/June issue of the McBooks Press newsletter \"Quarterdeck.\"  Here is Jepson’s review of my latest novel \"The Shantyman\" from the same issue. The Shantyman by Rick Spilman   George Anderson, retired from a … Continue reading &rarr;"
 categories:
   - "Newbooks"
   - "Reviews"
@@ -14,7 +14,7 @@ tags:
   - "Quarterdeck"
   - "The Shantyman"
 author: "Rick Spilman"
-description: "George Jepson's review of \"The Shantyman\" from the May/June issue of the McBooks Press newsletter “Quarterdeck.”"
+description: "George Jepson's review of \"The Shantyman\" from the May/June issue of the McBooks Press newsletter \"Quarterdeck.\""
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2015/02/shantymanthumbebook.jpg)](http://www.amazon.com/Shantyman-Rick-Spilman-ebook/dp/B00T57OQYA/ref=asap_bc?ie=UTF8)Yesterday we posted an interview by George Jepson from the May/June issue of the McBooks Press newsletter “[Quarterdeck](http://www.mcbooks.com/pdf/newsletter_b6ceb8c3b871c6eb265fdfc3874c0092.pdf).”  Here is Jepson’s review of my latest novel “The Shantyman” from the same issue.

@@ -1,8 +1,8 @@
 ---
 title: "Lieutenant Commander Fred Sherwood DSC & Bar RCNVR – Canadian WWII Submarine Commander"
 date: 2012-09-22T16:16:04
-slug: lieutenant-commander-fred-sherwood-dsc-bar-rcnvr-canadian-wwii-submarine-commander
-excerpt: "In our post about the passing of Bill King, we originally referred to him as the last surviving World War II submarine commander. Apparently, that is not the case.  We learned from Pat Barnhouse on the MarHist list that “Lieutenant Commander … Continue reading &rarr;"
+slug: "lieutenant-commander-fred-sherwood-dsc-bar-rcnvr-canadian-wwii-submarine-commander"
+excerpt: "In our post about the passing of Bill King, we originally referred to him as the last surviving World War II submarine commander. Apparently, that is not the case.  We learned from Pat Barnhouse on the MarHist list that \"Lieutenant Commander … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Canadian WWII Submarine Commander"
   - "Lieutenant Commander Fred Sherwood"
 author: "Rick Spilman"
-description: "In our post about the passing of Bill King, we originally referred to him as the last surviving World War II submarine commander. Apparently, that is not the case.  We learned from Pat Barnhouse on the MarHist list that “Lieutenant Commander … Continue reading &rarr;"
+description: "In our post about the passing of Bill King, we originally referred to him as the last surviving World War II submarine commander. Apparently, that is not the case.  We learned from Pat Barnhouse on the MarHist list that \"Lieutenant Commander … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/HMS_Spiteful.jpg)

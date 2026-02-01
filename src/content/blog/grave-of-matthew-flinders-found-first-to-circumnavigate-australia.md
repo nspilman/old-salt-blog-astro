@@ -1,7 +1,7 @@
 ---
 title: "Grave Of Matthew Flinders Found, First To Circumnavigate Australia"
 date: 2019-01-26T11:38:07
-slug: grave-of-matthew-flinders-found-first-to-circumnavigate-australia
+slug: "grave-of-matthew-flinders-found-first-to-circumnavigate-australia"
 excerpt: "Yesterday we posted about the replica of Captain Cook’s HMS Endeavour which will be circumnavigating Australia to commemorate the 250th-anniversary of Cook’s arrival. Some critics have noted that Captain Cook did not actually sail around Australia. Coincidentally and almost simultaneously, archaeologists in London … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Puma Yacht Mar Mostro Dismasted, Half of Volvo Fleet Out of Race"
 date: 2011-11-22T09:23:54
-slug: puma-yacht-mar-mostro-dismasted-half-of-volvo-fleet-out-of-race
-excerpt: "Havoc continues in the Volvo Ocean Race, an around-the-world race which bills itself as ” the world’s toughest sailing event.”  Three of the six boats to attempt the first leg of the race have withdrawn.  Two of the six boat fleet withdrew from … Continue reading &rarr;"
+slug: "puma-yacht-mar-mostro-dismasted-half-of-volvo-fleet-out-of-race"
+excerpt: "Havoc continues in the Volvo Ocean Race, an around-the-world race which bills itself as \" the world’s toughest sailing event.\"  Three of the six boats to attempt the first leg of the race have withdrawn.  Two of the six boat fleet withdrew from … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Puma"
   - "Volvo Ocean Race"
 author: "Rick Spilman"
-description: "Havoc continues in the Volvo Ocean Race, an around-the-world race which bills itself as ” the world’s toughest sailing event.”  Three of the six boats to attempt the first leg of the race have withdrawn.  Two of the six boat fleet withdrew from … Continue reading &rarr;"
+description: "Havoc continues in the Volvo Ocean Race, an around-the-world race which bills itself as \" the world’s toughest sailing event.\"  Three of the six boats to attempt the first leg of the race have withdrawn.  Two of the six boat fleet withdrew from … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/11/6379366539_16d7582096_z.jpg)Havoc continues in the [Volvo Ocean Race](http://www.volvooceanrace.com/en/home.html), an around-the-world race which bills itself as ” the world’s toughest sailing event.”  Three of the six boats to attempt the first leg of the race have withdrawn.  [Two of the six boat fleet withdrew from the race within 24 hours of the start](http://www.oldsaltblog.com/2011/11/06/volvo-ocean-race-off-to-rough-start-two-of-six-boats-damaged-in-first-24-hours/)  after suffering rigging failure or hull damage.  Now, only 17 days into the nine month race, the [Puma yacht *Mar Mostro,* was dismasted](http://www.dailytelegraph.com.au/sport/more-sports/volvo-ocean-race-decimated-with-american-yacht-puma-dismasted-during-opening-leg-to-cape-town/story-e6frey6i-1226202405317)  and has withdrawn from the first leg of the competition.  The yacht was roughly 2,300 miles from Cape Town, South Africa, the finish line for the first leg of the race, when its mast went over the side in winds above 20 knots and high seas.  There were no reported injuries to the crew of eleven.  Sails have been set on the remaining 15′ mast stub and the boat is now sailing for the island of Tristan de Cuhna.  

@@ -1,7 +1,7 @@
 ---
 title: "Golden Globe Race — Injured Sailor on Dismasted Yacht Rescued"
 date: 2018-09-24T08:21:48
-slug: golden-globe-race-injured-sailor-on-dismasted-yacht-rescued
+slug: "golden-globe-race-injured-sailor-on-dismasted-yacht-rescued"
 excerpt: "Injured sailor Abhilash Tomy has been rescued by a French fisheries patrol vessel. Tomy, a 39-year-old Indian naval commander, was injured when his yacht Thuriya capsized and dismasted in a severe Southern ocean storm on Day 82 of the Golden Globe Race.  Osiris, a French fisheries vessel … Continue reading &rarr;"
 categories:
   - "Current"

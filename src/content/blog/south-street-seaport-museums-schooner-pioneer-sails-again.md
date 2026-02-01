@@ -1,7 +1,7 @@
 ---
 title: "South Street Seaport Museum’s Schooner Pioneer Sails Again"
 date: 2013-05-09T09:45:35
-slug: south-street-seaport-museums-schooner-pioneer-sails-again
+slug: "south-street-seaport-museums-schooner-pioneer-sails-again"
 excerpt: "This weekend,  the South Street Seaport Museum’s schooner Pioneer set sail again from the seaport in New York’s East River.  After two summers of sitting tied to the dock the venerable old schooner, built of iron in 1885, is again carrying passengers on regular sails in … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

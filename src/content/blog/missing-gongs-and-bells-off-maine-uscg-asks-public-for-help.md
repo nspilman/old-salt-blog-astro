@@ -1,7 +1,7 @@
 ---
 title: "Missing Gongs and Bells Off Maine, USCG Asks Public for Help"
 date: 2018-06-03T18:33:15
-slug: missing-gongs-and-bells-off-maine-uscg-asks-public-for-help
+slug: "missing-gongs-and-bells-off-maine-uscg-asks-public-for-help"
 excerpt: "A certain number of brass bells and gongs from bell and gong buoys off the coast of Maine have turned up missing and the US Coast Guard has recently issued a press release asking the public’s help in identifying the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Sailing on Sunbeams — LightSail 2 Goes Out in a Blaze of Glory"
 date: 2022-11-21T18:49:26
-slug: sailing-on-sunbeams-lightsail-2-goes-out-in-a-blaze-of-glory
+slug: "sailing-on-sunbeams-lightsail-2-goes-out-in-a-blaze-of-glory"
 excerpt: "LightSail 2, the Planetary Society‘s solar sailing spacecraft, is no more. On November 17th, the crowdfunded solar sailing spacecraft burned in a blaze of glory as it re-entered earth’s atmosphere after traveling 8 million kilometers (5 million miles) powered only … Continue reading &rarr;"
 categories:
   - "Current"

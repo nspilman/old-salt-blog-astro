@@ -1,7 +1,7 @@
 ---
 title: "USS Oklahoma Sailor John Auld Who Died in Pearl Harbor Attack Finally Buried in Albuquerque"
 date: 2024-12-11T10:03:29
-slug: uss-oklahoma-sailor-john-auld-who-died-in-pearl-harbor-attack-finally-buried-in-albuquerque
+slug: "uss-oklahoma-sailor-john-auld-who-died-in-pearl-harbor-attack-finally-buried-in-albuquerque"
 excerpt: "The Defense POW/MIA Accounting Agency (DPAA) announced on Thursday that US Navy Seaman 2nd Class John C. Auld, 23, of Newcastle, England, killed on the USS Oklahoma, during the Japanese attack on Pearl Harbor of 1941 has been identified.  He … Continue reading &rarr;"
 categories:
   - "History"

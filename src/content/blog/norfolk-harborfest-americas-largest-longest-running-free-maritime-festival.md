@@ -1,7 +1,7 @@
 ---
 title: "Norfolk Harborfest® America’s Largest, Longest-Running, Free Maritime Festival"
 date: 2022-06-09T10:10:56
-slug: norfolk-harborfest-americas-largest-longest-running-free-maritime-festival
+slug: "norfolk-harborfest-americas-largest-longest-running-free-maritime-festival"
 excerpt: "If you are near Norfolk, VA this Friday through Sunday, you may wish to stop by the downtown waterfront to enjoy the myriad of activities associated with the Norfolk Harborfest®. Described as America’s largest, longest-running, free maritime festival, the iconic … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "The Continuing Legacy of the Christmas Tree Ship"
 date: 2018-12-26T16:45:50
-slug: the-continuing-legacy-of-the-christmas-tree-ship
-excerpt: "A report from a few years ago. A story well worth retelling. Today the Christmas Ship is Chicago’s largest all-volunteer charitable support program for inner-city youth and their families at Christmas time.  At the turn of the twentieth century, the “Christmas Tree … Continue reading &rarr;"
+slug: "the-continuing-legacy-of-the-christmas-tree-ship"
+excerpt: "A report from a few years ago. A story well worth retelling. Today the Christmas Ship is Chicago’s largest all-volunteer charitable support program for inner-city youth and their families at Christmas time.  At the turn of the twentieth century, the \"Christmas Tree … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "Rouse Simmons"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/12/ctschooner-1.jpg"
 author: "Rick Spilman"
-description: "A report from a few years ago. A story well worth retelling. Today the Christmas Ship is Chicago’s largest all-volunteer charitable support program for inner-city youth and their families at Christmas time.  At the turn of the twentieth century, the “Christmas Tree … Continue reading &rarr;"
+description: "A report from a few years ago. A story well worth retelling. Today the Christmas Ship is Chicago’s largest all-volunteer charitable support program for inner-city youth and their families at Christmas time.  At the turn of the twentieth century, the \"Christmas Tree … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/12/ctschooner-1.jpg)

@@ -1,8 +1,8 @@
 ---
 title: "New York Alligators – In the Peconic River, not the Sewers"
 date: 2013-06-16T12:56:23
-slug: new-york-alligators-in-the-peconic-river-not-the-sewers
-excerpt: "For more than 80 years, there has been an urban legend about congregations of alligators living in the depths of New York City sewers. (Yes,a group of alligators is called a “congregation.” I didn’t know that either until I looked … Continue reading &rarr;"
+slug: "new-york-alligators-in-the-peconic-river-not-the-sewers"
+excerpt: "For more than 80 years, there has been an urban legend about congregations of alligators living in the depths of New York City sewers. (Yes,a group of alligators is called a \"congregation.\" I didn’t know that either until I looked … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -12,7 +12,7 @@ tags:
   - "Peconic River"
   - "sewers"
 author: "Rick Spilman"
-description: "For more than 80 years, there has been an urban legend about congregations of alligators living in the depths of New York City sewers. (Yes,a group of alligators is called a “congregation.” I didn’t know that either until I looked … Continue reading &rarr;"
+description: "For more than 80 years, there has been an urban legend about congregations of alligators living in the depths of New York City sewers. (Yes,a group of alligators is called a \"congregation.\" I didn’t know that either until I looked … Continue reading &rarr;"
 ---
 
 ![alligator-spotted-near-peconic-river](http://www.oldsaltblog.com/wp-content/uploads/2013/06/alligator-spotted-near-peconic-river.jpg)For more than 80 years, there has been an [urban legend about congregations of alligators](http://urbanlegends.about.com/od/alligators/a/sewer_gators.htm) living in the depths of New York City sewers. (Yes,a group of alligators is called a “congregation.” I didn’t know that either until I looked it up.) The legend goes that baby alligators acquired in Florida or Louisiana, brought back to New York by vacationers were flushed down toilets in New York City and went on to live and breed in the city sewers. It never happened. City sewers turn out to not be a good habitat for alligators.

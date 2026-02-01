@@ -1,7 +1,7 @@
 ---
 title: "Fire Rages on Amphibious Assault Ship USS Bonhomme Richard, Close to 60 Injured"
 date: 2020-07-13T14:59:27
-slug: fire-rages-on-amphibious-assault-ship-uss-bonhomme-richard-close-to-60-injured
+slug: "fire-rages-on-amphibious-assault-ship-uss-bonhomme-richard-close-to-60-injured"
 excerpt: "On Sunday at around 8 AM Pacific Time, an explosion and fire were reported aboard the amphibious assault ship USS Bonhomme Richard dockside at the Naval Base San Diego. More than 24 hours later, the fire is still raging. Fifty-seven … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

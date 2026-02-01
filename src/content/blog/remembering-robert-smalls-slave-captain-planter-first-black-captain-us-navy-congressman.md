@@ -1,7 +1,7 @@
 ---
 title: "Remembering Robert Smalls –  Slave, Captain of the Planter, First Black Captain in the US Navy & Congressman"
 date: 2018-02-24T18:49:44
-slug: remembering-robert-smalls-slave-captain-planter-first-black-captain-us-navy-congressman
+slug: "remembering-robert-smalls-slave-captain-planter-first-black-captain-us-navy-congressman"
 excerpt: "Here is a story well worth retelling. An updated repost from 2012. The remarkable story of Robert Smalls. On May 13, 1862, Robert Smalls, a 23-year-old slave, who served as the pilot of the Confederate armed transport, CSS Planter, led eight fellow slaves … Continue reading &rarr;"
 categories:
   - "History"

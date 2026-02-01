@@ -1,8 +1,8 @@
 ---
 title: "Sidonie’s Message in a Bottle Returns Home"
 date: 2013-07-14T09:13:01
-slug: sidonies-message-in-a-bottle-returns-home
-excerpt: "More than a decade ago, Sidonie Fery, a ten year old girl living in Manhattan, threw a message in a bottle into Long Island Sound. The message was a line from her favorite move – “Bill and Ted’s Excellent Adventure,” which … Continue reading &rarr;"
+slug: "sidonies-message-in-a-bottle-returns-home"
+excerpt: "More than a decade ago, Sidonie Fery, a ten year old girl living in Manhattan, threw a message in a bottle into Long Island Sound. The message was a line from her favorite move – \"Bill and Ted’s Excellent Adventure,\" which … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Patchogue Long Island Beach Club"
   - "Sidonie Fery"
 author: "Rick Spilman"
-description: "More than a decade ago, Sidonie Fery, a ten year old girl living in Manhattan, threw a message in a bottle into Long Island Sound. The message was a line from her favorite move – “Bill and Ted’s Excellent Adventure,” which … Continue reading &rarr;"
+description: "More than a decade ago, Sidonie Fery, a ten year old girl living in Manhattan, threw a message in a bottle into Long Island Sound. The message was a line from her favorite move – \"Bill and Ted’s Excellent Adventure,\" which … Continue reading &rarr;"
 ---
 
 ![bottle12n-7-web](http://www.oldsaltblog.com/wp-content/uploads/2013/07/bottle12n-7-web.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "During the Lockdown, a Choice of Virtual Tours of USS Constitution"
 date: 2020-03-24T12:16:28
-slug: during-the-lockdown-a-choice-of-virtual-tours-of-uss-constitution
+slug: "during-the-lockdown-a-choice-of-virtual-tours-of-uss-constitution"
 excerpt: "If you are among the hundreds of millions locked down during the current coronavirus outbreak and would like to get out, even virtually, you might want to take a virtual tour of the USS Constitution, also known as Old Ironsides. … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

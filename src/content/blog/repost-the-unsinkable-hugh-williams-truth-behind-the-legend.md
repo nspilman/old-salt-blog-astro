@@ -1,8 +1,8 @@
 ---
 title: "Repost: The Unsinkable Hugh Williams – Truth Behind the Legend?"
 date: 2022-04-19T10:48:09
-slug: repost-the-unsinkable-hugh-williams-truth-behind-the-legend
-excerpt: "I am traveling this week, so it seems like a good time to repost an old blog favorite, the remarkable story of the unsinkable Hugh Williams. There is a video bouncing around the web these days called “The Strangest Coincidence … Continue reading &rarr;"
+slug: "repost-the-unsinkable-hugh-williams-truth-behind-the-legend"
+excerpt: "I am traveling this week, so it seems like a good time to repost an old blog favorite, the remarkable story of the unsinkable Hugh Williams. There is a video bouncing around the web these days called \"The Strangest Coincidence … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Wales"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/10/hwilliams2.jpg"
 author: "Rick Spilman"
-description: "I am traveling this week, so it seems like a good time to repost an old blog favorite, the remarkable story of the unsinkable Hugh Williams. There is a video bouncing around the web these days called “The Strangest Coincidence … Continue reading &rarr;"
+description: "I am traveling this week, so it seems like a good time to repost an old blog favorite, the remarkable story of the unsinkable Hugh Williams. There is a video bouncing around the web these days called \"The Strangest Coincidence … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/10/hwilliams2.jpg)I am traveling this week, so it seems like a good time to repost an old blog favorite, the remarkable story of the unsinkable Hugh Williams.

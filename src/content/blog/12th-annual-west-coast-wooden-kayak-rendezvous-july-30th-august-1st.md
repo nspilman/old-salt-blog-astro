@@ -1,7 +1,7 @@
 ---
 title: "12th Annual West Coast Wooden Kayak Rendezvous – July 30th – August 1st"
 date: 2010-07-30T09:01:02
-slug: 12th-annual-west-coast-wooden-kayak-rendezvous-july-30th-august-1st
+slug: "12th-annual-west-coast-wooden-kayak-rendezvous-july-30th-august-1st"
 excerpt: "12th Annual West Coast Wooden Kayak Rendezvous The annual West Coast Wooden Kayak Rendezvous (R2KX) is the first weekend in August at Fort Worden State Park in Port Townsend. The event is free and open to the public (donations to … Continue reading &rarr;"
 categories:
   - "Current"

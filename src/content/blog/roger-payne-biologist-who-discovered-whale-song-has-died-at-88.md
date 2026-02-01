@@ -1,8 +1,8 @@
 ---
 title: "Roger Payne, Biologist Who Discovered Whale Song, Has Died at 88"
 date: 2023-06-17T17:48:20
-slug: roger-payne-biologist-who-discovered-whale-song-has-died-at-88
-excerpt: "Harrison Smith, writing in the Washington Post, describes Roger Payne as “a biologist who put his ear to the ocean and pioneered the study of whale songs.” His recordings of their hypnotic, intricately patterned vocalizations — haunting wails, birdlike chirps, … Continue reading &rarr;"
+slug: "roger-payne-biologist-who-discovered-whale-song-has-died-at-88"
+excerpt: "Harrison Smith, writing in the Washington Post, describes Roger Payne as \"a biologist who put his ear to the ocean and pioneered the study of whale songs.\" His recordings of their hypnotic, intricately patterned vocalizations — haunting wails, birdlike chirps, … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "whale song"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/06/rogerpaynetedtalk.jpg"
 author: "Rick Spilman"
-description: "Harrison Smith, writing in the Washington Post, describes Roger Payne as “a biologist who put his ear to the ocean and pioneered the study of whale songs.” His recordings of their hypnotic, intricately patterned vocalizations — haunting wails, birdlike chirps, … Continue reading &rarr;"
+description: "Harrison Smith, writing in the Washington Post, describes Roger Payne as \"a biologist who put his ear to the ocean and pioneered the study of whale songs.\" His recordings of their hypnotic, intricately patterned vocalizations — haunting wails, birdlike chirps, … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/06/rogerpaynetedtalk.jpg)Harrison Smith, writing in the [Washington Post](https://www.washingtonpost.com/obituaries/2023/06/14/roger-payne-whale-songs-dead/), describes [Roger Payne](https://en.wikipedia.org/wiki/Roger_Payne) as “a biologist who put his ear to the ocean and pioneered the study of whale songs.” His recordings of their hypnotic, intricately patterned vocalizations — haunting wails, birdlike chirps, playful squeals, and mournful moos — suggested that the animals had a far richer inner life than previously imagined and helped to galvanize the anti-whaling movement. 

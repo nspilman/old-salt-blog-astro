@@ -1,7 +1,7 @@
 ---
 title: "Flying the Flag, Fleeing the State – Missing the Point"
 date: 2011-04-26T22:15:40
-slug: flying-the-flag-fleeing-the-state-missing-the-point
+slug: "flying-the-flag-fleeing-the-state-missing-the-point"
 excerpt: "In yesterday’s  New York Times, Rose George of Leeds, UK was an Op-Ed Contributor.   In her essay, Flying the Flag, Fleeing the State, she starts off by calling many ship operators criminals and comparing them to Somali pirates:  But maritime lawlessness … Continue reading &rarr;"
 categories:
   - "Current"

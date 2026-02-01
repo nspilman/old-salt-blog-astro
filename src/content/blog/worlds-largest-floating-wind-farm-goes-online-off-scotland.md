@@ -1,7 +1,7 @@
 ---
 title: "World’s Largest Floating Wind Farm Goes Online Off Scotland"
 date: 2021-09-25T18:33:50
-slug: worlds-largest-floating-wind-farm-goes-online-off-scotland
+slug: "worlds-largest-floating-wind-farm-goes-online-off-scotland"
 excerpt: "The world’s largest offshore floating wind farm has begun operation off Kincardine, approximately 15 kilometers off the southeast coast of Aberdeenshire, Scotland, at water depths ranging between 60 and 80 meters. The five floating turbines are expected to generate up … Continue reading &rarr;"
 categories:
   - "Current"

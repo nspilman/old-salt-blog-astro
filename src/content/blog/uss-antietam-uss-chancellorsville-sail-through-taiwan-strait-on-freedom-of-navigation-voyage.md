@@ -1,7 +1,7 @@
 ---
-title: "USS Antietam & USS Chancellorsville Sail Through Taiwan Strait on “Freedom of Navigation” Operation"
+title: "USS Antietam & USS Chancellorsville Sail Through Taiwan Strait on \"Freedom of Navigation\" Operation"
 date: 2022-08-28T09:41:29
-slug: uss-antietam-uss-chancellorsville-sail-through-taiwan-strait-on-freedom-of-navigation-voyage
+slug: "uss-antietam-uss-chancellorsville-sail-through-taiwan-strait-on-freedom-of-navigation-voyage"
 excerpt: "The US has sent two Ticonderoga-class guided-missile cruisers – the USS Antietam and the USS Chancellorsville – through the Taiwan Strait in a demonstration of freedom of navigation through international waters. The 100 mile-wide (160 kilometer-wide) strait divides Taiwan from … Continue reading &rarr;"
 categories:
   - "Current"

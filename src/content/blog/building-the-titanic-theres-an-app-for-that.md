@@ -1,8 +1,8 @@
 ---
 title: "Building the Titanic – There’s an App for That !"
 date: 2012-04-11T08:36:40
-slug: building-the-titanic-theres-an-app-for-that
-excerpt: "So you want to build an unsinkable passenger liner? Well, there is an app for that!  OK, not really, but National Geographic has developed a free “Building the Titanic” app for the iPad, which looks at the construction of the ship.   Preview … Continue reading &rarr;"
+slug: "building-the-titanic-theres-an-app-for-that"
+excerpt: "So you want to build an unsinkable passenger liner? Well, there is an app for that!  OK, not really, but National Geographic has developed a free \"Building the Titanic\" app for the iPad, which looks at the construction of the ship.   Preview … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -10,7 +10,7 @@ tags:
   - "iPad app"
   - "National Geographic"
 author: "Rick Spilman"
-description: "So you want to build an unsinkable passenger liner? Well, there is an app for that!  OK, not really, but National Geographic has developed a free “Building the Titanic” app for the iPad, which looks at the construction of the ship.   Preview … Continue reading &rarr;"
+description: "So you want to build an unsinkable passenger liner? Well, there is an app for that!  OK, not really, but National Geographic has developed a free \"Building the Titanic\" app for the iPad, which looks at the construction of the ship.   Preview … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/04/titanicapp.jpg)So you want to build an unsinkable passenger liner? Well, there is an app for that!  OK, not really, but [National Geographic](http://channel.nationalgeographic.com/channel/) has developed a free “Building the Titanic” app for the iPad, which looks at the construction of the ship.   Preview the app here: [Building Titanic: An Interactive Timeline](http://channel.nationalgeographic.com/channel/titanic/building-titanic-interactive-timeline/) or download from the [App Store: Building Titanic](http://itunes.apple.com/us/app/building-titanic/id511457230?ls=1&mt=8)

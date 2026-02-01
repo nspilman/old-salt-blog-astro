@@ -1,7 +1,7 @@
 ---
 title: "Bluenose II Sets Sail At Last"
 date: 2015-06-15T16:57:10
-slug: bluenose-ii-sets-sail-at-last
+slug: "bluenose-ii-sets-sail-at-last"
 excerpt: "Millions over budget and years behind schedule, the Canadian schooner Bluenose II finally set sail last week from Lunenberg, Nova Scotia on a training sail. Bluenose II  is owned by the government of Nova Scotia and will serve as a … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Crew Member Dies After Stabbing Colleague Then Jumping Overboard on World’s Largest Cruise Ship"
 date: 2025-07-25T20:14:40
-slug: crew-member-dies-after-stabbing-colleague-then-jumping-overboard-on-worlds-largest-cruise-ship
+slug: "crew-member-dies-after-stabbing-colleague-then-jumping-overboard-on-worlds-largest-cruise-ship"
 excerpt: "A crew member on Royal Caribbean’s Icon of the Seas is reported to have stabbed a fellow crew member multiple times before jumping overboard to his death as the ship cruised off the coast of San Salvador Island in the … Continue reading &rarr;"
 categories:
   - "Current"

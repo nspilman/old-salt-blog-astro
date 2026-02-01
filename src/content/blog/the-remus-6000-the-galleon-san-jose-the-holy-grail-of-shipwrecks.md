@@ -1,8 +1,8 @@
 ---
 title: "The REMUS 6000 & the Galleon San José, the Holy Grail of Shipwrecks"
 date: 2018-05-24T17:35:41
-slug: the-remus-6000-the-galleon-san-jose-the-holy-grail-of-shipwrecks
-excerpt: "On Monday, the Woods Hole Oceanographic Institution (WHOI) announced in a press release, that they “recently obtained authorization by Maritime Archaeology Consultants (MAC), Switzerland AG, and the Colombian government to release new details from the successful search for the three-century-old … Continue reading &rarr;"
+slug: "the-remus-6000-the-galleon-san-jose-the-holy-grail-of-shipwrecks"
+excerpt: "On Monday, the Woods Hole Oceanographic Institution (WHOI) announced in a press release, that they \"recently obtained authorization by Maritime Archaeology Consultants (MAC), Switzerland AG, and the Colombian government to release new details from the successful search for the three-century-old … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "WHOI"
   - "Woods Hole Oceanographic Institution"
 author: "Rick Spilman"
-description: "On Monday, the Woods Hole Oceanographic Institution (WHOI) announced in a press release, that they “recently obtained authorization by Maritime Archaeology Consultants (MAC), Switzerland AG, and the Colombian government to release new details from the successful search for the three-century-old … Continue reading &rarr;"
+description: "On Monday, the Woods Hole Oceanographic Institution (WHOI) announced in a press release, that they \"recently obtained authorization by Maritime Archaeology Consultants (MAC), Switzerland AG, and the Colombian government to release new details from the successful search for the three-century-old … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/05/galleonsanjose.jpg)On Monday, the Woods Hole Oceanographic Institution (WHOI) announced in a [press release](http://www.whoi.edu/news-release/new-details-on-discovery-of-the-san-jose-shipwreck), that they “*recently obtained authorization by Maritime Archaeology Consultants (MAC), Switzerland AG, and the Colombian government to release new details from the successful search for the three-century-old San José —a 62-gun, three-masted Spanish galleon ship that sank with a cargo believed to be worth billions of dollars. The ship, which is often called the “holy grail of shipwrecks,” went down with a treasure of gold, silver, and emeralds in 1708 during a battle with British ships in the War of Spanish Succession.*”

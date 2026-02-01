@@ -1,7 +1,7 @@
 ---
 title: "Cruise ship Clelia II Limping Home After Encounter with Wave in Drake Passage"
 date: 2010-12-08T12:44:06
-slug: cruise-ship-clelia-ii-limping-home-after-encounter-with-antarctic-wave
+slug: "cruise-ship-clelia-ii-limping-home-after-encounter-with-antarctic-wave"
 excerpt: "While the circumstances were completely different from those on the Carnival Splendor, the problem encountered by the cruise ship Clelia II is apparently another example of a ship’s engines being impacted by damage to electrical control systems.  The Clelia II‘s … Continue reading &rarr;"
 categories:
   - "Current"

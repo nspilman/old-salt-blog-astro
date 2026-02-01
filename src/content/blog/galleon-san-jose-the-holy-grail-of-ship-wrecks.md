@@ -1,8 +1,8 @@
 ---
-title: "Galleon San Jose, the “Holy Grail of Ship Wrecks”"
+title: "Galleon San Jose, the \"Holy Grail of Ship Wrecks\""
 date: 2012-02-29T16:58:07
-slug: galleon-san-jose-the-holy-grail-of-ship-wrecks
-excerpt: "Yesterday, we posted about the lawsuits still ongoing related to the wreck of the Nuestra Senora de las Mercedes and quoted Cecilia Rodriguez, writing for Forbes.  Today Ms. Rodriguez has a wonderful article about the Galleon San Jose, often referred to as the “Holy … Continue reading &rarr;"
+slug: "galleon-san-jose-the-holy-grail-of-ship-wrecks"
+excerpt: "Yesterday, we posted about the lawsuits still ongoing related to the wreck of the Nuestra Senora de las Mercedes and quoted Cecilia Rodriguez, writing for Forbes.  Today Ms. Rodriguez has a wonderful article about the Galleon San Jose, often referred to as the \"Holy … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -16,7 +16,7 @@ tags:
   - "Sea Search Armada"
   - "War of the Spanish Succession"
 author: "Rick Spilman"
-description: "Yesterday, we posted about the lawsuits still ongoing related to the wreck of the Nuestra Senora de las Mercedes and quoted Cecilia Rodriguez, writing for Forbes.  Today Ms. Rodriguez has a wonderful article about the Galleon San Jose, often referred to as the “Holy … Continue reading &rarr;"
+description: "Yesterday, we posted about the lawsuits still ongoing related to the wreck of the Nuestra Senora de las Mercedes and quoted Cecilia Rodriguez, writing for Forbes.  Today Ms. Rodriguez has a wonderful article about the Galleon San Jose, often referred to as the \"Holy … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/02/320px-Samuel_Scott_3.jpg)

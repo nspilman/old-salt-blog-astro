@@ -1,7 +1,7 @@
 ---
 title: "After Two Decades of Negotiations, Historic Treaty to Protect World’s Oceans"
 date: 2023-03-08T06:29:01
-slug: after-two-decades-of-negotiations-historic-treaty-to-protect-worlds-oceans
+slug: "after-two-decades-of-negotiations-historic-treaty-to-protect-worlds-oceans"
 excerpt: "CNN reports that nearly 200 countries have agreed to a legally-binding High Seas Treaty to protect marine life in international waters, which cover around half of the planet’s surface, but have long been essentially lawless. The agreement was signed on … Continue reading &rarr;"
 categories:
   - "Current"

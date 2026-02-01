@@ -1,7 +1,7 @@
 ---
 title: "Windjammer Falls of Clyde at Honolulu Harbor to Lose Historic Designation"
 date: 2023-07-03T10:09:31
-slug: windjammer-falls-of-clyde-at-honolulu-harbor-to-lose-historic-designation
+slug: "windjammer-falls-of-clyde-at-honolulu-harbor-to-lose-historic-designation"
 excerpt: "Last week, the State of Hawai’i Department of Transportation issued a statement that the windjammer Falls of Clyde, the only remaining iron-hulled four-masted full-rigged ship and the only surviving sail-driven oil tanker in the world, would soon be delisted from … Continue reading &rarr;"
 categories:
   - "Current"

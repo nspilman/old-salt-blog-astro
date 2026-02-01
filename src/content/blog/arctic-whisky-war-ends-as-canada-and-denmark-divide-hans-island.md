@@ -1,8 +1,8 @@
 ---
-title: "Arctic “Whisky War” Ends as Canada and Denmark Divide Hans Island"
+title: "Arctic \"Whisky War\" Ends as Canada and Denmark Divide Hans Island"
 date: 2022-06-14T17:23:13
-slug: arctic-whisky-war-ends-as-canada-and-denmark-divide-hans-island
-excerpt: "Canada and Denmark have ended the good-natured “whisky war” over Hans Island, a tiny, barren and uninhabited island in the Nares Strait roughly equidistant between Greenland and Canada’s Ellesmere Island. The dispute originated in 1971 when Canada and Denmark discovered … Continue reading &rarr;"
+slug: "arctic-whisky-war-ends-as-canada-and-denmark-divide-hans-island"
+excerpt: "Canada and Denmark have ended the good-natured \"whisky war\" over Hans Island, a tiny, barren and uninhabited island in the Nares Strait roughly equidistant between Greenland and Canada’s Ellesmere Island. The dispute originated in 1971 when Canada and Denmark discovered … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -15,7 +15,7 @@ tags:
   - "whisky war"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/hansisland.jpg"
 author: "Rick Spilman"
-description: "Canada and Denmark have ended the good-natured “whisky war” over Hans Island, a tiny, barren and uninhabited island in the Nares Strait roughly equidistant between Greenland and Canada’s Ellesmere Island. The dispute originated in 1971 when Canada and Denmark discovered … Continue reading &rarr;"
+description: "Canada and Denmark have ended the good-natured \"whisky war\" over Hans Island, a tiny, barren and uninhabited island in the Nares Strait roughly equidistant between Greenland and Canada’s Ellesmere Island. The dispute originated in 1971 when Canada and Denmark discovered … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/hansisland.jpg)Canada and Denmark have ended the good-natured “whisky war” over [Hans Island](https://en.wikipedia.org/wiki/Hans_Island), a tiny, barren and uninhabited island in the Nares Strait roughly equidistant between Greenland and Canada’s Ellesmere Island. The dispute originated in 1971 when [Canada and Denmark discovered that both countries had laid claim](https://www.reuters.com/world/americas/canada-denmark-divide-small-arctic-island-ending-ownership-dispute-2022-06-14/) to the slightly over one square kilometer island. 

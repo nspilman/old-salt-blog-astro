@@ -1,8 +1,8 @@
 ---
 title: "Borat on a Barge Appears in New York, London and Toronto"
 date: 2020-10-25T13:27:00
-slug: borat-on-a-barge-appears-in-new-york-london-and-toronto
-excerpt: "Back in 2013, we posted about a large inflatable rubber duck that was visiting ports around the globe. It was created by the Dutch artist Florentijn Hofman  and was named “Spreading Joy Around the World.”  Nevertheless, it was universally known … Continue reading &rarr;"
+slug: "borat-on-a-barge-appears-in-new-york-london-and-toronto"
+excerpt: "Back in 2013, we posted about a large inflatable rubber duck that was visiting ports around the globe. It was created by the Dutch artist Florentijn Hofman  and was named \"Spreading Joy Around the World.\"  Nevertheless, it was universally known … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:

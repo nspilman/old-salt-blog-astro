@@ -1,7 +1,7 @@
 ---
 title: "Dubai Unveils More Modest Plans for QE2 Hotel"
 date: 2012-07-04T09:00:38
-slug: dubai-unveils-more-modest-plans-for-qe2-hotel
+slug: "dubai-unveils-more-modest-plans-for-qe2-hotel"
 excerpt: "For several years now cruise ships fans have been concerned that the 2008 debt crunch in Dubai would result in the RMS Queen Elizabeth 2 being sold for scrap instead of being converted to a luxury hotel, as had been the plan when she … Continue reading &rarr;"
 categories:
   - "Current"

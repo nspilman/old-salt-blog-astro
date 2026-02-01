@@ -1,7 +1,7 @@
 ---
 title: "Review: Disasters at Sea — Deadly Neglect,  the Loss of the Marine Electric"
 date: 2019-02-13T16:29:25
-slug: review-disasters-at-sea-deadly-neglect-the-loss-of-the-marine-electric
+slug: "review-disasters-at-sea-deadly-neglect-the-loss-of-the-marine-electric"
 excerpt: "Originally posted in gCaptain. Reposted with permission. Thirty-six years ago this week, the SS Marine Electric sank off the coast of Virginia with the loss of 34 officers and crew. There were only three survivors. The tragedy resulted in major … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Pelicans Return with a Vengance"
 date: 2011-04-28T09:37:00
-slug: pelicans-return-with-a-vengance
+slug: "pelicans-return-with-a-vengance"
 excerpt: "Hailing from Florida, I am a huge fan of brown pelicans.  I was therefore very pleased to hear that after several years where brown pelicans on the West Coast of the US have been mysteriously dying off,  this year the flocks of  pelicans … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Andrew Fitzgerald, Last SS Pendleton Rescuer, Dies at 87"
 date: 2018-11-23T23:41:51
-slug: andrew-fitzgerald-last-ss-pendleton-rescuer-dies-at-87
+slug: "andrew-fitzgerald-last-ss-pendleton-rescuer-dies-at-87"
 excerpt: "Andrew Fitzgerald, the last of the four-man crew of the Coast Guard Motor Lifeboat CG-36500, which rescued the crew of the SS Pendleton, has died at the age of 87. On February 18, 1952, the 36′ motor lifeboat set out from Station Chatham, Massachusetts, … Continue reading &rarr;"
 categories:
   - "Current"

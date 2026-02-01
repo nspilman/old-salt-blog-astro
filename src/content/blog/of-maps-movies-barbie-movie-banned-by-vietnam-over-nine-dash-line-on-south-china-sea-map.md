@@ -1,7 +1,7 @@
 ---
-title: "Of Maps & Movies: Barbie Movie Banned by Vietnam Over “Nine-Dash-Line” on South China Sea Map"
+title: "Of Maps & Movies: Barbie Movie Banned by Vietnam Over \"Nine-Dash-Line\" on South China Sea Map"
 date: 2023-07-07T17:02:32
-slug: of-maps-movies-barbie-movie-banned-by-vietnam-over-nine-dash-line-on-south-china-sea-map
+slug: "of-maps-movies-barbie-movie-banned-by-vietnam-over-nine-dash-line-on-south-china-sea-map"
 excerpt: "The much-anticipated live-action movie Barbie has been banned in Vietnam over the appearance of a map in the background of one scene allegedly depicting Chinese territorial claims in the South China Sea, claims disputed by Vietnam and at least seven … Continue reading &rarr;"
 categories:
   - "Current"

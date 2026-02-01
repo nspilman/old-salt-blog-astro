@@ -1,8 +1,8 @@
 ---
 title: "Day of the Seafarer – What if the Ships and Seafarers Just Vanished?"
 date: 2011-06-24T07:42:32
-slug: day-of-the-seafarer-what-if-the-ships-and-seafarers-just-vanished
-excerpt: "Tomorrow is the IMO “Day of the Seafarer.”  Around here we think that every day should be the day of the seafarer.   Seafarers and the ships that they sail are the connective tissue that keeps our world turning.  Seafarers UK , … Continue reading &rarr;"
+slug: "day-of-the-seafarer-what-if-the-ships-and-seafarers-just-vanished"
+excerpt: "Tomorrow is the IMO \"Day of the Seafarer.\"  Around here we think that every day should be the day of the seafarer.   Seafarers and the ships that they sail are the connective tissue that keeps our world turning.  Seafarers UK , … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -11,7 +11,7 @@ tags:
   - "Day of the Seafarer"
   - "Seafarers UK"
 author: "Rick Spilman"
-description: "Tomorrow is the IMO “Day of the Seafarer.”  Around here we think that every day should be the day of the seafarer.   Seafarers and the ships that they sail are the connective tissue that keeps our world turning.  Seafarers UK , … Continue reading &rarr;"
+description: "Tomorrow is the IMO \"Day of the Seafarer.\"  Around here we think that every day should be the day of the seafarer.   Seafarers and the ships that they sail are the connective tissue that keeps our world turning.  Seafarers UK , … Continue reading &rarr;"
 ---
 
 Tomorrow is the [IMO “Day of the Seafarer](http://www.imo.org/About/Events/Pages/Day-of-the-Seafarer.aspx).”  Around here we think that every day should be the day of the seafarer.   Seafarers and the ships that they sail are the connective tissue that keeps our world turning.  [Seafarers UK](http://www.seafarers-uk.org/) , has produced a video that asks the question – “What would the world be like if ships and those who sailed them simply vanished?”

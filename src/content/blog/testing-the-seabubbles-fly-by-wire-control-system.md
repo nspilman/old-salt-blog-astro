@@ -1,7 +1,7 @@
 ---
 title: "Testing the SeaBubble Fly-By-Wire Control System"
 date: 2018-06-30T09:28:39
-slug: testing-the-seabubbles-fly-by-wire-control-system
+slug: "testing-the-seabubbles-fly-by-wire-control-system"
 excerpt: "A year and a half ago we posted about SeaBubbles — foiling electric water taxis. The idea to develop a five-person water taxi comes from Alain Thébault, the designer and skipper of record-breaking ocean-going hydrofoil Hydroptère. The distance from an idea to implementation, … Continue reading &rarr;"
 categories:
   - "Current"

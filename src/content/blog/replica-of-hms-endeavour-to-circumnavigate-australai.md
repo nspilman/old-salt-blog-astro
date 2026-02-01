@@ -1,7 +1,7 @@
 ---
 title: "Replica of HMS Endeavour to Circumnavigate Australia"
 date: 2019-01-25T10:06:09
-slug: replica-of-hms-endeavour-to-circumnavigate-australai
+slug: "replica-of-hms-endeavour-to-circumnavigate-australai"
 excerpt: "To celebrate the 250th anniversary of Captain Cook’s voyage to Australia, HMS Endeavour, a replica of Cook’s ship, will circumnavigate the continent. Prime minister Scott Morrison has announced the Australian government will be providing 6.7 million Australian dollars (£3.72 million) … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup — Team New Zealand & Luna Rossa Remain Tied After 4 Races"
 date: 2021-03-12T17:59:14
-slug: americas-cup-team-new-zealand-luna-rossa-remain-tied-after-4-races
+slug: "americas-cup-team-new-zealand-luna-rossa-remain-tied-after-4-races"
 excerpt: "After a tie in the first two America’s Cup races, the defender Team New Zealand and the challenger Luna Rossa finished races 3 and 4 of the best of 13 race series tied again with one win each. Brief highlights … Continue reading &rarr;"
 categories:
   - "Current"

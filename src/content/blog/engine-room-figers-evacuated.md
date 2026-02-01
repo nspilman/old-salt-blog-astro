@@ -1,7 +1,7 @@
 ---
 title: "Engine Room Fire on Expedition Cruise Ship Le Boreal, Passengers Evacuated"
 date: 2015-11-19T09:42:16
-slug: engine-room-figers-evacuated
+slug: "engine-room-figers-evacuated"
 excerpt: "The expedition cruise ship, Le Boreal, operated by French line Ponant, has been evacuated after a fire in the engine room.  Fire broke out on the 264-passenger ship as she was sailing off the Falkland Islands early Wednesday.  The passengers were transferred … Continue reading &rarr;"
 categories:
   - "Current"

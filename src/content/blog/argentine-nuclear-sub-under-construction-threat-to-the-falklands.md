@@ -1,7 +1,7 @@
 ---
 title: "Argentine Nuclear Sub Under Construction – Threat to the Falklands?"
 date: 2011-08-07T11:51:12
-slug: argentine-nuclear-sub-under-construction-threat-to-the-falklands
+slug: "argentine-nuclear-sub-under-construction-threat-to-the-falklands"
 excerpt: "There is open speculation that the expansion of the Argentine Navy lead by the construction of its first nuclear submarine could prove a threat to Britain’s ability to defend and hold the Falkland Islands. Argentina developing nuclear-powered submarine Argentina has … Continue reading &rarr;"
 categories:
   - "Current"

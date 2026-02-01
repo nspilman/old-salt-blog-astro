@@ -1,7 +1,7 @@
 ---
 title: "Testing SeaBubbles on the River Seine"
 date: 2019-10-28T17:31:12
-slug: testing-seabubbles-on-the-river-seine
+slug: "testing-seabubbles-on-the-river-seine"
 excerpt: "We recently posted about the proposed testing of an amphibious electric flying car on the Hudson River, which may or may not be a good idea. On the other side of the Atlantic on the River Seine, tests are ongoing … Continue reading &rarr;"
 categories:
   - "Current"

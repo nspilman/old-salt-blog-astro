@@ -1,7 +1,7 @@
 ---
 title: "Happy Belated Birthday US Navy – Whenever and Wherever the Date and Place May Be"
 date: 2024-10-15T19:55:54
-slug: happy-belated-birthday-us-navy-whenever-and-wherever-the-date-and-place-may-be
+slug: "happy-belated-birthday-us-navy-whenever-and-wherever-the-date-and-place-may-be"
 excerpt: "We are a few days late in wishing the US Navy a happy 249th birthday. October 13th, is celebrated as the birthday of the United States Navy. This should not be confused with Navy Day, once celebrated on October 27th.  The current … Continue reading &rarr;"
 categories:
   - "History"

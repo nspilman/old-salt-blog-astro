@@ -1,7 +1,7 @@
 ---
 title: "Evening Grey Morning Red at JC Book Festival — Tales of our Cities"
 date: 2017-09-19T10:52:22
-slug: evening-grey-morning-red-jc-book-festival-tales-cities
+slug: "evening-grey-morning-red-jc-book-festival-tales-cities"
 excerpt: "I will be participating in Jersey City’s 9th Annual Book Festival — Tales of Our Cities, in Van Vorst Park this Sunday. I will have a table with my books and books by other Old Salt Press authors starting at … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

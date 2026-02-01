@@ -1,7 +1,7 @@
 ---
 title: "A Hawaiian Tsunami – National Geographic Simulation"
 date: 2011-03-12T10:44:56
-slug: a-hawaiian-tsunami-national-geographic-simulation
+slug: "a-hawaiian-tsunami-national-geographic-simulation"
 excerpt: "The Hawaiian islands and the West Coast of the United States suffered relatively minor damage in Friday’s tsunami.   What would a tsunami created by a major eruption of Hawaii’s Mauna Loa volcano be like?  National Geographic presents  a chilling simulation.  Thanks to Linda … Continue reading &rarr;"
 categories:
   - "Current"

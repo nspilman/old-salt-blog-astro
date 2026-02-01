@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday AMVER — Sixty Years of Saving Lives at Sea"
 date: 2018-07-24T18:39:23
-slug: happy-birthday-amver-sixty-years-of-saving-lives-at-sea
+slug: "happy-birthday-amver-sixty-years-of-saving-lives-at-sea"
 excerpt: "We are a few days late in celebrating AMVER‘s 60th birthday. Originally called the Atlantic Merchant Vessel Emergency Reporting System, AMVER became operational on July 18, 1958. When it expanded beyond the Atlantic, the name was changed to the Automated … Continue reading &rarr;"
 categories:
   - "Current"

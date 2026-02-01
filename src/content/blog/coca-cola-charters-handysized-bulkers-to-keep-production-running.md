@@ -1,7 +1,7 @@
 ---
 title: "Coca Cola Charters Handysized Bulkers to Keep Production Running"
 date: 2021-10-04T10:32:41
-slug: coca-cola-charters-handysized-bulkers-to-keep-production-running
+slug: "coca-cola-charters-handysized-bulkers-to-keep-production-running"
 excerpt: "We recently posted about Home Depot and Costco independently chartering containerships to address ship and port congestion problems. Now, Coca-Cola is taking another approach to fix its broken supply chains. Splash247.com reports that Coca-Cola becomes the latest global mega-brand to decide … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Ballyvaughan’s Festival of Valleys with Wine Transported by the Ketch Bessie Ellen"
 date: 2010-06-02T09:50:51
-slug: ballyvaughans-festival-of-valleys-with-wine-transported-by-the-ketch-bessie-ellen
+slug: "ballyvaughans-festival-of-valleys-with-wine-transported-by-the-ketch-bessie-ellen"
 excerpt: "In response to our post, Tall Ships Hit By Slumping Economy,  Will from the Tugster blog and Captain Peter from Nautical Log commented about the potential synergies of tall ships carrying cargo in addition to passengers.   Well great minds, and all that.  An example of … Continue reading &rarr;"
 categories:
   - "Current"

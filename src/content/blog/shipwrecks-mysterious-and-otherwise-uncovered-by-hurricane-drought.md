@@ -1,8 +1,8 @@
 ---
 title: "Shipwrecks, Mysterious and Otherwise, Uncovered by Hurricane & Drought"
 date: 2012-09-06T07:33:38
-slug: shipwrecks-mysterious-and-otherwise-uncovered-by-hurricane-drought
-excerpt: "The first reports spoke of a “mystery shipwreck” uncovered by Hurricane Isaac on an Alabama beach about six miles from Fort Morgan.   It turns out the wooden vessel is not so mysterious after all. Local historians identified her as the 150 feet … Continue reading &rarr;"
+slug: "shipwrecks-mysterious-and-otherwise-uncovered-by-hurricane-drought"
+excerpt: "The first reports spoke of a \"mystery shipwreck\" uncovered by Hurricane Isaac on an Alabama beach about six miles from Fort Morgan.   It turns out the wooden vessel is not so mysterious after all. Local historians identified her as the 150 feet … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -18,7 +18,7 @@ tags:
   - "Montana"
   - "Rachel"
 author: "Rick Spilman"
-description: "The first reports spoke of a “mystery shipwreck” uncovered by Hurricane Isaac on an Alabama beach about six miles from Fort Morgan.   It turns out the wooden vessel is not so mysterious after all. Local historians identified her as the 150 feet … Continue reading &rarr;"
+description: "The first reports spoke of a \"mystery shipwreck\" uncovered by Hurricane Isaac on an Alabama beach about six miles from Fort Morgan.   It turns out the wooden vessel is not so mysterious after all. Local historians identified her as the 150 feet … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2012/09/rachael.jpg)

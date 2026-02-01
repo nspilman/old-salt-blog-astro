@@ -1,7 +1,7 @@
 ---
 title: "The Newest Oldest Message in a Bottle"
 date: 2015-08-27T13:46:11
-slug: the-newest-oldest-message-in-a-bottle
+slug: "the-newest-oldest-message-in-a-bottle"
 excerpt: "In 2014, we posted about a German fisherman who found a 101 year old message in a bottle. It was then the oldest message ever found in a bottle. Now, a bottle containing a message that was tossed overboard between … Continue reading &rarr;"
 categories:
   - "Current"

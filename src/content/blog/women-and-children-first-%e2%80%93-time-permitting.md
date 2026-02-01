@@ -1,7 +1,7 @@
 ---
 title: "Women and Children First – Time Permitting"
 date: 2010-03-05T08:45:38
-slug: women-and-children-first-%e2%80%93-time-permitting
+slug: "women-and-children-first-%e2%80%93-time-permitting"
 excerpt: "Lusitania arriving New York on her maiden voyage A new study in the Proceedings of the National Academy of Sciencesconsiders the sinking of two well known ships, the Titanic and theLusitania,  and looks at who made it to the lifeboats and who was left … Continue reading &rarr;"
 categories:
   - "History"

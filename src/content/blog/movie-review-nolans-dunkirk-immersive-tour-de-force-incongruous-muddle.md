@@ -1,8 +1,8 @@
 ---
-title: "Movie Review — Nolan’s “Dunkirk,” Immersive Tour de Force, Incongruous Muddle, or Both?"
+title: "Movie Review — Nolan’s \"Dunkirk,\" Immersive Tour de Force, Incongruous Muddle, or Both?"
 date: 2017-07-26T08:31:02
-slug: movie-review-nolans-dunkirk-immersive-tour-de-force-incongruous-muddle
-excerpt: "Originally posted on gCaptain. Reposted with permission. Christopher Nolan’s movie, Dunkirk, opened Friday to rave reviews. The New York Times calls it “a tour de force …both sweeping and intimate.”  The Guardian calls it “utterly immersive” and predicts that the … Continue reading &rarr;"
+slug: "movie-review-nolans-dunkirk-immersive-tour-de-force-incongruous-muddle"
+excerpt: "Originally posted on gCaptain. Reposted with permission. Christopher Nolan’s movie, Dunkirk, opened Friday to rave reviews. The New York Times calls it \"a tour de force …both sweeping and intimate.\"  The Guardian calls it \"utterly immersive\" and predicts that the … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -10,7 +10,7 @@ categories:
   - "Ships"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/07/dunkirkposter.jpg"
 author: "Rick Spilman"
-description: "Originally posted on gCaptain. Reposted with permission. Christopher Nolan’s movie, Dunkirk, opened Friday to rave reviews. The New York Times calls it “a tour de force …both sweeping and intimate.”  The Guardian calls it “utterly immersive” and predicts that the … Continue reading &rarr;"
+description: "Originally posted on gCaptain. Reposted with permission. Christopher Nolan’s movie, Dunkirk, opened Friday to rave reviews. The New York Times calls it \"a tour de force …both sweeping and intimate.\"  The Guardian calls it \"utterly immersive\" and predicts that the … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2017/07/dunkirkposter-133x200.jpg)Originally posted on [gCaptain.](https://gcaptain.com/movie-review-nolans-dunkirk-immersive-tour-de-force-incongruous-muddle/) Reposted with permission.

@@ -1,7 +1,7 @@
 ---
 title: "Second Migrant Boat in a Week Capsizes Near Lampedusa, 221 Rescued, at Least 27 Dead"
 date: 2013-10-11T18:23:07
-slug: second-migrant-boat-week-capsizes-near-lampedusa-221-rescued-least-27-dead
+slug: "second-migrant-boat-week-capsizes-near-lampedusa-221-rescued-least-27-dead"
 excerpt: "For the second time in roughly a week, a smuggler’s boat overloaded with migrants from Africa has capsized in the Mediterranean off Sicily, near the island of Lampedusa.  At least 27 died, but 221 were rescued from the water.  The … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

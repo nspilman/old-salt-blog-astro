@@ -1,7 +1,7 @@
 ---
 title: "Remembering Bert Rogers, Executive Director of Tall Ships America"
 date: 2018-08-14T13:31:17
-slug: remembering-bert-rogers-executive-director-of-tall-ships-america
+slug: "remembering-bert-rogers-executive-director-of-tall-ships-america"
 excerpt: "We were deeply saddened to learn of the death of Bert Rogers, the long-time Executive Director of Tall Ships America, who died of a heart attack. Our condolences to his family and all those who cared for him. Bert’s seafaring … Continue reading &rarr;"
 categories:
   - "Current"

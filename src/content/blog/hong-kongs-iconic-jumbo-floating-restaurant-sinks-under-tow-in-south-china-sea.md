@@ -1,8 +1,8 @@
 ---
 title: "Hong Kong’s Iconic Jumbo Floating Restaurant Sinks Under Tow in South China Sea"
 date: 2022-06-21T09:20:25
-slug: hong-kongs-iconic-jumbo-floating-restaurant-sinks-under-tow-in-south-china-sea
-excerpt: "Jumbo Floating Restaurant, an iconic Hong Kong landmark, has capsized and sunk in the South China Sea, while under tow to an undisclosed location. NPR reports that the restaurant encountered “adverse conditions” on Saturday as it was passing the Xisha … Continue reading &rarr;"
+slug: "hong-kongs-iconic-jumbo-floating-restaurant-sinks-under-tow-in-south-china-sea"
+excerpt: "Jumbo Floating Restaurant, an iconic Hong Kong landmark, has capsized and sunk in the South China Sea, while under tow to an undisclosed location. NPR reports that the restaurant encountered \"adverse conditions\" on Saturday as it was passing the Xisha … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "South China Sea"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/06/jumbo.jpg"
 author: "Rick Spilman"
-description: "Jumbo Floating Restaurant, an iconic Hong Kong landmark, has capsized and sunk in the South China Sea, while under tow to an undisclosed location. NPR reports that the restaurant encountered “adverse conditions” on Saturday as it was passing the Xisha … Continue reading &rarr;"
+description: "Jumbo Floating Restaurant, an iconic Hong Kong landmark, has capsized and sunk in the South China Sea, while under tow to an undisclosed location. NPR reports that the restaurant encountered \"adverse conditions\" on Saturday as it was passing the Xisha … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/06/jumbo.jpg)[Jumbo Floating Restaurant](https://en.wikipedia.org/wiki/Jumbo_Kingdom), an iconic Hong Kong landmark, has capsized and sunk in the South China Sea, while under tow to an undisclosed location.

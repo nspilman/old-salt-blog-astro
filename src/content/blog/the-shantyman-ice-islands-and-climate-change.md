@@ -1,8 +1,8 @@
 ---
 title: "The Shantyman, Ice Islands and Climate Change"
 date: 2015-04-13T20:08:15
-slug: the-shantyman-ice-islands-and-climate-change
-excerpt: "In my new novel, The Shantyman, the clipper ship Alhambra nearly collides with a massive ice island.  From Chapter Nine: In the forenoon watch came the cry, “Ice, dead ahead.” It was my watch below, but I jumped up with the rest … Continue reading &rarr;"
+slug: "the-shantyman-ice-islands-and-climate-change"
+excerpt: "In my new novel, The Shantyman, the clipper ship Alhambra nearly collides with a massive ice island.  From Chapter Nine: In the forenoon watch came the cry, \"Ice, dead ahead.\" It was my watch below, but I jumped up with the rest … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"

@@ -1,7 +1,7 @@
 ---
 title: "Pirates Sieze American Captain and Chief Engineer from Supply Boat C-Retriever off Nigeria"
 date: 2013-10-24T13:13:28
-slug: pirates-sieze-american-captain-and-chief-engineer-from-supply-boat-c-reciever-off-nigeria
+slug: "pirates-sieze-american-captain-and-chief-engineer-from-supply-boat-c-reciever-off-nigeria"
 excerpt: "Pirates are reported to have seized the captain and chief engineer from the US Flag offshore supply vessel, C-Retriever, which was attacked in the Gulf of Guinea off the coast of Nigeria early Wednesday.  Both the captain and chief engineer are … Continue reading &rarr;"
 categories:
   - "Current"

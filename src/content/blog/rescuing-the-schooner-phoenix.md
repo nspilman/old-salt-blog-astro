@@ -1,7 +1,7 @@
 ---
 title: "Rescuing the Schooner Phoenix"
 date: 2015-10-19T10:32:46
-slug: rescuing-the-schooner-phoenix
+slug: "rescuing-the-schooner-phoenix"
 excerpt: "On October 9th, the schooner Phoenix dragged her anchor in a storm in Port Townsend harbor, Washington. She ended up sinking, holed on the rocks of the breakwater. The good news is that, after a week underwater, the schooner was … Continue reading &rarr;"
 categories:
   - "Current"

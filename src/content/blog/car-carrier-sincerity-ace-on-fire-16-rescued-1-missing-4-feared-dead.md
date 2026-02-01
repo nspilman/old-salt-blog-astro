@@ -1,7 +1,7 @@
 ---
 title: "Car Carrier ‘Sincerity Ace’ on Fire — 16 Rescued, 1 Missing, 4 Feared Dead"
 date: 2019-01-02T18:53:07
-slug: car-carrier-sincerity-ace-on-fire-16-rescued-1-missing-4-feared-dead
+slug: "car-carrier-sincerity-ace-on-fire-16-rescued-1-missing-4-feared-dead"
 excerpt: "Around 1,800 nautical miles northwest of Oahu, the car carrier Sincerity Ace is adrift and on fire. Sixteen of her Philippine crew have been rescued, while four are feared dead and one remains missing. The fire broke on on Monday on the Panamanian … Continue reading &rarr;"
 categories:
   - "Current"

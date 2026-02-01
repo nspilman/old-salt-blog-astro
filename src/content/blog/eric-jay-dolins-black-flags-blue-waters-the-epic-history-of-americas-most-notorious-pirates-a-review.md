@@ -1,8 +1,8 @@
 ---
 title: "Eric Jay Dolin’s Black Flags, Blue Waters, the Epic History of America’s Most Notorious Pirates – A Review"
 date: 2018-09-17T19:07:58
-slug: eric-jay-dolins-black-flags-blue-waters-the-epic-history-of-americas-most-notorious-pirates-a-review
-excerpt: "What is it about the pirates of the so-called “Golden Age” that holds our attention over the centuries? The period has been romanticized and fictionalized in books, British musicals, Hollywood movies, and cable TV shows. Where do the legend and lore … Continue reading &rarr;"
+slug: "eric-jay-dolins-black-flags-blue-waters-the-epic-history-of-americas-most-notorious-pirates-a-review"
+excerpt: "What is it about the pirates of the so-called \"Golden Age\" that holds our attention over the centuries? The period has been romanticized and fictionalized in books, British musicals, Hollywood movies, and cable TV shows. Where do the legend and lore … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
   - "Newbooks"
@@ -15,7 +15,7 @@ tags:
   - "pirates"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/09/bfbwdolan.jpg"
 author: "Rick Spilman"
-description: "What is it about the pirates of the so-called “Golden Age” that holds our attention over the centuries? The period has been romanticized and fictionalized in books, British musicals, Hollywood movies, and cable TV shows. Where do the legend and lore … Continue reading &rarr;"
+description: "What is it about the pirates of the so-called \"Golden Age\" that holds our attention over the centuries? The period has been romanticized and fictionalized in books, British musicals, Hollywood movies, and cable TV shows. Where do the legend and lore … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/09/bfbwdolan.jpg)What is it about the pirates of the so-called “Golden Age” that holds our attention over the centuries? The period has been romanticized and fictionalized in books, British musicals, Hollywood movies, and cable TV shows. Where do the legend and lore end and the history begin?

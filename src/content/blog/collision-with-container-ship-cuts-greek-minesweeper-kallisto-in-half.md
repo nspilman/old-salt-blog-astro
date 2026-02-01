@@ -1,7 +1,7 @@
 ---
 title: "Collision With Container Ship Cuts Greek Minesweeper Kallisto in Half"
 date: 2020-10-27T11:07:39
-slug: collision-with-container-ship-cuts-greek-minesweeper-kallisto-in-half
+slug: "collision-with-container-ship-cuts-greek-minesweeper-kallisto-in-half"
 excerpt: "The Greek Navy minesweeper HS Kallisto was cut in half following a collision with the containership Maersk Launceston. The stern of the minesweeper apparently sank following the collision while the bow was taken under tow by salvors. The minesweeper’s crew … Continue reading &rarr;"
 categories:
   - "Current"

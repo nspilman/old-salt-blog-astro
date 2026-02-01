@@ -1,7 +1,7 @@
 ---
 title: "Spanish Billionaire Sentenced For Smuggling Picasso on His Superyacht"
 date: 2020-01-22T14:53:45
-slug: spanish-billionaire-sentenced-for-smuggling-picasso-on-his-superyacht
+slug: "spanish-billionaire-sentenced-for-smuggling-picasso-on-his-superyacht"
 excerpt: "I suppose if you plan on smuggling a painting by Picasso worth close to $29 million, using a superyacht might be a stylish choice. For Spanish billionaire Jaime Botin, however, it didn’t work out too well. Forbes reports: Despite a … Continue reading &rarr;"
 categories:
   - "Current"

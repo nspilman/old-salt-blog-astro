@@ -1,7 +1,7 @@
 ---
 title: "Polish Adventurer, Aleksander Doba, Who Kayaked Across the Atlantic Three Times, Dies at 74"
 date: 2021-03-13T12:04:49
-slug: polish-adventurer-aleksander-doba-who-kayaked-across-the-atlantic-three-times-dies-at-74
+slug: "polish-adventurer-aleksander-doba-who-kayaked-across-the-atlantic-three-times-dies-at-74"
 excerpt: "Aleksander Doba died late last month at the summit of Mount Kilimanjaro at the age of 74. He will be best remembered as an irrepressible, record-setting kayaker who paddled across the Atlantic three times while in his 60s and 70s. … Continue reading &rarr;"
 categories:
   - "Current"

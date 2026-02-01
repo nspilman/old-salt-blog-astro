@@ -1,14 +1,14 @@
 ---
 title: "Update: Saving the SS United States at $1 per Square Inch"
 date: 2012-07-13T18:20:23
-slug: update-saving-the-ss-united-states-at-1-per-square-inch
-excerpt: "In February 2011, we posted that the the SS United States Conservancy had purchased the S.S. United States from Norwegian Cruise Line.  The sale was made possible by a $5.8 million gift by Philadelphia philanthropist H.F. “Gerry” Lenfest.  Since then the Conservancy has raised $5 million of the estimated $25 million needed … Continue reading &rarr;"
+slug: "update-saving-the-ss-united-states-at-1-per-square-inch"
+excerpt: "In February 2011, we posted that the the SS United States Conservancy had purchased the S.S. United States from Norwegian Cruise Line.  The sale was made possible by a $5.8 million gift by Philadelphia philanthropist H.F. \"Gerry\" Lenfest.  Since then the Conservancy has raised $5 million of the estimated $25 million needed … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
   - "Ships"
 author: "Rick Spilman"
-description: "In February 2011, we posted that the the SS United States Conservancy had purchased the S.S. United States from Norwegian Cruise Line.  The sale was made possible by a $5.8 million gift by Philadelphia philanthropist H.F. “Gerry” Lenfest.  Since then the Conservancy has raised $5 million of the estimated $25 million needed … Continue reading &rarr;"
+description: "In February 2011, we posted that the the SS United States Conservancy had purchased the S.S. United States from Norwegian Cruise Line.  The sale was made possible by a $5.8 million gift by Philadelphia philanthropist H.F. \"Gerry\" Lenfest.  Since then the Conservancy has raised $5 million of the estimated $25 million needed … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2012/07/bigu.jpg)](https://savetheunitedstates.org/)In February 2011, [we posted](http://www.oldsaltblog.com/2011/02/01/the-big-u-purchased-by-conservancy/) that the the [SS United States Conservancy](http://www.ssunitedstatesconservancy.org/news/_/2011/2/conservancy-purchases-ss-united-states-through-grant-from-lenfest-foundation/) had purchased the *[S.S. United States](http://en.wikipedia.org/wiki/SS_United_States)* from Norwegian Cruise Line.  The sale was made possible by a $5.8 million gift by Philadelphia philanthropist H.F. “Gerry” Lenfest.  Since then the Conservancy has raised $5 million of the estimated $25 million needed to  to restore the exterior and part of the interior of the ships to house a museum.

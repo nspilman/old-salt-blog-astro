@@ -1,8 +1,8 @@
 ---
 title: "Russia Suspends Grain Export Deal Following Ukrainian Drone Attack on Black Sea Fleet in Sevastopol"
 date: 2022-10-30T11:03:45
-slug: russia-suspends-grain-export-deal-following-ukrainian-drone-attack-on-black-sea-fleet-in-sevastopol
-excerpt: "The BBC reports that Russia says that Ukraine carried out a “massive” drone attack on Saturday on the Black Sea Fleet in the Crimean port city of Sevastopol, damaging one warship. Nine drones were used, a top official said. Unconfirmed … Continue reading &rarr;"
+slug: "russia-suspends-grain-export-deal-following-ukrainian-drone-attack-on-black-sea-fleet-in-sevastopol"
+excerpt: "The BBC reports that Russia says that Ukraine carried out a \"massive\" drone attack on Saturday on the Black Sea Fleet in the Crimean port city of Sevastopol, damaging one warship. Nine drones were used, a top official said. Unconfirmed … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -19,7 +19,7 @@ tags:
   - "Ukraine"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2022/10/sevastdrone-attack.jpg"
 author: "Rick Spilman"
-description: "The BBC reports that Russia says that Ukraine carried out a “massive” drone attack on Saturday on the Black Sea Fleet in the Crimean port city of Sevastopol, damaging one warship. Nine drones were used, a top official said. Unconfirmed … Continue reading &rarr;"
+description: "The BBC reports that Russia says that Ukraine carried out a \"massive\" drone attack on Saturday on the Black Sea Fleet in the Crimean port city of Sevastopol, damaging one warship. Nine drones were used, a top official said. Unconfirmed … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2022/10/sevastdrone-attack.jpg)The [BBC](https://www.bbc.com/news/world-europe-63437212) reports that Russia says that Ukraine carried out a “massive” drone attack on Saturday on the Black Sea Fleet in the Crimean port city of Sevastopol, damaging one warship. Nine drones were used, a top official said. Unconfirmed sources claim that several of the Russian ships from the fleet were blown up, including the frigate *Admiral Makarov*. A Russian official in Crimea said that the drone attack was repelled, while Ukraine has not commented.

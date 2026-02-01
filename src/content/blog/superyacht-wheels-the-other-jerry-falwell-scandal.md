@@ -1,7 +1,7 @@
 ---
 title: "Superyacht Wheels — the Other Jerry Falwell Scandal"
 date: 2020-08-30T10:08:07
-slug: superyacht-wheels-the-other-jerry-falwell-scandal
+slug: "superyacht-wheels-the-other-jerry-falwell-scandal"
 excerpt: "We recently posted about the arrest of Steven Bannon, ex-senior advisor to Trump, aboard Chinese billionaire Guo Wengui’s 152′ yacht, cruising in Long Island Sound. Earlier in August, another mega-yacht was central in an unfolding scandal that brought down yet … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

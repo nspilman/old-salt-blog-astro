@@ -1,7 +1,7 @@
 ---
 title: "Update: Sedov Sails an Ice Free Northern Sea Route"
 date: 2020-10-16T09:45:54
-slug: update-sedov-sails-an-ice-free-northern-sea-route
+slug: "update-sedov-sails-an-ice-free-northern-sea-route"
 excerpt: "In late August, we posted about how the 99-year-old four-masted steel bark Sedov set off to transit the Arctic by the Northern Sea Route to reach her home port of Kaliningrad.  She has now almost completed the voyage, passing the … Continue reading &rarr;"
 categories:
   - "Current"

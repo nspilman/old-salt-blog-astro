@@ -1,7 +1,7 @@
 ---
 title: "HMS Bounty and Privateer Lynx in Portsmouth, NH"
 date: 2010-05-24T09:35:09
-slug: hms-bounty-and-privateer-lynx-in-portsmouth-nh
+slug: "hms-bounty-and-privateer-lynx-in-portsmouth-nh"
 excerpt: "HMS Bounty and the Privateer Lynx will be in Portsmouth, NH for the annual Tall Ships Portsmouth Festival on Memorial Day weekend from May 29-31. It sounds like a great event.  The local paper reports all the details, which is all well … Continue reading &rarr;"
 categories:
   - "Current"

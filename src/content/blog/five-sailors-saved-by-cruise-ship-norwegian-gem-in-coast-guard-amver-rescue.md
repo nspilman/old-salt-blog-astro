@@ -1,7 +1,7 @@
 ---
 title: "Five Sailors Saved by Cruise Ship Norwegian Gem in Coast Guard AMVER Rescue"
 date: 2011-10-30T20:03:44
-slug: five-sailors-saved-by-cruise-ship-norwegian-gem-in-coast-guard-amver-rescue
+slug: "five-sailors-saved-by-cruise-ship-norwegian-gem-in-coast-guard-amver-rescue"
 excerpt: "On Saturday morning, the 39′ sailboat, Sanctuary, in heavy weather 256 miles northeast of Bermuda, was hit by several breaking waves, lost power and began slowly taking on water. The crew of five, four men and one woman, called for help.   The US Coast Guard … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

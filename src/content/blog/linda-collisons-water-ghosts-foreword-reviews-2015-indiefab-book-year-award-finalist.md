@@ -1,7 +1,7 @@
 ---
 title: "Linda Collison’s Water Ghosts — Foreword Reviews’ 2015 INDIEFAB Book of the Year Award Finalist"
 date: 2016-03-11T07:05:20
-slug: linda-collisons-water-ghosts-foreword-reviews-2015-indiefab-book-year-award-finalist
+slug: "linda-collisons-water-ghosts-foreword-reviews-2015-indiefab-book-year-award-finalist"
 excerpt: "Congratulations to Linda Collison! Her novel Water Ghosts is a Foreword Reviews’ 2015 INDIEFAB Book of the Year Award Finalist.  In our review from last May we wrote: In Linda Collison’s new novel, Water Ghosts, seven troubled teenagers embark on a vintage … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

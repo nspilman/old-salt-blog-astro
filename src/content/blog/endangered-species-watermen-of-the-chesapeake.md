@@ -1,7 +1,7 @@
 ---
 title: "Endangered Species – Watermen of the Chesapeake"
 date: 2010-09-28T15:59:21
-slug: endangered-species-watermen-of-the-chesapeake
+slug: "endangered-species-watermen-of-the-chesapeake"
 excerpt: "The Mariners Museum in Newport News, VA has a new exhibition: Endangered Species – Watermen of the Chesapeake,  featuring extraordinary B & W portraits of watermen who work the waters of the Chesapeake Bay.   For those of us not … Continue reading &rarr;"
 categories:
   - "Current"

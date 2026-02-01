@@ -1,7 +1,7 @@
 ---
 title: "Update: Plastiki Almost Ready to Sail"
 date: 2010-02-24T12:39:32
-slug: update-plastiki-almost-ready-to-sail
+slug: "update-plastiki-almost-ready-to-sail"
 excerpt: "Last March we posted Plastiki – Boat made of plastic bottles to make ocean voyage about  a project in which David de Rothschild intended to build and sail a catamaran made of  around 12,000 recycled soda bottles across the Pacific.   Almost … Continue reading &rarr;"
 categories:
   - "Current"

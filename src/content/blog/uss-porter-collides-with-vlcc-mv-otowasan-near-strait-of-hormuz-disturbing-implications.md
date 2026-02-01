@@ -1,7 +1,7 @@
 ---
 title: "USS Porter Collides with VLCC M/V Otowasan Near Strait of Hormuz – the Disturbing Implications"
 date: 2012-08-12T09:39:36
-slug: uss-porter-collides-with-vlcc-mv-otowasan-near-strait-of-hormuz-disturbing-implications
+slug: "uss-porter-collides-with-vlcc-mv-otowasan-near-strait-of-hormuz-disturbing-implications"
 excerpt: "The Arleigh Burke-class guided missile destroyer, USS Porter collided with the Japanese owned, Panamanian flag, Very Large Crude Carrier (VLCC)  M/V Otowasan in the the Strait of Hormuz at around 1 am Sunday, local time. While few details are currently available, the … Continue reading &rarr;"
 categories:
   - "Current"

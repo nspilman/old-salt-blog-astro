@@ -1,7 +1,7 @@
 ---
 title: "Desperate Voyagers  — Three Dead, Two Missing off Florida; Italy Rescues 1,100 Migrants in Med"
 date: 2014-02-07T08:54:13
-slug: desperate-voyagers-three-dead-two-missing-off-florida-italy-rescues-1100-migrants-in-med
+slug: "desperate-voyagers-three-dead-two-missing-off-florida-italy-rescues-1100-migrants-in-med"
 excerpt: "The two stories were drastically different and yet fundamentally the same. Off Florida on Thursday, roughly 75 miles northeast of West Palm Beach,  Zeeland, a Royal Netherlands Navy patrol craft bound for Key West, spotted and rescued seven on an overturned … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

@@ -1,8 +1,8 @@
 ---
 title: "On Land and On Sea: A Century of Women in the Rosenfeld Collection at Mystic Seaport"
 date: 2017-05-14T07:55:39
-slug: land-sea-century-women-rosenfeld-collection-mystic-seaport
-excerpt: "In 2011, we posted about the Rosenfeld Collection at the Mystic Seaport with a particular focus on their maritime photography. Mystic Seaport has a new exhibit of another aspect of the work of the Rosenfelds “On Land and On Sea: A … Continue reading &rarr;"
+slug: "land-sea-century-women-rosenfeld-collection-mystic-seaport"
+excerpt: "In 2011, we posted about the Rosenfeld Collection at the Mystic Seaport with a particular focus on their maritime photography. Mystic Seaport has a new exhibit of another aspect of the work of the Rosenfelds \"On Land and On Sea: A … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -11,7 +11,7 @@ tags:
   - "women"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2017/05/lSMystic.jpg"
 author: "Rick Spilman"
-description: "In 2011, we posted about the Rosenfeld Collection at the Mystic Seaport with a particular focus on their maritime photography. Mystic Seaport has a new exhibit of another aspect of the work of the Rosenfelds “On Land and On Sea: A … Continue reading &rarr;"
+description: "In 2011, we posted about the Rosenfeld Collection at the Mystic Seaport with a particular focus on their maritime photography. Mystic Seaport has a new exhibit of another aspect of the work of the Rosenfelds \"On Land and On Sea: A … Continue reading &rarr;"
 ---
 
 In 2011, we posted about the [Rosenfeld Collection](http://www.oldsaltblog.com/2011/11/the-rosenfeld-collection/) at the Mystic Seaport with a particular focus on their maritime photography. [Mystic Seaport](http://stories.mysticseaport.org/) has a new exhibit of another aspect of the work of the Rosenfelds “[On Land and On Sea: A Century of Women.](http://stories.mysticseaport.org/on-land-and-on-sea/)” They have also posted a video to capture a bit of the exhibit.

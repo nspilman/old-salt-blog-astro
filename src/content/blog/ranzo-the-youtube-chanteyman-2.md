@@ -1,8 +1,8 @@
 ---
 title: "Ranzo, the YouTube Chanteyman"
 date: 2011-08-03T09:26:34
-slug: ranzo-the-youtube-chanteyman-2
-excerpt: "On his YouTube channel, Hulton Clint identifies himself as “Ranzo, the YouTube Chanteyman.”  Something over  three years ago he began an ambitious You Tube undertaking : The “Shanties From the Seven Seas” project where he sings the chanteys from Stan Hugill’s classic book of … Continue reading &rarr;"
+slug: "ranzo-the-youtube-chanteyman-2"
+excerpt: "On his YouTube channel, Hulton Clint identifies himself as \"Ranzo, the YouTube Chanteyman.\"  Something over  three years ago he began an ambitious You Tube undertaking : The \"Shanties From the Seven Seas\" project where he sings the chanteys from Stan Hugill’s classic book of … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Stan Hugill"
   - "YouTube Chanteyman"
 author: "Rick Spilman"
-description: "On his YouTube channel, Hulton Clint identifies himself as “Ranzo, the YouTube Chanteyman.”  Something over  three years ago he began an ambitious You Tube undertaking : The “Shanties From the Seven Seas” project where he sings the chanteys from Stan Hugill’s classic book of … Continue reading &rarr;"
+description: "On his YouTube channel, Hulton Clint identifies himself as \"Ranzo, the YouTube Chanteyman.\"  Something over  three years ago he began an ambitious You Tube undertaking : The \"Shanties From the Seven Seas\" project where he sings the chanteys from Stan Hugill’s classic book of … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2011/07/hulonclint.jpg)On his [YouTube channel, Hulton Clint](http://www.youtube.com/user/hultonclint) identifies himself as “Ranzo, the YouTube Chanteyman.”  Something over  three years ago he began an ambitious You Tube undertaking : The “[Shanties From the Seven Seas](http://www.amazon.com/gp/product/0913372706/ref=as_li_ss_tl?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0913372706)” project where he sings the chanteys from [Stan Hugill’s classic book of the same name](http://www.amazon.com/gp/product/0913372706/ref=as_li_ss_tl?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0913372706) and records them as You Tube videos.  He describes the project as:

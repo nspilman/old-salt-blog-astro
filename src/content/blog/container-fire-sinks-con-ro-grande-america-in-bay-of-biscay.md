@@ -1,7 +1,7 @@
 ---
 title: "Container Fire Sinks Con/Ro Grande America in Bay of Biscay"
 date: 2019-03-12T16:54:59
-slug: container-fire-sinks-con-ro-grande-america-in-bay-of-biscay
+slug: "container-fire-sinks-con-ro-grande-america-in-bay-of-biscay"
 excerpt: "Another container fire has claimed another ship. On Sunday, a fire broke out in a weather-deck container on the roll on/roll off container ship MV Grande America while in the Bay of Biscay, 150 miles off the French coast. The … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "BBC update on the Clipper City of Adelaide and the Battle of the Ballads"
 date: 2010-02-23T19:39:54
-slug: bbc-update-on-the-clipper-city-of-adelaide-and-the-battle-of-the-ballads
+slug: "bbc-update-on-the-clipper-city-of-adelaide-and-the-battle-of-the-ballads"
 excerpt: "BC apparently has posted an interesting videocast on the composite clipper City of Adelaide.  I write apparently because it is available only in Britain and being on the other side of the pond I can only take the word of … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Ferry ‘Pink Dolphin’ Runs Up on Rocks in South Korea, 163 Rescued"
 date: 2018-03-26T15:14:11
-slug: ferry-pink-dolphin-runs-up-on-rocks-in-south-korea-163-rescued
+slug: "ferry-pink-dolphin-runs-up-on-rocks-in-south-korea-163-rescued"
 excerpt: "On Sunday, the Pink Dolphin, a 223-ton high-speed ferry loaded with 158 passengers and five crew, ran up on rocks while operating in fog, near the port of Mokpo on the southwest coast of Korea, 400 km south of Seoul. The captain … Continue reading &rarr;"
 categories:
   - "Current"

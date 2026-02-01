@@ -1,7 +1,7 @@
 ---
 title: "Report: USS Connecticut Seamount Grounding was Preventable"
 date: 2022-05-24T12:21:23
-slug: report-uss-connecticut-seamount-grounding-was-preventable
+slug: "report-uss-connecticut-seamount-grounding-was-preventable"
 excerpt: "On Monday, the US Navy released the report of its investigation of the underwater collision of the Seawolf Class submarine, USS Connecticut, with a seamount in the South China Sea. From the report’s Executive Summary: On 2 October 2021, Connecticut … Continue reading &rarr;"
 categories:
   - "Current"

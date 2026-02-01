@@ -1,7 +1,7 @@
 ---
 title: "Bulk Carrier Ocean Breeze Driven Ashore in San Antonio, Chile in High Winds and Seas"
 date: 2012-08-17T08:29:03
-slug: bulk-carrier-ocean-breeze-driven-ashore-in-san-antonio-chile-in-high-winds-and-seas
+slug: "bulk-carrier-ocean-breeze-driven-ashore-in-san-antonio-chile-in-high-winds-and-seas"
 excerpt: "The bulk carrier Ocean Breeze came shore on Llolleo Beach, near the port of San Antonio, Chile yesterday in high winds and seas.  In a dramatic rescue, all 24 crew members were airlifted off the ship by Chilean Navy helicopters.   No … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

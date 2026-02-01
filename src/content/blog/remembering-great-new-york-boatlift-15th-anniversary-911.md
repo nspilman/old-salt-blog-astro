@@ -1,8 +1,8 @@
 ---
 title: "Remembering the Great New York Boatlift on the 15th Anniversary of 9/11"
 date: 2016-09-11T09:40:37
-slug: remembering-great-new-york-boatlift-15th-anniversary-911
-excerpt: "There is a line from a Paul Simon song, “these are the days of miracle and wonder.” One might not think to apply that lyric to the events of 9/11, fifteen years ago today, and yet for at least part … Continue reading &rarr;"
+slug: "remembering-great-new-york-boatlift-15th-anniversary-911"
+excerpt: "There is a line from a Paul Simon song, \"these are the days of miracle and wonder.\" One might not think to apply that lyric to the events of 9/11, fifteen years ago today, and yet for at least part … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -13,7 +13,7 @@ tags:
   - "American Dunkirk"
   - "New York Boatlift"
 author: "Rick Spilman"
-description: "There is a line from a Paul Simon song, “these are the days of miracle and wonder.” One might not think to apply that lyric to the events of 9/11, fifteen years ago today, and yet for at least part … Continue reading &rarr;"
+description: "There is a line from a Paul Simon song, \"these are the days of miracle and wonder.\" One might not think to apply that lyric to the events of 9/11, fifteen years ago today, and yet for at least part … Continue reading &rarr;"
 ---
 
 ![boatlift1](http://www.oldsaltblog.com/wp-content/uploads/2016/09/boatlift1.jpg)There is a line from a Paul Simon song, “these are the days of miracle and wonder.” One might not think to apply that lyric to the events of 9/11, fifteen years ago today, and yet for at least part of that strange and horrible day, they fit. The great [New York boatlift](https://news.usni.org/2014/07/23/coast-guard-led-9-11-water-evacuation-bigger-dunkirk) was part of the “miracle and wonder.” The wholly unplanned, boatlift was the spontaneous maritime evacution of over 300,000 people trapped in Lower Manhattan in less than 10 hours. Like many stories of 9/11, the boatlift has been under-reported by the media, which still [seems more interested in the bodies falling](https://www.google.com/?ion=1&espv=2#q=9%2F11+photo+falling) than in the rescues, which is all the more reason to remember the mariners of New York who stepped up to perform what has been called the largest sea rescue in history.

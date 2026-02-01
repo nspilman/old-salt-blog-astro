@@ -1,7 +1,7 @@
 ---
 title: "Why the Emma Mærsk’s Engine Room Flooded – the Watertight Bulkhead that Wasn’t"
 date: 2013-03-26T07:33:13
-slug: why-the-emma-maersks-engine-room-flooded-the-watertight-bulkhead-that-wasnt
+slug: "why-the-emma-maersks-engine-room-flooded-the-watertight-bulkhead-that-wasnt"
 excerpt: "In the beginning of February, we posted about the flooding of the engine room on the Emma Mærsk, as the ship was entering the Suez Canal. The flooding put 16 feet of water in the engine room of ship, which is … Continue reading &rarr;"
 categories:
   - "Current"

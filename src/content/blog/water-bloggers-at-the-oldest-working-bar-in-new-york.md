@@ -1,7 +1,7 @@
 ---
 title: "Water Bloggers at the Oldest Working Bar in New York"
 date: 2011-02-13T21:28:58
-slug: water-bloggers-at-the-oldest-working-bar-in-new-york
+slug: "water-bloggers-at-the-oldest-working-bar-in-new-york"
 excerpt: "One of the wonderful and maddening things about the internet is that we all make so many virtual acquaintances;  many who become good friends, and yet who we have met only through the ether of web pages and email.   It was, … Continue reading &rarr;"
 categories:
   - "Current"

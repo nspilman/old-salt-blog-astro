@@ -1,7 +1,7 @@
 ---
 title: "A New Year Welcomed by Steam Whistles in Brooklyn – Chief Engineer Conrad Milster and his Passion for Steam"
 date: 2012-12-31T11:49:43
-slug: a-new-year-welcomed-by-steam-whistles-in-brooklyn-chief-engineer-conrad-milster-and-his-passion-for-steam
+slug: "a-new-year-welcomed-by-steam-whistles-in-brooklyn-chief-engineer-conrad-milster-and-his-passion-for-steam"
 excerpt: "While hundreds of thousands shiver waiting for the ball to drop in TImes Square, a few miles away at the Pratt Institute in Brooklyn, a small but likely warmer crowd gathers to hear Chief Engineer Conrad Mister blow his collection … Continue reading &rarr;"
 categories:
   - "History"

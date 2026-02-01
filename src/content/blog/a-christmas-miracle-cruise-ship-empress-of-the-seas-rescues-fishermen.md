@@ -1,7 +1,7 @@
 ---
 title: "A Christmas Miracle — Cruise Ship Empress of the Seas Rescues Fishermen"
 date: 2018-12-25T10:18:15
-slug: a-christmas-miracle-cruise-ship-empress-of-the-seas-rescues-fishermen
+slug: "a-christmas-miracle-cruise-ship-empress-of-the-seas-rescues-fishermen"
 excerpt: "Call it a miracle, serendipity, or just good luck, but two stranded Costa Rican fishermen were rescued by the Royal Caribbean cruise ship Empress of the Seas after the ship was rerouted because of a storm. If the ship had continued on … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: Golden Horizon, ex-Flying Clipper, World’s Largest Sailing Ship, to Sail from UK Next Year"
 date: 2020-06-27T10:59:32
-slug: update-golden-horizon-ex-flying-clipper-worlds-largest-sailing-ship-to-sail-from-uk-next-year
+slug: "update-golden-horizon-ex-flying-clipper-worlds-largest-sailing-ship-to-sail-from-uk-next-year"
 excerpt: "While this may not appear to be the best time to start a new cruise venture, if all goes well, in the Spring of 2021, Tradewind Voyages will offer voyages on the Golden Horizon, a 272 passenger five-masted barque.  Setting … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

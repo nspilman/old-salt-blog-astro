@@ -1,7 +1,7 @@
 ---
 title: "USS Jimmy Carter — the Navy’s Stealthy Spy Submarine"
 date: 2025-01-10T18:14:58
-slug: uss-jimmy-carter-the-navys-stealthy-spy-submarine
+slug: "uss-jimmy-carter-the-navys-stealthy-spy-submarine"
 excerpt: "On the day following Jimmy Carter’s funeral, it seems like a good time to look at the top-secret submarine that bears his name. The USS Jimmy Carter (SSN 23) is a unique submarine in many respects. Commissioned in 2005, she … Continue reading &rarr;"
 categories:
   - "Current"

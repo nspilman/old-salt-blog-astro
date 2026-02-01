@@ -1,8 +1,8 @@
 ---
 title: "Black History Month Repost — Harriet Tubman & the Great Combahee Ferry Raid"
 date: 2021-02-03T15:53:33
-slug: black-history-month-repost-harriet-tubman-the-great-combahee-ferry-raid
-excerpt: "With the arrival of the newly elected administration, Harriet Tubman, abolitionist and underground railroad “conductor” is back in the news and may, before too very long, grace our currency. In 2016, the Treasury decided to put the image of Harriet … Continue reading &rarr;"
+slug: "black-history-month-repost-harriet-tubman-the-great-combahee-ferry-raid"
+excerpt: "With the arrival of the newly elected administration, Harriet Tubman, abolitionist and underground railroad \"conductor\" is back in the news and may, before too very long, grace our currency. In 2016, the Treasury decided to put the image of Harriet … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Underground Railroad"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2021/02/htubman.jpg"
 author: "Rick Spilman"
-description: "With the arrival of the newly elected administration, Harriet Tubman, abolitionist and underground railroad “conductor” is back in the news and may, before too very long, grace our currency. In 2016, the Treasury decided to put the image of Harriet … Continue reading &rarr;"
+description: "With the arrival of the newly elected administration, Harriet Tubman, abolitionist and underground railroad \"conductor\" is back in the news and may, before too very long, grace our currency. In 2016, the Treasury decided to put the image of Harriet … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2021/02/htubman.jpg)With the arrival of the newly elected administration, Harriet Tubman, abolitionist and underground railroad “conductor” is back in the news and may, before too very long, grace our currency.

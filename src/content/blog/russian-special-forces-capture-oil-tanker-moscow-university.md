@@ -1,7 +1,7 @@
 ---
 title: "Russian special forces capture oil tanker Moscow University"
 date: 2010-05-06T14:56:49
-slug: russian-special-forces-capture-oil-tanker-moscow-university
+slug: "russian-special-forces-capture-oil-tanker-moscow-university"
 excerpt: "Close cooperation between the ship’s personnel and the Russian military allowed Russian special forces to storm the captured tanker Moscow University without unduly jeopardizing the safety of the crew. Russian special forces capture oil tanker … Continue reading &rarr;"
 categories:
   - "Current"

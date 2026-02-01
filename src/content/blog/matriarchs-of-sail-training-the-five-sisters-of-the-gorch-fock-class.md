@@ -1,8 +1,8 @@
 ---
 title: "Matriarchs of Sail Training — the Five Sisters of the Gorch Fock Class"
 date: 2018-06-17T15:18:02
-slug: matriarchs-of-sail-training-the-five-sisters-of-the-gorch-fock-class
-excerpt: "Three years ago, the BBC published an article with the clickbait title of “Why is the US still using a Nazi tall ship?”  The article was about the USCG Cutter Eagle and was OK as far as it went. The title … Continue reading &rarr;"
+slug: "matriarchs-of-sail-training-the-five-sisters-of-the-gorch-fock-class"
+excerpt: "Three years ago, the BBC published an article with the clickbait title of \"Why is the US still using a Nazi tall ship?\"  The article was about the USCG Cutter Eagle and was OK as far as it went. The title … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -18,7 +18,7 @@ tags:
   - "NRP Sagres"
   - "Tovarishch"
 author: "Rick Spilman"
-description: "Three years ago, the BBC published an article with the clickbait title of “Why is the US still using a Nazi tall ship?”  The article was about the USCG Cutter Eagle and was OK as far as it went. The title … Continue reading &rarr;"
+description: "Three years ago, the BBC published an article with the clickbait title of \"Why is the US still using a Nazi tall ship?\"  The article was about the USCG Cutter Eagle and was OK as far as it went. The title … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/06/gorchfolkclass1.jpg)

@@ -1,7 +1,7 @@
 ---
-title: "Status-6 — Putin’s Autonomous “Doomsday” Torpedo"
+title: "Status-6 — Putin’s Autonomous \"Doomsday\" Torpedo"
 date: 2018-03-02T16:11:16
-slug: status-6-putins-autonomous-doomsday-torpedo
+slug: "status-6-putins-autonomous-doomsday-torpedo"
 excerpt: "In a speech yesterday, Russian President Vladimir Putin threatened the United States with a new generation of nuclear weapons. Putin showed video animations of nuclear warheads raining down on Florida from a new design of an intercontinental cruise missile that he described … Continue reading &rarr;"
 categories:
   - "Current"

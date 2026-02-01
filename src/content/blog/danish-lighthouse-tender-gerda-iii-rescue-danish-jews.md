@@ -1,7 +1,7 @@
 ---
 title: "Danish Lighthouse Tender Gerda III & the Rescue of Danish Jews"
 date: 2017-09-23T09:50:21
-slug: danish-lighthouse-tender-gerda-iii-rescue-danish-jews
+slug: "danish-lighthouse-tender-gerda-iii-rescue-danish-jews"
 excerpt: "Among the fleet of ships and boats that make up the fleet at the Mystic Seaport Museum, the Danish lighthouse tender Gerda III, built in 1926, is a ruggedly attractive double-ender. Nevertheless, she could easily be overlooked. That would be a … Continue reading &rarr;"
 categories:
   - "Current"

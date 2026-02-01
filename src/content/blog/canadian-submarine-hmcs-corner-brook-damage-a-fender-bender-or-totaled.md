@@ -1,7 +1,7 @@
 ---
-title: "Canadian Submarine HMCS Corner Brook – Damage a “Fender Bender” or is Sub “Totalled”?"
+title: "Canadian Submarine HMCS Corner Brook – Damage a \"Fender Bender\" or is Sub \"Totalled\"?"
 date: 2012-02-17T11:28:23
-slug: canadian-submarine-hmcs-corner-brook-damage-a-fender-bender-or-totaled
+slug: "canadian-submarine-hmcs-corner-brook-damage-a-fender-bender-or-totaled"
 excerpt: "Canadian Submarine HMCS Corner Brook ran aground during manoeuvres off Vancouver Island in June 2011.  Two sailors were slightly injured.  The Canadian navy never described the extent of the damage or released a photograph of the damage to the sub.  The sub has now just … Continue reading &rarr;"
 categories:
   - "Current"

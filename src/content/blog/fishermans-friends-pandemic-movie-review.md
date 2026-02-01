@@ -1,8 +1,8 @@
 ---
 title: "Fisherman’s Friends — Pandemic Movie Review"
 date: 2020-11-18T17:29:56
-slug: fishermans-friends-pandemic-movie-review
-excerpt: "I am tempted to begin by saying that I watched the movie “Fisherman’s Friends,” so that you don’t have to. Perhaps a better introduction would be to paraphrase Abe Lincon. “If this is the sort of movie you, you may … Continue reading &rarr;"
+slug: "fishermans-friends-pandemic-movie-review"
+excerpt: "I am tempted to begin by saying that I watched the movie \"Fisherman’s Friends,\" so that you don’t have to. Perhaps a better introduction would be to paraphrase Abe Lincon. \"If this is the sort of movie you, you may … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "shanty-singers"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/11/ffmoviebanner.jpg"
 author: "Rick Spilman"
-description: "I am tempted to begin by saying that I watched the movie “Fisherman’s Friends,” so that you don’t have to. Perhaps a better introduction would be to paraphrase Abe Lincon. “If this is the sort of movie you, you may … Continue reading &rarr;"
+description: "I am tempted to begin by saying that I watched the movie \"Fisherman’s Friends,\" so that you don’t have to. Perhaps a better introduction would be to paraphrase Abe Lincon. \"If this is the sort of movie you, you may … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2020/11/ffmoviebanner.jpg)I am tempted to begin by saying that I watched the movie “Fisherman’s Friends,” so that you don’t have to. Perhaps a better introduction would be to paraphrase Abe Lincon. “If this is the sort of movie you, you may like this movie.”  To be fair, I am not a fan of rom-coms and why making a romantic comedy about a real-life group of shanty-singers in Cornwall was a good idea is still a mystery to me. 

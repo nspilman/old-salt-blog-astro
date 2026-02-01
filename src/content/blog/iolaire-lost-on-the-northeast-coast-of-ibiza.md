@@ -1,7 +1,7 @@
 ---
 title: "Iolaire Lost on the Northeast Coast of Ibiza"
 date: 2019-08-18T17:32:15
-slug: iolaire-lost-on-the-northeast-coast-of-ibiza
+slug: "iolaire-lost-on-the-northeast-coast-of-ibiza"
 excerpt: "Sad news reported by ClassicSailboats.org. The 114-year-old sailing yacht Iolaire was lost off Ibiza in late July. She ran ashore after an uncontrolled jibe and sank. The crew escaped without injury. Iolaire, previously owned for over half a century by … Continue reading &rarr;"
 categories:
   - "Current"

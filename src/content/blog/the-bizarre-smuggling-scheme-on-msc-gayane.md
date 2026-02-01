@@ -1,7 +1,7 @@
 ---
 title: "The Bizarre Smuggling Scheme on MSC Gayane"
 date: 2019-06-20T13:36:51
-slug: the-bizarre-smuggling-scheme-on-msc-gayane
+slug: "the-bizarre-smuggling-scheme-on-msc-gayane"
 excerpt: "On Monday, 15.5 tonnes of cocaine worth roughly $1 billion was seized by Federal authorities aboard the MSC Gayane in the Port of Philadelphia. The drugs were found in seven shipping containers. It was one of the largest drug seizures … Continue reading &rarr;"
 categories:
   - "Current"

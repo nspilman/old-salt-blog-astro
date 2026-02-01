@@ -1,7 +1,7 @@
 ---
 title: "Washington and Hamilton on the US Coast Guard’s 225th Birthday"
 date: 2015-08-04T18:20:42
-slug: washington-and-hamilton-on-the-us-coast-guards-225th-birthday
+slug: "washington-and-hamilton-on-the-us-coast-guards-225th-birthday"
 excerpt: "Today, on the 225th anniversary of George Washington signing of the legislation establishing the Revenue-Marine, the predecessor to the United States Coast Guard, President George Washington and his Secretary of the Treasury, Alexander Hamilton, returned to Federal Hall in New … Continue reading &rarr;"
 categories:
   - "Current"

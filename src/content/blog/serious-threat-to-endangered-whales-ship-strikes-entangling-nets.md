@@ -1,7 +1,7 @@
 ---
 title: "Serious Threat to Endangered Whales – Ship Strikes & Entangling Nets"
 date: 2012-07-17T14:05:12
-slug: serious-threat-to-endangered-whales-ship-strikes-entangling-nets
+slug: "serious-threat-to-endangered-whales-ship-strikes-entangling-nets"
 excerpt: "One of the greatest threats to many endangered species of whale is being run down by ships or getting entangled in fishing nets.  This week, federal maritime officials have approved a plan to protect whales in and around San Francisco Bay that features … Continue reading &rarr;"
 categories:
   - "Current"

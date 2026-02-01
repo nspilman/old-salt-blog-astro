@@ -1,7 +1,7 @@
 ---
-title: "Robot Dog Helps Christen NavyX’s “Maritime Sandbox” XV Patrick Blacket"
+title: "Robot Dog Helps Christen NavyX’s \"Maritime Sandbox\" XV Patrick Blacket"
 date: 2022-07-29T16:32:16
-slug: robot-dog-helps-christen-navyxs-maritime-sandbox-xv-patrick-blacket
+slug: "robot-dog-helps-christen-navyxs-maritime-sandbox-xv-patrick-blacket"
 excerpt: "NavyX’s new maritime sandbox, XV Patrick Blacket, was christened today in Portsmouth, UK with the help of a robotic dog. You might well ask, what is NavyX? What is a maritime sandbox? And what about the robotic dog? Navy X … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Update: Second Survivor Rescued After Livestock Carrier Capsizes in Typhoon"
 date: 2020-09-05T11:15:26
-slug: update-second-survivor-rescued-after-livestock-carrier-capsized-in-typhoon
+slug: "update-second-survivor-rescued-after-livestock-carrier-capsized-in-typhoon"
 excerpt: "Two days after the capsize and sinking of the livestock carrier, Gulf Livestock 1, in Typhoon Maysak, the Japanese coast guard has rescued a second survivor. Jay-nel Rosales, 30, of the Philippines, was found floating alone in a life raft … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

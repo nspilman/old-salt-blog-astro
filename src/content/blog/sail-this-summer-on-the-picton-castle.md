@@ -1,7 +1,7 @@
 ---
 title: "Sail this summer on the Picton Castle"
 date: 2011-02-05T15:01:31
-slug: sail-this-summer-on-the-picton-castle
+slug: "sail-this-summer-on-the-picton-castle"
 excerpt: "The barque Picton Castle, known for its around the world voyages, is offering cruises this summer sailing around Newfoundland. It sounds fantastic. Sail Around Newfoundland Starkly stunning coastline. Incredible whales, seabirds and maybe even icebergs. Hospitable folks in big towns and small outport … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "The Women Lighthouse Keepers of New Orleans’ New Canal Lighthouse"
 date: 2019-03-10T18:00:54
-slug: the-women-lighthouse-keepers-of-new-orleans
+slug: "the-women-lighthouse-keepers-of-new-orleans"
 excerpt: "We recently posted about a planned statue honoring Kate Walker, the lighthouse keeper of the Robbins Reef Light in New York harbor for close to 35 years. Kate took over as keeper when her husband died of pneumonia in 1886. … Continue reading &rarr;"
 categories:
   - "History"

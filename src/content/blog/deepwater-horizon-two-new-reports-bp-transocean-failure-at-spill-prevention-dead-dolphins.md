@@ -1,7 +1,7 @@
 ---
 title: "Deepwater Horizon, Two New Reports – BP & Transocean Failure at Spill Prevention & Dead Dolphins"
 date: 2012-07-25T07:51:51
-slug: deepwater-horizon-two-new-reports-bp-transocean-failure-at-spill-prevention-dead-dolphins
+slug: "deepwater-horizon-two-new-reports-bp-transocean-failure-at-spill-prevention-dead-dolphins"
 excerpt: "Two recent reports look at the actions and inaction of BP and its contractor Transocean before the Deepwater Horizon explosion and the consequences of the resulting spill on the environment.  The explosion on the drilling rig Deepwater Horizon killed 11 and … Continue reading &rarr;"
 categories:
   - "Current"

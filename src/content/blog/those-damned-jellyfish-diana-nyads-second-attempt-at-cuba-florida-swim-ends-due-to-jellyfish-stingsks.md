@@ -1,7 +1,7 @@
 ---
-title: "“Those Damned Jellyfish” – Diana Nyad’s Second Attempt at Cuba-Florida Swim Ends Due to Jellyfish Stingsks"
+title: "\"Those Damned Jellyfish\" – Diana Nyad’s Second Attempt at Cuba-Florida Swim Ends Due to Jellyfish Stingsks"
 date: 2011-09-26T13:43:19
-slug: those-damned-jellyfish-diana-nyads-second-attempt-at-cuba-florida-swim-ends-due-to-jellyfish-stingsks
+slug: "those-damned-jellyfish-diana-nyads-second-attempt-at-cuba-florida-swim-ends-due-to-jellyfish-stingsks"
 excerpt: "In August, Diana Nyard attempted to become the first person to swim from Cuba to Florida without the aid of a shark cage.  She gave up that attempt after 29 hours of swimming when adverse winds blew her off course.   … Continue reading &rarr;"
 categories:
   - "Current"

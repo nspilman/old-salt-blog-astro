@@ -1,7 +1,7 @@
 ---
 title: "Update: Ex-Presidential Yacht Sequoia Bound for Restoration in Maine"
 date: 2019-09-23T14:25:39
-slug: update-ex-presidential-yacht-sequoia-bound-for-restoration-in-maine
+slug: "update-ex-presidential-yacht-sequoia-bound-for-restoration-in-maine"
 excerpt: "Back in 2016, we posted about a new owner for the ex-presidential yacht Sequoia, which had been sitting, deteriorating in a boatyard in Deltaville, VA. Now, three years later, the 104′ long motor vessel has been loaded aboard a barge to … Continue reading &rarr;"
 categories:
   - "Current"

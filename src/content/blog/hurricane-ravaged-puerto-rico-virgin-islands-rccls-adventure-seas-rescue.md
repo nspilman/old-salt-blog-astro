@@ -1,7 +1,7 @@
 ---
 title: "In Hurricane Ravaged Puerto Rico & the Virgin Islands, RCCL’s Adventure of the Seas to the Rescue"
 date: 2017-09-29T12:40:25
-slug: hurricane-ravaged-puerto-rico-virgin-islands-rccls-adventure-seas-rescue
+slug: "hurricane-ravaged-puerto-rico-virgin-islands-rccls-adventure-seas-rescue"
 excerpt: "Royal Caribbean Cruise Line canceled their weekly scheduled cruise on the  MV Adventure of the Seas and instead sent the 3,114 passenger ship on a relief mission to carry supplies to those in need and to evacuate people from islands devastated by … Continue reading &rarr;"
 categories:
   - "Current"

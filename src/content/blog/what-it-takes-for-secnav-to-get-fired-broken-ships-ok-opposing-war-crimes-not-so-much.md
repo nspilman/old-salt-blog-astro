@@ -1,7 +1,7 @@
 ---
 title: "What It Takes For SecNav to Get Fired — Broken Ships OK; Opposing War Crimes Not So Much"
 date: 2019-11-25T11:01:38
-slug: what-it-takes-for-secnav-to-get-fired-broken-ships-ok-opposing-war-crimes-not-so-much
+slug: "what-it-takes-for-secnav-to-get-fired-broken-ships-ok-opposing-war-crimes-not-so-much"
 excerpt: "The Secretary of the Navy, Richard V. Spencer, has been fired. What is revelatory is what he was fired for.  As we posted last month, in January, Spencer made a promise to President Trump that the advanced weapons elevators on the … Continue reading &rarr;"
 categories:
   - "Current"

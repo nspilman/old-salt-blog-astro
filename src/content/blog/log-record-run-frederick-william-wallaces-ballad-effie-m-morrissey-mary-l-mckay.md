@@ -1,7 +1,7 @@
 ---
 title: "The Log of the Record Run — Frederick William Wallace’s Ballad of the Effie M. Morrissey (Mary L. McKay)"
 date: 2017-06-05T09:26:16
-slug: log-record-run-frederick-william-wallaces-ballad-effie-m-morrissey-mary-l-mckay
+slug: "log-record-run-frederick-william-wallaces-ballad-effie-m-morrissey-mary-l-mckay"
 excerpt: "One last post (at least for the immediate future) on the historic schooner Ernestina-Morrissey, which is now being restored in Boothbay, Maine.  Launched in February, 1894, she had a very successful almost thirty year fishing career, before becoming an Arctic exploration ship and then … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

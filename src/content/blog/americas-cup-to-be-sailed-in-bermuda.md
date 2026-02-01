@@ -1,7 +1,7 @@
 ---
 title: "America’s Cup to be Sailed in Bermuda"
 date: 2014-11-22T09:06:28
-slug: americas-cup-to-be-sailed-in-bermuda
+slug: "americas-cup-to-be-sailed-in-bermuda"
 excerpt: "Unless I am mistaken, when the Oracle Team US AC 72 sailed to victory in 2013, there was only one American citizen in the crew. The members of Emirates Team New Zealand, which needed the sponsorship of Emirates Airlines to … Continue reading &rarr;"
 categories:
   - "Current"

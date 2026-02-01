@@ -1,7 +1,7 @@
 ---
 title: "Great Barrier Reef Suffers Unprecedented Sixth Mass Coral Bleaching Event"
 date: 2022-03-28T10:36:01
-slug: great-barrier-reef-suffers-unprecedented-sixth-mass-coral-bleaching-event
+slug: "great-barrier-reef-suffers-unprecedented-sixth-mass-coral-bleaching-event"
 excerpt: "Australia’s Great Barrier Reef has been hit with a sixth mass coral bleaching event, the marine park’s authority has confirmed, with aerial surveys showing almost no reefs across a 1,200km stretch escaping the heat, as reported by the Guardian. The … Continue reading &rarr;"
 categories:
   - "Current"

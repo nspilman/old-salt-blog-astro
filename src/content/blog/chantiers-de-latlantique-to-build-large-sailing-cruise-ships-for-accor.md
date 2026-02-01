@@ -1,8 +1,8 @@
 ---
 title: "Chantiers de l’Atlantique to Build Large Sailing Cruise Ships for Accor"
 date: 2023-01-14T20:10:35
-slug: chantiers-de-latlantique-to-build-large-sailing-cruise-ships-for-accor
-excerpt: "Marine Log reports that French hospitality giant Accor S.A. has signed a letter of intent with Chantiers de l’Atlantique covering the construction of two very large luxury sailing cruise ships. The shipbuilder says “the order will be signed within a few … Continue reading &rarr;"
+slug: "chantiers-de-latlantique-to-build-large-sailing-cruise-ships-for-accor"
+excerpt: "Marine Log reports that French hospitality giant Accor S.A. has signed a letter of intent with Chantiers de l’Atlantique covering the construction of two very large luxury sailing cruise ships. The shipbuilder says \"the order will be signed within a few … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Sailing Cruise Ships"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/01/accor-1.jpg"
 author: "Rick Spilman"
-description: "Marine Log reports that French hospitality giant Accor S.A. has signed a letter of intent with Chantiers de l’Atlantique covering the construction of two very large luxury sailing cruise ships. The shipbuilder says “the order will be signed within a few … Continue reading &rarr;"
+description: "Marine Log reports that French hospitality giant Accor S.A. has signed a letter of intent with Chantiers de l’Atlantique covering the construction of two very large luxury sailing cruise ships. The shipbuilder says \"the order will be signed within a few … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/01/accor-1.jpg)[Marine Log](https://www.marinelog.com/passenger/cruiseships/chantiers-de-latlantique-set-to-build-worlds-largest-sailing-vessels/?utm_source=&utm_medium=email&utm_campaign=37269) reports that French hospitality giant Accor S.A. has signed a letter of intent with [Chantiers de l’Atlantique](https://www.marinelog.com/?s=%22Chantiers+de+l%27Atlantique%22) covering the construction of two very large luxury sailing cruise ships. The shipbuilder says “the order will be signed within a few weeks” and that the first ship, the *Orient Express Silenseas*, will be delivered in March 2026 and the second on September 1, 2027.

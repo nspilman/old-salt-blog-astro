@@ -1,7 +1,7 @@
 ---
 title: "New Battle for the Battleship New Jersey"
 date: 2012-03-15T12:09:46
-slug: new-battle-for-the-battleship-new-jersey
+slug: "new-battle-for-the-battleship-new-jersey"
 excerpt: "Retirement has not been easy for the Battleship New Jersey. After serving with distinction for 45 years in World War II, the Korean Conflict and the War in Vietnam, the highly decorated battleship became a museum ship in Camden, New Jersey in … Continue reading &rarr;"
 categories:
   - "Current"

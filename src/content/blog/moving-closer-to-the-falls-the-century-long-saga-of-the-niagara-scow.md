@@ -1,7 +1,7 @@
 ---
-title: "Moving Closer to the Falls — the Century-Long Saga of the “Niagara Scow”"
+title: "Moving Closer to the Falls — the Century-Long Saga of the \"Niagara Scow\""
 date: 2019-11-04T13:16:06
-slug: moving-closer-to-the-falls-the-century-long-saga-of-the-niagara-scow
+slug: "moving-closer-to-the-falls-the-century-long-saga-of-the-niagara-scow"
 excerpt: "For just over a century, an 80-foot long iron sand-dumping scow has been stuck on a rock in the raging currents of the Niagara River just upriver from the Canadian side of Niagara Falls. After a powerful storm blew through … Continue reading &rarr;"
 categories:
   - "Current"

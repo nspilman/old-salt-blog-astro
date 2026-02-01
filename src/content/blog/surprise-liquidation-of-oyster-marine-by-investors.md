@@ -1,7 +1,7 @@
 ---
 title: "Surprise Liquidation of Oyster Marine by Investors"
 date: 2018-02-08T09:28:38
-slug: surprise-liquidation-of-oyster-marine-by-investors
+slug: "surprise-liquidation-of-oyster-marine-by-investors"
 excerpt: "Until a few days ago, everything seemed promising for the award-winning UK yacht builder Oyster Marine. Oyster had a record year in 2017. Their order-book stood at $70 million and they had gotten a great response to their Oyster 745 on … Continue reading &rarr;"
 categories:
   - "Current"

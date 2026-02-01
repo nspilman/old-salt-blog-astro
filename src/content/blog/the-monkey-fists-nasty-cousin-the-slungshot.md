@@ -1,7 +1,7 @@
 ---
 title: "The Monkey Fist’s Nasty Cousin — the Slungshot"
 date: 2018-07-06T16:21:53
-slug: the-monkey-fists-nasty-cousin-the-slungshot
+slug: "the-monkey-fists-nasty-cousin-the-slungshot"
 excerpt: "I recently learned the slungshot, not to be confused with a slingshot. The slungshot is a monkey’s fist’s nasty cousin. As most are probably aware, a monkey’s fist is a knot, shaped like a ball (or a fist), used to provide weight … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "China oil spill a ‘severe threat’"
 date: 2010-07-21T11:30:27
-slug: china-oil-spill-a-severe-threat
+slug: "china-oil-spill-a-severe-threat"
 excerpt: "Sadly the Deepwater Horizon spill in the Gulf of Mexico is not the only ongoing major oil spill. China oil spill doubles in size, is deemed ‘severe threat’ China’s largest reported oil spill more than doubled in size to 165 square miles … Continue reading &rarr;"
 categories:
   - "Current"

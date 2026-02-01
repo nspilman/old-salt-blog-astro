@@ -1,7 +1,7 @@
 ---
 title: "Clipper Round the World Race Starts"
 date: 2015-08-30T14:03:59
-slug: 2015-2-16-clipper-round-the-world-race-starts
+slug: "2015-2-16-clipper-round-the-world-race-starts"
 excerpt: "Today, the Clipper Round The World Yacht Race began from St Katherine’s Docks, London.  Twelve teams are competing in the world’s longest ocean race of 40,000 nautical miles.  While the captains of the twelve boats are all professionals, the 700 crew members … Continue reading &rarr;"
 categories:
   - "Current"

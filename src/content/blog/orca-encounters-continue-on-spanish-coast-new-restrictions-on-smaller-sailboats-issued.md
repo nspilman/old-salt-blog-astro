@@ -1,7 +1,7 @@
 ---
 title: "Orca Encounters Continue on Spanish Coast, New Restrictions on Smaller Sailboats Issued"
 date: 2021-08-16T13:37:00
-slug: orca-encounters-continue-on-spanish-coast-new-restrictions-on-smaller-sailboats-issued
+slug: "orca-encounters-continue-on-spanish-coast-new-restrictions-on-smaller-sailboats-issued"
 excerpt: "Last September, the Spanish government issued restrictions on operating sailboats less than 15 meters long off a section of its Galician coast after multiple cases of encounters with pods of orcas, also known as killer whales. Last week, Spain issued … Continue reading &rarr;"
 categories:
   - "Current"

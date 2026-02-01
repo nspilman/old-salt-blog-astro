@@ -1,7 +1,7 @@
 ---
 title: "Edwin Fox, Teak East Indiaman at Picton, NZ"
 date: 2015-10-28T20:13:04
-slug: edwin-fox-teak-east-indiaman-at-picton-nz
+slug: "edwin-fox-teak-east-indiaman-at-picton-nz"
 excerpt: "Ben Talman, a reader and contributor to the Old Salt Blog, visited the Edwin Fox in Picton, New Zealand and took a series of wonderful photos of the historic ship. The Edwin Fox is an East Indiaman built in 1853 of teak in Calcutta, India. … Continue reading &rarr;"
 categories:
   - "History"

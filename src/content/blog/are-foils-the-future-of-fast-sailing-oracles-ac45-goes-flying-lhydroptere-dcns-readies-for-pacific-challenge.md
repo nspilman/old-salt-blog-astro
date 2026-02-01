@@ -1,7 +1,7 @@
 ---
 title: "Are Foils the Future of Fast Sailing?  Oracle’s AC45 Goes Flying & l’Hydroptère DCNS Readies for Pacific Challenge"
 date: 2012-06-28T08:00:51
-slug: are-foils-the-future-of-fast-sailing-oracles-ac45-goes-flying-lhydroptere-dcns-readies-for-pacific-challenge
+slug: "are-foils-the-future-of-fast-sailing-oracles-ac45-goes-flying-lhydroptere-dcns-readies-for-pacific-challenge"
 excerpt: "When I was coming of age, many thought that the future of speed on the water would be in motor-powered hydrofoils.  While there are still a few hydrofoil ferries in operation, the idea really never caught on.  Now, however, hydrofoils have appeared … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

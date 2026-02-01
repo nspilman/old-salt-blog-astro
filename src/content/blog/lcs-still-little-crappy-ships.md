@@ -1,7 +1,7 @@
 ---
-title: "LCS Still “Little Crappy Ships”"
+title: "LCS Still \"Little Crappy Ships\""
 date: 2015-12-22T19:04:35
-slug: lcs-still-little-crappy-ships
+slug: "lcs-still-little-crappy-ships"
 excerpt: "Back in the early 200s, the US Navy began a program to build a new class of Littoral Combat Ships, LCS, which were intended to be fast, agile and, at least by US Navy standards, relatively inexpensive, which could operate … Continue reading &rarr;"
 categories:
   - "Current"

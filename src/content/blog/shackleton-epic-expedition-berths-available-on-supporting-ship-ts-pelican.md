@@ -1,7 +1,7 @@
 ---
 title: "Shackleton Epic Expedition: Berths Available on Supporting Ship T/S Pelican"
 date: 2012-09-10T10:17:04
-slug: shackleton-epic-expedition-berths-available-on-supporting-ship-ts-pelican
+slug: "shackleton-epic-expedition-berths-available-on-supporting-ship-ts-pelican"
 excerpt: "Shackleton Epic Expeditions has announced the availability of 10 berths on T/S Pelican when it serves as a support vessel for the upcoming re-enactment of an epic lifeboat voyage undertaken by Ernest Shackleton and five sailors in 1916. The Pelican is a … Continue reading &rarr;"
 categories:
   - "Current"

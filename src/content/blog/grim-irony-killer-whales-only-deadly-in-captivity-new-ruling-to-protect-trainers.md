@@ -1,7 +1,7 @@
 ---
 title: "Killer Whales Only Deadly in Captivity – New Ruling Protects Trainers, Who Protects the Orcas?"
 date: 2012-06-08T09:03:12
-slug: grim-irony-killer-whales-only-deadly-in-captivity-new-ruling-to-protect-trainers
+slug: "grim-irony-killer-whales-only-deadly-in-captivity-new-ruling-to-protect-trainers"
 excerpt: "A recent ruling by the Occupational Safety and Health Review Commission, determined that orca trainers must either remain at a greater distance from the orcas, stand behind a physical barrier or use other devices to keep them safer during performances. This ruling … Continue reading &rarr;"
 categories:
   - "Current"

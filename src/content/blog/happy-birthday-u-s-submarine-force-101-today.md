@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday, U.S. Submarine Force: 111 Today"
 date: 2011-04-11T12:03:17
-slug: happy-birthday-u-s-submarine-force-101-today
+slug: "happy-birthday-u-s-submarine-force-101-today"
 excerpt: "One hundred and eleven years ago today the US Navy accepted  its first successful submarine, the USS Holland.  The previous November, in New York harbor, the Holland passed the Navy’s tests.  She ran for one mile underwater, surfaced, fired a torpedo then … Continue reading &rarr;"
 categories:
   - "History"

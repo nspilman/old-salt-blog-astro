@@ -1,7 +1,7 @@
 ---
 title: "Paddling Across America By Canoe Over 22 Months, 22 States, & On 22 Rivers"
 date: 2021-12-20T18:56:45
-slug: paddling-across-america-by-canoe-over-22-months-22-states-on-22-rivers
+slug: "paddling-across-america-by-canoe-over-22-months-22-states-on-22-rivers"
 excerpt: "Last Tuesday, Neal Moore, 50, paddled his 16-foot red Old Town Penobscot canoe into New York harbor completing an epic 7,500-mile journey across America in over 22 months, traveling through 22 states, while paddling on 22 rivers.  For 675 days, … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
-title: "Poseidon — Russia Continues Development of Autonomous Nuclear “Doomsday” Torpedo"
+title: "Poseidon — Russia Continues Development of Autonomous Nuclear \"Doomsday\" Torpedo"
 date: 2021-09-02T17:27:51
-slug: poseidon-russia-continues-development-of-autonomous-nuclear-doomsday-torpedo
-excerpt: "Back in 2018, we posted “Status-6 — Putin’s Autonomous “Doomsday” Torpedo.” It described a huge new torpedo, initially called Status-6 by the Russians but now known as Poseidon, and dubbed Kanyon by the CIA, a 65′ long, autonomous nuclear-powered and … Continue reading &rarr;"
+slug: "poseidon-russia-continues-development-of-autonomous-nuclear-doomsday-torpedo"
+excerpt: "Back in 2018, we posted \"Status-6 — Putin’s Autonomous \"Doomsday\" Torpedo.\" It described a huge new torpedo, initially called Status-6 by the Russians but now known as Poseidon, and dubbed Kanyon by the CIA, a 65′ long, autonomous nuclear-powered and … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "torpedo"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2018/03/status6.jpg"
 author: "Rick Spilman"
-description: "Back in 2018, we posted “Status-6 — Putin’s Autonomous “Doomsday” Torpedo.” It described a huge new torpedo, initially called Status-6 by the Russians but now known as Poseidon, and dubbed Kanyon by the CIA, a 65′ long, autonomous nuclear-powered and … Continue reading &rarr;"
+description: "Back in 2018, we posted \"Status-6 — Putin’s Autonomous \"Doomsday\" Torpedo.\" It described a huge new torpedo, initially called Status-6 by the Russians but now known as Poseidon, and dubbed Kanyon by the CIA, a 65′ long, autonomous nuclear-powered and … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2018/03/status6.jpg)Back in 2018, we posted “[Status-6 — Putin’s Autonomous “Doomsday” Torpedo.”](http://www.oldsaltblog.com/2018/03/status-6-putins-autonomous-doomsday-torpedo/) It described a huge new torpedo, initially called [Status-6](https://en.wikipedia.org/wiki/Status-6_Oceanic_Multipurpose_System) by the Russians but now known as Poseidon, and dubbed Kanyon by the CIA, a 65′ long, autonomous nuclear-powered and nuclear-armed underwater vehicle able to deliver a thermonuclear cobalt bomb of up to 100 megatonnes. It is said to have a top speed of 100 km/h (54 kn), with a range of 10,000 km (5,400 NM.)  Russian Oscar Class submarines are said to be capable of carrying up to four of the torpedoes secured externally. We also noted that some experts doubted that the weapon was being developed while others claim that it had already being tested in the Arctic.

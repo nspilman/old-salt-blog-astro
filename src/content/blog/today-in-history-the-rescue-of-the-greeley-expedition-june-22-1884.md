@@ -1,7 +1,7 @@
 ---
 title: "Today in History – The Rescue of the Greeley Expedition, June 22, 1884"
 date: 2012-06-22T13:09:47
-slug: today-in-history-the-rescue-of-the-greeley-expedition-june-22-1884
+slug: "today-in-history-the-rescue-of-the-greeley-expedition-june-22-1884"
 excerpt: "Thanks to Anne Maclachlan and the Naval History & Heritage Command for pointing out on Facebook, a forgotten bit of history – the ill-fated Greely Expedition, which was rescued at Cape Sable on Ellesmere Island on June 22, 1884. In 1881, First Lieutenant … Continue reading &rarr;"
 categories:
   - "History"

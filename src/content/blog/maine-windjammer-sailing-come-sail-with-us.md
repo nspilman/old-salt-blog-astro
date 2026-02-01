@@ -1,7 +1,7 @@
 ---
 title: "Maine Windjammer Sailing — Come Sail with Us"
 date: 2015-01-09T19:12:02
-slug: maine-windjammer-sailing-come-sail-with-us
+slug: "maine-windjammer-sailing-come-sail-with-us"
 excerpt: "Having just gotten back from warmer climes, I am still adjusting to the temperatures around 20 degrees F, with wind chills in the teens here on the banks of the Hudson River.  I have come across a new video from … Continue reading &rarr;"
 categories:
   - "Current"

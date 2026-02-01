@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday Samuel Plimsoll, the Sailor’s Friend – a Man Who Truly Left His Mark on Shipping"
 date: 2013-02-10T13:56:18
-slug: happy-birthday-samuel-plimsoll-the-sailors-friend-a-man-who-truly-left-his-mark-on-shipping
+slug: "happy-birthday-samuel-plimsoll-the-sailors-friend-a-man-who-truly-left-his-mark-on-shipping"
 excerpt: "Today is Samuel Plimsoll‘s birthday. Born on February 10, 1824,  Plimsoll, a British politician and social reformer  fought for reasonable loading of cargo ships, which lead the adoption of the first modern loadline, which became known as the Plimsoll mark or Line.  In … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Bluenose II Begins Sailing Season, Questions Continue"
 date: 2016-07-02T10:16:18
-slug: bluenose-ii-begins-sailing-season-questions-continue
+slug: "bluenose-ii-begins-sailing-season-questions-continue"
 excerpt: "The Bluenose II is now several weeks into her summer sailing season. Setting sail from Lunenburg, NS, she carries a professional crew of six and 12 young people, recruited from around the province and across Canada. This summer, the replica fishing/racing schooner will sail … Continue reading &rarr;"
 categories:
   - "Current"

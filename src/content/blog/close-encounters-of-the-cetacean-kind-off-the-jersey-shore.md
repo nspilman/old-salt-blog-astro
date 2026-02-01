@@ -1,7 +1,7 @@
 ---
 title: "Close Encounters of the Cetacean Kind off the Jersey Shore"
 date: 2018-08-26T17:50:48
-slug: close-encounters-of-the-cetacean-kind-off-the-jersey-shore
+slug: "close-encounters-of-the-cetacean-kind-off-the-jersey-shore"
 excerpt: "There have been several recent encounters between boats and whales. Fortunately, neither whale nor humans appear to have been injured. The most serious took place off the Jersey Shore. Two fishermen in a 20-foot boat were fishing approximately one mile off of Deal, … Continue reading &rarr;"
 categories:
   - "Current"

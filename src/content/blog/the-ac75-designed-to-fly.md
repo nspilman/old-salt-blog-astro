@@ -1,8 +1,8 @@
 ---
 title: "The AC75 | Designed to Fly"
 date: 2020-09-05T10:26:46
-slug: the-ac75-designed-to-fly
-excerpt: "Here is a fascinating short video on the AC75 foiling monohulls preparing to race in the 36th America’s Cup to be held in March 2021 in Aukland, New Zealand. Described as  “monohulls on steroids”, the boats are amazing feats of … Continue reading &rarr;"
+slug: "the-ac75-designed-to-fly"
+excerpt: "Here is a fascinating short video on the AC75 foiling monohulls preparing to race in the 36th America’s Cup to be held in March 2021 in Aukland, New Zealand. Described as  \"monohulls on steroids\", the boats are amazing feats of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"
 tags:
@@ -13,7 +13,7 @@ tags:
   - "New Zealand"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/09/ac75.jpg"
 author: "Rick Spilman"
-description: "Here is a fascinating short video on the AC75 foiling monohulls preparing to race in the 36th America’s Cup to be held in March 2021 in Aukland, New Zealand. Described as  “monohulls on steroids”, the boats are amazing feats of … Continue reading &rarr;"
+description: "Here is a fascinating short video on the AC75 foiling monohulls preparing to race in the 36th America’s Cup to be held in March 2021 in Aukland, New Zealand. Described as  \"monohulls on steroids\", the boats are amazing feats of … Continue reading &rarr;"
 ---
 
 Here is a fascinating short video on the AC75 foiling monohulls preparing to race in the [36th America’s Cup](https://www.americascup.com/) to be held in March 2021 in Aukland, New Zealand. Described as  “monohulls on steroids”, the boats are amazing feats of engineering from the twin-skinned wing sails to the canting foils and just about everything in between.

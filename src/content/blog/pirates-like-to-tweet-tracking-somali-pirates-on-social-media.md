@@ -1,8 +1,8 @@
 ---
-title: "“Pirates Like To Tweet” – Tracking Somali Pirates on Social Media"
+title: "\"Pirates Like To Tweet\" – Tracking Somali Pirates on Social Media"
 date: 2012-03-16T16:03:15
-slug: pirates-like-to-tweet-tracking-somali-pirates-on-social-media
-excerpt: "At first this sounded like a joke. Pirates like to tweet, have blogs and are on Facebook.  Really? According to security expert, Jessica Lincoln, director of intelligence at Rubicon Resolution, “Somalia is a very sophisticated economy, it has one of the best mobile phone communication systems … Continue reading &rarr;"
+slug: "pirates-like-to-tweet-tracking-somali-pirates-on-social-media"
+excerpt: "At first this sounded like a joke. Pirates like to tweet, have blogs and are on Facebook.  Really? According to security expert, Jessica Lincoln, director of intelligence at Rubicon Resolution, \"Somalia is a very sophisticated economy, it has one of the best mobile phone communication systems … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
@@ -14,7 +14,7 @@ tags:
   - "Somali pirates"
   - "Twitter"
 author: "Rick Spilman"
-description: "At first this sounded like a joke. Pirates like to tweet, have blogs and are on Facebook.  Really? According to security expert, Jessica Lincoln, director of intelligence at Rubicon Resolution, “Somalia is a very sophisticated economy, it has one of the best mobile phone communication systems … Continue reading &rarr;"
+description: "At first this sounded like a joke. Pirates like to tweet, have blogs and are on Facebook.  Really? According to security expert, Jessica Lincoln, director of intelligence at Rubicon Resolution, \"Somalia is a very sophisticated economy, it has one of the best mobile phone communication systems … Continue reading &rarr;"
 ---
 
 [![](http://www.oldsaltblog.com/wp-content/uploads/2012/03/piratetwitter.jpg)](http://www.cnn.com/2012/03/15/business/somalia-piracy-twitter/index.html?hpt=hp_bn2)

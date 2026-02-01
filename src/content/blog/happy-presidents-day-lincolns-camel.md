@@ -1,8 +1,8 @@
 ---
 title: "Happy President’s Day – Lincoln’s Camel"
 date: 2014-02-17T09:40:28
-slug: happy-presidents-day-lincolns-camel
-excerpt: "In the United States, today is “Presidents’ Day,”  a national holiday on the third Monday of February, falling between Lincoln’s (February 14th) and Washington’s  (February 22) birthdays.  Here is a repost of the tale of Lincoln’s camel that we ran back … Continue reading &rarr;"
+slug: "happy-presidents-day-lincolns-camel"
+excerpt: "In the United States, today is \"Presidents’ Day,\"  a national holiday on the third Monday of February, falling between Lincoln’s (February 14th) and Washington’s  (February 22) birthdays.  Here is a repost of the tale of Lincoln’s camel that we ran back … Continue reading &rarr;"
 categories:
   - "History"
   - "Lore of the Sea"
@@ -13,7 +13,7 @@ tags:
   - "Nantucket"
   - "U.S. Patent Office"
 author: "Rick Spilman"
-description: "In the United States, today is “Presidents’ Day,”  a national holiday on the third Monday of February, falling between Lincoln’s (February 14th) and Washington’s  (February 22) birthdays.  Here is a repost of the tale of Lincoln’s camel that we ran back … Continue reading &rarr;"
+description: "In the United States, today is \"Presidents’ Day,\"  a national holiday on the third Monday of February, falling between Lincoln’s (February 14th) and Washington’s  (February 22) birthdays.  Here is a repost of the tale of Lincoln’s camel that we ran back … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2010/02/nantucketcamel.jpg)

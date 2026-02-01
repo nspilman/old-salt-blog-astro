@@ -1,7 +1,7 @@
 ---
 title: "Voyage of the Mobro 4000 – Wandering Garbage Barge Helps Usher in the Era of Recycling"
 date: 2013-05-06T07:23:11
-slug: voyage-of-the-mobro-4000-wandering-garbage-barge-helps-usher-in-the-era-of-recycling
+slug: "voyage-of-the-mobro-4000-wandering-garbage-barge-helps-usher-in-the-era-of-recycling"
 excerpt: "On March 22, 1987, the tugboat Break of Dawn, towing the barge Mobro 4000, loaded with 3,168 tons of trash, set sail from Islip, New York, bound for Morehead City, North Carolina. The plan was to convert the trash to methane … Continue reading &rarr;"
 categories:
   - "History"

@@ -1,7 +1,7 @@
 ---
 title: "Time-Lapse of Comet Neowise"
 date: 2020-07-11T12:22:13
-slug: time-lapse-of-comet-neowise
+slug: "time-lapse-of-comet-neowise"
 excerpt: "On March 27, astronomers discovered a new comet that they designated C/2020 F3. The comet was located using NASA’s space telescope, the Near Earth Object Wide-field Infrared Survey Explorer (NEOWISE), the comet is being called Neowise. While not one of … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

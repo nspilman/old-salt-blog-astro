@@ -1,7 +1,7 @@
 ---
 title: "National Oceanic and Atmospheric Administration Under Attack by Musk’s DOGE"
 date: 2025-02-08T13:45:06
-slug: national-oceanic-and-atmospheric-association-under-attack-by-doge
+slug: "national-oceanic-and-atmospheric-association-under-attack-by-doge"
 excerpt: "The current regime’s attempt to dismantle the US government has reached NOAA, the National Oceanic and Atmospheric Administration. NOAA is the scientific and regulatory agency charged with forecasting weather, monitoring oceanic and atmospheric conditions, charting the seas, conducting deep-sea exploration, … Continue reading &rarr;"
 categories:
   - "Current"

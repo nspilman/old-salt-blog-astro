@@ -1,7 +1,7 @@
 ---
 title: "Fulfilling a Legacy – The Essex Shipbuilding Museum"
 date: 2013-02-08T12:59:57
-slug: fulfilling-a-legacy-the-essex-shipbuilding-museum
+slug: "fulfilling-a-legacy-the-essex-shipbuilding-museum"
 excerpt: "A fascinating video about the legacy of shipbuilders of Essex, Massachussets being carried on by the Essex Historical Society and Shipbuilding Museum.   Thanks to Peter Lane for pointing it out.  See also our previous posts, The Shipbuilders of Essex and Launching the Schooner … Continue reading &rarr;"
 categories:
   - "History"

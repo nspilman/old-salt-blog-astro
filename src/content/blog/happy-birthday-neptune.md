@@ -1,7 +1,7 @@
 ---
 title: "Happy Birthday, Neptune!"
 date: 2011-08-12T22:20:04
-slug: happy-birthday-neptune
+slug: "happy-birthday-neptune"
 excerpt: "On Sept 23-24, 1846, the planet Neptune was discovered by by Johann Gottfried Galle. In celestial terms, that was 165 years ago. In terms of Neptune’s path around the Sun it was only about one year ago. (To be precise, … Continue reading &rarr;"
 categories:
   - "Current"

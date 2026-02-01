@@ -1,7 +1,7 @@
 ---
 title: "Belated Congratulations to Zara Lachlan, First Woman to Row Solo from Mainland Europe to Mainland South America"
 date: 2025-02-15T16:03:44
-slug: belated-congratulations-to-zara-lachlan-first-woman-to-row-solo-from-mainland-europe-to-mainland-south-america
+slug: "belated-congratulations-to-zara-lachlan-first-woman-to-row-solo-from-mainland-europe-to-mainland-south-america"
 excerpt: "We recently posted about Ananya Prasad who completed the 2024-2025 World’s Toughest Row – Atlantic Challenge, a 4,800-km race across the Atlantic Ocean from the Canary Islands to Antigua, in 52 days. Ms Prasad, 34, born in India and raised … Continue reading &rarr;"
 categories:
   - "Current"

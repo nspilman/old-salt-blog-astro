@@ -1,7 +1,7 @@
 ---
 title: "Building Pharaoh Hatshepsut’s Ship"
 date: 2010-02-01T11:21:51
-slug: building-pharaoh-hatshepsut%e2%80%99s-ship
+slug: "building-pharaoh-hatshepsut%e2%80%99s-ship"
 excerpt: "In January we posted about the Jewel of Muscat a replica of a 9th-century sailing ship modelled on a famous Tang Treasure ship.  Recently Nova broadcast a documentary on far older ships from the region, Pharaoh Hatshepsut’s ships, dating from 1479 BCE. … Continue reading &rarr;"
 categories:
   - "Current"

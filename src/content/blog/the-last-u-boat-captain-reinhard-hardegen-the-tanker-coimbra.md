@@ -1,7 +1,7 @@
 ---
 title: "The Last U-Boat Captain, Reinhard Hardegen, & the Tanker Coimbra"
 date: 2018-06-18T11:24:55
-slug: the-last-u-boat-captain-reinhard-hardegen-the-tanker-coimbra
+slug: "the-last-u-boat-captain-reinhard-hardegen-the-tanker-coimbra"
 excerpt: "I recently saw two stories in the press that happen to overlap.  Captain Reinhard Hardegen The first story was the report of the death of Reinhard Hardegen at 105 years old. Hardegen was believed to have been the last surviving German U-boat commander from … Continue reading &rarr;"
 categories:
   - "Current"

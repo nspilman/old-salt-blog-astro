@@ -1,15 +1,15 @@
 ---
 title: "The 12 Plankton of Christmas"
 date: 2010-12-25T09:32:35
-slug: the-12-plankton-of-christmas
-excerpt: "Sing with me now – “On the first day of Christmas my true love gave to me, a Phaeocystis globosa.”  OK, it may not be a melodic as “a partridge in a pear tree,” but it may be more interesting.  Dr. Richard … Continue reading &rarr;"
+slug: "the-12-plankton-of-christmas"
+excerpt: "Sing with me now – \"On the first day of Christmas my true love gave to me, a Phaeocystis globosa.\"  OK, it may not be a melodic as \"a partridge in a pear tree,\" but it may be more interesting.  Dr. Richard … Continue reading &rarr;"
 categories:
   - "Current"
   - "Lore of the Sea"
 tags:
   - "Plankton"
 author: "Rick Spilman"
-description: "Sing with me now – “On the first day of Christmas my true love gave to me, a Phaeocystis globosa.”  OK, it may not be a melodic as “a partridge in a pear tree,” but it may be more interesting.  Dr. Richard … Continue reading &rarr;"
+description: "Sing with me now – \"On the first day of Christmas my true love gave to me, a Phaeocystis globosa.\"  OK, it may not be a melodic as \"a partridge in a pear tree,\" but it may be more interesting.  Dr. Richard … Continue reading &rarr;"
 ---
 
 Sing with me now – “*On the first day of Christmas my true love gave to me, a Phaeocystis globosa*.”  OK, it may not be a melodic as “*a partridge in a pear tree*,” but it may be more interesting.  Dr. Richard Kirby, a Royal Society Research Fellow at Plymouth University has come up with the “[12 Plankton of Christmas](http://www.environmentalgraffiti.com/news-12-plankton-christmas).”    To see more of Dr. Kirby’s work check out his book, [*Ocean Drifters: A Secret World Beneath the Waves*](http://www.amazon.com/gp/product/1904239102?ie=UTF8&tag=tholsabl-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1904239102).

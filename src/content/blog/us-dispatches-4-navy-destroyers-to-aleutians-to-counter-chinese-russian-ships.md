@@ -1,7 +1,7 @@
 ---
 title: "US Dispatches 4 Navy Destroyers to Aleutians to Counter Chinese & Russian Ships"
 date: 2023-08-06T17:28:45
-slug: us-dispatches-4-navy-destroyers-to-aleutians-to-counter-chinese-russian-ships
+slug: "us-dispatches-4-navy-destroyers-to-aleutians-to-counter-chinese-russian-ships"
 excerpt: "The US Navy dispatched four destroyers and a reconnaissance airplane after 11 Chinese and Russian military vessels carried out a joint naval patrol near Alaska’s Aleutian islands last week. The combined naval patrol, which the Wall Street Journal first reported, appeared … Continue reading &rarr;"
 categories:
   - "Current"

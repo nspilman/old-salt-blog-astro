@@ -1,7 +1,7 @@
 ---
 title: "From Beneath the Toxic Black Mayonnaise of the Gowanus, the SS Gay"
 date: 2018-08-17T18:10:56
-slug: from-beneath-the-toxic-black-mayonnaise-of-the-gowanus-the-ss-gay
+slug: "from-beneath-the-toxic-black-mayonnaise-of-the-gowanus-the-ss-gay"
 excerpt: "The Gowanus Canal in Brooklyn is one of the most polluted waterways in the nation. When I went to work for Moore McCormack many, many years ago, their New York terminal was on 23rd Street on the Gowanus. I recall … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

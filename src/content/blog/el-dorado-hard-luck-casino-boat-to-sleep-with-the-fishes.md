@@ -1,7 +1,7 @@
 ---
 title: "EL Dorado, Hard-Luck Casino Boat to Sleep with the Fishes"
 date: 2019-01-28T12:05:40
-slug: el-dorado-hard-luck-casino-boat-to-sleep-with-the-fishes
+slug: "el-dorado-hard-luck-casino-boat-to-sleep-with-the-fishes"
 excerpt: "The El Dorado,  a 157 foot-long, 300-ton, casino boat broke free from her moorings when Hurricane Ivan ripped through Panama City, FL in 2004. She ran aground in Southport, FL. where she sat for several years. A new owner was in … Continue reading &rarr;"
 categories:
   - "Current"

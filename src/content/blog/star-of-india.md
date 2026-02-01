@@ -1,7 +1,7 @@
 ---
 title: "The Windjammer Star of India"
 date: 2011-06-26T21:27:14
-slug: star-of-india
+slug: "star-of-india"
 excerpt: "A few photos from a recent visit to the Star of India at the Maritime Museum of San Diego. The Star of India was built in  in 1863 as Euterpe, a full-rigged iron windjammer ship, in Ramsey, Isle of Man.  The … Continue reading &rarr;"
 categories:
   - "Current"

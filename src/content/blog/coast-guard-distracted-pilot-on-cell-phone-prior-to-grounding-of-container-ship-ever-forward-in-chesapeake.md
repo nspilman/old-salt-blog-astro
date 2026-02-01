@@ -1,7 +1,7 @@
 ---
 title: "Coast Guard: Distracted Pilot on Cell Phone Prior to Grounding of Container Ship Ever Forward in Chesapeake"
 date: 2022-12-08T19:25:58
-slug: coast-guard-distracted-pilot-on-cell-phone-prior-to-grounding-of-container-ship-ever-forward-in-chesapeake
+slug: "coast-guard-distracted-pilot-on-cell-phone-prior-to-grounding-of-container-ship-ever-forward-in-chesapeake"
 excerpt: "Last March, we posted about the grounding of the container ship Ever Forward near Baltimore in the Chesapeake Bay. The ship failed to make a turn in the Craighill channel and ran hard aground on a mud flat, where it … Continue reading &rarr;"
 categories:
   - "Current"

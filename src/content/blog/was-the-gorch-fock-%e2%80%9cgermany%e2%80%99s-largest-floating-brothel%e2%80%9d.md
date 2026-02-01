@@ -1,7 +1,7 @@
 ---
-title: "Was the Gorch Fock  “Germany’s largest floating brothel?”"
+title: "Was the Gorch Fock  \"Germany’s largest floating brothel?\""
 date: 2011-01-27T22:35:43
-slug: was-the-gorch-fock-%e2%80%9cgermany%e2%80%99s-largest-floating-brothel%e2%80%9d
+slug: "was-the-gorch-fock-%e2%80%9cgermany%e2%80%99s-largest-floating-brothel%e2%80%9d"
 excerpt: "Last Saturday, we posted that the commander of the German sail training ship, Gorch Fock, had been dismissed from his command and ordered home after reports of a mutiny in November, following the death of a cadet.  Now there is a very disturbing article in … Continue reading &rarr;"
 categories:
   - "Current"

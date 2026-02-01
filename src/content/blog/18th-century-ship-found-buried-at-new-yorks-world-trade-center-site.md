@@ -1,7 +1,7 @@
 ---
 title: "18th Century Ship Found Buried at New York’s World Trade Center Site"
 date: 2010-07-15T08:10:03
-slug: 18th-century-ship-found-buried-at-new-yorks-world-trade-center-site
+slug: "18th-century-ship-found-buried-at-new-yorks-world-trade-center-site"
 excerpt: "Workers excavating at the new World Trade Center site in lower Manhattan have uncovered the remains of an 18th century wooden merchant ship. The ship was found 20 feet below street level,  is roughly 30 feet in length and was probably buried intentionally as land fill.  It … Continue reading &rarr;"
 categories:
   - "Current"

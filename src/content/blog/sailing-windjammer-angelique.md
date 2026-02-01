@@ -1,7 +1,7 @@
 ---
 title: "Sailing Windjammer Angelique"
 date: 2016-07-09T09:42:05
-slug: sailing-windjammer-angelique
+slug: "sailing-windjammer-angelique"
 excerpt: "A beautiful video of sailing aboard the Windjammer Angelique.  The 95′ ketch-rigged Angelique was built specifically for the windjamming trade in 1980 and sails from Camden, Maine. Sailing Windjammer Angelique … Continue reading &rarr;"
 categories:
   - "Current"

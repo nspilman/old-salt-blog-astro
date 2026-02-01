@@ -1,7 +1,7 @@
 ---
 title: "Rotor Sails – Fixed, Rolling and Tilting"
 date: 2020-12-16T17:48:49
-slug: rotor-sails-fixed-rolling-and-tilting
+slug: "rotor-sails-fixed-rolling-and-tilting"
 excerpt: "Sail-assist propulsion on commercial ships is developing rapidly, featuring a range of technologies including rotor sails, rigid wing sails, ventilated turbo sails, and even conventional fabric sails. One thing that all these rigs have in common, however, is that when … Continue reading &rarr;"
 categories:
   - "Current"

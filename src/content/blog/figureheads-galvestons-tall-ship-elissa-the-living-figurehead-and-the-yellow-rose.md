@@ -1,7 +1,7 @@
 ---
 title: "Figureheads – Galveston’s Tall Ship Elissa, the Living Figurehead and the Yellow Rose"
 date: 2012-10-07T09:02:25
-slug: figureheads-galvestons-tall-ship-elissa-the-living-figurehead-and-the-yellow-rose
+slug: "figureheads-galvestons-tall-ship-elissa-the-living-figurehead-and-the-yellow-rose"
 excerpt: "Yesterday we posted about Nannie Dee, the erotic yet frightening witch figurehead on the composite clipper Cutty Sark.   The figurehead on Galveston’s tall ship, the 1887 barque Eliisa, is quite different. When the ship was restored in the early 1980s, she was … Continue reading &rarr;"
 categories:
   - "Current"

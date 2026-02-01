@@ -1,7 +1,7 @@
 ---
 title: "DNA Testing and the Mystery of the 18th Century Shipwrecked Bone-Setter"
 date: 2011-11-10T13:11:41
-slug: dna-testing-and-the-mystery-of-the-18th-century-shipwrecked-bone-setter
+slug: "dna-testing-and-the-mystery-of-the-18th-century-shipwrecked-bone-setter"
 excerpt: "A fascinating story from Wales. Sometime between 1743 and 1745, a smuggler from  Llanfairynghornwy on  the isle of Anglesey, rescued two boys, in stormy seas in the middle of the night – the only survivors of an apparent shipwreck. Both boys had … Continue reading &rarr;"
 categories:
   - "Lore of the Sea"

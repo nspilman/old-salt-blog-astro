@@ -1,7 +1,7 @@
 ---
 title: "Breaking News from the Department of Really Lousy Timing"
 date: 2009-09-11T11:08:08
-slug: breaking-news-from-the-department-of-really-lousy-timing
+slug: "breaking-news-from-the-department-of-really-lousy-timing"
 excerpt: "CNN reported that the US Coast Guard had fired shots at a passenger vessel on the Potomac River a short distance from where 9/11 memorial events were taking place at the Pentagon.   Later reports say that the incident was in … Continue reading &rarr;"
 categories:
   - "Current"

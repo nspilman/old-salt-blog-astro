@@ -1,7 +1,7 @@
 ---
 title: "Don Street, Life-Long Sailor & Writer Dies at 94"
 date: 2024-05-02T19:02:49
-slug: don-street-life-long-sailor-writer-dies-at-94
+slug: "don-street-life-long-sailor-writer-dies-at-94"
 excerpt: "Yesterday, the Glandore Harbour Yacht Club in West Cork posted sad news on its Facebook page:  It is great sadness that we learnt this morning of the passing of our dear friend Don Street. Don will be forever remembered for … Continue reading &rarr;"
 categories:
   - "Current"

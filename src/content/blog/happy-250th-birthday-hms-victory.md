@@ -1,7 +1,7 @@
 ---
 title: "Happy 250th Birthday HMS Victory!"
 date: 2015-05-07T07:40:39
-slug: happy-250th-birthday-hms-victory
+slug: "happy-250th-birthday-hms-victory"
 excerpt: "In honor of the 250th anniversary of the launching of HMS Victory, here is a rolling  broadside, fired by none other than HMS Victory.  The ship is beginning a £50million restoration project in an attempt to preserve Nelson’s flagship for future generations.  For … Continue reading &rarr;"
 categories:
   - "History"

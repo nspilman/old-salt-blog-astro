@@ -1,7 +1,7 @@
 ---
 title: "Sting’s The Last Ship — A Musical of Love and Loss in a Tyneside Shipyard"
 date: 2014-10-01T11:23:18
-slug: stings-the-last-ship-a-musical-of-love-and-loss-in-a-tyneside-shipyard
+slug: "stings-the-last-ship-a-musical-of-love-and-loss-in-a-tyneside-shipyard"
 excerpt: "Just over a year ago, I was surprised — shocked might be a better word — to hear of a play about a shipyard. The Boat Factory was set in Harland & Wolff of Belfast, the shipyardyard that built theTitanic as well as roughly 1,700 … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,7 +1,7 @@
 ---
 title: "Herlaugshagen, Scandinavia’s Oldest Ship Burial Mound and the Missing Ship"
 date: 2024-01-18T18:29:30
-slug: herlaugshagen-scandinavias-oldest-ship-burial-mound-and-the-missing-ship
+slug: "herlaugshagen-scandinavias-oldest-ship-burial-mound-and-the-missing-ship"
 excerpt: "A new analysis has concluded that a large, grassy hill in Norway known as the Herlaugshagen burial mound was likely the site of a pre-Viking ship burial. What is fascinating is that the site was excavated three times during the … Continue reading &rarr;"
 categories:
   - "Current"

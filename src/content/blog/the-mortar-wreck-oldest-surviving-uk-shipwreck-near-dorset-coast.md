@@ -1,7 +1,7 @@
 ---
 title: "The Mortar Wreck: Oldest Surviving UK Shipwreck Near Dorset Coast"
 date: 2022-08-11T12:48:03
-slug: the-mortar-wreck-oldest-surviving-uk-shipwreck-near-dorset-coast
+slug: "the-mortar-wreck-oldest-surviving-uk-shipwreck-near-dorset-coast"
 excerpt: "Over 750 years ago, a medieval ship loaded with a cargo of limestone, carved gravestones, and mortars for grinding, sank off the Dorset coast a mile away from the nearest harbor.  Now the so-called Mortar Wreck has been granted the … Continue reading &rarr;"
 categories:
   - "Current"

@@ -1,8 +1,8 @@
 ---
 title: "Saving the Songs of Korea’s Sea Women"
 date: 2023-03-01T19:30:26
-slug: saving-the-songs-of-koreas-sea-women
-excerpt: "On the first day of Women’s History month, something a bit different.  Since at least the 17th century, on the Korean island of Jeju, the haenyeo, Korean for “sea women” have worked free diving in the clear island waters. Using … Continue reading &rarr;"
+slug: "saving-the-songs-of-koreas-sea-women"
+excerpt: "On the first day of Women’s History month, something a bit different.  Since at least the 17th century, on the Korean island of Jeju, the haenyeo, Korean for \"sea women\" have worked free diving in the clear island waters. Using … Continue reading &rarr;"
 categories:
   - "Current"
   - "History"
@@ -17,7 +17,7 @@ tags:
   - "sea women"
 featuredImage: "https://oldsaltblog.com/wp-content/uploads/2023/03/seawoman.jpg"
 author: "Rick Spilman"
-description: "On the first day of Women’s History month, something a bit different.  Since at least the 17th century, on the Korean island of Jeju, the haenyeo, Korean for “sea women” have worked free diving in the clear island waters. Using … Continue reading &rarr;"
+description: "On the first day of Women’s History month, something a bit different.  Since at least the 17th century, on the Korean island of Jeju, the haenyeo, Korean for \"sea women\" have worked free diving in the clear island waters. Using … Continue reading &rarr;"
 ---
 
 ![](http://www.oldsaltblog.com/wp-content/uploads/2023/03/seawoman.jpg)On the first day of Women’s History month, something a bit different. 

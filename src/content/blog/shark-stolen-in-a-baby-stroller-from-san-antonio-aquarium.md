@@ -1,7 +1,7 @@
 ---
 title: "Shark Stolen in a Baby-Stroller From San Antonio Aquarium"
 date: 2018-08-03T18:31:02
-slug: shark-stolen-in-a-baby-stroller-from-san-antonio-aquarium
+slug: "shark-stolen-in-a-baby-stroller-from-san-antonio-aquarium"
 excerpt: "Last weekend, two men and a woman carrying a toddler stole a two-foot-long gray horned shark from an aquarium in San Antonio, TX. They wrapped the shark in a blanket, shoved it in a plastic bucket and hid the bucket in … Continue reading &rarr;"
 categories:
   - "Current"
