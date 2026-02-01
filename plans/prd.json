@@ -67,7 +67,7 @@
         "generatePostFrontmatter and generatePageFrontmatter generate valid YAML",
         "Featured image URLs kept as original WordPress URLs"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 4,

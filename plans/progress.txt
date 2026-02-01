@@ -60,3 +60,45 @@ Each time Ralph completes a task, it will append notes here.
   - Special handling needed for: images (keep WordPress URLs), YouTube/Vimeo iframes, <!--more--> tags
   - Must generate proper YAML frontmatter for posts and pages
 
+---
+
+### Session 3 - 2026-02-01
+
+**Task Completed:** Task 3 - Implement HTML to Markdown converter
+
+**What was done:**
+- Created scripts/migrate/converter.ts with complete HTML to Markdown conversion functionality
+- Implemented Turndown service with custom rules:
+  - Custom iframe rule: Preserves YouTube/Vimeo iframes as raw HTML in markdown
+  - Custom image rule: Extracts src only (ignores srcset), keeps original WordPress URLs
+  - Custom figure rule: Handles WordPress figure/figcaption elements with captions
+- Implemented helper functions:
+  - decodeHtmlEntities: Decodes common HTML entities including smart quotes, mdash, hellip, etc.
+  - stripMoreTags: Removes WordPress <!--more--> tags and related span elements
+  - convertHtmlToMarkdown: Main conversion function that orchestrates cleaning and conversion
+- Created frontmatter generation functions:
+  - generatePostFrontmatter: Generates YAML frontmatter for posts with title, date, slug, excerpt, categories, tags, featuredImage, author, description
+  - generatePageFrontmatter: Generates YAML frontmatter for pages with title, date, slug, featuredImage, author, description
+- Exported conversion functions:
+  - convertPost: Converts WPPost to MigrationPost
+  - convertPage: Converts WPPage to MigrationPage
+  - convertPostToMarkdown: Returns full markdown file content (frontmatter + content)
+  - convertPageToMarkdown: Returns full markdown file content (frontmatter + content)
+- Created type declaration file for turndown-plugin-gfm since @types package doesn't exist
+- Fixed TypeScript errors with smart quotes by using unicode escape sequences
+- All acceptance criteria met:
+  - Images handled correctly (src only, original URLs kept)
+  - YouTube/Vimeo iframes preserved as HTML
+  - <!--more--> tags stripped
+  - HTML entities decoded properly
+  - Frontmatter functions generate valid YAML
+  - Featured images use original WordPress URLs
+
+**Next recommended task:**
+- Task 4: Implement file writer for markdown output (writer.ts)
+  - This will use the converter functions we just created
+  - Need to write posts to src/content/blog/{slug}.md
+  - Need to write pages to src/content/pages/{slug}.md
+  - Must track statistics and handle errors gracefully
+  - Write migration-report.json with results
+
