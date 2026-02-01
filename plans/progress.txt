@@ -349,3 +349,49 @@ Each time Ralph completes a task, it will append notes here.
   - Similar layout to main blog index but filtered
   - Will enable the category/tag links we added to post pages and index to work
 
+### Session 10 - 2026-02-01
+
+**Task Completed:** Task 10 - Create category and tag archive pages
+
+**What was done:**
+- Created src/pages/category/[slug].astro for category archive pages
+- Created src/pages/tag/[slug].astro for tag archive pages
+- Both pages use getStaticPaths() to generate all category/tag routes at build time
+- Features implemented:
+  - Category page (/category/[slug]/):
+    - Collects all unique categories from blog posts
+    - Filters posts by category
+    - Displays category name as page heading
+    - Shows count of posts in category
+    - Lists posts sorted by date descending
+  - Tag page (/tag/[slug]/):
+    - Collects all unique tags from blog posts
+    - Filters posts by tag
+    - Displays tag name as page heading
+    - Shows count of posts with tag
+    - Lists posts sorted by date descending
+    - Limits tag display to first 5 tags per post preview (with +X more indicator)
+- Both pages use consistent layout with main blog index:
+  - Featured image thumbnails (250px height)
+  - Post title, date, excerpt
+  - Category tags (category page) or tag badges (tag page)
+  - Grid layout on desktop, stacks on mobile
+  - Card design with hover effects
+  - Responsive design
+- Slug generation: Converts category/tag names to lowercase and replaces spaces with hyphens
+- SEO: Proper page titles and descriptions
+- All acceptance criteria met:
+  - src/pages/category/[slug].astro shows posts in category ✓
+  - src/pages/tag/[slug].astro shows posts in tag ✓
+  - Category/tag name displayed as page heading ✓
+  - Posts listed with same format as main blog index ✓
+- TypeScript type-checking passes (npm run type-check)
+- Tests pass (no tests defined yet)
+
+**Next recommended task:**
+- Task 11: Create RSS feed
+  - Need to install @astrojs/rss package
+  - Create RSS feed at /rss.xml
+  - Include recent posts (20-50) with title, link, description, pubDate
+  - This is a common feature for blogs and relatively straightforward
+

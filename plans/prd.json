@@ -166,7 +166,7 @@
         "Category/tag name displayed as page heading",
         "Posts listed with same format as main blog index"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 11,
