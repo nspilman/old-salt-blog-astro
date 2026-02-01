@@ -179,7 +179,7 @@
         "Feed includes 20-50 most recent posts",
         "Each item has title, link, description, pubDate"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 12,

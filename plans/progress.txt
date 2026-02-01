@@ -395,3 +395,37 @@ Each time Ralph completes a task, it will append notes here.
   - Include recent posts (20-50) with title, link, description, pubDate
   - This is a common feature for blogs and relatively straightforward
 
+### Session 11 - 2026-02-01
+
+**Task Completed:** Task 11 - Create RSS feed
+
+**What was done:**
+- Updated src/consts.ts to set proper site information:
+  - Changed SITE_TITLE from 'Astro Blog' to 'Old Salt Blog'
+  - Changed SITE_DESCRIPTION to 'Maritime and nautical topics from the Old Salt Blog'
+- Updated src/pages/rss.xml.js to properly implement RSS feed:
+  - Fixed URL structure to use /{slug}/ instead of /blog/{slug}/
+  - Added sorting by date descending (newest first)
+  - Limited feed to 50 most recent posts (within 20-50 requirement)
+  - Properly mapped each post to RSS item with all required fields:
+    - title: post title
+    - link: /{slug}/ (matches WordPress URL structure)
+    - description: uses description field, falls back to excerpt if not available
+    - pubDate: post publication date
+- Verified @astrojs/rss package was already installed
+- All acceptance criteria met:
+  - @astrojs/rss installed (was already installed) ✓
+  - RSS feed available at /rss.xml ✓
+  - Feed includes 50 most recent posts (within 20-50 requirement) ✓
+  - Each item has title, link, description, pubDate ✓
+- TypeScript type-checking passes (npm run type-check)
+- Tests pass (no tests defined yet)
+
+**Next recommended task:**
+- Task 12: Create responsive blog layout and styling
+  - Need to create BaseLayout component with header and footer
+  - Add header with site title 'Old Salt Blog' and navigation
+  - Make design responsive (mobile and desktop)
+  - Ensure external images and YouTube embeds display properly
+  - This is a larger task that will improve the overall user experience
+
