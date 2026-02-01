@@ -95,7 +95,7 @@
         "Migration orchestrates: fetch -> convert -> write files",
         "npm script 'migrate' runs the migration via tsx"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 6,

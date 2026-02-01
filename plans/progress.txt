@@ -140,3 +140,45 @@ Each time Ralph completes a task, it will append notes here.
   - Add progress logging and orchestrate: fetch -> convert -> write
   - Add npm script 'migrate' to package.json
 
+---
+
+### Session 5 - 2026-02-01
+
+**Task Completed:** Task 5 - Create CLI entry point for migration
+
+**What was done:**
+- Created scripts/migrate/index.ts as the main CLI entry point for the migration
+- Implemented loadConfig() function that reads configuration from environment variables with sensible defaults:
+  - WP_BASE_URL (default: https://oldsaltblog.com)
+  - OUTPUT_DIR (default: src/content)
+  - DELAY (default: 100ms)
+  - POSTS_PER_PAGE (default: 100)
+- Implemented main migrate() function that orchestrates the entire migration process:
+  - Step 1: Fetch all data from WordPress using fetchAllData()
+  - Step 2: Write posts to disk using writeAllPosts()
+  - Step 3: Write pages to disk using writeAllPages()
+  - Step 4: Write migration report using writeStats()
+- Added comprehensive progress logging with chalk for colored console output:
+  - Blue headers for each migration step
+  - Green success messages with counts
+  - Yellow warnings for errors
+  - Summary table showing posts/pages migrated and duration
+- Initialized MigrationStats object to track migration progress
+- Error handling: Catches and logs fatal errors, exits with code 1 on failure
+- Exports migrate() and loadConfig() for potential reuse
+- All acceptance criteria met:
+  - scripts/migrate/index.ts is the executable entry point
+  - MigrationConfig populated from environment variables with defaults
+  - Progress logging shows detailed counts and steps
+  - Migration orchestrates: fetch -> write (conversion happens in write functions)
+  - npm script 'migrate' already exists in package.json (from earlier session)
+- TypeScript type-checking passes (only unrelated errors in src/content.config.ts remain)
+
+**Next recommended task:**
+- Task 6: Run migration and verify output
+  - This is the next logical step - run the migration script we just created
+  - Will test the entire migration pipeline end-to-end
+  - Need to verify: posts converted correctly, frontmatter valid, images use WP URLs
+  - Check that migration completes without crashing
+  - Review migration-report.json for any issues
+
