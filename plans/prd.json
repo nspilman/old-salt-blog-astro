@@ -81,7 +81,7 @@
         "writeStats outputs migration-report.json with full stats",
         "Error handling - failed posts logged but don't crash migration"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 5,
