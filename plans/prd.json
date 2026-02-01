@@ -139,7 +139,7 @@
         "Shows categories and tags with links",
         "SEO: <title>, og:title, og:description, og:image meta tags set"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 9,

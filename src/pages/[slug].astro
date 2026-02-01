@@ -1,0 +1,179 @@
+---
+import { type CollectionEntry, getCollection, render } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('blog');
+	return posts.map((post) => ({
+		params: { slug: post.data.slug },
+		props: post,
+	}));
+}
+
+type Props = CollectionEntry<'blog'>;
+
+const post = Astro.props;
+const { Content } = await render(post);
+const { title, date, author, featuredImage, description, categories, tags, excerpt } = post.data;
+
+// Use description or excerpt for SEO, fallback to empty string
+const seoDescription = description || excerpt || '';
+---
+
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={seoDescription} image={featuredImage} />
+		<style>
+			main {
+				width: calc(100% - 2em);
+				max-width: 100%;
+				margin: 0;
+			}
+			.hero-image {
+				width: 100%;
+			}
+			.hero-image img {
+				display: block;
+				margin: 0 auto;
+				border-radius: 12px;
+				box-shadow: var(--box-shadow);
+				max-width: 100%;
+				height: auto;
+			}
+			.prose {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 1em;
+				color: rgb(var(--gray-dark));
+			}
+			.title {
+				margin-bottom: 1em;
+				padding: 1em 0;
+				text-align: center;
+				line-height: 1;
+			}
+			.title h1 {
+				margin: 0 0 0.5em 0;
+			}
+			.date {
+				margin-bottom: 0.5em;
+				color: rgb(var(--gray));
+			}
+			.author {
+				color: rgb(var(--gray));
+				font-style: italic;
+			}
+			.metadata {
+				margin: 2em 0;
+				padding: 1em;
+				background: rgb(var(--gray-light));
+				border-radius: 8px;
+			}
+			.metadata h3 {
+				margin-top: 0;
+				font-size: 1em;
+				color: rgb(var(--gray-dark));
+			}
+			.tags-list, .categories-list {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.5em;
+				list-style: none;
+				padding: 0;
+				margin: 0.5em 0 0 0;
+			}
+			.tags-list li, .categories-list li {
+				display: inline-block;
+			}
+			.tags-list a, .categories-list a {
+				display: inline-block;
+				padding: 0.25em 0.75em;
+				background: rgb(var(--accent));
+				color: white;
+				text-decoration: none;
+				border-radius: 4px;
+				font-size: 0.9em;
+			}
+			.tags-list a:hover, .categories-list a:hover {
+				background: rgb(var(--accent-dark));
+			}
+			.content {
+				line-height: 1.6;
+			}
+			.content img {
+				max-width: 100%;
+				height: auto;
+				border-radius: 8px;
+			}
+			.content iframe {
+				max-width: 100%;
+				aspect-ratio: 16 / 9;
+				width: 100%;
+				height: auto;
+			}
+		</style>
+	</head>
+
+	<body>
+		<Header />
+		<main>
+			<article>
+				{featuredImage && (
+					<div class="hero-image">
+						<img src={featuredImage} alt={title} />
+					</div>
+				)}
+				<div class="prose">
+					<div class="title">
+						<div class="date">
+							<FormattedDate date={date} />
+						</div>
+						<h1>{title}</h1>
+						<div class="author">By {author}</div>
+						<hr />
+					</div>
+					<div class="content">
+						<Content />
+					</div>
+					{(categories.length > 0 || tags.length > 0) && (
+						<div class="metadata">
+							{categories.length > 0 && (
+								<div>
+									<h3>Categories</h3>
+									<ul class="categories-list">
+										{categories.map((category) => (
+											<li>
+												<a href={`/category/${encodeURIComponent(category.toLowerCase().replace(/\s+/g, '-'))}/`}>
+													{category}
+												</a>
+											</li>
+										))}
+									</ul>
+								</div>
+							)}
+							{tags.length > 0 && (
+								<div>
+									<h3>Tags</h3>
+									<ul class="tags-list">
+										{tags.map((tag) => (
+											<li>
+												<a href={`/tag/${encodeURIComponent(tag.toLowerCase().replace(/\s+/g, '-'))}/`}>
+													{tag}
+												</a>
+											</li>
+										))}
+									</ul>
+								</div>
+							)}
+						</div>
+					)}
+				</div>
+			</article>
+		</main>
+		<Footer />
+	</body>
+</html>

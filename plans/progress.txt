@@ -255,3 +255,52 @@ Each time Ralph completes a task, it will append notes here.
   - Add SEO meta tags
   - Will need to fix existing templates that expect old schema
 
+
+### Session 8 - 2026-02-01
+
+**Task Completed:** Task 8 - Create blog post page template
+
+**What was done:**
+- Created src/pages/[slug].astro for individual blog posts with flat URL structure (/{slug}/)
+- Replaced the old /blog/[...slug].astro structure to match WordPress URL requirements
+- Implemented complete blog post template with all required elements:
+  - Title display with proper heading hierarchy
+  - Formatted date using existing FormattedDate component
+  - Author display
+  - Featured image display (external WordPress URLs)
+  - Full markdown content rendering (including YouTube embeds as raw HTML)
+  - Categories section with links to /category/{slug}/
+  - Tags section with links to /tag/{slug}/
+- Updated BaseHead.astro component to support both local images (ImageMetadata) and external URLs (string):
+  - Added type union: ImageMetadata | string
+  - Added imageUrl variable that handles both types correctly
+  - Updated og:image and twitter:image meta tags to use imageUrl
+- Added comprehensive styling:
+  - Responsive hero image with max-width and border-radius
+  - Readable prose container (720px max-width, centered)
+  - Styled categories and tags as clickable pills
+  - Responsive YouTube embeds (aspect-ratio: 16/9)
+  - Mobile-friendly layout
+- SEO implementation:
+  - Title, og:title, twitter:title set via BaseHead
+  - Description, og:description, twitter:description set via BaseHead
+  - Featured image used for og:image and twitter:image
+  - Fallback to excerpt if description not available
+- All acceptance criteria met:
+  - src/pages/[slug].astro exists and renders blog posts ✓
+  - URL structure is /{slug}/ (flat, no date prefix) ✓
+  - Displays title, formatted date, author, featured image ✓
+  - Renders markdown content correctly including YouTube embeds ✓
+  - Shows categories and tags with links ✓
+  - SEO meta tags properly set ✓
+- Type checking passes (npm run type-check)
+- Dev server starts without errors
+
+**Next recommended task:**
+- Task 9: Create paginated blog index page (src/pages/index.astro)
+  - This is the logical next step to display the list of all blog posts
+  - Need to implement pagination (10-20 posts per page)
+  - Show title, date, excerpt, featured image for each post
+  - Sort posts by date descending (newest first)
+  - Add prev/next pagination controls
+
