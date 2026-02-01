@@ -1,0 +1,217 @@
+{
+  "project": "old-salt-blog-migration",
+  "description": "Migrate the Old Salt Blog (oldsaltblog.com) from WordPress to Astro. The blog is ~17 years old with thousands of posts about maritime/nautical topics. Must preserve all content and URL structure (/{slug}/). Images remain hosted on WordPress (no local download). Goal: get the site running locally with npm run dev.",
+  "context": {
+    "wpBaseUrl": "https://oldsaltblog.com",
+    "apiEndpoints": {
+      "posts": "/wp-json/wp/v2/posts?per_page=100&page={n}",
+      "categories": "/wp-json/wp/v2/categories?per_page=100",
+      "tags": "/wp-json/wp/v2/tags?per_page=100&page={n}",
+      "media": "/wp-json/wp/v2/media?per_page=100&page={n}",
+      "users": "/wp-json/wp/v2/users",
+      "pages": "/wp-json/wp/v2/pages"
+    },
+    "postStructure": {
+      "categories": "numeric IDs - resolve via /categories endpoint",
+      "tags": "numeric IDs - resolve via /tags endpoint",
+      "featured_media": "numeric ID - resolve via /media/{id} endpoint",
+      "content": "HTML with srcset, YouTube iframes, <!--more--> tags",
+      "yoast_head_json": "contains og_description and og_image"
+    },
+    "requirements": {
+      "urlStructure": "flat /{slug}/ - no date prefix",
+      "images": "Keep original WordPress URLs - do NOT download images locally",
+      "resilience": "if single post fails, log error and continue - don't crash",
+      "goal": "Site runs locally with npm run dev showing migrated content"
+    }
+  },
+  "tasks": [
+    {
+      "id": 1,
+      "area": "setup",
+      "title": "Set up TypeScript migration script structure",
+      "description": "Create scripts/migrate/ directory with TypeScript configuration. Set up types.ts with interfaces for WordPress REST API responses (WPPost, WPCategory, WPTag, WPMedia, WPUser, WPPage) and internal migration types (MigrationPost, MigrationPage, MigrationConfig, MigrationStats). Install dependencies: turndown, turndown-plugin-gfm, p-limit, chalk.",
+      "acceptance": [
+        "scripts/migrate/types.ts exists with all WP API interfaces",
+        "types.ts includes MigrationPost, MigrationPage, MigrationConfig, MigrationStats, LookupMaps interfaces",
+        "package.json includes turndown, turndown-plugin-gfm, p-limit, chalk as dependencies",
+        "TypeScript compiles without errors"
+      ],
+      "passes": true
+    },
+    {
+      "id": 2,
+      "area": "migration",
+      "title": "Implement WordPress REST API fetchers",
+      "description": "Create scripts/migrate/api.ts with functions to fetch all data from WordPress REST API. Must handle pagination using X-WP-TotalPages header. Include: fetchPosts, fetchCategories, fetchTags, fetchMedia, fetchUsers, fetchPages. Add rate limiting (configurable delay between requests). Build lookup maps (ID -> entity) for categories, tags, users, media.",
+      "acceptance": [
+        "api.ts exports fetchPosts, fetchCategories, fetchTags, fetchMedia, fetchUsers, fetchPages",
+        "All fetch functions handle pagination correctly using X-WP-TotalPages header",
+        "buildLookupMaps function creates Map<number, Entity> for categories, tags, users, media",
+        "fetchAllData orchestrates fetching everything and returns {posts, pages, lookups}",
+        "Configurable delay between API requests for rate limiting"
+      ],
+      "passes": false
+    },
+    {
+      "id": 3,
+      "area": "migration",
+      "title": "Implement HTML to Markdown converter",
+      "description": "Create scripts/migrate/converter.ts using Turndown to convert WordPress HTML to Markdown. Special handling: 1) Images - extract src (ignore srcset), keep original WordPress URLs (do NOT rewrite to local paths). 2) YouTube/Vimeo iframes - preserve as raw HTML. 3) Strip <!--more--> tags. 4) Decode HTML entities. 5) Handle WordPress caption shortcodes and figure/figcaption. Generate YAML frontmatter with title, date, slug, excerpt, categories, tags, featuredImage (original WP URL), author, description.",
+      "acceptance": [
+        "converter.ts exports convertPost and convertPage functions",
+        "HTML to Markdown conversion handles images (extracting src only, keeping original URLs)",
+        "YouTube/Vimeo iframes preserved as HTML in markdown",
+        "<!--more--> tags stripped from content",
+        "HTML entities decoded properly",
+        "generatePostFrontmatter and generatePageFrontmatter generate valid YAML",
+        "Featured image URLs kept as original WordPress URLs"
+      ],
+      "passes": false
+    },
+    {
+      "id": 4,
+      "area": "migration",
+      "title": "Implement file writer for markdown output",
+      "description": "Create scripts/migrate/writer.ts to write converted posts and pages to disk. Posts go to src/content/blog/{slug}.md. Pages go to src/content/pages/{slug}.md. Track statistics (posts migrated, failed). Write migration-report.json with stats and any errors. No image path rewriting needed - URLs stay as WordPress originals.",
+      "acceptance": [
+        "writer.ts exports writePost, writePage, writeAllPosts, writeAllPages",
+        "Posts written to src/content/blog/{slug}.md",
+        "Pages written to src/content/pages/{slug}.md",
+        "writeStats outputs migration-report.json with full stats",
+        "Error handling - failed posts logged but don't crash migration"
+      ],
+      "passes": false
+    },
+    {
+      "id": 5,
+      "area": "migration",
+      "title": "Create CLI entry point for migration",
+      "description": "Create scripts/migrate/index.ts as the main CLI entry point. Support a 'migrate' command that fetches all data and writes markdown files. Use configurable options for WP URL, output directory, delay. Add progress logging with counts. Add npm script 'migrate' that runs: npx tsx scripts/migrate/index.ts",
+      "acceptance": [
+        "scripts/migrate/index.ts is executable entry point",
+        "MigrationConfig populated from environment variables or defaults",
+        "Progress logging shows counts (X/Y posts, etc.)",
+        "Migration orchestrates: fetch -> convert -> write files",
+        "npm script 'migrate' runs the migration via tsx"
+      ],
+      "passes": false
+    },
+    {
+      "id": 6,
+      "area": "migration",
+      "title": "Run migration and verify output",
+      "description": "Run the migration script against oldsaltblog.com and verify output. Check that posts are converted correctly, frontmatter valid, images point to WordPress URLs. Fix any bugs found. The migration should complete without crashing.",
+      "acceptance": [
+        "npm run migrate completes without crashing",
+        "Posts successfully converted to markdown in src/content/blog/",
+        "Frontmatter parses as valid YAML",
+        "Image URLs in content point to oldsaltblog.com",
+        "Featured image URLs point to oldsaltblog.com",
+        "YouTube embeds preserved in output",
+        "migration-report.json shows stats"
+      ],
+      "passes": false
+    },
+    {
+      "id": 7,
+      "area": "astro",
+      "title": "Configure Astro content collections for blog",
+      "description": "Update src/content/config.ts to define blog collection with proper schema matching the migration frontmatter. Schema should include: title (string), date (date), slug (string), excerpt (optional string), categories (array of strings), tags (array of strings), featuredImage (optional string - external URL), author (string), description (optional string).",
+      "acceptance": [
+        "src/content/config.ts defines 'blog' collection with full schema",
+        "Schema matches frontmatter from migration script",
+        "npm run build succeeds with migrated content",
+        "Collection types exported for use in components"
+      ],
+      "passes": false
+    },
+    {
+      "id": 8,
+      "area": "astro",
+      "title": "Create blog post page template",
+      "description": "Create src/pages/[slug].astro for individual blog posts. Route should be /{slug}/ to match WordPress URL structure. Display title, date, author, featured image (external URL), content, categories, tags. Add SEO meta tags using description and featured image.",
+      "acceptance": [
+        "src/pages/[slug].astro exists and renders blog posts",
+        "URL structure is /{slug}/ (flat, no date prefix)",
+        "Displays title, formatted date, author, featured image",
+        "Renders markdown content correctly including YouTube embeds",
+        "Shows categories and tags with links",
+        "SEO: <title>, og:title, og:description, og:image meta tags set"
+      ],
+      "passes": false
+    },
+    {
+      "id": 9,
+      "area": "astro",
+      "title": "Create paginated blog index page",
+      "description": "Create src/pages/index.astro with paginated post listing. Show 10-20 posts per page with title, date, excerpt, featured image thumbnail. Add pagination controls (prev/next). Sort posts by date descending.",
+      "acceptance": [
+        "Homepage shows paginated post list",
+        "Posts sorted by date descending (newest first)",
+        "Each post shows title, date, excerpt, featured image",
+        "Pagination works with prev/next navigation",
+        "10-20 posts per page"
+      ],
+      "passes": false
+    },
+    {
+      "id": 10,
+      "area": "astro",
+      "title": "Create category and tag archive pages",
+      "description": "Create dynamic routes for category archives (/category/[slug]/) and tag archives (/tag/[slug]/). List all posts in that category/tag. Include category/tag name as page title.",
+      "acceptance": [
+        "src/pages/category/[slug].astro shows posts in category",
+        "src/pages/tag/[slug].astro shows posts in tag",
+        "Category/tag name displayed as page heading",
+        "Posts listed with same format as main blog index"
+      ],
+      "passes": false
+    },
+    {
+      "id": 11,
+      "area": "astro",
+      "title": "Create RSS feed",
+      "description": "Add RSS feed at /rss.xml using @astrojs/rss. Include recent posts with title, link, description, pubDate.",
+      "acceptance": [
+        "@astrojs/rss installed",
+        "RSS feed available at /rss.xml",
+        "Feed includes 20-50 most recent posts",
+        "Each item has title, link, description, pubDate"
+      ],
+      "passes": false
+    },
+    {
+      "id": 12,
+      "area": "astro",
+      "title": "Create responsive blog layout and styling",
+      "description": "Create a clean, readable blog layout. Add header with site title 'Old Salt Blog' and navigation, footer, responsive typography. Style for readability. Mobile-friendly. External images and YouTube embeds should display properly.",
+      "acceptance": [
+        "BaseLayout component with header, main, footer",
+        "Header with site title 'Old Salt Blog' and navigation",
+        "Responsive design works on mobile and desktop",
+        "Typography optimized for reading",
+        "External images from WordPress display properly",
+        "YouTube embeds responsive"
+      ],
+      "passes": false
+    },
+    {
+      "id": 13,
+      "area": "verify",
+      "title": "Verify site runs locally",
+      "description": "Run npm run dev and verify the site works end-to-end. Navigate the homepage, click through to posts, verify images load from WordPress, check category/tag pages work, verify RSS feed. Fix any remaining issues.",
+      "acceptance": [
+        "npm run dev starts without errors",
+        "Homepage loads and shows paginated posts",
+        "Clicking a post navigates to /{slug}/ and renders correctly",
+        "Images load from WordPress URLs",
+        "YouTube embeds play",
+        "Category and tag archive pages work",
+        "RSS feed loads at /rss.xml",
+        "No console errors in browser"
+      ],
+      "passes": false
+    }
+  ]
+}

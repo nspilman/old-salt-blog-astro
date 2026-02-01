@@ -3,16 +3,31 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "astro dev",
-    "build": "astro build",
+    "dev": "NODE_OPTIONS='--max-old-space-size=4096' astro dev",
+    "build": "NODE_OPTIONS='--max-old-space-size=4096' astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "migrate": "NODE_OPTIONS='--max-old-space-size=2048' npx tsx scripts/migrate/index.ts",
+    "type-check": "tsc --noEmit",
+    "test": "echo 'No tests yet' && exit 0"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.3.13",
     "@astrojs/rss": "^4.0.15",
     "@astrojs/sitemap": "^3.7.0",
     "astro": "^5.17.1",
-    "sharp": "^0.34.3"
+    "chalk": "^5.6.2",
+    "node-fetch": "^3.3.2",
+    "ora": "^9.1.0",
+    "p-limit": "^7.2.0",
+    "sharp": "^0.34.3",
+    "turndown": "^7.2.2",
+    "turndown-plugin-gfm": "^1.0.2",
+    "yaml": "^2.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.0",
+    "@types/turndown": "^5.0.6",
+    "tsx": "^4.21.0"
   }
 }
