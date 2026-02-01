@@ -1,0 +1,51 @@
+---
+title: "Happy Juneteenth — When Emancipation Arrived by Steamship 160 Years Ago"
+date: 2025-06-19T11:49:08
+slug: happy-juneteenth-when-emancipation-arrived-by-steamship-160-years-ago
+excerpt: "Happy Juneteenth! Juneteenth is the oldest nationally celebrated commemoration of the ending of slavery in the United States. Juneteenth is also the newest Federal holiday, signed into law in 2020. The holiday commemorates the arrival of emancipation in Galveston, Texas, … Continue reading &rarr;"
+categories:
+  - "Current"
+  - "History"
+  - "Lore of the Sea"
+  - "Ships"
+tags:
+  - "Civil War"
+  - "emancipation"
+  - "galveston"
+  - "General Gordon Granger"
+  - "General Order No 3"
+  - "Juneteenth"
+  - "steamship"
+  - "texas"
+  - "USS Cornubia"
+  - "USS Preston"
+featuredImage: "https://oldsaltblog.com/wp-content/uploads/2020/06/usscornubia.jpg"
+author: "Rick Spilman"
+description: "Happy Juneteenth! Juneteenth is the oldest nationally celebrated commemoration of the ending of slavery in the United States. Juneteenth is also the newest Federal holiday, signed into law in 2020. The holiday commemorates the arrival of emancipation in Galveston, Texas, … Continue reading &rarr;"
+---
+
+![](http://www.oldsaltblog.com/wp-content/uploads/2020/06/usscornubia.jpg)
+
+USS Cornubia, ex Lady Davis
+
+[Happy Juneteenth](https://www.whitehouse.gov/briefing-room/presidential-actions/2024/06/18/a-proclamation-on-juneteenth-day-of-observance-2024/#:~:text=On%20June%2019%2C%201865%2C%20freedom,half%20years%20%E2%80%94%20the%20Emancipation%20Proclamation.)! Juneteenth is the oldest nationally celebrated commemoration of the ending of slavery in the United States. [Juneteenth](https://www.cnn.com/2021/06/17/politics/biden-juneteenth-bill-signing/index.html) is also the newest Federal holiday, signed into law in 2020. The holiday commemorates the arrival of emancipation in Galveston, Texas, by steamship, 160 years ago today. Here is an updated repost. 
+
+Although the surrender at Appomattox Court House, Virginia, signaled the end of the nation’s Civil War on April 9, 1865, emancipation did not arrive in Texas until two months later, when two ex-Confederate steamships sailed into Galveston Harbor. 
+
+On June 5, 1865, two Union Navy ships, *[USS Cornubia](https://en.wikipedia.org/wiki/USS_Cornubia_\(1858\))* and [*USS Preston*](https://en.wikipedia.org/wiki/USS_Preston_\(1864\)), steamed into [Galveston](https://en.wikipedia.org/wiki/Galveston_Island) harbor. Both ships had been captured from the Confederacy. *USS Cornubia* was a 210′ long British fast iron paddle steamer. Purchased by Confederate agents as a blockade runner, and renamed *Lady Davis*, she was then captured by the Union Navy in 1863.
+
+*USS Preston* was a 170′ twin-screw British blockade runner named *Annie*, captured in 1864. The ex-blockade runners carried Captain B. F. Sands with a detachment of Union troops to raise the United States flag over the federal customs house on the Texas island city. On June 18, 1865, Union General [Gordon Granger](https://en.wikipedia.org/wiki/Gordon_Granger) arrived at Galveston Island with 2,000 Federal troops and took full control.
+
+The war was over. Lee had surrendered at Appomattox Court House on April 19th, 1865, but word of the surrender took time to travel west to Texas. The Army of the Trans-Mississippi, the last major Confederate army in the field, finally surrendered on June 2.  While the Emancipation Proclamation had been in place since 1863, until Federal troops arrived to enforce it, it was a largely symbolic document.
+
+On June 19, standing on the balcony of Galveston’s Ashton Villa, General Granger issued five “general orders.” [General Order No. 3](https://www.washingtonpost.com/history/2020/06/18/juneteenth-celebration-george-floyd-protests/) read in part:
+
+*The people of Texas are informed that, in accordance with a proclamation from the Executive of the United States, all slaves are free. This involves an absolute equality of personal rights and rights of property between former masters and slaves, and the connection heretofore existing between them becomes that between employer and hired labor.*
+
+Former slaves in Galveston celebrated in the streets after the announcement, and in 1866, freedmen organized the first of what would become annual celebrations of [Juneteenth](https://en.wikipedia.org/?title=Juneteenth) in Texas. Barred in some cities from using public parks because of state-sponsored segregation of facilities, across parts of Texas, freed people pooled their funds to purchase land to hold their celebrations, such as Houston’s Emancipation Park, Mexia’s Booker T. Washington Park, and Emancipation Park in Austin.
+
+The celebration of Juneteenth has waxed and waned over the years. Given that racist attacks are again on the rise and that white supremacists pose the greatest threat of domestic terrorism, this seems like a critical time to celebrate the national holiday.
+
+Kenneth C. Davis wrote in [Smithsonian](http://www.smithsonianmag.com/history/juneteenth-our-other-independence-day-16340952/?no-ist) magazine, a few years ago:
+
+*This year, let’s remember Juneteenth, the holiday that doesn’t mark a document, a battle, a birthday or a national tragedy, but the fundamental promise of America being more completely realized—the day on which Thomas Jefferson’s rousing rhetoric finally rang true throughout America, for all Americans.*

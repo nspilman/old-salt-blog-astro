@@ -111,7 +111,7 @@
         "YouTube embeds preserved in output",
         "migration-report.json shows stats"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 7,

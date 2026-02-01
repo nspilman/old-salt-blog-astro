@@ -17,7 +17,7 @@ export async function writePost(
     const markdown = convertPostToMarkdown(post, lookups);
 
     // Create output directory if it doesn't exist
-    const blogDir = path.join(outputDir, 'src', 'content', 'blog');
+    const blogDir = path.join(outputDir, 'blog');
     if (!fs.existsSync(blogDir)) {
       fs.mkdirSync(blogDir, { recursive: true });
     }
@@ -46,7 +46,7 @@ export async function writePage(
     const markdown = convertPageToMarkdown(page, lookups);
 
     // Create output directory if it doesn't exist
-    const pagesDir = path.join(outputDir, 'src', 'content', 'pages');
+    const pagesDir = path.join(outputDir, 'pages');
     if (!fs.existsSync(pagesDir)) {
       fs.mkdirSync(pagesDir, { recursive: true });
     }

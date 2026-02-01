@@ -1,0 +1,23 @@
+---
+title: "The Grand Banks Tsunami — 85 Years Ago Today"
+date: 2014-11-18T09:02:27
+slug: the-grand-banks-tsunami-85-years-ago-today
+excerpt: "The word tsunami usually brings to mind seismic waves in the Pacific or the Indian Oceans. Eighty five years ago today, an major earthquake, in the Atlantic, approximately 250 km south of Newfoundland along the southern edge of the Grand … Continue reading &rarr;"
+categories:
+  - "History"
+  - "Lore of the Sea"
+author: "Rick Spilman"
+description: "On November 18, 1929, at 5:02 PM local time, the Grand Banks was rocked by a magnitude 7.2 earthquake. A tsunami that slammed into the Newfoundland coast."
+---
+
+![19291118_1929_75anncov](http://www.oldsaltblog.com/wp-content/uploads/2014/11/19291118_1929_75anncov.jpg)The word tsunami usually brings to mind seismic waves in the Pacific or the Indian Oceans. Eighty five years ago today, an [major earthquake](http://en.wikipedia.org/wiki/1929_Grand_Banks_earthquake), in the Atlantic, approximately 250 km south of Newfoundland along the southern edge of the Grand Banks, caused a tsunami that slammed into the Newfoundland coast.
+
+On November 18, 1929, at 5:02 PM local time, the [Grand Banks](http://en.wikipedia.org/wiki/Grand_Banks_of_Newfoundland) was rocked by a [magnitude 7.2 earthquake](http://www.earthquakescanada.nrcan.gc.ca/historic-historique/events/19291118-eng.php).  The earthquake triggered a large underwater landslide, which severed 12 submarine transatlantic cables.  The landslide also generated a tsunami which raced towards Newfoundland at speeds of up to 140 km/hr, before slowing to about 40 km/hr in shallower water. Three waves would crash into Newfoundland’s [Burin Peninsula](http://en.wikipedia.org/wiki/Burin_Peninsula), flooding dozens of communities and washing entire homes out to sea. Twenty eight residents would die in tsunami’s path.
+
+As recounted by [Newfoundland and Labrador Heritage](http://www.heritage.nf.ca/law/tsunami29.html):  *Despite the magnitude of the earthquake which precipitated the tsunami, no one in Newfoundland and Labrador anticipated the approaching danger. Large-scale seismic events are rare in eastern North America and virtually non-existent in Newfoundland and Labrador; in 1929, the country did not even possess a seismograph or tide gauge which could warn of the tsunami. Moreover, a recent storm had severed the single telegraph line linking the Burin Peninsula with the rest of the island; it was not until almost three days after the tsunami struck that the Squires government learned of the disaster and was able to send help….*
+
+*At about 7:30 p.m., residents along the Burin Peninsula noticed a rapid drop in sea level as the lowest point of the tsunami’s first wave, known as a trough, reached the coast. As the water receded, it exposed portions of the ocean floor that were normally submerged and caused boats docked at various harbours to tumble over onto their sides. Minutes later, three successive waves hit the shore and water levels rose dramatically. In most places, the sea level swelled three to seven metres above normal, but in some of the peninsula’s long narrow bays, such as at Port au Bras, St. Lawrence, and Taylor’s Bay, the water rose by between 13 and 27 metres.*
+
+*The force of the waves lifted houses off their foundations, swept schooners and other vessels out to sea, destroyed stages and flakes, and damaged wharves, fish stores, and other structures along the peninsula’s extensive coastline. Approximately 127,000 kilograms of salt cod were also washed away by the tsunami, which affected more than 40 communities on the Burin Peninsula. At Point au Gaul, giant waves destroyed close to 100 buildings as well as much of the community’s fishing gear and food supplies; St. Lawrence lost all of its flakes, stages, and motor boats. Government assessment later placed property damage on the Burin Peninsula at $1 million.*
+
+*Worse than the damage to property, however, was the loss of human life. The tsunami killed 28 people in southern Newfoundland, which is more than any other documented earthquake-related event in Canadian history. Twenty-five victims drowned during the disaster (six bodies were washed out to sea and never found) and another three later died from shock or other tsunami-related conditions. The deaths were confined to six communities: Allan’s Island, Kelly’s Cove, Point au Gaul, Lord’s Cove, Taylor’s Bay, and Port au Bras. Fortunately, the tsunami struck on a calm evening when most people were still awake and could quickly react to the rising water; many managed to evacuate their homes and flee to higher ground.*
