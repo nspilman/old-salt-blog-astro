@@ -1,0 +1,42 @@
+[
+  {
+    "id": 413316,
+    "author": "Richard W. Roth",
+    "authorUrl": "",
+    "date": "2020-01-17T17:18:03",
+    "content": "<p>Perhaps this is a GPS assisted collision, something like the radar assisted collision we studied during radar plotting training. The crew of a vessel puts it on auto pilot tied to a GPS plotter to take them down the channel and begins cleaning nets and sorting fish.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 413315,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2020-01-17T16:37:40",
+    "content": "<p>The Bow Belle was a dredger while the Bow Fortune is a tanker. Bow Belle was owned by East Coast Aggregates Limited whereas Bow Fortune is owned by Odfjell. I doubt the tow vessels have anything in common.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 413313,
+    "author": "Jean-Pierre Declemy",
+    "authorUrl": "http://Hadlow%20Marine%20Services",
+    "date": "2020-01-17T15:26:32",
+    "content": "<p>Is there any link between the Bow Fortune and the Bow Belle, another vessel that ran down a party ship on the River Thames killing many people?</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 413312,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2020-01-17T10:22:26",
+    "content": "<p>With AIS, with a Security Call on a VHS Radio, with someone observing the radar, even with the prudent use of foghorns, it never should have happened.</p>\n",
+    "parent": 413311
+  },
+  {
+    "id": 413311,
+    "author": "Bob Barnett",
+    "authorUrl": "",
+    "date": "2020-01-17T10:04:11",
+    "content": "<p>With AIS this shouldn’t happen.</p>\n",
+    "parent": 0
+  }
+]

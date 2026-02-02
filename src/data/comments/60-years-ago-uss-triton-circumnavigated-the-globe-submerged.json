@@ -1,0 +1,98 @@
+[
+  {
+    "id": 414370,
+    "author": "Greg",
+    "authorUrl": "http://www.CloseQuarters.us",
+    "date": "2020-04-29T21:13:04",
+    "content": "<p>Great film &#8211; in style and in content. Thanks!</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 414369,
+    "author": "Doug Bostrom",
+    "authorUrl": "",
+    "date": "2020-04-29T19:06:06",
+    "content": "<p>You&#8217;ve answered a lot of questions some of which (nitrogen) for my own part I&#8217;ve wondered about for a long time. Thanks so much, Tim.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 414362,
+    "author": "Tim McFeely",
+    "authorUrl": "",
+    "date": "2020-04-29T06:45:43",
+    "content": "<p>In response to Doug&#8217;s question:<br />\nNitrogen is preloaded prior to getting underway into high pressure N2 banks.  Both the O2 and N2 banks are located external to the pressure hull in the ballast tanks.  Like the oxygen, nitrogen is also bled in as needed.  CAMS (Central Air Monitoring System) is monitored constantly and adjustments made accordingly.</p>\n<p>Other notes:<br />\nThere are also carbon monoxide burners onboard that deal with cooking by products (hopefully not truly burnt meals).  Cigarette smoke is a thing of the past so the burners don&#8217;t work as hard.  They do however produce CO2 and water in the process.  Air flow is such that the outlet of the burners goes directly to the scrubbers.  Water empties into the sanitary system.<br />\nHydrogen is pumped overboard as fast as it is produced.  The oxygen generator (aka The Bomb) has an alarm on it that can be heard several 1000s of miles away.  It will get your attention.<br />\nI suspect Captain Beach did not make admiral because he rubbed too many desk bound members of the selection committee the wrong way.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 414360,
+    "author": "Doug Bostrom",
+    "authorUrl": "",
+    "date": "2020-04-28T23:42:54",
+    "content": "<p>Tim, is there a mechanism for handling compensation for loss of nitrogen in venting? </p>\n<p>On a semi-related note, it&#8217;s interesting how thermonuclear power has consistently been stalled for use in space due to penalties associated with shedding waste heat, while here w/submarines we see what can be done with copious amounts of electricity available (electrolysis!) <i>and</i> some place to dispose of waste heat.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 414351,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2020-04-28T12:23:58",
+    "content": "<p>Tim,</p>\n<p>Very informative. Thanks.</p>\n",
+    "parent": 414342
+  },
+  {
+    "id": 414348,
+    "author": "Bob",
+    "authorUrl": "",
+    "date": "2020-04-28T10:45:00",
+    "content": "<p>Captain Beach had a spectacular career.  Why did he not make admiral?</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 414347,
+    "author": "Ws",
+    "authorUrl": "",
+    "date": "2020-04-28T09:50:51",
+    "content": "<p>According to my records: The explosive hydrogen gas, a byproduct of electrolysis produced oxygen, It’s simply vented overboard.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 414344,
+    "author": "Total",
+    "authorUrl": "",
+    "date": "2020-04-28T09:07:35",
+    "content": "<p>Fascinating stuff, Tim, thanks!</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 414342,
+    "author": "Tim McFeely",
+    "authorUrl": "",
+    "date": "2020-04-28T07:05:04",
+    "content": "<p>Nuclear submarines have an oxygen generator that uses electrolysis to separate the hydrogen and oxygen molecules from sea water,  The hydrogen is immediately pumped overboard and the oxygen is pumped into oxygen tanks.  O2 levels are regulated by bleeding oxygen into the sub as needed.  Obviously, bleeding anything into the closed environment of the sub raises the pressure within the &#8216;people tank&#8217;.  To lower the pressure in the sub an air compressor (or 2) are started to fill high pressure air banks used for emergency blows and for ship&#8217;s service air to operate torpedo tubes and other components.  At some point though the air banks are full and the pressure in the boat needs relief.  Sticking the snorkel mast up and just opening the head valve (flat plate on top of mast to keep water out) does this without starting the diesel.  This is usually done in conjunction with other housekeeping like raising an antenna for radio traffic.  If there is time a low pressure blower can be started to circulate fresh air through the boat.  In situations where it is not feasible (under ice) or desirable (doing super secret sneaky things) to raise masts, chlorate candles are used to produce oxygen without increasing pressure.  Internal pressure is a constant balancing act, so I am sure the Triton stuck up the snorkel mast a time or two.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 414339,
+    "author": "Doug Bostrom",
+    "authorUrl": "",
+    "date": "2020-04-28T01:44:47",
+    "content": "<p>I also liked Adm. Rickover&#8217;s quick fix for the overheating shaft bearing during trials: &#8220;put a hose on it.&#8221; 🙂</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 414336,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2020-04-27T19:41:44",
+    "content": "<p>I don&#8217;t know the answer to the question. I have read that in addition to scrubbers to take out the CO2, subs have either high-pressure O2 bottles or use oxygen generators to make oxygen by electrolysis. What they do with the hydrogen is unclear to me.</p>\n",
+    "parent": 414335
+  },
+  {
+    "id": 414335,
+    "author": "Doug Bostrom",
+    "authorUrl": "",
+    "date": "2020-04-27T19:24:04",
+    "content": "<p>An extremely unusual submarine in many ways. I went to Wikipedia expecting to find a variation on other boats of the day but instead&#8211; a myriad of unique features. </p>\n<p>I&#8217;ve not found details about air supply for crew members. Did this trip include any snorkeling for fresh air? I seem to remember that US nuclear subs had/have some air regeneration capacity.</p>\n",
+    "parent": 0
+  }
+]

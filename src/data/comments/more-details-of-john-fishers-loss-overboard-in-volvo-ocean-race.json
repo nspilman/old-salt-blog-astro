@@ -1,0 +1,82 @@
+[
+  {
+    "id": 406012,
+    "author": "R. W. Jacks",
+    "authorUrl": "",
+    "date": "2018-04-25T19:39:35",
+    "content": "<p>I suspect the vast majority of those lost at sea, doing what they love, would  share a common sentiment : &#8220;No Regrets&#8221;.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 405994,
+    "author": "Peter Wright",
+    "authorUrl": "",
+    "date": "2018-04-24T18:03:05",
+    "content": "<p>Rick, EPIRBS and PEPIRBS are picked up by satellite, some have their own GPS but they are not allowed to be automatically activated. You are then in the realms of sophisticated, but not impossible communications with coastguards worldwide.<br />\nI read in an early report that John was hit by a turning block on the mainsheet and was most likely unconscious or badly injured, I do not know if this is true.<br />\nI have fitted various proximity devices to boats where the casualty location is automatically registered on the nav plotters and have found them very effective. PAX wear a wrist device that is activated if more than 10 metres from the vessel or the signal is lost. I have also fitted low light camera systems that turn the camera to the casualty position on activation of the proximity device with the optimum colour scheme for the conditions highlighting a head in the water. It is awesome technology but comes at a price, £7500 for the camera unit.<br />\nI know many of the guys going back to the Whitbread up to the modern Volvo and they are dedicated and professional. I hope and pray we can find a solution to these problems to allow the industry to safely supply us with amazing entertainment whilst allowing these guys to perform at the limits in their sport.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 405993,
+    "author": "Jean-pierre Declemy",
+    "authorUrl": "",
+    "date": "2018-04-24T15:41:16",
+    "content": "<p>If what you tell us is correct I am deeply concerned that they are sailing in the Southern Ocean without jacklines. Although there is an argument that more people are drowned going overboard while clipped on than those that are thrown clear, being attached to the vessel makes it easier to recover the corpse than trying to search up wind against a Southern Ocean gale and seas.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 405988,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2018-04-24T08:20:10",
+    "content": "<p>AIS uses a VHF antenna. A spare, if they had one, would not have been hard to rig. I haven&#8217;t read about the use of an EPIRB or PEPIRB, but their position in the Southern Ocean was out of the range of helicopters and days away by sea. I am not aware of being able to pick up a satellite transponder signal on a boat. In theory, they could have been vectored to the signal over satphone but the accuracy is still not great. The older EPIRBs are accurate to 2 to 5 km. I understand that the 406 MHz EPIRBs are better but do not know the details.</p>\n",
+    "parent": 405982
+  },
+  {
+    "id": 405987,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2018-04-24T08:13:32",
+    "content": "<p>Thanks for the catch. Fixed it.</p>\n",
+    "parent": 405986
+  },
+  {
+    "id": 405986,
+    "author": "Jim M.",
+    "authorUrl": "",
+    "date": "2018-04-24T08:02:57",
+    "content": "<p>Do you mean jacklines, not jack stays?<br />\nTwo different purposes, no?</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 405985,
+    "author": "Willy",
+    "authorUrl": "",
+    "date": "2018-04-24T06:43:27",
+    "content": "<p>Typical modern company. We have taken the necessary steps to meet all requirements at the beginning of licensing.</p>\n<p>It doesnt matter if it is for boats or tractor trailers (I am a truck driver by trade).  All companies have the same excuse and bery few think it is necessary to keep said equipment functioning.  The heck with the people that say there are laws.  The companies usual response is the bottom dollar and profit margin.  Cheaper to buy insurance than to be responisble.</p>\n<p>Fact of life these days.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 405982,
+    "author": "Peter Wright",
+    "authorUrl": "",
+    "date": "2018-04-23T21:28:57",
+    "content": "<p>A MOB confirmation light would help. Does the system back compute the casualty position taking into account the speeds of 20-30 kts.</p>\n<p>A spare VHF aerial is already carried for the event of a mast coming down,, could this be used in emergency?</p>\n<p>Was the casualty able to activate the PEPIRB which is also carried?</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 405980,
+    "author": "Doug Bostrom",
+    "authorUrl": "",
+    "date": "2018-04-23T19:08:20",
+    "content": "<p>Speaking as one of those who went off half-cocked about &#8220;no AIS, why?&#8221; it&#8217;s chastening to hear that at least this part was done right. </p>\n<p>And yeah&#8211; redundancy, even if it&#8217;s down to manual intervention by swapping a coaxial connector to bring a spare antenna into play. At the ranges in question even an antenna taped to a handy support and barely off the water would likely do the job, so a spare could be carried w/no impact on normal operations. </p>\n<p>It&#8217;s odd (and tragic in this case) that COB buttons usually involve a delay. Easy to clear a false alarm. Four seconds is an eternity when things are happening fast.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 405979,
+    "author": "will",
+    "authorUrl": "",
+    "date": "2018-04-23T18:13:36",
+    "content": "<p>sad story.  cautionary tale . . . don&#8217;t compromise on safety.</p>\n",
+    "parent": 0
+  }
+]

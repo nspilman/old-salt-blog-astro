@@ -1,0 +1,42 @@
+[
+  {
+    "id": 410051,
+    "author": "Phil",
+    "authorUrl": "",
+    "date": "2019-03-30T16:53:48",
+    "content": "<p>So that&#8217;s why this ship<br />\nnearly wrecked on<br />\nNorway&#8217;s rocks<br />\nNavyTimes.com &#8211; 1 day<br />\nago</p>\n<p>&#8220;&#8221;Sensors<br />\ndetected the oil<br />\nshortage and<br />\nautomatically shut<br />\ndown the Viking<br />\nSky’s engines to<br />\nprevent a<br />\nbreakdown&#8221;&#8221;<br />\n<a href=\"https://www.navytimes.com/news/your-navy/2019/03/29/so-thats-why-this-ship-nearly-wrecked-on-norways-rocks/\" rel=\"nofollow ugc\">https://www.navytimes.com/news/your-navy/2019/03/29/so-thats-why-this-ship-nearly-wrecked-on-norways-rocks/</a></p>\n",
+    "parent": 0
+  },
+  {
+    "id": 410011,
+    "author": "Doug Bostrom",
+    "authorUrl": "",
+    "date": "2019-03-28T11:40:15",
+    "content": "<p>Given the myriad similar cases of main engines losing lube oil due to rolling, one wonders about a lube oil standpipe (possibly combined with an air tank above it?) so as to bridge suction losses. A 60&#8242; standpipe alone would provide ~23 psi when full&#8211; many large vessels could nearly double that figure.  Combining that with a properly sized air tank above the standpipe could supply reasonable lube oil pressure at close to book values, long enough to</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 410010,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2019-03-28T10:24:13",
+    "content": "<p>The similarities to the two incidents are very disturbing. The two ships could hardly be more different but both apparently lost power sloshing of lube oil in extreme conditions. Fortunately, in the case of the Viking Sky, there were no fatalities but it was a very near thing.</p>\n",
+    "parent": 410002
+  },
+  {
+    "id": 410003,
+    "author": "Ginny",
+    "authorUrl": "",
+    "date": "2019-03-27T20:02:29",
+    "content": "<p>In fact, there was a mention that the low oil pressure alarms were not set either.   To leave port knowing that you are low on oil albeit within the acceptable lower limit, seems like negligence.  If indeed the alarms were not set that is tantamount to criminal negligence.    I believe that those alarms are required on USCG inspected passenger carrying vessels, and that should be a requirement for other classifications as well, shouldn&#8217;t it?</p>\n<p>I was actually guessing that the sludge in the bottom of the tanks had gotten so stirred up that they&#8217;d burned through the filters, but having the intake tubes out of contact with the oil and getting air bound &#8212; would that be what could have happened</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 410002,
+    "author": "Richard",
+    "authorUrl": "",
+    "date": "2019-03-27T18:37:31",
+    "content": "<p>The loss of oil pressure due to a large angle of heel was named as a likely cause of loss of power and ultimate sinking of the S/S EL FARO. Perhaps the classification societies should review the minimum allowable tank levels.</p>\n",
+    "parent": 0
+  }
+]

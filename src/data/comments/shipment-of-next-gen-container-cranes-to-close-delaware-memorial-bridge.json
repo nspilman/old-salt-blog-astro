@@ -1,0 +1,26 @@
+[
+  {
+    "id": 405778,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2018-03-26T14:26:49",
+    "content": "<p>Thanks, Dennis.</p>\n",
+    "parent": 405771
+  },
+  {
+    "id": 405771,
+    "author": "dennis",
+    "authorUrl": "",
+    "date": "2018-03-24T10:47:30",
+    "content": "<p>video of the ship passing under the bridge&#8211;alas not super clear though, being nighttime and all</p>\n<p><a href=\"https://www.youtube.com/watch?v=3elpQTxig38\" rel=\"nofollow ugc\">https://www.youtube.com/watch?v=3elpQTxig38</a></p>\n",
+    "parent": 0
+  },
+  {
+    "id": 405769,
+    "author": "Jean-Pierre Declemy",
+    "authorUrl": "",
+    "date": "2018-03-23T18:29:17",
+    "content": "<p>1996 the Irskine bridge over the Clyde near Glasgow was hit by an oil rig passing underneath. They had made all the calculations for air draft and tide height but forgot to add the height of the dumb barge the rig was being transported on. The difference was 7 feet. Better recheck your calculations Delaware just in case.</p>\n",
+    "parent": 0
+  }
+]

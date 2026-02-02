@@ -1,0 +1,26 @@
+[
+  {
+    "id": 414259,
+    "author": "Andy Knox",
+    "authorUrl": "",
+    "date": "2020-04-19T11:40:32",
+    "content": "<p>Clarity improved.  Excellent post, Rick.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 414257,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2020-04-19T10:53:55",
+    "content": "<p>No problem with math. Just prose. The previous paragraph said that &#8220;60% of those who tested positive were asymptomatic.&#8221; I thought the following paragraph would be clear that those were the sailors being referred to. To avoid confusion I have updated the following paragraph to the read &#8220;That 60% of the crew who tested positive was infected and contagious &#8230;.&#8221;</p>\n<p>Even using 8% as the figure of contagious but asymptomatic explains why the virus spread from 3 sailors to 655 in such a short period of time. </p>\n",
+    "parent": 414256
+  },
+  {
+    "id": 414256,
+    "author": "Andy Knox",
+    "authorUrl": "",
+    "date": "2020-04-19T10:45:54",
+    "content": "<p>&#8220;That 60% of the crew was infected and contagious but showing no sign of illness explains why the infections spread so quickly in the crowded and cramped quarters of the aircraft carrier.&#8221;</p>\n<p>Please check your math &#8211; ~60% of ~14% would be ~8.4% of the crew infected and contagious but showing no signs of illness.  I think this number better illustrates the communicability of the infection.</p>\n",
+    "parent": 0
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 423232,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2021-09-18T13:47:43",
+    "content": "<p>The Golden Ray is only one of a number of car carriers that have capsized due to mistakes made in stability calculations. The Cougar Ace and the Höegh Osaka are two examples. This seems to be due to the specific characteristics of the ships coupled with a lack of attention to stability and loading by the car carrier industry as a whole.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 423231,
+    "author": "Doug Bostrom",
+    "authorUrl": "",
+    "date": "2021-09-18T13:07:44",
+    "content": "<p>Jean-Pierre, the useful payload of the NTSB report is that the chief officer <i>thought</i> he was doing all of the due diligence, and indeed accomplished all steps. However, he&#8217;d not been trained on the ballasting software, did not understand how to use its automatic features and thus missed catching an error he&#8217;d made in tracking distribution of ballast. The report further details how this single person was also responsible for many other ship operations including directing stevedores, personally walking the ship to check arrangement of cargo etc. </p>\n<p>The guy hit the ground running when he joined the ship and never caught up. </p>\n<p>There is no equation leading to reliable success as a statistical matter in the face of scanty staffing.</p>\n<p>This is thanks to ship management processes. Investors want profits, we want inexpensive goods. Somebody else pays the external costs of decisions making those wishes true.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 423217,
+    "author": "Jean-Pierre",
+    "authorUrl": "",
+    "date": "2021-09-17T05:03:33",
+    "content": "<p>&#8230; along with not checking freeboard before leaving dock, incorrect load distribution and incomplete ballasting.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 423209,
+    "author": "Doug Bostrom",
+    "authorUrl": "",
+    "date": "2021-09-16T12:41:19",
+    "content": "<p>Fans of MAIB reports etc. know that not having enough time to familiarize with documentation is a key reason for many groundings, sinkings, expensive propulsion chew-ups. </p>\n<p>Definition of crazy: keep doing what obviously fails. The craziness is mostly at the management level.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 423200,
+    "author": "Willy",
+    "authorUrl": "",
+    "date": "2021-09-15T18:50:21",
+    "content": "<p>woops.  Betting their insurance just went up</p>\n",
+    "parent": 0
+  }
+]

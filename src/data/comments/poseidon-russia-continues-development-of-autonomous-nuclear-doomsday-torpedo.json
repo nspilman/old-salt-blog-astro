@@ -1,0 +1,42 @@
+[
+  {
+    "id": 423017,
+    "author": "Willy",
+    "authorUrl": "",
+    "date": "2021-09-04T08:34:57",
+    "content": "<p>Grin, it may be more of &#8220;we the nation of bluh have created the new torpedo that is able to blah blah blah&#8221;.  This in turn gets DARPA and others to spend numerous dollars to prove it cant be done.  </p>\n<p>The reasoning for this torpedo?  Russia loves to see the americans throw uber bucks into a phallacy</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 423011,
+    "author": "Doug Bostrom",
+    "authorUrl": "",
+    "date": "2021-09-04T02:22:13",
+    "content": "<p>In a way this is ends up as a signal collection and processing problem, and in those terms not fundamentally challenging. Signal collection is now trivial; a dense network of hydrophones is simply a matter of money away with no technological hurdles needing to be crossed. Meanwhile, sound travels through water faster than even a &#8220;doomsday torpedo.&#8221; But that sound is of course part of a soup of noise, everything that is not the acoustical signature emitted by even the very quietest (notably not compatible with speed) craft. The nut of the problem at hand ends up being that of collecting samples of acoustical signature to couple with convolutional filtering or whatever salad of arithmetic is needed so as to tease that signature from raw signal.  </p>\n<p>As a matter of global accomplishment our craft with signal processing is very, very good. Given any shred of signal in a stew, we can retrieve it. </p>\n<p>With information in hand, active defenses become possible, let alone that acoustical signatures are a form of evidence leading to attribution. </p>\n<p>I hope the people building these weapons are thinking this through all the way.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 423005,
+    "author": "Jean-Pierre",
+    "authorUrl": "",
+    "date": "2021-09-03T17:44:25",
+    "content": "<p>Soviet/Yank animosity is so last week. I think they should both be more worried about the new kid on the block.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 422994,
+    "author": "Peter Wright",
+    "authorUrl": "",
+    "date": "2021-09-03T03:26:35",
+    "content": "<p>The reply would be from up to 7000 miles away at 7 miles per second. It&#8217;s MAD.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 422990,
+    "author": "Willy",
+    "authorUrl": "",
+    "date": "2021-09-02T20:03:26",
+    "content": "<p>With a range of 5400 nm.  Who needs a submarine?  Any spyship could roll one off their decks.  So if it were real the subs would be obsolete.</p>\n<p>Tho we have enough nuclear arsenal to burn the earth to a cinder as it was already.  Whats a few hundred megaton more?</p>\n",
+    "parent": 0
+  }
+]

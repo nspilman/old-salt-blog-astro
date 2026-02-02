@@ -1,0 +1,50 @@
+[
+  {
+    "id": 428296,
+    "author": "Jean-Pierre",
+    "authorUrl": "",
+    "date": "2022-08-11T02:41:04",
+    "content": "<p>Presumably they need to over-canvass the vessel to keep up the speed? (and hope the generating plant doesn&#8217;t unexpectedly shut down).</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 428274,
+    "author": "David Barry",
+    "authorUrl": "https://twitter.com/DAOBarry",
+    "date": "2022-08-09T13:05:03",
+    "content": "<p>I wonder what the optimum speed is for a boat using wind power to generate hydrogen, by way of using the boat&#8217;s motion to drive a water turbine? Also interesting to know whether they are producing the hydrogen in gaseous form or whether they are cooling it to liquid.</p>\n<p>There is a French project to develop hydrogen producing boats propelled by wind, where rotor sails (Flettner Rotors) are used and the ships are unmanned computer controlled drones.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 428072,
+    "author": "ws",
+    "authorUrl": "",
+    "date": "2022-07-27T09:29:34",
+    "content": "<p>Use this kinetic energy to charge conventional storage batteries, 80% round trip.</p>\n<p>Hydrogen fuel cell’s round trip is:</p>\n<p>Round-trip efficiency is the percentage of electricity retrieved after being stored. The technology to convert power to hydrogen and back to power has a round-trip efficiency of 18%-46%, according to data that Flora presented from the Massachusetts Institute of Technology and scientific journal Nature Energy.Jun 24, 2021<br />\n<a href=\"https://www.spglobal.com\" rel=\"nofollow ugc\">https://www.spglobal.com</a> › hydrog&#8230;<br />\nHydrogen technology faces efficiency disadvantage in power storage race &#8211; S&amp;P Global</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 428048,
+    "author": "Mike",
+    "authorUrl": "",
+    "date": "2022-07-26T05:54:09",
+    "content": "<p>I fear this looks and sounds better than it really is.<br />\nTo get 1 kilo of H2 from the electrolysis of seawater you would need a 44hp engine running for 1 hour.<br />\nDo a set of rather small sails on the foiler shown produce anything like this? Doubtful. Scale that up to the wild claims made, how big is the foiler? How heavy? Will it actually foil at the weight?<br />\nAlso, how are they measuring the produced H2? Kilo/pound/ bucket/gallon? Only weight will give a true answer. They don&#8217;t give this anywhere. Then, of course, all the added weight will prevent the boat from foiling at all. All looks a bit dodgy. Sadly.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 428039,
+    "author": "Jean-Pierre",
+    "authorUrl": "",
+    "date": "2022-07-25T05:32:52",
+    "content": "<p>They could even add Flettner rotors to help.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 428038,
+    "author": "Jean-Pierre",
+    "authorUrl": "",
+    "date": "2022-07-25T05:30:12",
+    "content": "<p>Why not use the system to produce hydrogen on commercial vessels that could then use the hydrogen to power the engines?<br />\nI wonder how much this would cut their dinosaur juice consumption.</p>\n",
+    "parent": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 418246,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2020-12-09T11:21:22",
+    "content": "<p>Parametric rolling has only become a serious problem in containerships with the advent of the larger post-Panamax designs. </p>\n<p>I am not familiar with any container ships with fin stabilizers. I have worked with one class of ships with anti-roll ballast tanks. The problem with fin stabilizers is that they are generally ineffective at slow speeds. </p>\n<p>All this being said, I do note that Wartsilla has a note on its website saying: &#8220;Today, owners of other types of vessels, especially large containerships, are increasingly specifying fin stabilisers.&#8221;</p>\n<p>This may be true but I have not heard of any container ships with fin stabilisers.</p>\n",
+    "parent": 418239
+  },
+  {
+    "id": 418239,
+    "author": "Mike Kingdom-Hockings",
+    "authorUrl": "",
+    "date": "2020-12-09T07:38:51",
+    "content": "<p>I amazed that naval architecture could be so archaic for large cargo vessels. Rolling is a form of resonance and the catastrophic case where external forces are perfectly in phase with the natural frequency of the vessel seems bound to occur occasionally. Modern ferries and passenger ships are fitted with active damping systems (usually called &#8216;stabilisers&#8217;) originally intended to improve passenger comfort, but I suspect they sometimes improve efficiency too. Do you know whether any container ships are eduipped with them?</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 418221,
+    "author": "Willy",
+    "authorUrl": "",
+    "date": "2020-12-08T19:34:19",
+    "content": "<p>Seems like overconfidence on the part of the captain may be to blame.</p>\n",
+    "parent": 0
+  }
+]

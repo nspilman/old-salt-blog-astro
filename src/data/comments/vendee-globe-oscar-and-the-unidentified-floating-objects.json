@@ -1,0 +1,26 @@
+[
+  {
+    "id": 418522,
+    "author": "Doug Bostrom",
+    "authorUrl": "",
+    "date": "2020-12-17T20:12:18",
+    "content": "<p>Further to Jean-Pierre, by coincidence just the other day I was searching for academic articles for side-effects of sonar on marine mammals, trying to learn about what sort of impact a chirping sonar might have on our local seagoing critters (I have a burning urge to have a chirper for helping to deal with dodgy anchorages but not at any cost). </p>\n<p>From what I read there, it seems easily possible to build a receiver capable of picking up ultrasonic sonar and signaling used by mammals. It would all come down to noise discrimination, and that&#8217;s another area friendly to machine-learning. And the range of ultrasound even in water is quite scanty, so it seems feasible that signals would be confined to reasonable proximity to the vessel. </p>\n<p>Toehold on subject via Google Scholar: <a href=\"https://scholar.google.com/scholar?hl=en&#038;as_sdt=0%2C48&#038;q=marine+mammals+echo+sounders&#038;btnG=\" rel=\"nofollow ugc\">https://scholar.google.com/scholar?hl=en&#038;as_sdt=0%2C48&#038;q=marine+mammals+echo+sounders&#038;btnG=</a></p>\n",
+    "parent": 0
+  },
+  {
+    "id": 418521,
+    "author": "Doug Bostrom",
+    "authorUrl": "",
+    "date": "2020-12-17T20:05:12",
+    "content": "<p>Jean-Pierre, those are great ideas to think about.</p>\n<p>Forward-looking sonar will run into trouble in any kind of sea state, simplistically. But with some machine-learning to discriminate various types of returns it seems plausible.</p>\n<p>For the mammals: really cool idea. Could be difficult in a boat running hard, but there&#8217;s a lot of keel depth in these particular vessels to get a transducer well down and deep.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 418519,
+    "author": "Jean-Pierre Declemy",
+    "authorUrl": "http://Hadlow%20Marine%20Services",
+    "date": "2020-12-17T19:04:39",
+    "content": "<p>Whales communicate with each other with vlf sounds (I believe). Perhaps some thought should be given to identifying the positions and tracking the source of such noises or even just giving skippers a proximity alert.<br />\nAnd what about using forward facing sonar fish finders linked into navigation and steering electronics, that would identify any dense object and steer around it faster than a human can react to an alarm. I am thinking while writing and wondering if that would cope with waves.<br />\nAny submariners around to comment?</p>\n",
+    "parent": 0
+  }
+]

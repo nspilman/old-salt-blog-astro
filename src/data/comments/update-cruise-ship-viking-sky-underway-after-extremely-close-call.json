@@ -1,0 +1,74 @@
+[
+  {
+    "id": 409978,
+    "author": "Jean-Pierre Declemy",
+    "authorUrl": "http://Hadlow%20Marine%20Services",
+    "date": "2019-03-25T12:38:14",
+    "content": "<p>I had already come to the conclusion that modern engines were dangerous when I looked into replacing the Sabb (not Saab) engine in my sailboat with a modern Volvo. What happens if it goes into &#8216;limp home mode&#8217; when I am being blown onto a lee shore?</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 409977,
+    "author": "Kem Kough",
+    "authorUrl": "",
+    "date": "2019-03-25T10:33:22",
+    "content": "<p>I have changed my mind and agree that a software problem is more likely the culprit. Computers are dumb and dutiful. If an erroneous sensor sent an input saying say the engines were overheating the computers will shut down the engines . It doesn’t matter that the ship is 100 meters from the shore the computer doesn’t care they just do what they are programmed to do even if it doesn’t make sense.  Same computers that crash airplanes like the Boing Max because they erroneously think the airplane is in a stall. Hal has finally arrived</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 409976,
+    "author": "Jean-Pierre Declemy",
+    "authorUrl": "http://Hadlow%20Marine%20Services",
+    "date": "2019-03-25T07:18:11",
+    "content": "<p>I have read elsewhere that a good samaritan ship in the same area also suffered an engine shutdown. Which leads to more questions and hopefully some answers, like are the two ships powered by engines from the same manufacturer?</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 409971,
+    "author": "Kem kough",
+    "authorUrl": "",
+    "date": "2019-03-24T21:54:38",
+    "content": "<p>Extremely frustrating to not have any usefull info here. Good point on electrical junction point. Is it possible the wave which swamped the ship short circuited the electrical system?  Also what about the anchor In my experience the anchor is about as likely to slip as it is to catch. Most times a ships anchor is used to anchor a ship in a harbor rather than as a last ditch effort to to save the ship so maybe the experts don’t even know I would give anything to hear the Captain speak honestly about their chances of survival in this case. Alas this is not to be not now not after the investigation not ever</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 409969,
+    "author": "Maynard",
+    "authorUrl": "",
+    "date": "2019-03-24T18:47:25",
+    "content": "<p>sometimes the software is the problem. on a new build cruise ship out of Nazare France on our way to NY the ship drifted for two days due to software. the engines were fine. nothing simple these days</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 409966,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2019-03-24T17:47:08",
+    "content": "<p>My guess is that none of the diesel engines failed but that the electrical distribution system failed for one of many reasons.</p>\n",
+    "parent": 409964
+  },
+  {
+    "id": 409965,
+    "author": "Willy",
+    "authorUrl": "",
+    "date": "2019-03-24T16:57:35",
+    "content": "<p>&#8216;  And how does every engine fail? I do not know and can only speculate but is there no redundancy in fuel or control systems?  &#8221;</p>\n<p>Agreed,  injectors on that scale should not be prone to fouling like that of tractor trailers (not that we have that issue).  Typically once the engine is running it doesnt stop unless some one pulls a plug of sorts.</p>\n<p>As to people making absurd comments of drunk or what ever.  No I dont drink.  But I do know of a boat company in my area (Cat Ferry) that has been known to leave port on only one functioning engine.  This happens because the company didnt manage their money (went thru bankruptcy).  Just because you havent heard of it happening doesnt mean it wont.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 409964,
+    "author": "Peter Wright",
+    "authorUrl": "",
+    "date": "2019-03-24T16:38:57",
+    "content": "<p>They also have a surplus of powerful tugs with highly trained crews.</p>\n<p>Many things worry me about the modern cruise ships but the videos of unsecured heavyweight pieces of furniture, flower pots and other items that become battering rams flying amongst passengers is a major concern.</p>\n<p>And how does every engine fail? I do not know and can only speculate but is there no redundancy in fuel or control systems?</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 409959,
+    "author": "Richard Roth",
+    "authorUrl": "",
+    "date": "2019-03-24T14:18:31",
+    "content": "<p>By the luck of the draw this happened off the coast of Norway, a nation well equipped to deal with maritime emergency&#8217;s with a fleet of large helicopters manned by very experienced crews. Will it be in a remote area with little support next time with 5000 passengers plus crew instead of the 1300 total this time?</p>\n",
+    "parent": 0
+  }
+]

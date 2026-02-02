@@ -1,0 +1,18 @@
+[
+  {
+    "id": 436790,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2023-10-23T10:08:21",
+    "content": "<p>Thanks, Seymour.</p>\n",
+    "parent": 436786
+  },
+  {
+    "id": 436786,
+    "author": "Seymour Hamilton",
+    "authorUrl": "http://Seymour%20Hamilton.%20Com",
+    "date": "2023-10-22T17:30:53",
+    "content": "<p>Great post!  What a master of language was Conrad! And what a daring thinker to posit a counterfacual version of history.</p>\n",
+    "parent": 0
+  }
+]

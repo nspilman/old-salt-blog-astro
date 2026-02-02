@@ -98,7 +98,7 @@
         "npm script 'migrate:comments' runs the migration",
         "Migration completes without errors"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 19,

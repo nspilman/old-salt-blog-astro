@@ -1,0 +1,26 @@
+[
+  {
+    "id": 412627,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2019-11-03T20:14:00",
+    "content": "<p>According to what I have read, the batteries allow running the diesels at maximum efficiencies at a full range of loads.</p>\n",
+    "parent": 412626
+  },
+  {
+    "id": 412626,
+    "author": "Donald Wade",
+    "authorUrl": "",
+    "date": "2019-11-03T19:40:22",
+    "content": "<p>It is not clear what the purpose of the batteries are (unless there is some unmentioned solar power).  Hybrid autos use the batteries to recover otherwise wasted power during braking and to give extra power during acceleration (which allows the use of a smaller, more efficient engine).  I don&#8217;t believe either braking or acceleration are major factors for a cruise ship.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 412617,
+    "author": "Willy",
+    "authorUrl": "",
+    "date": "2019-11-01T16:53:18",
+    "content": "<p>Only question I have?  What is the odor like from burning the LBG?  If it comes out smelling worse that rotting fish, they may end up losing all sorts of passengers.  Tho the hybrid idea is a good one.  Combining generator to batteries.</p>\n",
+    "parent": 0
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 420772,
+    "author": "ws",
+    "authorUrl": "",
+    "date": "2021-04-28T09:20:33",
+    "content": "<p>The greatest efficiency gains have come from ships: Triple expansion steam engines, steam turbine propulsion RACER, Rankine Cycle Energy Recovery..All of these technologies have been embraced, and used in land based applications&#8230;</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 420771,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2021-04-28T08:26:54",
+    "content": "<p>Doug, </p>\n<p>Trains are great where ships cannot go but have roughly three times the carbon footprint per tonne-mile than ships. Trains are much more efficient than trucks and cars.</p>\n",
+    "parent": 420758
+  },
+  {
+    "id": 420759,
+    "author": "Willy",
+    "authorUrl": "",
+    "date": "2021-04-27T18:33:34",
+    "content": "<p>Thankyou for this Rick.<br />\nWhile I no longer turn commercial miles, it is nice to know.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 420758,
+    "author": "Doug Bostrom",
+    "authorUrl": "",
+    "date": "2021-04-27T17:16:24",
+    "content": "<p>I seem to have read that rail transport is the champion of efficiency.</p>\n<p>But maritime: not too shabby!</p>\n",
+    "parent": 0
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 413314,
+    "author": "Lee",
+    "authorUrl": "",
+    "date": "2020-01-17T16:33:07",
+    "content": "<p>Phil:</p>\n<p>Granted to your points. But each of those GPS failures has an non-GPS navigation failure analog. I&#8217;d hope that anyone using GPS as a primary method of navigation would have good, solid skills with dead reckoning, compass, map reading, etc., too. Printed mapping technology may well be out-of-date, too, and a little common sense can help: What sort of idiot trusts a GPS device to guide their car onto railroad tracks, for example?</p>\n<p>My point is that GPS is a valuable technology for both seafarers and landfarers and to say that we&#8217;re losing our ability to navigate due to its introduction isn&#8217;t quite accurate. We may be losing our ability to navigate, but it&#8217;s due to laziness and stupidity, not the existence of the GPS. </p>\n<p>GPS is a new tool and a good tool. That doesn&#8217;t mean that it completely replaces the &#8220;old ways&#8221;: it complements them&#8230; or should.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 413300,
+    "author": "Phil",
+    "authorUrl": "",
+    "date": "2020-01-14T16:48:07",
+    "content": "<p>GPS can&#8217;t be fully trusted!<br />\nRead and watch the news, idiots have driven into lakes and rivers using GPS.</p>\n<p>PLUS: GPS devices rely upon receiving signals from at least four satellites. If they connect with only three, the positioning is not fully accurate. Problems can occur when obstacles, such as walls, buildings, skyscrapers and trees obstruct a signal. Extreme atmospheric conditions, such as geomagnetic storms, can also cause problems. In addition, the mapping technology which is used in conjunction with the GPS may not be up to date and cause navigational errors.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 413299,
+    "author": "Lee Johnson",
+    "authorUrl": "",
+    "date": "2020-01-14T15:28:56",
+    "content": "<p>GS: &#8220;Alas, GPS is killing our bio-compasses&#8221;</p>\n<p>How so, GS? Any documentation of that?</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 413297,
+    "author": "ws",
+    "authorUrl": "",
+    "date": "2020-01-14T11:57:46",
+    "content": "<p>Alas, GPS is killing our bio-compasses</p>\n",
+    "parent": 0
+  }
+]

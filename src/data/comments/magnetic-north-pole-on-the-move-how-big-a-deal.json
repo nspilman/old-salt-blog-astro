@@ -1,0 +1,66 @@
+[
+  {
+    "id": 409359,
+    "author": "Jean-Pierre Declemy",
+    "authorUrl": "http://Hadlow%20Marine%20Services",
+    "date": "2019-02-09T11:53:27",
+    "content": "<p>Perhaps the use of &#8216;variation&#8217; on charts is a reminder to navigators that the number quoted is a variable, dynamic in both time and location. It is usually followed by a rate of change per annum in parentheses.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 409329,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2019-02-08T10:18:04",
+    "content": "<p>You are right. Oddly enough, the NOAA charts use &#8220;variation&#8221; based on the World Magnetic Model (WMM) while the NOAA National Center for Environmental Information (NCIE) and the folks who generate the WMM from which the charts are updated prefer &#8220;declination.&#8221; The NOAA<br />\n phone compass app also uses declination. Either works.</p>\n<p><a href=\"https://www.ngdc.noaa.gov/geomag/declination.shtml\" rel=\"nofollow ugc\">https://www.ngdc.noaa.gov/geomag/declination.shtml</a></p>\n",
+    "parent": 409326
+  },
+  {
+    "id": 409326,
+    "author": "Keith Restle",
+    "authorUrl": "",
+    "date": "2019-02-08T06:42:46",
+    "content": "<p>Always VARIATION on US Charts as well. Declination refers to the movement of planets, the moon, and stars in relation to the earth’s horizon&#8230;. but that is just from memory, you can look it up.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 409312,
+    "author": "Jean-Pierre Declemy",
+    "authorUrl": "",
+    "date": "2019-02-07T16:39:30",
+    "content": "<p>Always Variation on UK charts 🙂</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 409311,
+    "author": "Rick Spilman",
+    "authorUrl": "http://www.oldsaltblog.com",
+    "date": "2019-02-07T11:10:40",
+    "content": "<p>No. The difference between magnetic north and true north is called variation or declination. Not sure what the USAF taught you, but declination is the more widely used term of the two. (Bowditch also called it grivation.)</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Magnetic_declination\" rel=\"nofollow ugc\">https://en.wikipedia.org/wiki/Magnetic_declination</a></p>\n",
+    "parent": 409307
+  },
+  {
+    "id": 409307,
+    "author": "Tom fitzgerald",
+    "authorUrl": "",
+    "date": "2019-02-07T10:16:46",
+    "content": "<p>The difference between magnetic north and true north is called variation, not declination. I was an aeronautical navigator in USAF ( 1955-1964).</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 409306,
+    "author": "Jean-Pierre Declemy",
+    "authorUrl": "",
+    "date": "2019-02-07T07:45:18",
+    "content": "<p>Hello Putin, Canada here, can we have our pole back.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 409294,
+    "author": "Phil",
+    "authorUrl": "",
+    "date": "2019-02-06T17:32:01",
+    "content": "<p>Read the longer version:</p>\n<p>Earth’s magnetic<br />\nfield is acting up<br />\nand geologists<br />\ndon’t know why<br />\n<a href=\"https://www.nature.com/articles/d41586-019-00007-1/\" rel=\"nofollow ugc\">https://www.nature.com/articles/d41586-019-00007-1/</a></p>\n",
+    "parent": 0
+  }
+]

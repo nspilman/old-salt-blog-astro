@@ -1,0 +1,26 @@
+[
+  {
+    "id": 406488,
+    "author": "Doug Bostrom",
+    "authorUrl": "",
+    "date": "2018-06-30T12:38:02",
+    "content": "<p>[that is to say, plausible as a production item for a relatively large scale market&#8211; we could do all this quite a while ago but at astronomical, showstopper cost&#8230;]</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 406487,
+    "author": "Doug Bostrom",
+    "authorUrl": "",
+    "date": "2018-06-30T12:35:51",
+    "content": "<p>When we see the results of relatively inexpensive drones w/their rock-stable camera work even as the drone is in turbulent wind, we have cause to be optimistic about this project. Stability, vectoring and all the rest are cooked necessities delivered on a huge scale for peanuts. Cheap (almost as cheap as sand) MEMS accelerometers, solid-state gyros and a huge base of solved, available responses to software requirements of vehicle dynamics mean all the major development and affordability problems end up concentrated in actuators, effectors etc. </p>\n<p>Even batteries are becoming less of a roadblock.</p>\n<p>The concept is vastly more plausible than only a decade ago.</p>\n",
+    "parent": 0
+  },
+  {
+    "id": 406486,
+    "author": "Willy",
+    "authorUrl": "",
+    "date": "2018-06-30T11:36:28",
+    "content": "<p>What a fun idea.  Yet I wouldnt be surprised the price starts around 30k.</p>\n",
+    "parent": 0
+  }
+]
