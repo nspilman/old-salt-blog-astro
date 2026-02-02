@@ -5,8 +5,10 @@
  */
 
 :root {
-	--accent: #2337ff;
-	--accent-dark: #000d8a;
+	/* Maritime blue color scheme */
+	--accent: #1e5a8e;
+	--accent-dark: #0d3d5c;
+	--accent-light: 220, 230, 240;
 	--black: 15, 18, 25;
 	--gray: 96, 115, 159;
 	--gray-light: 229, 233, 240;
@@ -152,4 +154,64 @@ hr {
 	clip-path: inset(50%);
 	/* added line to stop words getting smushed together (as they go onto separate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
+}
+
+/* External images from WordPress - ensure they display properly */
+img[src*="oldsaltblog.com"],
+img[src*="wordpress.com"] {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: 1em auto;
+}
+
+/* YouTube and Vimeo embed styling - responsive and properly sized */
+iframe[src*="youtube.com"],
+iframe[src*="youtube-nocookie.com"],
+iframe[src*="youtu.be"],
+iframe[src*="vimeo.com"] {
+	width: 100%;
+	max-width: 100%;
+	aspect-ratio: 16 / 9;
+	height: auto;
+	border: none;
+	border-radius: 8px;
+	margin: 1.5em auto;
+	display: block;
+}
+
+/* Ensure iframe container in content renders properly */
+.content iframe,
+.prose iframe {
+	max-width: 100%;
+	margin: 1.5em 0;
+}
+
+/* WordPress figure and figcaption styling */
+figure {
+	margin: 2em 0;
+	text-align: center;
+}
+
+figcaption {
+	font-size: 0.9em;
+	color: rgb(var(--gray));
+	font-style: italic;
+	margin-top: 0.5em;
+	text-align: center;
+}
+
+/* Better link styling in content */
+.content a,
+.prose a {
+	color: var(--accent);
+	text-decoration: underline;
+	text-decoration-color: rgba(30, 90, 142, 0.3);
+	text-underline-offset: 2px;
+	transition: text-decoration-color 0.2s;
+}
+
+.content a:hover,
+.prose a:hover {
+	text-decoration-color: var(--accent);
 }

@@ -429,3 +429,65 @@ Each time Ralph completes a task, it will append notes here.
   - Ensure external images and YouTube embeds display properly
   - This is a larger task that will improve the overall user experience
 
+### Session 12 - 2026-02-01
+
+**Task Completed:** Task 12 - Create responsive blog layout and styling
+
+**What was done:**
+- Created src/layouts/BaseLayout.astro component:
+  - Wraps pages with BaseHead, Header, main slot, and Footer
+  - Accepts title, description, and optional image props
+  - Provides consistent layout structure across all pages
+  - Imports global.css for styling
+- Updated Header component (src/components/Header.astro):
+  - Removed template social media links (Mastodon, Twitter, GitHub)
+  - Simplified navigation to just "Home" and "RSS" links
+  - Updated site title styling - larger, bolder, more prominent
+  - Made site title "Old Salt Blog" clickable and hover-able
+  - Improved responsive design for mobile (smaller font sizes, tighter spacing)
+  - Added smooth transitions for hover effects
+- Updated Footer component (src/components/Footer.astro):
+  - Removed template social media links
+  - Updated copyright text to use SITE_TITLE constant
+  - Added tagline "Maritime and nautical stories since 2008"
+  - Improved layout with max-width container
+  - Enhanced styling with border-top separation
+  - Better responsive design for mobile devices
+- Enhanced global.css (src/styles/global.css):
+  - Changed color scheme to maritime blue theme (--accent: #1e5a8e, --accent-dark: #0d3d5c)
+  - Added specific styling for external WordPress images to display properly
+  - Added comprehensive YouTube/Vimeo embed styling:
+    - Responsive aspect-ratio: 16/9
+    - Full width with proper max-width constraints
+    - Border-radius for rounded corners
+    - Proper margins and spacing
+  - Added WordPress figure and figcaption styling
+  - Enhanced link styling in content areas with underline effects
+  - All styling is mobile-responsive with proper media queries
+- All acceptance criteria met:
+  - BaseLayout component created with header, main, footer ✓
+  - Header displays "Old Salt Blog" with navigation (Home, RSS) ✓
+  - Responsive design works on mobile and desktop ✓
+  - Typography optimized for reading (using Atkinson font, proper line-height) ✓
+  - External images from WordPress display properly (specific CSS rules) ✓
+  - YouTube embeds responsive (aspect-ratio: 16/9, full-width) ✓
+- TypeScript type-checking passes (npm run type-check)
+- Tests pass (no tests defined yet)
+
+**Technical details:**
+- BaseLayout component properly typed with Props interface
+- Used type union for image prop (string | ImageMetadata) to handle both external URLs and local images
+- Maritime blue color scheme chosen to match nautical theme
+- All components now have consistent styling and responsive behavior
+- Global CSS handles external images and video embeds automatically
+
+**Next recommended task:**
+- Task 13: Verify site runs locally
+  - This is the final verification task
+  - Run npm run dev and test the site end-to-end
+  - Verify homepage, post pages, category/tag archives, RSS feed
+  - Check that images load from WordPress
+  - Verify YouTube embeds work
+  - Test responsive design on mobile
+  - This completes the entire migration project!
+

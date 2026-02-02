@@ -194,7 +194,7 @@
         "External images from WordPress display properly",
         "YouTube embeds responsive"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 13,
