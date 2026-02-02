@@ -1,0 +1,152 @@
+{
+  "project": "old-salt-blog-expansion",
+  "description": "Expand the Old Salt Blog with 5 new features: full-text search, improved pagination/archives, newsletter signup placeholder, TinaCMS admin panel, and comments with WordPress comment migration.",
+  "context": {
+    "currentState": {
+      "framework": "Astro 5.17.1",
+      "posts": 6814,
+      "contentPath": "src/content/blog/",
+      "pagesPath": "src/pages/",
+      "componentsPath": "src/components/",
+      "existingFeatures": ["pagination (15/page)", "RSS feed", "category/tag archives", "responsive layout"]
+    },
+    "wpBaseUrl": "https://oldsaltblog.com",
+    "apiEndpoints": {
+      "comments": "/wp-json/wp/v2/comments?post={postId}&per_page=100"
+    },
+    "designSystem": {
+      "accentColor": "#1e5a8e",
+      "accentDark": "#0d3d5c",
+      "fontFamily": "Atkinson"
+    },
+    "requirements": {
+      "search": "Pagefind - static search index built at compile time",
+      "newsletter": "Placeholder stub for future email integration",
+      "admin": "TinaCMS - git-backed visual Markdown editor",
+      "comments": "Giscus (GitHub Discussions) with legacy WP comments displayed as static"
+    }
+  },
+  "tasks": [
+    {
+      "id": 14,
+      "area": "newsletter",
+      "title": "Create newsletter signup placeholder",
+      "description": "Create a disabled newsletter signup form as a placeholder for future email integration. Add to footer. Include RSS link as current alternative.",
+      "acceptance": [
+        "src/components/NewsletterSignup.astro exists with disabled form",
+        "Footer.astro includes NewsletterSignup component",
+        "Form shows 'Coming Soon' message",
+        "RSS link provided as alternative",
+        "Styled to match site design"
+      ],
+      "passes": true
+    },
+    {
+      "id": 15,
+      "area": "pagination",
+      "title": "Create year archive pages",
+      "description": "Create archive pages that list posts by year. Include archive index showing all years with post counts, and individual year pages with paginated posts.",
+      "acceptance": [
+        "src/pages/archive/index.astro shows all years with post counts",
+        "src/pages/archive/[year].astro shows posts for that year",
+        "Year pages are paginated (15 posts/page)",
+        "Years sorted newest first",
+        "Header.astro includes 'Archive' navigation link"
+      ],
+      "passes": false
+    },
+    {
+      "id": 16,
+      "area": "pagination",
+      "title": "Create improved pagination component",
+      "description": "Create a reusable Pagination component with page number selector, first/last links, and optional page jump input. Replace existing inline pagination.",
+      "acceptance": [
+        "src/components/Pagination.astro created with props: currentPage, totalPages, baseUrl",
+        "Shows: First | ... | 3 | 4 | [5] | 6 | 7 | ... | Last pattern",
+        "Current page highlighted",
+        "Mobile-friendly (simplified on small screens)",
+        "Applied to index.astro, page/[page].astro, archive pages"
+      ],
+      "passes": false
+    },
+    {
+      "id": 17,
+      "area": "search",
+      "title": "Integrate Pagefind search",
+      "description": "Add Pagefind for full-text search across all posts. Install package, update build script, create search UI component, add to header.",
+      "acceptance": [
+        "@pagefind/default-ui installed",
+        "package.json build script: 'astro build && npx pagefind --site dist'",
+        "src/components/Search.astro with Pagefind UI integration",
+        "Header.astro has search button that opens search modal/dropdown",
+        "src/pages/[slug].astro has data-pagefind-body attribute",
+        "pagefind.yml excludes nav, footer, pagination from index",
+        "Search works after running npm run build && npm run preview"
+      ],
+      "passes": false
+    },
+    {
+      "id": 18,
+      "area": "comments",
+      "title": "Create WordPress comment migration script",
+      "description": "Fetch all comments from WordPress REST API and store as JSON files. Comments will be displayed as static content above Giscus.",
+      "acceptance": [
+        "scripts/migrate/comments.ts fetches comments from /wp-json/wp/v2/comments",
+        "Handles pagination for posts with many comments",
+        "Stores comments in src/data/comments/{slug}.json",
+        "Each comment includes: author, date, content, parent (for threading)",
+        "npm script 'migrate:comments' runs the migration",
+        "Migration completes without errors"
+      ],
+      "passes": false
+    },
+    {
+      "id": 19,
+      "area": "comments",
+      "title": "Create comments components",
+      "description": "Create components to display legacy WordPress comments (static) and Giscus widget for new comments. Legacy comments shown above Giscus.",
+      "acceptance": [
+        "src/components/LegacyComments.astro displays static WP comments from JSON",
+        "Comments show author, date, content with proper threading",
+        "src/components/Comments.astro wraps LegacyComments + Giscus",
+        "Giscus script configured (repo, category placeholders for user to fill)",
+        "src/pages/[slug].astro includes Comments component",
+        "Comments section styled to match site design"
+      ],
+      "passes": false
+    },
+    {
+      "id": 20,
+      "area": "admin",
+      "title": "Set up TinaCMS",
+      "description": "Initialize TinaCMS with configuration matching the existing content collection schema. Enable visual editing of blog posts.",
+      "acceptance": [
+        "npx @tinacms/cli@latest init run successfully",
+        "tina/config.ts defines blog collection matching src/content.config.ts schema",
+        "Fields: title, date, slug, excerpt, author, description, featuredImage, categories, tags, body",
+        "package.json dev script: 'tinacms dev -c \"astro dev\"'",
+        "package.json build script updated to include tinacms build",
+        "Admin UI accessible at /admin after npm run dev",
+        ".env.example documents TINA_CLIENT_ID, TINA_TOKEN for production"
+      ],
+      "passes": false
+    },
+    {
+      "id": 21,
+      "area": "verify",
+      "title": "Verify all features work",
+      "description": "Run the site and verify all new features work correctly. Search returns results, archives work, comments display, TinaCMS admin loads.",
+      "acceptance": [
+        "npm run dev starts without errors",
+        "Search: Build site, run preview, search finds posts",
+        "Archives: /archive shows years, /archive/2020 shows posts",
+        "Pagination: Page numbers work, can jump to specific pages",
+        "Newsletter: Placeholder visible in footer",
+        "Comments: Legacy comments display on posts (after migration)",
+        "TinaCMS: /admin loads and shows post editor",
+        "All styling consistent with existing design"
+      ],
+      "passes": false
+    }
+  ]
+}

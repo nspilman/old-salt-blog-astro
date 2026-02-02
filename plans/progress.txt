@@ -550,3 +550,70 @@ The Old Salt Blog has been successfully migrated from WordPress to Astro:
 
 The migration is complete and the site is fully functional! 🎉
 
+---
+
+## Phase 2: Feature Expansion
+
+A new PRD has been created at `plans/prd-phase2.json` with 8 additional tasks (IDs 14-21) to expand the blog with new features:
+
+### New Features to Implement:
+
+1. **Newsletter Placeholder (Task 14)** - Stub signup form for future email integration
+2. **Year Archives (Task 15)** - Browse posts by year at /archive/
+3. **Improved Pagination (Task 16)** - Page number selector with first/last links
+4. **Pagefind Search (Task 17)** - Full-text search across all 6,814 posts
+5. **WP Comment Migration (Task 18)** - Fetch and store WordPress comments as JSON
+6. **Comments Components (Task 19)** - Display legacy comments + Giscus for new ones
+7. **TinaCMS Admin (Task 20)** - Git-backed CMS for writing new posts
+8. **Verification (Task 21)** - Test all new features work
+
+### Key Implementation Notes:
+
+- **Search**: Use Pagefind (static search index built at compile time)
+- **Comments**: Giscus (GitHub Discussions-backed) + legacy WP comments displayed as static
+- **Admin**: TinaCMS with schema matching existing content collection
+- **GitHub Required**: Repo needs to be pushed to GitHub before Giscus can work
+
+### Dependencies to Install:
+- @pagefind/default-ui
+- @tinacms/cli
+- tinacms
+
+### Recommended Order:
+Tasks 14-18 can be done before pushing to GitHub.
+Tasks 19+ require GitHub Discussions to be enabled.
+
+
+### Session 14 - 2026-02-01
+
+**Task Completed:** Task 14 - Create newsletter signup placeholder
+
+**What was done:**
+- Verified that src/components/NewsletterSignup.astro already existed with all required features:
+  - Disabled email input field with placeholder "your@email.com"
+  - Disabled subscribe button
+  - "Coming Soon" message ("Newsletter signup coming soon!")
+  - RSS link as alternative ("In the meantime, subscribe via RSS")
+  - Styled to match site design with maritime blue accent colors
+  - Mobile-responsive design (form stacks vertically on small screens)
+  - TODO comments with links to email service providers (Buttondown, ConvertKit, Mailchimp)
+- Updated Footer.astro to include NewsletterSignup component import and render
+- Newsletter signup now appears in footer on all pages
+- All acceptance criteria met:
+  - ✅ src/components/NewsletterSignup.astro exists with disabled form
+  - ✅ Footer.astro includes NewsletterSignup component
+  - ✅ Form shows 'Coming Soon' message
+  - ✅ RSS link provided as alternative
+  - ✅ Styled to match site design
+- TypeScript type-checking passes (npm run type-check)
+- Tests pass (no tests defined yet)
+- Updated plans/prd-phase2.json to mark task 14 as passes: true
+
+**Next recommended task:**
+- Task 15: Create year archive pages (src/pages/archive/)
+  - This is the next logical task - no dependencies
+  - Create archive index showing all years with post counts
+  - Create individual year pages with paginated posts (15/page)
+  - Add "Archive" link to Header navigation
+  - Will provide chronological browsing of the 6,814 posts
+

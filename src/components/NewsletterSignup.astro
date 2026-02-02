@@ -1,0 +1,102 @@
+---
+// TODO: Integrate with email service (Buttondown, ConvertKit, Mailchimp, etc.)
+// See: https://buttondown.email/
+// See: https://convertkit.com/
+// See: https://mailchimp.com/
+---
+
+<div class="newsletter-signup">
+  <h3>Subscribe to Old Salt Blog</h3>
+  <p>Get maritime stories delivered to your inbox.</p>
+  <form class="newsletter-form">
+    <input
+      type="email"
+      placeholder="your@email.com"
+      disabled
+      aria-label="Email address"
+    />
+    <button type="submit" disabled>Subscribe</button>
+  </form>
+  <p class="coming-soon">Newsletter signup coming soon!</p>
+  <p class="rss-link">
+    In the meantime, subscribe via <a href="/rss.xml">RSS</a>
+  </p>
+</div>
+
+<style>
+  .newsletter-signup {
+    background: rgb(var(--gray-light));
+    border-radius: 8px;
+    padding: 2em;
+    margin: 2em 0;
+    text-align: center;
+  }
+
+  .newsletter-signup h3 {
+    color: var(--accent-dark);
+    margin-bottom: 0.5em;
+    font-size: 1.25em;
+  }
+
+  .newsletter-signup > p {
+    color: rgb(var(--gray-dark));
+    margin-bottom: 1em;
+    font-size: 0.95em;
+  }
+
+  .newsletter-form {
+    display: flex;
+    gap: 0.5em;
+    max-width: 400px;
+    margin: 0 auto 1em;
+  }
+
+  .newsletter-form input {
+    flex: 1;
+    padding: 0.75em 1em;
+    border: 1px solid rgb(var(--gray-light));
+    border-radius: 4px;
+    font-size: 0.9em;
+    background: white;
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+
+  .newsletter-form button {
+    padding: 0.75em 1.5em;
+    background: var(--accent);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-weight: 600;
+    opacity: 0.6;
+    cursor: not-allowed;
+  }
+
+  .coming-soon {
+    font-size: 0.85em;
+    color: rgb(var(--gray));
+    font-style: italic;
+    margin-bottom: 0.5em;
+  }
+
+  .rss-link {
+    font-size: 0.85em;
+    margin-bottom: 0;
+  }
+
+  .rss-link a {
+    color: var(--accent);
+  }
+
+  @media (max-width: 480px) {
+    .newsletter-form {
+      flex-direction: column;
+    }
+
+    .newsletter-form button {
+      width: 100%;
+    }
+  }
+</style>

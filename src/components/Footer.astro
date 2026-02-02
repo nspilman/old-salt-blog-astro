@@ -1,10 +1,12 @@
 ---
 import { SITE_TITLE } from '../consts';
+import NewsletterSignup from './NewsletterSignup.astro';
 const today = new Date();
 ---
 
 <footer>
 	<div class="footer-content">
+		<NewsletterSignup />
 		<p>&copy; {today.getFullYear()} {SITE_TITLE}. All rights reserved.</p>
 		<p class="tagline">Maritime and nautical stories since 2008</p>
 	</div>
