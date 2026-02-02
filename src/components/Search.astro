@@ -122,16 +122,35 @@
 <script is:inline>
   // Load Pagefind UI when the page loads
   async function initSearch() {
-    // Dynamically import Pagefind UI after build
-    const { PagefindUI } = await import("/pagefind/pagefind-ui.js");
+    const searchContainer = document.getElementById('pagefind-search');
 
-    new PagefindUI({
-      element: "#pagefind-search",
-      showSubResults: true,
-      showImages: true,
-      excerptLength: 30,
-      resetStyles: false,
-    });
+    try {
+      // Load Pagefind UI script (sets window.PagefindUI)
+      await import("/pagefind/pagefind-ui.js");
+
+      if (!window.PagefindUI) {
+        throw new Error("PagefindUI not found on window");
+      }
+
+      new window.PagefindUI({
+        element: "#pagefind-search",
+        showSubResults: true,
+        showImages: true,
+        excerptLength: 30,
+        resetStyles: false,
+      });
+    } catch (error) {
+      // Pagefind not available (likely in dev mode)
+      if (searchContainer) {
+        searchContainer.innerHTML = `
+          <div style="padding: 1rem; text-align: center; color: #666;">
+            <p style="margin-bottom: 0.5rem;"><strong>Search is not available in development mode.</strong></p>
+            <p style="font-size: 0.9rem;">Run <code style="background: #f3f4f6; padding: 0.2rem 0.4rem; border-radius: 4px;">npm run build:local && npm run preview</code> to test search.</p>
+          </div>
+        `;
+      }
+      console.warn('Pagefind not available:', error.message);
+    }
   }
 
   // Initialize search modal functionality

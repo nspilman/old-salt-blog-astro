@@ -4,7 +4,9 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "tinacms dev -c \"NODE_OPTIONS='--max-old-space-size=4096' astro dev\"",
+    "dev:astro": "NODE_OPTIONS='--max-old-space-size=4096' astro dev",
     "build": "NODE_OPTIONS='--max-old-space-size=4096' tinacms build && astro build && npx pagefind --site dist",
+    "build:local": "NODE_OPTIONS='--max-old-space-size=4096' astro build && npx pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
     "migrate": "NODE_OPTIONS='--max-old-space-size=2048' npx tsx scripts/migrate/index.ts",
