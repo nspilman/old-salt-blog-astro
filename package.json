@@ -3,8 +3,8 @@
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "dev": "NODE_OPTIONS='--max-old-space-size=4096' astro dev",
-    "build": "NODE_OPTIONS='--max-old-space-size=4096' astro build && npx pagefind --site dist",
+    "dev": "tinacms dev -c \"NODE_OPTIONS='--max-old-space-size=4096' astro dev\"",
+    "build": "NODE_OPTIONS='--max-old-space-size=4096' tinacms build && astro build && npx pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
     "migrate": "NODE_OPTIONS='--max-old-space-size=2048' npx tsx scripts/migrate/index.ts",
@@ -27,9 +27,11 @@
   },
   "devDependencies": {
     "@pagefind/default-ui": "^1.4.0",
+    "@tinacms/cli": "^2.1.3",
     "@types/node": "^25.2.0",
     "@types/turndown": "^5.0.6",
     "pagefind": "^1.4.0",
+    "tinacms": "^3.4.0",
     "tsx": "^4.21.0"
   }
 }

@@ -129,7 +129,7 @@
         "Admin UI accessible at /admin after npm run dev",
         ".env.example documents TINA_CLIENT_ID, TINA_TOKEN for production"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 21,
