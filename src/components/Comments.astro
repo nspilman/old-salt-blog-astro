@@ -1,0 +1,117 @@
+---
+/**
+ * Comments Component
+ * Displays both legacy WordPress comments (static) and Giscus widget for new comments.
+ * Legacy comments are shown first, followed by Giscus for ongoing discussions.
+ */
+
+import LegacyComments from './LegacyComments.astro';
+
+interface Props {
+  slug: string;
+}
+
+const { slug } = Astro.props;
+
+// TODO: Configure Giscus settings for your repository
+// Visit https://giscus.app/ to generate your configuration
+//
+// Required steps:
+// 1. Push this repository to GitHub
+// 2. Enable GitHub Discussions on your repository
+// 3. Install the Giscus app: https://github.com/apps/giscus
+// 4. Visit https://giscus.app/ to generate your configuration
+// 5. Replace the placeholders below with your values:
+//    - data-repo: "username/repo-name"
+//    - data-repo-id: (get from giscus.app)
+//    - data-category: "General" or your preferred category name
+//    - data-category-id: (get from giscus.app)
+
+const GISCUS_REPO = 'PLACEHOLDER/REPO'; // TODO: Replace with your repo (e.g., 'username/old-salt-blog')
+const GISCUS_REPO_ID = 'PLACEHOLDER_REPO_ID'; // TODO: Get from giscus.app
+const GISCUS_CATEGORY = 'General'; // TODO: Your discussion category
+const GISCUS_CATEGORY_ID = 'PLACEHOLDER_CATEGORY_ID'; // TODO: Get from giscus.app
+---
+
+<div class="comments-section">
+  <!-- Legacy WordPress Comments -->
+  <LegacyComments slug={slug} />
+
+  <!-- New Comments via Giscus -->
+  <div class="new-comments">
+    <h2>Comments</h2>
+    <p class="giscus-notice">
+      Comments are powered by <a href="https://giscus.app" target="_blank" rel="noopener">Giscus</a>
+      and GitHub Discussions. You need a GitHub account to comment.
+    </p>
+
+    {/* Giscus script configuration */}
+    <script
+      is:inline
+      src="https://giscus.app/client.js"
+      data-repo={GISCUS_REPO}
+      data-repo-id={GISCUS_REPO_ID}
+      data-category={GISCUS_CATEGORY}
+      data-category-id={GISCUS_CATEGORY_ID}
+      data-mapping="pathname"
+      data-strict="0"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="top"
+      data-theme="preferred_color_scheme"
+      data-lang="en"
+      data-loading="lazy"
+      crossorigin="anonymous"
+      async
+    ></script>
+  </div>
+</div>
+
+<style>
+  .comments-section {
+    max-width: 720px;
+    margin: 3rem auto 2rem;
+    padding: 0 1rem;
+  }
+
+  .new-comments {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 2px solid var(--gray-light);
+  }
+
+  .new-comments h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: var(--gray-dark);
+  }
+
+  .giscus-notice {
+    background: var(--gray-light);
+    padding: 0.75rem 1rem;
+    border-radius: 4px;
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+    color: var(--gray);
+  }
+
+  .giscus-notice a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  .giscus-notice a:hover {
+    text-decoration: underline;
+  }
+
+  /* Mobile responsive */
+  @media (max-width: 768px) {
+    .comments-section {
+      margin: 2rem auto 1rem;
+    }
+
+    .new-comments h2 {
+      font-size: 1.3rem;
+    }
+  }
+</style>

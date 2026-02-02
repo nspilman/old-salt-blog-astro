@@ -165,6 +165,28 @@ export interface WPPage {
   _links: any;
 }
 
+export interface WPComment {
+  id: number;
+  post: number;
+  parent: number;
+  author: number;
+  author_name: string;
+  author_url: string;
+  date: string;
+  date_gmt: string;
+  content: {
+    rendered: string;
+  };
+  link: string;
+  status: string;
+  type: string;
+  author_avatar_urls: {
+    [size: string]: string;
+  };
+  meta: any[];
+  _links: any;
+}
+
 /**
  * Internal Migration Types
  */

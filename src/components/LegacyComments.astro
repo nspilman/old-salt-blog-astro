@@ -1,0 +1,218 @@
+---
+/**
+ * LegacyComments Component
+ * Displays static WordPress comments migrated from the old site.
+ * Comments are loaded from JSON files in src/data/comments/{slug}.json
+ */
+
+interface Comment {
+  id: number;
+  author: string;
+  authorUrl: string;
+  date: string;
+  content: string;
+  parent: number;
+}
+
+interface ThreadedComment extends Comment {
+  replies: ThreadedComment[];
+}
+
+interface Props {
+  slug: string;
+}
+
+const { slug } = Astro.props;
+
+// Try to load comments for this post
+let comments: Comment[] = [];
+try {
+  const commentsModule = await import(`../data/comments/${slug}.json`);
+  comments = commentsModule.default || commentsModule;
+} catch (err) {
+  // No comments file exists for this post - that's ok
+  comments = [];
+}
+
+// Organize comments into a threaded structure
+function buildCommentTree(allComments: Comment[]): ThreadedComment[] {
+  const commentMap = new Map<number, ThreadedComment>();
+  const rootComments: ThreadedComment[] = [];
+
+  // First pass: create threaded comment objects
+  allComments.forEach(comment => {
+    commentMap.set(comment.id, { ...comment, replies: [] });
+  });
+
+  // Second pass: build the tree structure
+  allComments.forEach(comment => {
+    const threadedComment = commentMap.get(comment.id)!;
+    if (comment.parent === 0) {
+      rootComments.push(threadedComment);
+    } else {
+      const parentComment = commentMap.get(comment.parent);
+      if (parentComment) {
+        parentComment.replies.push(threadedComment);
+      } else {
+        // Parent not found, treat as root comment
+        rootComments.push(threadedComment);
+      }
+    }
+  });
+
+  return rootComments;
+}
+
+const threadedComments = buildCommentTree(comments);
+
+// Format date for display
+function formatDate(dateString: string): string {
+  const date = new Date(dateString);
+  return date.toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit'
+  });
+}
+
+// Recursive function to render comment tree
+function renderComment(comment: ThreadedComment, depth: number = 0): string {
+  const authorLink = comment.authorUrl
+    ? `<a href="${comment.authorUrl}" target="_blank" rel="nofollow noopener">${comment.author}</a>`
+    : `<strong>${comment.author}</strong>`;
+
+  const replies = comment.replies.length > 0
+    ? `<div class="comment-replies">${comment.replies.map(reply => renderComment(reply, depth + 1)).join('')}</div>`
+    : '';
+
+  return `
+    <div class="comment depth-${depth}" id="comment-${comment.id}">
+      <div class="comment-header">
+        <span class="comment-author">${authorLink}</span>
+        <span class="comment-date">${formatDate(comment.date)}</span>
+      </div>
+      <div class="comment-content">${comment.content}</div>
+      ${replies}
+    </div>
+  `;
+}
+---
+
+{comments.length > 0 && (
+  <div class="legacy-comments">
+    <h2>Legacy Comments ({comments.length})</h2>
+    <p class="legacy-notice">
+      These comments were imported from the old WordPress site. New comments are posted below using Giscus.
+    </p>
+
+    <div class="comments-list" set:html={threadedComments.map(comment => renderComment(comment)).join('')} />
+  </div>
+)}
+
+<style>
+  .legacy-comments {
+    margin-top: 3rem;
+    padding-top: 2rem;
+    border-top: 2px solid var(--gray-light);
+  }
+
+  .legacy-comments :global(h2) {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    color: var(--gray-dark);
+  }
+
+  .legacy-notice {
+    background: var(--gray-light);
+    padding: 0.75rem 1rem;
+    border-radius: 4px;
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+    color: var(--gray);
+  }
+
+  .comments-list {
+    margin-top: 1.5rem;
+  }
+
+  .legacy-comments :global(.comment) {
+    background: var(--gray-gradient);
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    border-left: 3px solid var(--accent);
+  }
+
+  .legacy-comments :global(.comment.depth-1) {
+    margin-left: 2rem;
+    border-left-color: var(--accent-dark);
+  }
+
+  .legacy-comments :global(.comment.depth-2),
+  .legacy-comments :global(.comment.depth-3),
+  .legacy-comments :global(.comment.depth-4) {
+    margin-left: 2rem;
+    border-left-color: var(--gray);
+  }
+
+  .legacy-comments :global(.comment-header) {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 0.75rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .legacy-comments :global(.comment-author) {
+    font-weight: 600;
+    color: var(--accent-dark);
+  }
+
+  .legacy-comments :global(.comment-author a) {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  .legacy-comments :global(.comment-author a:hover) {
+    text-decoration: underline;
+  }
+
+  .legacy-comments :global(.comment-date) {
+    font-size: 0.85rem;
+    color: var(--gray);
+  }
+
+  .legacy-comments :global(.comment-content) {
+    line-height: 1.6;
+    color: var(--gray-dark);
+  }
+
+  .legacy-comments :global(.comment-content p) {
+    margin-bottom: 0.75rem;
+  }
+
+  .legacy-comments :global(.comment-content p:last-child) {
+    margin-bottom: 0;
+  }
+
+  .legacy-comments :global(.comment-replies) {
+    margin-top: 1rem;
+  }
+
+  /* Mobile responsive */
+  @media (max-width: 768px) {
+    .legacy-comments :global(.comment.depth-1),
+    .legacy-comments :global(.comment.depth-2),
+    .legacy-comments :global(.comment.depth-3),
+    .legacy-comments :global(.comment.depth-4) {
+      margin-left: 1rem;
+    }
+
+    .legacy-comments :global(h2) {
+      font-size: 1.3rem;
+    }
+  }
+</style>

@@ -113,7 +113,7 @@
         "src/pages/[slug].astro includes Comments component",
         "Comments section styled to match site design"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 20,

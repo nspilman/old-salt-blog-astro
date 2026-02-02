@@ -873,3 +873,77 @@ Tasks 19+ require GitHub Discussions to be enabled.
 
 ---
 
+
+### Session 19 - 2026-02-01
+
+**Task Completed:** Task 19 - Create comments components
+
+**What was done:**
+- Created src/components/LegacyComments.astro to display static WordPress comments:
+  - Dynamically imports comment JSON files from src/data/comments/{slug}.json
+  - Handles missing comment files gracefully (no errors if file doesn't exist)
+  - Implements comment threading using buildCommentTree() function:
+    - First pass creates ThreadedComment objects with replies array
+    - Second pass builds tree structure by connecting parents to children
+    - Orphaned comments (parent not found) are treated as root comments
+  - Recursive renderComment() function generates nested HTML for threaded display
+  - Comment display includes: author (with optional URL link), date (formatted), content (HTML)
+  - Styling features:
+    - Different indentation depths (depth-0, depth-1, depth-2, etc.) with margin-left
+    - Border color coding: accent for root, accent-dark for depth-1, gray for deeper levels
+    - Card-based design with background, padding, border-radius
+    - Responsive design - reduced margins on mobile
+  - Legacy notice banner explaining comments are from old site
+  - Shows total comment count in heading
+- Created src/components/Comments.astro wrapper component:
+  - Imports and renders LegacyComments component (legacy WP comments)
+  - Includes Giscus integration for new comments below legacy comments
+  - Giscus configuration with placeholder values and TODO comments:
+    - data-repo, data-repo-id, data-category, data-category-id all need user configuration
+    - Detailed TODO instructions for setting up Giscus (push to GitHub, enable Discussions, install app, generate config)
+  - Giscus configured with sensible defaults:
+    - mapping="pathname" (uses URL path to map discussions to pages)
+    - reactions enabled, input position at top
+    - preferred_color_scheme theme
+    - lazy loading for performance
+  - Informational notice explaining Giscus requires GitHub account
+  - Styling matches site design (maritime blue theme, consistent spacing)
+- Updated src/pages/[slug].astro to include Comments component:
+  - Added Comments import
+  - Placed <Comments slug={post.data.slug} /> after article closing tag
+  - Passes slug prop to load correct comment file
+- Fixed missing WPComment type in scripts/migrate/types.ts:
+  - Added complete WPComment interface matching WordPress REST API structure
+  - Includes: id, post, parent, author, author_name, author_url, date, content, link, status, type, author_avatar_urls
+  - This fixed TypeScript compilation error in comments.ts migration script
+- All acceptance criteria met:
+  - ✅ src/components/LegacyComments.astro displays static WP comments from JSON
+  - ✅ Comments show author, date, content with proper threading (recursive tree structure)
+  - ✅ src/components/Comments.astro wraps LegacyComments + Giscus
+  - ✅ Giscus script configured with placeholders and detailed TODO comments for user setup
+  - ✅ src/pages/[slug].astro includes Comments component
+  - ✅ Comments section styled to match site design (maritime blue, consistent spacing, responsive)
+- TypeScript type-checking passes (npm run type-check)
+- Tests pass (no tests defined yet)
+- Updated plans/prd-phase2.json to mark task 19 as passes: true
+
+**Technical highlights:**
+- LegacyComments uses dynamic imports with try/catch for graceful handling of missing files
+- Comment threading algorithm efficiently builds tree structure using Map for O(1) lookups
+- renderComment() function is recursive, handling arbitrary nesting depth
+- Giscus integration uses `is:inline` script tag to load client-side script
+- All styling uses :global() selectors for set:html rendered content
+- Mobile-responsive with @media queries reducing margins on small screens
+- Component accepts slug prop for flexible reuse
+
+**Next recommended task:**
+- Task 20: Set up TinaCMS (tina/config.ts and configuration)
+  - This is a larger task that requires initializing TinaCMS
+  - Need to run `npx @tinacms/cli@latest init`
+  - Configure schema matching existing content collection
+  - Update dev/build scripts to integrate TinaCMS
+  - This is independent of comments (Task 19 complete) but depends on having the site structure in place
+  - Alternatively, could skip to Task 21 (verification) to test all existing features before adding TinaCMS
+
+---
+
