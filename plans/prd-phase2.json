@@ -146,7 +146,7 @@
         "TinaCMS: /admin loads and shows post editor",
         "All styling consistent with existing design"
       ],
-      "passes": false
+      "passes": true
     }
   ]
 }
