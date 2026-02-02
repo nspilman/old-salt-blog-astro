@@ -1,0 +1,154 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE } from '../../consts';
+import { getCollection } from 'astro:content';
+
+// Get all blog posts
+const allPosts = await getCollection('blog');
+
+// Group posts by year and count them
+const postsByYear = new Map<number, number>();
+
+allPosts.forEach((post) => {
+	const year = post.data.date.getFullYear();
+	postsByYear.set(year, (postsByYear.get(year) || 0) + 1);
+});
+
+// Convert to array and sort by year descending (newest first)
+const years = Array.from(postsByYear.entries())
+	.map(([year, count]) => ({ year, count }))
+	.sort((a, b) => b.year - a.year);
+
+const totalPosts = allPosts.length;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead
+			title={`Archive | ${SITE_TITLE}`}
+			description="Browse all blog posts by year"
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<section>
+				<h1>Archive</h1>
+				<p class="subtitle">
+					Browse all {totalPosts.toLocaleString()} posts by year
+				</p>
+
+				<div class="year-list">
+					{years.map(({ year, count }) => (
+						<article class="year-card">
+							<a href={`/archive/${year}/`} class="year-link">
+								<h2>{year}</h2>
+								<p class="post-count">
+									{count.toLocaleString()} {count === 1 ? 'post' : 'posts'}
+								</p>
+							</a>
+						</article>
+					))}
+				</div>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	main {
+		width: 100%;
+	}
+
+	section {
+		max-width: 900px;
+		margin: 0 auto;
+		padding: 2rem 1rem;
+	}
+
+	h1 {
+		font-size: 2.5rem;
+		margin-bottom: 0.5rem;
+		color: rgb(var(--accent-dark));
+	}
+
+	.subtitle {
+		font-size: 1.2rem;
+		color: rgb(var(--gray));
+		margin-bottom: 3rem;
+	}
+
+	.year-list {
+		display: grid;
+		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+		gap: 1.5rem;
+	}
+
+	.year-card {
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 8px;
+		overflow: hidden;
+		transition: transform 0.2s, box-shadow 0.2s;
+	}
+
+	.year-card:hover {
+		transform: translateY(-2px);
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+	}
+
+	.year-link {
+		display: block;
+		padding: 2rem;
+		text-decoration: none;
+		color: inherit;
+		text-align: center;
+	}
+
+	.year-link h2 {
+		font-size: 2rem;
+		margin: 0 0 0.5rem 0;
+		color: rgb(var(--accent));
+		font-weight: 700;
+	}
+
+	.year-link:hover h2 {
+		color: rgb(var(--accent-dark));
+	}
+
+	.post-count {
+		font-size: 1rem;
+		color: rgb(var(--gray));
+		margin: 0;
+	}
+
+	@media (max-width: 768px) {
+		h1 {
+			font-size: 2rem;
+		}
+
+		.subtitle {
+			font-size: 1rem;
+		}
+
+		.year-list {
+			grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+			gap: 1rem;
+		}
+
+		.year-link {
+			padding: 1.5rem;
+		}
+
+		.year-link h2 {
+			font-size: 1.5rem;
+		}
+
+		.post-count {
+			font-size: 0.875rem;
+		}
+	}
+</style>

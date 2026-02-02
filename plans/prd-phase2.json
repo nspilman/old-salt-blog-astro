@@ -53,7 +53,7 @@
         "Years sorted newest first",
         "Header.astro includes 'Archive' navigation link"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 16,

@@ -617,3 +617,56 @@ Tasks 19+ require GitHub Discussions to be enabled.
   - Add "Archive" link to Header navigation
   - Will provide chronological browsing of the 6,814 posts
 
+### Session 15 - 2026-02-01
+
+**Task Completed:** Task 15 - Create year archive pages
+
+**What was done:**
+- Created src/pages/archive/index.astro - Archive landing page that displays all years with post counts:
+  - Groups all 6,814 posts by year
+  - Displays years in descending order (newest first)
+  - Shows post count for each year
+  - Grid layout with year cards (responsive - 4 columns desktop, 2-3 on mobile)
+  - Each year card links to /archive/{year}/
+  - Styled consistently with site design using maritime blue theme
+- Created src/pages/archive/[year].astro - Dynamic year archive pages with pagination:
+  - Uses getStaticPaths() to generate routes for all years at build time
+  - Groups posts by year and sorts by date descending within each year
+  - Paginated at 15 posts per page (matching site standard)
+  - URL structure: /archive/{year}/ for page 1, /archive/{year}-page-{n}/ for subsequent pages
+  - Displays post previews with same format as main blog index (featured image, title, date, excerpt, categories)
+  - Shows pagination controls (Previous/Next) when multiple pages exist
+  - Includes "Back to all years" link at bottom
+  - Displays year as heading with post count subtitle
+  - Fully responsive design for mobile and desktop
+- Updated src/components/Header.astro to add Archive link:
+  - Added HeaderLink for /archive/ between Home and RSS
+  - Navigation now shows: Home | Archive | RSS
+  - Maintains consistent styling and responsive behavior
+- All acceptance criteria met:
+  - ✅ src/pages/archive/index.astro shows all years with post counts
+  - ✅ src/pages/archive/[year].astro shows posts for that year
+  - ✅ Year pages are paginated (15 posts/page)
+  - ✅ Years sorted newest first
+  - ✅ Header.astro includes 'Archive' navigation link
+- TypeScript type-checking passes (npm run type-check)
+- Tests pass (no tests defined yet)
+- Updated plans/prd-phase2.json to mark task 15 as passes: true
+
+**Technical details:**
+- Archive index uses Map<number, number> to efficiently count posts by year
+- Year pages use Map<number, typeof allPosts> to group posts by year
+- Pagination logic handles page 1 at /archive/{year}/ with subsequent pages at /archive/{year}-page-{n}/
+- Consistent styling using site's CSS variables (--accent, --accent-dark, --gray, etc.)
+- All components maintain the existing card-based design pattern
+- Responsive grid layout automatically adjusts columns based on screen width
+
+**Next recommended task:**
+- Task 16: Create improved pagination component (src/components/Pagination.astro)
+  - This is the logical next step to improve the pagination across all pages
+  - Need to create reusable Pagination component with page number selector
+  - Should show: First | ... | 3 | 4 | [5] | 6 | 7 | ... | Last pattern
+  - Apply to index.astro, page/[page].astro, and archive pages
+  - Will improve UX for navigating the large number of posts
+  - Alternatively, could skip to Task 17 (search) if pagination improvement is lower priority
+
