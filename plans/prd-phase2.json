@@ -67,7 +67,7 @@
         "Mobile-friendly (simplified on small screens)",
         "Applied to index.astro, page/[page].astro, archive pages"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 17,

@@ -1,0 +1,240 @@
+---
+interface Props {
+  currentPage: number;
+  totalPages: number;
+  baseUrl: string;
+}
+
+const { currentPage, totalPages, baseUrl } = Astro.props;
+
+// Generate page numbers to show - pattern: First | ... | 3 | 4 | [5] | 6 | 7 | ... | Last
+function getPageNumbers(current: number, total: number): (number | 'ellipsis')[] {
+  if (total <= 7) {
+    // Show all pages if 7 or fewer
+    return Array.from({ length: total }, (_, i) => i + 1);
+  }
+
+  const pages: (number | 'ellipsis')[] = [];
+
+  // Always show first page
+  pages.push(1);
+
+  // Calculate range around current page
+  const start = Math.max(2, current - 2);
+  const end = Math.min(total - 1, current + 2);
+
+  // Add ellipsis after first page if needed
+  if (start > 2) {
+    pages.push('ellipsis');
+  }
+
+  // Add pages around current
+  for (let i = start; i <= end; i++) {
+    pages.push(i);
+  }
+
+  // Add ellipsis before last page if needed
+  if (end < total - 1) {
+    pages.push('ellipsis');
+  }
+
+  // Always show last page
+  if (total > 1) {
+    pages.push(total);
+  }
+
+  return pages;
+}
+
+// Generate URL for a given page number
+function getPageUrl(pageNum: number): string {
+  if (pageNum === 1) {
+    return baseUrl;
+  }
+  // Handle different URL patterns
+  if (baseUrl === '/') {
+    return `/page/${pageNum}`;
+  } else if (baseUrl.startsWith('/archive/')) {
+    // For year archives: /archive/2020/ -> /archive/2020-page-2/
+    return `${baseUrl.replace(/\/$/, '')}-page-${pageNum}/`;
+  } else {
+    // Generic pattern: append page number
+    return `${baseUrl.replace(/\/$/, '')}/page/${pageNum}`;
+  }
+}
+
+const pageNumbers = getPageNumbers(currentPage, totalPages);
+---
+
+<nav class="pagination" aria-label="Pagination">
+  <div class="pagination-controls">
+    <!-- First/Previous buttons -->
+    {currentPage > 1 ? (
+      <a href={getPageUrl(1)} class="pagination-button" title="First page">First</a>
+      <a href={getPageUrl(currentPage - 1)} class="pagination-button" title="Previous page">← Previous</a>
+    ) : (
+      <span class="pagination-button disabled">First</span>
+      <span class="pagination-button disabled">← Previous</span>
+    )}
+
+    <!-- Page numbers -->
+    <div class="pagination-numbers">
+      {pageNumbers.map((pageNum) =>
+        pageNum === 'ellipsis' ? (
+          <span class="pagination-ellipsis">...</span>
+        ) : pageNum === currentPage ? (
+          <span class="pagination-number current" aria-current="page">{pageNum}</span>
+        ) : (
+          <a href={getPageUrl(pageNum)} class="pagination-number">{pageNum}</a>
+        )
+      )}
+    </div>
+
+    <!-- Next/Last buttons -->
+    {currentPage < totalPages ? (
+      <a href={getPageUrl(currentPage + 1)} class="pagination-button" title="Next page">Next →</a>
+      <a href={getPageUrl(totalPages)} class="pagination-button" title="Last page">Last</a>
+    ) : (
+      <span class="pagination-button disabled">Next →</span>
+      <span class="pagination-button disabled">Last</span>
+    )}
+  </div>
+
+  <!-- Page info - visible on mobile -->
+  <div class="pagination-info">
+    Page {currentPage} of {totalPages}
+  </div>
+</nav>
+
+<style>
+  .pagination {
+    margin: 3rem auto;
+    max-width: 900px;
+    padding: 0 1rem;
+  }
+
+  .pagination-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .pagination-button {
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--gray);
+    border-radius: 6px;
+    background: white;
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+  }
+
+  .pagination-button:hover:not(.disabled) {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+  }
+
+  .pagination-button.disabled {
+    color: var(--gray);
+    border-color: var(--gray-light);
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+
+  .pagination-numbers {
+    display: flex;
+    gap: 0.25rem;
+    align-items: center;
+  }
+
+  .pagination-number {
+    min-width: 2.5rem;
+    height: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--gray);
+    border-radius: 6px;
+    background: white;
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.2s ease;
+  }
+
+  .pagination-number:hover {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+  }
+
+  .pagination-number.current {
+    background: var(--accent);
+    color: white;
+    border-color: var(--accent);
+    font-weight: 700;
+  }
+
+  .pagination-ellipsis {
+    color: var(--gray);
+    padding: 0 0.5rem;
+    font-weight: 700;
+  }
+
+  .pagination-info {
+    text-align: center;
+    margin-top: 1rem;
+    color: var(--gray);
+    font-size: 0.9rem;
+    display: none;
+  }
+
+  /* Mobile responsive */
+  @media (max-width: 768px) {
+    .pagination-controls {
+      gap: 0.25rem;
+    }
+
+    .pagination-button {
+      padding: 0.4rem 0.7rem;
+      font-size: 0.85rem;
+    }
+
+    .pagination-number {
+      min-width: 2rem;
+      height: 2rem;
+      font-size: 0.85rem;
+    }
+
+    .pagination-numbers {
+      gap: 0.15rem;
+    }
+
+    /* Hide First/Last buttons on mobile, show only Prev/Next */
+    .pagination-button:first-child,
+    .pagination-button:last-child {
+      display: none;
+    }
+
+    .pagination-info {
+      display: block;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .pagination-ellipsis {
+      padding: 0 0.25rem;
+    }
+
+    .pagination-number {
+      min-width: 1.75rem;
+      height: 1.75rem;
+      font-size: 0.75rem;
+    }
+  }
+</style>

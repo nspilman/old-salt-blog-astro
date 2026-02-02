@@ -670,3 +670,73 @@ Tasks 19+ require GitHub Discussions to be enabled.
   - Will improve UX for navigating the large number of posts
   - Alternatively, could skip to Task 17 (search) if pagination improvement is lower priority
 
+### Session 16 - 2026-02-01
+
+**Task Completed:** Task 16 - Create improved pagination component
+
+**What was done:**
+- Created src/components/Pagination.astro - A reusable pagination component with advanced features:
+  - Accepts three props: currentPage, totalPages, baseUrl
+  - Implements smart page number display logic (First | ... | 3 | 4 | [5] | 6 | 7 | ... | Last pattern)
+  - Shows all pages if 7 or fewer total pages
+  - Shows ellipsis (...) when there are gaps in the page sequence
+  - Dynamically centers the current page with 2 pages on each side
+  - Handles different URL patterns:
+    - Homepage pagination: / for page 1, /page/2, /page/3, etc.
+    - Year archives: /archive/2020/ for page 1, /archive/2020-page-2/, etc.
+    - Generic pattern support for future use cases
+  - Visual styling:
+    - Current page highlighted with accent color background
+    - Hover effects on all clickable elements
+    - Disabled state for First/Previous when on page 1
+    - Disabled state for Next/Last when on last page
+    - Clean bordered button design matching site aesthetic
+  - Mobile-responsive design:
+    - Hides First/Last buttons on mobile (shows only Prev/Next)
+    - Shows "Page X of Y" info text on mobile
+    - Reduces button sizes and spacing on small screens
+    - Adjusts layout for narrow viewports
+- Updated src/pages/index.astro to use new Pagination component:
+  - Added Pagination import
+  - Replaced inline pagination nav with <Pagination> component
+  - Removed redundant pagination CSS styles
+  - Cleaner component structure
+- Updated src/pages/page/[page].astro to use new Pagination component:
+  - Added Pagination import
+  - Replaced inline pagination nav with <Pagination> component
+  - Removed redundant pagination CSS styles
+  - Consistent with homepage implementation
+- Updated src/pages/archive/[year].astro to use new Pagination component:
+  - Added Pagination import
+  - Replaced inline pagination nav with <Pagination> component (conditional render when totalPages > 1)
+  - Removed redundant pagination CSS styles
+  - Proper baseUrl handling for year archive URLs
+- All acceptance criteria met:
+  - ✅ src/components/Pagination.astro created with props: currentPage, totalPages, baseUrl
+  - ✅ Shows: First | ... | 3 | 4 | [5] | 6 | 7 | ... | Last pattern
+  - ✅ Current page highlighted
+  - ✅ Mobile-friendly (simplified on small screens)
+  - ✅ Applied to index.astro, page/[page].astro, archive pages
+- TypeScript type-checking passes (npm run type-check)
+- Tests pass (no tests defined yet)
+- Updated plans/prd-phase2.json to mark task 16 as passes: true
+
+**Technical highlights:**
+- Smart page number calculation algorithm that adapts to current page position
+- URL generation function that handles multiple pagination patterns
+- Accessible navigation with proper ARIA labels
+- Component is fully reusable across different page types
+- Consistent styling with existing site design (maritime blue theme)
+- Progressive enhancement - works without JavaScript
+
+**Next recommended task:**
+- Task 17: Integrate Pagefind search
+  - Add full-text search capability across all 6,814 posts
+  - Install @pagefind/default-ui package
+  - Update build script to generate search index
+  - Create Search component and add to header
+  - This is a high-value feature that will greatly improve content discoverability
+  - Alternatively, could skip to Task 18 (WP comment migration) if search is lower priority
+
+---
+
