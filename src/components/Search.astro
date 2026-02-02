@@ -1,0 +1,183 @@
+---
+// Search component using Pagefind
+// This component provides full-text search across all blog posts
+---
+
+<div id="search-container">
+  <button id="search-button" class="search-btn" aria-label="Open search">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="11" cy="11" r="8"></circle>
+      <path d="m21 21-4.35-4.35"></path>
+    </svg>
+    <span class="search-text">Search</span>
+  </button>
+</div>
+
+<div id="search-modal" class="search-modal" style="display: none;">
+  <div class="search-modal-content">
+    <div class="search-modal-header">
+      <h2>Search Posts</h2>
+      <button id="search-close" class="search-close" aria-label="Close search">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="18" y1="6" x2="6" y2="18"></line>
+          <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+    </div>
+    <div id="pagefind-search"></div>
+  </div>
+</div>
+
+<style>
+  .search-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    background: transparent;
+    border: 1px solid var(--accent);
+    border-radius: 0.375rem;
+    color: var(--accent);
+    cursor: pointer;
+    font-size: 0.9rem;
+    font-family: var(--font-family);
+    transition: all 0.2s ease;
+  }
+
+  .search-btn:hover {
+    background: var(--accent);
+    color: white;
+  }
+
+  .search-btn svg {
+    flex-shrink: 0;
+  }
+
+  @media (max-width: 640px) {
+    .search-text {
+      display: none;
+    }
+    .search-btn {
+      padding: 0.5rem;
+    }
+  }
+
+  .search-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 1000;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 2rem 1rem;
+    overflow-y: auto;
+  }
+
+  .search-modal-content {
+    background: white;
+    border-radius: 0.5rem;
+    width: 100%;
+    max-width: 900px;
+    max-height: 90vh;
+    overflow-y: auto;
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  }
+
+  .search-modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem;
+    border-bottom: 1px solid #e5e7eb;
+  }
+
+  .search-modal-header h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: var(--gray-dark);
+  }
+
+  .search-close {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0.25rem;
+    color: var(--gray);
+    transition: color 0.2s ease;
+  }
+
+  .search-close:hover {
+    color: var(--gray-dark);
+  }
+
+  #pagefind-search {
+    padding: 1.5rem;
+  }
+</style>
+
+<script is:inline>
+  // Load Pagefind UI when the page loads
+  async function initSearch() {
+    // Dynamically import Pagefind UI after build
+    const { PagefindUI } = await import("/pagefind/pagefind-ui.js");
+
+    new PagefindUI({
+      element: "#pagefind-search",
+      showSubResults: true,
+      showImages: true,
+      excerptLength: 30,
+      resetStyles: false,
+    });
+  }
+
+  // Initialize search modal functionality
+  const searchButton = document.getElementById('search-button');
+  const searchModal = document.getElementById('search-modal');
+  const searchClose = document.getElementById('search-close');
+
+  let searchInitialized = false;
+
+  searchButton?.addEventListener('click', async () => {
+    if (searchModal) {
+      searchModal.style.display = 'flex';
+
+      // Initialize Pagefind on first open
+      if (!searchInitialized) {
+        await initSearch();
+        searchInitialized = true;
+      }
+
+      // Focus on search input
+      setTimeout(() => {
+        const searchInput = document.querySelector('#pagefind-search input');
+        searchInput?.focus();
+      }, 100);
+    }
+  });
+
+  searchClose?.addEventListener('click', () => {
+    if (searchModal) {
+      searchModal.style.display = 'none';
+    }
+  });
+
+  // Close modal on backdrop click
+  searchModal?.addEventListener('click', (e) => {
+    if (e.target === searchModal) {
+      searchModal.style.display = 'none';
+    }
+  });
+
+  // Close modal on Escape key
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && searchModal && searchModal.style.display === 'flex') {
+      searchModal.style.display = 'none';
+    }
+  });
+</script>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">

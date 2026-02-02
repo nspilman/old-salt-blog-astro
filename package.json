@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "NODE_OPTIONS='--max-old-space-size=4096' astro dev",
-    "build": "NODE_OPTIONS='--max-old-space-size=4096' astro build",
+    "build": "NODE_OPTIONS='--max-old-space-size=4096' astro build && npx pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
     "migrate": "NODE_OPTIONS='--max-old-space-size=2048' npx tsx scripts/migrate/index.ts",
@@ -26,8 +26,10 @@
     "yaml": "^2.8.2"
   },
   "devDependencies": {
+    "@pagefind/default-ui": "^1.4.0",
     "@types/node": "^25.2.0",
     "@types/turndown": "^5.0.6",
+    "pagefind": "^1.4.0",
     "tsx": "^4.21.0"
   }
 }

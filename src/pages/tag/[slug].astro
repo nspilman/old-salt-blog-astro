@@ -14,17 +14,23 @@ export async function getStaticPaths() {
     post.data.tags?.forEach(tag => tags.add(tag));
   });
 
-  // Generate paths for each tag
-  return Array.from(tags).map(tag => {
-    const tagPosts = posts
-      .filter(post => post.data.tags?.includes(tag))
-      .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+  // Generate paths for each tag, filtering out invalid slugs
+  return Array.from(tags)
+    .filter(tag => {
+      const slug = tag.toLowerCase().replace(/\s+/g, '-');
+      // Filter out slugs that would be invalid (e.g., containing /)
+      return slug && !slug.includes('/');
+    })
+    .map(tag => {
+      const tagPosts = posts
+        .filter(post => post.data.tags?.includes(tag))
+        .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
 
-    return {
-      params: { slug: tag.toLowerCase().replace(/\s+/g, '-') },
-      props: { tag, posts: tagPosts }
-    };
-  });
+      return {
+        params: { slug: tag.toLowerCase().replace(/\s+/g, '-') },
+        props: { tag, posts: tagPosts }
+      };
+    });
 }
 
 const { tag, posts } = Astro.props;

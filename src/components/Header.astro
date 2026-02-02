@@ -1,6 +1,7 @@
 ---
 import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
+import Search from './Search.astro';
 ---
 
 <header>
@@ -10,6 +11,7 @@ import HeaderLink from './HeaderLink.astro';
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/archive/">Archive</HeaderLink>
 			<HeaderLink href="/rss.xml">RSS</HeaderLink>
+			<Search />
 		</div>
 	</nav>
 </header>

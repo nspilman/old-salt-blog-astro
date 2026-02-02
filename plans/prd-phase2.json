@@ -83,7 +83,7 @@
         "pagefind.yml excludes nav, footer, pagination from index",
         "Search works after running npm run build && npm run preview"
       ],
-      "passes": false
+      "passes": true
     },
     {
       "id": 18,
