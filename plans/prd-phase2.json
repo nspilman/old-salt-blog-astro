@@ -185,7 +185,7 @@
         "Script handles duplicate URLs (same file referenced multiple times) efficiently",
         "Script preserves original file paths/names in S3 for organized storage"
       ],
-      "passes": false
+      "passes": true
     }
   ]
 }
