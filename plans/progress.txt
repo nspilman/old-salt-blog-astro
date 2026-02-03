@@ -1127,3 +1127,141 @@ The blog is fully functional and ready for deployment! 🚢
 
 ---
 
+## Phase 2 Continued: Build-Time Sync
+
+### Task 22 Added - 2026-02-03
+
+**New Task:** Create build-time backfill script for new posts
+
+**Description:**
+A new task has been added to ensure the Astro site stays in sync with new content published on the main WordPress site (oldsaltblog.com). The backfill script will:
+
+1. Run automatically during every build
+2. Compare local blog post slugs against the WordPress REST API
+3. Identify and fetch any new posts that don't exist locally
+4. Convert and write new posts to src/content/blog/
+5. Fetch and store comments for new posts in src/data/comments/
+
+**Acceptance Criteria:**
+- scripts/migrate/backfill.ts created to check for and fetch new WordPress posts
+- Script compares local slugs against WordPress API to identify missing posts
+- New posts are converted and written using existing converter/writer modules
+- Script fetches comments for new posts
+- npm script 'backfill' added for standalone execution
+- package.json build script updated to run backfill before astro build
+- Script logs which new posts were added (or 'No new posts found' if none)
+- Graceful error handling and rate limiting
+- Build completes successfully with backfill integrated
+
+**Status:** Pending implementation
+
+---
+
+### Task 23 Added - 2026-02-03
+
+**New Task:** Migrate WordPress media to S3
+
+**Description:**
+A script to migrate all images and videos currently hosted on WordPress (oldsaltblog.com/wp-content/uploads/) to an S3 bucket. This decouples the Astro site from the WordPress media server.
+
+**Workflow:**
+1. Scan all markdown files for WordPress media URLs
+2. Download each unique media file to a temp directory
+3. Upload to configured S3 bucket with proper content-type
+4. Update all references in markdown to use S3 URLs
+5. Delete local temp files after successful upload
+
+**Configuration (via environment variables):**
+- AWS_S3_BUCKET - Target S3 bucket name
+- AWS_ACCESS_KEY_ID - AWS credentials
+- AWS_SECRET_ACCESS_KEY - AWS credentials
+- AWS_REGION - AWS region
+
+**Acceptance Criteria:**
+- scripts/migrate/media-to-s3.ts created
+- Scans src/content/blog/ for WordPress media URLs
+- Downloads, uploads to S3, updates references, deletes local files
+- Handles duplicate URLs efficiently (upload once, update all references)
+- Preserves original file paths in S3 for organized storage
+- npm script 'migrate:media-s3' added
+- .env.example updated with S3 variables
+- Logs progress and errors
+
+**Status:** Pending implementation
+
+---
+
+### Session 22 - 2026-02-03
+
+**Task Completed:** Task 22 - Create build-time backfill script for new posts
+
+**What was done:**
+- Created scripts/migrate/backfill.ts with complete backfill functionality:
+  - Scans src/content/blog/ directory to get all existing local post slugs
+  - Fetches all posts from WordPress REST API using existing fetchPosts() function
+  - Compares local slugs against WordPress posts to identify new/missing posts
+  - If no new posts found, logs success message and exits cleanly
+  - If new posts found, displays list of new posts with dates
+  - Fetches minimal lookups (categories, tags, users) needed for conversion
+  - Converts and writes each new post using existing writePost() function from writer.ts
+  - Fetches and stores comments for each new post in src/data/comments/{slug}.json
+  - Handles errors gracefully - failed posts don't crash the script
+  - Comprehensive progress logging with colored output using chalk
+  - Statistics tracking: success count, error count, duration
+- Added npm script 'backfill' to package.json:
+  - Command: `NODE_OPTIONS='--max-old-space-size=2048' npx tsx scripts/migrate/backfill.ts`
+  - Can be run standalone with: npm run backfill
+- Updated build scripts in package.json to run backfill automatically:
+  - build script: `npm run backfill && NODE_OPTIONS='--max-old-space-size=4096' tinacms build && astro build && npx pagefind --site dist`
+  - build:local script: `npm run backfill && NODE_OPTIONS='--max-old-space-size=4096' astro build && npx pagefind --site dist`
+  - Backfill now runs before every build to ensure site stays in sync with WordPress
+- Script features:
+  - Loads configuration from environment variables (WP_BASE_URL, OUTPUT_DIR, DELAY, POSTS_PER_PAGE)
+  - Rate limiting with configurable delay between requests (default 100ms)
+  - Fetches comments for new posts with pagination support
+  - Stores comments in same JSON format as migrate:comments script
+  - CLI entry point for standalone execution
+  - Error handling for missing directories, API failures, and conversion errors
+- All acceptance criteria met:
+  - ✅ scripts/migrate/backfill.ts created with full logic
+  - ✅ Script compares local slugs against WordPress API
+  - ✅ New posts converted and written using existing converter/writer
+  - ✅ Comments fetched and stored for new posts
+  - ✅ npm script 'backfill' added
+  - ✅ Build scripts updated to run backfill first
+  - ✅ Logs new posts added or 'No new posts found' message
+  - ✅ Rate limiting and error handling implemented
+  - ✅ TypeScript type-checking passes (npm run type-check)
+  - ✅ Tests pass (no tests defined yet)
+- Updated plans/prd-phase2.json to mark task 22 as passes: true
+
+**Technical highlights:**
+- Reuses existing migration infrastructure (api.ts, writer.ts, converter.ts, types.ts)
+- Uses Set<string> for efficient slug comparison (O(1) lookups)
+- Fetches minimal metadata (categories, tags, users) instead of full migration data
+- Only fetches first page of tags (100 tags) for efficiency
+- Comment fetching logic copied from scripts/migrate/comments.ts for consistency
+- Async/await pattern with proper error handling throughout
+- Colored console output for better readability (blue for info, green for success, yellow for warnings, red for errors)
+- CLI entry point checks `import.meta.url` to determine if running standalone
+- Configuration loaded from environment variables with sensible defaults
+
+**Script workflow:**
+1. Step 1: Scan local blog directory to get existing post slugs
+2. Step 2: Fetch all posts from WordPress REST API
+3. Step 3: Compare and identify new posts (posts on WP not in local directory)
+4. Step 4: Fetch metadata (categories, tags, users, media) for conversion
+5. Step 5: Convert and write each new post + fetch comments
+6. Summary: Display statistics and duration
+
+**Next recommended task:**
+- Task 23: Migrate WordPress media to S3 (scripts/migrate/media-to-s3.ts)
+  - This is the final task in Phase 2!
+  - Create script to scan markdown files for WordPress media URLs
+  - Download media files, upload to S3, update references
+  - More complex task involving AWS S3 integration
+  - Will decouple Astro site from WordPress media server
+  - Alternatively, could consider Phase 2 complete if S3 migration is not needed
+
+---
+

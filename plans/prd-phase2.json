@@ -147,6 +147,45 @@
         "All styling consistent with existing design"
       ],
       "passes": true
+    },
+    {
+      "id": 22,
+      "area": "sync",
+      "title": "Create build-time backfill script for new posts",
+      "description": "Create a backfill script that runs automatically during every build to fetch any new posts from the main WordPress site (oldsaltblog.com) that don't exist locally. This ensures the Astro site stays in sync with new content published on WordPress.",
+      "acceptance": [
+        "scripts/migrate/backfill.ts created to check for and fetch new WordPress posts",
+        "Script compares local slugs against WordPress API to identify missing posts",
+        "New posts are converted and written to src/content/blog/ using existing converter/writer",
+        "Script fetches comments for new posts and stores in src/data/comments/",
+        "npm script 'backfill' added to run the script standalone",
+        "package.json build script updated to run backfill before astro build",
+        "Script logs which new posts were added (or 'No new posts found' if none)",
+        "Script handles rate limiting and errors gracefully",
+        "Build completes successfully with backfill integrated"
+      ],
+      "passes": true
+    },
+    {
+      "id": 23,
+      "area": "media",
+      "title": "Migrate WordPress media to S3",
+      "description": "Create a script to migrate all images and videos hosted on WordPress to an S3 bucket. For each media file: download locally, upload to S3, update references in markdown content to point to S3 URL, then delete the local file.",
+      "acceptance": [
+        "scripts/migrate/media-to-s3.ts created to handle media migration",
+        "Script scans all markdown files in src/content/blog/ for WordPress media URLs (oldsaltblog.com/wp-content/uploads/)",
+        "Script downloads each unique media file (images, videos) to a temp directory",
+        "Script uploads files to configured S3 bucket with appropriate content-type headers",
+        "Script updates all references in markdown files to use S3 URLs",
+        "Script deletes local temp files after successful S3 upload",
+        "S3 bucket name and credentials configurable via environment variables (AWS_S3_BUCKET, AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY, AWS_REGION)",
+        ".env.example updated with S3 configuration variables",
+        "npm script 'migrate:media-s3' added to run the migration",
+        "Script logs progress: files found, uploaded, and any errors",
+        "Script handles duplicate URLs (same file referenced multiple times) efficiently",
+        "Script preserves original file paths/names in S3 for organized storage"
+      ],
+      "passes": false
     }
   ]
 }
